@@ -51,6 +51,39 @@ var ARTICLES = [
   "imageV": "mwde4rb9"
  },
  {
+  "slug": "obligasi-bbia-rp650-miliar-jatuh-tempo-lunas-13-november",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi BBIA Rp650 Miliar Jatuh Tempo, [Lunas] 13 November",
+  "deck": "Obligasi subordinasi Bank UOB Indonesia senilai Rp650 miliar jatuh tempo dan delisting dari BEI 13 November 2026; bank konfirmasi dana pelunasan sudah siap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T16:59:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b50ee15ac_422b6d686b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBIA",
+  "tags": [
+   "BBIA",
+   "obligasi subordinasi",
+   "jatuh tempo",
+   "Bank UOB Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Subordinasi Berkelanjutan II Bank UOB Indonesia Tahap II Tahun 2019, dengan kode seri BBIA02SBCN2 dan nilai Rp650 miliar, resmi dihapus dari pencatatan dan tidak lagi diperdagangkan di BEI mulai 13 November 2026. Obligasi ini diterbitkan pertama kali pada 13 November 2019 dengan prospektus bertanggal 8 November 2019, sehingga tenor obligasi tepat tujuh tahun hingga jatuh tempo pada tanggal yang sama bulan ini.",
+   "Dalam surat bertanggal 21 Oktober 2026 kepada Divisi Penilaian Surat Utang BEI, PT Bank UOB Indonesia menyatakan telah menyediakan dana sekitar Rp665,03 miliar (angka ini berasal dari dokumen hasil pindaian sehingga perlu dibaca dengan hati-hati) untuk membayar bunga sekaligus melunasi pokok obligasi tersebut. Pembayaran akan dilakukan melalui agen pembayaran PT Kustodian Sentral Efek Indonesia (KSEI) sesuai jadwal jatuh tempo 13 November 2026. Surat ini ditandatangani oleh Stanly Gunawan selaku Central Treasury Unit and Financial Strategy Head dan Erawati Esther selaku Pejabat Sementara Sekretaris Perusahaan, dengan tembusan kepada jajaran Direksi KSEI dan wali amanat obligasi, PT Bank Mandiri Tbk."
+  ],
+  "fotoAdegan": "Glass-fronted bank office tower in Jakarta's financial district, pedestrians passing the entrance in late afternoon light.",
+  "takeaway": "Laporan ini netral bagi Bank UOB Indonesia karena jatuh tempo obligasi ini sudah terjadwal sejak penerbitannya tujuh tahun lalu, dan bank sudah mengonfirmasi dana pelunasan tersedia sehingga tidak ada sinyal risiko gagal bayar. Yang tersentuh adalah arus kas bank, karena harus mengeluarkan dana sekitar Rp665 miliar sekaligus untuk bunga dan pokok, serta posisi modal pelengkapnya, sebab obligasi subordinasi biasanya ikut dihitung sebagai bagian modal bank dalam rasio kecukupan modal, sehingga setelah lunas porsi modal dari instrumen ini otomatis hilang dari pembukuan. Di sisi lain, pelunasan ini juga menghentikan beban bunga rutin yang selama ini dibayarkan atas obligasi tersebut. Yang perlu dipantau selanjutnya adalah realisasi pembayaran pada 13 November 2026 melalui KSEI sesuai yang dijanjikan dalam surat konfirmasi dana tertanggal 21 Oktober 2026.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Jatuh Tempo Obligasi / Sukuk Korporasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Jatuh tempo dan pelunasan pokok serta bunga obligasi, delisting dari BEI"
+   }
+  ]
+ },
+ {
   "slug": "pemantauan-khusus-ptdu-tambah-kriteria-pkpu-pailit-efektif-13-nov",
   "category": "Aksi Korporasi",
   "title": "Pemantauan Khusus PTDU Tambah Kriteria [PKPU/Pailit], Efektif 13 Nov",
@@ -5241,8 +5274,8 @@ var ARTICLES = [
  {
   "slug": "oppm-terbitkan-obligasi-rp1-15-triliun-di-bawah-target-rp3-33-t",
   "category": "Aksi Korporasi",
-  "title": "OPPM Terbitkan Obligasi [Rp1,15 Triliun], Di Bawah Target Rp3,33 T",
-  "deck": "Obligasi rupiah dan dolar OPPM tahap terbaru rampung diterbitkan dengan nilai jauh lebih kecil dari rencana awal, sementara bunga tetap dipatok 10 hingga 10,5 persen.",
+  "title": "Obligasi OPPM Rp1,15 Triliun [Tercatat] di BEI Mulai 13 November",
+  "deck": "Obligasi rupiah dan dolar OPPM yang rampung diterbitkan dengan nilai jauh di bawah target resmi dicatatkan di Bursa Efek Indonesia mulai 13 November 2026, membawa peringkat idA+ dari Pefindo.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T20:20:57",
@@ -5252,17 +5285,50 @@ var ARTICLES = [
   "tags": [
    "OPPM",
    "obligasi korporasi",
-   "pasar modal",
-   "OKI Pulp Paper Mills"
+   "pencatatan BEI",
+   "peringkat kredit"
   ],
   "body": [
-   "PT OKI Pulp & Paper Mills (OPPM) mengumumkan bahwa proses penawaran umum berkelanjutan Obligasi Berkelanjutan II Tahap VI Tahun 2026 dan Obligasi USD Berkelanjutan II Tahap V Tahun 2026 telah selesai pada 9 November 2026. Dari rencana awal menawarkan hingga Rp3,33 triliun, perusahaan akhirnya hanya menerbitkan obligasi rupiah senilai Rp1,1475 triliun, terbagi dalam dua seri. Untuk obligasi dolar, dari rencana hingga US$25 juta, yang benar benar terserap hanya US$3.203.500.",
-   "Obligasi rupiah Seri A senilai Rp1,02182 triliun membawa bunga tetap 10 persen per tahun dengan tenor tiga tahun, sementara Seri B senilai Rp125,73 miliar membawa bunga 10,5 persen per tahun dengan tenor lima tahun. Kedua seri memakai skema pembayaran pokok sekali penuh di akhir masa (bullet payment), dengan bunga dibayarkan setiap tiga bulan. Pembayaran bunga pertama dijadwalkan 12 Februari 2027, sedangkan pelunasan pokok sekaligus jatuh tempo masing masing pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B.",
-   "Untuk obligasi dolar, Seri A senilai US$2,12 juta membawa bunga 6,75 persen per tahun bertenor tiga tahun, dan Seri B senilai US$1.083.500 membawa bunga 7,25 persen per tahun bertenor lima tahun, dengan jadwal bunga dan jatuh tempo yang sama seperti obligasi rupiah. Penjaminan emisi obligasi rupiah dipimpin oleh BCA Sekuritas yang mengambil porsi terbesar 26,77 persen, disusul Aldiracita Sekuritas 15,87 persen, sementara sisanya dibagi ke tujuh penjamin emisi lain. PT Bank KB Indonesia Tbk bertindak sebagai wali amanat untuk kedua obligasi, dan dokumen ditandatangani oleh Direktur OPPM, Arman Dwiartono."
+   "Obligasi Berkelanjutan II OKI Pulp & Paper Mills (OPPM) Tahap VI Tahun 2026 dan Obligasi USD Berkelanjutan II Tahap V Tahun 2026, yang baru rampung diterbitkan pekan lalu dengan nilai jauh di bawah target awal, resmi dicatatkan di Bursa Efek Indonesia (BEI) mulai 13 November 2026. Menurut pengumuman BEI bernomor Peng-P-01106/BEI.PP3/11-2026, kedua obligasi membawa peringkat idA+ (single A plus) dari Pefindo dan irAA- (double A minus) dari lembaga pemeringkat lain.",
+   "Dari rencana awal menawarkan hingga Rp3,33 triliun, OPPM akhirnya hanya menerbitkan obligasi rupiah senilai Rp1,1475 triliun dan obligasi dolar senilai US$3.203.500, jauh di bawah target hingga US$25 juta. Obligasi rupiah Seri A senilai Rp1,02182 triliun berbunga 10 persen per tahun bertenor tiga tahun, sementara Seri B senilai Rp125,73 miliar berbunga 10,5 persen per tahun bertenor lima tahun. Obligasi dolar Seri A senilai US$2,12 juta berbunga 6,75 persen bertenor tiga tahun, dan Seri B senilai US$1.083.500 berbunga 7,25 persen bertenor lima tahun. Bunga dibayarkan setiap tiga bulan, dengan pembayaran pertama pada 12 Februari 2027, dan pelunasan pokok sekaligus jatuh tempo pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B.",
+   "Kedua obligasi tidak dijamin dengan aset atau jaminan khusus apa pun. Sebagai gantinya, seluruh kekayaan OPPM, baik yang sudah ada maupun yang akan ada, menjadi jaminan umum bagi semua kreditor yang tidak punya jaminan khusus, termasuk pemegang obligasi ini, secara setara (pari passu) sesuai Pasal 1131 dan 1132 Kitab Undang Undang Hukum Perdata. PT Bank KB Indonesia Tbk bertindak sebagai wali amanat. OPPM juga berhak membeli kembali sebagian atau seluruh obligasi mulai satu tahun setelah tanggal penjatahan, sebelum tanggal pelunasan pokok, opsi yang bisa dipakai perusahaan untuk mengurangi utang lebih cepat dari jadwal.",
+   "Penjaminan emisi obligasi rupiah dibagi ke sepuluh penjamin emisi, dengan porsi terbesar dipegang BCA Sekuritas 26,77 persen dan Aldiracita Sekuritas Indonesia 15,87 persen, disusul Trimegah Sekuritas Indonesia 10,12 persen, KB Valbury Sekuritas 9,25 persen, Maybank Sekuritas Indonesia 8,02 persen, Indo Premier Sekuritas 7,73 persen, BNI Sekuritas 7,46 persen, Sucor Sekuritas 6,64 persen, Mandiri Sekuritas 5,27 persen, dan Mega Capital Sekuritas 2,88 persen. Untuk obligasi dolar, porsi terbesar dipegang Aldiracita Sekuritas Indonesia 41,83 persen, KB Valbury Sekuritas 23,51 persen, BCA Sekuritas 21,91 persen, Trimegah Sekuritas Indonesia 7,01 persen, Indo Premier Sekuritas 4,81 persen, Maybank Sekuritas Indonesia 0,62 persen, dan Mandiri Sekuritas 0,31 persen."
   ],
   "fotoAdegan": "Workers monitoring large rolls of brown kraft paper stacked inside an industrial pulp mill warehouse, cranes overhead, dim morning light",
-  "takeaway": "Laporan ini kami nilai negatif bagi OPPM karena obligasi yang akhirnya terserap jauh lebih kecil dari rencana: hanya sekitar 34 persen dari target rupiah dan 13 persen dari target dolar, yang mengindikasikan minat investor terhadap surat utang ini lebih rendah dari perkiraan awal perusahaan. Yang tersentuh adalah beban bunga dan arus kas pendanaan: dengan bunga tetap 10 hingga 10,5 persen untuk obligasi rupiah dan 6,75 hingga 7,25 persen untuk obligasi dolar, OPPM akan menanggung kewajiban bunga setiap tiga bulan sampai obligasi lunas, sementara dana yang masuk dari penerbitan ini tercatat sebagai arus kas dari aktivitas pendanaan yang menambah utang perusahaan meski dalam jumlah lebih kecil dari target semula. Yang perlu dipantau selanjutnya adalah pembayaran bunga pertama pada 12 Februari 2027, serta jatuh tempo pelunasan pokok pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B, baik untuk obligasi rupiah maupun dolar.",
-  "sentimen": "negatif"
+  "takeaway": "Dokumen pencatatan ini kami nilai netral bagi OPPM, karena isinya administratif: konfirmasi pencatatan di bursa dan peringkat kredit atas obligasi yang sudah diterbitkan, bukan informasi baru yang mengubah gambaran keuangan perusahaan. Yang tersentuh adalah posisi kreditor dan beban bunga: karena obligasi ini tidak dijamin aset khusus dan berstatus pari passu, kedudukannya setara dengan utang tak terjamin lain milik OPPM saat terjadi gagal bayar, sementara peringkat idA+ dari Pefindo menunjukkan kemampuan bayar OPPM masih dinilai di atas rata rata meski jumlah yang terserap jauh di bawah target. Opsi pembelian kembali (buyback) yang baru bisa dipakai mulai satu tahun setelah penjatahan juga penting dipantau karena, jika dipakai, bisa memangkas utang OPPM lebih cepat dan mengurangi beban bunga ke depan. Yang perlu dipantau berikutnya adalah mulai diperdagangkannya obligasi ini di BEI pada 13 November 2026 dan pembayaran bunga pertama pada 12 Februari 2027, sebelum jatuh tempo pokok pada 12 November 2029 untuk Seri A dan 12 November 2031 untuk Seri B.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T16:57:03",
+    "ringkas": "Obligasi OPPM yang telah diterbitkan resmi dicatatkan di BEI mulai 13 November 2026 dengan peringkat idA+ dari Pefindo dan opsi buyback setahun kemudian.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5b01ad2412_003cced96c.pdf",
+    "judulIdx": "Pengumuman Bursa Pencatatan Awal Obligasi dan Sukuk"
+   }
+  ],
+  "diperbarui": "2026-11-12T16:57:03",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Tanggal emisi obligasi"
+   },
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Pencatatan obligasi di Bursa Efek Indonesia"
+   },
+   {
+    "tanggal": "2027-02-12",
+    "acara": "Pembayaran bunga pertama obligasi"
+   },
+   {
+    "tanggal": "2029-11-12",
+    "acara": "Jatuh tempo obligasi Seri A"
+   },
+   {
+    "tanggal": "2031-11-12",
+    "acara": "Jatuh tempo obligasi Seri B"
+   }
+  ],
+  "peristiwa": "obligasi"
  },
  {
   "slug": "wika-jadwalkan-rupsu-sukuk-buntut-gagal-bayar-kupon",

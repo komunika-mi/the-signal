@@ -33,6 +33,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478030-ingin-punya-rumah-dengan-harga-lebih-kompetitif-cek-penawaran-mandiri-lelang-2026"
  },
  {
+  "slug": "obligasi-bbia-rp650-miliar-jatuh-tempo-lunas-13-november",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi BBIA Rp650 Miliar Jatuh Tempo, [Lunas] 13 November",
+  "deck": "Obligasi subordinasi Bank UOB Indonesia senilai Rp650 miliar jatuh tempo dan delisting dari BEI 13 November 2026; bank konfirmasi dana pelunasan sudah siap.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBIA",
+   "obligasi subordinasi",
+   "jatuh tempo",
+   "Bank UOB Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b50ee15ac_422b6d686b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemantauan-khusus-ptdu-tambah-kriteria-pkpu-pailit-efektif-13-nov",
   "category": "Aksi Korporasi",
   "title": "Pemantauan Khusus PTDU Tambah Kriteria [PKPU/Pailit], Efektif 13 Nov",
@@ -3091,15 +3107,15 @@ var ARTICLES = [
  {
   "slug": "oppm-terbitkan-obligasi-rp1-15-triliun-di-bawah-target-rp3-33-t",
   "category": "Aksi Korporasi",
-  "title": "OPPM Terbitkan Obligasi [Rp1,15 Triliun], Di Bawah Target Rp3,33 T",
-  "deck": "Obligasi rupiah dan dolar OPPM tahap terbaru rampung diterbitkan dengan nilai jauh lebih kecil dari rencana awal, sementara bunga tetap dipatok 10 hingga 10,5 persen.",
+  "title": "Obligasi OPPM Rp1,15 Triliun [Tercatat] di BEI Mulai 13 November",
+  "deck": "Obligasi rupiah dan dolar OPPM yang rampung diterbitkan dengan nilai jauh di bawah target resmi dicatatkan di Bursa Efek Indonesia mulai 13 November 2026, membawa peringkat idA+ dari Pefindo.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "OPPM",
    "obligasi korporasi",
-   "pasar modal",
-   "OKI Pulp Paper Mills"
+   "pencatatan BEI",
+   "peringkat kredit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f07fbf832b_934e281453.pdf",
   "sourceLabel": "IDX"
@@ -6452,22 +6468,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3e0f5adbc_f402220840.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "cx-week-2026-soroti-customer-experience-bagi-umkm",
-  "category": "UMKM",
-  "title": "CX Week 2026 Soroti [Customer Experience] bagi UMKM",
-  "deck": "The Bridge Academy menggelar konferensi CX Week 2026 di Jakarta Selatan dan meluncurkan buku baru untuk mendorong pelaku UMKM hingga korporat memperbaiki layanan pelanggan.",
-  "date": "5 November 2026",
-  "image": "assets/img/cx-week-2026-soroti-customer-experience-bagi-umkm.jpg",
-  "imageV": "mw3rzwpo",
-  "tags": [
-   "UMKM",
-   "customer experience",
-   "pelayanan pelanggan",
-   "bisnis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476858-mengupas-tuntas-pentingnya-interaksi-pelanggan-bagi-pelaku-usaha-umkm-hingga-korporat"
  }
 ];

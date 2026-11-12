@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mmix-pt-pukul-rata-kanan-tambah-11-4-juta-saham-jadi-4-57",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: PT Pukul Rata Kanan [Tambah] 11,4 Juta Saham, Jadi 4,57%",
+  "deck": "PT Pukul Rata Kanan menambah 11,4 juta saham MMIX pada 12 November 2026, kepemilikannya naik dari 4,34% menjadi 4,57%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "PT Pukul Rata Kanan",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/acba39552f_547417999c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
   "category": "Industri",
   "title": "Menperin Dorong [Kedaulatan] Industri Telekomunikasi Nasional",
@@ -100,6 +116,22 @@ var ARTICLES = [
    "Satu Visi Putra"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cd55282834_e50e16ad2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indx-gaji-karyawan-tunggak-3-bulan-rupst-2025-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "INDX: Gaji Karyawan Tunggak 3 Bulan, [RUPST] 2025 Tertunda",
+  "deck": "Tanah Laut (INDX) menjawab permintaan penjelasan Bursa: gaji karyawan tertunda tiga bulan sejak Agustus 2026, LKT 2025 dan RUPST juga belum bisa dilaksanakan akibat keterbatasan likuiditas.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDX",
+   "Tanah Laut Tbk",
+   "likuiditas",
+   "RUPST"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa9bc10ec7_df46cc73ef.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -321,6 +353,22 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/395ec45f36_103d7b1173.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cass-free-float-17-35-penuhi-syarat-minimum-bursa",
+  "category": "Aksi Korporasi",
+  "title": "CASS: Free Float 17,35% [Penuhi] Syarat Minimum Bursa",
+  "deck": "Struktur pemegang saham CASS per 11 November 2026 menunjukkan free float 362,05 juta saham atau 17,35%, memenuhi batas minimum yang disyaratkan Bursa.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASS",
+   "pemegang saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a7c2b0b626_fa2469fbcd.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6421,54 +6469,6 @@ var ARTICLES = [
    "Headwell Bintang Energi Hijau"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f95f1659e_5db40b0f2c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-350-000-lembar-saham",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 350.000 Lembar Saham",
-  "deck": "Komisaris AKPI Henry Liem melepas 350.000 saham pada 5 November 2026, mengurangi kepemilikannya dari 3,22 juta menjadi 2,87 juta lembar dan hak suara dari 0,526% menjadi 0,469%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Argha Karya Prima",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-3961-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pthk-siapkan-rp1-triliun-untuk-pelunasan-obligasi-2016",
-  "category": "Aksi Korporasi",
-  "title": "PTHK Siapkan Rp1 Triliun untuk [Pelunasan] Obligasi 2016",
-  "deck": "Hutama Karya (PTHK) menyatakan telah menyediakan dana Rp1 triliun di rekening bank untuk membayar pokok Obligasi Berkelanjutan I Tahap I 2016 yang jatuh tempo 21 Desember 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTHK",
-   "Hutama Karya",
-   "obligasi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8c7f01090_ebd6b96871.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppln-lepas-direktur-distribusi-ke-kursi-dirjen-esdm",
-  "category": "Aksi Korporasi",
-  "title": "PPLN Lepas Direktur Distribusi ke Kursi [Dirjen] ESDM",
-  "deck": "Direktur Distribusi PLN Arsyadany G. Akmalaputri diangkat jadi Dirjen Ketenagalistrikan ESDM, posisinya untuk sementara dirangkap Direktur Niaga M. Fahrur Rozy sambil menunggu RUPS.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPLN",
-   "Direksi PLN",
-   "Dirjen ESDM",
-   "Pergantian Direktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61cd8fc5f0_7b3604b9a7.pdf",
   "sourceLabel": "IDX"
  }
 ];

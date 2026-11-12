@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mmix-pt-pukul-rata-kanan-tambah-11-4-juta-saham-jadi-4-57",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: PT Pukul Rata Kanan [Tambah] 11,4 Juta Saham, Jadi 4,57%",
+  "deck": "PT Pukul Rata Kanan menambah 11,4 juta saham MMIX pada 12 November 2026, kepemilikannya naik dari 4,34% menjadi 4,57%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T00:00:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/acba39552f_547417999c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "PT Pukul Rata Kanan",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) melaporkan kepada OJK dan BEI bahwa pemegang sahamnya, PT Pukul Rata Kanan, menambah kepemilikan saham di perseroan sebanyak 11.400.000 lembar atau setara 0,24% dari total saham beredar, melalui transaksi tertanggal 12 November 2026. Sebelum transaksi ini, PT Pukul Rata Kanan memegang 208.149.999 lembar saham MMIX, setara 4,34% dari seluruh saham perseroan yang beredar.",
+   "Dengan tambahan tersebut, total kepemilikan PT Pukul Rata Kanan di MMIX naik menjadi 219.549.999 lembar saham, setara 4,57% dari total saham beredar perseroan. Laporan ini ditandatangani oleh Direktur Keuangan MMIX, Eveline N. Susanto, dan disampaikan sebagai pemenuhan ketentuan POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan atau Setiap Perubahan Kepemilikan Saham Perusahaan Terbuka, serta POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi.",
+   "Perseroan menyatakan transaksi ini tidak menimbulkan dampak merugikan atau gangguan terhadap kegiatan operasional harian MMIX, dan seluruh proses telah mengikuti ketentuan perundang-undangan serta regulasi pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Warehouse aisle stocked with boxed medical and laboratory equipment, worker checking inventory with a handheld scanner, bright fluorescent light",
+  "takeaway": "Kenaikan kepemilikan ini tergolong netral bagi MMIX, sebab porsi yang ditambah hanya 0,24% dari total saham beredar dan tidak mengubah status PT Pukul Rata Kanan yang masih berada di bawah ambang 5% sebagai pemegang saham non-pengendali. Yang tersentuh di sini hanyalah struktur kepemilikan dan hak suara, bukan pos kinerja keuangan seperti ekuitas, arus kas, atau laba per saham, karena transaksi ini terjadi antar pemegang saham di pasar sekunder dan tidak menambah jumlah saham beredar perseroan. Yang perlu dipantau berikutnya adalah apakah PT Pukul Rata Kanan akan terus menambah porsinya mendekati atau melewati ambang 5%, karena itu akan mewajibkan pelaporan keterbukaan yang lebih rinci sesuai POJK Nomor 4 Tahun 2024.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Laporan Keterbukaan Informasi Terkait Perubahan Struktur Kepemilikan Saham dan Transaksi Pembelian Saham"
+ },
+ {
   "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
   "category": "Industri",
   "title": "Menperin Dorong [Kedaulatan] Industri Telekomunikasi Nasional",
@@ -175,6 +203,34 @@ var ARTICLES = [
   "takeaway": "Laporan ini netral bagi VISI: perusahaan resmi mengendalikan HMBC dengan kepemilikan 72,91 persen, tapi tanpa nilai rupiah transaksi yang diungkap, publik belum bisa menilai apakah akuisisi ini murah, mahal, atau membebani kas perusahaan. Yang tersentuh adalah pos kas dan ekuitas VISI, karena uang yang dipakai untuk membayar penjual saham dan menyetor modal baru ke HMBC keluar dari kas perusahaan dan berubah menjadi aset investasi atau penyertaan saham, bukan uang tunai lagi. Pelaku pasar biasanya mencermati pos ini karena menunjukkan seberapa besar sumber daya perusahaan yang terpakai untuk ekspansi dan seberapa kuat posisi kas yang tersisa. Yang perlu dipantau berikutnya adalah laporan keuangan VISI mendatang, untuk melihat apakah HMBC mulai dikonsolidasikan ke dalam laporan keuangan perseroan dan berapa sebenarnya nilai investasi yang tercatat, mengingat dokumen ini sendiri tidak menyebutkan angka transaksinya.",
   "sentimen": "netral",
   "judulIdx": "Laporan Informasi atau Fakta Material"
+ },
+ {
+  "slug": "indx-gaji-karyawan-tunggak-3-bulan-rupst-2025-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "INDX: Gaji Karyawan Tunggak 3 Bulan, [RUPST] 2025 Tertunda",
+  "deck": "Tanah Laut (INDX) menjawab permintaan penjelasan Bursa: gaji karyawan tertunda tiga bulan sejak Agustus 2026, LKT 2025 dan RUPST juga belum bisa dilaksanakan akibat keterbatasan likuiditas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T20:56:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa9bc10ec7_df46cc73ef.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDX",
+  "tags": [
+   "INDX",
+   "Tanah Laut Tbk",
+   "likuiditas",
+   "RUPST"
+  ],
+  "body": [
+   "Tanah Laut Tbk (INDX) menyampaikan tanggapan resmi atas surat permintaan penjelasan Bursa Efek Indonesia bernomor S-13993 tertanggal 10 November 2026. Surat tanggapan ditandatangani Presiden Direktur Harun Bin Halim Rasip dan Corporate Secretary Dera Fresky. Perusahaan, yang usahanya kini sepenuhnya bertumpu pada penyewaan ruang kantor Gedung Grha HRH, mengungkapkan bahwa gaji 8 karyawannya tertunda selama tiga bulan sejak Agustus 2026, meski perusahaan menegaskan tidak melakukan pemutusan hubungan kerja. Kas dan setara kas yang hanya Rp21 juta per 30 September 2025 disebut tidak cukup untuk membiayai operasional, sehingga perusahaan mengandalkan pinjaman dari pemegang saham. Tingkat okupansi gedung juga terus menyusut, dari 29,82 persen pada 2024 dan 29,09 persen pada 2025 menjadi 21,82 persen dengan hanya 2 penyewa per 31 Oktober 2026, seiring pendapatan yang turun dari Rp312,12 juta menjadi Rp191,77 juta karena salah satu tenant tidak memperpanjang kontrak.",
+   "Soal Laporan Keuangan Tahunan (LKT) 2025 yang belum disampaikan ke Bursa, perusahaan menyatakan isi laporannya sendiri tidak ada masalah, namun penyelesaiannya tertahan karena keterbatasan likuiditas untuk membayar proses penyusunannya. Rapat Umum Pemegang Saham Tahunan (RUPST) 2025 juga belum terlaksana karena bergantung pada LKT tersebut sebagai dasar penyelenggaraan, dan perusahaan hanya menyebut akan menjadwalkan ulang 'sesegera mungkin' tanpa memberi tanggal pasti.",
+   "Di sisi aset dan utang, piutang usaha perusahaan kepada pihak berelasi PT Pelayaran Indx Lines telah dicadangkan seluruhnya hingga nilainya tersisa Rp1, karena perusahaan belum mengetahui rencana pembayaran dari pihak tersebut, meski hubungan kepemilikan dan transaksi dengan pihak itu masih berlanjut. Investasi pada PT Nurbaya Arta Pratama juga telah dihapusbukukan penuh sejak 2018 karena dinilai tidak dapat dipulihkan. Utang lain-lain jangka panjang naik menjadi Rp11,91 miliar akibat tambahan pinjaman dari Asia Infra Partners Pte Ltd yang jatuh tempo 2028, dipakai untuk biaya tambahan pengurusan Sertifikat Laik Fungsi, Sertifikat K3, dan Sertifikat Laik Operasi gedung. Gedung Grha HRH sendiri diasuransikan senilai Rp45 miliar, untuk risiko kebakaran oleh Asuransi Central Asia dan risiko gempa bumi oleh Asuransi MAG.",
+   "Perusahaan juga mengungkapkan bahwa anak usahanya menghadapi perkara hukum Penundaan Kewajiban Pembayaran Utang (PKPU) yang telah berkekuatan hukum tetap, dengan penyelesaian kewajiban pajak masih berjalan. Total kewajiban yang harus dibayar hingga akhir 2026 tercatat Rp1,296 miliar, termasuk upah karyawan Rp931 juta, iuran BPJS, dan sejumlah vendor seperti jasa keamanan dan perawatan elevator. Sebagai strategi memperbaiki likuiditas, perusahaan berencana menjual atau menyewakan jangka panjang Gedung Grha HRH, sekaligus berencana ekspansi ke bisnis pengolahan kelapa. Perusahaan juga menyatakan berencana melakukan aksi korporasi dalam satu tahun ke depan, tanpa merinci bentuknya."
+  ],
+  "fotoAdegan": "A near-empty high-rise office building floor with unused desks and chairs, large windows showing a hazy Jakarta skyline",
+  "takeaway": "Laporan ini condong negatif bagi Tanah Laut karena mengonfirmasi tekanan likuiditas yang makin dalam: gaji karyawan sampai tertunda tiga bulan, laporan keuangan dan rapat pemegang saham tahunan tertahan, sementara pendapatan sewa dan okupansi gedung terus menyusut. Yang tersentuh di sini adalah arus kas dan likuiditas, yaitu kemampuan perusahaan membayar kebutuhan sehari-hari dari uang yang benar-benar dimiliki, bukan dari pinjaman. Arus kas operasional memang masih negatif Rp4,92 miliar meski mengecil dari periode sebelumnya, tapi perusahaan tetap bergantung pada utang pemegang saham dan pihak ketiga untuk menutup operasional, bukan dari pendapatan sewa gedung yang justru menurun, dan ini yang membuat pelaku pasar waspada karena menunjukkan bisnis inti belum menghasilkan kas sendiri. Yang perlu dipantau berikutnya adalah apakah perusahaan benar bisa membayar kewajiban yang jatuh tempo 2 Desember 2026 (perpanjangan Sertifikat Laik Fungsi gedung) dan 31 Desember 2026 (upah karyawan, BPJS, dan vendor lain senilai total sekitar Rp1,22 miliar), serta kapan LKT 2025 dan RUPST 2025 akhirnya terlaksana karena keduanya masih tertahan tanpa tanggal pasti.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
  },
  {
   "slug": "ihsg-meroket-2-66-persen-usai-gibran-mundur",
@@ -611,6 +667,34 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "transaksi",
   "judulIdx": "Keterbukaan Informasi yang Perlu Diketahui Publik Sehubungan dengan Transaksi Afiliasi"
+ },
+ {
+  "slug": "cass-free-float-17-35-penuhi-syarat-minimum-bursa",
+  "category": "Aksi Korporasi",
+  "title": "CASS: Free Float 17,35% [Penuhi] Syarat Minimum Bursa",
+  "deck": "Struktur pemegang saham CASS per 11 November 2026 menunjukkan free float 362,05 juta saham atau 17,35%, memenuhi batas minimum yang disyaratkan Bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T15:59:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a7c2b0b626_fa2469fbcd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASS",
+  "tags": [
+   "CASS",
+   "pemegang saham",
+   "free float",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Cahaya Aero Services Tbk (CASS) melaporkan perubahan struktur kepemilikan saham ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia berdasarkan data per 11 November 2026 yang bersumber dari AKSes KSEI dan Daftar Pemegang Saham Perseroan. Berdasarkan Surat Keterangan No. DE/XI/26-3642 tanggal 12 November 2026 dari PT Datindo Entrycom selaku biro administrasi efek perusahaan, komposisi pemegang saham dengan kepemilikan di atas 5 persen adalah PT Roket Cipta Sentosa dengan 1.273.041.500 saham atau 61,00 persen, dan SATS Ltd s/a SATS Investments (II) Pte. Ltd. dengan 451.830.800 saham atau 21,65 persen. Sisanya, saham milik publik dengan kepemilikan masing-masing di bawah 5 persen, tercatat 362.077.700 saham atau 17,35 persen.",
+   "Dari total modal ditempatkan dan disetor penuh sebanyak 2.086.950.000 saham senilai Rp208,695 miliar, jumlah saham free float atau saham yang beredar bebas di luar pemegang saham utama tercatat 362.053.700 saham, setara 17,35 persen dari total saham Perseroan. Modal dasar Perseroan sendiri mencapai 7,5 miliar saham, dengan 5.413.050.000 saham masih berstatus saham dalam portepel yang belum diterbitkan.",
+   "Dengan angka free float tersebut, Perseroan menyatakan telah memenuhi ketentuan minimum jumlah saham free float sebagaimana diatur dalam Peraturan Bursa Nomor I-A tentang Pencatatan Saham, sebagaimana diubah melalui Keputusan Direksi BEI No. Kep-00045/BEI/03-2026 tanggal 31 Maret 2026. Manajemen CASS menegaskan tidak terdapat dampak material dari perubahan struktur kepemilikan ini terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
+  ],
+  "fotoAdegan": "Ground handling crew pushing luggage carts across an airport tarmac beside a parked jet, early morning light",
+  "takeaway": "Laporan ini netral bagi CASS karena isinya sekadar konfirmasi rutin bahwa porsi saham yang beredar bebas di publik masih berada di atas ambang minimum yang disyaratkan Bursa, bukan transaksi atau aksi korporasi baru yang mengubah fundamental perusahaan. Pos yang tersentuh di sini adalah free float, yaitu porsi saham yang bisa diperjualbelikan bebas oleh investor publik di luar pemegang saham pengendali dan pemegang strategis; angka ini dipantau pasar karena menentukan likuiditas perdagangan saham dan menjadi syarat agar saham tidak dikenai sanksi pencatatan oleh Bursa. Dokumen ini tidak menyebut rencana RUPS, tenggat, atau tanggal efektif baru, sehingga hal konkret yang perlu dipantau selanjutnya adalah apakah ada pergeseran pada dua pemegang saham utama, PT Roket Cipta Sentosa dan SATS Investments, yang bersama-sama masih mengendalikan 82,65 persen saham CASS.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Laporan Keterbukaan Informasi terkait Perubahan Struktur Kepemilikan Saham PT Cahaya Aero Services Tbk"
  },
  {
   "slug": "rupo-obligasi-iii-bold-10-desember-agenda-menyusul-26-november",
@@ -35736,8 +35820,8 @@ var ARTICLES = [
  {
   "slug": "adhi-rupslb-bahas-divestasi-saham-jasamarga-jogja-solo",
   "category": "Aksi Korporasi",
-  "title": "ADHI RUPSLB bahas [divestasi] saham Jasamarga Jogja Solo",
-  "deck": "Adhi Karya mengundang pemegang saham ke RUPSLB 13 November 2026 untuk menyetujui rencana divestasi saham di Jasamarga Jogja Solo dan perubahan penggunaan dana rights issue II.",
+  "title": "RUPSLB ADHI Diundur ke 4 Desember: [Divestasi] JMJ Tetap Diagendakan",
+  "deck": "RUPSLB Adhi Karya diundur dari 13 November menjadi Jumat, 4 Desember 2026, dengan agenda tetap: divestasi saham di Jasamarga Jogja Solo dan perubahan penggunaan dana rights issue II.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "22 Oktober 2026",
   "isoDate": "2026-10-22T22:30:49",
@@ -35747,18 +35831,42 @@ var ARTICLES = [
   "tags": [
    "ADHI",
    "RUPSLB",
-   "divestasi",
+   "Jasamarga Jogja Solo",
    "rights issue"
   ],
   "body": [
-   "PT Adhi Karya (Persero) Tbk mengundang para pemegang sahamnya menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026 pukul 14.00 WIB di ADHI Tower Lantai 16, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur. Rapat bisa diikuti secara fisik maupun elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Rabu, 21 Oktober 2026.",
-   "Agenda pertama meminta restu pemegang saham untuk melepas kepemilikan ADHI di PT Jasamarga Jogja Solo (JMJ), entitas afiliasi yang mengelola ruas jalan tol Jogja-Solo. Perseroan menyebut nilai transaksi ini melebihi 50 persen dari total kekayaan bersih berdasarkan laporan keuangan audit terakhir, sehingga menurut Peraturan OJK Nomor 17/2020 tentang Transaksi Material dan Pasal 12 ayat 7 Anggaran Dasar Perseroan, langkah ini wajib mendapat persetujuan RUPS. Keputusan baru sah jika disetujui pemegang saham yang mewakili lebih dari tiga perempat dari seluruh saham berhak suara yang hadir dalam rapat.",
-   "Agenda kedua meminta persetujuan mengubah rencana penggunaan dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II), yaitu rights issue kedua Perseroan. Nilai perubahan tersebut disebut di atas 10 persen dari total dana hasil penawaran umum dan berbeda dari rencana semula yang tercantum dalam prospektus. Berdasarkan Peraturan OJK Nomor 40/2025 Pasal 16 ayat 1 huruf a, perubahan ini juga wajib disetujui RUPS, tapi ambang persetujuannya lebih rendah, yakni lebih dari separuh saham berhak suara yang hadir. Dokumen pemanggilan tidak merinci besaran dana yang dialihkan maupun tujuan penggunaan barunya.",
-   "Bagi pemegang saham yang tidak bisa hadir, kuasa dapat diberikan lewat eASY.KSEI atau surat kuasa fisik yang disampaikan ke biro administrasi efek, PT Datindo Entrycom di Jalan Hayam Wuruk Nomor 28 Jakarta, paling lambat Kamis, 12 November 2026 pukul 12.00 WIB. Bahan rapat tersedia di situs web ADHI sejak tanggal pemanggilan ini hingga hari pelaksanaan RUPSLB."
+   "PT Adhi Karya (Persero) Tbk mengubah jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula ditetapkan Jumat, 13 November 2026, menjadi Jumat, 4 Desember 2026, pukul 14.00 WIB, di lokasi yang sama, ADHI Tower Lantai 16, Jalan MT Haryono Kavling 27, Cawang, Jakarta Timur. Pemanggilan ulang ini diumumkan 12 November 2026 dan juga mengubah tanggal pencatatan pemegang saham yang berhak hadir, dari semula 21 Oktober 2026 menjadi Rabu, 11 November 2026 pukul 16.00 WIB.",
+   "Dua agenda rapat tidak berubah. Pertama, persetujuan rencana divestasi kepemilikan ADHI di PT Jasamarga Jogja Solo (JMJ), pengelola ruas tol Jogja-Solo. Dokumen pemanggilan ulang ini menambahkan rincian baru: transaksi ini sebenarnya dikecualikan dari kewajiban persetujuan RUPS menurut aturan transaksi material OJK karena termasuk restrukturisasi perusahaan negara, tetapi tetap wajib disetujui RUPS karena diwajibkan oleh Pasal 12 ayat 11 Anggaran Dasar ADHI sendiri. Keputusan ini butuh suara setuju lebih dari tiga perempat pemegang saham berhak suara yang hadir.",
+   "Agenda kedua tetap meminta persetujuan mengubah rencana penggunaan dana hasil rights issue kedua (PMHMETD II), dengan nilai perubahan di atas 10 persen dari total dana hasil penawaran umum dan berbeda dari rencana semula di prospektus, sesuai POJK 40/2025. Ambang persetujuannya lebih dari separuh saham berhak suara yang hadir. Dokumen ini masih belum merinci besaran dana yang dialihkan maupun tujuan penggunaan barunya.",
+   "Batas waktu pemegang saham memberi kuasa, baik lewat sistem elektronik eASY.KSEI maupun surat kuasa fisik ke biro administrasi efek PT Datindo Entrycom di Jalan Hayam Wuruk Nomor 28 Jakarta, ikut bergeser dari semula Kamis, 12 November 2026 pukul 12.00 WIB menjadi Kamis, 3 Desember 2026 pukul 12.00 WIB. Bahan rapat tetap tersedia di situs web ADHI sejak tanggal pemanggilan ulang ini sampai hari pelaksanaan RUPSLB."
   ],
   "fotoAdegan": "Elevated toll road stretching through green countryside with light vehicle traffic, soft morning haze over central Java.",
-  "takeaway": "Laporan ini netral karena yang diumumkan baru undangan rapat, bukan keputusan atau angka transaksinya, sehingga untung-ruginya belum bisa dipastikan sekarang. Yang tersentuh adalah ekuitas dan arus kas: melepas saham JMJ berarti aset penyertaan modal ADHI di laporan keuangan berkurang, tapi kalau dananya dipakai menutup utang, arus kas dan beban bunga Perseroan bisa ikut terbantu. Perubahan arah dana rights issue PMHMETD II juga layak dicermati karena artinya rencana yang dijanjikan ke investor lewat prospektus tidak berjalan seperti semula. Yang perlu dipantau adalah hasil RUPSLB pada Jumat, 13 November 2026, terutama berapa harga jual saham JMJ, siapa pembelinya, dan ke mana dana rights issue dialihkan, karena itulah yang menentukan apakah langkah ini benar menguntungkan Perseroan. Pemegang saham yang ingin memberi kuasa harus memperhatikan tenggat Kamis, 12 November 2026 pukul 12.00 WIB.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini netral karena mundurnya RUPSLB sebulan lebih tidak mengubah substansi dua agenda yang akan dimintakan persetujuan, hanya memperpanjang waktu tunggu pemegang saham untuk tahu nilai dan dampaknya. Pos yang tersentuh tetap sama seperti sebelumnya: ekuitas ADHI akan berkurang begitu saham di Jasamarga Jogja Solo benar dijual karena aset penyertaan modal itu hilang dari buku perseroan, sementara arus kas dan beban bunga bisa ikut terbantu kalau hasil penjualan dipakai melunasi utang. Dokumen baru juga mengoreksi dasar hukumnya: divestasi JMJ ternyata dikecualikan dari kewajiban persetujuan RUPS menurut aturan transaksi material OJK karena ini transaksi restrukturisasi perusahaan negara, tapi tetap wajib disetujui RUPS karena diwajibkan anggaran dasar ADHI sendiri, bukan oleh OJK. Yang perlu dipantau adalah pelaksanaan RUPSLB baru pada Jumat, 4 Desember 2026, serta tenggat pemberian kuasa pada Kamis, 3 Desember 2026 pukul 12.00 WIB, karena hasil pemungutan suara dua agenda itu yang akan menentukan harga jual saham JMJ dan arah baru dana rights issue.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T23:50:50",
+    "ringkas": "RUPSLB ADHI diundur dari 13 November ke 4 Desember 2026, dengan tanggal pencatatan pemegang saham baru 11 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9c448051b5_d34a6ddebe.pdf",
+    "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-12T23:50:50",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-11",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPSLB (recording date)"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Batas akhir pemberian kuasa lewat eASY.KSEI atau ke BAE Datindo Entrycom"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Pelaksanaan RUPSLB baru di ADHI Tower, Jakarta"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bei-tetapkan-ulang-film-sebagai-saham-terkonsentrasi-tinggi",

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemantauan-khusus-ptdu-tambah-kriteria-pkpu-pailit-efektif-13-nov",
+  "category": "Aksi Korporasi",
+  "title": "Pemantauan Khusus PTDU Tambah Kriteria [PKPU/Pailit], Efektif 13 Nov",
+  "deck": "Bursa menambahkan kriteria PKPU/pailit ke status pemantauan khusus PTDU per 13 November 2026, menyusul kriteria ekuitas negatif yang sudah berlaku sebelumnya.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTDU",
+   "pemantauan khusus",
+   "PKPU",
+   "watchlist"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b6323e92d_f933929f7a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "transaksi-afiliasi-atap-pinjaman-rp8-miliar-dari-pt-tp-bunga-6",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi ATAP: [Pinjaman] Rp8 Miliar dari PT TP, Bunga 6%",
+  "deck": "ATAP meminjam Rp8 miliar dari PT Trimitra Prawara, perusahaan afiliasi, dengan bunga 6 persen per tahun dan tenor lima tahun.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATAP",
+   "transaksi afiliasi",
+   "pinjaman",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/395ec45f36_103d7b1173.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-obligasi-iii-bold-10-desember-agenda-menyusul-26-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPO Obligasi III BOLD 10 Desember: [Agenda] Menyusul 26 November",
+  "deck": "Wali Amanat CIMB Niaga menjadwalkan RUPO Obligasi III BUMA Tahun 2025 pada 10 Desember 2026 di Jakarta; agenda resmi baru terbit lewat panggilan 26 November.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "RUPO",
+   "obligasi",
+   "BUMA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cfe3c47473_6c65933234.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtla-q3-2026-pendapatan-naik-4-16-laba-bersih-turun-ke-rp183-m",
+  "category": "Aksi Korporasi",
+  "title": "MTLA Q3 2026: Pendapatan Naik 4,16%, [Laba Bersih Turun] ke Rp183 M",
+  "deck": "Pendapatan usaha MTLA tumbuh 4,16% jadi Rp1,178 triliun hingga September 2026, tapi laba bersih turun ke Rp183 miliar karena pergeseran komposisi margin penjualan.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTLA",
+   "Metropolitan Land",
+   "Public Expose",
+   "Properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c19b505f44_3b8d4a6bc0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "truk-jawab-bursa-rugi-turun-jadi-rp3-59-miliar-per-9m-2026",
+  "category": "Aksi Korporasi",
+  "title": "TRUK Jawab Bursa: [Rugi] Turun Jadi Rp3,59 Miliar per 9M-2026",
+  "deck": "Pendapatan TRUK naik tipis ke Rp31,74 miliar dan rugi bersih menyempit ke Rp3,59 miliar per September 2026; dua fasilitas kredit rekening koran diperpanjang ke 2028.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUK",
+   "Guna Timur Raya",
+   "Kredit Bank",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9681dbe0d_836ef1c4bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-rock-dijadwalkan-21-desember-dps-cut-off-26-november",
   "category": "Aksi Korporasi",
   "title": "RUPSLB ROCK Dijadwalkan 21 Desember: [DPS] Cut Off 26 November",
@@ -136,6 +216,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "atic-komisaris-independen-meninggal-rups-pengganti-60-hari",
+  "category": "Aksi Korporasi",
+  "title": "ATIC: Komisaris Independen Meninggal, RUPS [Pengganti] 60 Hari",
+  "deck": "Komisaris Independen ATIC, Prasetio, meninggal dunia 11 November 2026. Perusahaan wajib gelar RUPS pengganti dalam 60 hari kalender.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATIC",
+   "Komisaris Independen",
+   "Tata Kelola",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87a8c0fcf9_08ec430d61.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupo-obligasi-ptpp-11-november-restrukturisasi-ditolak",
   "category": "Aksi Korporasi",
   "title": "RUPO Obligasi PTPP 11 November: [Restrukturisasi] Ditolak",
@@ -197,6 +293,22 @@ var ARTICLES = [
    "Gagal Bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87588d8eed_8840c8e4af.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupsi-bold-10-desember-agenda-menyusul-26-november",
+  "category": "Aksi Korporasi",
+  "title": "[RUPSI] BOLD 10 Desember: Agenda Menyusul 26 November",
+  "deck": "RUPSI pemegang Sukuk Ijarah I BUMA (BOLD) digelar 10 Desember 2026 atas permintaan Emiten; agenda baru terbit saat panggilan 26 November, menyusul dua RUPO obligasi serupa pekan ini.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "BUMA",
+   "Sukuk Ijarah",
+   "RUPSI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6c107fefb4_dac69e06d8.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -766,7 +878,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
   "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
   "date": "11 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "PPh 21 DTP",
    "ritel",
@@ -1809,7 +1921,7 @@ var ARTICLES = [
   "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
   "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
   "date": "10 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "BKPM",
    "Desk Investasi",
@@ -2357,7 +2469,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -4080,7 +4192,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -4462,15 +4574,15 @@ var ARTICLES = [
  {
   "slug": "hkmu-bukukan-ekuitas-negatif-rp38-7-miliar-dalam-laporan-interim",
   "category": "Aksi Korporasi",
-  "title": "HKMU Bukukan [Ekuitas Negatif] Rp38,7 Miliar dalam Laporan Interim",
-  "deck": "Laporan keuangan interim per Juni 2023 yang baru disampaikan HKMU pada November 2026 menunjukkan ekuitas negatif Rp38,7 miliar dan penjualan yang anjlok 87 persen.",
+  "title": "HKMU Laporan Tahunan 2023: [Ekuitas Negatif] Bertahan Rp38,6 Miliar",
+  "deck": "Laporan keuangan tahunan 2023 yang baru disampaikan HKMU pada November 2026 menunjukkan ekuitas negatif Rp38,6 miliar, hampir tak berubah dari Rp38,7 miliar pada laporan interim Juni 2023.",
   "date": "8 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "HKMU",
    "ekuitas negatif",
-   "laporan keuangan",
-   "aluminium"
+   "laporan keuangan tahunan",
+   "watchlist"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261108141335-65735-0/FinancialStatement-2023-II-HKMU.pdf",
   "sourceLabel": "IDX"
@@ -5328,7 +5440,7 @@ var ARTICLES = [
   "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
   "deck": "Pemerintah mencatat investasi dua tahun terakhir tembus Rp3.923,2 triliun dan menyerap 5,49 juta pekerja, di tengah pergeseran pola kerja akibat transformasi ekonomi.",
   "date": "6 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "transformasi ekonomi",
    "investasi",
@@ -5810,7 +5922,7 @@ var ARTICLES = [
   "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
   "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
   "date": "6 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "bps",
    "ketenagakerjaan",
@@ -5853,7 +5965,7 @@ var ARTICLES = [
   "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
   "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
   "date": "6 November 2026",
-  "image": "assets/img/timbangan-pasar.jpg",
+  "image": "assets/img/pedagang-bawang.jpg",
   "tags": [
    "properti residensial",
    "harga rumah",
@@ -6361,118 +6473,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1ef77d120_7e37c66e82.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "wifi-raih-rating-ida-untuk-obligasi-rp1-25-triliun",
-  "category": "Aksi Korporasi",
-  "title": "WIFI Raih Rating [idA] untuk Obligasi Rp1,25 Triliun",
-  "deck": "PEFINDO menetapkan rating idA (Single A) untuk tiga seri Obligasi Berkelanjutan I WIFI senilai total Rp1,25 triliun, berlaku 3 November 2026 hingga 1 November 2027.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIFI",
-   "obligasi",
-   "PEFINDO",
-   "rating"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/758dbca71a_6201875009.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pgjo-dirikan-anak-usaha-energi-lestari-cemerlang",
-  "category": "Aksi Korporasi",
-  "title": "PGJO Dirikan [Anak Usaha] Energi Lestari Cemerlang",
-  "deck": "PT Bahtera Bumi Raya Tbk mendirikan anak usaha baru, PT Energi Lestari Cemerlang, untuk masuk ke bisnis pengisian daya kendaraan listrik dan sewa alat berat senilai Rp500 juta.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGJO",
-   "anak usaha",
-   "transaksi afiliasi",
-   "kendaraan listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/771cc5e2c5_b48ee557b7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekonomi-ri-triwulan-iii-tumbuh-5-47-persen",
-  "category": "Makroekonomi",
-  "title": "Ekonomi RI Triwulan III [Tumbuh] 5,47 Persen",
-  "deck": "Pertumbuhan ekonomi Indonesia triwulan III 2026 naik menjadi 5,47 persen, ditopang belanja pemerintah dan investasi yang menguat.",
-  "date": "5 November 2026",
-  "image": "assets/img/keranjang-belanja-ibu.jpg",
-  "tags": [
-   "pertumbuhan ekonomi",
-   "Bank Indonesia",
-   "PDB",
-   "triwulan III 2026"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824126.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "wika-anak-usaha-wikon-digugat-pkpu-oleh-kreditur",
-  "category": "Aksi Korporasi",
-  "title": "WIKA: Anak Usaha WIKON Digugat [PKPU] oleh Kreditur",
-  "deck": "WIKA melaporkan ke OJK bahwa anak usahanya, WIKON, menjadi pihak tergugat dalam permohonan PKPU yang diajukan PT Gajah Mas Tehnik di Pengadilan Niaga Jakarta Pusat.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "PKPU",
-   "WIKON",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d01f62a36_5d2cfa3b45.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-hadirkan-ruang-pintar-untuk-52-anak-desa-sade",
-  "category": "BUMN",
-  "title": "PNM Hadirkan [Ruang Pintar] untuk 52 Anak Desa Sade",
-  "deck": "PNM membuka fasilitas belajar Ruang Pintar bagi 52 anak di Desa Sade, Lombok Tengah, sebagai bagian dari program tanggung jawab sosial sekaligus pemulihan pascakebakaran yang melanda desa itu.",
-  "date": "5 November 2026",
-  "image": "assets/img/pnm-hadirkan-ruang-pintar-untuk-52-anak-desa-sade.jpg",
-  "imageV": "mw3knfn1",
-  "tags": [
-   "PNM",
-   "Desa Sade",
-   "Lombok Tengah",
-   "TJSL"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476831-dari-kearifan-lokal-desa-sade-pnm-hadirkan-ruang-pintar-untuk-menumbuhkan-mimpi-dan-masa-depan-anak"
- },
- {
-  "slug": "ekonomi-ri-tumbuh-5-47-persen-pada-triwulan-iii-2026",
-  "category": "Makroekonomi",
-  "title": "Ekonomi RI Tumbuh [5,47] Persen pada Triwulan III 2026",
-  "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada triwulan III 2026, naik dari 5,29 persen pada triwulan sebelumnya, didorong lonjakan belanja pemerintah dan konsumsi rumah tangga.",
-  "date": "5 November 2026",
-  "image": "assets/img/bongkar-muat-truk.jpg",
-  "tags": [
-   "Pertumbuhan Ekonomi",
-   "PDB Triwulan III",
-   "Investasi",
-   "Stimulus Akhir Tahun"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7201/ekonomi-indonesia-triwulan-iii-2026-tumbuh-547-fundamental-kuat-jaga-momentum-pertumbuhan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "minyak-nilam-resmi-masuk-daftar-komoditas-srg",
-  "category": "Bisnis",
-  "title": "Minyak Nilam Resmi Masuk Daftar Komoditas [SRG]",
-  "deck": "Kementerian Perdagangan menjadikan minyak nilam komoditas ke-31 yang bisa disimpan dalam Sistem Resi Gudang, membuka jalur pembiayaan baru bagi petani dan penyuling.",
-  "date": "5 November 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
-  "tags": [
-   "Sistem Resi Gudang",
-   "Minyak Nilam",
-   "Bappebti",
-   "Kementerian Perdagangan"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-perdagangan-komoditas-unggulan-indonesia-kemendag-menetapkan-minyak-nilam-menjadi-komoditas-srg",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "NICE Tanggapi Bursa [Permintaan Penjelasan]: Kredit Citibank Rp100 M",
+  "deck": "Menjawab permintaan penjelasan BEI, NICE memastikan saldo fasilitas kredit Rp100 miliar dari Citibank sudah nihil per akhir Oktober 2026, dengan bunga mengambang turun jadi INDONIA+1,25%.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICE",
+   "Adhi Kartiko Pratama",
+   "Citibank",
+   "fasilitas kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0120177083_d3eefcce21.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemenko-perekonomian-temui-bei-dan-ojk-soal-reformasi-pasar-modal",
   "category": "Pasar Modal",
   "title": "Kemenko Perekonomian Temui BEI dan OJK soal [Reformasi] Pasar Modal",
@@ -35,6 +51,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824726.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CFIN 18 November: [Laba] 9M26 Naik 13,3% ke Rp154 M",
+  "deck": "CFIN gelar Public Expose Tahunan pada 18 November 2026 pukul 10.00 WIB, memaparkan laba bersih 9 bulan 2026 naik 13,26% menjadi Rp154 miliar meski piutang menyusut 9,21%.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CFIN",
+   "Public Expose",
+   "Clipan Finance",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a4e1bebfa_12de5f60e5.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kaii-obligasi-rp1-1-triliun-siap-dilunasi-13-desember",
+  "category": "Aksi Korporasi",
+  "title": "KAII: Obligasi Rp1,1 Triliun [Siap] Dilunasi 13 Desember",
+  "deck": "KAI menyatakan dana pelunasan pokok Obligasi II Seri B senilai Rp1,1 triliun yang jatuh tempo 13 Desember 2026 telah tersedia.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KAII",
+   "obligasi",
+   "Kereta Api Indonesia",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/45d1412109_c2ffd0fea8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-ketr-12-november-direktur-utama-diganti-ke-vidcy-octory",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KETR 12 November: [Direktur Utama] Diganti ke Vidcy Octory",
+  "deck": "RUPSLB KETR pada 12 November 2026 mengganti direktur utama dan komisaris utama, serta menambah dua direktur baru.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "Perubahan Direksi",
+   "RUPSLB",
+   "Ketrosden Triasmitra"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d349b5ba2_a60e9a032b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-ketr-12-november-presdir-diganti-direksi-tambah-2",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KETR 12 November: [Presdir] Diganti, Direksi Tambah 2",
+  "deck": "RUPSLB KETR menetapkan Videy Octory sebagai Direktur Utama baru dan menambah dua direktur, sementara Komisaris Utama beralih ke Marlo Budiman.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KETR",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d0843fb1c3_0c7726095e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-msti-rp48-per-saham-cair-10-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim MSTI Rp48 per Saham: [Cair] 10 Desember 2026",
+  "deck": "MSTI membagikan dividen interim tunai Rp150,69 miliar atau Rp48 per saham, dibayarkan 10 Desember 2026.",
+  "date": "12 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSTI",
+   "dividen interim",
+   "Mastersystem Infotama",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d094ae280_b8edfcbf82.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kadi-selidiki-ulang-impor-baja-hrc-dari-belarus-dan-kazakstan",
@@ -6371,102 +6467,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9686603b8_140f2309ea.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "dana-perkebunan-sawit-meluas-ke-petani-kakao-dan-kelapa",
-  "category": "Industri",
-  "title": "Dana Perkebunan Sawit Meluas ke Petani [Kakao] dan Kelapa",
-  "deck": "Pemerintah memperluas mandat dana sawit ke petani kakao dan kelapa, mewajibkan pelaporan ekspor lewat sistem digital sejak Juni 2026, dan mendorong biodiesel B50 sejak Juli 2026.",
-  "date": "5 November 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [
-   "sawit",
-   "kakao",
-   "kelapa",
-   "BPDP"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7202/perkuat-tata-kelola-perkebunan-pemerintah-dorong-pendanaan-transparansi-dan-keberlanjutan-untuk-kesejahteraan-petani",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "menn-penjualan-ambruk-91-saham-tetap-disuspensi",
-  "category": "Aksi Korporasi",
-  "title": "MENN: Penjualan Ambruk 91%, Saham Tetap [Disuspensi]",
-  "deck": "Materi public expose MENN mengungkap penjualan 2025 ambruk ke Rp704 juta dari Rp8,05 miliar dan rugi Rp17,15 miliar, sementara sahamnya masih disuspensi BEI sejak 29 Oktober 2025.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "suspensi saham",
-   "laporan keuangan",
-   "perubahan pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/231a76cc1e_373ac7748e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-rinci-pinjaman-sii-rp5-triliun-bunga-7-5-setahun",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Rinci Pinjaman SII Rp5 Triliun, Bunga [7,5%] Setahun",
-  "deck": "Keterbukaan tambahan DOOH merinci isi perjanjian pinjaman Rp5 triliun dari SII, opsi konversi jadi saham, dan pembaruan daftar pemegang saham perusahaan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "pinjaman pemegang saham",
-   "akuisisi INET",
-   "SII"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/abcf02cd77_26ffc3e799.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-akuisisi-29-88-saham-inet-senilai-rp2-triliun-utang",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Akuisisi 29,88% Saham INET Senilai Rp2 Triliun [Utang]",
-  "deck": "Anak usaha DOOH, CNI, membeli 6,685 miliar saham INET dari AKUN senilai Rp2 triliun yang dibiayai pinjaman dari pemegang saham mayoritas DOOH, PT Sinergi Internasional Investama (SII).",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "INET",
-   "akuisisi",
-   "transaksi material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f407c51518_8fe1ea60f7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-alihkan-rp120-miliar-dana-ipo-ke-investasi-inet",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Alihkan [Rp120 Miliar] Dana IPO ke Investasi INET",
-  "deck": "DOOH minta persetujuan pemegang saham mengubah penggunaan sisa dana IPO, mengalihkan Rp120 miliar untuk suntikan modal ke anak usaha yang berinvestasi di saham INET.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "penggunaan dana IPO",
-   "INET",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80d152d2df_77935d13ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "realisasi-investasi-bekasi-tembus-rp9-7-triliun-di-semester-i",
-  "category": "Bisnis",
-  "title": "Realisasi [Investasi] Bekasi Tembus Rp9,7 Triliun di Semester I",
-  "deck": "Realisasi investasi Kota Bekasi mencapai Rp9,7 triliun, 81 persen dari target tahunan Rp12,2 triliun, dengan properti naik ke posisi kedua seiring ekspansi kawasan terpadu Summarecon.",
-  "date": "5 November 2026",
-  "image": "assets/img/realisasi-investasi-bekasi-tembus-rp9-7-triliun-di-semester-i.jpg",
-  "imageV": "mw3rzw9s",
-  "tags": [
-   "bekasi",
-   "investasi",
-   "properti",
-   "summarecon"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476860-realisasi-investasi-kota-bekasi-capai-rp97-triliun-sektor-properti-terus-tumbuh"
  }
 ];

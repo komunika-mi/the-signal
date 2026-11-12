@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "NICE Tanggapi Bursa [Permintaan Penjelasan]: Kredit Citibank Rp100 M",
+  "deck": "Menjawab permintaan penjelasan BEI, NICE memastikan saldo fasilitas kredit Rp100 miliar dari Citibank sudah nihil per akhir Oktober 2026, dengan bunga mengambang turun jadi INDONIA+1,25%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T18:43:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0120177083_d3eefcce21.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICE",
+  "tags": [
+   "NICE",
+   "Adhi Kartiko Pratama",
+   "Citibank",
+   "fasilitas kredit"
+  ],
+  "body": [
+   "PT Adhi Kartiko Pratama Tbk (NICE) menyampaikan tanggapan atas permintaan penjelasan dari Bursa Efek Indonesia (BEI) lewat surat bernomor S-14009/BEI.PP2/11-2026 tertanggal 10 November 2026. Surat itu meminta penjelasan lanjutan atas keterbukaan informasi NICE tanggal 2 November 2026 mengenai perpanjangan perjanjian fasilitas kredit dengan Citibank N.A. Tanggapan disampaikan 12 November 2026 dan ditandatangani oleh Direktur Yeon Ho Choi.",
+   "Fasilitas kredit yang dipersoalkan bernilai plafon Rp100 miliar dan telah diperpanjang tiga tahun berturut-turut sejak pertama diperoleh pada 29 Oktober 2024, terakhir pada 29 Oktober 2026. NICE menegaskan bahwa pada tanggal perpanjangan terakhir itu saldo pinjamannya nihil, sehingga yang diperpanjang adalah ketersediaan fasilitas, bukan utang yang masih berjalan. Dari riwayat pemakaiannya, perusahaan menarik sekitar Rp30,01 miliar dan membayar kembali Rp5,89 juta sepanjang 2025, membuat saldo terutang naik jadi sekitar Rp30 miliar. Sepanjang Januari-September 2026, NICE menarik tambahan sekitar Rp70 miliar tapi membayar kembali Rp88,22 miliar, sehingga saldo turun menjadi sekitar Rp11,79 miliar per akhir September sebelum akhirnya dilunasi sampai nihil pada tanggal efektif perpanjangan di akhir Oktober.",
+   "Soal bunga, skemanya berubah dari bunga tetap 6,5 persen per tahun pada 2024 menjadi bunga mengambang acuan INDONIA 1 bulan ditambah spread 1,45 persen pada 2025, lalu turun lagi jadi INDONIA 1 bulan ditambah 1,25 persen pada 2026. NICE menyebut perubahan ini mengikuti proposal harga dari bank dan dianggap kompetitif dibanding fasilitas sejenis di pasar, serta menegaskan tidak ada financial covenant atau rasio keuangan tertentu yang wajib dipenuhi dalam perjanjian ini. Soal pertanyaan Bursa mengenai identitas pihak yang bertransaksi sesuai POJK 17/2020, NICE hanya menjawab bahwa pihak terkait sudah diungkapkan dalam keterbukaan informasi sebelumnya, tanpa merinci alasan mengapa profil pihak itu tidak dipaparkan lebih lengkap."
+  ],
+  "fotoAdegan": "Workers checking excavators and ore stockpiles at a nickel mining site in Southeast Sulawesi, overcast sky",
+  "takeaway": "Laporan ini netral bagi NICE: fasilitas kredit yang dipersoalkan Bursa justru sedang tidak terpakai sama sekali per akhir Oktober 2026, dan ongkos pinjamannya mengecil karena spread bunga turun dari 1,45 persen jadi 1,25 persen di atas acuan INDONIA. Yang tersentuh di sini adalah arus kas dan beban bunga perusahaan, karena fasilitas semacam ini jadi dana cadangan yang tidak membebani laba selama tidak ditarik, dan biaya bunganya baru muncul kalau perusahaan menariknya lagi. Yang perlu diawasi adalah jawaban NICE soal identitas pihak yang bertransaksi, yang cuma menegaskan ulang bahwa informasi itu sudah diungkapkan tanpa merinci pertimbangannya, sehingga ada kemungkinan Bursa mengajukan pertanyaan lanjutan kalau dianggap belum cukup menjawab.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "kemenko-perekonomian-temui-bei-dan-ojk-soal-reformasi-pasar-modal",
   "category": "Pasar Modal",
   "title": "Kemenko Perekonomian Temui BEI dan OJK soal [Reformasi] Pasar Modal",
@@ -56,6 +83,180 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Indonesia kini memiliki bank kliring sendiri untuk yuan, dikelola Bank of China Jakarta dan didukung 12 bank nasional, sehingga transaksi dagang dengan Tiongkok bisa langsung pakai yuan tanpa singgah ke dolar Amerika Serikat. Pihak yang paling terdampak adalah bank-bank yang ditunjuk sebagai mitra serta eksportir dan importir yang berdagang dengan Tiongkok, karena mereka bisa menghemat biaya tukar mata uang dan mengurangi risiko kalau kurs dolar bergerak tajam. Lonjakan transaksi dari US$13,19 miliar sepanjang 2025 menjadi US$43,89 miliar hanya dalam sembilan bulan pertama 2026, ditambah penerbitan obligasi berdenominasi yuan yang naik dari CNY 7 miliar ke CNY 10 miliar, menunjukkan arah yang konsisten: penggunaan yuan dalam perdagangan Indonesia-Tiongkok makin dalam, bukan sekadar simbolis. Yang akan menentukan apakah tren ini benar-benar membantu memperbaiki defisit dagang Indonesia dengan Tiongkok, bukan sekadar memudahkan transaksi, adalah data ekspor Indonesia ke Tiongkok pada akhir 2026, karena angka yang dipublikasikan sejauh ini baru soal volume transaksi, belum soal arah neraca dagangnya.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CFIN 18 November: [Laba] 9M26 Naik 13,3% ke Rp154 M",
+  "deck": "CFIN gelar Public Expose Tahunan pada 18 November 2026 pukul 10.00 WIB, memaparkan laba bersih 9 bulan 2026 naik 13,26% menjadi Rp154 miliar meski piutang menyusut 9,21%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T18:09:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a4e1bebfa_12de5f60e5.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CFIN",
+  "tags": [
+   "CFIN",
+   "Public Expose",
+   "Clipan Finance",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Clipan Finance Indonesia Tbk (CFIN) menjadwalkan Public Expose Tahunan 2026 pada Rabu, 18 November 2026, pukul 10.00 WIB, melalui aplikasi Zoom. Perusahaan pembiayaan yang terafiliasi dengan PT Bank Pan Indonesia Tbk (Panin) ini menyampaikan materi paparan ke Bursa Efek Indonesia pada 12 November 2026, berisi kinerja keuangan sembilan bulan pertama 2026.",
+   "Materi paparan menunjukkan laba periode berjalan CFIN naik 13,26% menjadi Rp154 miliar pada Januari-September 2026, dari Rp136 miliar pada periode sama tahun sebelumnya. Kenaikan laba ini ditopang turunnya beban bunga dan keuangan sebesar 19,39% menjadi Rp172 miliar, serta beban pencadangan kerugian penurunan nilai yang turun 20,26% menjadi Rp364 miliar, meski pendapatan pembiayaan konsumen justru turun 10,16% menjadi Rp805 miliar. Di sisi lain, piutang pembiayaan menyusut 9,21% menjadi Rp8.455 miliar per akhir September 2026 dari Rp9.313 miliar pada akhir 2025, sejalan dengan total aset yang turun 9,90% menjadi Rp8.584 miliar. Rasio kredit bermasalah atau NPF bruto tercatat 8,46%, jauh di atas rata-rata industri pembiayaan 2,98%, sementara NPF neto 4,37% dibandingkan rata-rata industri 0,81%.",
+   "Materi tersebut juga mencantumkan susunan pemegang saham CFIN, dengan PT Bank Pan Indonesia Tbk sebagai pengendali menguasai 51,49% saham, disusul BBH Luxembourg S/A Fidelity FD, Sicav, FD FDS Pac FD sebesar 8,23%, dan sisanya 40,28% dimiliki publik. Jajaran komisaris diisi Bhindawati Gunawan sebagai Komisaris Utama, Murwanto sebagai Komisaris, dan Lukman Abdullah sebagai Komisaris Independen, sementara direksi dipimpin Jahja Anwar sebagai Direktur Utama bersama Willy Halim S. dan Roelly Makalis sebagai Direktur. Terhadap target 2026, realisasi pembiayaan baru sembilan bulan baru mencapai 69,91% dari target Rp4.291 miliar, piutang pembiayaan 84,31% dari target, dan laba bersih 93,33% dari target Rp165 miliar, sementara NPF neto 4,37% sudah melampaui batas atas yang ditetapkan sebesar 3,83%."
+  ],
+  "fotoAdegan": "Rows of used and new cars parked at a financing company showroom lot in Jakarta, staff reviewing paperwork, late afternoon light",
+  "takeaway": "Laporan ini campuran dan paling tepat dibaca netral: laba bersih memang naik 13,26% ditopang efisiensi beban bunga dan turunnya beban pencadangan, tapi sumber pertumbuhan itu bukan dari bisnis inti yang justru menyusut, piutang pembiayaan turun 9,21% dan rasio kredit bermasalah atau NPF bruto 8,46%, jauh di atas rata-rata industri 2,98%. NPF yang tinggi berarti porsi piutang yang berpotensi tidak terbayar membesar, dan kalau debitur makin banyak menunggak, perusahaan harus menambah pencadangan lagi ke depan, pos yang langsung memakan laba berikutnya. Ekuitas relatif stabil di Rp5.745 miliar dan gearing ratio, yaitu perbandingan utang berbunga terhadap modal, masih rendah di 0,45 kali dari batas maksimum OJK 10 kali, jadi permodalan belum berisiko. Yang perlu dipantau adalah paparan publik pada Rabu, 18 November 2026, terutama penjelasan manajemen soal rencana menekan NPF neto yang sudah melampaui batas atas target 3,83% serta strategi mengejar realisasi pembiayaan baru yang baru 69,91% dari target dengan sisa waktu kurang dari dua bulan.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Public Expose Tahunan CFIN secara daring pukul 10.00 WIB"
+   }
+  ]
+ },
+ {
+  "slug": "kaii-obligasi-rp1-1-triliun-siap-dilunasi-13-desember",
+  "category": "Aksi Korporasi",
+  "title": "KAII: Obligasi Rp1,1 Triliun [Siap] Dilunasi 13 Desember",
+  "deck": "KAI menyatakan dana pelunasan pokok Obligasi II Seri B senilai Rp1,1 triliun yang jatuh tempo 13 Desember 2026 telah tersedia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T18:01:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/45d1412109_c2ffd0fea8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KAII",
+  "tags": [
+   "KAII",
+   "obligasi",
+   "Kereta Api Indonesia",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Kereta Api Indonesia (Persero) menyampaikan kepada Bursa Efek Indonesia bahwa dana untuk melunasi pokok Obligasi II Kereta Api Indonesia Tahun 2019 Seri B sudah tersedia. Obligasi dengan kode emiten KAII ini bernilai Rp1,1 triliun dan akan jatuh tempo pada 13 Desember 2026. Laporan ditandatangani Wisnu Pramudyo, Executive Vice President Corporate Secretary KAI, pada 12 November 2026.",
+   "Penyampaian ini merupakan kewajiban yang diatur dalam Surat Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025 tanggal 12 Desember 2025, yang mengubah Peraturan I-E tentang kewajiban penyampaian informasi. Aturan itu mewajibkan penerbit obligasi melaporkan kesiapan dana pelunasan paling lambat 15 hari bursa sebelum tanggal jatuh tempo efek bersifat utang. Surat resmi KAI ditujukan kepada Direktur Penilaian Perusahaan BEI, dengan tembusan kepada PT Bank Mega Tbk selaku wali amanat atas obligasi tersebut.",
+   "Dalam kolom dampak kejadian terhadap kondisi operasional, hukum, keuangan, atau kelangsungan usaha, KAI tidak mencantumkan keterangan tambahan selain konfirmasi bahwa dana sudah siap."
+  ],
+  "fotoAdegan": "A commuter train departing a busy Indonesian railway platform at dusk, passengers waiting near the tracks.",
+  "takeaway": "Laporan ini positif bagi KAI karena menegaskan perusahaan punya dana cukup untuk melunasi pokok obligasi Rp1,1 triliun tanpa perlu menunda pembayaran atau mencari utang baru, sehingga risiko gagal bayar untuk seri obligasi ini praktis hilang. Yang tersentuh di sini adalah arus kas perusahaan, yaitu aliran uang masuk dan keluar dari kas KAI, karena pembayaran pokok sebesar Rp1,1 triliun adalah pengeluaran besar dalam waktu dekat dan kepastian dana sudah tersedia berarti kas operasional KAI tidak akan terganggu signifikan olehnya. Yang perlu dipantau selanjutnya adalah realisasi pembayaran itu sendiri pada tanggal jatuh tempo, 13 Desember 2026, serta apakah KAI kemudian menerbitkan konfirmasi resmi bahwa obligasi ini sudah lunas sepenuhnya.",
+  "sentimen": "positif",
+  "peristiwa": "obligasi",
+  "judulIdx": "Penyampaian Kesiapan Dana Untuk Pelunasan Efek Bersifat Utang Obligasi II Kereta Api Indonesia Tahun 2019 Seri B",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-13",
+    "acara": "Jatuh tempo pokok Obligasi II KAI 2019 Seri B, Rp1,1 triliun"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-ketr-12-november-direktur-utama-diganti-ke-vidcy-octory",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KETR 12 November: [Direktur Utama] Diganti ke Vidcy Octory",
+  "deck": "RUPSLB KETR pada 12 November 2026 mengganti direktur utama dan komisaris utama, serta menambah dua direktur baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T17:50:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d349b5ba2_a60e9a032b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "Perubahan Direksi",
+   "RUPSLB",
+   "Ketrosden Triasmitra"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) mengumumkan perubahan susunan direksi dan dewan komisaris berdasarkan keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Kamis, 12 November 2026. Keputusan ini tertuang dalam Surat Keterangan Notaris Nomor 19/XI/2026 tertanggal sama. Vidcy Octory, yang sebelumnya menjabat Direktur Keuangan, naik menjadi Direktur Utama menggantikan Titus Dondi Patria Arnabaju. Di jajaran komisaris, Marlo Budiman masuk sebagai Komisaris Utama menggantikan P. Sartono.",
+   "Susunan direksi yang baru juga bertambah dari tiga menjadi empat orang. Selain Vidcy Octory sebagai Direktur Utama, Dani Samsul Ependi diangkat kembali sebagai direktur setelah sebelumnya menjabat Direktur Operasional, sementara Johannes dan Mona Angelique Susanto masuk sebagai direktur baru. Di dewan komisaris, Glory Palmy Simanjuntak diangkat kembali sebagai Komisaris, dan Kennedy Simanjuntak diangkat kembali sebagai Komisaris Independen di bawah kepemimpinan Marlo Budiman sebagai Komisaris Utama.",
+   "Dalam keterbukaan informasi yang ditandatangani Corporate Secretary Henry Rizard Rumopa, perseroan menyatakan perubahan pengurus ini tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Technicians on a cable ship deck handling large spools of undersea fiber optic cable under an overcast sky",
+  "takeaway": "Laporan ini netral bagi KETR, karena pergantian direksi dan komisaris merupakan hasil wajar RUPSLB tanpa disertai transaksi saham, suntikan dana, atau perubahan struktur utang yang memengaruhi kondisi keuangan perusahaan secara langsung. Pergantian pengurus memang tidak mengubah pos-pos seperti ekuitas, arus kas, atau laba per saham, tapi pelaku pasar tetap mencermatinya karena arah strategi dan eksekusi proyek jaringan kabel serat optik Ketrosden bergantung pada siapa yang memimpin di direksi dan mengawasi di komisaris. Promosi Vidcy Octory dari Direktur Keuangan ke Direktur Utama, ditambah masuknya dua direktur baru, membuat jumlah kursi direksi melebar dari tiga menjadi empat orang sehingga struktur pengambilan keputusan sedikit berubah. Dokumen ini tidak menyebut agenda lanjutan selain pengangkatan yang sudah berlaku sejak 12 November 2026, sehingga yang perlu dipantau berikutnya adalah apakah susunan manajemen baru ini membawa perubahan strategi atau kinerja pada laporan keuangan kuartal mendatang.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus"
+ },
+ {
+  "slug": "rupslb-ketr-12-november-presdir-diganti-direksi-tambah-2",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KETR 12 November: [Presdir] Diganti, Direksi Tambah 2",
+  "deck": "RUPSLB KETR menetapkan Videy Octory sebagai Direktur Utama baru dan menambah dua direktur, sementara Komisaris Utama beralih ke Marlo Budiman.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T17:34:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d0843fb1c3_0c7726095e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KETR",
+  "tags": [
+   "KETR",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Ketrosden Triasmitra Tbk (KETR) mengumumkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Kamis, 12 November 2026, berdasarkan Surat Keterangan Notaris Nomor 19/XI/2026 tanggal 12 November 2026. RUPSLB menyetujui perombakan susunan Direksi dan Dewan Komisaris perseroan.",
+   "Di jajaran Dewan Komisaris, posisi Komisaris Utama yang sebelumnya dijabat P. Sartono kini diisi oleh Marlo Budiman. Dua komisaris lain tetap bertahan di posisinya, yaitu Glory Palmy Simanjuntak sebagai Komisaris dan Kennedy Simanjuntak sebagai Komisaris Independen.",
+   "Di jajaran Direksi, Videy Octory yang sebelumnya menjabat Direktur Keuangan naik menjadi Direktur Utama, menggantikan Titus Dondi Patria A. yang keluar dari susunan Direksi. Dani Samsul Ependi, sebelumnya Direktur Operasional, tetap berada di Direksi dengan jabatan Direktur. Perseroan juga menambah dua direktur baru, yaitu Johannes dan Mona Angela Susanto, sehingga jumlah anggota Direksi bertambah dari tiga menjadi empat orang.",
+   "Dalam keterbukaan informasi ini, perseroan menyatakan perubahan susunan pengurus tersebut tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Technicians spooling fiber optic cable at an outdoor telecommunications infrastructure yard in daylight",
+  "takeaway": "Pergantian pengurus ini kami nilai netral bagi fundamental KETR, karena merupakan hasil normal RUPSLB tanpa disertai transaksi saham, suntikan dana segar, atau perubahan struktur utang yang mengubah kondisi keuangan perseroan. Perubahan direksi dan komisaris semacam ini tidak langsung menyentuh pos-pos yang biasa dipantau pelaku pasar seperti ekuitas, arus kas, atau laba per saham, meski susunan pengurus baru bisa memengaruhi arah strategi perusahaan ke depan. Yang perlu dipantau berikutnya adalah bagaimana jajaran direksi baru, termasuk dua direktur tambahan Johannes dan Mona Angela Susanto, mulai menjalankan tugasnya, serta apakah ada langkah strategis atau keterbukaan informasi lanjutan dari manajemen baru ini.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris"
+ },
+ {
+  "slug": "dividen-interim-msti-rp48-per-saham-cair-10-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim MSTI Rp48 per Saham: [Cair] 10 Desember 2026",
+  "deck": "MSTI membagikan dividen interim tunai Rp150,69 miliar atau Rp48 per saham, dibayarkan 10 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T17:27:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d094ae280_b8edfcbf82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSTI",
+  "tags": [
+   "MSTI",
+   "dividen interim",
+   "Mastersystem Infotama",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Mastersystem Infotama Tbk (MSTI) memutuskan membagikan dividen interim tunai senilai total Rp150.691.977.600, atau setara Rp48 per saham. Keputusan ini diambil oleh direksi pada 11 November 2026 dan disetujui efektif oleh Dewan Komisaris pada tanggal yang sama. Dividen ini dibayarkan di tengah tahun buku, tanpa menunggu persetujuan RUPS Tahunan.",
+   "Perseroan menetapkan jadwal lengkap pembagian. Periode terakhir saham diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 20 November 2026, sedangkan di pasar tunai berakhir 24 November 2026. Setelah itu, saham mulai diperdagangkan tanpa hak dividen (ex dividen), yaitu mulai 23 November 2026 untuk pasar reguler dan negosiasi, dan mulai 25 November 2026 untuk pasar tunai. Tanggal pencatatan pemegang saham yang berhak menerima dividen (recording date) ditetapkan 24 November 2026, dan dana dividen baru dicairkan ke rekening pemegang saham pada 10 Desember 2026.",
+   "Dalam laporannya kepada Otoritas Jasa Keuangan, MSTI yang bergerak di bidang solusi, integrasi, dan pemeliharaan sistem teknologi informasi menyatakan bahwa aksi ini tidak berdampak signifikan terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani secara elektronik oleh Jeo Halim selaku Direktur dan Corporate Secretary perusahaan."
+  ],
+  "fotoAdegan": "Technician checking server racks in a dim modern data center, rows of blue indicator lights glowing",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham: perusahaan mampu membagikan dividen tunai Rp150,69 miliar di tengah tahun tanpa menunggu RUPS Tahunan, yang biasanya jadi sinyal bahwa kas perusahaan cukup longgar untuk membayar pemegang saham lebih cepat. Dua pos yang tersentuh adalah kas perusahaan, yang akan berkurang sebesar nilai dividen begitu dibayarkan, dan ekuitas, yaitu modal dan laba yang tercatat sebagai milik perusahaan, karena dividen diambil dari laba ditahan sehingga mengurangi pos ini di laporan keuangan berikutnya. Yang perlu dipantau pemegang saham adalah tenggat administratif: siapa yang membeli saham MSTI setelah 20 November 2026 di pasar reguler tidak lagi kebagian dividen ini, recording date jatuh 24 November 2026, dan pencairan dana baru terjadi 10 Desember 2026, jadi ada jeda sekitar dua minggu antara penentuan penerima dan uang benar-benar masuk rekening.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Pembagian dividen interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Cum dividen terakhir di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Mulai ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Cum dividen pasar tunai, juga recording date pemegang saham berhak dividen"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Mulai ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Pembayaran dividen tunai"
+   }
+  ]
  },
  {
   "slug": "kadi-selidiki-ulang-impor-baja-hrc-dari-belarus-dan-kazakstan",
@@ -17642,8 +17843,8 @@ var ARTICLES = [
  {
   "slug": "itmg-bagikan-dividen-interim-us-74-2-juta",
   "category": "Aksi Korporasi",
-  "title": "ITMG Bagikan Dividen Interim [US$74,2 Juta]",
-  "deck": "ITMG akan membagikan dividen tunai interim US$74,2 juta untuk tahun buku 2026, dengan pencatatan pemegang saham 12 November dan pembayaran 18 November 2026.",
+  "title": "Dividen Interim ITMG Rp1.286,83: [Rasio] 70% Laba Bersih",
+  "deck": "ITMG menetapkan rasio pembayaran dividen interim 70 persen dari laba bersih semester I 2026 dan nilai dividen per saham Rp1.286,83, dihitung dari 1.047.183.500 saham di luar saham tresuri buyback.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T17:38:50",
@@ -17653,17 +17854,38 @@ var ARTICLES = [
   "tags": [
    "ITMG",
    "dividen interim",
-   "Indo Tambangraya Megah",
-   "batu bara"
+   "rasio pembayaran dividen",
+   "saham tresuri"
   ],
   "body": [
-   "Indo Tambangraya Megah Tbk (ITMG) mengumumkan rencana pembagian dividen tunai interim untuk tahun buku 2026 dengan total nilai US$74,2 juta. Keputusan ini diambil Direksi pada 27 Oktober 2026 dan telah disetujui Dewan Komisaris pada 30 Oktober 2026.",
-   "Jadwal pembagiannya sebagai berikut: cum dividen di pasar reguler dan negosiasi jatuh pada 10 November 2026, dengan ex dividen sehari setelahnya pada 11 November 2026. Di pasar tunai, cum dividen berlaku 12 November 2026 dan ex dividen 13 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per 12 November 2026 pukul 16.00 WIB berhak menerima dividen ini. Pembayaran akan dilakukan paling lambat 18 November 2026, disalurkan melalui KSEI ke rekening dana nasabah bagi saham dalam penitipan kolektif, atau ditransfer langsung bagi saham di luar penitipan kolektif.",
-   "Berdasarkan data keuangan per 30 Juni 2026 yang menjadi dasar pembagian dividen ini, laba bersih yang diatribusikan kepada entitas induk tercatat US$105,99 juta, saldo laba ditahan yang tidak dibatasi penggunaannya US$1,51 miliar, dan total ekuitas perusahaan US$1,91 miliar. Perseroan juga menjelaskan aturan pajaknya: dividen ke pemegang saham badan dalam negeri dikecualikan dari pajak, dividen ke pemegang saham perorangan dalam negeri bebas pajak jika diinvestasikan kembali di Indonesia, dan bagi pemegang saham asing yang tidak menyerahkan dokumen DGT/SKD, dividen akan dipotong pajak 20 persen sesuai Pasal 26."
+   "Indo Tambangraya Megah Tbk (ITMG) menetapkan rasio pembayaran dividen interim untuk tahun buku 2026 sebesar 70 persen dari laba bersih semester pertama, dengan nilai dividen per saham Rp1.286,83. Nilai ini dihitung dari 1.047.183.500 saham yang telah dikeluarkan perseroan, tidak termasuk 82.741.500 saham yang saat ini dikuasai perseroan sebagai saham tresuri hasil program pembelian kembali saham (buyback) yang masih berjalan.",
+   "Rincian ini melengkapi pengumuman jadwal dividen interim yang terbit 2 November 2026, yaitu pembagian dividen tunai senilai total US$74,2 juta untuk tahun buku 2026. Keputusan dasarnya diambil Direksi pada 27 Oktober 2026 dan disetujui Dewan Komisaris pada 30 Oktober 2026.",
+   "Jadwalnya: cum dividen di pasar reguler dan negosiasi pada 10 November 2026, dengan ex dividen sehari setelahnya pada 11 November 2026. Di pasar tunai, cum dividen berlaku 12 November 2026 dan ex dividen 13 November 2026. Pemegang saham yang tercatat dalam Daftar Pemegang Saham per 12 November 2026 pukul 16.00 WIB berhak menerima dividen ini, dengan pembayaran paling lambat 18 November 2026 melalui KSEI atau transfer langsung.",
+   "Berdasarkan data keuangan per 30 Juni 2026, laba bersih yang diatribusikan kepada entitas induk tercatat US$105,99 juta, saldo laba ditahan yang tidak dibatasi penggunaannya US$1,51 miliar, dan total ekuitas perusahaan US$1,91 miliar. Dividen ke pemegang saham badan dalam negeri dikecualikan dari pajak, dividen ke pemegang saham perorangan dalam negeri bebas pajak jika diinvestasikan kembali di Indonesia, sementara pemegang saham asing yang tidak menyerahkan dokumen DGT/SKD akan dikenai pajak 20 persen sesuai Pasal 26."
   ],
   "fotoAdegan": "Large haul trucks carrying coal down a terraced open-pit mine road, dust rising, overcast tropical sky",
-  "takeaway": "Laporan ini condong positif bagi pemegang saham ITMG, karena perusahaan mampu membagikan dividen interim US$74,2 juta, setara sekitar 70 persen dari laba bersih semester pertama 2026 yang mencapai US$105,99 juta, menandakan kas operasional yang masih kuat. Yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan utang perusahaan, yang akan berkurang sebesar nilai dividen begitu dibayarkan, serta arus kas, yakni aliran uang masuk dan keluar perusahaan, yang akan tercatat keluar sekitar US$74,2 juta pada pertengahan November. Meski demikian, saldo laba ditahan yang tidak dibatasi penggunaannya masih tersisa US$1,51 miliar dari total ekuitas US$1,91 miliar, sehingga pembagian ini tampak masih sebanding dengan kemampuan permodalan perusahaan. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 12 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran paling lambat 18 November 2026.",
-  "sentimen": "positif"
+  "takeaway": "Laporan tambahan ini netral: tidak mengubah keputusan dividen yang sudah diumumkan dua pekan lalu, hanya memperjelas angka yang sebelumnya baru berupa estimasi. Yang tersentuh adalah jumlah saham beredar yang dipakai sebagai pembagi, karena 82.741.500 saham tresuri hasil buyback dikeluarkan dari hitungan, sehingga dividen dan laba per saham hanya dibagi ke 1.047.183.500 saham publik dan pengendali, bukan ke seluruh saham yang pernah diterbitkan perseroan. Ini juga menegaskan rasio pembayaran dividen, yakni porsi laba bersih yang dibagikan ke pemegang saham, sebesar 70 persen dari laba semester pertama 2026, sejalan dengan perhitungan yang sudah bisa diperkirakan dari pengumuman sebelumnya. Yang perlu dipantau berikutnya adalah realisasi pembayaran dividen paling lambat 18 November 2026, karena tanggal pencatatan pemegang saham pada 12 November 2026 pukul 16.00 WIB sudah jatuh hari ini.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T17:57:33",
+    "ringkas": "ITMG menetapkan DPS Rp1.286,83 per saham dan rasio pembayaran 70% laba bersih, dihitung dari 1.047.183.500 saham di luar saham tresuri buyback.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dee80a07f0_0323a32d05.pdf",
+    "judulIdx": "Rasio Pembayaran Dividen Interim dan Dividen Per Saham Perseroan"
+   }
+  ],
+  "diperbarui": "2026-11-12T17:57:33",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Pencatatan pemegang saham (DPS) pukul 16.00 WIB"
+   }
+  ],
+  "peristiwa": "dividen"
  },
  {
   "slug": "umkm-binaan-pertamina-tembus-pasar-internasional-di-bali",
@@ -25848,8 +26070,8 @@ var ARTICLES = [
  {
   "slug": "cbmf-gelar-rupst-4-desember-akui-telat-laporan-tahunan",
   "category": "Aksi Korporasi",
-  "title": "CBMF Gelar RUPST 4 Desember, Akui [Telat] Laporan Tahunan",
-  "deck": "CBMF memanggil RUPST pada 4 Desember 2026, salah satu agendanya meminta persetujuan pemegang saham atas keterlambatan penyampaian laporan tahunan 2025.",
+  "title": "RUPST CBMF 4 Desember: [Agenda Baru] Laporan Dana IPO Ditambah",
+  "deck": "CBMF merevisi lagi pemanggilan RUPST tahun buku 2023: menambah agenda laporan realisasi dana IPO, menghapus klausul pembebasan tanggung jawab, agenda ganti direksi-komisaris tetap berlaku.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "28 Oktober 2026",
   "isoDate": "2026-10-28T20:02:47",
@@ -25859,17 +26081,44 @@ var ARTICLES = [
   "tags": [
    "CBMF",
    "RUPST",
-   "Laporan Tahunan",
-   "Tata Kelola"
+   "Pemanggilan Ulang",
+   "Laporan Tahunan"
   ],
   "body": [
-   "PT Cahaya Bintang Medan Tbk (CBMF) memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025. Rapat akan digelar Jumat, 4 Desember 2026 pukul 11.00 hingga 12.00 WIB di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Hanya pemegang saham yang namanya tercatat dalam daftar pemegang saham per Selasa, 27 Oktober 2026 pukul 16.00 WIB yang berhak hadir atau diwakili dalam rapat ini.",
-   "Ada tujuh agenda yang akan dimintakan persetujuan. Agenda pertama adalah persetujuan pemegang saham atas keterlambatan penyampaian laporan tahunan perseroan untuk tahun buku 2025, artinya CBMF tidak menyampaikan laporan tahunannya sesuai tenggat normal dan perlu restu pemegang saham untuk itu. Agenda berikutnya mencakup pengesahan laporan tahunan dan laporan keuangan 2025 termasuk pembebasan tanggung jawab direksi dan komisaris, penetapan penggunaan laba bersih, penunjukan akuntan publik untuk audit tahun buku 2026, penetapan remunerasi direksi dan komisaris, serta persetujuan perubahan susunan direksi dan perubahan susunan dewan komisaris. Dokumen pemanggilan tidak merinci nama atau jumlah pos yang akan berubah di jajaran direksi maupun komisaris.",
-   "Perseroan mengimbau pemegang saham memberikan suara secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, atau memberi kuasa elektronik (e-proxy) kepada PT Adimitra Jasa Korpora sebagai pihak independen yang ditunjuk perseroan. Bagi yang hadir fisik, pemegang saham atau kuasanya wajib membawa fotokopi KTP, pemegang saham berbentuk badan hukum wajib membawa fotokopi anggaran dasar dan susunan pengurus terakhir, serta pemegang saham yang sahamnya dititipkan secara kolektif di KSEI wajib menyerahkan Konfirmasi Tertulis Untuk Rapat (KTUR). Kehadiran diminta paling lambat pukul 08.30 WIB. Surat pemanggilan ditandatangani Direktur Utama CBMF, Andre William, di Medan pada 28 Oktober 2026."
+   "PT Cahaya Bintang Medan Tbk (CBMF) menerbitkan pemanggilan ulang kedua untuk Rapat Umum Pemegang Saham Tahunan (RUPST) tahun buku yang berakhir 31 Desember 2023, pada Kamis, 12 November 2026. Dua perubahan utama ditambahkan ke mata acara: agenda baru berupa laporan realisasi penggunaan dana hasil penawaran umum saham perdana (IPO), dan penghapusan klausul pembebasan tanggung jawab penuh (acquit et de charge) bagi direksi dan dewan komisaris dari agenda pengesahan laporan tahunan. Dengan tambahan ini, mata acara RUPST menjadi delapan pos, termasuk agenda persetujuan pengangkatan kembali direksi dan dewan komisaris yang tetap dipertahankan tanpa perubahan.",
+   "Jadwal dan tempat penyelenggaraan RUPST tidak berubah. Rapat tetap digelar Jumat, 4 Desember 2026, pukul 09.00 sampai 10.00 WIB, di Antasari Place, Jalan Pangeran Antasari No. 45, Cilandak Barat, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per Rabu, 11 November 2026, pukul 16.00 WIB, sesuai jadwal yang sudah ditetapkan sebelumnya.",
+   "Secara lengkap, delapan mata acara RUPST kali ini adalah: (1) persetujuan atas keterlambatan penyampaian laporan tahunan 2023 sesuai Pasal 7 ayat (1) POJK Nomor 29/POJK.04/2016; (2) persetujuan dan pengesahan laporan tahunan serta laporan keuangan 2023, tanpa klausul pembebasan tanggung jawab; (3) penetapan penggunaan laba bersih 2023; (4) penunjukan Kantor Akuntan Publik Jonnardi, Jamaludin, Sukimto dan Rekan dengan akuntan publik Rizki Damir Mustika untuk mengaudit laporan keuangan tahun buku 2024; (5) penetapan remunerasi direksi dan dewan komisaris; (6) laporan realisasi penggunaan dana hasil penawaran umum perdana saham, agenda yang baru ditambahkan; (7) persetujuan pengangkatan kembali direksi; dan (8) persetujuan pengangkatan kembali dewan komisaris.",
+   "Mekanisme kehadiran tidak berubah. Perseroan mengimbau pemegang saham memberi suara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, atau memberi kuasa elektronik (e-proxy) kepada PT Adimitra Jasa Korpora. Pemegang saham yang hadir fisik wajib membawa fotokopi KTP, badan hukum wajib membawa anggaran dasar dan susunan pengurus terakhir, pemegang saham di penitipan kolektif KSEI wajib menyerahkan Konfirmasi Tertulis Untuk Rapat (KTUR), dan kehadiran dimohon paling lambat pukul 08.30 WIB. Pemanggilan ulang ini ditandatangani Direktur Utama CBMF, Andre William, di Medan pada 12 November 2026."
   ],
   "fotoAdegan": "Workers sanding wooden furniture frames inside a sunlit workshop in North Sumatra, sawdust drifting in the air",
-  "takeaway": "Laporan ini netral bagi fundamental CBMF, sebab agendanya sebagian besar rutinitas RUPST tahunan, tetapi ada satu titik yang pantas dicermati: perseroan perlu meminta restu khusus pemegang saham karena terlambat menyampaikan laporan tahunan 2025, tanda ada keterlambatan administrasi pelaporan. Rapat ini juga akan memutuskan penggunaan laba bersih perseroan, yaitu apakah untung tahun lalu dibagikan sebagai dividen ke pemegang saham atau ditahan untuk modal kerja perusahaan, dan itu langsung berpengaruh ke uang yang bisa diterima investor. Agenda perubahan susunan direksi dan komisaris juga diajukan, meski dokumen ini belum menyebut nama atau posisi yang berganti. Yang perlu dipantau adalah hasil RUPST pada 4 Desember 2026, terutama keputusan soal pembagian laba, penjelasan resmi perseroan atas sebab keterlambatan laporan tahunan, dan siapa saja yang akhirnya masuk atau keluar dari jajaran direksi serta komisaris.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ulang kedua ini tergolong netral bagi fundamental CBMF, karena isinya murni administratif, menambah satu agenda pelaporan dan mencabut satu klausul hukum, tanpa angka keuangan baru yang diumumkan. Agenda yang paling dekat dengan kinerja adalah laporan realisasi dana IPO, karena menyangkut apakah dana publik yang terkumpul dari penawaran umum perdana dulu sudah dibelanjakan sesuai rencana, yang berpengaruh pada arus kas dan kapasitas usaha perusahaan. Hilangnya klausul pembebasan tanggung jawab (acquit et de charge) juga berarti direksi dan komisaris tidak otomatis bebas dari tuntutan atas pengurusan tahun 2023 begitu laporan tahunannya disahkan. Yang perlu dipantau adalah hasil RUPST pada Jumat, 4 Desember 2026, termasuk apakah pemegang saham menyetujui pengangkatan kembali direksi dan dewan komisaris yang agendanya dipastikan tetap ada, serta isi laporan realisasi dana IPO yang akan dipaparkan saat itu.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T19:29:56",
+    "ringkas": "CBMF memanggil ulang RUPST dengan DPS baru 11 November 2026 dan menghapus agenda ganti direksi-komisaris serta klausul pembebasan tanggung jawab.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/490ffc1b58_65ecf0f9b2.pdf",
+    "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Tahunan"
+   },
+   {
+    "tanggal": "2026-11-12T19:29:28",
+    "ringkas": "CBMF menambah agenda laporan realisasi dana IPO di RUPST 4 Desember dan memastikan agenda pergantian direksi-komisaris tidak dihapus.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf38dae4c4_0d2a9def95.pdf",
+    "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-12T19:29:28",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-11",
+    "acara": "Batas DPS (recording date) pemegang saham RUPST CBMF"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "RUPST CBMF, agenda bertambah jadi delapan pos"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "cbmf-ubah-jadwal-rupst-catat-dps-27-oktober-2026",
@@ -39338,8 +39587,8 @@ var ARTICLES = [
  {
   "slug": "emas-rencanakan-penambahan-modal-potensi-dilusi-10",
   "category": "Aksi Korporasi",
-  "title": "EMAS Rencanakan Penambahan Modal, Potensi [Dilusi] 10%",
-  "deck": "EMAS berencana menerbitkan saham baru tanpa hak memesan efek terlebih dahulu hingga 1,47 miliar lembar atau maksimal 10% modal disetor, menanti persetujuan RUPS.",
+  "title": "PMTHMETD EMAS: Dilusi Pemegang Saham [Maksimal] 9,09%",
+  "deck": "EMAS merinci bahwa pemegang saham yang tidak ikut penerbitan saham baru PMTHMETD I akan tergerus kepemilikannya maksimal 9,09 persen, menanti persetujuan RUPS.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "20 Oktober 2026",
   "isoDate": "2026-10-20T13:59:21",
@@ -39353,13 +39602,24 @@ var ARTICLES = [
    "RUPS"
   ],
   "body": [
-   "PT Merdeka Gold Resources Tbk (EMAS) mengumumkan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I, atau PMTHMETD I, dengan jumlah sebanyak-banyaknya 1.473.136.606 saham. Jumlah itu setara maksimal 10 persen dari total saham yang sudah ditempatkan dan disetor penuh saat ini, yaitu 14.731.366.060 saham dengan nilai nominal Rp150 per saham. Rencana ini tercantum dalam Akta Pernyataan Keputusan Rapat Perubahan Anggaran Dasar No. 78 tertanggal 12 Mei 2026 yang dibuat di hadapan Notaris Jose Dima Satria, S.H., M.Kn., dan sudah diberitahukan ke Menteri Hukum pada tanggal yang sama lewat tanda terima No. AHU-AH.01.03-0137498.",
-   "Karena skema ini tidak memberi pemegang saham lama kesempatan membeli lebih dulu, perseroan wajib mendapat persetujuan Rapat Umum Pemegang Saham sesuai Pasal 8A ayat (1) dan Pasal 15 ayat (1a) POJK 14/2019 sebelum rencana ini bisa dijalankan. Pengumuman keterbukaan informasi ini disampaikan bersamaan dengan pengumuman RUPS, sesuai aturan yang sama. Perseroan juga menyebut turut memperhatikan Surat Keputusan Direksi BEI No. Kep-00152/BEI/10-2026 tentang perubahan Peraturan Nomor I-A soal pencatatan saham dan efek bersifat ekuitas.",
-   "Dokumen ditandatangani oleh Adi Adriansyah Sjoekri selaku Corporate Secretary dan diterbitkan di Jakarta pada 20 Oktober 2026. Perseroan sendiri awalnya berdiri dengan nama PT Pani Bersama Jaya berdasarkan akta pendirian tahun 2015, dan saat ini sahamnya tercatat di Bursa Efek Indonesia sekaligus memiliki Hong Kong Depositary Receipts melalui secondary listing di Main Board Bursa Efek Hong Kong. Dokumen yang diterima belum memuat harga pelaksanaan, calon pembeli saham baru, maupun rencana penggunaan dananya."
+   "PT Merdeka Gold Resources Tbk (EMAS) menerbitkan keterbukaan informasi tambahan yang merinci dampak rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I (PMTHMETD I) bagi pemegang saham lama. Dokumen yang diterbitkan 12 November 2026 ini menyebut bahwa pemegang saham yang tidak ikut mengambil bagian dalam penerbitan saham baru ini akan mengalami penurunan porsi kepemilikan maksimum 9,091 persen, dengan asumsi seluruh saham baru yang ditawarkan benar-benar diterbitkan dan dibeli investor.",
+   "Rencana ini sendiri pertama diumumkan pada 20 Oktober 2026, mencakup penerbitan saham baru sebanyak-banyaknya 1.473.136.606 lembar, setara maksimal 10 persen dari total saham EMAS yang sudah beredar saat ini yaitu 14.731.366.060 saham bernilai nominal Rp150 per saham. Dasar hukumnya adalah Akta Pernyataan Keputusan Rapat Perubahan Anggaran Dasar No. 78 tertanggal 12 Mei 2026 di hadapan Notaris Jose Dima Satria, yang sudah diberitahukan ke Menteri Hukum pada tanggal yang sama.",
+   "Karena skema ini tidak memberi pemegang saham lama hak untuk membeli lebih dulu, Perseroan wajib mendapat persetujuan Rapat Umum Pemegang Saham sesuai Pasal 8A ayat (1) dan Pasal 15 ayat (1a) POJK 14/2019 sebelum rencana ini bisa dijalankan. Dokumen terbaru ini belum menyebut tanggal RUPS, harga pelaksanaan saham baru, calon pembeli, maupun rencana penggunaan dananya.",
+   "Dokumen ditandatangani oleh Adi Adriansyah Sjoekri selaku Corporate Secretary dan diterbitkan di Jakarta."
   ],
   "fotoAdegan": "Workers in hard hats inspecting gold ore on a conveyor belt at an open-pit mining processing plant, dusty daylight",
-  "takeaway": "Rencana ini condong negatif bagi pemegang saham lama karena menambah jumlah saham beredar hingga 10 persen tanpa memberi mereka hak membeli lebih dulu, sehingga porsi kepemilikan mereka otomatis mengecil begitu saham baru terbit. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu ukuran keuntungan perusahaan yang dibagi rata ke setiap lembar saham, karena kalau laba perusahaan tidak naik sebanding dengan tambahan jumlah saham, bagian keuntungan untuk setiap pemegang saham lama akan mengecil. Dokumen ini belum menyebut untuk apa dana dari penerbitan saham baru ini dipakai, maupun kepada siapa saham itu akan dijual, sehingga belum bisa dinilai apakah ada sisi menguntungkan yang mengimbangi dilusi tersebut. Yang perlu dipantau berikutnya adalah RUPS yang harus menyetujui rencana ini terlebih dahulu, beserta harga pelaksanaan dan pihak penerima saham baru begitu diumumkan.",
-  "sentimen": "negatif"
+  "takeaway": "Pembaruan ini tetap condong negatif bagi pemegang saham lama karena untuk kali pertama Perseroan menyebut angka pasti dilusinya: pemegang saham yang tidak ikut serta akan kehilangan hingga 9,09 persen porsi kepemilikannya, mendekati batas atas 10 persen yang sudah diumumkan sebelumnya. Yang tersentuh tetap jumlah saham beredar dan laba per saham, yaitu bagian keuntungan perusahaan yang dibagi rata ke setiap lembar saham, sebab begitu saham baru ini terbit, keuntungan yang sama harus dibagi ke lebih banyak lembar sehingga bagian setiap pemegang saham lama mengecil kalau laba perusahaan tidak ikut naik. Yang perlu dipantau berikutnya adalah RUPS yang harus menyetujui rencana ini, serta harga pelaksanaan dan calon pembeli saham baru begitu diumumkan, karena dokumen ini sendiri belum menyebut tanggal rapat maupun kedua hal tersebut.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-12T19:45:22",
+    "ringkas": "EMAS memastikan dilusi kepemilikan pemegang saham yang tidak ikut PMTHMETD I maksimal 9,09 persen.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/25bf2fccf5_d11d19c44e.pdf",
+    "judulIdx": "Perubahan dan/atau Tambahan Keterbukaan Informasi terkait Rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I"
+   }
+  ],
+  "diperbarui": "2026-11-12T19:45:22",
+  "peristiwa": "right-issue"
  },
  {
   "slug": "direksi-gmfi-beli-500-000-saham-senilai-rp20-juta",

@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-12T04:36:18.509+07:00",
+ "diperbarui": "2026-11-13T04:38:01.553+07:00",
  "entri": [
+  {
+   "id": "2026-11-12-3",
+   "edisi": "2026-11-12",
+   "benang": "Posisi Dagang Eksternal Menguat",
+   "klaim": "Posisi dagang eksternal Indonesia akan terus menguat, ditegaskan oleh surplus dagang Oktober yang dirilis BPS awal Desember yang melanjutkan tren naik ini.",
+   "penanda": "surplus dagang Oktober yang dirilis BPS",
+   "tenggat": "2026-12-10",
+   "tenggatLabel": "surplus dagang Oktober yang dirilis BPS awal Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-12-2",
+   "edisi": "2026-11-12",
+   "benang": "Tekanan Utang Korporasi Meluas",
+   "klaim": "Tekanan utang korporasi yang sudah menyebar ke lebih banyak emiten akan terus melebar alih-alih mereda, yang akan ditentukan oleh hasil RUPO dan RUPSI BUMA.",
+   "penanda": "hasil RUPO dan RUPSI BUMA",
+   "tenggat": "2026-12-10",
+   "tenggatLabel": "RUPO dan RUPSI BUMA yang dijadwalkan 10 Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-12-1",
+   "edisi": "2026-11-12",
+   "benang": "Pasar Modal Menata Ulang Kepercayaan",
+   "klaim": "Kepercayaan terhadap pasar modal akan terus menguat, ditandai dengan penguatan IHSG yang bertahan di sesi-sesi berikutnya setelah proses pengisian jabatan wakil presiden pengganti mulai berjalan.",
+   "penanda": "bertahannya penguatan IHSG di sesi-sesi berikutnya seiring proses pengisian jabatan wakil presiden pengganti",
+   "tenggat": null,
+   "tenggatLabel": "sesi-sesi berikutnya begitu proses pengisian jabatan wakil presiden pengganti mulai berjalan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-11-3",
    "edisi": "2026-11-11",
@@ -2035,8 +2068,13 @@ var RAPOR = {
    "penanda": "RUPO lanjutan ADHI dan RUPS independen VISI",
    "tenggat": "2026-09-30",
    "tenggatLabel": "RUPO lanjutan digeser ke 11 September 2026 dan RUPS independen VISI pada 30 September 2026",
-   "status": "menunggu",
-   "bukti": null
+   "status": "patah",
+   "bukti": {
+    "slug": "akuisisi-visi-rampung-kuasai-72-91-saham-hmbc-per-30-okt",
+    "judul": "Akuisisi VISI Rampung: Kuasai 72,91% Saham HMBC per 30 Okt",
+    "tanggal": "12 November 2026",
+    "alasan": "Artikel ini menunjukkan akuisisi HMBC oleh VISI sudah rampung dengan kepemilikan 72,91% per 30 Oktober, bukan masih menunggu kepastian dari RUPS independen seperti yang diklaim."
+   }
   },
   {
    "id": "2026-08-25-1",

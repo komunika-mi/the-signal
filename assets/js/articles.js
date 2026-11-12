@@ -3,6 +3,59 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
+  "category": "Industri",
+  "title": "Menperin Dorong [Kedaulatan] Industri Telekomunikasi Nasional",
+  "deck": "Menperin mengajak pelaku usaha telekomunikasi bersatu demi kedaulatan digital, bertepatan dengan terpilihnya Erikson Sianipar sebagai Ketua Umum Apnatel baru.",
+  "image": "assets/img/menperin-dorong-kedaulatan-industri-telekomunikasi-nasional.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T22:43:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478077-menperin-dorong-kedaulatan-industri-telekomunikasi-ini-respons-apnatel",
+  "tags": [
+   "telekomunikasi",
+   "Apnatel",
+   "kedaulatan digital",
+   "Kemenperin"
+  ],
+  "body": [
+   "Menteri Perindustrian Muhammad Sarmuji mendorong percepatan kedaulatan industri telekomunikasi nasional. Pernyataan itu disampaikan dalam Musyawarah Nasional (Munas) XII Asosiasi Perusahaan Nasional Telekomunikasi (Apnatel) yang mengangkat tema penguatan industri telekomunikasi untuk kemandirian digital Indonesia. Ia mengajak para pelaku usaha di sektor ini menggalang kekuatan bersama, sebuah seruan yang relevan karena menyangkut siapa yang mengendalikan infrastruktur digital negara, mulai dari jaringan hingga perangkat pendukungnya.",
+   "Senada dengan Menperin, Direktur Utama Telkom Indonesia Nanang Hendarno menilai konektivitas digital kini bukan lagi sekadar infrastruktur pendukung, melainkan fondasi pertumbuhan ekonomi, daya saing, dan kedaulatan digital bangsa. Ia menyebut ekosistem digital yang berdaulat hanya bisa terwujud lewat kolaborasi semua pemangku kepentingan, tidak cukup ditanggung satu perusahaan atau satu instansi pemerintah saja.",
+   "Dalam Munas tersebut, Apnatel juga resmi melantik pengurus baru dengan Erikson Sianipar sebagai Ketua Umum untuk periode 2026-2031. Erikson menyambut positif dorongan pemerintah dan menyatakan komitmennya menjadikan asosiasi sebagai motor penggerak industri telekomunikasi nasional yang adaptif, kolaboratif, berdaya saing global, inklusif, berkelanjutan, dan berdaulat secara digital. Visi tersebut akan dijalankan melalui empat pilar transformasi, yaitu sumber daya manusia dan organisasi, bisnis, teknologi, serta tata kelola.",
+   "Erikson menegaskan kemandirian digital Indonesia tidak akan pernah tercapai jika pengusaha telekomunikasi lokal dibiarkan tertekan hingga runtuh. Ia mengajak seluruh pelaku industri bersatu untuk merebut kembali kejayaan telekomunikasi nasional di negeri sendiri."
+  ],
+  "fotoAdegan": "Telecommunications technicians checking equipment inside a telecom tower cabin, cable racks visible, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af5de0fa525b-kegiatan-musyawarah-nasional-munas-xii-asosiasi-perusahaan-nasional-telekomunikasi-apnatel-bertajuk-menguatkan-industri-telekomunikasi-nasional-untuk-kemandirian-digital-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar konkret dari acara ini baru pergantian pucuk pimpinan asosiasi, yaitu Erikson Sianipar resmi menjadi Ketua Umum Apnatel untuk periode 2026-2031. Dorongan Menteri Perindustrian soal kedaulatan industri telekomunikasi, untuk sekarang, masih berupa ajakan dan belum disertai aturan atau insentif tertentu yang disebut dalam berita ini. Pihak yang paling terdampak adalah perusahaan telekomunikasi nasional anggota Apnatel, termasuk pemain besar seperti Telkom, yang diminta bersatu menghadapi tekanan persaingan, termasuk dari pemain asing. Yang masih kurang untuk membaca ke mana arah kebijakan ini sebenarnya bergerak adalah bentuk konkret dari empat pilar transformasi yang disebutkan Erikson, misalnya apakah akan ada aturan kewajiban penggunaan produk dalam negeri atau insentif usaha dari Kementerian Perindustrian dalam waktu dekat.",
+  "imageV": "mwdqzggt"
+ },
+ {
+  "slug": "qris-jadi-fitur-terfavorit-pengguna-dompet-digital",
+  "category": "Perbankan",
+  "title": "QRIS Jadi Fitur [Terfavorit] Pengguna Dompet Digital",
+  "deck": "Riset MarkPlus 2026 menunjukkan QRIS kini jadi fitur paling sering dipakai pengguna dompet digital di Indonesia, mengungguli transfer dan belanja daring.",
+  "image": "assets/img/qris-jadi-fitur-terfavorit-pengguna-dompet-digital.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T22:27:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478075-qris-mengubah-cara-masyarakat-bertransaksi-dompet-digital-kini-jadi-cara-menghemat-pengeluaran",
+  "tags": [
+   "qris",
+   "dompet digital",
+   "pembayaran digital",
+   "e-wallet"
+  ],
+  "body": [
+   "Cara masyarakat Indonesia bertransaksi sehari-hari makin bergeser dari uang tunai ke pemindaian kode QR. Riset bertajuk E-Wallet Research 2026: Usage Behavior & QRIS Landscape dari MarkPlus, yang melibatkan 400 responden di berbagai kota, mencatat bahwa dompet digital kini bukan sekadar pengganti dompet fisik, melainkan pertimbangan konsumen soal cashback, potongan harga, dan biaya transaksi sebelum memilih cara bayar.",
+   "Survei itu menemukan 90,3 persen responden sudah memakai dompet digital lebih dari dua tahun, tanda bahwa kebiasaan ini sudah mengakar, bukan sekadar tren sesaat. Dari semua fitur yang tersedia, QRIS menjadi yang paling banyak dipakai dengan 85,3 persen responden menggunakannya, melampaui transfer uang di angka 77,3 persen, belanja daring 70,8 persen, dan pembelian produk digital seperti pulsa 69 persen.",
+   "Alasan utama orang memilih QRIS ternyata bukan soal diskon. Sebanyak 80,8 persen responden menyebut kepraktisan dan kecepatan transaksi sebagai alasan utama, sementara luasnya jaringan merchant yang menerima QRIS jadi pertimbangan 54,4 persen responden. Promosi dan cashback, yang sering dianggap pemicu utama orang beralih ke dompet digital, justru hanya disebut 51,3 persen responden, menempati urutan terakhir dari tiga alasan itu."
+  ],
+  "fotoAdegan": "A customer scanning a small QR code sticker with a smartphone at a street food cart, vendor arranging dishes nearby, busy morning market light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af5da68c9ddb-qris-mengubah-cara-masyarakat-bertransaksi-dompet-digital-kini-jadi-cara-menghemat-pengeluaran_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari data ini adalah urutan fitur dompet digital yang paling sering dipakai: QRIS di 85,3 persen kini mengungguli transfer uang, belanja daring, dan pembelian produk digital, sementara 90,3 persen penggunanya sudah akrab dengan dompet digital lebih dari dua tahun. Yang terdampak adalah konsumen yang makin bergantung pada QRIS untuk transaksi harian, serta penyedia dompet digital dan merchant yang bersaing memperluas jaringan QRIS mereka. Yang menarik, alasan orang memilih QRIS paling besar adalah kepraktisan (80,8 persen), bukan cashback atau promo (51,3 persen), yang mengindikasikan loyalitas pengguna mulai bergeser dari insentif harga ke kenyamanan memakai. Namun riset ini belum menjawab pertanyaan yang diajukannya sendiri, yaitu apakah kemudahan ini benar-benar menghemat pengeluaran dibanding memakai uang tunai. Yang masih kurang adalah data pembanding biaya nyata per transaksi atau survei lanjutan yang mengukur pengeluaran aktual pengguna, bukan sekadar frekuensi pemakaian.",
+  "imageV": "mwdqzgx6"
+ },
+ {
   "slug": "rupo-adhi-11-desember-2026-obligasi-tahap-iii-2022-dibahas",
   "category": "Aksi Korporasi",
   "title": "[RUPO] ADHI 11 Desember 2026: Obligasi Tahap III 2022 Dibahas",
@@ -124,6 +177,33 @@ var ARTICLES = [
   "judulIdx": "Laporan Informasi atau Fakta Material"
  },
  {
+  "slug": "ihsg-meroket-2-66-persen-usai-gibran-mundur",
+  "category": "Pasar Modal",
+  "title": "IHSG [Meroket] 2,66 Persen Usai Gibran Mundur",
+  "deck": "IHSG ditutup menguat 2,66 persen ke 5.250,90 pada Kamis, didorong redanya tensi politik usai mundurnya Wapres Gibran Rakabuming Raka dan jaminan stok beras nasional.",
+  "image": "assets/img/ihsg-meroket-2-66-persen-usai-gibran-mundur.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T20:38:29+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478065-gibran-mundur-ihsg-sore-ini-meroket-266-persen",
+  "tags": [
+   "IHSG",
+   "Gibran Rakabuming Raka",
+   "Bursa Efek Indonesia",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) menutup perdagangan Kamis dengan lonjakan tajam 2,66 persen ke posisi 5.250,90, meski pasar sedang diterpa sejumlah tekanan seperti pelemahan rupiah dan penyesuaian komposisi indeks global MSCI. Kenaikan ini menarik perhatian karena terjadi tepat di hari yang sama dengan mundurnya Wakil Presiden Gibran Rakabuming Raka, sebuah dinamika politik yang biasanya justru membuat investor was-was.",
+   "Kepala Riset Phintraco Sekuritas, Ratna Lim, menyebut lonjakan ini sebagai respons positif pelaku pasar terhadap meredanya potensi ketegangan politik dalam negeri pascapengunduran diri tersebut. Sentimen pasar juga terbantu oleh jaminan pemerintah bahwa stok beras nasional mencapai 4,5 juta ton menjelang akhir tahun, yang meredam kekhawatiran soal lonjakan harga pangan akibat ancaman cuaca El Nino.",
+   "Penguatan hari ini terjadi merata di seluruh sektor, dengan sektor industri memimpin kenaikan sebesar 4,53 persen, disusul sektor transportasi 3,12 persen dan energi 2,86 persen. Indeks LQ45 yang berisi 45 saham berkapitalisasi besar juga ikut naik ke posisi 543,06.",
+   "Aktivitas jual beli saham berlangsung sangat ramai dengan 1,49 juta kali transaksi, melibatkan 40,49 miliar lembar saham senilai total Rp11,98 triliun. Dari seluruh saham yang diperdagangkan, 560 saham naik harganya, 147 saham turun, dan 238 saham tidak bergerak dari posisi sebelumnya."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's stock exchange lobby with a large blurred ticker screen in the background, staff walking briskly in afternoon light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Pengunduran diri Wakil Presiden Gibran Rakabuming Raka menjadi pemicu utama lonjakan IHSG hari ini, karena pelaku pasar membacanya sebagai berkurangnya ketegangan politik dalam negeri yang sebelumnya membebani sentimen investor. Yang paling langsung merasakan dampaknya adalah investor di pasar modal, termasuk pemegang saham di sektor industri, transportasi, dan energi yang memimpin penguatan sore ini. Respons pasar yang serempak, dengan 560 saham naik berbanding hanya 147 yang turun, mengarah pada pembacaan bahwa investor untuk saat ini menilai proses pengisian jabatan wakil presiden berikutnya tidak akan mengganggu roda ekonomi. Yang akan menentukan apakah optimisme ini bertahan adalah pergerakan IHSG dan nilai tukar rupiah pada hari-hari berikutnya, serta kejelasan proses konstitusional pengisian kursi wakil presiden yang kini kosong.",
+  "imageV": "mwdqzhk3"
+ },
+ {
   "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
   "category": "Aksi Korporasi",
   "title": "NICE Tanggapi Bursa [Permintaan Penjelasan]: Kredit Citibank Rp100 M",
@@ -175,7 +255,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Pertemuan ini masih berupa penghimpunan masukan, belum ada aturan baru atau tenggat yang disebutkan secara konkret. Arah yang disampaikan adalah meniru program Jepang dan Korea Selatan agar perusahaan terbuka memperbaiki tata kelola dan efisiensi modal supaya harga sahamnya lebih menarik, dibarengi rencana mempercepat penindakan pelanggaran di bursa. Pihak yang berpotensi terdampak adalah pemegang saham publik dan investor, termasuk investor asing yang diminta menyampaikan kendala mereka berinvestasi di Indonesia, karena kebijakan ini menyangkut cara emiten dan regulator menjaga nilai aset yang mereka titipkan di bursa. Yang masih ditunggu untuk melihat apakah arah ini benar-benar berjalan adalah bentuk konkretnya, misalnya aturan OJK atau BEI soal percepatan penegakan aturan, serta hasil koordinasi soal pajak, bea masuk, dan energi hijau yang dijanjikan akan dibahas dengan kementerian lain.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "bi-resmikan-bank-kliring-yuan-untuk-dagang-ri-tiongkok",
@@ -203,7 +283,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah Indonesia kini memiliki bank kliring sendiri untuk yuan, dikelola Bank of China Jakarta dan didukung 12 bank nasional, sehingga transaksi dagang dengan Tiongkok bisa langsung pakai yuan tanpa singgah ke dolar Amerika Serikat. Pihak yang paling terdampak adalah bank-bank yang ditunjuk sebagai mitra serta eksportir dan importir yang berdagang dengan Tiongkok, karena mereka bisa menghemat biaya tukar mata uang dan mengurangi risiko kalau kurs dolar bergerak tajam. Lonjakan transaksi dari US$13,19 miliar sepanjang 2025 menjadi US$43,89 miliar hanya dalam sembilan bulan pertama 2026, ditambah penerbitan obligasi berdenominasi yuan yang naik dari CNY 7 miliar ke CNY 10 miliar, menunjukkan arah yang konsisten: penggunaan yuan dalam perdagangan Indonesia-Tiongkok makin dalam, bukan sekadar simbolis. Yang akan menentukan apakah tren ini benar-benar membantu memperbaiki defisit dagang Indonesia dengan Tiongkok, bukan sekadar memudahkan transaksi, adalah data ekspor Indonesia ke Tiongkok pada akhir 2026, karena angka yang dipublikasikan sejauh ini baru soal volume transaksi, belum soal arah neraca dagangnya.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",

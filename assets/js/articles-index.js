@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
+  "category": "Industri",
+  "title": "Menperin Dorong [Kedaulatan] Industri Telekomunikasi Nasional",
+  "deck": "Menperin mengajak pelaku usaha telekomunikasi bersatu demi kedaulatan digital, bertepatan dengan terpilihnya Erikson Sianipar sebagai Ketua Umum Apnatel baru.",
+  "date": "12 November 2026",
+  "image": "assets/img/menperin-dorong-kedaulatan-industri-telekomunikasi-nasional.jpg",
+  "imageV": "mwdqzggt",
+  "tags": [
+   "telekomunikasi",
+   "Apnatel",
+   "kedaulatan digital",
+   "Kemenperin"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478077-menperin-dorong-kedaulatan-industri-telekomunikasi-ini-respons-apnatel"
+ },
+ {
+  "slug": "qris-jadi-fitur-terfavorit-pengguna-dompet-digital",
+  "category": "Perbankan",
+  "title": "QRIS Jadi Fitur [Terfavorit] Pengguna Dompet Digital",
+  "deck": "Riset MarkPlus 2026 menunjukkan QRIS kini jadi fitur paling sering dipakai pengguna dompet digital di Indonesia, mengungguli transfer dan belanja daring.",
+  "date": "12 November 2026",
+  "image": "assets/img/qris-jadi-fitur-terfavorit-pengguna-dompet-digital.jpg",
+  "imageV": "mwdqzgx6",
+  "tags": [
+   "qris",
+   "dompet digital",
+   "pembayaran digital",
+   "e-wallet"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478075-qris-mengubah-cara-masyarakat-bertransaksi-dompet-digital-kini-jadi-cara-menghemat-pengeluaran"
+ },
+ {
   "slug": "rupo-adhi-11-desember-2026-obligasi-tahap-iii-2022-dibahas",
   "category": "Aksi Korporasi",
   "title": "[RUPO] ADHI 11 Desember 2026: Obligasi Tahap III 2022 Dibahas",
@@ -67,6 +101,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cd55282834_e50e16ad2b.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ihsg-meroket-2-66-persen-usai-gibran-mundur",
+  "category": "Pasar Modal",
+  "title": "IHSG [Meroket] 2,66 Persen Usai Gibran Mundur",
+  "deck": "IHSG ditutup menguat 2,66 persen ke 5.250,90 pada Kamis, didorong redanya tensi politik usai mundurnya Wapres Gibran Rakabuming Raka dan jaminan stok beras nasional.",
+  "date": "12 November 2026",
+  "image": "assets/img/ihsg-meroket-2-66-persen-usai-gibran-mundur.jpg",
+  "imageV": "mwdqzhk3",
+  "tags": [
+   "IHSG",
+   "Gibran Rakabuming Raka",
+   "Bursa Efek Indonesia",
+   "Pasar Modal"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478065-gibran-mundur-ihsg-sore-ini-meroket-266-persen"
  },
  {
   "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
@@ -6418,54 +6469,6 @@ var ARTICLES = [
    "Pergantian Direktur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61cd8fc5f0_7b3604b9a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "agrs-gelar-rupslb-ganti-direktur-utama-dan-status-pma",
-  "category": "Aksi Korporasi",
-  "title": "AGRS Gelar RUPSLB, [Ganti] Direktur Utama dan Status PMA",
-  "deck": "Bank IBK Indonesia mengundang RUPSLB 30 November 2026 untuk mengganti direksi dan menegaskan status penanaman modal asing.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AGRS",
-   "RUPSLB",
-   "Bank IBK Indonesia",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5a8ad22415_55c9f4bf39.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",
-  "category": "Aksi Korporasi",
-  "title": "CSIS Akhiri Rencana Jual Saham [KDTN] ke Ruby Mining",
-  "deck": "CSIS bersama dua mitranya dan Ruby Mining Hong Kong resmi membatalkan rencana penjualan 86 persen saham PT Puri Sentul Permai (KDTN) yang sudah dinegosiasikan sejak akhir 2025.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CSIS",
-   "KDTN",
-   "akuisisi",
-   "Ruby Mining"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e6a1faa9a2_136f920bb8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "roti-jadwalkan-rupslb-15-desember-catat-batas-pendaftaran",
-  "category": "Aksi Korporasi",
-  "title": "ROTI Jadwalkan [RUPSLB] 15 Desember, Catat Batas Pendaftaran",
-  "deck": "Nippon Indosari Corpindo mengumumkan rencana RUPSLB pada 15 Desember 2026, pemegang saham yang berhak hadir tercatat per 20 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROTI",
-   "RUPSLB",
-   "Nippon Indosari Corpindo",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de65d60bd2_eeee44fb2c.pdf",
   "sourceLabel": "IDX"
  }
 ];

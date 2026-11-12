@@ -5,6 +5,34 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kadi-selidiki-ulang-impor-baja-hrc-dari-belarus-dan-kazakstan",
+  "category": "Industri",
+  "title": "KADI Selidiki Ulang Impor Baja HRC dari [Belarus] dan Kazakstan",
+  "deck": "KADI membuka penyelidikan peninjauan kembali bea antidumping atas impor baja HRC dari Belarus dan Kazakstan, setelah menemukan indikasi perubahan margin dumping.",
+  "date": "12 November 2026",
+  "image": "assets/img/gudang-bahan-baku.jpg",
+  "tags": [
+   "Antidumping",
+   "Baja HRC",
+   "KADI",
+   "Impor"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-impor-hrc-asal-belarus-dan-kazakstan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bank-mandiri-gelar-lelang-properti-bunga-kpr-2-7-persen",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Gelar [Lelang] Properti Bunga KPR 2,7 Persen",
+  "deck": "Mandiri Lelang 2026 menawarkan rumah, tanah, apartemen, dan ruko hingga akhir Desember, dilengkapi KPR Lelang berbunga tetap 2,7 persen periode Oktober-November.",
+  "date": "12 November 2026",
+  "image": "assets/img/bank-mandiri-gelar-lelang-properti-bunga-kpr-2-7-persen.jpg",
+  "imageV": "mwde4rb9",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478030-ingin-punya-rumah-dengan-harga-lebih-kompetitif-cek-penawaran-mandiri-lelang-2026"
+ },
+ {
   "slug": "pemantauan-khusus-ptdu-tambah-kriteria-pkpu-pailit-efektif-13-nov",
   "category": "Aksi Korporasi",
   "title": "Pemantauan Khusus PTDU Tambah Kriteria [PKPU/Pailit], Efektif 13 Nov",
@@ -495,6 +523,23 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477885-penghimpunan-tabungan-cetak-rekor-tertinggi-sepanjang-sejarah-bukti-nyata-keberhasilan-transformasi-bri"
+ },
+ {
+  "slug": "4-manajer-investasi-bumn-merger-aum-tembus-rp170-triliun",
+  "category": "Pasar Modal",
+  "title": "4 Manajer Investasi BUMN [Merger], AUM Tembus Rp170 Triliun",
+  "deck": "Danantara meluncurkan Danareksa Investments usai menggabungkan Mandiri, BRI, BNI, dan PNM Investment Management dengan dana kelolaan Rp172,5 triliun.",
+  "date": "11 November 2026",
+  "image": "assets/img/4-manajer-investasi-bumn-merger-aum-tembus-rp170-triliun.jpg",
+  "imageV": "mwde4rg1",
+  "tags": [
+   "Danareksa Investments",
+   "Danantara",
+   "manajer investasi",
+   "Rosan Roeslani"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477880-danareksa-investments-resmi-diluncurkan-usai-merger-empat-manajer-investasi-aum-gabungan-tembus-rp170-triliun"
  },
  {
   "slug": "danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t",
@@ -6424,54 +6469,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476858-mengupas-tuntas-pentingnya-interaksi-pelanggan-bagi-pelaku-usaha-umkm-hingga-korporat"
- },
- {
-  "slug": "futr-jadwalkan-rupslb-14-desember-agenda-belum-diumumkan",
-  "category": "Aksi Korporasi",
-  "title": "FUTR Jadwalkan [RUPSLB] 14 Desember, Agenda Belum Diumumkan",
-  "deck": "FUTR menjadwalkan RUPSLB elektronik pada 14 Desember 2026. Pemegang saham yang tercatat per 19 November berhak hadir, sementara agenda rapat belum diumumkan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FUTR",
-   "RUPSLB",
-   "tata kelola",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a6c697149_1f96b3b66b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ahy-proyek-air-limbah-pluit-tekan-ekstraksi-air-tanah",
-  "category": "Makroekonomi",
-  "title": "AHY: Proyek Air Limbah Pluit [Tekan] Ekstraksi Air Tanah",
-  "deck": "Menko Infra AHY menyebut progres proyek pengolahan air limbah JSDP Zona 1 Pluit di Jakarta Utara sudah 76 persen, dengan target menekan penyedotan air tanah penyebab tanah ambles.",
-  "date": "5 November 2026",
-  "image": "assets/img/ahy-proyek-air-limbah-pluit-tekan-ekstraksi-air-tanah.jpg",
-  "imageV": "mw3rzx6o",
-  "tags": [
-   "AHY",
-   "Jakarta Utara",
-   "air tanah",
-   "IPAL Pluit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476845-menko-ahy-sebut-proyek-pembangunan-jsdp-zona-1-pluit-oleh-kemen-pu-tekan-penggunaan-air-tanah"
- },
- {
-  "slug": "cita-tegaskan-tak-terlibat-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "CITA Tegaskan Tak Terlibat [Penyelidikan] Karhutla Singapura",
-  "deck": "Cita Mineral Investindo menjawab permintaan penjelasan BEI soal pemanggilan Pemerintah Singapura ke grup usaha agribisnis terafiliasi terkait investigasi karhutla, dan menyatakan tidak terlibat.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITA",
-   "karhutla",
-   "Bursa Efek Indonesia",
-   "Singapura"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1ef77d120_7e37c66e82.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -37,6 +37,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "menko-pangan-dorong-produksi-gula-demi-kejar-swasembada",
+  "category": "Industri",
+  "title": "Menko Pangan Dorong Produksi Gula demi Kejar [Swasembada]",
+  "deck": "Menko Pangan Zulkifli Hasan mendorong penguatan produksi gula dan produktivitas tebu di Pabrik Gula Krebet, Malang, sebagai bagian upaya mengejar swasembada gula nasional.",
+  "date": "12 November 2026",
+  "image": "assets/img/menko-pangan-dorong-produksi-gula-demi-kejar-swasembada.jpg",
+  "imageV": "mwd8q6o9",
+  "tags": [
+   "gula",
+   "swasembada",
+   "pabrik gula",
+   "petani tebu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477985-zulkifli-hasan-dorong-peningkatan-produksi-gula-dalam-negeri-untuk-kejar-swasembada"
+ },
+ {
+  "slug": "kredit-umkm-bri-capai-rp1-250-triliun-porsi-75-9",
+  "category": "Perbankan",
+  "title": "Kredit UMKM BRI Capai Rp1.250 Triliun, Porsi [75,9%]",
+  "deck": "BRI menyalurkan kredit Rp1.250 triliun untuk UMKM hingga September 2026, setara 75,9 persen dari total kredit Rp1.647 triliun, meski porsinya menyusut dibanding tahun lalu.",
+  "date": "12 November 2026",
+  "image": "assets/img/kredit-umkm-bri-capai-rp1-250-triliun-porsi-75-9.jpg",
+  "imageV": "mwd8q730",
+  "tags": [
+   "BRI",
+   "UMKM",
+   "KUR",
+   "Kredit Perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477982-bri-dorong-pertumbuhan-umkm-indonesia-salurkan-kredit-rp1250-triliun"
+ },
+ {
   "slug": "rupst-rigs-10-november-dividen-nihil-direksi-lama-dipilih-lagi",
   "category": "Aksi Korporasi",
   "title": "RUPST RIGS 10 November: [Dividen] Nihil, Direksi Lama Dipilih Lagi",
@@ -423,13 +457,15 @@ var ARTICLES = [
   "title": "Ekspor RI [Naik] 5,58 Persen, TEI 2026 Lampaui Target",
   "deck": "Dalam pembukaan forum pameran IBEF 2026, pemerintah menyoroti ekspor Indonesia yang naik 5,58 persen pada Januari-September 2026, serta capaian Trade Expo Indonesia yang lampaui target transaksi.",
   "date": "11 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target.jpg",
+  "imageV": "mwd8qpvm",
   "tags": [
    "ekspor",
    "pameran dagang",
    "Kementerian Perdagangan",
    "Trade Expo Indonesia"
   ],
+  "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-tegaskan-peran-pameran-sebagai-jembatan-produk-indonesia-ke-pasar-global",
   "sourceLabel": "Kementerian Perdagangan"
  },
@@ -6438,37 +6474,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-perdagangan-komoditas-unggulan-indonesia-kemendag-menetapkan-minyak-nilam-menjadi-komoditas-srg",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "sbat-jadi-sasaran-tender-saham-mbst-harga-rp2-per-lembar",
-  "category": "Aksi Korporasi",
-  "title": "SBAT Jadi Sasaran [Tender] Saham MBST, Harga Rp2 per Lembar",
-  "deck": "MBST menawar tender sukarela maksimal 51,52 persen saham SBAT seharga Rp2 per lembar, senilai hingga Rp4,9 miliar, dengan pembayaran dijadwalkan 18 Januari 2027.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SBAT",
-   "tender sukarela",
-   "MBST",
-   "aksi korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d2d762a1e1_c8e7f48f50.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tirt-bantah-terlibat-penyelidikan-karhutla-singapura",
-  "category": "Aksi Korporasi",
-  "title": "TIRT Bantah Terlibat Penyelidikan [Karhutla] Singapura",
-  "deck": "Tirta Mahakam Resources menegaskan ke BEI bahwa dirinya dan grupnya tidak menjadi subjek penyelidikan Pemerintah Singapura atas kebakaran hutan dan lahan.",
-  "date": "5 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TIRT",
-   "karhutla",
-   "Bursa Efek Indonesia",
-   "Singapura"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52c13be528_cb03cffcbb.pdf",
-  "sourceLabel": "IDX"
  }
 ];

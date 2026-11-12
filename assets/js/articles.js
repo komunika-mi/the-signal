@@ -95,6 +95,59 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "menko-pangan-dorong-produksi-gula-demi-kejar-swasembada",
+  "category": "Industri",
+  "title": "Menko Pangan Dorong Produksi Gula demi Kejar [Swasembada]",
+  "deck": "Menko Pangan Zulkifli Hasan mendorong penguatan produksi gula dan produktivitas tebu di Pabrik Gula Krebet, Malang, sebagai bagian upaya mengejar swasembada gula nasional.",
+  "image": "assets/img/menko-pangan-dorong-produksi-gula-demi-kejar-swasembada.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T12:43:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477985-zulkifli-hasan-dorong-peningkatan-produksi-gula-dalam-negeri-untuk-kejar-swasembada",
+  "tags": [
+   "gula",
+   "swasembada",
+   "pabrik gula",
+   "petani tebu"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Pangan Zulkifli Hasan mendorong peningkatan produksi gula dalam negeri saat berkunjung ke Pabrik Gula Krebet di Malang, Jawa Timur, Selasa (10/11). Kunjungan itu bertepatan dengan acara tasyakuran penutupan musim giling tebu 2026, dan ia menjadikannya momentum untuk mengingatkan bahwa industri gula punya posisi penting dalam menjaga ketahanan pangan nasional. Dorongan ini relevan bagi pembaca karena menyangkut upaya pemerintah agar kebutuhan gula nasional bisa makin dipenuhi dari produksi di dalam negeri sendiri.",
+   "Dalam sambutannya, Zulkifli menegaskan bahwa penguatan produksi gula harus dibarengi peningkatan produktivitas tanaman tebu serta perlindungan bagi petani yang menjadi penopang utama pasokan bahan baku. Ia menyebut pemerintah akan terus mendorong sinergi antara BUMN gula dan seluruh pemangku kepentingan agar industri ini mampu memenuhi kebutuhan gula dalam negeri. Zulkifli juga mengapresiasi kerja petani tebu dan pekerja yang terlibat dalam proses produksi di Pabrik Gula Krebet sepanjang musim giling tahun ini.",
+   "Direktur Utama PT Sinergi Gula Nusantara (SGN), Mahmudi, menyambut perhatian pemerintah tersebut dan menyebutnya sebagai dorongan bagi perusahaan untuk meningkatkan kinerja serta produktivitas pabrik. Ia menyatakan kehadiran Zulkifli menjadi motivasi bagi PT SGN untuk berkontribusi nyata dalam target swasembada gula nasional. Acara tasyakuran akhir musim giling itu sendiri digelar sebagai bentuk penghargaan kepada petani tebu, tenaga kerja pabrik, dan mitra yang terlibat dalam proses produksi sepanjang 2026."
+  ],
+  "fotoAdegan": "Sugarcane delivery trucks queued outside a sugar mill gate, workers unloading stalks under hazy morning light in East Java",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af550f5d65b0-menteri-koordinator-bidang-pangan-zulkifli-hasan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang sebenarnya baru dari kunjungan ini bukan kebijakan, melainkan penegasan arah: Zulkifli Hasan meminta produksi gula dan produktivitas tebu dinaikkan, tanpa menyebut angka target produksi atau tahun swasembada yang dikejar. Pihak yang jelas kena imbasnya adalah petani tebu dan pabrik gula pelat merah seperti PT Sinergi Gula Nusantara, yang diminta memperkuat kinerja agar pasokan gula nasional makin mengandalkan produksi sendiri. Berita ini belum cukup untuk menyimpulkan ke mana arah kebijakan gula bergerak, sebab tidak ada data hasil giling musim 2026 yang baru selesai, tidak ada target tahun swasembada, dan tidak ada rincian dukungan harga atau insentif bagi petani. Yang perlu ditunggu adalah angka produksi gula nasional setelah musim giling 2026 resmi direkap serta langkah konkret sinergi dengan BUMN pangan yang disebut Zulkifli, karena itu yang akan menunjukkan apakah dorongan ini berlanjut jadi kebijakan atau berhenti di seremoni.",
+  "imageV": "mwd8q6o9"
+ },
+ {
+  "slug": "kredit-umkm-bri-capai-rp1-250-triliun-porsi-75-9",
+  "category": "Perbankan",
+  "title": "Kredit UMKM BRI Capai Rp1.250 Triliun, Porsi [75,9%]",
+  "deck": "BRI menyalurkan kredit Rp1.250 triliun untuk UMKM hingga September 2026, setara 75,9 persen dari total kredit Rp1.647 triliun, meski porsinya menyusut dibanding tahun lalu.",
+  "image": "assets/img/kredit-umkm-bri-capai-rp1-250-triliun-porsi-75-9.jpg",
+  "date": "12 November 2026",
+  "isoDate": "2026-11-12T12:31:23+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/477982-bri-dorong-pertumbuhan-umkm-indonesia-salurkan-kredit-rp1250-triliun",
+  "tags": [
+   "BRI",
+   "UMKM",
+   "KUR",
+   "Kredit Perbankan"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk mencatat penyaluran kredit kepada pelaku usaha mikro, kecil, dan menengah sebesar Rp1.250 triliun sampai akhir September 2026. Nilai itu setara 75,9 persen dari seluruh kredit yang disalurkan BRI, yang totalnya mencapai Rp1.647 triliun dan tumbuh 14,5 persen dibanding setahun sebelumnya. Capaian ini disampaikan Direktur Finance & Strategy BRI Achmad Royadi dalam konferensi pers kinerja keuangan triwulan III 2026 di Jakarta, Senin (9/11).",
+   "Dibandingkan posisi September 2025 yang sebesar Rp1.151 triliun, kredit UMKM BRI naik 8,6 persen. Namun kenaikan ini lebih lambat dari pertumbuhan kredit BRI secara keseluruhan, sehingga porsi kredit UMKM terhadap total portofolio justru turun dari sekitar 80 persen setahun lalu menjadi 75,9 persen saat ini. Achmad Royadi menyebut strategi penyaluran kredit BRI tetap mengutamakan kehati-hatian dan pertumbuhan yang selektif, bukan sekadar mengejar besaran nilai kredit.",
+   "Salah satu jalur utama pembiayaan UMKM adalah Kredit Usaha Rakyat atau KUR, program kredit bersubsidi bunga dari pemerintah untuk usaha produktif. Sejak 2015 hingga September 2026, BRI telah menyalurkan KUR secara kumulatif sebesar Rp1.602 triliun, sementara realisasi sepanjang Januari-September 2026 saja mencapai Rp167 triliun kepada lebih dari 3,18 juta debitur.",
+   "Berdasarkan sektor usaha, KUR paling banyak mengalir ke sektor pertanian dengan porsi 42,8 persen atau senilai Rp71,5 triliun, disusul sektor perdagangan sebesar Rp52,2 triliun. Menurut Achmad Royadi, penyaluran kredit UMKM dan KUR ini juga menjadi kontribusi BRI terhadap agenda pemerintah memperkuat ekonomi dari bawah serta mendorong pertumbuhan yang lebih inklusif ke seluruh daerah."
+  ],
+  "fotoAdegan": "Small traders arranging goods at a traditional market stall while a bank field officer reviews a loan ledger nearby",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/12/6af54d579e256-bri-salurkan-rp1250-triliun-kredit-demi-memajukan-umkm-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Angka yang lebih penting dari nilai Rp1.250 triliun itu sebenarnya porsinya: kredit UMKM kini 75,9 persen dari seluruh kredit BRI, turun dari sekitar 80 persen setahun lalu, karena kredit UMKM naik 8,6 persen sementara total kredit bank naik lebih cepat, 14,5 persen. Artinya kredit ke segmen yang lebih besar seperti korporasi dan konsumer tumbuh lebih kencang dibanding kredit ke pedagang kecil dan petani binaan BRI, sejalan dengan istilah pertumbuhan selektif yang disebut sendiri oleh manajemen, yaitu mengutamakan kehati-hatian ketimbang mengejar volume di segmen yang risikonya lebih tinggi. Pihak yang paling terdampak dari pergeseran ini adalah pelaku usaha mikro dan kecil pengguna KUR, terutama di sektor pertanian dan perdagangan yang menyerap sebagian besar dana tersebut. Yang perlu dicermati adalah apakah porsi kredit UMKM terus menyusut di laporan kuartal IV 2026 BRI awal tahun depan, karena itu akan menunjukkan apakah pelonggaran ke segmen UMKM memang sedang mengerut atau cuma fluktuasi sesaat.",
+  "imageV": "mwd8q730"
+ },
+ {
   "slug": "rupst-rigs-10-november-dividen-nihil-direksi-lama-dipilih-lagi",
   "category": "Aksi Korporasi",
   "title": "RUPST RIGS 10 November: [Dividen] Nihil, Direksi Lama Dipilih Lagi",
@@ -770,7 +823,7 @@ var ARTICLES = [
   "category": "Makroekonomi",
   "title": "Ekspor RI [Naik] 5,58 Persen, TEI 2026 Lampaui Target",
   "deck": "Dalam pembukaan forum pameran IBEF 2026, pemerintah menyoroti ekspor Indonesia yang naik 5,58 persen pada Januari-September 2026, serta capaian Trade Expo Indonesia yang lampaui target transaksi.",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target.jpg",
   "date": "11 November 2026",
   "isoDate": "2026-11-11T13:38:44.068Z",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-tegaskan-peran-pameran-sebagai-jembatan-produk-indonesia-ke-pasar-global",
@@ -788,9 +841,10 @@ var ARTICLES = [
    "Indonesia saat ini memiliki sekitar 150 hingga 160 pameran yang digelar setiap tahun di berbagai lokasi. Wamendag Roro mengatakan keberhasilan pameran semestinya diukur bukan hanya dari jumlah peserta atau pengunjung, melainkan dari tindak lanjut bisnis seperti kontak dagang, negosiasi, hingga realisasi transaksi ekspor. Ia juga mendorong sinergi lintas sektor perdagangan, ekonomi kreatif, dan pariwisata agar pameran memberi dampak ekonomi yang lebih luas."
   ],
   "fotoAdegan": "Wide convention hall with rows of trade exhibition booths displaying furniture and textile products, visitors browsing samples, bright overhead lighting",
-  "fotoSumber": "",
-  "kreditFoto": "",
-  "takeaway": "Di balik acara pembukaan forum ini, angka yang benar-benar konkret sebenarnya data lama: ekspor Indonesia Januari-September 2026 tumbuh 5,58 persen, dan pameran dagang Trade Expo Indonesia bulan Oktober lalu mengumpulkan potensi transaksi US$22,94 miliar, lebih tinggi dari target yang dipatok. Yang kena dampak langsung adalah pelaku usaha, terutama eksportir dan UMKM yang mengandalkan pameran untuk bertemu pembeli luar negeri, serta industri penyelenggara pameran yang jumlahnya mencapai 150 sampai 160 acara per tahun. Pidato pembukaan ini sendiri tidak membawa angka atau aturan baru, hanya mengulang capaian yang sudah diketahui sebelumnya. Yang masih kurang untuk menilai apakah ini tren nyata atau sekadar klaim sesaat adalah apakah 'potensi transaksi' TEI itu benar terealisasi jadi ekspor, dan hal itu baru akan terlihat dari laporan ekspor bulanan BPS pada periode-periode mendatang."
+  "fotoSumber": "https://www.kemendag.go.id/albums/S81wGcOHmcKGRIDC9ejat8FjTy9Binf1dhsmb2BD.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Di balik acara pembukaan forum ini, angka yang benar-benar konkret sebenarnya data lama: ekspor Indonesia Januari-September 2026 tumbuh 5,58 persen, dan pameran dagang Trade Expo Indonesia bulan Oktober lalu mengumpulkan potensi transaksi US$22,94 miliar, lebih tinggi dari target yang dipatok. Yang kena dampak langsung adalah pelaku usaha, terutama eksportir dan UMKM yang mengandalkan pameran untuk bertemu pembeli luar negeri, serta industri penyelenggara pameran yang jumlahnya mencapai 150 sampai 160 acara per tahun. Pidato pembukaan ini sendiri tidak membawa angka atau aturan baru, hanya mengulang capaian yang sudah diketahui sebelumnya. Yang masih kurang untuk menilai apakah ini tren nyata atau sekadar klaim sesaat adalah apakah 'potensi transaksi' TEI itu benar terealisasi jadi ekspor, dan hal itu baru akan terlihat dari laporan ekspor bulanan BPS pada periode-periode mendatang.",
+  "imageV": "mwd8qpvm"
  },
  {
   "slug": "oils-dirikan-anak-usaha-ignp-komisaris-direktur-ikut-setor-modal",

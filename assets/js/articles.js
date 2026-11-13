@@ -867,6 +867,34 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
+  "category": "Aksi Korporasi",
+  "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",
+  "deck": "Direktur Utama WIR ASIA Tbk, Stephen Budiman, mengajukan pengunduran diri karena alasan kesehatan pada 11 November 2026. Susunan direksi belum berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:05:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f9970a5a9_be63243b0e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIRG",
+  "tags": [
+   "WIRG",
+   "direksi",
+   "direktur utama",
+   "pengunduran diri"
+  ],
+  "body": [
+   "PT WIR ASIA Tbk (WIRG) mengumumkan telah menerima surat permohonan pengunduran diri dari Stephen Budiman, M.IM, dari jabatannya sebagai anggota Direksi dan sekaligus Direktur Utama perseroan. Surat tersebut diterima pada 11 November 2026 dengan alasan kesehatan. Keterbukaan informasi ini disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 13 November 2026, ditandatangani oleh Corporate Secretary Jeffrey Budiman.",
+   "Perseroan menyatakan permohonan tersebut masih dalam proses tindak lanjut sesuai Anggaran Dasar Perseroan dan peraturan yang berlaku, dan sampai tanggal keterbukaan ini belum ada perubahan pada susunan Direksi WIR ASIA. Perseroan menilai penerimaan permohonan ini tidak menimbulkan dampak material terhadap operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha, dan menyatakan akan mengambil langkah yang diperlukan agar fungsi pengurusan dan pengambilan keputusan tetap berjalan sesuai ketentuan yang berlaku.",
+   "Pengunduran diri ini muncul hanya sehari setelah RUPST WIRG pada 10 November 2026, di mana seluruh agenda disetujui dengan suara mayoritas di atas 99 persen dan seorang komisaris independen juga meninggalkan jabatannya. Dokumen keterbukaan ini tidak menyebutkan nama calon pengganti maupun tanggal RUPSLB atau keputusan Dewan Komisaris yang akan memformalkan pengunduran diri tersebut."
+  ],
+  "fotoAdegan": "Empty modern boardroom table with leather chairs around it, large windows overlooking a city skyline, soft morning light.",
+  "takeaway": "Laporan ini netral bagi fundamental perseroan: pengunduran diri belum mengubah susunan direksi, tidak menyentuh ekuitas atau kas perseroan, dan perseroan sendiri menilai tak ada dampak material, meski terjadi hanya sehari setelah RUPST 10 November yang juga melepas seorang komisaris independen sehingga patut dicermati sebagai rangkaian pergantian kepemimpinan. Pos yang tersentuh di sini bukan laporan keuangan, melainkan tata kelola: direktur utama memegang kendali strategi dan operasional harian perusahaan, sehingga kekosongan atau transisi di posisi ini lazim dipantau pelaku pasar walau tidak langsung mengubah angka di laporan keuangan. Yang perlu dipantau berikutnya adalah keputusan resmi Dewan Komisaris atau RUPSLB yang akan memformalkan pengunduran diri ini sesuai Anggaran Dasar Perseroan, serta pengumuman nama pengganti Direktur Utama, karena dokumen ini belum mencantumkan tanggal pasti untuk keduanya.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Keterbukaan Informasi atas Penerimaan Permohonan Pengunduran Diri sebagai Anggota Direksi dan selaku Direktur Utama PT WIR ASIA Tbk (Perseroan)"
+ },
+ {
   "slug": "bbkp-jawab-bursa-divestasi-85-kbbf-rampung-rp339-97-miliar",
   "category": "Aksi Korporasi",
   "title": "BBKP Jawab Bursa: [Divestasi] 85% KBBF Rampung Rp339,97 Miliar",
@@ -39334,8 +39362,8 @@ var ARTICLES = [
  {
   "slug": "mglv-panggil-rupslb-untuk-jaminan-aset-lebih-dari-50",
   "category": "Aksi Korporasi",
-  "title": "MGLV panggil RUPSLB untuk [jaminan] aset lebih dari 50%",
-  "deck": "PT NexAI Digital Infrastruktur Tbk memanggil RUPSLB 12 November 2026 untuk meminta persetujuan menjaminkan lebih dari separuh kekayaan bersihnya demi memperoleh pinjaman.",
+  "title": "RUPSLB MGLV 12 November: Penjaminan Aset 50% [Disetujui]",
+  "deck": "RUPSLB PT NexAI Digital Infrastruktur Tbk (MGLV) pada 12 November 2026 menyetujui rencana menjaminkan aset lebih dari separuh kekayaan bersihnya, didukung 77,79 persen suara pemegang saham yang hadir.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 Oktober 2026",
   "isoDate": "2026-10-21T21:41:43",
@@ -39345,17 +39373,28 @@ var ARTICLES = [
   "tags": [
    "MGLV",
    "RUPSLB",
-   "jaminan aset",
-   "pinjaman"
+   "penjaminan aset",
+   "corporate guarantee"
   ],
   "body": [
-   "PT NexAI Digital Infrastruktur Tbk (MGLV) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 12 November 2026 pukul 14.00 WIB di Function Hall Pacific Century Place Lantai B1 Room B, Jl. Jend. Sudirman Kav. 52-53, Senayan, Kebayoran Baru, Jakarta Selatan. Rapat juga digelar secara elektronik melalui fasilitas eASY.KSEI. Satu-satunya agenda RUPSLB ini adalah persetujuan rencana perseroan untuk menjaminkan harta kekayaan perseroan lebih dari 50 persen dari total kekayaan bersihnya, sesuai Pasal 102 Undang-Undang Perseroan Terbatas yang mewajibkan persetujuan RUPS untuk penjaminan aset sebesar itu.",
-   "Dalam penjelasan agenda, perseroan menyebutkan rencana ini diajukan sehubungan dengan upaya memperoleh pinjaman serta menjaminkan sebagian besar aset perseroan dan/atau entitas anaknya, termasuk kemungkinan memberikan jaminan perusahaan (corporate guarantee). Dokumen pemanggilan ini tidak mencantumkan nilai pinjaman yang akan diperoleh, pihak pemberi pinjaman, maupun aset spesifik mana yang akan dijaminkan.",
-   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 20 Oktober 2026 pukul 16.00 WIB. Bagi yang memberi kuasa melalui PT Adimitra Jasa Korpora selaku Biro Administrasi Efek, dokumen kuasa harus diserahkan paling lambat 11 November 2026 pukul 16.00 WIB, sementara pemberian kuasa dan suara melalui aplikasi eASY.KSEI dibuka hingga pukul 12.00 WIB pada tanggal yang sama, satu hari kerja sebelum RUPSLB."
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) resmi mengantongi restu pemegang saham untuk menjaminkan harta kekayaan perseroan lebih dari 50 persen dari total kekayaan bersihnya. Keputusan ini disahkan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Kamis, 12 November 2026, dan disetujui bulat oleh 77,79 persen hak suara yang hadir, tanpa ada suara menolak atau abstain.",
+   "Rapat yang berlangsung di Function Hall Pacific Century Place, Jakarta, dan secara elektronik melalui platform eASY.KSEI itu dihadiri pemegang saham yang mewakili 1.481.862.300 saham dari total 1.904.883.411 saham dengan hak suara, atau 77,79 persen. Tidak ada pemegang saham yang mengajukan pertanyaan maupun pendapat sebelum pemungutan suara dilakukan.",
+   "Rencana penjaminan aset ini pertama diumumkan melalui pemanggilan RUPSLB pada 21 Oktober 2026. Perseroan menyebutkan penjaminan dilakukan dalam bentuk aset dan/atau jaminan perusahaan (corporate guarantee), sehubungan dengan fasilitas pinjaman yang telah maupun akan diberikan kepada perseroan, anak perusahaan, atau pihak terafiliasi. Sama seperti pemanggilan sebelumnya, ringkasan risalah hasil rapat ini tidak mencantumkan nilai pinjaman, pihak pemberi pinjaman, maupun aset spesifik yang akan dijaminkan.",
+   "Dengan persetujuan ini, pemegang saham juga memberi kuasa penuh kepada Direksi perseroan, termasuk hak substitusi, untuk menandatangani seluruh perjanjian dan dokumen yang diperlukan guna merealisasikan penjaminan aset tersebut, tanpa perlu persetujuan RUPS lagi untuk setiap transaksi turunannya."
   ],
   "fotoAdegan": "Modern glass office towers in Jakarta's SCBD business district at dusk, taxis passing along a busy street below",
-  "takeaway": "Laporan ini condong negatif bagi pemegang saham karena perseroan meminta restu untuk menjaminkan lebih dari separuh seluruh kekayaan bersihnya demi mendapat pinjaman baru, tanpa menyebutkan besaran pinjaman, pemberi pinjaman, atau penggunaan dananya. Penjaminan sebesar itu berpotensi menambah beban utang dan beban bunga yang harus ditanggung perseroan ke depan, sekaligus membuat sebagian besar aset perseroan berisiko disita kreditur apabila terjadi gagal bayar, yang pada akhirnya bisa menggerus nilai ekuitas pemegang saham dalam skenario terburuk. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 12 November 2026, serta keterbukaan informasi lanjutan yang mestinya mengungkap nilai pinjaman, pihak pemberi pinjaman, dan aset spesifik yang akhirnya dijaminkan begitu transaksi ini direalisasikan.",
-  "sentimen": "negatif"
+  "takeaway": "Laporan ini tetap condong negatif bagi pemegang saham: RUPSLB menyetujui bulat rencana menjaminkan lebih dari separuh kekayaan bersih perseroan, namun nilai pinjaman, pemberi pinjaman, dan aset spesifik yang dijaminkan masih tidak diungkapkan, bahkan setelah Direksi mendapat kuasa penuh untuk merealisasikannya tanpa persetujuan RUPS lagi. Pos yang tersentuh adalah ekuitas dan beban bunga: begitu aset dijaminkan dan pinjaman dicairkan, kewajiban utang perseroan bertambah dan sebagian besar asetnya berisiko disita kreditur jika terjadi gagal bayar, yang bisa menggerus kekayaan bersih yang menjadi hak pemegang saham. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan begitu Direksi benar-benar menandatangani perjanjian pinjaman dan jaminan ini, yang mestinya baru mengungkap besaran pinjaman, pihak pemberi pinjaman, serta aset mana yang akhirnya dijadikan jaminan.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T22:06:03",
+    "ringkas": "RUPSLB MGLV 12 November 2026 menyetujui penjaminan aset lebih dari 50% kekayaan bersih, didukung 77,79 persen suara yang hadir.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cb177fcb25_b3d4d01299.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-13T22:06:03",
+  "peristiwa": "rups"
  },
  {
   "slug": "mbss-koreksi-jadwal-buyback-saham-rampung-31-desember",

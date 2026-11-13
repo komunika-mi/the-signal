@@ -452,6 +452,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
+  "category": "Aksi Korporasi",
+  "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",
+  "deck": "Direktur Utama WIR ASIA Tbk, Stephen Budiman, mengajukan pengunduran diri karena alasan kesehatan pada 11 November 2026. Susunan direksi belum berubah.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIRG",
+   "direksi",
+   "direktur utama",
+   "pengunduran diri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f9970a5a9_be63243b0e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bbkp-jawab-bursa-divestasi-85-kbbf-rampung-rp339-97-miliar",
   "category": "Aksi Korporasi",
   "title": "BBKP Jawab Bursa: [Divestasi] 85% KBBF Rampung Rp339,97 Miliar",
@@ -6481,22 +6497,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-7492-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bksl-direksi-tambah-652-9-juta-saham-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "BKSL: Direksi Tambah 652,9 Juta Saham via [Repo]",
-  "deck": "Laporan ke OJK menyebut kepemilikan direksi Sentul City Tbk di saham BKSL bertambah 652,9 juta lembar lewat transaksi repo pada 6 November 2026, hak suara naik dari 5,44% menjadi 5,83%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BKSL",
-   "Sentul City",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8548-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-13T04:38:01.553+07:00",
+ "diperbarui": "2026-11-14T04:03:01.052+07:00",
  "entri": [
+  {
+   "id": "2026-11-13-3",
+   "edisi": "2026-11-13",
+   "benang": "Belanja Negara Melaju, Subsidi Energi Tertekan Kurs",
+   "klaim": "Skenario penyerapan anggaran yang cepat dan pemutihan sanksi pajak menambal penerimaan sehingga subsidi tetap tertangani sedikit lebih mungkin terjadi dibanding skenario pelemahan rupiah membuat beban subsidi membengkak lebih cepat dari perkiraan.",
+   "penanda": "Data realisasi APBN November yang dirilis Kementerian Keuangan",
+   "tenggat": "2026-12-10",
+   "tenggatLabel": "data realisasi APBN November yang biasa dirilis Kementerian Keuangan pada awal Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-13-2",
+   "edisi": "2026-11-13",
+   "benang": "Tekanan Utang dan Tata Kelola Emiten Meluas",
+   "klaim": "Tekanan utang dan masalah tata kelola emiten mengarah ke pola yang makin menyebar ke lebih banyak emiten, bukan lagi kasus yang terisolasi.",
+   "penanda": "Sidang lanjutan PKPU WIKON",
+   "tenggat": "2026-11-17",
+   "tenggatLabel": "Sidang lanjutan PKPU WIKON pada 17 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-13-1",
+   "edisi": "2026-11-13",
+   "benang": "Ekspor Tumbuh dari Harga, Devisa Diperketat",
+   "klaim": "Arah kebijakan bergerak ke penguatan kendali negara atas aliran devisa hasil ekspor komoditas sumber daya alam.",
+   "penanda": "Isi revisi aturan devisa hasil ekspor tambang soal porsi dana yang wajib mengendap di bank dalam negeri, yang disebut sedang disiapkan pemerintah",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-12-3",
    "edisi": "2026-11-12",

@@ -21,6 +21,57 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah",
+  "category": "UMKM",
+  "title": "PNM [Perluas] Pembiayaan Mekaar Bunga 8% ke 1,7 Juta Nasabah",
+  "deck": "PNM memperluas pembiayaan Mekaar berbunga 8 persen lewat program KPPS bersama pemerintah, menargetkan 1,7 juta nasabah perempuan pelaku usaha ultra mikro hingga akhir 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah.jpg",
+  "imageV": "mwf5fcws",
+  "tags": [
+   "PNM Mekaar",
+   "UMKM",
+   "Pembiayaan Ultra Mikro",
+   "Batam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478220-pnm-perluas-pembiayaan-mekaar-bunga-8-targetkan-17-juta-nasabah"
+ },
+ {
+  "slug": "25-driver-ojol-menang-motor-dari-program-boom-pertamina",
+  "category": "Energi",
+  "title": "25 Driver Ojol Menang [Motor] dari Program BOOM Pertamina",
+  "deck": "Pertamina menyerahkan 25 motor Honda Vario kepada pemenang program loyalitas BOOM Periode 2 bagi pengemudi ojol pengguna BBM non-subsidi dan MyPertamina.",
+  "date": "13 November 2026",
+  "image": "assets/img/25-driver-ojol-menang-motor-dari-program-boom-pertamina.jpg",
+  "imageV": "mwf5fdc8",
+  "tags": [
+   "Pertamina",
+   "ojol",
+   "BBM non-subsidi",
+   "MyPertamina"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478218-dapat-motor-baru-dari-pertamina-puluhan-driver-ojol-makin-semangat-cari-orderan"
+ },
+ {
+  "slug": "melon-bansari-tembus-pasar-nasional-via-program-bri",
+  "category": "UMKM",
+  "title": "Melon Bansari [Tembus] Pasar Nasional via Program BRI",
+  "deck": "Petani melon premium Bansari, Temanggung, kini menjangkau pembeli nasional lewat program Klasterku Hidupku BRI, setelah sebelumnya pasar mereka terbatas di Temanggung.",
+  "date": "13 November 2026",
+  "image": "assets/img/melon-bansari-tembus-pasar-nasional-via-program-bri.jpg",
+  "imageV": "mwf5fdr5",
+  "tags": [
+   "BRI",
+   "Klasterku Hidupku",
+   "melon premium",
+   "Temanggung"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478216-petani-melon-bansari-perluas-akses-pasar-melalui-program-klasterku-hidupku-bri"
+ },
+ {
   "slug": "sukuk-mudharabah-boga-rp400-miliar-refinancing-utang-bri-rp200-m",
   "category": "Aksi Korporasi",
   "title": "Sukuk Mudharabah BOGA Rp400 Miliar: [Refinancing] Utang BRI Rp200 M",
@@ -316,6 +367,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70fcebb9d3_7793cef2e6.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bank-mandiri-gelar-lelang-aset-properti-hingga-akhir-2026",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Gelar [Lelang] Aset Properti hingga Akhir 2026",
+  "deck": "Bank Mandiri menawarkan aset agunan mulai rumah hingga gudang lewat Mandiri Lelang 2026, dilengkapi KPR bunga tetap mulai 2,7 persen periode Oktober-November.",
+  "date": "13 November 2026",
+  "image": "assets/img/bank-mandiri-gelar-lelang-aset-properti-hingga-akhir-2026.jpg",
+  "imageV": "mwf5fdxb",
+  "tags": [
+   "Bank Mandiri",
+   "Lelang Properti",
+   "KPR",
+   "Aset Agunan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478191-bank-mandiri-perluas-pilihan-aset-properti-melalui-mandiri-lelang-2026"
  },
  {
   "slug": "mandiri-gelar-lelang-properti-sampai-akhir-2026",
@@ -6429,70 +6497,6 @@ var ARTICLES = [
    "repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8548-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-saham-mknt-terkonsentrasi-99-64-di-segelintir-investor",
-  "category": "Aksi Korporasi",
-  "title": "BEI: Saham MKNT [Terkonsentrasi] 99,64% di Segelintir Investor",
-  "deck": "Bursa Efek Indonesia mencatat 99,64% saham MKNT dikuasai sejumlah terbatas pemegang saham per 5 November 2026, menyusul status Unusual Market Activity pada saham ini.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "BEI",
-   "kepemilikan saham",
-   "UMA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d396738a24_c24aff7724.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "brms-direksi-agoes-tambah-saham-tak-langsung-rp995-juta",
-  "category": "Aksi Korporasi",
-  "title": "BRMS: Direksi Agoes [Tambah] Saham Tak Langsung Rp995 Juta",
-  "deck": "Direksi BRMS Agoes Projosasmito membeli 3,225 juta saham secara tidak langsung pada 4 November 2026, menaikkan kepemilikannya 21,26 persen meski hak suaranya tetap 0,01 persen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "Bumi Resources Minerals",
-   "kepemilikan saham direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1586-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "film-direksi-tambah-saham-lewat-repo-ke-11-26-suara",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Direksi [tambah] saham lewat repo ke 11,26% suara",
-  "deck": "Pelapor berstatus Direksi FILM, Samuel Sekuritas Indonesia, menambah kepemilikan saham MD Entertainment lewat rangkaian transaksi repo pada 6 November 2026, hak suara naik dari 8,85% menjadi 11,26%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-0611-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "yupi-bagikan-dividen-interim-rp14-83-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "YUPI Bagikan [Dividen] Interim Rp14,83 per Saham",
-  "deck": "Yupi Indo Jelly Gum membagikan dividen interim Rp126,76 miliar dari laba sembilan bulan 2026, dibayar 26 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "YUPI",
-   "dividen interim",
-   "pasar modal",
-   "emiten konsumer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/77ca9fa432_188701019d.pdf",
   "sourceLabel": "IDX"
  }
 ];

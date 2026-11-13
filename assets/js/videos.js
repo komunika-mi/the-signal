@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "HLKO-HUZy5U",
+  "title": "GAPKI Gelar Konferensi Sawit Terbesar di Dunia di Bali",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "GAPKI menggelar Indonesian Palm Oil Conference (IPOC) 2026 di Bali mulai 12 November 2026, sekaligus membahas proyeksi harga sawit untuk 2027.",
+  "takeaway": "Forum ini penting bagi pembaca ekonomi karena menjadi acuan pelaku industri sawit dalam memproyeksikan harga komoditas unggulan ekspor Indonesia.",
+  "terbit": "2026-11-13T14:34:21+00:00"
+ },
+ {
+  "id": "buOcnG1FMOU",
+  "title": "Kadin Gelar Monthly Economic Diplomatic Breakfast",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "Kadin Indonesia menggelar forum rutin bulanan Monthly Economic Diplomatic Breakfast bersama sejumlah duta besar untuk membahas kerja sama ekonomi.",
+  "takeaway": "Forum ini relevan karena menjadi wadah dialog rutin pelaku usaha dengan perwakilan negara sahabat demi memperkuat peluang investasi dan perdagangan.",
+  "terbit": "2026-11-13T14:33:51+00:00"
+ },
+ {
   "id": "AtgNTuySIYQ",
   "title": "Ekosistem Usaha Perikanan dari Nelayan ke Pasar di Ciwaru",
   "category": "UMKM",

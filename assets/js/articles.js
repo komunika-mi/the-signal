@@ -31,6 +31,87 @@ var ARTICLES = [
   "judulIdx": "Transaksi Afiliasi"
  },
  {
+  "slug": "pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah",
+  "category": "UMKM",
+  "title": "PNM [Perluas] Pembiayaan Mekaar Bunga 8% ke 1,7 Juta Nasabah",
+  "deck": "PNM memperluas pembiayaan Mekaar berbunga 8 persen lewat program KPPS bersama pemerintah, menargetkan 1,7 juta nasabah perempuan pelaku usaha ultra mikro hingga akhir 2026.",
+  "image": "assets/img/pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:48:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478220-pnm-perluas-pembiayaan-mekaar-bunga-8-targetkan-17-juta-nasabah",
+  "tags": [
+   "PNM Mekaar",
+   "UMKM",
+   "Pembiayaan Ultra Mikro",
+   "Batam"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) memperluas program pembiayaan Mekaar dengan bunga 8 persen, lebih ringan dari skema sebelumnya, untuk membuka akses modal bagi perempuan prasejahtera pelaku usaha ultra mikro. Perusahaan menargetkan program ini bisa menjangkau 1,7 juta nasabah hingga akhir 2026. Langkah ini penting karena kelompok usaha ultra mikro biasanya paling sulit mengakses kredit formal dengan bunga terjangkau.",
+   "Program ini dimulai sebagai proyek percontohan pada 3 September 2026 di 10 Unit Mekaar yang tersebar di Jawa, Sumatera, Sulawesi, Kalimantan, dan Bali. Pada tahap ini, seluruh dana pembiayaan ditanggung sendiri oleh PNM dari kas internal perusahaan. Uji coba tersebut dipakai untuk mengukur respons nasabah dan kesiapan operasional sebelum program diperbesar.",
+   "Setelah tahap piloting, PNM menggandeng Kementerian Koordinator Bidang Perekonomian dan Kementerian UMKM melalui program Kredit Program Perumahan dan Pemberdayaan Usaha (KPPS). Berbeda dari piloting, skema ini memakai kredit program milik pemerintah untuk disalurkan ke nasabah Mekaar. Implementasinya dimulai 10 November 2026, bertepatan dengan Hari Pahlawan, lewat penyaluran perdana kepada nasabah di Batam, Kepulauan Riau, yang disaksikan Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo.",
+   "Pemilihan Batam sebagai lokasi pertama bukan tanpa alasan. Wilayah ini berbatasan langsung dengan Singapura dan menjadi kawasan penting dalam aktivitas ekonomi regional, sehingga pertumbuhan ekonominya dinilai perlu diiringi penguatan kapasitas pengusaha lokal, termasuk perempuan yang menjalankan usaha ultra mikro."
+  ],
+  "fotoAdegan": "A woman vendor arranging snacks and small goods at a modest roadside stall in an Indonesian neighborhood, soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af714a578ed2-pnm-perluas-pembiayaan-mekaar-bunga-8-targetkan-17-juta-nasabah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma soal bunga, tapi sumber uangnya. Saat masih berupa piloting di 10 titik sejak September 2026, seluruh dana pembiayaan bunga 8 persen ini ditanggung sendiri oleh PNM dari kas perusahaan. Begitu masuk program KPPS pada 10 November 2026, dananya beralih memakai kredit program milik pemerintah, sehingga PNM kini menyalurkan uang negara, bukan lagi modal sendiri, kepada nasabah perempuan pelaku usaha ultra mikro. Yang langsung kena dampaknya adalah nasabah di 10 titik piloting dan nasabah baru di Batam sebagai lokasi pertama program ini berjalan dengan dana pemerintah. Pergeseran ini mengarah ke perluasan pembiayaan murah secara bertahap lewat dana negara, bukan sekadar program korporasi, dan yang akan memastikan arah ini adalah apakah target 1,7 juta nasabah sampai akhir 2026 tercapai serta apakah program KPPS diperluas ke titik Mekaar lain setelah Batam.",
+  "imageV": "mwf5fcws"
+ },
+ {
+  "slug": "25-driver-ojol-menang-motor-dari-program-boom-pertamina",
+  "category": "Energi",
+  "title": "25 Driver Ojol Menang [Motor] dari Program BOOM Pertamina",
+  "deck": "Pertamina menyerahkan 25 motor Honda Vario kepada pemenang program loyalitas BOOM Periode 2 bagi pengemudi ojol pengguna BBM non-subsidi dan MyPertamina.",
+  "image": "assets/img/25-driver-ojol-menang-motor-dari-program-boom-pertamina.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:41:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478218-dapat-motor-baru-dari-pertamina-puluhan-driver-ojol-makin-semangat-cari-orderan",
+  "tags": [
+   "Pertamina",
+   "ojol",
+   "BBM non-subsidi",
+   "MyPertamina"
+  ],
+  "body": [
+   "PT Pertamina Patra Niaga mulai menyerahkan hadiah utama berupa sepeda motor Honda Vario Evo 160 CBS kepada pemenang Program Berkah Ojek Online MyPertamina (BOOM) Periode 2. Penyerahan simbolis bagi pemenang wilayah Jakarta dan sekitarnya berlangsung Rabu, 11 November 2026, di SMEXPO Nasional Kota Kasablanka Mall dan SPBU COCO Kuningan, Jakarta.",
+   "Program ini menjaring 25 pengemudi ojol sebagai pemenang lewat undian yang digelar 17 Agustus 2026 di Hutan Kota GBK. Para pemenang tersebar di delapan wilayah, yaitu Bangka Belitung, Jawa Barat, Banten, DKI Jakarta, Yogyakarta, Jawa Tengah, Jawa Timur, dan Kalimantan Timur. Pertamina menjadwalkan penyerahan hadiah ke seluruh pemenang berlangsung bertahap hingga akhir November 2026.",
+   "Direktur Pemasaran Ritel Pertamina Patra Niaga, Eko Ricky Susanto, mengatakan program ini adalah bentuk apresiasi kepada mitra pengemudi ojol yang setia menggunakan BBM non-subsidi Pertamina dan aktif bertransaksi lewat aplikasi MyPertamina. Ia berharap motor baru itu bisa menjadi penyemangat dan mempermudah operasional harian para driver.",
+   "Dalam seremoni di Jakarta, enam pemenang hadir menerima hadiah secara simbolis, yaitu Mashur dari Gojek, Sri Dwinanto dan Toiby Adya Lubis dari Grab, Bayu Novian Firdaus dari Maxim, Khoerul Nur Rizqi dari Gojek, serta Bobby dari Grab. Sri Dwinanto, pengemudi asal Jakarta Utara yang sudah menjalani profesi ojol sejak 2015, mengaku bersyukur dan merasa terbantu oleh program tersebut."
+  ],
+  "fotoAdegan": "Ride-hailing motorcycle drivers in helmets gathered around a row of brand-new scooters at an outdoor handover event in Jakarta",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af713141f933-pt-pertamina-patra-niaga-resmi-menyerahkan-hadiah-utama-berupa-sepeda-motor-kepada-para-mitra-pengemudi-ojek-online-ojol_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah Pertamina melanjutkan program hadiah motor untuk ojol ke periode kedua, tandanya ini bukan promosi sekali jalan melainkan program berulang yang sudah punya periode sebelumnya. Yang terdampak langsung adalah pengemudi ojol dari Gojek, Grab, dan Maxim yang rutin membeli BBM non-subsidi, yaitu bahan bakar yang dijual dengan harga pasar tanpa bantuan harga pemerintah, serta aktif bertransaksi lewat aplikasi MyPertamina, karena syarat ikut undian ini memang dari situ. Di balik kata apresiasi, program semacam ini pada dasarnya cara Pertamina mengikat loyalitas kelompok pembeli BBM dalam jumlah besar dan rutin, supaya tetap memilih produk non-subsidi dan memakai aplikasi resmi mereka ketimbang pindah ke kompetitor. Karena proses bagi hadiah pemenang periode ini masih berjalan sampai akhir November 2026, hal yang perlu dicermati adalah apakah sesudahnya Pertamina mengumumkan Periode 3, sebab itu yang akan menunjukkan apakah program ini jadi strategi permanen atau cuma berhenti di dua periode.",
+  "imageV": "mwf5fdc8"
+ },
+ {
+  "slug": "melon-bansari-tembus-pasar-nasional-via-program-bri",
+  "category": "UMKM",
+  "title": "Melon Bansari [Tembus] Pasar Nasional via Program BRI",
+  "deck": "Petani melon premium Bansari, Temanggung, kini menjangkau pembeli nasional lewat program Klasterku Hidupku BRI, setelah sebelumnya pasar mereka terbatas di Temanggung.",
+  "image": "assets/img/melon-bansari-tembus-pasar-nasional-via-program-bri.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:35:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478216-petani-melon-bansari-perluas-akses-pasar-melalui-program-klasterku-hidupku-bri",
+  "tags": [
+   "BRI",
+   "Klasterku Hidupku",
+   "melon premium",
+   "Temanggung"
+  ],
+  "body": [
+   "Petani melon premium di Desa Bansari, Kabupaten Temanggung, Jawa Tengah, kini bisa menjual hasil panen dari rumah kaca mereka ke pembeli di luar wilayahnya, setelah mendapat pendampingan pemasaran lewat program Klasterku Hidupku BRI. Perluasan pasar ini penting karena sebelumnya para petani kesulitan memastikan pembeli untuk melon premium yang mereka tanam, meski kualitas buahnya sudah mereka jaga ketat.",
+   "Usaha ini bermula pada 2021 ketika sekelompok petani Bansari mulai membudidayakan melon premium sebagai komoditas unggulan desa. Pada masa awal, perhatian mereka lebih banyak tercurah pada cara menghasilkan buah berkualitas, namun begitu produksi berjalan, muncul tantangan baru: memastikan hasil panen punya pasar yang jelas dan nilai jual yang layak.",
+   "Melalui program Klasterku Hidupku, BRI mendampingi klaster ini mengikuti berbagai pameran dan kegiatan promosi yang mempertemukan petani dengan calon pembeli dari berbagai daerah, termasuk pelaku usaha berskala nasional. Hendi Nur Seto, salah satu penggerak klaster, menyebut kelompoknya kini telah menjalin nota kesepahaman (MoU) dengan pembeli-pembeli nasional, perubahan besar dari kondisi sebelumnya yang pasarnya hanya terbatas di Temanggung.",
+   "Terbukanya akses pasar yang lebih luas ini juga mengubah cara petani mengelola usahanya. Jika sebelumnya mereka menanam dulu dan menjual sesuai harga pasar yang terbentuk, kini para petani mulai menyusun rencana produksi sejak awal masa tanam dengan mempertimbangkan kebutuhan pembeli terlebih dahulu."
+  ],
+  "fotoAdegan": "Farmers tending netted melon vines inside a greenhouse on a hillside, morning light filtering through a plastic sheeting roof",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af71169ccf2f-salah-satu-penggerak-klaster-usaha-melon-bansari-hendi-nur-seto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah jalur pasarnya, bukan cara bertaninya: klaster melon Bansari yang sejak 2021 fokus membenahi kualitas buah, kini punya nota kesepahaman dengan pembeli skala nasional lewat pendampingan BRI, setelah sebelumnya cuma mengandalkan pembeli di sekitar Temanggung. Yang terdampak jelas kelompok petani melon premium di Desa Bansari, karena perluasan pasar ini langsung menentukan ke mana dan ke siapa hasil panen mereka bisa dijual. Tapi berita ini tidak menyebut berapa petani yang tergabung dalam klaster, berapa nilai atau volume yang disepakati dalam MoU itu, maupun siapa saja pembeli nasional yang dimaksud. Tanpa angka-angka itu, belum bisa dipastikan apakah perluasan pasar ini benar-benar mengubah pendapatan petani secara berarti atau baru sebatas pembukaan jalur kerja sama. Yang perlu ditunggu adalah data realisasi penjualan dari MoU tersebut atau jumlah klaster tani serupa yang dikembangkan BRI di daerah lain, agar jelas apakah program ini berdampak luas atau masih sebatas cerita satu kelompok tani.",
+  "imageV": "mwf5fdr5"
+ },
+ {
   "slug": "sukuk-mudharabah-boga-rp400-miliar-refinancing-utang-bri-rp200-m",
   "category": "Aksi Korporasi",
   "title": "Sukuk Mudharabah BOGA Rp400 Miliar: [Refinancing] Utang BRI Rp200 M",
@@ -174,7 +255,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret ada dua. Pertama, aturan devisa hasil ekspor tambang makin diperketat, perusahaan tambang dengan pemegang saham asing dari tujuh negara tertentu kini wajib menyimpan minimal 30 persen uang hasil ekspornya di bank devisa dalam negeri selama tiga bulan, dan pemerintah sedang menyiapkan revisi agar aturan ini juga menjangkau pemilik saham tidak langsung lewat pemilik manfaat akhir perusahaan. Kedua, mulai 1 Januari 2027 ekspor batu bara, minyak nabati, dan ferroalloy harus melewati Portal DSI, yang akan memeriksa dan menyetujui dokumen ekspor meski transaksi jual beli tetap langsung antara eksportir dan pembeli. Dua aturan ini sama-sama menyasar eksportir komoditas sumber daya alam, jadi arahnya terlihat jelas, pemerintah memperketat kendali atas uang dan dokumen hasil ekspor bahan mentah, bukan melonggarkannya. Yang akan membuktikan apakah rencana ini berjalan sesuai jadwal adalah uji sistem portal yang dijadwalkan 15 November ini, dua hari dari sekarang, serta uji coba terbatas pada 15 Desember mendatang sebelum portal wajib dipakai penuh awal tahun depan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "harga-patokan-ekspor-emas-turun-2-02-persen-di-november-2026",
@@ -531,7 +612,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah di sini adalah keanggotaan: kerja sama transaksi mata uang lokal yang sejak Agustus 2023 hanya melibatkan Indonesia, Malaysia, dan Thailand kini bertambah Filipina, sekaligus menggantikan nota kesepahaman lama. Pihak yang langsung berpotensi terdampak adalah eksportir dan importir yang berdagang antara keempat negara ini, karena mereka bisa membayar transaksi langsung dengan rupiah, ringgit, baht, atau peso tanpa harus menukar dulu ke dolar Amerika Serikat sebagai perantara. Langkah ini melanjutkan pola bank-bank sentral ASEAN yang bertahap memperluas jaringan transaksi mata uang lokal di kawasan, bukan kesepakatan sekali jadi. Yang akan menunjukkan apakah kerja sama ini benar dipakai pelaku usaha atau sekadar kerangka di atas kertas adalah data realisasi volume transaksi mata uang lokal yang biasa dirilis Bank Indonesia secara berkala, yang belum disinggung dalam siaran pers ini.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "mknt-revisi-laporan-penilaian-cbs-rum-molor-penilai-meninggal",
@@ -620,6 +701,33 @@ var ARTICLES = [
     "acara": "Paparan Publik Tahunan HMSP di Surabaya"
    }
   ]
+ },
+ {
+  "slug": "bank-mandiri-gelar-lelang-aset-properti-hingga-akhir-2026",
+  "category": "Perbankan",
+  "title": "Bank Mandiri Gelar [Lelang] Aset Properti hingga Akhir 2026",
+  "deck": "Bank Mandiri menawarkan aset agunan mulai rumah hingga gudang lewat Mandiri Lelang 2026, dilengkapi KPR bunga tetap mulai 2,7 persen periode Oktober-November.",
+  "image": "assets/img/bank-mandiri-gelar-lelang-aset-properti-hingga-akhir-2026.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:28:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478191-bank-mandiri-perluas-pilihan-aset-properti-melalui-mandiri-lelang-2026",
+  "tags": [
+   "Bank Mandiri",
+   "Lelang Properti",
+   "KPR",
+   "Aset Agunan"
+  ],
+  "body": [
+   "Bank Mandiri kembali menggelar program tahunan Mandiri Lelang 2026, yang menawarkan penjualan aset sitaan atau agunan mulai dari rumah, tanah, apartemen, ruko, pabrik, gudang, hotel, vila, hingga kendaraan di berbagai wilayah Indonesia. Program ini berjalan hingga 31 Desember 2026 dan menjadi salah satu jalur bagi masyarakat yang mencari hunian maupun tempat usaha dengan harga di bawah pasar. Bagi Bank Mandiri, lelang ini juga menjadi cara mengelola aset agunan, yakni barang jaminan yang diambil alih bank dari nasabah yang gagal membayar kredit, agar bisa dimanfaatkan kembali secara produktif.",
+   "Program ini sudah berlangsung sejak 2022 dan kali ini digarap bersama dua anak usaha Bank Mandiri, yaitu Mandiri Tunas Finance dan Mandiri Utama Finance, untuk memperluas pilihan aset yang ditawarkan. Sebagai pemanis, calon pembeli bisa memanfaatkan fasilitas Kredit Pemilikan Rumah (KPR) Lelang dengan bunga tetap mulai 2,7 persen, khusus untuk transaksi pada periode Oktober hingga November 2026 sesuai ketentuan yang berlaku.",
+   "Tawaran pembiayaan ini muncul di tengah data yang menunjukkan betapa pentingnya kredit bagi masyarakat yang ingin membeli rumah. Survei Bank Indonesia mencatat, 70,05 persen pembelian rumah di pasar primer pada triwulan II 2026 dilakukan dengan memanfaatkan fasilitas KPR, bukan dibayar tunai. Artinya, sebagian besar calon pembeli rumah di Indonesia memang mengandalkan pinjaman bank, bukan dana sendiri, untuk bisa memiliki hunian.",
+   "SVP Retail Collection & Recovery Group Bank Mandiri, Ganjar E. Suganda, menyampaikan bahwa program ini dirancang untuk memperluas kesempatan masyarakat mengakses aset lewat proses yang transparan. \"Kami menghadirkan pilihan aset untuk memperluas akses kepemilikan dan peluang masyarakat melalui proses yang transparan,\" ujar Ganjar dalam keterangan resminya, Jumat (13/11)."
+  ],
+  "fotoAdegan": "Documentary view of a quiet Indonesian residential street with modest houses, a realtor photographing an exterior in daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af6e5de464fb-bank-mandiri-hadirkan-beragam-aset-properti-melalui-mandiri-lelang-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan soal properti baru, melainkan cara Bank Mandiri melepas aset agunan, yaitu rumah, tanah, atau bangunan yang sebelumnya disita dari nasabah yang gagal membayar kredit. Bank ini memberi daya tarik tambahan berupa KPR Lelang dengan bunga tetap mulai 2,7 persen, tapi hanya untuk pembelian pada Oktober dan November 2026, jadi ada batas waktu yang jelas. Yang terdampak adalah calon pembeli rumah atau pelaku usaha yang mencari ruko, gudang, atau pabrik dengan harga di bawah pasar, sekaligus Bank Mandiri sendiri yang ingin membersihkan aset bermasalah dari bukunya. Pola ini mengarah ke upaya bank mempercepat penjualan aset sitaan lewat insentif bunga berjangka pendek, bukan sekadar lelang rutin tanpa target waktu. Yang akan menunjukkan apakah dorongan ini berhasil adalah laporan kualitas aset Bank Mandiri pada kuartal mendatang, serta apakah promo bunga 2,7 persen ini diperpanjang lagi setelah November 2026 atau justru dihentikan.",
+  "imageV": "mwf5fdxb"
  },
  {
   "slug": "mandiri-gelar-lelang-properti-sampai-akhir-2026",
@@ -1017,7 +1125,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan aturan yang langsung berlaku, melainkan baru tahap penandatanganan oleh 11 negara ASEAN, dengan masa tunggu 180 hari setelah tanda tangan terakhir sebelum perjanjian ini efektif, dan nantinya menggantikan ASEAN Agreement on Electronic Commerce yang sebelumnya disahkan lewat Undang-Undang Nomor 4 Tahun 2021. Pihak yang terdampak lebih dulu adalah proses hukum di Indonesia sendiri, karena pemerintah harus membentuk Panitia Antarkementerian untuk menyiapkan instrumen ratifikasi, sebelum pelaku usaha digital dan UMKM yang ingin berdagang lintas ASEAN bisa benar-benar merasakan kemudahan seperti interoperabilitas sistem pembayaran yang dijanjikan. Arahnya menunjukkan Indonesia melanjutkan peran yang dimulai saat menjadi ketua ASEAN pada 2023 dengan mendorong proses ini sampai ke tahap ratifikasi, bukan berhenti di seremoni tanda tangan semata. Yang akan menentukan apakah manfaat ini terwujud adalah bagaimana Panitia Antarkementerian merumuskan instrumen ratifikasi, termasuk apakah diperlukan undang-undang baru untuk menggantikan Undang-Undang Nomor 4 Tahun 2021, sebuah proses yang biasanya memakan waktu di tingkat nasional.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "wika-jawab-bursa-soal-pkpu-wikon-ekuitas-anak-usaha-minus-rp1-24-t",

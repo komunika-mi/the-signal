@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "HLKO-HUZy5U",
+  "title": "GAPKI Gelar Konferensi Sawit Terbesar di Dunia di Bali",
+  "category": "Industri",
+  "program": "Kabar Utama",
+  "summary": "GAPKI menggelar Indonesian Palm Oil Conference (IPOC) 2026 di Bali mulai 12 November 2026, sekaligus membahas proyeksi harga sawit untuk 2027.",
+  "takeaway": "Forum ini penting bagi pembaca ekonomi karena menjadi acuan pelaku industri sawit dalam memproyeksikan harga komoditas unggulan ekspor Indonesia."
+ },
+ {
+  "id": "buOcnG1FMOU",
+  "title": "Kadin Gelar Monthly Economic Diplomatic Breakfast",
+  "category": "Bisnis",
+  "program": "Kabar Utama",
+  "summary": "Kadin Indonesia menggelar forum rutin bulanan Monthly Economic Diplomatic Breakfast bersama sejumlah duta besar untuk membahas kerja sama ekonomi.",
+  "takeaway": "Forum ini relevan karena menjadi wadah dialog rutin pelaku usaha dengan perwakilan negara sahabat demi memperkuat peluang investasi dan perdagangan."
+ },
+ {
   "id": "AtgNTuySIYQ",
   "title": "Ekosistem Usaha Perikanan dari Nelayan ke Pasar di Ciwaru",
   "category": "UMKM",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Inovasi Membangun Negeri",
   "summary": "Pemkot Makassar menjalankan program Makassar Berjasa, yakni pemberian jaminan sosial bagi pekerja rentan di kota tersebut.",
   "takeaway": "Penting bagi pembaca karena menunjukkan upaya perlindungan sosial bagi pekerja informal yang selama ini minim jaminan."
- },
- {
-  "id": "aekCKMkfGo8",
-  "title": "Kinerja Ekspor Terus Bersinar, Indonesia Punya Prospek Cerah",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "Menteri Keuangan memaparkan kondisi ekonomi Indonesia di hadapan pengurus Kadin, dengan pemerintah menargetkan pertumbuhan ekonomi 6 persen dan investasi tumbuh 7 persen pada 2027.",
-  "takeaway": "Paparan ini relevan karena menunjukkan arah target pertumbuhan ekonomi dan investasi pemerintah untuk beberapa tahun ke depan."
- },
- {
-  "id": "5pRTges6jI0",
-  "title": "Menkeu Jelaskan Kondisi Ekonomi Indonesia Jangka Panjang",
-  "category": "Makroekonomi",
-  "program": "Kabar Khusus",
-  "summary": "Dalam Rapimnas Kadin Indonesia, Menteri Keuangan memaparkan proyeksi ekonomi nasional jangka panjang, termasuk target pertumbuhan 6 persen dan investasi 7 persen pada 2027.",
-  "takeaway": "Pernyataan resmi ini memberi gambaran arah kebijakan fiskal dan investasi pemerintah ke depan."
  }
 ];

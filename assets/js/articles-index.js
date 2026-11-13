@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sektor-ritel-dan-manufaktur-lama-tergeser-teknologi-dan-e-commerce",
+  "category": "Makroekonomi",
+  "title": "Sektor Ritel dan Manufaktur Lama [Tergeser] Teknologi dan E-Commerce",
+  "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut sektor ritel dan manufaktur padat karya makin tergerus teknologi dan belanja online, sementara pemerintah memperluas bantuan sosial sebagai penyangga sementara.",
+  "date": "13 November 2026",
+  "image": "assets/img/jalan-raya-padat.jpg",
+  "tags": [
+   "transformasi ekonomi",
+   "pertumbuhan ekonomi",
+   "bantuan subsidi upah",
+   "ketenagakerjaan"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7216/transformasi-ekonomi-jadi-kunci-perkuat-daya-saing-dan-perluas-manfaat-pertumbuhan-bagi-masyarakat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ekspor-sawit-naik-16-ke-us-28-84-miliar-hingga-oktober",
+  "category": "Industri",
+  "title": "Ekspor Sawit Naik [16%] ke US$28,84 Miliar hingga Oktober",
+  "deck": "Ekspor sawit Indonesia tembus US$28,84 miliar pada Januari-Oktober 2026, naik 16 persen, sementara kebijakan biodiesel B50 menyerap lebih banyak pasokan domestik.",
+  "date": "13 November 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "kelapa sawit",
+   "ekspor CPO",
+   "biodiesel B50",
+   "ISPO"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7217/menko-airlangga-industri-kelapa-sawit-jadi-pilar-ketahanan-pangan-dan-energi-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "infranexia-tambah-1-408-km-jaringan-fiber-optik-2026",
+  "category": "Teknologi",
+  "title": "InfraNexia [Tambah] 1.408 Km Jaringan Fiber Optik 2026",
+  "deck": "InfraNexia menambah 1.408 km jaringan fiber optik pada 2026, membawa total jaringannya ke 112.000 km sekaligus menyiapkan infrastruktur siap AI untuk kebutuhan data yang terus meningkat.",
+  "date": "13 November 2026",
+  "image": "assets/img/infranexia-tambah-1-408-km-jaringan-fiber-optik-2026.jpg",
+  "imageV": "mwefnrni",
+  "tags": [
+   "InfraNexia",
+   "Telkom",
+   "Fiber Optik",
+   "Infrastruktur Digital"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478124-infranexia-tambah-1408-km-jaringan-fiber-optik-pada-2026-siapkan-ai-ready-infrastructure"
+ },
+ {
+  "slug": "harga-emas-antam-turun-jadi-rp2-509-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Jadi Rp2.509.000 per Gram",
+  "deck": "Harga emas batangan Antam turun Rp9.000 menjadi Rp2.509.000 per gram, sementara harga buyback ikut turun ke Rp2.285.000 per gram.",
+  "date": "13 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-509-000-per-gram.jpg",
+  "imageV": "mwefnrsr",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478121-harga-emas-antam-hari-ini-13-november-2026-turun-jadi-rp2509000-per-gram-saatnya-beli"
+ },
+ {
   "slug": "dividen-interim-medc-kurs-bi-rp18-154-dividen-rp22-03-saham",
   "category": "Aksi Korporasi",
   "title": "Dividen Interim MEDC: [Kurs] BI Rp18.154, Dividen Rp22,03/Saham",
@@ -3485,7 +3551,7 @@ var ARTICLES = [
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
   "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
   "date": "9 November 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "ekspor",
    "Dua Kelinci",
@@ -5079,7 +5145,7 @@ var ARTICLES = [
   "title": "Pemerintah Buka Diskon Tiket Transportasi [Nataru] 2026/2027",
   "deck": "Diskon tarif kereta api, kapal laut, penyeberangan, dan pesawat untuk libur Nataru 2026/2027 resmi berjalan, berdasarkan SKB tiga menteri dan aturan PPN ditanggung pemerintah untuk tiket pesawat.",
   "date": "8 November 2026",
-  "image": "assets/img/jalan-raya-padat.jpg",
+  "image": "assets/img/keranjang-belanja-ibu.jpg",
   "tags": [
    "Diskon Transportasi",
    "Nataru 2026",
@@ -6415,65 +6481,6 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d5e82e18fc_5609fe8ccd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertumbuhan-uang-primer-bi-oktober-melambat-jadi-7-0-persen",
-  "category": "Moneter",
-  "title": "Pertumbuhan Uang Primer BI Oktober [Melambat] jadi 7,0 Persen",
-  "deck": "Bank Indonesia melaporkan uang primer adjusted Oktober 2026 tumbuh 7,0 persen dari setahun lalu, melambat dari 9,3 persen pada September.",
-  "date": "6 November 2026",
-  "image": "assets/img/brankas-uang-sentral.jpg",
-  "tags": [],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824326.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "pertumbuhan-harga-rumah-primer-melambat-di-triwulan-iii",
-  "category": "Makroekonomi",
-  "title": "Pertumbuhan Harga Rumah Primer [Melambat] di Triwulan III",
-  "deck": "Pertumbuhan harga rumah baru melambat ke 0,58 persen dibanding setahun lalu pada triwulan III 2026, sementara penjualan turun 8,43 persen di seluruh tipe rumah.",
-  "date": "6 November 2026",
-  "image": "assets/img/pedagang-bawang.jpg",
-  "tags": [
-   "properti residensial",
-   "harga rumah",
-   "penjualan rumah",
-   "KPR"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "bipp-direksi-safire-tambah-8-4-juta-saham-hak-suara-turun",
-  "category": "Aksi Korporasi",
-  "title": "BIPP: Direksi Safire Tambah [8,4 Juta] Saham, Hak Suara Turun",
-  "deck": "Safire Capital, direksi asing BIPP, membeli tambahan 8,4 juta saham lewat repurchase agreement, tapi hak suaranya turun ke 56,17% karena basis saham perusahaan membesar.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "kepemilikan saham",
-   "Safire Capital",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1429-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dewi-pemegang-saham-lepas-6-7-juta-saham-hak-suara-ke-7-7",
-  "category": "Aksi Korporasi",
-  "title": "DEWI: Pemegang saham [lepas] 6,7 juta saham, hak suara ke 7,7%",
-  "deck": "Sujito Ngatiman menjual 6,7 juta saham DEWI senilai sekitar Rp1,55 miliar, sehingga hak suaranya turun dari 8,00% menjadi 7,70%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEWI",
-   "kepemilikan saham",
-   "pemegang saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-6545-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

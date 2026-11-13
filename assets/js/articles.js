@@ -309,7 +309,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret ada dua. Pertama, aturan devisa hasil ekspor tambang makin diperketat, perusahaan tambang dengan pemegang saham asing dari tujuh negara tertentu kini wajib menyimpan minimal 30 persen uang hasil ekspornya di bank devisa dalam negeri selama tiga bulan, dan pemerintah sedang menyiapkan revisi agar aturan ini juga menjangkau pemilik saham tidak langsung lewat pemilik manfaat akhir perusahaan. Kedua, mulai 1 Januari 2027 ekspor batu bara, minyak nabati, dan ferroalloy harus melewati Portal DSI, yang akan memeriksa dan menyetujui dokumen ekspor meski transaksi jual beli tetap langsung antara eksportir dan pembeli. Dua aturan ini sama-sama menyasar eksportir komoditas sumber daya alam, jadi arahnya terlihat jelas, pemerintah memperketat kendali atas uang dan dokumen hasil ekspor bahan mentah, bukan melonggarkannya. Yang akan membuktikan apakah rencana ini berjalan sesuai jadwal adalah uji sistem portal yang dijadwalkan 15 November ini, dua hari dari sekarang, serta uji coba terbatas pada 15 Desember mendatang sebelum portal wajib dipakai penuh awal tahun depan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "harga-patokan-ekspor-emas-turun-2-02-persen-di-november-2026",

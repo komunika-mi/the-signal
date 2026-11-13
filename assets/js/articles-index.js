@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026",
+  "category": "Makroekonomi",
+  "title": "Sanksi Pajak [Dihapus] 100 Persen, Tenggat 31 Desember 2026",
+  "deck": "Ditjen Pajak memberi tenggat penghapusan sanksi administrasi hingga 100 persen bagi wajib pajak yang melunasi pokok dan melapor sebelum 31 Desember 2026, lewat aturan PSA terbaru.",
+  "date": "13 November 2026",
+  "image": "assets/img/sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026.jpg",
+  "imageV": "mwem3bo7",
+  "tags": [
+   "Direktorat Jenderal Pajak",
+   "Sumatera Barat",
+   "sanksi pajak",
+   "PMK 71/2026"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sanksi-pajak-bisa-dihapus-100-persen-tenggatnya-tinggal-tujuh-pekan",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "indonesia-teken-asean-defa-14-november-gantikan-uu-lama",
+  "category": "Global",
+  "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
+  "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
+  "date": "13 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ASEAN DEFA",
+   "ekonomi digital",
+   "UMKM",
+   "ASEAN"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7218/indonesia-siap-tandatangani-asean-defa-untuk-perkuat-integrasi-ekonomi-digital-kawasan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
   "category": "Aksi Korporasi",
   "title": "Dividen Interim KMDS Rp16 per Saham, [Cair] 11 Desember",
@@ -6449,38 +6483,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34d9d14204_7061310335.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nfcx-rencanakan-buyback-saham-senilai-rp87-miliar",
-  "category": "Aksi Korporasi",
-  "title": "NFCX Rencanakan [Buyback] Saham Senilai Rp87 Miliar",
-  "deck": "NFC Indonesia (NFCX) akan membeli kembali maksimal 49 juta saham atau 7,35 persen modal disetor senilai hingga Rp87 miliar, periode 9 November 2026 sampai 8 Februari 2027.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NFCX",
-   "buyback saham",
-   "pembelian kembali saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/457224eb51_8ce264e69e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "plas-dibuka-sementara-untuk-transaksi-buyback-jelang-delisting",
-  "category": "Aksi Korporasi",
-  "title": "PLAS Dibuka Sementara untuk Transaksi [Buyback] Jelang Delisting",
-  "deck": "BEI mencabut sementara suspensi saham PLAS khusus di pasar negosiasi Jumat ini, hanya untuk transaksi crossing buyback saham jelang delisting perseroan.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLAS",
-   "delisting",
-   "suspensi saham",
-   "buyback"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/82e3cd9185_09850bbb43.pdf",
   "sourceLabel": "IDX"
  }
 ];

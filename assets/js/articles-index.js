@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "kualitas-kredit-bri-membaik-npl-turun-ke-2-85",
+  "category": "Perbankan",
+  "title": "Kualitas Kredit BRI [Membaik], NPL Turun ke 2,85%",
+  "deck": "BRI mencatat rasio kredit bermasalah turun ke 2,85 persen pada September 2026, didukung pengelolaan risiko yang lebih disiplin dan pencadangan yang makin kuat.",
+  "date": "13 November 2026",
+  "image": "assets/img/kualitas-kredit-bri-membaik-npl-turun-ke-2-85.jpg",
+  "imageV": "mwep0k38",
+  "tags": [
+   "BRI",
+   "NPL",
+   "Perbankan",
+   "Manajemen Risiko"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478153-bri-perkuat-pengelolaan-risiko-kualitas-kredit-dan-kinerja-terus-meningkat"
+ },
+ {
   "slug": "sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak [Dihapus] 100 Persen, Tenggat 31 Desember 2026",
@@ -6467,22 +6484,6 @@ var ARTICLES = [
    "reverse repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-5111-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tguk-vcg-tawar-tender-wajib-rp56-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "TGUK: VCG Tawar [Tender] Wajib Rp56 per Saham",
-  "deck": "VCG menawar beli maksimal 766,7 juta saham publik TGUK senilai Rp42,9 miliar pada Rp56 per saham, periode 9 November-8 Desember 2026, menyusul alih kendali dari DKI.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGUK",
-   "tender wajib",
-   "akuisisi",
-   "VCG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1042613f4_e8ce916a9c.pdf",
   "sourceLabel": "IDX"
  }
 ];

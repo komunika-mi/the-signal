@@ -45,6 +45,32 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "kualitas-kredit-bri-membaik-npl-turun-ke-2-85",
+  "category": "Perbankan",
+  "title": "Kualitas Kredit BRI [Membaik], NPL Turun ke 2,85%",
+  "deck": "BRI mencatat rasio kredit bermasalah turun ke 2,85 persen pada September 2026, didukung pengelolaan risiko yang lebih disiplin dan pencadangan yang makin kuat.",
+  "image": "assets/img/kualitas-kredit-bri-membaik-npl-turun-ke-2-85.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T14:00:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478153-bri-perkuat-pengelolaan-risiko-kualitas-kredit-dan-kinerja-terus-meningkat",
+  "tags": [
+   "BRI",
+   "NPL",
+   "Perbankan",
+   "Manajemen Risiko"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk melaporkan kualitas kreditnya semakin sehat, dengan rasio kredit bermasalah atau NPL turun ke 2,85 persen per akhir September 2026. Angka ini penting karena BRI adalah bank penyalur kredit terbesar ke sektor usaha mikro, kecil, dan ekonomi kerakyatan, sehingga tingkat kesehatan kreditnya ikut menentukan seberapa leluasa bank menyalurkan pembiayaan baru ke segmen tersebut secara berkelanjutan.",
+   "Direktur Manajemen Risiko BRI, Ety Yuniarti, mengungkapkan data ini dalam konferensi pers kinerja keuangan Triwulan III 2026 di Jakarta pada 9 November 2026. Rasio NPL tercatat membaik dibandingkan 3,1 persen pada September 2025 dan 2,9 persen pada Juni 2026. Perbaikan ini didukung oleh strategi pertumbuhan kredit yang lebih selektif, sistem peringatan dini atas potensi kredit bermasalah, serta penguatan proses penagihan dan pemulihan kredit macet.",
+   "Biaya pencadangan risiko kredit, yang disebut credit cost dan menunjukkan berapa persen dari total kredit yang disisihkan bank untuk menutup kemungkinan gagal bayar, turun ke 2,8 persen pada September 2026 dari 3,2 persen pada periode yang sama tahun sebelumnya. Di sisi lain, rasio pencadangan terhadap kredit bermasalah atau NPL Coverage justru naik menjadi 184,3 persen dari 183,1 persen, artinya BRI tetap menyiapkan dana cadangan yang lebih besar meski risiko kreditnya mengecil."
+  ],
+  "fotoAdegan": "Interior of a modest Indonesian bank branch with tellers assisting customers at service counters, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af6b28ec7e4e-jaga-keberlanjutan-dukungan-bagi-ekonomi-kerakyatan-npl-bri-terus-membaik-seiring-penguatan-pengelolaan-risiko_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: rasio kredit bermasalah BRI, yaitu porsi pinjaman yang berisiko tidak kembali, turun jadi 2,85 persen pada September 2026 dari 3,1 persen setahun sebelumnya. Tapi kalau dilihat lebih detail, laju perbaikannya melambat, karena dari September 2025 ke Juni 2026 turunnya 0,2 poin persentase, sementara dari Juni ke September 2026 cuma turun 0,05 poin. Yang terdampak langsung pemegang saham BRI karena ini ikut menentukan besar laba yang bisa dicadangkan atau dibagikan, dan secara tidak langsung nasabah usaha kecil yang menjadi basis bisnis BRI, karena kualitas kredit yang lebih sehat biasanya memberi bank ruang lebih leluasa untuk mengucurkan pembiayaan baru. Pola ini mengarah ke perbaikan yang sudah masuk fase pelan, bukan lagi pembersihan besar-besaran seperti setahun lalu. Yang akan memastikan apakah pelambatan ini berlanjut atau justru berbalik adalah laporan kinerja penuh tahun 2026 yang biasanya dirilis awal tahun depan.",
+  "imageV": "mwep0k38"
+ },
+ {
   "slug": "sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak [Dihapus] 100 Persen, Tenggat 31 Desember 2026",
@@ -99,7 +125,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan aturan yang langsung berlaku, melainkan baru tahap penandatanganan oleh 11 negara ASEAN, dengan masa tunggu 180 hari setelah tanda tangan terakhir sebelum perjanjian ini efektif, dan nantinya menggantikan ASEAN Agreement on Electronic Commerce yang sebelumnya disahkan lewat Undang-Undang Nomor 4 Tahun 2021. Pihak yang terdampak lebih dulu adalah proses hukum di Indonesia sendiri, karena pemerintah harus membentuk Panitia Antarkementerian untuk menyiapkan instrumen ratifikasi, sebelum pelaku usaha digital dan UMKM yang ingin berdagang lintas ASEAN bisa benar-benar merasakan kemudahan seperti interoperabilitas sistem pembayaran yang dijanjikan. Arahnya menunjukkan Indonesia melanjutkan peran yang dimulai saat menjadi ketua ASEAN pada 2023 dengan mendorong proses ini sampai ke tahap ratifikasi, bukan berhenti di seremoni tanda tangan semata. Yang akan menentukan apakah manfaat ini terwujud adalah bagaimana Panitia Antarkementerian merumuskan instrumen ratifikasi, termasuk apakah diperlukan undang-undang baru untuk menggantikan Undang-Undang Nomor 4 Tahun 2021, sebuah proses yang biasanya memakan waktu di tingkat nasional.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
@@ -254,7 +280,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di sini bukan kebijakan baru, melainkan daftar bantuan yang sudah berjalan: subsidi upah Rp900.000 untuk sekitar 13,3 juta pekerja, bantuan pangan untuk 33,24 juta keluarga, dan diskon transportasi saat Natal dan Tahun Baru. Yang langsung terdampak adalah pekerja berupah rendah dan keluarga penerima bantuan itu, sementara sektor yang disebut tergerus, yakni ritel toko fisik dan sebagian manufaktur padat karya, belum diberi program penyesuaian yang bentuknya jelas. Pemerintah sendiri mengakui bantuan-bantuan ini hanya penopang sementara, bukan solusi, tetapi belum ada target waktu atau anggaran khusus untuk agenda yang disebut sebagai solusi utama, seperti kawasan ekonomi khusus atau penyederhanaan izin usaha. Yang masih kurang untuk menilai apakah transformasi ini benar berjalan atau baru sebatas wacana adalah rincian kerja dan tenggat dari Satgas Debottlenecking, serta hasil konkret negosiasi CEPA dengan Uni Eropa yang sampai saat ini belum disebutkan tanggal penyelesaiannya.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ekspor-sawit-naik-16-ke-us-28-84-miliar-hingga-oktober",
@@ -281,7 +307,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang paling konkret di sini adalah selisih antara kenaikan nilai ekspor sawit, 16 persen, dengan kenaikan volumenya yang hanya 6 persen. Artinya tambahan devisa tahun ini lebih banyak disumbang oleh harga sawit yang naik di pasar internasional, bukan oleh jumlah barang yang lebih banyak dijual ke luar negeri. Di sisi lain, kebijakan campuran biodiesel B50 yang sudah berjalan sejak Juli 2026 menambah kebutuhan minyak sawit mentah dalam negeri dari 15,6 juta menjadi 16,7 juta kiloliter, yang berarti porsi produksi sawit yang ditahan untuk bahan bakar domestik makin besar. Pihak yang langsung terdampak adalah pekebun rakyat lewat program peremajaan dan pelatihan, serta industri biodiesel yang kebutuhan bahan bakunya terus bertambah. Arah yang terlihat adalah konsumsi domestik untuk energi akan mengambil porsi yang makin besar dari produksi sawit nasional, dan ini akan lebih jelas terbaca dari data realisasi konsumsi domestik sawit di akhir 2026 dibandingkan proyeksi pemerintah sebesar 27,9 juta ton.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "kici-tanggapi-permintaan-bursa-penjualan-naik-22",

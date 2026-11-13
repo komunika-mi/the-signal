@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "atQbc-E2nmk",
+  "title": "Jensen Huang Lepas Saham Nvidia, Kini Kuasai 3,5 Persen",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Pendiri Nvidia Jensen Huang kini tercatat memiliki 3,5 persen saham perusahaan tersebut, dengan kekayaan sekitar US$151,2 miliar atau setara Rp2.520 triliun menurut data Forbes.",
+  "takeaway": "Perubahan kepemilikan saham ini penting diikuti investor karena menyangkut struktur kendali salah satu perusahaan teknologi paling berpengaruh di dunia.",
+  "terbit": "2026-11-13T06:45:35+00:00"
+ },
+ {
+  "id": "jIQoPQK50Bo",
+  "title": "Harga Cabai dan Bawang Naik Jelang Nataru",
+  "category": "Makroekonomi",
+  "program": "AKIS",
+  "summary": "Harga cabai, bawang merah, dan bawang putih naik akibat kemarau panjang dan tingginya permintaan menjelang Natal dan Tahun Baru.",
+  "takeaway": "Kenaikan harga pangan ini berpotensi menambah tekanan inflasi dan mengurangi daya beli masyarakat di akhir tahun.",
+  "terbit": "2026-11-13T06:27:33+00:00"
+ },
+ {
+  "id": "wObqzKq4ofQ",
+  "title": "Harga Kedelai dan Plastik Naik, Perajin Tempe Kesulitan",
+  "category": "UMKM",
+  "program": "AKIS",
+  "summary": "Kenaikan harga kedelai dan plastik kemasan menekan daya beli dan akses perajin tempe di Jombang terhadap bahan baku utama mereka.",
+  "takeaway": "Kasus ini memperlihatkan bagaimana lonjakan harga bahan baku langsung memukul pelaku UMKM di sektor pangan.",
+  "terbit": "2026-11-13T06:26:31+00:00"
+ },
+ {
   "id": "dFlqBH8Ngds",
   "title": "Kemenekraf Gelar Seminar Industri Gim di Batam",
   "category": "Industri",

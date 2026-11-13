@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "amar-angkat-tjetjen-saputra-direktur-kepatuhan-per-2-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "AMAR Angkat Tjetjen Saputra [Direktur Kepatuhan] per 2 November 2026",
+  "deck": "AMAR menunjuk Tjetjen Saputra sebagai Direktur Kepatuhan menggantikan Thio Sucy, efektif sejak OJK menyetujui uji kelayakannya pada 2 November 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMAR",
+   "Bank Amar Indonesia",
+   "Direksi",
+   "Direktur Kepatuhan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/88e81894d7_7fa5e89acb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbkp-jawab-bursa-divestasi-85-kbbf-rampung-rp339-97-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Jawab Bursa: [Divestasi] 85% KBBF Rampung Rp339,97 Miliar",
+  "deck": "BBKP merespons permintaan penjelasan Bursa atas pelepasan 85% saham KBBF ke JB Woori Capital senilai Rp339,97 miliar, transaksi rampung 4 November 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "KBBF",
+   "JB Woori Capital",
+   "Sanksi OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f13c138fe1_d31aac6ae0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smle-anjlok-34-ke-rp144-respons-uma-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Anjlok 34% ke Rp144, Respons [UMA]: Tak Ada Info Material",
+  "deck": "BEI meminta penjelasan setelah saham SMLE turun 33,95 persen dalam sepekan ke Rp144; perseroan menyatakan tidak mengetahui informasi material di balik pergerakan itu.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMLE",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "UMA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/63c09ad171_d3e419d7cc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB WOMF Batal Digelar, Agenda [Perubahan] Direksi Tertunda",
+  "deck": "WOMF membatalkan RUPSLB yang sebelumnya ditunda dari 19 Juni 2026, agenda perubahan susunan direksi urung dibahas tanpa jadwal pengganti.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WOMF",
+   "RUPSLB",
+   "Direksi",
+   "Corporate Governance"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24cb3f298_029d47443d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
   "category": "Aksi Korporasi",
   "title": "RUPSLB OLIV 7 Desember: [Rombak] Direksi dan Komisaris",
@@ -688,15 +752,15 @@ var ARTICLES = [
  {
   "slug": "cass-free-float-17-35-penuhi-syarat-minimum-bursa",
   "category": "Aksi Korporasi",
-  "title": "CASS: Free Float 17,35% [Penuhi] Syarat Minimum Bursa",
-  "deck": "Struktur pemegang saham CASS per 11 November 2026 menunjukkan free float 362,05 juta saham atau 17,35%, memenuhi batas minimum yang disyaratkan Bursa.",
+  "title": "CASS: [Pemilik Manfaat] Eddy K. Sariaatmadja, Free Float 17,35%",
+  "deck": "Laporan bulanan registrasi pemegang efek CASS mengungkap pemilik manfaat akhir Eddy K. Sariaatmadja di balik pengendali Roket Cipta Sentosa; free float tetap 17,35%.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "CASS",
-   "pemegang saham",
    "free float",
-   "Bursa Efek Indonesia"
+   "pemilik manfaat",
+   "struktur pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a7c2b0b626_fa2469fbcd.pdf",
   "sourceLabel": "IDX"
@@ -4406,14 +4470,14 @@ var ARTICLES = [
  {
   "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
   "category": "Aksi Korporasi",
-  "title": "BMAS Tarik US$80 Juta Lagi dari KBank, Total Jadi US$338 Juta",
-  "deck": "BMAS menarik tambahan US$25 juta dan US$55 juta dari fasilitas pinjaman bilateral KBank pada 12 November 2026, sehingga total penarikan mencapai US$338 juta dari limit US$341 juta.",
+  "title": "BMAS Tarik US$2 Juta Lagi dari KBank, Total Jadi US$340 Juta",
+  "deck": "BMAS menarik tambahan US$2 juta dari fasilitas pinjaman bilateral KBank pada 13 November 2026, sehingga total penarikan mencapai US$340 juta dari limit US$341 juta, hanya tersisa sekitar US$1 juta.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "BMAS",
-   "Transaksi Afiliasi",
-   "Pinjaman Bilateral",
+   "transaksi afiliasi",
+   "pinjaman bilateral",
    "KBank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40326f8631_ab663ffc47.pdf",
@@ -6420,70 +6484,6 @@ var ARTICLES = [
    "Ashmore Asset Management"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a1b28714a_21fb2a4176.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "live-jawab-permintaan-bei-soal-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "LIVE Jawab Permintaan BEI soal [Volatilitas] Saham",
-  "deck": "PT Homeco Victoria Makmur Tbk menanggapi permintaan penjelasan BEI atas volatilitas transaksi sahamnya, menyatakan tidak ada informasi material yang belum terbuka ke publik.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LIVE",
-   "BEI",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/17ff4699e5_2300f5d4e9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "acst-jadwalkan-rupslb-15-desember-cut-off-20-november",
-  "category": "Aksi Korporasi",
-  "title": "ACST Jadwalkan [RUPSLB] 15 Desember, Cut-off 20 November",
-  "deck": "Acset Indonusa mengumumkan rencana RUPSLB pada 15 Desember 2026, dengan pemegang saham per 20 November 2026 berhak hadir dan usul agenda dibuka hingga 16 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACST",
-   "RUPSLB",
-   "Acset Indonusa",
-   "korporasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7527b9b5b6_157274e9d5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ayls-panggil-rupslb-ganti-direktur-utama-30-november",
-  "category": "Aksi Korporasi",
-  "title": "AYLS panggil RUPSLB, ganti [Direktur Utama] 30 November",
-  "deck": "AYLS mengundang pemegang saham ke RUPSLB 30 November 2026 untuk membahas pergantian Direktur Utama, penyesuaian KBLI, dan perubahan Anggaran Dasar.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AYLS",
-   "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6162af180_e8bfb2ed01.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-kepemilikan-cgs-international-susut-lewat-reverse-repo",
-  "category": "Aksi Korporasi",
-  "title": "ENRG: Kepemilikan CGS International Susut Lewat [Reverse REPO]",
-  "deck": "CGS International Sekuritas Indonesia melaporkan kepemilikan sahamnya di ENRG turun dari 7,78% menjadi 6,89% melalui transaksi reverse repo pada 3 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "kepemilikan saham",
-   "CGS International",
-   "reverse repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-5111-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

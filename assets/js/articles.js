@@ -3,6 +3,129 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "amar-angkat-tjetjen-saputra-direktur-kepatuhan-per-2-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "AMAR Angkat Tjetjen Saputra [Direktur Kepatuhan] per 2 November 2026",
+  "deck": "AMAR menunjuk Tjetjen Saputra sebagai Direktur Kepatuhan menggantikan Thio Sucy, efektif sejak OJK menyetujui uji kelayakannya pada 2 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:48:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/88e81894d7_7fa5e89acb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMAR",
+  "tags": [
+   "AMAR",
+   "Bank Amar Indonesia",
+   "Direksi",
+   "Direktur Kepatuhan"
+  ],
+  "body": [
+   "PT Bank Amar Indonesia Tbk (AMAR) mengumumkan perubahan susunan direksi lewat keterbukaan informasi yang disampaikan pada 13 November 2026. Tjetjen Saputra resmi menjabat sebagai Direktur yang membawahi fungsi kepatuhan, menggantikan Thio Sucy. Pengangkatan ini efektif sejak 2 November 2026, setelah Otoritas Jasa Keuangan menyetujui hasil penilaian kemampuan dan kepatutan atas Tjetjen melalui surat keputusan Nomor KEPR-31/PB.13/2026 tertanggal 2 November 2026.",
+   "Keputusan ini berasal dari Rapat Umum Pemegang Saham Luar Biasa AMAR yang digelar pada 30 September 2026. Dalam rapat itu, pemegang saham menerima pengunduran diri Thio Sucy dari jabatan Direktur Kepatuhan dengan pembebasan tanggung jawab penuh, sekaligus mengangkat Tjetjen Saputra sebagai penggantinya. Rapat mensyaratkan pengangkatan Tjetjen baru berlaku efektif setelah disetujui OJK, dengan masa jabatan mengikuti sisa periode direktur kepatuhan sebelumnya, yaitu sampai penutupan Rapat Umum Pemegang Saham Tahunan pada 2029. Akta pernyataan keputusan rapat yang menegaskan perubahan ini dibuat Notaris Christina Dwi Utami pada 10 November 2026.",
+   "Selain perubahan pada posisi Direktur Kepatuhan, susunan direksi dan dewan komisaris AMAR lainnya tidak berubah. Vishal Tulsian tetap menjabat Direktur Utama sejak 29 Juli 2019, bersama Kevin Kane Wardhana dan Abraham Christo Lumban Batu yang menjabat Direktur sejak 17 Juni 2025. Di jajaran komisaris, Navin Nahata tetap menjabat Komisaris Utama sejak 12 Maret 2019, didampingi dua Komisaris Independen, Ratna Heimawaty Zain dan Insinyur Zainal Abidin Hasni."
+  ],
+  "fotoAdegan": "A corporate office worker signing documents at a wooden desk inside a modern Jakarta high-rise, soft daylight, blurred cityscape outside the window.",
+  "takeaway": "Laporan ini netral bagi kinerja AMAR karena hanya mengganti satu posisi direksi yang sudah disetujui regulator, tanpa menyentuh angka keuangan apa pun. Perubahan pengurus seperti ini tidak mengubah ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham perseroan, tapi tetap penting diawasi investor karena Direktur Kepatuhan adalah posisi wajib bagi bank yang mengawasi kepatuhan terhadap aturan OJK, dan kekosongan atau pergantian di posisi ini ikut dinilai regulator dan investor sebagai bagian dari tata kelola. Prosesnya juga menunjukkan bank sudah melalui uji kemampuan dan kepatutan OJK sebelum pejabat baru efektif menjabat, bukan sekadar keputusan internal perseroan. Yang perlu dipantau selanjutnya adalah masa jabatan Tjetjen yang berlaku sampai penutupan Rapat Umum Pemegang Saham Tahunan pada 2029, sesuai siklus normal pergantian direksi.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-09-30",
+    "acara": "RUPSLB menerima pengunduran diri Thio Sucy dan mengangkat Tjetjen Saputra"
+   },
+   {
+    "tanggal": "2026-11-02",
+    "acara": "OJK menyetujui fit and proper test Tjetjen Saputra, pengangkatan efektif"
+   },
+   {
+    "tanggal": "2026-11-10",
+    "acara": "Akta notaris menegaskan susunan direksi baru"
+   }
+  ]
+ },
+ {
+  "slug": "bbkp-jawab-bursa-divestasi-85-kbbf-rampung-rp339-97-miliar",
+  "category": "Aksi Korporasi",
+  "title": "BBKP Jawab Bursa: [Divestasi] 85% KBBF Rampung Rp339,97 Miliar",
+  "deck": "BBKP merespons permintaan penjelasan Bursa atas pelepasan 85% saham KBBF ke JB Woori Capital senilai Rp339,97 miliar, transaksi rampung 4 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T15:55:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f13c138fe1_d31aac6ae0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "KBBF",
+   "JB Woori Capital",
+   "Sanksi OJK"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) menjawab permintaan penjelasan Bursa Efek Indonesia tertanggal 11 November 2026 terkait pelepasan 85% saham PT KB Bukopin Finance (KBBF) kepada JB Woori Capital Co., Ltd (JBWC). Dalam surat tertanggal 13 November 2026 yang ditandatangani Sekretaris Perusahaan Ariz Dian Perkasa, Perseroan menjelaskan bahwa transaksi atas 135.529 saham atau 85% kepemilikan di KBBF itu disepakati senilai Rp340 miliar, dan setelah penyesuaian sesuai perjanjian jual beli bersyarat (Conditional Share Purchase Agreement/CSPA) tertanggal 1 Juli 2025, nilai bersih yang diterima Perseroan pada tanggal penutupan adalah Rp339,97 miliar. Transaksi ini resmi rampung pada 4 November 2026 melalui penandatanganan Akta Pengambilalihan Saham di hadapan notaris, setelah seluruh syarat penutupan terpenuhi, termasuk persetujuan Otoritas Jasa Keuangan, persetujuan Rapat Umum Pemegang Saham Luar Biasa KBBF, dan tidak adanya keberatan dari kreditur KBBF.",
+   "Perseroan menyebut kontribusi KBBF terhadap total aset konsolidasian naik dari 1,29% pada akhir 2025 menjadi 1,67% pada September 2026, dan terhadap pendapatan naik dari 4,49% menjadi 5,13%. Sementara itu kontribusi laba bersih sebesar 28,89% pada 2025 tidak bisa dibandingkan dengan periode 2026 karena Perseroan justru mencatat rugi bersih konsolidasian pada periode berjalan tahun ini. Manajemen menyatakan pelepasan KBBF berdampak positif terhadap permodalan karena mengurangi penyertaan modal yang selama ini menjadi faktor pengurang modal, menurunkan aset tertimbang menurut risiko konsolidasian, serta menambah likuiditas untuk mendukung bisnis inti perbankan. Perseroan tetap memegang sisa 14,24% saham KBBF karena ketentuan batas maksimum kepemilikan asing pada perusahaan pembiayaan, dengan masa larangan jual selama tiga tahun, opsi jual bagi Perseroan dan opsi beli bagi JBWC pada harga yang sudah disepakati dalam CSPA, serta kewajiban ganti rugi yang dibatasi maksimal 50% dari nilai transaksi. Rentang waktu dari penandatanganan CSPA pada Juli 2025 hingga penutupan pada November 2026, menurut Perseroan, disebabkan proses perizinan regulator yang berjalan bertahap, bukan karena perubahan harga atau syarat transaksi.",
+   "Di luar soal divestasi KBBF, Bursa juga meminta klarifikasi atas perbedaan perlakuan akuntansi tiga special purpose vehicle berbasis Singapura, yakni IDMB United Pte Ltd, SMMK Pte Ltd, dan TLDC Pte Ltd, yang menerbitkan obligasi senilai Rp7,5 triliun. Di laporan keuangan BBKP, ketiganya tercatat sebagai efek pihak ketiga, sementara di laporan keuangan pengendali, KB Kookmin Bank, ketiganya dicatat sebagai entitas anak. Perseroan menjawab bahwa perbedaan itu berasal dari hasil penilaian pengendalian masing-masing entitas sesuai standar akuntansi yang berlaku, dan tidak serta merta berarti ada kesalahan penerapan standar. Bursa pun menyoroti ketidaksesuaian pengungkapan sanksi, karena laporan tahunan BBKP 2023 hingga 2025 menyatakan tidak ada sanksi administratif yang material, sedangkan laporan KB Financial Group selaku pengendali memuat 48 baris sanksi dari OJK, Bank Indonesia, dan Bursa terhadap BBKP sepanjang 2021 hingga Januari 2026, termasuk dua sanksi Bursa pada 8 Mei dan 14 Juni 2024 serta penghentian sementara koneksi sistem pembayaran oleh Bank Indonesia pada 10 Oktober 2025, yang tidak tercantum dalam laporan insidental maupun laporan tahunan Perseroan sendiri."
+  ],
+  "fotoAdegan": "Interior of a modern Jakarta bank branch with tellers assisting customers at counters, soft morning light filtering through glass windows",
+  "takeaway": "Secara keseluruhan sinyal dari surat ini condong negatif bagi BBKP, karena dua hal yang lebih mencolok dari sekadar penjualan anak usaha kecil: pengakuan rugi bersih konsolidasian pada 2026 dan sorotan Bursa atas belasan sanksi regulator yang tidak muncul di laporan tahunan BBKP sendiri meski sudah diungkap induk usahanya. Dua pos yang tersentuh adalah permodalan dan laba bersih. Pelepasan KBBF memang mengurangi aset tertimbang menurut risiko, yaitu ukuran aset yang dibobot sesuai tingkat risikonya untuk menghitung berapa modal minimum yang wajib dipegang bank, sehingga rasio kecukupan modal BBKP berpotensi sedikit terdongkrak dan kasnya bertambah longgar, tapi kontribusinya kecil karena KBBF cuma menyumbang di bawah 2% dari total aset Perseroan. Informasi baru bahwa BBKP sendiri sedang merugi secara konsolidasian jauh lebih penting bagi pemegang saham karena langsung memengaruhi ekuitas dan laba per saham perusahaan. Yang perlu dipantau selanjutnya adalah laporan keuangan konsolidasian akhir tahun 2026, yang menurut Perseroan akan mencerminkan dampak dekonsolidasi KBBF sekaligus kelanjutan posisi rugi bersih tahun ini, serta apakah Bursa menilai jawaban soal sanksi yang belum terungkap ini sudah cukup atau akan meminta klarifikasi lanjutan.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "smle-anjlok-34-ke-rp144-respons-uma-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "SMLE Anjlok 34% ke Rp144, Respons [UMA]: Tak Ada Info Material",
+  "deck": "BEI meminta penjelasan setelah saham SMLE turun 33,95 persen dalam sepekan ke Rp144; perseroan menyatakan tidak mengetahui informasi material di balik pergerakan itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T15:08:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/63c09ad171_d3e419d7cc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMLE",
+  "tags": [
+   "SMLE",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "UMA"
+  ],
+  "body": [
+   "PT Sinergi Multi Lestarindo Tbk (SMLE) memberikan jawaban resmi kepada Bursa Efek Indonesia setelah bursa meminta penjelasan atas pergerakan tajam harga sahamnya. Permintaan itu disampaikan BEI melalui surat nomor S-14079/BEI.PP3/11-2026 tertanggal 11 November 2026, menyoroti perdagangan saham SMLE pada periode 3 sampai 10 November 2026. Jawaban perseroan disampaikan dalam surat bernomor 0111/P-DIR/SMLE/XI/2026 tertanggal 13 November 2026.",
+   "Menurut data yang dikutip BEI dalam surat itu, harga saham SMLE ditutup turun kumulatif Rp74 atau 33,95 persen, dari Rp218 pada penutupan 2 November 2026 menjadi Rp144 pada 10 November 2026. Sejalan dengan penurunan itu, rata-rata volume transaksi justru naik menjadi 8.893.533 saham dengan frekuensi 1.923 kali per hari, dibandingkan 6.813.400 saham dengan frekuensi 906 kali pada 2 November 2026. BEI juga mencatat bahwa pada 10 November 2026, IHSG justru naik 51,96 poin dan indeks sektor Basic Materials naik 29,80 poin, sehingga penurunan saham SMLE berlawanan arah dengan tren pasar saat itu.",
+   "Dalam jawabannya, direksi SMLE menyatakan perseroan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga saham maupun keputusan investasi pemodal, baik berdasarkan POJK Nomor 31/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga menyebut tidak mengetahui aktivitas pemegang saham tertentu sesuai POJK Nomor 4/2024, serta belum memiliki rencana aksi korporasi yang berdampak pada status pencatatan sahamnya dalam tiga bulan mendatang. Pemegang saham pengendali dan utama, melalui konfirmasi kepada corporate secretary, juga menyatakan tidak ada rencana yang akan mengubah struktur kepemilikan atau pengendalian di SMLE. Surat ditandatangani oleh Direktur Utama Siu Min dan disampaikan oleh Corporate Secretary Arry Wahyu Riansyah."
+  ],
+  "fotoAdegan": "Wide street-level view of Jakarta's financial district skyscrapers at dusk with busy traffic in the foreground.",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental SMLE, karena isinya murni jawaban kepatuhan yang menegaskan tidak ada informasi baru, bukan peristiwa yang mengubah kondisi keuangan perseroan. Tidak ada pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disebut tersentuh di sini, padahal pos-pos itulah yang biasanya dicermati pelaku pasar untuk menilai kesehatan dan potensi dilusi sebuah emiten. Yang justru mencolok adalah lonjakan volume dan frekuensi perdagangan di tengah harga yang ambruk sepertiga, sementara indeks sektor dan IHSG sama-sama naik pada periode itu, pola yang lebih mengarah ke dinamika pasar ketimbang perubahan bisnis SMLE. Karena tidak ada tanggal RUPS, aksi korporasi, atau tenggat baru yang disebut dalam dokumen ini, yang perlu dipantau berikutnya adalah apakah BEI akan mengirim permintaan penjelasan lanjutan jika harga SMLE kembali bergerak tajam, atau apakah muncul laporan kepemilikan saham baru yang bisa menjelaskan lonjakan volume transaksi tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Volatilitas Transaksi"
+ },
+ {
+  "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB WOMF Batal Digelar, Agenda [Perubahan] Direksi Tertunda",
+  "deck": "WOMF membatalkan RUPSLB yang sebelumnya ditunda dari 19 Juni 2026, agenda perubahan susunan direksi urung dibahas tanpa jadwal pengganti.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T14:53:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24cb3f298_029d47443d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WOMF",
+  "tags": [
+   "WOMF",
+   "RUPSLB",
+   "Direksi",
+   "Corporate Governance"
+  ],
+  "body": [
+   "PT Wahana Ottomitra Multiartha Tbk (WOMF) mengumumkan pembatalan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya sudah ditunda dari rencana awal 19 Juni 2026. Penundaan itu sendiri sudah diumumkan lewat surat perusahaan bernomor 0689/VI/DIR-WOM/2026 tertanggal 15 Juni 2026. Kini, lewat surat bernomor 681/X/ICS/2026 yang diteken pada 13 November 2026, perusahaan menyatakan rapat tersebut batal dilaksanakan sama sekali, bukan sekadar ditunda ulang.",
+   "Satu-satunya agenda yang tercantum dalam RUPSLB yang batal ini adalah perubahan susunan pengurus perseroan, yang dalam bahasa sederhana berarti rencana mengganti atau menyusun ulang jajaran direksi dan komisaris. Dokumen tidak menyebut alasan di balik pembatalan maupun rencana jadwal RUPSLB pengganti. Surat ditandatangani oleh Cincin Lisa Hadi selaku Direktur sekaligus Corporate Secretary perseroan.",
+   "Pengumuman ini disampaikan ke publik melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi perusahaan, sesuai kewajiban keterbukaan informasi emiten."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with rows of vacant chairs around a long table, soft morning light through glass windows",
+  "takeaway": "Laporan ini condong netral karena pembatalan rapat tidak disertai angka atau dampak finansial apa pun, tetapi juga tidak bisa dibilang sepenuhnya kabar baik karena agenda penting soal pengurus perusahaan jadi tertunda tanpa kejelasan. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan tata kelola perusahaan, yakni siapa yang akan memimpin WOMF ke depan, dan investor biasanya mengamati pergantian direksi karena bisa mempengaruhi arah strategi dan operasional perusahaan. Perlu dicatat ini sudah kali kedua rencana rapat ini mandek, setelah sebelumnya ditunda pada Juni 2026 dan kini dibatalkan total pada November 2026. Yang perlu dipantau selanjutnya adalah apakah WOMF akan mengumumkan jadwal RUPSLB baru beserta alasan di balik pembatalan ini, karena dokumen yang ada belum memberi kepastian soal rencana susunan direksi ke depan.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pembatalan Rapat Umum Pemegang Saham Luar Biasa"
+ },
+ {
   "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
   "category": "Aksi Korporasi",
   "title": "RUPSLB OLIV 7 Desember: [Rombak] Direksi dan Komisaris",
@@ -1308,8 +1431,8 @@ var ARTICLES = [
  {
   "slug": "cass-free-float-17-35-penuhi-syarat-minimum-bursa",
   "category": "Aksi Korporasi",
-  "title": "CASS: Free Float 17,35% [Penuhi] Syarat Minimum Bursa",
-  "deck": "Struktur pemegang saham CASS per 11 November 2026 menunjukkan free float 362,05 juta saham atau 17,35%, memenuhi batas minimum yang disyaratkan Bursa.",
+  "title": "CASS: [Pemilik Manfaat] Eddy K. Sariaatmadja, Free Float 17,35%",
+  "deck": "Laporan bulanan registrasi pemegang efek CASS mengungkap pemilik manfaat akhir Eddy K. Sariaatmadja di balik pengendali Roket Cipta Sentosa; free float tetap 17,35%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T15:59:10",
@@ -1318,20 +1441,30 @@ var ARTICLES = [
   "emiten": "CASS",
   "tags": [
    "CASS",
-   "pemegang saham",
    "free float",
-   "Bursa Efek Indonesia"
+   "pemilik manfaat",
+   "struktur pemegang saham"
   ],
   "body": [
-   "Cahaya Aero Services Tbk (CASS) melaporkan perubahan struktur kepemilikan saham ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia berdasarkan data per 11 November 2026 yang bersumber dari AKSes KSEI dan Daftar Pemegang Saham Perseroan. Berdasarkan Surat Keterangan No. DE/XI/26-3642 tanggal 12 November 2026 dari PT Datindo Entrycom selaku biro administrasi efek perusahaan, komposisi pemegang saham dengan kepemilikan di atas 5 persen adalah PT Roket Cipta Sentosa dengan 1.273.041.500 saham atau 61,00 persen, dan SATS Ltd s/a SATS Investments (II) Pte. Ltd. dengan 451.830.800 saham atau 21,65 persen. Sisanya, saham milik publik dengan kepemilikan masing-masing di bawah 5 persen, tercatat 362.077.700 saham atau 17,35 persen.",
-   "Dari total modal ditempatkan dan disetor penuh sebanyak 2.086.950.000 saham senilai Rp208,695 miliar, jumlah saham free float atau saham yang beredar bebas di luar pemegang saham utama tercatat 362.053.700 saham, setara 17,35 persen dari total saham Perseroan. Modal dasar Perseroan sendiri mencapai 7,5 miliar saham, dengan 5.413.050.000 saham masih berstatus saham dalam portepel yang belum diterbitkan.",
-   "Dengan angka free float tersebut, Perseroan menyatakan telah memenuhi ketentuan minimum jumlah saham free float sebagaimana diatur dalam Peraturan Bursa Nomor I-A tentang Pencatatan Saham, sebagaimana diubah melalui Keputusan Direksi BEI No. Kep-00045/BEI/03-2026 tanggal 31 Maret 2026. Manajemen CASS menegaskan tidak terdapat dampak material dari perubahan struktur kepemilikan ini terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
+   "Cahaya Aero Services Tbk (CASS) menyampaikan Laporan Bulanan Registrasi Pemegang Efek (LBRE) ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 13 November 2026, sehari setelah laporan perubahan struktur pemegang saham yang terbit sebelumnya. Memakai data per tanggal yang sama, 11 November 2026, dokumen ini untuk pertama kalinya mengungkap identitas pemilik manfaat akhir di balik pemegang saham pengendali PT Roket Cipta Sentosa, yaitu Eddy K. Sariaatmadja, yang tercatat sebagai pengendali individu dengan penguasaan 61 persen saham CASS melalui perusahaan tersebut.",
+   "Jumlah saham free float, yakni saham yang beredar bebas dan bisa diperjualbelikan publik di luar pemegang saham utama, tidak berubah dari laporan sehari sebelumnya: tetap 362.053.700 saham atau 17,35 persen dari total saham tercatat. Jumlah pemegang saham dengan rekening efek atau SID turun dari 1.136 menjadi 1.106, berkurang 30 pemegang dalam sebulan terakhir.",
+   "Komposisi pemegang saham di atas 5 persen juga tidak berubah: PT Roket Cipta Sentosa memegang 1.273.041.500 saham (61,00 persen) dan SATS Ltd s/a SATS Investments (II) Pte. Ltd. memegang 451.830.800 saham (21,65 persen). Sisanya, 362.077.700 saham atau 17,35 persen, dimiliki publik dengan kepemilikan masing-masing di bawah 5 persen.",
+   "Dari total modal ditempatkan dan disetor penuh sebanyak 2.086.950.000 saham senilai Rp208,695 miliar, modal dasar Perseroan mencapai 7,5 miliar saham, dengan 5.413.050.000 saham masih berstatus saham dalam portepel yang belum diterbitkan. Manajemen CASS menegaskan tidak ada dampak material dari perubahan data ini terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usaha Perseroan."
   ],
   "fotoAdegan": "Ground handling crew pushing luggage carts across an airport tarmac beside a parked jet, early morning light",
-  "takeaway": "Laporan ini netral bagi CASS karena isinya sekadar konfirmasi rutin bahwa porsi saham yang beredar bebas di publik masih berada di atas ambang minimum yang disyaratkan Bursa, bukan transaksi atau aksi korporasi baru yang mengubah fundamental perusahaan. Pos yang tersentuh di sini adalah free float, yaitu porsi saham yang bisa diperjualbelikan bebas oleh investor publik di luar pemegang saham pengendali dan pemegang strategis; angka ini dipantau pasar karena menentukan likuiditas perdagangan saham dan menjadi syarat agar saham tidak dikenai sanksi pencatatan oleh Bursa. Dokumen ini tidak menyebut rencana RUPS, tenggat, atau tanggal efektif baru, sehingga hal konkret yang perlu dipantau selanjutnya adalah apakah ada pergeseran pada dua pemegang saham utama, PT Roket Cipta Sentosa dan SATS Investments, yang bersama-sama masih mengendalikan 82,65 persen saham CASS.",
+  "takeaway": "Laporan ini netral bagi CASS karena isinya bersifat administratif, laporan rutin bulanan yang mengonfirmasi ulang struktur pemegang saham tanpa transaksi atau perubahan hak suara satu pihak pun. Pos yang tersentuh adalah data pemilik manfaat akhir, yaitu individu yang pada akhirnya mengendalikan perusahaan lewat badan hukum berlapis; pasar memperhatikan ini karena mengungkap sosok sebenarnya di balik pengendali korporasi PT Roket Cipta Sentosa. Penurunan jumlah pemegang rekening efek sebanyak 30 orang dalam sebulan tergolong fluktuasi kecil dan belum menunjukkan perubahan arah kepemilikan publik. Dokumen ini tidak mencantumkan tanggal RUPS, tenggat, atau rencana aksi korporasi baru, sehingga hal yang masih perlu dipantau tetap sama seperti sebelumnya, yaitu apakah ada pergeseran pada dua pemegang saham utama, PT Roket Cipta Sentosa dan SATS Investments, yang bersama menguasai 82,65 persen saham CASS.",
   "sentimen": "netral",
   "peristiwa": "kepemilikan",
-  "judulIdx": "Laporan Keterbukaan Informasi terkait Perubahan Struktur Kepemilikan Saham PT Cahaya Aero Services Tbk"
+  "judulIdx": "Laporan Keterbukaan Informasi terkait Perubahan Struktur Kepemilikan Saham PT Cahaya Aero Services Tbk",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T16:09:01",
+    "ringkas": "Laporan LBRE terbaru CASS mengungkap pemilik manfaat akhir Eddy K. Sariaatmadja, sementara free float tetap 17,35%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3d2fefa88a_12dbfde091.pdf",
+    "judulIdx": "Perubahan Struktur Pemegang Saham"
+   }
+  ],
+  "diperbarui": "2026-11-13T16:09:01"
  },
  {
   "slug": "rupo-obligasi-iii-bold-10-desember-agenda-menyusul-26-november",
@@ -7596,8 +7729,8 @@ var ARTICLES = [
  {
   "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
   "category": "Aksi Korporasi",
-  "title": "BMAS Tarik US$80 Juta Lagi dari KBank, Total Jadi US$338 Juta",
-  "deck": "BMAS menarik tambahan US$25 juta dan US$55 juta dari fasilitas pinjaman bilateral KBank pada 12 November 2026, sehingga total penarikan mencapai US$338 juta dari limit US$341 juta.",
+  "title": "BMAS Tarik US$2 Juta Lagi dari KBank, Total Jadi US$340 Juta",
+  "deck": "BMAS menarik tambahan US$2 juta dari fasilitas pinjaman bilateral KBank pada 13 November 2026, sehingga total penarikan mencapai US$340 juta dari limit US$341 juta, hanya tersisa sekitar US$1 juta.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T16:06:40",
@@ -7606,18 +7739,18 @@ var ARTICLES = [
   "emiten": "BMAS",
   "tags": [
    "BMAS",
-   "Transaksi Afiliasi",
-   "Pinjaman Bilateral",
+   "transaksi afiliasi",
+   "pinjaman bilateral",
    "KBank"
   ],
   "body": [
-   "PT Bank Kasikorn Indonesia Tbk (BMAS) kembali menarik dana dari fasilitas pinjaman bilateral pemegang saham utamanya, KASIKORNBANK PUBLIC COMPANY LIMITED (KBank). Pada 12 November 2026, perusahaan menarik tambahan US$25 juta dan US$55 juta, sehingga total penarikan dari fasilitas ini sejak Agustus 2026 mencapai US$338 juta, hanya tersisa sekitar US$3 juta dari limit fasilitas sebesar US$341 juta.",
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) menarik tambahan US$2 juta dari fasilitas pinjaman bilateral pemegang saham utamanya, KASIKORNBANK PUBLIC COMPANY LIMITED (KBank), pada 13 November 2026. Dengan penarikan ini, total dana yang sudah dicairkan dari fasilitas tersebut mencapai US$340 juta, hanya menyisakan sekitar US$1 juta dari limit fasilitas sebesar US$341 juta.",
    "Fasilitas pinjaman bilateral ini memiliki limit total US$341 juta, dengan tenor hingga dua tahun sejak masing-masing tanggal penarikan dan bunga mengacu pada SOFR, yaitu suku bunga acuan dolar Amerika Serikat yang bergerak sesuai kondisi pasar, ditambah margin. Dari total limit tersebut, US$235 juta sudah terikat perjanjian turunan (underlying) dengan KBank. Perseroan menyebut pinjaman ini digunakan untuk menopang likuiditas jangka panjang dan mendukung penyaluran kredit kepada nasabah, dengan pencairan dilakukan bertahap.",
-   "Riwayat penarikan dimulai pada 21 Agustus 2026 sebesar US$55 juta, lalu dilanjutkan dengan penarikan dalam mata uang yuan lepas pantai (CNH) senilai CNH 201 juta atau setara US$30 juta yang efektif pada 20 Oktober 2026, dengan dana ekuivalen dolar sebesar US$155 juta efektif sehari setelahnya. Pada 9 November 2026 perusahaan menarik lagi CNH 120,9 juta atau setara US$18 juta, sebelum akhirnya menambah US$25 juta dan US$55 juta pada 12 November 2026.",
+   "Riwayat penarikan dimulai pada 21 Agustus 2026 sebesar US$55 juta, lalu dilanjutkan dengan penarikan dalam mata uang yuan lepas pantai (CNH) senilai CNH 201 juta atau setara US$30 juta yang efektif pada 20 Oktober 2026, dengan dana ekuivalen dolar sebesar US$155 juta efektif sehari setelahnya. Pada 9 November 2026 perusahaan menarik lagi CNH 120,9 juta atau setara US$18 juta, lalu menambah US$25 juta dan US$55 juta pada 12 November 2026, sebelum akhirnya menarik US$2 juta lagi pada 13 November 2026.",
    "KBank merupakan pemegang saham pengendali tertinggi (ultimate shareholder) BMAS melalui anak usahanya, Kasikorn Vision Financial Company Pte Ltd, yang menguasai 86,03 persen saham BMAS atau 89,48 persen bila dihitung bersama seluruh kepemilikan Grup KASIKORNBANK. Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan sesuai POJK 42/2020 tentang Transaksi Afiliasi."
   ],
   "fotoAdegan": "Exterior of a modern glass-clad bank office tower in Jakarta's central business district under afternoon light, pedestrians walking past entrance",
-  "takeaway": "Laporan ini netral bagi BMAS, tapi layak dicermati karena penarikan kali ini membuat fasilitas pinjaman afiliasi dari KBank sudah terpakai hampir seluruhnya, yaitu US$338 juta dari limit US$341 juta, jauh lebih cepat terkuras dibanding penarikan sebelumnya yang baru separuh limit. Yang tersentuh adalah sisi utang dan beban bunga BMAS, karena pinjaman berbunga SOFR plus margin ini menambah kewajiban kepada pihak berelasi dan menaikkan biaya dana, meski di sisi lain memperbesar amunisi BMAS untuk menyalurkan kredit baru ke nasabah. Belum ada tanda tekanan likuiditas mendesak, sebab perusahaan sendiri menyebut transaksi ini tidak mengandung benturan kepentingan dan bagian dari rencana bertahap yang sudah diumumkan sejak Agustus. Yang perlu dipantau selanjutnya adalah bagaimana BMAS menutup sisa kapasitas yang hanya sekitar US$3 juta itu, dan apakah akan muncul pengajuan fasilitas afiliasi baru jika kebutuhan likuiditas atau penyaluran kredit terus bertambah.",
+  "takeaway": "Laporan ini tetap netral bagi BMAS, tapi patut dicermati karena fasilitas pinjaman afiliasi dari KBank kini nyaris tandas, hanya menyisakan sekitar US$1 juta dari limit US$341 juta setelah penarikan tambahan US$2 juta pada 13 November. Yang tersentuh adalah sisi utang dan beban bunga BMAS, sebab pinjaman ini dikenakan bunga mengacu pada SOFR, yaitu suku bunga acuan dolar AS yang berubah sesuai kondisi pasar, ditambah margin, sehingga setiap penarikan baru menambah kewajiban kepada pemegang saham pengendalinya sekaligus menaikkan biaya dana BMAS. Di sisi lain, dana ini memperbesar amunisi BMAS untuk menyalurkan kredit ke nasabah, dan perseroan menegaskan transaksi tidak mengandung benturan kepentingan sesuai aturan OJK soal transaksi afiliasi. Yang perlu dipantau selanjutnya adalah apakah BMAS akan mengajukan fasilitas afiliasi baru dari KBank begitu sisa kapasitas US$1 juta ini habis, karena kebutuhan likuiditas dan penyaluran kredit perseroan tampak masih berlanjut.",
   "sentimen": "netral",
   "pembaruan": [
    {
@@ -7625,9 +7758,15 @@ var ARTICLES = [
     "ringkas": "BMAS menarik US$80 juta lagi dari KBank pada 12 November, total penarikan jadi US$338 juta dari limit US$341 juta.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f2fce1cec_412f8865fd.pdf",
     "judulIdx": "Transaksi Afiliasi"
+   },
+   {
+    "tanggal": "2026-11-13T16:44:57",
+    "ringkas": "BMAS menarik tambahan US$2 juta pada 13 November 2026, membuat total penarikan dari fasilitas KBank mencapai US$340 juta, sisa limit hanya US$1 juta.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5c44931dc2_97b8751446.pdf",
+    "judulIdx": "Transaksi Afiliasi"
    }
   ],
-  "diperbarui": "2026-11-13T11:57:29",
+  "diperbarui": "2026-11-13T16:44:57",
   "peristiwa": "transaksi"
  },
  {
@@ -39376,8 +39515,8 @@ var ARTICLES = [
  {
   "slug": "idea-jadwalkan-ulang-rupslb-ke-12-november-2026",
   "category": "Aksi Korporasi",
-  "title": "IDEA Jadwalkan Ulang [RUPSLB] ke 12 November 2026",
-  "deck": "PT Idea Indonesia Akademi Tbk mengoreksi jadwal RUPSLB yang semula 23 Oktober menjadi 12 November 2026, membahas pergantian direksi-komisaris dan revisi anggaran dasar.",
+  "title": "RUPSLB IDEA 12 November: [Direksi-Komisaris Baru] Disetujui",
+  "deck": "RUPSLB IDEA pada 12 November 2026 menyetujui direksi dan komisaris baru, menegaskan PT Nawasena Nugra Investama sebagai pengendali dengan 66,81% saham, serta merevisi anggaran dasar sesuai KBLI 2025.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 Oktober 2026",
   "isoDate": "2026-10-21T09:29:58",
@@ -39387,17 +39526,34 @@ var ARTICLES = [
   "tags": [
    "IDEA",
    "RUPSLB",
-   "Pergantian Direksi",
-   "Anggaran Dasar"
+   "Direksi-Komisaris",
+   "Pengendali"
   ],
   "body": [
-   "PT Idea Indonesia Akademi Tbk (IDEA) mengoreksi pemberitahuan sebelumnya mengenai Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Rapat yang awalnya diumumkan pada 1 Oktober 2026 untuk digelar Jumat, 23 Oktober 2026, diundur menjadi Kamis, 12 November 2026 pukul 10.00 WIB, bertempat di Aleesha Venue, Jalan Warung Sila Nomor 1, Cipedak, Jagakarsa, Jakarta Selatan. Tanggal pencatatan pemegang saham yang berhak hadir, atau recording date, tetap pada penutupan perdagangan bursa 20 Oktober 2026.",
-   "Ada tiga agenda yang akan dibahas. Pertama, persetujuan perubahan susunan direksi dan dewan komisaris perseroan, yang disebut merujuk pada aturan OJK Nomor 33/POJK.04/2014 serta anggaran dasar perseroan, namun dokumen ini belum menyebutkan nama calon pengganti. Kedua, penegasan susunan pemegang saham sesuai Daftar Pemegang Saham terkini. Ketiga, perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 menyusul terbitnya Peraturan BPS Nomor 7/2025 pada 18 Desember 2025.",
-   "Perseroan tidak mengirim undangan khusus karena pemanggilan ini sudah berlaku sebagai undangan resmi, dengan bahan rapat dapat diakses di situs perseroan sejak 21 Oktober 2026. Pemegang saham bisa hadir fisik atau elektronik lewat aplikasi eASY.KSEI, dengan batas waktu memberi deklarasi kehadiran, kuasa, atau suara pukul 12.00 WIB pada satu hari kerja sebelum rapat, yaitu 11 November 2026."
+   "PT Idea Indonesia Akademi Tbk (IDEA) menuntaskan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 12 November 2026, setelah sebelumnya diundur dari rencana awal 23 Oktober. Rapat dihadiri pemegang saham yang mewakili 708.853.600 saham atau 66,72 persen dari total saham perseroan, memenuhi syarat kuorum. Ketiga agenda rapat disetujui bulat tanpa suara menolak atau abstain.",
+   "Agenda utama adalah pergantian direksi dan dewan komisaris. Perseroan memberhentikan Dody Arifianto dari jabatan Komisaris Utama, Eko Desriyanto dari jabatan Direktur Utama, dan Yusuf Nur Fauzan dari jabatan Direktur. Susunan baru menempatkan Otto Ardianto sebagai Direktur Utama, dengan Mochamad Riandri Prasetya, Saskia Ayu Ajeng Aditya Putri, Eko Desriyanto, dan Dody Arifianto sebagai Direktur. Dewan Komisaris kini dipimpin Yukki Nugrahawan Hanafi sebagai Komisaris Utama, didampingi Achmad Gamaludin M dan Ahmad Rafi Ashrafusadat sebagai Komisaris, serta Dimas Kahlil Sudoyo Beck dan Wendy Isnandar sebagai Komisaris Independen. Masa jabatan susunan baru ini berlaku sampai penutupan RUPS Tahunan pada 2031.",
+   "Agenda kedua menegaskan susunan pemegang saham dan pengendali perseroan berdasarkan Daftar Pemegang Saham per 9 November 2026. PT Nawasena Nugra Investama tercatat sebagai pengendali dengan 709.812.900 saham atau 66,81 persen dari total 1.062.437.500 saham perseroan, sementara sisanya 352.624.600 saham atau 33,19 persen dimiliki masyarakat.",
+   "Agenda ketiga menyetujui perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 sesuai Peraturan BPS Nomor 7/2025. Seluruh keputusan rapat ini dituangkan dalam akta notaris tertanggal 12 November 2026 Nomor 18."
   ],
   "fotoAdegan": "Rows of empty chairs and a podium arranged in a conference hall ahead of a corporate shareholders meeting, soft morning light",
-  "takeaway": "Laporan ini netral bagi fundamental IDEA karena isinya sebatas koreksi tanggal rapat, tanpa angka keuangan baru atau nama calon pengganti direksi dan komisaris yang diumumkan. Pos yang tersentuh bukan laporan keuangan melainkan tata kelola perseroan, karena agenda pergantian direksi-komisaris bisa mengubah arah strategi perusahaan ke depan, sementara perubahan anggaran dasar soal klasifikasi usaha hanya menyesuaikan administrasi dengan aturan KBLI 2025 dan tidak mengubah kegiatan usaha senyatanya. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 12 November 2026, terutama siapa yang akhirnya ditetapkan sebagai direksi dan komisaris baru serta hasil persetujuan perubahan anggaran dasar, dengan tenggat pemberian kuasa dan suara elektronik jatuh pada 11 November 2026 pukul 12.00 WIB.",
-  "sentimen": "netral"
+  "takeaway": "Keputusan RUPSLB ini netral bagi fundamental IDEA karena murni soal tata kelola dan konfirmasi pemegang saham pengendali, tanpa penambahan modal atau perubahan arus kas maupun laba perseroan. Pos yang tersentuh adalah susunan direksi, dewan komisaris, dan struktur pengendali, bukan laporan keuangan; pergantian pucuk pimpinan bisa mengubah arah strategi perusahaan ke depan, sementara penegasan PT Nawasena Nugra Investama sebagai pemegang kendali mayoritas dengan 66,81 persen saham menunjukkan siapa yang punya suara terbesar dalam keputusan strategis perusahaan. Perubahan anggaran dasar soal KBLI 2025 hanya menyesuaikan kode klasifikasi usaha di dokumen resmi, bukan mengubah kegiatan usaha senyatanya. Yang perlu dipantau berikutnya adalah bagaimana jajaran direksi baru yang dipimpin Otto Ardianto menjalankan perseroan, serta pelaksanaan akta notaris 12 November 2026 Nomor 18 yang menuangkan seluruh keputusan rapat ini, dengan masa jabatan direksi dan komisaris baru berlaku sampai penutupan RUPS Tahunan 2031.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T09:43:50",
+    "ringkas": "RUPSLB IDEA menyetujui direksi-komisaris baru, pengendali PT Nawasena Nugra Investama dikonfirmasi 66,81%, dan revisi anggaran dasar sesuai KBLI 2025.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b65ce114c6_09542c913d.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-13T09:43:50",
+  "jadwal": [
+   {
+    "tanggal": "2031-06-30",
+    "acara": "Akhir periode jabatan direksi dan komisaris baru"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "pool-pinjam-rp5-miliar-dari-pemegang-saham-gadai-saham-pola",
@@ -50741,8 +50897,8 @@ var ARTICLES = [
  {
   "slug": "gmfi-siapkan-pmhmetd-terbitkan-22-03-miliar-saham-baru",
   "category": "Aksi Korporasi",
-  "title": "GMFI Siapkan PMHMETD, Terbitkan [22,03 Miliar] Saham Baru",
-  "deck": "GMFI berencana menerbitkan hingga 22,03 miliar saham baru Seri B lewat PMHMETD III senilai nominal Rp19 per saham, untuk dimintakan persetujuan RUPSLB pada 19 November 2026.",
+  "title": "PMHMETD GMFI: Saham API 65,77% [Beralih] ke Danantara, RUPSLB 19 Nov",
+  "deck": "Saham Seri B GMFI milik Angkasa Pura Indonesia (65,77%) beralih ke Danantara Asset Management lewat InJourney. RUPSLB rights issue PMHMETD III tetap 19 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 Oktober 2026",
   "isoDate": "2026-10-13T17:25:15",
@@ -50753,16 +50909,33 @@ var ARTICLES = [
    "GMFI",
    "PMHMETD",
    "RUPSLB",
-   "Garuda Indonesia"
+   "Danantara Asset Management"
   ],
   "body": [
-   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mengumumkan rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu (PMHMETD) ketiga. Perseroan berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar dengan nilai nominal Rp19 per saham. Dalam keterbukaan informasi yang diterbitkan di Tangerang pada 13 Oktober 2026, manajemen menyebut rencana ini untuk mendukung pengembangan dan ekspansi usaha, serta menyatakan aksi ini akan berdampak positif terhadap kegiatan operasional dan kondisi keuangan perusahaan. Rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan pada Kamis, 19 November 2026.",
-   "Berdasarkan laporan keuangan interim konsolidasian per 30 Juni 2026, total saham GMFI yang telah diterbitkan dan disetor penuh berjumlah 124.835.258.434 lembar, terdiri dari 28.233.511.500 saham Seri A dan 96.601.746.934 saham Seri B. Jika seluruh 22,03 miliar saham baru itu benar diterbitkan, jumlah saham beredar perseroan bisa bertambah sekitar 17,6 persen dari posisi saat ini. Perseroan masih memiliki simpanan saham dalam portepel sebanyak 190.464.207.066 lembar Seri B yang bisa dipakai untuk aksi ini tanpa perlu menambah modal dasar baru.",
-   "Komposisi pemegang saham GMFI saat ini menunjukkan PT Angkasa Pura Indonesia (Persero) sebagai pemegang saham terbesar di Seri B dengan 65,77 persen, sementara PT Garuda Indonesia (Persero) Tbk menguasai 20,15 persen Seri A dan 7,28 persen Seri B. Pemerintah Republik Indonesia tercatat sebagai pengendali perseroan melalui Garuda Indonesia. Nilai nominal saham GMFI sendiri telah diseragamkan menjadi Rp19 per lembar untuk Seri A maupun Seri B, menyusul proses kuasi reorganisasi dan pengurangan modal yang efektif berlaku pada 30 September 2026, turun dari sebelumnya Rp100 per saham Seri A dan Rp25 per saham Seri B."
+   "Sebanyak 82,1 miliar saham Seri B PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), setara 65,77 persen dari saham Seri B yang beredar, berpindah tangan dari PT Angkasa Pura Indonesia (Persero) ke PT Danantara Asset Management. Perpindahan ini tercatat lewat akta tanggal 2 November 2026, dengan saham lebih dulu dialihkan ke PT Aviasi Pariwisata Indonesia (Persero) atau InJourney sebagai pembagian dividen berbentuk saham, sebelum diteruskan ke Danantara Asset Management. Daftar pemegang saham resmi GMFI yang diterbitkan PT Datindo Entrycom sebagai biro administrasi efek perseroan mencatat perubahan ini pada 2 November 2026.",
+   "Perpindahan kepemilikan ini diumumkan lewat dokumen tambahan atas keterbukaan informasi mengenai rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) ketiga, yang di pasar modal juga disebut rights issue, dan sebelumnya sudah diumumkan pada 13 Oktober 2026. Perseroan tetap berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar dengan nilai nominal Rp19 per saham, dan rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang tetap dijadwalkan pada Kamis, 19 November 2026.",
+   "Berdasarkan laporan keuangan interim per 30 Juni 2026, total saham GMFI yang telah diterbitkan dan disetor penuh berjumlah 124.835.258.434 lembar, terdiri dari 28.233.511.500 saham Seri A dan 96.601.746.934 saham Seri B. Jika seluruh 22,03 miliar saham baru dalam PMHMETD III benar diterbitkan, jumlah saham beredar perseroan bisa bertambah sekitar 17,6 persen dari posisi saat ini. Perseroan masih menyimpan 190.464.207.066 lembar saham Seri B dalam portepel yang bisa dipakai untuk aksi ini tanpa perlu menambah modal dasar baru.",
+   "Meski kepemilikan di tingkat pemegang saham Seri B berubah dari Angkasa Pura Indonesia ke Danantara Asset Management, pengendali GMFI tetap Pemerintah Republik Indonesia melalui PT Garuda Indonesia (Persero) Tbk, yang menguasai 20,15 persen saham Seri A dan 7,28 persen saham Seri B. Nilai nominal saham GMFI juga tetap Rp19 per lembar untuk Seri A maupun Seri B, menyusul kuasi reorganisasi dan pengurangan modal yang efektif berlaku 30 September 2026."
   ],
   "fotoAdegan": "Aircraft technicians in overalls inspecting a commercial jet engine inside a spacious maintenance hangar, bright industrial lighting",
-  "takeaway": "Laporan ini netral bagi pemegang saham untuk saat ini, sebab ukurannya besar dari sisi jumlah saham tapi belum menyebutkan harga pelaksanaan maupun rincian penggunaan dana, sehingga dampak sebenarnya ke kantong pemegang saham belum bisa dipastikan. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena menambah hingga 22,03 miliar saham dari basis 124,84 miliar saham saat ini berarti jumlah saham bisa naik sekitar 17,6 persen, dan pemegang saham yang tidak menebus haknya akan melihat porsi kepemilikan serta laba per sahamnya terpotong dengan proporsi serupa. Di sisi lain, dana yang terkumpul rencananya dipakai untuk ekspansi usaha perawatan pesawat, yang bila terealisasi bisa menambah kapasitas dan pendapatan jangka panjang. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada Kamis, 19 November 2026, serta keterbukaan informasi lanjutan yang memuat harga pelaksanaan dan rasio HMETD setelah RUPSLB tersebut.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini netral bagi pemegang saham publik GMFI, sebab perpindahan 65,77 persen saham Seri B dari Angkasa Pura Indonesia ke Danantara Asset Management adalah reorganisasi internal antarlembaga milik negara, bukan transaksi yang mendatangkan dana baru atau mengubah pengendali perseroan. Yang tersentuh adalah komposisi pemegang saham dan hak suara, bukan kas atau utang perusahaan, karena jumlah saham yang berpindah tangan tidak berubah dan GMFI sendiri tidak menerima atau mengeluarkan uang dari transaksi ini. Pos yang lebih relevan bagi investor publik justru rencana PMHMETD III yang belum berubah, yakni penerbitan hingga 22,03 miliar saham baru yang bisa menambah jumlah saham beredar sekitar 17,6 persen dan membuat laba per saham serta porsi kepemilikan pemegang saham yang tidak menebus haknya terdilusi. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada Kamis, 19 November 2026, serta apakah keterbukaan informasi berikutnya akhirnya memuat harga pelaksanaan dan rasio HMETD yang sampai sekarang belum diumumkan.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T14:47:17",
+    "ringkas": "Saham Seri B GMFI milik Angkasa Pura Indonesia (65,77%) beralih ke Danantara Asset Management, RUPSLB PMHMETD III tetap 19 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51ba95c8a7_6d705731cb.pdf",
+    "judulIdx": "Perubahan dan/atau Tambahan Informasi atas Keterbukaan Informasi kepada Pemegang Saham PT Garuda Maintenance Facility Aero Asia Tbk Sehubungan dengan Rencana Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu III"
+   }
+  ],
+  "diperbarui": "2026-11-13T14:47:17",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "RUPSLB persetujuan PMHMETD III"
+   }
+  ],
+  "peristiwa": "right-issue"
  },
  {
   "slug": "gmfi-jadwalkan-rupslb-19-november-bahas-pmhmetd-iii",
@@ -66638,8 +66811,8 @@ var ARTICLES = [
  {
   "slug": "nayz-pengendali-baru-buka-tender-wajib-rp75-per-saham",
   "category": "Aksi Korporasi",
-  "title": "NAYZ: Pengendali Baru Buka [Tender Wajib] Rp75 per Saham",
-  "deck": "Saiko Consultancy menawar tender wajib atas saham publik NAYZ seharga Rp75 per lembar, menyusul pengambilalihan 29,41 persen saham dari PT Asia Intrainvesta pada Agustus 2026.",
+  "title": "Tender Wajib NAYZ 10 November: [Rampung] Saiko Kuasai 37,02 Persen",
+  "deck": "Penawaran tender wajib NAYZ oleh Saiko Consultancy berakhir 3 November 2026: hanya 40 pemegang saham menjual 193,93 juta lembar (7,61 persen), sehingga kepemilikan Saiko naik ke 37,02 persen.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 Oktober 2026",
   "isoDate": "2026-10-02T08:51:43",
@@ -66648,18 +66821,43 @@ var ARTICLES = [
   "emiten": "NAYZ",
   "tags": [
    "NAYZ",
-   "tender wajib",
-   "akuisisi",
-   "Saiko Consultancy"
+   "Tender Wajib",
+   "Saiko Consultancy",
+   "Hassana Boga Sejahtera"
   ],
   "body": [
-   "Saiko Consultancy Pte. Ltd., perusahaan asal Singapura yang baru didirikan pada 8 Januari 2026, resmi menjadi pengendali baru PT Hassana Boga Sejahtera Tbk (NAYZ) setelah membeli 750.000.000 saham atau 29,41 persen dari modal disetor penuh perusahaan dari PT Asia Intrainvesta (AI) pada 19 Agustus 2026. Transaksi dilakukan di harga Rp23,5 per saham melalui mekanisme crossing di Bursa Efek Indonesia. Karena pengambilalihan ini mengubah pihak yang mengendalikan NAYZ, sesuai Peraturan OJK No. 9/2018, Saiko wajib menawarkan pembelian saham kepada seluruh pemegang saham publik lain melalui penawaran tender wajib. Saiko menunjuk anak usahanya, PT Saiko Consultancy Grand (SCG), yang sahamnya 99,98 persen dimiliki Saiko, untuk melaksanakan penawaran ini.",
-   "Penawaran tender wajib ini menyasar sebanyak-banyaknya 1.169.011.482 saham atau 45,84 persen dari modal disetor penuh NAYZ, dengan harga Rp75 per saham, sehingga nilai totalnya bisa mencapai Rp87,68 miliar. Harga ini ditetapkan berdasarkan aturan OJK yang mewajibkan penawar memakai angka yang lebih tinggi antara harga pengambilalihan (Rp23,5 per saham) atau rata-rata harga tertinggi perdagangan harian saham NAYZ di bursa selama 90 hari sebelum pengumuman negosiasi pengambilalihan, yang tercatat Rp74,45 dan dibulatkan ke atas menjadi Rp75. Masa penawaran berlangsung dari 5 Oktober hingga 3 November 2026, dengan pembayaran kepada pemegang saham yang menjual dijadwalkan pada 10 November 2026. PT Asia Intrainvesta, sebagai penjual dan pengendali lama, dikecualikan dari penawaran ini. Jika seluruh pemegang saham publik yang berhak ikut menjual sahamnya, kepemilikan Saiko atas NAYZ, baik langsung maupun lewat SCG, bisa naik menjadi 1.919.011.472 saham atau 75,26 persen dari total modal disetor perusahaan.",
-   "Saiko menyatakan tujuan pengambilalihan ini adalah pengembangan usaha NAYZ. Rencananya, pengembangan itu dilakukan lewat mekanisme inbreng, yaitu penyertaan aset atau saham perusahaan lain yang dimiliki Saiko atau pihak yang ditunjuknya ke dalam NAYZ. Sebagai bagian dari rencana ini, NAYZ akan mengubah dan menambah kegiatan usahanya, serta mengalihkan sebagian atau seluruh bisnis dan asetnya yang ada saat ini, yaitu industri makanan dan makanan bayi, kepada AI dan/atau pihak lain yang ditunjuk AI. Sebagai gantinya, NAYZ akan menerima tambahan modal yang pelaksanaannya mengikuti aturan pasar modal yang berlaku. Dalam dokumen ini, Saiko menegaskan tidak berencana membubarkan NAYZ, mengubah kebijakan dividen, atau mencabut status perusahaan terbuka NAYZ dari Bursa Efek Indonesia."
+   "Penawaran tender wajib atas saham PT Hassana Boga Sejahtera Tbk (NAYZ) oleh Saiko Consultancy Pte. Ltd. resmi berakhir. Dalam laporan hasil yang disampaikan ke Bursa Efek Indonesia pada 13 November 2026, hanya 40 pemegang saham publik yang melepas sahamnya, dengan total 193.933.300 saham atau 7,61 persen dari seluruh saham NAYZ yang beredar. Transaksi ini diselesaikan pada 10 November 2026.",
+   "Dengan hasil ini, kepemilikan Saiko atas NAYZ naik dari 29,41 persen menjadi 37,02 persen, setelah anak usahanya, PT Saiko Consultancy Grand, yang bertindak sebagai pelaksana tender, mengumpulkan saham-saham yang dijual tersebut. Angka ini jauh di bawah skenario maksimal yang sempat disebutkan sebelumnya, yakni 75,26 persen, seandainya seluruh 1.169.011.472 saham publik yang ditawar atau setara 45,84 persen modal disetor ikut dijual.",
+   "Tender wajib ini merupakan konsekuensi dari pengambilalihan 750.000.000 saham atau 29,41 persen NAYZ oleh Saiko dari PT Asia Intrainvesta pada 19 Agustus 2026 seharga Rp23,5 per saham. Karena transaksi itu mengubah pengendali NAYZ, Peraturan OJK No. 9/2018 mewajibkan Saiko menawarkan pembelian saham kepada seluruh pemegang saham publik lain. Harga tender ditetapkan Rp75 per saham, mengikuti rumus OJK yang mengambil angka tertinggi antara harga pengambilalihan dan rata-rata harga tertinggi perdagangan saham NAYZ selama 90 hari sebelum pengumuman, yang saat itu tercatat Rp74,45 dan dibulatkan ke atas. Masa penawaran berlangsung dari 5 Oktober hingga 3 November 2026.",
+   "Dalam laporan ini, Saiko juga menegaskan bahwa pelaksanaan tender wajib tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha NAYZ. Namun, rencana pengembangan usaha lewat mekanisme inbreng, termasuk pengalihan bisnis makanan dan makanan bayi NAYZ saat ini kepada PT Asia Intrainvesta serta penambahan modal baru seperti yang diumumkan sebelumnya, belum disinggung kelanjutannya dalam dokumen ini."
   ],
   "fotoAdegan": "Workers stacking cartons of packaged food products inside a large warehouse loading bay, forklift nearby, afternoon light through open doors",
-  "takeaway": "Laporan ini netral bagi kondisi NAYZ saat ini, karena harga tender sudah mengikuti rumus yang diwajibkan OJK dan perusahaan menegaskan tidak ada rencana delisting atau perubahan kebijakan dividen, tetapi rencana mengalihkan bisnis dan aset perusahaan ke pengendali lama sambil menerima suntikan modal baru membuat arah bisnis ke depan belum jelas. Yang paling kena dampak adalah jumlah saham beredar dan laba per saham, sebab dokumen ini menyebut akan ada penambahan modal setelah pengalihan bisnis, dan kalau jumlah sahamnya bertambah sementara labanya belum tentu naik sebanding, bagian keuntungan per saham untuk pemegang saham lama bisa tergerus. Hak suara Saiko juga berpotensi melonjak dari 29,41 persen menjadi maksimal 75,26 persen kalau seluruh pemegang saham publik yang berhak ikut menjual sahamnya, yang berarti kendali penuh atas keputusan strategis NAYZ akan ada di tangan pemilik baru ini. Yang perlu dipantau pemegang saham adalah masa penawaran tender wajib pada 5 Oktober hingga 3 November 2026, tanggal pembayaran pada 10 November 2026, serta kelanjutan rencana pengalihan bisnis dan penambahan modal yang menurut dokumen ini masih harus mengikuti proses sesuai aturan pasar modal.",
-  "sentimen": "netral"
+  "takeaway": "Laporan hasil tender wajib ini condong netral bagi NAYZ, sebab kendali Saiko hanya naik dari 29,41 persen menjadi 37,02 persen, jauh di bawah skenario maksimal 75,26 persen yang sempat mengkhawatirkan pemegang saham publik, dan perusahaan menegaskan tidak ada dampak pada operasional, hukum, atau kondisi keuangan saat ini. Yang tersentuh dari aksi ini adalah struktur hak suara, bukan jumlah saham beredar atau laba per saham, karena tender wajib hanya memindahkan kepemilikan saham yang sudah ada dari pemegang saham publik ke Saiko tanpa menerbitkan saham baru; hak suara sendiri menunjukkan porsi kendali seorang pemegang saham saat pengambilan keputusan di rapat pemegang saham, dan dengan 37,02 persen, Saiko belum menguasai mayoritas mutlak NAYZ. Yang masih perlu dipantau pemegang saham adalah kelanjutan rencana inbreng, yaitu penyertaan aset Saiko ke NAYZ sebagai ganti pengalihan bisnis makanan dan makanan bayi NAYZ ke PT Asia Intrainvesta, serta penambahan modal baru yang disebutkan dalam pengumuman sebelumnya, karena dokumen hasil tender ini belum mencantumkan tanggal pelaksanaannya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T14:52:46",
+    "ringkas": "Hasil tender wajib NAYZ: hanya 7,61 persen saham publik terjual, kepemilikan Saiko naik ke 37,02 persen setelah diselesaikan 10 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7cdab06247_4d873a4824.pdf",
+    "judulIdx": "Laporan Hasil Penawaran Tender Wajib atas saham PT Hassana Boga Sejahtera Tbk oleh Saiko Consultancy Pte. Ltd. melalui PT Saiko Consultancy Grand"
+   }
+  ],
+  "diperbarui": "2026-11-13T14:52:46",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-05",
+    "acara": "Mulai masa penawaran tender wajib NAYZ"
+   },
+   {
+    "tanggal": "2026-11-03",
+    "acara": "Akhir masa penawaran tender wajib NAYZ"
+   },
+   {
+    "tanggal": "2026-11-10",
+    "acara": "Penyelesaian transaksi tender wajib NAYZ"
+   }
+  ],
+  "peristiwa": "tender-offer"
  },
  {
   "slug": "kkp-kemendag-buka-akses-ekspor-umkm-perikanan",

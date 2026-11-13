@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham",
+  "category": "Pasar Modal",
+  "title": "Indo Premier Luncurkan [INAI], Asisten AI untuk Trading Saham",
+  "deck": "Indo Premier Sekuritas meluncurkan INAI, asisten investasi berbasis AI yang memungkinkan investor mencari saham dan bertransaksi lewat chat, didukung IPOT X Studio dengan 80 alat analisis.",
+  "date": "14 November 2026",
+  "image": "assets/img/indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham.jpg",
+  "imageV": "mwfewnpn",
+  "tags": [
+   "AI investasi",
+   "trading saham",
+   "Indo Premier",
+   "fintech"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478250-bisakah-trading-saham-cukup-lewat-chat-ai-intip-teknologi-terbaru-inai"
+ },
+ {
   "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
   "category": "UMKM",
   "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
@@ -6482,22 +6499,6 @@ var ARTICLES = [
    "transaksi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8374-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-tambah-kepemilikan-saham-via-repo-ke-38-07",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah [Kepemilikan] Saham via Repo ke 38,07%",
-  "deck": "Direksi NSSS menambah kepemilikan lewat tiga transaksi gadai saham (repo) pada 6 November 2026, saham naik 522,7 juta lembar dan hak suara jadi 38,07%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "repo saham",
-   "kepemilikan direksi",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-6863-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

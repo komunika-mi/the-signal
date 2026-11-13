@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham",
+  "category": "Pasar Modal",
+  "title": "Indo Premier Luncurkan [INAI], Asisten AI untuk Trading Saham",
+  "deck": "Indo Premier Sekuritas meluncurkan INAI, asisten investasi berbasis AI yang memungkinkan investor mencari saham dan bertransaksi lewat chat, didukung IPOT X Studio dengan 80 alat analisis.",
+  "image": "assets/img/indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T00:34:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478250-bisakah-trading-saham-cukup-lewat-chat-ai-intip-teknologi-terbaru-inai",
+  "tags": [
+   "AI investasi",
+   "trading saham",
+   "Indo Premier",
+   "fintech"
+  ],
+  "body": [
+   "Indo Premier Sekuritas resmi memperkenalkan INAI, asisten investasi berbasis kecerdasan buatan yang membuat nasabah bisa mencari saham, menganalisis pasar, hingga menyiapkan transaksi hanya lewat percakapan chat dalam bahasa sehari-hari dan berbagai bahasa lain. Langkah ini penting karena mengubah kebiasaan investor yang selama ini harus menavigasi banyak menu dan fitur di aplikasi trading sebelum menemukan informasi yang dicari.",
+   "INAI merupakan bagian dari pengembangan ekosistem IPOT X Desktop, yang juga dilengkapi IPOT X Studio, ruang kerja visual dengan lebih dari 80 perangkat analisis pasar interaktif. Teknologi di balik INAI mengandalkan pemrosesan bahasa alami dan penalaran AI untuk menerjemahkan permintaan pengguna menjadi informasi pasar maupun rancangan instruksi transaksi. Meski mempermudah proses pencarian dan analisis, keputusan akhir transaksi tetap harus diperiksa dan disetujui secara manual oleh investor, sehingga kontrol tetap ada di tangan pengguna.",
+   "President Director and CEO Indo Premier Sekuritas, Moleonoto The, menyebut INAI dan IPOT X Studio memiliki fungsi berbeda namun saling terhubung dalam satu ekosistem investasi, dengan tujuan menjembatani hubungan antara investor, informasi pasar, dan tindakan transaksi tanpa mengharuskan pengguna menghafal struktur menu aplikasi konvensional. Menurutnya, sinergi kedua fitur ini menjadikan platform IPOT X sebagai pemain utama di segmen trading berbasis komputer meja dengan ekosistem investasi yang lebih lengkap.",
+   "Kombinasi asisten chat dan ruang kerja visual ini dirancang untuk melayani baik investor pemula yang baru mengenal pasar saham maupun pelaku pasar aktif yang membutuhkan analisis cepat."
+  ],
+  "fotoAdegan": "Investor's hands typing on a laptop at a home desk, multiple blurred trading monitors glowing softly in the background, evening light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/14/6af74ea37deab-bisakah-beli-dan-jual-saham-cukup-lewat-chat-ai-intip-teknologi-terbaru-inai_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah cara investor berinteraksi dengan platform trading: Indo Premier memindahkan proses cari saham, analisis pasar, dan penyiapan transaksi dari menu berjenjang menjadi percakapan chat lewat INAI, didukung lebih dari 80 alat analisis di IPOT X Studio. Yang kena dampak langsung adalah nasabah ritel IPOT, terutama investor pemula yang sering kesulitan menavigasi aplikasi trading konvensional, sekaligus pelaku pasar aktif yang mengandalkan analisis cepat. Ini sejalan dengan tren pialang saham mulai memasukkan asisten AI ke platform mereka agar transaksi terasa lebih sederhana, tapi Indo Premier tetap mewajibkan investor memeriksa dan menyetujui sendiri setiap transaksi sebelum dieksekusi, bukan membiarkan AI berjalan otomatis. Yang akan menentukan apakah pendekatan ini jadi standar baru di industri atau sekadar fitur pembeda satu pialang adalah apakah pialang besar lain menyusul meluncurkan asisten serupa dalam waktu dekat, dan apakah regulator pasar modal akhirnya menerbitkan aturan khusus soal penggunaan AI dalam transaksi saham ritel.",
+  "imageV": "mwfewnpn"
+ },
+ {
   "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
   "category": "UMKM",
   "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
@@ -282,7 +309,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret ada dua. Pertama, aturan devisa hasil ekspor tambang makin diperketat, perusahaan tambang dengan pemegang saham asing dari tujuh negara tertentu kini wajib menyimpan minimal 30 persen uang hasil ekspornya di bank devisa dalam negeri selama tiga bulan, dan pemerintah sedang menyiapkan revisi agar aturan ini juga menjangkau pemilik saham tidak langsung lewat pemilik manfaat akhir perusahaan. Kedua, mulai 1 Januari 2027 ekspor batu bara, minyak nabati, dan ferroalloy harus melewati Portal DSI, yang akan memeriksa dan menyetujui dokumen ekspor meski transaksi jual beli tetap langsung antara eksportir dan pembeli. Dua aturan ini sama-sama menyasar eksportir komoditas sumber daya alam, jadi arahnya terlihat jelas, pemerintah memperketat kendali atas uang dan dokumen hasil ekspor bahan mentah, bukan melonggarkannya. Yang akan membuktikan apakah rencana ini berjalan sesuai jadwal adalah uji sistem portal yang dijadwalkan 15 November ini, dua hari dari sekarang, serta uji coba terbatas pada 15 Desember mendatang sebelum portal wajib dipakai penuh awal tahun depan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "harga-patokan-ekspor-emas-turun-2-02-persen-di-november-2026",
@@ -639,7 +666,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah di sini adalah keanggotaan: kerja sama transaksi mata uang lokal yang sejak Agustus 2023 hanya melibatkan Indonesia, Malaysia, dan Thailand kini bertambah Filipina, sekaligus menggantikan nota kesepahaman lama. Pihak yang langsung berpotensi terdampak adalah eksportir dan importir yang berdagang antara keempat negara ini, karena mereka bisa membayar transaksi langsung dengan rupiah, ringgit, baht, atau peso tanpa harus menukar dulu ke dolar Amerika Serikat sebagai perantara. Langkah ini melanjutkan pola bank-bank sentral ASEAN yang bertahap memperluas jaringan transaksi mata uang lokal di kawasan, bukan kesepakatan sekali jadi. Yang akan menunjukkan apakah kerja sama ini benar dipakai pelaku usaha atau sekadar kerangka di atas kertas adalah data realisasi volume transaksi mata uang lokal yang biasa dirilis Bank Indonesia secara berkala, yang belum disinggung dalam siaran pers ini.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "mknt-revisi-laporan-penilaian-cbs-rum-molor-penilai-meninggal",

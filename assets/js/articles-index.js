@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-afiliasi-inpp-12-november-jual-saham-igm-rp185-7-m",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi INPP 12 November: [Jual] Saham IGM Rp185,7 M",
+  "deck": "INPP menjual seluruh saham di anak usahanya, IGM, kepada PDS senilai Rp185,7 miliar sebagai bagian restrukturisasi kepemilikan dalam grup usaha.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPP",
+   "Transaksi Afiliasi",
+   "Restrukturisasi Grup Usaha",
+   "Indonesia Gemilang Mahasentosa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cc6d6ba0c2_2dfe9c616b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sukuk-mudharabah-boga-rp400-miliar-refinancing-utang-bri-rp200-m",
+  "category": "Aksi Korporasi",
+  "title": "Sukuk Mudharabah BOGA Rp400 Miliar: [Refinancing] Utang BRI Rp200 M",
+  "deck": "Apollo Global Interactive (BOGA) menerbitkan sukuk mudharabah tahap I senilai Rp400 miliar, Rp200 miliar untuk melunasi utang bank ke BRI dan sisanya modal kerja.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOGA",
+   "sukuk mudharabah",
+   "surat utang syariah",
+   "Apollo Global Interactive"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de1c08b78d_8f119a98d7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smsm-klarifikasi-ke-bei-kas-turun-rp137-m-piutang-naik-11",
+  "category": "Aksi Korporasi",
+  "title": "SMSM [Klarifikasi] ke BEI: Kas Turun Rp137 M, Piutang Naik 11%",
+  "deck": "SMSM menjelaskan ke BEI bahwa kas turun Rp136,86 miliar akibat pembayaran dividen, sementara piutang usaha naik 11,16 persen, lebih cepat dari penjualan.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "Selamat Sempurna",
+   "piutang usaha",
+   "arus kas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8ceacd1dfb_f5868f2d2b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hrme-lelang-hotel-hermitage-diklaim-dimenangkan-hmj",
+  "category": "Aksi Korporasi",
+  "title": "HRME: [Lelang] Hotel Hermitage Diklaim Dimenangkan HMJ",
+  "deck": "HRME mengonfirmasi PT Hotel Menteng Jakarta mengklaim memenangkan lelang atas tanah dan bangunan Hotel Hermitage, sementara sertifikatnya masih tercatat atas nama Perseroan.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRME",
+   "Hotel Hermitage",
+   "Lelang Aset",
+   "PPJBS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/391be5e2e2_9e2ded51b8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-batu-bara-dan-minyak-nabati-wajib-lewat-portal-dsi-2027",
   "category": "Makroekonomi",
   "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
@@ -222,6 +286,22 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "mknt-revisi-laporan-penilaian-cbs-rum-molor-penilai-meninggal",
+  "category": "Aksi Korporasi",
+  "title": "MKNT: Revisi Laporan Penilaian CBS-RUM Molor, [Penilai Meninggal]",
+  "deck": "MKNT jelaskan ke Bursa: revisi laporan penilaian CBS-RUM molor karena penilainya meninggal, dan RUM ternyata beli saham dua perusahaan lain tanpa diungkap lebih dulu.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "Remitra Global International",
+   "pemilik manfaat",
+   "akuisisi RUM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c07881b017_76a1b25905.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "paparan-publik-hmsp-18-november-laba-bersih-naik-44-4-jadi-rp6-5-t",
   "category": "Aksi Korporasi",
   "title": "Paparan Publik HMSP 18 November: [Laba Bersih] Naik 44,4% Jadi Rp6,5 T",
@@ -434,6 +514,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7218/indonesia-siap-tandatangani-asean-defa-untuk-perkuat-integrasi-ekonomi-digital-kawasan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "wika-jawab-bursa-soal-pkpu-wikon-ekuitas-anak-usaha-minus-rp1-24-t",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jawab Bursa soal PKPU WIKON: [Ekuitas] Anak Usaha Minus Rp1,24 T",
+  "deck": "WIKA menyebut gugatan PKPU Rp1,3 miliar terhadap anak usahanya WIKON tidak material, tetapi ekuitas WIKON tercatat minus Rp1,24 triliun per akhir September 2026. Sidang lanjutan digelar 17 November 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "WIKON",
+   "PKPU",
+   "gugatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/db1e2f35dd_a706ffe988.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
@@ -799,15 +895,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA: Rugi Bersih [Melebar] ke Rp32,3 Miliar di 6M2026",
-  "deck": "Materi public expose tahunan MDIA menunjukkan pendapatan turun 8,6 persen dan rugi bersih melebar ke Rp32,30 miliar pada semester I 2026, meski liabilitas turun 17,1 persen.",
+  "title": "Public Expose MDIA 17 November: [Jadwal] Dikoreksi ke 14.30 WIB",
+  "deck": "MDIA mengoreksi waktu public expose tahunan menjadi Selasa, 17 November 2026 pukul 14.30 WIB, setelah materi semester I 2026 yang menunjukkan rugi melebar sudah terbit lebih dulu.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "MDIA",
+   "Public Expose",
    "ANTV",
-   "public expose",
-   "kinerja keuangan"
+   "Rugi Bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1959a4d6_d10ee1712e.pdf",
   "sourceLabel": "IDX"
@@ -815,15 +911,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 6M2026: Laba Bersih [Anjlok] 95% jadi Rp60 Miliar",
-  "deck": "Materi Public Expose VIVA menunjukkan pendapatan dan EBITDA semester I 2026 turun, laba bersih merosot dari Rp1.191,87 miliar menjadi Rp60,02 miliar.",
+  "title": "Public Expose VIVA 17 November: [Jadwal] Diubah Jadi 14.30 WIB",
+  "deck": "VIVA mengoreksi jadwal Public Expose Tahunan 2026, kini dipastikan digelar Selasa, 17 November 2026 pukul 14.30 WIB, setelah pengumuman awal 30 Oktober 2026.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "VIVA",
    "Public Expose",
-   "Kinerja Keuangan",
-   "Visi Media Asia"
+   "Laporan Keuangan",
+   "Jadwal Korporasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
   "sourceLabel": "IDX"
@@ -6398,102 +6494,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/77ca9fa432_188701019d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgl-gelar-public-expose-insidentil-usai-diminta-bursa",
-  "category": "Aksi Korporasi",
-  "title": "PPGL Gelar Public Expose [Insidentil] Usai Diminta Bursa",
-  "deck": "Diminta Bursa Efek Indonesia, PPGL akan memaparkan kinerja dan penjelasan soal pergerakan harga sahamnya pada 10 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "Prima Globalindo Logistik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/06d4ca1176_2527dd6dce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menn-masuk-papan-pemantauan-khusus-bei-9-november",
-  "category": "Aksi Korporasi",
-  "title": "MENN Masuk Papan [Pemantauan Khusus] BEI 9 November",
-  "deck": "BEI memasukkan saham MENN ke papan pemantauan khusus mulai 9 November 2026 karena emiten tidak membukukan pendapatan.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "pemantauan khusus",
-   "BEI",
-   "papan akselerasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/341e3ec4b8_e64a6066ed.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipp-akui-mengendalikan-mgna-dalam-satu-grup-usaha",
-  "category": "Aksi Korporasi",
-  "title": "BIPP Akui [Mengendalikan] MGNA dalam Satu Grup Usaha",
-  "deck": "BIPP melaporkan ke Bursa Efek Indonesia bahwa perusahaannya satu grup dengan Magna Investama Mandiri (MGNA), karena BIPP pengendali MGNA dan direksinya rangkap jabatan di dua emiten itu.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPP",
-   "MGNA",
-   "grup perusahaan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b7bacc4757_9aa99193f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
-  "category": "Aksi Korporasi",
-  "title": "Buyback PRDA 13 November: Sisa Dana [Menyusut] ke Rp39,06 Miliar",
-  "deck": "Prodia Widyahusada melaporkan sisa dana buyback saham turun lagi menjadi Rp39,06 miliar per 13 November 2026, setelah membeli kembali saham tambahan sejak laporan 6 November.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRDA",
-   "buyback saham",
-   "Prodia Widyahusada",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03d83386df_f68498cbe6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrta-terang-anugrah-abadi-tambah-609-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "HRTA: Terang Anugrah Abadi [Tambah] 609.000 Saham",
-  "deck": "PT Terang Anugrah Abadi, pemegang saham utama Hartadinata Abadi (HRTA), membeli 609.000 saham tambahan pada 4 November 2026 seharga Rp1.260 per lembar.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRTA",
-   "Hartadinata Abadi",
-   "kepemilikan saham",
-   "pemegang saham utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-7760-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar",
-  "category": "Moneter",
-  "title": "Cadangan Devisa RI [Naik] Tipis ke US$146,8 Miliar",
-  "deck": "Bank Indonesia mencatat cadangan devisa Oktober 2026 naik jadi US$146,8 miliar, cukup membiayai 5,3 bulan impor, ditopang pinjaman pemerintah dan penerimaan pajak.",
-  "date": "6 November 2026",
-  "image": "assets/img/cadangan-devisa-ri-naik-tipis-ke-us-146-8-miliar.jpg",
-  "imageV": "mw4v2y2p",
-  "tags": [
-   "cadangan devisa",
-   "bank indonesia",
-   "rupiah",
-   "utang luar negeri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/476952-cadangan-devisa-indonesia-oktober-2026-tembus-us1468-miliar-bi-ungkap-faktor-penopang-rupiah"
  }
 ];

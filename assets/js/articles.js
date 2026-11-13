@@ -3,6 +3,151 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transaksi-afiliasi-inpp-12-november-jual-saham-igm-rp185-7-m",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi INPP 12 November: [Jual] Saham IGM Rp185,7 M",
+  "deck": "INPP menjual seluruh saham di anak usahanya, IGM, kepada PDS senilai Rp185,7 miliar sebagai bagian restrukturisasi kepemilikan dalam grup usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T21:54:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cc6d6ba0c2_2dfe9c616b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPP",
+  "tags": [
+   "INPP",
+   "Transaksi Afiliasi",
+   "Restrukturisasi Grup Usaha",
+   "Indonesia Gemilang Mahasentosa"
+  ],
+  "body": [
+   "Indonesian Paradise Property Tbk (INPP) melaporkan transaksi afiliasi pada 12 November 2026 berupa penjualan seluruh 445.599.220 lembar sahamnya di PT Indonesia Gemilang Mahasentosa (IGM), setara 99,99999978 persen kepemilikan, kepada PT Prospek Duta Sukses (PDS) senilai Rp185,703 miliar. Dalam transaksi terpisah pada tanggal yang sama, anak usaha INPP lainnya, PT Retzan Indonusa (RIN), menjual satu lembar saham IGM yang tersisa, atau 0,00000022 persen, kepada PT Praba Kumala Sajati (PKS) senilai Rp1,857 juta. Dengan dua transaksi ini, seluruh kepemilikan IGM berpindah dari jalur langsung INPP dan RIN menjadi dipegang oleh PDS dan PKS, yang keduanya juga anak usaha INPP.",
+   "Perseroan menyebut alasan transaksi ini adalah optimalisasi struktur kepemilikan saham dalam kelompok usaha serta peningkatan efektivitas pengelolaan dan koordinasi antarunit bisnis. Dokumen tersebut juga mencantumkan rangkap jabatan di antara perusahaan-perusahaan yang bertransaksi, misalnya Karel Patipeilohy yang menjabat Direktur di INPP sekaligus Direktur Utama di IGM dan Direktur di PDS, serta Diana Solaiman yang menjabat Direktur di INPP, IGM, dan RIN. Setelah transaksi, kepemilikan efektif INPP atas PDS tercatat sekitar 99,9997 persen, sementara kepemilikan langsung INPP atas RIN dan PKS masing-masing 99,90 persen dan 99,9952 persen.",
+   "Perseroan menegaskan bahwa kedua transaksi ini masuk kategori yang dikecualikan dari kewajiban penilaian independen dan persetujuan pemegang saham berdasarkan Pasal 6 ayat (1) huruf b POJK 42/2020, karena dilakukan antara perusahaan yang sahamnya dikuasai minimal 99 persen oleh INPP. Dewan Komisaris dan Direksi INPP juga menyatakan transaksi ini tidak mengandung benturan kepentingan dan bukan transaksi material sesuai POJK 17/2020."
+  ],
+  "fotoAdegan": "Exterior facade of a mid-rise star-rated hotel building in a Jakarta business district at dusk, soft ambient lighting",
+  "takeaway": "Transaksi ini netral bagi fundamental INPP karena hanya memindahkan kepemilikan anak usaha dari jalur langsung ke jalur tidak langsung dalam grup yang sama, tanpa ada uang segar dari luar kelompok usaha atau perubahan kendali atas aset yang mendasarinya. Pos yang tersentuh adalah arus kas dan struktur investasi di laporan keuangan tersendiri Perseroan, sebab Rp185,7 miliar yang mengalir dari PDS ke INPP berasal dari sesama anak usaha, bukan dari pihak luar, sehingga saat dikonsolidasikan dampaknya saling menghapus dan tidak menambah kas bersih kelompok usaha secara keseluruhan. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasian kuartal berjalan, untuk memastikan restrukturisasi ini benar-benar hanya mengubah jalur kepemilikan tanpa menimbulkan biaya atau beban pajak tambahan yang signifikan, karena dokumen ini sendiri tidak mencantumkan agenda RUPS atau tenggat lanjutan terkait transaksi tersebut.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Afiliasi"
+ },
+ {
+  "slug": "sukuk-mudharabah-boga-rp400-miliar-refinancing-utang-bri-rp200-m",
+  "category": "Aksi Korporasi",
+  "title": "Sukuk Mudharabah BOGA Rp400 Miliar: [Refinancing] Utang BRI Rp200 M",
+  "deck": "Apollo Global Interactive (BOGA) menerbitkan sukuk mudharabah tahap I senilai Rp400 miliar, Rp200 miliar untuk melunasi utang bank ke BRI dan sisanya modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:33:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de1c08b78d_8f119a98d7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOGA",
+  "tags": [
+   "BOGA",
+   "sukuk mudharabah",
+   "surat utang syariah",
+   "Apollo Global Interactive"
+  ],
+  "body": [
+   "PT Apollo Global Interactive Tbk (BOGA), yang sebelumnya bernama PT Bintang Oto Global Tbk, mengumumkan Prospektus Ringkas untuk penawaran umum berkelanjutan sukuk mudharabah, yakni surat utang berbasis syariah dengan skema bagi hasil usaha, tahap pertama. Perseroan menargetkan total dana Rp1 triliun dari seluruh program berkelanjutan ini, dan tahap pertama yang ditawarkan sekarang senilai Rp400 miliar, terbagi dalam dua seri. Seri A senilai Rp200 miliar dengan indikasi bagi hasil setara 9,75 persen per tahun dan jangka waktu 370 hari kalender, sementara Seri B senilai Rp200 miliar dengan indikasi bagi hasil setara 10,50 persen per tahun dan jangka waktu tiga tahun.",
+   "Dari dana yang terkumpul, Rp200 miliar akan digunakan untuk melunasi seluruh pokok utang Perseroan ke PT Bank Rakyat Indonesia (Persero) Tbk yang berasal dari fasilitas kredit modal kerja. Sisanya dipakai sebagai modal kerja, antara lain untuk membeli persediaan kendaraan bermotor, suku cadang, biaya pemeliharaan kendaraan, pembayaran pajak dan perizinan kendaraan, premi asuransi, serta gaji karyawan. Sukuk ini memperoleh peringkat irA-sy (Single A Minus Syariah) dari PT Kredit Rating Indonesia, dengan PT Bank KB Indonesia Tbk sebagai wali amanat dan PT Pacific Sekuritas Indonesia sebagai penjamin pelaksana emisi dengan skema kesanggupan penuh.",
+   "Sesuai jadwal indikatif, tanggal efektif penawaran umum ini adalah 30 November 2026, masa penawaran berlangsung 1 sampai 3 Desember 2026, dan sukuk dijadwalkan tercatat di Bursa Efek Indonesia pada 9 Desember 2026. Pembayaran bagi hasil pertama dijadwalkan 8 Maret 2027, sedangkan pelunasan Seri A jatuh pada 18 Desember 2027 dan pelunasan Seri B pada 8 Desember 2029. Perseroan juga berencana menerbitkan tahap kedua pada 2027 dan tahap ketiga pada 2028, masing-masing senilai Rp300 miliar, untuk melengkapi target total program Rp1 triliun."
+  ],
+  "fotoAdegan": "Workers polishing rows of parked cars at a vehicle dealership lot under afternoon sun in an Indonesian city",
+  "takeaway": "Laporan ini netral bagi fundamental Apollo Global Interactive, karena sukuk Rp400 miliar ini pada dasarnya menggantikan sumber pembiayaan, dari utang bank menjadi utang berbasis syariah ke pemegang sukuk, bukan menambah beban utang secara drastis. Yang tersentuh adalah beban bagi hasil yang harus dibayar setiap tiga bulan dengan indikasi setara 9,75 sampai 10,50 persen per tahun, mirip beban bunga pada obligasi konvensional, serta arus kas perusahaan yang menerima dana masuk sekaligus harus mengalokasikan sebagian besar untuk melunasi utang ke BRI. Yang perlu dipantau adalah realisasi masa penawaran pada 1 sampai 3 Desember 2026, pencatatan di Bursa Efek Indonesia pada 9 Desember 2026, dan kemampuan Perseroan membayar bagi hasil pertama pada 8 Maret 2027 sebagai indikator awal kelancaran kewajiban ini. Perseroan juga sudah menyiapkan tahap kedua dan ketiga pada 2027 dan 2028, masing-masing Rp300 miliar, yang berarti total kewajiban sukuk ini akan terus bertambah hingga mencapai Rp1 triliun dalam beberapa tahun ke depan.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Pemberitahuan atas Prospektus Ringkas dalam rangka Penawaran Umum Berkelanjutan Kepada Pemodal Profesional Sukuk Mudharabah Berkelanjutan I Bintang Oto GlobalTahap I Tahun 2026",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tanggal efektif penawaran umum sukuk"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Mulai masa penawaran umum sukuk"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Akhir masa penawaran umum sukuk"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Tanggal penjatahan sukuk"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "Pencatatan sukuk di Bursa Efek Indonesia"
+   },
+   {
+    "tanggal": "2027-03-08",
+    "acara": "Pembayaran bagi hasil pertama"
+   },
+   {
+    "tanggal": "2027-12-18",
+    "acara": "Pelunasan Sukuk Seri A"
+   },
+   {
+    "tanggal": "2029-12-08",
+    "acara": "Pelunasan Sukuk Seri B"
+   }
+  ]
+ },
+ {
+  "slug": "smsm-klarifikasi-ke-bei-kas-turun-rp137-m-piutang-naik-11",
+  "category": "Aksi Korporasi",
+  "title": "SMSM [Klarifikasi] ke BEI: Kas Turun Rp137 M, Piutang Naik 11%",
+  "deck": "SMSM menjelaskan ke BEI bahwa kas turun Rp136,86 miliar akibat pembayaran dividen, sementara piutang usaha naik 11,16 persen, lebih cepat dari penjualan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:32:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8ceacd1dfb_f5868f2d2b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "Selamat Sempurna",
+   "piutang usaha",
+   "arus kas"
+  ],
+  "body": [
+   "Selamat Sempurna Tbk (SMSM) mengirim surat tanggapan bernomor 0335/SS/XI/26 tertanggal 13 November 2026 kepada Bursa Efek Indonesia dan OJK, menjawab permintaan penjelasan BEI nomor S-14035/BEI.PP2/11-2026 tertanggal 11 November 2026 terkait laporan keuangan per 30 September 2026. Surat ditandatangani oleh Wakil Direktur Utama Ang Andri Pribadi. Perseroan menjelaskan tiga pos utama yang disorot bursa: penurunan saldo kas, kenaikan piutang usaha yang melebihi pertumbuhan penjualan, serta status likuidasi dua entitas anak.",
+   "Soal likuidasi, PT Cahaya Mitra Gemilang dan PT Cahaya Sejahtera Riau, yang pembubarannya disetujui sejak 30 Desember 2022 dan 27 Desember 2023, masih belum tuntas secara administratif karena Nomor Pokok Wajib Pajak (NPWP) kedua entitas itu masih aktif. Perseroan masih menunggu surat pencabutan NPWP dari kantor pajak terkait, dengan mempertimbangkan masa kedaluwarsa pajak selama 5 tahun. Per 30 September 2026, kedua entitas itu tidak lagi memiliki aset maupun liabilitas yang material, sehingga menurut perseroan proses ini tidak berdampak material ke laporan keuangan konsolidasian.",
+   "Saldo kas dan setara kas per 30 September 2026 tercatat Rp943,24 miliar, turun Rp136,86 miliar atau 12,67 persen dari Rp1,08 triliun pada akhir 2025. Perseroan menyebut penyebab utamanya adalah pembayaran dividen kas Rp660,92 miliar dan arus kas keluar dari aktivitas investasi. Selama sembilan bulan 2026, arus kas dari aktivitas pendanaan tercatat keluar bersih Rp712,28 miliar dan dari investasi Rp58,99 miliar, sementara aktivitas operasi masih menghasilkan kas masuk bersih Rp590,59 miliar meski turun dibanding tahun sebelumnya akibat pembayaran ke pemasok yang lebih besar. Komposisi penempatan dana juga bergeser: deposito berjangka di bawah tiga bulan turun 66,21 persen dari Rp663,90 miliar menjadi Rp224,35 miliar, sementara kas di bank naik 72,83 persen dari Rp415,70 miliar menjadi Rp718,45 miliar, terutama rekening dolar AS di Bank Mandiri yang naik dari Rp80,14 miliar menjadi Rp505,55 miliar karena bank menawarkan suku bunga khusus untuk saldo giro. Penghasilan keuangan ikut turun 13,84 persen menjadi Rp27,74 miliar. Perseroan juga menyebut penempatan dana Rp61,81 miliar di bank berperingkat idCCC per akhir 2025 kini nihil karena bank tersebut telah mendapat peringkat Fitch A-.",
+   "Di sisi piutang, saldo piutang usaha neto naik 11,16 persen menjadi Rp1,33 triliun per 30 September 2026 dari Rp1,19 triliun di akhir 2025, lebih cepat dari pertumbuhan penjualan yang hanya 6,74 persen. Perseroan menyebut kenaikan ini terutama didorong oleh piutang yang belum jatuh tempo, sejalan dengan aktivitas penjualan yang meningkat pada kuartal ketiga, sementara piutang yang sudah lewat jatuh tempo justru turun. Piutang yang menunggak lebih dari 180 hari tercatat Rp94,86 miliar, dengan penyisihan kerugian kredit ekspektasian Rp112,84 miliar atau 7,84 persen dari piutang bruto. Manajemen menilai posisi likuiditasnya tetap memadai, dengan rasio lancar 573 persen per 30 September 2026."
+  ],
+  "fotoAdegan": "Workers assembling automotive filter components on a factory production line, metal parts and conveyor belts, industrial lighting",
+  "takeaway": "Penilaian redaksi netral: penjelasan SMSM menjawab satu per satu poin yang disorot bursa dan dua di antaranya justru melegakan, yakni risiko bank berperingkat rendah yang sudah nihil dan likuidasi anak usaha yang tak berdampak material, tapi kenaikan piutang usaha yang lebih cepat dari penjualan tetap layak dicermati. Tiga pos kinerja yang tersentuh di sini adalah arus kas, yakni uang tunai yang benar-benar keluar masuk perusahaan, piutang usaha, yakni uang penjualan yang belum ditagih dari pelanggan, dan penghasilan keuangan, yakni bunga dari simpanan dan deposito. Arus kas turun karena dividen besar dibayarkan dan karena perusahaan membayar lebih banyak ke pemasok, sementara piutang yang tumbuh lebih cepat dari penjualan biasanya jadi sinyal perusahaan memberi tenggat bayar lebih panjang ke pelanggan atau penagihannya melambat. Yang perlu dipantau selanjutnya adalah apakah tren piutang lewat jatuh tempo dan rasio piutang terhadap penjualan ini berlanjut di laporan kuartal keempat, serta kapan proses pencabutan NPWP dua anak usaha yang dilikuidasi benar-benar selesai, karena dokumen ini tidak menyebut tenggat waktu pastinya.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "hrme-lelang-hotel-hermitage-diklaim-dimenangkan-hmj",
+  "category": "Aksi Korporasi",
+  "title": "HRME: [Lelang] Hotel Hermitage Diklaim Dimenangkan HMJ",
+  "deck": "HRME mengonfirmasi PT Hotel Menteng Jakarta mengklaim memenangkan lelang atas tanah dan bangunan Hotel Hermitage, sementara sertifikatnya masih tercatat atas nama Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:22:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/391be5e2e2_9e2ded51b8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRME",
+  "tags": [
+   "HRME",
+   "Hotel Hermitage",
+   "Lelang Aset",
+   "PPJBS"
+  ],
+  "body": [
+   "PT Menteng Heritage Realty Tbk. (HRME) menyampaikan penjelasan resmi kepada Bursa Efek Indonesia melalui surat Nomor 071/HRME/IDX/XI/2026 tanggal 13 November 2026, yang ditandatangani Direktur Utama Budi Kurniawan. Surat ini merupakan jawaban atas permintaan BEI bernomor S-14080/BEI.PP3/11-2026 terkait volatilitas transaksi saham HRME. Perseroan menegaskan memang mengetahui adanya informasi material yang berpotensi memengaruhi nilai dan harga sahamnya.",
+   "Informasi pertama yang diungkap adalah penandatanganan Perjanjian Pengikatan Jual Beli Saham (PPJBS) pada 9 November 2026 antara dua pemegang saham Perseroan, PT Wijaya Wisesa Realty dan PT Twin Investment, selaku penjual, dengan PT Properti International Development selaku calon pembeli. Kesepakatan ini sebelumnya sudah diumumkan lewat Keterbukaan Informasi Nomor 065/HRME-CORSEC/XI/2026 tanggal 10 November 2026. HRME menegaskan pelaksanaan pengalihan saham itu masih bergantung pada pemenuhan sejumlah persyaratan, termasuk uji tuntas (due diligence) terhadap Perseroan, dan sampai saat ini belum ada perpindahan kepemilikan saham yang terjadi. Perseroan juga menyatakan tidak punya rencana tindakan korporasi lain dalam tiga bulan mendatang selain transaksi ini.",
+   "Informasi kedua, yang baru terungkap lewat surat ini, adalah soal aset properti Perseroan. Pada 12 November 2026, HRME menerima surat dari PT Hotel Menteng Jakarta (HMJ) Nomor 008/S-HMJ/XI/2026 perihal pengalihan aset dengan Nomor Identifikasi Bidang (NIB) 09.01.000020635.0 dan 09.01.000020676.0. Berdasarkan Risalah Lelang Nomor RL-148/07.05/2026-01 tanggal 15 September 2026, HMJ menyatakan diri sebagai pemenang lelang atas tanah dan bangunan di Jalan Cilacap Nomor 4, Menteng, Jakarta Pusat, yang dikenal sebagai Hotel Hermitage. Padahal, bukti kepemilikan atas tanah itu, yakni Sertipikat Hak Guna Bangunan Nomor 4035/Menteng dan Nomor 4269/Menteng, masih tercatat atas nama Perseroan. HRME telah mengungkap kejadian ini secara terpisah lewat Keterbukaan Informasi tanggal 13 November 2026."
+  ],
+  "fotoAdegan": "Exterior of an aging colonial-era hotel building in central Jakarta, ornate facade, quiet street, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi HRME, karena intinya mengonfirmasi bahwa aset utama perusahaan, gedung Hotel Hermitage di Menteng, sedang diperebutkan: PT Hotel Menteng Jakarta mengklaim sudah memenangkan lelang atas tanah dan bangunan itu, padahal sertifikat tanahnya masih tercatat atas nama HRME. Yang tersentuh di sini adalah pos aset tetap dan kekayaan bersih (ekuitas) Perseroan, sebab gedung hotel itu termasuk aset operasional utama yang menopang bisnisnya; kalau klaim lelang itu nanti benar-benar membuat hak atas tanah berpindah, nilai aset di buku keuangan HRME bisa berkurang dan jalannya bisnis hotel ikut terganggu. Di sisi lain ada kabar terpisah soal dua pemegang saham utama, Wijaya Wisesa Realty dan Twin Investment, yang berencana menjual sahamnya ke Properti International Development, tetapi ini masih sebatas perjanjian bersyarat tanpa harga atau jumlah saham yang diumumkan, jadi belum bisa dibaca sebagai sinyal kuat ke arah mana pun. Yang perlu dipantau selanjutnya adalah hasil uji tuntas atas rencana jual beli saham itu, serta bagaimana Perseroan menuntaskan status hukum dua sertifikat Hak Guna Bangunan yang diklaim HMJ, karena surat ini sendiri tidak menyebut tenggat waktu penyelesaiannya.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Volatilitas Transaksi"
+ },
+ {
   "slug": "ekspor-batu-bara-dan-minyak-nabati-wajib-lewat-portal-dsi-2027",
   "category": "Makroekonomi",
   "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
@@ -387,6 +532,60 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah di sini adalah keanggotaan: kerja sama transaksi mata uang lokal yang sejak Agustus 2023 hanya melibatkan Indonesia, Malaysia, dan Thailand kini bertambah Filipina, sekaligus menggantikan nota kesepahaman lama. Pihak yang langsung berpotensi terdampak adalah eksportir dan importir yang berdagang antara keempat negara ini, karena mereka bisa membayar transaksi langsung dengan rupiah, ringgit, baht, atau peso tanpa harus menukar dulu ke dolar Amerika Serikat sebagai perantara. Langkah ini melanjutkan pola bank-bank sentral ASEAN yang bertahap memperluas jaringan transaksi mata uang lokal di kawasan, bukan kesepakatan sekali jadi. Yang akan menunjukkan apakah kerja sama ini benar dipakai pelaku usaha atau sekadar kerangka di atas kertas adalah data realisasi volume transaksi mata uang lokal yang biasa dirilis Bank Indonesia secara berkala, yang belum disinggung dalam siaran pers ini.",
   "fotoGagal": 2
+ },
+ {
+  "slug": "mknt-revisi-laporan-penilaian-cbs-rum-molor-penilai-meninggal",
+  "category": "Aksi Korporasi",
+  "title": "MKNT: Revisi Laporan Penilaian CBS-RUM Molor, [Penilai Meninggal]",
+  "deck": "MKNT jelaskan ke Bursa: revisi laporan penilaian CBS-RUM molor karena penilainya meninggal, dan RUM ternyata beli saham dua perusahaan lain tanpa diungkap lebih dulu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:36:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c07881b017_76a1b25905.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "Remitra Global International",
+   "pemilik manfaat",
+   "akuisisi RUM"
+  ],
+  "body": [
+   "PT Remitra Global International Tbk, yang baru berganti nama dari PT Mitra Komunikasi Nusantara Tbk (MKNT), menyampaikan tanggapan parsial atas permintaan penjelasan Bursa Efek Indonesia (BEI) tertanggal 10 November 2026 yang diterima perseroan pada 11 November 2026. Dari 35 butir pertanyaan yang diajukan Bursa, perseroan baru menjawab tujuh butir yaitu nomor 1, 2, 3, 5, 10, 34, dan 35, sementara jawaban untuk 27 butir sisanya masih disusun dan akan disampaikan bertahap.",
+   "Pada butir pertama, perseroan mengoreksi keterangan sebelumnya mengenai struktur kepemilikan pengendali. PT Headwell Bintang Energi Hijau (HBEH), pemegang 64,855% saham perseroan dan pengendali perseroan, ternyata dimiliki Headwell Investment Limited (HIL) sebesar 98,88%, bukan 'kurang lebih 85%' seperti disebutkan pada 3 September 2026. HIL dikendalikan oleh Kong International Ltd. yang menguasai 42,50% sahamnya, dan seluruh saham Kong International dimiliki Handoyo Setiawan, yang juga menjabat Chairman HIL. Berdasarkan rantai kepemilikan itu, perseroan menetapkan Handoyo Setiawan sebagai pemilik manfaat (ultimate beneficial owner) HBEH dengan kepemilikan tidak langsung sekitar 42,02%, dan status tersebut sudah didaftarkan ke Direktorat Jenderal Administrasi Hukum Umum, Kementerian Hukum.",
+   "Pada butir kedua, perseroan mengungkapkan bahwa revisi Laporan Studi Kelayakan No. FS.07.26.002 dan Laporan Penilaian Ekuitas No. 00028/2.0013-06/BS/05/0038/0/VII/2026, yang semestinya memperbaiki perhitungan nilai akuisisi PT Citra Baru Steel (CBS) dan PT Radja Udang Malingping (RUM), belum bisa diterbitkan karena mitra (partner) di Kantor Jasa Penilai Publik (KJPP) Sih Wiryadi dan Rekan yang menangani penilaian CBS dan RUM meninggal dunia saat revisi sedang dikerjakan. Perseroan kini mencari KJPP pengganti, tetapi laporan keuangan CBS dan RUM per 31 Maret 2025 yang jadi dasar penilaian lama sudah melewati batas enam bulan sehingga tidak bisa dipakai lagi. KJPP pengganti mensyaratkan laporan keuangan teraudit, sehingga perseroan berencana memakai laporan keuangan audit tahun buku yang berakhir 31 Desember 2026, artinya seluruh proses penilaian harus diulang dari awal.",
+   "Pada butir ketiga, Bursa mempertanyakan konsistensi pengungkapan perseroan karena pada 3 September dan 16 Oktober 2026 perseroan menyatakan tidak ada rencana aksi korporasi lain maupun fakta material yang belum diungkapkan, padahal pada 27 Oktober 2026 anak usaha RUM membeli saham PT Adinda Losari Energi (ALE) dan PT Remitra Surya Abadi (RSA). Perseroan menjelaskan pembahasan rencana itu berjalan informal sejak akhir September hingga awal Oktober 2026, disetujui formal lewat rapat gabungan direksi dan dewan komisaris perseroan pada 12 Oktober 2026, dan diratifikasi melalui keputusan direktur RUM pada 16 Oktober 2026. Dokumen tanggapan ini tidak menyebutkan nilai transaksi pembelian saham ALE dan RSA tersebut."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting rolled steel coils inside a large industrial mill, sparks and dim overhead lighting",
+  "takeaway": "Catatan ini condong negatif bagi Remitra Global International alias MKNT, karena dua hal yang terungkap sekaligus: proses penilaian akuisisi CBS dan RUM harus diulang dari nol akibat kematian penilai independennya, dan perseroan ternyata membeli saham dua perusahaan lain lewat RUM tanpa mengungkapkannya meski sudah dua kali ditanya langsung oleh Bursa. Yang tersentuh adalah kepastian rencana penambahan modal tanpa hak memesan efek terlebih dahulu, semacam penerbitan saham baru ke investor tertentu di luar skema right issue biasa, sebab nilai akuisisi CBS dan RUM yang jadi bagian rencana itu sekarang tidak punya laporan penilaian yang sah sampai proses selesai diulang. Molornya laporan ini menunda kepastian berapa saham baru akan diterbitkan dan seberapa besar porsi kepemilikan pemegang saham lama bisa tergerus nantinya. Yang perlu dipantau berikutnya adalah penyampaian tanggapan Bursa untuk 27 butir pertanyaan yang masih tertunda, serta penerbitan laporan studi kelayakan dan penilaian baru setelah laporan keuangan audit CBS dan RUM tahun buku 2026 tersedia.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-12",
+    "acara": "Rapat gabungan direksi-komisaris setujui rencana RUM beli saham ALE dan RSA"
+   },
+   {
+    "tanggal": "2026-10-16",
+    "acara": "Keputusan direktur RUM meratifikasi persetujuan pembelian saham ALE dan RSA"
+   },
+   {
+    "tanggal": "2026-10-27",
+    "acara": "RUM membeli saham PT Adinda Losari Energi dan PT Remitra Surya Abadi"
+   },
+   {
+    "tanggal": "2026-11-10",
+    "acara": "Bursa mengirim surat permintaan penjelasan ke MKNT"
+   },
+   {
+    "tanggal": "2026-11-11",
+    "acara": "MKNT menerima surat permintaan penjelasan Bursa"
+   },
+   {
+    "tanggal": "2026-11-13",
+    "acara": "MKNT menyampaikan tanggapan atas sebagian butir permintaan Bursa"
+   }
+  ]
  },
  {
   "slug": "paparan-publik-hmsp-18-november-laba-bersih-naik-44-4-jadi-rp6-5-t",
@@ -819,6 +1018,38 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan aturan yang langsung berlaku, melainkan baru tahap penandatanganan oleh 11 negara ASEAN, dengan masa tunggu 180 hari setelah tanda tangan terakhir sebelum perjanjian ini efektif, dan nantinya menggantikan ASEAN Agreement on Electronic Commerce yang sebelumnya disahkan lewat Undang-Undang Nomor 4 Tahun 2021. Pihak yang terdampak lebih dulu adalah proses hukum di Indonesia sendiri, karena pemerintah harus membentuk Panitia Antarkementerian untuk menyiapkan instrumen ratifikasi, sebelum pelaku usaha digital dan UMKM yang ingin berdagang lintas ASEAN bisa benar-benar merasakan kemudahan seperti interoperabilitas sistem pembayaran yang dijanjikan. Arahnya menunjukkan Indonesia melanjutkan peran yang dimulai saat menjadi ketua ASEAN pada 2023 dengan mendorong proses ini sampai ke tahap ratifikasi, bukan berhenti di seremoni tanda tangan semata. Yang akan menentukan apakah manfaat ini terwujud adalah bagaimana Panitia Antarkementerian merumuskan instrumen ratifikasi, termasuk apakah diperlukan undang-undang baru untuk menggantikan Undang-Undang Nomor 4 Tahun 2021, sebuah proses yang biasanya memakan waktu di tingkat nasional.",
   "fotoGagal": 4
+ },
+ {
+  "slug": "wika-jawab-bursa-soal-pkpu-wikon-ekuitas-anak-usaha-minus-rp1-24-t",
+  "category": "Aksi Korporasi",
+  "title": "WIKA Jawab Bursa soal PKPU WIKON: [Ekuitas] Anak Usaha Minus Rp1,24 T",
+  "deck": "WIKA menyebut gugatan PKPU Rp1,3 miliar terhadap anak usahanya WIKON tidak material, tetapi ekuitas WIKON tercatat minus Rp1,24 triliun per akhir September 2026. Sidang lanjutan digelar 17 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T13:20:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/db1e2f35dd_a706ffe988.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "WIKON",
+   "PKPU",
+   "gugatan"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia terkait permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) yang diajukan PT Gajah Mas Tehnik terhadap anak usahanya, PT Wijaya Karya Industri & Konstruksi (WIKON), dengan nomor perkara 329/Pdt.Sus-PKPU/2026/PN.Niaga.Jkt.Pst. Menurut penjelasan Corporate Secretary WIKA, Ngatemin, gugatan ini berlatar belakang sisa tagihan dari Gajah Mas Tehnik kepada WIKON yang nilainya masih diverifikasi oleh kedua pihak karena ada perbedaan catatan. Nilai gugatan yang diajukan sebesar Rp1,3 miliar dan menurut WIKA tidak bersifat material serta tidak berdampak pada kinerja keuangan maupun operasional baik WIKA maupun WIKON. Sidang berikutnya dengan agenda pemeriksaan legal standing para pihak akan digelar pada 17 November 2026.",
+   "Dalam penjelasan yang sama, WIKA membuka data keuangan WIKON per 30 September 2026: total aset Rp1,87 triliun, total liabilitas Rp3,11 triliun, dan pendapatan Rp502,12 miliar. Namun ekuitas WIKON tercatat minus Rp1,24 triliun, yang berarti total utang perusahaan itu sudah jauh melampaui seluruh asetnya. WIKA juga memastikan tidak ada perkara atau permohonan PKPU lain yang sedang berjalan terhadap perseroan maupun entitas anak lainnya, dan menyatakan tidak ada informasi material lain yang berpotensi memengaruhi kelangsungan usaha perseroan saat ini."
+  ],
+  "fotoAdegan": "Stacks of precast concrete beams at an industrial construction yard, a crane overhead, workers in safety vests inspecting materials under overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi WIKA. Nilai gugatan PKPU Rp1,3 miliar memang kecil dan masuk akal disebut tidak material, tetapi dokumen ini sekaligus membuka data bahwa anak usahanya, WIKON, punya ekuitas minus Rp1,24 triliun, menambah daftar sinyal tekanan keuangan di tubuh WIKA setelah gagal bayar kupon sukuk dan penurunan peringkat obligasi ke idD oleh Pefindo pekan lalu. Ekuitas adalah selisih antara total aset dan total utang suatu perusahaan, jadi angka minus berarti utang WIKON sudah lebih besar daripada seluruh hartanya, kondisi yang biasanya membuat pelaku pasar khawatir soal kemampuan bayar dan membuka kemungkinan WIKA sebagai induk perlu menanggung beban tambahan untuk menopang anak usahanya. Yang perlu dipantau selanjutnya adalah sidang pada 17 November 2026 dengan agenda legal standing, yang akan menentukan apakah gugatan PT Gajah Mas Tehnik ini berlanjut ke proses PKPU penuh atau berhenti di tahap awal.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Sidang legal standing gugatan PKPU WIKON"
+   }
+  ]
  },
  {
   "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
@@ -1520,8 +1751,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA: Rugi Bersih [Melebar] ke Rp32,3 Miliar di 6M2026",
-  "deck": "Materi public expose tahunan MDIA menunjukkan pendapatan turun 8,6 persen dan rugi bersih melebar ke Rp32,30 miliar pada semester I 2026, meski liabilitas turun 17,1 persen.",
+  "title": "Public Expose MDIA 17 November: [Jadwal] Dikoreksi ke 14.30 WIB",
+  "deck": "MDIA mengoreksi waktu public expose tahunan menjadi Selasa, 17 November 2026 pukul 14.30 WIB, setelah materi semester I 2026 yang menunjukkan rugi melebar sudah terbit lebih dulu.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T21:14:13",
@@ -1530,26 +1761,42 @@ var ARTICLES = [
   "emiten": "MDIA",
   "tags": [
    "MDIA",
+   "Public Expose",
    "ANTV",
-   "public expose",
-   "kinerja keuangan"
+   "Rugi Bersih"
   ],
   "body": [
-   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 12 November 2026, merujuk pada pengumuman sebelumnya tertanggal 30 Oktober 2026. Dalam materi tersebut, perseroan mengungkapkan pendapatan semester I 2026 turun 8,6 persen menjadi Rp281,82 miliar, dari Rp308,17 miliar pada periode yang sama tahun sebelumnya. Laba sebelum bunga, pajak, depresiasi dan amortisasi (EBITDA) ikut turun 30,1 persen menjadi Rp59,71 miliar, membuat marjin EBITDA menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar signifikan, dari Rp11,44 miliar pada semester I 2025 menjadi Rp32,30 miliar pada semester I 2026, atau naik 182,3 persen.",
-   "Di sisi neraca, total aset perseroan turun 13,1 persen, dari Rp3.337,53 miliar pada akhir 2025 menjadi Rp2.901,72 miliar per akhir semester I 2026, terutama akibat penyusutan aset tidak lancar sebesar 16,0 persen menjadi Rp2.322 miliar. Total liabilitas turun lebih tajam, 17,1 persen, dari Rp2.393,72 miliar menjadi Rp1.985,57 miliar, dengan liabilitas jangka panjang turun 19,2 persen dan liabilitas jangka pendek turun 13,0 persen. Ekuitas perseroan relatif stabil, turun tipis 2,9 persen menjadi Rp916,15 miliar.",
-   "Berdasarkan data Biro Administrasi Efek per 31 Oktober 2026, PT Visi Media Asia Tbk tetap menjadi pemegang saham pengendali dengan 80,7 persen atau 31,66 miliar saham, diikuti PT DMS Investama dengan 6,7 persen atau 2,64 miliar saham, dan publik dengan 12,6 persen atau 4,92 miliar saham. Susunan direksi saat ini dipimpin Ahmad R. Widarmana sebagai Direktur Utama, dengan Anindra Ardiansyah Bakrie sebagai Komisaris Utama. Dari sisi digital, perseroan mencatat pendapatan digital Rp4,2 miliar pada Oktober 2026, dengan jumlah tayangan YouTube 564 juta dan jangkauan media sosial 217 juta."
+   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, mengoreksi jadwal pelaksanaan public expose tahunan yang sebelumnya diumumkan pada 30 Oktober 2026. Dalam pengumuman korektif tertanggal 13 November 2026, perseroan memastikan acara akan berlangsung Selasa, 17 November 2026 pukul 14.30 WIB, baik secara fisik di The Convergence Indonesia, Jakarta Selatan, maupun secara daring lewat aplikasi Zoom. Peserta yang ingin hadir langsung wajib mengonfirmasi kehadiran selambat-lambatnya satu hari sebelum acara melalui email ke corsec@imc.co.id, sementara materi public expose akan diunggah paling lambat tiga hari bursa sebelum pelaksanaan.",
+   "Public expose ini akan membahas kinerja semester I 2026 yang sebelumnya sudah disampaikan perseroan kepada Bursa Efek Indonesia pada 12 November 2026. Materi itu menunjukkan pendapatan turun 8,6 persen menjadi Rp281,82 miliar, dari Rp308,17 miliar pada periode yang sama tahun sebelumnya. EBITDA, yaitu laba operasional sebelum bunga, pajak, depresiasi dan amortisasi, turun 30,1 persen menjadi Rp59,71 miliar, sehingga marjinnya menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar dari Rp11,44 miliar pada semester I 2025 menjadi Rp32,30 miliar pada semester I 2026, naik 182,3 persen.",
+   "Dari sisi neraca, total aset perseroan turun 13,1 persen menjadi Rp2.901,72 miliar per akhir semester I 2026, sementara total liabilitas turun lebih tajam, 17,1 persen, menjadi Rp1.985,57 miliar. Ekuitas pemegang saham relatif stabil, turun tipis 2,9 persen menjadi Rp916,15 miliar. Berdasarkan data Biro Administrasi Efek per 31 Oktober 2026, PT Visi Media Asia Tbk tetap menjadi pemegang saham pengendali dengan 80,7 persen atau 31,66 miliar saham, diikuti PT DMS Investama dengan 6,7 persen atau 2,64 miliar saham, dan publik dengan 12,6 persen atau 4,92 miliar saham.",
+   "Susunan direksi perseroan saat ini dipimpin Ahmad R. Widarmana sebagai Direktur Utama, dengan Anindra Ardiansyah Bakrie sebagai Komisaris Utama. Public expose pada 17 November 2026 akan dihadiri langsung oleh jajaran direksi perseroan."
   ],
   "fotoAdegan": "Television studio crew adjusting camera rigs and bright stage lighting on an entertainment program set",
-  "takeaway": "Laporan ini condong negatif bagi performa dasar ANTV: pendapatan dan EBITDA sama-sama turun dua digit, dan rugi bersih malah melebar hampir tiga kali lipat dalam setahun, meski perseroan berhasil memangkas utang 17,1 persen yang sedikit menahan tekanan di sisi neraca. Yang tersentuh adalah EBITDA, yakni laba operasional sebelum bunga, pajak dan penyusutan yang jadi ukuran dasar apakah bisnis inti stasiun TV ini masih menghasilkan kas dari operasionalnya, dan penurunan marjinnya dari 27,7 persen ke 21,2 persen berarti setiap rupiah pendapatan kini menyisakan laba operasional yang lebih tipis. Ekuitas pemegang saham juga tergerus tipis akibat akumulasi rugi, meski penurunan utang membuat posisi keuangan perseroan tidak memburuk secara keseluruhan. Yang perlu dipantau berikutnya adalah apakah efisiensi biaya dan kerja sama konten dengan platform OTT yang disebut dalam materi ini bisa menahan laju rugi pada laporan keuangan semester berikutnya, karena dokumen ini sendiri tidak menyebut target maupun tenggat pemulihan kinerja.",
+  "takeaway": "Koreksi jadwal ini sendiri netral bagi investor, sekadar memastikan waktu pelaksanaan public expose menjadi Selasa, 17 November 2026 pukul 14.30 WIB, tanpa mengubah substansi kinerja yang sudah dilaporkan sebelumnya, yang tetap condong negatif karena rugi bersih melebar hampir tiga kali lipat pada semester I 2026. Pos yang akan dibahas dalam acara itu tetap EBITDA, yakni laba operasional sebelum bunga, pajak, dan penyusutan yang jadi ukuran dasar apakah bisnis inti stasiun TV ini masih menghasilkan kas dari operasionalnya, dan marjinnya yang menyusut dari 27,7 persen ke 21,2 persen berarti setiap rupiah pendapatan kini menyisakan laba operasional yang lebih tipis. Ekuitas pemegang saham juga tergerus tipis akibat akumulasi rugi, meski penurunan liabilitas 17,1 persen menahan tekanan di sisi neraca secara keseluruhan. Yang perlu dipantau berikutnya adalah paparan manajemen dalam public expose pada 17 November 2026 pukul 14.30 WIB, termasuk apakah ada penjelasan konkret soal upaya menahan laju rugi, karena baik materi maupun pengumuman koreksi jadwal ini sama-sama tidak menyebut target atau tenggat pemulihan kinerja.",
   "sentimen": "negatif",
   "peristiwa": "public-expose",
-  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T21:44:42",
+    "ringkas": "MDIA mengoreksi jadwal public expose tahunan menjadi Selasa, 17 November 2026 pukul 14.30 WIB, fisik maupun lewat Zoom.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9386e21a8f_770a05faf3.pdf",
+    "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-13T21:44:42",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Public Expose Tahunan MDIA, pukul 14.30 WIB"
+   }
+  ]
  },
  {
   "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 6M2026: Laba Bersih [Anjlok] 95% jadi Rp60 Miliar",
-  "deck": "Materi Public Expose VIVA menunjukkan pendapatan dan EBITDA semester I 2026 turun, laba bersih merosot dari Rp1.191,87 miliar menjadi Rp60,02 miliar.",
+  "title": "Public Expose VIVA 17 November: [Jadwal] Diubah Jadi 14.30 WIB",
+  "deck": "VIVA mengoreksi jadwal Public Expose Tahunan 2026, kini dipastikan digelar Selasa, 17 November 2026 pukul 14.30 WIB, setelah pengumuman awal 30 Oktober 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T21:10:13",
@@ -1559,19 +1806,35 @@ var ARTICLES = [
   "tags": [
    "VIVA",
    "Public Expose",
-   "Kinerja Keuangan",
-   "Visi Media Asia"
+   "Laporan Keuangan",
+   "Jadwal Korporasi"
   ],
   "body": [
-   "PT Visi Media Asia Tbk (VIVA) menyampaikan materi Public Expose Tahunan 2026 ke Bursa Efek Indonesia pada 12 November 2026, menyusul pengumuman rencana acara yang sebelumnya disampaikan pada 30 Oktober 2026. Materi tersebut memuat kinerja keuangan semester I 2026, di mana VIVA mencatat pendapatan Rp441,44 miliar, turun dari Rp477,94 miliar pada semester I 2025. EBITDA ikut turun dari Rp32,78 miliar menjadi Rp30,68 miliar, meski margin EBITDA tetap stabil di 6,9 persen pada kedua periode. Laba bersih merosot tajam dari Rp1.191,87 miliar pada semester I 2025 menjadi Rp60,02 miliar pada semester I 2026, turun sekitar 95 persen.",
-   "Dari sisi neraca, total liabilitas Perseroan turun dari Rp6.022,35 miliar pada akhir 2025 menjadi Rp5.842,84 miliar per Juni 2026. Sementara itu, ekuitas melonjak 37,2 persen dari Rp361,61 miliar menjadi Rp496,10 miliar pada periode yang sama, sedangkan total aset sedikit menyusut dari Rp6.383,96 miliar menjadi Rp6.338,94 miliar. Lonjakan ekuitas ini berkaitan dengan proses konversi utang menjadi saham baru yang sebelumnya diumumkan VIVA, di mana jumlah saham baru untuk melunasi utang direvisi naik menjadi maksimal 86,17 miliar lembar.",
-   "Materi Public Expose juga memaparkan posisi bisnis unit Perseroan. Saluran berita tvOne berada di peringkat pertama kategori berita untuk segmen pemirsa dewasa kelas atas dengan pangsa pemirsa 4,7 persen, sementara ANTV berada di peringkat keenam kategori hiburan dengan pangsa 6,4 persen pada seluruh kelompok umur. Di platform digital, viva.co.id tercatat sebagai situs berita peringkat ke-12 menurut Simweb, dengan rata-rata trafik lebih dari 216 juta kunjungan per bulan."
+   "PT Visi Media Asia Tbk (VIVA) mengoreksi jadwal Public Expose Tahunan 2026 melalui surat yang disampaikan ke Bursa Efek Indonesia pada 13 November 2026. Acara yang semula diumumkan pada 30 Oktober 2026 kini dipastikan berlangsung Selasa, 17 November 2026 pukul 14.30 WIB sampai selesai, bertempat di The Convergence Indonesia, Lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, atau secara daring melalui aplikasi Zoom. Agendanya tetap Public Expose Tahunan dan akan dihadiri jajaran Direksi Perseroan.",
+   "Jadwal ini menyusul materi Public Expose yang sudah disampaikan VIVA pada 12 November 2026, yang memuat kinerja keuangan semester I 2026. Pendapatan Perseroan tercatat Rp441,44 miliar, turun dari Rp477,94 miliar pada semester I 2025, sementara EBITDA turun dari Rp32,78 miliar menjadi Rp30,68 miliar meski margin EBITDA stabil di 6,9 persen. Laba bersih merosot tajam dari Rp1.191,87 miliar menjadi Rp60,02 miliar, turun sekitar 95 persen, karena hilangnya keuntungan satu kali yang mendongkrak laba tahun sebelumnya.",
+   "Dari sisi neraca, total liabilitas turun dari Rp6.022,35 miliar pada akhir 2025 menjadi Rp5.842,84 miliar per Juni 2026, sedangkan ekuitas melonjak 37,2 persen dari Rp361,61 miliar menjadi Rp496,10 miliar. Kenaikan ekuitas ini bukan berasal dari laba ditahan, melainkan dari proses konversi utang menjadi saham baru yang sebelumnya direvisi naik menjadi maksimal 86,17 miliar lembar saham. Dari sisi bisnis, tvOne tercatat di peringkat pertama kategori berita untuk pemirsa dewasa kelas atas dengan pangsa 4,7 persen, ANTV di peringkat keenam kategori hiburan dengan pangsa 6,4 persen, dan viva.co.id sebagai situs berita peringkat ke-12 menurut Simweb dengan rata-rata lebih dari 216 juta kunjungan per bulan.",
+   "Terkait logistik acara, Perseroan membatasi jumlah peserta yang hadir fisik karena kapasitas ruangan terbatas. Peserta yang ingin hadir langsung wajib mengonfirmasi kehadiran ke corsec@vivagroup.co.id, sementara peserta daring wajib mendaftar lebih dulu melalui tautan registrasi Zoom yang disediakan Perseroan."
   ],
   "fotoAdegan": "A television news camera crew filming an outdoor segment at dusk, lighting rig and microphone boom visible, Jakarta skyline",
-  "takeaway": "Laporan ini condong negatif bagi pemegang saham VIVA, karena pendapatan dan EBITDA sama-sama turun, dan laba bersih anjlok 95 persen yang menunjukkan hilangnya keuntungan satu kali yang mendongkrak laba tahun lalu. Pos yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih pemegang saham setelah dikurangi utang, yang naik 37,2 persen bukan karena laba ditahan melainkan karena konversi utang menjadi saham baru, sehingga jumlah saham beredar bertambah dan bisa menggerus laba per saham ke depan. Pemegang saham perlu memantau kelanjutan proses konversi utang menjadi saham, yang sebelumnya direvisi menjadi maksimal 86,17 miliar lembar saham baru, karena itu akan menentukan seberapa besar dilusi kepemilikan publik VIVA nantinya.",
+  "takeaway": "Secara rangkaian, kabar ini tetap condong negatif bagi pemegang saham VIVA, karena substansi di baliknya masih laba bersih yang anjlok 95 persen pada semester I 2026, sementara koreksi hari ini sendiri hanya soal jadwal acara dan tidak mengubah angka apa pun. Pos yang masih relevan dipantau adalah ekuitas dan jumlah saham beredar, sebab lonjakan ekuitas 37,2 persen berasal dari konversi utang menjadi saham baru hingga maksimal 86,17 miliar lembar, bukan dari laba ditahan, sehingga berpotensi menggerus laba per saham ke depan kalau konversi itu benar terlaksana. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose Tahunan VIVA pada Selasa, 17 November 2026 pukul 14.30 WIB, saat manajemen dijadwalkan menjelaskan langsung kepada pemegang saham dan analis soal kinerja semester I 2026 serta kelanjutan rencana konversi utang tersebut.",
   "sentimen": "negatif",
   "peristiwa": "public-expose",
-  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T21:38:25",
+    "ringkas": "VIVA mengoreksi jadwal Public Expose Tahunan 2026, kini dipastikan digelar 17 November 2026 pukul 14.30 WIB.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a1eb7dcda6_69cf2d0229.pdf",
+    "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-13T21:38:25",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Public Expose Tahunan VIVA, pukul 14.30 WIB"
+   }
+  ]
  },
  {
   "slug": "akuisisi-visi-rampung-kuasai-72-91-saham-hmbc-per-30-okt",
@@ -15194,8 +15457,8 @@ var ARTICLES = [
  {
   "slug": "true-gelar-public-expose-tahunan-18-november-2026",
   "category": "Aksi Korporasi",
-  "title": "TRUE Gelar [Public Expose] Tahunan 18 November 2026",
-  "deck": "Triniti Dinamik Tbk menjadwalkan Public Expose Tahunan tahun buku 2025 secara daring pada 18 November 2026, pendaftaran ditutup sehari sebelumnya.",
+  "title": "Public Expose TRUE 18 November: [Materi] Rugi 9 Bulan Rp33,5 Miliar",
+  "deck": "Materi Public Expose TRUE yang dirilis 13 November menunjukkan rugi bersih 9 bulan 2026 melebar ke Rp33,5 miliar, ekuitas susut ke Rp191,3 miliar, jelang acara 18 November.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T16:12:29",
@@ -15206,16 +15469,33 @@ var ARTICLES = [
    "TRUE",
    "Triniti Dinamik",
    "Public Expose",
-   "Properti"
+   "Laporan Keuangan"
   ],
   "body": [
-   "PT Triniti Dinamik Tbk (TRUE) akan menggelar Public Expose Tahunan untuk tahun buku yang berakhir pada 2025. Acara ini dijadwalkan pada Rabu, 18 November 2026, pukul 11.15 WIB sampai selesai, digelar secara daring melalui aplikasi Zoom Meeting. Agendanya adalah presentasi kinerja perusahaan oleh jajaran direksi, dilanjutkan sesi tanya jawab dengan peserta.",
-   "Perusahaan mewajibkan seluruh peserta mendaftar lebih dulu melalui formulir registrasi resmi, dengan tenggat waktu paling lambat 17 November 2026 pukul 17.00 WIB. Materi presentasi Public Expose akan dirilis pada 13 November 2026 dan bisa diunduh di situs resmi Triniti Dinamik maupun situs Bursa Efek Indonesia.",
-   "Rencana ini disampaikan ke otoritas bursa melalui surat bernomor 178/TD/XI/2026 yang ditandatangani Direktur Utama Yohanes E. Christianto, mengacu pada Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025 tentang kewajiban penyampaian informasi. Public Expose ini berlangsung tak lama setelah Triniti Dinamik melaporkan rugi bersih yang melebar di kuartal III 2026 serta mengakui adanya kesalahan berulang dalam penyusunan laporan keuangannya."
+   "PT Triniti Dinamik Tbk (TRUE) merilis materi presentasi Public Expose Tahunan pada 13 November 2026, sesuai jadwal yang sebelumnya diumumkan. Materi ini memuat rincian laporan keuangan terbaru: rugi bersih perseroan untuk sembilan bulan pertama 2026 tercatat Rp33,5 miliar, melebar dari rugi Rp17,2 miliar pada periode yang sama tahun lalu. Ekuitas, yaitu modal yang menjadi hak pemegang saham setelah dikurangi seluruh utang, ikut menyusut menjadi Rp191,3 miliar per akhir September 2026, dari Rp224,8 miliar di akhir 2025 dan Rp259,7 miliar di akhir 2024.",
+   "Pendapatan perseroan sebenarnya naik menjadi Rp43,8 miliar pada sembilan bulan 2026, dari Rp35,8 miliar pada periode yang sama tahun lalu, namun kenaikan itu belum cukup menutup beban usaha. Utang jangka panjang justru melonjak ke Rp358,8 miliar dari Rp277,2 miliar di akhir 2025, membuat rasio total utang terhadap ekuitas naik ke 2,46 kali dari 2,03 kali pada periode yang sama tahun lalu. Angka rugi sembilan bulan Rp33,5 miliar ini lebih besar dibanding rugi kuartal III 2026 sebesar Rp28,2 miliar yang dilaporkan sebelumnya, sejalan dengan pengakuan perseroan bahwa ada kesalahan berulang dalam pencatatan utang dan arus kasnya.",
+   "Public Expose Tahunan ini sendiri tetap berlangsung sesuai jadwal semula, yakni Rabu, 18 November 2026 pukul 11.15 WIB secara daring melalui Zoom Meeting, dengan agenda presentasi kinerja oleh direksi dan sesi tanya jawab. Pendaftaran peserta ditutup pada 17 November 2026 pukul 17.00 WIB melalui formulir resmi Triniti Dinamik.",
+   "Rencana maupun materi Public Expose ini disampaikan ke otoritas bursa lewat surat bernomor 178/TD/XI/2026 dan 187/TD/XI/2026, keduanya ditandatangani Direktur Utama Yohanes Eddy Christianto, mengacu pada Keputusan Direksi BEI Nomor Kep-00087/BEI/12-2025 tentang kewajiban penyampaian informasi."
   ],
   "fotoAdegan": "Workers inspecting construction progress on a mid-rise residential building, cranes visible, late afternoon light in a Tangerang suburb.",
-  "takeaway": "Pengumuman jadwal Public Expose ini sendiri netral, karena cuma menjalankan kewajiban rutin tahunan ke bursa dan belum membawa angka kinerja baru. Yang membuatnya relevan adalah waktunya datang tepat setelah Triniti Dinamik melaporkan rugi bersih yang melebar ke Rp28,2 miliar dan mengakui kesalahan berulang pada angka utang dan arus kasnya, yaitu catatan uang yang benar-benar masuk dan keluar dari kas perusahaan, bukan sekadar angka di atas kertas. Sesi tanya jawab pada acara ini jadi kesempatan bagi investor meminta manajemen menjelaskan langsung soal keakuratan laporan tersebut. Yang perlu dipantau berikutnya adalah tenggat pendaftaran pada 17 November 2026 pukul 17.00 WIB, rilis materi presentasi pada 13 November 2026, dan acara utamanya pada Rabu, 18 November 2026 pukul 11.15 WIB.",
-  "sentimen": "netral"
+  "takeaway": "Materi Public Expose ini condong negatif bagi Triniti Dinamik, karena rugi bersih sembilan bulan 2026 melebar ke Rp33,5 miliar, hampir dua kali lipat rugi Rp17,2 miliar di periode sama tahun lalu, sementara modal milik pemegang saham terus tergerus. Yang paling tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi hak pemegang saham, yang turun dari Rp224,8 miliar akhir 2025 menjadi Rp191,3 miliar per September 2026, sedangkan utang jangka panjang justru naik ke Rp358,8 miliar dari Rp277,2 miliar, membuat rasio utang terhadap modal membengkak ke 2,46 kali dari 2,03 kali di periode yang sama tahun lalu, tanda beban utang perusahaan makin berat dibanding modalnya sendiri. Rasio lancar yang tampak membaik ke 4,68 kali sebagian besar karena utang jangka pendek berpindah jadi utang jangka panjang, bukan karena arus kas membaik secara mendasar. Yang perlu dipantau berikutnya adalah sesi tanya jawab pada Public Expose, Rabu 18 November 2026 pukul 11.15 WIB, saat investor bisa meminta manajemen menjelaskan selisih angka rugi ini dengan laporan kuartalan sebelumnya serta rencana pembiayaan proyek District East yang menambah utang jangka panjang perseroan.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T21:13:31",
+    "ringkas": "Materi Public Expose TRUE menunjukkan rugi bersih 9 bulan 2026 melebar ke Rp33,5 miliar dan ekuitas susut ke Rp191,3 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a0bc916592_eca4527c24.pdf",
+    "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-13T21:13:31",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Public Expose Tahunan TRUE via Zoom Meeting"
+   }
+  ],
+  "peristiwa": "public-expose"
  },
  {
   "slug": "army-gelar-rupslb-kedua-audit-keuangan-2021-2022-masih-tertunda",
@@ -32115,8 +32395,8 @@ var ARTICLES = [
  {
   "slug": "viva-panggil-rups-konversi-utang-rp1-72-t-jadi-saham-17-nov",
   "category": "Aksi Korporasi",
-  "title": "VIVA Panggil RUPS, [Konversi] Utang Rp1,72 T Jadi Saham 17 Nov",
-  "deck": "RUPST dan RUPSLB VIVA digelar 17 November 2026, membahas pengesahan laporan tahunan 2025 serta rencana mengubah utang PKPU Rp1,72 triliun menjadi saham baru Seri C.",
+  "title": "RUPSLB VIVA 9 Desember: [Diundur], Agenda Konversi Utang Tetap",
+  "deck": "RUPSLB VIVA yang membahas konversi utang Rp1,72 triliun jadi saham diundur dari 17 November ke 9 Desember 2026, dengan lokasi dan pendataan pemegang saham baru.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "26 Oktober 2026",
   "isoDate": "2026-10-26T23:04:41",
@@ -32125,18 +32405,47 @@ var ARTICLES = [
   "emiten": "VIVA",
   "tags": [
    "VIVA",
-   "RUPS",
+   "RUPSLB",
    "PMTHMETD",
-   "PKPU"
+   "Visi Media Asia"
   ],
   "body": [
-   "PT Visi Media Asia Tbk (VIVA) memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) dan Luar Biasa (RUPSLB) yang akan digelar Selasa, 17 November 2026 pukul 13.00 WIB di Bakrie Tower lantai 36, Kompleks Rasuna Epicentrum, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 23 Oktober 2026 pukul 16.00 WIB. Agenda RUPST meliputi pengesahan laporan tahunan dan laporan keuangan audit 2025, pembebasan tanggung jawab bagi seluruh anggota Direksi dan Dewan Komisaris atas tindakan pengurusan dan pengawasan selama tahun buku tersebut, pemberian wewenang kepada Dewan Komisaris untuk menunjuk kantor akuntan publik tahun buku 2026, serta pengangkatan kembali anggota Direksi dan Dewan Komisaris.",
-   "Agenda RUPSLB meminta persetujuan pemegang saham atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) sekaligus perubahan Pasal 4 Anggaran Dasar. Perubahan itu akan mengonversi sebagian saham Seri A dan seluruh saham Seri B yang masih tersimpan di portepel menjadi saham baru Seri C, lalu meningkatkan modal ditempatkan dan disetor perseroan sebagai hasil penerbitan saham tersebut. Dokumen menjelaskan bahwa PMTHMETD ini merupakan pelaksanaan Putusan Pengadilan Niaga Jakarta Pusat Nomor 13/Pdt.Sus-PKPU/2024/PN.Niaga.Jkt.Pst yang mengesahkan Perjanjian Perdamaian (Putusan Homologasi). Berdasarkan laporan keuangan konsolidasian per 30 Juni 2026, perseroan memiliki utang PKPU senilai Rp1,72 triliun yang akan diselesaikan lewat konversi utang menjadi saham (debt-to-equity swap) ke dalam saham Seri C yang baru diterbitkan.",
-   "Secara prosedural, perseroan menyediakan fasilitas e-Proxy lewat aplikasi eASY.KSEI sejak tanggal pemanggilan ini hingga pukul 12.00 WIB pada 16 November 2026. Surat kuasa fisik bagi pemegang saham yang berhalangan hadir harus diterima paling lambat 3 hari bursa sebelum rapat, sementara formulir kuasa dapat diperoleh hingga 12 November 2026 di kantor perseroan atau di PT Ficomindo Buana Registrar. Pemegang saham yang ingin hadir fisik wajib mengonfirmasi lewat email ke corsec@vivagroup.co.id paling lambat satu hari sebelum rapat, dengan prinsip konfirmasi lebih dulu diutamakan karena kapasitas ruangan terbatas."
+   "PT Visi Media Asia Tbk (VIVA) menerbitkan pemanggilan ulang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 13 November 2026, mengoreksi pemanggilan sebelumnya yang terbit di hari yang sama. RUPSLB yang semula dijadwalkan 17 November 2026 diundur menjadi Rabu, 9 Desember 2026 pukul 13.00 WIB, bertempat di The Convergence Indonesia lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, menggantikan lokasi sebelumnya di Bakrie Tower lantai 36.",
+   "Daftar pemegang saham yang berhak hadir dan memberi suara (recording date) juga berubah menjadi 12 November 2026 pukul 16.00 WIB, menggantikan tanggal 23 Oktober 2026 yang tercantum di pemanggilan awal. Agenda RUPSLB tidak berubah: persetujuan rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dan perubahan Pasal 4 Anggaran Dasar untuk mengonversi sebagian saham Seri A dan seluruh saham Seri B yang masih tersimpan di portepel menjadi saham Seri C. Langkah ini tetap merupakan pelaksanaan konversi utang PKPU senilai Rp1,72 triliun menjadi saham (debt-to-equity swap), sesuai Putusan Homologasi Pengadilan Niaga Jakarta Pusat Nomor 13/Pdt.Sus-PKPU/2024/PN.Niaga.Jkt.Pst.",
+   "Sebelumnya pada 30 Oktober 2026, VIVA memanggil RUPST dan RUPSLB untuk digelar bersamaan pada 17 November 2026, dengan RUPST membahas pengesahan laporan tahunan dan laporan keuangan audit 2025, pembebasan tanggung jawab direksi dan komisaris, penunjukan akuntan publik 2026, serta pengangkatan kembali direksi dan komisaris. Pemanggilan ulang yang terbit 13 November 2026 ini secara spesifik hanya mengoreksi dan mengubah jadwal RUPSLB; dokumen tidak menyebutkan perubahan jadwal untuk RUPST.",
+   "Secara prosedural, fasilitas e-Proxy lewat aplikasi eASY.KSEI kini tersedia sejak tanggal pemanggilan ulang ini hingga pukul 12.00 WIB pada 8 Desember 2026. Formulir surat kuasa fisik dapat diperoleh hingga 4 Desember 2026 di kantor perseroan atau di PT Ficomindo Buana Registrar, dan harus diterima paling lambat 3 hari bursa sebelum rapat. Pemegang saham yang ingin hadir fisik tetap wajib mengonfirmasi lewat email ke corsec@vivagroup.co.id paling lambat satu hari sebelum rapat."
   ],
   "fotoAdegan": "Rows of empty chairs facing a podium in a large corporate meeting hall, Jakarta office tower skyline visible through tall windows, afternoon light",
-  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik VIVA, karena RUPSLB ini adalah langkah formal untuk merealisasikan PMTHMETD yang sebelumnya sudah diungkap berpotensi mendilusi saham publik hingga 72,35 persen. Yang tersentuh adalah struktur modal dan jumlah saham beredar: mengonversi utang Rp1,72 triliun menjadi saham baru Seri C memang mengurangi beban utang di buku perseroan, tetapi menambah jumlah saham beredar secara signifikan sehingga laba per saham milik pemegang saham lama bisa terdilusi tajam. Pelaku pasar perlu mencermati siapa yang menerima saham baru hasil konversi ini, karena itu menentukan apakah proporsi kepemilikan pengendali ikut berubah. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pada RUPST dan RUPSLB tanggal 17 November 2026, termasuk apakah pemegang saham publik menyetujui perubahan Pasal 4 Anggaran Dasar yang menjadi dasar hukum penerbitan saham Seri C tersebut.",
-  "sentimen": "negatif"
+  "takeaway": "Penjadwalan ulang ini sendiri netral bagi pemegang saham VIVA, sebab yang berubah hanya waktu dan tempat rapat, bukan besaran atau agenda PMTHMETD yang sebelumnya sudah dinilai berpotensi mendilusi saham publik hingga 72,35 persen. Pos yang tetap tersentuh adalah jumlah saham beredar dan laba per saham: begitu saham Seri C baru terbit untuk melunasi utang Rp1,72 triliun, porsi kepemilikan pemegang saham lama terhadap total saham beredar otomatis mengecil meski beban utang di buku perseroan berkurang. Mundurnya jadwal selama lebih dari tiga minggu juga berarti kepastian soal nasib PMTHMETD ini baru terjawab lebih lambat dari perkiraan semula. Yang perlu dipantau berikutnya adalah hasil pemungutan suara RUPSLB pada 9 Desember 2026, serta batas akhir penggunaan e-Proxy pada 8 Desember 2026 bagi pemegang saham yang tidak hadir fisik.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T21:16:23",
+    "ringkas": "RUPSLB VIVA soal konversi utang Rp1,72 triliun diundur dari 17 November ke 9 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fb3b045d58_d4132de68a.pdf",
+    "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Luar Biasa (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-13T21:16:23",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas akhir pengambilan formulir surat kuasa fisik"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Batas akhir penggunaan e-Proxy sebelum RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "RUPSLB VIVA, agenda PMTHMETD dan konversi utang Rp1,72 triliun"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-tahap-vi-dan-us-25-juta",

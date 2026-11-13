@@ -3,6 +3,199 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal",
+  "category": "Energi",
+  "title": "Pupuk Indonesia Bidik Batam Jadi Pusat Bahan Bakar [Amonia] Kapal",
+  "deck": "Pupuk Indonesia menyiapkan rencana fasilitas pengisian amonia untuk kapal di Batam, Lhokseumawe, dan Bontang, bermodal kapasitas produksi amonia nasional 7,1 juta ton per tahun.",
+  "image": "assets/img/pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:42:59.459Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/910/pupuk-indonesia-siap-dukung-indonesia-jadi-pusat-ammonia-hub-di-asia-pasifik",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "amonia",
+   "Pupuk Indonesia",
+   "energi hijau",
+   "Batam"
+  ],
+  "body": [
+   "PT Pupuk Indonesia mengungkapkan rencana menjadikan Indonesia sebagai pusat pengisian bahan bakar amonia untuk kapal laut, atau ammonia bunkering hub, di kawasan Asia Pasifik. Rencana ini disampaikan dalam forum Konferensi Perubahan Iklim PBB COP31 di Antalya, Turkiye, awal pekan ini. Amonia yang selama ini dikenal sebagai bahan baku pupuk kini dilirik sebagai bahan bakar alternatif untuk kapal, sehingga rencana ini berpotensi membuka pasar baru bagi industri pupuk nasional selain fungsinya yang biasa untuk mendukung produksi pangan.",
+   "Tiga lokasi yang disebut sebagai kandidat fasilitas pengisian amonia adalah Batam, yang berdekatan dengan Selat Malaka dan pusat bunkering kapal di Singapura, Lhokseumawe di Aceh melalui anak usaha PT Pupuk Iskandar Muda yang berada di pintu masuk utara Selat Malaka, dan Bontang di Kalimantan Timur melalui anak usaha PT Pupuk Kaltim. Modal utama Pupuk Indonesia untuk menangkap peluang ini adalah kapasitas produksi amonia sebesar 7,1 juta ton per tahun, yang menurut perusahaan menempatkannya sebagai salah satu produsen amonia terbesar di kawasan Asia Pasifik, Timur Tengah, dan Afrika Utara.",
+   "Direktur Utama Pupuk Indonesia Rahmad Pribadi menyebut peralihan ke bahan bakar amonia bukan lagi wacana masa depan, karena sejumlah kapal lintas samudra sudah menggunakan mesin berbahan bakar amonia dan proses pengisiannya sudah berjalan di negara lain seperti Korea Selatan dan Australia. Posisi Indonesia di jalur pelayaran internasional yang menghubungkan pusat perdagangan di Asia disebut sebagai keunggulan geografis untuk menyediakan infrastruktur serupa.",
+   "Sejauh ini, pernyataan Pupuk Indonesia masih berupa rencana dan belum disertai angka investasi, target waktu pembangunan, atau keputusan lokasi final di antara tiga kandidat yang disebutkan."
+  ],
+  "fotoAdegan": "Industrial ammonia storage tanks and pipelines at a tropical port with a cargo ship docked nearby, overcast sky",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1885/conversions/WhatsApp-Image-2026-11-13-at-08.42.26-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah di sini baru sebatas rencana: Pupuk Indonesia menyebut tiga lokasi yang akan dikaji sebagai tempat pengisian bahan bakar amonia untuk kapal, yaitu Batam, Lhokseumawe, dan Bontang, dengan modal kapasitas produksi amonia 7,1 juta ton per tahun yang sudah dimiliki perusahaan. Pihak yang berpotensi terdampak kalau rencana ini berjalan adalah industri pupuk negara sendiri lewat anak usaha di Aceh dan Kalimantan Timur, pelaku pelayaran internasional yang melintasi Selat Malaka, dan ekonomi daerah di sekitar tiga lokasi tersebut. Namun belum ada angka investasi, jadwal pembangunan, atau keputusan lokasi final dalam pengumuman ini, sehingga arahnya masih terlalu dini untuk disimpulkan. Yang perlu dipantau adalah apakah Pupuk Indonesia merilis studi kelayakan atau nota kesepahaman dengan mitra pelayaran dalam waktu dekat, karena itu yang akan menandakan rencana ini bergerak dari wacana menjadi proyek nyata.",
+  "imageV": "mweuturi"
+ },
+ {
+  "slug": "stok-pupuk-nasional-capai-1-9-juta-ton-jelang-musim-tanam",
+  "category": "BUMN",
+  "title": "Stok Pupuk Nasional Capai [1,9 Juta Ton] Jelang Musim Tanam",
+  "deck": "PT Pupuk Indonesia menyiapkan 1,9 juta ton stok pupuk per 10 November 2026, sementara penyaluran pupuk bersubsidi naik 14 persen dibanding tahun lalu.",
+  "image": "assets/img/stok-pupuk-nasional-capai-1-9-juta-ton-jelang-musim-tanam.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:42:59.149Z",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/911/serapan-tinggi-pupuk-indonesia-siapkan-19-juta-ton-stok-pupuk-untuk-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Bersubsidi",
+   "Musim Tanam",
+   "Kementerian Pertanian"
+  ],
+  "body": [
+   "PT Pupuk Indonesia (Persero) menyatakan telah menyiapkan total stok pupuk nasional sebanyak 1.936.505 ton per 10 November 2026, untuk mengantisipasi kebutuhan petani menjelang musim tanam. Jumlah itu terdiri dari 1.556.278 ton pupuk bersubsidi dan 380.227 ton pupuk nonsubsidi, yang tersebar di gudang pabrik dan gudang penyangga di berbagai wilayah. Ketersediaan stok ini penting karena keterlambatan distribusi pupuk menjelang musim tanam bisa langsung memengaruhi produktivitas petani di lapangan.",
+   "Rincian stok pupuk bersubsidi terdiri dari 909.600 ton Urea, 550.041 ton NPK, 18.142 ton NPK Kakao, 8.412 ton SP-36, 3.906 ton ZA, dan 66.176 ton pupuk organik. Sementara stok nonsubsidi mencakup 325.232 ton Urea, 20.723 ton NPK, dan 34.273 ton ZA. VP Perencanaan Penjualan dan Penagihan PSO Pupuk Indonesia, Anggy Fajar Maghfiroh, mengatakan stok bersubsidi itu diperkirakan cukup memenuhi penebusan petani selama 55 hari ke depan, dengan asumsi rata-rata penebusan sekitar 28.000 ton per hari. Perusahaan menyebut pemantauan stok dilakukan setiap hari sampai ke gudang penyangga tingkat kabupaten melalui sistem yang disebut Command Center.",
+   "Pupuk Indonesia mencatat penyaluran pupuk bersubsidi sepanjang Januari hingga 10 November 2026 mencapai sekitar 7.709.711 ton, naik 14 persen dibandingkan periode sama tahun 2025 yang sekitar 6.789.854 ton. Anggy mengaitkan kenaikan itu dengan penyederhanaan tata kelola pupuk bersubsidi yang diatur dalam Peraturan Presiden Nomor 6 Tahun 2025 beserta Peraturan Menteri Pertanian Nomor 15 Tahun 2025. Menurutnya, aturan itu memangkas regulasi yang sebelumnya berjumlah 145 aturan dari berbagai kementerian dan lembaga, dan kini BUMN pupuk bertanggung jawab langsung menyalurkan pupuk bersubsidi sampai titik serah ke petani, bukan lagi berhenti di gudang distributor seperti sebelumnya.",
+   "Sekretaris Jenderal Kementerian Pertanian, Suwandi, mengklaim kebijakan pemerintah di sektor pupuk membawa dampak nyata, antara lain penurunan Harga Eceran Tertinggi (HET) pupuk bersubsidi sebesar 20 persen tanpa menambah beban APBN, serta kenaikan volume pupuk bersubsidi hingga 700 ribu ton. Ia juga menyebut pemerintah berencana membangun lima pabrik pupuk baru yang ditargetkan rampung sebelum 2029, serta mengubah mekanisme pembayaran bahan baku dari semula dibayar setelah produksi menjadi dibayar di muka. Menurut Suwandi, pertumbuhan Produk Domestik Bruto sektor pertanian naik dari 0,83 persen pada 2024 menjadi 5,74 persen pada 2025, sementara Nilai Tukar Petani naik dari 124 menjadi 132 pada periode yang sama."
+  ],
+  "fotoAdegan": "Workers loading sacks of subsidized fertilizer onto a pickup truck at a rural warehouse while farmers wait nearby, dusty morning light",
+  "fotoSumber": "https://www.pupuk-indonesia.com/storage/1886/conversions/WhatsApp-Image-2026-11-13-at-08.42.28-thumb.jpg",
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "takeaway": "Yang berubah secara konkret adalah jalur distribusi pupuk bersubsidi, melalui Perpres Nomor 6 Tahun 2025 dan Permentan Nomor 15 Tahun 2025. Sebelumnya BUMN pupuk hanya mengantar sampai gudang distributor, lalu distributor dan kios yang meneruskan ke petani. Sekarang Pupuk Indonesia bertanggung jawab sampai pupuk benar-benar diterima petani, sehingga rantai penyalurannya lebih pendek dan lebih mudah dipantau. Yang merasakan dampaknya langsung adalah petani penerima subsidi, karena penyaluran pupuk bersubsidi tahun ini sudah naik 14 persen dibanding tahun lalu. Pola ini mengarah ke konsolidasi tanggung jawab distribusi pupuk bersubsidi di satu BUMN ketimbang perubahan besaran subsidinya, dan yang akan membuktikan arah ini berlanjut adalah realisasi lima pabrik pupuk baru yang disebut pemerintah akan rampung sebelum 2029.",
+  "imageV": "mweutw1o"
+ },
+ {
+  "slug": "kemendag-revisi-aturan-ekspor-karet-alam-permudah-ke-tiongkok",
+  "category": "Industri",
+  "title": "Kemendag [Revisi] Aturan Ekspor Karet Alam, Permudah ke Tiongkok",
+  "deck": "Permendag baru mengatur penggunaan ulang kode identitas produsen karet, surat keterangan ekspor ke Tiongkok, dan batas ekspor untuk sampel serta pameran.",
+  "image": "assets/img/kemendag-revisi-aturan-ekspor-karet-alam-permudah-ke-tiongkok.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:39:45.332Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-penerapan-standar-teknis-karet-alam-melalui-permendag-26-tahun-2026",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "karet alam",
+   "ekspor",
+   "Kemendag",
+   "Tiongkok"
+  ],
+  "body": [
+   "Kementerian Perdagangan menerbitkan Permendag Nomor 26 Tahun 2026 yang merevisi Permendag Nomor 1 Tahun 2026 tentang ketentuan ekspor karet alam dengan spesifikasi teknis. Aturan ini disosialisasikan secara daring pada 12 November 2026 kepada pelaku usaha dan asosiasi karet. Perubahannya menyentuh tiga hal teknis yang selama ini jadi kendala di lapangan, yaitu identitas produsen, dokumen ekspor ke Tiongkok, dan batas ekspor untuk sampel serta pameran.",
+   "Perubahan pertama menyangkut Tanda Pengenal Produsen Standard Indonesian Rubber atau TPP SIR, kode identitas resmi yang menandai asal produk karet dari produsen tertentu. Aturan baru memperbolehkan eksportir memakai kembali kode TPP SIR yang sudah mereka miliki meski terjadi perubahan kepemilikan akibat pemisahan perusahaan, dan mengatur mekanisme perpanjangan kode tersebut setelah masa berlakunya habis. Sebelumnya, perubahan struktur perusahaan berisiko memaksa eksportir mengurus kode identitas baru, padahal membangun kepercayaan pembeli internasional terhadap kode lama butuh waktu lama.",
+   "Perubahan kedua mengatur penerbitan Letter of Confirmation atau LoC, surat keterangan yang menjadi salah satu syarat dokumen bagi eksportir karet alam yang mengirim barang ke Republik Rakyat Tiongkok. Aturan baru memberi landasan hukum dan memperjelas prosedur penerbitannya, sehingga eksportir ke Tiongkok punya kepastian dalam memenuhi syarat dokumen. Perubahan ketiga menegaskan batas jumlah atau alokasi ekspor karet alam untuk keperluan barang contoh dan pameran, meski besaran pastinya tidak dirinci dalam sosialisasi ini.",
+   "Sosialisasi aturan ini diikuti 181 peserta, terdiri atas perwakilan kementerian dan lembaga terkait, Gabungan Perusahaan Karet Indonesia atau GAPKINDO, eksportir produsen karet alam, serta lembaga sertifikasi dan laboratorium pengujian. Direktur Eksekutif GAPKINDO Erwin Tunas menyambut baik aturan ini, terutama soal penggunaan kembali kode TPP SIR, karena menurutnya kepercayaan pembeli internasional terhadap identitas produsen sulit dibangun kembali dari nol."
+  ],
+  "fotoAdegan": "Dock workers loading rubber bales onto a cargo ship at a busy Indonesian port, cranes and containers in the background.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/3fR2wWrj2vT2oNG5ksHAohoGwU7fbnCDOWbH06Gh.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah konkret ada tiga: eksportir karet yang mengalami perubahan kepemilikan perusahaan kini bisa memakai lagi kode identitas produsen lama mereka alih-alih mengurus kode baru dari nol, ada dasar hukum baru untuk surat keterangan ekspor ke Tiongkok yang sebelumnya tidak jelas prosedurnya, dan batas ekspor karet untuk sampel maupun pameran dipertegas. Yang terdampak langsung adalah eksportir produsen karet alam, terutama yang sedang mengalami pemecahan perusahaan, serta eksportir yang rutin mengirim karet ke Tiongkok. Menariknya, aturan ini merevisi Permendag Nomor 1 Tahun 2026 yang baru terbit di tahun yang sama, dan GAPKINDO secara terbuka menyebut aturan lama soal perpanjangan kode identitas produsen selama ini menyulitkan pengusaha. Ini menunjukkan pola pemerintah mengoreksi cepat aturan teknis begitu masalah muncul di lapangan, bukan menunggu evaluasi jangka panjang. Yang akan membuktikan apakah perbaikan ini benar-benar memudahkan adalah bagaimana sistem INATRADE, platform daring untuk mengurus kode identitas produsen, berjalan saat eksportir mulai mengajukan perpanjangan atau penggunaan ulang kodenya.",
+  "imageV": "mweuty1z"
+ },
+ {
+  "slug": "gula-aren-sukabumi-mulai-diekspor-ke-300-gerai-kopi-malaysia",
+  "category": "UMKM",
+  "title": "Gula Aren Sukabumi Mulai Diekspor ke [300] Gerai Kopi Malaysia",
+  "deck": "Mahorahora, produsen gula aren Sukabumi, mengekspor perdana Rp250,9 juta gula aren cair ke jaringan 300 gerai Kopi Saigon di Malaysia, dengan pesanan sekontainer penuh menyusul Januari 2027.",
+  "image": "assets/img/gula-aren-sukabumi-mulai-diekspor-ke-300-gerai-kopi-malaysia.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:39:40.383Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/srasa-di-tei-berbuah-manis-gula-aren-indonesia-didistribusikan-ke-300-gerai-kopi-malaysia",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "gula aren",
+   "ekspor",
+   "Malaysia",
+   "UMKM"
+  ],
+  "body": [
+   "Produsen gula aren Mahorahora, yang berbasis di Sukabumi, Jawa Barat, melakukan ekspor perdana ke Malaysia pada 9 November 2026. Sebanyak 4.000 kemasan gula aren cair ukuran satu liter senilai US$13.760, setara sekitar Rp250,9 juta, dikirim ke Seruni Global Sdn Bhd, perusahaan pengelola jaringan kedai Kopi Saigon yang memiliki lebih dari 300 gerai di Malaysia. Transaksi ini jadi contoh konkret produk pangan rumahan Indonesia yang berhasil masuk rantai pasok bisnis kuliner di luar negeri, bukan sekadar kesepakatan di atas kertas.",
+   "Ekspor ini merupakan hasil kontrak dagang yang ditandatangani Mahorahora dan Seruni Global di Paviliun S'RASA (Rasa Rempah Indonesia) saat Trade Expo Indonesia (TEI) ke-41, yang berlangsung 14-18 Oktober 2026 di ICE BSD City, Tangerang, Banten. Menurut Kementerian Perdagangan, Seruni Global sudah menjadwalkan pesanan lanjutan pada awal Januari 2027 dengan volume satu kontainer penuh ukuran 20 kaki, jauh lebih besar dibanding pengiriman pertama.",
+   "TEI ke-41, melalui Paviliun S'RASA, memfasilitasi penandatanganan 14 nota kesepahaman (MoU) dengan potensi nilai transaksi total US$30 juta, atau sekitar Rp500 miliar, menurut Kemendag. S'RASA sendiri merupakan program kolaborasi Kemendag dengan empat kementerian lain untuk memperluas pasar produk bumbu, rempah, dan bahan pangan Indonesia lewat jaringan restoran dan gerai kuliner Indonesia di luar negeri.",
+   "Direktur Jenderal Pengembangan Ekspor Nasional Kemendag, Fajarini Puntodewi, menyebut pihaknya berharap keberhasilan Mahorahora bisa mendorong lebih banyak produsen bumbu, rempah, dan pangan Indonesia memanfaatkan jalur promosi S'RASA untuk merealisasikan MoU yang sudah diteken menjadi transaksi ekspor nyata."
+  ],
+  "fotoAdegan": "Workers pouring liquid palm sugar into plastic bottles on a wooden table in a small rural workshop, stacked crates nearby, soft morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/a6c2XjNMAtPnDNAKGQyml29MHHUytN7YBUdhgLRA.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah secara konkret adalah satu dari 14 MoU dagang yang diteken Kemendag di TEI ke-41, dengan potensi total Rp500 miliar, sudah berubah jadi pengiriman nyata senilai Rp250,9 juta dari Mahorahora ke Malaysia, kurang dari setengah persen dari potensi itu. Yang langsung terdampak adalah Mahorahora dan petani gula aren di Sukabumi yang memasok bahan bakunya, serta produsen bumbu dan pangan UMKM lain yang juga menandatangani MoU lewat S'RASA tapi belum tentu sampai tahap kirim barang. Dari sini ada dua kemungkinan arah: pertama, kasus Mahorahora jadi pembuka jalan dan MoU-MoU lain ikut terealisasi dalam beberapa bulan ke depan; kedua, ini tetap jadi contoh tunggal yang dipakai menunjukkan program berjalan, sementara sisanya mandek seperti nasib kebanyakan MoU dagang pada umumnya. Bukti yang ada sekarang belum cukup untuk memastikan salah satu, tapi penanda paling jelas adalah apakah pesanan susulan satu kontainer penuh yang dijadwalkan Januari 2027 benar-benar terkirim, karena itu akan menunjukkan hubungan dagang yang berlanjut, bukan sekadar pengiriman simbolis pertama.",
+  "imageV": "mweutzwl"
+ },
+ {
+  "slug": "bi-dan-3-bank-sentral-asean-perluas-kerja-sama-mata-uang-lokal",
+  "category": "Moneter",
+  "title": "BI dan 3 Bank Sentral ASEAN [Perluas] Kerja Sama Mata Uang Lokal",
+  "deck": "Bank Indonesia bersama bank sentral Malaysia, Thailand, dan Filipina menandatangani nota kesepahaman baru yang memperluas kerja sama transaksi mata uang lokal, menggantikan kesepakatan 2023.",
+  "image": "assets/img/brankas-uang-sentral.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:39:30.758Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824926.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "ASEAN",
+   "mata uang lokal",
+   "kerja sama bank sentral"
+  ],
+  "body": [
+   "Bank Indonesia bersama Bank Negara Malaysia, Bank of Thailand, dan Bangko Sentral ng Pilipinas menandatangani nota kesepahaman baru pada 13 November 2026 untuk memperluas kerja sama penggunaan mata uang lokal dalam transaksi antarnegara. Nota kesepahaman ini ditandatangani langsung oleh gubernur dari empat bank sentral tersebut, yaitu Destry Damayanti dari Bank Indonesia, Abdul Rasheed Ghaffour dari Bank Negara Malaysia, Vitai Ratanakorn dari Bank of Thailand, dan Eli M. Remolona Jr dari Bangko Sentral ng Pilipinas.",
+   "Kesepakatan ini menggantikan nota kesepahaman serupa yang sebelumnya hanya melibatkan tiga bank sentral, yakni Indonesia, Malaysia, dan Thailand, sejak Agustus 2023. Dengan bergabungnya Filipina, kerangka kerja sama ini kini mengatur penggunaan mata uang lokal masing-masing negara, seperti rupiah, ringgit, baht, dan peso, untuk menyelesaikan transaksi bilateral antarnegara anggota, termasuk perdagangan dan investasi, sepanjang memenuhi persyaratan yang disepakati para pihak.",
+   "Menurut keempat bank sentral, kerangka ini diharapkan membuat penyelesaian transaksi antarnegara lebih efisien, menekan biaya konversi mata uang, serta memberi pelaku usaha fleksibilitas dalam mengelola risiko nilai tukar. Siaran pers belum merinci target volume transaksi atau tenggat teknis implementasi di lapangan, dan menyebut akan terus memperkuat kolaborasi pengembangan kerangka tersebut ke depan."
+  ],
+  "fotoAdegan": "Cargo containers being loaded onto a ship at a busy Indonesian port, cranes in motion, early morning light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang konkret berubah di sini adalah keanggotaan: kerja sama transaksi mata uang lokal yang sejak Agustus 2023 hanya melibatkan Indonesia, Malaysia, dan Thailand kini bertambah Filipina, sekaligus menggantikan nota kesepahaman lama. Pihak yang langsung berpotensi terdampak adalah eksportir dan importir yang berdagang antara keempat negara ini, karena mereka bisa membayar transaksi langsung dengan rupiah, ringgit, baht, atau peso tanpa harus menukar dulu ke dolar Amerika Serikat sebagai perantara. Langkah ini melanjutkan pola bank-bank sentral ASEAN yang bertahap memperluas jaringan transaksi mata uang lokal di kawasan, bukan kesepakatan sekali jadi. Yang akan menunjukkan apakah kerja sama ini benar dipakai pelaku usaha atau sekadar kerangka di atas kertas adalah data realisasi volume transaksi mata uang lokal yang biasa dirilis Bank Indonesia secara berkala, yang belum disinggung dalam siaran pers ini.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "mandiri-gelar-lelang-properti-sampai-akhir-2026",
+  "category": "Perbankan",
+  "title": "Mandiri Gelar [Lelang] Properti Sampai Akhir 2026",
+  "deck": "Bank Mandiri menawarkan rumah, tanah, hingga properti usaha lewat Mandiri Lelang 2026, dengan bunga KPR Lelang mulai 2,7 persen periode Oktober-November 2026.",
+  "image": "assets/img/mandiri-gelar-lelang-properti-sampai-akhir-2026.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:28:58+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478191-bank-mandiri-hadirkan-beragam-aset-properti-melalui-mandiri-lelang-2026",
+  "tags": [
+   "bank mandiri",
+   "lelang properti",
+   "kpr lelang",
+   "aset agunan"
+  ],
+  "body": [
+   "Bank Mandiri kembali menggelar program tahunan Mandiri Lelang 2026, menawarkan beragam properti jaminan kredit kepada masyarakat umum hingga 31 Desember 2026. Program ini relevan bagi siapa saja yang mencari rumah, tanah, atau bangunan usaha di luar jalur pasar biasa, karena pembeli juga bisa memakai fasilitas KPR Lelang dengan bunga tetap mulai 2,7 persen untuk periode Oktober-November 2026.",
+   "Program yang sudah berjalan sejak 2022 ini digarap bersama dua anak usaha Bank Mandiri, yaitu Mandiri Tunas Finance dan Mandiri Utama Finance. Aset yang dilelang tidak hanya rumah tinggal, melainkan juga tanah, apartemen, rumah toko, pabrik, gudang, hotel, vila, sampai kendaraan bermotor.",
+   "Pilihan membeli properti lewat lelang ini muncul saat pembiayaan bank masih menjadi andalan utama masyarakat untuk membeli rumah. Survei Bank Indonesia mencatat 70,05 persen pembelian rumah di pasar primer pada kuartal II 2026 dibayar menggunakan KPR, bukan tunai penuh. Artinya sebagian besar pembeli rumah baru tetap bergantung pada kredit bank, sehingga bunga KPR Lelang yang ditawarkan ikut memengaruhi daya beli peserta lelang.",
+   "SVP Retail Collection & Recovery Group Bank Mandiri, Ganjar E. Suganda, mengatakan program ini dirancang untuk memperluas akses masyarakat terhadap aset melalui proses yang transparan. Bagi Bank Mandiri sendiri, lelang ini juga menjadi cara mengelola aset jaminan yang sebelumnya bermasalah agar bisa kembali produktif, bukan sekadar menumpuk di catatan bank."
+  ],
+  "fotoAdegan": "A row of mid-sized suburban houses along a quiet Indonesian street, parked motorbikes outside, bright midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af6e5de464fb-bank-mandiri-hadirkan-beragam-aset-properti-melalui-mandiri-lelang-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan Bank Mandiri membuka lebih banyak aset jaminan kreditnya untuk dijual ke publik lewat lelang, dengan bunga KPR Lelang tetap mulai 2,7 persen khusus Oktober-November 2026. Aset jaminan ini maksudnya rumah, tanah, atau properti lain yang sebelumnya menjadi penjamin utang nasabah yang gagal bayar, lalu diambil alih bank. Yang diuntungkan jelas calon pembeli rumah atau pelaku usaha yang mencari properti dengan harga lelang, sementara bagi Bank Mandiri sendiri program ini jadi cara melepas aset bermasalah agar tidak terus membebani perusahaan. Polanya menunjukkan bank mulai menjadikan lelang aset jaminan sebagai kanal penjualan rutin tahunan sejak 2022, bukan sekadar pelepasan sewaktu-waktu, dengan bunga murah sebagai pemancing peminat. Yang akan memastikan arah ini adalah apakah bunga promo 2,7 persen itu diperpanjang setelah November 2026 berakhir, atau apakah Mandiri merilis angka nilai aset yang terjual lewat program ini di laporan kinerja berikutnya.",
+  "imageV": "mweuu0w5"
+ },
+ {
+  "slug": "telkom-raih-gold-winner-asia-esg-positive-impact-award-2026",
+  "category": "BUMN",
+  "title": "Telkom Raih [Gold Winner] Asia ESG Positive Impact Award 2026",
+  "deck": "Program pengembangan talenta digital TelkomGroup diganjar Gold Winner kategori Talent Management di Asia ESG Positive Impact Award 2026, dinilai panel internasional bersama EY.",
+  "image": "assets/img/telkom-raih-gold-winner-asia-esg-positive-impact-award-2026.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:08:38+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478185-telkom-sabet-gold-winner-di-asia-esg-positive-impact-award-2026",
+  "tags": [
+   "Telkom",
+   "ESG",
+   "BUMN",
+   "Pengembangan SDM"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk kembali mendapat pengakuan internasional atas program pengembangan sumber daya manusianya. Program bertajuk People Development Program: Building Future-Ready Digital Leaders Across Regions dinobatkan sebagai Gold Winner di Asia ESG Positive Impact Award 2026 untuk kategori Talent Management. Pengakuan ini menandai bagaimana perusahaan telekomunikasi milik negara tersebut memosisikan pengembangan talenta sebagai bagian dari penilaian ESG, aspek yang makin diperhitungkan investor dan lembaga pemeringkat, bukan sekadar urusan internal sumber daya manusia perusahaan.",
+   "Penghargaan ini diterima oleh Muhammad Subhan Iswahyudi, Senior General Manager Telkom Corporate University (Telkom CorpU). Proses penjurian melibatkan para pakar dari Indonesia, Malaysia, Thailand, dan Filipina, dengan Ernst & Young bertindak sebagai penasihat utama sekaligus penilai independen. Program milik Telkom ini bersaing dengan inisiatif sejenis dari berbagai negara di Asia dan akhirnya meraih predikat tertinggi di kategori Talent Management.",
+   "Direktur Human Capital Management Telkom, Willy Saelan, menyampaikan bahwa pengembangan talenta dan penerapan ESG perlu menjadi bagian dari strategi jangka panjang perusahaan. \"Pengakuan yang kita peroleh bukanlah tujuan untuk sekadar mendapatkan apresiasi, tetapi menjadi bukti bahwa apa yang kita lakukan sudah berada pada arah yang tepat. Yang lebih penting, setiap inisiatif keberlanjutan harus memberikan manfaat nyata bagi perusahaan dalam jangka panjang. Karena itu, kita perlu memastikan bahwa program yang dijalankan tidak hanya terlihat baik di atas kertas, tetapi benar-benar memiliki standar, ukuran keberhasilan, dan dampak yang dapat dirasakan,\" ujar Willy.",
+   "Secara teknis, people development plan TelkomGroup dirancang untuk membangun kapabilitas kepemimpinan dan menyiapkan talenta menghadapi tantangan industri digital. Program ini mengintegrasikan beberapa elemen sekaligus, yakni pengembangan kompetensi, coaching dan mentoring, pembelajaran berbasis pengalaman langsung, riset dan inovasi, pemanfaatan platform pembelajaran digital, serta proses assessment untuk memastikan kesiapan talenta mengemban peran strategis di masa depan."
+  ],
+  "fotoAdegan": "Young professionals collaborating around laptops in a bright modern corporate training room, blurred presentation screen in the background",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af6e0d51f7eb-keberhasilan-tersebut-turut-mendukung-pilar-empower-our-people-dalam-inisiatif-gozero-sustainable-action-by-telkom-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pengakuan eksternal, bukan perubahan operasional yang terukur: Telkom meraih predikat Gold Winner kategori Talent Management untuk program pengembangan SDM-nya, dinilai oleh panel pakar dari empat negara dengan EY sebagai asesor independen. Yang terdampak langsung adalah jajaran talenta dan calon pemimpin digital di internal TelkomGroup yang menjadi sasaran program ini, serta citra ESG perusahaan pelat merah ini di mata investor dan lembaga pemeringkat yang makin memperhitungkan aspek sosial dan tata kelola. Direktur Human Capital Management Telkom sendiri menegaskan bahwa penghargaan semacam ini seharusnya dibuktikan dengan dampak nyata, bukan sekadar predikat di atas kertas, namun berita ini tidak menyertakan data konkret seperti jumlah talenta yang sudah mengikuti program atau indikator kinerja yang membuktikan klaim 'future-ready' tersebut. Yang masih perlu dipantau adalah apakah klaim dampak ini nanti muncul dengan angka yang bisa diverifikasi di laporan keberlanjutan Telkom berikutnya, karena untuk saat ini buktinya masih berhenti di tingkat pengakuan internasional.",
+  "imageV": "mweuu1ad"
+ },
+ {
   "slug": "amar-angkat-tjetjen-saputra-direktur-kepatuhan-per-2-november-2026",
   "category": "Aksi Korporasi",
   "title": "AMAR Angkat Tjetjen Saputra [Direktur Kepatuhan] per 2 November 2026",
@@ -96,6 +289,33 @@ var ARTICLES = [
   "takeaway": "Laporan ini saya nilai netral bagi fundamental SMLE, karena isinya murni jawaban kepatuhan yang menegaskan tidak ada informasi baru, bukan peristiwa yang mengubah kondisi keuangan perseroan. Tidak ada pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disebut tersentuh di sini, padahal pos-pos itulah yang biasanya dicermati pelaku pasar untuk menilai kesehatan dan potensi dilusi sebuah emiten. Yang justru mencolok adalah lonjakan volume dan frekuensi perdagangan di tengah harga yang ambruk sepertiga, sementara indeks sektor dan IHSG sama-sama naik pada periode itu, pola yang lebih mengarah ke dinamika pasar ketimbang perubahan bisnis SMLE. Karena tidak ada tanggal RUPS, aksi korporasi, atau tenggat baru yang disebut dalam dokumen ini, yang perlu dipantau berikutnya adalah apakah BEI akan mengirim permintaan penjelasan lanjutan jika harga SMLE kembali bergerak tajam, atau apakah muncul laporan kepemilikan saham baru yang bisa menjelaskan lonjakan volume transaksi tersebut.",
   "sentimen": "netral",
   "judulIdx": "Penjelasan atas Volatilitas Transaksi"
+ },
+ {
+  "slug": "belanja-negara-tembus-rp2-997-t-tumbuh-15-6-persen",
+  "category": "Makroekonomi",
+  "title": "Belanja Negara Tembus Rp2.997 T, Tumbuh [15,6] Persen",
+  "deck": "Realisasi belanja negara hingga akhir Oktober 2026 capai Rp2.997,2 triliun atau 78 persen dari pagu APBN, didorong lonjakan belanja kementerian dan program MBG.",
+  "image": "assets/img/belanja-negara-tembus-rp2-997-t-tumbuh-15-6-persen.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T14:58:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478161-menkeu-pendapatan-negara-melonjak-239-persen",
+  "tags": [
+   "APBN",
+   "Belanja Negara",
+   "MBG",
+   "Kemenkeu"
+  ],
+  "body": [
+   "Pemerintah melaporkan realisasi belanja negara sampai akhir Oktober 2026 tumbuh pesat, menandakan percepatan pencairan anggaran menjelang akhir tahun. Hal ini penting bagi pembaca karena menentukan seberapa besar uang negara yang sudah mengalir ke gaji pegawai, program sosial, dan proyek infrastruktur, sekaligus memberi sinyal awal soal postur APBN tahun ini.",
+   "Wakil Menteri Keuangan Suahasil Nazara menyampaikan dalam konferensi pers APBN KiTa di Jakarta, Jumat (13/11/2026), bahwa belanja pemerintah pusat tercatat Rp2.343,6 triliun, tumbuh 24,7 persen dibanding periode yang sama tahun lalu dan setara 74,4 persen dari total pagu belanja pemerintah pusat di APBN 2026. Ia memperkirakan penyerapan anggaran kementerian dan lembaga bakal melonjak lagi pada Desember, karena banyak kontrak kerja yang pembayarannya baru diselesaikan pada akhir tahun.",
+   "Dari sisi jenis belanja, belanja barang mencapai Rp543,3 triliun, termasuk Rp173,21 triliun untuk program Makan Bergizi Gratis (MBG). Belanja pegawai tercatat Rp320,4 triliun untuk gaji dan tunjangan ASN serta tunjangan profesi guru non-ASN, sementara belanja modal mencapai Rp248,6 triliun untuk infrastruktur konektivitas, irigasi, dan peralatan ketahanan pangan. Di pos bantuan sosial, bansos reguler seperti PKH dan sembako terealisasi Rp124,9 triliun atau tumbuh 6,5 persen, pembayaran pensiun PNS, TNI, dan Polri sebesar Rp159,8 triliun, serta subsidi dan kompensasi energi maupun nonenergi mencapai Rp415,8 triliun.",
+   "Selain belanja pemerintah pusat, dana transfer ke daerah (TKD) sudah tersalur Rp653,2 triliun atau sekitar 90 persen dari pagu terbaru Rp726,3 triliun. Secara total, belanja negara sepanjang tahun ini sudah mencapai Rp2.997,2 triliun, atau 78 persen dari pagu APBN 2026, tumbuh 15,6 persen secara tahunan."
+  ],
+  "fotoAdegan": "Kitchen staff packing free nutritious meal boxes into delivery crates at a community kitchen, early morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af6c1ba920bb-menteri-keuangan-suahasil-nazara-tengah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah kecepatan penyerapan anggaran: sampai akhir Oktober, pemerintah sudah membelanjakan 78 persen dari seluruh jatah anggaran setahun, dengan belanja kementerian dan lembaga naik 24,7 persen dibanding periode yang sama tahun lalu. Yang merasakan dampaknya adalah pegawai negeri dan guru honorer yang gajinya sudah tersalur, keluarga penerima bantuan PKH dan sembako, pensiunan PNS, TNI, dan Polri, pemerintah daerah yang menerima dana transfer, serta penyedia program Makan Bergizi Gratis yang sendirian sudah menyerap sekitar sepertiga dari total belanja barang pemerintah pusat. Wakil Menteri Keuangan sendiri memperkirakan penyerapan kementerian dan lembaga masih akan melonjak lagi di Desember karena banyak kontrak kerja baru dibayar lunas di akhir tahun, sehingga realisasi belanja setahun kemungkinan mendekati atau bahkan melampaui jatah anggaran awal. Yang akan memastikan apakah pola ini benar-benar terjadi, atau malah menyisakan anggaran yang tidak terpakai, adalah laporan APBN KiTa edisi akhir tahun yang biasanya dirilis awal Januari mendatang.",
+  "imageV": "mweuu1p7"
  },
  {
   "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
@@ -248,7 +468,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan aturan yang langsung berlaku, melainkan baru tahap penandatanganan oleh 11 negara ASEAN, dengan masa tunggu 180 hari setelah tanda tangan terakhir sebelum perjanjian ini efektif, dan nantinya menggantikan ASEAN Agreement on Electronic Commerce yang sebelumnya disahkan lewat Undang-Undang Nomor 4 Tahun 2021. Pihak yang terdampak lebih dulu adalah proses hukum di Indonesia sendiri, karena pemerintah harus membentuk Panitia Antarkementerian untuk menyiapkan instrumen ratifikasi, sebelum pelaku usaha digital dan UMKM yang ingin berdagang lintas ASEAN bisa benar-benar merasakan kemudahan seperti interoperabilitas sistem pembayaran yang dijanjikan. Arahnya menunjukkan Indonesia melanjutkan peran yang dimulai saat menjadi ketua ASEAN pada 2023 dengan mendorong proses ini sampai ke tahap ratifikasi, bukan berhenti di seremoni tanda tangan semata. Yang akan menentukan apakah manfaat ini terwujud adalah bagaimana Panitia Antarkementerian merumuskan instrumen ratifikasi, termasuk apakah diperlukan undang-undang baru untuk menggantikan Undang-Undang Nomor 4 Tahun 2021, sebuah proses yang biasanya memakan waktu di tingkat nasional.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
@@ -403,7 +623,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di sini bukan kebijakan baru, melainkan daftar bantuan yang sudah berjalan: subsidi upah Rp900.000 untuk sekitar 13,3 juta pekerja, bantuan pangan untuk 33,24 juta keluarga, dan diskon transportasi saat Natal dan Tahun Baru. Yang langsung terdampak adalah pekerja berupah rendah dan keluarga penerima bantuan itu, sementara sektor yang disebut tergerus, yakni ritel toko fisik dan sebagian manufaktur padat karya, belum diberi program penyesuaian yang bentuknya jelas. Pemerintah sendiri mengakui bantuan-bantuan ini hanya penopang sementara, bukan solusi, tetapi belum ada target waktu atau anggaran khusus untuk agenda yang disebut sebagai solusi utama, seperti kawasan ekonomi khusus atau penyederhanaan izin usaha. Yang masih kurang untuk menilai apakah transformasi ini benar berjalan atau baru sebatas wacana adalah rincian kerja dan tenggat dari Satgas Debottlenecking, serta hasil konkret negosiasi CEPA dengan Uni Eropa yang sampai saat ini belum disebutkan tanggal penyelesaiannya.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "ekspor-sawit-naik-16-ke-us-28-84-miliar-hingga-oktober",
@@ -430,7 +650,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Angka yang paling konkret di sini adalah selisih antara kenaikan nilai ekspor sawit, 16 persen, dengan kenaikan volumenya yang hanya 6 persen. Artinya tambahan devisa tahun ini lebih banyak disumbang oleh harga sawit yang naik di pasar internasional, bukan oleh jumlah barang yang lebih banyak dijual ke luar negeri. Di sisi lain, kebijakan campuran biodiesel B50 yang sudah berjalan sejak Juli 2026 menambah kebutuhan minyak sawit mentah dalam negeri dari 15,6 juta menjadi 16,7 juta kiloliter, yang berarti porsi produksi sawit yang ditahan untuk bahan bakar domestik makin besar. Pihak yang langsung terdampak adalah pekebun rakyat lewat program peremajaan dan pelatihan, serta industri biodiesel yang kebutuhan bahan bakunya terus bertambah. Arah yang terlihat adalah konsumsi domestik untuk energi akan mengambil porsi yang makin besar dari produksi sawit nasional, dan ini akan lebih jelas terbaca dari data realisasi konsumsi domestik sawit di akhir 2026 dibandingkan proyeksi pemerintah sebesar 27,9 juta ton.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kici-tanggapi-permintaan-bursa-penjualan-naik-22",
@@ -11385,7 +11605,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Pertumbuhan Uang Primer BI Oktober [Melambat] jadi 7,0 Persen",
   "deck": "Bank Indonesia melaporkan uang primer adjusted Oktober 2026 tumbuh 7,0 persen dari setahun lalu, melambat dari 9,3 persen pada September.",
-  "image": "assets/img/brankas-uang-sentral.jpg",
+  "image": "assets/img/mesin-hitung-uang.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T04:38:38.771Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824326.aspx",
@@ -35910,7 +36130,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Uang Beredar [Tumbuh] 8,3% Meski Penyaluran Kredit Melambat",
   "deck": "BI mencatat uang beredar tumbuh 8,3 persen pada September 2026, naik tipis dari bulan sebelumnya, sementara penyaluran kredit ke masyarakat justru melambat menjadi 12,7 persen.",
-  "image": "assets/img/mesin-hitung-uang.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "date": "23 Oktober 2026",
   "isoDate": "2026-10-23T04:37:13.338Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823526.aspx",
@@ -43246,7 +43466,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
   "deck": "Bank Indonesia bersama IFSB dan IILM menggelar seminar internasional soal risiko dan ketahanan keuangan syariah, saat aset syariah RI tumbuh 10 persen jadi Rp3.264 triliun.",
-  "image": "assets/img/gedung-bi.jpg",
+  "image": "assets/img/ruang-dealing.jpg",
   "date": "19 Oktober 2026",
   "isoDate": "2026-10-19T07:36:25.825Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823226.aspx",
@@ -75389,7 +75609,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",
   "deck": "Rangkaian FEKDI x IFSE 2026 ditutup dengan data terbaru: transaksi QRIS semester I 2026 tumbuh 93,92 persen menjadi Rp1,12 kuadriliun, dan cakupannya ke luar negeri bertambah.",
-  "image": "assets/img/ruang-dealing.jpg",
+  "image": "assets/img/sidang-komisi-dpr.jpg",
   "date": "26 September 2026",
   "isoDate": "2026-09-26T16:36:34.949Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7114/pemerintah-perkuat-transformasi-ekonomi-digital-untuk-dorong-produktivitas-dan-daya-saing-nasional",
@@ -116821,7 +117041,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Tembus] Rp17.750 usai The Fed Sinyalkan Kenaikan Bunga",
   "deck": "Rupiah dibuka melemah 0,32 persen ke Rp17.750 per dolar AS pada Senin pagi, menyusul penguatan dolar AS setelah Ketua The Fed Kevin Warsh membuka peluang kenaikan suku bunga.",
-  "image": "assets/img/sidang-komisi-dpr.jpg",
+  "image": "assets/img/pelantikan-pejabat.jpg",
   "date": "31 Agustus 2026",
   "isoDate": "2026-08-31T09:40:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as",
@@ -117321,7 +117541,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
   "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
-  "image": "assets/img/pelantikan-pejabat.jpg",
+  "image": "assets/img/podium-kosong-briefing.jpg",
   "date": "30 Agustus 2026",
   "isoDate": "2026-08-30T02:00:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru",
@@ -117402,7 +117622,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "image": "assets/img/podium-kosong-briefing.jpg",
+  "image": "assets/img/meja-kebijakan.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T22:30:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",
@@ -120716,7 +120936,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
   "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
-  "image": "assets/img/meja-kebijakan.jpg",
+  "image": "assets/img/konpers-podium.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:10:42+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia",

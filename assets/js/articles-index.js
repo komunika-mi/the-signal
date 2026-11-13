@@ -5,6 +5,128 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal",
+  "category": "Energi",
+  "title": "Pupuk Indonesia Bidik Batam Jadi Pusat Bahan Bakar [Amonia] Kapal",
+  "deck": "Pupuk Indonesia menyiapkan rencana fasilitas pengisian amonia untuk kapal di Batam, Lhokseumawe, dan Bontang, bermodal kapasitas produksi amonia nasional 7,1 juta ton per tahun.",
+  "date": "13 November 2026",
+  "image": "assets/img/pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal.jpg",
+  "imageV": "mweuturi",
+  "tags": [
+   "amonia",
+   "Pupuk Indonesia",
+   "energi hijau",
+   "Batam"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/910/pupuk-indonesia-siap-dukung-indonesia-jadi-pusat-ammonia-hub-di-asia-pasifik",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "stok-pupuk-nasional-capai-1-9-juta-ton-jelang-musim-tanam",
+  "category": "BUMN",
+  "title": "Stok Pupuk Nasional Capai [1,9 Juta Ton] Jelang Musim Tanam",
+  "deck": "PT Pupuk Indonesia menyiapkan 1,9 juta ton stok pupuk per 10 November 2026, sementara penyaluran pupuk bersubsidi naik 14 persen dibanding tahun lalu.",
+  "date": "13 November 2026",
+  "image": "assets/img/stok-pupuk-nasional-capai-1-9-juta-ton-jelang-musim-tanam.jpg",
+  "imageV": "mweutw1o",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Bersubsidi",
+   "Musim Tanam",
+   "Kementerian Pertanian"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/911/serapan-tinggi-pupuk-indonesia-siapkan-19-juta-ton-stok-pupuk-untuk-musim-tanam",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "kemendag-revisi-aturan-ekspor-karet-alam-permudah-ke-tiongkok",
+  "category": "Industri",
+  "title": "Kemendag [Revisi] Aturan Ekspor Karet Alam, Permudah ke Tiongkok",
+  "deck": "Permendag baru mengatur penggunaan ulang kode identitas produsen karet, surat keterangan ekspor ke Tiongkok, dan batas ekspor untuk sampel serta pameran.",
+  "date": "13 November 2026",
+  "image": "assets/img/kemendag-revisi-aturan-ekspor-karet-alam-permudah-ke-tiongkok.jpg",
+  "imageV": "mweuty1z",
+  "tags": [
+   "karet alam",
+   "ekspor",
+   "Kemendag",
+   "Tiongkok"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-penerapan-standar-teknis-karet-alam-melalui-permendag-26-tahun-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "gula-aren-sukabumi-mulai-diekspor-ke-300-gerai-kopi-malaysia",
+  "category": "UMKM",
+  "title": "Gula Aren Sukabumi Mulai Diekspor ke [300] Gerai Kopi Malaysia",
+  "deck": "Mahorahora, produsen gula aren Sukabumi, mengekspor perdana Rp250,9 juta gula aren cair ke jaringan 300 gerai Kopi Saigon di Malaysia, dengan pesanan sekontainer penuh menyusul Januari 2027.",
+  "date": "13 November 2026",
+  "image": "assets/img/gula-aren-sukabumi-mulai-diekspor-ke-300-gerai-kopi-malaysia.jpg",
+  "imageV": "mweutzwl",
+  "tags": [
+   "gula aren",
+   "ekspor",
+   "Malaysia",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/srasa-di-tei-berbuah-manis-gula-aren-indonesia-didistribusikan-ke-300-gerai-kopi-malaysia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-dan-3-bank-sentral-asean-perluas-kerja-sama-mata-uang-lokal",
+  "category": "Moneter",
+  "title": "BI dan 3 Bank Sentral ASEAN [Perluas] Kerja Sama Mata Uang Lokal",
+  "deck": "Bank Indonesia bersama bank sentral Malaysia, Thailand, dan Filipina menandatangani nota kesepahaman baru yang memperluas kerja sama transaksi mata uang lokal, menggantikan kesepakatan 2023.",
+  "date": "13 November 2026",
+  "image": "assets/img/brankas-uang-sentral.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "ASEAN",
+   "mata uang lokal",
+   "kerja sama bank sentral"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824926.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "mandiri-gelar-lelang-properti-sampai-akhir-2026",
+  "category": "Perbankan",
+  "title": "Mandiri Gelar [Lelang] Properti Sampai Akhir 2026",
+  "deck": "Bank Mandiri menawarkan rumah, tanah, hingga properti usaha lewat Mandiri Lelang 2026, dengan bunga KPR Lelang mulai 2,7 persen periode Oktober-November 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/mandiri-gelar-lelang-properti-sampai-akhir-2026.jpg",
+  "imageV": "mweuu0w5",
+  "tags": [
+   "bank mandiri",
+   "lelang properti",
+   "kpr lelang",
+   "aset agunan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478191-bank-mandiri-hadirkan-beragam-aset-properti-melalui-mandiri-lelang-2026"
+ },
+ {
+  "slug": "telkom-raih-gold-winner-asia-esg-positive-impact-award-2026",
+  "category": "BUMN",
+  "title": "Telkom Raih [Gold Winner] Asia ESG Positive Impact Award 2026",
+  "deck": "Program pengembangan talenta digital TelkomGroup diganjar Gold Winner kategori Talent Management di Asia ESG Positive Impact Award 2026, dinilai panel internasional bersama EY.",
+  "date": "13 November 2026",
+  "image": "assets/img/telkom-raih-gold-winner-asia-esg-positive-impact-award-2026.jpg",
+  "imageV": "mweuu1ad",
+  "tags": [
+   "Telkom",
+   "ESG",
+   "BUMN",
+   "Pengembangan SDM"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478185-telkom-sabet-gold-winner-di-asia-esg-positive-impact-award-2026"
+ },
+ {
   "slug": "amar-angkat-tjetjen-saputra-direktur-kepatuhan-per-2-november-2026",
   "category": "Aksi Korporasi",
   "title": "AMAR Angkat Tjetjen Saputra [Direktur Kepatuhan] per 2 November 2026",
@@ -51,6 +173,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/63c09ad171_d3e419d7cc.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "belanja-negara-tembus-rp2-997-t-tumbuh-15-6-persen",
+  "category": "Makroekonomi",
+  "title": "Belanja Negara Tembus Rp2.997 T, Tumbuh [15,6] Persen",
+  "deck": "Realisasi belanja negara hingga akhir Oktober 2026 capai Rp2.997,2 triliun atau 78 persen dari pagu APBN, didorong lonjakan belanja kementerian dan program MBG.",
+  "date": "13 November 2026",
+  "image": "assets/img/belanja-negara-tembus-rp2-997-t-tumbuh-15-6-persen.jpg",
+  "imageV": "mweuu1p7",
+  "tags": [
+   "APBN",
+   "Belanja Negara",
+   "MBG",
+   "Kemenkeu"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478161-menkeu-pendapatan-negara-melonjak-239-persen"
  },
  {
   "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
@@ -6356,134 +6495,6 @@ var ARTICLES = [
    "terminal kendaraan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/17bdb956c4_28aacb74b1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-panggil-rupslb-rencanakan-ubah-bisnis-dan-akuisisi-nikel",
-  "category": "Aksi Korporasi",
-  "title": "PACK Panggil RUPSLB, Rencanakan Ubah Bisnis dan [Akuisisi] Nikel",
-  "deck": "PACK memanggil RUPSLB dan RUPS Independen 30 November 2026 untuk membahas perubahan bisnis, akuisisi saham PT Bukit Makmur Istindo Nikeltama, dan rencana penerbitan saham baru.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "RUPSLB",
-   "rights issue",
-   "akuisisi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f91345f2bc_b9f69a0a0a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-komisaris-edwin-soeryadjaya-beli-1-7-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Komisaris Edwin Soeryadjaya Beli [1,7 Juta] Saham",
-  "deck": "Edwin Soeryadjaya menambah kepemilikan di Saratoga lewat dua transaksi awal November, hak suaranya naik tipis menjadi 36,11 persen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-7856-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-kreasi-jasa-persada-tambah-11-57-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "PTRO: Kreasi Jasa Persada Tambah [11,57 Juta] Saham",
-  "deck": "Pemegang saham Petrosea, Kreasi Jasa Persada, membeli 11,57 juta saham baru di harga Rp2.160, menaikkan hak suaranya jadi 45,443%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "Petrosea",
-   "kepemilikan saham",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-4464-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-harimas-tunggal-perkasa-tambah-7-2-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Harimas Tunggal Perkasa [Tambah] 7,2 Juta Saham",
-  "deck": "Harimas Tunggal Perkasa membeli 7,2 juta saham IMPC pada 2-3 November 2026, menaikkan hak suaranya tipis dari 36,03 persen ke 36,05 persen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "kepemilikan saham",
-   "pemegang saham",
-   "Impack Pratama Industri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-2467-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "omed-komisaris-tambah-500-000-saham-senilai-rp91-juta",
-  "category": "Aksi Korporasi",
-  "title": "OMED: Komisaris [Tambah] 500.000 Saham Senilai Rp91 Juta",
-  "deck": "Komisaris OMED, Siane Soetanto, menambah 500.000 lembar saham seharga Rp182 per saham pada 3 November 2026, menaikkan hak suaranya ke 0,901 persen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OMED",
-   "kepemilikan saham",
-   "komisaris",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8058-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkgi-direksi-tambah-143-600-saham-senilai-rp260-lembar",
-  "category": "Aksi Korporasi",
-  "title": "KKGI: Direksi Tambah [143.600] Saham Senilai Rp260/Lembar",
-  "deck": "Direksi Resource Alam Indonesia, Wimpi Salim, membeli 143.600 lembar saham KKGI pada 16 Oktober 2026, menambah kepemilikannya jadi 1.204.696 lembar.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KKGI",
-   "kepemilikan saham",
-   "direksi",
-   "Resource Alam Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-9617-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bris-terbitkan-sukuk-mudharabah-rp2-triliun-tahap-iii",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Terbitkan [Sukuk] Mudharabah Rp2 Triliun Tahap III",
-  "deck": "BSI menerbitkan sukuk mudharabah senilai Rp2 triliun dalam tiga seri dengan bagi hasil setara 7,00 sampai 7,20 persen per tahun, bagian dari program berkelanjutan senilai Rp10 triliun.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "sukuk",
-   "obligasi syariah",
-   "pendanaan bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/36b03ef8e4_e250761669.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-setujui-rencana-refloat-5-08-juta-saham-buyback",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Setujui Rencana [Refloat] 5,08 Juta Saham Buyback",
-  "deck": "RUPST AMOR menyetujui pengalihan maksimal 5.084.827 saham hasil buyback secara bertahap dari 10 November 2026 hingga 31 Oktober 2027.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "RUPST",
-   "buyback saham",
-   "Ashmore Asset Management"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a1b28714a_21fb2a4176.pdf",
   "sourceLabel": "IDX"
  }
 ];

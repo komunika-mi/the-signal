@@ -469,6 +469,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "public-expose-brms-30-november-paparkan-kinerja-2025",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BRMS 30 November: [Paparkan] Kinerja 2025",
+  "deck": "BRMS akan menggelar Public Expose Tahunan untuk tahun buku 2025 pada 30 November 2026 di Hotel The Westin Jakarta, memaparkan kinerja produksi dan keuangan.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "Public Expose",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75415c98aa_34a2a7e5aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
   "category": "Aksi Korporasi",
   "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",
@@ -6482,22 +6498,6 @@ var ARTICLES = [
    "hak suara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-6863-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kepemilikan-sqmi-cgs-international-naik-ke-15-19-saham",
-  "category": "Aksi Korporasi",
-  "title": "[Kepemilikan] SQMI: CGS International Naik ke 15,19% Saham",
-  "deck": "CGS International Securities Singapore melaporkan pembelian 63,99 juta saham SQMI pada 3 November 2026, menaikkan hak suaranya dari 14,78% menjadi 15,19%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "kepemilikan saham",
-   "CGS International Securities",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8419-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

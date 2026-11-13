@@ -894,6 +894,44 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "public-expose-brms-30-november-paparkan-kinerja-2025",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BRMS 30 November: [Paparkan] Kinerja 2025",
+  "deck": "BRMS akan menggelar Public Expose Tahunan untuk tahun buku 2025 pada 30 November 2026 di Hotel The Westin Jakarta, memaparkan kinerja produksi dan keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:42:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75415c98aa_34a2a7e5aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRMS",
+  "tags": [
+   "BRMS",
+   "Bumi Resources Minerals",
+   "Public Expose",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Bumi Resources Minerals Tbk (BRMS) mengumumkan rencana penyelenggaraan Public Expose Tahunan untuk tahun buku yang berakhir 2025. Acara dijadwalkan pada Senin, 30 November 2026, pukul 14.00 WIB sampai selesai, di Denpasar Room, Ground Floor, Hotel The Westin Jakarta, Jalan H.R. Rasuna Said Kav. C-22A, Kuningan, Jakarta Selatan. Agenda yang akan dibawakan meliputi profil perusahaan dan anak-anak usahanya, profil manajemen perusahaan dan anak usaha, serta pemaparan kinerja produksi dan keuangan perusahaan.",
+   "Public Expose Tahunan ini akan dihadiri langsung oleh jajaran direksi dan manajemen BRMS. Perseroan menyebutkan bahwa materi presentasi yang akan dipaparkan dalam acara tersebut wajib disampaikan ke publik selambatnya pada 25 November 2026, lebih dulu dari hari pelaksanaan acara.",
+   "Pengumuman ini disampaikan untuk memenuhi Surat Keputusan Direksi PT Bursa Efek Indonesia No. Kep-00037/BEI/12-2025 tanggal 12 Desember 2025 tentang Perubahan Peraturan Nomor I-E mengenai Kewajiban Penyampaian Informasi. Surat bernomor 131/BRM-Corsec/XI/2026 ini ditandatangani oleh Muhammad Sulthon selaku Direktur dan Corporate Secretary BRMS, dan turut ditembuskan kepada Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif, dan Bursa Karbon di Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Miners in helmets inspecting stacked ore samples at an open-pit mineral mining site under bright daylight.",
+  "takeaway": "Laporan ini netral karena isinya baru sebatas jadwal dan agenda acara, belum memuat satu pun angka kinerja yang bisa dinilai positif atau negatif bagi pemegang saham. Public expose sendiri adalah forum tahunan wajib di mana manajemen memaparkan langsung kondisi produksi dan keuangan perusahaan ke publik, sehingga analis dan investor punya kesempatan bertanya soal hal-hal yang belum terlihat jelas di laporan keuangan resmi BRMS. Yang perlu dipantau berikutnya adalah materi presentasi yang wajib disampaikan Perseroan paling lambat 25 November 2026, serta acara itu sendiri pada 30 November 2026 pukul 14.00 WIB di Hotel The Westin Jakarta, saat data produksi dan keuangan tahun buku 2025 baru benar-benar terbuka ke publik.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Batas akhir penyampaian materi public expose"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Public Expose Tahunan BRMS tahun buku 2025"
+   }
+  ]
+ },
+ {
   "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
   "category": "Aksi Korporasi",
   "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",

@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
+  "category": "UMKM",
+  "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
+  "deck": "UMKM olahan pisang Bananania dari Yogyakarta, binaan Pertamina sejak 2021, kini merambah pasar ekspor ke Kanada, Malaysia, dan Singapura dengan 12 varian produk.",
+  "image": "assets/img/bananania-umkm-pisang-binaan-pertamina-tembus-ekspor.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T23:04:15+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478240-dari-yogyakarta-ke-kanada-cerita-umkm-binaan-pertamina-raup-pasar-global",
+  "tags": [
+   "UMKM",
+   "Pertamina",
+   "ekspor",
+   "pisang"
+  ],
+  "body": [
+   "Sebuah usaha kecil pengolah pisang dari Yogyakarta, Bananania, kini memasarkan produknya hingga ke Kanada, Malaysia, dan Singapura setelah mendapat pembinaan dari Pertamina sejak 2021. Kabar ini menarik karena menjadi contoh bagaimana komoditas pisang yang melimpah di Indonesia bisa diolah menjadi produk bernilai tambah dan menembus pasar luar negeri, bukan sekadar dijual mentah.",
+   "Pemilik Bananania, Sofyani Mirah, memulai usaha ini sejak 2019 dan kini sudah memiliki 12 jenis produk olahan pisang, mulai dari tepung, kukis, hingga granola. Tepung pisang yang mereka buat diposisikan sebagai alternatif tepung terigu impor karena bebas gluten, sekaligus memanfaatkan stok pisang yang tersedia sepanjang tahun di dalam negeri.",
+   "Menurut Vice President Corporate Communication Pertamina, Muhammad Baron, dukungan perusahaan kepada UMKM binaan berupa pelatihan, pengembangan kapasitas, kompetisi, serta fasilitasi promosi dan akses pasar, termasuk kesempatan tampil di pameran berskala internasional. Tujuannya agar pelaku usaha kecil tidak hanya mampu berproduksi, tetapi juga berinovasi dan bersaing di pasar yang lebih luas.",
+   "Di luar sisi bisnis, Bananania juga mempekerjakan perempuan di sekitar lokasi produksinya di Yogyakarta dan mulai menggunakan Pembangkit Listrik Tenaga Surya hibrida untuk menunjang operasional pabrik. Produk mereka saat ini dipajang di ajang Pertamina SMEXPO 2026 di Kota Kasablanka, Jakarta, yang berlangsung hingga 15 November mendatang."
+  ],
+  "fotoAdegan": "Workers slicing ripe bananas on wooden tables inside a small rural food workshop, afternoon light through open windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/13/6af73463b51dd-dari-yogyakarta-ke-kanada-cerita-umkm-binaan-pertamina-raup-pasar-global_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah satu kasus konkret, Bananania, usaha pengolah pisang dari Yogyakarta yang dibina Pertamina sejak 2021, berhasil mengirim produknya ke Kanada, Malaysia, dan Singapura setelah merintis sejak 2019 dengan 12 varian produk. Yang terdampak langsung adalah pelaku UMKM pangan skala kecil yang mengandalkan bahan baku lokal seperti pisang, serta pekerja perempuan yang direkrut di lokasi produksinya. Berita ini belum memberi gambaran apakah keberhasilan Bananania mewakili pola yang meluas di antara UMKM binaan Pertamina lainnya, sebab tidak ada angka berapa banyak dari total UMKM binaan yang benar-benar sampai ke tahap ekspor atau berapa nilai transaksinya. Yang masih perlu dicari adalah data agregat semacam itu, atau setidaknya hasil dari pameran SMEXPO 2026 di Kota Kasablanka yang berlangsung sampai 15 November, untuk melihat apakah ada UMKM binaan lain yang menyusul jejak ekspor serupa.",
+  "imageV": "mwf8qfbk"
+ },
+ {
   "slug": "transaksi-afiliasi-inpp-12-november-jual-saham-igm-rp185-7-m",
   "category": "Aksi Korporasi",
   "title": "Transaksi Afiliasi INPP 12 November: [Jual] Saham IGM Rp185,7 M",
@@ -255,7 +282,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret ada dua. Pertama, aturan devisa hasil ekspor tambang makin diperketat, perusahaan tambang dengan pemegang saham asing dari tujuh negara tertentu kini wajib menyimpan minimal 30 persen uang hasil ekspornya di bank devisa dalam negeri selama tiga bulan, dan pemerintah sedang menyiapkan revisi agar aturan ini juga menjangkau pemilik saham tidak langsung lewat pemilik manfaat akhir perusahaan. Kedua, mulai 1 Januari 2027 ekspor batu bara, minyak nabati, dan ferroalloy harus melewati Portal DSI, yang akan memeriksa dan menyetujui dokumen ekspor meski transaksi jual beli tetap langsung antara eksportir dan pembeli. Dua aturan ini sama-sama menyasar eksportir komoditas sumber daya alam, jadi arahnya terlihat jelas, pemerintah memperketat kendali atas uang dan dokumen hasil ekspor bahan mentah, bukan melonggarkannya. Yang akan membuktikan apakah rencana ini berjalan sesuai jadwal adalah uji sistem portal yang dijadwalkan 15 November ini, dua hari dari sekarang, serta uji coba terbatas pada 15 Desember mendatang sebelum portal wajib dipakai penuh awal tahun depan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "harga-patokan-ekspor-emas-turun-2-02-persen-di-november-2026",
@@ -612,7 +639,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah di sini adalah keanggotaan: kerja sama transaksi mata uang lokal yang sejak Agustus 2023 hanya melibatkan Indonesia, Malaysia, dan Thailand kini bertambah Filipina, sekaligus menggantikan nota kesepahaman lama. Pihak yang langsung berpotensi terdampak adalah eksportir dan importir yang berdagang antara keempat negara ini, karena mereka bisa membayar transaksi langsung dengan rupiah, ringgit, baht, atau peso tanpa harus menukar dulu ke dolar Amerika Serikat sebagai perantara. Langkah ini melanjutkan pola bank-bank sentral ASEAN yang bertahap memperluas jaringan transaksi mata uang lokal di kawasan, bukan kesepakatan sekali jadi. Yang akan menunjukkan apakah kerja sama ini benar dipakai pelaku usaha atau sekadar kerangka di atas kertas adalah data realisasi volume transaksi mata uang lokal yang biasa dirilis Bank Indonesia secara berkala, yang belum disinggung dalam siaran pers ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "mknt-revisi-laporan-penilaian-cbs-rum-molor-penilai-meninggal",

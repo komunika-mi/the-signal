@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
+  "category": "UMKM",
+  "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
+  "deck": "UMKM olahan pisang Bananania dari Yogyakarta, binaan Pertamina sejak 2021, kini merambah pasar ekspor ke Kanada, Malaysia, dan Singapura dengan 12 varian produk.",
+  "date": "13 November 2026",
+  "image": "assets/img/bananania-umkm-pisang-binaan-pertamina-tembus-ekspor.jpg",
+  "imageV": "mwf8qfbk",
+  "tags": [
+   "UMKM",
+   "Pertamina",
+   "ekspor",
+   "pisang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478240-dari-yogyakarta-ke-kanada-cerita-umkm-binaan-pertamina-raup-pasar-global"
+ },
+ {
   "slug": "transaksi-afiliasi-inpp-12-november-jual-saham-igm-rp185-7-m",
   "category": "Aksi Korporasi",
   "title": "Transaksi Afiliasi INPP 12 November: [Jual] Saham IGM Rp185,7 M",
@@ -6481,22 +6498,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8419-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-direksi-cairkan-repo-lepas-18-3-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Cairkan Repo, [Lepas] 18,3 Juta Saham",
-  "deck": "Direksi RLCO menjual 18,3 juta saham senilai sekitar Rp56 miliar untuk mencairkan perjanjian repo, hak suara turun jadi 11,85 persen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "kepemilikan saham",
-   "repo",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-7492-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

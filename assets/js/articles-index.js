@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-medc-kurs-bi-rp18-154-dividen-rp22-03-saham",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim MEDC: [Kurs] BI Rp18.154, Dividen Rp22,03/Saham",
+  "deck": "Medco Energi menetapkan kurs tengah BI 12 November 2026 sebesar Rp18.154 per dolar AS untuk menghitung dividen interim, sehingga nilainya setara Rp22,03 per saham.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "dividen interim",
+   "kurs BI",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a60d2f2a86_4a6d1ca79d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tops-pailit-pn-jakarta-pusat-batalkan-perdamaian-5-november",
+  "category": "Aksi Korporasi",
+  "title": "TOPS [Pailit]: PN Jakarta Pusat Batalkan Perdamaian 5 November",
+  "deck": "PN Jakarta Pusat membatalkan perjanjian perdamaian TOPS dan menyatakan perseroan pailit pada 5 November 2026, menyusul gugatan kreditur Sutoyo.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOPS",
+   "pailit",
+   "kepailitan",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ccb8b5848_a3d9930dc8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026",
   "category": "UMKM",
   "title": "Ekspor UMKM Binaan Kemendag [Tembus] US$360 Juta pada 2026",
@@ -6442,35 +6474,6 @@ var ARTICLES = [
    "OJK"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-6545-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "totl-bagikan-dividen-interim-rp136-4-miliar-rp40-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "TOTL Bagikan [Dividen] Interim Rp136,4 Miliar, Rp40 per Saham",
-  "deck": "Total Bangun Persada menetapkan dividen interim tunai Rp40 per saham atau total Rp136,4 miliar, dengan pembayaran pada 4 Desember 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOTL",
-   "dividen interim",
-   "konstruksi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/09e8345e2d_45c5369d28.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppi-rampungkan-realisasi-dana-obligasi-sukuk-rp2-74-triliun",
-  "category": "Aksi Korporasi",
-  "title": "LPPI rampungkan [realisasi] dana obligasi-sukuk Rp2,74 triliun",
-  "deck": "LPPI melaporkan penggunaan dana dari empat obligasi dan sukuk berkelanjutan senilai total Rp2,74 triliun, mayoritas untuk membayar utang, dengan sisa Rp42,06 miliar masih mengendap di deposito.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LPPI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b94791b0eb_e9173d36e3.pdf",
   "sourceLabel": "IDX"
  }
 ];

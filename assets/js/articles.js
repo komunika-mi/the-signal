@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-medc-kurs-bi-rp18-154-dividen-rp22-03-saham",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim MEDC: [Kurs] BI Rp18.154, Dividen Rp22,03/Saham",
+  "deck": "Medco Energi menetapkan kurs tengah BI 12 November 2026 sebesar Rp18.154 per dolar AS untuk menghitung dividen interim, sehingga nilainya setara Rp22,03 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T08:53:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a60d2f2a86_4a6d1ca79d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "dividen interim",
+   "kurs BI",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) mengumumkan penggunaan kurs tengah Bank Indonesia tanggal 12 November 2026, yaitu Rp18.154 per US$1, sebagai acuan penghitungan dividen interim tahun 2026 dalam mata uang Rupiah. Berdasarkan kurs tersebut, dividen interim sebesar US$0,0012 per saham yang akan dibagikan kepada pemegang saham berdomisili di Indonesia, baik berkebangsaan Indonesia maupun asing, setara dengan Rp22,0252 per saham.",
+   "Pengumuman ini menindaklanjuti pemberitahuan jadwal dan tata cara pembagian dividen interim yang sudah diterbitkan perseroan pada 2 November 2026. Medco juga menetapkan kurs yang sama, Rp18.154 per US$1 yakni kurs Menteri Keuangan tanggal 12 November 2026, sebagai acuan untuk menghitung pemotongan pajak atas dividen yang dibayarkan dalam mata uang dolar Amerika Serikat.",
+   "Mekanisme pembayaran dibedakan menurut status pemegang saham. Pemegang saham tanpa warkat yang berkebangsaan asing atau berdomisili di luar negeri akan menerima dividen dalam dolar Amerika Serikat. Pemegang saham tanpa warkat yang tercatat dalam penitipan kolektif di PT Kustodian Sentral Efek Indonesia (KSEI) menerima pembayaran melalui KSEI, sementara pemegang saham yang masih memegang warkat fisik dibayar melalui biro administrasi efek perseroan, PT Sinartama Gunita, dengan dana ditransfer ke rekening masing-masing. Dividen ini tetap dikenakan pemotongan pajak sesuai aturan yang berlaku, dan bukti potong pajaknya bisa diambil di kantor BAE."
+  ],
+  "fotoAdegan": "Offshore oil platform with a support vessel moored alongside, workers in safety gear on deck, hazy tropical horizon at dawn.",
+  "takeaway": "Laporan ini netral bagi fundamental Medco, karena isinya cuma konfirmasi teknis kurs untuk dividen interim yang keputusan dan jadwalnya sudah diumumkan lebih dulu pada 2 November 2026, bukan informasi baru soal kinerja perusahaan. Pos yang tersentuh adalah arus kas, uang yang keluar dari kas perusahaan ke kantong pemegang saham, karena pembagian dividen berarti sebagian laba yang tadinya ditahan di perusahaan kini dibayarkan tunai. Nilainya pun kecil, sekitar Rp22 per saham, sehingga dampaknya terhadap kas Medco tidak material dibanding ukuran perusahaan migas sebesar ini. Yang perlu dipantau pemegang saham berikutnya adalah realisasi transfer dana sesuai jadwal pembayaran yang sudah ditetapkan dalam pemberitahuan 2 November 2026, termasuk apakah KSEI dan BAE menyalurkannya tepat waktu.",
+  "sentimen": "netral",
+  "peristiwa": "dividen",
+  "judulIdx": "Pengumuman Kurs Tengah BI untuk Dividen Intermim 2026"
+ },
+ {
+  "slug": "tops-pailit-pn-jakarta-pusat-batalkan-perdamaian-5-november",
+  "category": "Aksi Korporasi",
+  "title": "TOPS [Pailit]: PN Jakarta Pusat Batalkan Perdamaian 5 November",
+  "deck": "PN Jakarta Pusat membatalkan perjanjian perdamaian TOPS dan menyatakan perseroan pailit pada 5 November 2026, menyusul gugatan kreditur Sutoyo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T07:17:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ccb8b5848_a3d9930dc8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOPS",
+  "tags": [
+   "TOPS",
+   "pailit",
+   "kepailitan",
+   "going concern"
+  ],
+  "body": [
+   "PT Totalindo Eka Persada Tbk (TOPS) mengonfirmasi bahwa Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat telah menjatuhkan putusan Nomor 38/Pdt.Sus-Pembatalan Perdamaian/2026/PN.Niaga.Jkt.Pst pada 5 November 2026. Putusan itu membatalkan perjanjian perdamaian (homologasi) yang sebelumnya dimiliki perseroan dan menyatakan TOPS dalam keadaan pailit. Permohonan pembatalan perdamaian ini diajukan oleh salah satu kreditur perseroan, yaitu Sutoyo. Tim kurator mengumumkan putusan tersebut pada 9 November 2026, dan Bursa Efek Indonesia selanjutnya meminta penjelasan resmi dari perseroan.",
+   "Dalam surat tanggapan bertanggal 12 November 2026 yang ditandatangani Corporate Secretary Boaz Dody Farulian, TOPS menyatakan belum dapat merinci total kewajiban yang menjadi dasar pembatalan perdamaian maupun nilai tagihan yang sudah jatuh tempo tapi belum dibayar. Perseroan mengaku masih melakukan penelaahan dan rekonsiliasi data kewajiban, dan akan mengacu pada hasil verifikasi tagihan oleh tim kurator sesuai mekanisme kepailitan yang berlaku. Mengenai langkah hukum lanjutan, perseroan menyebut masih mengkaji opsi bersama penasihat hukum dan akan melaporkan perkembangannya ke Bursa.",
+   "TOPS juga mengakui bahwa putusan pailit ini menimbulkan ketidakpastian material atas kemampuan perseroan mempertahankan kelangsungan usahanya. Perseroan akan mengevaluasi kondisi keuangan, kegiatan operasional, aset, dan kewajiban sebagai dasar penilaian atas kelangsungan usaha itu, sambil berkoordinasi dengan tim kurator dalam pengelolaan aset, termasuk penyampaian dokumen, inventarisasi aset dan kewajiban, serta data operasional proyek. Dampak lebih jauh terhadap kinerja keuangan dan kelanjutan proyek baru akan disampaikan setelah evaluasi tersebut selesai."
+  ],
+  "fotoAdegan": "Idle cranes and scaffolding at a quiet construction site, overcast sky, no workers in motion",
+  "takeaway": "Laporan ini negatif bagi TOPS, karena perseroan resmi dinyatakan pailit oleh pengadilan dan secara terbuka mengakui ada keraguan besar atas kemampuannya melanjutkan usaha, sementara total utang yang memicu putusan ini saja belum bisa dipastikan nilainya. Status pailit berarti pengelolaan aset perseroan beralih ke tim kurator, dan kelangsungan usaha, yakni kemampuan perusahaan tetap beroperasi sebagai bisnis yang berjalan, kini diragukan sendiri oleh manajemennya. Ini penting bagi pemegang saham karena dalam proses kepailitan kreditur dibayar lebih dulu dari hasil penjualan aset, dan pemegang saham baru kebagian sisa kalau masih ada aset setelah semua utang lunas, yang dalam kasus pailit sering berarti tidak ada sisa sama sekali. Yang perlu dipantau berikutnya adalah hasil verifikasi tagihan oleh tim kurator yang akan menentukan besaran utang riil perseroan, serta langkah hukum lanjutan yang disebut masih dikaji TOPS bersama penasihat hukumnya, karena keduanya akan menentukan apakah status pailit ini berlanjut ke proses likuidasi aset.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026",
   "category": "UMKM",
   "title": "Ekspor UMKM Binaan Kemendag [Tembus] US$360 Juta pada 2026",
@@ -105251,8 +105306,8 @@ var ARTICLES = [
  {
   "slug": "ucid-jadwalkan-rupslb-14-oktober-agenda-belum-diumumkan",
   "category": "Aksi Korporasi",
-  "title": "UCID Jadwalkan [RUPSLB] 14 Oktober, Agenda Belum Diumumkan",
-  "deck": "Uni-Charm Indonesia mengumumkan rencana RUPSLB pada 14 Oktober 2026. Tenggat pengajuan usulan agenda oleh pemegang saham jatuh pada 15 September 2026.",
+  "title": "RUPSLB UCID [Mundur] ke 22 Desember, Agenda Belum Terbuka",
+  "deck": "Uni-Charm Indonesia menjadwalkan ulang RUPSLB dari 14 Oktober menjadi Selasa, 22 Desember 2026. Pemanggilan resmi berisi agenda terbit 30 November, tenggat usulan pemegang saham 23 November.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "7 September 2026",
   "isoDate": "2026-09-07T15:59:55",
@@ -105263,16 +105318,45 @@ var ARTICLES = [
    "UCID",
    "RUPSLB",
    "Uni-Charm Indonesia",
-   "aksi korporasi"
+   "Pasar Modal"
   ],
   "body": [
-   "PT Uni-Charm Indonesia Tbk (UCID) melalui corporate secretary Lusia A. Nainggolan mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 14 Oktober 2026, pukul 10.00 WIB. Rapat akan digelar secara elektronik melalui aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pengumuman ini tertuang dalam surat bernomor 298/COR-SEC/UCID/IX/2026 tertanggal 7 September 2026, tindak lanjut dari surat sebelumnya bernomor 277/COR-SEC/UCID/VIII/2026 pada Agustus. Mata acara atau agenda rapat belum diungkapkan dalam pengumuman ini, dan baru akan dirinci dalam Pemanggilan Rapat resmi yang dijadwalkan terbit di situs web Bursa Efek Indonesia, KSEI, dan situs UCID pada Selasa, 22 September 2026.",
-   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 21 September 2026, pukul 16.00 WIB. Pemegang saham juga diberi kesempatan mengusulkan mata acara tambahan, asalkan diajukan bersama-sama oleh pemegang saham yang mewakili sedikitnya 1/20 atau 5 persen dari total saham dengan hak suara sah. Usulan itu harus disampaikan tertulis kepada Direksi paling lambat Selasa, 15 September 2026 pukul 16.00 WIB, disertai alasan yang jelas, diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, memerlukan keputusan rapat, tidak melanggar aturan yang berlaku, dan menurut penilaian Direksi harus terkait langsung dengan kegiatan usaha perseroan.",
-   "Untuk mekanisme kehadiran, perseroan mendorong pemegang saham hadir secara elektronik dan memberikan suara lewat eASY.KSEI, atau memberikan kuasa kepada pihak independen yang ditunjuk yaitu PT Sinartama Gunita, baik secara tertulis dengan formulir yang bisa diunduh di situs unicharm.co.id maupun secara elektronik melalui fitur e-Proxy di aplikasi yang sama. Surat pemberitahuan kepada Otoritas Jasa Keuangan ditandatangani oleh Presiden Direktur Yasutaka Nishioka."
+   "PT Uni-Charm Indonesia Tbk (UCID) menjadwalkan ulang Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula direncanakan 14 Oktober 2026, menjadi Selasa, 22 Desember 2026 pukul 10.00 WIB. Pengumuman ini disampaikan corporate secretary Lusia A. Nainggolan lewat surat No. 534/COR-SEC/UCID/XI/2026 tertanggal 13 November 2026, merujuk surat sebelumnya No. 515/COR-SEC/UCID/XI/2026. Seperti rencana sebelumnya, agenda rapat belum diungkapkan dan baru akan dirinci dalam Pemanggilan Rapat resmi yang dijadwalkan terbit di situs web Bursa Efek Indonesia, KSEI, dan situs UCID pada Senin, 30 November 2026.",
+   "Rapat akan tetap digelar secara elektronik melalui aplikasi eASY.KSEI, dengan lokasi fisik di Sinar Mas Land Plaza Sudirman Lantai 42, Jl. Jenderal Sudirman Kav. 21, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Jumat, 27 November 2026 pukul 16.00 WIB, menggantikan batas pencatatan 21 September 2026 yang berlaku untuk rencana lama.",
+   "Kesempatan mengusulkan mata acara tambahan juga dibuka kembali. Pemegang saham yang bersama-sama mewakili sedikitnya 1/20 atau 5 persen dari total saham dengan hak suara sah dapat mengajukan usulan tertulis kepada Direksi paling lambat Senin, 23 November 2026 pukul 16.00 WIB. Syaratnya sama seperti sebelumnya: disertai alasan jelas dan materi usulan, diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, memerlukan keputusan rapat, tidak melanggar aturan yang berlaku, serta menurut penilaian Direksi harus terkait langsung dengan kegiatan usaha perseroan.",
+   "Mekanisme kehadiran juga tidak berubah. Perseroan mendorong pemegang saham hadir elektronik dan memberi suara lewat eASY.KSEI, atau memberi kuasa kepada pihak independen yang ditunjuk, yaitu PT Sinartama Gunita, baik secara tertulis dengan formulir yang bisa diunduh di unicharm.co.id maupun secara elektronik lewat fitur e-Proxy di aplikasi yang sama."
   ],
   "fotoAdegan": "Workers monitoring rolls of soft nonwoven fabric on an automated hygiene product production line inside an Indonesian factory",
-  "takeaway": "Pengumuman ini netral bagi kinerja UCID karena baru berisi jadwal dan tata cara rapat, bukan keputusan atau agenda yang punya dampak finansial langsung. Belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang bisa dinilai terpengaruh, sebab isi agenda RUPSLB itu sendiri, apakah menyangkut aksi korporasi seperti perubahan modal, pembagian dividen, atau pergantian direksi, baru akan diketahui lewat Pemanggilan Rapat resmi. Yang perlu dipantau pembaca berikutnya adalah tenggat pengajuan usulan agenda oleh pemegang saham pada 15 September 2026 pukul 16.00 WIB, batas pencatatan pemegang saham berhak hadir pada 21 September 2026, terbitnya Pemanggilan Rapat berisi agenda lengkap pada 22 September 2026, dan pelaksanaan RUPSLB pada 14 Oktober 2026.",
-  "sentimen": "netral"
+  "takeaway": "Penjadwalan ulang ini netral bagi UCID karena isinya masih administratif, yaitu tanggal dan tata cara rapat, belum keputusan yang berdampak langsung ke keuangan perseroan. Belum ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang bisa dinilai terpengaruh, sebab agenda RUPSLB itu sendiri, baik itu aksi korporasi atas modal, dividen, atau pergantian direksi, masih dirahasiakan sampai Pemanggilan Rapat terbit. Satu hal yang patut dicatat pembaca: rencana RUPSLB ini sudah bergeser dari target awal 14 Oktober ke 22 Desember 2026, sehingga ketepatan pelaksanaan jadwal baru ini layak dipantau. Yang perlu ditunggu berikutnya adalah tenggat usulan agenda pemegang saham pada 23 November 2026, batas pencatatan pemegang saham berhak hadir pada 27 November 2026, terbitnya Pemanggilan Rapat berisi agenda lengkap pada 30 November 2026, dan pelaksanaan RUPSLB pada 22 Desember 2026.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T08:26:06",
+    "ringkas": "UCID menjadwalkan ulang RUPSLB dari 14 Oktober menjadi 22 Desember 2026, dengan DPS baru 27 November.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/41f58fa37a_95f20af906.pdf",
+    "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-13T08:26:06",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Tenggat usulan mata acara tambahan oleh pemegang saham"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pemanggilan Rapat resmi memuat agenda lengkap"
+   },
+   {
+    "tanggal": "2026-12-22",
+    "acara": "Pelaksanaan RUPSLB UCID"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "obligasi-bslt-rp750-miliar-resmi-jatuh-tempo",

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "AtgNTuySIYQ",
+  "title": "Ekosistem Usaha Perikanan dari Nelayan ke Pasar di Ciwaru",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "KDMP Ciwaru di Sukabumi membangun ekosistem usaha perikanan yang menghubungkan nelayan, pengelolaan hasil tangkapan, hingga distribusinya ke pasar.",
+  "takeaway": "Model ekosistem usaha perikanan berbasis desa ini memberi gambaran konkret soal penguatan UMKM di sektor kelautan.",
+  "terbit": "2026-11-13T12:00:28+00:00"
+ },
+ {
   "id": "atQbc-E2nmk",
   "title": "Jensen Huang Lepas Saham Nvidia, Kini Kuasai 3,5 Persen",
   "category": "Pasar Modal",

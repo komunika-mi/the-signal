@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-batu-bara-dan-minyak-nabati-wajib-lewat-portal-dsi-2027",
+  "category": "Makroekonomi",
+  "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
+  "deck": "Pemerintah wajibkan ekspor batu bara, minyak nabati, dan ferroalloy lewat Portal DSI mulai 2027, seiring aturan baru devisa ekspor tambang dan data ekonomi kuartal III 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "DHE SDA",
+   "Portal DSI",
+   "ekspor tambang",
+   "IEU-CEPA"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7220/dorong-kepercayaan-dan-peningkatan-investasi-menko-airlangga-optimistis-prospek-ekonomi-2027-tetap-kuat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "harga-patokan-ekspor-emas-turun-2-02-persen-di-november-2026",
+  "category": "Industri",
+  "title": "Harga Patokan Ekspor Emas [Turun] 2,02 Persen di November 2026",
+  "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas periode 15-30 November 2026, turun 2,02 persen akibat investor global beralih dari emas ke instrumen lain.",
+  "date": "13 November 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "emas",
+   "HPE",
+   "bea keluar",
+   "Kemendag"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-periode-ii-november-2026-masih-tunjukkan-perlemahan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "doid-9m26-rugi-susut-ke-us-43-juta-pendapatan-turun-18",
   "category": "Aksi Korporasi",
   "title": "DOID 9M26: [Rugi] Susut ke US$43 Juta, Pendapatan Turun 18%",
@@ -19,6 +51,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea558d37fb_787263f1dd.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "astra-sabet-dua-penghargaan-esg-asia-2026",
+  "category": "Bisnis",
+  "title": "Astra Sabet Dua [Penghargaan] ESG Asia 2026",
+  "deck": "Astra meraih Gold Winner dan Bronze Winner di Asia ESG Positive Impact Awards 2026 lewat program Desa Sejahtera Astra dan Astra Green Energy.",
+  "date": "13 November 2026",
+  "image": "assets/img/astra-sabet-dua-penghargaan-esg-asia-2026.jpg",
+  "imageV": "mwf0273d",
+  "tags": [
+   "astra",
+   "desa sejahtera astra",
+   "esg",
+   "astra green energy"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478194-astra-raih-dua-penghargaan-asia-esg-positive-impact-awards"
  },
  {
   "slug": "jatuh-tempo-obligasi-fifa-16-november-rp250-78-miliar-delisting",
@@ -456,7 +505,7 @@ var ARTICLES = [
   "title": "Ekspor Sawit Naik [16%] ke US$28,84 Miliar hingga Oktober",
   "deck": "Ekspor sawit Indonesia tembus US$28,84 miliar pada Januari-Oktober 2026, naik 16 persen, sementara kebijakan biodiesel B50 menyerap lebih banyak pasokan domestik.",
   "date": "13 November 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "kelapa sawit",
    "ekspor CPO",
@@ -1598,7 +1647,7 @@ var ARTICLES = [
   "title": "Batam Tumbuh 7,28 Persen, Pemerintah Awasi [Impor Ilegal]",
   "deck": "Ekonomi dan investasi Batam melesat, tapi pemerintah pusat menyoroti praktik underinvoicing dan impor barang bekas ilegal yang dinilai bisa mengganggu iklim usaha di kawasan ini.",
   "date": "11 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "Batam",
    "Investasi",
@@ -1923,7 +1972,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
   "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
   "date": "11 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "PPh 21 DTP",
    "ritel",
@@ -2966,7 +3015,7 @@ var ARTICLES = [
   "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
   "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
   "date": "10 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "BKPM",
    "Desk Investasi",
@@ -3514,7 +3563,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -4061,7 +4110,7 @@ var ARTICLES = [
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
   "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
   "date": "9 November 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ekspor",
    "Dua Kelinci",
@@ -5237,7 +5286,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -6446,53 +6495,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/476952-cadangan-devisa-indonesia-oktober-2026-tembus-us1468-miliar-bi-ungkap-faktor-penopang-rupiah"
- },
- {
-  "slug": "tmpo-hak-suara-jaya-raya-utama-melonjak-ke-28-42-dividen",
-  "category": "Aksi Korporasi",
-  "title": "TMPO: Hak Suara Jaya Raya Utama Melonjak ke 28,42% [dividen]",
-  "deck": "Jaya Raya Utama menerima 128,48 juta saham TMPO lewat dividen interim non tunai, mendorong hak suaranya dari 16,28% menjadi 28,42%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMPO",
-   "Tempo Inti Media",
-   "dividen saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8418-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "omed-direksi-tambah-50-000-saham-senilai-rp8-9-juta",
-  "category": "Aksi Korporasi",
-  "title": "OMED: Direksi [Tambah] 50.000 Saham Senilai Rp8,9 Juta",
-  "deck": "Direksi Leonard Hariadi Hartanto membeli 50.000 saham OMED pada 3 November 2026, menambah kepemilikannya menjadi 6.880.200 lembar atau 0,0254% hak suara.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OMED",
-   "Jayamas Medica Industri",
-   "kepemilikan saham direksi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1671-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "realisasi-investasi-rp3-923-2-triliun-topang-pergeseran-kerja",
-  "category": "Makroekonomi",
-  "title": "Realisasi [Investasi] Rp3.923,2 Triliun Topang Pergeseran Kerja",
-  "deck": "Pemerintah mencatat investasi dua tahun terakhir tembus Rp3.923,2 triliun dan menyerap 5,49 juta pekerja, di tengah pergeseran pola kerja akibat transformasi ekonomi.",
-  "date": "6 November 2026",
-  "image": "assets/img/bendungan.jpg",
-  "tags": [
-   "transformasi ekonomi",
-   "investasi",
-   "tenaga kerja",
-   "indeks industri"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7203/transformasi-struktur-ekonomi-buka-peluang-baru-pemerintah-perkuat-investasi-dan-kesiapan-tenaga-kerja",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

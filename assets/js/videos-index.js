@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "AtgNTuySIYQ",
+  "title": "Ekosistem Usaha Perikanan dari Nelayan ke Pasar di Ciwaru",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "KDMP Ciwaru di Sukabumi membangun ekosistem usaha perikanan yang menghubungkan nelayan, pengelolaan hasil tangkapan, hingga distribusinya ke pasar.",
+  "takeaway": "Model ekosistem usaha perikanan berbasis desa ini memberi gambaran konkret soal penguatan UMKM di sektor kelautan."
+ },
+ {
   "id": "atQbc-E2nmk",
   "title": "Jensen Huang Lepas Saham Nvidia, Kini Kuasai 3,5 Persen",
   "category": "Pasar Modal",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Khusus",
   "summary": "Dalam Rapimnas Kadin Indonesia, Menteri Keuangan memaparkan proyeksi ekonomi nasional jangka panjang, termasuk target pertumbuhan 6 persen dan investasi 7 persen pada 2027.",
   "takeaway": "Pernyataan resmi ini memberi gambaran arah kebijakan fiskal dan investasi pemerintah ke depan."
- },
- {
-  "id": "vLq4Oe5ktQk",
-  "title": "Industri Indonesia Melaju, Lampaui Pertumbuhan Ekonomi Nasional",
-  "category": "Industri",
-  "program": "Kabar Khusus",
-  "summary": "Rapimnas Kadin menjadi forum konsolidasi antara pemerintah dan dunia usaha, dengan sektor industri tercatat tumbuh lebih tinggi dibandingkan pertumbuhan ekonomi nasional.",
-  "takeaway": "Data pertumbuhan industri yang melampaui ekonomi nasional menjadi indikator arah kebijakan sektor usaha ke depan."
  }
 ];

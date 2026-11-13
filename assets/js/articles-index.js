@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB OLIV 7 Desember: [Rombak] Direksi dan Komisaris",
+  "deck": "RUPSLB OLIV digelar 7 Desember 2026 untuk mengganti seluruh jajaran Direksi dan Dewan Komisaris dengan enam calon pengurus baru.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OLIV",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/65cb4f3358_a56d140418.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak [Dihapus] 100 Persen, Tenggat 31 Desember 2026",
@@ -214,6 +230,22 @@ var ARTICLES = [
    "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ccb8b5848_a3d9930dc8.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rups-independen-gtra-7-desember-private-placement-189-4-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "RUPS Independen GTRA 7 Desember: [Private Placement] 189,4 Juta Saham",
+  "deck": "GTRA memanggil RUPS Independen 7 Desember 2026 untuk meminta persetujuan private placement hingga 189,4 juta saham baru, maksimal 10 persen modal disetor.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTRA",
+   "RUPS Independen",
+   "private placement",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/59aeeb6ed0_20034db336.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6451,38 +6483,6 @@ var ARTICLES = [
    "VCG"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1042613f4_e8ce916a9c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "port-jadwalkan-pembayaran-dividen-interim-rp35-6-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "PORT Jadwalkan Pembayaran [Dividen] Interim Rp35,6 per Saham",
-  "deck": "PORT menjadwalkan dividen interim tunai Rp100,25 miliar atau Rp35,6 per saham, dengan recording date 18 November dan pembayaran 3 Desember 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PORT",
-   "dividen interim",
-   "pelabuhan",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c160b4f28d_920009977f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koka-pastikan-tak-ada-informasi-material-di-balik-volatilitas-saham",
-  "category": "Aksi Korporasi",
-  "title": "KOKA Pastikan Tak Ada Informasi Material di Balik [Volatilitas] Saham",
-  "deck": "Merespons permintaan penjelasan Bursa Efek Indonesia, manajemen KOKA menyatakan tidak ada fakta material maupun rencana korporasi yang memicu pergerakan harga sahamnya.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOKA",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34d9d14204_7061310335.pdf",
   "sourceLabel": "IDX"
  }
 ];

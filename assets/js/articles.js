@@ -3,6 +3,48 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB OLIV 7 Desember: [Rombak] Direksi dan Komisaris",
+  "deck": "RUPSLB OLIV digelar 7 Desember 2026 untuk mengganti seluruh jajaran Direksi dan Dewan Komisaris dengan enam calon pengurus baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T14:12:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/65cb4f3358_a56d140418.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OLIV",
+  "tags": [
+   "OLIV",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "PT Atlas Nexus Group Tbk (OLIV) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 7 Desember 2026, pukul 14.00 WIB, di Landmark Pluit Office Tower, Tower E7 Unit 7-C, Jakarta Utara. Rapat juga bisa diikuti secara elektronik melalui sistem eASY.KSEI. Agenda tunggalnya adalah perubahan susunan Direksi dan Dewan Komisaris Perseroan, dengan dasar Pasal 9 ayat 4 huruf e Anggaran Dasar Perseroan dan Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik.",
+   "Dokumen pemanggilan mencantumkan calon pengurus baru. Untuk Direksi: Jayden Lee sebagai calon Direktur Utama, Wang Xiaoxuan dan Sri Rahayu sebagai calon Direktur. Untuk Dewan Komisaris: Yan Xiamei sebagai calon Komisaris Utama, Qiu Shaohua sebagai calon Komisaris, dan Roni sebagai calon Komisaris Independen. Riwayat hidup yang disertakan menunjukkan Wang Xiaoxuan dan Qiu Shaohua saat ini masih menjabat Direktur dan Komisaris di PT Olive Power Invest, sementara Yan Xiamei menjabat Direktur di PT Jieyun Investasi Energi Baru Indonesia. Nama lain membawa latar belakang di sektor keuangan Hong Kong (Jayden Lee, bekas CEO Phoenix Capital Hong Kong), travel (Sri Rahayu, Qiu Shaohua), dan pertambangan (Roni, pernah di PT Blue Birds Investment dan sejumlah perusahaan alat berat).",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Saham per Kamis, 12 November 2026 pukul 16.00 WIB (recording date). Bagi yang tidak bisa hadir fisik, surat kuasa harus diserahkan ke PT Bima Registra selaku Biro Administrasi Efek paling lambat Jumat, 4 Desember 2026 pukul 16.00 WIB. Perseroan tidak mengirim undangan terpisah, sehingga pemanggilan ini berlaku sebagai undangan resmi bagi seluruh pemegang saham."
+  ],
+  "fotoAdegan": "Rows of chairs arranged in a modern office conference hall before a shareholders meeting, Jakarta high-rise interior, soft morning light.",
+  "takeaway": "Laporan ini netral bagi emiten karena baru berupa pemanggilan rapat, bukan hasil akhir, sehingga belum ada kepastian apakah seluruh calon direksi dan komisaris baru ini akan disetujui pemegang saham. Yang tersentuh di sini adalah tata kelola perusahaan, bukan angka keuangan seperti ekuitas atau laba per saham, tetapi pergantian hampir seluruh jajaran pengurus tetap penting dipantau karena bisa mengubah arah strategi dan cara perusahaan dikelola ke depan, apalagi beberapa calon membawa latar belakang di perusahaan lain yang berbeda sektor. Yang perlu dipantau berikutnya adalah batas akhir penyerahan surat kuasa pada 4 Desember 2026 pukul 16.00 WIB dan hasil voting RUPSLB pada 7 Desember 2026, yang akan menentukan apakah susunan Direksi dan Komisaris baru ini benar-benar disahkan.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Recording date, batas pencatatan pemegang saham berhak hadir"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas akhir penyerahan surat kuasa ke BAE pukul 16.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPSLB membahas perubahan susunan Direksi dan Komisaris"
+   }
+  ]
+ },
+ {
   "slug": "sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026",
   "category": "Makroekonomi",
   "title": "Sanksi Pajak [Dihapus] 100 Persen, Tenggat 31 Desember 2026",
@@ -417,6 +459,48 @@ var ARTICLES = [
   "takeaway": "Laporan ini negatif bagi TOPS, karena perseroan resmi dinyatakan pailit oleh pengadilan dan secara terbuka mengakui ada keraguan besar atas kemampuannya melanjutkan usaha, sementara total utang yang memicu putusan ini saja belum bisa dipastikan nilainya. Status pailit berarti pengelolaan aset perseroan beralih ke tim kurator, dan kelangsungan usaha, yakni kemampuan perusahaan tetap beroperasi sebagai bisnis yang berjalan, kini diragukan sendiri oleh manajemennya. Ini penting bagi pemegang saham karena dalam proses kepailitan kreditur dibayar lebih dulu dari hasil penjualan aset, dan pemegang saham baru kebagian sisa kalau masih ada aset setelah semua utang lunas, yang dalam kasus pailit sering berarti tidak ada sisa sama sekali. Yang perlu dipantau berikutnya adalah hasil verifikasi tagihan oleh tim kurator yang akan menentukan besaran utang riil perseroan, serta langkah hukum lanjutan yang disebut masih dikaji TOPS bersama penasihat hukumnya, karena keduanya akan menentukan apakah status pailit ini berlanjut ke proses likuidasi aset.",
   "sentimen": "negatif",
   "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "rups-independen-gtra-7-desember-private-placement-189-4-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "RUPS Independen GTRA 7 Desember: [Private Placement] 189,4 Juta Saham",
+  "deck": "GTRA memanggil RUPS Independen 7 Desember 2026 untuk meminta persetujuan private placement hingga 189,4 juta saham baru, maksimal 10 persen modal disetor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T05:49:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/59aeeb6ed0_20034db336.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTRA",
+  "tags": [
+   "GTRA",
+   "RUPS Independen",
+   "private placement",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Grahaprima Suksesmandiri Tbk (GTRA) memanggil Rapat Umum Pemegang Saham Independen pada Senin, 7 Desember 2026, pukul 10.00 WIB di Sotis Hotel Pejompongan, Jalan Penjernihan I No. 10B, Bendungan Hilir, Jakarta Pusat. Satu-satunya agenda rapat adalah persetujuan atas penambahan modal tanpa hak memesan efek terlebih dahulu, atau private placement, melalui penerbitan saham baru sebanyak-banyaknya 189.437.500 lembar dengan nilai nominal Rp100 per saham. Jumlah itu setara maksimum 10 persen dari total modal disetor dan ditempatkan perseroan saat ini.",
+   "Karena transaksi ini termasuk kategori yang diatur Pasal 8A ayat (2) POJK 14/2019, kuorum kehadiran dan pengambilan suara hanya dihitung dari pemegang saham independen, yaitu pihak yang tidak memiliki kepentingan ekonomis pribadi atas transaksi ini dan bukan anggota direksi, komisaris, pemegang saham utama, pengendali, atau pihak terafiliasi dari mereka. Pemegang saham yang berhak hadir adalah yang namanya tercatat pada penutupan perdagangan saham di Bursa Efek Indonesia Kamis, 12 November 2026, pukul 16.00 WIB. Jika persetujuan diperoleh dan penambahan modal benar-benar dilaksanakan, Pasal 4 ayat (2) Anggaran Dasar perseroan tentang modal ditempatkan dan disetor akan diubah mengikuti realisasinya, dan direksi serta dewan komisaris diberi kuasa untuk mengurus pelaksanaan teknisnya.",
+   "Bagi pemegang saham yang tidak hadir fisik, kuasa dapat diberikan melalui PT Adimitra Jasa Korpora selaku biro administrasi efek, paling lambat Jumat, 4 Desember 2026, sebelum pukul 16.00 WIB, atau secara elektronik lewat eASY.KSEI paling lambat pukul 12.00 WIB di hari yang sama. Surat panggilan ini merujuk pada pengumuman awal rencana RUPS Independen bernomor 431/GT-CORSEC/X/2026 tertanggal 29 Oktober 2026, dan ditandatangani oleh Presiden Direktur GTRA, Ronny Senjaya, pada 13 November 2026."
+  ],
+  "fotoAdegan": "A fleet of commuter buses parked in neat rows at a transport depot, workers inspecting tires, early morning light",
+  "takeaway": "Laporan ini saya nilai netral: belum ada harga pelaksanaan saham baru maupun identitas pihak yang akan menyerapnya, sehingga dampaknya masih bergantung pada detail yang belum diungkap. Yang tersentuh adalah jumlah saham beredar dan ekuitas perusahaan, menambah saham baru hingga 10 persen berarti setiap saham lama akan mewakili porsi kepemilikan dan laba per saham yang lebih kecil dibanding sebelumnya, sementara modal disetor perseroan membesar. Satu hal yang perlu dicatat, keputusan ini sengaja hanya dihitung dari suara pemegang saham independen, bukan direksi, komisaris, atau pemegang saham utama, karena aturan OJK mewajibkan pola kuorum semacam ini untuk private placement yang berpotensi melibatkan pihak terafiliasi. Yang perlu dipantau berikutnya adalah hasil RUPS Independen pada 7 Desember 2026, serta pengumuman lanjutan soal harga pelaksanaan dan calon pemegang saham baru yang belum termuat dalam dokumen ini.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Independen",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Recording date pemegang saham berhak hadir RUPS Independen"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas akhir penyerahan kuasa fisik atau e-Proxy sebelum RUPS"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPS Independen GTRA di Sotis Hotel Pejompongan, Jakarta"
+   }
+  ]
  },
  {
   "slug": "ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026",

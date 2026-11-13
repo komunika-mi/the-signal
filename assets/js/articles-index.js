@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "doid-9m26-rugi-susut-ke-us-43-juta-pendapatan-turun-18",
+  "category": "Aksi Korporasi",
+  "title": "DOID 9M26: [Rugi] Susut ke US$43 Juta, Pendapatan Turun 18%",
+  "deck": "Pendapatan DOID turun 18% secara tahunan jadi US$929 juta pada 9M26, namun rugi bersih menyusut 47% menjadi US$43 juta berkat dividen one-off US$40 juta dari Asiamet.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DOID",
+   "BUMA International Group",
+   "batu bara",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea558d37fb_787263f1dd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-fifa-16-november-rp250-78-miliar-delisting",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi FIFA 16 November: Rp250,78 Miliar [Delisting]",
+  "deck": "Obligasi Berkelanjutan VI FIFA Seri B senilai Rp250,78 miliar jatuh tempo 16 November 2026 dan resmi berhenti diperdagangkan di BEI.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/455f921d4a_36b66923c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sanf-hamdani-dzulkarnaen-efektif-jadi-presiden-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SANF: Hamdani Dzulkarnaen Efektif Jadi [Presiden Komisaris]",
+  "deck": "SANF menyatakan pengangkatan Hamdani Dzulkarnaen S. sebagai Presiden Komisaris resmi efektif setelah lulus fit and proper test OJK, sementara dua pengurus lain masih menunggu tes serupa.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SANF",
+   "Perubahan Pengurus",
+   "Fit and Proper Test",
+   "Astra Financial"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b81d39e781_5634b9f74b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnii-bayar-rp1-27-miliar-ke-afiliasi-untuk-keamanan-siber-regional",
+  "category": "Aksi Korporasi",
+  "title": "BNII Bayar Rp1,27 Miliar ke Afiliasi untuk [Keamanan Siber] Regional",
+  "deck": "Bank Maybank Indonesia (BNII) membayar Rp1,27 miliar ke afiliasinya di Malaysia untuk biaya layanan keamanan siber regional periode Mei-Agustus 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNII",
+   "transaksi afiliasi",
+   "Maybank Indonesia",
+   "keamanan siber"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e6da0d4a0c_5f9baec8e7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-hajj-target-laba-bersih-rp15-miliar-di-2026",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose HAJJ: [Target] Laba Bersih Rp15 Miliar di 2026",
+  "deck": "Materi public expose tahunan HAJJ memuat target pendapatan Rp950 miliar dan laba bersih Rp15 miliar di 2026, meski kinerja sembilan bulan pertama justru melambat.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HAJJ",
+   "Public Expose",
+   "Umrah dan Haji",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93b09b99b8_bab37e1f4a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal",
   "category": "Energi",
   "title": "Pupuk Indonesia Bidik Batam Jadi Pusat Bahan Bakar [Amonia] Kapal",
@@ -93,6 +173,22 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "paparan-publik-hmsp-18-november-laba-bersih-naik-44-4-jadi-rp6-5-t",
+  "category": "Aksi Korporasi",
+  "title": "Paparan Publik HMSP 18 November: [Laba Bersih] Naik 44,4% Jadi Rp6,5 T",
+  "deck": "HM Sampoerna memaparkan kinerja Januari-September 2026 di Paparan Publik Tahunan Surabaya, 18 November: laba bersih Rp6,5 triliun, naik 44,4 persen.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HMSP",
+   "Sampoerna",
+   "Paparan Publik",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70fcebb9d3_7793cef2e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mandiri-gelar-lelang-properti-sampai-akhir-2026",
   "category": "Perbankan",
   "title": "Mandiri Gelar [Lelang] Properti Sampai Akhir 2026",
@@ -108,6 +204,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478191-bank-mandiri-hadirkan-beragam-aset-properti-melalui-mandiri-lelang-2026"
+ },
+ {
+  "slug": "rupslb-tama-7-desember-divestasi-aset-rp84-2-miliar-diajukan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TAMA 7 Desember: [Divestasi Aset] Rp84,2 Miliar Diajukan",
+  "deck": "RUPSLB TAMA pada 7 Desember 2026 akan membahas rencana divestasi aset senilai Rp84,2 miliar, perubahan direksi-komisaris, dan ekspansi usaha ke bisnis internet.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMA",
+   "RUPSLB",
+   "divestasi aset",
+   "ISP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/92e51fe067_ea33aa6fa7.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "telkom-raih-gold-winner-asia-esg-positive-impact-award-2026",
@@ -194,15 +306,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB WOMF Batal Digelar, Agenda [Perubahan] Direksi Tertunda",
-  "deck": "WOMF membatalkan RUPSLB yang sebelumnya ditunda dari 19 Juni 2026, agenda perubahan susunan direksi urung dibahas tanpa jadwal pengganti.",
+  "title": "RUPSLB WOMF Baru Dijadwalkan 22 Desember, [Pemanggilan] 30 Nov",
+  "deck": "WOMF menjadwalkan RUPSLB baru pada 22 Desember 2026, setelah rapat sebelumnya batal total. Pemanggilan resmi 30 November, recording date pemegang saham 27 November.",
   "date": "13 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "WOMF",
    "RUPSLB",
-   "Direksi",
-   "Corporate Governance"
+   "tata kelola",
+   "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24cb3f298_029d47443d.pdf",
   "sourceLabel": "IDX"
@@ -386,6 +498,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478124-infranexia-tambah-1408-km-jaringan-fiber-optik-pada-2026-siapkan-ai-ready-infrastructure"
+ },
+ {
+  "slug": "pmthmetd-gtra-dana-cair-semester-i-2027-rups-7-desember",
+  "category": "Aksi Korporasi",
+  "title": "PMTHMETD GTRA: [Dana Cair] Semester I 2027, RUPS 7 Desember",
+  "deck": "GTRA menjawab permintaan BEI soal private placement: dana ditargetkan cair semester I 2027, RUPS Independen digelar 7 Desember 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTRA",
+   "PMTHMETD",
+   "Private Placement",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ce87d8d8da_55cf7f49e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "true-keluar-dari-pemantauan-khusus-bei-efektif-16-november",
+  "category": "Aksi Korporasi",
+  "title": "TRUE [Keluar] dari Pemantauan Khusus BEI, Efektif 16 November",
+  "deck": "BEI mencabut saham PT Triniti Dinamik Tbk (TRUE) dari papan pemantauan khusus mulai 16 November 2026, setelah kriteria soal pendapatan tidak lagi terpenuhi.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "pemantauan khusus",
+   "BEI",
+   "papan pencatatan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c890e8caa_997b17d859.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupslb-gula-7-desember-agenda-ubah-susunan-direksi-komisaris",
@@ -6257,8 +6401,8 @@ var ARTICLES = [
  {
   "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
   "category": "Aksi Korporasi",
-  "title": "PRDA Sisa Dana [Buyback] Saham Tinggal Rp46 Miliar",
-  "deck": "Prodia Widyahusada melaporkan hasil pembelian kembali saham sejak 20 Agustus hingga 6 November 2026, dengan sisa dana buyback tinggal Rp46,02 miliar.",
+  "title": "Buyback PRDA 13 November: Sisa Dana [Menyusut] ke Rp39,06 Miliar",
+  "deck": "Prodia Widyahusada melaporkan sisa dana buyback saham turun lagi menjadi Rp39,06 miliar per 13 November 2026, setelah membeli kembali saham tambahan sejak laporan 6 November.",
   "date": "6 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
@@ -6350,151 +6494,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7203/transformasi-struktur-ekonomi-buka-peluang-baru-pemerintah-perkuat-investasi-dan-kesiapan-tenaga-kerja",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus",
-  "category": "Energi",
-  "title": "ESDM Serahkan [137] Hektare Lahan Tambang ke Kopassus",
-  "deck": "Kementerian ESDM mengalihkan status 137,1 hektare lahan eks tambang batu bara di Kutai Kartanegara kepada Kemhan untuk mendukung operasional Kopassus.",
-  "date": "6 November 2026",
-  "image": "assets/img/esdm-serahkan-137-hektare-lahan-tambang-ke-kopassus.jpg",
-  "imageV": "mw4secuj",
-  "tags": [
-   "ESDM",
-   "Kopassus",
-   "Kementerian Pertahanan",
-   "lahan tambang"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-serahkan-137-hektare-lahan-eks-tambang-kepada-kemhan-untuk-dukung-kopassus",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "medc-terbitkan-obligasi-us-300-juta-jatuh-tempo-2032",
-  "category": "Aksi Korporasi",
-  "title": "MEDC Terbitkan [Obligasi] US$300 Juta Jatuh Tempo 2032",
-  "deck": "Anak usaha MEDC, Medco Redwood Tree Limited, menerbitkan obligasi US$300 juta berkupon 8,875 persen, jatuh tempo 2032, untuk melunasi utang lama.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "obligasi",
-   "refinancing",
-   "Medco Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e835801307_919e7a3795.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "impc-tunggal-jaya-tambah-saham-hak-suara-ke-38-89",
-  "category": "Aksi Korporasi",
-  "title": "IMPC: Tunggal Jaya Tambah [Saham], Hak Suara ke 38,89%",
-  "deck": "Tunggal Jaya Investama membeli 27,69 juta saham IMPC pada 2-5 November 2026, menaikkan hak suaranya dari 38,84% menjadi 38,89%.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IMPC",
-   "kepemilikan saham",
-   "Tunggal Jaya Investama",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-7622-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-panggil-rupslb-agendakan-perombakan-direksi-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "LABA panggil RUPSLB, agendakan [perombakan] direksi dan komisaris",
-  "deck": "RUPSLB akan digelar 30 November 2026 untuk membahas pergantian susunan direksi dan dewan komisaris Green Power Group, dengan pemegang saham per 5 November 2026 berhak hadir.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LABA",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9145a88c72_715df8bcd0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-294-400-lembar",
-  "category": "Aksi Korporasi",
-  "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 294.400 lembar",
-  "deck": "Direksi Bank Multiarta Sentosa (MASB), Fely Retnowati, membeli 7.200 lembar saham pada 5 November 2026, menambah kepemilikannya menjadi 294.400 lembar namun hak suaranya tetap 0,02 persen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MASB",
-   "Direksi",
-   "kepemilikan saham",
-   "Bank Multiarta Sentosa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-9369-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "roti-tarik-514-juta-saham-treasuri-via-pengurangan-modal",
-  "category": "Aksi Korporasi",
-  "title": "ROTI Tarik 514 Juta Saham Treasuri via [Pengurangan Modal]",
-  "deck": "ROTI berencana menarik 514.213.400 saham treasuri (8,31% dari modal) lewat pengurangan modal, keputusan dimintakan di RUPSLB 15 Desember 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROTI",
-   "pengurangan modal",
-   "saham treasuri",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8c93c47851_6c49693924.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amor-bagikan-dividen-tunai-rp23-saham-total-rp50-46-miliar",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Bagikan [Dividen] Tunai Rp23/Saham, Total Rp50,46 Miliar",
-  "deck": "RUPST AMOR menyetujui dividen tunai Rp23 per saham untuk tahun buku berakhir Juni 2026, total Rp50,46 miliar, cair 24 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "dividen tunai",
-   "Ashmore Asset Management",
-   "RUPST"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2964fb570a_1b8636a313.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mgna-satu-grup-dengan-bhuwanatala-indah-permai-rangkap-jabatan",
-  "category": "Aksi Korporasi",
-  "title": "MGNA Satu Grup dengan Bhuwanatala Indah Permai [Rangkap Jabatan]",
-  "deck": "MGNA menyatakan masuk kriteria satu grup perusahaan dengan PT Bhuwanatala Indah Permai Tbk karena ada direksi, komisaris, atau pejabat eksekutif yang merangkap jabatan di kedua emiten.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGNA",
-   "Bhuwanatala Indah Permai",
-   "keterbukaan informasi",
-   "rangkap jabatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fdad6923dd_1aaea41195.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ipcc-laba-bersih-turun-6-9-meski-masih-bebas-utang",
-  "category": "Aksi Korporasi",
-  "title": "IPCC: Laba Bersih [Turun] 6,9% Meski Masih Bebas Utang",
-  "deck": "Dalam Public Expose Tahunan, IPCC melaporkan pendapatan dan laba bersih kuartal III 2026 turun dibanding tahun lalu, sementara perusahaan tetap tidak memiliki utang bank maupun obligasi.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCC",
-   "public expose",
-   "kinerja keuangan",
-   "terminal kendaraan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/17bdb956c4_28aacb74b1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

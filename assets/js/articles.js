@@ -3,6 +3,170 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "doid-9m26-rugi-susut-ke-us-43-juta-pendapatan-turun-18",
+  "category": "Aksi Korporasi",
+  "title": "DOID 9M26: [Rugi] Susut ke US$43 Juta, Pendapatan Turun 18%",
+  "deck": "Pendapatan DOID turun 18% secara tahunan jadi US$929 juta pada 9M26, namun rugi bersih menyusut 47% menjadi US$43 juta berkat dividen one-off US$40 juta dari Asiamet.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T19:25:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea558d37fb_787263f1dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOID",
+  "tags": [
+   "DOID",
+   "BUMA International Group",
+   "batu bara",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "BUMA International Group (DOID) mencatat pendapatan US$929 juta pada sembilan bulan pertama 2026 (9M26), turun 18% dibanding periode yang sama tahun sebelumnya. Pendapatan dari jasa kontraktor pertambangan turun 17%, meski sebagian tertahan oleh kenaikan harga jual rata-rata batu bara sebesar 10%. EBITDA, yakni laba usaha sebelum bunga, pajak, depresiasi, dan amortisasi, turun 23% menjadi US$97 juta. Volume pengupasan lapisan tanah penutup (overburden removal) turun 25% menjadi 253 juta BCM dan produksi batu bara turun 28% menjadi 43 juta ton, seiring berakhirnya sejumlah kontrak sesuai rencana di tambang Binungan milik Berau Coal dan Insani Bara Perkasa milik Resource Alam Indonesia di Indonesia, serta tambang Burton milik Bowen Coking Coal dan Meandu milik Stanwell di Australia.",
+   "Kinerja kuartal ketiga (3Q26) tertekan oleh gangguan di salah satu lokasi operasional klien utama di Indonesia, yang membuat klien tersebut menyatakan force majeure atau kondisi kahar, sehingga BUMA menghentikan sementara kegiatan di lokasi itu. Padahal kuartal ketiga biasanya menjadi periode terkuat perusahaan karena cuaca mendukung produksi tinggi. BUMA kembali beroperasi di lokasi tersebut sejak Oktober, dengan target peningkatan aktivitas secara penuh pada November, dan kedua pihak sedang membahas normalisasi operasional pada 2027. Di luar gangguan itu, perusahaan mencatat perbaikan operasional pada kuartal tersebut: produktivitas naik 3% dibanding kuartal sebelumnya, jam kerja tidak produktif per unit alat turun 29%, dan waktu siklus di lokasi terbesarnya di Indonesia memendek 10%. Harga bahan bakar turun 15% dan biaya bahan bakar per BCM turun 14%, membantu mengimbangi kenaikan biaya tenaga kerja dan pemeliharaan akibat biaya tetap yang terbagi ke volume produksi yang lebih rendah.",
+   "Rugi bersih Grup menyusut 47% menjadi US$43 juta, ditopang dividen US$40 juta dari Asiamet yang diterima setelah penjualan Indokal Limited, pemilik 100% Proyek KSK. Dividen itu setara 1,7 kali total investasi kumulatif perusahaan di proyek tersebut sebesar US$23,3 juta dan turut memperkuat likuiditas Grup. Arus kas bebas membaik menjadi positif US$44 juta pada 9M26, dari sebelumnya negatif US$49 juta pada periode yang sama tahun lalu, didukung belanja modal yang turun 59% menjadi US$61 juta. Di Australia, tambang Blackwater dan Goonyella membukukan kenaikan volume pengupasan tanah 12% menjadi 51 juta BCM, sementara produksi batu bara di tambang Tutupan Selatan di Indonesia mencapai level kuartalan tertinggi sejak kuartal pertama 2023. Direktur BUMA International Group, Silfanny Bahar, mengatakan prioritas perusahaan adalah menjaga kelangsungan operasional dan mengelola kewajiban keuangan sembari memperkuat kapabilitas dan struktur biaya jangka panjang."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving overburden at a dusty open-pit coal mine, early morning light, distant hills",
+  "takeaway": "Laporan ini condong negatif bagi fundamental DOID, karena pendapatan dan EBITDA perusahaan masih turun dua digit secara tahunan, dan perbaikan rugi bersih sebagian besar ditopang dividen satu kali sebesar US$40 juta dari penjualan aset Asiamet, bukan dari perbaikan operasi inti. Pos yang tersentuh adalah EBITDA, ukuran laba usaha sebelum beban bunga, pajak, dan penyusutan yang biasa dipakai untuk menilai profitabilitas murni dari kegiatan operasional, serta arus kas bebas, yaitu uang tunai yang tersisa setelah belanja modal, yang justru berbalik positif US$44 juta berkat disiplin belanja modal dan hasil pelepasan aset. Ketergantungan pada satu lokasi klien yang sempat terhenti akibat force majeure, yakni kondisi di luar kendali yang membuat kontrak berhenti sementara, juga menunjukkan risiko konsentrasi klien yang perlu dicermati investor. Yang perlu dipantau berikutnya adalah proses peningkatan aktivitas secara penuh di lokasi klien tersebut pada November 2026 dan hasil pembahasan normalisasi operasional dengan klien itu yang ditargetkan berlangsung pada 2027, karena itu akan menentukan apakah pendapatan Grup bisa kembali ke level sebelum gangguan.",
+  "sentimen": "negatif",
+  "judulIdx": "BUMA International Group Pertahankan Perbaikan Operasional pada 9M26 Meski Faktor Eksternal di Luar Kendali Menekan Kinerja Kuartal Ketiga"
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-fifa-16-november-rp250-78-miliar-delisting",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi FIFA 16 November: Rp250,78 Miliar [Delisting]",
+  "deck": "Obligasi Berkelanjutan VI FIFA Seri B senilai Rp250,78 miliar jatuh tempo 16 November 2026 dan resmi berhenti diperdagangkan di BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T18:33:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/455f921d4a_36b66923c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIFA",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan VI Federal International Finance Dengan Tingkat Bunga Tetap Tahap II Tahun 2023 Seri B, dengan kode seri FIFA06BCN2, tidak lagi tercatat dan tidak dapat diperdagangkan di BEI mulai 16 November 2026. Obligasi seri ini memiliki nilai pokok Rp250.784.000.000 atau sekitar Rp250,78 miliar, diterbitkan 16 November 2023, dan jatuh tempo tepat tiga tahun kemudian pada 16 November 2026, sesuai jangka waktu 36 bulan yang ditetapkan sejak awal penerbitan.",
+   "Seri B ini membawa bunga tetap 6,75 persen per tahun, dibayarkan setiap tiga bulan, dengan pembayaran bunga terakhir sekaligus pelunasan pokok dilakukan penuh pada tanggal jatuh tempo itu (bullet payment), bukan dicicil. Obligasi ini merupakan bagian dari Penawaran Umum Berkelanjutan VI FIFA bertarget total Rp10 triliun, setelah Tahap I senilai Rp1 triliun terbit lebih dahulu. Obligasi tidak dijamin dengan aset khusus, melainkan dengan seluruh harta kekayaan FIFA baik yang sudah ada maupun yang akan ada, dan mendapat peringkat idAAA dari Pefindo, peringkat tertinggi untuk surat utang jangka panjang."
+  ],
+  "fotoAdegan": "Rows of new motorcycles lined up inside a busy dealership showroom, customers browsing, warm afternoon light",
+  "takeaway": "Laporan ini netral bagi FIFA, karena jatuh tempo obligasi hanyalah kelanjutan jadwal yang sudah ditetapkan sejak penerbitan tiga tahun lalu, bukan keputusan baru yang mengubah kondisi keuangan perusahaan saat ini. Yang tersentuh adalah arus kas dan beban utang perusahaan, karena FIFA harus menyiapkan dana Rp250,78 miliar sekaligus untuk melunasi pokok obligasi ditambah bunga terakhir, mengingat pembayarannya dilakukan penuh di satu waktu, bukan dicicil. Risiko gagal bayarnya tergolong rendah menurut penilaian lembaga pemeringkat Pefindo yang memberi peringkat tertinggi idAAA, dan obligasi ini juga dijamin dengan seluruh aset perusahaan. Yang perlu dipantau adalah apakah pelunasan benar terealisasi tepat waktu pada 16 November 2026, tanggal saat BEI menghentikan pencatatan dan perdagangan efek ini.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Jatuh Tempo Obligasi / Sukuk Korporasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Obligasi FIFA Seri B jatuh tempo dan delisting dari BEI"
+   }
+  ]
+ },
+ {
+  "slug": "sanf-hamdani-dzulkarnaen-efektif-jadi-presiden-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "SANF: Hamdani Dzulkarnaen Efektif Jadi [Presiden Komisaris]",
+  "deck": "SANF menyatakan pengangkatan Hamdani Dzulkarnaen S. sebagai Presiden Komisaris resmi efektif setelah lulus fit and proper test OJK, sementara dua pengurus lain masih menunggu tes serupa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T18:01:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b81d39e781_5634b9f74b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SANF",
+  "tags": [
+   "SANF",
+   "Perubahan Pengurus",
+   "Fit and Proper Test",
+   "Astra Financial"
+  ],
+  "body": [
+   "PT Surya Artha Nusantara Finance (SANF) melaporkan ke Bursa Efek Indonesia dan Otoritas Jasa Keuangan bahwa pengangkatan Hamdani Dzulkarnaen S. sebagai Presiden Komisaris sudah efektif. Keputusan ini mengikuti surat keputusan OJK Nomor KEP-223/PL.02/2026 tanggal 27 Oktober 2026 yang menyatakan Hamdani lulus uji kelayakan dan kepatutan (fit and proper test), syarat wajib sebelum jabatan pengurus lembaga jasa keuangan bisa berjalan penuh. Penegasan ini tertuang dalam Akta Pernyataan Keputusan Rapat Nomor 19 tanggal 4 November 2026 yang dibuat di hadapan Notaris Wiwik Condro, S.H.",
+   "Dengan penegasan itu, susunan direksi dan dewan komisaris SANF untuk periode sampai penutupan RUPST 2028 menjadi: Presiden Direktur Wempy Kunto Wiambodo, Direktur Maria Inawati Bernard, Direktur Eddy Kurnia, dan Direktur Kiyoshi Kuribara di jajaran direksi. Di jajaran komisaris, Hamdani Dzulkarnaen S. menjabat Presiden Komisaris, Takashi Araki sebagai Komisaris, serta Buntoro Muljono dan Handoko Pranoto sebagai Komisaris Independen.",
+   "Dokumen ini juga menyebutkan bahwa dua posisi belum benar-benar berjalan penuh. Eddy Kurnia diangkat sebagai Direktur sejak 1 September 2026, tetapi wewenangnya baru efektif setelah ia sendiri dinyatakan lulus fit and proper test oleh OJK. Status serupa berlaku untuk Takashi Araki sebagai Komisaris, yang jabatannya juga baru berlaku efektif setelah surat kelulusan tes itu terbit. Perusahaan melampirkan salinan akta notaris dan bukti penerimaan perubahan data perseroan dari Kementerian Hukum yang terbit 5 November 2026 sebagai pelengkap laporan ini."
+  ],
+  "fotoAdegan": "Customer service staff assisting clients at a vehicle financing company counter, motorbikes visible through the storefront glass",
+  "takeaway": "Laporan ini netral bagi SANF karena isinya administratif, sekadar menuntaskan syarat regulator atas susunan direksi dan komisaris yang sudah disetujui pemegang saham sejak RUPST Maret 2026, bukan perubahan arah bisnis atau angka keuangan. Yang tersentuh di sini adalah tata kelola perusahaan, bukan pos seperti ekuitas, arus kas, atau laba per saham, tapi pasar tetap memperhatikan siapa yang memimpin pengawasan karena SANF adalah perusahaan pembiayaan anggota Astra Financial yang kinerjanya bergantung pada kualitas kredit dan kebijakan risiko yang diawasi jajaran komisaris. Yang perlu dipantau berikutnya adalah penyelesaian fit and proper test untuk Eddy Kurnia dan Takashi Araki, karena jabatan direktur dan komisaris mereka baru benar-benar berlaku penuh sejak tanggal surat kelulusan tes itu diterbitkan OJK, dan sampai saat ini belum ada tanggal tersebut di laporan.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-03-16",
+    "acara": "Efektif pengangkatan direksi dan sebagian komisaris oleh RUPST 2026"
+   },
+   {
+    "tanggal": "2026-09-01",
+    "acara": "Tanggal pengangkatan Eddy Kurnia sebagai Direktur, menunggu lulus FPT"
+   },
+   {
+    "tanggal": "2026-10-27",
+    "acara": "OJK menerbitkan keputusan lulus fit and proper test Hamdani Dzulkarnaen S."
+   }
+  ]
+ },
+ {
+  "slug": "bnii-bayar-rp1-27-miliar-ke-afiliasi-untuk-keamanan-siber-regional",
+  "category": "Aksi Korporasi",
+  "title": "BNII Bayar Rp1,27 Miliar ke Afiliasi untuk [Keamanan Siber] Regional",
+  "deck": "Bank Maybank Indonesia (BNII) membayar Rp1,27 miliar ke afiliasinya di Malaysia untuk biaya layanan keamanan siber regional periode Mei-Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T18:01:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e6da0d4a0c_5f9baec8e7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNII",
+  "tags": [
+   "BNII",
+   "transaksi afiliasi",
+   "Maybank Indonesia",
+   "keamanan siber"
+  ],
+  "body": [
+   "PT Bank Maybank Indonesia Tbk (BNII) melaporkan transaksi afiliasi berupa pembayaran biaya terkait Regional Security Operation Center (RSOC) Splunk, sebuah layanan pemantauan keamanan siber, kepada Maybank Shared Services Sdn Bhd (MSS) pada 11 November 2026. Nilai transaksinya MYR286.624,85 atau setara Rp1.275.959.245,99, untuk mencakup biaya layanan periode Mei sampai Agustus 2026.",
+   "BNII dan MSS tergolong pihak berafiliasi karena keduanya sama-sama dikendalikan oleh Malayan Banking Berhad, induk usaha grup Maybank di Malaysia. Dalam laporan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, manajemen BNII menyebut transaksi ini dilakukan untuk merealisasikan sinergi dalam grup Maybank dan memberi manfaat efisiensi biaya bagi perseroan, sesuai ketentuan transaksi afiliasi dalam POJK Nomor 42/2020.",
+   "Dokumen pendukung yang disertakan, berupa hasil pindaian empat invoice bulanan dari MSS, menunjukkan rincian biaya yang nilainya perlu dibaca dengan hati-hati karena berasal dari OCR. Jika rincian itu dijumlahkan, totalnya cocok dengan nilai transaksi yang dilaporkan resmi, dengan pembayaran terbesar tercatat pada Agustus 2026 dan terkecil pada Juni 2026.",
+   "Direksi BNII, yakni Yessika Effendi dan Irvandi Ferizal, bersama seluruh anggota Dewan Komisaris menandatangani surat pernyataan bahwa transaksi ini telah diungkapkan secara lengkap dan tidak ada anggota direksi maupun komisaris yang memiliki benturan kepentingan atas transaksi tersebut."
+  ],
+  "fotoAdegan": "Rows of humming server racks with blue status lights in a dim bank data center at night, technician walking past",
+  "takeaway": "Transaksi ini netral bagi BNII karena nilainya kecil, sekitar Rp1,27 miliar untuk empat bulan layanan, dan merupakan pembayaran biaya operasional wajar untuk layanan keamanan siber bersama dalam grup, bukan indikasi pengalihan keuntungan ke pihak terkait. Pos yang tersentuh adalah beban operasional bank, biaya non-bunga yang dikeluarkan untuk menjalankan usaha, dan pelaku pasar memperhatikan transaksi afiliasi semacam ini karena berpotensi dipakai menggeser biaya atau laba antar perusahaan dalam satu grup jika nilainya tidak wajar. Dalam kasus ini perseroan dan komisaris sudah menyatakan tidak ada benturan kepentingan dan transaksi dinilai mengikuti prosedur OJK, sehingga risikonya minim. Yang perlu dipantau pemegang saham adalah apakah nilai transaksi serupa dengan MSS terus membesar pada laporan afiliasi periode berikutnya, karena kenaikan signifikan dari pola Rp1,27 miliar per empat bulan ini baru akan terlihat dari laporan afiliasi selanjutnya.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Afiliasi"
+ },
+ {
+  "slug": "public-expose-hajj-target-laba-bersih-rp15-miliar-di-2026",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose HAJJ: [Target] Laba Bersih Rp15 Miliar di 2026",
+  "deck": "Materi public expose tahunan HAJJ memuat target pendapatan Rp950 miliar dan laba bersih Rp15 miliar di 2026, meski kinerja sembilan bulan pertama justru melambat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:56:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93b09b99b8_bab37e1f4a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HAJJ",
+  "tags": [
+   "HAJJ",
+   "Public Expose",
+   "Umrah dan Haji",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Arsy Buana Travelindo Tbk (HAJJ), penyedia jasa B2B untuk perjalanan umrah dan haji, menyampaikan materi public expose tahunan yang dijadwalkan berlangsung 18 November 2026 sesuai surat Nomor 089/ABT-CSL/XI/26. Dalam materi itu, manajemen memasang target 2026 berupa pendapatan Rp950 miliar, laba kotor Rp70 miliar, dan laba bersih Rp15 miliar, naik dari realisasi 2025 yang masing-masing tercatat Rp944,96 miliar, Rp90,76 miliar, dan Rp6,04 miliar.",
+   "Namun kinerja sembilan bulan pertama 2026 justru bergerak ke arah sebaliknya. Pendapatan turun dari Rp727,25 miliar pada periode yang sama 2025 menjadi Rp657,67 miliar, dengan laba bersih anjlok dari Rp35,50 miliar menjadi Rp8,82 miliar. Margin laba kotor ikut tergerus dari 12,54 persen menjadi 7,39 persen. Berdasarkan rincian segmen, penurunan terjadi di semua lini: pendapatan hotel turun dari Rp647,55 miliar menjadi Rp602,49 miliar, tiket pesawat dari Rp60,45 miliar menjadi Rp41,21 miliar, dan paket umrah dari Rp19,25 miliar menjadi Rp13,97 miliar.",
+   "Dari sisi operasional, Perseroan saat ini mengelola lima hotel dengan total 1.586 kamar dan 381.835 kamar malam per tahun di Mekkah dan Madinah, serta memegang lisensi MISA dari Kementerian Investasi Arab Saudi yang memungkinkan anak usahanya, ABT LLC, mengelola allotment hotel langsung di Arab Saudi. Manajemen menargetkan ekspansi menjadi 5.000 kamar pada 2029, disertai rencana pencatatan saham di Bursa Efek Saudi (Tadawul) pada tahun yang sama. Susunan manajemen terdiri dari Direktur Utama Saipul Bahri, Direktur Agung Prabowo, Komisaris Didik Ariyanto, dan Komisaris Independen Sammy T.S. Lalamentik."
+  ],
+  "fotoAdegan": "Hotel housekeeping staff pushing luggage carts through a quiet pilgrimage-city hotel corridor, soft early morning light",
+  "takeaway": "Laporan ini condong negatif karena kinerja riil sembilan bulan pertama 2026 memburuk tajam, sementara target setahun penuh justru dipasang naik dari realisasi 2025, menyisakan jarak besar yang harus ditutup di kuartal terakhir. Yang paling tersentuh adalah margin laba kotor, yang turun dari 12,54 persen jadi 7,39 persen, dan laba bersih, yang susut dari Rp35,50 miliar jadi Rp8,82 miliar; dua pos ini penting karena jadi dasar penghitungan laba per saham dan menunjukkan apakah bisnis inti perusahaan masih menghasilkan untung sebesar sebelumnya meski pendapatan bergerak. Yang perlu dipantau adalah forum public expose pada 18 November 2026, karena di sanalah manajemen biasanya diminta menjelaskan langsung kesenjangan antara kinerja sembilan bulan dan target tahunan yang mereka tetapkan sendiri.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Public expose tahunan PT Arsy Buana Travelindo Tbk"
+   }
+  ]
+ },
+ {
   "slug": "pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal",
   "category": "Energi",
   "title": "Pupuk Indonesia Bidik Batam Jadi Pusat Bahan Bakar [Amonia] Kapal",
@@ -142,6 +306,40 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "paparan-publik-hmsp-18-november-laba-bersih-naik-44-4-jadi-rp6-5-t",
+  "category": "Aksi Korporasi",
+  "title": "Paparan Publik HMSP 18 November: [Laba Bersih] Naik 44,4% Jadi Rp6,5 T",
+  "deck": "HM Sampoerna memaparkan kinerja Januari-September 2026 di Paparan Publik Tahunan Surabaya, 18 November: laba bersih Rp6,5 triliun, naik 44,4 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:32:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70fcebb9d3_7793cef2e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HMSP",
+  "tags": [
+   "HMSP",
+   "Sampoerna",
+   "Paparan Publik",
+   "Laba Bersih"
+  ],
+  "body": [
+   "HM Sampoerna Tbk (HMSP) menyampaikan materi Paparan Publik Tahunan kepada Bursa Efek Indonesia pada 13 November 2026, menjelang acara paparan yang akan digelar di Surabaya pada 18 November 2026. Materi tersebut memuat kinerja keuangan perusahaan untuk sembilan bulan pertama 2026 (YTD September). Pendapatan tercatat Rp87,5 triliun, naik 4,5 persen dari periode yang sama tahun sebelumnya, dengan volume penjualan rokok 60,4 miliar batang atau naik 1,6 persen, dan pangsa pasar bertahan di 30 persen.",
+   "Laba kotor perusahaan mencapai Rp16 triliun, naik 3,9 persen. Laba bersih melonjak 44,4 persen menjadi Rp6,5 triliun dibanding tahun sebelumnya. Perusahaan mencatat bahwa jika dampak provisi satu kali yang dibukukan pada 2025 dikeluarkan dari perhitungan, kenaikan laba bersih yang lebih mencerminkan kinerja operasional murni adalah 16,2 persen. Materi presentasi ditandatangani oleh jajaran direksi, yaitu Ivan Cahyadi selaku Presiden Direktur, serta Rianto Hartono dan Reno Bontemps selaku Direktur.",
+   "Dokumen juga memuat gambaran jejak usaha Sampoerna di luar angka keuangan: total investasi lebih dari US$6,5 miliar sejak 2005, ekspor ke lebih dari 30 negara, sekitar 90.000 lapangan kerja tercipta, sembilan fasilitas produksi milik perusahaan ditambah kerja sama dengan 43 Mitra Produksi Sigaret, serta keterlibatan lebih dari 22.500 petani tembakau dan cengkih. Jaringan Sampoerna Retail Community disebut beranggotakan lebih dari 250.000 toko dengan total omzet Rp251 triliun, setara 9,5 persen kontribusi terhadap PDB ritel nasional pada 2025. Surat pengantar ke bursa ditandatangani oleh Corporate Secretary Maharani Djody Putri dengan nomor 133/CLD/HMS/XI/2026."
+  ],
+  "fotoAdegan": "Workers checking rows of cigarette packs on a factory conveyor line, industrial lighting, blurred machinery in background",
+  "takeaway": "Materi ini condong positif bagi Sampoerna, karena hampir semua pos utama naik: pendapatan, laba kotor, dan terutama laba bersih yang melonjak 44,4 persen, atau 16,2 persen kalau efek provisi satu kali tahun lalu dikeluarkan dari perhitungan. Yang tersentuh di sini adalah laba bersih, yaitu uang yang benar-benar tersisa buat perusahaan setelah semua biaya dan pajak dibayar, dan ini jadi acuan utama pelaku pasar menilai apakah bisnis rokok Sampoerna masih tumbuh di tengah kenaikan cukai dan pembatasan iklan yang terus disebut sebagai risiko. Pangsa pasar yang stabil di 30 persen juga berarti perusahaan tidak kehilangan pelanggan ke pesaing meski volume penjualan hanya naik tipis 1,6 persen. Yang perlu dipantau berikutnya adalah Paparan Publik Tahunan itu sendiri pada 18 November 2026 di Surabaya, saat manajemen biasanya membuka sesi tanya jawab dengan investor dan analis soal detail di balik angka-angka ini, termasuk strategi menghadapi kenaikan cukai rokok ke depan.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Paparan Publik Tahunan HMSP di Surabaya"
+   }
+  ]
+ },
+ {
   "slug": "mandiri-gelar-lelang-properti-sampai-akhir-2026",
   "category": "Perbankan",
   "title": "Mandiri Gelar [Lelang] Properti Sampai Akhir 2026",
@@ -167,6 +365,48 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan Bank Mandiri membuka lebih banyak aset jaminan kreditnya untuk dijual ke publik lewat lelang, dengan bunga KPR Lelang tetap mulai 2,7 persen khusus Oktober-November 2026. Aset jaminan ini maksudnya rumah, tanah, atau properti lain yang sebelumnya menjadi penjamin utang nasabah yang gagal bayar, lalu diambil alih bank. Yang diuntungkan jelas calon pembeli rumah atau pelaku usaha yang mencari properti dengan harga lelang, sementara bagi Bank Mandiri sendiri program ini jadi cara melepas aset bermasalah agar tidak terus membebani perusahaan. Polanya menunjukkan bank mulai menjadikan lelang aset jaminan sebagai kanal penjualan rutin tahunan sejak 2022, bukan sekadar pelepasan sewaktu-waktu, dengan bunga murah sebagai pemancing peminat. Yang akan memastikan arah ini adalah apakah bunga promo 2,7 persen itu diperpanjang setelah November 2026 berakhir, atau apakah Mandiri merilis angka nilai aset yang terjual lewat program ini di laporan kinerja berikutnya.",
   "imageV": "mweuu0w5"
+ },
+ {
+  "slug": "rupslb-tama-7-desember-divestasi-aset-rp84-2-miliar-diajukan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TAMA 7 Desember: [Divestasi Aset] Rp84,2 Miliar Diajukan",
+  "deck": "RUPSLB TAMA pada 7 Desember 2026 akan membahas rencana divestasi aset senilai Rp84,2 miliar, perubahan direksi-komisaris, dan ekspansi usaha ke bisnis internet.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T17:11:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/92e51fe067_ea33aa6fa7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "RUPSLB",
+   "divestasi aset",
+   "ISP"
+  ],
+  "body": [
+   "PT Lancartama Sejati Tbk (TAMA) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 7 Desember 2026 pukul 10.00 WIB di Graha Pakubuwono, Jalan Pakubuwono VI No. 71, Kebayoran Baru, Jakarta Selatan. Dalam surat pemanggilan yang disampaikan ke Bursa Efek Indonesia pada 13 November 2026, agenda utama yang diajukan ke pemegang saham adalah persetujuan rencana divestasi aset Perseroan dengan nilai transaksi Rp84.216.982.000. Perseroan juga meminta kewenangan kepada Direksi untuk melaksanakan transaksi tersebut, dengan mengacu pada POJK Nomor 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha.",
+   "Dua agenda lain turut diajukan dalam rapat yang sama. Pertama, persetujuan perubahan susunan anggota Direksi dan Dewan Komisaris, meski dokumen pemanggilan belum menyebut nama calon pengganti maupun alasan spesifik di luar kebutuhan organisasi dan penguatan tata kelola perusahaan. Kedua, persetujuan penambahan kegiatan usaha baru di bidang perusahaan induk (holding company) dan penyedia jasa akses internet atau Internet Service Provider (ISP), disertai perubahan Pasal 3 Anggaran Dasar Perseroan. Bisnis ISP ini direncanakan menyasar segmen rumah tangga, bisnis, dan korporasi memakai teknologi FTTH, Wi-Fi terkelola, dan akses internet khusus (dedicated), yang menurut Perseroan akan bersinergi dengan proyek dan kawasan properti yang sudah dimilikinya.",
+   "Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam daftar pemegang saham per Kamis, 12 November 2026 pukul 16.00 WIB. Perseroan menyediakan mekanisme kehadiran fisik maupun elektronik melalui eASY.KSEI. Batas akhir pemberian atau pencabutan kuasa, baik secara elektronik maupun lewat penyerahan surat kuasa fisik ke biro administrasi efek PT Adimitra Jasa Korpora, adalah Jumat, 4 Desember 2026 pukul 16.00 WIB."
+  ],
+  "fotoAdegan": "A technician installing fiber-optic cable lines on a utility pole in a quiet suburban housing complex, midday light.",
+  "takeaway": "Laporan ini netral bagi TAMA karena baru berupa pemanggilan rapat, belum ada keputusan final, dan dokumen tidak menyebut untuk apa dana hasil divestasi Rp84,2 miliar itu akan dipakai. Tiga agenda yang diajukan menyentuh pos berbeda: divestasi aset akan menambah kas masuk tapi mengurangi aset yang dimiliki Perseroan, sementara rencana bisnis baru di ISP berpotensi menambah pendapatan berulang namun juga berarti belanja modal baru yang belum diungkap nilainya. Perubahan susunan direksi dan komisaris sendiri soal tata kelola, tidak langsung mengubah angka keuangan kecuali nanti diumumkan siapa penggantinya. Yang perlu dipantau adalah hasil RUPSLB pada 7 Desember 2026, apakah ketiga agenda disetujui, serta keterbukaan informasi lanjutan soal detail transaksi divestasi sesuai aturan transaksi material OJK.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Recording date, batas pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas akhir pemberian atau pencabutan kuasa, elektronik maupun fisik"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPSLB TAMA: divestasi aset, perubahan direksi, ekspansi usaha ISP"
+   }
+  ]
  },
  {
   "slug": "telkom-raih-gold-winner-asia-esg-positive-impact-award-2026",
@@ -320,8 +560,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB WOMF Batal Digelar, Agenda [Perubahan] Direksi Tertunda",
-  "deck": "WOMF membatalkan RUPSLB yang sebelumnya ditunda dari 19 Juni 2026, agenda perubahan susunan direksi urung dibahas tanpa jadwal pengganti.",
+  "title": "RUPSLB WOMF Baru Dijadwalkan 22 Desember, [Pemanggilan] 30 Nov",
+  "deck": "WOMF menjadwalkan RUPSLB baru pada 22 Desember 2026, setelah rapat sebelumnya batal total. Pemanggilan resmi 30 November, recording date pemegang saham 27 November.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 November 2026",
   "isoDate": "2026-11-13T14:53:46",
@@ -331,19 +571,46 @@ var ARTICLES = [
   "tags": [
    "WOMF",
    "RUPSLB",
-   "Direksi",
-   "Corporate Governance"
+   "tata kelola",
+   "direksi"
   ],
   "body": [
-   "PT Wahana Ottomitra Multiartha Tbk (WOMF) mengumumkan pembatalan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya sudah ditunda dari rencana awal 19 Juni 2026. Penundaan itu sendiri sudah diumumkan lewat surat perusahaan bernomor 0689/VI/DIR-WOM/2026 tertanggal 15 Juni 2026. Kini, lewat surat bernomor 681/X/ICS/2026 yang diteken pada 13 November 2026, perusahaan menyatakan rapat tersebut batal dilaksanakan sama sekali, bukan sekadar ditunda ulang.",
-   "Satu-satunya agenda yang tercantum dalam RUPSLB yang batal ini adalah perubahan susunan pengurus perseroan, yang dalam bahasa sederhana berarti rencana mengganti atau menyusun ulang jajaran direksi dan komisaris. Dokumen tidak menyebut alasan di balik pembatalan maupun rencana jadwal RUPSLB pengganti. Surat ditandatangani oleh Cincin Lisa Hadi selaku Direktur sekaligus Corporate Secretary perseroan.",
-   "Pengumuman ini disampaikan ke publik melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi perusahaan, sesuai kewajiban keterbukaan informasi emiten."
+   "PT Wahana Ottomitra Multiartha Tbk (WOMF) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang baru pada Selasa, 22 Desember 2026, pukul 10.00 WIB, bertempat di Function Room, Sentral Senayan III, Jakarta. Pengumuman ini disampaikan lewat surat bernomor 1236/XI/DIR-WOM/2026 tertanggal 13 November 2026, merujuk pada surat sebelumnya nomor 1208/XI/DIR-WOM/2026.",
+   "Rencana rapat baru ini muncul setelah RUPSLB yang sama sempat ditunda dari rencana awal 19 Juni 2026, lalu akhirnya dibatalkan total lewat surat bernomor 681/X/ICS/2026 yang juga diteken pada 13 November 2026. Agenda satu-satunya dalam RUPSLB yang batal tersebut adalah perubahan susunan direksi dan komisaris perseroan. Dokumen pengumuman jadwal baru ini belum menyebutkan agenda resmi rapat, sehingga belum jelas apakah rencana perubahan direksi itu akan diajukan kembali.",
+   "Perseroan menetapkan 27 November 2026 sebagai tanggal pencatatan pemegang saham (recording date) yang berhak hadir dan memberi suara dalam RUPSLB. Pemanggilan resmi rapat, yang biasanya memuat agenda lengkap, akan dilakukan paling lambat 30 November 2026 lewat situs Bursa Efek Indonesia, KSEI, dan situs resmi perusahaan. Pemegang saham yang ingin mengusulkan agenda tambahan harus menyampaikannya ke direksi paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, sementara pemberian kuasa elektronik lewat eASY.KSEI dibuka sejak tanggal pemanggilan hingga 21 Desember 2026."
   ],
   "fotoAdegan": "Empty modern corporate boardroom with rows of vacant chairs around a long table, soft morning light through glass windows",
-  "takeaway": "Laporan ini condong netral karena pembatalan rapat tidak disertai angka atau dampak finansial apa pun, tetapi juga tidak bisa dibilang sepenuhnya kabar baik karena agenda penting soal pengurus perusahaan jadi tertunda tanpa kejelasan. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan tata kelola perusahaan, yakni siapa yang akan memimpin WOMF ke depan, dan investor biasanya mengamati pergantian direksi karena bisa mempengaruhi arah strategi dan operasional perusahaan. Perlu dicatat ini sudah kali kedua rencana rapat ini mandek, setelah sebelumnya ditunda pada Juni 2026 dan kini dibatalkan total pada November 2026. Yang perlu dipantau selanjutnya adalah apakah WOMF akan mengumumkan jadwal RUPSLB baru beserta alasan di balik pembatalan ini, karena dokumen yang ada belum memberi kepastian soal rencana susunan direksi ke depan.",
+  "takeaway": "Laporan ini netral karena sekadar mengumumkan jadwal rapat baru tanpa angka atau keputusan bisnis apa pun, tetapi patut dicatat sebagai sinyal bahwa proses tata kelola yang mandek sejak Juni sekarang berjalan lagi. Yang tersentuh bukan pos keuangan seperti ekuitas atau laba per saham, melainkan tata kelola perusahaan, sebab RUPSLB sebelumnya dibatalkan total tanpa kejelasan soal agenda perubahan direksi, dan investor memperhatikan siapa yang memimpin perusahaan karena itu mempengaruhi arah strategi ke depan. Dokumen kali ini belum menyebutkan agenda resmi rapat, jadi belum pasti apakah rencana perubahan direksi yang sempat batal akan kembali diajukan. Yang perlu dipantau adalah pemanggilan resmi pada 30 November 2026, yang akan memuat agenda lengkap, serta pelaksanaan RUPSLB pada 22 Desember 2026 yang menentukan apakah agenda pengurus perusahaan benar terealisasi.",
   "sentimen": "netral",
   "peristiwa": "rups",
-  "judulIdx": "Pembatalan Rapat Umum Pemegang Saham Luar Biasa"
+  "judulIdx": "Pembatalan Rapat Umum Pemegang Saham Luar Biasa",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T18:31:46",
+    "ringkas": "WOMF menjadwalkan RUPSLB baru pada 22 Desember 2026, setelah RUPSLB sebelumnya dibatalkan total pada November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/436fe866a8_e6378f4b3c.pdf",
+    "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-13T18:31:46",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pemanggilan resmi RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-21",
+    "acara": "Batas akhir pemberian kuasa elektronik eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-22",
+    "acara": "Pelaksanaan RUPSLB WOMF"
+   }
+  ]
  },
  {
   "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
@@ -705,6 +972,72 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret: InfraNexia menambah 1.408 kilometer kabel fiber optik sepanjang 2026, sehingga total jaringannya kini 112.000 kilometer, dan sejak September 2026 lebih dari 90 persen aset jaringan Telkom sudah dipindahkan ke perusahaan ini lewat proses pemisahan usaha tahap kedua. Yang kena dampak paling langsung bukan konsumen akhir, melainkan sesama pemain industri, operator telekomunikasi lain, penyedia internet, dan pengelola pusat data, karena kini mereka bisa menyewa kapasitas jaringan InfraNexia alih-alih membangun kabel sendiri. Penyebutan tahap kedua pada proses pemisahan ini menunjukkan Telkom melepas unit infrastrukturnya secara bertahap, bukan sekali jadi, mengarah ke InfraNexia yang makin berdiri sendiri sebagai penyedia jaringan untuk banyak pelanggan sekaligus, bukan cuma untuk Telkom. Yang akan menentukan apakah arah ini berlanjut ke pemisahan penuh adalah pengumuman tahap berikutnya dari proses spin-off tersebut, atau kabar soal InfraNexia menggandeng mitra luar untuk mendanai perluasan jaringannya.",
   "imageV": "mwefnrni"
+ },
+ {
+  "slug": "pmthmetd-gtra-dana-cair-semester-i-2027-rups-7-desember",
+  "category": "Aksi Korporasi",
+  "title": "PMTHMETD GTRA: [Dana Cair] Semester I 2027, RUPS 7 Desember",
+  "deck": "GTRA menjawab permintaan BEI soal private placement: dana ditargetkan cair semester I 2027, RUPS Independen digelar 7 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:24:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ce87d8d8da_55cf7f49e2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTRA",
+  "tags": [
+   "GTRA",
+   "PMTHMETD",
+   "Private Placement",
+   "BEI"
+  ],
+  "body": [
+   "PT Grahaprima Suksesmandiri Tbk (GTRA) menyampaikan tanggapan kepada Bursa Efek Indonesia pada Jumat, 13 November 2026, menjawab surat permintaan penjelasan BEI bernomor S-14042/BEI.PP3/11-2026 tertanggal 11 November 2026 soal rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), skema private placement di mana saham baru diterbitkan tanpa ditawarkan lebih dulu kepada pemegang saham lama. Direktur Utama Ronny Senjaya menyebut pelaksanaan PMTHMETD direncanakan paling lambat semester pertama tahun 2027, didahului Rapat Umum Pemegang Saham Independen pada 7 Desember 2026. Permohonan pencatatan saham baru ke bursa akan diajukan paling lambat 6 hari bursa sebelum tanggal pencatatan, rencana pelaksanaan diumumkan paling lambat 5 hari kerja sebelumnya, dan hasilnya dilaporkan paling lambat 2 hari kerja sesudahnya.",
+   "Dana hasil PMTHMETD akan dipakai sebagai modal kerja, antara lain untuk biaya bahan bakar, biaya tol, gaji karyawan, upah pengemudi, perbaikan kendaraan, suku cadang, dan asuransi. Perseroan juga menyebut dana ini sebagai bagian dari penguatan ekuitas lewat setoran tunai atas saham baru. Berdasarkan hitungan proforma, rasio total liabilitas terhadap ekuitas diproyeksikan turun dari 294,35 persen menjadi 278,22 persen, rasio liabilitas terhadap total aset turun dari 74,64 persen menjadi sekitar 73,56 persen, dan rasio lancar naik dari 138,33 persen menjadi 148,22 persen. Sampai saat ini GTRA belum punya rencana memakai dana tersebut untuk melunasi atau mengonversi utang, dan belum berencana membeli unit kendaraan baru dari dana itu.",
+   "Perseroan beralasan kebutuhan modal kerja ini didorong pertumbuhan bersih 602 unit kendaraan per 30 September 2026, dengan total armada naik dari 1.091 unit pada akhir Desember 2025 menjadi sekitar 1.693 unit pada akhir September 2026. GTRA memproyeksikan pertumbuhan pendapatan sebesar 51 persen seiring bertambahnya armada tersebut, dan dalam rencana jangka panjang berniat membuka pool baru di Jawa Tengah serta mengembangkan pool di Jawa Timur dan Sulawesi Selatan. Hingga saat tanggapan ini disampaikan, Perseroan belum memiliki calon pemodal untuk PMTHMETD dan menyatakan akan tunduk pada ketentuan POJK 14/2019 soal penambahan modal tanpa hak memesan efek terlebih dahulu. Beberapa perjanjian pembiayaan yang masih berjalan mensyaratkan persetujuan atau pengesampingan (waiver) dari kreditur tertentu terkait rencana ini, dan Perseroan menyebut proses permohonan itu sedang berjalan."
+  ],
+  "fotoAdegan": "Rows of commercial vans parked in a large outdoor vehicle pool, mechanics checking tires and engines under morning light, Jakarta.",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental GTRA: private placement tetap akan menambah jumlah saham beredar dan berpotensi menggerus laba per saham pemegang saham lama, tapi arah penggunaan dana untuk memperkuat ekuitas dan membiayai pertumbuhan armada yang sudah berjalan membuatnya tidak bisa disebut murni negatif, apalagi harga pelaksanaan dan calon investornya saja belum ditentukan. Yang tersentuh adalah struktur permodalan: rasio utang terhadap ekuitas, yaitu perbandingan antara dana dari utang dan dana dari pemilik saham, memang diproyeksikan turun dari hampir 3 kali ekuitas menjadi sekitar 2,78 kali, tapi levelnya tetap tinggi sehingga belum bisa disebut perbaikan besar. Penambahan saham baru nantinya juga akan mengencerkan laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham, karena laba yang sama harus dibagi ke lebih banyak lembar saham. Yang perlu dipantau berikutnya adalah hasil RUPS Independen pada 7 Desember 2026 serta kepastian calon investor dan harga pelaksanaan PMTHMETD, yang menurut jadwal Perseroan baru akan jelas menjelang dana ditargetkan cair pada semester pertama 2027.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPS Independen bahas rencana PMTHMETD"
+   }
+  ]
+ },
+ {
+  "slug": "true-keluar-dari-pemantauan-khusus-bei-efektif-16-november",
+  "category": "Aksi Korporasi",
+  "title": "TRUE [Keluar] dari Pemantauan Khusus BEI, Efektif 16 November",
+  "deck": "BEI mencabut saham PT Triniti Dinamik Tbk (TRUE) dari papan pemantauan khusus mulai 16 November 2026, setelah kriteria soal pendapatan tidak lagi terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:10:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c890e8caa_997b17d859.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "TRUE",
+   "pemantauan khusus",
+   "BEI",
+   "papan pencatatan"
+  ],
+  "body": [
+   "Bursa Efek Indonesia melalui pengumuman No. Peng-CK-00081/BEI.PLP/11-2026 mencabut saham berkode TRUE, yaitu PT Triniti Dinamik Tbk, dari papan pemantauan khusus. Saham ini akan berpindah dari papan pencatatan Pemantauan Khusus ke papan Pengembangan, dengan status perubahan tercatat sebagai Keluar atau Exit. Perubahan ini mulai berlaku efektif pada 16 November 2026.",
+   "Alasan TRUE sebelumnya masuk papan pemantauan khusus adalah kriteria nomor 3 dalam daftar kriteria BEI, yakni perusahaan tidak membukukan pendapatan atau tidak ada perubahan pendapatan pada laporan keuangan terakhir dibandingkan laporan sebelumnya. Dengan status kriteria itu kini tercatat Keluar atau Exit, artinya kondisi tersebut sudah tidak lagi berlaku bagi perusahaan berdasarkan laporan keuangan terbarunya. Pengumuman ini ditandatangani oleh Bima Ruditya Surya, Pjs Kepala Divisi Peraturan dan Layanan Perusahaan Tercatat BEI, pada 13 November 2026."
+  ],
+  "fotoAdegan": "Wide shot of a modern glass office tower in Jakarta's financial district reflecting morning sunlight, busy street below.",
+  "takeaway": "Penilaian redaksi atas kabar ini positif bagi TRUE, karena keluar dari papan pemantauan khusus berarti kondisi yang sebelumnya disorot bursa, yaitu soal pendapatan perusahaan, sudah tidak lagi memenuhi kriteria bermasalah. Papan pemantauan khusus sendiri adalah daftar BEI untuk emiten dengan indikasi masalah keuangan, dan kriteria yang menjerat TRUE terkait langsung dengan pos pendapatan usaha, yaitu apakah perusahaan benar-benar membukukan penjualan dan apakah angkanya berubah dari periode ke periode. Pelaku pasar memperhatikan pos ini karena pendapatan yang nihil atau stagnan biasanya jadi tanda awal bisnis yang belum berjalan normal. Yang perlu dipantau berikutnya adalah tanggal 16 November 2026, saat perpindahan papan pencatatan dari Pemantauan Khusus ke papan Pengembangan ini resmi berlaku. Investor sebaiknya tetap memeriksa laporan keuangan terbaru TRUE untuk melihat apakah perbaikan pendapatan ini bersifat berkelanjutan.",
+  "sentimen": "positif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Pencabutan Efek Bersifat Ekuitas Dari Pemantauan Khusus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Efektif pindah dari papan Pemantauan Khusus ke papan Pengembangan"
+   }
+  ]
  },
  {
   "slug": "rupslb-gula-7-desember-agenda-ubah-susunan-direksi-komisaris",
@@ -10643,8 +10976,8 @@ var ARTICLES = [
  {
   "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
   "category": "Aksi Korporasi",
-  "title": "PRDA Sisa Dana [Buyback] Saham Tinggal Rp46 Miliar",
-  "deck": "Prodia Widyahusada melaporkan hasil pembelian kembali saham sejak 20 Agustus hingga 6 November 2026, dengan sisa dana buyback tinggal Rp46,02 miliar.",
+  "title": "Buyback PRDA 13 November: Sisa Dana [Menyusut] ke Rp39,06 Miliar",
+  "deck": "Prodia Widyahusada melaporkan sisa dana buyback saham turun lagi menjadi Rp39,06 miliar per 13 November 2026, setelah membeli kembali saham tambahan sejak laporan 6 November.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T16:51:45",
@@ -10658,13 +10991,24 @@ var ARTICLES = [
    "pasar modal"
   ],
   "body": [
-   "PT Prodia Widyahusada Tbk (PRDA) melaporkan hasil pelaksanaan pembelian kembali saham per 6 November 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Laporan ini merujuk pada keterbukaan informasi 19 Agustus 2026 tentang rencana buyback saat kondisi pasar berfluktuasi signifikan, sesuai Pasal 12 ayat 1 POJK No. 13 Tahun 2023. Sejak transaksi pertama pada 20 Agustus 2026, Prodia telah membeli kembali saham hampir setiap hari perdagangan, dengan total akumulasi sekitar 33,8 juta saham atau sekitar 3,6 persen dari total saham yang tercatat di BEI.",
-   "Harga rata-rata pembelian bergerak naik sepanjang periode ini, dari Rp2.548 per saham pada transaksi pertama 20 Agustus menjadi Rp3.684 per saham pada transaksi terbaru 6 November 2026 sebanyak 412.900 saham. Pembelian terbesar dalam satu hari terjadi pada 7 September 2026 sejumlah 2.616.500 saham atau 0,28 persen dari total saham tercatat, dengan harga rata-rata Rp2.795. Sisa dana yang dialokasikan untuk program ini terus menyusut, dari Rp148,48 miliar setelah transaksi pertama menjadi tinggal Rp46,02 miliar pada 6 November 2026.",
-   "Dalam formulir laporan, Corporate Secretary Marina Eka Amalia menyatakan bahwa pelaksanaan buyback ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Laporan semacam ini wajib disampaikan secara berkala selama program buyback dalam kondisi pasar fluktuatif masih berjalan."
+   "PT Prodia Widyahusada Tbk (PRDA) melaporkan sisa dana pembelian kembali saham tinggal Rp39,06 miliar per 13 November 2026, turun dari Rp46,02 miliar pada laporan sebelumnya tanggal 6 November. Dalam sepekan terakhir, Prodia membeli kembali saham setiap hari perdagangan, termasuk 150.000 saham pada 13 November dengan harga rata-rata Rp3.593 per saham.",
+   "Sejak transaksi pertama pada 20 Agustus 2026, perusahaan telah mengakumulasi pembelian kembali sekitar 35,7 juta saham atau sekitar 3,81 persen dari total saham yang tercatat di Bursa Efek Indonesia. Program ini merujuk pada keterbukaan informasi 19 Agustus 2026 tentang rencana buyback saat kondisi pasar berfluktuasi signifikan, sesuai Pasal 12 ayat 1 POJK No. 13 Tahun 2023.",
+   "Harga rata-rata pembelian terus bergerak naik sepanjang program, dari Rp2.548 per saham pada transaksi pertama menjadi berkisar Rp3.593 hingga Rp3.697 pada pekan ini. Pembelian terbesar dalam satu hari masih tercatat pada 7 September 2026 sejumlah 2.616.500 saham atau 0,28 persen dari total saham tercatat, dengan harga rata-rata Rp2.795.",
+   "Dalam laporan ini, Corporate Secretary Marina Eka Amalia menyatakan bahwa pelaksanaan buyback tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Laporan semacam ini wajib disampaikan secara berkala selama program buyback dalam kondisi pasar fluktuatif masih berjalan."
   ],
   "fotoAdegan": "Medical laboratory technicians processing rows of blood sample tubes on an automated analyzer under bright clinical lighting",
-  "takeaway": "Program buyback ini condong positif bagi Prodia, karena perusahaan konsisten menjalankan rencana yang diumumkan sejak 19 Agustus 2026 dan sudah menghabiskan sebagian besar dana yang dialokasikan, terlihat dari sisa dana yang menyusut dari Rp148,48 miliar di hari pertama menjadi Rp46,02 miliar pada 6 November. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu laba perusahaan dibagi jumlah lembar saham yang ada di pasar. Setiap saham yang dibeli balik oleh Prodia ditarik dari peredaran, sehingga jumlah lembarnya mengecil dan laba yang sama bisa terbagi ke lebih sedikit saham, yang membuat laba per saham berpotensi naik. Prodia juga tetap membeli meski harga rata-rata sudah naik dari Rp2.548 ke Rp3.684 sepanjang periode ini, menandakan perusahaan konsisten menjalankan programnya walau sahamnya sudah lebih mahal dari saat program dimulai. Yang perlu dipantau berikutnya adalah seberapa cepat sisa dana Rp46,02 miliar ini terpakai, sebab begitu dana itu habis program buyback otomatis berhenti dan investor perlu menunggu pengumuman resmi Prodia soal kelanjutan atau penghentian program ini.",
-  "sentimen": "positif"
+  "takeaway": "Laporan ini tetap condong positif bagi Prodia, karena perusahaan terus menjalankan program buyback yang dijanjikan sejak 19 Agustus 2026 dan kini sisa dananya tinggal Rp39,06 miliar dari alokasi awal sekitar Rp150 miliar. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena setiap saham yang dibeli balik ditarik dari pasar sehingga laba perusahaan terbagi ke lebih sedikit lembar saham dan berpotensi mengerek laba per saham. Harga rata-rata pembelian pekan ini berkisar Rp3.593 hingga Rp3.697, jauh di atas Rp2.548 saat program dimulai, namun Prodia tetap melanjutkan pembelian meski harganya sudah naik signifikan. Yang perlu dipantau berikutnya adalah seberapa cepat sisa dana Rp39,06 miliar ini terpakai, sebab dengan kecepatan pembelian harian seperti sekarang program ini bisa segera mencapai batas dananya dan investor perlu menunggu pengumuman resmi Prodia soal kelanjutan atau penghentian program setelah dana ini habis.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T17:49:29",
+    "ringkas": "Sisa dana buyback PRDA turun ke Rp39,06 miliar per 13 November, setelah pembelian tambahan sejak laporan 6 November.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4a7e527fe_970eb5d82e.pdf",
+    "judulIdx": "Laporan Hasil Pelaksanaan Pembelian Kembali Saham"
+   }
+  ],
+  "diperbarui": "2026-11-13T17:49:29",
+  "peristiwa": "buyback"
  },
  {
   "slug": "hrta-terang-anugrah-abadi-tambah-609-000-saham",

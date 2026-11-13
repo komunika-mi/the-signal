@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim KMDS Rp16 per Saham, [Cair] 11 Desember",
+  "deck": "KMDS membagikan dividen interim tunai Rp16 per saham senilai total Rp12,8 miliar untuk tahun buku 2026, dibayar 11 Desember 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KMDS",
+   "dividen interim",
+   "pasar modal",
+   "emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3e60194e7_253d58afcb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PNBS 18 November: [Laba] Naik 69,78% ke Rp73,4 M",
+  "deck": "Materi Public Expose PNBS mengungkap laba sebelum pajak kuartal III 2026 melonjak 69,78% jadi Rp73,4 miliar, sementara rasio kecukupan modal turun ke 16,61%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNBS",
+   "Bank Panin Dubai Syariah",
+   "Public Expose",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a85b831a9f_31fbbe63c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-jmas-22-desember-pencatatan-pemegang-saham-27-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPST JMAS 22 Desember: [Pencatatan] Pemegang Saham 27 November",
+  "deck": "JMAS akan menggelar RUPST untuk tahun buku 2025 pada 22 Desember 2026; pemegang saham yang tercatat per 27 November 2026 berhak hadir.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JMAS",
+   "RUPST",
+   "Asuransi Jiwa Syariah",
+   "Jasa Mitra Abadi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f3e4e4d1e_c70c1937e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sektor-ritel-dan-manufaktur-lama-tergeser-teknologi-dan-e-commerce",
   "category": "Makroekonomi",
   "title": "Sektor Ritel dan Manufaktur Lama [Tergeser] Teknologi dan E-Commerce",
@@ -37,6 +85,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "kici-tanggapi-permintaan-bursa-penjualan-naik-22",
+  "category": "Aksi Korporasi",
+  "title": "KICI Tanggapi Permintaan Bursa: [Penjualan Naik 22%]",
+  "deck": "KICI menanggapi permintaan penjelasan Bursa Efek Indonesia: penjualan naik 22% dari tahun lalu, di tengah tekanan daya beli domestik dan persaingan produk China.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KICI",
+   "Kedaung Indah Can",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4774200045_df395dcd02.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "infranexia-tambah-1-408-km-jaringan-fiber-optik-2026",
   "category": "Teknologi",
   "title": "InfraNexia [Tambah] 1.408 Km Jaringan Fiber Optik 2026",
@@ -52,6 +116,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478124-infranexia-tambah-1408-km-jaringan-fiber-optik-pada-2026-siapkan-ai-ready-infrastructure"
+ },
+ {
+  "slug": "rupslb-gula-7-desember-agenda-ubah-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB GULA 7 Desember: [Agenda] Ubah Susunan Direksi-Komisaris",
+  "deck": "RUPSLB PT Aman Agrindo Tbk (GULA) digelar 7 Desember 2026 untuk membahas perubahan susunan direksi dan komisaris perusahaan.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GULA",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6a2a6eafbe_799825c44b.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-turun-jadi-rp2-509-000-per-gram",
@@ -4243,15 +4323,15 @@ var ARTICLES = [
  {
   "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
   "category": "Aksi Korporasi",
-  "title": "BMAS Tarik [US$18 Juta] Lagi dari KBank, Total Jadi US$258 Juta",
-  "deck": "BMAS mencairkan tambahan US$18 juta dari fasilitas pinjaman bilateral pemegang saham utamanya, KBank, sehingga total penarikan mencapai US$258 juta dari limit US$341 juta.",
+  "title": "BMAS Tarik US$80 Juta Lagi dari KBank, Total Jadi US$338 Juta",
+  "deck": "BMAS menarik tambahan US$25 juta dan US$55 juta dari fasilitas pinjaman bilateral KBank pada 12 November 2026, sehingga total penarikan mencapai US$338 juta dari limit US$341 juta.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "BMAS",
-   "KBank",
-   "pinjaman afiliasi",
-   "perbankan"
+   "Transaksi Afiliasi",
+   "Pinjaman Bilateral",
+   "KBank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40326f8631_ab663ffc47.pdf",
   "sourceLabel": "IDX"
@@ -6401,86 +6481,6 @@ var ARTICLES = [
    "buyback"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/82e3cd9185_09850bbb43.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rdtx-setujui-stock-split-1-20-saham-beredar-ke-5-37-miliar",
-  "category": "Aksi Korporasi",
-  "title": "RDTX Setujui [Stock Split] 1:20, Saham Beredar ke 5,37 Miliar",
-  "deck": "RUPSLB Roda Vivatex pada 4 November 2026 menyetujui pemecahan saham 1 banding 20, nilai nominal turun dari Rp500 menjadi Rp25 per saham.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RDTX",
-   "stock split",
-   "RUPSLB",
-   "Roda Vivatex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eb116e33a7_46472931c7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scco-ganti-anggota-komite-audit-ketua-tetap-dewan-nyoman",
-  "category": "Aksi Korporasi",
-  "title": "SCCO Ganti [Anggota] Komite Audit, Ketua Tetap Dewan Nyoman",
-  "deck": "Efektif 5 November 2026, Supreme Cable Manufacturing & Commerce mengganti satu anggota komite audit, sementara ketua komite tidak berubah.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCCO",
-   "komite audit",
-   "tata kelola perusahaan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ece1035318_c20415c47e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-direksi-beli-10-juta-saham-rp2-93-miliar",
-  "category": "Aksi Korporasi",
-  "title": "AVIA: Direksi [Beli] 10 Juta Saham Rp2,93 Miliar",
-  "deck": "Robert Christian Tanoko, direksi Avia Avian, menambah 10 juta saham lewat dua transaksi pada 4 November 2026 senilai total Rp2,93 miliar.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "kepemilikan saham",
-   "direksi",
-   "insider trading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-2087-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tpt-agustus-2026-4-75-naik-dari-februari",
-  "category": "Makroekonomi",
-  "title": "TPT Agustus 2026 [4,75%], Naik dari Februari",
-  "deck": "Tingkat pengangguran terbuka naik tipis dari Februari 2026, tapi masih lebih rendah dibanding Agustus tahun lalu",
-  "date": "6 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
-  "tags": [
-   "bps",
-   "ketenagakerjaan",
-   "pengangguran",
-   "tpt"
-  ],
-  "sourceUrl": "https://www.bps.go.id/id/statistics-table",
-  "sourceLabel": "Badan Pusat Statistik"
- },
- {
-  "slug": "kebakaran-landa-menara-pendingin-pabrik-oppm-tak-ganggu-produksi",
-  "category": "Aksi Korporasi",
-  "title": "Kebakaran Landa [Menara Pendingin] Pabrik OPPM, Tak Ganggu Produksi",
-  "deck": "Kebakaran terjadi di sebagian unit menara pendingin pabrik OPPM pada 3 November 2026, berhasil dikendalikan dalam dua jam tanpa korban jiwa.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "kebakaran pabrik",
-   "pulp dan kertas",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d5e82e18fc_5609fe8ccd.pdf",
   "sourceLabel": "IDX"
  }
 ];

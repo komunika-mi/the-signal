@@ -3,6 +3,133 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim KMDS Rp16 per Saham, [Cair] 11 Desember",
+  "deck": "KMDS membagikan dividen interim tunai Rp16 per saham senilai total Rp12,8 miliar untuk tahun buku 2026, dibayar 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T12:12:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3e60194e7_253d58afcb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KMDS",
+  "tags": [
+   "KMDS",
+   "dividen interim",
+   "pasar modal",
+   "emiten"
+  ],
+  "body": [
+   "Direksi PT Kurniamitra Duta Sentosa Tbk (KMDS) menetapkan pembagian dividen interim tunai sebesar Rp16 per saham, dengan total nilai Rp12,8 miliar, untuk tahun buku 2026 yang mencakup periode hingga 30 September 2026. Keputusan ini diambil Direksi pada 11 November 2026 dan langsung disetujui secara bulat oleh Dewan Komisaris pada tanggal yang sama, lewat surat yang ditandatangani Komisaris Utama Irman, Komisaris Laurens Nagajaya, dan Komisaris Independen Prof. Dr. Gunadi. Di sisi Direksi, persetujuan ditandatangani Direktur Utama Hengky Wijaya bersama Direktur Marjuky, Charli, Dewi Irianty Wijaya, dan Dion Amaury.",
+   "Jadwalnya cukup rapat. Periode cum dividen, yaitu batas terakhir pembelian saham yang masih membawa hak dividen, berakhir 23 November 2026 di pasar reguler dan negosiasi, dengan ex dividen mulai 24 November 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen (recording date) jatuh pada 25 November 2026 pukul 16.00 WIB, bersamaan dengan cum dividen di pasar tunai, yang kemudian disusul ex dividen pasar tunai pada 26 November 2026. Pembayaran dividen ke rekening pemegang saham dijadwalkan pada 11 Desember 2026, disalurkan lewat KSEI bagi saham yang berada dalam penitipan kolektif.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba bersih yang diatribusikan ke pemilik perusahaan sebesar Rp40,48 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp146,52 miliar, dan total ekuitas Rp265,18 miliar. Perseroan juga menyebut bahwa pembagian dividen interim ini nantinya akan diperhitungkan dalam Rapat Umum Pemegang Saham Tahunan yang baru akan digelar pada 2027."
+  ],
+  "fotoAdegan": "Forklift moving stacked goods pallets inside a large distribution warehouse, workers in safety vests, bright fluorescent lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi KMDS, karena nilainya hanya sekitar 32 persen dari laba bersih yang terkumpul sampai September 2026, jadi kas yang mengalir ke pemegang saham tidak menggerus modal perusahaan secara berarti. Pos yang tersentuh adalah arus kas dan saldo laba ditahan, yaitu cadangan laba yang belum dibagikan, sebab perusahaan harus menyiapkan Rp12,8 miliar tunai pada tanggal pembayaran untuk dikirim ke pemegang saham. Pelaku pasar memperhatikan pos ini karena kesanggupan membagi dividen di tengah tahun buku biasanya menandakan arus kas operasional yang masih sehat, bukan sekadar laba di atas kertas. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 11 Desember 2026 serta bagaimana pembagian ini nanti diperhitungkan dalam RUPST Tahunan Perseroan yang akan digelar pada 2027.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Recording date pemegang saham dan cum dividen pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Tanggal pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PNBS 18 November: [Laba] Naik 69,78% ke Rp73,4 M",
+  "deck": "Materi Public Expose PNBS mengungkap laba sebelum pajak kuartal III 2026 melonjak 69,78% jadi Rp73,4 miliar, sementara rasio kecukupan modal turun ke 16,61%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T11:28:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a85b831a9f_31fbbe63c1.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNBS",
+  "tags": [
+   "PNBS",
+   "Bank Panin Dubai Syariah",
+   "Public Expose",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bank Panin Dubai Syariah Tbk (PNBS) menyampaikan materi Public Expose Tahunan 2026 ke Bursa Efek Indonesia pada 13 November 2026, sebagai bahan presentasi untuk acara Public Expose yang akan digelar Rabu, 18 November 2026 pukul 10.00 sampai 11.00 WIB secara daring lewat Zoom. Materi itu memuat data kinerja keuangan perseroan hingga kuartal III 2026, dengan laba sebelum pajak tercatat Rp73,4 miliar, naik 69,78% dibanding periode yang sama tahun lalu sebesar Rp43,2 miliar. Karena tidak ada beban pajak pada periode ini, laba setelah pajak besarnya sama, Rp73,4 miliar.",
+   "Total aset perseroan tercatat Rp19,646 triliun per akhir September 2026, naik 7,99% dibanding Rp18,193 triliun setahun sebelumnya. Pertumbuhan ini terutama didorong pembiayaan yang naik 10,96% menjadi Rp14,264 triliun dan dana pihak ketiga (DPK) yang tumbuh 13,62% menjadi Rp15,558 triliun. Rasio pembiayaan terhadap dana pihak ketiga (FDR) turun dari 94,88% menjadi 90,87%, sementara porsi dana nasabah berbiaya rendah (CASA) naik dari 12% menjadi 18,61%. Dari sisi efisiensi, rasio biaya operasional terhadap pendapatan operasional (BOPO) membaik dari 95,78% menjadi 93,72%, dan rasio biaya terhadap pendapatan (CIR) turun dari 86,5% menjadi 80,2%. Kualitas pembiayaan juga membaik, tercermin dari rasio pembiayaan bermasalah kotor (NPF gross) yang turun dari 3,85% menjadi 3,07%.",
+   "Di sisi permodalan, rasio kecukupan modal (CAR) turun dari 19,11% pada September 2025 menjadi 16,61% pada September 2026. Ekuitas perseroan tercatat Rp2.964 miliar per September 2026, naik 1,18% dibanding setahun sebelumnya namun turun tipis 0,26% dibanding posisi akhir 2025 yang sebesar Rp2.972 miliar. Modal disetor perseroan tidak berubah sejak akhir 2022, tetap di angka Rp3.881 miliar. Berdasarkan komposisi pemegang saham per September 2026, PT Bank Pan Indonesia Tbk (PaninBank) menguasai 67,30% saham PNBS, Dubai Islamic Bank memegang 25,10%, dan sisanya 7,60% dimiliki publik.",
+   "Materi ini juga menyebutkan jaringan kantor perseroan per 30 September 2026 berjumlah 98 unit, terdiri dari 10 kantor cabang, 40 kantor fungsional operasional, dan 48 layanan syariah bank umum atau sinergi perbankan. Penyampaian materi ini merujuk pada surat sebelumnya, No.201/DIR/EXT/XI/2026 tanggal 4 November 2026, perihal rencana penyelenggaraan Public Expose Tahunan, dan ditandatangani oleh Corporate Secretary PNBS, Slamet Haryanto Pradhana."
+  ],
+  "fotoAdegan": "Teller counter at a modern Islamic bank branch in Jakarta, customers waiting quietly in queue, soft morning light.",
+  "takeaway": "Laporan ini condong positif bagi PNBS: laba sebelum pajak melonjak hampir 70 persen dan dua indikator efisiensi utama, BOPO dan CIR, membaik signifikan dalam setahun, menunjukkan bank berhasil menekan biaya sambil memperbesar pendapatan. Yang perlu dicermati adalah rasio kecukupan modal (CAR), yaitu perbandingan modal bank dengan risiko kreditnya, yang turun dari 19,11% menjadi 16,61%; meski masih di atas ambang aman, penurunan ini berarti ruang bank untuk menyalurkan pembiayaan baru atau menyerap potensi kerugian makin menyempit dibanding setahun lalu. Ekuitas, yaitu kekayaan bersih pemegang saham, juga sedikit menyusut dibanding akhir tahun lalu meski masih tumbuh dibanding setahun sebelumnya, sejalan dengan modal disetor yang memang tidak bertambah sejak 2022. Investor bisa memantau langsung penjelasan manajemen soal tren modal ini dalam sesi Public Expose Tahunan yang dijadwalkan Rabu, 18 November 2026 pukul 10.00 WIB.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Public Expose Tahunan PNBS"
+   }
+  ]
+ },
+ {
+  "slug": "rupst-jmas-22-desember-pencatatan-pemegang-saham-27-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPST JMAS 22 Desember: [Pencatatan] Pemegang Saham 27 November",
+  "deck": "JMAS akan menggelar RUPST untuk tahun buku 2025 pada 22 Desember 2026; pemegang saham yang tercatat per 27 November 2026 berhak hadir.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T11:05:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f3e4e4d1e_c70c1937e0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JMAS",
+  "tags": [
+   "JMAS",
+   "RUPST",
+   "Asuransi Jiwa Syariah",
+   "Jasa Mitra Abadi"
+  ],
+  "body": [
+   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 31 Desember 2025. Rapat dijadwalkan pada Selasa, 22 Desember 2026, pukul 09.30 WIB, di Graha Kospin Jasa Lantai 9, Jalan Jenderal Gatot Subroto Kavling 1, Jakarta Selatan. Rapat akan digelar secara fisik dengan fasilitas partisipasi elektronik melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan, atau pemilik saldo rekening efek pada penutupan perdagangan saham JMAS di Bursa Efek Indonesia pada Jumat, 27 November 2026, pukul 16.00 WIB. Perseroan menyebutkan akan menerbitkan pemanggilan resmi rapat, yang memuat agenda lengkap, pada Senin, 30 November 2026.",
+   "Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili sedikitnya 1/20 bagian dari total saham dengan hak suara sah, dan usulan itu wajib disampaikan tertulis kepada direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat. Perseroan juga menegaskan bahan rapat akan tersedia melalui situs web perseroan dan sistem e-RUPS sejak tanggal pemanggilan hingga hari rapat, sementara tata cara kehadiran fisik, partisipasi elektronik, dan pemberian kuasa akan dijelaskan lebih rinci dalam surat pemanggilan."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise office tower in a Jakarta business district under bright afternoon light",
+  "takeaway": "Pengumuman ini netral bagi JMAS karena baru memberitahukan jadwal RUPST, tanpa memuat agenda atau keputusan apa pun yang mengubah posisi keuangan perseroan. Belum ada pos kinerja seperti ekuitas, laba per saham, atau arus kas yang tersentuh langsung, sebab mata acara rapat belum diumumkan; baru dari pemanggilan resmi nanti pasar bisa menilai apakah ada rencana dividen, perubahan direksi, atau aksi korporasi lain yang memengaruhi angka-angka tersebut. Yang perlu dipantau adalah penerbitan pemanggilan resmi berisi agenda lengkap pada 30 November 2026, serta pelaksanaan RUPST itu sendiri pada 22 Desember 2026, dengan batas pencatatan pemegang saham yang berhak hadir jatuh pada 27 November 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Batas pencatatan pemegang saham yang berhak hadir RUPST"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Penerbitan pemanggilan resmi RUPST berisi agenda lengkap"
+   },
+   {
+    "tanggal": "2026-12-22",
+    "acara": "Pelaksanaan RUPST Tahunan JMAS"
+   }
+  ]
+ },
+ {
   "slug": "sektor-ritel-dan-manufaktur-lama-tergeser-teknologi-dan-e-commerce",
   "category": "Makroekonomi",
   "title": "Sektor Ritel dan Manufaktur Lama [Tergeser] Teknologi dan E-Commerce",
@@ -58,6 +185,33 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "kici-tanggapi-permintaan-bursa-penjualan-naik-22",
+  "category": "Aksi Korporasi",
+  "title": "KICI Tanggapi Permintaan Bursa: [Penjualan Naik 22%]",
+  "deck": "KICI menanggapi permintaan penjelasan Bursa Efek Indonesia: penjualan naik 22% dari tahun lalu, di tengah tekanan daya beli domestik dan persaingan produk China.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T10:30:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4774200045_df395dcd02.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KICI",
+  "tags": [
+   "KICI",
+   "Kedaung Indah Can",
+   "Bursa Efek Indonesia",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "Kedaung Indah Can Tbk (KICI) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia nomor S-14031/BEI.PP3/11-2026 tertanggal 11 November 2026. Tanggapan dikirim melalui surat nomor 149/KIC-CS/XI/2026 yang ditandatangani Direktur Hadi Muliyono pada 12 November 2026, dan disampaikan ke bursa oleh Corporate Secretary Ing Hidayat pada 13 November 2026 pukul 10.30 WIB. Dalam surat itu, perseroan menyatakan operasionalnya berjalan baik dan lancar dari sisi penjualan, produksi, maupun pengadaan, dengan penjualan naik 22 persen dibandingkan tahun sebelumnya. KICI juga menegaskan tidak memiliki entitas anak usaha, sehingga kondisi operasionalnya sama dengan kondisi perseroan secara keseluruhan.",
+   "Soal strategi, perseroan menyebut fokus saat ini ada pada peningkatan penjualan ekspor, terutama ke pasar Amerika Serikat dan Jepang yang dinilai masih menjanjikan, pengembangan produk sesuai permintaan pasar domestik dan internasional, serta peningkatan efisiensi dan produktivitas di seluruh lini agar produknya tetap kompetitif. Perseroan juga menyatakan terus memantau kondisi ekonomi global, termasuk nilai tukar rupiah, harga minyak dunia, dan suku bunga dalam maupun luar negeri. Untuk saat ini, KICI belum memiliki rencana diversifikasi usaha maupun rencana mengembangkan lini bisnis baru.",
+   "Di sisi tantangan, perseroan mengakui tiga kendala utama: penurunan daya beli domestik yang menyulitkan upaya menaikkan penjualan, konflik di Timur Tengah dan Ukraina yang secara tidak langsung mengganggu rantai pasok sehingga harga dan nilai tukar bahan baku menjadi tidak stabil, serta tekanan kompetisi global dari produk-produk China yang dijual dengan harga sangat murah. KICI memastikan tidak ada kegiatan usahanya yang sedang berhenti. Perseroan menyebut penjelasan lebih rinci yang berkaitan dengan laporan keuangan masih disiapkan dan akan disampaikan menyusul melalui formulir E074."
+  ],
+  "fotoAdegan": "Factory workers inspecting rows of enamel coated metal cookware pots on a production line, industrial lighting.",
+  "takeaway": "Laporan ini netral bagi KICI: klaim kenaikan penjualan 22 persen memang kabar baik, tetapi itu angka yang disampaikan sendiri oleh perseroan tanpa rincian laporan keuangan resmi, sementara risiko kenaikan biaya bahan baku dan tekanan kompetisi yang mereka akui sendiri membuatnya belum bisa dibaca sepenuhnya positif. Yang tersentuh di sini adalah sisi pendapatan dan biaya produksi, yaitu uang yang masuk dari penjualan dan ongkos bahan baku yang dibeli perseroan. Kalau biaya bahan baku naik karena gejolak nilai tukar dan konflik global seperti yang disebut perseroan, itu bisa menggerus margin keuntungan meski penjualan sedang naik. Yang perlu dipantau selanjutnya adalah penjelasan rinci soal laporan keuangan yang menurut suratnya masih disiapkan dan akan disampaikan lewat formulir E074, karena di situlah angka-angka keuangan sebenarnya baru akan terlihat jelas. Dokumen ini sendiri tidak menyebut tanggal pasti kapan penjelasan susulan itu akan disampaikan.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "infranexia-tambah-1-408-km-jaringan-fiber-optik-2026",
   "category": "Teknologi",
   "title": "InfraNexia [Tambah] 1.408 Km Jaringan Fiber Optik 2026",
@@ -83,6 +237,48 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah konkret: InfraNexia menambah 1.408 kilometer kabel fiber optik sepanjang 2026, sehingga total jaringannya kini 112.000 kilometer, dan sejak September 2026 lebih dari 90 persen aset jaringan Telkom sudah dipindahkan ke perusahaan ini lewat proses pemisahan usaha tahap kedua. Yang kena dampak paling langsung bukan konsumen akhir, melainkan sesama pemain industri, operator telekomunikasi lain, penyedia internet, dan pengelola pusat data, karena kini mereka bisa menyewa kapasitas jaringan InfraNexia alih-alih membangun kabel sendiri. Penyebutan tahap kedua pada proses pemisahan ini menunjukkan Telkom melepas unit infrastrukturnya secara bertahap, bukan sekali jadi, mengarah ke InfraNexia yang makin berdiri sendiri sebagai penyedia jaringan untuk banyak pelanggan sekaligus, bukan cuma untuk Telkom. Yang akan menentukan apakah arah ini berlanjut ke pemisahan penuh adalah pengumuman tahap berikutnya dari proses spin-off tersebut, atau kabar soal InfraNexia menggandeng mitra luar untuk mendanai perluasan jaringannya.",
   "imageV": "mwefnrni"
+ },
+ {
+  "slug": "rupslb-gula-7-desember-agenda-ubah-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB GULA 7 Desember: [Agenda] Ubah Susunan Direksi-Komisaris",
+  "deck": "RUPSLB PT Aman Agrindo Tbk (GULA) digelar 7 Desember 2026 untuk membahas perubahan susunan direksi dan komisaris perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T09:38:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6a2a6eafbe_799825c44b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GULA",
+  "tags": [
+   "GULA",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "PT Aman Agrindo Tbk (GULA) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 7 Desember 2026, pukul 09.00 WIB di Cyber 2 Tower Lantai 17, Jl. HR Rasuna Said Blok X-5, Jakarta Selatan. Agenda tunggal rapat ini adalah perubahan susunan Direksi dan/atau Dewan Komisaris Perseroan, dengan rujukan pada Pasal 9 ayat (4) huruf e Anggaran Dasar Perseroan dan Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Pemanggilan ini belum menyebutkan nama calon pengganti atau pihak yang akan diangkat maupun diberhentikan.",
+   "Pemegang saham yang berhak hadir atau memberi kuasa adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Kamis, 12 November 2026, sampai pukul 16.00 WIB. Perseroan menegaskan tidak mengirim undangan tersendiri sehingga pemanggilan ini berlaku sebagai undangan resmi. Bagi yang tidak dapat hadir secara fisik, surat kuasa harus diserahkan ke PT Bima Registra selaku Biro Administrasi Efek paling lambat Jumat, 4 Desember 2026, pukul 16.00 WIB, sementara deklarasi atau perubahan pilihan suara lewat kuasa dibatasi hingga pukul 12.00 WIB pada hari yang sama.",
+   "Pemanggilan ditandatangani oleh Direktur Utama Andreas Ufomo pada 13 November 2026 dan disampaikan ke Otoritas Jasa Keuangan dengan tembusan ke Bursa Efek Indonesia, PT Kustodian Sentral Efek Indonesia, PT Bima Registra, serta notaris Elizabeth Karina Leonita."
+  ],
+  "fotoAdegan": "An empty modern corporate boardroom with a long table, leather chairs, and a city skyline through floor to ceiling windows.",
+  "takeaway": "Laporan ini netral bagi investor karena sifatnya masih berupa pemanggilan rapat, belum ada keputusan soal siapa yang akan masuk atau keluar dari jajaran direksi dan komisaris, sehingga belum ada dampak konkret yang bisa dinilai. Perubahan susunan direksi dan komisaris pada dasarnya tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham, tetapi pergantian pengurus bisa menggeser arah strategi dan kebijakan operasional perusahaan ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 7 Desember 2026, termasuk nama-nama yang akhirnya diangkat atau diberhentikan, serta batas penyerahan surat kuasa pada 4 Desember 2026 bagi pemegang saham yang ingin memastikan haknya tetap terwakili.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas penyerahan surat kuasa ke BAE"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPSLB membahas perubahan direksi dan komisaris"
+   }
+  ]
  },
  {
   "slug": "harga-emas-antam-turun-jadi-rp2-509-000-per-gram",
@@ -7233,8 +7429,8 @@ var ARTICLES = [
  {
   "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
   "category": "Aksi Korporasi",
-  "title": "BMAS Tarik [US$18 Juta] Lagi dari KBank, Total Jadi US$258 Juta",
-  "deck": "BMAS mencairkan tambahan US$18 juta dari fasilitas pinjaman bilateral pemegang saham utamanya, KBank, sehingga total penarikan mencapai US$258 juta dari limit US$341 juta.",
+  "title": "BMAS Tarik US$80 Juta Lagi dari KBank, Total Jadi US$338 Juta",
+  "deck": "BMAS menarik tambahan US$25 juta dan US$55 juta dari fasilitas pinjaman bilateral KBank pada 12 November 2026, sehingga total penarikan mencapai US$338 juta dari limit US$341 juta.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T16:06:40",
@@ -7243,18 +7439,29 @@ var ARTICLES = [
   "emiten": "BMAS",
   "tags": [
    "BMAS",
-   "KBank",
-   "pinjaman afiliasi",
-   "perbankan"
+   "Transaksi Afiliasi",
+   "Pinjaman Bilateral",
+   "KBank"
   ],
   "body": [
-   "PT Bank Kasikorn Indonesia Tbk (BMAS) kembali menarik dana dari fasilitas pinjaman bilateral yang diberikan oleh pemegang saham utamanya, KASIKORNBANK PUBLIC COMPANY LIMITED (KBank). Pada 9 November 2026, perusahaan menarik CNH 120,9 juta atau setara US$18 juta, sehingga total penarikan dari fasilitas ini sejak Agustus 2026 mencapai US$258 juta.",
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) kembali menarik dana dari fasilitas pinjaman bilateral pemegang saham utamanya, KASIKORNBANK PUBLIC COMPANY LIMITED (KBank). Pada 12 November 2026, perusahaan menarik tambahan US$25 juta dan US$55 juta, sehingga total penarikan dari fasilitas ini sejak Agustus 2026 mencapai US$338 juta, hanya tersisa sekitar US$3 juta dari limit fasilitas sebesar US$341 juta.",
    "Fasilitas pinjaman bilateral ini memiliki limit total US$341 juta, dengan tenor hingga dua tahun sejak masing-masing tanggal penarikan dan bunga mengacu pada SOFR, yaitu suku bunga acuan dolar Amerika Serikat yang bergerak sesuai kondisi pasar, ditambah margin. Dari total limit tersebut, US$235 juta sudah terikat perjanjian turunan (underlying) dengan KBank. Perseroan menyebut pinjaman ini digunakan untuk menopang likuiditas jangka panjang dan mendukung penyaluran kredit kepada nasabah, dengan pencairan dilakukan bertahap.",
-   "Penarikan dimulai pada 21 Agustus 2026 sebesar US$55 juta, lalu dilanjutkan dengan penarikan dalam mata uang yuan lepas pantai (CNH) senilai CNH 201 juta atau setara US$30 juta yang efektif pada 20 Oktober 2026, dengan dana ekuivalen dolar sebesar US$155 juta efektif sehari setelahnya. KBank merupakan pemegang saham pengendali tertinggi (ultimate shareholder) BMAS melalui anak usahanya, Kasikorn Vision Financial Company Pte Ltd, yang menguasai 86,03 persen saham BMAS atau 89,48 persen bila dihitung bersama seluruh kepemilikan Grup KASIKORNBANK. Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan sesuai POJK 42/2020 tentang Transaksi Afiliasi."
+   "Riwayat penarikan dimulai pada 21 Agustus 2026 sebesar US$55 juta, lalu dilanjutkan dengan penarikan dalam mata uang yuan lepas pantai (CNH) senilai CNH 201 juta atau setara US$30 juta yang efektif pada 20 Oktober 2026, dengan dana ekuivalen dolar sebesar US$155 juta efektif sehari setelahnya. Pada 9 November 2026 perusahaan menarik lagi CNH 120,9 juta atau setara US$18 juta, sebelum akhirnya menambah US$25 juta dan US$55 juta pada 12 November 2026.",
+   "KBank merupakan pemegang saham pengendali tertinggi (ultimate shareholder) BMAS melalui anak usahanya, Kasikorn Vision Financial Company Pte Ltd, yang menguasai 86,03 persen saham BMAS atau 89,48 persen bila dihitung bersama seluruh kepemilikan Grup KASIKORNBANK. Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan sesuai POJK 42/2020 tentang Transaksi Afiliasi."
   ],
   "fotoAdegan": "Exterior of a modern glass-clad bank office tower in Jakarta's central business district under afternoon light, pedestrians walking past entrance",
-  "takeaway": "Laporan ini netral bagi BMAS karena penarikan tambahan US$18 juta ini hanyalah kelanjutan bertahap dari fasilitas pinjaman yang sudah diumumkan sebelumnya, dengan bunga mengikuti pasar dan tanpa tanda tekanan likuiditas mendesak. Yang tersentuh adalah sisi utang dan beban bunga BMAS, sebab pinjaman berbunga SOFR plus margin ini menambah kewajiban bank kepada pihak berelasi dan akan menaikkan biaya dana, meski di sisi lain dana tersebut memperbesar amunisi BMAS untuk menyalurkan kredit baru ke nasabah. Yang perlu dipantau selanjutnya adalah sisa kapasitas fasilitas yang belum ditarik, sekitar US$83 juta dari limit US$341 juta, serta apakah BMAS akan mencairkannya lagi secara bertahap seperti pola penarikan sejak Agustus 2026.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini netral bagi BMAS, tapi layak dicermati karena penarikan kali ini membuat fasilitas pinjaman afiliasi dari KBank sudah terpakai hampir seluruhnya, yaitu US$338 juta dari limit US$341 juta, jauh lebih cepat terkuras dibanding penarikan sebelumnya yang baru separuh limit. Yang tersentuh adalah sisi utang dan beban bunga BMAS, karena pinjaman berbunga SOFR plus margin ini menambah kewajiban kepada pihak berelasi dan menaikkan biaya dana, meski di sisi lain memperbesar amunisi BMAS untuk menyalurkan kredit baru ke nasabah. Belum ada tanda tekanan likuiditas mendesak, sebab perusahaan sendiri menyebut transaksi ini tidak mengandung benturan kepentingan dan bagian dari rencana bertahap yang sudah diumumkan sejak Agustus. Yang perlu dipantau selanjutnya adalah bagaimana BMAS menutup sisa kapasitas yang hanya sekitar US$3 juta itu, dan apakah akan muncul pengajuan fasilitas afiliasi baru jika kebutuhan likuiditas atau penyaluran kredit terus bertambah.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T11:57:29",
+    "ringkas": "BMAS menarik US$80 juta lagi dari KBank pada 12 November, total penarikan jadi US$338 juta dari limit US$341 juta.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f2fce1cec_412f8865fd.pdf",
+    "judulIdx": "Transaksi Afiliasi"
+   }
+  ],
+  "diperbarui": "2026-11-13T11:57:29",
+  "peristiwa": "transaksi"
  },
  {
   "slug": "bssr-catat-laba-bersih-naik-81-jadi-us-111-7-juta-di-9m26",

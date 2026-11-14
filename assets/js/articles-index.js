@@ -350,6 +350,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478250-bisakah-trading-saham-cukup-lewat-chat-ai-intip-teknologi-terbaru-inai"
  },
  {
+  "slug": "beer-maju-minuman-minahasa-jual-24-5-juta-saham-hak-suara-75-58",
+  "category": "Aksi Korporasi",
+  "title": "BEER: Maju Minuman Minahasa [Jual] 24,5 Juta Saham, Hak Suara 75,58%",
+  "deck": "Direksi BEER, PT Maju Minuman Minahasa, melepas 24,5 juta saham tidak langsung pada 11 November 2026 di harga Rp52 untuk divestasi, hak suara turun ke 75,58%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BEER",
+   "kepemilikan saham",
+   "divestasi",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-5114-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "winr-pemenang-nusantara-jual-48-7-juta-saham-suara-41-81",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemenang Nusantara [Jual] 48,7 Juta Saham, Suara 41,81%",
+  "deck": "Pemegang saham Pemenang Nusantara Internasional melepas 48,7 juta saham WINR senilai sekitar Rp785,2 juta untuk menambah porsi saham beredar bebas.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "Pemenang Nusantara Internasional"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2960-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
   "category": "UMKM",
   "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
@@ -383,6 +415,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ikai-direksi-desra-firza-ghazfan-tambah-100-000-saham-suara-0-08",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: Direksi Desra Tambah 200.000 Saham, Suara Tetap 0,08%",
+  "deck": "Direksi IKAI, Desra Firza Ghazfan, melaporkan pembelian tambahan 100.000 saham pada 11 November 2026 seharga Rp19 per saham, melengkapi transaksi serupa di hari yang sama.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IKAI",
+   "laporan kepemilikan",
+   "direksi",
+   "saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-1383-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah",
   "category": "UMKM",
   "title": "PNM [Perluas] Pembiayaan Mekaar Bunga 8% ke 1,7 Juta Nasabah",
@@ -398,6 +446,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478220-pnm-perluas-pembiayaan-mekaar-bunga-8-targetkan-17-juta-nasabah"
+ },
+ {
+  "slug": "film-samuel-sekuritas-indonesia-tambah-757-500-saham-suara-11-27",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Samuel Sekuritas Indonesia [Tambah] 757.500 Saham, Suara 11,27%",
+  "deck": "Direksi Samuel Sekuritas Indonesia menambah 757.500 saham FILM lewat transaksi repo, hak suara naik dari 11,26% menjadi 11,27%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-7900-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "25-driver-ojol-menang-motor-dari-program-boom-pertamina",
@@ -862,6 +926,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "srtg-edwin-soeryadjaya-tambah-1-27-juta-saham-hak-suara-36-13",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Edwin Soeryadjaya [Tambah] 1,27 Juta Saham, Hak Suara 36,13%",
+  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 1.267.100 saham lewat dua transaksi tidak langsung pada 11-12 November 2026, menaikkan hak suaranya ke 36,1341%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-8762-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "testdwhshm-perubahan-pengurus-direksi-dan-komisaris-berganti",
   "category": "Aksi Korporasi",
   "title": "TESTDWHSHM: [Perubahan Pengurus] Direksi dan Komisaris Berganti",
@@ -891,6 +971,22 @@ var ARTICLES = [
    "pengunduran diri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f9970a5a9_be63243b0e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kino-komisaris-yamashita-beli-87-000-saham-hak-suara-0-0061",
+  "category": "Aksi Korporasi",
+  "title": "KINO: Komisaris Yamashita [Beli] 87.000 Saham, Hak Suara 0,0061%",
+  "deck": "Komisaris KINO berstatus warga negara asing, Mitsuhiro Yamashita, membeli total 87.000 saham secara tidak langsung sepanjang Juli-Agustus 2026, hak suaranya naik ke 0,0061 persen.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KINO",
+   "Dewan Komisaris",
+   "kepemilikan saham",
+   "Mitsuhiro Yamashita"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-0240-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -956,6 +1052,22 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24cb3f298_029d47443d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mdla-komisaris-stanley-tambah-15-000-saham-suara-tetap-0-003",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Komisaris Stanley [Tambah] 15.000 Saham, Suara Tetap 0,003%",
+  "deck": "Komisaris MDLA Stanley Ch. Budihardja menambah 15.000 saham lewat dua transaksi pembelian tidak langsung pada 11 November 2026, hak suaranya tetap 0,003%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLA",
+   "Laporan Kepemilikan Saham",
+   "Dewan Komisaris",
+   "Stanley Ch. Budihardja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-9755-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1058,6 +1170,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "pkpk-direksi-haryanto-sofian-tambah-33-800-saham-suara-0-24",
+  "category": "Aksi Korporasi",
+  "title": "PKPK: Direksi Haryanto Sofian [Tambah] 33.800 Saham, Suara 0,24%",
+  "deck": "Direktur PKPK Haryanto Sofian membeli 33.800 saham pada 12 November 2026, menambah kepemilikannya menjadi 2.857.700 lembar, namun hak suaranya tetap di 0,24 persen.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PKPK",
+   "Paragon Karya Perkasa",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2092-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
   "category": "Aksi Korporasi",
   "title": "Public Expose PNBS 18 November: [Laba] Naik 69,78% ke Rp73,4 M",
@@ -1071,6 +1199,22 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a85b831a9f_31fbbe63c1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "drma-komisaris-jual-2-juta-saham-hak-suara-jadi-1-96",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris [Jual] 2 Juta Saham, Hak Suara Jadi 1,96%",
+  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, melepas 2 juta saham pada 28 Oktober 2026 seharga Rp850 per saham, hak suaranya turun dari 2,00% menjadi 1,96%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2999-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1234,6 +1378,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478121-harga-emas-antam-hari-ini-13-november-2026-turun-jadi-rp2509000-per-gram-saatnya-beli"
+ },
+ {
+  "slug": "dgik-global-dinamika-kencana-tambah-189-5-juta-saham-suara-68-2",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: Global Dinamika Kencana [Tambah] 189,5 Juta Saham, Suara 68,2%",
+  "deck": "Global Dinamika Kencana menambah 189,5 juta saham DGIK lewat transaksi repo seharga Rp150 per saham pada 12 November 2026, hak suaranya naik dari 64,80% menjadi 68,20%.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGIK",
+   "Nusa Konstruksi Enjiniring",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-4569-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtla-direksi-andi-surya-kurnia-tambah-40-000-saham-suara-0",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Direksi Andi Surya Kurnia [Tambah] 40.000 Saham, Suara 0%",
+  "deck": "Direksi MTLA Andi Surya Kurnia menambah 40.000 saham lewat pembelian tidak langsung pada 11 November 2026, tapi hak suaranya tetap 0,00 persen.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTLA",
+   "Direksi",
+   "Kepemilikan Saham",
+   "Metropolitan Land"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-3585-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dividen-interim-medc-kurs-bi-rp18-154-dividen-rp22-03-saham",
@@ -5131,15 +5307,15 @@ var ARTICLES = [
  {
   "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
   "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Perkuat Hak Suara ke [42,16%] via Repo",
-  "deck": "Direksi Samuel Sekuritas Indonesia menambah 972,3 juta saham NSSS lewat repo senilai Rp447,24 miliar, mengangkat hak suaranya dari 38,07% jadi 42,16%.",
+  "title": "NSSS: Direksi Tambah 100,2 Juta Saham, Hak Suara Jadi 45,05%",
+  "deck": "Direksi Samuel Sekuritas Indonesia menambah 100,2 juta saham NSSS lewat skema repo, mengangkat hak suaranya dari 44,63% menjadi 45,05% menjelang RUPSLB 1 Desember yang membahas pergantian komisaris.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "NSSS",
-   "repo saham",
-   "kepemilikan direksi",
-   "hak suara"
+   "kepemilikan saham",
+   "repo",
+   "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5536-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -5183,15 +5359,15 @@ var ARTICLES = [
  {
   "slug": "rlco-direksi-tambah-11-56-juta-saham-via-top-up-repo",
   "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Tambah 11,56 Juta Saham via [Top Up] Repo",
-  "deck": "Direksi RLCO, Samuel Sekuritas Indonesia, menambah kepemilikan saham lewat mekanisme top up perjanjian repo pada 9 November 2026, menaikkan hak suara dari 11,85% menjadi 12,22%.",
+  "title": "RLCO: Direksi Tambah 7,75 Juta Saham, Hak Suara Jadi 14,88%",
+  "deck": "Rangkaian transaksi repo oleh direksi RLCO, Samuel Sekuritas Indonesia, pada 12 November 2026 menambah kepemilikan bersih 7,75 juta saham, menaikkan hak suara dari 14,63% menjadi 14,88%.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "RLCO",
-   "repo",
-   "direksi",
-   "kepemilikan saham"
+   "Laporan Kepemilikan",
+   "Repo",
+   "Direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8276-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -6014,15 +6190,15 @@ var ARTICLES = [
  {
   "slug": "akpi-komisaris-henry-liem-jual-lagi-250-000-saham",
   "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] Lagi 250.000 Saham",
-  "deck": "Henry Liem, Dewan Komisaris AKPI, melaporkan penjualan 250.000 saham pada 6 November 2026 lewat skema repurchase agreement, menyusul penjualan 350.000 saham pekan sebelumnya.",
+  "title": "AKPI: Komisaris Henry Liem Jual Lagi 200.000 Saham, Hak Suara 0,3139%",
+  "deck": "Henry Liem, Dewan Komisaris AKPI, kembali melaporkan penjualan 200.000 saham pada 12 November 2026 lewat skema repurchase agreement, laporan ketiga sejak 6 November.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "AKPI",
-   "Komisaris",
-   "Transaksi Saham",
-   "Henry Liem"
+   "Laporan Kepemilikan",
+   "Henry Liem",
+   "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4359-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -6319,189 +6495,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477228-bayan-resources-pastikan-penjualan-saham-ke-haji-isam-tanpa-tekanan"
- },
- {
-  "slug": "pemerintah-buka-diskon-tiket-transportasi-nataru-2026-2027",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Buka Diskon Tiket Transportasi [Nataru] 2026/2027",
-  "deck": "Diskon tarif kereta api, kapal laut, penyeberangan, dan pesawat untuk libur Nataru 2026/2027 resmi berjalan, berdasarkan SKB tiga menteri dan aturan PPN ditanggung pemerintah untuk tiket pesawat.",
-  "date": "8 November 2026",
-  "image": "assets/img/keranjang-belanja-ibu.jpg",
-  "tags": [
-   "Diskon Transportasi",
-   "Nataru 2026",
-   "BUMN Transportasi",
-   "PPN DTP"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7206/sambut-libur-natal-dan-tahun-baru-pemerintah-luncurkan-stimulus-diskon-transportasi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026",
-  "category": "UMKM",
-  "title": "857 UMK Binaan Pertamina [Lolos] ke Tahap Nasional 2026",
-  "deck": "Dari lebih 1.500 pendaftar, 857 UMK binaan Pertamina lolos ke tahap nasional UMK Academy 2026 untuk dibina lebih lanjut hingga Desember.",
-  "date": "7 November 2026",
-  "image": "assets/img/857-umk-binaan-pertamina-lolos-ke-tahap-nasional-2026.jpg",
-  "imageV": "mw6mt2jg",
-  "tags": [
-   "UMKM",
-   "Pertamina",
-   "CSR",
-   "UMK Academy"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477177-mendorong-umk-naik-kelas-fokus-pertamina-perkuat-manajemen-usaha-lokal"
- },
- {
-  "slug": "summarecon-gelar-pameran-properti-dan-hiburan-di-bekasi",
-  "category": "Bisnis",
-  "title": "Summarecon Gelar Pameran [Properti] dan Hiburan di Bekasi",
-  "deck": "Summarecon Expo 2026 digelar di Summarecon Mall Bekasi pada 6-15 November, memadukan pameran properti dari sembilan kawasan pengembangan dengan pertunjukan akrobat internasional dan aktivitas keluarga.",
-  "date": "7 November 2026",
-  "image": "assets/img/summarecon-gelar-pameran-properti-dan-hiburan-di-bekasi.jpg",
-  "imageV": "mw6mt2zf",
-  "tags": [
-   "properti",
-   "bekasi",
-   "summarecon",
-   "pameran"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477164-seni-pertunjukan-dan-edukasi-keluarga-jadi-magnet-pameran-di-bekasi"
- },
- {
-  "slug": "pertamina-gelar-smexpo-cilacap-libatkan-50-umkm",
-  "category": "UMKM",
-  "title": "Pertamina Gelar SMEXPO Cilacap, Libatkan 50 [UMKM]",
-  "deck": "Pertamina Patra Niaga menggelar pameran UMKM selama tiga hari di Cilacap, melibatkan lebih dari 50 pelaku usaha lokal untuk promosi produk dan temu bisnis.",
-  "date": "7 November 2026",
-  "image": "assets/img/pertamina-gelar-smexpo-cilacap-libatkan-50-umkm.jpg",
-  "imageV": "mw6mt3or",
-  "tags": [
-   "pertamina",
-   "umkm",
-   "cilacap",
-   "smexpo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477155-strategi-pertamina-dorong-umkm-jadi-penggerak-ekonomi-daerah-gelar-pertamina-smexpo-cilacap-2026"
- },
- {
-  "slug": "ikpm-direksi-tambah-5-100-saham-senilai-rp731-300",
-  "category": "Aksi Korporasi",
-  "title": "IKPM: Direksi [Tambah] 5.100 Saham Senilai Rp731.300",
-  "deck": "Direktur IKPM, Eliza Arlena Winata, menambah kepemilikan saham lewat tiga transaksi kecil pada 5 November, namun hak suaranya tetap 0,19 persen.",
-  "date": "7 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKPM",
-   "kepemilikan saham",
-   "direksi",
-   "Ikapharmindo Putramas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-07112026-6215-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas",
-  "category": "Energi",
-  "title": "ESDM dan SKK Migas Diganjar Penghargaan atas [Hilirisasi] dan Migas",
-  "deck": "Kementerian ESDM dan SKK Migas meraih CNN Indonesia Awards 2026 atas capaian hilirisasi senilai Rp180 triliun dan percepatan FEED proyek LNG Masela senilai US$22 miliar.",
-  "date": "7 November 2026",
-  "image": "assets/img/esdm-dan-skk-migas-diganjar-penghargaan-atas-hilirisasi-dan-migas.jpg",
-  "imageV": "mw62n0ap",
-  "tags": [
-   "Hilirisasi",
-   "SKK Migas",
-   "LNG Masela",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-dan-skk-migas-raih-cnn-indonesia-awards-2026",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim",
-  "category": "BUMN",
-  "title": "Petrokimia Gresik Perkuat [Koordinasi] dengan BIN Jatim",
-  "deck": "Petrokimia Gresik menerima kunjungan Kabinda Jatim untuk memperkuat komunikasi antarlembaga demi menjaga kelangsungan industri pupuk nasional.",
-  "date": "7 November 2026",
-  "image": "assets/img/petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim.jpg",
-  "imageV": "mw62n0nz",
-  "tags": [
-   "pupuk",
-   "ketahanan pangan",
-   "Petrokimia Gresik",
-   "BIN Jatim"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477089-jaga-keberlanjutan-industri-pupuk-petrokimia-gresik-perkuat-koordinasi-dengan-bin-jatim"
- },
- {
-  "slug": "aspr-jelaskan-kenaikan-liabilitas-21-jadi-rp182-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ASPR Jelaskan [Kenaikan] Liabilitas 21% Jadi Rp182 Miliar",
-  "deck": "PT Asia Pramulia Tbk melaporkan total liabilitas naik 21,02 persen menjadi Rp182,17 miliar per September 2026, didorong tambahan utang bank dan utang usaha.",
-  "date": "7 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASPR",
-   "liabilitas",
-   "keterbukaan informasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/925c6f91a0_9c00908818.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-545-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.545.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp20.000 menjadi Rp2.545.000 per gram pada Jumat, sementara harga buyback juga turun ke Rp2.350.000 per gram.",
-  "date": "7 November 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-545-000-per-gram.jpg",
-  "imageV": "mw5sry8a",
-  "tags": [
-   "emas",
-   "harga emas antam",
-   "antam",
-   "buyback emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477066-saatnya-beli-untuk-investasi-harga-emas-antam-hari-ini-7-november-2026-turun-jadi-rp2545000-per-gram"
- },
- {
-  "slug": "shopeepay-gelar-promo-11-11-kfc-rp11-ribu-hingga-saldo-kaget",
-  "category": "Teknologi",
-  "title": "ShopeePay Gelar Promo [11.11], KFC Rp11 Ribu hingga Saldo Kaget",
-  "deck": "ShopeePay membuka kampanye diskon 11.11 pada 6-15 November 2026, mencakup paket ayam goreng Rp11.000, potongan 60 persen lewat SPayLater, dan saldo kejutan harian.",
-  "date": "7 November 2026",
-  "image": "assets/img/shopeepay-gelar-promo-11-11-kfc-rp11-ribu-hingga-saldo-kaget.jpg",
-  "imageV": "mw5sryny",
-  "tags": [
-   "ShopeePay",
-   "11.11",
-   "SPayLater",
-   "promo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477052-siap-siap-berburu-promo-di-aplikasi-shopeepay-1111-kfc-rp11-ribu-hingga-saldo-kaget-setiap-hari-menanti"
- },
- {
-  "slug": "sbat-dinyatakan-pailit-auditor-beri-opini-disclaimer",
-  "category": "Aksi Korporasi",
-  "title": "SBAT Dinyatakan Pailit, Auditor Beri Opini [Disclaimer]",
-  "deck": "Laporan keuangan audit 2023 SBAT mencatat ekuitas negatif Rp15,56 miliar dan opini disclaimer, menyusul keputusan pailit pengadilan niaga pada Agustus 2025.",
-  "date": "7 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SBAT",
-   "kepailitan",
-   "tender saham",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c03d9d9782_ffb99ca34c.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -577,6 +577,61 @@ var ARTICLES = [
   "imageV": "mwfewnpn"
  },
  {
+  "slug": "beer-maju-minuman-minahasa-jual-24-5-juta-saham-hak-suara-75-58",
+  "category": "Aksi Korporasi",
+  "title": "BEER: Maju Minuman Minahasa [Jual] 24,5 Juta Saham, Hak Suara 75,58%",
+  "deck": "Direksi BEER, PT Maju Minuman Minahasa, melepas 24,5 juta saham tidak langsung pada 11 November 2026 di harga Rp52 untuk divestasi, hak suara turun ke 75,58%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T23:14:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-5114-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BEER",
+  "tags": [
+   "BEER",
+   "kepemilikan saham",
+   "divestasi",
+   "direksi"
+  ],
+  "body": [
+   "PT Maju Minuman Minahasa, yang menjabat sebagai direksi PT Jobubu Jarum Minahasa Tbk (BEER), melaporkan kepada Otoritas Jasa Keuangan adanya penjualan 24.500.000 saham BEER berklasifikasi saham biasa. Penjualan dilakukan secara tidak langsung pada 11 November 2026 dengan harga Rp52 per saham, dan tujuan transaksi yang dicatat dalam laporan adalah divestasi.",
+   "Sebelum transaksi, PT Maju Minuman Minahasa memegang 3.047.686.825 saham BEER, setara dengan hak suara 76,19 persen di perusahaan. Setelah penjualan tersebut, jumlah sahamnya berkurang menjadi 3.023.186.825 lembar dan hak suaranya turun menjadi 75,58 persen. Selisih 24,5 juta saham itu hanya sekitar 0,8 persen dari total kepemilikan pelapor sebelum transaksi, dan laporan ini disampaikan ke bursa pada 13 November 2026 sesuai ketentuan POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Workers inspecting bottled beverages moving along a conveyor line inside a beverage bottling plant, soft morning light",
+  "takeaway": "Laporan ini netral bagi emiten karena saham yang dilepas hanya sekitar 0,8 persen dari kepemilikan PT Maju Minuman Minahasa sebelumnya, dan statusnya sebagai pemegang saham mayoritas tidak berubah karena hak suaranya masih di atas 75 persen. Yang tersentuh di sini adalah hak suara, yaitu porsi suara pemegang saham yang menentukan keputusan dalam rapat umum pemegang saham, sehingga pelaku pasar biasanya memantau pergeseran kepemilikan pemegang saham besar meski dalam kasus ini perubahannya tipis dan tidak mengubah kendali perusahaan. Yang perlu dicermati selanjutnya adalah apakah PT Maju Minuman Minahasa akan melanjutkan pelepasan saham dalam jumlah lebih besar pada laporan berikutnya, karena kewajiban lapor semacam ini akan muncul lagi setiap kali terjadi perubahan kepemilikan baru.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "winr-pemenang-nusantara-jual-48-7-juta-saham-suara-41-81",
+  "category": "Aksi Korporasi",
+  "title": "WINR: Pemenang Nusantara [Jual] 48,7 Juta Saham, Suara 41,81%",
+  "deck": "Pemegang saham Pemenang Nusantara Internasional melepas 48,7 juta saham WINR senilai sekitar Rp785,2 juta untuk menambah porsi saham beredar bebas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T23:12:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2960-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINR",
+  "tags": [
+   "WINR",
+   "kepemilikan saham",
+   "free float",
+   "Pemenang Nusantara Internasional"
+  ],
+  "body": [
+   "Pemenang Nusantara Internasional, pemegang saham PT Winner Nusantara Jaya Tbk (WINR) yang bukan anggota direksi maupun dewan komisaris perseroan, melaporkan penjualan 48.743.400 lembar saham WINR ke Otoritas Jasa Keuangan pada 13 November 2026. Jumlah saham yang dipegang turun dari 2.237.703.400 lembar menjadi 2.188.960.000 lembar, sementara hak suaranya di perseroan berkurang dari 42,74 persen menjadi 41,81 persen.",
+   "Penjualan dilakukan secara tidak langsung dalam dua transaksi pada 11 November 2026. Transaksi pertama sebanyak 43.430.000 saham biasa dijual pada harga Rp16 per saham, dan transaksi kedua sebanyak 5.313.400 saham biasa dijual pada harga Rp17 per saham. Total nilai kedua transaksi sekitar Rp785,2 juta. Dokumen menyebut tujuan penjualan adalah menambah porsi saham free float, yakni saham yang beredar bebas di pasar dan bisa diperjualbelikan publik, bukan dipegang dalam genggaman pemegang saham besar.",
+   "Dengan penjualan ini, Pemenang Nusantara Internasional masih menguasai 41,81 persen hak suara WINR, sehingga tetap menjadi salah satu pemegang saham terbesar di perseroan meski porsinya sedikit menyusut."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta financial district office tower at dusk, lights switching on floor by floor",
+  "takeaway": "Laporan ini netral bagi WINR, karena saham yang dilepas hanya sekitar 2,18 persen dari total kepemilikan pelapor dan hak suaranya masih bertahan di atas 41 persen, jauh dari perubahan status kendali. Yang tersentuh di sini adalah struktur saham beredar bebas atau free float, yaitu porsi saham yang bisa diperjualbelikan publik di luar genggaman pemegang saham besar; pelaku pasar memperhatikan free float karena semakin besar porsinya, semakin mudah saham itu diperdagangkan dan semakin besar peluang masuk kriteria indeks tertentu. Dokumen ini sendiri tidak mencantumkan tenggat atau agenda lanjutan seperti RUPS, sehingga yang perlu dipantau adalah apakah pelepasan oleh pemegang saham ini berlanjut di laporan-laporan berikutnya, yang bisa mendekatkan porsinya ke batas yang memengaruhi status pengendali perseroan.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
   "category": "UMKM",
   "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
@@ -632,6 +687,43 @@ var ARTICLES = [
   "judulIdx": "Transaksi Afiliasi"
  },
  {
+  "slug": "ikai-direksi-desra-firza-ghazfan-tambah-100-000-saham-suara-0-08",
+  "category": "Aksi Korporasi",
+  "title": "IKAI: Direksi Desra Tambah 200.000 Saham, Suara Tetap 0,08%",
+  "deck": "Direksi IKAI, Desra Firza Ghazfan, melaporkan pembelian tambahan 100.000 saham pada 11 November 2026 seharga Rp19 per saham, melengkapi transaksi serupa di hari yang sama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:52:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-1383-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IKAI",
+  "tags": [
+   "IKAI",
+   "laporan kepemilikan",
+   "direksi",
+   "saham"
+  ],
+  "body": [
+   "Desra Firza Ghazfan, anggota direksi PT Intikeramik Alamasri Industri Tbk (IKAI), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli tambahan 100.000 saham IKAI secara tidak langsung pada 11 November 2026 dengan harga Rp19 per saham, untuk tujuan investasi. Dengan transaksi ini, jumlah saham yang dimiliki Desra naik dari 10.200.000 lembar menjadi 10.300.000 lembar.",
+   "Laporan ini melengkapi transaksi serupa yang sudah dilaporkan sebelumnya, yaitu pembelian 100.000 saham IKAI pada tanggal yang sama dengan harga yang sama, yang membawa kepemilikan Desra dari 10.300.000 lembar menjadi 10.400.000 lembar. Dengan begitu, total saham yang dibeli Desra pada 11 November 2026 mencapai 200.000 lembar, dengan nilai sekitar Rp3,8 juta berdasarkan harga yang dilaporkan. Porsi hak suaranya di IKAI tetap tercatat di level 0,08 persen, baik sebelum maupun sesudah kedua transaksi tersebut.",
+   "Laporan kepemilikan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Transaksi semacam ini wajib dilaporkan oleh direksi, komisaris, atau pemegang saham utama setiap kali terjadi perubahan kepemilikan saham di perusahaan terbuka tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Workers inspecting stacks of ceramic floor tiles on a factory production line under industrial lighting",
+  "takeaway": "Laporan ini tetap netral bagi IKAI, karena total tambahan 200.000 saham yang dibeli Desra pada 11 November 2026, senilai sekitar Rp3,8 juta, masih terlalu kecil dibandingkan basis kepemilikannya sebelumnya untuk dibaca sebagai sinyal keyakinan atau kekhawatiran direksi terhadap prospek perusahaan. Transaksi ini tidak memengaruhi jumlah saham beredar maupun laba per saham IKAI secara keseluruhan, sebab yang berubah hanya porsi kepemilikan pribadi direksi di pasar sekunder, bukan penerbitan saham baru oleh perusahaan, dan hak suaranya di perusahaan tetap di 0,08 persen sebelum maupun sesudah kedua transaksi. Yang perlu dipantau selanjutnya adalah apakah direksi atau komisaris IKAI lain menyusul melaporkan transaksi serupa dalam waktu dekat, karena pola pembelian berulang oleh jajaran manajemen baru punya arti kalau terjadi dalam jumlah yang jauh lebih besar dan konsisten, bukan dua transaksi kecil seperti ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T20:45:56",
+    "ringkas": "Desra melaporkan transaksi kedua pada 11 November 2026: tambahan 100.000 saham, sehingga total pembelian hari itu jadi 200.000 lembar, suara tetap 0,08%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-3071-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-13T20:45:56"
+ },
+ {
   "slug": "pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah",
   "category": "UMKM",
   "title": "PNM [Perluas] Pembiayaan Mekaar Bunga 8% ke 1,7 Juta Nasabah",
@@ -657,6 +749,34 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan cuma soal bunga, tapi sumber uangnya. Saat masih berupa piloting di 10 titik sejak September 2026, seluruh dana pembiayaan bunga 8 persen ini ditanggung sendiri oleh PNM dari kas perusahaan. Begitu masuk program KPPS pada 10 November 2026, dananya beralih memakai kredit program milik pemerintah, sehingga PNM kini menyalurkan uang negara, bukan lagi modal sendiri, kepada nasabah perempuan pelaku usaha ultra mikro. Yang langsung kena dampaknya adalah nasabah di 10 titik piloting dan nasabah baru di Batam sebagai lokasi pertama program ini berjalan dengan dana pemerintah. Pergeseran ini mengarah ke perluasan pembiayaan murah secara bertahap lewat dana negara, bukan sekadar program korporasi, dan yang akan memastikan arah ini adalah apakah target 1,7 juta nasabah sampai akhir 2026 tercapai serta apakah program KPPS diperluas ke titik Mekaar lain setelah Batam.",
   "imageV": "mwf5fcws"
+ },
+ {
+  "slug": "film-samuel-sekuritas-indonesia-tambah-757-500-saham-suara-11-27",
+  "category": "Aksi Korporasi",
+  "title": "FILM: Samuel Sekuritas Indonesia [Tambah] 757.500 Saham, Suara 11,27%",
+  "deck": "Direksi Samuel Sekuritas Indonesia menambah 757.500 saham FILM lewat transaksi repo, hak suara naik dari 11,26% menjadi 11,27%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T20:46:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-7900-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FILM",
+  "tags": [
+   "FILM",
+   "MD Entertainment",
+   "kepemilikan saham",
+   "Direksi"
+  ],
+  "body": [
+   "PT MD Entertainment Tbk (FILM) menerima laporan kepemilikan saham dari Samuel Sekuritas Indonesia, yang menjabat sebagai Direksi perusahaan. Dalam laporan bertanggal 13 November 2026 itu, jumlah saham yang dipegangnya bertambah dari 1.225.827.600 unit menjadi 1.226.585.100 unit, atau naik 757.500 lembar.",
+   "Transaksi tercatat sebagai repurchase agreement alias repo, yaitu jual beli saham dengan kesepakatan dibeli kembali, bukan pembelian biasa di pasar. Transaksi berupa pembelian 757.500 saham biasa pada harga Rp280 per saham, terjadi pada 12 November 2026, dengan tujuan yang disebut dalam dokumen sebagai 'penempatan repo'.",
+   "Akibat transaksi ini, hak suara Samuel Sekuritas Indonesia di FILM naik tipis dari 11,26 persen menjadi 11,27 persen. Dibandingkan dengan total kepemilikannya sebelum transaksi, penambahan ini hanya setara 0,0618 persen."
+  ],
+  "fotoAdegan": "Office workers walking through a glass-walled corporate lobby in Jakarta's financial district, soft midday light",
+  "takeaway": "Laporan ini netral bagi pandangan terhadap MD Entertainment, sebab 757.500 saham yang ditambah hanya setara 0,06 persen dari kepemilikan Samuel Sekuritas Indonesia sendiri, sehingga tidak mengubah posisi kendali meski hak suaranya naik sedikit dari 11,26 persen menjadi 11,27 persen. Perlu dicatat juga bahwa ini transaksi repo, yakni jual beli saham dengan janji dibeli kembali pada harga dan waktu tertentu, berbeda dari pembelian murni untuk investasi jangka panjang. Pos yang tersentuh adalah jumlah saham yang dipegang pihak terafiliasi dan hak suaranya, dua hal yang biasa dipantau pasar untuk melihat pergeseran kendali di sebuah perusahaan. Dokumen ini tidak menyebut agenda lanjutan seperti RUPS atau tenggat baru, sehingga transaksi tanggal 12 November 2026 ini bisa dibaca sebagai pergerakan administratif rutin kepemilikan saham.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "25-driver-ojol-menang-motor-dari-program-boom-pertamina",
@@ -1573,6 +1693,34 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "srtg-edwin-soeryadjaya-tambah-1-27-juta-saham-hak-suara-36-13",
+  "category": "Aksi Korporasi",
+  "title": "SRTG: Edwin Soeryadjaya [Tambah] 1,27 Juta Saham, Hak Suara 36,13%",
+  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 1.267.100 saham lewat dua transaksi tidak langsung pada 11-12 November 2026, menaikkan hak suaranya ke 36,1341%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:33:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-8762-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SRTG",
+  "tags": [
+   "SRTG",
+   "Saratoga Investama Sedaya",
+   "Edwin Soeryadjaya",
+   "kepemilikan saham"
+  ],
+  "body": [
+   "Edwin Soeryadjaya, yang menjabat Dewan Komisaris PT Saratoga Investama Sedaya Tbk (SRTG), melaporkan ke Otoritas Jasa Keuangan bahwa ia menambah kepemilikan saham perusahaan melalui dua transaksi pembelian tidak langsung. Transaksi pertama sebanyak 454.400 saham biasa dibeli pada 11 November 2026 di harga Rp1.700 per saham, disusul pembelian 812.700 saham biasa pada 12 November 2026 di harga Rp1.683 per saham. Dokumen mencatat tujuan kedua transaksi tersebut sebagai investasi.",
+   "Dengan tambahan 1.267.100 saham tersebut, jumlah saham Edwin di SRTG naik dari 4.900.261.190 unit menjadi 4.901.528.290 unit. Hak suaranya di perusahaan ikut bergeser, dari 36,1247% menjadi 36,1341%. Berdasarkan harga yang tercantum di laporan, total nilai dua transaksi ini sekitar Rp2,14 miliar.",
+   "Jika dibandingkan dengan jumlah saham yang sudah dimilikinya sebelum transaksi, penambahan ini hanya setara 0,0259% dari kepemilikan Edwin di SRTG, sehingga posisinya sebagai salah satu pemegang saham dengan hak suara terbesar di perusahaan praktis tidak berubah."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district, reflecting soft afternoon light, low angle.",
+  "takeaway": "Laporan ini netral bagi SRTG karena pembelian tambahan oleh Komisaris Edwin Soeryadjaya hanya setara 0,0259% dari kepemilikannya sebelumnya, terlalu kecil untuk dibaca sebagai sinyal kuat soal arah perusahaan. Yang bergerak di sini adalah hak suara pribadi Edwin di SRTG, dari 36,1247% menjadi 36,1341%, yakni ukuran seberapa besar kendalinya atas keputusan perusahaan lewat rapat pemegang saham, dan pelaku pasar biasanya mencermati transaksi semacam ini karena dianggap mencerminkan keyakinan orang dalam terhadap perusahaannya, meski besaran sekecil ini belum cukup untuk disimpulkan sebagai sinyal percaya diri yang berarti. Yang perlu dipantau selanjutnya adalah RUPSLB SRTG yang menurut jadwal terakhir perusahaan akan digelar secara virtual pada 16 Desember 2026, karena agenda rapat itu jauh lebih menentukan arah perusahaan ketimbang transaksi kecil seperti ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "testdwhshm-perubahan-pengurus-direksi-dan-komisaris-berganti",
   "category": "Aksi Korporasi",
   "title": "TESTDWHSHM: [Perubahan Pengurus] Direksi dan Komisaris Berganti",
@@ -1632,6 +1780,34 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "pengurus",
   "judulIdx": "Keterbukaan Informasi atas Penerimaan Permohonan Pengunduran Diri sebagai Anggota Direksi dan selaku Direktur Utama PT WIR ASIA Tbk (Perseroan)"
+ },
+ {
+  "slug": "kino-komisaris-yamashita-beli-87-000-saham-hak-suara-0-0061",
+  "category": "Aksi Korporasi",
+  "title": "KINO: Komisaris Yamashita [Beli] 87.000 Saham, Hak Suara 0,0061%",
+  "deck": "Komisaris KINO berstatus warga negara asing, Mitsuhiro Yamashita, membeli total 87.000 saham secara tidak langsung sepanjang Juli-Agustus 2026, hak suaranya naik ke 0,0061 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:05:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-0240-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KINO",
+  "tags": [
+   "KINO",
+   "Dewan Komisaris",
+   "kepemilikan saham",
+   "Mitsuhiro Yamashita"
+  ],
+  "body": [
+   "Mitsuhiro Yamashita, anggota Dewan Komisaris PT Kino Indonesia Tbk (KINO) yang berstatus warga negara asing, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya atas saham KINO bertambah dari nol menjadi 87.000 lembar. Dengan penambahan ini, hak suaranya di perusahaan naik dari 0 persen menjadi 0,0061 persen. Laporan disampaikan pada 13 November 2026 sesuai kewajiban POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
+   "Penambahan saham itu berasal dari tiga transaksi pembelian tidak langsung dengan tujuan investasi. Pada 1 Juli 2026, Yamashita membeli 21.500 saham dengan harga Rp1.170 per saham, lalu 28.500 saham pada 2 Juli 2026 dengan harga Rp1.180 per saham. Transaksi ketiga terjadi pada 10 Agustus 2026 sebanyak 37.000 saham dengan harga Rp1.340 per saham, sehingga total saham yang dibeli mencapai 87.000 lembar.",
+   "Seluruh transaksi tercatat dengan status kepemilikan tidak langsung, artinya saham tersebut dipegang melalui pihak lain, bukan atas nama pribadi Yamashita. Dokumen tidak merinci pihak yang menjadi pemegang langsung saham tersebut."
+  ],
+  "fotoAdegan": "Workers packaging personal care products on a conveyor line inside a bright Indonesian manufacturing plant.",
+  "takeaway": "Laporan ini tergolong netral bagi KINO, sebab porsi saham yang dibeli komisaris Yamashita sangat kecil dan belum mengubah peta kendali perusahaan. Yang berubah hanya hak suara pribadi sang komisaris, dari 0 persen menjadi 0,0061 persen, sementara jumlah saham beredar KINO secara keseluruhan tidak bertambah karena transaksi ini terjadi di pasar sekunder, bukan penerbitan saham baru. Pelaku pasar biasanya memperhatikan pembelian saham oleh direksi atau komisaris sebagai sinyal keyakinan terhadap kinerja perusahaan, tapi nilai sekecil ini terlalu kecil untuk dibaca sebagai pernyataan sikap. Yang perlu dipantau berikutnya adalah apakah insider lain KINO menyusul membeli saham, terutama setelah perusahaan mengumumkan dividen interim Rp52 per saham pada 9 November 2026, serta apakah laporan kepemilikan berikutnya menunjukkan pola akumulasi yang lebih besar.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "bbkp-jawab-bursa-divestasi-85-kbbf-rampung-rp339-97-miliar",
@@ -1768,6 +1944,34 @@ var ARTICLES = [
     "acara": "Pelaksanaan RUPSLB WOMF"
    }
   ]
+ },
+ {
+  "slug": "mdla-komisaris-stanley-tambah-15-000-saham-suara-tetap-0-003",
+  "category": "Aksi Korporasi",
+  "title": "MDLA: Komisaris Stanley [Tambah] 15.000 Saham, Suara Tetap 0,003%",
+  "deck": "Komisaris MDLA Stanley Ch. Budihardja menambah 15.000 saham lewat dua transaksi pembelian tidak langsung pada 11 November 2026, hak suaranya tetap 0,003%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T14:37:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-9755-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLA",
+  "tags": [
+   "MDLA",
+   "Laporan Kepemilikan Saham",
+   "Dewan Komisaris",
+   "Stanley Ch. Budihardja"
+  ],
+  "body": [
+   "Dewan Komisaris PT Medela Potentia Tbk (MDLA), Stanley Ch. Budihardja, melaporkan penambahan kepemilikan sahamnya ke Otoritas Jasa Keuangan pada 13 November 2026. Berdasarkan laporan bernomor LK/13112026/0006/1, jumlah saham MDLA yang dipegangnya naik dari 516.400 lembar menjadi 531.400 lembar, bertambah 15.000 lembar.",
+   "Penambahan itu berasal dari dua transaksi pembelian tidak langsung pada 11 November 2026, yakni 13.100 saham biasa di harga Rp181 per saham dan 1.900 saham biasa di harga Rp182 per saham, dengan total nilai sekitar Rp2,72 juta. Dokumen mencatat jenis transaksinya sebagai repurchase agreement atau perjanjian pembelian kembali, dengan tujuan investasi.",
+   "Kenaikan 15.000 lembar ini setara dengan 2,9 persen dari saham yang sebelumnya sudah dipegang Stanley, tapi porsinya di seluruh saham MDLA tetap sangat kecil. Hak suaranya di perusahaan tercatat tidak berubah, yaitu 0,003% baik sebelum maupun sesudah transaksi."
+  ],
+  "fotoAdegan": "Financial district skyscrapers in Jakarta with glass facades reflecting morning sunlight, viewed from a busy street below.",
+  "takeaway": "Laporan ini netral bagi fundamental MDLA, karena penambahan 15.000 saham oleh Komisaris Stanley hanya memperbesar kepemilikan pribadinya tanpa mengubah hak suaranya di perusahaan, sehingga tidak bisa dibaca sebagai sinyal keyakinan maupun kekhawatiran yang kuat. Yang tersentuh di sini cuma kepemilikan individu, bukan jumlah saham beredar MDLA secara keseluruhan, sebab ini transaksi di pasar sekunder antar pemegang saham, bukan penerbitan saham baru. Pelaku pasar biasanya memperhatikan transaksi orang dalam seperti ini sebagai sinyal pandangan manajemen terhadap perusahaannya sendiri, tapi nilainya yang hanya sekitar Rp2,72 juta terlalu kecil untuk ditafsirkan sebagai sikap tegas. Dokumen ini tidak memuat tenggat atau agenda lanjutan, jadi yang bisa dipantau pembaca selanjutnya adalah apakah Stanley atau komisaris dan direksi MDLA lain melakukan transaksi serupa dalam jumlah yang lebih besar ke depan.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
@@ -1978,6 +2182,33 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "pkpk-direksi-haryanto-sofian-tambah-33-800-saham-suara-0-24",
+  "category": "Aksi Korporasi",
+  "title": "PKPK: Direksi Haryanto Sofian [Tambah] 33.800 Saham, Suara 0,24%",
+  "deck": "Direktur PKPK Haryanto Sofian membeli 33.800 saham pada 12 November 2026, menambah kepemilikannya menjadi 2.857.700 lembar, namun hak suaranya tetap di 0,24 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T11:34:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2092-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PKPK",
+  "tags": [
+   "PKPK",
+   "Paragon Karya Perkasa",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Haryanto Sofian, yang menjabat sebagai Direksi Paragon Karya Perkasa Tbk (PKPK), melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan melalui empat transaksi tidak langsung pada 12 November 2026. Rinciannya adalah 6.100 saham di harga Rp6.200, 14.600 saham di harga Rp6.275, 3.000 saham di harga Rp6.250, dan 10.100 saham di harga Rp6.225 per lembar, semuanya untuk tujuan investasi. Totalnya 33.800 saham dengan nilai transaksi sekitar Rp211 juta.",
+   "Dengan pembelian ini, jumlah saham Haryanto Sofian di PKPK naik dari 2.823.900 lembar menjadi 2.857.700 lembar, atau bertambah sekitar 1,2 persen dari kepemilikannya sebelum transaksi. Meski jumlah sahamnya bertambah, porsi hak suaranya di PKPK tidak berubah, tetap tercatat 0,24 persen baik sebelum maupun sesudah transaksi, karena porsi sahamnya terhadap total saham beredar PKPK masih sangat kecil."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers reflecting warm sunset light, pedestrians walking on a busy street below",
+  "takeaway": "Transaksi ini netral bagi fundamental PKPK, karena volumenya kecil, hanya menambah kepemilikan pribadi Haryanto Sofian sekitar 1,2 persen dari saham yang sudah dipegangnya, dan porsi hak suaranya di perusahaan tetap di 0,24 persen sehingga tidak mengubah struktur kendali. Yang tersentuh di sini cuma jumlah saham yang dipegang direksi secara pribadi, bukan jumlah saham beredar perusahaan atau pos keuangan seperti ekuitas dan arus kas, sehingga tidak ada dampak langsung ke laporan keuangan PKPK. Pembelian oleh orang dalam kadang dibaca pasar sebagai tanda percaya diri direksi terhadap prospek perusahaan, tetapi dengan nilai transaksi hanya sekitar Rp211 juta, sinyal itu terlalu kecil untuk disimpulkan sebagai pernyataan sikap. Yang perlu dipantau selanjutnya adalah apakah transaksi serupa berlanjut dari direksi atau komisaris PKPK lainnya, karena pola pembelian berulang oleh orang dalam baru punya arti kalau terjadi secara berkelanjutan, bukan sekali saja.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
   "category": "Aksi Korporasi",
   "title": "Public Expose PNBS 18 November: [Laba] Naik 69,78% ke Rp73,4 M",
@@ -2011,6 +2242,34 @@ var ARTICLES = [
     "acara": "Public Expose Tahunan PNBS"
    }
   ]
+ },
+ {
+  "slug": "drma-komisaris-jual-2-juta-saham-hak-suara-jadi-1-96",
+  "category": "Aksi Korporasi",
+  "title": "DRMA: Komisaris [Jual] 2 Juta Saham, Hak Suara Jadi 1,96%",
+  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, melepas 2 juta saham pada 28 Oktober 2026 seharga Rp850 per saham, hak suaranya turun dari 2,00% menjadi 1,96%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T11:26:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2999-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "Dharma Polimetal",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "PT Dharma Polimetal Tbk (DRMA) melaporkan perubahan kepemilikan saham dari anggota Dewan Komisaris Noel Aelyo Laras Kusuma Negara kepada Otoritas Jasa Keuangan pada 13 November 2026. Dalam laporan itu, Noel melepas 2.000.000 lembar saham DRMA secara tidak langsung pada 28 Oktober 2026 dengan harga Rp850 per saham. Tujuan transaksi yang dicantumkan dalam dokumen adalah divestasi.",
+   "Sebelum transaksi, Noel tercatat memiliki 94.000.000 saham DRMA, setara dengan 2,00% hak suara perusahaan. Setelah penjualan tersebut, kepemilikannya berkurang menjadi 92.000.000 saham dan hak suaranya turun menjadi 1,96%. Jumlah saham yang dilepas setara sekitar 2,13% dari total kepemilikan Noel sebelum transaksi.",
+   "Dalam kolom jenis transaksi, laporan mencantumkan keterangan Repurchase Agreement, sementara status kepemilikannya tercatat sebagai penjualan tidak langsung atas saham biasa. Laporan ini merupakan pemenuhan kewajiban keterbukaan informasi sesuai POJK Nomor 4/2024 tentang pelaporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka oleh direksi dan komisaris."
+  ],
+  "fotoAdegan": "Workers inspecting metal automotive parts on an assembly line inside a components factory, overhead lighting",
+  "takeaway": "Transaksi ini netral bagi Dharma Polimetal karena ukurannya kecil, hanya sekitar 2,13% dari kepemilikan pribadi Noel, dan hampir tidak menggerakkan hak suaranya di perusahaan, dari 2,00% menjadi 1,96%. Transaksi ini adalah jual beli saham yang sudah ada antara pemegang lama dan pembeli baru, bukan penerbitan saham baru oleh perusahaan, sehingga jumlah saham beredar, ekuitas, maupun laba per saham DRMA tidak berubah akibat laporan ini. Yang perlu dipantau selanjutnya adalah apakah anggota direksi atau komisaris lain melakukan pelepasan saham serupa dalam waktu dekat, karena pola transaksi berulang oleh jajaran manajemen biasanya lebih bermakna dibanding satu transaksi tunggal, sementara dokumen ini sendiri tidak menyebut agenda korporasi lanjutan seperti RUPS atau aksi korporasi lain.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "rupst-jmas-22-desember-pencatatan-pemegang-saham-27-november",
@@ -2331,6 +2590,62 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah hari ini hanya angka transaksi, harga jual turun Rp9.000 ke Rp2.509.000 per gram dan harga buyback turun ke Rp2.285.000 per gram, sementara aturan pajaknya tetap sama seperti biasa. Yang langsung kena dampak adalah pemilik emas batangan Antam yang berencana menjual kembali, karena nilai yang mereka terima ikut turun, serta calon pembeli baru yang mendapat harga sedikit lebih murah dari hari sebelumnya. Data satu hari belum cukup untuk menyimpulkan apakah ini awal pelemahan harga emas atau sekadar koreksi sesaat, sebab harga Antam biasanya mengikuti pergerakan harga emas dunia dan kurs dolar yang bisa berubah setiap hari. Yang perlu dipantau adalah harga Antam dalam beberapa hari ke depan dan pergerakan harga emas global, untuk melihat apakah penurunan ini berlanjut atau justru berbalik naik.",
   "imageV": "mwefnrsr"
+ },
+ {
+  "slug": "dgik-global-dinamika-kencana-tambah-189-5-juta-saham-suara-68-2",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: Global Dinamika Kencana [Tambah] 189,5 Juta Saham, Suara 68,2%",
+  "deck": "Global Dinamika Kencana menambah 189,5 juta saham DGIK lewat transaksi repo seharga Rp150 per saham pada 12 November 2026, hak suaranya naik dari 64,80% menjadi 68,20%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T09:35:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-4569-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "Nusa Konstruksi Enjiniring",
+   "kepemilikan saham",
+   "repo"
+  ],
+  "body": [
+   "Global Dinamika Kencana melaporkan penambahan kepemilikan saham PT Nusa Konstruksi Enjiniring Tbk (DGIK) melalui transaksi pembelian tidak langsung dalam bentuk repurchase agreement. Berdasarkan laporan yang disampaikan ke Otoritas Jasa Keuangan pada 13 November 2026, jumlah saham DGIK yang dikuasai Global Dinamika Kencana naik dari 3.592.329.500 lembar menjadi 3.781.843.300 lembar, bertambah 189.513.800 lembar saham biasa.",
+   "Transaksi dilakukan pada 12 November 2026 dengan harga Rp150 per saham, dengan tujuan investasi. Akibat penambahan ini, hak suara Global Dinamika Kencana di DGIK naik dari 64,80% menjadi 68,20%, atau bertambah sekitar 3,4 poin persentase, sehingga kini mendekati tiga perempat dari seluruh hak suara perusahaan.",
+   "Laporan ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap pemegang saham melaporkan perubahan kepemilikannya kepada OJK. Transaksi ini tidak menerbitkan saham baru, karena saham yang dibeli berasal dari kepemilikan pihak lain yang sudah beredar di pasar."
+  ],
+  "fotoAdegan": "Construction workers in hard hats operating heavy machinery at a large infrastructure building site, overcast afternoon light.",
+  "takeaway": "Laporan ini condong netral bagi DGIK karena transaksinya adalah pemindahan saham yang sudah beredar di pasar, bukan penerbitan saham baru, sehingga tidak menambah modal perusahaan dan tidak mengubah jumlah saham beredar maupun laba per saham. Yang berubah hanya konsentrasi kendali, hak suara Global Dinamika Kencana naik dari 64,80% menjadi 68,20%, sehingga porsi saham yang bebas diperdagangkan publik (free float) ikut menyusut, hal yang diperhatikan investor karena saham dengan free float kecil biasanya lebih sepi transaksinya. Transaksi ini juga berbentuk repurchase agreement, yaitu pembelian saham yang disertai perjanjian untuk membeli kembali pada waktu tertentu, mekanisme yang lazim dipakai untuk pembiayaan dengan saham sebagai jaminan, sehingga posisi kepemilikan ini bisa berubah lagi jika perjanjian tersebut berakhir atau tidak diperpanjang. Yang perlu dipantau selanjutnya adalah laporan kepemilikan susulan dari KSEI, untuk melihat apakah Global Dinamika Kencana terus menambah porsi sahamnya atau melepas kembali saham yang dikuasai lewat perjanjian repo ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "mtla-direksi-andi-surya-kurnia-tambah-40-000-saham-suara-0",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Direksi Andi Surya Kurnia [Tambah] 40.000 Saham, Suara 0%",
+  "deck": "Direksi MTLA Andi Surya Kurnia menambah 40.000 saham lewat pembelian tidak langsung pada 11 November 2026, tapi hak suaranya tetap 0,00 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T09:16:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-3585-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTLA",
+  "tags": [
+   "MTLA",
+   "Direksi",
+   "Kepemilikan Saham",
+   "Metropolitan Land"
+  ],
+  "body": [
+   "Andi Surya Kurnia, anggota Direksi Metropolitan Land Tbk (MTLA), melaporkan penambahan kepemilikan saham perusahaan kepada Otoritas Jasa Keuangan pada 13 November 2026. Jumlah sahamnya naik dari 60.000 unit menjadi 100.000 unit, atau bertambah 40.000 unit melalui pembelian dengan status kepemilikan tidak langsung.",
+   "Pembelian dilakukan dalam dua transaksi pada tanggal yang sama, 11 November 2026. Sebanyak 39.800 saham dibeli di harga Rp700 per saham, dan 200 saham lagi di harga Rp695 per saham. Dokumen mencatat tujuan transaksi sebagai investasi, dengan total nilai pembelian sekitar Rp28 juta.",
+   "Meski jumlah sahamnya bertambah 40.000 unit, hak suara Andi di MTLA tercatat tidak berubah, tetap di angka 0,00 persen baik sebelum maupun sesudah transaksi. Ini menunjukkan porsi kepemilikannya terhadap total saham MTLA yang beredar sangat kecil sehingga tidak tercatat material dalam skala persentase."
+  ],
+  "fotoAdegan": "Rows of newly built suburban housing units under construction, workers on scaffolding, overcast tropical sky in the background",
+  "takeaway": "Laporan ini netral bagi MTLA, sebab nilai transaksinya kecil, sekitar Rp28 juta, dan hak suara pelapor tidak bergerak sama sekali dari 0,00 persen sebelum maupun sesudah pembelian. Yang tersentuh hanya catatan kepemilikan pribadi direksi, bukan jumlah saham beredar perusahaan secara keseluruhan atau laba per saham, karena porsinya memang terlalu kecil untuk mengubah struktur pemegang saham utama. Pembelian ini terjadi tak lama setelah MTLA melaporkan laba bersih kuartal ketiga yang turun ke Rp183 miliar, sehingga ada baiknya pembaca mencermati laporan kepemilikan direksi atau komisaris lain di periode berikutnya untuk melihat apakah ada pola penambahan saham yang lebih besar sebagai sinyal keyakinan terhadap kinerja perusahaan.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "dividen-interim-medc-kurs-bi-rp18-154-dividen-rp22-03-saham",
@@ -9064,8 +9379,8 @@ var ARTICLES = [
  {
   "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
   "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Perkuat Hak Suara ke [42,16%] via Repo",
-  "deck": "Direksi Samuel Sekuritas Indonesia menambah 972,3 juta saham NSSS lewat repo senilai Rp447,24 miliar, mengangkat hak suaranya dari 38,07% jadi 42,16%.",
+  "title": "NSSS: Direksi Tambah 100,2 Juta Saham, Hak Suara Jadi 45,05%",
+  "deck": "Direksi Samuel Sekuritas Indonesia menambah 100,2 juta saham NSSS lewat skema repo, mengangkat hak suaranya dari 44,63% menjadi 45,05% menjelang RUPSLB 1 Desember yang membahas pergantian komisaris.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T17:38:33",
@@ -9074,18 +9389,28 @@ var ARTICLES = [
   "emiten": "NSSS",
   "tags": [
    "NSSS",
-   "repo saham",
-   "kepemilikan direksi",
-   "hak suara"
+   "kepemilikan saham",
+   "repo",
+   "RUPSLB"
   ],
   "body": [
-   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan penambahan kepemilikan saham oleh salah satu anggota direksinya, tercatat atas nama Samuel Sekuritas Indonesia, melalui mekanisme repurchase agreement atau repo pada 9 November 2026. Ada dua transaksi pembelian dengan harga sama, Rp460 per saham. Transaksi pertama sebanyak 560.356.200 saham dengan tujuan tertulis 'penempatan repo', dan transaksi kedua sebanyak 411.899.000 saham dengan tujuan 'top up repo'. Total saham yang dibeli 972.255.200 lembar, dengan nilai transaksi sekitar Rp447,24 miliar.",
-   "Dengan tambahan itu, kepemilikan direksi tersebut naik dari 9.062.373.400 lembar menjadi 10.034.628.600 lembar saham NSSS, atau bertambah 10,73 persen dari porsi sebelumnya. Hak suaranya di perusahaan ikut naik dari 38,07 persen menjadi 42,16 persen.",
-   "Penambahan ini merupakan lanjutan dari laporan serupa pada 6 November 2026, ketika direksi yang sama tercatat menambah kepemilikan hingga mencapai 38,07 persen. Dalam rentang kurang dari sepekan, porsi kepemilikannya kembali naik signifikan lewat skema repo, yakni saham dijaminkan dengan kesepakatan dibeli kembali oleh pemiliknya di kemudian hari."
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) melaporkan transaksi baru dari anggota direksinya yang tercatat atas nama Samuel Sekuritas Indonesia. Pada 12 November 2026, direksi itu mencairkan 191.261.700 saham seharga Rp515 per saham, lalu membeli 291.496.900 saham baru seharga Rp535 per saham untuk penempatan repo. Secara bersih, kepemilikannya bertambah 100.235.200 lembar, dari 10.622.125.900 menjadi 10.722.361.100 saham. Hak suaranya naik dari 44,63 persen menjadi 45,05 persen.",
+   "Transaksi ini melanjutkan rangkaian penambahan saham oleh direksi yang sama dalam sepekan terakhir. Pada 6 November 2026 hak suaranya tercatat 38,07 persen, lalu naik jadi 42,16 persen pada 9 November 2026 lewat repo senilai Rp447,24 miliar untuk 972,3 juta saham. Sebelum transaksi 12 November, hak suaranya sudah mencapai 44,63 persen, sehingga penambahan terbaru membawanya ke 45,05 persen.",
+   "RUPSLB NSSS dijadwalkan pada 1 Desember 2026 untuk membahas pergantian komisaris. Besaran hak suara masing-masing pemegang saham, termasuk direksi ini yang kini menguasai 45,05 persen, akan ikut menentukan hasil pemungutan suara di rapat tersebut."
   ],
   "fotoAdegan": "Workers loading palm oil fruit bunches onto a truck at a plantation collection point, tropical morning light",
-  "takeaway": "Penilaian saya tetap positif karena penambahan ini tergolong besar, 972,3 juta lembar atau naik 10,73 persen dari kepemilikan sebelumnya, dan arahnya menambah bukan melepas saham. Yang tersentuh di sini adalah konsentrasi hak suara, bukan laporan keuangan perusahaan, karena transaksi ini murni urusan pribadi direksi lewat mekanisme repo, yaitu menjaminkan saham dengan janji membeli kembali. Pelaku pasar memperhatikan hak suara karena makin besar porsi satu pihak, makin besar pula pengaruhnya saat pemegang saham mengambil keputusan di rapat umum. Yang perlu dipantau berikutnya adalah RUPSLB NSSS pada 1 Desember 2026 yang membahas pergantian komisaris, karena hak suara direksi ini yang kini mencapai 42,16 persen akan ikut menentukan hasil pemungutan suara.",
-  "sentimen": "positif"
+  "takeaway": "Penilaian saya netral untuk transaksi kali ini: kenaikannya hanya 100,2 juta saham atau 0,94 persen dari kepemilikan sebelumnya, jauh lebih kecil dibanding lonjakan 10,73 persen pada awal November, sehingga terlalu tipis untuk dibaca sebagai sinyal baru, meski arahnya tetap menambah bukan melepas. Yang tersentuh tetap konsentrasi hak suara, bukan laporan keuangan NSSS, karena ini urusan pribadi direksi lewat mekanisme repo, yaitu menjaminkan saham dengan janji membeli kembali di kemudian hari. Pelaku pasar memperhatikan hak suara karena makin besar porsi satu pihak, makin besar pengaruhnya saat pemegang saham memutuskan sesuatu di rapat umum. Yang perlu dipantau berikutnya adalah RUPSLB NSSS pada 1 Desember 2026 yang mengagendakan pergantian komisaris, karena hak suara direksi ini yang kini mencapai 45,05 persen akan ikut menentukan hasilnya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T20:55:35",
+    "ringkas": "Direksi NSSS lewat Samuel Sekuritas Indonesia menambah 100,2 juta saham via repo, hak suara naik dari 44,63% ke 45,05%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-9922-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-13T20:55:35",
+  "peristiwa": "kepemilikan"
  },
  {
   "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
@@ -9146,8 +9471,8 @@ var ARTICLES = [
  {
   "slug": "rlco-direksi-tambah-11-56-juta-saham-via-top-up-repo",
   "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Tambah 11,56 Juta Saham via [Top Up] Repo",
-  "deck": "Direksi RLCO, Samuel Sekuritas Indonesia, menambah kepemilikan saham lewat mekanisme top up perjanjian repo pada 9 November 2026, menaikkan hak suara dari 11,85% menjadi 12,22%.",
+  "title": "RLCO: Direksi Tambah 7,75 Juta Saham, Hak Suara Jadi 14,88%",
+  "deck": "Rangkaian transaksi repo oleh direksi RLCO, Samuel Sekuritas Indonesia, pada 12 November 2026 menambah kepemilikan bersih 7,75 juta saham, menaikkan hak suara dari 14,63% menjadi 14,88%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T17:35:23",
@@ -9156,18 +9481,29 @@ var ARTICLES = [
   "emiten": "RLCO",
   "tags": [
    "RLCO",
-   "repo",
-   "direksi",
-   "kepemilikan saham"
+   "Laporan Kepemilikan",
+   "Repo",
+   "Direksi"
   ],
   "body": [
-   "PT Abadi Lestari Indonesia Tbk (RLCO) melaporkan ke Otoritas Jasa Keuangan bahwa Samuel Sekuritas Indonesia, yang menjabat sebagai anggota direksi perusahaan, menambah kepemilikan sahamnya sebanyak 11.563.600 lembar pada 9 November 2026. Dengan transaksi ini, jumlah saham yang dipegang naik dari 370.406.700 lembar menjadi 381.970.300 lembar, sementara hak suaranya di perusahaan bertambah dari 11,85 persen menjadi 12,22 persen. Transaksi dilakukan pada harga Rp2.180 per saham, sehingga nilainya sekitar Rp25,2 miliar, dan dicatat dengan tujuan top up repo, yaitu penambahan jumlah saham dalam perjanjian pembelian kembali (repurchase agreement) yang sedang berjalan.",
-   "Dalam perjanjian repo, saham dijadikan jaminan untuk memperoleh dana tunai, dengan kewajiban pihak yang menjaminkan untuk membeli kembali saham tersebut di kemudian hari sesuai kesepakatan. Penambahan jumlah saham dalam perjanjian semacam ini biasanya berarti ada penambahan jaminan untuk pendanaan yang sudah berjalan, dan tidak sama dengan pembelian saham langsung di pasar terbuka oleh direksi.",
-   "Laporan ini terbit tiga hari setelah RLCO melaporkan pencairan repo sebanyak 18,3 juta saham oleh direksi pada 6 November 2026. Dengan kata lain, dalam waktu singkat tercatat dua pergerakan pada posisi saham yang terkait perjanjian repo di perusahaan ini, yakni pelepasan pada awal pekan dan penambahan pada laporan kali ini."
+   "PT Abadi Lestari Indonesia Tbk (RLCO) kembali melaporkan perubahan kepemilikan saham oleh Samuel Sekuritas Indonesia, yang menjabat anggota direksi perusahaan. Dalam laporan bertanggal 13 November 2026, tercatat tiga transaksi pada 12 November 2026: penjualan 29.905.700 lembar saham dengan tujuan pencairan repo pada harga Rp3.060 per saham, pembelian 17.474.700 lembar dengan tujuan top up repo pada harga Rp2.350 per saham, dan pembelian 20.176.200 lembar dengan tujuan penempatan repo baru pada harga Rp2.200 per saham. Secara bersih, kepemilikan Samuel Sekuritas Indonesia bertambah 7.745.200 lembar, dari 457.275.700 lembar menjadi 465.020.900 lembar, sementara hak suaranya di RLCO naik dari 14,63 persen menjadi 14,88 persen.",
+   "Posisi 457.275.700 lembar sebelum transaksi 12 November ini sudah lebih tinggi dibandingkan 381.970.300 lembar yang dilaporkan pada 9 November, saat hak suara Samuel Sekuritas Indonesia tercatat 12,22 persen. Dokumen kali ini tidak merinci transaksi apa yang membuat jumlah saham naik di antara dua tanggal tersebut, hanya mencantumkan posisi awal sebelum transaksi 12 November.",
+   "Seperti transaksi repo sebelumnya, pergerakan ini terjadi dalam kerangka perjanjian pembelian kembali (repurchase agreement), yaitu saham dijadikan jaminan untuk memperoleh dana tunai dengan kewajiban membeli kembali di kemudian hari. Pencairan repo berarti sebagian jaminan saham dilepas dari perjanjian, sementara top up dan penempatan repo baru berarti ada penambahan atau pembukaan jaminan saham untuk pendanaan. Transaksi semacam ini berbeda dari pembelian saham langsung di pasar terbuka oleh direksi, dan tidak menambah jumlah saham beredar RLCO secara keseluruhan karena bukan penerbitan saham baru.",
+   "Dalam sepekan terakhir, RLCO sudah melaporkan beberapa kali pergerakan posisi saham yang terkait perjanjian repo milik direksi: pencairan 18,3 juta saham pada 6 November, top up 11,56 juta saham pada 9 November, serta rangkaian pencairan, top up, dan penempatan repo baru pada 12 November yang dilaporkan kali ini. Pola ini menunjukkan posisi repo di perusahaan masih aktif berubah dari pekan ke pekan."
   ],
   "fotoAdegan": "Interior of a bank vault with rows of safe deposit boxes, a teller's hand turning a key, dim metallic lighting, Jakarta financial district",
-  "takeaway": "Kami nilai laporan ini netral bagi RLCO, karena penambahan 11,56 juta saham ini terjadi lewat mekanisme perjanjian repo, bukan pembelian terbuka di pasar yang biasanya mencerminkan keyakinan direksi atas harga saham ke depan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pelapor, yang naik tipis dari 11,85 persen menjadi 12,22 persen, sementara jumlah saham beredar RLCO secara keseluruhan tidak berubah karena ini bukan penerbitan saham baru. Pelaku pasar biasanya mencermati perubahan hak suara semacam ini karena bisa menggeser kendali pemegang saham besar, tapi kenaikan 0,37 poin persentase di sini tergolong kecil untuk dibaca sebagai pergeseran kendali. Yang perlu dipantau selanjutnya adalah apakah ada laporan lanjutan soal jatuh tempo atau penyelesaian perjanjian repo ini, mengingat tiga hari sebelumnya RLCO juga melaporkan pencairan repo 18,3 juta saham oleh direksi, yang menunjukkan posisi repo di perusahaan ini masih aktif bergerak.",
-  "sentimen": "netral"
+  "takeaway": "Kami nilai laporan ini netral bagi RLCO, karena penambahan bersih 7,75 juta saham oleh direksi ini tetap berlangsung lewat mekanisme perjanjian repo, bukan pembelian terbuka di pasar yang biasanya mencerminkan keyakinan pribadi direksi atas harga saham. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pelapor, yang naik dari 14,63 persen menjadi 14,88 persen, sementara jumlah saham beredar RLCO secara keseluruhan tidak berubah karena repo hanya memindahkan saham sebagai jaminan utang, bukan menerbitkan saham baru. Pelaku pasar mencermati pergeseran hak suara semacam ini karena bisa menggeser kendali pemegang saham besar, meski kenaikan 0,25 poin persentase kali ini masih tergolong kecil. Yang perlu dipantau selanjutnya adalah apakah posisi saham Samuel Sekuritas Indonesia terus bergerak pada pelaporan berikutnya, mengingat dalam sepekan terakhir sudah tercatat beberapa kali transaksi repo dan dokumen ini sendiri belum menjelaskan apa yang membuat jumlah saham naik dari 381.970.300 lembar pada 9 November menjadi 457.275.700 lembar sebelum transaksi 12 November.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T20:51:57",
+    "ringkas": "Direksi RLCO menambah 7,75 juta saham bersih lewat rangkaian transaksi repo pada 12 November 2026, menaikkan hak suara ke 14,88 persen.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-1786-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-13T20:51:57",
+  "peristiwa": "kepemilikan"
  },
  {
   "slug": "ultj-bagi-dividen-tunai-tambahan-rp100-per-saham",
@@ -10517,8 +10853,8 @@ var ARTICLES = [
  {
   "slug": "akpi-komisaris-henry-liem-jual-lagi-250-000-saham",
   "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] Lagi 250.000 Saham",
-  "deck": "Henry Liem, Dewan Komisaris AKPI, melaporkan penjualan 250.000 saham pada 6 November 2026 lewat skema repurchase agreement, menyusul penjualan 350.000 saham pekan sebelumnya.",
+  "title": "AKPI: Komisaris Henry Liem Jual Lagi 200.000 Saham, Hak Suara 0,3139%",
+  "deck": "Henry Liem, Dewan Komisaris AKPI, kembali melaporkan penjualan 200.000 saham pada 12 November 2026 lewat skema repurchase agreement, laporan ketiga sejak 6 November.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T09:55:01",
@@ -10527,18 +10863,29 @@ var ARTICLES = [
   "emiten": "AKPI",
   "tags": [
    "AKPI",
-   "Komisaris",
-   "Transaksi Saham",
-   "Henry Liem"
+   "Laporan Kepemilikan",
+   "Henry Liem",
+   "Dewan Komisaris"
   ],
   "body": [
-   "Dewan Komisaris Argha Karya Prima Industry (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan bahwa ia menjual 250.000 lembar saham AKPI pada 6 November 2026 dengan harga Rp600 per saham. Transaksi itu tercatat berstatus tidak langsung dengan jenis repurchase agreement, dan tujuan transaksi yang dicantumkan dalam laporan adalah penjualan saham.",
-   "Dengan transaksi ini, kepemilikan Henry Liem di AKPI berkurang dari 2.871.659 lembar menjadi 2.621.659 lembar, atau turun 250.000 lembar yang setara sekitar 8,7 persen dari saham yang sebelumnya ia pegang. Hak suaranya di perusahaan ikut turun dari 0,469 persen menjadi 0,4282 persen. Dari harga dan jumlah yang tercatat, nilai transaksi ini sekitar Rp150 juta.",
-   "Laporan ini menyusul laporan serupa pada 6 November 2026 yang mencatat Henry Liem menjual 350.000 lembar saham AKPI. Jika digabung, komisaris tersebut telah melepas 600.000 lembar saham AKPI dalam pekan yang sama melalui dua laporan terpisah ke OJK, sesuai kewajiban pelaporan setiap perubahan kepemilikan berdasarkan POJK 4/2024."
+   "Dewan Komisaris Argha Karya Prima Industry (AKPI), Henry Liem, melaporkan kepada Otoritas Jasa Keuangan bahwa ia kembali menjual 200.000 lembar saham AKPI pada 12 November 2026 dengan harga Rp660 per saham. Transaksi ini berstatus tidak langsung dengan jenis repurchase agreement, dan tujuan transaksi yang dicantumkan dalam laporan adalah penjualan saham.",
+   "Dengan transaksi ini, kepemilikan Henry Liem di AKPI berkurang dari 2.121.659 lembar menjadi 1.921.659 lembar, setara sekitar 9,43 persen dari saham yang sebelumnya ia pegang. Hak suaranya di perusahaan ikut turun dari 0,3465 persen menjadi 0,3139 persen.",
+   "Laporan ini menyusul dua laporan penjualan saham AKPI oleh Henry Liem pada 6 November 2026, masing-masing untuk 350.000 lembar dan 250.000 lembar, yang membuat kepemilikannya saat itu tercatat 2.621.659 lembar dengan hak suara 0,4282 persen. Jika digabung dengan laporan terbaru ini, Henry Liem telah menyampaikan tiga laporan penjualan saham AKPI ke OJK sejak 6 November 2026.",
+   "Kewajiban melaporkan setiap perubahan kepemilikan saham ini mengacu pada Peraturan Otoritas Jasa Keuangan Nomor POJK 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
   ],
   "fotoAdegan": "Stacks of clear plastic film rolls on pallets inside an industrial packaging warehouse, forklift nearby, fluorescent lighting",
-  "takeaway": "Laporan ini condong netral bagi AKPI, karena skema repurchase agreement biasanya dipakai sebagai cara mendanai kebutuhan pribadi dengan saham sebagai jaminan dan janji membeli balik, bukan pelepasan permanen yang mencerminkan hilangnya keyakinan pada perusahaan. Transaksi ini hanya memindahkan kepemilikan pribadi di pasar sekunder, jadi tidak mengubah jumlah saham beredar, arus kas, maupun ekuitas AKPI, meski pelaku pasar tetap memantau transaksi insider semacam ini karena pola jual oleh komisaris atau direksi kadang dibaca sebagai sinyal pandangan mereka sendiri terhadap prospek perusahaan. Hak suara Henry Liem di AKPI tetap kecil, dari 0,469 persen menjadi 0,4282 persen, sehingga tidak mengubah kendali atas perusahaan. Yang perlu dicermati adalah apakah pola pelepasan bertahap ini berlanjut, mengingat dalam pekan yang sama ia sudah dua kali melaporkan penjualan saham ke OJK, totalnya 600.000 lembar sejak laporan pertama pada 6 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini tetap condong netral bagi AKPI, karena skema repurchase agreement yang dipakai Henry Liem biasanya sarana pendanaan pribadi dengan saham sebagai jaminan dan janji beli balik, bukan pelepasan permanen yang mencerminkan hilangnya keyakinan terhadap perusahaan, meski polanya kini sudah tiga kali beruntun dalam waktu kurang dari sepekan. Transaksi ini hanya memindahkan kepemilikan pribadi Henry Liem di pasar sekunder sehingga tidak mengubah jumlah saham beredar, arus kas, atau ekuitas AKPI; yang berubah hanya hak suaranya sendiri, dari 0,3465 persen menjadi 0,3139 persen, angka yang sejak awal sudah terlalu kecil untuk memengaruhi kendali atas perusahaan. Yang perlu dipantau adalah apakah pola pelepasan bertahap ini masih berlanjut, mengingat sejak 6 November 2026 Henry Liem sudah melaporkan tiga transaksi penjualan saham AKPI ke OJK dengan total lebih dari 800.000 lembar.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-13T09:40:06",
+    "ringkas": "Henry Liem jual lagi 200.000 saham AKPI pada 12 November 2026, hak suara turun jadi 0,3139 persen.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-3963-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-13T09:40:06",
+  "peristiwa": "kepemilikan"
  },
  {
   "slug": "elit-direksi-beli-106-300-saham-kepemilikan-jadi-208-000-lembar",

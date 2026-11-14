@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-ekonomi-tumbuh-5-47-kaji-hemat-energi",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo: Ekonomi Tumbuh [5,47]%, Kaji Hemat Energi",
+  "deck": "Ratas di Istana Bogor membahas indikator ekonomi terbaru, rencana efisiensi BBM dan listrik, serta percepatan pabrik pakan dan peternakan ayam.",
+  "date": "14 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "inflasi pangan",
+   "pertumbuhan ekonomi",
+   "efisiensi energi",
+   "pakan ternak"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7224/cermati-perkembangan-ekonomi-nasional-pemerintah-dorong-efisiensi-energi-dan-penguatan-sektor-pertanian-peternakan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "asean-teken-pakta-digital-target-us-2-triliun-di-2030",
   "category": "Global",
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
@@ -370,7 +386,7 @@ var ARTICLES = [
   "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
   "deck": "Pemerintah wajibkan ekspor batu bara, minyak nabati, dan ferroalloy lewat Portal DSI mulai 2027, seiring aturan baru devisa ekspor tambang dan data ekonomi kuartal III 2026.",
   "date": "13 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "DHE SDA",
    "Portal DSI",
@@ -2152,7 +2168,7 @@ var ARTICLES = [
   "title": "Batam Tumbuh 7,28 Persen, Pemerintah Awasi [Impor Ilegal]",
   "deck": "Ekonomi dan investasi Batam melesat, tapi pemerintah pusat menyoroti praktik underinvoicing dan impor barang bekas ilegal yang dinilai bisa mengganggu iklim usaha di kawasan ini.",
   "date": "11 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "Batam",
    "Investasi",
@@ -2477,7 +2493,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
   "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
   "date": "11 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "PPh 21 DTP",
    "ritel",
@@ -3520,7 +3536,7 @@ var ARTICLES = [
   "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
   "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
   "date": "10 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "BKPM",
    "Desk Investasi",
@@ -4068,7 +4084,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -5791,7 +5807,7 @@ var ARTICLES = [
   "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
   "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
   "date": "9 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
   "sourceLabel": "Bank Indonesia"
@@ -6483,21 +6499,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477018-pertamina-patra-niaga-gelar-grand-final-bgcc-2026-perebutkan-kursus-masak-internasional"
- },
- {
-  "slug": "pefindo-turunkan-peringkat-obligasi-wika-ke-idd",
-  "category": "Aksi Korporasi",
-  "title": "PEFINDO Turunkan Peringkat Obligasi WIKA ke [idD]",
-  "deck": "PEFINDO menurunkan peringkat tiga seri Obligasi Berkelanjutan WIKA senilai total Rp1,2 triliun dari idCCC menjadi idD, status gagal bayar, menyusul penundaan kupon jatuh tempo 3 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "obligasi",
-   "peringkat kredit",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d819fb20ff_3b96d8712f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

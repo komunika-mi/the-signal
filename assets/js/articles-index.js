@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-teken-asean-defa-tunggu-ratifikasi-untuk-berlaku",
+  "category": "Global",
+  "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
+  "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
+  "date": "14 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ASEAN DEFA",
+   "ekonomi digital",
+   "QRIS",
+   "UMKM"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7225/asean-defa-mesin-baru-pertumbuhan-ekonomi-indonesia-dorong-potensi-ekonomi-digital-asean-capai-usd2-triliun-pada-2030",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ica-cepa-ri-kanada-mulai-berlaku-1-desember-2026",
+  "category": "Global",
+  "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
+  "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
+  "date": "14 November 2026",
+  "image": "assets/img/kapal-batubara.jpg",
+  "tags": [
+   "ICA-CEPA",
+   "Indonesia-Kanada",
+   "Airlangga Hartarto",
+   "ASEAN Summit"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7226/menko-airlangga-optimis-ica-cepa-bisa-dongkrak-perdagangan-ri-kanada-hingga-dua-kali-lipat",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pertamina-tambah-beasiswa-dan-mangrove-di-kalimantan",
+  "category": "BUMN",
+  "title": "Pertamina Tambah [Beasiswa] dan Mangrove di Kalimantan",
+  "deck": "Pertamina Foundation dan PHI menandai lima tahun program mangrove Hutan Lestari Mahakam sekaligus mengukuhkan 12 penerima beasiswa baru untuk mahasiswa Kalimantan.",
+  "date": "14 November 2026",
+  "image": "assets/img/pertamina-tambah-beasiswa-dan-mangrove-di-kalimantan.jpg",
+  "imageV": "mwgkv8p6",
+  "tags": [
+   "Pertamina Foundation",
+   "Mangrove Mahakam",
+   "Beasiswa Kalimantan",
+   "CSR BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478376-membangun-kalimantan-dari-dua-sisi-pemulihan-hutan-dan-pendidikan-berkelanjutan"
+ },
+ {
+  "slug": "akademisi-program-nelayan-kkp-bisa-atasi-kemiskinan-pesisir",
+  "category": "UMKM",
+  "title": "Akademisi: Program Nelayan KKP Bisa Atasi [Kemiskinan] Pesisir",
+  "deck": "Pengamat sosial ekonomi menilai program Kampung Nelayan Merah Putih KKP berpotensi mengurai ketergantungan nelayan pada tengkulak dan memperbaiki kesejahteraan pesisir.",
+  "date": "14 November 2026",
+  "image": "assets/img/akademisi-program-nelayan-kkp-bisa-atasi-kemiskinan-pesisir.jpg",
+  "imageV": "mwgkv934",
+  "tags": [
+   "KKP",
+   "nelayan",
+   "pesisir",
+   "koperasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478374-gebrakan-kkp-dinilai-tingkatkan-kesejahteraan-nelayan-atasi-kemiskinan-pesisir"
+ },
+ {
   "slug": "presiden-prabowo-ekonomi-tumbuh-5-47-kaji-hemat-energi",
   "category": "Makroekonomi",
   "title": "Presiden Prabowo: Ekonomi Tumbuh [5,47]%, Kaji Hemat Energi",
@@ -26,7 +92,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -108,7 +174,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -914,7 +980,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -1420,7 +1486,7 @@ var ARTICLES = [
   "title": "Kemenko Perekonomian Temui BEI dan OJK soal [Reformasi] Pasar Modal",
   "deck": "Pemerintah menggelar pertemuan dengan BEI, KPEI, KSEI, OJK, dan asosiasi emiten untuk menyusun langkah penguatan tata kelola, penegakan aturan, dan edukasi investor di pasar modal.",
   "date": "12 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/investor-ritel-ponsel.jpg",
   "tags": [
    "pasar modal",
    "OJK",
@@ -6409,7 +6475,7 @@ var ARTICLES = [
   "title": "Indonesia-Tatarstan [Jajaki] Kerja Sama Kapal dan Investasi",
   "deck": "Menko Airlangga bertemu Kepala Republik Tatarstan Rusia membahas peluang investasi di perkapalan, otomotif, kedirgantaraan, farmasi, dan teknologi digital.",
   "date": "6 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "Rusia",
    "Tatarstan",
@@ -6434,70 +6500,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c01dcd329b_da004943f6.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-ungkap-dana-ipo-mengendap-vendor-kembalikan-dana",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Ungkap Dana IPO Mengendap, Vendor [Kembalikan] Dana",
-  "deck": "Laporan tambahan DOOH merinci realisasi dana IPO 2023 sampai akhir 2025, termasuk pengembalian dana dari vendor akibat ketidaksesuaian layanan iklan.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "penggunaan dana IPO",
-   "tender wajib",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/357962b6da_73ac27dc39.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-lepas-3-anak-usaha-kbli-baru-diklaim-topang-ekosistem-ai",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Lepas 3 Anak Usaha, KBLI Baru Diklaim Topang Ekosistem [AI]",
-  "deck": "Era Media Sejahtera (DOOH) melepas tiga anak usaha sepanjang 2026 dan mengaitkan penambahan KBLI perusahaan induk dengan rencana ekosistem AI, dalam dokumen tambahan menjelang RUPSLB.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "Era Media Sejahtera",
-   "KBLI 64210",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feb5fdacb2_e43e067f81.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-rinci-pmhmetd-dilusi-hingga-95-24-rasio-20-1",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Rinci PMHMETD: Dilusi Hingga [95,24%], Rasio 20:1",
-  "deck": "Perseroan merinci rencana rights issue hingga 154,78 miliar saham baru berbanding 1 saham lama, dengan dana diutamakan melunasi utang ke pengendali SII dan memperbesar potensi kendalinya.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "rights issue",
-   "PMHMETD",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5099e12567_64dacbc71c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pertamina-gelar-final-lomba-masak-bright-gas-2026",
-  "category": "Energi",
-  "title": "Pertamina Gelar Final Lomba Masak [Bright Gas] 2026",
-  "deck": "Grand final Bright Gas Cooking Competition 2026 digelar di Tangerang Selatan, lengkap dengan promo tukar tambah gas melon ke Bright Gas.",
-  "date": "6 November 2026",
-  "image": "assets/img/pertamina-gelar-final-lomba-masak-bright-gas-2026.jpg",
-  "imageV": "mw56cg8g",
-  "tags": [
-   "Pertamina",
-   "Bright Gas",
-   "LPG subsidi",
-   "Kompetisi Masak"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477018-pertamina-patra-niaga-gelar-grand-final-bgcc-2026-perebutkan-kursus-masak-internasional"
  }
 ];

@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "C-EAC4dw8gQ",
+  "title": "Literasi Digital Rendah, Masyarakat Jadi Sasaran Kejahatan Siber",
+  "category": "Teknologi",
+  "program": "Indonesia Business Forum",
+  "summary": "Rendahnya literasi digital membuat masyarakat Indonesia rentan menjadi sasaran kejahatan siber, di tengah gelombang serangan yang kini menghantam sektor keuangan global.",
+  "takeaway": "Relevan bagi pembaca karena literasi digital yang lemah berpotensi memperbesar risiko keamanan sistem keuangan nasional."
+ },
+ {
+  "id": "KQ1k68aYjqg",
+  "title": "Ekonom Senior: Tiga Hal Penting Cegah Serangan Siber Perbankan",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Seorang ekonom senior memaparkan tiga langkah utama yang perlu disiapkan sektor perbankan untuk mengantisipasi gelombang serangan siber yang melanda sektor keuangan global.",
+  "takeaway": "Penting bagi pembaca karena membahas langkah mitigasi risiko yang berdampak langsung pada stabilitas sistem perbankan."
+ },
+ {
+  "id": "0cMVjV42Hks",
+  "title": "Serangan Siber Hantam Sektor Keuangan, Apa Langkah Negara?",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi ini membahas langkah yang perlu diambil negara menghadapi lonjakan serangan siber yang menghantam sektor keuangan di berbagai negara, termasuk Indonesia.",
+  "takeaway": "Relevan karena menyoroti peran kebijakan negara dalam melindungi stabilitas sektor keuangan dari ancaman siber."
+ },
+ {
+  "id": "p0a1bcd2eBs",
+  "title": "5 Miliar Serangan Siber Sepanjang 2025, Pakar: Jangan Panik",
+  "category": "Teknologi",
+  "program": "Indonesia Business Forum",
+  "summary": "Pakar keamanan siber mengungkap lonjakan serangan siber global ke sektor keuangan sepanjang 2025 dan mengimbau publik tetap waspada tanpa panik.",
+  "takeaway": "Data skala serangan siber ini penting bagi pembaca untuk memahami besarnya risiko yang dihadapi sektor keuangan saat ini."
+ },
+ {
   "id": "oDaZvKyxYGQ",
   "title": "Guru Honorer di Sumsel Belum Gajian Selama 11 Bulan",
   "category": "Ketenagakerjaan",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Onenews Update",
   "summary": "Puluhan ribu pelajar dan pekerja turun ke jalan di berbagai wilayah Italia pada Jumat (30/10) sebagai respons atas tekanan biaya hidup yang terus meningkat.",
   "takeaway": "Menunjukkan dampak sosial dari tekanan inflasi dan biaya hidup, isu yang juga relevan bagi pembaca ekonomi global."
- },
- {
-  "id": "esz4Qyy2oAE",
-  "title": "Hashim Ingatkan Risiko Rupiah Tembus Rp22.000 per Dolar AS",
-  "category": "Moneter",
-  "program": "OneNews Update",
-  "summary": "Ketua Dewan Penasihat Kadin Indonesia, Hashim Djojohadikusumo, memperingatkan potensi pelemahan rupiah hingga menyentuh Rp22.000 per dolar AS terkait isu klasifikasi MSCI terhadap pasar modal Indonesia.",
-  "takeaway": "Peringatan ini layak disimak karena menyangkut risiko stabilitas nilai tukar rupiah yang bisa memengaruhi biaya impor dan arus investasi asing."
- },
- {
-  "id": "O3QkCSXebAs",
-  "title": "Wamendagri: Insentif Fiskal Rp1 Triliun Bukan Khusus MBG",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto menegaskan anggaran insentif fiskal sebesar Rp1 triliun bukan dana khusus untuk program Makan Bergizi Gratis, melainkan untuk daerah secara umum.",
-  "takeaway": "Klarifikasi ini penting bagi pembaca karena menyangkut arah penggunaan anggaran insentif fiskal daerah yang bersumber dari APBN."
- },
- {
-  "id": "5jpeq_-gBZs",
-  "title": "Hilirisasi Peternakan di Jawa Timur",
-  "category": "Industri",
-  "program": "Ruang Parlemen",
-  "summary": "Hilirisasi sektor peternakan di Jawa Timur didorong untuk meningkatkan nilai tambah produk daging, susu, dan telur, tidak hanya berhenti pada tahap produksi.",
-  "takeaway": "Topik ini relevan bagi pembaca ekonomi karena menyangkut strategi penguatan nilai tambah sektor pangan di tingkat daerah."
- },
- {
-  "id": "lyWxmbC9PtQ",
-  "title": "Bus Trans Sulsel Hadir dengan Tarif Terjangkau",
-  "category": "Bisnis",
-  "program": "Bisnis Bareng Orang Hebat",
-  "summary": "Bus Trans Sulsel diluncurkan sebagai upaya membangun sistem transportasi publik yang terintegrasi di Sulawesi Selatan dengan tarif yang terjangkau bagi masyarakat.",
-  "takeaway": "Peluncuran layanan ini penting bagi pembaca ekonomi karena terkait investasi infrastruktur transportasi dan efisiensi mobilitas masyarakat daerah."
  }
 ];

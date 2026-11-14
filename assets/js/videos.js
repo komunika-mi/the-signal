@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "C-EAC4dw8gQ",
+  "title": "Literasi Digital Rendah, Masyarakat Jadi Sasaran Kejahatan Siber",
+  "category": "Teknologi",
+  "program": "Indonesia Business Forum",
+  "summary": "Rendahnya literasi digital membuat masyarakat Indonesia rentan menjadi sasaran kejahatan siber, di tengah gelombang serangan yang kini menghantam sektor keuangan global.",
+  "takeaway": "Relevan bagi pembaca karena literasi digital yang lemah berpotensi memperbesar risiko keamanan sistem keuangan nasional.",
+  "terbit": "2026-11-14T15:25:57+00:00"
+ },
+ {
+  "id": "KQ1k68aYjqg",
+  "title": "Ekonom Senior: Tiga Hal Penting Cegah Serangan Siber Perbankan",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Seorang ekonom senior memaparkan tiga langkah utama yang perlu disiapkan sektor perbankan untuk mengantisipasi gelombang serangan siber yang melanda sektor keuangan global.",
+  "takeaway": "Penting bagi pembaca karena membahas langkah mitigasi risiko yang berdampak langsung pada stabilitas sistem perbankan.",
+  "terbit": "2026-11-14T15:15:14+00:00"
+ },
+ {
+  "id": "0cMVjV42Hks",
+  "title": "Serangan Siber Hantam Sektor Keuangan, Apa Langkah Negara?",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Diskusi ini membahas langkah yang perlu diambil negara menghadapi lonjakan serangan siber yang menghantam sektor keuangan di berbagai negara, termasuk Indonesia.",
+  "takeaway": "Relevan karena menyoroti peran kebijakan negara dalam melindungi stabilitas sektor keuangan dari ancaman siber.",
+  "terbit": "2026-11-14T15:03:15+00:00"
+ },
+ {
+  "id": "p0a1bcd2eBs",
+  "title": "5 Miliar Serangan Siber Sepanjang 2025, Pakar: Jangan Panik",
+  "category": "Teknologi",
+  "program": "Indonesia Business Forum",
+  "summary": "Pakar keamanan siber mengungkap lonjakan serangan siber global ke sektor keuangan sepanjang 2025 dan mengimbau publik tetap waspada tanpa panik.",
+  "takeaway": "Data skala serangan siber ini penting bagi pembaca untuk memahami besarnya risiko yang dihadapi sektor keuangan saat ini.",
+  "terbit": "2026-11-14T14:59:56+00:00"
+ },
+ {
   "id": "oDaZvKyxYGQ",
   "title": "Guru Honorer di Sumsel Belum Gajian Selama 11 Bulan",
   "category": "Ketenagakerjaan",

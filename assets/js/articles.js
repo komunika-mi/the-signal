@@ -31,6 +31,40 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "test-shm3-potensi-delisting-suspensi-saham-sudah-18-bulan",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM3 [Potensi Delisting]: Suspensi Saham Sudah 18 Bulan",
+  "deck": "BEI membuka opsi delisting saham TEST-SHM3 setelah suspensi berkepanjangan; masa suspensi disebut mencapai 6 bulan pada 14 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T15:36:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261114_TEST-SHM3_B009_ba9f1547-401f-41bd-bc54-c94f787213c4-20261114153723.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TEST-SHM3",
+  "tags": [
+   "TEST-SHM3",
+   "delisting",
+   "suspensi saham",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menyampaikan potensi penghapusan pencatatan atau delisting saham emiten berkode TEST-SHM3. Pengumuman ini merujuk pada Peraturan Bursa Nomor I-I tentang Penghapusan Pencatatan dan Pencatatan Kembali Saham, yang memberi bursa wewenang mendepak saham dari pencatatan dalam dua kondisi: perusahaan mengalami masalah signifikan yang mengancam kelangsungan usahanya tanpa indikasi pemulihan, atau sahamnya sudah disuspensi dan hanya diperdagangkan di pasar negosiasi selama minimal 24 bulan berturut-turut.",
+   "BEI menyebut saham TEST-SHM3 saat ini telah disuspensi selama 18 bulan, dan masa suspensi tersebut akan mencapai 6 bulan pada 14 November 2026 sesuai keterangan resmi bursa. Selama disuspensi, saham perusahaan tidak bisa diperdagangkan secara normal di pasar reguler dan pasar tunai, sehingga pemegang saham kesulitan menjual atau membeli sahamnya secara terbuka.",
+   "Jika proses ini berlanjut dan Perseroan tidak dapat menunjukkan perbaikan yang meyakinkan, BEI dapat melanjutkan proses penghapusan pencatatan saham TEST-SHM3 dari papan perdagangan. Status delisting berarti saham tersebut tidak lagi tercatat dan diperdagangkan di bursa resmi, sehingga pemegang saham publik kehilangan sarana jual beli yang diatur dan diawasi otoritas pasar modal."
+  ],
+  "fotoAdegan": "A closed corporate office building facade with locked glass doors and an empty lobby, midday light, Jakarta business district.",
+  "takeaway": "Ini sinyal negatif bagi pemegang saham TEST-SHM3, karena bursa secara resmi membuka opsi mendepak saham ini dari pencatatan akibat suspensi yang berkepanjangan. Yang terancam bukan laporan keuangan perusahaan, melainkan likuiditas, yaitu kemampuan investor untuk menjual sahamnya kapan saja di pasar terbuka; kalau delisting benar terjadi, saham ini hanya bisa dipindahtangankan lewat mekanisme di luar bursa yang jauh lebih sulit dan berisiko bagi pemegang saham minoritas. Suspensi artinya perdagangan saham dihentikan sementara oleh bursa, sedangkan delisting berarti penghapusan permanen dari daftar saham yang bisa diperdagangkan di BEI. Yang perlu dipantau berikutnya adalah 14 November 2026, tanggal yang disebut bursa sebagai saat masa suspensi mencapai babak baru, serta apakah Perseroan bisa menunjukkan indikasi pemulihan usaha sebelum bursa mengambil keputusan akhir soal delisting.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Potensi Delisting",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-14",
+    "acara": "Masa suspensi saham TEST-SHM3 disebut mencapai 6 bulan"
+   }
+  ]
+ },
+ {
   "slug": "bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat",
   "category": "Perbankan",
   "title": "BNI Ajarkan [Literasi Keuangan] ke Siswa Sekolah Rakyat",

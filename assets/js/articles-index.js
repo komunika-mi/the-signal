@@ -21,6 +21,22 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "test-shm3-potensi-delisting-suspensi-saham-sudah-18-bulan",
+  "category": "Aksi Korporasi",
+  "title": "TEST-SHM3 [Potensi Delisting]: Suspensi Saham Sudah 18 Bulan",
+  "deck": "BEI membuka opsi delisting saham TEST-SHM3 setelah suspensi berkepanjangan; masa suspensi disebut mencapai 6 bulan pada 14 November 2026.",
+  "date": "14 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TEST-SHM3",
+   "delisting",
+   "suspensi saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261114_TEST-SHM3_B009_ba9f1547-401f-41bd-bc54-c94f787213c4-20261114153723.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat",
   "category": "Perbankan",
   "title": "BNI Ajarkan [Literasi Keuangan] ke Siswa Sekolah Rakyat",
@@ -6484,21 +6500,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477011-bpdp-perkuat-daya-saing-umkm-perkebunan-lewat-inovasi-dan-akses-pasar"
- },
- {
-  "slug": "lopi-direksi-beli-2-juta-saham-secara-tidak-langsung",
-  "category": "Aksi Korporasi",
-  "title": "LOPI: Direksi Beli [2 Juta] Saham Secara Tidak Langsung",
-  "deck": "Direktur LOPI, Wahyu Dwi Jatmiko, melaporkan pembelian tidak langsung 2 juta saham pada 5 November 2026, menaikkan kepemilikannya dari 60 menjadi 2.000.060 lembar saham.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "kepemilikan saham direksi",
-   "Logisticsplus International",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1748-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

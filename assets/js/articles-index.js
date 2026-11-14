@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
+  "category": "Bisnis",
+  "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",
+  "deck": "KPPU Yogyakarta memperkuat koordinasi dengan Disperindag DIY untuk mengawasi rantai distribusi pangan dan mencegah praktik usaha tidak sehat menjelang Natal dan Tahun Baru 2027.",
+  "date": "15 November 2026",
+  "image": "assets/img/kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru.jpg",
+  "imageV": "mwgo6fxn",
+  "tags": [
+   "KPPU",
+   "Pangan",
+   "Yogyakarta",
+   "Nataru"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-yogyakarta-perkuat-pengawasan-persaingan-jaga-stabilitas-pangan-jelang-nataru",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "petrokimia-gresik-pamer-dekarbonisasi-pupuk-di-cop31",
+  "category": "BUMN",
+  "title": "Petrokimia Gresik Pamer [Dekarbonisasi] Pupuk di COP31",
+  "deck": "Petrokimia Gresik memaparkan strategi dekarbonisasi dari pabrik hingga lahan petani di forum iklim COP31 Turkiye, termasuk potensi pemangkasan emisi lewat pemupukan berimbang.",
+  "date": "14 November 2026",
+  "image": "assets/img/petrokimia-gresik-pamer-dekarbonisasi-pupuk-di-cop31.jpg",
+  "imageV": "mwgo6gci",
+  "tags": [
+   "dekarbonisasi",
+   "petrokimia gresik",
+   "cop31 turkiye",
+   "pupuk berimbang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478397-tampil-di-cop31-petrokimia-gresik-perluas-dekarbonisasi-hingga-ke-lahan-petani"
+ },
+ {
   "slug": "indonesia-teken-asean-defa-tunggu-ratifikasi-untuk-berlaku",
   "category": "Global",
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
@@ -6467,38 +6502,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c03d9d9782_ffb99ca34c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-tatarstan-jajaki-kerja-sama-kapal-dan-investasi",
-  "category": "Global",
-  "title": "Indonesia-Tatarstan [Jajaki] Kerja Sama Kapal dan Investasi",
-  "deck": "Menko Airlangga bertemu Kepala Republik Tatarstan Rusia membahas peluang investasi di perkapalan, otomotif, kedirgantaraan, farmasi, dan teknologi digital.",
-  "date": "6 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
-  "tags": [
-   "Rusia",
-   "Tatarstan",
-   "Investasi",
-   "Kawasan Ekonomi Khusus"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7205/terima-rais-kepala-republik-tatarstan-federasi-rusia-menko-airlangga-dorong-penguatan-investasi-dan-kerja-sama-industri-indonesia-tatarstan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "dooh-pis-keluar-total-beruntung-berkat-pegang-15-09-saham",
-  "category": "Aksi Korporasi",
-  "title": "DOOH: PIS Keluar Total, [Beruntung Berkat] Pegang 15,09% Saham",
-  "deck": "PT Prambanan Investasi Sukses resmi lepas semua sisa sahamnya di DOOH pada 12 Oktober 2026, digantikan PT Beruntung Berkat Sejahtera yang kini pegang 15,09% saham.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "pemegang saham",
-   "SII",
-   "INET"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c01dcd329b_da004943f6.pdf",
   "sourceLabel": "IDX"
  }
 ];

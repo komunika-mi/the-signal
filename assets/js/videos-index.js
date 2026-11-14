@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "DBc8LjMdbJE",
+  "title": "Serangan Siber Global Ancam Sektor Keuangan, Negara Harus Apa?",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Gelombang serangan siber global menghantam sektor keuangan di berbagai negara, dari Prancis hingga Taiwan, sementara data Fortinet mencatat lonjakan aktivitas serangan siber di Indonesia.",
+  "takeaway": "Isu ini penting bagi pembaca ekonomi karena menyangkut risiko keamanan sistem keuangan yang bisa berdampak pada stabilitas sektor perbankan dan kepercayaan pasar."
+ },
+ {
+  "id": "VerUaedTk1I",
+  "title": "BSSN: Serangan Siber Rutin Terjadi, Keamanan Perbankan Tetap Aman",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Juru bicara BSSN menjelaskan bahwa serangan siber terhadap sektor keuangan memang kerap terjadi, namun hal itu tidak berarti sistem keamanan perbankan Indonesia rentan.",
+  "takeaway": "Penjelasan otoritas siber ini relevan bagi pembaca ekonomi untuk menilai sejauh mana risiko nyata serangan siber terhadap industri perbankan nasional."
+ },
+ {
   "id": "C-EAC4dw8gQ",
   "title": "Literasi Digital Rendah, Masyarakat Jadi Sasaran Kejahatan Siber",
   "category": "Teknologi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Inovasi Membangun Negeri",
   "summary": "Telkomsel menerima penghargaan Inovasi Membangun Negeri 2026 atas pengembangan asisten digital Veronica AI untuk meningkatkan pengalaman pelanggan.",
   "takeaway": "Relevan bagi pembaca ekonomi karena memperlihatkan strategi perusahaan telekomunikasi memanfaatkan AI untuk daya saing bisnis."
- },
- {
-  "id": "I3PTDpqIlzs",
-  "title": "Insentif Fiskal Rp1 Triliun untuk Daerah Berkinerja Baik",
-  "category": "Makroekonomi",
-  "program": "Kabar Petang",
-  "summary": "Wakil Menteri Dalam Negeri Bima Arya Sugiarto menegaskan insentif fiskal Rp1 triliun untuk daerah berkinerja baik bukan dana khusus program Makan Bergizi Gratis.",
-  "takeaway": "Relevan bagi pembaca karena menyangkut kejelasan skema insentif fiskal dan alokasi anggaran daerah dari pemerintah pusat."
- },
- {
-  "id": "OPb1eQGui74",
-  "title": "Italia Dilanda Demo Besar Akibat Biaya Hidup Tinggi",
-  "category": "Global",
-  "program": "Onenews Update",
-  "summary": "Puluhan ribu pelajar dan pekerja turun ke jalan di berbagai wilayah Italia pada Jumat (30/10) sebagai respons atas tekanan biaya hidup yang terus meningkat.",
-  "takeaway": "Menunjukkan dampak sosial dari tekanan inflasi dan biaya hidup, isu yang juga relevan bagi pembaca ekonomi global."
  }
 ];

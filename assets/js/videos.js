@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "DBc8LjMdbJE",
+  "title": "Serangan Siber Global Ancam Sektor Keuangan, Negara Harus Apa?",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Gelombang serangan siber global menghantam sektor keuangan di berbagai negara, dari Prancis hingga Taiwan, sementara data Fortinet mencatat lonjakan aktivitas serangan siber di Indonesia.",
+  "takeaway": "Isu ini penting bagi pembaca ekonomi karena menyangkut risiko keamanan sistem keuangan yang bisa berdampak pada stabilitas sektor perbankan dan kepercayaan pasar.",
+  "terbit": "2026-11-14T16:51:25+00:00"
+ },
+ {
+  "id": "VerUaedTk1I",
+  "title": "BSSN: Serangan Siber Rutin Terjadi, Keamanan Perbankan Tetap Aman",
+  "category": "Perbankan",
+  "program": "Indonesia Business Forum",
+  "summary": "Juru bicara BSSN menjelaskan bahwa serangan siber terhadap sektor keuangan memang kerap terjadi, namun hal itu tidak berarti sistem keamanan perbankan Indonesia rentan.",
+  "takeaway": "Penjelasan otoritas siber ini relevan bagi pembaca ekonomi untuk menilai sejauh mana risiko nyata serangan siber terhadap industri perbankan nasional.",
+  "terbit": "2026-11-14T15:35:45+00:00"
+ },
+ {
   "id": "C-EAC4dw8gQ",
   "title": "Literasi Digital Rendah, Masyarakat Jadi Sasaran Kejahatan Siber",
   "category": "Teknologi",

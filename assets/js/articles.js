@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
+  "category": "Bisnis",
+  "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",
+  "deck": "KPPU Yogyakarta memperkuat koordinasi dengan Disperindag DIY untuk mengawasi rantai distribusi pangan dan mencegah praktik usaha tidak sehat menjelang Natal dan Tahun Baru 2027.",
+  "image": "assets/img/kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-14T17:13:28.942Z",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-yogyakarta-perkuat-pengawasan-persaingan-jaga-stabilitas-pangan-jelang-nataru",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha",
+  "tags": [
+   "KPPU",
+   "Pangan",
+   "Yogyakarta",
+   "Nataru"
+  ],
+  "body": [
+   "Komisi Pengawas Persaingan Usaha (KPPU) Kantor Yogyakarta memperkuat koordinasi dengan Dinas Perindustrian dan Perdagangan Daerah Istimewa Yogyakarta serta dinas perdagangan di seluruh kabupaten dan kota se-DIY. Pertemuan daring pada 12 November 2026 ini membahas kondisi pasar dan rantai distribusi bahan pokok untuk mengantisipasi praktik persaingan usaha tidak sehat menjelang Hari Besar Keagamaan Nasional dan Tahun Baru 2027.",
+   "Kepala Kantor KPPU Yogyakarta, M. Hendry Setiawan, menyebut gejolak harga pangan menjelang hari besar selalu berulang karena beberapa faktor: distribusi antarpulau yang sulit secara geografis, aturan tata niaga impor, serta rantai distribusi yang mengerucut ke segelintir pelaku usaha di posisi tengah. Struktur semacam itu dinilai berisiko membatasi pilihan saluran distribusi dan melemahkan posisi tawar pelaku usaha, baik di tingkat hulu maupun hilir. Sebagai langkah antisipasi, KPPU mendorong pembaruan data rantai distribusi dan pemetaan gudang penyimpanan bahan pokok sampai tingkat desa dan kelurahan.",
+   "Kepala Bidang Penegakan Hukum KPPU Yogyakarta, Kamal Barok, mengingatkan sejumlah pasal dalam Undang-Undang Nomor 5 Tahun 1999 yang relevan untuk mengawasi lonjakan permintaan akhir tahun, yaitu Pasal 19 tentang larangan penguasaan pasar lewat diskriminasi, Pasal 15 ayat 2 tentang perjanjian tertutup, dan Pasal 25 tentang penyalahgunaan posisi dominan. Ia menyoroti khusus praktik pengikatan penjualan atau tying agreement, yakni ketika pemasok mensyaratkan pembelian produk tertentu sebagai syarat memperoleh produk lain. Kamal menegaskan pelaku usaha besar maupun pemasok dilarang memaksa pedagang membeli paket barang tanpa pilihan terpisah, misalnya mewajibkan pembelian barang yang kurang laku agar bisa mendapatkan komoditas langka seperti Minyakita atau beras SPHP.",
+   "Kepala Disperindag DIY, Anton Raharja, melaporkan sepanjang 2026 pihaknya telah menyalurkan sekitar 486 ton komoditas lewat operasi pasar di enam pasar pantauan, dan menjadwalkan 17 agenda pasar murah serta operasi pasar reguler dengan volume sekitar 54 ton per bulan hingga Desember 2026. Berdasarkan pemantauan Disperindag DIY dan dinas perdagangan di Sleman, Bantul, Kulon Progo, dan Gunungkidul, stok kebutuhan pokok di DIY secara umum berada dalam kondisi aman dan surplus. Namun harga cabai merah keriting tercatat Rp59.734 per kilogram dan gula pasir curah Rp17.667 per kilogram, sehingga pemerintah daerah bersama Tim Pengendalian Inflasi Daerah terus meningkatkan pemantauan distributor dan operasi pasar."
+  ],
+  "fotoAdegan": "Traders arranging sacks of rice and sugar inside a traditional market warehouse in Yogyakarta, checking stock under dim morning light",
+  "fotoSumber": "https://kppu.go.id/uploads/news/1794554603_6af6baebaab9d_Picture3.png",
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan penegasan cara KPPU mengawasi rantai pasok pangan menjelang libur akhir tahun, termasuk soal pengikatan penjualan atau tying agreement, yaitu praktik memaksa pedagang membeli barang kurang laku dulu sebelum bisa mendapat barang langka seperti Minyakita atau beras bersubsidi SPHP. Yang kena dampak langsung adalah pedagang dan distributor di bagian tengah rantai pasok, karena merekalah yang biasanya dipaksa menerima paket penjualan semacam itu, sementara di ujungnya konsumen ikut merasakan dampaknya kalau barang langka jadi makin susah didapat tanpa harus membeli barang tambahan. KPPU juga mendorong pemetaan gudang penyimpanan sampai tingkat desa dan kelurahan, yang menunjukkan arah pengawasan ini bergeser dari sekadar operasi pasar saat harga sudah naik, ke pemantauan stok yang lebih dini. Tapi sampai sekarang langkah ini masih sebatas kesepakatan koordinasi dan pertukaran data, belum ada kasus pelanggaran yang diumumkan. Yang akan menentukan apakah pengawasan ini berlanjut jadi tindakan nyata atau sekadar rutinitas tahunan adalah apakah KPPU Yogyakarta merilis temuan dugaan pelanggaran selama masa pemantauan menjelang puncak Natal dan Tahun Baru 2027.",
+  "imageV": "mwgo6fxn"
+ },
+ {
+  "slug": "petrokimia-gresik-pamer-dekarbonisasi-pupuk-di-cop31",
+  "category": "BUMN",
+  "title": "Petrokimia Gresik Pamer [Dekarbonisasi] Pupuk di COP31",
+  "deck": "Petrokimia Gresik memaparkan strategi dekarbonisasi dari pabrik hingga lahan petani di forum iklim COP31 Turkiye, termasuk potensi pemangkasan emisi lewat pemupukan berimbang.",
+  "image": "assets/img/petrokimia-gresik-pamer-dekarbonisasi-pupuk-di-cop31.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T23:33:04+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478397-tampil-di-cop31-petrokimia-gresik-perluas-dekarbonisasi-hingga-ke-lahan-petani",
+  "tags": [
+   "dekarbonisasi",
+   "petrokimia gresik",
+   "cop31 turkiye",
+   "pupuk berimbang"
+  ],
+  "body": [
+   "Petrokimia Gresik memaparkan strategi dekarbonisasinya dalam forum iklim dunia COP31 yang berlangsung di Antalya, Turkiye, pada 11 November 2026. Perusahaan pupuk pelat merah ini menunjukkan bahwa upaya menekan emisi karbon tidak hanya dilakukan di dalam pabrik, tetapi juga diperluas sampai ke cara petani memupuk lahannya. Hal ini relevan karena menyangkut dua isu besar sekaligus, yaitu perubahan iklim dan ketahanan pangan, mengingat perusahaan ini adalah salah satu pemasok utama pupuk untuk pertanian nasional.",
+   "Direktur Utama Petrokimia Gresik, Daconi Khotob, menjelaskan bahwa program pengurangan emisi di internal perusahaan, lewat efisiensi energi, pembaruan teknologi produksi, serta penangkapan dan pemanfaatan karbon, diperkirakan memangkas emisi sekitar 529 ribu ton setara CO2 setiap tahun. Setara CO2 di sini maksudnya ukuran gabungan berbagai gas rumah kaca yang disetarakan dengan karbon dioksida, supaya dampaknya bisa dibandingkan dalam satu angka. Salah satu contoh penerapannya ada di Pabrik ZA II, yang menangkap karbon dioksida sisa produksi amonia lalu mengolahnya menjadi pupuk amonium sulfat, dengan produk sampingan kalsium karbonat yang bisa membantu menetralkan tanah yang terlalu asam.",
+   "Selain upaya di dalam pabrik, Petrokimia Gresik menyebut ada potensi pengurangan emisi yang lebih besar, hingga 70 persen, apabila petani menerapkan pola pemupukan berimbang, yaitu memberi pupuk sesuai kebutuhan tanah dan tanaman, bukan secara berlebihan. Pola ini diklaim bisa menekan pemborosan pupuk sekaligus menjaga hasil panen, sejalan dengan target perusahaan untuk mengelola emisi di sepanjang rantai nilai, mulai dari pabrik sampai ke sawah petani.",
+   "Paparan ini disampaikan dalam sesi khusus Indonesia Pavilion bertajuk From Plant to Farm: Decarbonizing the Fertilizer Value Chain for Food and Industrial Resilience. Dalam sesi itu, Daconi menegaskan bahwa ketahanan pangan, pertumbuhan industri, dan kepedulian lingkungan menjadi tiga hal yang menurutnya harus berjalan beriringan dalam strategi perusahaan."
+  ],
+  "fotoAdegan": "A farmer spreading granular fertilizer by hand across a green rice field, hazy hills in the distance, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/14/6af88cca52264-tampil-di-cop31-petrokimia-gresik-perluas-dekarbonisasi-hingga-ke-lahan-petani_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan sekadar klaim pengurangan emisi di dalam pabrik, melainkan cakupannya yang diperluas sampai ke cara petani memupuk lahan sendiri. Pihak yang langsung tersentuh ada dua, yaitu Petrokimia Gresik sebagai perusahaan pupuk milik negara yang melaporkan jejak emisinya di forum internasional, dan petani yang menjadi sasaran perubahan pola pemupukan. Masalahnya, angka potensi pengurangan emisi 70 persen dari pemupukan berimbang itu masih berupa proyeksi, dan keberhasilannya bergantung pada apakah petani benar-benar mengubah kebiasaan memupuk di lapangan, bukan sesuatu yang otomatis terjadi karena dipaparkan di forum iklim. Begitu juga klaim pengurangan 529 ribu ton setara CO2 per tahun dari program pabrik, yang belum disertai rincian siapa yang memverifikasi angka tersebut. Yang perlu dipantau selanjutnya adalah apakah Petrokimia Gresik merilis program insentif atau pendampingan konkret bagi petani untuk mengadopsi pemupukan berimbang, karena di situlah klaim ini akan diuji benar atau tidak di lapangan.",
+  "imageV": "mwgo6gci"
+ },
+ {
   "slug": "indonesia-teken-asean-defa-tunggu-ratifikasi-untuk-berlaku",
   "category": "Global",
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
@@ -194,7 +249,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang benar-benar berubah dari siaran ini adalah selesainya kewajiban pemerintah atas obligasi SRBI-01/MK/2003, sisa utang dari krisis 1997-1998 ketika Bank Indonesia membantu likuiditas bank-bank yang nyaris kolaps. Pembayaran terakhir pada 24 Agustus 2026 berarti beban utang warisan krisis itu, yang sudah berjalan lebih dari 20 tahun, kini resmi tertutup dari buku pemerintah dan BI, dan ini terasa di sisi anggaran negara karena satu pos kewajiban jangka panjang hilang. Bersamaan dengan itu, BI dan Kementerian Keuangan mengalihkan perhatian ke debt switching, yaitu mengganti surat utang negara yang akan jatuh tempo dengan surat utang baru yang masa pelunasannya lebih panjang, supaya pemerintah tidak harus membayar banyak utang sekaligus dalam waktu berdekatan. Ini mengarah ke pola pengelolaan utang yang lebih fokus mengatur ulang jadwal pembayaran ketimbang mengurangi jumlah utang itu sendiri. Yang akan menunjukkan apakah pola ini berlanjut adalah data realisasi transaksi debt switching dan jadwal jatuh tempo surat utang negara yang biasa dirilis Direktorat Jenderal Pembiayaan dan Pengelolaan Risiko Kementerian Keuangan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "test-shm3-potensi-delisting-suspensi-saham-sudah-18-bulan",
@@ -309,7 +365,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status perjanjiannya: setelah dirundingkan selama tiga tahun sejak 2023, sepuluh negara ASEAN akhirnya menandatangani kerangka kesepakatan ekonomi digital kawasan bernama DEFA. Namun yang ditandatangani ini baru kerangka besar, bukan aturan teknis yang mengikat. Aturan yang nanti benar-benar menentukan, misalnya soal pertukaran data lintas negara atau standar transaksi digital, baru akan ditulis dalam dokumen turunan yang disebut Rencana Implementasi DEFA, dan Indonesia sendiri mendorong agar penyusunannya dipercepat. Pihak yang bakal terkena dampak adalah pelaku usaha digital dan UMKM yang berdagang lintas negara ASEAN, karena merekalah yang nanti diatur begitu rencana itu selesai. Yang masih kurang untuk menilai ke mana arah kerja sama ini sebenarnya adalah isi dan tenggat Rencana Implementasi tersebut, karena berita ini belum menyebutkan kapan dokumen itu akan disepakati.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bank-bjb-pasarkan-sukuk-tabungan-st017-mulai-rp1-juta",

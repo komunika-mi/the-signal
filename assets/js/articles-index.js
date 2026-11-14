@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia",
+  "category": "Teknologi",
+  "title": "Presiden AS Dukung Tim Cook Gantikan Huang di [Nvidia]",
+  "deck": "Presiden Amerika Serikat Donald Trump menyebut Tim Cook pantas menggantikan Jensen Huang yang mundur dari kursi CEO Nvidia setelah 33 tahun memimpin perusahaan itu.",
+  "date": "14 November 2026",
+  "image": "assets/img/presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia.jpg",
+  "imageV": "mwfpot4w",
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "Tim Cook",
+   "Donald Trump"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478267-sosok-pengganti-diinginkan-trump-setelah-jensen-huang-mundur-dari-nvidia-siapa"
+ },
+ {
   "slug": "indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham",
   "category": "Pasar Modal",
   "title": "Indo Premier Luncurkan [INAI], Asisten AI untuk Trading Saham",
@@ -6483,22 +6500,6 @@ var ARTICLES = [
    "Cashlez"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f5fda78ec_7f38640e99.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-komisaris-jual-habis-saham-rp12-2-miliar",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Komisaris [Jual] Habis Saham, Rp12,2 Miliar",
-  "deck": "Komisaris Djasa Pinara Gusti menjual seluruh 26,89 juta lembar sahamnya di NSSS pada harga Rp455, membuat hak suaranya turun dari 0,11 persen menjadi nol.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "Nusantara Sawit Sejahtera",
-   "komisaris",
-   "transaksi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-8374-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

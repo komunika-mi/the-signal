@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia",
+  "category": "Teknologi",
+  "title": "Presiden AS Dukung Tim Cook Gantikan Huang di [Nvidia]",
+  "deck": "Presiden Amerika Serikat Donald Trump menyebut Tim Cook pantas menggantikan Jensen Huang yang mundur dari kursi CEO Nvidia setelah 33 tahun memimpin perusahaan itu.",
+  "image": "assets/img/presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T06:23:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478267-sosok-pengganti-diinginkan-trump-setelah-jensen-huang-mundur-dari-nvidia-siapa",
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "Tim Cook",
+   "Donald Trump"
+  ],
+  "body": [
+   "Jensen Huang mengundurkan diri dari kursi CEO Nvidia setelah memimpin perusahaan chip itu selama 33 tahun sejak ikut mendirikannya. Presiden Amerika Serikat Donald Trump langsung merespons kabar ini dengan menyebut mantan CEO Apple, Tim Cook, sebagai sosok yang menurutnya paling layak menggantikan Huang. Pergantian pucuk pimpinan ini penting diperhatikan karena Nvidia merupakan salah satu perusahaan teknologi paling berpengaruh di dunia, terutama sebagai pemasok utama chip untuk kecerdasan buatan.",
+   "Presiden Trump menyampaikan dukungannya lewat unggahan di platform Truth Social, menyebut Tim Cook sebagai sosok yang pantas menggantikan Huang dengan kalimat \"seorang legenda menggantikan legenda lainnya\". Selain melepas kursi CEO, Jensen Huang juga mengundurkan diri dari dewan direksi Nvidia, namun perusahaan belum menjelaskan secara rinci alasan di balik keputusan tersebut. Untuk sementara, posisi CEO diisi oleh Colette Kress, yang sebelumnya menjabat Wakil Presiden Eksekutif dan Direktur Keuangan Nvidia, sambil tetap merangkap tugas lamanya.",
+   "Dewan direksi Nvidia memastikan kegiatan operasional perusahaan tetap berjalan seperti biasa selama proses pencarian CEO definitif berlangsung. Pergantian kepemimpinan ini muncul di tengah isu dugaan perselingkuhan yang menerpa Jensen Huang, dengan salah satu perempuan yang disebut-sebut terkait dengannya diduga memiliki hubungan dengan jaringan mata-mata China."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of server racks in a humming data center under cool blue ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/10/6af3492bee83a-ceo-nvidia-jensen-huang-kiri-bersama-presiden-as-donald-trump_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang pasti berubah sejauh ini cuma dua hal: Jensen Huang resmi lepas dari kursi CEO dan kursi dewan direksi Nvidia setelah 33 tahun memimpin perusahaan yang ia dirikan sendiri, dan posisinya untuk sementara diisi Colette Kress yang sebelumnya menjabat direktur keuangan perusahaan itu. Yang paling terdampak adalah investor dan mitra bisnis Nvidia, karena perusahaan ini pemasok utama chip untuk kecerdasan buatan yang dipakai hampir semua raksasa teknologi dunia, sehingga kepastian siapa nakhoda barunya ikut menentukan arah kerja sama mereka ke depan. Usulan Presiden Amerika Serikat Donald Trump agar Tim Cook menggantikan Huang baru sebatas pendapat pribadi lewat media sosial, bukan keputusan resmi Nvidia, dan sejauh ini belum ada tanda dewan direksi mempertimbangkan nama tersebut. Yang masih kurang untuk membaca arah sebenarnya adalah penjelasan resmi dari Nvidia soal alasan Huang mundur, termasuk apakah ini terkait isu perselingkuhan yang mencuat, serta siapa kandidat yang benar-benar dipertimbangkan dewan direksi untuk posisi CEO permanen.",
+  "imageV": "mwfpot4w"
+ },
+ {
   "slug": "indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham",
   "category": "Pasar Modal",
   "title": "Indo Premier Luncurkan [INAI], Asisten AI untuk Trading Saham",

@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "utang-bi-pemerintah-era-krisis-1998-lunas",
+  "category": "Moneter",
+  "title": "Utang BI-Pemerintah Era Krisis 1998 [Lunas]",
+  "deck": "Obligasi BI terkait dukungan likuiditas krisis 1997-1998 resmi lunas Agustus 2026, seiring BI dan pemerintah menyiapkan skema debt switching untuk surat utang negara.",
+  "image": "assets/img/konpers-bank.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T08:38:37.755Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825026.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "Bank Indonesia",
+   "Kementerian Keuangan",
+   "Obligasi Negara",
+   "Debt Switching"
+  ],
+  "body": [
+   "Kewajiban pemerintah kepada Bank Indonesia atas Obligasi Negara seri SRBI-01/MK/2003 resmi dinyatakan tuntas setelah pembayaran terakhir dilakukan pada 24 Agustus 2026. Obligasi ini adalah warisan krisis moneter 1997-1998, diterbitkan pada 2003 untuk menggantikan surat utang pemerintah sebelumnya yang timbul akibat dukungan likuiditas Bank Indonesia kepada perbankan saat krisis tersebut. Dengan lunasnya obligasi ini, satu pos utang pemerintah yang sudah berjalan lebih dari dua dekade akhirnya tertutup.",
+   "Penyelesaian ini diumumkan dalam forum Central Banking Service Excellence Achievement (CBSEA) 2026 di Jakarta pada 13 November 2026, yang dihadiri Deputi Gubernur Bank Indonesia Thomas A.M. Djiwandono dan Wakil Menteri Keuangan Luky Alfirman. Dalam forum itu, Bank Indonesia juga menyinggung proses debt switching yang sedang disiapkan bersama pemerintah, yaitu menukar surat utang negara yang akan jatuh tempo dengan surat utang baru berjangka waktu lebih panjang.",
+   "Thomas menekankan bahwa layanan kebanksentralan Bank Indonesia, mulai dari mengelola rekening pemerintah, memproses transfer dana dan penyelesaian transaksi, hingga menatausahakan surat utang dan utang luar negeri pemerintah, menjadi penopang pengelolaan kas negara. Kecepatan dan koordinasi layanan ini disebut turut menentukan kelancaran harmonisasi perpajakan dan modernisasi kas negara yang sedang berjalan.",
+   "Forum tersebut juga dihadiri perwakilan Kementerian Investasi dan Hilirisasi/Badan Koordinasi Penanaman Modal, Lembaga Pembiayaan Ekspor Indonesia, serta sejumlah kementerian dan lembaga lain yang berhubungan dengan pengelolaan keuangan negara."
+  ],
+  "fotoAdegan": "Rows of sealed document boxes and ledger binders stacked in a government archive room, dim overhead lighting, no readable labels visible.",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang benar-benar berubah dari siaran ini adalah selesainya kewajiban pemerintah atas obligasi SRBI-01/MK/2003, sisa utang dari krisis 1997-1998 ketika Bank Indonesia membantu likuiditas bank-bank yang nyaris kolaps. Pembayaran terakhir pada 24 Agustus 2026 berarti beban utang warisan krisis itu, yang sudah berjalan lebih dari 20 tahun, kini resmi tertutup dari buku pemerintah dan BI, dan ini terasa di sisi anggaran negara karena satu pos kewajiban jangka panjang hilang. Bersamaan dengan itu, BI dan Kementerian Keuangan mengalihkan perhatian ke debt switching, yaitu mengganti surat utang negara yang akan jatuh tempo dengan surat utang baru yang masa pelunasannya lebih panjang, supaya pemerintah tidak harus membayar banyak utang sekaligus dalam waktu berdekatan. Ini mengarah ke pola pengelolaan utang yang lebih fokus mengatur ulang jadwal pembayaran ketimbang mengurangi jumlah utang itu sendiri. Yang akan menunjukkan apakah pola ini berlanjut adalah data realisasi transaksi debt switching dan jadwal jatuh tempo surat utang negara yang biasa dirilis Direktorat Jenderal Pembiayaan dan Pengelolaan Risiko Kementerian Keuangan.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat",
+  "category": "Perbankan",
+  "title": "BNI Ajarkan [Literasi Keuangan] ke Siswa Sekolah Rakyat",
+  "deck": "BNI mengenalkan pengelolaan uang, kebiasaan menabung, dan produk perbankan kepada siswa Sekolah Rakyat lewat pilar Cerdas Belajar.",
+  "image": "assets/img/bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T15:00:10+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478327-bni-perkuat-literasi-keuangan-siswa-sekolah-rakyat-sejak-dini",
+  "tags": [
+   "literasi keuangan",
+   "Sekolah Rakyat",
+   "BNI",
+   "edukasi keuangan anak"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk menggelar edukasi literasi keuangan bagi siswa Sekolah Rakyat melalui program BNI Sahabat Sekolah Rakyat. Siswa diajarkan cara mengelola uang, membedakan kebutuhan dan keinginan, serta mengenal produk dan layanan perbankan sejak usia sekolah. Langkah ini relevan karena Sekolah Rakyat menyasar anak-anak dari keluarga kurang mampu, sehingga bekal mengatur uang sejak dini diharapkan berguna saat mereka dewasa dan mulai punya penghasilan sendiri.",
+   "Edukasi ini masuk dalam pilar Cerdas Belajar, satu dari empat pilar program BNI Sahabat Sekolah Rakyat. Tiga pilar lainnya adalah Cerdas Menabung, Cerdas Sekolah, dan Peduli Sampah, yang masing-masing berfokus pada kebiasaan menabung, dukungan terhadap proses belajar, dan kepedulian lingkungan. Program ini berjalan di bawah payung kegiatan tanggung jawab sosial dan lingkungan BNI yang disebut BNI Berbagi.",
+   "Corporate Secretary BNI, Okki Rushartomo, mengatakan pemahaman literasi keuangan perlu dikenalkan sejak dini agar siswa bisa mengenali kebutuhan, mengelola uang secara bijak, dan memahami layanan keuangan yang bisa mendukung kehidupan mereka. Materi edukasi disesuaikan dengan karakteristik peserta didik, mulai dari membedakan kebutuhan dan keinginan, menyusun perencanaan keuangan sederhana, hingga belajar menggunakan uang secara bertanggung jawab."
+  ],
+  "fotoAdegan": "Schoolchildren in a modest rural Indonesian classroom practicing with small piggy banks and empty jars at their desks, morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/14/6af8146e0fa1c-bni-perkuat-literasi-keuangan-siswa-sekolah-rakyat-sejak-dini_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah masuknya materi literasi keuangan ke dalam program CSR BNI untuk Sekolah Rakyat, lewat pilar Cerdas Belajar yang berjalan bersama tiga pilar lain, yaitu Cerdas Menabung, Cerdas Sekolah, dan Peduli Sampah. Pihak yang terdampak langsung adalah siswa Sekolah Rakyat, program pendidikan yang menyasar anak-anak dari keluarga kurang mampu, sementara BNI berperan sebagai pelaksana program tanggung jawab sosialnya. Berita ini belum menyebutkan berapa banyak Sekolah Rakyat atau siswa yang sudah mengikuti program ini, berapa anggaran yang dialokasikan, dan apakah edukasi ini berbentuk kunjungan sekali waktu atau kurikulum berkelanjutan. Tanpa angka skala itu, belum bisa dibaca apakah ini akan tetap jadi inisiatif CSR terbatas atau berkembang jadi kerja sama literasi keuangan yang lebih luas dengan jaringan Sekolah Rakyat, dan yang perlu dipantau adalah laporan realisasi BNI Berbagi atau pernyataan lanjutan soal jumlah sekolah yang akan disasar.",
+  "imageV": "mwg5ri2k"
+ },
+ {
+  "slug": "laba-bersih-bank-bjb-tumbuh-37-3-per-september-2026",
+  "category": "Perbankan",
+  "title": "Laba Bersih bank bjb [Tumbuh] 37,3% per September 2026",
+  "deck": "bank bjb mencatat laba bersih Rp1,1 triliun hingga September 2026, naik 37,3 persen dibanding tahun sebelumnya, didorong efisiensi biaya dan kredit yang disalurkan lebih selektif.",
+  "image": "assets/img/laba-bersih-bank-bjb-tumbuh-37-3-per-september-2026.jpg",
+  "date": "14 November 2026",
+  "isoDate": "2026-11-14T13:12:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478313-laba-bersih-bank-bjb-tumbuh-373-hingga-september-2026",
+  "tags": [
+   "bank bjb",
+   "laba bersih",
+   "perbankan daerah",
+   "kredit"
+  ],
+  "body": [
+   "bank bjb membukukan laba bersih Rp1,1 triliun hingga September 2026, tumbuh 37,3 persen dibanding periode yang sama tahun sebelumnya. Kenaikan ini ditopang strategi yang disebut perseroan sebagai \"tumbuh berkualitas\", yakni menyalurkan kredit secara lebih selektif, memperbanyak simpanan berbunga rendah seperti tabungan dan giro, menekan biaya dana, mendorong pendapatan dari jasa dan komisi, serta menjaga efisiensi operasional dan pengelolaan risiko.",
+   "Sebagai induk Grup bjb yang menaungi tiga bank anak dan dua lembaga keuangan non-bank, total aset konsolidasi grup mencapai Rp219,7 triliun per September 2026. Anak usaha menyumbang Rp44,9 triliun atau sekitar 20 persen dari total aset itu. Total kredit dan pembiayaan konsolidasi tercatat Rp142,3 triliun, sementara kredit yang disalurkan bank bjb sendiri, tanpa menghitung anak usaha, sebesar Rp112,9 triliun, bertambah Rp1,8 triliun dibanding kuartal sebelumnya.",
+   "Kredit untuk kebutuhan konsumen, seperti pinjaman pegawai dan kebutuhan pribadi, masih mendominasi dengan saldo Rp74,4 triliun atau sekitar 66 persen dari total kredit bank bjb sendiri. Salah satu produk andalannya, pinjaman digital berbasis potong gaji bernama KGB Pisan, melonjak dengan saldo Rp271,4 miliar, tumbuh 39,4 persen dibanding kuartal sebelumnya dan 216,6 persen dibanding tahun sebelumnya, seiring perluasan kerja sama dengan institusi pemberi gaji.",
+   "Di sisi lain, kredit untuk pelaku usaha mulai menunjukkan perbaikan pada kuartal ini. Segmen korporasi naik Rp1 triliun atau 7,0 persen, dan segmen usaha menengah naik Rp495 miliar atau 4,2 persen dibanding kuartal sebelumnya. Perkembangan ini dipaparkan dalam earnings call kuartal ketiga tahun buku 2026 di Bandung pada 29 Oktober, yang diikuti investor dan analis pasar modal."
+  ],
+  "fotoAdegan": "Bank branch teller counter in Bandung with a customer completing a transaction, soft morning light through glass facade",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/14/6af7f82042b98-laba-bersih-bank-bjb-tumbuh-373-hingga-september-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan sekadar laba naik 37,3 persen, tapi caranya: bank bjb menahan laju kredit baru, hanya menambah Rp1,8 triliun dalam satu kuartal, dan mengandalkan penghematan biaya dana serta pendapatan dari jasa untuk mengerek laba. Yang kena dampak adalah pemegang saham yang berpotensi menikmati laba lebih besar, nasabah program potong gaji yang jadi sasaran utama lewat produk KGB Pisan, dan pelaku usaha kelas korporasi serta menengah yang baru mulai kembali mendapat tambahan kredit setelah beberapa kuartal tertahan. Meski perseroan menyebut strateginya sebagai pertumbuhan berkualitas, komposisi kreditnya masih bertumpu berat pada konsumen, 66 persen dari total kredit, dan produk yang tumbuh tercepat pun produk konsumen, sementara korporasi dan usaha menengah baru naik satu kuartal. Yang akan menunjukkan apakah pergeseran ke kredit usaha ini benar berlanjut atau cuma kenaikan musiman adalah laporan kinerja penuh tahun buku 2026 yang biasanya dipaparkan dalam earnings call awal tahun depan.",
+  "imageV": "mwg5rigi"
+ },
+ {
   "slug": "asean-sepakati-kerangka-ekonomi-digital-kawasan",
   "category": "Global",
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
@@ -28,7 +109,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status perjanjiannya: setelah dirundingkan selama tiga tahun sejak 2023, sepuluh negara ASEAN akhirnya menandatangani kerangka kesepakatan ekonomi digital kawasan bernama DEFA. Namun yang ditandatangani ini baru kerangka besar, bukan aturan teknis yang mengikat. Aturan yang nanti benar-benar menentukan, misalnya soal pertukaran data lintas negara atau standar transaksi digital, baru akan ditulis dalam dokumen turunan yang disebut Rencana Implementasi DEFA, dan Indonesia sendiri mendorong agar penyusunannya dipercepat. Pihak yang bakal terkena dampak adalah pelaku usaha digital dan UMKM yang berdagang lintas negara ASEAN, karena merekalah yang nanti diatur begitu rencana itu selesai. Yang masih kurang untuk menilai ke mana arah kerja sama ini sebenarnya adalah isi dan tenggat Rencana Implementasi tersebut, karena berita ini belum menyebutkan kapan dokumen itu akan disepakati.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "bank-bjb-pasarkan-sukuk-tabungan-st017-mulai-rp1-juta",
@@ -2549,7 +2630,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI Resmikan Bank Kliring [Yuan] untuk Dagang RI-Tiongkok",
   "deck": "Bank Indonesia meluncurkan bank kliring Renminbi yang dikelola Bank of China Jakarta, didukung 12 bank nasional untuk mempermudah transaksi dagang Indonesia-Tiongkok memakai mata uang lokal.",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/pencakar-langit-jakarta.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T11:11:27.690Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824726.aspx",

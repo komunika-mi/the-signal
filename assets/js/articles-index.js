@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "utang-bi-pemerintah-era-krisis-1998-lunas",
+  "category": "Moneter",
+  "title": "Utang BI-Pemerintah Era Krisis 1998 [Lunas]",
+  "deck": "Obligasi BI terkait dukungan likuiditas krisis 1997-1998 resmi lunas Agustus 2026, seiring BI dan pemerintah menyiapkan skema debt switching untuk surat utang negara.",
+  "date": "14 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "Kementerian Keuangan",
+   "Obligasi Negara",
+   "Debt Switching"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825026.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat",
+  "category": "Perbankan",
+  "title": "BNI Ajarkan [Literasi Keuangan] ke Siswa Sekolah Rakyat",
+  "deck": "BNI mengenalkan pengelolaan uang, kebiasaan menabung, dan produk perbankan kepada siswa Sekolah Rakyat lewat pilar Cerdas Belajar.",
+  "date": "14 November 2026",
+  "image": "assets/img/bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat.jpg",
+  "imageV": "mwg5ri2k",
+  "tags": [
+   "literasi keuangan",
+   "Sekolah Rakyat",
+   "BNI",
+   "edukasi keuangan anak"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478327-bni-perkuat-literasi-keuangan-siswa-sekolah-rakyat-sejak-dini"
+ },
+ {
+  "slug": "laba-bersih-bank-bjb-tumbuh-37-3-per-september-2026",
+  "category": "Perbankan",
+  "title": "Laba Bersih bank bjb [Tumbuh] 37,3% per September 2026",
+  "deck": "bank bjb mencatat laba bersih Rp1,1 triliun hingga September 2026, naik 37,3 persen dibanding tahun sebelumnya, didorong efisiensi biaya dan kredit yang disalurkan lebih selektif.",
+  "date": "14 November 2026",
+  "image": "assets/img/laba-bersih-bank-bjb-tumbuh-37-3-per-september-2026.jpg",
+  "imageV": "mwg5rigi",
+  "tags": [
+   "bank bjb",
+   "laba bersih",
+   "perbankan daerah",
+   "kredit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478313-laba-bersih-bank-bjb-tumbuh-373-hingga-september-2026"
+ },
+ {
   "slug": "asean-sepakati-kerangka-ekonomi-digital-kawasan",
   "category": "Global",
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
@@ -1338,7 +1388,7 @@ var ARTICLES = [
   "title": "BI Resmikan Bank Kliring [Yuan] untuk Dagang RI-Tiongkok",
   "deck": "Bank Indonesia meluncurkan bank kliring Renminbi yang dikelola Bank of China Jakarta, didukung 12 bank nasional untuk mempermudah transaksi dagang Indonesia-Tiongkok memakai mata uang lokal.",
   "date": "12 November 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/pencakar-langit-jakarta.jpg",
   "tags": [
    "Bank Indonesia",
    "Renminbi",
@@ -6450,54 +6500,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-06112026-1748-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "indf-jelaskan-ke-bei-dana-buyback-rp750-m-setara-1-modal",
-  "category": "Aksi Korporasi",
-  "title": "INDF Jelaskan ke BEI, Dana [Buyback] Rp750 M Setara 1% Modal",
-  "deck": "Indofood menjawab permintaan penjelasan BEI atas rencana pembelian kembali saham, menyebut dana Rp750 miliar hanya sekitar 1 persen dari modal disetor.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDF",
-   "buyback",
-   "BEI",
-   "Indofood"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e82e653ba3_91413102a7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "icbp-jawab-bursa-buyback-rp750-miliar-cuma-1-modal",
-  "category": "Aksi Korporasi",
-  "title": "ICBP Jawab Bursa: Buyback Rp750 Miliar Cuma [1%] Modal",
-  "deck": "ICBP menjelaskan ke BEI bahwa dana buyback Rp750 miliar hanya sekitar 1 persen dari modal disetor dan dilakukan tanpa penilai independen.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ICBP",
-   "buyback",
-   "BEI",
-   "Indofood CBP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c6bc3959c2_84fd7547b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pelindo-teken-mou-kerja-sama-dengan-pelabuhan-los-angeles",
-  "category": "BUMN",
-  "title": "Pelindo Teken [MoU] Kerja Sama dengan Pelabuhan Los Angeles",
-  "deck": "Pelindo dan Port of Los Angeles menandatangani MoU untuk memperluas kerja sama bisnis kepelabuhanan dan konektivitas pelayaran Indonesia-Amerika Serikat.",
-  "date": "6 November 2026",
-  "image": "assets/img/pelindo-teken-mou-kerja-sama-dengan-pelabuhan-los-angeles.jpg",
-  "imageV": "mw56ch66",
-  "tags": [
-   "Pelindo",
-   "Port of Los Angeles",
-   "Pelabuhan",
-   "Maritim"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477004-pelindo-perkuat-kerja-sama-bisnis-dan-konektivitas-maritim-dengan-port-of-los-angeles"
  }
 ];

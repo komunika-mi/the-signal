@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "0fEiZPL62U8",
+  "title": "Target Pajak Kurang Rp514 Triliun, Menkeu Minta Dukungan Masyarakat",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Menteri Keuangan Suahasil Nazara meminta dukungan masyarakat untuk mengamankan target penerimaan pajak tahun anggaran 2026, setelah realisasi pajak tercatat kurang Rp514 triliun dari target.",
+  "takeaway": "Kekurangan penerimaan pajak sebesar itu menyangkut ruang fiskal pemerintah untuk belanja dan program tahun depan, sehingga penting dipantau pembaca ekonomi.",
+  "terbit": "2026-11-14T08:00:40+00:00"
+ },
+ {
   "id": "HLKO-HUZy5U",
   "title": "GAPKI Gelar Konferensi Sawit Terbesar di Dunia di Bali",
   "category": "Industri",

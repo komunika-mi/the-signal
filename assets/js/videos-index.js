@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "0fEiZPL62U8",
+  "title": "Target Pajak Kurang Rp514 Triliun, Menkeu Minta Dukungan Masyarakat",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Menteri Keuangan Suahasil Nazara meminta dukungan masyarakat untuk mengamankan target penerimaan pajak tahun anggaran 2026, setelah realisasi pajak tercatat kurang Rp514 triliun dari target.",
+  "takeaway": "Kekurangan penerimaan pajak sebesar itu menyangkut ruang fiskal pemerintah untuk belanja dan program tahun depan, sehingga penting dipantau pembaca ekonomi."
+ },
+ {
   "id": "HLKO-HUZy5U",
   "title": "GAPKI Gelar Konferensi Sawit Terbesar di Dunia di Bali",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Inovasi Membangun Negeri",
   "summary": "BP Batam mendapat penghargaan atas keberhasilan mengoptimalkan investasi dan infrastruktur, seiring klaim pertumbuhan ekonomi di kawasan yang dikelolanya.",
   "takeaway": "Relevan bagi pembaca karena menyoroti kinerja badan pengelola kawasan ekonomi strategis dalam menarik investasi."
- },
- {
-  "id": "_JaeSGQ_Su4",
-  "title": "Program Makassar Berjasa Lindungi Pekerja Rentan dengan Jaminan Sosial",
-  "category": "Ketenagakerjaan",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "Pemkot Makassar menjalankan program Makassar Berjasa, yakni pemberian jaminan sosial bagi pekerja rentan di kota tersebut.",
-  "takeaway": "Penting bagi pembaca karena menunjukkan upaya perlindungan sosial bagi pekerja informal yang selama ini minim jaminan."
  }
 ];

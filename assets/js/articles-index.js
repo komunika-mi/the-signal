@@ -5,6 +5,34 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-kulit-dan-alas-kaki-ri-tembus-us-7-22-miliar",
+  "category": "Industri",
+  "title": "Ekspor Kulit dan Alas Kaki RI [Tembus] US$7,22 Miliar",
+  "deck": "Ekspor kulit dan alas kaki Indonesia naik 4,36 persen pada Januari-September 2026, ditopang alas kaki khusus dan produk kreatif kulit yang tumbuh lebih cepat dari rata-rata sektor.",
+  "date": "14 November 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-kulit-dan-alas-kaki-tembus-usd-722-miliar-cerminan-daya-saing-produk-manufaktur-indonesia",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "harga-emas-antam-naik-tipis-ke-rp2-517-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.517.000 per Gram",
+  "deck": "Harga emas batangan Antam naik tipis Rp8.000 menjadi Rp2.517.000 per gram hari ini, sementara harga beli kembali ikut naik ke Rp2.293.000 per gram.",
+  "date": "14 November 2026",
+  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-517-000-per-gram.jpg",
+  "imageV": "mwfub279",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478281-harga-emas-antam-hari-ini-14-november-2026-naik-tipis-jadi-rp2517000-per-gram"
+ },
+ {
   "slug": "presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia",
   "category": "Teknologi",
   "title": "Presiden AS Dukung Tim Cook Gantikan Huang di [Nvidia]",
@@ -192,7 +220,7 @@ var ARTICLES = [
   "title": "Harga Patokan Ekspor Emas [Turun] 2,02 Persen di November 2026",
   "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas periode 15-30 November 2026, turun 2,02 persen akibat investor global beralih dari emas ke instrumen lain.",
   "date": "13 November 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "emas",
    "HPE",
@@ -752,7 +780,7 @@ var ARTICLES = [
   "title": "Ekspor Sawit Naik [16%] ke US$28,84 Miliar hingga Oktober",
   "deck": "Ekspor sawit Indonesia tembus US$28,84 miliar pada Januari-Oktober 2026, naik 16 persen, sementara kebijakan biodiesel B50 menyerap lebih banyak pasokan domestik.",
   "date": "13 November 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "kelapa sawit",
    "ekspor CPO",
@@ -4357,7 +4385,7 @@ var ARTICLES = [
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
   "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
   "date": "9 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ekspor",
    "Dua Kelinci",
@@ -6468,38 +6496,6 @@ var ARTICLES = [
    "pergantian direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37c99d47d8_708956acab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-terima-dividen-rp3-33-miliar-dari-dextone-lemindo",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Terima [Dividen] Rp3,33 Miliar dari Dextone Lemindo",
-  "deck": "Avia Avian mengantongi dividen Rp3,33 miliar dari laba ditahan 2025 PT Dextone Lemindo, perusahaan asosiasi yang 16,67 persen sahamnya dimiliki Perseroan.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "dividen",
-   "Dextone Lemindo",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ecd3245bb_e102a555cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-sajikan-ulang-lk-2022-ekuitas-susut-48-restatement",
-  "category": "Aksi Korporasi",
-  "title": "CASH Sajikan Ulang LK 2022, Ekuitas Susut 48% [Restatement]",
-  "deck": "Cashlez mengoreksi penyajian aset takberwujud pada laporan keuangan 2022 sesuai PSAK 238, membuat ekuitas turun Rp88,4 miliar dan hasil komprehensif berubah dari untung jadi rugi.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "restatement laporan keuangan",
-   "PSAK 238",
-   "Cashlez"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f5fda78ec_7f38640e99.pdf",
   "sourceLabel": "IDX"
  }
 ];

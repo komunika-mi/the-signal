@@ -636,6 +636,39 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "tender-wajib-testdwhshm-terserap-47-78-dari-80-17-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "Tender Wajib TESTDWHSHM: [Terserap] 47,78 dari 80,17 Miliar Saham",
+  "deck": "Pengendali baru TESTDWHSHM membeli 47,78 miliar saham dalam penawaran tender wajib yang selesai 13 November 2026, setara 59,6% dari 80,17 miliar saham yang wajib dibeli.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T18:18:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E010_d21ddadf-f297-4a82-8e86-fc2d0dfd4128-20261114133911.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTDWHSHM",
+  "tags": [
+   "TESTDWHSHM",
+   "tender wajib",
+   "pengendali baru",
+   "pasar modal"
+  ],
+  "body": [
+   "Pengendali baru TESTDWHSHM melaporkan hasil penawaran tender wajib yang mewajibkan pembelian 80.174.589.434 saham. Periode pelaksanaannya hanya satu hari, 13 November 2026, dengan tanggal penyelesaian pada tanggal yang sama. Dari jumlah yang wajib dibeli itu, baru 47.777.952.395 saham yang benar-benar terserap, atau sekitar 59,6 persen. Artinya masih ada sekitar 32,4 miliar saham milik pemegang saham publik yang belum ikut ditawarkan dalam proses ini.",
+   "Sebelum penawaran tender wajib ini dilaksanakan, persentase kepemilikan pengendali baru tercatat 9,78 persen dari total saham beredar. Setelah transaksi selesai, kepemilikannya naik menjadi 10,8 persen, sesuai dengan data Daftar Pemegang Saham yang diterbitkan Biro Administrasi Efek perusahaan. Kenaikan hak suara ini terjadi karena pengendali baru menyerap sebagian saham yang ditawarkan oleh pemegang saham publik lewat mekanisme tender wajib, bukan lewat penerbitan saham baru oleh perusahaan."
+  ],
+  "fotoAdegan": "Jakarta financial district skyscrapers reflecting morning light, busy street with pedestrians crossing below",
+  "takeaway": "Laporan ini netral bagi fundamental TESTDWHSHM, karena transaksinya terjadi antar pemegang saham dan tidak mengalirkan dana segar atau mengubah operasional ke perusahaan itu sendiri. Yang tersentuh hanya komposisi hak suara, yaitu kekuatan pengendali baru untuk memengaruhi keputusan dalam rapat pemegang saham, yang naik dari 9,78 persen menjadi 10,8 persen, sementara ekuitas, arus kas, dan jumlah saham beredar perusahaan tidak berubah sama sekali akibat laporan ini. Yang perlu dipantau adalah nasib sekitar 32,4 miliar saham yang belum ikut ditenderkan meski sudah diwajibkan, karena dokumen ini tidak menyebut tanggal atau mekanisme lanjutan untuk menyerap sisa saham tersebut. Investor publik yang belum menjual saat periode tender 13 November 2026 sebaiknya menunggu keterbukaan informasi berikutnya soal langkah pengendali baru terhadap sisa saham itu.",
+  "sentimen": "netral",
+  "peristiwa": "tender-offer",
+  "judulIdx": "Laporan Hasil Penawaran Tender Wajib",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Penyelesaian penawaran tender wajib oleh pengendali baru"
+   }
+  ]
+ },
+ {
   "slug": "sanf-hamdani-dzulkarnaen-efektif-jadi-presiden-komisaris",
   "category": "Aksi Korporasi",
   "title": "SANF: Hamdani Dzulkarnaen Efektif Jadi [Presiden Komisaris]",
@@ -1170,6 +1203,71 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "testdwhshm-manajer-investasi-baru-jadi-indo-premier-13-nov",
+  "category": "Aksi Korporasi",
+  "title": "TESTDWHSHM: [Manajer Investasi] Baru Jadi Indo Premier, 13 Nov",
+  "deck": "Manajer investasi TESTDWHSHM berubah dari posisi yang sebelumnya kosong menjadi PT Indo Premier Investment Management, efektif 13 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:39:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E016_3ab7ca7f-6344-4b48-be50-56447ddac32f-20261114134518.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTDWHSHM",
+  "tags": [
+   "TESTDWHSHM",
+   "Manajer Investasi",
+   "Indo Premier Investment Management",
+   "tata kelola"
+  ],
+  "body": [
+   "TESTDWHSHM menyampaikan keterbukaan informasi mengenai pergantian manajer investasi pengelolanya ke Bursa Efek Indonesia. Berdasarkan laporan tersebut, posisi manajer investasi yang sebelumnya tidak terisi kini resmi dijabat oleh PT Indo Premier Investment Management, berlaku efektif sejak 13 November 2026.",
+   "Dalam dokumen yang sama, perusahaan menyebutkan bahwa data disusun berdasarkan daftar pemegang saham yang diterbitkan oleh biro administrasi efek perseroan. Laporan ditandatangani oleh Rana Approver atas nama TESTDWHSHM dan disampaikan secara elektronik melalui sistem pelaporan bursa pada 13 November 2026 pukul 16.39 WIB. Dokumen tidak menyebutkan nilai transaksi, jumlah aset yang dikelola, atau perubahan struktur kepemilikan apa pun terkait penunjukan ini."
+  ],
+  "fotoAdegan": "Modern office towers in Jakarta's financial district, glass facades reflecting a pale afternoon sky, light traffic below.",
+  "takeaway": "Perubahan manajer investasi ini netral bagi fundamental TESTDWHSHM karena tidak mengubah ekuitas, arus kas, atau jumlah saham beredar perusahaan secara langsung. Manajer investasi adalah pihak yang mengelola portofolio aset atas nama perusahaan, sehingga pergantian ini lebih menyangkut siapa yang akan mengambil keputusan investasi ke depan, bukan perubahan kondisi keuangan saat ini. Pelaku pasar biasanya tetap memperhatikan rekam jejak manajer investasi baru, karena strategi pengelolaan portofolio bisa memengaruhi arus kas dan hasil investasi dalam jangka panjang. Yang perlu dipantau selanjutnya adalah laporan kinerja portofolio di bawah pengelolaan PT Indo Premier Investment Management setelah efektif berlaku pada 13 November 2026, mengingat dokumen ini belum memuat rincian strategi atau target pengelolaan yang baru.",
+  "sentimen": "netral",
+  "judulIdx": "Manajer Investasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Efektif perubahan manajer investasi ke Indo Premier"
+   }
+  ]
+ },
+ {
+  "slug": "testdwhshm-perubahan-pengurus-direksi-dan-komisaris-berganti",
+  "category": "Aksi Korporasi",
+  "title": "TESTDWHSHM: [Perubahan Pengurus] Direksi dan Komisaris Berganti",
+  "deck": "RUPS TESTDWHSHM pada 27 Desember 2026 jadi dasar perubahan direksi dan komisaris yang berlaku efektif 13 November 2026: Dewi Contoh diangkat kembali, Budi Pengujian jadi komisaris independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T16:28:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E036_af753fa3-09d3-4106-b04a-65b3fc4b38d5-20261114134517.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTDWHSHM",
+  "tags": [
+   "TESTDWHSHM",
+   "perubahan pengurus",
+   "direksi",
+   "komisaris independen"
+  ],
+  "body": [
+   "Emiten dengan kode TESTDWHSHM melaporkan ke Bursa Efek Indonesia adanya perubahan pada jajaran direksi dan dewan komisarisnya, efektif 13 November 2026. Dokumen keterbukaan informasi menyebut Rapat Umum Pemegang Saham (RUPS) yang menjadi dasar perubahan ini tercatat pada 27 Desember 2026.",
+   "Di jajaran direksi, Dewi Contoh diangkat kembali (status pengangkatan kembali) ke posisi direksi yang sama, menempati urutan jabatan direksi ke-9. Dalam dokumen, awal dan akhir periode jabatannya tercatat pada tanggal yang sama, 13 November 2026, dan ia tidak memegang jabatan di perusahaan tercatat lain.",
+   "Di jajaran dewan komisaris, Budi Pengujian mengalami perubahan jabatan pada posisi komisaris ke-4, dengan status komisaris independen, efektif tanggal yang sama. Dokumen tidak mencantumkan nama atau jabatan pengurus sebelumnya yang digantikannya. Surat keterbukaan ini ditandatangani oleh Rana Approver atas nama perusahaan."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, soft morning light through glass windows",
+  "takeaway": "Laporan ini netral bagi fundamental TESTDWHSHM, karena isinya sebatas pengisian jabatan direksi dan komisaris, bukan transaksi yang memindahkan uang masuk atau keluar perusahaan. Pergantian pengurus semacam ini tidak langsung mengubah modal sendiri, arus kas, beban bunga, jumlah saham beredar, atau laba per saham, meski pelaku pasar tetap memperhatikan siapa yang memimpin karena merekalah yang menentukan strategi dan keputusan bisnis ke depan. Dewi Contoh diangkat kembali ke posisi yang sama sehingga menandakan kesinambungan, sementara perubahan pada posisi komisaris independen biasanya dicermati untuk memastikan fungsi pengawasan tetap berjalan. Yang perlu dipantau berikutnya adalah RUPS pada 27 Desember 2026, karena dokumen ini mencantumkan tanggal itu sebagai forum resmi pemegang saham terkait perubahan pengurus ini.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-27",
+    "acara": "RUPS terkait perubahan pengurus"
+   }
+  ]
+ },
+ {
   "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
   "category": "Aksi Korporasi",
   "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",
@@ -1615,6 +1713,39 @@ var ARTICLES = [
    {
     "tanggal": "2026-12-22",
     "acara": "Pelaksanaan RUPST Tahunan JMAS"
+   }
+  ]
+ },
+ {
+  "slug": "suspensi-testdwhsh3-13-november-going-concern-perdagangan-disetop",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi TESTDWHSH3 13 November: [Going Concern] Perdagangan Disetop",
+  "deck": "Bursa menghentikan sementara perdagangan saham TESTDWHSH3 mulai 13 November 2026 dengan alasan kelangsungan usaha (going concern).",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "13 November 2026",
+  "isoDate": "2026-11-13T11:03:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSH3_B007_a0b83468-3bbd-4f2d-9762-73b7c2990c06-20261114134532.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TESTDWHSH3",
+  "tags": [
+   "TESTDWHSH3",
+   "suspensi",
+   "going concern",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan penghentian sementara perdagangan (suspensi) saham berkode TESTDWHSH3 melalui surat bernomor DWH-TEST-B007-13112026-110232 yang diterbitkan pada 13 November 2026. Suspensi berlaku efektif mulai sesi Call Auction IV pada tanggal yang sama, mencakup seluruh transaksi di Pasar Reguler dan Pasar Tunai. Dengan begitu, investor untuk sementara tidak bisa membeli maupun menjual saham ini di kedua pasar tersebut.",
+   "Bursa mencantumkan alasan suspensi sebagai 'Kelangsungan Usaha (Going Concern)', yaitu kategori yang dipakai bursa ketika ada keraguan atas kemampuan perusahaan melanjutkan operasinya. Dokumen pengumuman ini sendiri tidak merinci lebih jauh persoalan keuangan spesifik yang memicu status tersebut, hanya menyebutkan bahwa pelaporan dilakukan sesuai Peraturan Bursa yang berlaku. Nama resmi emiten tidak tercantum dalam dokumen yang diterima, sehingga hanya kode TESTDWHSH3 yang bisa dipastikan."
+  ],
+  "fotoAdegan": "A multi-story glass office tower exterior in Jakarta's business district, quiet street, early morning light",
+  "takeaway": "Penilaian redaksi: ini sinyal negatif, karena bursa menghentikan perdagangan dengan alasan keraguan atas kelangsungan usaha perusahaan, bukan sekadar masalah teknis administratif. Status going concern biasanya muncul dari auditor atau bursa ketika ada kekhawatiran soal arus kas perusahaan, yaitu kemampuannya membayar kewajiban jangka pendek, atau ekuitas yang tergerus akibat kerugian berkepanjangan, dua pos yang langsung menentukan apakah perusahaan bisa terus beroperasi tanpa suntikan dana baru. Dokumen ini tidak menyebutkan rincian masalah keuangan konkret maupun tanggal pencabutan suspensi, sehingga yang perlu dipantau berikutnya adalah laporan penjelasan resmi dari emiten kepada bursa, yang biasanya wajib disampaikan menyusul suspensi semacam ini, meski tenggatnya belum tercantum di pengumuman ini.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Penghentian Sementara Perdagangan Efek",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Mulai suspensi perdagangan saham di Pasar Reguler dan Tunai"
    }
   ]
  },

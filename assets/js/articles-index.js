@@ -364,6 +364,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tender-wajib-testdwhshm-terserap-47-78-dari-80-17-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "Tender Wajib TESTDWHSHM: [Terserap] 47,78 dari 80,17 Miliar Saham",
+  "deck": "Pengendali baru TESTDWHSHM membeli 47,78 miliar saham dalam penawaran tender wajib yang selesai 13 November 2026, setara 59,6% dari 80,17 miliar saham yang wajib dibeli.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTDWHSHM",
+   "tender wajib",
+   "pengendali baru",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E010_d21ddadf-f297-4a82-8e86-fc2d0dfd4128-20261114133911.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sanf-hamdani-dzulkarnaen-efektif-jadi-presiden-komisaris",
   "category": "Aksi Korporasi",
   "title": "SANF: Hamdani Dzulkarnaen Efektif Jadi [Presiden Komisaris]",
@@ -631,6 +647,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "testdwhshm-manajer-investasi-baru-jadi-indo-premier-13-nov",
+  "category": "Aksi Korporasi",
+  "title": "TESTDWHSHM: [Manajer Investasi] Baru Jadi Indo Premier, 13 Nov",
+  "deck": "Manajer investasi TESTDWHSHM berubah dari posisi yang sebelumnya kosong menjadi PT Indo Premier Investment Management, efektif 13 November 2026.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTDWHSHM",
+   "Manajer Investasi",
+   "Indo Premier Investment Management",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E016_3ab7ca7f-6344-4b48-be50-56447ddac32f-20261114134518.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "testdwhshm-perubahan-pengurus-direksi-dan-komisaris-berganti",
+  "category": "Aksi Korporasi",
+  "title": "TESTDWHSHM: [Perubahan Pengurus] Direksi dan Komisaris Berganti",
+  "deck": "RUPS TESTDWHSHM pada 27 Desember 2026 jadi dasar perubahan direksi dan komisaris yang berlaku efektif 13 November 2026: Dewi Contoh diangkat kembali, Budi Pengujian jadi komisaris independen.",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTDWHSHM",
+   "perubahan pengurus",
+   "direksi",
+   "komisaris independen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E036_af753fa3-09d3-4106-b04a-65b3fc4b38d5-20261114134517.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
   "category": "Aksi Korporasi",
   "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",
@@ -840,6 +888,22 @@ var ARTICLES = [
    "Jasa Mitra Abadi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f3e4e4d1e_c70c1937e0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "suspensi-testdwhsh3-13-november-going-concern-perdagangan-disetop",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi TESTDWHSH3 13 November: [Going Concern] Perdagangan Disetop",
+  "deck": "Bursa menghentikan sementara perdagangan saham TESTDWHSH3 mulai 13 November 2026 dengan alasan kelangsungan usaha (going concern).",
+  "date": "13 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TESTDWHSH3",
+   "suspensi",
+   "going concern",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSH3_B007_a0b83468-3bbd-4f2d-9762-73b7c2990c06-20261114134532.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6435,71 +6499,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477004-pelindo-perkuat-kerja-sama-bisnis-dan-konektivitas-maritim-dengan-port-of-los-angeles"
- },
- {
-  "slug": "pefindo-tetapkan-rating-ida-untuk-obligasi-ijee-rp1-7-triliun",
-  "category": "Aksi Korporasi",
-  "title": "PEFINDO Tetapkan Rating [idA] untuk Obligasi IJEE Rp1,7 Triliun",
-  "deck": "PEFINDO menetapkan peringkat idA (Single A) untuk empat obligasi IJEE senilai total Rp1,71 triliun, berlaku 3 November 2026 hingga 1 November 2027.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IJEE",
-   "obligasi",
-   "PEFINDO",
-   "rating kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f8b8fb6a82_3abd787738.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fasilitas-devisa-ekspor-sda-diperluas-portal-dsi-siap-2027",
-  "category": "Moneter",
-  "title": "Fasilitas Devisa Ekspor SDA [Diperluas], Portal DSI Siap 2027",
-  "deck": "Pemerintah memperluas fasilitas penempatan devisa hasil ekspor SDA ke tujuh negara dan 16 bank, sekaligus menyiapkan Portal DSI yang wajib dipakai eksportir batu bara, sawit, dan feroaloi mulai 2027.",
-  "date": "6 November 2026",
-  "image": "assets/img/koridor-bank-sentral.jpg",
-  "tags": [
-   "DHE SDA",
-   "Portal DSI",
-   "Ekspor SDA",
-   "Danantara"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7204/perluas-fleksibilitas-dhe-sda-dan-siapkan-go-live-portal-dsi-pemerintah-pastikan-ekspor-tetap-lancar",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara",
-  "category": "Industri",
-  "title": "Wamendag Tinjau Batik Keris, Bidik [Ekspor] ke Asia Tenggara",
-  "deck": "Wamendag Dyah Roro Esti meninjau pabrik Batik Keris di Sukoharjo untuk memetakan potensi ekspor batik ke Asia Tenggara, saat ekspor batik nasional tumbuh 13 persen pada 2025.",
-  "date": "6 November 2026",
-  "image": "assets/img/wamendag-tinjau-batik-keris-bidik-ekspor-ke-asia-tenggara.jpg",
-  "imageV": "mw510uwk",
-  "tags": [
-   "batik",
-   "ekspor",
-   "Kemendag",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tinjau-pabrik-batik-keris-wamendag-roro-dorong-batik-tembus-pasar-ekspor",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bappebti-rilis-peringkat-69-pialang-berjangka-kuartal-iii",
-  "category": "Pasar Modal",
-  "title": "Bappebti Rilis [Peringkat] 69 Pialang Berjangka Kuartal III",
-  "deck": "Bappebti merilis hasil penilaian berkala terhadap 69 pialang berjangka aktif periode Juli-September 2026, dengan PT PG Berjangka di peringkat teratas.",
-  "date": "6 November 2026",
-  "image": "assets/img/bursa-layar.jpg",
-  "tags": [
-   "Bappebti",
-   "Pialang Berjangka",
-   "Kementerian Perdagangan",
-   "Perdagangan Berjangka Komoditi"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-kualitas-pelaku-usaha-pbk-bappebti-umumkan-rating-pialang-berjangka-triwulan-iii-2026",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

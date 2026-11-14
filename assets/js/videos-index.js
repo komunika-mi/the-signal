@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "oDaZvKyxYGQ",
+  "title": "Guru Honorer di Sumsel Belum Gajian Selama 11 Bulan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Sebanyak 23 guru honorer di Sekolah Satu Atap Talang Betung, Kabupaten PALI, Sumatera Selatan, mengaku belum menerima gaji selama 11 bulan, memunculkan sorotan soal kesejahteraan tenaga pendidik honorer.",
+  "takeaway": "Kasus ini menggambarkan persoalan ketenagakerjaan di sektor pendidikan, khususnya ketimpangan pembayaran upah pekerja honorer yang masih sering terjadi di daerah."
+ },
+ {
   "id": "0fEiZPL62U8",
   "title": "Target Pajak Kurang Rp514 Triliun, Menkeu Minta Dukungan Masyarakat",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Bisnis Bareng Orang Hebat",
   "summary": "Bus Trans Sulsel diluncurkan sebagai upaya membangun sistem transportasi publik yang terintegrasi di Sulawesi Selatan dengan tarif yang terjangkau bagi masyarakat.",
   "takeaway": "Peluncuran layanan ini penting bagi pembaca ekonomi karena terkait investasi infrastruktur transportasi dan efisiensi mobilitas masyarakat daerah."
- },
- {
-  "id": "6751r7rti5E",
-  "title": "BP Batam Raih Penghargaan atas Optimalisasi Investasi dan Infrastruktur",
-  "category": "BUMN",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "BP Batam mendapat penghargaan atas keberhasilan mengoptimalkan investasi dan infrastruktur, seiring klaim pertumbuhan ekonomi di kawasan yang dikelolanya.",
-  "takeaway": "Relevan bagi pembaca karena menyoroti kinerja badan pengelola kawasan ekonomi strategis dalam menarik investasi."
  }
 ];

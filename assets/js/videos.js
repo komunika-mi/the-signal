@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "oDaZvKyxYGQ",
+  "title": "Guru Honorer di Sumsel Belum Gajian Selama 11 Bulan",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Petang",
+  "summary": "Sebanyak 23 guru honorer di Sekolah Satu Atap Talang Betung, Kabupaten PALI, Sumatera Selatan, mengaku belum menerima gaji selama 11 bulan, memunculkan sorotan soal kesejahteraan tenaga pendidik honorer.",
+  "takeaway": "Kasus ini menggambarkan persoalan ketenagakerjaan di sektor pendidikan, khususnya ketimpangan pembayaran upah pekerja honorer yang masih sering terjadi di daerah.",
+  "terbit": "2026-11-14T10:21:23+00:00"
+ },
+ {
   "id": "0fEiZPL62U8",
   "title": "Target Pajak Kurang Rp514 Triliun, Menkeu Minta Dukungan Masyarakat",
   "category": "Makroekonomi",

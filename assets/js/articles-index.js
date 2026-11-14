@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asean-teken-pakta-digital-target-us-2-triliun-di-2030",
+  "category": "Global",
+  "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
+  "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
+  "date": "14 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ASEAN",
+   "DEFA",
+   "ekonomi digital",
+   "UMKM"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7223/negara-negara-anggota-asean-resmi-tandatangani-asean-defa-digital-economy-framework-agreement-yang-diprakarsai-indonesia",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "utang-bi-pemerintah-era-krisis-1998-lunas",
   "category": "Moneter",
   "title": "Utang BI-Pemerintah Era Krisis 1998 [Lunas]",
@@ -76,7 +92,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -882,7 +898,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -994,7 +1010,7 @@ var ARTICLES = [
   "title": "Ekspor Sawit Naik [16%] ke US$28,84 Miliar hingga Oktober",
   "deck": "Ekspor sawit Indonesia tembus US$28,84 miliar pada Januari-Oktober 2026, naik 16 persen, sementara kebijakan biodiesel B50 menyerap lebih banyak pasokan domestik.",
   "date": "13 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "kelapa sawit",
    "ekspor CPO",
@@ -4599,7 +4615,7 @@ var ARTICLES = [
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
   "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
   "date": "9 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "ekspor",
    "Dua Kelinci",
@@ -6483,22 +6499,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d819fb20ff_3b96d8712f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bpdp-perkuat-daya-saing-umkm-perkebunan-di-indovex",
-  "category": "UMKM",
-  "title": "BPDP Perkuat Daya Saing [UMKM] Perkebunan di INDOVEX",
-  "deck": "BPDP ikut pameran INDOVEX 2026 di Kota Batu untuk memperkuat pelatihan, inovasi produk, dan akses pasar bagi UMKM berbasis sawit, kelapa, dan kakao.",
-  "date": "6 November 2026",
-  "image": "assets/img/bpdp-perkuat-daya-saing-umkm-perkebunan-di-indovex.jpg",
-  "imageV": "mw56cgoo",
-  "tags": [
-   "BPDP",
-   "UMKM perkebunan",
-   "INDOVEX 2026",
-   "sawit kelapa kakao"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477011-bpdp-perkuat-daya-saing-umkm-perkebunan-lewat-inovasi-dan-akses-pasar"
  }
 ];

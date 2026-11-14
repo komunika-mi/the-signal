@@ -5,6 +5,90 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asean-sepakati-kerangka-ekonomi-digital-kawasan",
+  "category": "Global",
+  "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
+  "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
+  "date": "14 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "ASEAN",
+   "DEFA",
+   "ekonomi digital",
+   "UMKM"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7221/indonesia-dorong-penguatan-transformasi-digital-kawasan-inklusif-melalui-implementasi-asean-defa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bank-bjb-pasarkan-sukuk-tabungan-st017-mulai-rp1-juta",
+  "category": "Pasar Modal",
+  "title": "bank bjb Pasarkan [Sukuk Tabungan] ST017, Mulai Rp1 Juta",
+  "deck": "bank bjb menjadi agen penjual Sukuk Tabungan ST017, surat utang syariah pemerintah dengan dua pilihan tenor dan imbal hasil bulanan, ditawarkan sampai 2 Desember 2026.",
+  "date": "14 November 2026",
+  "image": "assets/img/bank-bjb-pasarkan-sukuk-tabungan-st017-mulai-rp1-juta.jpg",
+  "imageV": "mwg0il1a",
+  "tags": [
+   "Sukuk Tabungan ST017",
+   "bank bjb",
+   "SBN Syariah",
+   "Investasi Ritel"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478306-bank-bjb-tawarkan-sukuk-tabungan-st017-jadi-peluang-investasi"
+ },
+ {
+  "slug": "bank-bjb-raih-penghargaan-pengembangan-ekonomi-daerah",
+  "category": "Perbankan",
+  "title": "bank bjb Raih [Penghargaan] Pengembangan Ekonomi Daerah",
+  "deck": "bank bjb meraih kategori Outstanding Regional Economic Development Award dalam ajang Road to CNBC Indonesia Award 2026, atas dukungannya terhadap UMKM dan sektor ekonomi daerah di Jawa Barat.",
+  "date": "14 November 2026",
+  "image": "assets/img/bank-bjb-raih-penghargaan-pengembangan-ekonomi-daerah.jpg",
+  "imageV": "mwg0ili1",
+  "tags": [
+   "bank bjb",
+   "CNBC Indonesia Award",
+   "UMKM",
+   "bank pembangunan daerah"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478303-bank-bjb-raih-outstanding-regional-economic-development-award-dari-cnbc"
+ },
+ {
+  "slug": "bank-bjb-raih-penghargaan-cnn-indonesia-awards-2026",
+  "category": "Perbankan",
+  "title": "bank bjb Raih [Penghargaan] CNN Indonesia Awards 2026",
+  "deck": "bank bjb diapresiasi CNN Indonesia Awards 2026 atas peran menyalurkan Rp984 miliar dana bedah rumah ke 49.449 keluarga di Jawa Barat.",
+  "date": "14 November 2026",
+  "image": "assets/img/bank-bjb-raih-penghargaan-cnn-indonesia-awards-2026.jpg",
+  "imageV": "mwg0ilwc",
+  "tags": [
+   "bank bjb",
+   "CNN Indonesia Awards 2026",
+   "BSPS",
+   "Jawa Barat"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478302-perkuat-ekonomi-daerah-bank-bjb-raih-penghargaan-cnn-indonesia-awards-2026"
+ },
+ {
+  "slug": "bank-bjb-masuk-kategori-high-dividend-indeks-tempo-2026",
+  "category": "Pasar Modal",
+  "title": "bank bjb Masuk Kategori [High Dividend] Indeks Tempo 2026",
+  "deck": "bank bjb mendapat predikat High Dividend dalam Indeks Tempo-IDNFinancials 52 Tahun 2026, pengakuan atas konsistensi pembagian dividen kepada pemegang saham.",
+  "date": "14 November 2026",
+  "image": "assets/img/bank-bjb-masuk-kategori-high-dividend-indeks-tempo-2026.jpg",
+  "imageV": "mwg0imbe",
+  "tags": [
+   "bank bjb",
+   "dividen",
+   "pasar modal",
+   "emiten"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478301-bank-bjb-raih-engakuan-high-dividend-bukti-fundamental-perusahaan-tetap-solid"
+ },
+ {
   "slug": "ekspor-kulit-dan-alas-kaki-ri-tembus-us-7-22-miliar",
   "category": "Industri",
   "title": "Ekspor Kulit dan Alas Kaki RI [Tembus] US$7,22 Miliar",
@@ -684,7 +768,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6163,7 +6247,7 @@ var ARTICLES = [
   "title": "Indonesia-Tatarstan [Jajaki] Kerja Sama Kapal dan Investasi",
   "deck": "Menko Airlangga bertemu Kepala Republik Tatarstan Rusia membahas peluang investasi di perkapalan, otomotif, kedirgantaraan, farmasi, dan teknologi digital.",
   "date": "6 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "Rusia",
    "Tatarstan",
@@ -6417,85 +6501,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/tingkatkan-kualitas-pelaku-usaha-pbk-bappebti-umumkan-rating-pialang-berjangka-triwulan-iii-2026",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "mine-rombak-direksi-jaminkan-aset-untuk-pinjaman-sindikasi",
-  "category": "Aksi Korporasi",
-  "title": "MINE Rombak Direksi, Jaminkan [Aset] untuk Pinjaman Sindikasi",
-  "deck": "RUPSLB MINE menyetujui direktur baru, perubahan kode usaha KBLI, dan penjaminan aset di atas 50% kekayaan bersih untuk pinjaman sindikasi dari dua bank.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MINE",
-   "RUPSLB",
-   "Pinjaman Sindikasi",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d119d29c30_95bd4ef529.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-akui-transaksi-cessie-rp147-miliar-belum-diungkap",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Akui Transaksi [Cessie] Rp147 Miliar Belum Diungkap",
-  "deck": "VTNY menanggapi permintaan penjelasan Bursa soal opini wajar dengan pengecualian, dan mengakui pengalihan piutang Rp147 miliar serta obligasi anak usaha belum diungkap sebagai transaksi material.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "opini audit",
-   "transaksi material",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d41b306f52_3c44142603.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rans-bantah-putus-kerja-sama-dengan-d-masiv-untuk-tur-asia",
-  "category": "Aksi Korporasi",
-  "title": "RANS Bantah Putus Kerja Sama dengan [D'MASIV] untuk Tur Asia",
-  "deck": "RANS menjawab permintaan penjelasan BEI soal kabar putusnya kerja sama dengan D'MASIV di tur konser Asia yang sebagian didanai dana hasil IPO.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "D'MASIV",
-   "IPO",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab1d566f9a_8e81f08b1c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-revisi-transaksi-afiliasi-pinjaman-kbank-capai-us-240-juta",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Revisi Transaksi [Afiliasi]: Pinjaman KBank Capai US$240 Juta",
-  "deck": "BMAS mengoreksi laporan transaksi afiliasi dan merinci penarikan pinjaman dari KASIKORNBANK yang telah mencapai US$240 juta dari limit fasilitas US$341 juta.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "Transaksi Afiliasi",
-   "KASIKORNBANK",
-   "Pinjaman Bilateral"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3c52f7619_979a3397ce.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cmnt-ganti-direksi-pt-karsa-primapermata-nusa",
-  "category": "Aksi Korporasi",
-  "title": "CMNT Ganti [Direksi] PT Karsa Primapermata Nusa",
-  "deck": "Cemindo Gemilang mengumumkan susunan baru direksi dan komisaris anak usahanya, PT Karsa Primapermata Nusa, lewat akta notaris 6 November 2026.",
-  "date": "6 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CMNT",
-   "Cemindo Gemilang",
-   "Karsa Primapermata Nusa",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/37c99d47d8_708956acab.pdf",
-  "sourceLabel": "IDX"
  }
 ];

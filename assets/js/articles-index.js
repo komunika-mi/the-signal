@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir",
+  "category": "UMKM",
+  "title": "20 Produk UMKM Kurasi Kemendag Masuk Jaringan [Indogrosir]",
+  "deck": "Kemendag menempatkan 20 produk UMKM hasil kurasi Pilihan Busan ke rak Indogrosir, menyusul sekitar 800 produk UMKM lain yang sudah tersedia di jaringan itu.",
+  "date": "15 November 2026",
+  "image": "assets/img/20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir.jpg",
+  "imageV": "mwhvyepx",
+  "tags": [
+   "UMKM",
+   "Indogrosir",
+   "Kemendag",
+   "ritel modern"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-program-pilihan-busan-kemendag-boyong-20-produk-umkm-potensial-ke-jaringan-indogrosir",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "petani-stroberi-ciwidey-rasakan-bunga-mekaar-8",
+  "category": "UMKM",
+  "title": "Petani Stroberi Ciwidey Rasakan Bunga [Mekaar] 8%",
+  "deck": "Leni, petani stroberi di Ciwidey, mengandalkan pembiayaan PNM Mekaar berbiaya 8 persen untuk menjaga modal usahanya tetap stabil.",
+  "date": "15 November 2026",
+  "image": "assets/img/petani-stroberi-ciwidey-rasakan-bunga-mekaar-8.jpg",
+  "imageV": "mwhvyf3b",
+  "tags": [
+   "PNM Mekaar",
+   "UMKM",
+   "petani stroberi",
+   "pembiayaan mikro"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478518-kisah-leni-petani-stroberi-di-rancabali-yang-rasakan-manisnya-mekaar-8-persen"
+ },
+ {
+  "slug": "mind-id-klaim-tambang-ri-topang-energi-terbarukan",
+  "category": "Energi",
+  "title": "MIND ID Klaim Tambang RI Topang Energi [Terbarukan]",
+  "deck": "MIND ID menyebut nikel, tembaga, dan aluminium jadi bahan utama energi terbarukan, sembari mengklaim sudah mereklamasi lebih dari 8.000 hektare lahan tambang hingga 2025.",
+  "date": "15 November 2026",
+  "image": "assets/img/mind-id-klaim-tambang-ri-topang-energi-terbarukan.jpg",
+  "imageV": "mwhvyfhb",
+  "tags": [
+   "MIND ID",
+   "nikel",
+   "energi terbarukan",
+   "reklamasi tambang"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478513-transformasi-industri-pertambangan-indonesia-dalam-mendukung-energi-terbarukan"
+ },
+ {
   "slug": "asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila",
   "category": "Energi",
   "title": "ASEAN Adopsi [Deklarasi] Mineral Kritis di KTT Manila",
@@ -6448,55 +6500,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7911b01de1_9d1f8b195b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-raih-fasilitas-pembiayaan-syariah-rp250-m-dari-maybank",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Raih [Fasilitas] Pembiayaan Syariah Rp250 M dari Maybank",
-  "deck": "Rukun Raharja dan enam anak usahanya menandatangani perjanjian fasilitas pembiayaan musyarakah dengan Bank Maybank Indonesia senilai Rp250 miliar, berlaku 12 bulan.",
-  "date": "8 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "Rukun Raharja",
-   "Maybank Indonesia",
-   "pembiayaan syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/42e556a12d_0c7749b632.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "endri-supriatna-juara-kompetisi-memasak-bright-gas-2026",
-  "category": "BUMN",
-  "title": "Endri Supriatna [Juara] Kompetisi Memasak Bright Gas 2026",
-  "deck": "Endri Supriatna meraih juara pertama Bright Gas Cooking Competition 2026 Pertamina dengan kreasi kuliner nusantara di Tangerang Selatan.",
-  "date": "8 November 2026",
-  "image": "assets/img/endri-supriatna-juara-kompetisi-memasak-bright-gas-2026.jpg",
-  "imageV": "mw7tmfce",
-  "tags": [
-   "Pertamina",
-   "Bright Gas",
-   "Kuliner Nusantara",
-   "BGCC 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477253-kompetisi-memasak-pertamina-bgcc-2026-tuntaskan-babak-final-angkat-tema-kuliner-nusantara"
- },
- {
-  "slug": "ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026",
-  "category": "Global",
-  "title": "RI Didorong Ambil Peran [Strategis] Jelang KTT APEC 2026",
-  "deck": "Forum diskusi Indonesia-Tiongkok mendorong RI tak sekadar jadi penerima investasi, tapi ikut merancang kerja sama ekonomi menjelang KTT APEC 2026 di Shenzhen.",
-  "date": "8 November 2026",
-  "image": "assets/img/ri-didorong-ambil-peran-strategis-jelang-ktt-apec-2026.jpg",
-  "imageV": "mw7obzpz",
-  "tags": [
-   "APEC 2026",
-   "Indonesia-Tiongkok",
-   "Shenzhen",
-   "nikel"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477242-indonesia-didorong-ambil-peran-ekonomi-strategis-jelang-ktt-apec-2026"
  }
 ];

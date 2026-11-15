@@ -1,7 +1,7 @@
 // Angka indikator ekonomi dari WebAPI BPS (webapi.bps.go.id).
 // Ditarik otomatis oleh scripts/bps-artikel.mjs - jangan diedit manual.
 var BPS = {
- "diperbarui": "2026-11-15T11:04:03.280Z",
+ "diperbarui": "2026-11-15T13:47:07.011Z",
  "indikator": {
   "inflasi": {
    "nama": "Inflasi bulanan",

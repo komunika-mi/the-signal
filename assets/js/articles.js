@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir",
+  "category": "UMKM",
+  "title": "20 Produk UMKM Kurasi Kemendag Masuk Jaringan [Indogrosir]",
+  "deck": "Kemendag menempatkan 20 produk UMKM hasil kurasi Pilihan Busan ke rak Indogrosir, menyusul sekitar 800 produk UMKM lain yang sudah tersedia di jaringan itu.",
+  "image": "assets/img/20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T13:38:20.343Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-program-pilihan-busan-kemendag-boyong-20-produk-umkm-potensial-ke-jaringan-indogrosir",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Indogrosir",
+   "Kemendag",
+   "ritel modern"
+  ],
+  "body": [
+   "Kementerian Perdagangan menempatkan 20 produk UMKM hasil kurasi program Pilihan Busan ke jaringan ritel modern Indogrosir, menambah daftar produk UMKM yang sebelumnya sudah berjumlah sekitar 800 item di gerai tersebut. Langkah ini penting karena salah satu kendala utama usaha kecil adalah akses ke rak ritel modern yang punya jaringan distribusi luas, dan kurasi pemerintah menjadi salah satu jalur untuk menembusnya.",
+   "Produk yang masuk kali ini seluruhnya berupa makanan dan minuman olahan dari berbagai daerah di Indonesia, meliputi aneka keripik kentang, keripik pisang, olahan tempe, kerupuk sagu, pempek, jamur krispi, kulit ikan, seblak, kukis, dan granola. Pengumuman ini disampaikan Menteri Perdagangan Budi Santoso secara virtual dalam acara perayaan Hari Ulang Tahun ke-33 Indogrosir di Tangerang, Minggu (15/11), yang juga dihadiri Menteri UMKM Maman Abdurrahman dan Direktur Jenderal Perdagangan Dalam Negeri Kemendag, Iqbal S. Shofwan.",
+   "Indogrosir sendiri memiliki jaringan sekitar 400.000 pemilik warung yang tergabung dalam komunitas Member Merah di seluruh Indonesia. Warung-warung inilah yang berperan ganda, sebagai mitra distribusi sekaligus konsumen produk yang dipasarkan Indogrosir, sehingga jaringan ini menjadi salah satu saluran potensial bagi UMKM untuk memperluas pasar. Acara gathering tahunan bertema 'Tumbuh Bersama, Maju Bersama' ini diikuti sekitar 7.000 anggota Member Merah dari wilayah Jabodetabek.",
+   "Menurut Kemendag, kolaborasi dengan peritel modern seperti Indogrosir diharapkan terus diperluas agar semakin banyak produk UMKM memperoleh akses pasar. Namun siaran pers ini tidak merinci target jumlah produk atau retailer tambahan yang akan digandeng ke depan."
+  ],
+  "fotoAdegan": "Shelves in a small Indonesian grocery store stocked with packaged snack foods like chips and crackers, warm afternoon light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/MzpDcGzzeIaZGtEhs9l7JpwMdUelEddjLv6PG6sc.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah secara konkret adalah masuknya 20 produk UMKM hasil kurasi program Pilihan Busan ke rak Indogrosir, bergabung dengan sekitar 800 produk UMKM lain yang sudah dipasarkan di jaringan itu sebelumnya. Yang terdampak langsung adalah produsen UMKM makanan olahan dari berbagai daerah, serta sekitar 400.000 pemilik warung dalam jaringan Member Merah Indogrosir, karena merekalah yang akan menjual produk-produk ini ke konsumen akhir. Siaran pers ini tidak menyebutkan apakah penempatan 20 produk ini bagian dari target yang lebih besar, sudah berapa kali kurasi semacam ini dilakukan dengan retailer lain, atau apakah ada rencana memperluas ke jaringan ritel modern lainnya. Karena itu belum bisa disimpulkan apakah kolaborasi semacam ini akan menjadi pola rutin Kemendag membuka akses pasar UMKM atau sekadar kerja sama satu kali dengan Indogrosir. Yang perlu dipantau adalah apakah Kemendag merilis data jumlah UMKM yang berhasil masuk ritel modern secara keseluruhan, atau mengumumkan kurasi serupa dengan retailer lain pada periode berikutnya.",
+  "imageV": "mwhvyepx"
+ },
+ {
+  "slug": "petani-stroberi-ciwidey-rasakan-bunga-mekaar-8",
+  "category": "UMKM",
+  "title": "Petani Stroberi Ciwidey Rasakan Bunga [Mekaar] 8%",
+  "deck": "Leni, petani stroberi di Ciwidey, mengandalkan pembiayaan PNM Mekaar berbiaya 8 persen untuk menjaga modal usahanya tetap stabil.",
+  "image": "assets/img/petani-stroberi-ciwidey-rasakan-bunga-mekaar-8.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T19:29:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478518-kisah-leni-petani-stroberi-di-rancabali-yang-rasakan-manisnya-mekaar-8-persen",
+  "tags": [
+   "PNM Mekaar",
+   "UMKM",
+   "petani stroberi",
+   "pembiayaan mikro"
+  ],
+  "body": [
+   "Leni Ratnasari, petani stroberi dari Kampung Barutunggul, Ciwidey, Kabupaten Bandung, sudah menjalani usaha ini sejak 2010. Seperti petani lain, ia bergantung pada cuaca yang sulit ditebak, serangan hama, dan harga jual yang naik turun, sehingga ketersediaan modal jadi penentu usahanya bisa terus berjalan atau tidak.",
+   "Untuk menjaga modal tetap stabil, Leni mengandalkan pembiayaan dari program PNM Mekaar yang kini menetapkan biaya pinjaman sebesar 8 persen. Biaya yang lebih ringan ini memudahkannya mengatur arus kas, mulai dari perawatan tanaman sampai distribusi hasil panen, tanpa membebani terlalu berat keuangan keluarganya.",
+   "Direktur Utama PT Permodalan Nasional Madani (Persero), Kindaris, menyebut penurunan biaya pembiayaan Mekaar menjadi 8 persen sebagai bagian dari upaya perusahaan memperluas akses keuangan yang lebih terjangkau bagi perempuan prasejahtera, termasuk yang bekerja di sektor pertanian. \"Melalui Mekaar 8%, kami berharap semakin banyak perempuan pengusaha, termasuk petani, yang memiliki ruang lebih besar untuk mengembangkan usahanya dan menjaga penghidupan keluarga,\" ujar Kindaris.",
+   "Skema biaya rendah semacam ini penting bagi pelaku usaha ultra mikro perempuan, karena sebagian besar modal mereka biasanya terserap untuk kebutuhan produktif harian, bukan untuk menanggung beban pinjaman yang berat. Dengan biaya pembiayaan yang lebih terjangkau, dana yang tersedia diharapkan bisa lebih optimal menjaga perputaran usaha sekaligus menopang kebutuhan keluarga."
+  ],
+  "fotoAdegan": "A misty highland strawberry farm in West Java, rows of low strawberry plants with a farmer tending leaves in soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/15/6af9a54627f6a-kisah-leni-petani-stroberi-di-rancabali-yang-rasakan-manisnya-mekaar-8-persen_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari kabar ini adalah biaya pembiayaan program Mekaar turun menjadi 8 persen, dan dampaknya langsung dirasakan nasabah seperti Leni yang mengandalkan pinjaman ini untuk modal rawat dan jual hasil stroberi. Yang terkena dampak adalah perempuan pelaku usaha ultra mikro, termasuk petani perempuan di daerah seperti Ciwidey, yang memang jadi sasaran utama pembiayaan Mekaar. Namun berita ini belum menyebut berapa biaya pembiayaan sebelumnya, sejak kapan tarif baru ini berlaku secara nasional, dan berapa banyak nasabah yang sudah merasakannya, sehingga belum bisa dipastikan apakah ini penurunan bertahap atau perubahan besar dalam skema Mekaar. Yang perlu dicek selanjutnya adalah angka resmi PNM soal perbandingan tarif lama dan baru serta data jumlah nasabah yang menerima skema ini, agar jelas seberapa luas dampaknya bagi pelaku usaha ultra mikro perempuan secara keseluruhan.",
+  "imageV": "mwhvyf3b"
+ },
+ {
+  "slug": "mind-id-klaim-tambang-ri-topang-energi-terbarukan",
+  "category": "Energi",
+  "title": "MIND ID Klaim Tambang RI Topang Energi [Terbarukan]",
+  "deck": "MIND ID menyebut nikel, tembaga, dan aluminium jadi bahan utama energi terbarukan, sembari mengklaim sudah mereklamasi lebih dari 8.000 hektare lahan tambang hingga 2025.",
+  "image": "assets/img/mind-id-klaim-tambang-ri-topang-energi-terbarukan.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T18:37:36+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478513-transformasi-industri-pertambangan-indonesia-dalam-mendukung-energi-terbarukan",
+  "tags": [
+   "MIND ID",
+   "nikel",
+   "energi terbarukan",
+   "reklamasi tambang"
+  ],
+  "body": [
+   "MIND ID, holding BUMN pertambangan, menyatakan perannya kini tidak lagi sebatas mengambil hasil tambang untuk keuntungan ekonomi, tetapi ikut menopang pembangunan energi rendah karbon. Pernyataan ini disampaikan Division Head of Institutional Relations MIND ID, Selly Adriatika, dalam forum konferensi iklim PBB COP31 di Antalya, Turki, Minggu (15/11/2026). Ia menyebut mineral seperti nikel, tembaga, dan aluminium menjadi bahan baku penting untuk panel surya, turbin angin, penyimpanan energi, dan kendaraan listrik.",
+   "Menurutnya, kebutuhan mineral itu akan terus naik seiring dunia mengembangkan lebih banyak infrastruktur energi baru terbarukan, karena ekosistem energi tersebut menghasilkan emisi karbon yang jauh lebih rendah dibanding kendaraan berbahan bakar minyak. Selly menyebut MIND ID berusaha mengelola seluruh mata rantai produksi, dari penambangan, pengolahan, hingga pemurnian, dengan teknologi yang menekan penggunaan energi dan emisi di setiap tahapnya.",
+   "Tanggung jawab itu diklaim berlanjut setelah tambang berhenti beroperasi, lewat reklamasi dan penghutanan kembali lahan bekas tambang. MIND ID menyebut hingga 2025 pihaknya telah mereklamasi lebih dari 8.000 hektare lahan, salah satunya di Himalaya Hill, Sorowako, Sulawesi Selatan. Area bekas tambang nikel PT Vale Indonesia Tbk seluas sekitar 31 hektare di lokasi itu, yang direklamasi sejak 2006, kini memiliki tiga lapisan tumbuhan dengan sekitar 22.130 pohon tertanam dan sudah dikategorikan kembali sebagai ekosistem hutan alami.",
+   "Selly menyebut mineral sebagai amanah yang harus dikembalikan fungsinya ke lingkungan, bukan sekadar dieksploitasi untuk dijual. Ia menegaskan proses ekstraksi, pengolahan, dan pemulihan lingkungan menjadi satu kesatuan tanggung jawab yang dijalankan perusahaan."
+  ],
+  "fotoAdegan": "Reclaimed former nickel mine land turning into young forest with rows of planted trees, hilly terrain, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/15/6af998e8cb8b0-ilustrasi-operasional-pertambangan-mineral_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan cara MIND ID membingkai bisnis tambangnya, dari sekadar menjual nikel, tembaga, dan aluminium, menjadi pemasok bahan baku untuk panel surya, turbin angin, dan mobil listrik. Angka konkret yang disampaikan adalah reklamasi lahan bekas tambang lebih dari 8.000 hektare sampai 2025, dengan contoh di Sorowako yang kini ditanami sekitar 22.130 pohon di atas lahan 31 hektare dan sudah diakui kembali sebagai hutan alami. Yang terdampak langsung adalah warga di sekitar wilayah tambang seperti Sorowako, karena kualitas pemulihan lahan itu menentukan apakah area tersebut bisa dipakai lagi untuk pertanian, hutan, atau sumber air bersih. Pernyataan ini disampaikan di forum iklim internasional, bukan lewat rencana bisnis resmi atau aturan pemerintah, sehingga belum ada target produksi mineral hijau atau nilai investasi yang disebutkan secara spesifik. Yang perlu ditunggu adalah apakah MIND ID atau pemerintah merilis target maupun aturan turunan soal pasokan mineral untuk energi terbarukan setelah COP31 berakhir.",
+  "imageV": "mwhvyfhb"
+ },
+ {
   "slug": "asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila",
   "category": "Energi",
   "title": "ASEAN Adopsi [Deklarasi] Mineral Kritis di KTT Manila",

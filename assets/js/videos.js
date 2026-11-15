@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "k8tq6DuMP8Q",
+  "title": "Harga Komoditas Pangan di Tegal Mahal, Pedagang Merugi",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Lonjakan harga sejumlah komoditas pangan di pasar tradisional Tegal membuat warga menekan pengeluaran, sementara pedagang mengalami penurunan keuntungan akibat sepinya pembeli.",
+  "takeaway": "Kenaikan harga pangan di tingkat pasar tradisional relevan sebagai indikator tekanan inflasi yang memengaruhi daya beli masyarakat dan pelaku usaha kecil.",
+  "terbit": "2026-11-15T11:25:35+00:00"
+ },
+ {
   "id": "DBc8LjMdbJE",
   "title": "Serangan Siber Global Ancam Sektor Keuangan, Negara Harus Apa?",
   "category": "Perbankan",

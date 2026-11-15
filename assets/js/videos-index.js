@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "k8tq6DuMP8Q",
+  "title": "Harga Komoditas Pangan di Tegal Mahal, Pedagang Merugi",
+  "category": "Bisnis",
+  "program": "Kabar Petang",
+  "summary": "Lonjakan harga sejumlah komoditas pangan di pasar tradisional Tegal membuat warga menekan pengeluaran, sementara pedagang mengalami penurunan keuntungan akibat sepinya pembeli.",
+  "takeaway": "Kenaikan harga pangan di tingkat pasar tradisional relevan sebagai indikator tekanan inflasi yang memengaruhi daya beli masyarakat dan pelaku usaha kecil."
+ },
+ {
   "id": "DBc8LjMdbJE",
   "title": "Serangan Siber Global Ancam Sektor Keuangan, Negara Harus Apa?",
   "category": "Perbankan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Inovasi Membangun Negeri",
   "summary": "PT Bank Tabungan Negara meraih penghargaan Inovasi Membangun Negeri 2026 atas pengembangan layanan perumahan yang lebih mudah, praktis, dan terintegrasi bagi nasabah.",
   "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah inovasi perbankan nasional di segmen pembiayaan perumahan."
- },
- {
-  "id": "fP0QrwQcLCk",
-  "title": "Telkomsel Tingkatkan Pengalaman Digital Lewat Veronica AI",
-  "category": "Teknologi",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "Telkomsel menerima penghargaan Inovasi Membangun Negeri 2026 atas pengembangan asisten digital Veronica AI untuk meningkatkan pengalaman pelanggan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena memperlihatkan strategi perusahaan telekomunikasi memanfaatkan AI untuk daya saing bisnis."
  }
 ];

@@ -83,7 +83,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret baru sebatas penandatanganan, bukan pemberlakuan: ASEAN DEFA sudah diteken seluruh negara anggota di Manila, tapi di Indonesia perjanjian ini masih menunggu ratifikasi dan penyusunan regulasi turunan sebelum benar-benar mengikat. Pihak yang akan terdampak jika kesepakatan ini berjalan adalah pelaku UMKM yang berjualan lintas negara secara digital, pengguna dan merchant QRIS yang akan melayani turis ASEAN, serta pekerja di sektor teknologi seperti pusat data dan keamanan siber. Siaran pers ini belum menyebut kapan proses ratifikasi akan selesai atau aturan turunan apa saja yang sedang disiapkan, sehingga belum bisa dipastikan apakah manfaat seperti potensi transaksi ekonomi digital US$446 miliar pada 2035 itu memang hasil dari DEFA atau sekadar proyeksi pertumbuhan yang sudah ada sebelum perjanjian ini diteken. Yang perlu dipantau adalah jadwal ratifikasi dan regulasi pelaksana dari kementerian terkait, karena dari situ baru bisa terlihat apakah dampaknya akan terasa dalam waktu dekat atau baru beberapa tahun ke depan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "ica-cepa-ri-kanada-mulai-berlaku-1-desember-2026",
@@ -111,7 +111,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah mulai 1 Desember 2026 bea masuk untuk 3.100 pos tarif antara Indonesia dan Kanada dihapus, setelah ratifikasi lewat Peraturan Presiden dan notifikasi resmi ke Kanada pada Oktober 2026. Yang terdampak langsung adalah eksportir produk seperti ponsel, karet alam, cocoa butter, dan alas kaki yang selama ini kena tarif masuk ke Kanada, serta sektor tambang mineral kritis dan energi yang dibuka untuk investasi Kanada. Satu angka yang perlu dicermati, pada Januari-September 2026 impor Indonesia dari Kanada sudah US$2,73 miliar, dua kali lebih besar dari ekspor Indonesia ke Kanada yang US$1,29 miliar, jadi penghapusan tarif ini belum tentu membuat ekspor Indonesia yang tumbuh paling kencang. Dua kemungkinan terbuka, ekspor Indonesia terdongkrak setelah tarif hilang, atau impor dari Kanada yang makin membesar, dan ini akan mulai terlihat dari data perdagangan setelah Desember 2026 serta dari hasil akhir perundingan ASEAN-Canada FTA yang ditargetkan selesai Maret 2027.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "pertamina-tambah-beasiswa-dan-mangrove-di-kalimantan",
@@ -193,7 +193,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari rapat ini adalah angka-angka makro, pertumbuhan 5,47 persen dan inflasi 3,3 persen, serta sikap pemerintah yang membaca kenaikan harga cabai dan pangan lain sebagai keuntungan bagi petani, bukan semata masalah yang harus ditekan habis. Yang terdampak langsung adalah petani pangan hortikultura seperti cabai yang pendapatannya terangkat, sementara konsumen tetap menanggung harga pangan yang naik meski inflasi keseluruhan masih di rentang wajar. Arahnya menunjukkan pemerintah condong menoleransi inflasi pangan selagi angka inflasi umum tidak melampaui target, ketimbang menekan harga pangan secara ketat demi daya beli konsumen. Sementara itu, rencana hemat energi dan kepastian jadwal pabrik pakan masih sebatas arahan dan kajian tanpa tenggat jelas, sehingga dampaknya ke konsumen BBM, listrik, dan peternak ayam baru akan terlihat setelah aturan turunannya diterbitkan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "asean-teken-pakta-digital-target-us-2-triliun-di-2030",
@@ -221,7 +221,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah ASEAN kini punya kerangka aturan bersama untuk ekonomi digital, mencakup delapan area mulai dari perdagangan digital, pembayaran elektronik, pelindungan data pribadi, keamanan siber, sampai pemberdayaan UMKM, setelah negosiasi berjalan sejak 2023. Pihak yang terdampak adalah pelaku usaha yang berdagang lintas negara ASEAN secara digital, termasuk UMKM, serta konsumen yang bertransaksi lewat e-commerce antarnegara di kawasan ini. Target ekonomi digital ASEAN berlipat dari US$1 triliun menjadi US$2 triliun pada 2030, dan klaim tambahan pertumbuhan 8 persen bagi Indonesia pada 2028-2029, keduanya masih berupa target dan klaim dari Kemenko Perekonomian, bukan angka yang sudah terbukti terjadi. Siaran pers ini sendiri mengakui keberhasilannya baru akan terlihat dari langkah implementasi konkret yang harus disepakati tiap negara, sehingga yang perlu dipantau berikutnya adalah apakah muncul jadwal ratifikasi atau aturan turunan di Indonesia maupun negara ASEAN lain setelah penandatanganan ini.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "utang-bi-pemerintah-era-krisis-1998-lunas",

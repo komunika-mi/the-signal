@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid",
+  "category": "Energi",
+  "title": "RI Tekankan Prinsip [Saling Menguntungkan] di ASEAN Power Grid",
+  "deck": "Dalam KTT ASEAN ke-49 di Manila, Indonesia mendorong agar interkoneksi listrik kawasan tetap menghormati regulasi dan kepentingan nasional tiap negara anggota.",
+  "date": "15 November 2026",
+  "image": "assets/img/ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid.jpg",
+  "imageV": "mwhoe848",
+  "tags": [
+   "ASEAN Power Grid",
+   "Bahlil Lahadalia",
+   "KTT ASEAN",
+   "Mineral Kritis"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dampingi-presiden-di-ktt-asean-ke-49-bahlil-kawal-kepentingan-nasional-dalam-asean-power-grid",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "smexpo-2026-usai-40-umkm-binaan-pertamina-tutup-panggung",
+  "category": "UMKM",
+  "title": "SMEXPO 2026 Usai, [40] UMKM Binaan Pertamina Tutup Panggung",
+  "deck": "Hari terakhir Pertamina SMEXPO 2026 di Mall Kota Kasablanka Jakarta diisi talkshow, workshop tenun, dan panggung hiburan sebelum seremoni penutupan.",
+  "date": "15 November 2026",
+  "image": "assets/img/smexpo-2026-usai-40-umkm-binaan-pertamina-tutup-panggung.jpg",
+  "imageV": "mwhoe8nu",
+  "tags": [
+   "pertamina",
+   "smexpo",
+   "umkm",
+   "jakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478486-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026"
+ },
+ {
   "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
   "category": "Bisnis",
   "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",
@@ -6462,38 +6497,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477236-lewat-klasterku-hidupku-bri-dorong-peningkatan-ekonomi-petani-alpukat-di-sumberejo"
- },
- {
-  "slug": "hkmu-bukukan-ekuitas-negatif-rp38-7-miliar-dalam-laporan-interim",
-  "category": "Aksi Korporasi",
-  "title": "HKMU Laporan Tahunan 2023: [Ekuitas Negatif] Bertahan Rp38,6 Miliar",
-  "deck": "Laporan keuangan tahunan 2023 yang baru disampaikan HKMU pada November 2026 menunjukkan ekuitas negatif Rp38,6 miliar, hampir tak berubah dari Rp38,7 miliar pada laporan interim Juni 2023.",
-  "date": "8 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HKMU",
-   "ekuitas negatif",
-   "laporan keuangan tahunan",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261108141335-65735-0/FinancialStatement-2023-II-HKMU.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bayan-pastikan-penjualan-saham-ke-haji-isam-bersih",
-  "category": "Pasar Modal",
-  "title": "Bayan Pastikan Penjualan Saham ke [Haji Isam] Bersih",
-  "deck": "Direksi Bayan Resources menegaskan pengalihan lebih dari 10 miliar saham ke perusahaan Haji Isam murni bisnis, sesuai perjanjian yang diteken September 2026.",
-  "date": "8 November 2026",
-  "image": "assets/img/bayan-pastikan-penjualan-saham-ke-haji-isam-bersih.jpg",
-  "imageV": "mw7idfoe",
-  "tags": [
-   "Bayan Resources",
-   "Haji Isam",
-   "BYAN",
-   "Jhonlin Baratama"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477228-bayan-resources-pastikan-penjualan-saham-ke-haji-isam-tanpa-tekanan"
  }
 ];

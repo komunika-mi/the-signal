@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid",
+  "category": "Energi",
+  "title": "RI Tekankan Prinsip [Saling Menguntungkan] di ASEAN Power Grid",
+  "deck": "Dalam KTT ASEAN ke-49 di Manila, Indonesia mendorong agar interkoneksi listrik kawasan tetap menghormati regulasi dan kepentingan nasional tiap negara anggota.",
+  "image": "assets/img/ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T10:07:57.541Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dampingi-presiden-di-ktt-asean-ke-49-bahlil-kawal-kepentingan-nasional-dalam-asean-power-grid",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ASEAN Power Grid",
+   "Bahlil Lahadalia",
+   "KTT ASEAN",
+   "Mineral Kritis"
+  ],
+  "body": [
+   "Indonesia menegaskan sikapnya dalam pembahasan rencana interkoneksi listrik kawasan, ASEAN Power Grid, di Konferensi Tingkat Tinggi ASEAN ke-49 yang berlangsung di Manila, Filipina. Menteri Koordinator Bidang Hilirisasi dan Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyampaikan bahwa proyek penyambungan jaringan listrik antarnegara ASEAN ini harus tetap memperhatikan aturan dan kepentingan masing-masing negara, bukan sekadar menyatukan sistem kelistrikan kawasan. Sikap ini penting karena menyangkut sejauh mana Indonesia bersedia membuka sistem ketenagalistrikannya untuk terhubung dengan negara tetangga.",
+   "Pembahasan ini merupakan bagian dari agenda besar yang diusung Presiden Filipina Ferdinand Marcos Jr. selaku ketua KTT, yang menempatkan konektivitas energi sebagai salah satu dari tiga prioritas utama keketuaannya tahun ini, bersama isu perdamaian dan keamanan serta pemberdayaan masyarakat. Dalam rangkaian pertemuan yang juga dihadiri Presiden Prabowo Subianto, para pemimpin ASEAN turut mengadopsi Deklarasi Mineral Kritis ASEAN pada 15 November 2026, sebagai landasan kerja sama memperkuat rantai pasok mineral strategis di kawasan.",
+   "Selain deklarasi tersebut, sejumlah dokumen teknis lain juga menjadi bagian agenda energi KTT, yakni rencana kerja Komite Konsultatif ASEAN Power Grid, kerangka perencanaan regional untuk jaringan listrik ASEAN, dan laporan proyeksi energi kawasan edisi kesembilan. Secara keseluruhan, lebih dari seratus dokumen kerja sama diajukan dalam rangkaian KTT ASEAN tahun ini, dengan Filipina menargetkan rampungnya 19 capaian prioritas di bidang ekonomi pada akhir 2026. Indonesia menyebut perhatiannya pada kerja sama mineral kritis ditujukan untuk memperkuat ketahanan rantai pasok, mengingat kebutuhan mineral strategis diperkirakan terus naik seiring perkembangan teknologi dan transisi energi."
+  ],
+  "fotoAdegan": "High-voltage electrical transmission towers and power lines stretching across a rural Southeast Asian landscape at dusk.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dampingi-presiden-di-ktt-asean-ke-49-bahlil-kawal-kepentingan-nasional-dalam-asean-power-grid-krgf4b6.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang benar-benar baru dari pertemuan ini adalah pengesahan Deklarasi Mineral Kritis ASEAN dan sejumlah dokumen teknis ASEAN Power Grid, seperti rencana kerja komite konsultatifnya dan kerangka perencanaan regional. Pihak yang akan terdampak langsung adalah pelaku industri mineral strategis seperti nikel dan kobalt, serta pelaku usaha ketenagalistrikan termasuk PLN, karena merekalah yang nantinya diatur lewat kerangka kerja sama ini. Namun isi rinci dari rencana kerja dan kerangka perencanaan tersebut belum diungkap ke publik, termasuk target waktu pembangunan jalur interkoneksi listrik lintas negara dan skema pembagian manfaatnya. Sampai dokumen teknis itu dibuka atau dibahas lebih lanjut di pertemuan menteri energi ASEAN berikutnya, belum bisa dipastikan apakah penekanan Indonesia pada 'kepentingan nasional' berarti proses integrasi listrik kawasan akan berjalan lebih lambat dari yang direncanakan Filipina selaku ketua ASEAN tahun ini.",
+  "imageV": "mwhoe848"
+ },
+ {
+  "slug": "smexpo-2026-usai-40-umkm-binaan-pertamina-tutup-panggung",
+  "category": "UMKM",
+  "title": "SMEXPO 2026 Usai, [40] UMKM Binaan Pertamina Tutup Panggung",
+  "deck": "Hari terakhir Pertamina SMEXPO 2026 di Mall Kota Kasablanka Jakarta diisi talkshow, workshop tenun, dan panggung hiburan sebelum seremoni penutupan.",
+  "image": "assets/img/smexpo-2026-usai-40-umkm-binaan-pertamina-tutup-panggung.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T15:26:09+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478486-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026",
+  "tags": [
+   "pertamina",
+   "smexpo",
+   "umkm",
+   "jakarta"
+  ],
+  "body": [
+   "Minggu (15/11/2026) menjadi hari terakhir Pertamina SMEXPO 2026 digelar di Mall Kota Kasablanka, Jakarta. Bagi warga yang belum sempat datang, ini kesempatan pamungkas untuk melihat produk UMKM binaan Pertamina sekaligus mengikuti rangkaian acara penutup, termasuk peluang memenangkan hadiah lewat aplikasi MyPertamina.",
+   "Jadwal hari terakhir diisi Tenun Keychain Workshop pukul 12.00-13.30 WIB, lalu talkshow bertajuk \"Tea is the New Trend: Mengulik Masa Depan Bisnis Minuman Teh\" bersama CEO Sancha Artisan Milk Tea, Vivin Suharja, pukul 15.00-16.00 WIB. Menjelang malam, panggung diisi penampilan Top 40 Band dan Societeit de Harmonie, sebelum seremoni penutupan pukul 18.30 WIB menghadirkan bintang tamu spesial.",
+   "Sejak dibuka pada 10 November 2026, pameran ini menampilkan 40 UMKM binaan Pertamina dari sektor kuliner, fesyen, hingga kriya dengan tema \"Lokal Jadi Vokal\". Vice President Corporate Communication Pertamina, Muhammad Baron, menyebut SMEXPO sebagai wadah bagi pelaku usaha untuk bertemu langsung dengan konsumen. \"Pertamina SMEXPO tidak hanya menjadi tempat bagi UMKM untuk memperkenalkan dan memasarkan produknya, tetapi juga ruang bagi masyarakat untuk mengenal lebih dekat produk lokal dan potensi pelaku usaha Indonesia,\" ujar Baron, sembari mengajak masyarakat memanfaatkan hari terakhir ini untuk berbelanja produk UMKM.",
+   "Selain berburu produk lokal, pengunjung juga bisa mengakses layanan dari unit bisnis lain di ekosistem Pertamina Group, seperti layanan kesehatan dari IHC dan perhotelan dari Patra Jasa. Pertamina menyebut SMEXPO sebagai bagian dari komitmennya memperluas jangkauan pasar produk lokal dan meningkatkan kebanggaan masyarakat terhadap karya anak bangsa."
+  ],
+  "fotoAdegan": "Visitors browsing colorful handwoven textile crafts and small tea stalls inside a busy mall exhibition hall, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/15/6af96c1011c8e-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah pada edisi SMEXPO tahun ini bukan cuma soal jumlah peserta, tapi bentuk acaranya: pameran UMKM binaan Pertamina, yang kali ini diikuti 40 pelaku usaha dari sektor kuliner, fesyen, dan kriya selama enam hari sejak 10 November, digabung dengan layanan dari bisnis lain milik Pertamina Group yang bukan jual bahan bakar, yaitu layanan kesehatan dari IHC dan perhotelan dari Patra Jasa, dalam satu lokasi di mal. Yang kena dampak langsung adalah pelaku UMKM binaan yang mendapat tempat pamer gratis di mal besar Jakarta, serta pengunjung yang bisa sekaligus mencoba layanan-layanan grup itu dalam satu kunjungan. Yang belum terjawab dari informasi yang ada adalah apakah pola menggabungkan promosi UMKM dengan layanan lain Pertamina Group ini akan jadi format tetap di edisi SMEXPO berikutnya atau diperluas ke kota lain, sebab Pertamina belum merilis angka penjualan atau jumlah pengunjung selama enam hari acara ini berlangsung. Yang perlu dipantau adalah apakah Pertamina mengumumkan hasil evaluasi SMEXPO Jakarta ini atau rencana penyelenggaraan serupa di kota lain pada periode berikutnya.",
+  "imageV": "mwhoe8nu"
+ },
+ {
   "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
   "category": "Bisnis",
   "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",
@@ -83,7 +137,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret baru sebatas penandatanganan, bukan pemberlakuan: ASEAN DEFA sudah diteken seluruh negara anggota di Manila, tapi di Indonesia perjanjian ini masih menunggu ratifikasi dan penyusunan regulasi turunan sebelum benar-benar mengikat. Pihak yang akan terdampak jika kesepakatan ini berjalan adalah pelaku UMKM yang berjualan lintas negara secara digital, pengguna dan merchant QRIS yang akan melayani turis ASEAN, serta pekerja di sektor teknologi seperti pusat data dan keamanan siber. Siaran pers ini belum menyebut kapan proses ratifikasi akan selesai atau aturan turunan apa saja yang sedang disiapkan, sehingga belum bisa dipastikan apakah manfaat seperti potensi transaksi ekonomi digital US$446 miliar pada 2035 itu memang hasil dari DEFA atau sekadar proyeksi pertumbuhan yang sudah ada sebelum perjanjian ini diteken. Yang perlu dipantau adalah jadwal ratifikasi dan regulasi pelaksana dari kementerian terkait, karena dari situ baru bisa terlihat apakah dampaknya akan terasa dalam waktu dekat atau baru beberapa tahun ke depan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ica-cepa-ri-kanada-mulai-berlaku-1-desember-2026",
@@ -111,7 +166,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah adalah mulai 1 Desember 2026 bea masuk untuk 3.100 pos tarif antara Indonesia dan Kanada dihapus, setelah ratifikasi lewat Peraturan Presiden dan notifikasi resmi ke Kanada pada Oktober 2026. Yang terdampak langsung adalah eksportir produk seperti ponsel, karet alam, cocoa butter, dan alas kaki yang selama ini kena tarif masuk ke Kanada, serta sektor tambang mineral kritis dan energi yang dibuka untuk investasi Kanada. Satu angka yang perlu dicermati, pada Januari-September 2026 impor Indonesia dari Kanada sudah US$2,73 miliar, dua kali lebih besar dari ekspor Indonesia ke Kanada yang US$1,29 miliar, jadi penghapusan tarif ini belum tentu membuat ekspor Indonesia yang tumbuh paling kencang. Dua kemungkinan terbuka, ekspor Indonesia terdongkrak setelah tarif hilang, atau impor dari Kanada yang makin membesar, dan ini akan mulai terlihat dari data perdagangan setelah Desember 2026 serta dari hasil akhir perundingan ASEAN-Canada FTA yang ditargetkan selesai Maret 2027.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pertamina-tambah-beasiswa-dan-mangrove-di-kalimantan",
@@ -193,7 +249,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari rapat ini adalah angka-angka makro, pertumbuhan 5,47 persen dan inflasi 3,3 persen, serta sikap pemerintah yang membaca kenaikan harga cabai dan pangan lain sebagai keuntungan bagi petani, bukan semata masalah yang harus ditekan habis. Yang terdampak langsung adalah petani pangan hortikultura seperti cabai yang pendapatannya terangkat, sementara konsumen tetap menanggung harga pangan yang naik meski inflasi keseluruhan masih di rentang wajar. Arahnya menunjukkan pemerintah condong menoleransi inflasi pangan selagi angka inflasi umum tidak melampaui target, ketimbang menekan harga pangan secara ketat demi daya beli konsumen. Sementara itu, rencana hemat energi dan kepastian jadwal pabrik pakan masih sebatas arahan dan kajian tanpa tenggat jelas, sehingga dampaknya ke konsumen BBM, listrik, dan peternak ayam baru akan terlihat setelah aturan turunannya diterbitkan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "asean-teken-pakta-digital-target-us-2-triliun-di-2030",

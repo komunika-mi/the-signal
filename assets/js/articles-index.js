@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan",
+  "category": "Teknologi",
+  "title": "NVIDIA: Jensen Huang [Mundur], Dua Anak Jadi Sorotan",
+  "deck": "Jensen Huang disebut mundur dari kursi CEO dan direksi NVIDIA, sementara dua anaknya, Madison dan Spencer Huang, makin disorot sebagai calon penerus.",
+  "date": "16 November 2026",
+  "image": "assets/img/nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan.jpg",
+  "imageV": "mwig82on",
+  "tags": [
+   "NVIDIA",
+   "Jensen Huang",
+   "Madison Huang",
+   "Suksesi CEO"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478567-apakah-jadi-penerus-tahta-nvidia-ini-sosok-madison-spencer-anak-jensen-huang"
+ },
+ {
   "slug": "asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila",
   "category": "Energi",
   "title": "ASEAN Sepakati Deklarasi [Mineral] Kritis di KTT Manila",
@@ -6484,22 +6501,6 @@ var ARTICLES = [
    "CCX Platform"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109080723-65766-0/FinancialStatement-2026-III-JAST.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcap-direktur-mundur-henry-suparman-gantikan-aan-setiawandi",
-  "category": "Aksi Korporasi",
-  "title": "BCAP: Direktur Mundur, [Henry Suparman] Gantikan Aan Setiawandi",
-  "deck": "Direktur BCAP Aan Setiawandi mengajukan pengunduran diri efektif 6 November 2026, posisinya akan diisi Henry Suparman, eksekutif lama MNC Group.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCAP",
-   "MNC Kapital Indonesia",
-   "Direksi",
-   "Pergantian Direktur"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3bd1e3577_2d4ffca573.pdf",
   "sourceLabel": "IDX"
  }
 ];

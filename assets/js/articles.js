@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan",
+  "category": "Teknologi",
+  "title": "NVIDIA: Jensen Huang [Mundur], Dua Anak Jadi Sorotan",
+  "deck": "Jensen Huang disebut mundur dari kursi CEO dan direksi NVIDIA, sementara dua anaknya, Madison dan Spencer Huang, makin disorot sebagai calon penerus.",
+  "image": "assets/img/nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T04:29:28+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478567-apakah-jadi-penerus-tahta-nvidia-ini-sosok-madison-spencer-anak-jensen-huang",
+  "tags": [
+   "NVIDIA",
+   "Jensen Huang",
+   "Madison Huang",
+   "Suksesi CEO"
+  ],
+  "body": [
+   "Jensen Huang, sosok yang selama ini membesarkan NVIDIA menjadi salah satu raksasa teknologi dunia, dikabarkan mundur dari jabatan CEO dan presiden pada 12 November 2026, sekaligus melepas kursinya di jajaran direksi perusahaan. Perhatian publik kini beralih ke dua anaknya, Madison dan Spencer Huang, yang sama-sama menduduki posisi strategis di NVIDIA. Pergantian di pucuk pimpinan ini penting dipantau karena NVIDIA adalah salah satu pemain utama industri chip dan kecerdasan buatan global.",
+   "Jensen menikah dengan Lori Huang selama lebih dari empat dekade, setelah keduanya bertemu saat masih kuliah di Oregon State University pada awal 1980-an. Nama Madison dan Spencer makin ramai dibicarakan setelah muncul dugaan perselingkuhan Jensen dengan seorang perempuan yang diyakini sebagai mata-mata asal China, kontroversi yang muncul berdekatan waktu dengan kabar pengunduran dirinya.",
+   "Dalam wawancara dengan Bloomberg pada Oktober 2026, Jensen sempat menyampaikan harapan agar pemimpin NVIDIA selanjutnya berasal dari kalangan internal perusahaan. Ia menegaskan, jika salah satu anaknya tertarik menduduki posisi itu, mereka harus membuktikan dulu kemampuan dan kelayakannya, bukan mendapatkannya begitu saja. Madison Huang, yang kini berusia 35 tahun, dikenal kerap mendampingi sang ayah dalam berbagai konferensi teknologi maupun agenda bisnis NVIDIA.",
+   "Sebelum masuk ke industri teknologi, Madison berkuliah di Culinary Institute of America dan sempat bekerja di LVMH, konglomerasi barang mewah asal Prancis yang menaungi Louis Vuitton dan Dior. Ia bergabung dengan NVIDIA pada Juni 2020 lewat program magang sembari menuntaskan gelar MBA di London Business School, lalu menekuni bidang pemasaran dan strategi. Menurut laporan The Information yang menghimpun keterangan dari 30 orang terkait perjalanan karier anak-anak Jensen, Madison naik jabatan menjadi direktur senior pada Maret 2025."
+  ],
+  "fotoAdegan": "Rows of high-performance server racks with glowing processor indicator lights in a dim data center aisle",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/16/6afa22da304b8-madison-huang-salah-satu-anak-jensen-huang-nvidia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah adalah posisi puncak NVIDIA: Jensen Huang dikabarkan melepas jabatan CEO, presiden, sekaligus kursinya di jajaran direksi, semacam kelompok petinggi yang mengawasi arah perusahaan, pada 12 November 2026. Yang langsung terdampak adalah pemegang saham dan karyawan NVIDIA, sebab perusahaan chip ini punya pengaruh besar di industri teknologi dan kecerdasan buatan, sehingga kekosongan di pucuk pimpinan biasanya memicu pertanyaan soal arah perusahaan selanjutnya. Ada dua kemungkinan yang belum bisa dipastikan dari bukti yang ada sekarang: pertama, pengunduran diri ini murni dipicu skandal dugaan perselingkuhan yang sedang ramai, sehingga proses penggantian pemimpinnya bisa berjalan mendadak dan di luar rencana; kedua, ini bagian dari alih kepemimpinan yang sudah disiapkan bertahap, mengingat Madison sudah masuk NVIDIA sejak 2020 dan baru naik ke posisi direktur senior pada Maret 2025. Jensen sendiri sebelumnya menegaskan ke Bloomberg bahwa penggantinya harus berasal dari internal perusahaan dan anak-anaknya tidak otomatis mendapat kursi itu tanpa membuktikan kemampuan. Yang akan memastikan skenario mana yang benar adalah pengumuman resmi NVIDIA soal nama pengganti Jensen dan alasan resmi di balik kepergiannya, bukan sekadar rumor yang beredar saat ini.",
+  "imageV": "mwig82on"
+ },
+ {
   "slug": "asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila",
   "category": "Energi",
   "title": "ASEAN Sepakati Deklarasi [Mineral] Kritis di KTT Manila",

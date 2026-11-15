@@ -1,56 +1,56 @@
 // Signal Mingguan. Dibuat otomatis oleh scripts/signal-pekanan.mjs.
 var PEKANAN = {
- "tanggal": "2026-11-09",
+ "tanggal": "2026-11-16",
  "rentang": {
-  "mulai": "2026-11-03",
-  "selesai": "2026-11-09"
+  "mulai": "2026-11-10",
+  "selesai": "2026-11-16"
  },
- "rentangLabel": "3 November - 9 November 2026",
- "judul": "Gagal Bayar Meluas, Kendali Makin Terpusat, Tumbuh Disokong Negara",
- "ringkas": "Sepekan ini tiga arah terlihat jelas kalau dilihat bersama: tekanan utang korporasi berubah dari rasio keuangan jadi gagal bayar resmi, pengendali emiten memperbesar porsi lewat skema nontunai yang mendilusi publik, dan pertumbuhan ekonomi kuartal III yang menguat ternyata lebih banyak ditopang belanja negara ketimbang daya beli rumah tangga. Ketiganya baru kelihatan polanya setelah dirangkai lintas hari, tidak tampak dalam satu edisi harian saja.",
+ "rentangLabel": "10 November - 16 November 2026",
+ "judul": "Utang Emiten Melebar, IHSG Bertahan, Ekspor Bertumpu Harga",
+ "ringkas": "Tekanan utang dan tata kelola di emiten konstruksi dan logistik yang pekan ini dimulai dari koreksi laporan keuangan, berakhir pekan dalam bentuk putusan pailit dan penurunan peringkat ke status gagal bayar. Di pasar saham, lonjakan IHSG yang dipicu mundurnya Wakil Presiden Gibran Rakabuming Raka pada Kamis tidak surut, bursa malah ditutup lebih tinggi di akhir pekan. Sementara posisi dagang eksternal terlihat kuat di angka neraca, tapi penopang utamanya harga komoditas yang membaik, bukan volume penjualan, dan pemerintah merespons dengan memperketat kendali atas devisa hasil ekspor.",
  "pola": [
   {
-   "judul": "Tekanan Utang Berubah Jadi Gagal Bayar Resmi",
-   "isi": "Sejak Selasa, tekanan utang di BUMN karya berubah dari rasio keuangan menjadi kejadian konkret: WIKA disuspensi perdagangan karena gagal bayar kupon, Pos Indonesia membatalkan rapat pemegang obligasi menyusul penurunan peringkat Fitch ke status gagal bayar, dan PTPP mendapat kontrak baru Rp400 miliar hanya beberapa hari setelah peringkat utangnya diturunkan ke status gagal bayar terpilih. Rabu dan Kamis, pola ini menjalar ke emiten yang lebih kecil, PYFA menerbitkan obligasi baru Rp650 miliar meski rugi Rp338,7 miliar, BUMA terlambat melaporkan dana untuk obligasi Rp503,15 miliar, TRUE rugi melebar jadi Rp28,2 miliar, KREN dan TAMA sama-sama membukukan ekuitas negatif, dan anak usaha WIKA, yaitu WIKON, digugat PKPU. Jumat, PEFINDO resmi menurunkan tiga seri obligasi WIKA senilai Rp1,2 triliun ke status idD, gagal bayar, mengubah status dari ancaman menjadi kejadian resmi. Arahnya sudah jelas memburuk dan menyebar lintas skala perusahaan, bukan lagi terbatas pada satu dua nama BUMN karya saja. Yang akan menentukan apakah penyebaran ini mereda adalah hasil RUPS sukuk PTPP dan rapat kreditur Pos Indonesia pekan depan."
+   "judul": "Tekanan Utang Emiten Eskalasi dari Koreksi ke Pailit",
+   "isi": "Tekanan utang dan tata kelola yang Selasa masih berupa koreksi laporan keuangan berulang di Cashlez dan BIKE, melebar setiap hari berikutnya ke bentuk yang lebih berat. Rabu, PTPP ditolak pemegang obligasi dengan suara sampai 98,26 persen dan BUMA terpaksa meminta sendiri rapat pemegang obligasinya. Kamis, tiga usulan restrukturisasi PTPP gagal lagi karena dukungan 61 sampai 71 persen masih di bawah ambang 75 persen, sementara Fitch menurunkan peringkat sukuk Pos Indonesia ke D(idn) alias gagal bayar. Jumat, eskalasi ini mencapai titik baru, WIKA mengonfirmasi ekuitas anak usahanya WIKON minus Rp1,24 triliun, TOPS resmi dinyatakan pailit oleh pengadilan, dan BBKP mengonfirmasi rugi bersih berikut sanksi regulator yang sebelumnya tidak terbuka di laporan tahunannya sendiri. Dalam empat hari pola ini bergerak dari sekadar kesalahan pencatatan menjadi putusan hukum pailit dan status gagal bayar resmi, tanda tekanan yang makin sulit diselesaikan lewat negosiasi biasa. Yang akan menentukan apakah eskalasi ini berlanjut adalah sidang lanjutan PKPU WIKON pada 17 November soal legal standing gugatan, serta apakah WISL dan SMFP benar membayar obligasi yang jatuh tempo di tanggal yang sama."
   },
   {
-   "judul": "Pengendali Memperbesar Kendali Lewat Skema Nontunai",
-   "isi": "Rabu, penambahan modal yang tidak melibatkan publik secara proporsional terlihat di INPS, kepemilikan GIGP melonjak dari 65,86 persen menjadi 88,32 persen sementara porsi publik menyusut ke 8,25 persen, juga di BIPP dan BIKE yang dananya diserap pihak terafiliasi pengendali. Kamis pola ini berlanjut lewat instrumen nontunai, Danantara membayar hak rights issue GIAA dengan saham GMF AeroAsia bukan uang tunai, LAPD membalik ekuitasnya lewat inbreng aset tambang senilai Rp59,5 miliar dari pengendali, dan DOOH merencanakan rights issue 154,7 miliar lembar saham yang berpotensi mendilusi publik hingga 95,24 persen untuk melunasi utang Rp2 triliun ke pengendalinya sendiri. Arah ini konsisten menuju konsolidasi kendali yang makin terpusat di tangan pengendali dan pihak afiliasi, dengan ongkos dilusi yang ditanggung pemegang saham publik. Yang akan menjadi penentu adalah hasil RUPSLB DOOH dan LAPD, serta apakah peninjauan MSCI pekan depan menambah tekanan pada emiten dengan struktur kepemilikan yang kurang terbuka."
+   "judul": "IHSG Bertahan Naik Usai Lonjakan Politik",
+   "isi": "Kamis IHSG melonjak 2,66 persen ke 5.250,90 pada hari yang sama Wakil Presiden Gibran Rakabuming Raka mengumumkan mundur, dan edisi hari itu sendiri mencatat risiko koreksi balik kalau lonjakan ini cuma euforia sesaat. Sampai akhir pekan, risiko itu tidak terjadi, IHSG malah ditutup lebih tinggi lagi di 5.344,41, naik 1,78 persen dari titik lonjakan Kamis. Penguatan ini berbarengan dengan langkah Kemenko Perekonomian memanggil BEI, KPEI, KSEI, OJK, dan asosiasi emiten pada hari yang sama untuk mulai menyusun penguatan tata kelola pasar modal, meski ini masih berupa penghimpunan masukan tanpa aturan konkret. Rupiah justru bergerak berlawanan, melemah ke kisaran Rp18.190 sampai Rp18.239 pada Jumat sebelum berakhir pekan di Rp18.149, memperlihatkan bahwa kepercayaan yang membaik di pasar saham tidak otomatis menjalar ke pasar valuta asing. Arahnya untuk saat ini ke penguatan kepercayaan pasar modal yang bertahan lebih dari satu hari, dan yang akan mengujinya adalah apakah proses pengisian jabatan wakil presiden pengganti berjalan tanpa friksi baru yang bisa membalikkan sentimen ini."
   },
   {
-   "judul": "Tumbuh Ditopang Negara, Likuiditas Domestik Mendingin",
-   "isi": "Pertumbuhan ekonomi kuartal III 2026 naik ke 5,47 persen dari 5,29 persen pada kuartal sebelumnya, data yang dirilis Kamis, tapi kenaikan itu didorong belanja pemerintah yang melompat 8,95 persen, jauh di atas belanja rumah tangga yang hanya naik 5,04 persen. Jumat, tiga data lain membalik optimisme itu, pertumbuhan uang primer Bank Indonesia melambat dari 9,3 persen menjadi 7,0 persen, penjualan rumah primer terkontraksi 8,43 persen, dan cadangan devisa yang naik ke US$146,8 miliar diakui bank sentral sendiri ditopang pinjaman baru pemerintah dan penerimaan pajak, bukan ekspor, bersamaan rupiah yang melemah 2,82 persen. Sinyal daya beli kuat yang sempat terlihat Rabu lewat laba konsumen, Unilever Indonesia naik 26 persen dan Sekar Bumi naik 120,8 persen, jadi perlu dibaca ulang begitu data likuiditas dan properti Jumat muncul. Arahnya bergeser di tengah pekan, dari narasi permintaan domestik kuat menjadi gambaran bahwa angka makro terjaga oleh suntikan fiskal dan instrumen utang, sementara lapisan di bawahnya mendingin. Yang akan menegaskan arah ini adalah rilis ekspor-impor Oktober dari BPS serta data uang primer dan penyaluran KPR November dari Bank Indonesia."
+   "judul": "Ekspor Menguat dari Harga, Devisa Makin Diperketat",
+   "isi": "Kamis neraca dagang eksternal terlihat menguat dari banyak sisi sekaligus, ekspor UMKM binaan Kemendag melonjak ke US$360 juta dalam sembilan bulan 2026, neraca dagang nasional surplus US$3,36 miliar pada September, dan Bank Indonesia meresmikan bank kliring Renminbi yang didukung 12 bank nasional. Jumat data lanjutan menunjukkan sisi lain dari penguatan ini, ekspor sawit Januari-Oktober tembus US$28,84 miliar atau naik 16 persen, tapi volumenya cuma naik 6 persen, tanda tambahan devisa lebih banyak disumbang harga yang membaik ketimbang jumlah barang yang terjual. Sebaliknya harga patokan ekspor emas periode 15-30 November turun 2,02 persen menjadi US$130.075,60 per kilogram, yang langsung mengecilkan bea keluar yang bisa dipungut dari komoditas itu. Di tengah pola harga yang naik turun ini, pemerintah justru memperketat pegangannya atas devisa hasil ekspor sumber daya alam, batu bara, minyak nabati, dan ferroalloy wajib lewat Portal DSI mulai 2027, sementara aturan dana ekspor tambang yang wajib mengendap di bank dalam negeri sedang direvisi agar lebih luas. Dua hari ini bersama menunjukkan posisi dagang eksternal yang kuat di angka headline tapi rentan di komposisinya, karena bertumpu pada harga komoditas yang bisa berbalik arah kapan saja. Yang akan menguji ke mana arah ini berlanjut adalah isi revisi aturan devisa hasil ekspor tambang yang sedang disiapkan pemerintah serta apakah surplus dagang Oktober yang dirilis BPS awal Desember tetap menebal."
   }
  ],
  "menanti": [
   {
-   "tanggal": "2026-11-10",
-   "apa": "RUPS Sukuk PTPP, usul penundaan bagi hasil ke 2027",
-   "kenapa": "Keputusan hanya sah dengan kuorum tiga perempat pemegang sukuk, dan hasilnya menentukan apakah tekanan utang BUMN karya berhenti di negosiasi atau berlanjut ke gagal bayar resmi seperti WIKA, dengan efek lanjutan ke rekanan dan pemasok PTPP."
-  },
-  {
-   "tanggal": "2026-11-11",
-   "apa": "Peninjauan indeks MSCI usai CPIN dan GOTO dikeluarkan",
-   "kenapa": "Hasilnya menentukan apakah Indonesia hanya kena penyesuaian satu periode atau masuk status pengawasan berkelanjutan, yang bisa memengaruhi arus dana asing ke saham domestik."
-  },
-  {
-   "tanggal": "2026-11-14",
-   "apa": "Tinjauan ulang peringkat ADHI oleh PEFINDO ke idB",
-   "kenapa": "Menjadi penanda apakah tekanan kredit yang sudah menimpa WIKA dan PTPP ikut menjalar resmi ke ADHI, nama besar lain di konstruksi pelat merah."
-  },
-  {
-   "tanggal": "2026-11-15 (perkiraan)",
-   "apa": "Rilis data ekspor-impor Oktober dari BPS",
-   "kenapa": "Data ini akan menunjukkan apakah defisit migas yang melebar bulan lalu terus memberat atau mereda, penentu utama arah neraca dagang dan rupiah pekan-pekan berikutnya."
+   "tanggal": "2026-11-17",
+   "apa": "Sidang lanjutan PKPU WIKON soal legal standing gugatan",
+   "kenapa": "Hasilnya jadi penanda apakah tekanan utang yang sepekan ini merambat ke enam emiten berbeda mulai menyentuh grup usaha besar seperti WIKA, bukan lagi emiten kecil saja."
   },
   {
    "tanggal": "2026-11-17",
-   "apa": "Rapat kreditur obligasi dan sukuk Pos Indonesia",
-   "kenapa": "Pos Indonesia sudah dua kali membatalkan rapat pemegang obligasi karena audit belum tuntas, sehingga hasil pekan ini menentukan apakah BUMN tersebut mengikuti jejak WIKA ke status gagal bayar resmi."
+   "apa": "WISL (Rp500 miliar) dan SMFP (Rp2,95 triliun) jatuh tempo bayar obligasi",
+   "kenapa": "Ini uji langsung apakah dana yang sudah disiapkan benar cair tepat waktu, di pekan yang sama ketika emiten lain gagal memenuhi syarat serupa."
+  },
+  {
+   "tanggal": "2026-11-21",
+   "apa": "INKP lunasi obligasi-sukuk Rp1,04 triliun (rupiah 21 November, dolar 22 November)",
+   "kenapa": "Jadi pembanding apakah kemampuan bayar tepat waktu masih berlaku di emiten besar yang labanya sehat, di tengah pekan ketika sejumlah emiten lain tersendat."
+  },
+  {
+   "tanggal": "2026-11-23",
+   "apa": "WIKA jadwalkan RUPSU sukuk buntut gagal bayar kupon",
+   "kenapa": "Agenda ini membuka isi resmi negosiasi WIKA dengan pemegang sukuk setelah gagal bayar, penanda apakah tekanan di grup WIKA mereda atau makin dalam setelah sidang PKPU WIKON."
+  },
+  {
+   "tanggal": "2026-11-19",
+   "apa": "KTT APEC Economic Leaders Meeting di Shenzhen, 18-19 November",
+   "kenapa": "Forum ini jadi tempat pertama Indonesia menguji posisi dagangnya di depan mitra besar, setelah ekspor pekan ini tercatat tumbuh karena harga komoditas membaik, bukan karena volume bertambah."
   }
  ],
- "penutup": "Yang paling menentukan arah pekan depan adalah apakah RUPS sukuk PTPP dan rapat kreditur Pos Indonesia berakhir dengan kesepakatan restrukturisasi atau berlanjut ke status gagal bayar resmi seperti WIKA, karena itu akan menunjukkan apakah tekanan utang BUMN karya mulai terkendali atau justru menyebar lebih jauh.",
+ "penutup": "Yang paling menentukan arah pekan depan adalah sidang lanjutan PKPU WIKON pada 17 November, karena hasilnya menunjukkan apakah tekanan utang yang sepekan ini merambat dari emiten kecil ke grup konstruksi besar benar mulai menyebar lebih luas, atau berhenti di anak usaha saja.",
  "jumlahEdisi": 4,
- "jumlahBerita": 323,
- "dibuat": "2026-11-08T18:01:10.427Z"
+ "jumlahBerita": 287,
+ "dibuat": "2026-11-15T19:00:47.488Z"
 };

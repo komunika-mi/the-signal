@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila",
+  "category": "Energi",
+  "title": "ASEAN Sepakati Deklarasi [Mineral] Kritis di KTT Manila",
+  "deck": "KTT ke-49 ASEAN di Manila menyepakati deklarasi mineral kritis sebagai dasar kerja sama rantai nilai, dari eksplorasi hingga daur ulang, di kawasan Asia Tenggara.",
+  "date": "15 November 2026",
+  "image": "assets/img/asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila.jpg",
+  "imageV": "mwi189k4",
+  "tags": [
+   "ASEAN",
+   "mineral kritis",
+   "hilirisasi",
+   "KTT ASEAN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478524-indonesia-ambil-peran-strategis-dalam-deklarasi-mineral-kritis-asean"
+ },
+ {
   "slug": "20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir",
   "category": "UMKM",
   "title": "20 Produk UMKM Kurasi Kemendag Masuk Jaringan [Indogrosir]",
@@ -6483,22 +6500,6 @@ var ARTICLES = [
    "Pergantian Direktur"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3bd1e3577_2d4ffca573.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-akuisisi-90-saham-knj-rambah-bisnis-kapal-gas",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Akuisisi 90% Saham KNJ, Rambah Bisnis [Kapal Gas]",
-  "deck": "Anak usaha RAJA, PT Banawa Rezeki Optima, mengambil alih 90 persen saham PT Kapalindo Nusantara Jaya yang memegang saham di perusahaan pemilik kapal LNG Carrier dan VLGC.",
-  "date": "8 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "akuisisi",
-   "kapal gas",
-   "diversifikasi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7911b01de1_9d1f8b195b.pdf",
   "sourceLabel": "IDX"
  }
 ];

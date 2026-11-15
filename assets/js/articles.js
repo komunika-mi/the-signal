@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila",
+  "category": "Energi",
+  "title": "ASEAN Sepakati Deklarasi [Mineral] Kritis di KTT Manila",
+  "deck": "KTT ke-49 ASEAN di Manila menyepakati deklarasi mineral kritis sebagai dasar kerja sama rantai nilai, dari eksplorasi hingga daur ulang, di kawasan Asia Tenggara.",
+  "image": "assets/img/asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T20:48:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478524-indonesia-ambil-peran-strategis-dalam-deklarasi-mineral-kritis-asean",
+  "tags": [
+   "ASEAN",
+   "mineral kritis",
+   "hilirisasi",
+   "KTT ASEAN"
+  ],
+  "body": [
+   "Konferensi Tingkat Tinggi ke-49 ASEAN di Manila, Filipina, menyepakati Deklarasi Mineral Kritis ASEAN untuk Ketahanan Kawasan dan Pertumbuhan Berkelanjutan. Deklarasi ini jadi pijakan bagi negara anggota, termasuk Indonesia, untuk menata rantai nilai mineral kritis secara bersama, mulai dari pencarian tambang baru sampai daur ulang bahan bekas. Langkah ini penting karena kebutuhan dunia atas mineral strategis terus naik seiring berkembangnya teknologi dan transisi energi, dan ASEAN ingin kawasan ini tidak sekadar menjual bahan mentah tapi juga ikut mengolahnya.",
+   "Presiden Prabowo Subianto dalam pidatonya menyebut perebutan sumber daya alam sebagai salah satu tantangan global yang dihadapi ASEAN, selain tekanan ekonomi dan ketegangan hubungan antarnegara. Menurutnya, kekayaan alam, lahan subur, industri yang terus tumbuh, dan pasar domestik yang besar adalah modal bersama kawasan untuk saling menguatkan. \"Jika digabungkan, kekuatan-kekuatan ini dapat meningkatkan produksi regional, mengamankan cadangan pangan, dan menjamin pasokan energi yang andal. Namun, kita harus bekerja sama secara selaras,\" kata Presiden Prabowo Subianto.",
+   "Menko Hilirisasi dan Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyebut deklarasi ini sebagai pengakuan atas kekayaan mineral kritis ASEAN dan posisi kawasan sebagai penghasil, pengolah, sekaligus pemakai mineral tersebut. Negara anggota sepakat menyusun definisi bersama dan daftar mineral kritis yang bisa diperbarui dari waktu ke waktu, serta merumuskan Strategi Mineral Kritis ASEAN. \"Pembahasan tersebut sejalan dengan upaya ASEAN meningkatkan daya saing regional di tengah meningkatnya kebutuhan mineral strategis untuk pengembangan teknologi dan transisi energi,\" ujar Bahlil.",
+   "ASEAN juga berkomitmen menambah nilai olahan mineral, memperluas perdagangan antarnegara anggota, dan mencari lebih banyak sumber pasokan agar tidak bergantung pada satu tempat saja, disertai penguatan keterampilan tenaga kerja dan alih teknologi. Tindak lanjut deklarasi ini diserahkan kepada Pertemuan Tingkat Menteri ASEAN Bidang Mineral atau AMMin, yang bertugas menyusun dan menjalankan strategi tersebut serta melaporkan perkembangannya secara berkala. Pelaksanaannya akan berpedoman pada Prinsip ASEAN untuk Pembangunan Mineral Berkelanjutan."
+  ],
+  "fotoAdegan": "Workers inspecting stacked raw ore at an open-pit mining site, heavy trucks idling in the background, overcast tropical sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/15/6af9b77a4f2cc-indonesia-ambil-peran-strategis-dalam-deklarasi-mineral-kritis-asean_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang disepakati di Manila masih berupa kerangka bersama, bukan aturan yang langsung bisa dijalankan: negara ASEAN baru sepakat akan membuat daftar mineral yang dianggap kritis dan menyusun strateginya lewat pertemuan menteri mineral ASEAN atau AMMin. Pihak yang paling terkait adalah Indonesia, karena Kementerian ESDM yang juga mengurus hilirisasi, yaitu program mengolah hasil tambang di dalam negeri sebelum dijual ke luar, ikut merumuskan arah kerja sama ini. Yang belum ada dalam deklarasi ini adalah daftar pasti mineral yang termasuk kritis, target angka perdagangan antarnegara ASEAN, dan tenggat waktu kapan Strategi Mineral Kritis ASEAN itu harus selesai. Karena itu belum bisa dipastikan apakah kesepakatan ini akan berubah jadi aturan yang mengikat atau sekadar kerangka kerja sama tanpa konsekuensi. Yang perlu dipantau adalah hasil kerja AMMin, termasuk apakah daftar mineral kritis dan strategi turunannya benar-benar terbit dengan jadwal yang jelas.",
+  "imageV": "mwi189k4"
+ },
+ {
   "slug": "20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir",
   "category": "UMKM",
   "title": "20 Produk UMKM Kurasi Kemendag Masuk Jaringan [Indogrosir]",

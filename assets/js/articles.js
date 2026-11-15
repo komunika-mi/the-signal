@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila",
+  "category": "Energi",
+  "title": "ASEAN Adopsi [Deklarasi] Mineral Kritis di KTT Manila",
+  "deck": "Para pemimpin ASEAN mengadopsi deklarasi mineral kritis di KTT ke-49 Manila, menyepakati definisi dan daftar bersama serta strategi rantai pasok kawasan, dengan kerja sama bersifat sukarela.",
+  "image": "assets/img/asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T10:56:04.685Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/asean-adopsi-deklarasi-mineral-kritis-indonesia-dorong-penguatan-rantai-pasok-kawasan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ASEAN",
+   "Mineral Kritis",
+   "KTT ASEAN",
+   "ESDM"
+  ],
+  "body": [
+   "Para pemimpin negara ASEAN menyepakati Deklarasi Mineral Kritis ASEAN untuk Ketahanan Kawasan dan Pertumbuhan Berkelanjutan dalam Konferensi Tingkat Tinggi ke-49 ASEAN di Manila, Filipina. Deklarasi ini menjadi kerangka bagi negara anggota, termasuk Indonesia, untuk membangun rantai nilai mineral kritis secara bersama, mulai dari eksplorasi hingga daur ulang. Menteri Koordinator Bidang Hilirisasi dan Energi yang juga Menteri ESDM, Bahlil Lahadalia, yang mendampingi Presiden Prabowo Subianto dalam KTT tersebut, menyebut kerja sama ini penting untuk memperkuat ketahanan rantai pasok dan menopang pertumbuhan ekonomi kawasan di tengah naiknya kebutuhan mineral strategis untuk teknologi dan transisi energi.",
+   "Lewat deklarasi ini, ASEAN mengakui dirinya sebagai kawasan yang kaya mineral kritis sekaligus berperan sebagai produsen, pengolah, dan konsumen. Negara anggota sepakat menyusun definisi bersama serta daftar mineral kritis yang bisa diperbarui dari waktu ke waktu, yang akan menjadi dasar penyusunan Strategi Mineral Kritis ASEAN. Komitmen lain yang disepakati meliputi peningkatan nilai tambah di dalam kawasan, perluasan perdagangan antar negara ASEAN, diversifikasi sumber pasokan, serta penguatan inovasi, keterampilan pekerja, alih teknologi, dan daur ulang. Untuk menarik investasi publik dan swasta, ASEAN akan menyiapkan sejumlah proyek dan memanfaatkan dua platform yang sudah ada, yaitu forum investasi tahunan AMVest dan platform kerja sama AMConnect.",
+   "Dalam sesi pleno KTT, Presiden Prabowo Subianto menyebut perebutan sumber daya sebagai salah satu tantangan global yang dihadapi ASEAN, selain tekanan ekonomi dan ketegangan geopolitik. Menurutnya, kekayaan sumber daya alam, lahan produktif, pertumbuhan industri, dan pasar domestik yang besar adalah modal kawasan untuk memperkuat ketahanan bersama. Presiden Prabowo Subianto mengatakan, \"Jika digabungkan, kekuatan-kekuatan ini dapat meningkatkan produksi regional, mengamankan cadangan pangan, dan menjamin pasokan energi yang andal. Namun, kita harus bekerja sama secara selaras.\"",
+   "Tindak lanjut deklarasi ini diserahkan kepada Pertemuan Tingkat Menteri ASEAN Bidang Mineral atau AMMin, yang bertugas menyusun dan menjalankan strategi mineral kritis serta melaporkan perkembangannya secara berkala. Pelaksanaannya mengacu pada Prinsip ASEAN untuk Pembangunan Mineral Berkelanjutan, dan seluruh bentuk kerja sama bersifat sukarela serta tetap menghormati hukum nasional dan kondisi masing-masing negara anggota."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving extracted ore across a tropical open-pit mining site, workers in safety gear nearby, dusty afternoon light.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-asean-adopsi-deklarasi-mineral-kritis-indonesia-dorong-penguatan-rantai-pasok-kawasan-t1tteq6.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah dari KTT ini adalah kesepakatan membuat definisi dan daftar mineral kritis yang sama di seluruh ASEAN, sebagai dasar Strategi Mineral Kritis ASEAN yang masih harus disusun oleh pertemuan menteri mineral kawasan atau AMMin. Pihak yang paling berkepentingan adalah pelaku usaha pertambangan dan hilirisasi di Indonesia, karena daftar dan aturan bersama ini kelak bisa memengaruhi bagaimana mineral strategis diperdagangkan dan diolah di tingkat regional. Namun deklarasi ini sendiri belum memuat daftar mineral, target angka, atau tenggat waktu, dan sifatnya sukarela serta tetap tunduk pada hukum masing-masing negara, sehingga belum jelas apakah kerja sama ini akan mengikat atau sekadar kerangka longgar. Yang perlu ditunggu adalah hasil kerja AMMin menyusun Strategi Mineral Kritis ASEAN beserta daftar resmi mineralnya, karena di situlah akan terlihat apakah kesepakatan ini membawa perubahan nyata bagi rantai pasok dan investasi mineral di kawasan.",
+  "imageV": "mwhq4fp2"
+ },
+ {
+  "slug": "brilink-agen-di-medan-jadi-sumber-penghidupan-warga",
+  "category": "Perbankan",
+  "title": "BRILink Agen di Medan Jadi Sumber [Penghidupan] Warga",
+  "deck": "Satu agen BRILink di Medan Perjuangan kini meraup omzet belasan juta rupiah sebulan, melayani transfer, tagihan, hingga penyaluran bantuan pangan bagi warga sekitar.",
+  "image": "assets/img/brilink-agen-di-medan-jadi-sumber-penghidupan-warga.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T17:50:20+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478507-brilink-agen-berkah-nasution-di-medan-bantu-tingkatkan-penghidupan-warga",
+  "tags": [
+   "BRILink",
+   "BRI",
+   "Medan",
+   "agen bank"
+  ],
+  "body": [
+   "Sebuah agen BRILink di Jalan Sentosa Baru, Kecamatan Medan Perjuangan, Kota Medan, kini menjadi tempat warga sekitar mengurus kebutuhan transaksi perbankan tanpa harus pergi ke kantor cabang. Usaha ini dijalankan Muhammad Khoiruddin Nasution, yang awalnya hanya meneruskan toko sembako milik mertuanya sebelum melihat peluang dari kebutuhan masyarakat akan layanan keuangan yang lebih dekat dan praktis. Kisah ini relevan karena menggambarkan bagaimana layanan perbankan bisa menjangkau warga di tingkat kampung lewat agen perorangan, bukan hanya lewat kantor cabang bank.",
+   "Sebelum membuka usahanya, Khoiruddin sehari-hari bekerja sebagai sopir taksi online. Pada 2020, bertepatan dengan masa pandemi, ia memutuskan membuka toko sembako sekaligus mendaftar sebagai agen BRILink di Medan Perjuangan. Keuntungan dari toko dan pendapatannya sebagai sopir taksi online ia sisihkan sebagian untuk menambah modal usaha agen tersebut.",
+   "Seiring waktu, kepercayaan warga terhadap layanan Khoiruddin terus bertambah, tercermin dari makin beragamnya transaksi yang dilayani, mulai dari transfer uang, tarik tunai, pembayaran tagihan listrik dan air, sampai bantuan pembukaan rekening bank secara online. Usaha itu kini membukukan omzet belasan juta rupiah per bulan, dengan potensi naik lagi setelah Khoiruddin juga ikut menyalurkan Bantuan Pangan Nontunai (BPNT) berupa sembako kepada warga penerima manfaat di sekitarnya."
+  ],
+  "fotoAdegan": "Wide shot of a modest neighborhood sembako shop counter in Medan with a customer paying cash, shelves stocked with daily goods, warm morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/15/6af98c94bc6b8-dulu-sopir-taksi-online-khoiruddin-kini-raup-omzet-belasan-juta-dari-bisnis-brilink_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini skalanya kecil: satu agen BRILink di Medan Perjuangan naik kelas dari warung sembako jadi titik layanan keuangan, dengan omzet sekarang belasan juta rupiah sebulan, dan belakangan juga jadi tempat pengambilan bantuan pangan nontunai bagi warga sekitar. Yang terdampak jelas warga di sekitar Jalan Sentosa Baru, Medan Perjuangan, yang bisa transfer uang, tarik tunai, bayar listrik dan air, atau buka rekening tanpa harus ke kantor cabang bank, termasuk penerima bantuan pangan yang kini bisa mengambilnya lewat agen ini. Satu cerita agen seperti ini belum cukup untuk menyimpulkan apakah warga di banyak daerah lain memang makin mengandalkan agen semacam ini ketimbang kantor cabang, sebab berita ini tidak menyebut berapa jumlah agen BRILink BRI secara keseluruhan atau seberapa besar porsi transaksi yang lewat agen dibanding kantor cabang. Yang masih dibutuhkan untuk melihat arah sebenarnya adalah data jaringan agen BRILink secara nasional dari BRI, bukan kisah satu agen saja.",
+  "imageV": "mwhq4g65"
+ },
+ {
   "slug": "ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid",
   "category": "Energi",
   "title": "RI Tekankan Prinsip [Saling Menguntungkan] di ASEAN Power Grid",

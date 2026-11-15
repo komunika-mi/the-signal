@@ -5,6 +5,41 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila",
+  "category": "Energi",
+  "title": "ASEAN Adopsi [Deklarasi] Mineral Kritis di KTT Manila",
+  "deck": "Para pemimpin ASEAN mengadopsi deklarasi mineral kritis di KTT ke-49 Manila, menyepakati definisi dan daftar bersama serta strategi rantai pasok kawasan, dengan kerja sama bersifat sukarela.",
+  "date": "15 November 2026",
+  "image": "assets/img/asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila.jpg",
+  "imageV": "mwhq4fp2",
+  "tags": [
+   "ASEAN",
+   "Mineral Kritis",
+   "KTT ASEAN",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/asean-adopsi-deklarasi-mineral-kritis-indonesia-dorong-penguatan-rantai-pasok-kawasan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "brilink-agen-di-medan-jadi-sumber-penghidupan-warga",
+  "category": "Perbankan",
+  "title": "BRILink Agen di Medan Jadi Sumber [Penghidupan] Warga",
+  "deck": "Satu agen BRILink di Medan Perjuangan kini meraup omzet belasan juta rupiah sebulan, melayani transfer, tagihan, hingga penyaluran bantuan pangan bagi warga sekitar.",
+  "date": "15 November 2026",
+  "image": "assets/img/brilink-agen-di-medan-jadi-sumber-penghidupan-warga.jpg",
+  "imageV": "mwhq4g65",
+  "tags": [
+   "BRILink",
+   "BRI",
+   "Medan",
+   "agen bank"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478507-brilink-agen-berkah-nasution-di-medan-bantu-tingkatkan-penghidupan-warga"
+ },
+ {
   "slug": "ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid",
   "category": "Energi",
   "title": "RI Tekankan Prinsip [Saling Menguntungkan] di ASEAN Power Grid",
@@ -6463,39 +6498,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477242-indonesia-didorong-ambil-peran-ekonomi-strategis-jelang-ktt-apec-2026"
- },
- {
-  "slug": "ri-klaim-dua-tahun-tanpa-impor-beras-di-krisis-pangan-global",
-  "category": "Makroekonomi",
-  "title": "RI Klaim [Dua] Tahun Tanpa Impor Beras di Krisis Pangan Global",
-  "deck": "Mentan Andi Amran Sulaiman menyebut Indonesia tak impor beras dua tahun berturut-turut, di tengah krisis pangan dan energi global serta proteksionisme sejumlah negara.",
-  "date": "8 November 2026",
-  "image": "assets/img/ri-klaim-dua-tahun-tanpa-impor-beras-di-krisis-pangan-global.jpg",
-  "imageV": "mw7oc05g",
-  "tags": [
-   "beras",
-   "pangan",
-   "impor",
-   "pertanian"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477241-dua-tahun-tanpa-impor-beras-mentan-amran-sebut-ketahanan-pangan-indonesia-terjaga-di-tengah-krisis-global"
- },
- {
-  "slug": "bri-dorong-ekonomi-petani-alpukat-sumberejo",
-  "category": "UMKM",
-  "title": "BRI [Dorong] Ekonomi Petani Alpukat Sumberejo",
-  "deck": "Lewat program Klasterku Hidupku, BRI membantu petani alpukat di Sumberejo, Lampung, membangun jaringan pemasaran bersama hingga ke pasar induk.",
-  "date": "8 November 2026",
-  "image": "assets/img/bri-dorong-ekonomi-petani-alpukat-sumberejo.jpg",
-  "imageV": "mw7oc0jw",
-  "tags": [
-   "BRI",
-   "Klasterku Hidupku",
-   "petani alpukat",
-   "Lampung"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477236-lewat-klasterku-hidupku-bri-dorong-peningkatan-ekonomi-petani-alpukat-di-sumberejo"
  }
 ];

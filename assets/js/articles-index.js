@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak",
+  "category": "Industri",
+  "title": "Pupuk Indonesia Rancang Pabrik Amonia [Rendah Karbon] di Fakfak",
+  "deck": "Pupuk Indonesia menggandeng Topsoe dari Denmark untuk merancang pabrik amonia-urea baru di Fakfak, Papua Barat, dengan teknologi rendah emisi.",
+  "date": "16 November 2026",
+  "image": "assets/img/pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak.jpg",
+  "imageV": "mwj5uc12",
+  "tags": [
+   "Pupuk Indonesia",
+   "Fakfak",
+   "Amonia Rendah Karbon",
+   "Topsoe"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/912/pupuk-indonesia-dan-topsoe-kembangkan-proyek-amonia-rendah-karbon-untuk-memperkuat-ambisi-indonesia-di-industri-petrokimia-global",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "saksi-tender-pengelola-pasar-ciparay-tak-diumumkan",
+  "category": "Bisnis",
+  "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
+  "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
+  "date": "16 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "KPPU",
+   "Pasar Ciparay",
+   "Persaingan Usaha",
+   "Kabupaten Bandung"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/sidang-kppu-dalami-transparansi-pemilihan-pengelola-revitalisasi-pasar-ciparay",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "aturan-baru-djp-hapus-sanksi-administratif-wajib-pajak",
+  "category": "Makroekonomi",
+  "title": "Aturan Baru DJP [Hapus] Sanksi Administratif Wajib Pajak",
+  "deck": "Ditjen Pajak menerbitkan PMK-71/2026 yang membuka fasilitas penghapusan sanksi administratif bagi wajib pajak, disosialisasikan lewat Kanwil DJP Sumatera Utara I.",
+  "date": "16 November 2026",
+  "image": "assets/img/aturan-baru-djp-hapus-sanksi-administratif-wajib-pajak.jpg",
+  "imageV": "mwj5udvz",
+  "tags": [
+   "Pajak",
+   "DJP",
+   "Sanksi Administratif",
+   "Sumatera Utara"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-sumut-i-perkuat-sinergi-dengan-media-dan-sosialisasikan-pmk-712026-tentang",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "bpdp-satukan-program-peremajaan-sawit-dan-biodiesel",
+  "category": "Industri",
+  "title": "BPDP Satukan Program [Peremajaan] Sawit dan Biodiesel",
+  "deck": "BPDP menyebut peremajaan sawit rakyat dan program biodiesel saling menopang untuk menjaga pasokan sawit bagi kebutuhan pangan dan energi nasional.",
+  "date": "16 November 2026",
+  "image": "assets/img/bpdp-satukan-program-peremajaan-sawit-dan-biodiesel.jpg",
+  "imageV": "mwj5ueaw",
+  "tags": [
+   "sawit",
+   "biodiesel",
+   "BPDP",
+   "PSR"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478657-perkuat-industri-sawit-bpdp-integrasikan-program-psr-dan-biodiesel"
+ },
+ {
   "slug": "enrg-teken-pinjaman-us-220-juta-danai-penyertaan-modal-di-as",
   "category": "Aksi Korporasi",
   "title": "ENRG Teken Pinjaman US$220 Juta: Danai [Penyertaan Modal] di AS",
@@ -6442,70 +6511,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bdfbc9b79c_1ddf360451.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bvic-lunasi-obligasi-subordinasi-rp150-miliar-jatuh-tempo",
-  "category": "Aksi Korporasi",
-  "title": "BVIC Lunasi [Obligasi] Subordinasi Rp150 Miliar Jatuh Tempo",
-  "deck": "Obligasi Subordinasi Berkelanjutan II Bank Victoria Tahap II Tahun 2019 senilai Rp150 miliar jatuh tempo 8 November 2026 dan delisting dari BEI mulai 9 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BVIC",
-   "obligasi subordinasi",
-   "perbankan",
-   "jatuh tempo obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c22d2e603e_32b6aebf43.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pjhb-catat-tambahan-saham-dari-konversi-waran-seri-i",
-  "category": "Aksi Korporasi",
-  "title": "PJHB catat tambahan saham dari konversi [waran] Seri I",
-  "deck": "Bursa mencatat 10.355 saham baru hasil konversi Waran Seri I PJHB, sehingga total saham beredar naik menjadi 1.921.346.333 lembar.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PJHB",
-   "waran",
-   "pencatatan saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/13e81cc6e2_8e01cdd2b0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-dirut-wadirut-dan-komut-mundur-bersamaan",
-  "category": "Aksi Korporasi",
-  "title": "VTNY: Dirut, Wadirut, dan Komut [Mundur] Bersamaan",
-  "deck": "Direktur Utama, Wakil Direktur Utama, dan Komisaris Utama VTNY mengajukan pengunduran diri pada 5 November 2026, keputusan final menunggu persetujuan RUPSLB pada 23 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "pengunduran diri direksi",
-   "tata kelola perusahaan",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d6fd453474_25faeb8853.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "VTNY Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
-  "deck": "VTNY mengoreksi panggilan RUPSLB 23 November 2026 yang mengagendakan persetujuan perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a4500b13c_e7721d1c2a.pdf",
   "sourceLabel": "IDX"
  }
 ];

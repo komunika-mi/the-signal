@@ -3,6 +3,131 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "private-placement-mbma-free-float-turun-ke-24-06",
+  "category": "Aksi Korporasi",
+  "title": "Private Placement MBMA: [Free Float] Turun ke 24,06%",
+  "deck": "MBMA menjawab permintaan penjelasan Bursa soal private placement hingga 10,8 miliar saham: harga dan calon investor belum ditentukan, free float diperkirakan turun dari 26,47% ke 24,06%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T22:22:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/85c2d38433_2a249426c7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "private placement",
+   "free float",
+   "PMTHMETD"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) menjawab surat permintaan penjelasan Bursa Efek Indonesia No. S-14095/BEI.PP1/11-2026 tanggal 11 November 2026 terkait rencana penambahan modal tanpa hak memesan efek terlebih dahulu (private placement) sebanyak-banyaknya 10.799.541.990 saham baru. Dalam surat tanggapan bernomor 181/MBM-JKT/CORSEC/XI/2026 tertanggal 16 November 2026 yang diteken Teddy Nuryanto Oetomo selaku Direktur Utama sekaligus Sekretaris Perusahaan, MBMA menyatakan belum bisa memastikan harga pelaksanaan, bentuk penyetoran saham, maupun identitas calon investor karena skema dan calon pemodalnya belum ditentukan.",
+   "Mengacu pada Laporan Bulanan Registrasi Pemegang Efek per 31 Oktober 2026, saham free float MBMA saat ini tercatat 28.582.493.385 saham atau 26,47 persen dari total 107.995.419.900 saham yang tercatat di BEI. Perseroan membuat simulasi, jika seluruh 10.799.541.990 saham baru diambil oleh satu investor yang tidak berafiliasi dengan pengendali, direksi, maupun komisaris, jumlah saham free float tetap 28.582.493.385 saham, tetapi porsinya turun menjadi 24,06 persen karena total saham tercatat membesar menjadi 118.794.961.890 saham dan kepemilikan investor baru itu sendiri sudah di atas 5 persen sehingga tidak dihitung sebagai saham publik. Soal harga, Perseroan menegaskan penetapannya akan mengacu pada aturan BEI yang mewajibkan harga pelaksanaan paling rendah 90 persen dari rata-rata harga penutupan saham MBMA selama 25 hari bursa berturut-turut sebelum tanggal permohonan pencatatan saham baru.",
+   "Terkait identitas investor, Perseroan menyatakan sampai surat ini disampaikan belum ada calon pemodal yang menyatakan minat atau komitmen mengambil bagian dalam penerbitan saham baru tersebut, sehingga belum ada negosiasi lanjutan maupun kepastian soal hubungan afiliasi dengan Perseroan. Soal waktu pelaksanaan, Perseroan hanya menegaskan rencana ini akan dijalankan paling lama dua tahun sejak tanggal RUPS yang menyetujuinya, menyesuaikan kebutuhan pendanaan dan strategi usaha Grup Perseroan. MBMA juga menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik selain yang sudah disampaikan sejauh ini."
+  ],
+  "fotoAdegan": "Workers inspecting stacked nickel ore stockpiles at an open pit mine, overcast sky, heavy equipment in the background",
+  "takeaway": "Jawaban ini bersifat netral bagi pemegang saham. Isinya tidak mengubah risiko dilusi dari rencana private placement yang sudah diumumkan sebelumnya, karena harga dan calon investor memang belum bisa dipastikan, tapi aturan bursa membatasi harga pelaksanaan paling rendah 90 persen dari rata-rata harga saham 25 hari sebelumnya sehingga diskonnya tidak akan terlalu dalam. Yang tersentuh adalah porsi saham free float, yaitu saham yang benar-benar beredar bebas di tangan publik dan tidak dikuasai pengendali atau pihak terafiliasi. Menurut simulasi Perseroan, porsi ini turun dari 26,47 persen menjadi 24,06 persen setelah saham baru diterbitkan, karena saham baru itu diasumsikan jatuh ke satu investor besar yang kepemilikannya sendiri sudah di atas 5 persen sehingga tidak terhitung sebagai saham publik. Yang perlu dipantau berikutnya adalah RUPSLB yang akan menyetujui rencana ini, serta pengumuman resmi harga dan identitas investor begitu Perseroan menentukannya, mengingat pelaksanaannya bisa berlangsung hingga dua tahun sejak RUPSLB disetujui.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "public-expose-indy-19-nov-laba-bersih-9m26-naik-ke-us-20-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose INDY 19 Nov: [Laba Bersih] 9M26 Naik ke US$20,2 Juta",
+  "deck": "Materi Public Expose Tahunan INDY menunjukkan laba bersih 9M26 melonjak ke US$20,2 juta dari US$0,5 juta, ditopang harga batu bara dan bisnis non-batubara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T22:22:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbc2a1569d_af6519b4cf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDY",
+  "tags": [
+   "INDY",
+   "Public Expose",
+   "Kinerja Keuangan",
+   "Awak Mas"
+  ],
+  "body": [
+   "PT Indika Energy Tbk menyampaikan materi Public Expose Tahunan ke Bursa Efek Indonesia pada 16 November 2026, menjelang acara paparan publik yang dijadwalkan 19 November 2026. Materi itu memuat kinerja sembilan bulan 2026 (9M26): pendapatan naik 27,7 persen menjadi US$1.842,3 juta dari US$1.443,0 juta pada periode sama tahun lalu, laba kotor naik 44,6 persen menjadi US$280,1 juta, dan laba bersih yang diatribusikan ke pemilik induk melonjak menjadi US$20,2 juta dari hanya US$0,5 juta. Laba usaha naik 92,6 persen menjadi US$155,9 juta karena beban penjualan, umum, dan administrasi hanya tumbuh 10,1 persen, jauh di bawah laju pendapatan.",
+   "Kideco, anak usaha tambang batu bara, tetap jadi penyumbang utama dengan pendapatan US$1.345,6 juta (naik 16,8 persen), ditopang harga jual rata-rata FOB yang naik 14,0 persen menjadi US$56,3 per ton dan EBITDA yang naik 68,8 persen menjadi US$201,7 juta. Volume produksi batu bara Kideco naik 5,9 persen menjadi 23,5 juta ton. Di luar Kideco, Tripatra (jasa EPC) mencatat pendapatan US$289,7 juta (naik 64,4 persen) dan Interport (logistik BBM dan pelabuhan) US$137,2 juta (naik 47,4 persen), dengan volume penjualan BBM Interport naik 4,1 kali lipat menjadi 60,0 ribu kiloliter. Kontribusi pendapatan non-batubara terhadap total naik menjadi 23,1 persen dari 19,2 persen pada 9M25.",
+   "Dari sisi keuangan, total aset naik 11,8 persen menjadi US$3.279,3 juta per September 2026, sementara total liabilitas naik 19,7 persen, termasuk tambahan penerbitan obligasi (tap issuance) senilai US$100 juta. Total kas konsolidasi tercatat US$664,9 juta dan total utang konsolidasi US$1.250 juta. Belanja modal 9M26 mencapai US$146,7 juta dari anggaran tahunan US$380,4 juta, dengan porsi terbesar US$127,6 juta mengalir ke proyek tambang emas Awak Mas di Luwu, Sulawesi Selatan, yang dikerjakan lewat anak usaha Masmindo Dwi Area. Konstruksi Awak Mas sudah mencapai 72,8 persen dengan realisasi biaya proyek US$398 juta dari total US$568 juta, menyasar produksi komersial pada semester satu 2027, seiring harga emas yang mencapai US$4.358 per ons pada September 2026."
+  ],
+  "fotoAdegan": "Workers inspecting heavy mining equipment at an open-pit coal mine, dusty haul road, overcast sky, wide shot",
+  "takeaway": "Laporan paparan publik ini condong positif bagi INDY, karena laba bersih sembilan bulan 2026 melonjak ke US$20,2 juta dari hanya US$0,5 juta setahun sebelumnya, ditopang kenaikan harga jual batu bara Kideco dan pertumbuhan bisnis non-batubara. Pos yang bergerak adalah margin laba usaha, yang naik ke 8,5 persen dari 5,6 persen karena beban operasional tumbuh lebih lambat dari pendapatan, serta jumlah utang perusahaan yang naik 19,7 persen, termasuk tambahan obligasi US$100 juta untuk membiayai ekspansi seperti proyek emas Awak Mas. Yang perlu dipantau adalah pelaksanaan Public Expose pada 19 November 2026, tempat manajemen akan menjawab langsung pertanyaan investor, serta kelanjutan sengketa lahan di Masmindo Dwi Area, anak usaha yang sama yang kini membangun proyek Awak Mas senilai US$568 juta, karena sengketa itu berpotensi mengganggu target produksi komersial pada semester satu 2027.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Pelaksanaan Public Expose Tahunan INDY"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-flmc-18-november-penambahan-kbli-jadi-perusahaan-induk",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 18 November: [Penambahan KBLI] Jadi Perusahaan Induk",
+  "deck": "FLMC berencana menambah KBLI Aktivitas Perusahaan Induk untuk menaungi anak usaha distribusi baru, modal awal sekitar Rp4 miliar, diputuskan lewat RUPSLB 18 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T22:21:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/152ee22e6c_ca33bf049c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "KBLI",
+   "perubahan kegiatan usaha"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) berencana menambahkan klasifikasi usaha baru, yaitu KBLI 64210 Aktivitas Perusahaan Induk, ke dalam anggaran dasarnya. Penambahan ini disiapkan agar FLMC bisa berperan sebagai induk usaha yang menaungi rencana pembentukan anak usaha di bidang perdagangan dan distribusi produk tisu basah serta kain nonwoven milik perusahaan. Rencana ini harus mendapat persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 18 November 2026, dan setelah disetujui masih memerlukan pengesahan dari Kementerian Hukum atas perubahan anggaran dasar, tanpa perlu izin dari kreditur atau pihak ketiga lain. Perseroan memperkirakan modal awal yang akan disetor ke anak usaha itu sekitar Rp4 miliar, bersumber dari kas internal perusahaan.",
+   "Alasan di balik rencana ini: saat ini produk FLMC dijual mayoritas lewat distributor di Pulau Jawa dan berbagai platform penjualan, sehingga perusahaan ingin punya kendali lebih kuat atas kanal distribusinya sendiri. Perseroan sempat mengalami tekanan pendapatan pada 2025 dan sudah melakukan efisiensi serta memindahkan operasional pabrik ke Boyolali sejak Juli 2024. Studi kelayakan atas rencana ini disusun oleh Kantor Jasa Penilai Publik Areyanti, Zainab dan Rekan, ditandatangani penilai Ir. Siti Zainab, sesuai ketentuan POJK Nomor 17/2020 tentang transaksi material dan perubahan kegiatan usaha. Tanggal efektif analisisnya 30 Juni 2026 dan berlaku sampai 31 Desember 2026, merupakan revisi dari laporan sebelumnya tertanggal 2 November 2026 menyusul permintaan tambahan tanggapan dari Otoritas Jasa Keuangan pada 26 Oktober 2026.",
+   "Dokumen ini juga mengungkap gugatan perdata yang masih berjalan di Pengadilan Negeri Jakarta Selatan dengan nomor perkara 1418/Pdt.G/2025/PN.Jkt.Sel. Penggugat bernama Michael Rusli menuntut penyerahan 655.000.000 saham FLMC, setara 83,84 persen dari total saham beredar, senilai Rp25,5 miliar, setelah sebelumnya membayar uang muka Rp2,5 miliar kepada sejumlah pemegang saham penjual, termasuk Presiden Direktur Rosalina Indra Wirawati dan Presiden Komisaris Theresia Indra Wirawan. Perseroan menegaskan bukan pihak dalam perjanjian jual beli saham tersebut dan menyatakan kasus ini tidak berdampak pada operasional maupun rencana penambahan kegiatan usaha. Dokumen juga mencatat perubahan pada daftar pemegang saham: per 30 Oktober 2026 kepemilikan Falmaco Pte Ltd turun dari 25,23 persen menjadi 2,89 persen, sementara nama baru, Hans Saputra, tercatat memiliki 7,88 persen saham FLMC."
+  ],
+  "fotoAdegan": "Workers stacking rolls of nonwoven fabric onto pallets inside a bright industrial warehouse, forklift nearby",
+  "takeaway": "Laporan ini condong netral, karena perubahan statusnya bersifat organisasional, FLMC baru menambah izin menjadi perusahaan induk dan belum benar-benar menjalankan bisnis distribusi, dengan dana yang dipakai hanya sekitar Rp4 miliar dari kas sendiri tanpa utang baru atau penerbitan saham baru. Yang tersentuh cuma arus kas, yakni uang tunai yang keluar dari kas perusahaan untuk modal anak usaha, sementara jumlah saham beredar tidak bertambah sehingga laba per saham, yaitu porsi laba yang jadi hak setiap pemegang saham, tidak ikut terdilusi. Di luar rencana KBLI ini, tetap ada gugatan sengketa jual beli 83,84 persen saham FLMC yang belum diputus pengadilan, meski perusahaan menyatakan dirinya bukan pihak dalam perjanjian tersebut. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 November 2026, karena di situ pemegang saham baru akan memutuskan apakah penambahan kegiatan usaha ini disetujui, dan setelah itu masih menunggu pengesahan Kementerian Hukum sebelum anggaran dasar resmi berubah.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi Penambahan Klasifikasi Baku Lapangan Usaha Indonesia ( KBLI )",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "RUPSLB memutuskan persetujuan penambahan KBLI Perusahaan Induk"
+   },
+   {
+    "tanggal": "2026-12-31",
+    "acara": "Masa berlaku laporan studi kelayakan KBLI berakhir"
+   }
+  ]
+ },
+ {
+  "slug": "indy-jawab-bursa-sengketa-lahan-masmindo-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "INDY Jawab Bursa: Sengketa Lahan Masmindo [Tak Material]",
+  "deck": "INDY sebut sengketa lahan Masmindo di Luwu belum material, nilai kompensasi lahan yang disengketakan kurang dari 1 persen aset konsolidasian perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T22:21:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feca24d19b_3dcb12a583.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INDY",
+  "tags": [
+   "INDY",
+   "Masmindo Dwi Area",
+   "sengketa lahan",
+   "Awak Mas"
+  ],
+  "body": [
+   "PT Indika Energy Tbk (INDY) menyampaikan penjelasan koreksi kepada Bursa Efek Indonesia terkait sengketa lahan di anak usahanya, PT Masmindo Dwi Area (MDA), yang mengelola proyek tambang emas Awak Mas di Luwu, Sulawesi Selatan. Surat tertanggal 16 November 2026 ini mengoreksi tanggapan awal INDY pada 9 November 2026, setelah Bursa meminta penjelasan atas pemberitaan media pada 31 Oktober 2026 mengenai penerbitan Surat Pemberitahuan Perkembangan Hasil Penyidikan (SP2HP) terkait aduan lahan oleh warga. INDY dan MDA menyatakan hanya mengetahui adanya Laporan Polisi tertanggal 19 Oktober 2026 dan SP2HP tertanggal 30 Oktober 2026 itu dari pemberitaan media, dan sampai saat surat ini dibuat belum menerima surat panggilan maupun permintaan klarifikasi resmi dari Kepolisian Daerah Sulawesi Selatan.",
+   "Sengketa berpusat pada klaim lahan seluas sekitar 309 hektare di Desa Rante Balla, bagian dari total kebutuhan lahan proyek Awak Mas yang mencapai sekitar 1.570 hektare. MDA menjelaskan, dari seluruh lahan proyek, sekitar 93 persen sudah dikompensasi dan 7 persen masih dalam proses. Khusus untuk lahan yang diklaim seluas 309 hektare itu, sekitar 97 persen sudah dikompensasi dan hanya 3 persen yang masih diproses. Perusahaan menegaskan kompensasi selama ini dibayarkan kepada warga yang secara fisik menguasai lahan dan memiliki dokumen pendukung terverifikasi, sementara pihak yang mengklaim saat ini mendasarkan tuntutannya pada Surat Keterangan Tanah versi adat, sehingga menurut INDY akar masalahnya adalah klaim kepemilikan, bukan kegagalan membayar kompensasi.",
+   "Soal dampak ke bisnis, INDY menyebut progres konstruksi proyek Awak Mas secara keseluruhan sudah mencapai 72,84 persen per 30 September 2026, dengan uji coba produksi ditargetkan mulai Desember 2026 dan produksi emas pertama pada semester I 2027. Perusahaan menyatakan sengketa lahan ini tidak mengubah jadwal maupun kebutuhan pendanaan proyek, serta nilai kompensasi untuk seluruh lahan yang diklaim kurang dari 1 persen dari total aset konsolidasian INDY per akhir September 2026. INDY juga menyebut belum ada gugatan perdata, putusan pengadilan, panggilan dari aparat hukum, maupun sanksi administratif dari Kementerian ESDM terkait sengketa ini, dan Kontrak Karya MDA tetap berlaku. Mengacu pada kesimpulan rapat Komisi III DPR RI pada 11 November 2026, penyelesaian klaim akan ditempuh lewat mediasi sebelum opsi hukum lain, dan MDA sejauh ini sudah berkoordinasi dengan pemerintah daerah, kantor pertanahan, serta kepolisian setempat untuk mempersiapkan proses itu."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting heavy machinery at a hillside gold mine construction site, overcast tropical sky",
+  "takeaway": "Laporan ini kami nilai netral bagi INDY karena isinya menenangkan kekhawatiran pasar tanpa menghilangkan sengketa itu sendiri: perusahaan menegaskan nilai kompensasi lahan yang disengketakan kurang dari 1 persen dari total aset gabungan perusahaan, sehingga dampaknya ke kekayaan perusahaan tergolong kecil. Yang tersentuh di sini adalah pos aset dan kelangsungan usaha, yakni kemampuan perusahaan terus beroperasi tanpa gangguan keuangan besar, dan pelaku pasar memperhatikannya karena proyek tambang emas Awak Mas ini jadi salah satu mesin pertumbuhan baru INDY. Progres konstruksi 72,84 persen yang diklaim tidak terganggu juga berarti target produksi belum mundur, hal yang penting karena kemunduran proyek biasanya berarti pendapatan baru ikut tertunda. Yang perlu dipantau selanjutnya adalah hasil mediasi atas klaim lahan ini, serta apakah uji coba produksi pada Desember 2026 dan produksi emas pertama pada semester I 2027 benar terwujud sesuai jadwal.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (KOREKSI)"
+ },
+ {
   "slug": "axio-targetkan-pendapatan-2026-rp2-18-triliun-tumbuh-34",
   "category": "Aksi Korporasi",
   "title": "AXIO Targetkan Pendapatan 2026 Rp2,18 Triliun, [Tumbuh] 34%",
@@ -278,6 +403,33 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sidang ini adalah terkuaknya bahwa PT Pradasa dipilih sebagai pengelola revitalisasi Pasar Ciparay tanpa pengumuman yang bisa diakses publik, bahkan unit pengadaan barang/jasa Kabupaten Bandung sendiri baru mengetahui prosesnya setelah diperiksa KPPU. Yang terdampak langsung adalah pedagang Pasar Ciparay yang harus direlokasi dan menanggung biaya sewa baru tanpa pernah tahu bagaimana pengelola proyek itu dipilih, serta PT Pradasa yang kini menjadi pihak yang diperiksa dalam perkara ini. Pola yang muncul dari dua saksi mengarah pada dugaan bahwa pemilihan pengelola berjalan lewat jalur informal antara pemerintah desa dan segelintir pihak, tanpa melalui pengawasan pengadaan resmi kabupaten. Yang akan menentukan apakah dugaan ini terbukti sebagai pelanggaran adalah kesaksian investigator KPPU pada sidang lanjutan, Kamis 19 November 2026, yang biasanya memuat bukti inti hasil penyelidikan."
+ },
+ {
+  "slug": "visi-david-dwiputra-tambah-525-700-saham-hak-suara-0-0288",
+  "category": "Aksi Korporasi",
+  "title": "VISI: David Dwiputra [Tambah] 525.700 Saham, Hak Suara 0,0288%",
+  "deck": "Direksi VISI, David Dwiputra, membeli 525.700 saham tidak langsung pada 11 November 2026, menambah kepemilikannya jadi 921.700 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T18:00:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-4442-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VISI",
+  "tags": [
+   "VISI",
+   "Satu Visi Putra",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Satu Visi Putra Tbk (VISI), David Dwiputra, melaporkan pembelian 525.700 lembar saham perusahaan secara tidak langsung pada 11 November 2026 dengan harga Rp560 per saham. Transaksi dengan tujuan investasi ini menambah kepemilikan sahamnya dari 396.000 lembar menjadi 921.700 lembar saham biasa VISI.",
+   "Dengan penambahan tersebut, hak suara David Dwiputra di VISI naik dari 0,013% menjadi 0,0288% dari total saham perusahaan yang beredar. Dalam laporan kepada Otoritas Jasa Keuangan, jenis transaksi dicatat sebagai repurchase agreement dengan status pembelian tidak langsung, sesuai ketentuan POJK 4/2024 tentang kewajiban pelaporan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka."
+  ],
+  "fotoAdegan": "Wide shot of modern glass office towers in Jakarta's business district at dusk, reflections of orange sky, light traffic below",
+  "takeaway": "Laporan ini netral bagi VISI. Meski jumlah saham yang dibeli David Dwiputra melonjak lebih dari dua kali lipat dari kepemilikan awalnya, porsinya terhadap total saham VISI yang beredar tetap sangat kecil, sehingga tidak bisa dibaca sebagai pernyataan sikap besar dari manajemen. Yang tersentuh di sini hanya hak suara pribadi sang direksi, bukan jumlah saham beredar perusahaan, karena ini jual beli di pasar sekunder antar pemegang saham, bukan penerbitan saham baru, sehingga modal dan laba per saham VISI secara keseluruhan tidak berubah. Yang perlu dipantau berikutnya adalah apakah David Dwiputra atau direksi dan komisaris VISI lain melanjutkan pembelian serupa di laporan-laporan mendatang, sebab baru dari akumulasi semacam itu pembelian saham oleh orang dalam ini bisa punya arti lebih jauh.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "aturan-baru-djp-hapus-sanksi-administratif-wajib-pajak",
@@ -846,6 +998,33 @@ var ARTICLES = [
   "fotoGagal": 4
  },
  {
+  "slug": "heal-yulisar-khiat-tambah-2-5-juta-saham-suara-6-56",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Yulisar Khiat [Tambah] 2,5 Juta Saham, Suara 6,56%",
+  "deck": "Direksi Medikaloka Hermina membeli 2,5 juta saham HEAL pada 12 November 2026, menaikkan hak suaranya dari 6,54% menjadi 6,56%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T14:51:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-3951-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HEAL",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Yulisar Khiat, anggota Direksi PT Medikaloka Hermina Tbk (HEAL), melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 2.500.000 saham biasa HEAL pada 12 November 2026 dengan harga Rp474 per saham. Dalam laporan tersebut, status kepemilikan tercatat tidak langsung dan tujuan transaksi disebutkan untuk investasi. Setelah pembelian ini, jumlah saham yang dikuasai Yulisar Khiat naik dari 1.004.745.266 lembar menjadi 1.007.245.266 lembar.",
+   "Kenaikan jumlah saham tersebut membuat hak suaranya di HEAL naik dari 6,54 persen menjadi 6,56 persen. Berdasarkan harga transaksi yang tercatat, nilai pembelian ini sekitar Rp1,18 miliar. Jika dibandingkan dengan saham yang sudah dimilikinya sebelum transaksi, penambahan ini hanya sekitar 0,25 persen, sehingga tidak banyak mengubah posisi kepemilikannya di jajaran direksi."
+  ],
+  "fotoAdegan": "Nurses and staff walking through a bright, clean hospital corridor past medical equipment carts in the morning",
+  "takeaway": "Penilaian saya netral, karena volume pembelian ini sangat kecil dibanding saham yang sudah dimiliki Yulisar Khiat sebelumnya, sehingga tidak bisa dibaca sebagai sinyal keyakinan kuat terhadap prospek perusahaan. Transaksi ini hanya menyentuh jumlah saham yang dipegang pribadi oleh insider, bukan jumlah saham beredar perusahaan secara keseluruhan, sehingga tidak berdampak pada laba per saham atau struktur modal HEAL. Pelaku pasar biasanya memperhatikan transaksi direksi karena dianggap mencerminkan pandangan orang dalam atas kinerja perusahaan, tetapi porsi 0,25 persen dari kepemilikan pribadi ini terlalu kecil untuk ditafsirkan sebagai sinyal semacam itu. Yang perlu dipantau selanjutnya adalah apakah pembelian serupa oleh direksi atau komisaris lain HEAL berlanjut dalam beberapa bulan ke depan, karena pola pembelian berulang biasanya lebih bermakna dibanding satu transaksi tunggal seperti ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "rupslb-srsn-8-desember-pergantian-direksi-dan-ubah-anggaran-dasar",
   "category": "Aksi Korporasi",
   "title": "RUPSLB SRSN 8 Desember: [Pergantian Direksi] dan Ubah Anggaran Dasar",
@@ -885,6 +1064,48 @@ var ARTICLES = [
    {
     "tanggal": "2026-12-08",
     "acara": "Pelaksanaan RUPSLB SRSN"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-trin-8-desember-pergantian-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TRIN 8 Desember: [Pergantian] Susunan Direksi-Komisaris",
+  "deck": "TRIN memanggil RUPSLB pada 8 Desember 2026 untuk membahas pergantian direksi/komisaris dan penyesuaian anggaran dasar ke KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T14:28:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e62ba353f_ec3ab34f0b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIN",
+  "tags": [
+   "TRIN",
+   "RUPSLB",
+   "Direksi Komisaris",
+   "KBLI 2025"
+  ],
+  "body": [
+   "PT Perintis Triniti Properti Tbk (TRIN) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 8 Desember 2026 pukul 10.00 WIB di Tangerang Selatan, Banten. Rapat diselenggarakan secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, sehingga pemegang saham diimbau hadir, memberi kuasa, atau memberikan suara lewat aplikasi itu alih-alih datang fisik.",
+   "Ada dua agenda. Pertama, perubahan susunan anggota Direksi dan/atau Dewan Komisaris Perseroan, namun dokumen pemanggilan belum menyebut nama calon pengganti atau posisi mana yang berubah, hal itu baru akan diumumkan dan diputuskan dalam rapat. Kedua, persetujuan penyesuaian Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha Perseroan, agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang diterbitkan Badan Pusat Statistik.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat di Daftar Pemegang Saham per 13 November 2026 pukul 16.00 WIB, sehari sebelum pemanggilan ini terbit. Batas akhir memberikan deklarasi kehadiran, kuasa elektronik (e-proxy), atau suara elektronik (e-voting) melalui eASY.KSEI adalah pukul 12.00 WIB pada 7 Desember 2026. Perseroan juga mengimbau pemegang saham yang tidak bisa hadir untuk memberi kuasa kepada Biro Administrasi Efek, PT Adimitra Jasa Korpora, sebagai pihak independen penerima kuasa."
+  ],
+  "fotoAdegan": "A modern glass office tower in a suburban business district under clear daylight, low wide angle",
+  "takeaway": "Laporan ini netral bagi TRIN, karena agenda pergantian direksi/komisaris belum menyebut nama atau arah perubahannya, dan penyesuaian pasal anggaran dasar ke KBLI 2025 sifatnya administratif, mengikuti kewajiban klasifikasi usaha baru dari BPS, bukan perubahan model bisnis. Pos yang tersentuh adalah tata kelola perusahaan, bukan langsung laporan keuangan, siapa yang menduduki kursi direksi atau komisaris bisa mempengaruhi arah strategi dan keputusan bisnis ke depan, sehingga pelaku pasar biasanya tetap mencatatnya meski belum ada nama. Yang perlu dipantau adalah hasil RUPSLB pada 8 Desember 2026, saat nama pengurus baru atau rumusan pasal usaha yang disetujui baru terkonfirmasi, serta batas registrasi dan pemberian suara elektronik pada 7 Desember 2026 pukul 12.00 WIB bagi pemegang saham yang ingin suaranya dihitung.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Recording date, batas pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Batas akhir deklarasi kehadiran, e-proxy, dan e-voting via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "RUPSLB TRIN digelar, voting pergantian direksi dan KBLI 2025"
    }
   ]
  },
@@ -2220,8 +2441,8 @@ var ARTICLES = [
  {
   "slug": "film-samuel-sekuritas-indonesia-tambah-757-500-saham-suara-11-27",
   "category": "Aksi Korporasi",
-  "title": "FILM: Samuel Sekuritas Indonesia [Tambah] 757.500 Saham, Suara 11,27%",
-  "deck": "Direksi Samuel Sekuritas Indonesia menambah 757.500 saham FILM lewat transaksi repo, hak suara naik dari 11,26% menjadi 11,27%.",
+  "title": "FILM: Samuel Sekuritas Indonesia Jual 214,13 Juta Saham, Suara 9,30%",
+  "deck": "Direksi Samuel Sekuritas Indonesia melepas 214.134.600 saham FILM lewat pencairan repo pada 16 November 2026, hak suara turun dari 11,27% menjadi 9,30%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 November 2026",
   "isoDate": "2026-11-13T20:46:21",
@@ -2231,19 +2452,29 @@ var ARTICLES = [
   "tags": [
    "FILM",
    "MD Entertainment",
-   "kepemilikan saham",
-   "Direksi"
+   "Samuel Sekuritas Indonesia",
+   "Laporan Kepemilikan"
   ],
   "body": [
-   "PT MD Entertainment Tbk (FILM) menerima laporan kepemilikan saham dari Samuel Sekuritas Indonesia, yang menjabat sebagai Direksi perusahaan. Dalam laporan bertanggal 13 November 2026 itu, jumlah saham yang dipegangnya bertambah dari 1.225.827.600 unit menjadi 1.226.585.100 unit, atau naik 757.500 lembar.",
-   "Transaksi tercatat sebagai repurchase agreement alias repo, yaitu jual beli saham dengan kesepakatan dibeli kembali, bukan pembelian biasa di pasar. Transaksi berupa pembelian 757.500 saham biasa pada harga Rp280 per saham, terjadi pada 12 November 2026, dengan tujuan yang disebut dalam dokumen sebagai 'penempatan repo'.",
-   "Akibat transaksi ini, hak suara Samuel Sekuritas Indonesia di FILM naik tipis dari 11,26 persen menjadi 11,27 persen. Dibandingkan dengan total kepemilikannya sebelum transaksi, penambahan ini hanya setara 0,0618 persen."
+   "PT MD Entertainment Tbk (FILM) menerima laporan kepemilikan baru dari Samuel Sekuritas Indonesia, yang menjabat Direksi perusahaan. Dalam laporan bertanggal 16 November 2026, jumlah saham yang dipegangnya berkurang dari 1.226.585.100 unit menjadi 1.012.450.500 unit, atau turun 214.134.600 lembar.",
+   "Transaksi ini tercatat sebagai pencairan repurchase agreement (repo), yaitu penarikan kembali saham yang sebelumnya dijadikan jaminan dalam perjanjian jual beli dengan kesepakatan dibeli kembali. Penjualan 214.134.600 saham biasa dilakukan pada harga Rp294 per saham, terjadi pada 16 November 2026.",
+   "Akibat transaksi ini, hak suara Samuel Sekuritas Indonesia di FILM turun dari 11,27 persen menjadi 9,30 persen. Jumlah yang dilepas setara 17,46 persen dari seluruh saham yang sebelumnya dipegangnya, jauh lebih besar dibanding transaksi sebelumnya.",
+   "Sebelumnya, pada 12 November 2026, Samuel Sekuritas Indonesia justru menambah 757.500 saham FILM lewat penempatan repo, yang membuat hak suaranya naik tipis dari 11,26 persen menjadi 11,27 persen. Transaksi pencairan repo pada 16 November ini membalik arah tersebut dan membuat hak suaranya kini berada di bawah 10 persen."
   ],
   "fotoAdegan": "Office workers walking through a glass-walled corporate lobby in Jakarta's financial district, soft midday light",
-  "takeaway": "Laporan ini netral bagi pandangan terhadap MD Entertainment, sebab 757.500 saham yang ditambah hanya setara 0,06 persen dari kepemilikan Samuel Sekuritas Indonesia sendiri, sehingga tidak mengubah posisi kendali meski hak suaranya naik sedikit dari 11,26 persen menjadi 11,27 persen. Perlu dicatat juga bahwa ini transaksi repo, yakni jual beli saham dengan janji dibeli kembali pada harga dan waktu tertentu, berbeda dari pembelian murni untuk investasi jangka panjang. Pos yang tersentuh adalah jumlah saham yang dipegang pihak terafiliasi dan hak suaranya, dua hal yang biasa dipantau pasar untuk melihat pergeseran kendali di sebuah perusahaan. Dokumen ini tidak menyebut agenda lanjutan seperti RUPS atau tenggat baru, sehingga transaksi tanggal 12 November 2026 ini bisa dibaca sebagai pergerakan administratif rutin kepemilikan saham.",
-  "sentimen": "netral",
+  "takeaway": "Laporan ini condong negatif dari sisi kepemilikan, sebab Direksi Samuel Sekuritas Indonesia melepas 214.134.600 saham FILM dalam sekali transaksi, setara 17,46 persen dari seluruh saham yang sebelumnya dipegangnya, sehingga hak suaranya turun dari 11,27 persen menjadi 9,30 persen, jauh berbeda dari penambahan tipis yang baru dilaporkan empat hari sebelumnya. Pos yang tersentuh adalah jumlah saham yang dipegang pihak terafiliasi dan hak suaranya, dua hal yang dipantau pasar untuk melihat pergeseran kendali; dalam kasus ini transaksinya berbentuk pencairan repo, yakni penarikan kembali saham yang sebelumnya dipakai sebagai jaminan pinjam dana sementara, bukan pelepasan murni untuk investasi jangka panjang, namun dampaknya pada hak suara tetap nyata. Yang perlu dipantau berikutnya adalah apakah Samuel Sekuritas Indonesia melaporkan transaksi lanjutan atas sisa kepemilikannya, mengingat dalam dua pekan terakhir arah kepemilikannya berubah dua kali lewat mekanisme repo yang sama.",
+  "sentimen": "negatif",
   "peristiwa": "kepemilikan",
-  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T20:49:12",
+    "ringkas": "Samuel Sekuritas Indonesia mencairkan repo dan menjual 214.134.600 saham FILM, hak suara turun dari 11,27% menjadi 9,30%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-4523-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-16T20:49:12"
  },
  {
   "slug": "25-driver-ojol-menang-motor-dari-program-boom-pertamina",
@@ -4442,8 +4673,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA 17 November: [Jadwal] Dikoreksi ke 14.30 WIB",
-  "deck": "MDIA mengoreksi waktu public expose tahunan menjadi Selasa, 17 November 2026 pukul 14.30 WIB, setelah materi semester I 2026 yang menunjukkan rugi melebar sudah terbit lebih dulu.",
+  "title": "Public Expose MDIA 17 November: Waktu [Dikoreksi] Lagi ke 14.00 WIB",
+  "deck": "MDIA mengoreksi lagi jadwal public expose tahunan 17 November 2026, kali ini waktunya berubah dari pukul 14.30 WIB menjadi 14.00 WIB, sekaligus menambah tautan registrasi Zoom.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T21:14:13",
@@ -4453,17 +4684,18 @@ var ARTICLES = [
   "tags": [
    "MDIA",
    "Public Expose",
-   "ANTV",
-   "Rugi Bersih"
+   "Intermedia Capital",
+   "ANTV"
   ],
   "body": [
-   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, mengoreksi jadwal pelaksanaan public expose tahunan yang sebelumnya diumumkan pada 30 Oktober 2026. Dalam pengumuman korektif tertanggal 13 November 2026, perseroan memastikan acara akan berlangsung Selasa, 17 November 2026 pukul 14.30 WIB, baik secara fisik di The Convergence Indonesia, Jakarta Selatan, maupun secara daring lewat aplikasi Zoom. Peserta yang ingin hadir langsung wajib mengonfirmasi kehadiran selambat-lambatnya satu hari sebelum acara melalui email ke corsec@imc.co.id, sementara materi public expose akan diunggah paling lambat tiga hari bursa sebelum pelaksanaan.",
-   "Public expose ini akan membahas kinerja semester I 2026 yang sebelumnya sudah disampaikan perseroan kepada Bursa Efek Indonesia pada 12 November 2026. Materi itu menunjukkan pendapatan turun 8,6 persen menjadi Rp281,82 miliar, dari Rp308,17 miliar pada periode yang sama tahun sebelumnya. EBITDA, yaitu laba operasional sebelum bunga, pajak, depresiasi dan amortisasi, turun 30,1 persen menjadi Rp59,71 miliar, sehingga marjinnya menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar dari Rp11,44 miliar pada semester I 2025 menjadi Rp32,30 miliar pada semester I 2026, naik 182,3 persen.",
+   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, kembali mengoreksi jadwal public expose tahunan yang akan digelar Selasa, 17 November 2026. Dalam pengumuman korektif tertanggal 16 November 2026 yang merevisi surat sebelumnya tertanggal 13 November 2026, perseroan mengubah waktu pelaksanaan dari pukul 14.30 WIB menjadi pukul 14.00 WIB sampai selesai. Tempat pelaksanaan tetap di The Convergence Indonesia, Lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, atau secara daring lewat Zoom.",
+   "Perseroan juga menambahkan tautan registrasi khusus bagi peserta yang mengikuti acara lewat Zoom, yakni https://bit.ly/RegPubExVivaMdia2026, terpisah dari tautan materi public expose yang akan diunggah paling lambat tiga hari bursa sebelum acara melalui https://bit.ly/MateriPubExVivaMdia2026. Peserta yang hadir secara fisik tetap wajib mengonfirmasi kehadiran selambat-lambatnya satu hari sebelum acara melalui email ke corsec@imc.co.id, karena kapasitas ruangan dibatasi. Acara akan dihadiri langsung oleh jajaran direksi perseroan.",
+   "Public expose ini membahas kinerja semester I 2026 yang sebelumnya disampaikan perseroan kepada Bursa Efek Indonesia pada 12 November 2026. Materi itu menunjukkan pendapatan turun 8,6 persen menjadi Rp281,82 miliar, dari Rp308,17 miliar pada periode yang sama tahun sebelumnya. EBITDA, yaitu laba operasional sebelum bunga, pajak, depresiasi dan amortisasi, turun 30,1 persen menjadi Rp59,71 miliar, sehingga marjinnya menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar dari Rp11,44 miliar pada semester I 2025 menjadi Rp32,30 miliar pada semester I 2026, naik 182,3 persen.",
    "Dari sisi neraca, total aset perseroan turun 13,1 persen menjadi Rp2.901,72 miliar per akhir semester I 2026, sementara total liabilitas turun lebih tajam, 17,1 persen, menjadi Rp1.985,57 miliar. Ekuitas pemegang saham relatif stabil, turun tipis 2,9 persen menjadi Rp916,15 miliar. Berdasarkan data Biro Administrasi Efek per 31 Oktober 2026, PT Visi Media Asia Tbk tetap menjadi pemegang saham pengendali dengan 80,7 persen atau 31,66 miliar saham, diikuti PT DMS Investama dengan 6,7 persen atau 2,64 miliar saham, dan publik dengan 12,6 persen atau 4,92 miliar saham.",
-   "Susunan direksi perseroan saat ini dipimpin Ahmad R. Widarmana sebagai Direktur Utama, dengan Anindra Ardiansyah Bakrie sebagai Komisaris Utama. Public expose pada 17 November 2026 akan dihadiri langsung oleh jajaran direksi perseroan."
+   "Susunan direksi perseroan saat ini dipimpin Ahmad R. Widarmana sebagai Direktur Utama, dengan Anindra Ardiansyah Bakrie sebagai Komisaris Utama."
   ],
   "fotoAdegan": "Television studio crew adjusting camera rigs and bright stage lighting on an entertainment program set",
-  "takeaway": "Koreksi jadwal ini sendiri netral bagi investor, sekadar memastikan waktu pelaksanaan public expose menjadi Selasa, 17 November 2026 pukul 14.30 WIB, tanpa mengubah substansi kinerja yang sudah dilaporkan sebelumnya, yang tetap condong negatif karena rugi bersih melebar hampir tiga kali lipat pada semester I 2026. Pos yang akan dibahas dalam acara itu tetap EBITDA, yakni laba operasional sebelum bunga, pajak, dan penyusutan yang jadi ukuran dasar apakah bisnis inti stasiun TV ini masih menghasilkan kas dari operasionalnya, dan marjinnya yang menyusut dari 27,7 persen ke 21,2 persen berarti setiap rupiah pendapatan kini menyisakan laba operasional yang lebih tipis. Ekuitas pemegang saham juga tergerus tipis akibat akumulasi rugi, meski penurunan liabilitas 17,1 persen menahan tekanan di sisi neraca secara keseluruhan. Yang perlu dipantau berikutnya adalah paparan manajemen dalam public expose pada 17 November 2026 pukul 14.30 WIB, termasuk apakah ada penjelasan konkret soal upaya menahan laju rugi, karena baik materi maupun pengumuman koreksi jadwal ini sama-sama tidak menyebut target atau tenggat pemulihan kinerja.",
+  "takeaway": "Koreksi kedua atas jadwal public expose ini tetap netral bagi investor karena cuma mengubah waktu acara dari pukul 14.30 WIB menjadi 14.00 WIB tanpa menyentuh substansi kinerja, namun rangkaian informasi sampai saat ini tetap condong negatif karena rugi bersih yang akan dipaparkan sudah melebar hampir tiga kali lipat pada semester I 2026. Pos yang disorot tetap EBITDA, yaitu laba operasional sebelum bunga, pajak, dan penyusutan yang jadi ukuran dasar apakah bisnis inti stasiun TV ini masih menghasilkan kas dari operasionalnya, dan marjin yang menyusut dari 27,7 persen jadi 21,2 persen berarti setiap rupiah pendapatan kini menyisakan laba operasional yang lebih tipis. Ekuitas pemegang saham juga tergerus tipis akibat akumulasi rugi, meski penurunan liabilitas 17,1 persen menahan tekanan di neraca secara keseluruhan. Yang perlu dipantau berikutnya adalah paparan manajemen pada public expose 17 November 2026 pukul 14.00 WIB, termasuk apakah ada penjelasan konkret soal upaya menahan laju rugi, karena dua kali koreksi jadwal ini sama-sama tidak menyebut target atau tenggat pemulihan kinerja.",
   "sentimen": "negatif",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -4473,13 +4705,19 @@ var ARTICLES = [
     "ringkas": "MDIA mengoreksi jadwal public expose tahunan menjadi Selasa, 17 November 2026 pukul 14.30 WIB, fisik maupun lewat Zoom.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9386e21a8f_770a05faf3.pdf",
     "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
+   },
+   {
+    "tanggal": "2026-11-16T14:21:45",
+    "ringkas": "MDIA mengoreksi lagi waktu public expose 17 November 2026 dari pukul 14.30 WIB menjadi 14.00 WIB, serta menambahkan tautan registrasi Zoom terpisah.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/db88ee164c_4f794d31a3.pdf",
+    "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
    }
   ],
-  "diperbarui": "2026-11-13T21:44:42",
+  "diperbarui": "2026-11-16T14:21:45",
   "jadwal": [
    {
     "tanggal": "2026-11-17",
-    "acara": "Public Expose Tahunan MDIA, pukul 14.30 WIB"
+    "acara": "Public Expose Tahunan MDIA, pukul 14.00 WIB"
    }
   ]
  },
@@ -9078,8 +9316,8 @@ var ARTICLES = [
  {
   "slug": "atla-komisaris-rudi-sutantra-lepas-10-juta-saham-lewat-repo",
   "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Rudi Sutantra [Lepas] 10 Juta Saham Lewat Repo",
-  "deck": "Komisaris ATLA Rudi R Sutantra melepas 10 juta saham lewat mekanisme repurchase agreement pada Rp17 per saham, hak suaranya turun dari 40,49% menjadi 40,33%.",
+  "title": "ATLA: Komisaris Rudi Sutantra Jual 30 Juta Saham, Suara 39,20%",
+  "deck": "Komisaris ATLA Rudi R Sutantra kembali lepas 30 juta saham lewat repo pada Rp16 per saham, hak suara turun dari 39,68% menjadi 39,20%, penjualan repo kedua dalam sepekan.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T11:57:50",
@@ -9088,17 +9326,35 @@ var ARTICLES = [
   "emiten": "ATLA",
   "tags": [
    "ATLA",
-   "komisaris",
-   "kepemilikan saham",
-   "repurchase agreement"
+   "Rudi Sutantra",
+   "Repo Saham",
+   "Laporan Kepemilikan"
   ],
   "body": [
-   "PT Atlantis Subsea Indonesia Tbk (ATLA) melaporkan ke Otoritas Jasa Keuangan bahwa anggota Dewan Komisarisnya, Rudi R Sutantra, melepas 10.000.000 saham biasa perusahaan pada 6 November 2026 dengan harga Rp17 per saham. Transaksi ini tercatat sebagai penjualan tidak langsung yang dilakukan melalui mekanisme repurchase agreement, yakni perjanjian jual saham yang disertai kesepakatan untuk membeli kembali di kemudian hari, dengan batas akhir periode pelaksanaan pada 10 November 2026.",
-   "Akibat transaksi ini, jumlah saham yang dikuasai Rudi berkurang dari 2.510.254.200 lembar menjadi 2.500.254.200 lembar. Hak suaranya di ATLA pun turun dari 40,49 persen menjadi 40,33 persen. Meski begitu, saham yang dilepas hanya sekitar 0,4 persen dari total kepemilikannya, sehingga Rudi tetap menjadi pemegang saham dengan hak suara terbesar di perusahaan."
+   "PT Atlantis Subsea Indonesia Tbk (ATLA) kembali melaporkan pelepasan saham oleh anggota Dewan Komisarisnya, Rudi R Sutantra, kali ini sebanyak 30.000.000 saham biasa pada 12 November 2026 dengan harga Rp16 per saham. Transaksi ini tercatat sebagai penjualan tidak langsung melalui mekanisme repurchase agreement, dengan batas akhir periode pelaksanaan pada 16 November 2026.",
+   "Akibat transaksi ini, jumlah saham yang dikuasai Rudi berkurang dari 2.460.254.200 lembar menjadi 2.430.254.200 lembar, dan hak suaranya di ATLA turun dari 39,68 persen menjadi 39,20 persen. Transaksi ini setara sekitar 1,22 persen dari saham yang dikuasai Rudi sebelum transaksi berlangsung.",
+   "Ini merupakan laporan repo kedua dari Rudi dalam waktu kurang dari dua pekan. Sebelumnya, pada 6 November 2026, ia melepas 10.000.000 saham lewat mekanisme serupa pada harga Rp17 per saham, yang membuat hak suaranya turun dari 40,49 persen menjadi 40,33 persen, dengan batas akhir periode pelaksanaan repo saat itu pada 10 November 2026.",
+   "Meski hak suaranya menyusut dalam dua laporan berturut-turut, Rudi tetap menjadi pemegang saham dengan hak suara terbesar di ATLA, jauh di atas pemegang saham lainnya."
   ],
   "fotoAdegan": "An offshore support vessel with crane equipment anchored near a subsea cable-laying operation at dusk in Indonesian waters",
-  "takeaway": "Penilaian redaksi netral, karena saham yang dilepas komisaris ini hanya sekitar 0,4 persen dari total kepemilikannya dan tidak mengubah posisinya sebagai pemegang saham dengan hak suara terbesar di ATLA. Pos yang tersentuh di sini adalah hak suara dan struktur kepemilikan saham, yaitu ukuran kendali seorang pemegang saham atas keputusan perusahaan lewat rapat umum pemegang saham, dan pelaku pasar memperhatikannya karena perubahan hak suara pemegang saham utama bisa jadi sinyal soal arah kendali perusahaan meski dalam kasus ini perubahannya tipis. Yang perlu dipantau selanjutnya adalah nasib saham tersebut setelah 10 November 2026, batas akhir periode pelaksanaan perjanjian repurchase agreement, karena mekanisme ini membuka kemungkinan saham itu dibeli kembali oleh Rudi sesuai perjanjian, bukan berpindah tangan secara permanen.",
-  "sentimen": "netral"
+  "takeaway": "Penilaian redaksi tetap netral, karena transaksi senilai 1,22 persen dari kepemilikan Rudi ini masih tergolong kecil dan dilakukan lewat mekanisme repo yang membuka kemungkinan saham itu dibeli kembali, bukan dilepas secara permanen. Pos yang tersentuh adalah hak suara dan struktur kepemilikan, yakni ukuran kendali pemegang saham dalam rapat umum pemegang saham, karena komisaris ini kini dua kali berturut-turut melepas saham lewat skema serupa sehingga porsi kendalinya terus menyusut meski masih jauh di atas pemegang saham lain. Yang perlu dipantau adalah apakah pola pelepasan berulang ini berlanjut, dan apakah saham yang dilepas lewat repo ini benar dibeli kembali sesuai perjanjian setelah batas akhir periode pelaksanaan pada 16 November 2026.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T15:25:24",
+    "ringkas": "Komisaris ATLA Rudi Sutantra lepas lagi 30 juta saham lewat repo, hak suara turun jadi 39,20%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-8061-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-16T15:25:24",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Batas akhir periode pelaksanaan repo 30 juta saham Rudi Sutantra"
+   }
+  ],
+  "peristiwa": "kepemilikan"
  },
  {
   "slug": "doss-klarifikasi-lonjakan-saham-pemegang-utama-tanpa-rencana-jual",

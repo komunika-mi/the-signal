@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "private-placement-mbma-free-float-turun-ke-24-06",
+  "category": "Aksi Korporasi",
+  "title": "Private Placement MBMA: [Free Float] Turun ke 24,06%",
+  "deck": "MBMA menjawab permintaan penjelasan Bursa soal private placement hingga 10,8 miliar saham: harga dan calon investor belum ditentukan, free float diperkirakan turun dari 26,47% ke 24,06%.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "private placement",
+   "free float",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/85c2d38433_2a249426c7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-indy-19-nov-laba-bersih-9m26-naik-ke-us-20-2-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose INDY 19 Nov: [Laba Bersih] 9M26 Naik ke US$20,2 Juta",
+  "deck": "Materi Public Expose Tahunan INDY menunjukkan laba bersih 9M26 melonjak ke US$20,2 juta dari US$0,5 juta, ditopang harga batu bara dan bisnis non-batubara.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDY",
+   "Public Expose",
+   "Kinerja Keuangan",
+   "Awak Mas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbc2a1569d_af6519b4cf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-flmc-18-november-penambahan-kbli-jadi-perusahaan-induk",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 18 November: [Penambahan KBLI] Jadi Perusahaan Induk",
+  "deck": "FLMC berencana menambah KBLI Aktivitas Perusahaan Induk untuk menaungi anak usaha distribusi baru, modal awal sekitar Rp4 miliar, diputuskan lewat RUPSLB 18 November 2026.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "KBLI",
+   "perubahan kegiatan usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/152ee22e6c_ca33bf049c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "indy-jawab-bursa-sengketa-lahan-masmindo-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "INDY Jawab Bursa: Sengketa Lahan Masmindo [Tak Material]",
+  "deck": "INDY sebut sengketa lahan Masmindo di Luwu belum material, nilai kompensasi lahan yang disengketakan kurang dari 1 persen aset konsolidasian perusahaan.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INDY",
+   "Masmindo Dwi Area",
+   "sengketa lahan",
+   "Awak Mas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feca24d19b_3dcb12a583.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "axio-targetkan-pendapatan-2026-rp2-18-triliun-tumbuh-34",
   "category": "Aksi Korporasi",
   "title": "AXIO Targetkan Pendapatan 2026 Rp2,18 Triliun, [Tumbuh] 34%",
@@ -152,6 +216,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kppu.go.id/berita/sidang-kppu-dalami-transparansi-pemilihan-pengelola-revitalisasi-pasar-ciparay",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "visi-david-dwiputra-tambah-525-700-saham-hak-suara-0-0288",
+  "category": "Aksi Korporasi",
+  "title": "VISI: David Dwiputra [Tambah] 525.700 Saham, Hak Suara 0,0288%",
+  "deck": "Direksi VISI, David Dwiputra, membeli 525.700 saham tidak langsung pada 11 November 2026, menambah kepemilikannya jadi 921.700 lembar.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VISI",
+   "Satu Visi Putra",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-4442-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "aturan-baru-djp-hapus-sanksi-administratif-wajib-pajak",
@@ -413,6 +493,22 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "heal-yulisar-khiat-tambah-2-5-juta-saham-suara-6-56",
+  "category": "Aksi Korporasi",
+  "title": "HEAL: Yulisar Khiat [Tambah] 2,5 Juta Saham, Suara 6,56%",
+  "deck": "Direksi Medikaloka Hermina membeli 2,5 juta saham HEAL pada 12 November 2026, menaikkan hak suaranya dari 6,54% menjadi 6,56%.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HEAL",
+   "Medikaloka Hermina",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-3951-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-srsn-8-desember-pergantian-direksi-dan-ubah-anggaran-dasar",
   "category": "Aksi Korporasi",
   "title": "RUPSLB SRSN 8 Desember: [Pergantian Direksi] dan Ubah Anggaran Dasar",
@@ -426,6 +522,22 @@ var ARTICLES = [
    "pergantian direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6a01e48579_39e21004f1.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-trin-8-desember-pergantian-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TRIN 8 Desember: [Pergantian] Susunan Direksi-Komisaris",
+  "deck": "TRIN memanggil RUPSLB pada 8 Desember 2026 untuk membahas pergantian direksi/komisaris dan penyesuaian anggaran dasar ke KBLI 2025.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIN",
+   "RUPSLB",
+   "Direksi Komisaris",
+   "KBLI 2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e62ba353f_ec3ab34f0b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1208,15 +1320,15 @@ var ARTICLES = [
  {
   "slug": "film-samuel-sekuritas-indonesia-tambah-757-500-saham-suara-11-27",
   "category": "Aksi Korporasi",
-  "title": "FILM: Samuel Sekuritas Indonesia [Tambah] 757.500 Saham, Suara 11,27%",
-  "deck": "Direksi Samuel Sekuritas Indonesia menambah 757.500 saham FILM lewat transaksi repo, hak suara naik dari 11,26% menjadi 11,27%.",
+  "title": "FILM: Samuel Sekuritas Indonesia Jual 214,13 Juta Saham, Suara 9,30%",
+  "deck": "Direksi Samuel Sekuritas Indonesia melepas 214.134.600 saham FILM lewat pencairan repo pada 16 November 2026, hak suara turun dari 11,27% menjadi 9,30%.",
   "date": "13 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "FILM",
    "MD Entertainment",
-   "kepemilikan saham",
-   "Direksi"
+   "Samuel Sekuritas Indonesia",
+   "Laporan Kepemilikan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-7900-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -2355,15 +2467,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA 17 November: [Jadwal] Dikoreksi ke 14.30 WIB",
-  "deck": "MDIA mengoreksi waktu public expose tahunan menjadi Selasa, 17 November 2026 pukul 14.30 WIB, setelah materi semester I 2026 yang menunjukkan rugi melebar sudah terbit lebih dulu.",
+  "title": "Public Expose MDIA 17 November: Waktu [Dikoreksi] Lagi ke 14.00 WIB",
+  "deck": "MDIA mengoreksi lagi jadwal public expose tahunan 17 November 2026, kali ini waktunya berubah dari pukul 14.30 WIB menjadi 14.00 WIB, sekaligus menambah tautan registrasi Zoom.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "MDIA",
    "Public Expose",
-   "ANTV",
-   "Rugi Bersih"
+   "Intermedia Capital",
+   "ANTV"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1959a4d6_d10ee1712e.pdf",
   "sourceLabel": "IDX"
@@ -4989,15 +5101,15 @@ var ARTICLES = [
  {
   "slug": "atla-komisaris-rudi-sutantra-lepas-10-juta-saham-lewat-repo",
   "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Rudi Sutantra [Lepas] 10 Juta Saham Lewat Repo",
-  "deck": "Komisaris ATLA Rudi R Sutantra melepas 10 juta saham lewat mekanisme repurchase agreement pada Rp17 per saham, hak suaranya turun dari 40,49% menjadi 40,33%.",
+  "title": "ATLA: Komisaris Rudi Sutantra Jual 30 Juta Saham, Suara 39,20%",
+  "deck": "Komisaris ATLA Rudi R Sutantra kembali lepas 30 juta saham lewat repo pada Rp16 per saham, hak suara turun dari 39,68% menjadi 39,20%, penjualan repo kedua dalam sepekan.",
   "date": "10 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ATLA",
-   "komisaris",
-   "kepemilikan saham",
-   "repurchase agreement"
+   "Rudi Sutantra",
+   "Repo Saham",
+   "Laporan Kepemilikan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-2691-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -6401,119 +6513,6 @@ var ARTICLES = [
    "batu bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eacf9f0c9f_b2af1a6780.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptro-laba-bersih-melonjak-613-kantongi-kontrak-rp9-3-triliun",
-  "category": "Aksi Korporasi",
-  "title": "PTRO: Laba Bersih [Melonjak] 613%, Kantongi Kontrak Rp9,3 Triliun",
-  "deck": "Materi public expose Petrosea menunjukkan pendapatan 1H2026 naik 60 persen dan laba bersih melonjak ke US$9 juta, didukung kontrak tambang dan EPC baru senilai triliunan rupiah.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTRO",
-   "Petrosea",
-   "kontrak tambang",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a05c9ad1f_31f51ac272.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi",
-  "category": "UMKM",
-  "title": "Bahlil Dorong UMKM dan Pengusaha Daerah Ikut [Hilirisasi]",
-  "deck": "Menko Hilirisasi Bahlil Lahadalia meminta UMKM dan pengusaha daerah dapat porsi lebih besar dalam proyek hilirisasi, agar tak dimonopoli perusahaan besar dari Jakarta.",
-  "date": "9 November 2026",
-  "image": "assets/img/bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi.jpg",
-  "imageV": "mw94wu3t",
-  "tags": [
-   "hilirisasi",
-   "umkm",
-   "bahlil",
-   "pertambangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477395-menko-bahlil-dorong-peran-aktif-umkm-dan-pengusaha-lokal-dalam-proyek-hilirisasi"
- },
- {
-  "slug": "acst-catat-rugi-bersih-melonjak-155-pada-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "ACST Catat Rugi Bersih [Melonjak] 155% pada Kuartal III 2026",
-  "deck": "Materi public expose ACST mengungkap rugi bersih kuartal III 2026 melonjak ke Rp266,8 miliar meski pendapatan turun dan margin kotor justru naik tipis.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ACST",
-   "Acset Indonusa",
-   "public expose",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/21f4b2a23d_75b0c9f399.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbre-rights-issue-konversi-utang-rp858-6-miliar-ke-saham",
-  "category": "Aksi Korporasi",
-  "title": "CBRE [Rights Issue] Konversi Utang Rp858,6 Miliar ke Saham",
-  "deck": "CBRE berencana menerbitkan maksimal 48 miliar saham baru lewat HMETD, sebagian untuk mengonversi utang promissory note Rp858,6 miliar kepada empat kreditur.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBRE",
-   "rights issue",
-   "konversi utang",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ebc1e532ea_a40d335ecc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "issp-pemegang-saham-mayoritas-tambah-1-8-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "ISSP: Pemegang Saham [Mayoritas] Tambah 1,8 Juta Saham",
-  "deck": "Cakra Bhakti Para Putra, pemegang 57,77% hak suara ISSP, membeli 1.822.500 saham lewat tiga transaksi awal November, menaikkan hak suaranya ke 57,80%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ISSP",
-   "kepemilikan saham",
-   "pemegang saham",
-   "Steel Pipe Industry"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4792-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "auto-laba-naik-tapi-utang-usaha-melonjak-29",
-  "category": "Aksi Korporasi",
-  "title": "AUTO: Laba Naik, tapi Utang Usaha [Melonjak] 29%",
-  "deck": "Laba bersih AUTO naik 11,6 persen jadi Rp1,85 triliun dalam sembilan bulan 2026, tapi utang usahanya melonjak 29 persen karena harga bahan baku dan persediaan naik.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AUTO",
-   "laporan keuangan",
-   "utang usaha",
-   "Astra Otoparts"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109145152-65768-0/FinancialStatement-2026-III-AUTO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cbre-umumkan-rupslb-16-desember-agenda-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "CBRE Umumkan [RUPSLB] 16 Desember, Agenda Menyusul",
-  "deck": "CBRE akan menggelar RUPSLB pada 16 Desember 2026 di Jakarta. Pemegang saham per 23 November 2026 berhak hadir, agenda resmi baru terbit lewat pemanggilan 24 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CBRE",
-   "RUPSLB",
-   "pasar modal",
-   "Cakra Buana Resources Energi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5daceb6d1_30106a9e27.pdf",
   "sourceLabel": "IDX"
  }
 ];

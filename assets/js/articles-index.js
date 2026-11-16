@@ -21,6 +21,22 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "emas-jelaskan-ke-bei-arus-kas-operasi-negatif-us-25-58-juta",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Jelaskan ke BEI: [Arus Kas Operasi] Negatif US$25,58 Juta",
+  "deck": "Merdeka Gold Resources menjawab permintaan penjelasan BEI: kas dari operasi minus US$25,58 juta semester I 2026, seluruh penjualan emas masih bergantung pada satu pembeli, ANTM.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "arus kas operasi",
+   "konsentrasi pembeli ANTM",
+   "pendanaan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a4069bb2fe_deb2820e06.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "private-placement-mbma-free-float-turun-ke-24-06",
   "category": "Aksi Korporasi",
   "title": "Private Placement MBMA: [Free Float] Turun ke 24,06%",
@@ -6497,22 +6513,6 @@ var ARTICLES = [
    "KBank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40326f8631_ab663ffc47.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bssr-catat-laba-bersih-naik-81-jadi-us-111-7-juta-di-9m26",
-  "category": "Aksi Korporasi",
-  "title": "BSSR Catat [Laba] Bersih Naik 81% Jadi US$111,7 Juta di 9M26",
-  "deck": "Laba bersih BSSR naik 81 persen jadi US$111,7 juta pada sembilan bulan 2026, sementara liabilitas naik 64 persen karena utang dividen interim yang sudah dibagikan Oktober lalu.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSSR",
-   "Baramulti Suksessarana",
-   "laba bersih",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109162154-65771-0/FinancialStatement-2026-III-BSSR.pdf",
   "sourceLabel": "IDX"
  }
 ];

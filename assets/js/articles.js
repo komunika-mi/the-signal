@@ -31,6 +31,34 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "emas-jelaskan-ke-bei-arus-kas-operasi-negatif-us-25-58-juta",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Jelaskan ke BEI: [Arus Kas Operasi] Negatif US$25,58 Juta",
+  "deck": "Merdeka Gold Resources menjawab permintaan penjelasan BEI: kas dari operasi minus US$25,58 juta semester I 2026, seluruh penjualan emas masih bergantung pada satu pembeli, ANTM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T22:27:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a4069bb2fe_deb2820e06.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "arus kas operasi",
+   "konsentrasi pembeli ANTM",
+   "pendanaan utang"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) mengirim surat tanggapan bernomor 149/EMAS-JKT/CORSEC/XI/2026 pada 16 November 2026, menjawab permintaan penjelasan Bursa Efek Indonesia tertanggal 11 November 2026 yang diterima Perseroan sehari setelahnya. Surat BEI itu mempertanyakan laporan keuangan per 30 Juni 2026 sekaligus rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang sedang disiapkan Perseroan. Soal pendapatan US$30,85 juta tanpa saldo piutang, Perseroan menjelaskan bahwa anak usahanya, PT Puncak Emas Tani Sejahtera (PETS), menjual emas ke PT Aneka Tambang Tbk (ANTM) setiap pekan dan dibayar tunai via transfer bank dalam waktu satu hari kerja setelah dokumen penagihan lengkap diterima, sehingga seluruh pendapatan sampai akhir Juni 2026 sudah masuk sebagai kas.",
+   "Perseroan juga mengakui seluruh penjualan emasnya selama semester I 2026 hanya ke satu pembeli, ANTM, lewat perjanjian jual beli emas yang sudah ditandatangani. Dalam kontrak itu ada klausul pengiriman tetap, ANTM wajib membeli pengiriman emas mingguan PETS sampai maksimal 30 kilogram per minggu. Perjanjian ini tidak eksklusif, dan sejak Agustus 2026 PETS sudah mulai menjual produk perak ke Finmet Pte. Ltd., sementara pada kuartal IV 2026 Grup sedang bernegosiasi dengan sejumlah calon pembeli baru untuk produk emas guna mengurangi ketergantungan pada ANTM.",
+   "Soal arus kas, Perseroan mencatat kas dari aktivitas operasi minus US$25,58 juta pada semester I 2026, berasal dari pembayaran ke pemasok dan pihak lain US$46,99 juta, ke karyawan US$8,41 juta, serta pajak badan US$1,65 juta, yang jumlahnya lebih besar dari penerimaan kas dari pelanggan sebesar US$30,87 juta. Perseroan menyebut ini wajar karena produksi komersial baru dimulai Maret 2026: produksi emas semester I 2026 mencapai 17.412 ons, dengan lonjakan 758 persen di kuartal II menjadi 15.594 ons dibanding kuartal sebelumnya. Perseroan menargetkan produksi di atas 150.000 ons pada 2027 seiring perluasan kapasitas pengolahan heap leach menjadi 11 juta ton per tahun.",
+   "Untuk menutup kebutuhan kas selama masa peningkatan produksi ini, Grup mengamankan tiga fasilitas pendanaan baru setelah periode pelaporan 30 Juni 2026: fasilitas pembayaran emas di muka (gold prepayment) dari ING Bank senilai US$95 juta pada September 2026 dengan penyelesaian pada 2027, pinjaman berjangka dari OCBC senilai US$200 juta jatuh tempo 2029, dan pinjaman berjangka dari HSBC senilai US$100 juta jatuh tempo 2028 dengan opsi perpanjangan. Perseroan menyatakan memiliki likuiditas yang cukup untuk memenuhi kewajiban operasional, belanja modal, dan pembayaran pinjaman hingga akhir 2026."
+  ],
+  "fotoAdegan": "Miners operating heavy equipment on a heap leach gold processing pad at an open-pit mine, dusty daylight, distant hills",
+  "takeaway": "Laporan ini condong negatif, karena kas yang benar-benar keluar masuk dari bisnis harian Perseroan masih minus US$25,58 juta dalam enam bulan, dan untuk menutupinya Grup justru menambah utang berjangka baru senilai gabungan sekitar US$395 juta dari ING, OCBC, dan HSBC. Yang tersentuh di sini adalah arus kas operasi, yaitu uang yang mengalir dari aktivitas jual beli sehari-hari, bukan dari pinjaman atau suntikan modal, dan pos ini jadi perhatian karena menunjukkan apakah bisnis inti sudah bisa membiayai dirinya sendiri; di sisi lain beban bunga Perseroan berpotensi naik karena pinjaman baru itu harus dibayar bunganya setiap periode, sementara penjualan emasnya pun masih bertumpu pada satu pembeli, ANTM. Konteks ini juga menjelaskan mengapa Perseroan sedang menyiapkan penambahan modal tanpa hak memesan efek terlebih dahulu yang pada laporan sebelumnya disebut bisa mendilusi pemegang saham lama hingga 9,09 persen, sehingga yang perlu dipantau berikutnya adalah jatuh tempo fasilitas HSBC pada 2028, OCBC pada 2029, penyelesaian fasilitas ING pada 2027, serta realisasi target produksi di atas 150.000 ons pada 2027 yang akan menentukan apakah arus kas operasi benar membalik menjadi positif.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "private-placement-mbma-free-float-turun-ke-24-06",
   "category": "Aksi Korporasi",
   "title": "Private Placement MBMA: [Free Float] Turun ke 24,06%",

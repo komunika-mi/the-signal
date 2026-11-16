@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bi-perkuat-aturan-pelindungan-konsumen-digital",
+  "category": "Moneter",
+  "title": "BI Perkuat [Aturan] Pelindungan Konsumen Digital",
+  "deck": "BI memperketat penerapan aturan pelindungan konsumen pembayaran digital dan menggandeng OJK soal penyelesaian sengketa, saat indeks keberdayaan konsumen masih di bawah kategori tertinggi.",
+  "date": "17 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "OJK",
+   "pelindungan konsumen",
+   "pembayaran digital"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825326.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "private-placement-mbma-free-float-turun-ke-24-06",
   "category": "Aksi Korporasi",
   "title": "Private Placement MBMA: [Free Float] Turun ke 24,06%",
@@ -482,7 +498,7 @@ var ARTICLES = [
   "title": "Utang Luar Negeri RI [Naik] ke US$458,9 Miliar di Triwulan III",
   "deck": "Utang luar negeri Indonesia naik ke US$458,9 miliar pada triwulan III 2026, didorong kenaikan utang pemerintah sementara utang swasta justru menyusut.",
   "date": "16 November 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/koridor-bank-sentral.jpg",
   "tags": [
    "Utang Luar Negeri",
    "APBN",
@@ -1638,7 +1654,7 @@ var ARTICLES = [
   "title": "BI dan 3 Bank Sentral ASEAN [Perluas] Kerja Sama Mata Uang Lokal",
   "deck": "Bank Indonesia bersama bank sentral Malaysia, Thailand, dan Filipina menandatangani nota kesepahaman baru yang memperluas kerja sama transaksi mata uang lokal, menggantikan kesepakatan 2023.",
   "date": "13 November 2026",
-  "image": "assets/img/koridor-bank-sentral.jpg",
+  "image": "assets/img/mesin-hitung-uang.jpg",
   "tags": [
    "Bank Indonesia",
    "ASEAN",
@@ -6497,22 +6513,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109162154-65771-0/FinancialStatement-2026-III-BSSR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "abmm-cipta-kridatama-raih-kontrak-tambang-batu-bara-5-tahun",
-  "category": "Aksi Korporasi",
-  "title": "ABMM: Cipta Kridatama Raih [Kontrak] Tambang Batu Bara 5 Tahun",
-  "deck": "Anak usaha ABM Investama, Cipta Kridatama, menandatangani kontrak jasa tambang batu bara dengan dua perusahaan tambang hingga akhir 2031, mencakup volume ratusan juta bcm dan puluhan juta ton batu bara.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ABMM",
-   "Cipta Kridatama",
-   "kontrak tambang",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eacf9f0c9f_b2af1a6780.pdf",
   "sourceLabel": "IDX"
  }
 ];

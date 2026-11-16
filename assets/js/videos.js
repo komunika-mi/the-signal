@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "JuRC_HF7HKY",
+  "title": "Perebutan Untung dari Pengelolaan Sumur Minyak Rakyat",
+  "category": "Energi",
+  "program": "Fakta tvOne",
+  "summary": "Pemerintah menerbitkan Peraturan Menteri ESDM Nomor 14 Tahun 2025 yang membuka peluang pengelolaan sumur minyak rakyat untuk mendorong produksi minyak nasional dan memperkuat ketahanan energi.",
+  "takeaway": "Regulasi ini berpotensi mengubah tata kelola sumur minyak tua di tingkat masyarakat sekaligus memengaruhi target produksi migas nasional.",
+  "terbit": "2026-11-16T12:12:55+00:00"
+ },
+ {
   "id": "VjM3hBh-SDQ",
   "title": "Harga Kebutuhan Pokok di Pasar Surabaya Melonjak",
   "category": "Makroekonomi",

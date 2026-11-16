@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha",
+  "category": "Bisnis",
+  "title": "Pemerintah Ajukan [Revisi] UU Kadin ke DPR, Perkuat Satu Wadah Usaha",
+  "deck": "Pemerintah menyerahkan daftar masukan untuk RUU Kadin ke DPR, mengusulkan enam perubahan mendasar atas UU Kadin yang berlaku sejak 1987.",
+  "date": "16 November 2026",
+  "image": "assets/img/pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha.jpg",
+  "imageV": "mwjaaom4",
+  "tags": [
+   "RUU Kadin",
+   "Kementerian Perdagangan",
+   "DPR",
+   "Kadin"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-peran-kadin-melalui-ruu-kadin-pemerintah-serahkan-daftar-inventarisasi-masalah",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
   "category": "Aksi Korporasi",
   "title": "Public Expose BIPI: [Divestasi] SBG Rp1,79 T, Dana ke LNG",
@@ -35,6 +53,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2888658a0b_c78280b726.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pt-bsu-gandeng-empat-bpr-biayai-vila-premium-yogyakarta",
+  "category": "Perbankan",
+  "title": "PT BSU Gandeng [Empat] BPR Biayai Vila Premium Yogyakarta",
+  "deck": "PT Bakrie Swasakti Utama menggandeng empat BPR daerah untuk membiayai proyek vila premium Nirwana Villas Malioboro di kawasan Golden Triangle Yogyakarta.",
+  "date": "16 November 2026",
+  "image": "assets/img/pt-bsu-gandeng-empat-bpr-biayai-vila-premium-yogyakarta.jpg",
+  "imageV": "mwjaap2c",
+  "tags": [
+   "Bakrieland",
+   "BPR",
+   "Yogyakarta",
+   "Properti"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478667-pt-bakrie-swasakti-utama-gandeng-empat-bpr-kembangkan-properti-di-yogyakarta"
  },
  {
   "slug": "pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak",
@@ -6479,38 +6514,6 @@ var ARTICLES = [
    "BNI Mobile Banking"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed5c7783bd_137f346595.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "plas-buka-suspensi-sesaat-untuk-crossing-buyback-delisting",
-  "category": "Aksi Korporasi",
-  "title": "PLAS Buka Suspensi Sesaat untuk [Crossing] Buyback Delisting",
-  "deck": "Bursa membuka sementara perdagangan PLAS khusus di Pasar Negosiasi pada 9 November 2026 untuk transaksi crossing buyback saham terkait delisting, lalu menyuspensinya lagi setelah transaksi selesai.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLAS",
-   "delisting",
-   "buyback saham",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b0f8c438f_6145c08d11.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bafi-siapkan-dana-pelunasan-obligasi-rp100-miliar-29-november",
-  "category": "Aksi Korporasi",
-  "title": "BAFI Siapkan Dana [Pelunasan] Obligasi Rp100 Miliar 29 November",
-  "deck": "BAFI menyiapkan dana Rp100 miliar untuk melunasi pokok dan bunga terakhir obligasi yang jatuh tempo 29 November 2026, dana dikirim ke KSEI 27 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BAFI",
-   "obligasi",
-   "Bussan Auto Finance",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7cb13aa4ed_1ed4753d96.pdf",
   "sourceLabel": "IDX"
  }
 ];

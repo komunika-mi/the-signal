@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "JuRC_HF7HKY",
+  "title": "Perebutan Untung dari Pengelolaan Sumur Minyak Rakyat",
+  "category": "Energi",
+  "program": "Fakta tvOne",
+  "summary": "Pemerintah menerbitkan Peraturan Menteri ESDM Nomor 14 Tahun 2025 yang membuka peluang pengelolaan sumur minyak rakyat untuk mendorong produksi minyak nasional dan memperkuat ketahanan energi.",
+  "takeaway": "Regulasi ini berpotensi mengubah tata kelola sumur minyak tua di tingkat masyarakat sekaligus memengaruhi target produksi migas nasional."
+ },
+ {
   "id": "VjM3hBh-SDQ",
   "title": "Harga Kebutuhan Pokok di Pasar Surabaya Melonjak",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kamar Dagang dan Industri Indonesia menyatakan dukungan terhadap Musyawarah Nasional X Ikatan Wanita Pengusaha Indonesia sebagai upaya mendorong peran pengusaha perempuan dalam penguatan ekonomi nasional.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran pengusaha perempuan dan UMKM dalam mendukung pertumbuhan ekonomi nasional."
- },
- {
-  "id": "MWhh4s9pcHY",
-  "title": "OJK Perkuat Penegakan Hukum di Pasar Modal",
-  "category": "Pasar Modal",
-  "program": "Kabar Siang",
-  "summary": "Otoritas Jasa Keuangan menegaskan komitmennya memperkuat penegakan hukum di sektor pasar modal lewat sanksi yang tegas, konsisten, dan proporsional untuk melindungi investor.",
-  "takeaway": "Penegakan hukum yang konsisten di pasar modal menjadi indikator penting bagi kepercayaan investor dan kesehatan pasar keuangan domestik."
  }
 ];

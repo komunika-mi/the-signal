@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha",
+  "category": "Bisnis",
+  "title": "Pemerintah Ajukan [Revisi] UU Kadin ke DPR, Perkuat Satu Wadah Usaha",
+  "deck": "Pemerintah menyerahkan daftar masukan untuk RUU Kadin ke DPR, mengusulkan enam perubahan mendasar atas UU Kadin yang berlaku sejak 1987.",
+  "image": "assets/img/pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T13:08:38.541Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-peran-kadin-melalui-ruu-kadin-pemerintah-serahkan-daftar-inventarisasi-masalah",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "RUU Kadin",
+   "Kementerian Perdagangan",
+   "DPR",
+   "Kadin"
+  ],
+  "body": [
+   "Pemerintah resmi menyerahkan Daftar Inventarisasi Masalah (DIM), yaitu kumpulan usulan perubahan, untuk Rancangan Undang-Undang tentang Kamar Dagang dan Industri (Kadin) kepada Komisi VI DPR RI, Senin (16/11). Penyerahan ini menandai mulainya pembahasan resmi revisi UU Kadin yang sudah berlaku hampir empat puluh tahun sejak 1987. Menteri Perdagangan Budi Santoso menyampaikan DIM tersebut mewakili Menteri Investasi dan Hilirisasi Rosan Perkasa Roeslani, yang mengoordinasikan penyusunannya bersama Kementerian Sekretariat Negara, Kementerian Hukum, Kementerian Perindustrian, dan Kementerian UMKM.",
+   "Menurut Kemendag, revisi ini diajukan karena pemerintah menargetkan pertumbuhan ekonomi 8 persen dan investasi sekitar Rp13.032 triliun untuk periode 2025-2029, target yang menurut mereka membutuhkan dunia usaha yang lebih terorganisasi lewat Kadin. DIM Pemerintah memuat enam pokok usulan. Pertama, menegaskan Kadin sebagai satu wadah induk yang mandiri dengan aturan organisasi yang disepakati lewat musyawarah nasional. Kedua, memperjelas fungsi Kadin dalam advokasi kebijakan, pembinaan, dan pendampingan pelaku usaha.",
+   "Ketiga, menyelaraskan kerja Kadin dengan kewenangan kementerian dan lembaga terkait, termasuk keterlibatan Kadin mendukung diplomasi ekonomi bersama perwakilan diplomatik Indonesia di luar negeri. Keempat, memperkuat peran Kadin dalam pendidikan vokasi, transformasi digital, promosi investasi, dan kemitraan usaha besar dengan UMKM. Kelima, mewajibkan pendanaan Kadin dikelola secara transparan dan diaudit. Keenam, mengatur masa transisi bagi Kadin untuk menyesuaikan aturan internalnya setelah UU baru berlaku.",
+   "Komisi VI DPR RI dalam rapat kerja tersebut menyepakati pembahasan RUU Kadin akan dilakukan lewat Panitia Kerja (Panja) khusus, dengan target pembahasan rampung pada Masa Persidangan II Tahun Sidang 2026-2027. Ketua Panja RUU Kadin, Adisatrya Suryo Sulisto, menyatakan dukungannya terhadap pembaruan ini agar Kadin bisa menjadi penghubung yang lebih efektif antara dunia usaha dan pemerintah, termasuk mempererat keterkaitan antara usaha besar dan UMKM."
+  ],
+  "fotoAdegan": "Interior of a large parliamentary hearing room with long tables, microphones, and rows of chairs arranged for a formal session, soft morning light",
+  "fotoSumber": "https://www.kemendag.go.id/albums/qprtUZpKAxgOhhdgpgxyRoqNdmjhHTpFM3YwHZsL.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Inti perubahannya ada di enam poin DIM, terutama soal menjadikan Kadin satu wadah tunggal yang diatur lewat musyawarah nasional, dan mewajibkan keuangan Kadin diaudit serta dikelola transparan. Yang langsung terdampak adalah pengurus dan anggota Kadin di berbagai daerah, karena aturan baru ini bisa mengubah cara organisasi mereka diatur dan diawasi, termasuk pelaku UMKM yang disebut akan lebih dilibatkan dalam kemitraan dengan usaha besar. Arahnya tampak menuju konsolidasi Kadin sebagai representasi tunggal dunia usaha dengan pengawasan keuangan yang lebih ketat, bukan sekadar pembaruan administratif biasa. Yang akan menentukan apakah arah ini benar-benar terwujud adalah hasil pembahasan di Panja DPR, yang ditargetkan rampung pada Masa Persidangan II Tahun Sidang 2026-2027.",
+  "imageV": "mwjaaom4"
+ },
+ {
   "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
   "category": "Aksi Korporasi",
   "title": "Public Expose BIPI: [Divestasi] SBG Rp1,79 T, Dana ke LNG",
@@ -57,6 +85,33 @@ var ARTICLES = [
   "takeaway": "Secara keseluruhan tanggapan ini condong negatif bagi TMPO, karena inti jawabannya menegaskan bahwa rugi usaha dan penurunan pendapatan terjadi di semua segmen tanpa ada angka pembalikan konkret, meski risiko gagal bayar utang bank untuk sementara mengecil setelah seluruh covenant dinyatakan terpenuhi. Pos yang tersentuh adalah piutang usaha dan beban keuangan: piutang yang sudah lewat 90 hari dan masih menumpuk berarti uang yang seharusnya masuk dari pelanggan makin berisiko tidak tertagih, sementara beban keuangan, yakni bunga yang harus dibayar atas pinjaman bank dan non-bank, membebani perusahaan yang pendapatannya justru menurun di semua lini usaha. Yang perlu dipantau berikutnya adalah apakah realisasi enam langkah efisiensi dan evaluasi segmen usaha, termasuk kemungkinan restrukturisasi lini yang terus merugi, benar-benar muncul sebagai angka pada laporan keuangan kuartal berikutnya, karena dokumen ini sendiri belum mencantumkan tenggat waktu konkret untuk langkah-langkah tersebut.",
   "sentimen": "negatif",
   "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "pt-bsu-gandeng-empat-bpr-biayai-vila-premium-yogyakarta",
+  "category": "Perbankan",
+  "title": "PT BSU Gandeng [Empat] BPR Biayai Vila Premium Yogyakarta",
+  "deck": "PT Bakrie Swasakti Utama menggandeng empat BPR daerah untuk membiayai proyek vila premium Nirwana Villas Malioboro di kawasan Golden Triangle Yogyakarta.",
+  "image": "assets/img/pt-bsu-gandeng-empat-bpr-biayai-vila-premium-yogyakarta.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T18:24:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478667-pt-bakrie-swasakti-utama-gandeng-empat-bpr-kembangkan-properti-di-yogyakarta",
+  "tags": [
+   "Bakrieland",
+   "BPR",
+   "Yogyakarta",
+   "Properti"
+  ],
+  "body": [
+   "PT Bakrie Swasakti Utama (BSU), anak usaha PT Bakrieland Development Tbk, menggandeng empat Bank Perkreditan Rakyat (BPR) milik pemerintah daerah untuk mendanai perluasan bisnis propertinya di Yogyakarta. Langkah ini menarik karena pengembang properti besar biasanya mengandalkan bank umum nasional, bukan bank daerah berskala kecil, untuk membiayai proyek sebesar ini.",
+   "Kerja sama dituangkan lewat penandatanganan akad kredit antara PT BSU dengan PT BPR Jatim, PT BPR Kulon Progo, PT BPR Delta Artha, dan PT BPR Palembang, yang berlangsung di Hotel Aston Sidoarjo, Jawa Timur, Senin (16/11/2026). Dana dari keempat BPR tersebut akan dipakai untuk membangun Nirwana Villas Malioboro, proyek hunian vila premium di kawasan yang disebut Golden Triangle Yogyakarta, yakni area yang menghubungkan Keraton, Alun-alun Kidul, dan Prawirotaman. Proyek ini menempati lahan lebih dari 3.400 meter persegi, dengan konsep vila berkolam renang pribadi dan empat kamar tidur per unit.",
+   "Presiden Direktur PT BSU Resza Adikreshna mengatakan, \"Kami menyambut baik terjalinnya kerja sama pembiayaan sindikasi ini antara PT BSU dengan Bank BPR. Dukungan pembiayaan ini akan kami optimalkan untuk mendukung pengembangan Nirwana Villas Malioboro.\" Ia berharap kolaborasi ini membuka peluang kerja sama pembiayaan lain di masa depan.",
+   "Proyek ini dikembangkan melalui PT Mutiara Masyhur Sejahtera (MMS), anak usaha PT BSU yang sebelumnya membangun kawasan hunian Kahuripan Nirwana di Sidoarjo seluas 111 hektare. Selain untuk kebutuhan hunian, Nirwana Villas Malioboro juga diarahkan sebagai properti investasi, termasuk untuk segmen akomodasi wisata."
+  ],
+  "fotoAdegan": "Construction workers building villa foundations and pool frames in a leafy Yogyakarta neighborhood, scaffolding and building materials visible, midday light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/16/6afae5357e335-pt-bakrie-swasakti-utama-bsu-anak-usaha-pt-bakrieland-development-tbk-memperkuat-pengembangan-bisnis-properti-di-yogyakarta_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah bukan proyeknya, melainkan sumber dananya: PT BSU menggalang pembiayaan sindikasi dari empat BPR milik pemerintah daerah, yaitu BPR Jatim, BPR Kulon Progo, BPR Delta Artha, dan BPR Palembang, bukan dari bank umum besar seperti biasa dipakai pengembang properti. BPR sendiri umumnya bank kecil yang hanya melayani kredit skala mikro di wilayahnya sendiri, jadi keikutsertaan mereka membiayai proyek vila premium lintas provinsi ini tidak lazim bagi lembaga sekelas itu. Pihak yang langsung terkait adalah PT Bakrieland lewat anak usahanya, keempat BPR daerah tersebut beserta pemerintah daerah pemiliknya, dan kawasan Golden Triangle Yogyakarta yang akan menampung proyek baru ini. Berita ini tidak menyebut nilai total kredit atau jangka waktu pembiayaannya, sehingga belum bisa dipastikan apakah pola BPR membiayai proyek properti skala besar seperti ini akan berlanjut atau cuma kasus khusus, hal yang baru akan terlihat kalau PT BSU atau BPR-BPR ini mengumumkan nilai sindikasi atau proyek sejenis berikutnya.",
+  "imageV": "mwjaap2c"
  },
  {
   "slug": "pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak",
@@ -582,7 +637,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di balik angka ini adalah arah utangnya, bukan sekadar naik atau turun. Utang luar negeri pemerintah naik hampir US$4 miliar dalam satu triwulan, dan BI menyebut kenaikan itu banyak didorong investor asing yang membeli lebih banyak surat utang negara, semacam surat utang yang diterbitkan pemerintah untuk menutup kekurangan anggaran dan juga dijual kepada pembeli luar negeri. Di sisi lain, perusahaan di sektor manufaktur, keuangan, listrik-gas, dan pertambangan justru mengurangi pinjaman luar negeri mereka, sehingga beban utang luar negeri kini lebih banyak ditanggung negara ketimbang korporasi. Ada dua kemungkinan arah dari sini: pemerintah makin mengandalkan dana asing untuk menambal anggaran kalau minat beli surat utang itu terus berlanjut, atau kenaikan triwulan ini cuma momentum sesaat dari jadwal pencairan pinjaman dan penerbitan surat utang yang kebetulan jatuh di periode ini. Yang akan menentukan mana yang benar adalah data kepemilikan asing di surat utang negara pada bulan-bulan berikutnya, serta rilis statistik utang luar negeri triwulan IV 2026 yang biasanya terbit awal Februari 2027.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton",

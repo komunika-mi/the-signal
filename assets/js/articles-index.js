@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "raam-ram-jethmal-punjabi-tambah-1-1-juta-saham-suara-68-87",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Ram Jethmal Punjabi [Tambah] 1,1 Juta Saham, Suara 68,87%",
+  "deck": "Direksi RAAM, Ram Jethmal Punjabi, membeli 1,1 juta saham pada 12 November 2026 seharga Rp113 sampai Rp125 per saham, menaikkan hak suaranya menjadi 68,87 persen.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision Plus",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-8597-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nsss-direksi-kurniadi-patriawan-lepas-441-juta-saham-suara-0-21",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Kurniadi Patriawan [Lepas] 441 Juta Saham, Suara 0,21%",
+  "deck": "Direksi NSSS Kurniadi Patriawan melepas 441 juta saham atau 90,2 persen kepemilikannya pada 12 November 2026, hak suara turun dari 2,06 persen menjadi 0,21 persen.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "pinjaman saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-6081-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mtla-yulie-sekuritas-jual-13-05-juta-saham-suara-ke-4-94",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Yulie Sekuritas [Jual] 13,05 Juta Saham, Suara ke 4,94%",
+  "deck": "Yulie Sekuritas menjual 13,05 juta saham MTLA pada 13 November 2026 di harga Rp690, memangkas hak suara dari 5,12% menjadi 4,94%, turun di bawah ambang 5%.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTLA",
+   "Yulie Sekuritas",
+   "kepemilikan saham",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-0581-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan",
   "category": "Teknologi",
   "title": "NVIDIA: Jensen Huang [Mundur], Dua Anak Jadi Sorotan",
@@ -159,6 +207,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478486-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026"
+ },
+ {
+  "slug": "public-expose-chem-laba-bersih-turun-64-akibat-rugi-kurs",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CHEM: Laba Bersih [Turun] 64% Akibat Rugi Kurs",
+  "deck": "Dalam public expose 12 November, manajemen CHEM mengungkap laba bersih turun 64% meski laba kotor naik, akibat kerugian kurs dari pelemahan rupiah.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CHEM",
+   "Public Expose",
+   "Laba Bersih",
+   "Rugi Kurs"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5cea0014e_d77a2efa60.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-jawab-bursa-lanjutan-iii-akuisisi-mti-rp0-tanggung-rp15-m",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jawab Bursa Lanjutan III: [Akuisisi] MTI Rp0, Tanggung Rp15 M",
+  "deck": "BIKE menanggapi permintaan penjelasan ketiga Bursa: akuisisi 99% saham MTI dibeli Rp0 karena liabilitasnya Rp15 miliar, serta koreksi pinjaman PMJ Rp125 miliar.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "Bursa Efek Indonesia",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf4536c0c5_d3c9a375c6.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "public-expose-blta-laba-berjalan-naik-ke-us-5-5-juta",
@@ -6421,86 +6501,6 @@ var ARTICLES = [
    "insider buying"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7380-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-komisaris-suhendra-mundur-efektif-usai-inbreng-rampung",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ: Komisaris Suhendra [Mundur], Efektif Usai Inbreng Rampung",
-  "deck": "Komisaris ULTJ Suhendra Prawirawidjaja mengundurkan diri, tapi baru efektif setelah proses inbreng dalam rights issue PMHMETD IV selesai.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "Dewan Komisaris",
-   "Frisian Flag",
-   "rights issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cc10d6a437_3ccc698700.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "direksi-mdla-beli-50-000-saham-senilai-rp9-3-juta",
-  "category": "Aksi Korporasi",
-  "title": "Direksi [MDLA] Beli 50.000 Saham Senilai Rp9,3 Juta",
-  "deck": "Edbert Orotodan, direksi Medela Potentia, membeli 50.000 saham MDLA seharga Rp186 per saham pada 3 November 2026, hak suaranya tetap 0,014 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Medela Potentia",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-1467-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tapg-direksi-beli-200-000-saham-senilai-rp375-juta",
-  "category": "Aksi Korporasi",
-  "title": "TAPG: Direksi [Beli] 200.000 Saham Senilai Rp375 Juta",
-  "deck": "George Oetomo, direksi Triputra Agro Persada, menambah kepemilikan sahamnya di TAPG lewat pembelian tidak langsung pada 3 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAPG",
-   "kepemilikan saham",
-   "direksi",
-   "insider trading"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-3792-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bram-kantongi-tambahan-klaim-asuransi-us-23-6-juta-banjir",
-  "category": "Aksi Korporasi",
-  "title": "BRAM Kantongi Tambahan [Klaim Asuransi] US$23,6 Juta Banjir",
-  "deck": "Indo Kordsa memperoleh persetujuan tambahan pendapatan asuransi US$23,6 juta atas klaim banjir Bogor 2025, total klaim kini US$48,6 juta.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRAM",
-   "Indo Kordsa",
-   "klaim asuransi",
-   "banjir Bogor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a8d859dcae_7a532d4d2d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "avia-bagikan-dividen-interim-rp700-miliar-laba-naik-16-5",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Bagikan [Dividen Interim] Rp700 Miliar, Laba Naik 16,5%",
-  "deck": "Laba bersih sembilan bulan AVIA tumbuh 16,5% jadi Rp1,38 triliun, Avian Brands bagikan dividen interim Rp12 per saham senilai total Rp700 miliar.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "dividen interim",
-   "laba bersih",
-   "cat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/208ef9cff7_732a7a802c.pdf",
   "sourceLabel": "IDX"
  }
 ];

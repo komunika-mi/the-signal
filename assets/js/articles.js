@@ -3,6 +3,89 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "raam-ram-jethmal-punjabi-tambah-1-1-juta-saham-suara-68-87",
+  "category": "Aksi Korporasi",
+  "title": "RAAM: Ram Jethmal Punjabi [Tambah] 1,1 Juta Saham, Suara 68,87%",
+  "deck": "Direksi RAAM, Ram Jethmal Punjabi, membeli 1,1 juta saham pada 12 November 2026 seharga Rp113 sampai Rp125 per saham, menaikkan hak suaranya menjadi 68,87 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T10:55:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-8597-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RAAM",
+  "tags": [
+   "RAAM",
+   "Tripar Multivision Plus",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Ram Jethmal Punjabi, anggota direksi PT Tripar Multivision Plus Tbk (RAAM), melaporkan ke Otoritas Jasa Keuangan bahwa ia membeli 1.100.000 saham perusahaan secara tidak langsung pada 12 November 2026. Dengan pembelian ini, kepemilikannya naik dari 4.691.670.082 saham menjadi 4.692.770.082 saham, sementara hak suaranya bertambah dari 68,86 persen menjadi 68,87 persen.",
+   "Transaksi dilakukan dalam 13 kali pembelian tidak langsung pada tanggal yang sama, dengan harga bervariasi dari Rp113 hingga Rp125 per saham. Rinciannya: 55.400 saham di harga Rp113, 7.200 saham di Rp114, 360.500 saham di Rp115, 53.800 saham di Rp116, 24.500 saham di Rp117, 12.300 saham di Rp118, 41.600 saham di Rp119, 70.800 saham di Rp120, 50.000 saham di Rp121, 174.000 saham di Rp122, 128.800 saham di Rp123, 70.900 saham di Rp124, dan 50.200 saham di Rp125. Seluruh transaksi tercatat dengan tujuan investasi.",
+   "Dengan tambahan ini, porsi kepemilikan Punjabi di Tripar Multivision Plus, perusahaan produksi dan distribusi film yang tercatat dengan kode RAAM, naik tipis menjadi 68,87 persen hak suara. Kenaikan 0,0234 persen dari total kepemilikannya ini tergolong kecil dibandingkan basis sahamnya yang sudah lebih dari 4,6 miliar lembar."
+  ],
+  "fotoAdegan": "Film crew adjusting professional cameras and lighting rigs on an indoor soundstage, cables and equipment visible, soft studio lighting.",
+  "takeaway": "Laporan ini netral bagi RAAM karena pembelian 1,1 juta saham oleh Ram Jethmal Punjabi hanya setara 0,0234 persen dari kepemilikannya sendiri dan hak suaranya nyaris tidak bergerak, dari 68,86 persen menjadi 68,87 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan direksi terhadap prospek perusahaan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham pengendali, bukan kinerja keuangan perusahaan, sebab transaksi ini terjadi di pasar sekunder antar pemegang saham dan tidak menambah jumlah saham beredar maupun kas masuk ke perusahaan. Pelaku pasar biasanya memperhatikan pergerakan kepemilikan direksi atau komisaris karena dianggap mencerminkan pandangan orang dalam, tetapi untuk transaksi seukuran ini sinyalnya lemah. Yang perlu dipantau selanjutnya adalah apakah Punjabi atau direksi lain RAAM kembali menambah saham dalam laporan berikutnya, karena rangkaian pembelian kecil yang berulang baru punya makna kalau dijumlahkan dari waktu ke waktu.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "nsss-direksi-kurniadi-patriawan-lepas-441-juta-saham-suara-0-21",
+  "category": "Aksi Korporasi",
+  "title": "NSSS: Direksi Kurniadi Patriawan [Lepas] 441 Juta Saham, Suara 0,21%",
+  "deck": "Direksi NSSS Kurniadi Patriawan melepas 441 juta saham atau 90,2 persen kepemilikannya pada 12 November 2026, hak suara turun dari 2,06 persen menjadi 0,21 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T09:45:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-6081-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "kepemilikan saham",
+   "direksi",
+   "pinjaman saham"
+  ],
+  "body": [
+   "Kurniadi Patriawan, direksi PT Nusantara Sawit Sejahtera Tbk (NSSS), melaporkan pengurangan kepemilikan saham perusahaan dalam jumlah besar kepada Otoritas Jasa Keuangan. Berdasarkan laporan yang diterbitkan 16 November 2026, jumlah sahamnya berkurang dari 489.098.500 lembar menjadi 48.098.500 lembar, atau turun 441.000.000 lembar yang setara 90,2 persen dari kepemilikannya sebelum transaksi. Transaksi tercatat terjadi pada 12 November 2026 dan membuat hak suaranya di NSSS merosot dari 2,06 persen menjadi hanya 0,21 persen.",
+   "Dokumen laporan mencantumkan jenis transaksi sebagai repurchase agreement dengan tujuan pinjaman saham, dan status kepemilikan saham yang berkurang ini tercatat sebagai kepemilikan tidak langsung. Dokumen tidak mencantumkan harga transaksi maupun nama pihak yang menerima pinjaman saham tersebut, dan tidak ada batas akhir periode pelaksanaan yang disebutkan.",
+   "Laporan ini terbit sepekan setelah NSSS mencatat sejumlah transaksi saham oleh direksi lain, termasuk penambahan kepemilikan melalui mekanisme repo pada 9 November 2026. Berbeda dengan transaksi-transaksi sebelumnya yang bersifat penambahan kepemilikan, laporan Kurniadi kali ini menunjukkan arah sebaliknya, yaitu pengurangan dalam porsi yang signifikan dari total sahamnya di perusahaan."
+  ],
+  "fotoAdegan": "Workers loading fresh palm fruit bunches onto a truck at a plantation collection point, early morning light",
+  "takeaway": "Saya menilai laporan ini negatif, karena porsi saham yang berkurang mencapai 90,2 persen dari total kepemilikan Kurniadi dan membuat hak suaranya tergerus dari 2,06 persen menjadi 0,21 persen, sehingga nyaris kehilangan posisi sebagai pemegang saham signifikan di NSSS. Yang tersentuh di sini adalah hak suara dan sinyal keyakinan insider, bukan ekuitas perusahaan secara langsung, karena skema yang dipakai adalah pinjaman saham dengan status kepemilikan tidak langsung, artinya saham ini berpotensi kembali ke tangan Kurniadi di kemudian hari dan tidak otomatis berarti dijual permanen ke pasar. Meski begitu, penurunan hak suara sebesar ini dari seorang direksi biasanya dibaca pelaku pasar sebagai berkurangnya kepentingan langsungnya di perusahaan. Yang perlu dipantau berikutnya adalah apakah Kurniadi menerbitkan laporan lanjutan yang menunjukkan saham ini dikembalikan atau justru benar-benar berpindah tangan secara permanen, karena dokumen ini sendiri tidak menyebut tenggat atau tanggal pengembaliannya.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "mtla-yulie-sekuritas-jual-13-05-juta-saham-suara-ke-4-94",
+  "category": "Aksi Korporasi",
+  "title": "MTLA: Yulie Sekuritas [Jual] 13,05 Juta Saham, Suara ke 4,94%",
+  "deck": "Yulie Sekuritas menjual 13,05 juta saham MTLA pada 13 November 2026 di harga Rp690, memangkas hak suara dari 5,12% menjadi 4,94%, turun di bawah ambang 5%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T09:40:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-0581-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTLA",
+  "tags": [
+   "MTLA",
+   "Yulie Sekuritas",
+   "kepemilikan saham",
+   "hak suara"
+  ],
+  "body": [
+   "Yulie Sekuritas Indonesia Tbk melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 13.050.000 saham Metropolitan Land Tbk (MTLA) secara tidak langsung pada 13 November 2026, di harga Rp690 per saham. Dengan transaksi ini, kepemilikan Yulie Sekuritas di MTLA berkurang dari 391.579.961 saham menjadi 378.529.961 saham, sementara hak suaranya turun dari 5,12% menjadi 4,94%. Laporan tersebut disampaikan ke OJK pada 16 November 2026 dengan tujuan transaksi tercatat sebagai penjualan saham.",
+   "Jumlah saham yang dilepas setara dengan sekitar 3,33% dari total kepemilikan Yulie Sekuritas sebelumnya, dengan nilai transaksi sekitar Rp9 miliar. Penurunan ini membawa hak suara Yulie Sekuritas di MTLA turun di bawah ambang 5%, batas yang biasa dipakai otoritas pasar modal untuk mengelompokkan pemegang saham sebagai pemegang saham utama yang wajib melaporkan setiap perubahan kepemilikannya."
+  ],
+  "fotoAdegan": "Busy stock brokerage office with traders at desks, multiple distant blurred screens, phones in hand, fluorescent lighting",
+  "takeaway": "Laporan ini condong netral bagi MTLA: pelapornya adalah perusahaan sekuritas, bukan direksi atau komisaris, sehingga penjualan ini lebih mencerminkan pengelolaan portofolio ketimbang sinyal soal arah bisnis perseroan. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan kinerja operasional atau laporan keuangan MTLA, sebab transaksi ini tidak melibatkan saham baru maupun dana yang masuk ke kas perusahaan. Meski begitu, penurunan hak suara dari 5,12% menjadi 4,94% membawa Yulie Sekuritas di bawah ambang 5%, batas yang membuat pemegang saham tidak lagi otomatis wajib melaporkan setiap perubahan kepemilikannya ke OJK. Yang perlu dipantau berikutnya adalah apakah Yulie Sekuritas melanjutkan pelepasan saham MTLA, yang akan terlihat dari laporan kepemilikan susulan ke OJK pada periode mendatang.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan",
   "category": "Teknologi",
   "title": "NVIDIA: Jensen Huang [Mundur], Dua Anak Jadi Sorotan",
@@ -245,6 +328,61 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah pada edisi SMEXPO tahun ini bukan cuma soal jumlah peserta, tapi bentuk acaranya: pameran UMKM binaan Pertamina, yang kali ini diikuti 40 pelaku usaha dari sektor kuliner, fesyen, dan kriya selama enam hari sejak 10 November, digabung dengan layanan dari bisnis lain milik Pertamina Group yang bukan jual bahan bakar, yaitu layanan kesehatan dari IHC dan perhotelan dari Patra Jasa, dalam satu lokasi di mal. Yang kena dampak langsung adalah pelaku UMKM binaan yang mendapat tempat pamer gratis di mal besar Jakarta, serta pengunjung yang bisa sekaligus mencoba layanan-layanan grup itu dalam satu kunjungan. Yang belum terjawab dari informasi yang ada adalah apakah pola menggabungkan promosi UMKM dengan layanan lain Pertamina Group ini akan jadi format tetap di edisi SMEXPO berikutnya atau diperluas ke kota lain, sebab Pertamina belum merilis angka penjualan atau jumlah pengunjung selama enam hari acara ini berlangsung. Yang perlu dipantau adalah apakah Pertamina mengumumkan hasil evaluasi SMEXPO Jakarta ini atau rencana penyelenggaraan serupa di kota lain pada periode berikutnya.",
   "imageV": "mwhoe8nu"
+ },
+ {
+  "slug": "public-expose-chem-laba-bersih-turun-64-akibat-rugi-kurs",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CHEM: Laba Bersih [Turun] 64% Akibat Rugi Kurs",
+  "deck": "Dalam public expose 12 November, manajemen CHEM mengungkap laba bersih turun 64% meski laba kotor naik, akibat kerugian kurs dari pelemahan rupiah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T09:48:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5cea0014e_d77a2efa60.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CHEM",
+  "tags": [
+   "CHEM",
+   "Public Expose",
+   "Laba Bersih",
+   "Rugi Kurs"
+  ],
+  "body": [
+   "PT Chemstar Indonesia Tbk (CHEM) menggelar public expose tahunan secara virtual melalui Zoom pada Kamis, 12 November 2026, dihadiri 14 peserta dari kalangan investor dan masyarakat umum. Paparan disampaikan oleh Direktur Utama Kwee Sutrimo, Direktur Marketing Lusi, Direktur Keuangan Tony Widjaja, dan Direktur Divisi Energy sekaligus Corporate Secretary Wenty Akbar Rasjid. Dalam sesi tanya jawab, manajemen mengakui laba bersih perusahaan turun 64 persen sepanjang tahun berjalan, padahal laba kotor (gross profit) justru naik. Manajemen menjelaskan penyebabnya adalah kenaikan beban umum dan administrasi, terutama kerugian selisih kurs yang cukup signifikan akibat pelemahan nilai tukar rupiah.",
+   "Soal target pendapatan tahun ini sebesar Rp255 miliar, khususnya dari Divisi Agro, manajemen menyatakan akan melakukan evaluasi dan penyesuaian target berdasarkan kondisi pasar serta potensi penjualan yang realistis. Untuk Divisi Energi, perusahaan menghadapi tantangan aturan kandungan dalam negeri atau TKDN sebesar 70 persen di tengah ketergantungan pada bahan baku impor. Manajemen mengklaim terus melakukan riset dan pengembangan untuk mencari sumber bahan baku lokal serta menjalin kemitraan dengan pabrikan domestik demi mencapai target TKDN tersebut.",
+   "Terkait kebijakan dividen, pengurangan utang, dan rencana usaha baru di tengah laba yang menipis, manajemen menegaskan komitmen membagikan dividen sepanjang perusahaan masih mencatatkan laba, dibarengi efisiensi biaya untuk memulihkan profitabilitas seperti tahun-tahun sebelumnya. Manajemen juga mengungkapkan bahwa perusahaan sedang menjajaki kerja sama strategis dengan mitra pabrikan untuk mempercepat ekspansi bisnis. Kerja sama ini disebut lebih mengarah pada kemitraan bisnis, bukan masuknya investor baru, dan detailnya masih dalam tahap pembahasan internal sehingga belum bisa diungkap lebih jauh."
+  ],
+  "fotoAdegan": "Technicians in safety gear checking valves on steel chemical storage tanks at an industrial facility, overcast morning light",
+  "takeaway": "Laporan ini condong negatif bagi fundamental CHEM, karena inti dari sesi tanya jawab justru soal laba bersih yang anjlok 64 persen, bukan soal kinerja penjualan yang sebenarnya membaik. Pos yang tersentuh adalah laba bersih akibat kerugian selisih kurs, yaitu beban tambahan yang timbul ketika rupiah melemah terhadap dolar dan membuat nilai utang atau biaya dalam dolar membengkak saat dikonversi ke rupiah. Pelaku pasar menyoroti pos ini karena langsung memotong laba bersih dan ujungnya mengecilkan laba per saham, yaitu jatah keuntungan yang jadi bagian tiap pemegang saham. Yang perlu dipantau berikutnya adalah realisasi evaluasi target penjualan Rp255 miliar terutama dari Divisi Agro, serta kelanjutan pembicaraan kerja sama strategis dengan mitra pabrikan yang disebut masih berada di tahap pembahasan internal. Dokumen ini tidak mencantumkan tanggal pasti untuk kedua hal tersebut, sehingga kejelasannya baru akan terlihat di laporan kinerja berikutnya.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+ },
+ {
+  "slug": "bike-jawab-bursa-lanjutan-iii-akuisisi-mti-rp0-tanggung-rp15-m",
+  "category": "Aksi Korporasi",
+  "title": "BIKE Jawab Bursa Lanjutan III: [Akuisisi] MTI Rp0, Tanggung Rp15 M",
+  "deck": "BIKE menanggapi permintaan penjelasan ketiga Bursa: akuisisi 99% saham MTI dibeli Rp0 karena liabilitasnya Rp15 miliar, serta koreksi pinjaman PMJ Rp125 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T09:20:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf4536c0c5_d3c9a375c6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "Bursa Efek Indonesia",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) menyampaikan tanggapan atas surat Bursa Efek Indonesia No. S-14141/BEI.PP3/11-2026 tanggal 13 November 2026 perihal Permintaan Penjelasan Lanjutan III, yang berarti ini sudah permintaan penjelasan ketiga dari bursa dalam rangkaian yang sama. Surat tanggapan ditandatangani Direktur Muhamad Kuswandi pada 16 November 2026, menyusul koreksi laporan keuangan interim 30 September 2026 yang sudah diterbitkan ulang pada 10 November 2026.",
+   "Soal koreksi laporan keuangan, Perseroan menjelaskan bahwa penerimaan pinjaman pemegang saham dari PT Penajam Makmur Jaya (PMJ) senilai Rp125 miliar sempat tidak tercatat penuh di laporan awal, bersama alokasinya sebesar Rp96,56 miliar untuk belanja investasi dan sisa dana Rp28,44 miliar di kas dan bank. Alasan yang disampaikan adalah transaksi terjadi berdekatan dengan tanggal tutup buku sehingga dokumen verifikasi bank, seperti rekening koran final dan bukti transfer, baru lengkap setelah draf laporan disusun. Sebagai perbaikan, Perseroan berjanji menerapkan batas cut-off internal lima hari kerja sebelum tutup buku, rekonsiliasi bank harian untuk transaksi di atas Rp1 miliar, dan penelaahan wajib oleh Komite Audit sebelum laporan keuangan dirilis.",
+   "Soal akuisisi PT Mega Teknologi Investama (MTI), Perseroan mengoreksi nilai transaksi dari estimasi awal Rp10,89 miliar menjadi harga final Rp0 untuk 99% saham. Alasannya, uji tuntas menemukan liabilitas konsolidasian MTI dan anak usahanya, PT Ratu Karya (RK), sebesar Rp15 miliar, sementara modal disetor MTI hanya Rp10,8 miliar, sehingga ekuitas bersihnya defisit sekitar Rp4,2 miliar. Sebagai gantinya, BIKE menanggung penyelesaian utang Rp15 miliar tersebut. RK sendiri adalah pelaksana kerja sama dengan Perumda Pasar Jaya untuk revitalisasi Pasar Minggu, Jakarta Selatan, dengan perkiraan nilai investasi proyek Rp1 triliun. Perseroan menyebut transaksi ini bukan transaksi material maupun transaksi afiliasi menurut aturan OJK, sehingga tidak memerlukan penilai independen, dan pencatatan akuntansinya akan mengacu pada PSAK 103 tentang kombinasi bisnis."
+  ],
+  "fotoAdegan": "Construction workers installing steel roofing frames at a traditional market renovation site, daylight, no signage visible",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, karena ini sudah permintaan penjelasan ketiga dari bursa dalam waktu singkat untuk kelompok masalah yang sama, tanda bursa belum puas dengan jawaban-jawaban sebelumnya. Yang tersentuh adalah ekuitas dan utang pihak berelasi, dua pos yang menunjukkan seberapa kuat modal perusahaan dan seberapa besar ia bergantung pada pendanaan dari pemegang saham sendiri (dalam hal ini PMJ), dan pelaku pasar mencermatinya karena perubahan besar di pos ini bisa mengubah gambaran kesehatan keuangan perusahaan dalam semalam, seperti yang sudah terjadi pada koreksi-koreksi sebelumnya. Yang perlu dipantau adalah jawaban Perseroan atas pertanyaan lanjutan yang belum terjawab di dokumen ini, terutama soal mengapa BIKE tetap membutuhkan pinjaman Rp1,1 triliun dari PMJ untuk mengakuisisi saham MTI yang harganya ditetapkan Rp0, serta bagaimana utang kepada pihak bernama Vitria tercatat setelah penetapan harga tersebut.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
  },
  {
   "slug": "public-expose-blta-laba-berjalan-naik-ke-us-5-5-juta",

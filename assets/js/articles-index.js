@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton",
+  "category": "Energi",
+  "title": "Harga Batu Bara Acuan [Naik] Lagi ke US$130,81 per Ton",
+  "deck": "Kementerian ESDM menetapkan HBA periode 15-30 November 2026 sebesar US$130,81 per ton, naik 4,15 persen dari periode sebelumnya dan 28 persen dari tahun lalu.",
+  "date": "16 November 2026",
+  "image": "assets/img/harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton.jpg",
+  "imageV": "mwiv8j1i",
+  "tags": [
+   "HBA",
+   "Batu Bara",
+   "ESDM",
+   "Royalti Tambang"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hba-periode-kedua-november-2026-naik-415-persen-jadi-usd-13081-per-ton",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "raam-ram-jethmal-punjabi-tambah-1-1-juta-saham-suara-68-87",
   "category": "Aksi Korporasi",
   "title": "RAAM: Ram Jethmal Punjabi [Tambah] 1,1 Juta Saham, Suara 68,87%",
@@ -6485,22 +6503,6 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4359-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "elit-direksi-beli-106-300-saham-kepemilikan-jadi-208-000-lembar",
-  "category": "Aksi Korporasi",
-  "title": "ELIT: Direksi [Beli] 106.300 Saham, Kepemilikan Jadi 208.000 Lembar",
-  "deck": "Direktur ELIT, Ery Setyo Wibowo, membeli 106.300 saham perusahaan pada 29 Oktober 2026 seharga Rp188 per lembar, menggandakan kepemilikannya menjadi 208.000 lembar.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ELIT",
-   "kepemilikan saham",
-   "direksi",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7380-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

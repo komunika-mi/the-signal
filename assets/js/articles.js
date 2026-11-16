@@ -3,6 +3,35 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton",
+  "category": "Energi",
+  "title": "Harga Batu Bara Acuan [Naik] Lagi ke US$130,81 per Ton",
+  "deck": "Kementerian ESDM menetapkan HBA periode 15-30 November 2026 sebesar US$130,81 per ton, naik 4,15 persen dari periode sebelumnya dan 28 persen dari tahun lalu.",
+  "image": "assets/img/harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T06:06:40.074Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hba-periode-kedua-november-2026-naik-415-persen-jadi-usd-13081-per-ton",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "HBA",
+   "Batu Bara",
+   "ESDM",
+   "Royalti Tambang"
+  ],
+  "body": [
+   "Kementerian Energi dan Sumber Daya Mineral menetapkan Harga Batubara Acuan (HBA) untuk periode 15-30 November 2026 sebesar US$130,81 per ton, naik US$5,21 atau 4,15 persen dibandingkan periode pertama November yang tercatat US$125,60 per ton. HBA ini penting karena menjadi acuan harga jual batubara sekaligus dasar penghitungan royalti yang disetor perusahaan tambang ke negara.",
+   "Dibandingkan periode yang sama tahun lalu, kenaikannya lebih tajam. HBA periode kedua November 2025 hanya US$102,03 per ton, sehingga posisi saat ini lebih tinggi US$28,78 per ton atau sekitar 28 persen. Seluruh empat kategori HBA berdasarkan kalori ikut naik, dengan kenaikan tertinggi pada HBA III untuk batubara kalori 3.400 kcal/kg GAR yang melonjak 7,31 persen menjadi US$50,05 per ton.",
+   "Rincian lengkap HBA yang berlaku 15-30 November 2026: HBA (6.322 kcal/kg GAR) US$130,81 per ton, naik 4,15 persen; HBA I (5.300 kcal/kg GAR) US$100,11 per ton, naik 2,31 persen; HBA II (4.100 kcal/kg GAR) US$72,65 per ton, naik 4,86 persen; dan HBA III (3.400 kcal/kg GAR) US$50,05 per ton, naik 7,31 persen.",
+   "Kenaikan ini dipicu oleh naiknya harga jual aktual batubara dari transaksi dengan tanggal pengapalan 22 September hingga 21 Oktober 2026, yang tercatat dalam sistem elektronik Penerimaan Negara Bukan Pajak (ePNBP) Minerba, basis yang sama untuk pembayaran royalti batubara. Mengacu pada Keputusan Menteri ESDM Nomor 268 Tahun 2025, HBA dihitung dari rata-rata tertimbang volume harga jual aktual pada titik serah di atas kapal pengangkut (FOB Vessel), menggunakan sampel transaksi batubara kalori 6.100-6.500 kcal/kg GAR yang disetarakan dengan spesifikasi HBA.",
+   "HBA selanjutnya menjadi dasar penghitungan Harga Patokan Batubara (HPB) untuk batubara berkalori di atas 6.000 kcal/kg GAR, dengan ikut memperhitungkan kualitas spesifik seperti kandungan air, belerang, dan abu pada tiap transaksi."
+  ],
+  "fotoAdegan": "A heavily loaded coal barge being towed down a wide brown river under an overcast tropical sky, deckhands checking mooring lines.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hba-periode-kedua-november-2026-naik-415-persen-jadi-usd-13081-per-ton-9xjttuv.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah secara konkret adalah HBA periode 15-30 November 2026 naik 4,15 persen menjadi US$130,81 per ton, dan dibanding periode yang sama tahun lalu kenaikannya mencapai 28 persen, dengan semua empat kategori kalori ikut terangkat. Pihak yang langsung terdampak adalah perusahaan tambang batubara, karena HBA dan HPB menjadi dasar harga jual sekaligus dasar penghitungan royalti yang mereka bayarkan ke negara, sehingga penerimaan negara dari royalti batubara juga ikut naik mengikuti harga ini. Kenaikan kali ini bersumber dari data transaksi pengapalan 22 September sampai 21 Oktober 2026, yang berarti mencerminkan harga pasar saat itu, bukan ramalan ke depan. Pola naik dua periode berturut-turut sepanjang November ini condong menunjukkan harga batubara global sedang menguat, dan penetapan HBA periode pertama Desember 2026 akan menjadi penanda apakah tren kenaikan ini bertahan atau justru berbalik arah.",
+  "imageV": "mwiv8j1i"
+ },
+ {
   "slug": "raam-ram-jethmal-punjabi-tambah-1-1-juta-saham-suara-68-87",
   "category": "Aksi Korporasi",
   "title": "RAAM: Ram Jethmal Punjabi [Tambah] 1,1 Juta Saham, Suara 68,87%",

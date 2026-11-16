@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BIPI: [Divestasi] SBG Rp1,79 T, Dana ke LNG",
+  "deck": "BIPI memaparkan materi public expose 2026: divestasi anak usaha batu bara SBG senilai Rp1,79 triliun, dana Rp1,7 triliun dialihkan ke LNG, panas bumi, pusat data, dan pengolahan sampah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T19:16:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f68bdbb238_42a42bec12.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIPI",
+  "tags": [
+   "BIPI",
+   "divestasi",
+   "public expose",
+   "LNG"
+  ],
+  "body": [
+   "PT Astrindo Nusantara Infrastruktur Tbk (BIPI) menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia, menyusul surat pemberitahuan rencana acara yang sudah dikirim pada 4 November 2026. Materi tersebut memuat pembaruan rencana divestasi anak usaha tambang batu bara, PT Sintesa Bara Gemilang (SBG), kepada PT Indo Panca Borneo (IPB) senilai Rp1,79 triliun. Transaksi ini sudah disetujui pemegang saham dalam RUPSLB 30 Juni 2026, dengan target penyelesaian Desember 2026. SBG, yang menaungi Sakari Resources Ltd dan entitas anak lainnya, menyumbang sekitar 84 persen pendapatan konsolidasi perseroan hingga kuartal III 2025, tetapi juga menanggung utang bank US$287 juta dengan bunga 11,5 persen per tahun.",
+   "Perseroan berencana mengalokasikan kembali dana hasil divestasi hingga Rp1,7 triliun untuk merger dan akuisisi strategis serta pertumbuhan organik dalam 12 sampai 24 bulan ke depan, termasuk proyek yang sudah berjalan senilai sekitar Rp0,4 triliun. Dana ini diarahkan ke empat platform baru di luar batu bara: distribusi LNG, gas hulu, panas bumi, pusat data, dan pengolahan sampah menjadi energi. Salah satu proyek yang sedang berjalan adalah kilang mini LNG berkapasitas 2,5 MMSCFD di Wunut, Jawa Timur, dengan rencana ekspansi hingga 22,5 MMSCFD dan target rampung semester I 2027.",
+   "Dari sisi kinerja, materi itu memuat laporan keuangan sembilan bulan 2025: pendapatan turun 34,2 persen menjadi US$128,1 juta dari US$194,8 juta pada periode sama tahun sebelumnya, dan EBITDA turun 41 persen menjadi US$31,2 juta. Di sisi lain, jumlah liabilitas turun menjadi US$901,4 juta dari US$1.005,8 juta, dan rasio liabilitas terhadap ekuitas membaik ke 1,50 kali dari 1,69 kali, dibantu beban keuangan yang turun 20 persen menjadi US$42,7 juta seiring pelunasan pinjaman. Di sisi operasional, produksi batu bara kuartal I 2026 tercatat 294 ribu ton sebelum dihentikan total sejak April 2026 karena menunggu persetujuan RKAB 2026, sehingga perseroan harus membeli batu bara dari pihak ketiga untuk memenuhi kontrak penjualan yang sudah ada."
+  ],
+  "fotoAdegan": "Workers inspecting cryogenic storage tanks at a small-scale LNG terminal under construction, industrial pipework, overcast sky",
+  "takeaway": "Paparan ini kami nilai netral dengan sedikit kecenderungan positif bagi fundamental BIPI: produksi batu bara yang terhenti total sejak April 2026 dan pendapatan yang turun 34 persen adalah sinyal lemah, tetapi rencana melepas SBG senilai Rp1,79 triliun sekaligus memangkas eksposur ke utang berbunga tinggi US$287 juta justru memperbaiki struktur modal perseroan. Pos yang tersentuh adalah ekuitas dan beban bunga, yaitu kekayaan bersih pemegang saham setelah dikurangi utang dan biaya pinjaman yang harus dibayar perseroan setiap tahun; keduanya membaik di sini, tercermin dari rasio utang terhadap ekuitas yang turun ke 1,50 kali dari 1,69 kali. Yang perlu dipantau berikutnya adalah penyelesaian transaksi divestasi SBG yang ditargetkan tuntas Desember 2026, serta nasib persetujuan RKAB 2026 yang sejak April 2026 membuat seluruh produksi batu bara perseroan berhenti.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
+  "slug": "tmpo-jelaskan-ke-bursa-rugi-berlanjut-covenant-bank-terpenuhi",
+  "category": "Aksi Korporasi",
+  "title": "TMPO Jelaskan ke Bursa: Rugi Berlanjut, [Covenant] Bank Terpenuhi",
+  "deck": "Tempo Inti Media menjawab permintaan penjelasan BEI atas piutang macet, aset tetap, dan pendapatan yang turun di semua segmen usaha, sembari memastikan seluruh syarat utang bank masih terpenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T18:36:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2888658a0b_c78280b726.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMPO",
+  "tags": [
+   "TMPO",
+   "Tempo Inti Media",
+   "piutang usaha",
+   "BEI"
+  ],
+  "body": [
+   "PT Tempo Inti Media Tbk (TMPO) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan yang dikirim bursa pada 9 November 2026. Dalam surat bernomor 057/EXT-Corsec/E/TIM/XI/26 yang ditandatangani Corporate Secretary Jajang Jamaludin dan diumumkan 16 November 2026, perseroan mengakui bahwa seluruh segmen usahanya, yaitu penerbitan, percetakan, penyelenggara acara, dan perdagangan kertas, membukukan penurunan pendapatan pada periode yang berakhir 30 September 2026, sehingga perseroan tetap mencatat rugi usaha pada tingkat konsolidasian. Manajemen menyebut penurunan pendapatan iklan majalah sebagai penyumbang utama, dan menjelaskan hal itu dipengaruhi faktor eksternal di luar kendali perseroan.",
+   "Soal piutang usaha, Tempo Inti Media menjelaskan bahwa piutang yang telah lewat jatuh tempo lebih dari 90 hari menjadi porsi dominan dari total piutang usaha perseroan, namun manajemen menyatakan cadangan kerugian penurunan nilai atau CKPN yang dibentuk sudah memadai sesuai prinsip kehati-hatian yang diminta regulator. Piutang kepada PT Pustaka Mulia Sejahtera, mitra pencetakan buku pelajaran SD dan SMP, sempat melonjak signifikan pada akhir September 2026 karena akumulasi pendapatan jasa cetak sejak Januari, namun setelah ada pembayaran pascaperiode pelaporan, saldonya kini tercatat sekitar Rp3,6 miliar. Adapun piutang lain-lain kepada pihak berelasi, PT Tempo Kreasi Bersama, tidak berubah dari posisi 31 Desember 2025 dan perseroan belum membentuk tambahan CKPN untuk piutang tersebut karena masih yakin piutang itu bisa tertagih.",
+   "Terkait utang bank, perseroan dan entitas anak menyatakan telah memenuhi seluruh persyaratan pinjaman atau financial covenant kepada PT Bank Mayapada Internasional Tbk, PT Bank Central Asia Tbk, dan PT Bank Mandiri (Persero) Tbk, yang dipakai untuk modal kerja, pembangunan gedung, dan pengadaan mesin. Proses evaluasi fasilitas pinjaman dengan Bank Mayapada yang sebelumnya disebut masih berjalan, dinyatakan telah selesai dengan perjanjian kredit diperpanjang. Nilai buku aset tetap perseroan menyusut karena penambahan aset baru jauh lebih kecil dibanding beban penyusutan, sebab manajemen memilih mengoptimalkan aset yang sudah ada ketimbang berinvestasi aset baru. Di luar itu, perseroan juga melaporkan aset produksi film yang selama ini tercatat sebagai aset tidak lancar telah selesai diproduksi pada 28 Oktober 2026 dan sudah tayang di bioskop sehari setelahnya.",
+   "Mengenai beban usaha yang melebihi laba kotor, manajemen menyebut sebagian besar beban tersebut bersifat biaya tetap untuk menjaga operasional tetap berjalan, dan sedang dievaluasi secara menyeluruh untuk efisiensi. Perseroan memaparkan enam langkah strategi, mulai dari diversifikasi pendapatan, transformasi digital pada lini penerbitan dan percetakan, efisiensi biaya operasional dan tenaga kerja, evaluasi kinerja tiap segmen usaha yang bisa berujung pada restrukturisasi, penguatan pengelolaan arus kas lewat percepatan penagihan piutang, hingga penguatan kemitraan strategis untuk memperluas pasar."
+  ],
+  "fotoAdegan": "Industrial printing press rolling large sheets of paper inside a publishing plant, workers inspecting machinery under bright factory lighting.",
+  "takeaway": "Secara keseluruhan tanggapan ini condong negatif bagi TMPO, karena inti jawabannya menegaskan bahwa rugi usaha dan penurunan pendapatan terjadi di semua segmen tanpa ada angka pembalikan konkret, meski risiko gagal bayar utang bank untuk sementara mengecil setelah seluruh covenant dinyatakan terpenuhi. Pos yang tersentuh adalah piutang usaha dan beban keuangan: piutang yang sudah lewat 90 hari dan masih menumpuk berarti uang yang seharusnya masuk dari pelanggan makin berisiko tidak tertagih, sementara beban keuangan, yakni bunga yang harus dibayar atas pinjaman bank dan non-bank, membebani perusahaan yang pendapatannya justru menurun di semua lini usaha. Yang perlu dipantau berikutnya adalah apakah realisasi enam langkah efisiensi dan evaluasi segmen usaha, termasuk kemungkinan restrukturisasi lini yang terus merugi, benar-benar muncul sebagai angka pada laporan keuangan kuartal berikutnya, karena dokumen ini sendiri belum mencantumkan tenggat waktu konkret untuk langkah-langkah tersebut.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak",
   "category": "Industri",
   "title": "Pupuk Indonesia Rancang Pabrik Amonia [Rendah Karbon] di Fakfak",
@@ -85,6 +141,155 @@ var ARTICLES = [
   "imageV": "mwj5udvz"
  },
  {
+  "slug": "dividen-interim-toto-rp10-per-saham-cair-15-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim TOTO Rp10 per Saham, [Cair] 15 Desember",
+  "deck": "TOTO membagikan dividen tunai interim tahun buku 2026 sebesar Rp10 per saham, total Rp103,2 miliar, dibayarkan 15 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T17:49:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0f8e46b6d1_494670c43e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOTO",
+  "tags": [
+   "TOTO",
+   "dividen interim",
+   "Surya Toto Indonesia",
+   "pasar modal"
+  ],
+  "body": [
+   "Surya Toto Indonesia Tbk (TOTO) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp10 per saham, dengan total nilai Rp103,2 miliar. Keputusan ini diambil direksi dan telah disetujui dewan komisaris pada 12 November 2026.",
+   "Perusahaan menetapkan tanggal pencatatan pemegang saham (recording date) pada 26 November 2026 pukul 16.00 WIB sebagai penentu siapa yang berhak menerima dividen. Untuk transaksi di pasar reguler dan negosiasi, tanggal cum dividen jatuh pada 24 November 2026 dan ex dividen pada 25 November 2026, sementara di pasar tunai cum dividen pada 26 November 2026 dan ex dividen pada 27 November 2026. Dividen akan dibayarkan paling lambat pada 15 Desember 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba bersih yang diatribusikan ke entitas induk sebesar Rp152,17 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp2,32 triliun, dan total ekuitas Rp2,59 triliun. Jumlah dividen yang akan dibayarkan kepada pemegang saham sesuai daftar pencatatan sama dengan total yang diumumkan, yaitu Rp103,2 miliar atau Rp10 per saham."
+  ],
+  "fotoAdegan": "Workers inspecting rows of white ceramic sanitary ware on a factory production line, industrial warehouse lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham TOTO, karena perusahaan memilih mengembalikan sebagian laba tunai kepada pemilik saham di tengah tahun buku, bukan menahan seluruhnya sebagai cadangan. Dana Rp103,2 miliar yang dibagikan ini akan mengurangi saldo laba ditahan dan ekuitas, yaitu bagian kekayaan bersih perusahaan yang menjadi hak pemegang saham setelah dikurangi utang, tetapi penurunannya tergolong kecil dibandingkan total ekuitas Rp2,59 triliun sehingga tidak mengganggu kondisi keuangan perusahaan. Pembayaran ini juga berarti ada kas sebesar Rp103,2 miliar yang akan keluar dari kas perusahaan pada tanggal pembayaran. Yang perlu dipantau pembaca adalah tanggal pencatatan pemegang saham pada 26 November 2026 pukul 16.00 WIB, karena hanya pemegang saham sebelum tanggal itu yang berhak menerima dividen, dengan pembayaran dijadwalkan paling lambat 15 Desember 2026.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Tanggal pencatatan pemegang saham berhak dividen pukul 16.00"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "biif-siapkan-rp101-4-miliar-untuk-pelunasan-obligasi-6-desember",
+  "category": "Aksi Korporasi",
+  "title": "BIIF Siapkan Rp101,4 Miliar untuk [Pelunasan] Obligasi 6 Desember",
+  "deck": "Maybank Indonesia Finance (BIIF) menyatakan telah menyiapkan Rp101,4 miliar untuk melunasi pokok dan bunga obligasi yang jatuh tempo 6 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T17:46:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d0b0b81909_7d3d0c221d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIIF",
+  "tags": [
+   "BIIF",
+   "Maybank Finance",
+   "obligasi",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Maybank Indonesia Finance (BIIF) melaporkan ke Bursa Efek Indonesia bahwa perusahaan telah menyediakan dana sebesar Rp101.388.888.889 untuk melunasi Obligasi Berkelanjutan IV Maybank Finance Tahap II 2025 yang jatuh tempo pada 6 Desember 2026. Dana tersebut terdiri dari pokok obligasi Rp100 miliar dan pembayaran bunga ke-4 sebesar Rp1.388.888.889. Pelunasan akan dilakukan dan didistribusikan ke pemegang obligasi melalui KSEI selaku agen pembayaran.",
+   "Laporan ini merujuk pada POJK 31/2015 tentang keterbukaan informasi material serta surat Pemeringkat Efek Indonesia (Pefindo) Nomor S-1461/PEF-DIR/VIII/2026 yang menyatakan kesiapan perusahaan membayar obligasi tersebut. Dalam suratnya, manajemen menegaskan bahwa pelunasan ini tidak membawa dampak negatif terhadap operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani oleh Sufiana selaku Corporate Secretary dan Direktur PT Maybank Indonesia Finance."
+  ],
+  "fotoAdegan": "Rows of motorcycles parked inside a financing company showroom, staff reviewing paperwork folders at a desk",
+  "takeaway": "Laporan ini positif bagi Maybank Finance karena perusahaan menunjukkan sudah memegang dana penuh, bukan sekadar berencana, untuk melunasi obligasinya tepat waktu, pertanda tidak ada risiko gagal bayar dalam waktu dekat. Yang tersentuh di sini adalah arus kas perusahaan: begitu pelunasan terjadi, kas Maybank Finance akan berkurang Rp101,4 miliar sekaligus, meski sebagai perusahaan pembiayaan yang rutin menerbitkan obligasi berseri, rekam jejak pembayaran yang lancar justru membantu menjaga kepercayaan investor untuk penerbitan utang berikutnya. Pelaku pasar mencermati hal ini karena perusahaan pembiayaan bergantung pada akses pendanaan baru secara berkelanjutan, sehingga riwayat bayar yang bersih menentukan semudah dan semurah apa mereka bisa mencari dana di kemudian hari. Yang perlu dipantau berikutnya adalah realisasi pembayaran itu sendiri pada 6 Desember 2026, saat pokok Rp100 miliar dan bunga tahap keempat Rp1,39 miliar benar-benar didistribusikan ke pemegang obligasi melalui KSEI.",
+  "sentimen": "positif",
+  "peristiwa": "obligasi",
+  "judulIdx": "Laporan Keterbukaan atas Informasi atau Fakta Material terkait Kesiapan Dana untuk Pelunasan Efek Bersifat Utang PT Maybank Indonesia Finance",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-06",
+    "acara": "Jatuh tempo dan pelunasan pokok serta bunga Obligasi Berkelanjutan IV Tahap II 2025"
+   }
+  ]
+ },
+ {
+  "slug": "bmas-transaksi-afiliasi-kontrak-ti-ke-kbank-group-us-2-06-juta",
+  "category": "Aksi Korporasi",
+  "title": "BMAS [Transaksi Afiliasi]: Kontrak TI ke KBank Group US$2,06 Juta",
+  "deck": "BMAS membayar US$2,06 juta kepada tiga perusahaan afiliasi Kasikorn Group untuk jasa IT proyek sistem perbankan inti baru, dengan kontrak berlaku hingga 2036.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T17:45:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec0474d7aa_05ce16e171.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "Transaksi Afiliasi",
+   "Core Banking System",
+   "Kasikorn Group"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) melaporkan kepada Bursa Efek Indonesia bahwa pada 16 November 2026 perusahaan melakukan transaksi afiliasi berupa penyediaan jasa teknologi informasi. Tiga pihak yang terlibat adalah Kasikorn Soft Company Limited (KSoft), Kasikorn Infra Company Limited (KInfra), dan KBTG Vietnam Company Limited (KBTG-VN), yang semuanya merupakan afiliasi BMAS dalam satu grup usaha. Total nilai transaksi yang dilaporkan adalah US$2,06 juta, untuk mendukung implementasi sistem perbankan inti (Core Banking System atau CBS) baru milik BMAS hingga sistem itu siap dioperasikan penuh (go-live).",
+   "Rinciannya, KSoft bertugas mengembangkan dan mengintegrasikan aplikasi serta mengujinya, dengan nilai kontrak 12.784.000 baht Thailand, setara US$377.203,68, berlaku sampai akhir 2027. KInfra menangani desain dan penyiapan infrastruktur serta memastikan seluruh lingkungan proyek siap operasional, dengan nilai kontrak 12.600.000 baht Thailand, setara US$371.774,59, berlaku sampai akhir 2036. KBTG-VN berperan sebagai pelaksana teknologi dari awal hingga akhir proyek, termasuk migrasi data, masa transisi sistem (cutover), dan pendampingan pascapeluncuran (hypercare), dengan nilai kontrak US$1.310.210 yang juga berlaku sampai akhir 2036.",
+   "BMAS menyatakan transaksi ini tidak mengandung benturan kepentingan sebagaimana diatur dalam POJK Nomor 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan. Laporan ke OJK dan BEI ini ditandatangani oleh Direktur Utama BMAS, Kasemsri Charoensiddhi."
+  ],
+  "fotoAdegan": "IT technicians working among server racks in a modern data center, blue status lights glowing, cables neatly bundled underfoot.",
+  "takeaway": "Laporan ini netral bagi BMAS: nilainya hanya sekitar US$2,06 juta dan perusahaan sendiri menegaskan transaksi dengan sesama anggota grup Kasikorn ini tidak mengandung benturan kepentingan. Yang tersentuh adalah arus kas BMAS, yaitu uang tunai yang benar-benar keluar dari kas perusahaan, karena dana itu dibayarkan untuk membeli jasa teknologi dari afiliasi, meski jumlahnya masih kecil dibandingkan pinjaman afiliasi BMAS dari KBank yang pekan lalu sudah mencapai hampir US$340 juta. Yang perlu dipantau berikutnya adalah jalannya implementasi Core Banking System baru ini sampai tahap go-live, serta ketergantungan jangka panjang BMAS pada afiliasinya, mengingat kontrak dengan KInfra dan KBTG-VN baru berakhir pada akhir 2036.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Afiliasi"
+ },
+ {
+  "slug": "public-expose-itma-pendapatan-9m26-melonjak-90-8",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose ITMA: Pendapatan 9M26 [Melonjak] 90,8%",
+  "deck": "Materi public expose tahunan ITMA memuat kinerja 9M26: pendapatan naik 90,8% dan laba neto naik 87,7%, ditopang kontribusi entitas asosiasi dan proyek sewa pembangkit baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T17:37:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b106259fc_24aeb3ef51.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ITMA",
+  "tags": [
+   "ITMA",
+   "public expose",
+   "kinerja keuangan",
+   "energi"
+  ],
+  "body": [
+   "PT Sumber Energi Andalan Tbk (ITMA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 16 November 2026, menjelang acara public expose yang menurut materi tersebut dijadwalkan pada 19 November 2026. Dalam materi itu, perseroan memaparkan bahwa pendapatan sembilan bulan yang berakhir 30 September 2026 melonjak 90,77 persen secara tahunan menjadi US$1,78 juta dari US$935.769 pada periode yang sama tahun sebelumnya, sementara laba neto periode berjalan naik sekitar 87,7 persen. Manajemen menyebut kenaikan ini didukung oleh kontribusi investasi perseroan pada entitas asosiasi serta mulai berkontribusinya proyek-proyek baru dan anak usaha.",
+   "Dari sisi posisi keuangan per 30 September 2026, total aset perseroan tercatat US$261,83 juta, relatif stabil dibandingkan US$260,01 juta pada akhir Desember 2025. Total liabilitas turun dari US$43,74 juta menjadi US$42,90 juta, sementara total ekuitas naik dari US$216,28 juta menjadi US$218,94 juta. Materi ini juga mencantumkan susunan pemegang saham per 30 September 2026: PT Astrindo Nusantara Infrastruktur Tbk menguasai 41,90 persen atau 418.560.000 saham, PT Fersindo Nusa Jaya 14,54 persen (145.227.200 saham), PT Trukindo Persada Sejahtera 6,55 persen (65.465.600 saham), PT Nusantara Energi Bersih 5,68 persen (56.717.605 saham), dan sisanya 31,33 persen atau 313.082.762 saham dimiliki publik, dari total 999.053.167 saham beredar.",
+   "Di lini bisnis, anak usaha PT Indopower Energi Abadi mencatatkan pendapatan US$1,05 juta dari proyek sewa mesin pembangkit listrik tenaga diesel (PLTD) 20 MW di Jeranjang, Lombok, yang memasok listrik ke PLN Batam, serta US$545 ribu dari proyek sewa pembangkit listrik tenaga mesin gas (PLTMG) 3 MW berkontrak lima tahun untuk memenuhi kebutuhan PT Citra Tubindo Tbk melalui PT Pelayanan Listrik Nasional Batam. Perseroan juga melaporkan progres pembangunan fasilitas pengolahan mini Liquefied Natural Gas (LNG) berkapasitas 2,5 MMSCFD di Jawa Timur yang sudah mencapai sekitar 60 persen, dengan target memulai tahap komisioning pada Juni 2027. Ke depan, manajemen menyatakan akan terus mengkaji peluang di sektor kelistrikan, termasuk proyek listrik baru maupun potensi akuisisi pembangkit yang sudah beroperasi."
+  ],
+  "fotoAdegan": "Industrial diesel generator units lined up at a small power plant yard near a tropical coastline, technicians inspecting cables, overcast sky",
+  "takeaway": "Materi ini condong positif bagi pemegang saham karena data sembilan bulan menunjukkan pendapatan dan laba yang tumbuh signifikan, ditopang proyek sewa pembangkit yang sudah menghasilkan uang dan investasi di entitas asosiasi. Pos yang tersentuh di sini adalah pendapatan, laba neto, dan ekuitas, yaitu modal milik pemegang saham yang naik jadi US$218,94 juta, karena ekuitas yang menguat menandakan kekayaan pemegang saham ikut bertambah, bukan tergerus untuk menutup kerugian. Total utang perseroan juga turun dari US$43,74 juta menjadi US$42,90 juta, berarti beban kewajiban yang harus dibayar sedikit berkurang. Yang perlu dipantau berikutnya adalah progres fasilitas pengolahan mini LNG di Jawa Timur yang baru mencapai 60 persen dengan target mulai uji operasi pada Juni 2027, serta acara Public Expose Tahunan yang menurut materi ini dijadwalkan 19 November 2026, saat pemegang saham biasanya bisa bertanya langsung ke manajemen.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Public Expose Tahunan ITMA"
+   }
+  ]
+ },
+ {
   "slug": "bpdp-satukan-program-peremajaan-sawit-dan-biodiesel",
   "category": "Industri",
   "title": "BPDP Satukan Program [Peremajaan] Sawit dan Biodiesel",
@@ -110,6 +315,40 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini bukan kebijakan baru, melainkan cara BPDP membingkai dua program lamanya, peremajaan kebun sawit rakyat dan subsidi biodiesel, sebagai satu paket yang saling bergantung. Datanya menunjukkan alasannya: produksi minyak sawit nasional hanya naik sekitar 9 persen dalam enam tahun terakhir, dari 51,8 juta ton ke 56,6 juta ton, sementara kebutuhan biodiesel dalam negeri melonjak lebih dari dua kali lipat, dari 5,6 juta ton menjadi 13 juta ton. Artinya, porsi sawit yang harus disisihkan untuk bahan bakar tumbuh jauh lebih cepat daripada pasokan barunya, dan ini paling terasa bagi petani sawit rakyat yang mengajukan peremajaan kebun tua serta industri biodiesel yang butuh kepastian bahan baku. Dengan baru 408 ribu hektare lahan rakyat yang diremajakan sejak program ini berjalan, menggunakan dana Rp12,3 triliun, arah yang terlihat adalah mempercepat peremajaan supaya pasokan sawit bisa mengejar kebutuhan biodiesel tanpa membuka lahan baru. Yang akan menentukan cukup tidaknya langkah ini adalah laju realisasi peremajaan pada tahun-tahun mendatang dibanding sisa kebun rakyat yang sudah tua dan belum tersentuh program tersebut.",
   "imageV": "mwj5ueaw"
+ },
+ {
+  "slug": "public-expose-brpt-19-november-laba-inti-9m26-naik-90-kali",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BRPT 19 November: [Laba Inti] 9M26 Naik 90 Kali",
+  "deck": "Materi public expose BRPT 19 November 2026 menunjukkan pendapatan 9M26 naik 56,3% jadi US$8,69 miliar dan laba inti melonjak 90 kali dari tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T17:20:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d284f55d33_6a03495834.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRPT",
+  "tags": [
+   "BRPT",
+   "Barito Pacific",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "Barito Pacific Tbk (BRPT) menyampaikan materi Public Expose Tahunan yang akan digelar pada 19 November 2026, berisi paparan kinerja sembilan bulan pertama 2026 (9M26). Pendapatan konsolidasian tercatat US$8,69 miliar, naik 56,3 persen dibanding periode yang sama tahun lalu, didorong oleh margin kilang dan segmen energi yang menguat setelah akuisisi Aster Chemicals & Energy di Singapura. EBITDA inti tumbuh 294,6 persen secara tahunan, sementara laba bersih setelah pajak versi inti melonjak hingga 90 kali lipat dibanding 9M25. Secara akuntansi yang dilaporkan, EBITDA turun 35,2 persen dan laba bersih turun 66,1 persen, karena basis pembanding tahun lalu terangkat oleh keuntungan satu kali (one-off) dari selisih harga perolehan (bargain purchase gain) saat mengakuisisi Aster.",
+   "Dari sisi permodalan, rasio utang bersih terhadap ekuitas (net debt to equity) BRPT tercatat 0,77 kali pada 9M26, sama dengan posisi akhir 2025 tapi naik dari 0,60 kali pada 2023. Rasio utang terhadap total modal (debt to capital) sedikit turun menjadi 55,9 persen dari 56,0 persen di akhir 2025. Sebanyak 66 persen utang perusahaan berbunga fixed atau sudah di-hedging, sisanya 34 persen mengambang. Total aset perusahaan per 9M26 mencapai US$19,6 miliar, terdiri dari liabilitas US$12,9 miliar dan ekuitas US$6,6 miliar.",
+   "Materi tersebut juga memuat struktur kepemilikan dan rencana ekspansi grup. Prajogo Pangestu tetap menjadi pemegang saham pengendali BRPT dengan kepemilikan 71,36 persen per September 2026, dengan kapitalisasi pasar BRPT sekitar US$7,5 miliar, sedangkan anak usaha Chandra Asri Pacific bernilai sekitar US$8,4 miliar dan Barito Renewables sekitar US$21 miliar. Perseroan menargetkan kapasitas panas bumi tembus di atas 1 gigawatt pada akhir 2026, dari posisi saat ini 935,55 MW, ditambah pipeline tenaga angin sekitar 300 MW serta proyek greenfield 1 gigawatt tambahan yang direncanakan rampung setelah 2032. Proyek lain yang disorot adalah pabrik Chlor-Alkali dan Ethylene Dichloride (CA-EDC) senilai US$800 juta yang sudah 80 persen rampung dengan target operasi komersial pada 2027, serta kawasan industri Patimban seluas 1.200 hektare berstatus proyek strategis nasional dengan insentif tax holiday hingga 20 tahun bagi penyewa di sektor petrokimia hilir, elektronik, kendaraan listrik, dan semikonduktor."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant cooling towers surrounded by misty highland forest in Java, daytime haze.",
+  "takeaway": "Laporan ini condong POSITIF bagi BRPT: pertumbuhan pendapatan dan laba inti yang kuat terjadi berbarengan dengan rasio utang yang tidak memburuk, bahkan rasio utang terhadap modal sedikit menyusut. Yang pantas dicermati adalah rasio utang bersih terhadap ekuitas, yaitu perbandingan antara pinjaman bersih perusahaan setelah dikurangi kas dengan modal sendirinya, karena rasio ini naik dari 0,60 kali pada 2023 menjadi 0,77 kali sekarang, tanda ekspansi besar BRPT ke energi dan infrastruktur banyak ditopang utang. Laba inti yang melonjak 90 kali juga perlu dibaca hati-hati karena pembandingnya, 9M25, adalah periode dengan laba rendah sebelum kontribusi besar dari akuisisi Aster terlihat penuh, bukan semata perbaikan operasional sebesar itu. Yang perlu dipantau berikutnya adalah hasil Public Expose Tahunan pada 19 November 2026, termasuk target baru manajemen untuk kapasitas panas bumi di atas 1 gigawatt pada akhir 2026 dan kelanjutan proyek CA-EDC senilai US$800 juta yang ditargetkan beroperasi pada 2027.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Public Expose Tahunan BRPT"
+   }
+  ]
  },
  {
   "slug": "enrg-teken-pinjaman-us-220-juta-danai-penyertaan-modal-di-as",
@@ -54121,8 +54360,8 @@ var ARTICLES = [
  {
   "slug": "gmfi-siapkan-pmhmetd-terbitkan-22-03-miliar-saham-baru",
   "category": "Aksi Korporasi",
-  "title": "PMHMETD GMFI: Saham API 65,77% [Beralih] ke Danantara, RUPSLB 19 Nov",
-  "deck": "Saham Seri B GMFI milik Angkasa Pura Indonesia (65,77%) beralih ke Danantara Asset Management lewat InJourney. RUPSLB rights issue PMHMETD III tetap 19 November 2026.",
+  "title": "RUPSLB GMFI 8 Desember: [PMHMETD III] Diundur dari 19 November",
+  "deck": "RUPSLB GMFI yang sebelumnya dijadwalkan 19 November diundur menjadi 8 Desember 2026. Rencana rights issue hingga 22,03 miliar saham baru tidak berubah.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 Oktober 2026",
   "isoDate": "2026-10-13T17:25:15",
@@ -54131,18 +54370,18 @@ var ARTICLES = [
   "emiten": "GMFI",
   "tags": [
    "GMFI",
-   "PMHMETD",
    "RUPSLB",
-   "Danantara Asset Management"
+   "PMHMETD",
+   "Rights Issue"
   ],
   "body": [
-   "Sebanyak 82,1 miliar saham Seri B PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), setara 65,77 persen dari saham Seri B yang beredar, berpindah tangan dari PT Angkasa Pura Indonesia (Persero) ke PT Danantara Asset Management. Perpindahan ini tercatat lewat akta tanggal 2 November 2026, dengan saham lebih dulu dialihkan ke PT Aviasi Pariwisata Indonesia (Persero) atau InJourney sebagai pembagian dividen berbentuk saham, sebelum diteruskan ke Danantara Asset Management. Daftar pemegang saham resmi GMFI yang diterbitkan PT Datindo Entrycom sebagai biro administrasi efek perseroan mencatat perubahan ini pada 2 November 2026.",
-   "Perpindahan kepemilikan ini diumumkan lewat dokumen tambahan atas keterbukaan informasi mengenai rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) ketiga, yang di pasar modal juga disebut rights issue, dan sebelumnya sudah diumumkan pada 13 Oktober 2026. Perseroan tetap berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar dengan nilai nominal Rp19 per saham, dan rencana ini akan dimintakan persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang tetap dijadwalkan pada Kamis, 19 November 2026.",
-   "Berdasarkan laporan keuangan interim per 30 Juni 2026, total saham GMFI yang telah diterbitkan dan disetor penuh berjumlah 124.835.258.434 lembar, terdiri dari 28.233.511.500 saham Seri A dan 96.601.746.934 saham Seri B. Jika seluruh 22,03 miliar saham baru dalam PMHMETD III benar diterbitkan, jumlah saham beredar perseroan bisa bertambah sekitar 17,6 persen dari posisi saat ini. Perseroan masih menyimpan 190.464.207.066 lembar saham Seri B dalam portepel yang bisa dipakai untuk aksi ini tanpa perlu menambah modal dasar baru.",
-   "Meski kepemilikan di tingkat pemegang saham Seri B berubah dari Angkasa Pura Indonesia ke Danantara Asset Management, pengendali GMFI tetap Pemerintah Republik Indonesia melalui PT Garuda Indonesia (Persero) Tbk, yang menguasai 20,15 persen saham Seri A dan 7,28 persen saham Seri B. Nilai nominal saham GMFI juga tetap Rp19 per lembar untuk Seri A maupun Seri B, menyusul kuasi reorganisasi dan pengurangan modal yang efektif berlaku 30 September 2026."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) yang sebelumnya dijadwalkan 19 November 2026 resmi diundur menjadi Selasa, 8 Desember 2026. Perubahan ini tercantum dalam dokumen tambahan keterbukaan informasi yang diterbitkan perseroan pada 16 November 2026. Agenda rapat tidak berubah, yakni meminta persetujuan pemegang saham atas rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD) ketiga, yang di pasar modal juga disebut rights issue.",
+   "Rencana rights issue itu sendiri tidak berubah. Perseroan tetap berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar dengan nilai nominal Rp19 per saham. Berdasarkan laporan keuangan interim per 30 Juni 2026, total saham GMFI yang telah diterbitkan dan disetor penuh berjumlah 124.835.258.434 lembar, terdiri dari 28.233.511.500 saham Seri A dan 96.601.746.934 saham Seri B. Jika seluruh saham baru dalam PMHMETD III itu diterbitkan, jumlah saham beredar perseroan bisa bertambah sekitar 17,6 persen dari posisi saat ini. Perseroan masih menyimpan 190.464.207.066 lembar saham Seri B dalam portepel yang bisa dipakai untuk aksi ini tanpa perlu menambah modal dasar baru.",
+   "Dokumen ini juga mencantumkan ulang perpindahan 82,1 miliar saham Seri B GMFI, setara 65,77 persen saham Seri B yang beredar, dari PT Angkasa Pura Indonesia (Persero) ke PT Danantara Asset Management lewat PT Aviasi Pariwisata Indonesia (InJourney) pada 2 November 2026, seperti yang sudah diumumkan sebelumnya. Pengendali GMFI tetap Pemerintah Republik Indonesia melalui PT Garuda Indonesia (Persero) Tbk, yang menguasai 20,15 persen saham Seri A dan 7,28 persen saham Seri B. Nilai nominal saham GMFI juga tetap Rp19 per lembar untuk Seri A maupun Seri B, menyusul kuasi reorganisasi dan pengurangan modal yang efektif berlaku 30 September 2026.",
+   "Dokumen keterbukaan informasi ini belum mencantumkan harga pelaksanaan maupun rasio HMETD untuk rights issue tersebut, sama seperti pengumuman-pengumuman sebelumnya."
   ],
   "fotoAdegan": "Aircraft technicians in overalls inspecting a commercial jet engine inside a spacious maintenance hangar, bright industrial lighting",
-  "takeaway": "Laporan ini netral bagi pemegang saham publik GMFI, sebab perpindahan 65,77 persen saham Seri B dari Angkasa Pura Indonesia ke Danantara Asset Management adalah reorganisasi internal antarlembaga milik negara, bukan transaksi yang mendatangkan dana baru atau mengubah pengendali perseroan. Yang tersentuh adalah komposisi pemegang saham dan hak suara, bukan kas atau utang perusahaan, karena jumlah saham yang berpindah tangan tidak berubah dan GMFI sendiri tidak menerima atau mengeluarkan uang dari transaksi ini. Pos yang lebih relevan bagi investor publik justru rencana PMHMETD III yang belum berubah, yakni penerbitan hingga 22,03 miliar saham baru yang bisa menambah jumlah saham beredar sekitar 17,6 persen dan membuat laba per saham serta porsi kepemilikan pemegang saham yang tidak menebus haknya terdilusi. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada Kamis, 19 November 2026, serta apakah keterbukaan informasi berikutnya akhirnya memuat harga pelaksanaan dan rasio HMETD yang sampai sekarang belum diumumkan.",
+  "takeaway": "Laporan ini netral bagi pemegang saham GMFI, sebab dokumen ini hanya mengubah jadwal RUPSLB dari 19 November menjadi 8 Desember 2026, bukan mengubah besaran atau syarat penambahan modal itu sendiri. Pos yang tersentuh tetap sama seperti sebelumnya, yaitu jumlah saham beredar dan laba per saham, karena rencana penerbitan hingga 22,03 miliar saham Seri B baru, setara sekitar 17,6 persen dari saham beredar saat ini, tetap berlaku dan berpotensi mendilusi kepemilikan pemegang saham yang tidak menebus haknya kalau nanti benar direalisasikan. Pengunduran jadwal RUPSLB sendiri tidak menyentuh kas, utang, atau beban bunga perseroan, hanya menggeser kapan keputusan pemegang saham diambil. Yang perlu dipantau berikutnya adalah RUPSLB pada Selasa, 8 Desember 2026, serta apakah pengumuman berikutnya akhirnya memuat harga pelaksanaan dan rasio HMETD yang sampai sekarang belum diungkapkan.",
   "sentimen": "netral",
   "pembaruan": [
    {
@@ -54150,13 +54389,19 @@ var ARTICLES = [
     "ringkas": "Saham Seri B GMFI milik Angkasa Pura Indonesia (65,77%) beralih ke Danantara Asset Management, RUPSLB PMHMETD III tetap 19 November 2026.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51ba95c8a7_6d705731cb.pdf",
     "judulIdx": "Perubahan dan/atau Tambahan Informasi atas Keterbukaan Informasi kepada Pemegang Saham PT Garuda Maintenance Facility Aero Asia Tbk Sehubungan dengan Rencana Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu III"
+   },
+   {
+    "tanggal": "2026-11-16T18:36:44",
+    "ringkas": "RUPSLB GMFI yang sebelumnya dijadwalkan 19 November diundur menjadi Selasa, 8 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/91cada0219_31d44f5a81.pdf",
+    "judulIdx": "Perubahan dan/atau Tambahan Informasi atas Keterbukaan Informasi kepada Pemegang Saham PT Garuda Maintenance Facility Aero Asia Tbk Sehubungan dengan Rencana Penambahan Modal dengan Memberikan Hak Memesan Efek Terlebih Dahulu III"
    }
   ],
-  "diperbarui": "2026-11-13T14:47:17",
+  "diperbarui": "2026-11-16T18:36:44",
   "jadwal": [
    {
-    "tanggal": "2026-11-19",
-    "acara": "RUPSLB persetujuan PMHMETD III"
+    "tanggal": "2026-12-08",
+    "acara": "RUPSLB persetujuan PMHMETD III (jadwal baru)"
    }
   ],
   "peristiwa": "right-issue"
@@ -54216,8 +54461,8 @@ var ARTICLES = [
  {
   "slug": "ketr-panggil-rupslb-konfirmasi-pengendali-baru-dari-tender-offer",
   "category": "Aksi Korporasi",
-  "title": "KETR Panggil RUPSLB, Konfirmasi Pengendali Baru dari [Tender Offer]",
-  "deck": "PT Ketrosden Triasmitra Tbk memanggil RUPSLB pada 12 November 2026 untuk mengonfirmasi pengendali baru pasca penawaran tender sukarela, sekaligus mengubah susunan direksi dan komisaris.",
+  "title": "RUPSLB KETR 12 Nov: [Pengendali Baru] Disahkan, Direksi Diganti",
+  "deck": "RUPSLB KETR 12 November 2026 mengonfirmasi PT Inti Mas Bangun Sejahtera sebagai pengendali baru dengan 35% saham, sekaligus menyetujui direksi-komisaris baru dan perubahan KBLI.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 Oktober 2026",
   "isoDate": "2026-10-13T17:12:08",
@@ -54227,17 +54472,38 @@ var ARTICLES = [
   "tags": [
    "KETR",
    "RUPSLB",
-   "tender offer",
-   "pergantian direksi"
+   "pengendali",
+   "direksi-komisaris"
   ],
   "body": [
-   "PT Ketrosden Triasmitra Tbk (KETR) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Kamis, 12 November 2026 pukul 09.30 WIB di Rosewood Room, Royal Kuningan Hotel, Jakarta Selatan. Pemegang saham juga bisa hadir secara elektronik lewat sistem eASY.KSEI milik Kustodian Sentral Efek Indonesia. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 12 Oktober 2026 pukul 16.00 WIB.",
-   "Agenda pertama rapat adalah konfirmasi pengendali Perseroan yang baru, sebagai akibat dari pelaksanaan Penawaran Tender Sukarela yang sudah berjalan. Perseroan menyebut konfirmasi ini diperlukan untuk keperluan pelaporan ke Kementerian Hukum Republik Indonesia. Agenda kedua meminta persetujuan rapat atas perubahan susunan Direksi dan Dewan Komisaris, sesuai Pasal 13 ayat 8 dan Pasal 16 ayat 6 Anggaran Dasar Perseroan yang memang mensyaratkan pengangkatan dan pemberhentian direksi serta komisaris lewat RUPS. Dokumen pemanggilan ini tidak menyebut nama calon pengendali baru maupun susunan direksi dan komisaris yang akan diajukan.",
-   "Agenda ketiga adalah persetujuan perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan nomenklatur kegiatan usaha dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang baru terbit. Perseroan menegaskan perubahan ini hanya menyangkut penyesuaian kode dan uraian, bukan penambahan atau pengurangan kegiatan usaha. Bagi pemegang saham yang ingin memberi kuasa tertulis, surat kuasa harus disampaikan ke PT Adimitra Jasa Korpora selaku Biro Administrasi Efek paling lambat Jumat, 6 November 2026, sedangkan e-proxy atau instruksi suara lewat eASY.KSEI dibuka sampai Rabu, 11 November 2026 pukul 12.00 WIB."
+   "RUPSLB PT Ketrosden Triasmitra Tbk (KETR) yang digelar 12 November 2026 di Jakarta resmi mengonfirmasi PT Inti Mas Bangun Sejahtera sebagai pengendali baru Perseroan, menggantikan PT Bahtera Bintang Nusantara yang sebelumnya mengendalikan lewat PT Fajar Sejahtera Mandiri Nusantara. Rapat yang dihadiri pemegang saham pemilik 1.956.200.042 saham atau 68,85% dari total 2.841.262.838 saham beredar itu juga menyetujui susunan baru Direksi dan Dewan Komisaris, serta perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kode klasifikasi usaha dengan KBLI 2025.",
+   "Pengendalian baru ini merupakan hasil Penawaran Tender Sukarela yang sudah diumumkan Perseroan ke OJK dan Bursa Efek Indonesia pada 28 September 2026. Lewat penawaran itu, PT Inti Mas Bangun Sejahtera mengambil alih 994.442.000 saham KETR, setara 35% dari total saham beredar. Berdasarkan Daftar Pemegang Saham per 30 September 2026, susunan pemegang saham Perseroan kini terdiri dari PT Inti Mas Bangun Sejahtera (35%), PT Fajar Sejahtera Mandiri Nusantara (18,13%), PT Gema Lintas Benua (9,64%), dan masyarakat (37,23%). Karena agenda ini bersifat konfirmasi atas peristiwa yang sudah terjadi, rapat tidak melakukan pemungutan suara untuk agenda pertama ini.",
+   "Pada agenda kedua, pemegang saham menyetujui pemberhentian P. Sartono dari jabatan Komisaris Utama dan mengangkat Marlo Budiman sebagai penggantinya. Glory Palmy Simanjuntak dan Kennedy Simanjuntak tetap menjabat masing-masing sebagai Komisaris dan Komisaris Independen. Di jajaran Direksi, Vidcy Octory yang sebelumnya Direktur Keuangan naik menjadi Direktur Utama menggantikan Titus Dondi Patria A., didampingi Dani Samsul Ependi sebagai Direktur serta dua direktur baru, Johannes dan Mona Angelique Susanto. Susunan baru ini berlaku efektif sejak penutupan rapat pada 12 November 2026 sampai penutupan RUPS Tahunan untuk tahun buku 2030, dengan masa jabatan paling lama lima tahun atau sampai 30 Juni 2031. Agenda ini disetujui 99,998% suara yang hadir, dengan 0,002% suara abstain dan tanpa suara menolak.",
+   "Agenda ketiga, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan nomenklatur kegiatan usaha dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, disetujui bulat 100% oleh pemegang saham yang hadir. Perseroan menegaskan perubahan ini hanya menyangkut penyesuaian kode dan uraian, tanpa menambah atau mengurangi kegiatan usaha utama Perseroan di bidang pembangunan, penjualan, dan pemeliharaan jaringan telekomunikasi kabel serat optik."
   ],
   "fotoAdegan": "Technicians inspecting large spools of undersea fiber-optic cable on a dockside, overcast harbor in the background",
-  "takeaway": "Laporan ini netral bagi fundamental KETR, karena isinya baru memanggil rapat, belum memutuskan apa pun, dan tidak ada angka keuangan yang berubah dari sini. Yang tersentuh adalah hak suara dan kendali perusahaan, karena agenda pertama justru mengonfirmasi bahwa pengendali Perseroan sudah berganti lewat penawaran tender sukarela, sebuah proses beli saham terbuka dari pemegang lama ke pihak baru, dan pergantian pengendali biasanya diikuti perubahan arah strategi lewat direksi dan komisaris baru yang juga diusulkan di agenda kedua. Yang perlu dipantau adalah hasil RUPSLB pada 12 November 2026, terutama siapa yang dikonfirmasi sebagai pengendali baru dan siapa susunan direksi-komisaris yang disetujui, karena dokumen pemanggilan ini belum mengungkap nama-namanya.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini netral bagi fundamental KETR, karena hanya menuntaskan secara administratif proses pengambilalihan yang sudah diketahui pasar sejak akhir September, tanpa ada dana segar masuk, utang baru, atau perubahan jumlah saham beredar. Yang tersentuh adalah hak suara dan susunan pemegang saham pengendali, bukan arus kas atau laba: pengendali baru PT Inti Mas Bangun Sejahtera kini menguasai 35% saham, dan bersama kelompok pendukungnya PT Fajar Sejahtera Mandiri Nusantara (18,13%) serta PT Gema Lintas Benua (9,64%) menguasai mayoritas suara, sementara jumlah saham beredar tetap 2.841.262.838 lembar sehingga tidak ada dilusi laba per saham dari peristiwa ini. Pergantian direksi dan komisaris juga berarti arah operasional dan kebijakan keuangan Perseroan kini di tangan tim yang ditunjuk pengendali baru. Yang perlu dipantau berikutnya adalah langkah manajemen baru ini, yang menjabat sejak 12 November 2026 sampai masa jabatan berakhir pada 30 Juni 2031 atau RUPS Tahunan tahun buku 2030, karena dokumen ini sendiri belum memuat rencana bisnis atau perubahan strategi apa pun selain konfirmasi kendali dan susunan pengurus.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T17:28:20",
+    "ringkas": "RUPSLB KETR 12 November mengonfirmasi PT Inti Mas Bangun Sejahtera sebagai pengendali baru (35% saham) dan mengangkat direksi-komisaris baru.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/262c6b13dc_87c61382d0.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-16T17:28:20",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Efektif susunan Direksi dan Komisaris baru"
+   },
+   {
+    "tanggal": "2031-06-30",
+    "acara": "Akhir masa jabatan Direksi dan Komisaris baru"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "hilirisasi-ri-geser-fokus-ke-industri-baterai-listrik",
@@ -80589,8 +80855,8 @@ var ARTICLES = [
  {
   "slug": "hrum-siapkan-buyback-rp120-miliar-saham-hingga-24-desember",
   "category": "Aksi Korporasi",
-  "title": "HRUM Siapkan Buyback [Rp120 Miliar] Saham hingga 24 Desember",
-  "deck": "Harum Energy akan membeli kembali maksimal 111 juta saham atau 0,82 persen dari modal disetor, senilai hingga Rp120 miliar dari kas internal, mulai 28 September hingga 24 Desember 2026.",
+  "title": "Buyback HRUM [Dihentikan] Lebih Awal, Efektif 17 November",
+  "deck": "Harum Energy menghentikan program buyback saham lebih awal mulai 17 November 2026, sebelum tenggat semula 24 Desember, karena rencana restrukturisasi internal pemegang saham pengendali.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "25 September 2026",
   "isoDate": "2026-09-25T16:00:48",
@@ -80599,18 +80865,34 @@ var ARTICLES = [
   "emiten": "HRUM",
   "tags": [
    "HRUM",
-   "buyback saham",
+   "buyback",
    "Harum Energy",
-   "pasar modal"
+   "restrukturisasi pemegang saham"
   ],
   "body": [
-   "Harum Energy Tbk (HRUM) mengumumkan rencana pembelian kembali (buyback) saham dengan merujuk pada aturan Otoritas Jasa Keuangan (OJK) No. 13/2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi berfluktuasi signifikan, sesuai Surat OJK No. S-112/D.04/2026 tertanggal 9 September 2026. Dengan payung aturan ini, Perseroan bisa langsung menjalankan buyback tanpa persetujuan Rapat Umum Pemegang Saham, cukup dengan menyampaikan keterbukaan informasi ke OJK dan Bursa Efek Indonesia. Buyback akan berlangsung selama tiga bulan, dari 28 September hingga 24 Desember 2026, dengan dana maksimal Rp120 miliar untuk membeli maksimal 111.000.000 lembar saham, setara 0,82 persen dari modal ditempatkan dan disetor Perseroan. Dengan nilai nominal Rp20 per saham, total nilai nominal saham yang dibeli kembali diperkirakan mencapai Rp2,22 miliar.",
-   "Perseroan menegaskan dana buyback berasal murni dari kas internal, bukan dari hasil penawaran umum maupun pinjaman atau utang dalam bentuk apa pun, dan penggunaannya tidak akan mengganggu kemampuan Perseroan memenuhi kewajiban yang jatuh tempo. Transaksi akan dilakukan melalui BEI lewat satu perantara pedagang efek yang akan ditunjuk Perseroan. Selama periode buyback, anggota Dewan Komisaris, anggota Direksi, pegawai, pemegang saham utama, serta pihak-pihak yang punya akses ke informasi orang dalam dilarang bertransaksi atas saham HRUM pada hari yang sama dengan pelaksanaan pembelian atau penjualan kembali saham oleh Perseroan.",
-   "Dokumen ini juga memuat proyeksi dampak keuangan berdasarkan laporan keuangan konsolidasian interim per 30 Juni 2026. Total aset diperkirakan turun dari US$3.829.721.639 menjadi US$3.822.981.202, dan total ekuitas turun dari US$1.947.697.844 menjadi US$1.940.957.407, keduanya berkurang sekitar US$6,74 juta atau setara Rp120 miliar memakai kurs tengah Bank Indonesia 24 September 2026 sebesar Rp17.803 per dolar AS. Laba tahun berjalan tetap di angka US$129.306.663, sementara laba per saham dasar diperkirakan naik tipis dari US$0,00278 menjadi US$0,00280 karena jumlah saham beredar berkurang."
+   "Harum Energy Tbk (HRUM) menghentikan program pembelian kembali (buyback) sahamnya lebih awal, efektif 17 November 2026, menurut keterbukaan informasi yang disampaikan ke Bursa Efek Indonesia pada 16 November 2026. Program ini semula dijadwalkan berjalan sampai 24 Desember 2026. Perseroan menyebut keputusan ini diambil untuk memastikan kepatuhan pada ketentuan yang berlaku, berkaitan dengan adanya rencana restrukturisasi internal oleh pemegang saham pengendali Perseroan. Harum Energy menegaskan program buyback bisa dijalankan lagi pada waktu lain sesuai aturan yang berlaku, dan penghentian ini diklaim tidak akan berdampak negatif secara material terhadap kegiatan usaha dan operasional Perseroan.",
+   "Buyback ini awalnya diumumkan pada 25 September 2026 dengan merujuk pada aturan Otoritas Jasa Keuangan (OJK) No. 13/2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi berfluktuasi signifikan, berdasarkan Surat OJK No. S-112/D.04/2026 tertanggal 9 September 2026. Lewat payung aturan itu, Perseroan bisa langsung menjalankan buyback tanpa persetujuan Rapat Umum Pemegang Saham. Rencana semula menyiapkan dana maksimal Rp120 miliar untuk membeli kembali maksimal 111 juta saham, setara 0,82 persen dari modal ditempatkan dan disetor Perseroan, seluruhnya dibiayai dari kas internal tanpa utang.",
+   "Dokumen keterbukaan informasi sebelumnya memproyeksikan, jika buyback terlaksana penuh sampai batas maksimal, total aset akan turun dari US$3.829.721.639 menjadi US$3.822.981.202 dan total ekuitas turun dari US$1.947.697.844 menjadi US$1.940.957.407, masing-masing berkurang sekitar US$6,74 juta atau setara Rp120 miliar, sementara laba per saham dasar diproyeksikan naik tipis dari US$0,00278 menjadi US$0,00280. Karena program dihentikan lebih awal, dampak riil terhadap ekuitas dan laba per saham kemungkinan tidak sebesar proyeksi itu, tetapi keterbukaan informasi terbaru ini tidak menyebutkan berapa saham yang sudah benar-benar dibeli kembali sampai tanggal penghentian."
   ],
   "fotoAdegan": "Coal barge loaded to the waterline moving along a wide brown river under overcast sky, tugboat alongside",
-  "takeaway": "Rencana buyback ini condong positif bagi HRUM karena seluruhnya dibiayai kas internal tanpa utang, tidak mengganggu kemampuan membayar kewajiban, dan proforma laporan keuangan menunjukkan laba per saham naik tipis dari US$0,00278 menjadi US$0,00280 meski ekuitas berkurang sekitar US$6,74 juta. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi kewajiban, yang menyusut tipis karena sebagian kas dipakai membeli saham sendiri, sementara laba per saham naik karena laba yang sama kini dibagi ke jumlah saham beredar yang lebih sedikit. Skalanya tergolong kecil, hanya 0,82 persen dari total saham beredar, jadi ini lebih tepat dibaca sebagai langkah stabilisasi rutin di tengah gejolak pasar ketimbang sinyal besar. Yang perlu dipantau selanjutnya adalah realisasi pembelian sepanjang periode 28 September sampai 24 Desember 2026, serta laporan hasil akhir buyback yang wajib disampaikan Perseroan setelah periode tersebut berakhir.",
-  "sentimen": "positif"
+  "takeaway": "Penghentian buyback ini condong netral bagi HRUM: Perseroan sendiri menyatakan tidak ada dampak negatif material, dan program bisa dijalankan lagi nanti sesuai aturan yang berlaku, tapi alasan di balik keputusan ini, yakni rencana restrukturisasi internal pemegang saham pengendali, belum dijelaskan rinci sehingga belum bisa dinilai sebagai sinyal positif atau negatif. Pos yang tersentuh adalah ekuitas dan laba per saham, karena proyeksi sebelumnya (ekuitas berkurang sekitar US$6,74 juta, laba per saham naik tipis dari US$0,00278 ke US$0,00280) mengandaikan pembelian penuh sampai batas maksimal, sementara dokumen ini tidak mengungkap berapa saham yang sudah terbeli sebelum dihentikan sehingga realisasi riilnya kemungkinan lebih kecil dari proyeksi itu. Yang perlu dipantau selanjutnya adalah laporan realisasi akhir buyback yang biasanya wajib disampaikan Perseroan, serta kejelasan bentuk dan dampak rencana restrukturisasi internal pemegang saham pengendali yang menjadi alasan penghentian ini.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T17:23:54",
+    "ringkas": "Harum Energy menghentikan buyback sahamnya lebih awal, efektif 17 November 2026, karena rencana restrukturisasi internal pemegang saham pengendali.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/932e44e08b_108486d2f7.pdf",
+    "judulIdx": "Keterbukaan Informasi sehubungan dengan Program Pembelian Kembali Saham PT Harum Energy Tbk"
+   }
+  ],
+  "diperbarui": "2026-11-16T17:23:54",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Penghentian program buyback berlaku efektif"
+   }
+  ],
+  "peristiwa": "buyback"
  },
  {
   "slug": "bank-mandiri-dan-visa-dukung-hybrid-race-jakarta-2026",

@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BIPI: [Divestasi] SBG Rp1,79 T, Dana ke LNG",
+  "deck": "BIPI memaparkan materi public expose 2026: divestasi anak usaha batu bara SBG senilai Rp1,79 triliun, dana Rp1,7 triliun dialihkan ke LNG, panas bumi, pusat data, dan pengolahan sampah.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIPI",
+   "divestasi",
+   "public expose",
+   "LNG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f68bdbb238_42a42bec12.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tmpo-jelaskan-ke-bursa-rugi-berlanjut-covenant-bank-terpenuhi",
+  "category": "Aksi Korporasi",
+  "title": "TMPO Jelaskan ke Bursa: Rugi Berlanjut, [Covenant] Bank Terpenuhi",
+  "deck": "Tempo Inti Media menjawab permintaan penjelasan BEI atas piutang macet, aset tetap, dan pendapatan yang turun di semua segmen usaha, sembari memastikan seluruh syarat utang bank masih terpenuhi.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMPO",
+   "Tempo Inti Media",
+   "piutang usaha",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2888658a0b_c78280b726.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak",
   "category": "Industri",
   "title": "Pupuk Indonesia Rancang Pabrik Amonia [Rendah Karbon] di Fakfak",
@@ -57,6 +89,70 @@ var ARTICLES = [
   "sourceLabel": "Direktorat Jenderal Pajak"
  },
  {
+  "slug": "dividen-interim-toto-rp10-per-saham-cair-15-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim TOTO Rp10 per Saham, [Cair] 15 Desember",
+  "deck": "TOTO membagikan dividen tunai interim tahun buku 2026 sebesar Rp10 per saham, total Rp103,2 miliar, dibayarkan 15 Desember 2026.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTO",
+   "dividen interim",
+   "Surya Toto Indonesia",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0f8e46b6d1_494670c43e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "biif-siapkan-rp101-4-miliar-untuk-pelunasan-obligasi-6-desember",
+  "category": "Aksi Korporasi",
+  "title": "BIIF Siapkan Rp101,4 Miliar untuk [Pelunasan] Obligasi 6 Desember",
+  "deck": "Maybank Indonesia Finance (BIIF) menyatakan telah menyiapkan Rp101,4 miliar untuk melunasi pokok dan bunga obligasi yang jatuh tempo 6 Desember 2026.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIIF",
+   "Maybank Finance",
+   "obligasi",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d0b0b81909_7d3d0c221d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bmas-transaksi-afiliasi-kontrak-ti-ke-kbank-group-us-2-06-juta",
+  "category": "Aksi Korporasi",
+  "title": "BMAS [Transaksi Afiliasi]: Kontrak TI ke KBank Group US$2,06 Juta",
+  "deck": "BMAS membayar US$2,06 juta kepada tiga perusahaan afiliasi Kasikorn Group untuk jasa IT proyek sistem perbankan inti baru, dengan kontrak berlaku hingga 2036.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "Transaksi Afiliasi",
+   "Core Banking System",
+   "Kasikorn Group"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec0474d7aa_05ce16e171.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-itma-pendapatan-9m26-melonjak-90-8",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose ITMA: Pendapatan 9M26 [Melonjak] 90,8%",
+  "deck": "Materi public expose tahunan ITMA memuat kinerja 9M26: pendapatan naik 90,8% dan laba neto naik 87,7%, ditopang kontribusi entitas asosiasi dan proyek sewa pembangkit baru.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITMA",
+   "public expose",
+   "kinerja keuangan",
+   "energi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b106259fc_24aeb3ef51.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bpdp-satukan-program-peremajaan-sawit-dan-biodiesel",
   "category": "Industri",
   "title": "BPDP Satukan Program [Peremajaan] Sawit dan Biodiesel",
@@ -72,6 +168,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478657-perkuat-industri-sawit-bpdp-integrasikan-program-psr-dan-biodiesel"
+ },
+ {
+  "slug": "public-expose-brpt-19-november-laba-inti-9m26-naik-90-kali",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BRPT 19 November: [Laba Inti] 9M26 Naik 90 Kali",
+  "deck": "Materi public expose BRPT 19 November 2026 menunjukkan pendapatan 9M26 naik 56,3% jadi US$8,69 miliar dan laba inti melonjak 90 kali dari tahun lalu.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRPT",
+   "Barito Pacific",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d284f55d33_6a03495834.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "enrg-teken-pinjaman-us-220-juta-danai-penyertaan-modal-di-as",
@@ -6399,118 +6511,6 @@ var ARTICLES = [
    "pelunasan utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7cb13aa4ed_1ed4753d96.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-panggil-rupslb-bahas-pergantian-komisaris-1-desember",
-  "category": "Aksi Korporasi",
-  "title": "NSSS Panggil RUPSLB, Bahas [Pergantian] Komisaris 1 Desember",
-  "deck": "PT Nusantara Sawit Sejahtera Tbk memanggil RUPSLB 1 Desember 2026 untuk menyetujui perubahan susunan Dewan Komisaris dan penyesuaian kode KBLI dalam anggaran dasar.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Nusantara Sawit Sejahtera"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f9a9517b43_d9605c7de3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indx-kas-tanah-laut-tinggal-rp22-juta-ekuitas-susut-20",
-  "category": "Aksi Korporasi",
-  "title": "INDX: [Kas] Tanah Laut Tinggal Rp22 Juta, Ekuitas Susut 20%",
-  "deck": "Laporan keuangan kuartal III 2025 Tanah Laut Tbk menunjukkan kas perusahaan menyusut hingga 98 persen sementara utang jangka panjang justru melonjak.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDX",
-   "Tanah Laut",
-   "laporan keuangan",
-   "emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202511/20261109140205-65764-0/FinancialStatement-2025-III-INDX.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bsde-lunasi-utang-bank-rp1-24-triliun-lebih-awal-dari-dana-obligasi",
-  "category": "Aksi Korporasi",
-  "title": "BSDE Lunasi Utang Bank Rp1,24 Triliun [Lebih Awal] dari Dana Obligasi",
-  "deck": "BSDE mengoreksi laporan realisasi dana obligasi dan sukuk Rp2,73 triliun, yang terpakai untuk infrastruktur BSD City, modal kerja, dan pelunasan dini pinjaman bank BTN serta Bank Permata.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BSDE",
-   "obligasi korporasi",
-   "pelunasan utang bank",
-   "BSD City"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d92293b02c_5792d007c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bino-balik-untung-rp6-57-miliar-di-semester-i-koreksi-laporan",
-  "category": "Aksi Korporasi",
-  "title": "BINO Balik [Untung] Rp6,57 Miliar di Semester I, Koreksi Laporan",
-  "deck": "PT Perma Plasindo Tbk (BINO) menyampaikan koreksi laporan keuangan interim Juni 2026: pendapatan naik 51,8 persen dan laba bersih Rp6,57 miliar, berbalik dari rugi semester sebelumnya.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BINO",
-   "laporan keuangan",
-   "emiten alat tulis",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109132045-65767-0/FinancialStatement-2026-II-BINO.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kino-bagikan-dividen-interim-rp52-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "KINO Bagikan [Dividen] Interim Rp52 per Saham",
-  "deck": "Kino Indonesia menetapkan dividen interim Rp52 per saham senilai total Rp71,7 miliar, dengan recording date 19 November dan pembayaran 9 Desember 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KINO",
-   "dividen interim",
-   "pemegang saham",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c67ae4c0f4_6d50963de9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jawab-bursa-ekuitas-negatif-rp87-6-m-usai-revisi-lk",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jawab Bursa, Ekuitas [Negatif] Rp87,6 M usai Revisi LK",
-  "deck": "Revisi laporan keuangan interim BIKE membalik ekuitas perusahaan jadi negatif Rp87,6 miliar setelah mengakui utang pinjaman pemegang saham Rp125 miliar dari PMJ.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "ekuitas negatif",
-   "transaksi afiliasi",
-   "suspensi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a84564e22_fe84a9dbc9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tyro-catatkan-sukuk-ijarah-rp510-2-miliar-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "TYRO Catatkan [Sukuk] Ijarah Rp510,2 Miliar di BEI",
-  "deck": "PT Tamaris Hidro (TYRO) mencatatkan sukuk ijarah senilai Rp510,215 miliar dalam dua seri di Bursa Efek Indonesia mulai 9 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TYRO",
-   "sukuk",
-   "obligasi korporasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bdfbc9b79c_1ddf360451.pdf",
   "sourceLabel": "IDX"
  }
 ];

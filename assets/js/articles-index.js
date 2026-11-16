@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "axio-targetkan-pendapatan-2026-rp2-18-triliun-tumbuh-34",
+  "category": "Aksi Korporasi",
+  "title": "AXIO Targetkan Pendapatan 2026 Rp2,18 Triliun, [Tumbuh] 34%",
+  "deck": "Paparan publik tahunan AXIO memuat target pendapatan 2026 Rp2,18 triliun, naik 34 persen dari realisasi 2025, didukung lonjakan laba bersih sembilan bulan 2026 sebesar 74 persen.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AXIO",
+   "paparan publik",
+   "kinerja keuangan",
+   "Tera Data Indonusa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67f8e79979_6d63bf7b69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-pgas-19-november-laba-9m-2026-naik-ke-us-293-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PGAS 19 November: [Laba] 9M-2026 Naik ke US$293 Juta",
+  "deck": "PGN menyampaikan materi public expose tahunan 2026, mengungkap laba bersih sembilan bulan pertama 2026 naik ke US$293 juta dan rasio utang terhadap ekuitas turun ke 27 persen.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGAS",
+   "PGN",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40b6ce9a78_0050ccf280.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-mbma-8-desember-private-placement-10-8-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB MBMA 8 Desember: [Private Placement] 10,8 Miliar Saham",
+  "deck": "MBMA gelar RUPS Independen 8 Desember 2026 untuk minta restu private placement hingga 10,8 miliar saham, setara 10 persen modal disetor, tanpa hak memesan efek lebih dulu.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "RUPSLB",
+   "Private Placement",
+   "PMTHMETD"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2be800c419_ee686009eb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha",
   "category": "Bisnis",
   "title": "Pemerintah Ajukan [Revisi] UU Kadin ke DPR, Perkuat Satu Wadah Usaha",
@@ -172,6 +220,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "right-issue-bmas-rp1-01-triliun-harga-pelaksanaan-rp350",
+  "category": "Aksi Korporasi",
+  "title": "Right Issue BMAS Rp1,01 Triliun: [Harga Pelaksanaan] Rp350",
+  "deck": "BMAS menerbitkan 2,87 miliar saham baru harga Rp350 per saham lewat right issue IV senilai Rp1,01 triliun, dijamin penuh oleh pengendali KVF.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "right issue",
+   "HMETD",
+   "bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48f2c489f4_8b5fd19472.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "public-expose-itma-pendapatan-9m26-melonjak-90-8",
   "category": "Aksi Korporasi",
   "title": "Public Expose ITMA: Pendapatan 9M26 [Melonjak] 90,8%",
@@ -218,6 +282,22 @@ var ARTICLES = [
    "Kinerja Keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d284f55d33_6a03495834.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-daaz-sukuk-rp378-m-cair-ke-indo-lautan-energi",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose DAAZ: [Sukuk] Rp378 M Cair ke Indo Lautan Energi",
+  "deck": "Seluruh dana Rp378 miliar dari Sukuk Wakalah I dialokasikan ke anak usaha untuk membeli solar, sementara laba bersih sembilan bulan turun jadi Rp157 miliar dari Rp277 miliar.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DAAZ",
+   "sukuk wakalah",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b528d62a50_b463f6db5b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -331,6 +411,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825126.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "rupslb-srsn-8-desember-pergantian-direksi-dan-ubah-anggaran-dasar",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB SRSN 8 Desember: [Pergantian Direksi] dan Ubah Anggaran Dasar",
+  "deck": "Indo Acidatama (SRSN) menggelar RUPSLB 8 Desember 2026 membahas pergantian direksi usai pengunduran diri satu direktur, dan revisi anggaran dasar pasal kegiatan usaha sesuai KBLI 2025.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SRSN",
+   "RUPSLB",
+   "Indo Acidatama",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6a01e48579_39e21004f1.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton",
@@ -6418,102 +6514,6 @@ var ARTICLES = [
    "Cakra Buana Resources Energi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5daceb6d1_30106a9e27.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mrat-direksi-tambah-saham-jadi-148-800-lembar",
-  "category": "Aksi Korporasi",
-  "title": "MRAT: Direksi [Tambah] Saham Jadi 148.800 Lembar",
-  "deck": "Direktur Mustika Ratu, Jodi Andrea Suryo Kusumo, membeli 9.700 saham MRAT pada 4-5 November 2026, menambah kepemilikannya jadi 148.800 lembar.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MRAT",
-   "Mustika Ratu",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7959-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lopi-direksi-tambah-kepemilikan-saham-via-repurchase",
-  "category": "Aksi Korporasi",
-  "title": "LOPI: Direksi Tambah [Kepemilikan] Saham via Repurchase",
-  "deck": "Direktur LOPI Wahyu Dwi Jatmiko membeli 100.000 saham tambahan seharga Rp29 per lembar pada 6 November 2026, menambah hak suaranya jadi 0,191%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LOPI",
-   "kepemilikan saham",
-   "direksi",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2135-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rups-boss-gagal-kuorum-panggilan-kedua-16-november",
-  "category": "Aksi Korporasi",
-  "title": "RUPS BOSS Gagal Kuorum, Panggilan [Kedua] 16 November",
-  "deck": "RUPST dan RUPSLB BOSS pada 4 November gagal kuorum. Perseroan memanggil rapat kedua pada 16 November 2026 untuk mengesahkan laporan keuangan tiga tahun yang tertunda.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "RUPS",
-   "kuorum",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a078337837_1901f91fdf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boss-penuhi-public-expose-suspensi-saham-tetap-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "BOSS Penuhi Public Expose, [Suspensi] Saham Tetap Berlanjut",
-  "deck": "BOSS menegaskan kewajiban Public Expose tahunan terpenuhi, namun materi yang dilampirkan menunjukkan tambang masih nihil produksi dan suspensi saham belum tuntas.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOSS",
-   "suspensi saham",
-   "public expose",
-   "batubara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9b50c8485a_d337625d68.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cani-gelar-rupst-dan-rupslb-16-desember",
-  "category": "Aksi Korporasi",
-  "title": "CANI Gelar RUPST dan RUPSLB [16 Desember]",
-  "deck": "PT Capitol Nusantara Indonesia Tbk (CANI) menjadwalkan RUPST dan RUPSLB pada 16 Desember 2026, dengan tanggal pencatatan pemegang saham 23 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CANI",
-   "RUPST",
-   "RUPSLB",
-   "Capitol Nusantara Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e33e4f4125_b875bb6034.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",
-  "category": "Aksi Korporasi",
-  "title": "BBNI Tutup Layanan [BNI Mobile Banking], Pindah ke Wondr",
-  "deck": "BNI menutup akses BNI Mobile Banking secara bertahap hingga 30 November 2026 dan sepenuhnya pada 21 Desember 2026, mengalihkan nasabah ke aplikasi wondr by BNI.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBNI",
-   "wondr by BNI",
-   "perbankan digital",
-   "BNI Mobile Banking"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed5c7783bd_137f346595.pdf",
   "sourceLabel": "IDX"
  }
 ];

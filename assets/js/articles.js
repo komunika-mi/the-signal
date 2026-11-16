@@ -247,6 +247,95 @@ var ARTICLES = [
   "imageV": "mwhoe8nu"
  },
  {
+  "slug": "public-expose-blta-laba-berjalan-naik-ke-us-5-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BLTA: [Laba] Berjalan Naik ke US$5,5 Juta",
+  "deck": "Dalam public expose tahunan 12 November, BLTA melaporkan laba berjalan naik jadi US$5,5 juta dari US$2,6 juta sampai kuartal III 2026, meski laba kotor justru turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T09:00:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50541393ec_fd4d55f41e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTA",
+  "tags": [
+   "BLTA",
+   "public expose",
+   "laba bersih",
+   "rasio lancar"
+  ],
+  "body": [
+   "Berlian Laju Tanker Tbk (BLTA) menggelar public expose tahunan secara daring melalui Zoom pada Kamis, 12 November 2026, pukul 14.00 sampai 15.00 WIB, dihadiri 20 peserta eksternal di luar manajemen dan karyawan perseroan. Perseroan diwakili oleh Benny Rachmat selaku Direktur dan Sekretaris Perusahaan, Romanus Tri Wibowo selaku General Manager Commercial Department, serta Satya Cahya Limas selaku Manager Accounting Department. Sesi tanya jawab menampung sembilan pertanyaan dari pemegang saham, investor, dan analis.",
+   "Dari sesi tanya jawab terungkap sejumlah angka kinerja sampai kuartal III 2026. Laba tahun berjalan naik dari US$2,6 juta menjadi US$5,5 juta, yang menurut manajemen terutama didorong oleh kenaikan bagian laba dari entitas asosiasi atau perusahaan joint venture. Laba sebelum bunga dan pajak (EBIT) naik dari US$5,6 juta menjadi US$8,9 juta. Namun pendapatan yang naik dari US$36,9 juta menjadi US$39,7 juta diikuti kenaikan beban langsung yang lebih besar, dari US$25,1 juta menjadi US$31,9 juta, akibat kenaikan biaya bahan bakar kapal dan beban penyusutan aset hak guna, sehingga laba kotor justru turun dari US$11,7 juta menjadi US$7,8 juta.",
+   "Di sisi neraca, liabilitas jangka panjang turun dari US$55,6 juta menjadi US$52,2 juta karena pembayaran pinjaman dan liabilitas sewa. Rasio lancar sedikit melemah dari 1,30 kali menjadi 1,25 kali dibandingkan posisi 30 September 2025, meski manajemen menyebut angka itu masih di atas 1 kali. Perseroan menegaskan belum bisa membagikan dividen karena saldo laba masih negatif, sesuai ketentuan undang-undang perseroan terbatas. Manajemen juga mengonfirmasi saham BLTA sudah keluar dari Papan Pemantauan Khusus dan kembali ke Papan Utama sejak 28 September 2026, serta menyatakan belum ada rencana aksi korporasi dalam waktu dekat maupun rencana penambahan kapal yang sudah final."
+  ],
+  "fotoAdegan": "A chemical tanker ship docked at an Indonesian port, cargo hoses connected, workers in safety vests on the quay, overcast morning light",
+  "takeaway": "Laporan ini netral bagi BLTA karena dua sisi saling menyeimbangkan: laba tahun berjalan melonjak signifikan, tetapi kenaikan itu lebih banyak ditopang bagian laba dari perusahaan asosiasi atau joint venture, bukan dari bisnis pelayaran inti, yang justru laba kotornya menyusut karena beban bahan bakar dan penyusutan aset sewa naik lebih cepat dari pendapatan. Pos yang tersentuh ada tiga: laba kotor yang mencerminkan efisiensi bisnis inti sebelum biaya lain, rasio lancar yang menunjukkan kemampuan membayar utang jangka pendek dari aset likuid dan sedikit melemah ke 1,25 kali, serta saldo laba negatif yang menurut undang-undang membuat perseroan belum bisa membagikan dividen. Pelaku pasar memperhatikan ini karena kenaikan laba dari pos non operasional biasanya dianggap kurang mencerminkan kekuatan bisnis utama dibanding kenaikan dari aktivitas pelayaran sendiri. Yang perlu dipantau selanjutnya adalah apakah tren kenaikan biaya bahan bakar ini berlanjut sampai tutup tahun 2026, karena manajemen sendiri mengakui pencapaian akhir tahun masih bergantung pada kondisi pasar pelayaran, permintaan pelanggan, dan nilai tukar.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+ },
+ {
+  "slug": "smra-bentuk-usaha-patungan-mdcg-smip-kuasai-60-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Bentuk [Usaha Patungan] MDCG, SMIP Kuasai 60% Saham",
+  "deck": "SMIP, anak usaha SMRA, mendirikan PT Mahakarya Duta CitraGemilang bersama PT Duta Putra Mahkota dengan modal awal Rp1,5 miliar dan kepemilikan 60 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T08:20:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/402eef1e33_2d72df847a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRA",
+  "tags": [
+   "SMRA",
+   "usaha patungan",
+   "SMIP",
+   "properti"
+  ],
+  "body": [
+   "PT Summarecon Investment Property (SMIP), perusahaan yang sahamnya dikuasai 99,99 persen oleh PT Summarecon Agung Tbk (SMRA), bersama PT Duta Putra Mahkota (DPM), pihak yang tidak terafiliasi dengan SMRA, mendirikan perusahaan patungan berbentuk perseroan terbatas bernama PT Mahakarya Duta CitraGemilang (MDCG) pada 13 November 2026. MDCG berkedudukan di Kabupaten Bekasi dan telah memperoleh pengesahan dari Kementerian Hukum Republik Indonesia pada tanggal yang sama, sehingga pendiriannya sudah efektif dan sah secara hukum.",
+   "Dalam pendirian ini, SMIP menyetor modal awal sebesar Rp1,5 miliar yang membuatnya menguasai 60 persen dari seluruh saham yang diterbitkan MDCG. Dana penyertaan tersebut berasal dari kas internal SMIP, bukan dari pinjaman baru. Perseroan tidak merinci berapa persen saham yang dipegang DPM sebagai pihak lain di luar porsi SMIP.",
+   "Berdasarkan anggaran dasarnya, kegiatan usaha MDCG mencakup pengembangan dan penyewaan bangunan atau lahan hunian, penyewaan tempat untuk pertemuan, perjalanan insentif, konvensi, dan pameran, pengelolaan pusat perbelanjaan, aktivitas real estat nonhunian lain, penyediaan makanan, seni pertunjukan, pengelolaan arena permainan, serta jasa parkir di luar badan jalan. SMRA dan/atau SMIP menyatakan dapat memberikan dukungan berupa penyediaan jasa teknis, penggunaan merek, dan konsultasi manajemen untuk menunjang operasional MDCG."
+  ],
+  "fotoAdegan": "Construction cranes rising above a half-finished mixed-use residential and retail complex on a city outskirt, late afternoon light.",
+  "takeaway": "Penilaian saya netral, karena modal yang disetor SMIP hanya Rp1,5 miliar, jumlah yang sangat kecil dibanding skala aset dan bisnis SMRA sehingga belum mengubah peta keuangan Perseroan, meski menandai perluasan lini properti campuran dan rekreasi SMIP ke wilayah Bekasi. Pos yang tersentuh di laporan keuangan konsolidasian SMRA adalah investasi pada entitas anak dan arus kas untuk kegiatan investasi, bukan utang maupun laba per saham, sehingga dampaknya ke laba bersih Perseroan dalam waktu dekat nyaris tidak terasa. Yang perlu dipantau selanjutnya adalah proyek konkret apa yang akan dijalankan MDCG di Bekasi dan apakah SMIP akan menambah modalnya di kemudian hari, karena dokumen ini hanya mencatat pendirian yang sudah efektif sejak 13 November 2026 tanpa menyebut agenda lanjutan atau tenggat baru ke OJK maupun bursa.",
+  "sentimen": "netral",
+  "peristiwa": "akuisisi",
+  "judulIdx": "Penggabungan usaha, pemisahan usaha, peleburan usaha, atau pembentukan usaha patungan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Tanggal efektif pendirian PT Mahakarya Duta CitraGemilang"
+   }
+  ]
+ },
+ {
+  "slug": "coin-teken-perjanjian-rp200-miliar-akuisisi-10-saham-mig",
+  "category": "Aksi Korporasi",
+  "title": "COIN Teken Perjanjian Rp200 Miliar: [Akuisisi] 10% Saham MIG",
+  "deck": "COIN menandatangani perjanjian pengambilan saham bersyarat senilai Rp200 miliar untuk menguasai 10 persen saham PT Mitra Informatika Gemilang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T07:41:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea615d3e32_3d51f4103d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "COIN",
+  "tags": [
+   "COIN",
+   "akuisisi",
+   "investasi",
+   "MIG"
+  ],
+  "body": [
+   "Pada 13 November 2026, PT Indokripto Koin Semesta Tbk (COIN) menandatangani Perjanjian Pengambilan Bagian Saham Bersyarat dengan PT Mitra Informatika Gemilang (MIG). Berdasarkan perjanjian itu, COIN bermaksud mengambil bagian atas 1.223.435 lembar saham Seri B baru MIG, masing-masing bernilai nominal Rp163.475, dengan total nilai transaksi Rp200.001.036.625, atau sekitar Rp200 miliar.",
+   "Setelah transaksi ini rampung, COIN akan memegang 10 persen saham MIG. Perseroan menyebut investasi ini sebagai bagian dari langkah strategis untuk mengembangkan dan mendiversifikasi portofolio investasinya serta memperluas peluang usaha. Dalam keterbukaan informasi yang dikirim ke OJK dan BEI, COIN tidak merinci profil bisnis MIG lebih jauh, maupun syarat dan tenggat yang harus dipenuhi sebelum transaksi dinyatakan efektif, karena perjanjian ini sifatnya bersyarat.",
+   "Laporan keterbukaan informasi ini ditandatangani oleh Sekretaris Perusahaan COIN, Indira Indah Prameshwari, sebagai pemenuhan kewajiban pelaporan fakta material sesuai POJK Nomor 31/POJK.04/2015 dan Peraturan I-E Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's financial district photographed from a street corner on a sunny afternoon.",
+  "takeaway": "Laporan ini netral bagi fundamental COIN, sebab dana sekitar Rp200 miliar yang dikeluarkan tidak hilang atau menjadi beban, melainkan dialihkan menjadi aset penyertaan saham 10% di MIG, dan manfaatnya baru akan terbukti kalau MIG benar-benar memberi kontribusi ke depan. Pos yang tersentuh adalah kas dan aset investasi COIN, bukan jumlah saham beredar atau laba per saham COIN sendiri: uang tunai sebesar nilai transaksi keluar dari kas perusahaan dan dicatat sebagai penyertaan di perusahaan lain, sehingga tidak langsung mengubah struktur permodalan COIN. Yang perlu dipantau berikutnya adalah pemenuhan syarat dalam perjanjian bersyarat ini serta kapan transaksi dinyatakan efektif, karena dokumen ini belum mencantumkan tenggat atau kondisi closing secara rinci, dan keterbukaan informasi lanjutan dari COIN akan menjadi penanda bahwa investasi di MIG benar-benar terealisasi.",
+  "sentimen": "netral",
+  "judulIdx": "Laporan dan Pengumuman Informasi atau Fakta Material"
+ },
+ {
   "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
   "category": "Bisnis",
   "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",

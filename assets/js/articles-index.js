@@ -161,6 +161,54 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478486-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026"
  },
  {
+  "slug": "public-expose-blta-laba-berjalan-naik-ke-us-5-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BLTA: [Laba] Berjalan Naik ke US$5,5 Juta",
+  "deck": "Dalam public expose tahunan 12 November, BLTA melaporkan laba berjalan naik jadi US$5,5 juta dari US$2,6 juta sampai kuartal III 2026, meski laba kotor justru turun.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTA",
+   "public expose",
+   "laba bersih",
+   "rasio lancar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50541393ec_fd4d55f41e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smra-bentuk-usaha-patungan-mdcg-smip-kuasai-60-saham",
+  "category": "Aksi Korporasi",
+  "title": "SMRA Bentuk [Usaha Patungan] MDCG, SMIP Kuasai 60% Saham",
+  "deck": "SMIP, anak usaha SMRA, mendirikan PT Mahakarya Duta CitraGemilang bersama PT Duta Putra Mahkota dengan modal awal Rp1,5 miliar dan kepemilikan 60 persen.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRA",
+   "usaha patungan",
+   "SMIP",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/402eef1e33_2d72df847a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "coin-teken-perjanjian-rp200-miliar-akuisisi-10-saham-mig",
+  "category": "Aksi Korporasi",
+  "title": "COIN Teken Perjanjian Rp200 Miliar: [Akuisisi] 10% Saham MIG",
+  "deck": "COIN menandatangani perjanjian pengambilan saham bersyarat senilai Rp200 miliar untuk menguasai 10 persen saham PT Mitra Informatika Gemilang.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "COIN",
+   "akuisisi",
+   "investasi",
+   "MIG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea615d3e32_3d51f4103d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
   "category": "Bisnis",
   "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",
@@ -6453,54 +6501,6 @@ var ARTICLES = [
    "cat"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/208ef9cff7_732a7a802c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akra-rampungkan-akuisisi-penuh-apr-senilai-us-14-22-juta",
-  "category": "Aksi Korporasi",
-  "title": "AKRA Rampungkan [Akuisisi] Penuh APR Senilai US$14,22 Juta",
-  "deck": "AKR Corporindo lewat dua anak usahanya membeli 49,9% saham PT Aneka Petroindo Raya dari BP Global Investments senilai US$14,22 juta, menaikkan kepemilikannya di APR menjadi 100%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKRA",
-   "AKR Corporindo",
-   "akuisisi",
-   "Aneka Petroindo Raya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3dd514b6db_08b22f07c5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "east-bagikan-dividen-interim-iii-rp1-6-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "EAST Bagikan [Dividen] Interim III Rp1,6 per Saham",
-  "deck": "Eastparc Hotel menjadwalkan dividen tunai interim ketiga tahun buku 2026 sebesar Rp1,6 per saham, dibayar 30 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EAST",
-   "dividen interim",
-   "Eastparc Hotel",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bec463178c_0b6d8dc767.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jast-laba-pemilik-induk-berbalik-rugi-utang-naik-21",
-  "category": "Aksi Korporasi",
-  "title": "JAST: Laba Pemilik Induk [Berbalik Rugi], Utang Naik 21%",
-  "deck": "Laba bersih JAST turun 42 persen dan bagian untuk pemegang saham induk berbalik rugi, sementara liabilitas melonjak 21,49 persen akibat utang usaha anak usaha CCX Platform Pte Ltd.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAST",
-   "laporan keuangan",
-   "liabilitas",
-   "CCX Platform"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109080723-65766-0/FinancialStatement-2026-III-JAST.pdf",
   "sourceLabel": "IDX"
  }
 ];

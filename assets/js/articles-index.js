@@ -227,6 +227,38 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478486-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026"
  },
  {
+  "slug": "merger-smbr-bmu-rasio-konversi-belum-final-target-efektif-2027",
+  "category": "Aksi Korporasi",
+  "title": "Merger SMBR-BMU: [Rasio Konversi] Belum Final, Target Efektif 2027",
+  "deck": "SMBR menjawab permintaan penjelasan BEI soal merger dengan BMU: rasio konversi saham dan potensi dilusi belum ditetapkan, target efektif Semester I 2027.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMBR",
+   "merger",
+   "Semen Baturaja",
+   "BUMN"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b558c9b5a_dad85ec97f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-spto-rp35-per-saham-cair-10-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim SPTO Rp35 per Saham, [Cair] 10 Desember",
+  "deck": "Surya Pertiwi membagikan dividen interim tunai Rp94,5 miliar untuk tahun buku 2026, dibayar 10 Desember setelah recording date 26 November.",
+  "date": "15 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPTO",
+   "dividen interim",
+   "Surya Pertiwi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eec805de86_d2a4a37f7c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "public-expose-chem-laba-bersih-turun-64-akibat-rugi-kurs",
   "category": "Aksi Korporasi",
   "title": "Public Expose CHEM: Laba Bersih [Turun] 64% Akibat Rugi Kurs",
@@ -1915,15 +1947,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 17 November: [Jadwal] Diubah Jadi 14.30 WIB",
-  "deck": "VIVA mengoreksi jadwal Public Expose Tahunan 2026, kini dipastikan digelar Selasa, 17 November 2026 pukul 14.30 WIB, setelah pengumuman awal 30 Oktober 2026.",
+  "title": "Public Expose VIVA 17 November: Jadwal Diubah Jadi 14.00 WIB",
+  "deck": "VIVA mengoreksi ulang jadwal Public Expose Tahunan 2026, kini dipastikan pukul 14.00 WIB pada Selasa, 17 November 2026, setelah sebelumnya diumumkan pukul 14.30 WIB.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "VIVA",
    "Public Expose",
-   "Laporan Keuangan",
-   "Jadwal Korporasi"
+   "Konversi Utang Saham",
+   "Laba Bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
   "sourceLabel": "IDX"
@@ -5158,15 +5190,15 @@ var ARTICLES = [
  {
   "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
   "category": "Aksi Korporasi",
-  "title": "WBSA Catat [Laba] 9M26 Turun 55% Meski Pendapatan Naik 31%",
-  "deck": "Materi public expose WBSA mengungkap laba bersih sembilan bulan 2026 turun 55 persen menjadi Rp13 miliar, meski pendapatan naik 31 persen jadi Rp2,9 triliun.",
+  "title": "Public Expose WBSA 12 November: [Capex] 2027 Tembus Rp100 Miliar",
+  "deck": "Public expose 12 November: manajemen WBSA proyeksikan capex 2027 di atas Rp100 miliar dari kas internal, dividen 2026 diputuskan di RUPST 2027.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "WBSA",
-   "logistik",
-   "public expose",
-   "laporan keuangan"
+   "Public Expose",
+   "Logistik",
+   "Capex"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b578c2dc1e_e7f4beb126.pdf",
   "sourceLabel": "IDX"
@@ -6472,37 +6504,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477347-harga-emas-antam-stabil-di-rp25-jutaan-per-gram-pada-senin-berikut-daftar-lengkapnya"
- },
- {
-  "slug": "depo-respons-bei-akui-diskusi-internal-tindakan-korporasi",
-  "category": "Aksi Korporasi",
-  "title": "DEPO Respons BEI, Akui Diskusi Internal [Tindakan Korporasi]",
-  "deck": "Menanggapi permintaan BEI soal volatilitas transaksi, DEPO menyatakan tak ada info material baru, namun mengakui masih membahas internal alternatif tindakan korporasi tanpa keputusan final.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DEPO",
-   "keterbukaan informasi",
-   "tindakan korporasi",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f17751f04b_ef7f6bbd0c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-lagi-250-000-saham",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem Jual Lagi 200.000 Saham, Hak Suara 0,3139%",
-  "deck": "Henry Liem, Dewan Komisaris AKPI, kembali melaporkan penjualan 200.000 saham pada 12 November 2026 lewat skema repurchase agreement, laporan ketiga sejak 6 November.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Laporan Kepemilikan",
-   "Henry Liem",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-4359-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

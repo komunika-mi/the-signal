@@ -359,6 +359,83 @@ var ARTICLES = [
   "imageV": "mwhoe8nu"
  },
  {
+  "slug": "merger-smbr-bmu-rasio-konversi-belum-final-target-efektif-2027",
+  "category": "Aksi Korporasi",
+  "title": "Merger SMBR-BMU: [Rasio Konversi] Belum Final, Target Efektif 2027",
+  "deck": "SMBR menjawab permintaan penjelasan BEI soal merger dengan BMU: rasio konversi saham dan potensi dilusi belum ditetapkan, target efektif Semester I 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T12:43:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b558c9b5a_dad85ec97f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMBR",
+  "tags": [
+   "SMBR",
+   "merger",
+   "Semen Baturaja",
+   "BUMN"
+  ],
+  "body": [
+   "PT Semen Baturaja (Persero) Tbk (SMBR) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan dan reminder BEI tertanggal 12 November 2026 terkait rencana penggabungan usaha dengan PT Baturaja Multi Usaha (BMU). Tanggapan ini menyusul penandatanganan Conditional Merger Agreement (CMA) antara SMBR dan BMU pada 30 Oktober 2026. SMBR menjelaskan bahwa rencana merger ini merupakan bagian dari program penataan BUMN atau streamlining sesuai arahan PT Danantara Asset Management, yang ditindaklanjuti lewat surat PT Semen Indonesia (Persero) Tbk tertanggal 30 September 2026 yang menetapkan kebijakan penggabungan BMU ke dalam SMBR.",
+   "Dalam skema ini, SMBR berperan sebagai perusahaan yang menerima penggabungan (surviving entity) dan tetap beroperasi, sementara BMU akan bubar demi hukum tanpa proses likuidasi pada tanggal efektif merger. Seluruh aset dan kewajiban BMU akan beralih ke SMBR. Karena SMBR saat ini memegang 99,94 persen saham BMU, kepemilikan tersebut otomatis terhapus secara hukum begitu merger efektif. Penyelesaian saham minoritas BMU akan dilakukan melalui salah satu dari dua mekanisme, yaitu pengalihan saham minoritas kepada SMBR berdasarkan penilaian independen, atau konversi saham minoritas BMU menjadi saham SMBR dengan rasio yang ditetapkan oleh Kantor Jasa Penilai Publik (KJPP). Rasio konversi dan jumlah saham tambahan yang akan diterbitkan belum ditetapkan karena proses penunjukan KJPP masih berjalan. Pelaksanaan merger juga menunggu sejumlah syarat pendahuluan, antara lain persetujuan internal, persetujuan Danantara, rekomendasi BPKP, rekomendasi atau pendapat hukum dari Kejaksaan, uji tuntas, penilaian independen, pemenuhan perlindungan kreditur, persetujuan RUPS masing-masing perusahaan, serta pernyataan efektif dari OJK.",
+   "SMBR juga memaparkan struktur pemegang saham terkininya sebelum merger: satu lembar Saham Seri A Dwiwarna milik Pemerintah RI (0,00 persen), 7.499.999.999 lembar Saham Seri B milik PT Semen Indonesia (Persero) Tbk (75,51 persen), dan 2.432.534.336 lembar Saham Seri B milik masyarakat atau publik (24,49 persen), dengan total 9.932.534.336 lembar saham. Struktur kepemilikan setelah merger akan bergantung pada mekanisme penyelesaian saham minoritas BMU yang nantinya dituangkan dalam Rancangan Penggabungan. SMBR menyebut target penyelesaian seluruh persyaratan pendahuluan adalah Semester I 2027, dengan merger berlaku efektif setelah semua syarat dalam CMA terpenuhi. Rincian kontribusi finansial dan non-finansial dari merger, termasuk laporan keuangan proforma sebelum dan sesudah penggabungan, belum bisa disampaikan karena proses uji tuntas, audit, dan penilaian KJPP masih berjalan, dan akan diumumkan lengkap dalam Ringkasan Rancangan Penggabungan Usaha sesuai POJK Nomor 74/POJK.04/2016."
+  ],
+  "fotoAdegan": "Industrial cement plant workers monitoring conveyor belts and silos under morning light at a manufacturing facility.",
+  "takeaway": "Tanggapan ini netral bagi SMBR untuk saat ini, karena isinya baru mengonfirmasi bahwa proses merger dengan BMU berjalan sesuai arahan penataan BUMN, tanpa ada angka final yang mengubah nilai fundamental perusahaan hari ini. Yang perlu dicermati ke depan adalah jumlah saham beredar, yaitu total lembar saham SMBR yang ada di pasar: jika penyelesaian saham minoritas BMU dilakukan lewat penerbitan saham baru SMBR, jumlah saham beredar bertambah dan laba per saham (keuntungan perusahaan dibagi jumlah saham) berpotensi terdilusi, meski besarannya belum bisa dihitung karena rasio konversi masih menunggu hasil penilaian independen oleh KJPP. Pelaku pasar juga perlu mencatat bahwa kepemilikan SMBR sebesar 99,94 persen di BMU akan terhapus otomatis begitu merger efektif, karena nilai itu berpindah bentuk menjadi aset dan operasi BMU yang melebur langsung ke dalam SMBR. Yang perlu dipantau berikutnya adalah penerbitan Rancangan Penggabungan yang akan memuat rasio konversi final dan proyeksi keuangan gabungan, serta apakah target penyelesaian syarat pendahuluan pada Semester I 2027 tercapai sebelum merger bisa dinyatakan efektif.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "dividen-interim-spto-rp35-per-saham-cair-10-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim SPTO Rp35 per Saham, [Cair] 10 Desember",
+  "deck": "Surya Pertiwi membagikan dividen interim tunai Rp94,5 miliar untuk tahun buku 2026, dibayar 10 Desember setelah recording date 26 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "15 November 2026",
+  "isoDate": "2026-11-15T12:08:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eec805de86_d2a4a37f7c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SPTO",
+  "tags": [
+   "SPTO",
+   "dividen interim",
+   "Surya Pertiwi",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi PT Surya Pertiwi Tbk (SPTO) yang telah mendapat persetujuan Dewan Komisaris pada 12 November 2026 memutuskan membagikan dividen interim tunai untuk tahun buku 2026 sebesar Rp94,5 miliar, atau Rp35 per saham, kepada pemegang 2.700.000.000 saham perseroan.",
+   "Jadwalnya, perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 24 November 2026, disusul periode tanpa hak dividen (ex dividen) mulai 25 November 2026. Untuk pasar tunai, cum dividen berakhir 26 November 2026 dan ex dividen mulai 27 November 2026. Daftar pemegang saham yang berhak menerima dividen (recording date) ditetapkan pada 26 November 2026 pukul 16.00, dan dividen akan dibayarkan paling lambat 10 Desember 2026.",
+   "Perseroan menyertakan data keuangan per 30 September 2026 sebagai dasar pembagian dividen ini: laba bersih yang diatribusikan ke entitas induk tercatat Rp147,4 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp788,2 miliar, dan total ekuitas Rp2,51 triliun. Dividen akan dikenakan pajak sesuai aturan yang berlaku, dengan pengecualian pajak bagi pemegang saham badan dalam negeri tertentu dan bagi wajib pajak orang pribadi dalam negeri yang menginvestasikan kembali dividennya di Indonesia."
+  ],
+  "fotoAdegan": "Workers inspecting rows of white ceramic bathroom fixtures on a factory production line under bright lighting",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham, karena Surya Pertiwi mengalokasikan sekitar 64 persen dari laba bersih sembilan bulannya (Rp94,5 miliar dari Rp147,4 miliar) langsung dalam bentuk uang tunai, sementara total ekuitas perusahaan, yaitu selisih antara aset dan utangnya, cuma tersusut sekitar 3,8 persen dari Rp2,51 triliun. Pos yang tersentuh adalah arus kas, yakni uang yang benar-benar keluar dari kas perusahaan ke rekening pemegang saham, sehingga pelaku pasar biasa memeriksa apakah kas operasional perusahaan cukup kuat menanggung pembayaran sebesar ini tanpa mengganggu kebutuhan modal kerja. Yang perlu dipantau berikutnya adalah recording date pada 26 November 2026 pukul 16.00, yang menentukan siapa saja yang tercatat berhak menerima dividen, dan tanggal pembayaran pada 10 Desember 2026 sebagai kepastian realisasi dananya benar-benar cair.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Recording date pemegang saham dan cum dividen pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Pembayaran dividen interim tunai"
+   }
+  ]
+ },
+ {
   "slug": "public-expose-chem-laba-bersih-turun-64-akibat-rugi-kurs",
   "category": "Aksi Korporasi",
   "title": "Public Expose CHEM: Laba Bersih [Turun] 64% Akibat Rugi Kurs",
@@ -3523,8 +3600,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 17 November: [Jadwal] Diubah Jadi 14.30 WIB",
-  "deck": "VIVA mengoreksi jadwal Public Expose Tahunan 2026, kini dipastikan digelar Selasa, 17 November 2026 pukul 14.30 WIB, setelah pengumuman awal 30 Oktober 2026.",
+  "title": "Public Expose VIVA 17 November: Jadwal Diubah Jadi 14.00 WIB",
+  "deck": "VIVA mengoreksi ulang jadwal Public Expose Tahunan 2026, kini dipastikan pukul 14.00 WIB pada Selasa, 17 November 2026, setelah sebelumnya diumumkan pukul 14.30 WIB.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T21:10:13",
@@ -3534,17 +3611,17 @@ var ARTICLES = [
   "tags": [
    "VIVA",
    "Public Expose",
-   "Laporan Keuangan",
-   "Jadwal Korporasi"
+   "Konversi Utang Saham",
+   "Laba Bersih"
   ],
   "body": [
-   "PT Visi Media Asia Tbk (VIVA) mengoreksi jadwal Public Expose Tahunan 2026 melalui surat yang disampaikan ke Bursa Efek Indonesia pada 13 November 2026. Acara yang semula diumumkan pada 30 Oktober 2026 kini dipastikan berlangsung Selasa, 17 November 2026 pukul 14.30 WIB sampai selesai, bertempat di The Convergence Indonesia, Lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, atau secara daring melalui aplikasi Zoom. Agendanya tetap Public Expose Tahunan dan akan dihadiri jajaran Direksi Perseroan.",
-   "Jadwal ini menyusul materi Public Expose yang sudah disampaikan VIVA pada 12 November 2026, yang memuat kinerja keuangan semester I 2026. Pendapatan Perseroan tercatat Rp441,44 miliar, turun dari Rp477,94 miliar pada semester I 2025, sementara EBITDA turun dari Rp32,78 miliar menjadi Rp30,68 miliar meski margin EBITDA stabil di 6,9 persen. Laba bersih merosot tajam dari Rp1.191,87 miliar menjadi Rp60,02 miliar, turun sekitar 95 persen, karena hilangnya keuntungan satu kali yang mendongkrak laba tahun sebelumnya.",
-   "Dari sisi neraca, total liabilitas turun dari Rp6.022,35 miliar pada akhir 2025 menjadi Rp5.842,84 miliar per Juni 2026, sedangkan ekuitas melonjak 37,2 persen dari Rp361,61 miliar menjadi Rp496,10 miliar. Kenaikan ekuitas ini bukan berasal dari laba ditahan, melainkan dari proses konversi utang menjadi saham baru yang sebelumnya direvisi naik menjadi maksimal 86,17 miliar lembar saham. Dari sisi bisnis, tvOne tercatat di peringkat pertama kategori berita untuk pemirsa dewasa kelas atas dengan pangsa 4,7 persen, ANTV di peringkat keenam kategori hiburan dengan pangsa 6,4 persen, dan viva.co.id sebagai situs berita peringkat ke-12 menurut Simweb dengan rata-rata lebih dari 216 juta kunjungan per bulan.",
-   "Terkait logistik acara, Perseroan membatasi jumlah peserta yang hadir fisik karena kapasitas ruangan terbatas. Peserta yang ingin hadir langsung wajib mengonfirmasi kehadiran ke corsec@vivagroup.co.id, sementara peserta daring wajib mendaftar lebih dulu melalui tautan registrasi Zoom yang disediakan Perseroan."
+   "PT Visi Media Asia Tbk (VIVA) kembali mengoreksi jadwal Public Expose Tahunan 2026 melalui surat ke Bursa Efek Indonesia pada 16 November 2026. Acara yang sebelumnya dipastikan berlangsung pukul 14.30 WIB kini diubah menjadi pukul 14.00 WIB sampai selesai, tetap pada Selasa, 17 November 2026, di tempat dan saluran yang sama.",
+   "Acara digelar di The Convergence Indonesia, Lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, atau secara daring melalui aplikasi Zoom, dengan agenda Public Expose Tahunan yang akan dihadiri jajaran Direksi Perseroan. Karena kapasitas ruangan terbatas, peserta yang ingin hadir fisik wajib mengonfirmasi kehadiran ke corsec@vivagroup.co.id paling lambat satu hari sebelum acara, sementara peserta daring wajib mendaftar lebih dulu melalui tautan registrasi Zoom yang disediakan Perseroan. Materi Public Expose dijanjikan disampaikan paling lambat tiga hari bursa sebelum acara.",
+   "Materi Public Expose yang sudah disampaikan VIVA sebelumnya memuat kinerja keuangan semester I 2026. Pendapatan Perseroan tercatat Rp441,44 miliar, turun dari Rp477,94 miliar pada semester I 2025, sementara EBITDA turun dari Rp32,78 miliar menjadi Rp30,68 miliar meski margin EBITDA stabil di 6,9 persen. Laba bersih merosot tajam dari Rp1.191,87 miliar menjadi Rp60,02 miliar, turun sekitar 95 persen, karena hilangnya keuntungan satu kali yang mendongkrak laba tahun sebelumnya.",
+   "Dari sisi neraca, total liabilitas turun dari Rp6.022,35 miliar pada akhir 2025 menjadi Rp5.842,84 miliar per Juni 2026, sedangkan ekuitas melonjak 37,2 persen dari Rp361,61 miliar menjadi Rp496,10 miliar. Kenaikan ekuitas ini bukan berasal dari laba ditahan, melainkan dari proses konversi utang menjadi saham baru yang sebelumnya direvisi naik menjadi maksimal 86,17 miliar lembar saham."
   ],
   "fotoAdegan": "A television news camera crew filming an outdoor segment at dusk, lighting rig and microphone boom visible, Jakarta skyline",
-  "takeaway": "Secara rangkaian, kabar ini tetap condong negatif bagi pemegang saham VIVA, karena substansi di baliknya masih laba bersih yang anjlok 95 persen pada semester I 2026, sementara koreksi hari ini sendiri hanya soal jadwal acara dan tidak mengubah angka apa pun. Pos yang masih relevan dipantau adalah ekuitas dan jumlah saham beredar, sebab lonjakan ekuitas 37,2 persen berasal dari konversi utang menjadi saham baru hingga maksimal 86,17 miliar lembar, bukan dari laba ditahan, sehingga berpotensi menggerus laba per saham ke depan kalau konversi itu benar terlaksana. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose Tahunan VIVA pada Selasa, 17 November 2026 pukul 14.30 WIB, saat manajemen dijadwalkan menjelaskan langsung kepada pemegang saham dan analis soal kinerja semester I 2026 serta kelanjutan rencana konversi utang tersebut.",
+  "takeaway": "Koreksi jadwal hari ini sendiri bersifat administratif dan tidak mengubah angka apa pun, tapi secara rangkaian laporan ini tetap condong negatif karena substansi di baliknya masih laba bersih yang susut sekitar 95 persen pada semester I 2026 dibanding periode sama tahun lalu. Pos yang masih relevan dipantau adalah ekuitas dan jumlah saham beredar, sebab lonjakan ekuitas 37,2 persen per Juni 2026 berasal dari konversi utang menjadi saham baru sampai maksimal 86,17 miliar lembar, bukan dari laba ditahan, sehingga laba yang dihasilkan bisa terbagi ke lebih banyak lembar saham kalau konversi itu benar dijalankan. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose Tahunan VIVA yang kini pasti digelar Selasa, 17 November 2026 pukul 14.00 WIB, saat manajemen dijadwalkan menjelaskan kinerja semester I 2026 dan kelanjutan rencana konversi utang tersebut kepada pemegang saham dan analis.",
   "sentimen": "negatif",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -3554,13 +3631,19 @@ var ARTICLES = [
     "ringkas": "VIVA mengoreksi jadwal Public Expose Tahunan 2026, kini dipastikan digelar 17 November 2026 pukul 14.30 WIB.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a1eb7dcda6_69cf2d0229.pdf",
     "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
+   },
+   {
+    "tanggal": "2026-11-16T14:08:52",
+    "ringkas": "VIVA mengoreksi lagi jadwal Public Expose Tahunan 17 November 2026, dari pukul 14.30 WIB menjadi 14.00 WIB.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/15d5dba7aa_78e16dc8af.pdf",
+    "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
    }
   ],
-  "diperbarui": "2026-11-13T21:38:25",
+  "diperbarui": "2026-11-16T14:08:52",
   "jadwal": [
    {
     "tanggal": "2026-11-17",
-    "acara": "Public Expose Tahunan VIVA, pukul 14.30 WIB"
+    "acara": "Public Expose Tahunan VIVA, pukul 14.00 WIB"
    }
   ]
  },
@@ -9118,8 +9201,8 @@ var ARTICLES = [
  {
   "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
   "category": "Aksi Korporasi",
-  "title": "WBSA Catat [Laba] 9M26 Turun 55% Meski Pendapatan Naik 31%",
-  "deck": "Materi public expose WBSA mengungkap laba bersih sembilan bulan 2026 turun 55 persen menjadi Rp13 miliar, meski pendapatan naik 31 persen jadi Rp2,9 triliun.",
+  "title": "Public Expose WBSA 12 November: [Capex] 2027 Tembus Rp100 Miliar",
+  "deck": "Public expose 12 November: manajemen WBSA proyeksikan capex 2027 di atas Rp100 miliar dari kas internal, dividen 2026 diputuskan di RUPST 2027.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T20:57:03",
@@ -9128,19 +9211,29 @@ var ARTICLES = [
   "emiten": "WBSA",
   "tags": [
    "WBSA",
-   "logistik",
-   "public expose",
-   "laporan keuangan"
+   "Public Expose",
+   "Logistik",
+   "Capex"
   ],
   "body": [
-   "PT BSA Logistics Indonesia Tbk (WBSA) akan menggelar Public Expose Tahunan 2026 pada Kamis, 12 November 2026, pukul 14.00 WIB sampai selesai, secara virtual melalui Google Meet. Surat yang ditandatangani Direktur Utama Edwin Wibowo ini merupakan kelanjutan dari pemberitahuan rencana acara pada 29 Oktober 2026. Calon peserta diminta mendaftar lebih dulu melalui tautan yang disediakan perseroan sebelum mengikuti paparan.",
-   "Materi presentasi yang disampaikan ke Bursa Efek Indonesia memuat kinerja keuangan sembilan bulan pertama 2026 (9M26). Pendapatan bersih naik 31,3 persen secara tahunan menjadi Rp2,899 triliun, dari Rp2,208 triliun pada 9M25. Namun laba bersih justru turun 55,4 persen menjadi Rp13 miliar dari Rp30 miliar, sementara laba kotor turun 13,2 persen menjadi Rp237 miliar dan laba operasional turun 23,7 persen menjadi Rp64 miliar. Margin laba kotor tergerus dari 12,4 persen menjadi 8,2 persen, margin operasional dari 3,8 persen menjadi 2,2 persen, dan margin laba bersih dari 1,4 persen menjadi 0,5 persen.",
-   "Dari sisi segmen, bisnis freight forwarding dan pelayaran menyumbang 56 persen pendapatan 9M26, disusul transportasi darat 37 persen dan pergudangan 7 persen. Dari sisi volume, jumlah perjalanan truk naik 9,0 persen menjadi 489,1 ribu trip dan volume freight naik 12,1 persen menjadi 6,1 juta ton, sementara volume pelayaran lewat anak usaha PT BIL turun 0,6 persen menjadi 5,4 juta ton. Perseroan mencatat rasio utang terhadap ekuitas turun dari 1,24 kali pada akhir 2025 menjadi 0,88 kali pada September 2026, dan rasio utang bersih terhadap ekuitas turun dari 0,87 kali menjadi 0,45 kali pada periode yang sama.",
-   "Materi juga memuat sejumlah milestone korporasi sepanjang 2025 dan 2026, antara lain perolehan peringkat kredit A dari KRI untuk penerbitan MTN senilai Rp30 miliar, pembukaan cabang Makassar dan gudang baru 4.900 meter persegi di Jakarta, pencatatan saham perdana di BEI, akuisisi perusahaan operator pelayaran, serta perluasan jaringan ke Papua."
+   "PT BSA Logistics Indonesia Tbk (WBSA) melaporkan hasil Public Expose Tahunan 2026 yang digelar 12 November lalu secara virtual, dihadiri sembilan peserta eksternal dari kalangan investor ritel, analis, dan media. Dalam sesi tanya jawab, manajemen mengungkap sejumlah rencana yang belum pernah diumumkan sebelumnya: kebutuhan belanja modal (capex) 2027 diproyeksikan di atas Rp100 miliar, sebagian besar untuk pengadaan truk listrik hingga 100 unit, dan akan diprioritaskan dari kas internal perusahaan ketimbang utang baru atau penerbitan saham tambahan.",
+   "Soal dividen, Direktur Utama Edwin Wibowo menyatakan keputusan pembagian dividen untuk tahun buku 2026 baru akan diambil pada RUPST 2027, dengan mempertimbangkan laba bersih, arus kas, dan kebutuhan investasi. Manajemen juga mengungkap posisi kas perusahaan sebesar Rp272 miliar per September 2026, yang disebut cukup untuk membayar cicilan pinjaman Rp75 miliar yang digunakan membeli lima set tugboat dan tongkang, tiga di antaranya sudah diterima. Beban usaha sembilan bulan 2026 disebut turun 8,4 persen dibanding periode sama tahun lalu, serta lebih dari 90 persen dana hasil IPO sudah terpakai, termasuk untuk akuisisi PT Bermuda Inovasi Logistik yang kini menyumbang 30-40 persen pendapatan konsolidasi lewat bisnis pelayaran.",
+   "Laporan ini melanjutkan materi public expose yang sama, yang sebelumnya mengungkap laba bersih sembilan bulan 2026 (9M26) WBSA turun 55,4 persen menjadi Rp13 miliar, meski pendapatan bersih naik 31,3 persen menjadi Rp2,899 triliun. Margin laba kotor tergerus dari 12,4 persen menjadi 8,2 persen dan margin laba bersih dari 1,4 persen menjadi 0,5 persen, dipicu kenaikan beban yang lebih cepat dari pendapatan. Di sisi lain, rasio utang terhadap ekuitas membaik dari 1,24 kali di akhir 2025 menjadi 0,88 kali pada September 2026.",
+   "Dari sisi segmen usaha, freight forwarding dan pelayaran menyumbang 56 persen pendapatan 9M26, disusul transportasi darat 37 persen dan pergudangan 7 persen. Manajemen menyebut strategi pertumbuhan ke depan akan bertumpu pada ekspansi gudang, perluasan ke Indonesia timur khususnya Papua, serta elektrifikasi transportasi untuk menekan biaya energi yang disebut sebagai salah satu komponen biaya operasional terbesar di industri logistik."
   ],
   "fotoAdegan": "Trucks lined up at a logistics warehouse loading dock, workers checking cargo pallets, early morning light near a Jakarta port area.",
-  "takeaway": "Laporan ini condong negatif karena meski pendapatan sembilan bulan 2026 melonjak 31 persen menjadi Rp2,9 triliun, laba bersih justru anjlok 55 persen menjadi Rp13 miliar, tanda biaya operasional naik lebih cepat dari penjualan. Yang tersentuh adalah margin laba, yakni porsi pendapatan yang benar-benar menjadi keuntungan setelah semua biaya dikeluarkan: margin laba kotor WBSA turun dari 12,4 persen jadi 8,2 persen dan margin laba bersih dari 1,4 persen jadi 0,5 persen dalam setahun, berarti perusahaan harus menjual lebih banyak jasa logistik untuk menghasilkan untung yang sama. Satu sisi positif yang tetap perlu diperhitungkan adalah rasio utang terhadap ekuitas yang turun dari 1,24 kali di akhir 2025 menjadi 0,88 kali pada September 2026, menunjukkan beban utang perusahaan terhadap modalnya mengecil. Yang perlu dipantau berikutnya adalah paparan manajemen pada Public Expose Tahunan, Kamis 12 November 2026 pukul 14.00 WIB, yang kemungkinan akan menjelaskan sebab tergerusnya margin di tengah pertumbuhan pendapatan yang kuat ini.",
-  "sentimen": "negatif"
+  "takeaway": "Laporan hasil public expose ini condong netral bagi WBSA, karena isinya sebagian besar penjelasan manajemen lewat sesi tanya jawab, bukan angka keuangan baru yang mengubah gambaran laba yang masih tergerus pada laporan sebelumnya. Yang tersentuh adalah beban usaha dan arus kas: manajemen menyebut beban usaha sembilan bulan 2026 turun 8,4 persen dibanding tahun lalu, tanda efisiensi biaya mulai berjalan, sementara kas perusahaan tercatat Rp272 miliar, cukup untuk membayar cicilan pinjaman kapal Rp75 miliar yang sudah ditarik. Rencana capex 2027 di atas Rp100 miliar juga disebut akan diprioritaskan dari kas internal, bukan utang baru atau penerbitan saham tambahan, sehingga risiko penambahan jumlah saham beredar yang bisa menggerus laba per saham untuk saat ini belum terlihat. Yang perlu dipantau berikutnya adalah keputusan dividen tahun buku 2026 yang baru akan diambil pada RUPST 2027, serta apakah efisiensi beban usaha ini cukup mengangkat kembali margin laba kotor yang sebelumnya tergerus dari 12,4 persen menjadi 8,2 persen.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-15T12:15:00",
+    "ringkas": "Hasil public expose WBSA: capex 2027 diproyeksikan di atas Rp100 miliar dari kas internal, dividen 2026 diputuskan di RUPST 2027.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ecc9dd1b39_91d9dde176.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-15T12:15:00",
+  "peristiwa": "public-expose"
  },
  {
   "slug": "inet-catat-laba-naik-dana-rights-issue-baru-6-35-terserap",
@@ -17260,8 +17353,8 @@ var ARTICLES = [
  {
   "slug": "army-gelar-rupslb-kedua-audit-keuangan-2021-2022-masih-tertunda",
   "category": "Aksi Korporasi",
-  "title": "ARMY Gelar RUPSLB Kedua, Audit Keuangan 2021-2022 Masih [Tertunda]",
-  "deck": "RUPSLB pertama Armidian Karyatama gagal kuorum, RUPSLB kedua digelar 13 November 2026 membahas pergantian direksi dan keterlambatan audit laporan keuangan 2021-2022.",
+  "title": "RUPSLB ARMY 13 November: [Kuorum] Gagal Lagi, RUPS Ketiga ke OJK",
+  "deck": "RUPSLB kedua ARMY gagal kuorum lagi pada 13 November 2026, hanya dihadiri 3,09% pemegang saham. RUPS ketiga akan diajukan ke OJK untuk membahas agenda yang sama.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T16:12:08",
@@ -17272,17 +17365,27 @@ var ARTICLES = [
    "ARMY",
    "RUPSLB",
    "Armidian Karyatama",
-   "laporan keuangan"
+   "Kuorum"
   ],
   "body": [
-   "PT Armidian Karyatama Tbk (ARMY) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua yang akan digelar Jumat, 13 November 2026 pukul 09.00 hingga 11.00 WIB di Apartemen Ambassade Residences, Jalan Denpasar Raya Kav. 5-7, Karet Kuningan, Setiabudi, Jakarta Selatan. RUPSLB kedua ini dilakukan karena RUPSLB pertama pada 30 Oktober 2026 tidak mencapai kuorum kehadiran pemegang saham yang disyaratkan. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per Selasa, 3 November 2026 pukul 16.00 WIB. Untuk agenda pertama hingga keempat, rapat sah jika dihadiri pemegang saham yang mewakili minimal sepertiga total saham berhak suara, sementara untuk agenda kelima yang menyangkut perubahan anggaran dasar, syaratnya naik menjadi minimal tiga per lima.",
-   "Agenda pertama dan kedua rapat adalah persetujuan perubahan susunan direksi dan dewan komisaris, baik pemberhentian maupun pengangkatan anggota baru, serta penetapan remunerasi direksi dan komisaris untuk tahun buku berjalan. Perseroan menyebut perubahan susunan direksi ini dimaksudkan untuk memberi mandat kepada manajemen baru agar bertanggung jawab menyelesaikan keterlambatan penyampaian laporan keuangan perusahaan. Dewan komisaris akan mengusulkan calon direksi dan komisaris, dan rapat juga diminta melimpahkan kewenangan penetapan remunerasi direksi kepada dewan komisaris.",
-   "Agenda ketiga memuat penjelasan soal keterlambatan proses audit laporan keuangan tahun buku 2021 dan 2022 serta kondisi terkini perusahaan, termasuk laporan status pelaksanaan debt to equity swap atau konversi utang menjadi saham yang sudah disetujui pemegang saham sejak RUPSLB 24 Agustus 2021. Dalam agenda ini, perusahaan juga meminta persetujuan pemegang saham untuk memperpanjang lagi waktu audit laporan keuangan 2021 dan 2022. Agenda keempat meminta persetujuan penunjukan kantor akuntan publik atau akuntan publik terdaftar untuk mengaudit laporan keuangan tahun buku 2023, 2024, dan 2025.",
-   "Agenda kelima adalah persetujuan penyesuaian maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, khususnya kelompok usaha real estat milik sendiri atau disewa, beserta perubahan Pasal 3 anggaran dasar. Pemegang saham yang ingin memberi, mengubah, atau mencabut kuasa secara elektronik melalui eASY.KSEI dapat melakukannya sejak tanggal pemanggilan hingga paling lambat Kamis, 12 November 2026 pukul 12.00 WIB. Surat pemanggilan ditandatangani Direktur Utama ARMY, Firdaus, dan ditembuskan antara lain ke Bursa Efek Indonesia, PT Kustodian Sentral Efek Indonesia, serta biro administrasi efek perseroan, PT Ficomindo Buana Registrar."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua PT Armidian Karyatama Tbk (ARMY) yang digelar Jumat, 13 November 2026, kembali gagal memenuhi syarat kuorum kehadiran. Rapat yang berlangsung di Apartemen Ambassade Residences, Jakarta Selatan, hanya dihadiri pemegang saham yang menguasai 278.492.901 saham, atau 3,09 persen dari total 9.006.250.000 saham berhak suara Perseroan. Jumlah itu jauh di bawah syarat minimal sepertiga saham untuk empat agenda pertama dan tiga perlima saham untuk agenda kelima. Karena kuorum tidak tercapai, rapat yang hanya berlangsung lima menit, dari pukul 09.16 hingga 09.21 WIB, ditutup tanpa membicarakan satu pun agenda, tanpa sesi tanya jawab, dan tanpa pengambilan keputusan.",
+   "Dengan dua kali kuorum gagal tercapai, langkah berikutnya berpindah ke tangan regulator. Sesuai Peraturan OJK Nomor 15/POJK.04/2020, Perseroan akan mengajukan permohonan kepada Otoritas Jasa Keuangan untuk menggelar Rapat Umum Pemegang Saham ketiga dengan agenda yang sama. Berbeda dari rapat pertama dan kedua, syarat kuorum kehadiran, kuorum keputusan, jadwal pemanggilan, dan waktu penyelenggaraan rapat ketiga ini akan ditetapkan langsung oleh OJK atas permohonan Perseroan, bukan lagi mengikuti ambang batas di anggaran dasar Perseroan.",
+   "Lima agenda yang gagal dibahas itu meliputi persetujuan pergantian susunan direksi dan dewan komisaris beserta remunerasinya, penjelasan soal keterlambatan audit laporan keuangan tahun buku 2021 dan 2022 serta permintaan perpanjangan waktu audit, penunjukan kantor akuntan publik baru untuk mengaudit laporan keuangan tahun buku 2023 hingga 2025, serta penyesuaian maksud dan kegiatan usaha Perseroan sesuai Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Pergantian direksi ini sebelumnya disebut Perseroan sebagai mandat untuk manajemen baru agar bertanggung jawab menuntaskan keterlambatan laporan keuangan tersebut, yang sudah tertunda lebih dari empat tahun.",
+   "Rapat kedua ini dipimpin oleh Komisaris Utama Carsen Finrely, berdasarkan surat keputusan Dewan Komisaris tanggal 9 November 2026, dan turut dihadiri Komisaris Puspa Dewi, Direktur Utama Firdaus, Direktur Keuangan Meco Sitardja, serta Direktur Operasional Ikman Maulana. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham Perseroan per 3 November 2026 pukul 16.00 WIB, sama seperti ketentuan pada RUPSLB pertama yang juga gagal kuorum pada 30 Oktober 2026."
   ],
   "fotoAdegan": "Rows of empty chairs facing a podium in a modern apartment building function hall in Jakarta, soft morning light through large windows",
-  "takeaway": "Laporan ini condong negatif bagi ARMY, karena permintaan perpanjangan waktu audit untuk laporan keuangan tahun buku 2021 dan 2022 berarti lebih dari empat tahun setelah periode itu berakhir perusahaan masih belum punya laporan keuangan teraudit yang lengkap, ditambah RUPSLB pertamanya pada 30 Oktober 2026 gagal mencapai kuorum kehadiran pemegang saham. Tanpa laporan keuangan teraudit, pemegang saham tidak punya pegangan pasti soal ekuitas atau arus kas perusahaan, dan rencana debt to equity swap, yakni mengubah utang perusahaan menjadi saham baru, yang sudah disetujui sejak RUPSLB 24 Agustus 2021 baru akan dilaporkan statusnya sekarang, padahal itu langsung menambah jumlah saham beredar dan bisa menggerus laba per saham pemegang saham lama. Pergantian susunan direksi dan komisaris yang diajukan disebut sebagai bagian dari upaya menuntaskan keterlambatan ini, sehingga hasilnya bergantung pada siapa yang akhirnya terpilih. Yang perlu dipantau adalah apakah RUPSLB kedua pada 13 November 2026 pukul 09.00 WIB kali ini berhasil mencapai kuorum, dengan batas pemberian atau pencabutan kuasa elektronik melalui eASY.KSEI paling lambat 12 November 2026 pukul 12.00 WIB.",
-  "sentimen": "negatif"
+  "takeaway": "Risalah ini negatif bagi ARMY, karena RUPSLB kedua pada 13 November 2026 gagal lagi memenuhi kuorum, hanya dihadiri pemegang saham yang menguasai 3,09 persen dari seluruh saham berhak suara, jauh dari syarat minimal sepertiga untuk empat agenda pertama dan tiga perlima untuk agenda kelima. Dengan rapat tidak bisa mengambil keputusan, pergantian direksi dan komisaris yang digadang-gadang menuntaskan keterlambatan audit laporan keuangan 2021 dan 2022 tertunda lagi, begitu juga laporan status debt to equity swap, yakni rencana mengubah utang perusahaan jadi saham baru yang bisa menambah jumlah saham beredar dan menggerus laba per saham pemegang saham lama; tanpa laporan keuangan teraudit, pemegang saham juga tetap tidak punya pegangan pasti soal ekuitas dan arus kas perusahaan. Yang perlu dipantau adalah permohonan Perseroan ke OJK untuk menggelar RUPS ketiga, karena sesuai POJK 15/2020, kuorum kehadiran, kuorum keputusan, pemanggilan, dan waktu penyelenggaraan rapat ketiga ini akan ditetapkan sendiri oleh OJK, bukan lagi oleh anggaran dasar Perseroan.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-15T12:43:15",
+    "ringkas": "RUPSLB kedua ARMY pada 13 November 2026 gagal kuorum lagi, hanya dihadiri 3,09% pemegang saham, sehingga RUPS ketiga akan diajukan ke OJK.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0f87884111_0c7abdd87f.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-15T12:43:15",
+  "peristiwa": "rups"
  },
  {
   "slug": "inps-gigp-kuasai-88-32-lewat-penempatan-terbatas-rp125-m",

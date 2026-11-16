@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "VjM3hBh-SDQ",
+  "title": "Harga Kebutuhan Pokok di Pasar Surabaya Melonjak",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Harga beras premium di Pasar Soponyono, Surabaya, naik sekitar Rp1.000 per kilogram dalam sepekan menjadi Rp16.000 hingga Rp17.000, membuat omzet pedagang turun hingga 50 persen.",
+  "takeaway": "Kenaikan harga beras ini menjadi sinyal tekanan inflasi pangan yang langsung memukul daya beli konsumen dan pendapatan pedagang kecil.",
+  "terbit": "2026-11-16T07:13:16+00:00"
+ },
+ {
+  "id": "pV60yvEHltk",
+  "title": "Harga Cabai Melonjak dalam Sepekan Terakhir",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Berbagai jenis cabai mengalami kenaikan harga signifikan per 16 November 2026, menambah daftar komoditas pangan yang bergejolak.",
+  "takeaway": "Fluktuasi harga cabai kerap menjadi indikator sensitif inflasi pangan yang memengaruhi belanja rumah tangga sehari hari.",
+  "terbit": "2026-11-16T07:10:23+00:00"
+ },
+ {
+  "id": "RpW3X7SznLM",
+  "title": "Menaker Ungkap Alasan BSU Pekerja Belum Cair",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Menteri Ketenagakerjaan Yassierli menjelaskan penyebab tertundanya pencairan Bantuan Subsidi Upah yang masih menjalani peninjauan administratif.",
+  "takeaway": "Keterlambatan pencairan BSU berdampak langsung pada daya beli pekerja berpenghasilan rendah yang menunggu bantuan pemerintah.",
+  "terbit": "2026-11-16T06:22:04+00:00"
+ },
+ {
   "id": "k8tq6DuMP8Q",
   "title": "Harga Komoditas Pangan di Tegal Mahal, Pedagang Merugi",
   "category": "Bisnis",

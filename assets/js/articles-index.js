@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "utang-luar-negeri-ri-naik-ke-us-458-9-miliar-di-triwulan-iii",
+  "category": "Moneter",
+  "title": "Utang Luar Negeri RI [Naik] ke US$458,9 Miliar di Triwulan III",
+  "deck": "Utang luar negeri Indonesia naik ke US$458,9 miliar pada triwulan III 2026, didorong kenaikan utang pemerintah sementara utang swasta justru menyusut.",
+  "date": "16 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "Utang Luar Negeri",
+   "APBN",
+   "Surat Utang Negara",
+   "Bank Indonesia"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825126.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton",
   "category": "Energi",
   "title": "Harga Batu Bara Acuan [Naik] Lagi ke US$130,81 per Ton",
@@ -477,7 +493,7 @@ var ARTICLES = [
   "title": "Utang BI-Pemerintah Era Krisis 1998 [Lunas]",
   "deck": "Obligasi BI terkait dukungan likuiditas krisis 1997-1998 resmi lunas Agustus 2026, seiring BI dan pemerintah menyiapkan skema debt switching untuk surat utang negara.",
   "date": "14 November 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/brankas-uang-sentral.jpg",
   "tags": [
    "Bank Indonesia",
    "Kementerian Keuangan",
@@ -1102,7 +1118,7 @@ var ARTICLES = [
   "title": "BI dan 3 Bank Sentral ASEAN [Perluas] Kerja Sama Mata Uang Lokal",
   "deck": "Bank Indonesia bersama bank sentral Malaysia, Thailand, dan Filipina menandatangani nota kesepahaman baru yang memperluas kerja sama transaksi mata uang lokal, menggantikan kesepakatan 2023.",
   "date": "13 November 2026",
-  "image": "assets/img/brankas-uang-sentral.jpg",
+  "image": "assets/img/koridor-bank-sentral.jpg",
   "tags": [
    "Bank Indonesia",
    "ASEAN",
@@ -6487,22 +6503,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9555-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-stabil-di-rp2-545-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Stabil] di Rp2.545.000 per Gram",
-  "deck": "Harga emas batangan Antam tidak berubah pada Senin, bertahan di Rp2.545.000 per gram, sementara harga buyback tercatat Rp2.350.000 per gram.",
-  "date": "9 November 2026",
-  "image": "assets/img/harga-emas-antam-stabil-di-rp2-545-000-per-gram.jpg",
-  "imageV": "mw8qwgby",
-  "tags": [
-   "emas",
-   "antam",
-   "logam mulia",
-   "harga emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477347-harga-emas-antam-stabil-di-rp25-jutaan-per-gram-pada-senin-berikut-daftar-lengkapnya"
  }
 ];

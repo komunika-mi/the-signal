@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "VjM3hBh-SDQ",
+  "title": "Harga Kebutuhan Pokok di Pasar Surabaya Melonjak",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Harga beras premium di Pasar Soponyono, Surabaya, naik sekitar Rp1.000 per kilogram dalam sepekan menjadi Rp16.000 hingga Rp17.000, membuat omzet pedagang turun hingga 50 persen.",
+  "takeaway": "Kenaikan harga beras ini menjadi sinyal tekanan inflasi pangan yang langsung memukul daya beli konsumen dan pendapatan pedagang kecil."
+ },
+ {
+  "id": "pV60yvEHltk",
+  "title": "Harga Cabai Melonjak dalam Sepekan Terakhir",
+  "category": "Makroekonomi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Berbagai jenis cabai mengalami kenaikan harga signifikan per 16 November 2026, menambah daftar komoditas pangan yang bergejolak.",
+  "takeaway": "Fluktuasi harga cabai kerap menjadi indikator sensitif inflasi pangan yang memengaruhi belanja rumah tangga sehari hari."
+ },
+ {
+  "id": "RpW3X7SznLM",
+  "title": "Menaker Ungkap Alasan BSU Pekerja Belum Cair",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Menteri Ketenagakerjaan Yassierli menjelaskan penyebab tertundanya pencairan Bantuan Subsidi Upah yang masih menjalani peninjauan administratif.",
+  "takeaway": "Keterlambatan pencairan BSU berdampak langsung pada daya beli pekerja berpenghasilan rendah yang menunggu bantuan pemerintah."
+ },
+ {
   "id": "k8tq6DuMP8Q",
   "title": "Harga Komoditas Pangan di Tegal Mahal, Pedagang Merugi",
   "category": "Bisnis",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Siang",
   "summary": "Otoritas Jasa Keuangan menegaskan komitmennya memperkuat penegakan hukum di sektor pasar modal lewat sanksi yang tegas, konsisten, dan proporsional untuk melindungi investor.",
   "takeaway": "Penegakan hukum yang konsisten di pasar modal menjadi indikator penting bagi kepercayaan investor dan kesehatan pasar keuangan domestik."
- },
- {
-  "id": "oC5j8dANeMI",
-  "title": "Perjalanan Bisnis Puspo Wardoyo dari Warung ke Tanah Suci",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Puspo Wardoyo membangun usahanya dari warung sederhana hingga menjadi Wong Solo Group, dan kini mengembangkan lini bisnis baru bernama MakanKu melalui PT Halalan Thayyiban Indonesia.",
-  "takeaway": "Kisah ekspansi usaha ini relevan sebagai contoh perjalanan bisnis kuliner dari skala UMKM menjadi grup usaha yang lebih besar."
- },
- {
-  "id": "8b2t24V2BH4",
-  "title": "PT Xaviera Global Synergy Ubah Sampah Jadi Energi",
-  "category": "Energi",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "PT Xaviera Global Synergy mendapat penghargaan Inovasi Membangun Negeri 2026 atas inovasi mengolah sampah menjadi sumber energi dan nilai ekonomi baru.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti model bisnis energi terbarukan berbasis pengolahan sampah."
- },
- {
-  "id": "uvIlep9dQag",
-  "title": "BTN Hadirkan Inovasi Layanan Perumahan Terintegrasi",
-  "category": "Perbankan",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "PT Bank Tabungan Negara meraih penghargaan Inovasi Membangun Negeri 2026 atas pengembangan layanan perumahan yang lebih mudah, praktis, dan terintegrasi bagi nasabah.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menunjukkan arah inovasi perbankan nasional di segmen pembiayaan perumahan."
  }
 ];

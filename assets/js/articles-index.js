@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "enrg-teken-pinjaman-us-220-juta-danai-penyertaan-modal-di-as",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Teken Pinjaman US$220 Juta: Danai [Penyertaan Modal] di AS",
+  "deck": "ENRG menandatangani fasilitas pinjaman hingga US$220 juta dengan Deutsche Bank cabang Singapura pada 13 November 2026, dananya untuk penyertaan modal anak usaha ke HighPeak Energy Inc di Amerika Serikat.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "transaksi material",
+   "pinjaman"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/119287e022_17162b6a72.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-drma-19-november-laba-bersih-9m26-naik-13-9",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose DRMA 19 November: [Laba Bersih] 9M26 Naik 13,9%",
+  "deck": "Materi public expose tahunan DRMA memuat laba bersih 9M26 Rp487,6 miliar, tumbuh 13,9%, serta rencana capex Rp400 miliar untuk 2026.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DRMA",
+   "Public Expose",
+   "Dharma Polimetal",
+   "Akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c100041e6b_034b88ad82.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-pzza-9m-2026-laba-bersih-naik-ke-rp17-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PZZA 9M-2026: [Laba Bersih] Naik ke Rp17,1 Miliar",
+  "deck": "Laba bersih Sarimelati Kencana (PZZA) naik 7,6 persen jadi Rp17,1 miliar pada sembilan bulan pertama 2026, meski penjualan turun tipis dan jumlah gerai Pizza Hut menyusut jadi 576.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PZZA",
+   "Sarimelati Kencana",
+   "Pizza Hut",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6b38af52d8_d54f73e526.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-wins-rp5-per-saham-cair-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim WINS Rp5 per Saham, [Cair] 11 Desember",
+  "deck": "WINS menjadwalkan dividen tunai interim Rp5 per saham, total Rp22,3 miliar, dibayar 11 Desember 2026.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WINS",
+   "dividen interim",
+   "Wintermar Offshore Marine",
+   "jadwal dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7e08131d45_982b81a037.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "irsx-koreksi-laporan-keuangan-maret-2026-piutang-saa-rp111-8-m",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Koreksi Laporan Keuangan Maret 2026: [Piutang] SAA Rp111,8 M",
+  "deck": "IRSX menjelaskan ke BEI koreksi laporan keuangan Maret 2026: piutang Rp9,58 miliar salah dicatat sebagai utang pemegang saham, piutang Rp111,8 miliar ke pihak terkait dipertanyakan.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRSX",
+   "laporan keuangan",
+   "piutang pihak berelasi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11cf2f7826_238b6bbba7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-cuan-19-november-laba-bersih-9m26-naik-ke-us-70-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CUAN 19 November: [Laba Bersih] 9M26 Naik ke US$70 Juta",
+  "deck": "CUAN akan menggelar Paparan Publik Tahunan pada 19 November 2026, memaparkan kinerja hingga September 2026: laba bersih melonjak 279 persen menjadi US$70 juta dari pendapatan US$1,11 miliar.",
+  "date": "16 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CUAN",
+   "Public Expose",
+   "Petrindo Jaya Kreasi",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/927ed4cadc_9020e19971.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-ke-us-458-9-miliar-di-triwulan-iii",
   "category": "Moneter",
   "title": "Utang Luar Negeri RI [Naik] ke US$458,9 Miliar di Triwulan III",
@@ -2459,15 +2555,15 @@ var ARTICLES = [
  {
   "slug": "rupo-obligasi-ptpp-11-november-restrukturisasi-ditolak",
   "category": "Aksi Korporasi",
-  "title": "RUPO Obligasi PTPP 11 November: [Restrukturisasi] Ditolak",
-  "deck": "Pemegang Obligasi Berkelanjutan III PTPP Tahap I Seri B menolak keempat usulan restrukturisasi bunga, termasuk penundaan bunga ke-18 yang sudah telat dibayar.",
+  "title": "RUPO PTPP 11 November: Bunga ke-21 Macet, [Restrukturisasi] Ditolak",
+  "deck": "PTPP mengoreksi hasil RUPO 11 November: bunga yang telat dibayar dan diusulkan ditunda ternyata bunga ke-21, bukan ke-18. Keempat usulan restrukturisasi tetap ditolak.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "PTPP",
+   "Obligasi",
    "RUPO",
-   "obligasi",
-   "restrukturisasi utang"
+   "Restrukturisasi Utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9f6eaba4b_d2602b0803.pdf",
   "sourceLabel": "IDX"
@@ -5222,15 +5318,15 @@ var ARTICLES = [
  {
   "slug": "inet-catat-laba-naik-dana-rights-issue-baru-6-35-terserap",
   "category": "Aksi Korporasi",
-  "title": "INET Catat Laba Naik, Dana Rights Issue Baru [6,35%] Terserap",
-  "deck": "INET mengungkap pendapatan 9M 2026 melonjak akibat konsolidasi anak usaha baru, sementara dana rights issue, obligasi, dan sukuk senilai Rp4,19 triliun baru terserap 6,35 persen hingga Juni 2026.",
+  "title": "Public Expose INET: Rasio Lancar [Naik] ke 2,41x, Kas Rp3,96 T",
+  "deck": "Hasil public expose INET 12 November menunjukkan rasio lancar naik ke 2,41x dan kas Rp3,96 triliun per 30 September 2026, menjelang jatuh tempo Obligasi dan Sukuk Seri A Februari 2027.",
   "date": "9 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "INET",
-   "public expose",
-   "realisasi dana",
-   "laporan keuangan"
+   "Public Expose",
+   "Likuiditas",
+   "Obligasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70f5bbc030_67dfab99bb.pdf",
   "sourceLabel": "IDX"
@@ -6410,98 +6506,6 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a4500b13c_e7721d1c2a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scco-koreksi-komite-audit-dua-kursi-berganti",
-  "category": "Aksi Korporasi",
-  "title": "SCCO Koreksi Komite Audit, Dua Kursi [Berganti]",
-  "deck": "Koreksi atas laporan 6 November menyebut dua dari tiga anggota Komite Audit SCCO sebenarnya berganti untuk periode baru lima tahun, bukan hanya satu seperti versi sebelumnya.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCCO",
-   "komite audit",
-   "tata kelola",
-   "koreksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b508b1727a_16fe879e9a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "keyakinan-konsumen-oktober-naik-ke-119-9",
-  "category": "Makroekonomi",
-  "title": "Keyakinan Konsumen Oktober [Naik] ke 119,9",
-  "deck": "Indeks Keyakinan Konsumen Bank Indonesia naik ke 119,9 pada Oktober 2026, dari 118,1 bulan sebelumnya, ditopang penilaian kondisi ekonomi saat ini dan ekspektasi ke depan yang menguat.",
-  "date": "9 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
-  "tags": [],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824526.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "strk-jelaskan-ke-bursa-soal-pengambilalihan-saham-oleh-bbs",
-  "category": "Aksi Korporasi",
-  "title": "STRK Jelaskan ke Bursa Soal [Pengambilalihan] Saham oleh BBS",
-  "deck": "STRK menjelaskan ke Bursa konsistensi informasinya soal negosiasi pengambilalihan saham oleh PT Beruntung Berkat Sejahtera, ditargetkan tuntas paling lambat Desember 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "STRK",
-   "pengambilalihan saham",
-   "keterbukaan informasi",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2fbfae19ee_c0604666c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ketr-gema-lintas-benua-tambah-saham-hak-suara-sentuh-10",
-  "category": "Aksi Korporasi",
-  "title": "KETR: Gema Lintas Benua Tambah Saham, Hak Suara Sentuh [10%]",
-  "deck": "Pemegang saham Gema Lintas Benua membeli 10,37 juta lembar saham KETR dalam empat transaksi akhir Oktober-awal November 2026, menaikkan hak suaranya dari 9,64% menjadi 10%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "kepemilikan saham",
-   "Ketrosden Triasmitra",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-1337-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-perkuat-pembinaan-pengrajin-wayang-yogyakarta-lewat-klasterisasi",
-  "category": "BUMN",
-  "title": "PNM Perkuat Pembinaan Pengrajin Wayang Yogyakarta Lewat [Klasterisasi]",
-  "deck": "Memperingati Hari Wayang Nasional 2026, PNM memperluas pembinaan klaster pengrajin wayang dan suvenir kulit di Wukirsari, Yogyakarta, dengan anggota yang kini mencapai 30 nasabah Mekaar.",
-  "date": "9 November 2026",
-  "image": "assets/img/pnm-perkuat-pembinaan-pengrajin-wayang-yogyakarta-lewat-klasterisasi.jpg",
-  "imageV": "mw8qwfto",
-  "tags": [
-   "PNM",
-   "Hari Wayang Nasional",
-   "Klasterisasi",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477354-hari-wayang-nasional-pnm-perkuat-pembinaan-pengrajin-wayang-di-yogyakarta-lewat-klasterisasi"
- },
- {
-  "slug": "masb-direksi-fely-retnowati-tambah-saham-jadi-297-500-lembar",
-  "category": "Aksi Korporasi",
-  "title": "MASB: Direksi Fely Retnowati [tambah] saham jadi 297.500 lembar",
-  "deck": "Direksi MASB Fely Retnowati kembali membeli saham lewat empat transaksi kecil pada 6 November 2026, menambah kepemilikannya jadi 297.500 lembar.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MASB",
-   "Bank Multiarta Sentosa",
-   "kepemilikan saham direksi",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9555-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

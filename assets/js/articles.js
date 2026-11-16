@@ -3,6 +3,212 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "enrg-teken-pinjaman-us-220-juta-danai-penyertaan-modal-di-as",
+  "category": "Aksi Korporasi",
+  "title": "ENRG Teken Pinjaman US$220 Juta: Danai [Penyertaan Modal] di AS",
+  "deck": "ENRG menandatangani fasilitas pinjaman hingga US$220 juta dengan Deutsche Bank cabang Singapura pada 13 November 2026, dananya untuk penyertaan modal anak usaha ke HighPeak Energy Inc di Amerika Serikat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T16:52:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/119287e022_17162b6a72.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Energi Mega Persada",
+   "transaksi material",
+   "pinjaman"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) menandatangani perjanjian fasilitas pinjaman senilai hingga US$220 juta pada 13 November 2026. Pemberi pinjaman awal adalah Deutsche Bank AG cabang Singapura, dengan DB International Trust (Singapore) Limited bertindak sebagai agen jaminan. Dana yang ditarik dari fasilitas ini akan dipakai untuk membiayai penyertaan modal yang dilakukan salah satu anak usaha ENRG ke HighPeak Energy, Inc., perusahaan yang berdiri berdasarkan hukum negara bagian Delaware, Amerika Serikat.",
+   "Untuk mengamankan pinjaman ini, tiga anak usaha ENRG, yaitu PT EMP Energi Gandewa, PT EMP Energi Riau, dan PT Energi Maju Abadi, masing-masing menandatangani perjanjian penanggungan perusahaan (corporate guarantee) dengan agen jaminan. Sejumlah entitas anak dan afiliasi lain yang dikuasai ENRG lebih dari 99,99 persen, baik langsung maupun tidak langsung, turut memberikan jaminan serupa untuk kepentingan pemberi pinjaman awal. ENRG sendiri tercatat sebagai pemegang saham pengendali 99,99 persen di ketiga anak usaha penjamin tersebut.",
+   "Perseroan menyatakan transaksi ini tergolong transaksi material menurut POJK 17/2020 karena nilainya melebihi 20 persen ekuitas ENRG berdasarkan laporan keuangan auditan per 31 Maret 2026, sekaligus tergolong transaksi afiliasi menurut POJK 42/2020 karena melibatkan anak usaha dan afiliasi Perseroan. Meski begitu, ENRG menyebut transaksi ini dikecualikan dari kewajiban prosedur tambahan sesuai Pasal 11 POJK 17/2020, karena pinjamannya diterima langsung dari bank dan anak-anak usaha hanya memberikan jaminan atas pinjaman yang diterima langsung oleh Perseroan. Direksi ENRG menegaskan transaksi ini bukan transaksi benturan kepentingan dan keterbukaan informasi ini telah memuat seluruh informasi material yang relevan."
+  ],
+  "fotoAdegan": "Onshore oil drilling rig with steel pipes and machinery under dusk sky, workers in coveralls checking equipment",
+  "takeaway": "Laporan ini condong netral: ENRG menambah utang hingga US$220 juta untuk mendanai penyertaan modal anak usahanya ke HighPeak Energy di Amerika Serikat, tapi dokumen tidak merinci bunga pinjaman, tenor, atau hasil konkret dari penyertaan modal itu, sehingga belum bisa dibaca jelas menguntungkan atau membebani. Yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar ENRG atas pinjaman baru ini, serta posisi utang berjaminan karena tiga anak usaha, EMP Energi Gandewa, EMP Energi Riau, dan Energi Maju Abadi, ikut menjaminkan diri kalau ENRG gagal bayar. Pelaku pasar memperhatikan rasio utang terhadap modal sendiri di sini karena nilai transaksi disebut melebihi 20 persen ekuitas Perseroan per 31 Maret 2026, meski ENRG menegaskan transaksi dikecualikan dari proses persetujuan tambahan karena pinjamannya diterima langsung dari bank. Yang perlu dipantau berikutnya adalah kelanjutan penyertaan modal ke HighPeak Energy, termasuk nilai dan bentuk investasinya, serta apakah ENRG akan menerbitkan keterbukaan informasi lanjutan soal penggunaan dana pinjaman ini.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi"
+ },
+ {
+  "slug": "public-expose-drma-19-november-laba-bersih-9m26-naik-13-9",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose DRMA 19 November: [Laba Bersih] 9M26 Naik 13,9%",
+  "deck": "Materi public expose tahunan DRMA memuat laba bersih 9M26 Rp487,6 miliar, tumbuh 13,9%, serta rencana capex Rp400 miliar untuk 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T16:46:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c100041e6b_034b88ad82.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DRMA",
+  "tags": [
+   "DRMA",
+   "Public Expose",
+   "Dharma Polimetal",
+   "Akuisisi"
+  ],
+  "body": [
+   "PT Dharma Polimetal Tbk (DRMA) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 16 November 2026, menjelang paparan publik yang dijadwalkan berlangsung 19 November 2026. Materi tersebut memuat kinerja keuangan sembilan bulan pertama 2026 (9M26): pendapatan tercatat Rp5,097 triliun, naik 16 persen dibanding periode yang sama tahun lalu sebesar Rp4,393 triliun. Laba bersih periode tersebut mencapai Rp487,6 miliar, tumbuh 13,9 persen secara tahunan. Segmen roda dua menyumbang 59 persen dari total pendapatan, segmen roda empat 25 persen, dan sisanya dari lini usaha lain.",
+   "Untuk tahun penuh 2026, manajemen menargetkan pertumbuhan pendapatan dan laba bersih masing-masing sekitar 10 persen, target yang sebenarnya sudah terlampaui pada realisasi sembilan bulan pertama. Perseroan juga mengalokasikan belanja modal atau capex sebesar Rp400 miliar pada 2026 untuk pengembangan produk baru serta mendukung investasi pada perusahaan patungan PT Dharma Minth Indonesia (DMI).",
+   "Materi tersebut turut merinci sejumlah aksi korporasi yang telah dijalankan Perseroan sepanjang tahun ini. DRMA mendirikan DMI pada September 2026 bersama Minth Group untuk memperluas kapabilitas produksi komponen kendaraan listrik. Perseroan juga mengakuisisi 82 persen saham PT Mah Sing Indonesia, yang kini berganti nama menjadi PT Dharma Multiplast Solutions Indonesia, guna memperkuat portofolio komponen plastik untuk kendaraan roda empat. Selain itu, DRMA membeli lahan di Jababeka Industrial Estate dan Kawasan Industri MM2100 Cibitung untuk menambah kapasitas produksi.",
+   "Materi ini juga menampilkan rekam jejak dividen Perseroan selama lima tahun terakhir. Dividen tunai per saham naik dari Rp14,97 pada 2022 menjadi Rp70 pada 2026, dengan rasio pembagian dividen atau payout ratio mencapai 50,5 persen pada 2026, tertinggi dalam periode tersebut. Total dividen tunai yang dibagikan pada 2026 tercatat Rp329,4 miliar."
+  ],
+  "fotoAdegan": "Factory workers assembling wiring harness and metal chassis components on an automotive parts production line in Indonesia",
+  "takeaway": "Materi ini condong positif bagi Dharma Polimetal karena hampir semua indikator inti, pendapatan, laba bersih, dan dividen, tumbuh dua digit sekaligus didukung ekspansi nyata lewat akuisisi dan joint venture baru. Yang tersentuh adalah laba bersih, yaitu keuntungan setelah semua biaya dan pajak, yang naik 13,9 persen jadi Rp487,6 miliar, serta rencana belanja modal atau capex, yaitu dana yang dikeluarkan perusahaan untuk membangun aset baru seperti pabrik atau mesin, sebesar Rp400 miliar yang akan menyedot arus kas tahun ini meski untuk tujuan ekspansi. Pelaku pasar biasanya mencermati rasio pembagian dividen atau payout ratio, yakni porsi laba yang dibagikan ke pemegang saham, yang di sini naik ke 50,5 persen, level tertinggi dalam catatan lima tahun terakhir. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose pada 19 November 2026, saat manajemen biasanya memberi penjelasan lebih rinci soal target pertumbuhan 10 persen untuk sisa tahun 2026 serta progres integrasi Dharma Multiplast Solutions Indonesia dan joint venture Dharma Minth Indonesia.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Pelaksanaan Public Expose Tahunan DRMA"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-pzza-9m-2026-laba-bersih-naik-ke-rp17-1-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PZZA 9M-2026: [Laba Bersih] Naik ke Rp17,1 Miliar",
+  "deck": "Laba bersih Sarimelati Kencana (PZZA) naik 7,6 persen jadi Rp17,1 miliar pada sembilan bulan pertama 2026, meski penjualan turun tipis dan jumlah gerai Pizza Hut menyusut jadi 576.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T16:39:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6b38af52d8_d54f73e526.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PZZA",
+  "tags": [
+   "PZZA",
+   "Sarimelati Kencana",
+   "Pizza Hut",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Sarimelati Kencana Tbk. (PZZA), pemegang waralaba Pizza Hut dan PHD di Indonesia, menyampaikan materi public expose tahunan untuk kinerja sembilan bulan pertama 2026 melalui surat bernomor 010/CS-SMK/XI/2026 yang diteken Corporate Secretary Andromeda Tristanto pada 16 November 2026. Surat ini merujuk pada pengumuman rencana public expose yang sebelumnya disampaikan lewat surat No 003/CS-SMK/XI/2026 tertanggal 5 November 2026. Dari materi yang dilampirkan, penjualan bersih Perseroan tercatat Rp2.241 miliar, turun 1,1 persen dibanding Rp2.265,6 miliar pada periode sama tahun lalu. Meski begitu, laba bruto naik 0,8 persen menjadi Rp1.587,4 miliar dengan marjin yang membaik dari 69,5 persen menjadi 70,8 persen, dan laba bersih naik 7,6 persen menjadi Rp17,1 miliar dari Rp15,9 miliar, meski marjinnya masih tipis di kisaran 0,8 persen. Sebaliknya, laba usaha justru turun 17,9 persen menjadi Rp40,6 miliar dari Rp49,4 miliar, dengan marjin turun dari 2,2 persen menjadi 1,8 persen.",
+   "Jumlah gerai Pizza Hut yang dioperasikan PZZA per akhir September 2026 tercatat 576 unit di lebih dari 120 kota, berkurang 7 gerai dibanding 583 unit setahun sebelumnya. Rinciannya, wilayah Jakarta, Jawa, dan Bali berkurang dari 417 menjadi 414 gerai, Sumatera dari 77 menjadi 76, Sulawesi dari 35 menjadi 34, dan Kalimantan dari 39 menjadi 37, sementara Indonesia Timur tetap di 15 gerai. Dari sebaran saat ini, mayoritas gerai atau 71,9 persen berada di Jawa dan Bali, disusul Sumatera 13,2 persen, Kalimantan 6,4 persen, Sulawesi 5,9 persen, dan Indonesia Timur 2,6 persen. Dari sisi pemegang saham, PT Sriboga Raturaya tetap menjadi pengendali dengan 64,79 persen saham dari total 3.021.875.000 saham beredar, diikuti Pemberton Asian Opportunities Fund 9,60 persen, The Scottish Oriental Smaller Companies Trust 7,00 persen, dan publik 18,61 persen.",
+   "Dari sisi neraca, rasio lancar (perbandingan aset lancar terhadap kewajiban jangka pendek) membaik dari 0,68 kali pada 2025 menjadi 0,77 kali pada kuartal III 2026, rasio utang terhadap modal sendiri turun dari 0,24 kali menjadi 0,20 kali, dan rasio utang terhadap EBITDA turun dari 0,53 kali menjadi 0,48 kali. Kemampuan membayar utang, yang diukur lewat rasio EBITDA dibanding cicilan pokok dan bunga jatuh tempo (DSCR), naik dari 3,40 kali menjadi 4,51 kali. Posisi kas Perseroan tercatat Rp256 miliar dengan fasilitas utang jangka pendek yang belum ditarik senilai Rp46 miliar, sementara saldo pinjaman yang masih berjalan turun menjadi Rp214 miliar pada kuartal III 2026 dari puncaknya Rp685 miliar pada 2022."
+  ],
+  "fotoAdegan": "Kitchen staff assembling pizzas and sliding trays into ovens inside a busy fast food restaurant kitchen, stainless counters",
+  "takeaway": "Laporan ini netral bagi pemegang saham: laba bersih memang naik 7,6 persen, tapi kenaikan itu bertumpu pada perbaikan neraca, bukan operasional inti, karena penjualan turun 1,1 persen, laba usaha anjlok 17,9 persen, dan jumlah gerai bersih menyusut tujuh unit dalam setahun. Yang bergerak di sini adalah rasio utang terhadap modal sendiri atau ekuitas, yang turun dari 0,24 kali jadi 0,20 kali, artinya beban utang perusahaan dibanding modal sendiri makin ringan, dan kemampuannya membayar bunga serta cicilan utang (DSCR) juga naik dari 3,40 kali jadi 4,51 kali, dua sinyal yang biasanya membuat pelaku pasar menilai risiko keuangan perusahaan mengecil. Namun penjualan yang stagnan dan jumlah gerai yang justru berkurang menunjukkan ekspansi usaha belum pulih sepenuhnya. Yang perlu dipantau berikutnya adalah apakah tren penutupan gerai bersih ini berlanjut pada laporan kuartal mendatang, dan penjelasan manajemen dalam acara public expose tahunan yang dirujuk dalam surat pengumuman 5 November 2026 soal strategi menaikkan penjualan yang masih tertekan.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
+  "slug": "dividen-interim-wins-rp5-per-saham-cair-11-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim WINS Rp5 per Saham, [Cair] 11 Desember",
+  "deck": "WINS menjadwalkan dividen tunai interim Rp5 per saham, total Rp22,3 miliar, dibayar 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T16:39:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7e08131d45_982b81a037.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WINS",
+  "tags": [
+   "WINS",
+   "dividen interim",
+   "Wintermar Offshore Marine",
+   "jadwal dividen"
+  ],
+  "body": [
+   "Wintermar Offshore Marine Tbk (WINS) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp5 per saham, dengan total nilai Rp22.316.035.465 atau sekitar Rp22,3 miliar. Keputusan ini diambil melalui keputusan sirkular pengganti rapat direksi pada 11 November 2026 dan telah disetujui Dewan Komisaris pada 12 November 2026. Dasar pembagiannya adalah sebagian dari laba komprehensif berdasarkan laporan keuangan perseroan per 30 September 2026.",
+   "Perseroan mencatat laba bersih yang diatribusikan ke entitas induk sekitar Rp17,7 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya sekitar Rp49,76 miliar, dan total ekuitas sekitar Rp237,87 miliar per 30 September 2026. Dividen senilai Rp22,3 miliar itu lebih besar dari laba bersih periode tersebut, yang berarti sebagian dananya diambil dari saldo laba ditahan, bukan murni dari laba tahun berjalan.",
+   "Jadwalnya: perdagangan saham dengan hak dividen (cum dividen) di pasar reguler dan negosiasi berakhir 24 November 2026, lalu masuk periode tanpa hak dividen (ex dividen) mulai 25 November 2026. Di pasar tunai, cum dividen berakhir 26 November 2026 dan ex dividen mulai 27 November 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada 26 November 2026 pukul 16:00 berhak atas dividen ini, yang akan dibayarkan pada 11 Desember 2026 melalui KSEI ke rekening dana nasabah bagi saham dalam penitipan kolektif, atau ditransfer langsung oleh perseroan bagi pemegang saham warkat."
+  ],
+  "fotoAdegan": "Offshore support vessels moored at a busy harbor dock, crew checking mooring lines, overcast coastal morning light",
+  "takeaway": "Laporan ini condong netral ke positif bagi WINS: perseroan membagikan dividen interim Rp5 per saham yang sejalan dengan kinerja labanya, bukan sinyal masalah keuangan. Yang tersentuh adalah pos ekuitas dan arus kas, karena dividen senilai Rp22,3 miliar itu melebihi laba bersih periode berjalan sekitar Rp17,7 miliar, sehingga sebagian dibayar dari saldo laba ditahan dan akan mengurangi total ekuitas perseroan sekitar 9 persen begitu dibayarkan, pelaku pasar memperhatikan ini karena penarikan dari cadangan laba yang terlalu agresif bisa mengurangi bantalan keuangan perseroan ke depan. Yang perlu dipantau adalah tanggal pencatatan pemegang saham (recording date) pada 26 November 2026 pukul 16:00 sebagai batas terakhir untuk berhak menerima dividen, serta tanggal pembayaran pada 11 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Recording date (DPS) pemegang saham berhak dividen"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Pembayaran dividen tunai interim"
+   }
+  ]
+ },
+ {
+  "slug": "irsx-koreksi-laporan-keuangan-maret-2026-piutang-saa-rp111-8-m",
+  "category": "Aksi Korporasi",
+  "title": "IRSX Koreksi Laporan Keuangan Maret 2026: [Piutang] SAA Rp111,8 M",
+  "deck": "IRSX menjelaskan ke BEI koreksi laporan keuangan Maret 2026: piutang Rp9,58 miliar salah dicatat sebagai utang pemegang saham, piutang Rp111,8 miliar ke pihak terkait dipertanyakan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T16:32:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11cf2f7826_238b6bbba7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRSX",
+  "tags": [
+   "IRSX",
+   "laporan keuangan",
+   "piutang pihak berelasi",
+   "BEI"
+  ],
+  "body": [
+   "PT Folago Global Nusantara Tbk (IRSX) menyampaikan penjelasan tertulis kepada PT Bursa Efek Indonesia menanggapi surat permintaan penjelasan bursa Nomor S-13462/BEI.PP2/10-2026 tanggal 28 Oktober 2026, yang mempertanyakan sejumlah koreksi dalam laporan keuangan perseroan per 31 Maret 2026. Direktur Folago, Charlie, menandatangani surat balasan yang terbit 16 November 2026, menjelaskan lima pos yang dikoreksi atau dipertanyakan bursa.",
+   "Koreksi pertama menyangkut biaya terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD I, atau rights issue) sebesar Rp1.767.575.000 yang sempat dicatat sebagai pengurang tambahan modal disetor, padahal rights issue itu sendiri belum mendapat pernyataan efektif dari OJK. Setelah dikoreksi, saldo biaya emisi ditangguhkan naik dari Rp205 juta menjadi Rp1,97 miliar, dan tambahan modal disetor kembali ke Rp177.384.478.692, sama seperti posisi akhir 2025. Perseroan juga mengoreksi pencatatan dana Rp9.583.743.947 yang semula keliru dibukukan sebagai utang pemegang saham, padahal itu pembayaran tagihan dari pelanggan PT Media Kreasi Agency. Setelah direklasifikasi menjadi pelunasan piutang usaha, saldo utang pemegang saham kembali ke Rp550 juta dan penerimaan kas dari pelanggan pada laporan arus kas naik dari Rp54,1 miliar menjadi Rp63,7 miliar.",
+   "Bursa juga mempertanyakan status piutang Rp111.759.457.964 kepada PT Sinergi Aplikasi Akurat (SAA), karena Komisaris PT Solusi Sinergi Digital Tbk (WIFI), Fadel Muhammad, juga menjabat Advisor di Folago, sehingga berpotensi membuat SAA tergolong pihak berelasi. Folago menjelaskan SAA sudah bukan anak usaha WIFI dan jabatan Fadel Muhammad di WIFI tidak memenuhi kriteria pihak berelasi menurut standar akuntansi PSAK 224 maupun aturan afiliasi OJK, sehingga piutang itu tetap dicatat sebagai piutang pihak ketiga. Saldo piutang SAA per 30 Juni 2026 sebesar Rp108.211.374.116 disebutkan telah lunas seluruhnya pada 23 Juli 2026.",
+   "Perseroan turut mengoreksi rincian uang muka pembelian aset tetap senilai Rp33,2 miliar dari total nilai kontrak Rp64 miliar kepada tiga vendor, yaitu PT Lintas Daya Andalan untuk perangkat studio (kontrak Rp14 miliar, uang muka Rp7 miliar), PT Berkat Anugerah Investindo untuk perangkat live streaming (kontrak Rp50 miliar, uang muka Rp25 miliar), dan PT Hidayah Insan Mulia, pihak berelasi, untuk perangkat education device (uang muka Rp1,2 miliar). Perseroan menyatakan belum ada aset yang diserahterimakan vendor sampai 31 Maret 2026 dan menargetkan seluruh aset diterima serta transaksi selesai paling lambat akhir tahun 2026. Selain itu, Folago juga mengoreksi selisih pencatatan beban pokok pendapatan segmen peranti lunak IRS menjadi Rp8.589.260.657 akibat perbedaan pengelompokan biaya amortisasi antar catatan laporan keuangan."
+  ],
+  "fotoAdegan": "Technicians setting up professional live-streaming camera and lighting equipment inside a small content studio, cables organized neatly.",
+  "takeaway": "Laporan ini condong negatif bagi persepsi tata kelola Folago, karena memperlihatkan sederet kekeliruan pencatatan yang baru terungkap setelah ditanya bursa, termasuk dana pelanggan yang sempat salah dibukukan sebagai utang pemegang saham dan piutang jumbo ke pihak yang status keterkaitannya diperdebatkan, meski perseroan menegaskan sebagian besar koreksi tidak mengubah laba rugi maupun kas. Pos yang tersentuh adalah ekuitas, karena tambahan modal disetor yang sempat terpangkas Rp1,77 miliar dikembalikan ke posisi semula sampai rights issue benar-benar efektif, dan arus kas operasi, yang naik sekitar Rp9,6 miliar hanya akibat reklasifikasi pencatatan, bukan tambahan kas baru. Piutang usaha juga ikut terdampak karena sempat mencakup dana dari pihak yang hubungan kepengurusannya dengan Folago masih bisa diperdebatkan, meski saldo itu sudah dilunasi pertengahan tahun ini. Yang perlu dipantau berikutnya adalah apakah bursa menerima penjelasan Folago soal status SAA sebagai pihak ketiga, realisasi pembelian tiga unit aset studio dan live streaming senilai Rp64 miliar yang ditargetkan rampung akhir Desember 2026, serta kelanjutan rights issue PMHMETD I yang masih menunggu pernyataan efektif OJK.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan S-13462/BEI.PP2/10-2026 Permintaan Penjelasan PT Bursa Efek Indonesia"
+ },
+ {
+  "slug": "public-expose-cuan-19-november-laba-bersih-9m26-naik-ke-us-70-juta",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CUAN 19 November: [Laba Bersih] 9M26 Naik ke US$70 Juta",
+  "deck": "CUAN akan menggelar Paparan Publik Tahunan pada 19 November 2026, memaparkan kinerja hingga September 2026: laba bersih melonjak 279 persen menjadi US$70 juta dari pendapatan US$1,11 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "16 November 2026",
+  "isoDate": "2026-11-16T16:10:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/927ed4cadc_9020e19971.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CUAN",
+  "tags": [
+   "CUAN",
+   "Public Expose",
+   "Petrindo Jaya Kreasi",
+   "Laba Bersih"
+  ],
+  "body": [
+   "PT Petrindo Jaya Kreasi Tbk (CUAN) akan menggelar Paparan Publik Tahunan pada 19 November 2026, setelah menyampaikan materi presentasinya kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 16 November 2026. Paparan ini akan membahas kinerja perusahaan hingga 30 September 2026 serta rencana kerja untuk sisa tahun 2026. Materi yang diserahkan menunjukkan pendapatan Perusahaan pada sembilan bulan pertama 2026 mencapai US$1,11 miliar, naik 39 persen dibanding periode yang sama tahun lalu sebesar US$797 juta.",
+   "Laba kotor tumbuh 68 persen dari US$85 juta menjadi US$143 juta, dengan margin laba kotor naik dari 11 persen menjadi 13 persen, didorong oleh perbaikan harga jual rata-rata batu bara dan kontribusi batu bara metalurgi yang lebih besar. Laba bersih melonjak dari US$18 juta menjadi US$70 juta, melesat 279 persen, sehingga margin laba bersih naik dari 2 persen menjadi 6 persen. Dari sisi struktur modal, rasio utang terhadap ekuitas tercatat 2,0 kali, rasio kas dan aset likuid terhadap kewajiban jangka pendek (adjusted current ratio) 3,3 kali, dan rasio kemampuan membayar utang (DSCR) 357 persen per 30 September 2026, dengan kas US$260 juta dan ekuitas US$702 juta. Lembaga pemeringkat mempertahankan peringkat idA dengan outlook stabil untuk Perusahaan, serta idA untuk Obligasi Berkelanjutan I dan idA(sy) untuk Sukuk Ijarah Berkelanjutan I.",
+   "Materi tersebut juga memaparkan dua proyek strategis. Pembangunan infrastruktur di PT Daya Bumindo Karunia (DBK) untuk memperkuat kapasitas produksi batu bara metalurgi masih berlangsung, termasuk perluasan jalur pengangkutan (hauling road) baru. Sementara itu, proyek pembangkit listrik berkapasitas 680 megawatt di Halmahera Timur, Maluku Utara, telah melakukan groundbreaking pada 4 Februari 2026, dengan SCC Chemical Engineering Indonesia sebagai kontraktor EPC untuk pekerjaan darat, konsorsium Power China Jiangxi Electric Power Engineering Co Ltd dan China Chemical Engineering Second Construction Corporation untuk pekerjaan lepas pantai, serta PT Daya Bangkit Nusantara sebagai pembeli material. Masa konstruksi diperkirakan 28 bulan dengan target mulai beroperasi akhir 2027."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine in Kalimantan with heavy haul trucks loading ore under an overcast sky",
+  "takeaway": "Materi paparan publik ini condong POSITIF bagi CUAN: laba bersih melesat 279 persen menjadi US$70 juta dan margin laba bersih naik dari 2 persen ke 6 persen, meski kenaikan ini berangkat dari basis laba yang masih kecil. Yang perlu dicermati adalah rasio utang terhadap ekuitas 2,0 kali, artinya total utang Perusahaan dua kali modal sendirinya, tetapi rasio kemampuan membayar utang (DSCR) yang mencapai 357 persen menunjukkan arus kas operasional masih jauh melebihi kewajiban cicilan tahun berjalan, sehingga risiko gagal bayar dalam waktu dekat relatif rendah. Pelaku pasar juga akan memperhatikan pergeseran komposisi pendapatan dari yang semula didominasi batu bara termal menjadi lebih merata ke batu bara metalurgi, emas, dan jasa penambangan, karena diversifikasi ini membuat pendapatan Perusahaan tidak terlalu bergantung pada satu harga komoditas. Yang dipantau berikutnya adalah pelaksanaan Paparan Publik pada 19 November 2026, saat manajemen akan menjawab pertanyaan investor, serta progres proyek pembangkit listrik 680 MW di Maluku Utara yang ditargetkan mulai beroperasi akhir 2027.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Pelaksanaan Public Expose Tahunan CUAN"
+   }
+  ]
+ },
+ {
   "slug": "utang-luar-negeri-ri-naik-ke-us-458-9-miliar-di-triwulan-iii",
   "category": "Moneter",
   "title": "Utang Luar Negeri RI [Naik] ke US$458,9 Miliar di Triwulan III",
@@ -4636,8 +4842,8 @@ var ARTICLES = [
  {
   "slug": "rupo-obligasi-ptpp-11-november-restrukturisasi-ditolak",
   "category": "Aksi Korporasi",
-  "title": "RUPO Obligasi PTPP 11 November: [Restrukturisasi] Ditolak",
-  "deck": "Pemegang Obligasi Berkelanjutan III PTPP Tahap I Seri B menolak keempat usulan restrukturisasi bunga, termasuk penundaan bunga ke-18 yang sudah telat dibayar.",
+  "title": "RUPO PTPP 11 November: Bunga ke-21 Macet, [Restrukturisasi] Ditolak",
+  "deck": "PTPP mengoreksi hasil RUPO 11 November: bunga yang telat dibayar dan diusulkan ditunda ternyata bunga ke-21, bukan ke-18. Keempat usulan restrukturisasi tetap ditolak.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T09:20:50",
@@ -4646,20 +4852,30 @@ var ARTICLES = [
   "emiten": "PTPP",
   "tags": [
    "PTPP",
+   "Obligasi",
    "RUPO",
-   "obligasi",
-   "restrukturisasi utang"
+   "Restrukturisasi Utang"
   ],
   "body": [
-   "PT PP (Persero) Tbk menggelar Rapat Umum Pemegang Obligasi (RUPO) ketiga untuk Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B pada Selasa, 11 November 2026, pukul 15.43 hingga 17.05 WIB di Park Hotel Jakarta. Hasilnya, keempat usulan yang diajukan perseroan untuk meringankan pembayaran bunga semuanya ditolak oleh pemegang obligasi, termasuk permintaan penundaan pembayaran bunga ke-18 yang sudah terlambat dibayar sejak sebelumnya.",
-   "Rapat dihadiri pemegang obligasi dan kuasanya yang mewakili Rp572,3 miliar suara, atau 88,73 persen dari total obligasi seri ini yang belum dilunasi sebesar Rp645 miliar, sehingga syarat kuorum kehadiran terpenuhi. PTPP diwakili Direktur Keuangan Faizal Rahmad, sementara wali amanat dijabat PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk. Empat pemegang obligasi menyampaikan pertanyaan atau pendapat sebelum pemungutan suara tertulis dilakukan. Untuk usulan pertama, yakni waiver atas bunga ke-18 yang telat dibayar sekaligus penundaan bunga tanpa denda sampai jatuh tempo 2027, sebanyak 97,59 persen suara menolak dan hanya 2,41 persen yang setuju. Usulan kedua, yaitu opsi membayar bunga 1 persen per tahun untuk bunga ke-19 dan ke-20 dengan sisanya ditangguhkan sampai jatuh tempo 2027, ditolak lebih tipis dengan 50,03 persen suara menolak berbanding 49,97 persen setuju. Usulan ketiga soal pemberian kuasa kepada wali amanat untuk menandatangani perubahan perjanjian juga ditolak tipis, 50,90 persen berbanding 49,10 persen.",
-   "Usulan keempat, yaitu pembebasan wali amanat dari segala tuntutan di kemudian hari, sebenarnya memperoleh suara setuju mayoritas sebesar 61,33 persen. Namun karena Perjanjian Perwaliamanatan mensyaratkan persetujuan minimal tiga per empat atau 75 persen dari suara yang hadir agar keputusan sah, usulan ini pun tetap dinyatakan tidak disetujui. Dengan ditolaknya seluruh usulan, tidak ada keringanan yang diperoleh PTPP untuk kewajiban bunga ke-18 yang sudah telat maupun bunga ke-19 dan ke-20 mendatang."
+   "PT PP (Persero) Tbk mengoreksi pengumuman hasil Rapat Umum Pemegang Obligasi (RUPO) Obligasi Berkelanjutan III PTPP Tahap I Tahun 2021 Seri B yang terbit 12 November 2026. Lewat surat koreksi bertanggal 16 November 2026, perseroan memperbaiki nomor bunga yang menjadi obyek sengketa: bunga yang telat dibayar dan diusulkan mendapat keringanan ternyata bunga ke-21, bukan bunga ke-18 seperti disebutkan sebelumnya. Usulan pembayaran 1 persen per tahun juga dikoreksi, dari semula untuk bunga ke-19 dan ke-20 menjadi untuk bunga ke-22, ke-23, dan ke-24.",
+   "Hasil pemungutan suara pada RUPO yang digelar Selasa, 11 November 2026 di Park Hotel Jakarta itu tidak berubah: keempat usulan restrukturisasi tetap ditolak pemegang obligasi. Rapat dihadiri pemegang obligasi yang mewakili Rp572,3 miliar suara atau 88,73 persen dari total obligasi seri ini yang belum dilunasi sebesar Rp645 miliar, sehingga kuorum terpenuhi. Usulan pertama, yaitu waiver atas bunga ke-21 yang tidak terbayar sekaligus penundaan bunga sampai jatuh tempo 2027 tanpa denda, ditolak 97,59 persen suara berbanding 2,41 persen setuju. Usulan kedua, opsi membayar bunga 1 persen per tahun untuk bunga ke-22, ke-23, dan ke-24 dengan sisa kewajiban ditangguhkan sampai jatuh tempo 2027, ditolak tipis 50,03 persen berbanding 49,97 persen.",
+   "Usulan ketiga, pemberian kuasa kepada wali amanat PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk untuk menandatangani perubahan perjanjian, juga ditolak tipis dengan 50,90 persen berbanding 49,10 persen. Usulan keempat, yaitu pembebasan wali amanat dari segala tuntutan di kemudian hari, sebenarnya mendapat suara setuju mayoritas 61,33 persen, namun tetap dinyatakan tidak disetujui karena Perjanjian Perwaliamanatan mensyaratkan persetujuan minimal 75 persen dari suara yang hadir.",
+   "Dengan ditolaknya seluruh usulan, PTPP tetap menanggung kewajiban bunga ke-21 yang sudah telat dibayar, tanpa penangguhan atau keringanan denda, sesuai ketentuan awal perjanjian. Hasil ini sejalan dengan penolakan serupa pada RUPSu sukuk PTPP yang sudah diberitakan sebelumnya, menegaskan pola yang sama di beberapa instrumen utang perseroan."
   ],
   "fotoAdegan": "Construction workers on scaffolding at a tall building site in Jakarta, cranes against an overcast sky.",
-  "takeaway": "Hasil RUPO ini negatif bagi PTPP, karena keempat usulan keringanan bunga ditolak, bahkan dua usulan nyaris ditolak telak dengan selisih suara setuju-menolak yang sangat sempit, tanda pemegang obligasi tidak percaya pada proposal restrukturisasi yang ditawarkan. Yang tersentuh di sini adalah arus kas dan beban bunga perseroan, karena tanpa keringanan, PTPP tetap harus menanggung kewajiban bunga ke-18 yang sudah terlambat dibayar sesuai ketentuan awal perjanjian, tanpa penangguhan, yang berarti tekanan likuiditas jangka pendek tidak berkurang. Perlu dicermati bagaimana PTPP akhirnya menyelesaikan kewajiban bunga ke-18 yang tertunggak itu dan apakah akan ada RUPO lanjutan atau langkah lain dari wali amanat bank bjb, mengingat pokok obligasi ini jatuh tempo pada 2027. Hasil ini sejalan dengan penolakan serupa pada RUPSu sukuk PTPP yang sudah diberitakan sebelumnya, menegaskan pola yang sama di beberapa instrumen utang perseroan.",
+  "takeaway": "Koreksi ini tetap bernuansa negatif bagi PTPP, karena fakta intinya tidak berubah, yakni keempat usulan restrukturisasi bunga obligasi tetap kandas, sementara koreksi nomor bunga dari ke-18 menjadi ke-21 justru menunjukkan tunggakan sudah berjalan lebih panjang dari yang pertama kali diumumkan. Yang tersentuh adalah arus kas dan beban bunga perseroan, sebab tanpa keringanan, PTPP wajib membayar bunga ke-21 yang telat itu sesuai jadwal awal, sementara bunga ke-22 sampai ke-24 juga tidak mendapat penangguhan, sehingga tekanan likuiditas jangka pendek belum berkurang. Yang perlu dipantau berikutnya adalah bagaimana PTPP akhirnya melunasi tunggakan bunga ke-21 itu dan apakah wali amanat bank bjb akan menggelar RUPO lanjutan, mengingat pokok obligasi ini baru jatuh tempo pada 2027.",
   "sentimen": "negatif",
   "peristiwa": "rupo",
-  "judulIdx": "Pemberitahuan Hasil RUPO PP (Persero) Tbk"
+  "judulIdx": "Pemberitahuan Hasil RUPO PP (Persero) Tbk",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T16:57:31",
+    "ringkas": "PTPP mengoreksi nomor bunga obligasi yang telat dibayar dari ke-18 menjadi ke-21, sementara keempat usulan restrukturisasi tetap ditolak.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c321b64f7c_e1c8f6aff6.pdf",
+    "judulIdx": "Pemberitahuan Hasil RUPO PP (Persero) Tbk (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-16T16:57:31"
  },
  {
   "slug": "rupsu-ptpp-11-november-restrukturisasi-sukuk-ditolak-setuju-68",
@@ -9266,8 +9482,8 @@ var ARTICLES = [
  {
   "slug": "inet-catat-laba-naik-dana-rights-issue-baru-6-35-terserap",
   "category": "Aksi Korporasi",
-  "title": "INET Catat Laba Naik, Dana Rights Issue Baru [6,35%] Terserap",
-  "deck": "INET mengungkap pendapatan 9M 2026 melonjak akibat konsolidasi anak usaha baru, sementara dana rights issue, obligasi, dan sukuk senilai Rp4,19 triliun baru terserap 6,35 persen hingga Juni 2026.",
+  "title": "Public Expose INET: Rasio Lancar [Naik] ke 2,41x, Kas Rp3,96 T",
+  "deck": "Hasil public expose INET 12 November menunjukkan rasio lancar naik ke 2,41x dan kas Rp3,96 triliun per 30 September 2026, menjelang jatuh tempo Obligasi dan Sukuk Seri A Februari 2027.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T20:56:19",
@@ -9276,19 +9492,29 @@ var ARTICLES = [
   "emiten": "INET",
   "tags": [
    "INET",
-   "public expose",
-   "realisasi dana",
-   "laporan keuangan"
+   "Public Expose",
+   "Likuiditas",
+   "Obligasi"
   ],
   "body": [
-   "PT Sinergi Inti Andalan Prima Tbk (INET) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia menjelang acara pemaparan yang akan digelar Kamis, 12 November 2026 pukul 14.00 WIB secara daring. Dalam materi itu, direksi memaparkan kinerja sembilan bulan pertama 2026 serta rencana bisnis ke depan, dengan Direktur Utama Muhammad Arif sebagai penandatangan surat pemberitahuan kepada bursa.",
-   "Pendapatan neto konsolidasian INET pada sembilan bulan pertama 2026 tercatat Rp1.546,55 miliar, melonjak dari Rp68,60 miliar pada periode yang sama tahun 2025. Laba periode berjalan naik dari Rp19,37 miliar menjadi Rp59,13 miliar, dan laba yang menjadi hak pemilik induk naik dari Rp19,37 miliar menjadi Rp58,06 miliar. Namun lonjakan pendapatan itu didominasi segmen jasa alih daya tenaga kerja senilai Rp1.264,60 miliar atau 81,8 persen dari total, dengan margin laba bruto hanya 3,6 persen. Segmen layanan internet yang jauh lebih kecil, Rp281,95 miliar atau 18,2 persen dari total, justru memiliki margin laba bruto 60,5 persen.",
-   "Dari sisi neraca, total ekuitas perusahaan melonjak dari Rp429,21 miliar pada akhir 2025 menjadi Rp3.949,64 miliar pada September 2026, sementara total aset naik dari Rp760,37 miliar menjadi Rp6.501,67 miliar. Lonjakan ini terutama berasal dari rangkaian aksi korporasi sepanjang 2026: penawaran umum terbatas (PMHMETD I) senilai Rp3,195 triliun pada Januari, penerbitan Obligasi I dan Sukuk Ijarah I senilai total Rp1 triliun yang tercatat di BEI pada 6 Februari 2026, bergabungnya PT Personel Alih Daya (53,57 persen) dan PT Trans Hybrid Communication (60 persen) pada semester pertama, konsolidasi PT Internusa Duta Makmur (99,76 persen melalui anak usaha GPI) pada Juni, serta akuisisi 60 persen saham PT Sarana Global Indonesia pada September.",
-   "Dari total dana bruto Rp4,195 triliun yang terkumpul dari rights issue, obligasi, dan sukuk tersebut, laporan realisasi penggunaan dana per 30 Juni 2026 mencatat baru Rp265,59 miliar atau 6,35 persen yang terpakai, dengan sisa Rp3.915,45 miliar. Perinciannya, dari dana bersih PMHMETD I Rp3.193,45 miliar baru terpakai Rp181,60 miliar (5,69 persen), dari Obligasi I Rp493,79 miliar terpakai Rp44,94 miliar (9,10 persen), dan dari Sukuk Ijarah I Rp493,80 miliar terpakai Rp39,05 miliar (7,91 persen). Perusahaan juga menyebutkan proyek kabel laut Sarana Global Indonesia Cable System sepanjang 6.837 kilometer dengan 14 titik pendaratan masih berstatus perencanaan, sementara ekspansi FTTH diarahkan ke Bali-Lombok dan Kalimantan Barat, dan Seri A Obligasi serta Sukuk akan jatuh tempo Februari 2027."
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menyampaikan hasil Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, menyusul acara paparan publik yang digelar secara virtual pada Kamis, 12 November 2026 dan dihadiri 36 peserta eksternal. Dalam sesi tanya jawab, manajemen mengungkap posisi kas dan setara kas per 30 September 2026 mencapai Rp3.955,13 miliar, melebihi seluruh liabilitas jangka pendek yang tercatat Rp1.851,12 miliar. Rasio lancar, yakni perbandingan aset yang mudah dicairkan terhadap utang jangka pendek, naik dari 1,48 kali pada akhir 2025 menjadi 2,41 kali pada September 2026. Direksi menyebut posisi ini memberi ruang memadai untuk memenuhi kewajiban Seri A Obligasi I dan Sukuk Ijarah I yang jatuh tempo Februari 2027, meski sebagian kas tersebut sudah dipatok penggunaannya sesuai rencana penggunaan dana rights issue.",
+   "Menjawab pertanyaan peserta soal sumber laba sebenarnya, manajemen menjelaskan bahwa segmen layanan internet, yang hanya menyumbang 18,2 persen dari total pendapatan sembilan bulan pertama 2026, justru menghasilkan Rp170,53 miliar laba bruto dengan margin 60,5 persen dan laba usaha Rp114,72 miliar, setara sekitar 79 persen dari laba bruto dan 89 persen dari laba usaha konsolidasian. Sebaliknya, segmen jasa alih daya tenaga kerja yang menyumbang 81,8 persen pendapatan hanya mendorong margin tipis, sehingga margin laba bruto konsolidasian turun dari sekitar 47,3 persen pada sembilan bulan pertama 2025 menjadi 13,9 persen pada periode yang sama 2026, dan margin laba bersih turun dari 28,2 persen menjadi 3,8 persen. Manajemen menegaskan penurunan margin ini mencerminkan perubahan bauran bisnis setelah konsolidasi anak usaha baru, bukan memburuknya profitabilitas bisnis internet inti.",
+   "Dari sisi penggunaan dana, manajemen mengonfirmasi bahwa dari total dana bersih Rp4.181,04 miliar yang terkumpul lewat penawaran umum terbatas (PMHMETD I) senilai Rp3,195 triliun pada Januari 2026 serta penerbitan Obligasi I dan Sukuk Ijarah I masing-masing Rp500 miliar yang dicatatkan di bursa pada 6 Februari 2026, baru Rp265,59 miliar atau 6,35 persen yang terpakai hingga 30 Juni 2026, dengan sisa Rp3.915,45 miliar. Manajemen beralasan dana itu baru cair pada Januari dan Februari 2026, sementara proyek infrastruktur seperti pembangunan serat optik ke rumah pelanggan (FTTH) dan kabel laut membutuhkan tahapan perizinan dan pengadaan sebelum belanja modal besar dikeluarkan. Sepanjang 2026, Perseroan juga mengonsolidasikan sejumlah anak usaha baru, yaitu PT Personel Alih Daya, PT Trans Hybrid Communication, dan PT Internusa Duta Makmur, serta mengakuisisi 60 persen saham PT Sarana Global Indonesia, yang bersama-sama mendorong total aset naik dari Rp760,37 miliar menjadi Rp6.501,67 miliar dan ekuitas dari Rp429,21 miliar menjadi Rp3.949,64 miliar dalam sembilan bulan.",
+   "Soal rencana ke depan, manajemen memproyeksikan tingkat keterpakaian jaringan atau take-up rate layanan FTTH pada 2026-2027 berada di kisaran 43 persen sampai 52 persen, seiring pembangunan jaringan baru yang berjalan lebih cepat daripada penambahan pelanggan dalam jangka pendek. Proyek kabel laut Sarana Global Indonesia Cable System sepanjang 6.837 kilometer dengan 14 titik pendaratan masih berstatus perencanaan, sementara ekspansi FTTH diarahkan ke Bali-Lombok dan Kalimantan Barat. Manajemen juga menyebut kerja sama penyediaan perangkat dengan Grup Surge dijalankan dengan prinsip kewajaran usaha."
   ],
   "fotoAdegan": "A cable-laying ship deck with large spools of undersea fiber optic cable, crew working, open sea in the background",
-  "takeaway": "Laporan ini netral bagi fundamental INET: lonjakan pendapatan yang terlihat spektakuler sebagian besar berasal dari masuknya anak usaha jasa alih daya tenaga kerja yang marginnya cuma 3,6 persen, bukan dari bisnis internet inti yang justru jauh lebih menguntungkan dengan margin 60,5 persen. Pos yang tersentuh adalah ekuitas, yaitu modal pemegang saham, yang melonjak sembilan kali lipat menjadi Rp3,95 triliun karena suntikan dana rights issue awal tahun, serta kas perusahaan yang menggembung karena dari total Rp4,195 triliun dana yang terkumpul dari rights issue, obligasi, dan sukuk, baru 6,35 persen yang benar-benar dibelanjakan hingga akhir Juni 2026. Artinya sebagian besar dana segar itu masih mengendap sebagai kas dan belum menghasilkan pendapatan baru bagi pemegang saham yang sudah terdilusi oleh rights issue tersebut. Yang perlu dipantau berikutnya adalah kelanjutan proyek kabel laut SGI-CS yang masih berstatus perencanaan serta pembangunan FTTH di Bali-Lombok dan Kalimantan Barat, dan yang lebih mendesak adalah jatuh tempo Seri A Obligasi dan Sukuk Ijarah pada Februari 2027 yang akan menguji kemampuan arus kas perusahaan membayar kembali investor.",
-  "sentimen": "netral"
+  "takeaway": "Laporan hasil paparan publik ini condong positif bagi INET, karena untuk pertama kalinya manajemen memberi angka konkret yang menjawab kekhawatiran soal kemampuan bayar utang: kas Rp3,96 triliun per akhir September 2026 melebihi seluruh liabilitas jangka pendeknya yang hanya Rp1,85 triliun, dengan rasio lancar, yaitu perbandingan aset yang bisa dicairkan cepat terhadap utang jangka pendek, naik dari 1,48 kali menjadi 2,41 kali dalam sembilan bulan. Pos yang tersentuh adalah arus kas dan likuiditas, karena pemegang Obligasi I dan Sukuk Ijarah I ingin memastikan perusahaan punya uang tunai cukup saat kewajiban itu jatuh tempo, bukan sekadar laba di atas kertas. Catatan ini juga menegaskan segmen layanan internet, meski hanya menyumbang 18,2 persen pendapatan, sebenarnya penyumbang hampir seluruh laba Perseroan, sehingga tipisnya margin jasa alih daya tidak mencerminkan kualitas bisnis inti, meski manajemen sendiri mengingatkan sebagian kas itu sudah dipatok penggunaannya sesuai prospektus rights issue. Yang perlu dipantau berikutnya adalah realisasi pembangunan FTTH di Bali-Lombok dan Kalimantan Barat serta proyek kabel laut SGI-CS, dan yang paling mendesak tetap jatuh tempo Seri A Obligasi I dan Sukuk Ijarah I pada Februari 2027.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T15:21:35",
+    "ringkas": "Hasil public expose INET ungkap rasio lancar naik ke 2,41x dan laba sebagian besar dari segmen internet, bukan jasa alih daya.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d1bb39ee60_18043867a1.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-16T15:21:35",
+  "peristiwa": "public-expose"
  },
  {
   "slug": "kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir",
@@ -31248,8 +31474,8 @@ var ARTICLES = [
  {
   "slug": "gmfi-gelar-rupslb-bahas-rights-issue-22-miliar-saham-baru",
   "category": "Aksi Korporasi",
-  "title": "GMFI Gelar RUPSLB, Bahas [Rights Issue] 22 Miliar Saham Baru",
-  "deck": "GMFI mengundang pemegang saham ke RUPSLB 19 November 2026 untuk menyetujui rencana penerbitan hingga 22,03 miliar saham baru lewat mekanisme hak memesan efek terlebih dahulu.",
+  "title": "RUPSLB GMFI Diundur ke 8 Desember: [Rights Issue] 22 Miliar Saham",
+  "deck": "GMFI mengubah jadwal RUPSLB rencana rights issue 22,03 miliar saham dari 19 November menjadi 8 Desember 2026, dengan daftar pemegang saham yang berhak hadir juga diperbarui ke 13 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "28 Oktober 2026",
   "isoDate": "2026-10-28T15:33:58",
@@ -31259,17 +31485,46 @@ var ARTICLES = [
   "tags": [
    "GMFI",
    "RUPSLB",
-   "rights issue",
+   "Rights Issue",
    "PMHMETD"
   ],
   "body": [
-   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mengundang seluruh pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 19 November 2026, pukul 14.00 hingga 16.00 WIB di Ruang Auditorium Gedung Manajemen Garuda, Area Perkantoran Bandar Udara Soekarno-Hatta, Tangerang. Rapat juga digelar secara elektronik lewat platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 27 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di hari yang sama.",
-   "Satu-satunya agenda RUPSLB ini adalah persetujuan rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu (PMHMETD), yang lebih dikenal sebagai rights issue. Perseroan berencana menerbitkan saham baru Seri B sebanyak-banyaknya 22.029.751.488 lembar atau sekitar 22,03 miliar saham, dengan nilai nominal Rp19 per saham, yang diambil dari portepel perseroan. Saham baru ini disebutkan memiliki hak yang sama dan sederajat dengan seluruh saham lama yang sudah ditempatkan dan disetor penuh. Dalam dokumen bahan mata acara, GMFI menyebut dua alasan aksi ini: memenuhi syarat jumlah saham beredar publik atau free float sesuai Peraturan Bursa Efek Indonesia Nomor I-A poin V.1.1, serta memperkuat struktur permodalan untuk mendukung pengembangan usaha dan kebutuhan operasional perseroan secara berkelanjutan.",
-   "Bagi pemegang saham yang ingin memberi kuasa, pemberian atau pencabutan kuasa secara elektronik melalui e-Proxy di eASY.KSEI dapat dilakukan sejak tanggal pemanggilan ini hingga paling lambat Rabu, 18 November 2026 pukul 12.00 WIB. Sementara bagi pemegang saham dengan saham dalam bentuk warkat yang ingin menghadiri secara fisik lewat kuasa, surat kuasa asli wajib dikirim ke Biro Administrasi Efek, PT Datindo Entrycom di Jalan Hayam Wuruk Nomor 28, Jakarta, paling lambat Senin, 16 November 2026 pukul 16.15 WIB. Sesuai Anggaran Dasar perseroan, rapat baru bisa mengambil keputusan yang sah jika dihadiri oleh pemegang saham atau kuasanya yang mewakili lebih dari separuh total saham dengan hak suara."
+   "PT Garuda Maintenance Facility Aero Asia Tbk (GMFI) mengundurkan jadwal Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dari semula Kamis, 19 November 2026, menjadi Selasa, 8 Desember 2026, pukul 10.00 sampai 12.00 WIB. Lokasi rapat tetap di Ruang Auditorium Gedung Manajemen Garuda, Area Perkantoran Bandar Udara Soekarno-Hatta, Tangerang, dan tetap bisa diikuti secara elektronik lewat platform eASY.KSEI. Perubahan ini disampaikan lewat ralat pemanggilan rapat pada 16 November 2026. Agenda rapat tidak berubah, yaitu satu-satunya mata acara berupa persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu atau rights issue, sebanyak-banyaknya 22.029.751.488 saham baru Seri B dengan nilai nominal Rp19 per saham.",
+   "Bersamaan dengan pengunduran jadwal ini, GMFI juga memperbarui tanggal pencatatan pemegang saham yang berhak hadir, yang dikenal sebagai recording date, menjadi Jumat, 13 November 2026 pukul 16.00 WIB, menggantikan tanggal sebelumnya 27 Oktober 2026. Batas akhir pemberian atau pencabutan kuasa secara elektronik lewat e-Proxy di eASY.KSEI mundur menjadi Senin, 7 Desember 2026 pukul 12.00 WIB. Sementara itu, surat kuasa asli bagi pemegang saham dengan saham dalam bentuk warkat yang ingin diwakili secara fisik wajib diterima Biro Administrasi Efek, PT Datindo Entrycom, di Jalan Hayam Wuruk Nomor 28, Jakarta, paling lambat Kamis, 3 Desember 2026 pukul 16.15 WIB.",
+   "Rencana rights issue ini bertujuan memenuhi ketentuan jumlah saham beredar publik atau free float sesuai Peraturan Bursa Efek Indonesia Nomor I-A poin V.1.1, sekaligus memperkuat struktur permodalan perseroan untuk mendukung pengembangan usaha dan kebutuhan operasional secara berkelanjutan. Saham baru yang akan diterbitkan memiliki hak yang sama dan sederajat dengan seluruh saham lama GMFI yang telah ditempatkan dan disetor penuh.",
+   "Sesuai Anggaran Dasar perseroan, RUPSLB baru bisa mengambil keputusan yang sah jika dihadiri oleh pemegang saham atau kuasanya yang mewakili lebih dari separuh total saham dengan hak suara."
   ],
   "fotoAdegan": "Aircraft maintenance technicians in coveralls working beneath a wide-body jet inside a large hangar, daylight streaming through open hangar doors",
-  "takeaway": "Rencana ini bersifat netral bagi fundamental GMF untuk saat ini, karena RUPSLB baru meminta persetujuan rencana rights issue, belum menetapkan harga pelaksanaan atau jumlah pasti saham yang akan benar-benar diterbitkan dari batas maksimal 22,03 miliar lembar itu. Yang pasti tersentuh adalah jumlah saham beredar perseroan, yang jika seluruh batas atas ini diterbitkan akan bertambah besar sehingga laba per saham, yaitu laba perusahaan dibagi jumlah saham beredar, bisa terdilusi bagi pemegang saham yang tidak ikut menyerap haknya. Di sisi lain ekuitas perseroan, yaitu modal bersih milik pemegang saham, juga akan membesar karena dana segar masuk dari penjualan saham baru tersebut. Salah satu pemicu aksi ini adalah pemenuhan syarat saham beredar publik sesuai aturan Bursa, bukan murni untuk mendanai ekspansi, sehingga sifatnya lebih ke kewajiban kepatuhan ketimbang sinyal pertumbuhan baru. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 19 November 2026 serta pengumuman harga pelaksanaan dan rasio rights issue, yang akan menentukan seberapa besar dilusi sesungguhnya bagi pemegang saham lama.",
-  "sentimen": "netral"
+  "takeaway": "Pengunduran jadwal ini sendiri netral bagi fundamental GMF, karena hanya menggeser waktu rapat dan memperbarui pencatatan pemegang saham yang berhak hadir, tanpa mengubah substansi rencana rights issue yang akan dibahas. Pos yang tetap perlu diperhatikan adalah jumlah saham beredar dan laba per saham, yaitu laba perusahaan dibagi jumlah saham beredar, karena penerbitan hingga 22,03 miliar saham baru berpotensi mendilusi pemegang saham lama yang tidak ikut menyerap haknya, sementara ekuitas perseroan, yaitu modal bersih milik pemegang saham, berpotensi membesar dari dana segar yang masuk. Yang perlu dipantau berikutnya adalah hasil keputusan RUPSLB pada 8 Desember 2026, termasuk apakah rencana rights issue disetujui dan kapan harga pelaksanaan serta rasionya diumumkan, karena itu yang akan menentukan besaran dilusi sesungguhnya bagi pemegang saham lama.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-16T15:26:11",
+    "ringkas": "GMFI mengundur RUPSLB rights issue dari 19 November ke 8 Desember 2026, dengan pencatatan pemegang saham diperbarui ke 13 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/99e9430f6f_7a10e849b8.pdf",
+    "judulIdx": "Perubahan Jadwal Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-16T15:26:11",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-13",
+    "acara": "Pencatatan pemegang saham berhak hadir RUPSLB (recording date)"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Batas akhir surat kuasa asli diterima BAE Datindo Entrycom"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Batas akhir e-Proxy/registrasi elektronik di eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Pelaksanaan RUPSLB rights issue GMFI"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "enrg-catat-laba-bersih-naik-30-persen-ke-us-72-8-juta-per-9m26",

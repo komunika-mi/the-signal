@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah di sini bukan soal peluncuran acaranya, melainkan penegasan dua aturan, PBI 6/2026 dan PADG 32/2026, yang mewajibkan penyelenggara dompet digital dan aplikasi pembayaran menjamin keterbukaan informasi, keamanan data, dan jalur pengaduan, ditambah jalur sengketa resmi lewat LAPS hasil kerja sama BI-OJK. Yang kena dampak langsung adalah penyelenggara jasa sistem pembayaran yang kini punya kewajiban formal, dan pengguna layanan pembayaran digital yang mendapat jalur perlindungan baru kalau terjadi masalah. Arahnya terlihat bergerak dari sekadar kampanye edukasi ke pengawasan perilaku (market conduct) yang lebih mengikat secara aturan, tapi indeks keberdayaan konsumen yang baru 77,03 dan belum masuk kategori tertinggi menunjukkan penerapannya di lapangan masih berproses. Yang akan menentukan apakah pengetatan ini benar-benar jalan adalah hasil pengawasan BI terhadap kepatuhan penyelenggara pada PADG 32/2026, serta apakah indeks keberdayaan konsumen pada survei tahun berikutnya naik melewati ambang yang disebut BI sebagai kategori \"Berdaya\".",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "emas-jelaskan-ke-bei-arus-kas-operasi-negatif-us-25-58-juta",

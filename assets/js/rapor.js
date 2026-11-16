@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-14T04:03:01.052+07:00",
+ "diperbarui": "2026-11-17T06:33:25.709+07:00",
  "entri": [
+  {
+   "id": "2026-11-16-3",
+   "edisi": "2026-11-16",
+   "benang": "Dilusi MBMA Jalan Terus, Detail Masih Buram",
+   "klaim": "Dilusi pemegang saham MBMA sudah pasti terjadi melalui private placement hingga 10 persen modal disetor, hanya besaran dampaknya yang belum final.",
+   "penanda": "hasil RUPSLB 8 Desember, saat harga pelaksanaan dan pihak penyerap saham baru diumumkan",
+   "tenggat": "2026-12-08",
+   "tenggatLabel": "RUPSLB 8 Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-16-2",
+   "edisi": "2026-11-16",
+   "benang": "Tekanan Utang Meluas ke Banyak Sektor",
+   "klaim": "Tekanan utang yang muncul sebelumnya berlanjut dan melebar lintas sektor, dari tambang emas, konsumen, sampai energi.",
+   "penanda": "laporan keuangan kuartal berikutnya, terutama apakah rasio cakupan bunga DAAZ terus turun mendekati ambang batas perjanjian utangnya",
+   "tenggat": null,
+   "tenggatLabel": "laporan keuangan kuartal berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-16-1",
+   "edisi": "2026-11-16",
+   "benang": "Harga Batu Bara Naik, Pemain Tambang Pecah Arah",
+   "klaim": "Harga batu bara masih dalam tren naik, tetapi sebagian pemain tambang justru mulai keluar dari bisnis batu bara pada saat harga sedang tinggi.",
+   "penanda": "HBA periode akhir November tetap naik, dan ada tidaknya emiten tambang lain yang mengumumkan pelepasan aset batu bara serupa",
+   "tenggat": "2026-11-30",
+   "tenggatLabel": "HBA periode akhir November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-13-3",
    "edisi": "2026-11-13",
@@ -1540,7 +1573,7 @@ var RAPOR = {
    "penanda": "Public expose WIKA, forum publik pertama sejak peringkat empat obligasinya diturunkan ke status gagal bayar",
    "tenggat": "2026-10-01",
    "tenggatLabel": "public expose WIKA pada 1 Oktober",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {
@@ -1595,7 +1628,7 @@ var RAPOR = {
    "penanda": "Jawaban resmi LCKM dan realisasi rencana CEKA memenuhi syarat free float",
    "tenggat": "2026-09-30",
    "tenggatLabel": "jawaban resmi LCKM yang jatuh tempo 30 September",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {
@@ -1639,7 +1672,7 @@ var RAPOR = {
    "penanda": "Sidang PKPU ADCP dan realisasi restrukturisasi utang ADHI",
    "tenggat": "2026-09-30",
    "tenggatLabel": "sidang PKPU ADCP pada 17 September dan restrukturisasi utang ADHI yang ditargetkan rampung bulan ini",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {
@@ -2318,7 +2351,7 @@ var RAPOR = {
    "penanda": "Data volume transaksi QRIS UMKM setelah aturan bebas biaya MDR resmi berlaku",
    "tenggat": "2026-10-01",
    "tenggatLabel": "resmi berlaku Oktober mendatang",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

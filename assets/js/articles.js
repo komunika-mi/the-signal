@@ -843,7 +843,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di balik angka ini adalah arah utangnya, bukan sekadar naik atau turun. Utang luar negeri pemerintah naik hampir US$4 miliar dalam satu triwulan, dan BI menyebut kenaikan itu banyak didorong investor asing yang membeli lebih banyak surat utang negara, semacam surat utang yang diterbitkan pemerintah untuk menutup kekurangan anggaran dan juga dijual kepada pembeli luar negeri. Di sisi lain, perusahaan di sektor manufaktur, keuangan, listrik-gas, dan pertambangan justru mengurangi pinjaman luar negeri mereka, sehingga beban utang luar negeri kini lebih banyak ditanggung negara ketimbang korporasi. Ada dua kemungkinan arah dari sini: pemerintah makin mengandalkan dana asing untuk menambal anggaran kalau minat beli surat utang itu terus berlanjut, atau kenaikan triwulan ini cuma momentum sesaat dari jadwal pencairan pinjaman dan penerbitan surat utang yang kebetulan jatuh di periode ini. Yang akan menentukan mana yang benar adalah data kepemilikan asing di surat utang negara pada bulan-bulan berikutnya, serta rilis statistik utang luar negeri triwulan IV 2026 yang biasanya terbit awal Februari 2027.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "rupslb-srsn-8-desember-pergantian-direksi-dan-ubah-anggaran-dasar",

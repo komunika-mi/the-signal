@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "fcwH-45lpT4",
+  "title": "APVI Minta Pemerintah Libatkan Pelaku Usaha Kaji Kebijakan Rokok Elektrik",
+  "category": "Industri",
+  "program": "OneNews Update",
+  "summary": "Asosiasi Personal Vaporizer Indonesia meminta pemerintah melibatkan pelaku usaha dalam mengkaji kebijakan rokok elektrik, menyusul polemik penggunaan vape yang dinilai berdampak pada industri ini.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah regulasi yang bisa mempengaruhi keberlangsungan pelaku usaha di industri rokok elektrik."
+ },
+ {
   "id": "u5lQjJU5mrQ",
   "title": "Trump Ajak ASEAN Gabung Aliansi Teknologi Pax Silica",
   "category": "Teknologi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kementerian Kelautan dan Perikanan terus mematangkan Program Kampung Nelayan Merah Putih sebagai upaya mendorong peningkatan ekonomi masyarakat nelayan.",
   "takeaway": "Menunjukkan arah kebijakan pemerintah dalam memberdayakan ekonomi sektor perikanan dan masyarakat pesisir."
- },
- {
-  "id": "JvZFTOm8e4s",
-  "title": "Presiden Prabowo Gelar Ratas Bahas Kondisi Ekonomi di Istana",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi bersama sejumlah menteri kabinet dan kepala lembaga di Istana Kepresidenan, Jakarta.",
-  "takeaway": "Rapat tingkat tinggi ini penting diikuti karena berpotensi menjadi acuan arah kebijakan ekonomi pemerintah ke depan."
  }
 ];

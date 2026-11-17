@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "fcwH-45lpT4",
+  "title": "APVI Minta Pemerintah Libatkan Pelaku Usaha Kaji Kebijakan Rokok Elektrik",
+  "category": "Industri",
+  "program": "OneNews Update",
+  "summary": "Asosiasi Personal Vaporizer Indonesia meminta pemerintah melibatkan pelaku usaha dalam mengkaji kebijakan rokok elektrik, menyusul polemik penggunaan vape yang dinilai berdampak pada industri ini.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah regulasi yang bisa mempengaruhi keberlangsungan pelaku usaha di industri rokok elektrik.",
+  "terbit": "2026-11-17T11:00:36+00:00"
+ },
+ {
   "id": "u5lQjJU5mrQ",
   "title": "Trump Ajak ASEAN Gabung Aliansi Teknologi Pax Silica",
   "category": "Teknologi",

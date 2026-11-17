@@ -5,6 +5,73 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-hitung-risiko-persaingan-sejak-rencanakan-merger",
+  "category": "Bisnis",
+  "title": "KPPU: Hitung Risiko [Persaingan] Sejak Rencanakan Merger",
+  "deck": "KPPU mengingatkan perusahaan menghitung risiko persaingan usaha sejak awal rencana merger dan akuisisi, bukan hanya nilai transaksi.",
+  "date": "17 November 2026",
+  "image": "assets/img/kppu-hitung-risiko-persaingan-sejak-rencanakan-merger.jpg",
+  "imageV": "mwkoqgwj",
+  "tags": [
+   "KPPU",
+   "merger dan akuisisi",
+   "persaingan usaha",
+   "due diligence"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-ingatkan-perusahaan-perhitungkan-risiko-persaingan-sejak-merencanakan-merger-dan-akuisisi",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "realisasi-psn-capai-rp2-396-triliun-serap-10-7-juta-kerja",
+  "category": "Makroekonomi",
+  "title": "Realisasi PSN Capai [Rp2.396] Triliun, Serap 10,7 Juta Kerja",
+  "deck": "Kemenko Perekonomian merinci realisasi Proyek Strategis Nasional dan Kawasan Ekonomi Khusus hingga September 2026, disertai data pertumbuhan ekonomi dan investasi nasional terbaru.",
+  "date": "17 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "PSN",
+   "KEK",
+   "Investasi",
+   "Pertumbuhan Ekonomi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7229/kemenko-perekonomian-perluas-wawasan-mahasiswa-unair-mengenai-strategi-pembangunan-ekonomi-dan-tantangan-global",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "soda-abu-indonesia-bebas-kuota-impor-india",
+  "category": "Global",
+  "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
+  "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
+  "date": "17 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "soda abu",
+   "ekspor",
+   "India",
+   "Kementerian Perdagangan"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/soda-abu-indonesia-terbebas-dari-aturan-kuota-impor-india-mendag-busan-ajak-tingkatkan-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "smexpo-2026-ditutup-potensi-bisnis-umkm-tembus-rp34-miliar",
+  "category": "UMKM",
+  "title": "SMEXPO 2026 Ditutup, Potensi Bisnis UMKM Tembus [Rp34 Miliar]",
+  "deck": "Pertamina merangkum SMEXPO 2026 dengan 354 UMKM binaan di enam kota, penjualan ritel lebih dari Rp2 miliar, dan potensi kerja sama bisnis Rp34 miliar.",
+  "date": "17 November 2026",
+  "image": "assets/img/smexpo-2026-ditutup-potensi-bisnis-umkm-tembus-rp34-miliar.jpg",
+  "imageV": "mwkoqi3x",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "smexpo",
+   "bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478861-pertamina-tutup-rangkaian-smexpo-2026-potensi-bisnis-tembus-rp34-miliar"
+ },
+ {
   "slug": "uma-tfas-13-november-manajemen-tak-tahu-pemicu-volatilitas",
   "category": "Aksi Korporasi",
   "title": "[UMA] TFAS 13 November: Manajemen Tak Tahu Pemicu Volatilitas",
@@ -1408,7 +1475,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
   "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
   "date": "14 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -1424,7 +1491,7 @@ var ARTICLES = [
   "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
   "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
   "date": "14 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -1474,7 +1541,7 @@ var ARTICLES = [
   "title": "Presiden Prabowo: Ekonomi Tumbuh [5,47]%, Kaji Hemat Energi",
   "deck": "Ratas di Istana Bogor membahas indikator ekonomi terbaru, rencana efisiensi BBM dan listrik, serta percepatan pabrik pakan dan peternakan ayam.",
   "date": "14 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "inflasi pangan",
    "pertumbuhan ekonomi",
@@ -1490,7 +1557,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -1572,7 +1639,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -1914,7 +1981,7 @@ var ARTICLES = [
   "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
   "deck": "Pemerintah wajibkan ekspor batu bara, minyak nabati, dan ferroalloy lewat Portal DSI mulai 2027, seiring aturan baru devisa ekspor tambang dan data ekonomi kuartal III 2026.",
   "date": "13 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "DHE SDA",
    "Portal DSI",
@@ -2490,7 +2557,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -2634,7 +2701,7 @@ var ARTICLES = [
   "title": "Ekspor Sawit Naik [16%] ke US$28,84 Miliar hingga Oktober",
   "deck": "Ekspor sawit Indonesia tembus US$28,84 miliar pada Januari-Oktober 2026, naik 16 persen, sementara kebijakan biodiesel B50 menyerap lebih banyak pasokan domestik.",
   "date": "13 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "kelapa sawit",
    "ekspor CPO",
@@ -3172,7 +3239,7 @@ var ARTICLES = [
   "title": "KADI Selidiki Ulang Impor Baja HRC dari [Belarus] dan Kazakstan",
   "deck": "KADI membuka penyelidikan peninjauan kembali bea antidumping atas impor baja HRC dari Belarus dan Kazakstan, setelah menemukan indikasi perubahan margin dumping.",
   "date": "12 November 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
+  "image": "assets/img/jalur-perakitan.jpg",
   "tags": [
    "Antidumping",
    "Baja HRC",
@@ -3808,7 +3875,7 @@ var ARTICLES = [
   "title": "Batam Tumbuh 7,28 Persen, Pemerintah Awasi [Impor Ilegal]",
   "deck": "Ekonomi dan investasi Batam melesat, tapi pemerintah pusat menyoroti praktik underinvoicing dan impor barang bekas ilegal yang dinilai bisa mengganggu iklim usaha di kawasan ini.",
   "date": "11 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "Batam",
    "Investasi",
@@ -4133,7 +4200,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
   "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
   "date": "11 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "PPh 21 DTP",
    "ritel",
@@ -5176,7 +5243,7 @@ var ARTICLES = [
   "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
   "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
   "date": "10 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "BKPM",
    "Desk Investasi",
@@ -5690,7 +5757,7 @@ var ARTICLES = [
   "title": "Indonesia Bahas [24] dari 25 Bidang Aksesi OECD",
   "deck": "Rapat koordinasi tim nasional digelar menjelang kunjungan Sekjen OECD, dengan pembahasan teknis sudah berjalan di 24 dari 25 bidang menuju target rampung 2028.",
   "date": "10 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
+  "image": "assets/img/bendungan.jpg",
   "tags": [
    "OECD",
    "Airlangga Hartarto",
@@ -5724,7 +5791,7 @@ var ARTICLES = [
   "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
   "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
   "date": "10 November 2026",
-  "image": "assets/img/bendungan.jpg",
+  "image": "assets/img/koperasi-desa.jpg",
   "tags": [
    "penjualan eceran",
    "Bank Indonesia",
@@ -6271,7 +6338,7 @@ var ARTICLES = [
   "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
   "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
   "date": "9 November 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
+  "image": "assets/img/mesin-tekstil.jpg",
   "tags": [
    "ekspor",
    "Dua Kelinci",
@@ -6456,70 +6523,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0000-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-direksi-satrio-tambah-3-66-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Direksi Satrio [Tambah] 3,66 Juta Saham",
-  "deck": "Direksi BUVA, Satrio, membeli 3,66 juta saham secara tidak langsung seharga Rp250 per saham, menaikkan kepemilikannya 26,4 persen meski hak suaranya tetap 0,06 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "Kepemilikan saham",
-   "Insider trading",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5383-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sini-deli-indonesia-raya-tambah-kepemilikan-1-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "SINI: Deli Indonesia Raya Tambah [Kepemilikan] 1 Juta Saham",
-  "deck": "PT Deli Indonesia Raya, pemegang saham pengendali SINI, menambah 1 juta lembar saham lewat pembelian bertahap pada 5-9 November 2026, menaikkan hak suaranya ke 7,56%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SINI",
-   "kepemilikan saham",
-   "Singaraja Putra",
-   "Deli Indonesia Raya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-9038-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-direksi-timothy-alamsyah-tambah-843-875-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Direksi Timothy Alamsyah [Tambah] 843.875 Saham",
-  "deck": "Direktur BUVA Timothy Eugene Alamsyah membeli 843.875 saham tidak langsung seharga Rp250 per saham, menambah kepemilikannya jadi 4,22 juta saham tanpa mengubah hak suaranya.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "kepemilikan saham",
-   "direksi",
-   "insider buying"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2010-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-komisaris-astini-tambah-750-000-saham-rp187-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Komisaris Astini [Tambah] 750.000 Saham Rp187,5 Juta",
-  "deck": "Komisaris BUVA, Astini Bernawati Oudang, membeli 750.000 saham tambahan senilai Rp187,5 juta, menaikkan kepemilikannya 15 persen meski hak suaranya tetap 0,02 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "komisaris",
-   "kepemilikan saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8716-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

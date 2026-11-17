@@ -3,6 +3,138 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
+  "category": "Aksi Korporasi",
+  "title": "IIKP: Asuransi Jiwa IFG [Tambah] 740,5 Juta Saham, Suara ke 9,49%",
+  "deck": "PT Asuransi Jiwa IFG menambah 740,49 juta saham IIKP pada 19 Desember 2025, menaikkan hak suaranya dari 7,29% menjadi 9,49%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T15:21:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8726-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IIKP",
+  "tags": [
+   "IIKP",
+   "Asuransi Jiwa IFG",
+   "kepemilikan saham",
+   "Jiwasraya"
+  ],
+  "body": [
+   "PT Asuransi Jiwa IFG melaporkan penambahan kepemilikan saham di PT Inti Agri Resources Tbk (IIKP) kepada Otoritas Jasa Keuangan pada 17 November 2026. Jumlah saham yang dipegang perusahaan asuransi ini naik dari 2.449.641.760 lembar menjadi 3.190.136.030 lembar, bertambah 740.494.270 lembar. Dengan penambahan ini, hak suara PT Asuransi Jiwa IFG di IIKP naik dari 7,29 persen menjadi 9,49 persen.",
+   "Transaksi tercatat berlangsung pada 19 Desember 2025 dengan jenis hibah tidak langsung, tanpa keterangan harga per saham, dan status kepemilikannya tidak langsung. Dalam kolom tujuan transaksi, PT Asuransi Jiwa IFG menjelaskan bahwa penambahan jumlah saham ini terjadi karena likuidasi reksadana atas hasil pengalihan aset dari PT Asuransi Jiwasraya (Persero). Dokumen juga menyebut skema repurchase agreement, namun tidak merinci nilai atau jangka waktunya.",
+   "Penambahan 740,49 juta saham ini setara dengan sekitar 30,23 persen dari jumlah saham yang sebelumnya dimiliki PT Asuransi Jiwa IFG di IIKP. Karena sifatnya perpindahan saham dari proses pengalihan aset Jiwasraya, transaksi ini tidak menambah jumlah total saham beredar IIKP, melainkan hanya mengalihkan kepemilikan sebagian saham yang sudah ada ke tangan PT Asuransi Jiwa IFG."
+  ],
+  "fotoAdegan": "Workers harvesting oil palm fruit bunches on a plantation under an overcast tropical sky in Indonesia",
+  "takeaway": "Laporan ini netral bagi kinerja IIKP, karena kenaikan kepemilikan ini murni perpindahan saham akibat restrukturisasi aset Jiwasraya, bukan transaksi pasar yang mencerminkan pandangan investor terhadap prospek perusahaan. Jumlah saham beredar IIKP sendiri tidak berubah sehingga laba per saham tidak terdilusi oleh transaksi ini, yang bergeser hanya konsentrasi hak suara, yang kini membuat PT Asuransi Jiwa IFG memegang hampir satu dari sepuluh hak suara di rapat pemegang saham IIKP. Dokumen ini tidak menyebutkan tenggat atau agenda lanjutan seperti RUPS, sehingga yang perlu dicermati investor adalah apakah kenaikan kepemilikan dari proses pengalihan aset Jiwasraya ini masih akan berlanjut di laporan-laporan berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "atla-komisaris-rudi-sutantra-jual-20-juta-saham-suara-jadi-38-88",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Rudi Sutantra [Jual] 20 Juta Saham, Suara Jadi 38,88%",
+  "deck": "Komisaris ATLA Rudi R Sutantra melepas 20 juta saham lewat mekanisme repurchase agreement pada 16 November 2026, hak suara turun jadi 38,88%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T15:02:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8540-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATLA",
+  "tags": [
+   "ATLA",
+   "kepemilikan saham",
+   "komisaris",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Dewan Komisaris PT Atlantis Subsea Indonesia Tbk (ATLA), Rudi R Sutantra, melaporkan penjualan 20 juta saham ATLA secara tidak langsung pada 16 November 2026. Transaksi dilakukan melalui mekanisme repurchase agreement (repo), yakni penjualan saham dengan perjanjian bahwa saham itu bisa dibeli kembali di kemudian hari, pada harga Rp15 per saham. Jenis sahamnya saham biasa, dan dokumen tidak menyebut tujuan transaksi secara spesifik.",
+   "Dengan transaksi ini, jumlah saham ATLA yang dipegang Rudi berkurang dari 2.430.254.200 lembar menjadi 2.410.254.200 lembar. Akibatnya, persentase hak suaranya di perusahaan turun dari 39,20 persen menjadi 38,88 persen. Laporan juga mencantumkan batas akhir periode pelaksanaan pada 17 November 2026, tanpa rincian lebih lanjut soal syaratnya.",
+   "Ini merupakan penjualan kedua oleh Rudi dalam rentang sepekan. Pada 10 November 2026, ia telah melaporkan penjualan 30 juta saham yang saat itu setara 1,22 persen dari kepemilikannya, dengan hak suara tercatat 39,20 persen setelah transaksi tersebut. Jika digabung, total saham yang dilepas Rudi dalam dua laporan ini mencapai 50 juta lembar."
+  ],
+  "fotoAdegan": "A subsea support vessel docked at an Indonesian harbor at dawn, winches and thick cables coiled on deck",
+  "takeaway": "Penilaian redaksi tetap netral. Transaksi 20 juta saham ini hanya setara 0,82 persen dari kepemilikan Rudi, dan karena berbentuk repo, saham tersebut berpotensi kembali ke tangannya, bukan pelepasan permanen. Yang tersentuh di sini adalah hak suara, yakni porsi kendali seorang pemegang saham dalam pengambilan keputusan perusahaan, yang kini turun tipis menjadi 38,88 persen dari sebelumnya 39,20 persen, sementara jumlah saham ATLA yang beredar di pasar tidak berubah. Meski satu transaksi tidak cukup besar untuk dibaca sebagai sinyal, pola dua penjualan beruntun dalam sepekan oleh komisaris yang sama layak dipantau. Yang perlu diperhatikan selanjutnya adalah batas akhir periode pelaksanaan pada 17 November 2026 yang tercantum di laporan ini, serta apakah Rudi kembali melaporkan pengurangan kepemilikan dalam laporan-laporan berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Batas akhir periode pelaksanaan transaksi repo"
+   }
+  ]
+ },
+ {
+  "slug": "rupst-rupslb-tgra-28-desember-2026-jadwal-dps-1-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPST & RUPSLB TGRA 28 Desember 2026: [Jadwal] DPS 1 Desember",
+  "deck": "TGRA menjadwalkan RUPST tahun buku 2025 dan RUPSLB pada Senin, 28 Desember 2026, dengan pemegang saham per 1 Desember 2026 yang berhak hadir dan memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T14:29:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc25a748ed_a98f279e92.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGRA",
+  "tags": [
+   "TGRA",
+   "RUPST",
+   "RUPSLB",
+   "Terregra Asia Energy"
+  ],
+  "body": [
+   "PT Terregra Asia Energy Tbk (TGRA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025 sekaligus Rapat Umum Pemegang Saham Luar Biasa pada Senin, 28 Desember 2026, pukul 10.00 WIB hingga selesai. Rapat akan berlangsung di Ballroom Fairview Hotel by ARTOTEL, Jalan Radio Dalam Raya No. 1, Kecamatan Cilandak, Jakarta Selatan. Pengumuman ditandatangani oleh Chief Financial Officer TGRA, Daniel Tagu Dedo.",
+   "Perseroan menetapkan bahwa pihak yang berhak hadir atau diwakili dalam rapat adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 1 Desember 2026 pukul 16.00 WIB, atau pemilik rekening efek di penitipan kolektif PT Kustodian Sentral Efek Indonesia pada penutupan perdagangan di tanggal yang sama. Sesuai Peraturan OJK Nomor 15/POJK.04/2020, surat panggilan resmi yang memuat mata acara rapat baru akan diterbitkan pada Rabu, 2 Desember 2026, melalui situs e-RUPS, situs Bursa Efek Indonesia, dan situs perseroan.",
+   "Dokumen ini belum memuat agenda atau keputusan apa pun untuk RUPSLB, karena masih berstatus pemberitahuan rencana rapat, bukan panggilan resmi. Perseroan menyebutkan bahwa pemegang saham yang ingin mengusulkan mata acara rapat dapat melakukannya sepanjang memenuhi syarat Pasal 16 Peraturan OJK tersebut, dan usulan itu harus disampaikan paling lambat tujuh hari sebelum panggilan resmi diterbitkan."
+  ],
+  "fotoAdegan": "Technicians inspecting rows of solar panels at a utility-scale solar farm under bright Indonesian daylight",
+  "takeaway": "Laporan ini netral bagi TGRA karena isinya baru sebatas jadwal rapat, belum ada keputusan atau agenda konkret yang diumumkan pada tahap ini. RUPSLB yang digabung dengan RUPST biasanya dipakai emiten untuk mengambil keputusan soal permodalan atau perubahan pengurus, yang bisa berpengaruh ke jumlah saham beredar atau struktur ekuitas perusahaan, karena itu pelaku pasar biasanya menunggu agenda resminya sebelum menilai dampaknya. Yang perlu dipantau berikutnya adalah surat panggilan resmi yang memuat mata acara rapat, dijadwalkan terbit 2 Desember 2026, serta pelaksanaan RUPS itu sendiri pada 28 Desember 2026, sementara pemegang saham harus sudah tercatat di Daftar Pemegang Saham per 1 Desember 2026 untuk bisa hadir dan memberi suara.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Tahunan dan Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Batas Daftar Pemegang Saham yang berhak hadir di RUPS"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Penerbitan surat panggilan resmi RUPST dan RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-28",
+    "acara": "Pelaksanaan RUPST dan RUPSLB TGRA"
+   }
+  ]
+ },
+ {
+  "slug": "shid-semester-i-2026-rugi-menyempit-ke-rp15-07-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SHID Semester I 2026: [Rugi] Menyempit ke Rp15,07 Miliar",
+  "deck": "Rugi bersih Hotel Sahid Jaya turun hampir separuh dibanding semester I 2025, tapi kas perusahaan menyusut tajam setelah membayar cicilan utang bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T14:28:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117144104-65791-0/FinancialStatement-2026-II-SHID.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SHID",
+  "tags": [
+   "SHID",
+   "Hotel Sahid Jaya",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "body": [
+   "Hotel Sahid Jaya Tbk (SHID) membukukan rugi bersih Rp15,07 miliar untuk semester pertama 2026, turun hampir separuh dibanding rugi Rp32,84 miliar pada periode yang sama tahun 2025. Rugi per saham ikut mengecil dari Rp29,34 menjadi Rp13,47 per saham, berdasarkan laporan keuangan interim tidak diaudit yang diteken Direksi pada 29 Juli 2026.",
+   "Pendapatan usaha perusahaan hanya turun tipis, dari Rp45,30 miliar menjadi Rp44,69 miliar, namun beban usaha dipangkas signifikan dari Rp39,72 miliar menjadi Rp29,24 miliar. Akibatnya, rugi usaha menyempit dari Rp12,82 miliar menjadi Rp2,61 miliar. Beban lain-lain, yang sebagian besar berupa beban bunga pinjaman, juga turun dari Rp20,39 miliar menjadi Rp12,46 miliar.",
+   "Di sisi posisi keuangan, kas dan setara kas perusahaan merosot dari Rp10,52 miliar pada akhir 2025 menjadi Rp2,97 miliar pada 30 Juni 2026, setelah perusahaan membayar cicilan utang bank Rp10,49 miliar dan utang kepada pihak berelasi Rp637,8 juta. Arus kas dari aktivitas operasi justru membalik dari negatif Rp11,20 miliar menjadi positif Rp3,71 miliar. Total ekuitas turun dari Rp720,44 miliar menjadi Rp705,37 miliar akibat akumulasi rugi, sementara total aset berkurang dari Rp1.266,67 miliar menjadi Rp1.247,74 miliar. Dokumen ini juga mencatat perubahan susunan direksi hasil RUPST 19 Juni 2026, dengan Megawati Natalia Sari masuk sebagai direktur menggantikan Hengky Roy."
+  ],
+  "fotoAdegan": "A grand hotel lobby with ornate chandeliers, housekeeping staff polishing brass railings in soft morning light",
+  "takeaway": "Laporan ini netral karena memuat dua sinyal yang berlawanan arah. Di satu sisi, kinerja operasional membaik tajam: rugi usaha menyempit dari Rp12,82 miliar menjadi Rp2,61 miliar karena beban usaha dipangkas hampir Rp10,5 miliar, dan arus kas dari aktivitas operasi (uang tunai yang benar-benar masuk dari bisnis sehari-hari, bukan dari pinjaman) berbalik dari negatif menjadi positif Rp3,71 miliar. Di sisi lain, ekuitas, yaitu kekayaan bersih perusahaan setelah dikurangi semua utang, tetap tergerus turun menjadi Rp705,37 miliar karena rugi periode ini menambah akumulasi kerugian tahun-tahun sebelumnya. Yang perlu dicermati adalah kas perusahaan yang kini tinggal Rp2,97 miliar, anjlok dari Rp10,52 miliar di akhir tahun lalu setelah dipakai membayar cicilan utang bank, sehingga laporan kuartal berikutnya penting untuk melihat apakah arus kas operasi yang mulai positif ini cukup menambal kas yang sudah menipis tersebut.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)"
+ },
+ {
   "slug": "kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo",
   "category": "UMKM",
   "title": "KPPU Soroti [Konsentrasi] Pasokan di Program MBG Sidoarjo",
@@ -57,6 +189,120 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan daftar target dan proyek energi bersih yang ingin dipercepat Indonesia: pembangkit surya 100 Gigawatt dikejar dalam tiga tahun, campuran biodiesel sawit dinaikkan jadi B50, dan bensin campuran etanol dari tebu atau singkong ditargetkan mulai 2027 lalu diperbesar pada 2028. Proyek pengolahan sampah jadi listrik di Legok Nangka senilai sekitar US$400 juta ditargetkan selesai tahap pendanaannya, yaitu saat uang pembangunan resmi disetujui, pada akhir 2026, sementara saluran listrik Jawa-Sumatra dan tiga proyek panas bumi di Lampung, Bengkulu, dan Sumatera Utara masih pada tahap studi kelayakan, artinya belum pasti jalan. Yang akan terdampak lebih dulu adalah warga sekitar lokasi proyek panas bumi dan tempat pengolahan sampah itu, petani sawit serta tebu sebagai pemasok bahan baku biodiesel dan bioetanol, dan nantinya pengendara yang memakai bahan bakar campuran baru. Pola yang terlihat adalah Indonesia memakai forum kerja sama regional seperti AZEC untuk mencari pendanaan dan mitra asing, terutama Jepang, bagi proyek-proyek yang sebagian masih berupa target dan studi. Penanda paling konkret untuk menilai apakah rencana ini benar berjalan adalah apakah financial close proyek Legok Nangka tercapai sesuai jadwal akhir 2026.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",
+  "category": "Aksi Korporasi",
+  "title": "LCGP: Asuransi Jiwa IFG Jual Seluruh Saham, Suara ke 0% [Delisting]",
+  "deck": "PT Asuransi Jiwa IFG melepas seluruh 491,8 juta saham LCGP, setara 8,74% hak suara, menyusul delisting saham dari bursa efektif 10 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T14:08:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0349-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LCGP",
+  "tags": [
+   "LCGP",
+   "delisting",
+   "kepemilikan saham",
+   "Asuransi Jiwa IFG"
+  ],
+  "body": [
+   "PT Asuransi Jiwa IFG melaporkan kepada Otoritas Jasa Keuangan bahwa pada 10 November 2026 pihaknya melepas seluruh 491.819.015 lembar saham PT Eureka Prima Jakarta Tbk (LCGP) yang sebelumnya dikuasainya, setara 8,74% hak suara perusahaan tersebut. Setelah transaksi itu, kepemilikan dan hak suara Asuransi Jiwa IFG di LCGP menjadi nihil, turun dari 8,74% menjadi 0%.",
+   "Dalam laporan bernomor LK/17112026/0007/1 yang disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan saham perusahaan terbuka, jenis transaksi dicatat sebagai repurchase agreement atau perjanjian jual saham dengan kesepakatan dibeli kembali. Alasan pelepasan yang dicantumkan adalah adanya pengumuman delisting saham LCGP dari Bursa Efek Indonesia, yang berlaku efektif sejak 10 November 2026. Dokumen tidak mencantumkan harga dalam transaksi tersebut.",
+   "Laporan menyebut Asuransi Jiwa IFG bukan anggota direksi atau dewan komisaris LCGP, melainkan pemegang saham langsung yang sebelumnya menguasai saham dalam jumlah signifikan, sebelum akhirnya keluar sepenuhnya dari struktur kepemilikan perusahaan itu."
+  ],
+  "fotoAdegan": "Empty glass-walled stock exchange trading floor viewed through tall windows, dim evening light, no people present",
+  "takeaway": "Laporan ini negatif bagi pemegang saham publik LCGP, karena bukan transaksi rutin melainkan buntut dari delisting saham perusahaan ini dari Bursa Efek Indonesia yang sudah berlaku efektif sejak 10 November 2026, artinya saham LCGP tidak lagi bisa diperjualbelikan di pasar reguler bursa. Yang tersentuh di sini adalah hak suara, yakni porsi kekuatan pemegang saham dalam rapat perusahaan, yang pada kasus Asuransi Jiwa IFG turun dari 8,74% menjadi nol karena seluruh sahamnya dilepas lewat repurchase agreement, semacam perjanjian jual saham yang disertai kesepakatan dibeli kembali oleh pihak lain pada harga dan waktu tertentu. Pelaku pasar memperhatikan pergerakan hak suara pemegang saham besar seperti ini karena menunjukkan siapa yang masih punya kepentingan di perusahaan setelah delisting. Yang perlu dipantau selanjutnya adalah apakah masih ada mekanisme bagi pemegang saham publik lain yang tersisa untuk menjual kepemilikannya, mengingat dokumen ini sendiri tidak menyebut adanya penawaran pembelian kembali dari pihak pengendali setelah delisting berlaku efektif per 10 November 2026.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-10",
+    "acara": "Delisting saham LCGP dari Bursa Efek Indonesia berlaku efektif"
+   }
+  ]
+ },
+ {
+  "slug": "ppro-asuransi-jiwa-ifg-jual-39-3-juta-saham-jadi-7-93",
+  "category": "Aksi Korporasi",
+  "title": "PPRO: Asuransi Jiwa IFG Jual 679,86 Juta Saham, Hak Suara 8,44%",
+  "deck": "PT Asuransi Jiwa IFG menjual 679.861.500 saham PPRO senilai sekitar Rp17 miliar pada 25 Februari 2026, hak suaranya turun dari 9,54% jadi 8,44%, mendahului transaksi April yang sudah diberitakan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T14:00:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-3207-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "Asuransi Jiwa IFG",
+   "Laporan Kepemilikan Saham",
+   "Hak Suara"
+  ],
+  "body": [
+   "PT Asuransi Jiwa IFG menjual 679.861.500 saham PT PP Properti Tbk (PPRO) pada 25 Februari 2026 dengan harga Rp25 per saham, senilai sekitar Rp17 miliar. Transaksi yang baru dilaporkan ke Otoritas Jasa Keuangan pada 17 November 2026 ini mengurangi kepemilikan IFG di PPRO dari 5.883.939.907 lembar saham menjadi 5.204.078.407 lembar, setara 11,55 persen dari saham yang sebelumnya dipegang lembaga itu. Hak suaranya di PPRO turun dari 9,54 persen menjadi 8,44 persen akibat transaksi ini.",
+   "Transaksi Februari ini ternyata terjadi lebih dulu dari penjualan 39.285.500 saham PPRO oleh IFG pada 29 April 2026 yang sudah diberitakan sebelumnya. Dalam laporan April itu, kepemilikan IFG tercatat turun dari 4.932.761.807 lembar menjadi 4.893.476.307 lembar, dengan hak suara bergeser dari 8,00 persen menjadi 7,93 persen, angka yang hingga kini masih menjadi posisi terakhir IFG di PPRO yang diketahui publik.",
+   "Seperti laporan sebelumnya, penjualan pada Februari ini juga dilakukan lewat mekanisme repurchase agreement, yakni jual beli saham dengan janji pembelian kembali, dan saham yang dijual diklasifikasikan sebagai saham dengan hak suara multiple. IFG menyatakan tujuan penjualan ini untuk menyesuaikan kepemilikan dan persentase hak suaranya dengan Pasal 2 Ayat (2) Peraturan OJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan Saham Perusahaan Terbuka.",
+   "Dalam formulir laporan, PT Asuransi Jiwa IFG tercatat bukan anggota direksi maupun dewan komisaris PPRO, melainkan pemegang saham berstatus warga negara Indonesia yang memegang saham tersebut secara langsung."
+  ],
+  "fotoAdegan": "Workers inspecting rebar and concrete columns on a half-built apartment tower, afternoon light, hard hats visible",
+  "takeaway": "Laporan ini netral bagi PPRO, karena fokusnya administratif, yakni kepatuhan IFG terhadap aturan OJK soal saham berhak suara multiple, bukan sinyal perubahan pandangan terhadap bisnis properti PPRO, meski volume kali ini jauh lebih besar dari laporan sebelumnya. Yang tersentuh adalah struktur kepemilikan dan hak suara, yakni porsi suara pemegang saham dalam rapat umum pemegang saham, bukan pos kinerja keuangan seperti laba atau arus kas PPRO, dan penjualannya memakai skema repurchase agreement yang pada dasarnya memberi opsi saham itu dibeli kembali oleh IFG di kemudian hari. Yang perlu dipantau adalah apakah IFG masih akan melaporkan penjualan susulan, sebab dalam rentang Februari sampai April 2026 saja hak suaranya sudah turun beruntun dari 9,54 persen menjadi 7,93 persen, dan dokumen ini tidak menyebut rencana atau tenggat tambahan setelah 29 April 2026.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T13:56:59",
+    "ringkas": "Dokumen baru mengungkap penjualan 679.861.500 saham PPRO oleh IFG pada 25 Februari 2026, lebih besar dan lebih awal dari penjualan April yang sudah diberitakan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-7130-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-17T13:56:59"
+ },
+ {
+  "slug": "public-expose-gtbo-18-november-rkab-disetujui-kuota-817-900-ton",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose GTBO 18 November: RKAB [Disetujui], Kuota 817.900 Ton",
+  "deck": "GTBO menggelar Public Expose Tahunan 18 November 2026, mengungkap RKAB 2026 disetujui dengan kuota produksi maksimal 817.900 ton setelah setahun tanpa izin produksi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T13:56:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b912035ab7_3387f78b00.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GTBO",
+  "tags": [
+   "GTBO",
+   "Public Expose",
+   "RKAB",
+   "Batu Bara"
+  ],
+  "body": [
+   "PT Garda Tujuh Buana Tbk (GTBO) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 17 November 2026, menjelang acara publik yang digelar Rabu, 18 November 2026, di Ballroom Krakatau, Permata Kuningan Building Lantai 2, Jakarta. Materi itu mengungkapkan bahwa sepanjang 2025 kinerja perusahaan buruk karena Rencana Kerja dan Anggaran Biaya (RKAB), yakni izin tahunan dari pemerintah yang mengatur berapa banyak batu bara boleh ditambang, tidak diterbitkan sehingga GTBO sama sekali tidak bisa memproduksi dan menjual batu bara. Kondisi pasar batu bara global sendiri disebut stabil, baik dari sisi permintaan maupun harga.",
+   "Pembaruan untuk 2026 menunjukkan perbaikan. Kementerian Energi dan Sumber Daya Mineral melalui Direktorat Jenderal Mineral dan Batubara menyetujui RKAB GTBO lewat surat bertanggal 25 September 2026, dengan kuota produksi batu bara maksimal 817.900 ton untuk tahun ini. Perusahaan memperkirakan realisasi produksi sampai akhir Desember 2026 berada di kisaran 400.000 sampai 500.000 ton, dan sudah memiliki tiga kontrak penjualan batu bara, terdiri dari dua kontrak jangka panjang dan satu kontrak jangka pendek. Pengiriman batu bara pertama di tahun 2026 tercatat terjadi pada 17 November 2026, bertepatan dengan tanggal penyampaian materi ini ke bursa.",
+   "Materi tersebut juga mencantumkan data pasar saham GTBO. Jumlah saham yang tercatat di Bursa Efek Indonesia mencapai 2,5 miliar lembar, dengan kapitalisasi pasar per 31 Desember 2025 sebesar Rp595 miliar. Bagian laporan keuangan dan susunan pemegang saham dalam materi presentasi hanya memuat judul subbab tanpa tabel angka yang ikut terbaca dalam dokumen yang tersedia."
+  ],
+  "fotoAdegan": "Coal trucks loading mineral ore at an open-pit mine, dusty haul road, overcast tropical sky",
+  "takeaway": "Laporan ini condong positif karena menunjukkan pemulihan operasional GTBO setelah sepanjang 2025 perusahaan sama sekali tidak bisa berproduksi akibat RKAB belum terbit, dan kini pengiriman batu bara pertama di 2026 sudah terjadi. Yang tersentuh adalah arus kas perusahaan, yakni uang yang benar-benar masuk dari penjualan, karena setahun tanpa produksi berarti tidak ada pendapatan dari batu bara sama sekali sementara biaya operasional tetap berjalan. Meski begitu, kuota produksi 2026 dibatasi maksimal 817.900 ton dan sisa tahun ini hanya diperkirakan menyumbang 400.000 sampai 500.000 ton, jadi pemulihannya baru dimulai dan belum mengembalikan kapasitas penuh perusahaan. Yang perlu dipantau berikutnya adalah realisasi produksi sampai akhir Desember 2026 dibandingkan estimasi tersebut, serta apakah dua kontrak jangka panjang dan satu kontrak jangka pendek GTBO benar-benar terpenuhi.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-09-25",
+    "acara": "Persetujuan RKAB 2026 oleh Kementerian ESDM"
+   },
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Pengiriman batu bara pertama GTBO di 2026"
+   },
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Public Expose Tahunan GTBO"
+   }
+  ]
  },
  {
   "slug": "infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii",
@@ -12173,8 +12419,8 @@ var ARTICLES = [
  {
   "slug": "ptro-laba-bersih-melonjak-613-kantongi-kontrak-rp9-3-triliun",
   "category": "Aksi Korporasi",
-  "title": "PTRO: Laba Bersih [Melonjak] 613%, Kantongi Kontrak Rp9,3 Triliun",
-  "deck": "Materi public expose Petrosea menunjukkan pendapatan 1H2026 naik 60 persen dan laba bersih melonjak ke US$9 juta, didukung kontrak tambang dan EPC baru senilai triliunan rupiah.",
+  "title": "Public Expose PTRO: Backlog [Tambang] US$5,36 Miliar, Naik 24%",
+  "deck": "Hasil public expose Petrosea 12 November: backlog tambang US$5,36 miliar (naik 24%), akuisisi sumbang 9% EBITDA, risiko regulasi dan kebakaran hutan disebut belum material.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T15:54:25",
@@ -12184,17 +12430,28 @@ var ARTICLES = [
   "tags": [
    "PTRO",
    "Petrosea",
-   "kontrak tambang",
-   "kinerja keuangan"
+   "Public Expose",
+   "Backlog Tambang"
   ],
   "body": [
-   "PT Petrosea Tbk menyampaikan materi public expose tahunan bertanggal 12 November 2026 kepada OJK dan BEI. Dalam materi itu, perseroan mencatatkan pendapatan semester I 2026 sebesar US$544 juta, naik 60 persen dibandingkan US$341 juta pada semester I 2025. Laba bersih melonjak dari US$1 juta menjadi US$9 juta, naik 613 persen secara tahunan. Namun laba kotor justru turun tipis dari US$48 juta menjadi US$47 juta, dengan margin laba kotor merosot dari 14 persen menjadi 9 persen. Perseroan menyebut penurunan margin ini disebabkan penundaan beberapa proyek besar akibat perkembangan RKAB, yakni rencana kerja dan anggaran tambang yang perlu disetujui pemerintah setiap tahun, dan diperkirakan membaik setelah proyek-proyek itu berjalan kembali.",
-   "Materi paparan juga merinci sejumlah kontrak baru dan amandemen kontrak sepanjang 2026. Petrosea mendapat kontrak jasa pertambangan senilai Rp9,3 triliun dengan durasi selama umur tambang dari PT Cakrawala Bara Persada dan PT Pesona Bara Cakrawala. Anak usahanya juga meneken kontrak EPC dengan INPEX Masela Ltd senilai Rp989 miliar untuk proyek OLNG Perimeter Construction Works yang berjalan hingga Maret 2029, ditandatangani 2 Maret 2026. Selain itu ada amandemen kontrak EPC dengan PT Freeport Indonesia senilai Rp2,4 triliun untuk proyek Levee Stockpile Project Extension hingga Juni 2030, serta amandemen kontrak jasa pertambangan dengan PT Multi Tambangjaya Utama senilai Rp3,1 triliun hingga Desember 2032. Total backlog proyek perseroan per Juni 2026 tercatat naik 24 persen secara tahunan.",
-   "Dari sisi keuangan, Petrosea mencatat kas US$80 juta per Juni 2026 dengan rasio utang terhadap modal (debt to equity) 2,6 kali, rasio lancar 1,5 kali, dan rasio kemampuan membayar utang (DSCR) 194 persen. Kapitalisasi pasar perseroan tercatat Rp37,6 triliun per Juni 2026 dengan peringkat kredit idA+ berprospek stabil untuk perseroan, Obligasi Berkelanjutan I, dan Sukuk Ijarah Berkelanjutan I. Jumlah karyawan naik menjadi 11.058 orang per Juni 2026 dari 9.369 orang setahun sebelumnya. Materi itu juga menyebut proyek emas dan tembaga Tolukuma di Papua Nugini, tempat Petrosea memegang saham minoritas di pemiliknya, Tolu Minerals Limited yang tercatat di Bursa Efek Australia, dengan target produksi emas perdana pada kuartal pertama 2027."
+   "PT Petrosea Tbk menyampaikan laporan hasil public expose tahunan kepada OJK dan BEI pada 17 November 2026, merinci tanya jawab dari acara yang digelar Kamis, 12 November 2026 dan dihadiri 38 peserta dari luar manajemen. Dalam sesi itu, Direktur Petrosea Ruddy Santoso mengungkapkan nilai kontrak yang belum selesai dikerjakan atau backlog per semester I 2026 mencapai US$5,36 miliar, naik 24 persen dibandingkan periode yang sama tahun sebelumnya. Kenaikan ini terutama didorong oleh segmen jasa pertambangan (Contract Mining) yang backlog-nya naik menjadi US$4,91 miliar dari US$3,79 miliar, ditambah kontribusi dari segmen EPCI dan jasa lain.",
+   "Manajemen juga menjawab sejumlah pertanyaan investor dan analis. Realisasi belanja modal atau capex semester I 2026 tercatat sekitar US$30 juta, yang disebut manajemen sudah menurun ke level normal dibandingkan tahun sebelumnya setelah perusahaan menerapkan pendekatan investasi yang lebih selektif. Tiga akuisisi yang dirampungkan pada 2025, yaitu Hafar Group, HBS Group, dan Scan-Bilt, tercatat menyumbang sekitar 9 persen dari total laba operasional sebelum bunga, pajak, dan penyusutan (EBITDA) konsolidasian Petrosea pada semester I 2026. Terkait investasi di Tolu Minerals Limited, perusahaan tambang emas dan tembaga di Papua Nugini yang tercatat di Bursa Efek Australia, manajemen menegaskan Petrosea memegang 5 persen saham di perusahaan itu dan membuka peluang perolehan kontrak baru lewat anak usahanya HBS (PNG) Limited, termasuk potensi kontrak pada 2027.",
+   "Soal risiko operasional, manajemen menyebut aturan baru Kementerian ESDM tentang penggunaan anak usaha atau afiliasi dalam jasa pertambangan tidak berdampak material karena sebagian besar pelanggan Petrosea berasal dari luar grup. Kebakaran hutan di Kalimantan dan kondisi air surut di beberapa wilayah operasi juga disebut belum berdampak material terhadap kinerja operasional, dengan jarak pandang di area kerja masih dalam batas aman sehingga produksi tetap berjalan.",
+   "Rincian keuangan yang sebelumnya diungkap dalam materi public expose tetap berlaku: pendapatan semester I 2026 sebesar US$544 juta, naik 60 persen dari US$341 juta pada semester I 2025, dan laba bersih melonjak 613 persen menjadi US$9 juta. Margin laba kotor justru turun dari 14 persen menjadi 9 persen akibat sejumlah proyek besar yang tertunda karena proses persetujuan rencana kerja dan anggaran tambang tahunan atau RKAB. Petrosea juga mengamankan kontrak jasa pertambangan senilai Rp9,3 triliun dari PT Cakrawala Bara Persada dan PT Pesona Bara Cakrawala, kontrak EPC dengan INPEX Masela senilai Rp989 miliar, serta amandemen kontrak dengan Freeport Indonesia senilai Rp2,4 triliun dan dengan Multi Tambangjaya Utama senilai Rp3,1 triliun."
   ],
   "fotoAdegan": "Heavy mining excavator loading overburden onto a large haul truck at an open-pit coal mine, dusty golden morning light",
-  "takeaway": "Paparan publik ini condong positif bagi Petrosea, karena pendapatan dan laba bersih tumbuh tajam secara tahunan dan perseroan mengamankan rangkaian kontrak serta amandemen kontrak baru senilai total belasan triliun rupiah, meski ada titik lemah yang perlu dicermati. Titik lemah itu adalah margin laba kotor yang turun dari 14 persen jadi 9 persen, yang berarti porsi pendapatan yang berubah jadi laba sebelum biaya lain menyusut karena ongkos proyek tidak ikut turun saat sejumlah proyek besar molor akibat urusan izin RKAB. Rasio utang terhadap modal 2,6 kali menunjukkan porsi pendanaan dari utang cukup besar dibanding modal sendiri milik perseroan, sehingga pasar mencermati kemampuan bayar bunga dan cicilannya, yang tercermin dari DSCR 194 persen alias arus kas operasional hampir dua kali lipat kewajiban utang yang jatuh tempo. Yang perlu dipantau berikutnya adalah target produksi emas perdana di tambang Tolukuma pada kuartal pertama 2027, serta apakah margin laba kotor Petrosea kembali naik di laporan keuangan berikutnya setelah proyek-proyek yang tertunda akibat RKAB berjalan normal lagi.",
-  "sentimen": "positif"
+  "takeaway": "Laporan hasil public expose ini condong positif bagi Petrosea, karena manajemen memberi angka konkret yang memperkuat cerita pertumbuhan sebelumnya, yakni backlog proyek membengkak ke US$5,36 miliar, dan sekaligus menepis dua risiko yang ditanyakan investor, yaitu aturan kontraktor afiliasi dan kebakaran hutan, dengan menyebut keduanya belum berdampak material. Backlog penting dicermati karena mencerminkan pendapatan yang sudah terkunci untuk tahun-tahun mendatang, sementara kontribusi 9 persen EBITDA dari tiga akuisisi menunjukkan seberapa jauh pembelian perusahaan itu sudah mulai menghasilkan laba operasional, bukan sekadar menambah ukuran perusahaan. Realisasi capex yang turun ke sekitar US$30 juta juga sinyal bahwa Petrosea lebih hati-hati membelanjakan modal dibanding tahun sebelumnya. Yang perlu dipantau berikutnya adalah apakah margin laba kotor pulih di laporan keuangan semester berikutnya setelah proyek yang tertunda akibat RKAB berjalan normal, serta realisasi kontrak baru dari sinergi dengan Tolu Minerals yang disebut manajemen berpotensi masuk pada 2027.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T13:18:50",
+    "ringkas": "Hasil public expose PTRO: backlog tambang US$5,36 miliar (naik 24%), akuisisi sumbang 9% EBITDA, risiko regulasi dan kebakaran hutan belum material.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/91d10a091f_cfdb5fef64.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-17T13:18:50",
+  "peristiwa": "public-expose"
  },
  {
   "slug": "bahlil-dorong-umkm-dan-pengusaha-daerah-ikut-hilirisasi",
@@ -24572,8 +24829,8 @@ var ARTICLES = [
  {
   "slug": "part-gelar-rupslb-9-desember-agenda-belum-diumumkan",
   "category": "Aksi Korporasi",
-  "title": "PART Gelar [RUPSLB] 9 Desember, Agenda Belum Diumumkan",
-  "deck": "Direksi PT Cipta Perdana Lancar Tbk menjadwalkan RUPSLB pada 9 Desember 2026. Undangan resmi berisi agenda rapat baru akan terbit 17 November 2026.",
+  "title": "RUPSLB PART 9 Desember: [Right Issue] 1 Miliar Saham Baru",
+  "deck": "Surat pemanggilan resmi PART mengungkap agenda RUPSLB 9 Desember 2026: rencana right issue sebanyak-banyaknya 1 miliar saham baru dan peningkatan modal dasar menjadi 40,16 miliar lembar saham.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T14:05:58",
@@ -24583,17 +24840,45 @@ var ARTICLES = [
   "tags": [
    "PART",
    "RUPSLB",
-   "Cipta Perdana Lancar",
-   "jadwal rapat pemegang saham"
+   "Right Issue",
+   "HMETD"
   ],
   "body": [
-   "Direksi PT Cipta Perdana Lancar Tbk (PART) mengumumkan bahwa perseroan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 Desember 2026, pukul 10:00 WIB. Lokasi penyelenggaraan masih akan ditentukan kemudian. Pengumuman ini merujuk pada surat sebelumnya bernomor S-171/PART-DIRUT/10-2026 dan ditandatangani oleh Direktur Tjoeng Rino Saputra pada 2 November 2026.",
-   "Perseroan menetapkan Senin, 16 November 2026 sebagai tanggal pencatatan Daftar Pemegang Saham (DPS) yang berhak hadir dalam rapat. Surat pemanggilan resmi yang memuat agenda lengkap RUPSLB baru akan dipublikasikan sehari setelahnya, yaitu Selasa, 17 November 2026, melalui situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs resmi PART dalam Bahasa Indonesia dan Inggris. Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili minimal 1/20 atau 5 persen dari total saham dengan hak suara, dan mengajukan usulan paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, dengan syarat usulan diajukan dengan itikad baik, memperhatikan kepentingan perseroan, memerlukan keputusan rapat, dilengkapi alasan dan bahan pendukung, serta tidak bertentangan dengan peraturan dan anggaran dasar perseroan.",
-   "Untuk pemberian kuasa dan pemungutan suara, perseroan menyediakan fasilitas elektronik eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang memberi atau mengubah kuasa, termasuk pilihan suara secara elektronik, harus melakukannya paling lambat satu hari kerja sebelum rapat, yaitu Selasa, 8 Desember 2026. Dokumen pemberitahuan ini belum mengungkap agenda atau keputusan yang akan dibawa ke RUPSLB."
+   "PT Cipta Perdana Lancar Tbk (PART) akhirnya mengumumkan agenda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 9 Desember 2026, lewat surat pemanggilan resmi bernomor S-184/PART-DIR/11-2026 tertanggal 17 November 2026. Ada dua mata acara. Pertama, peningkatan modal dasar perseroan sebanyak-banyaknya 40.160.000.000 lembar saham dengan nilai nominal Rp25 per saham. Kedua, peningkatan modal disetor sebanyak-banyaknya 1.000.000.000 lembar saham baru yang diambil dari saham portepel, juga bernilai nominal Rp25 per saham, melalui penerbitan saham dalam Penawaran Umum Terbatas dengan memberikan hak memesan efek terlebih dahulu (HMETD) kepada pemegang saham perseroan.",
+   "Perseroan menyebut rencana ini sebagai Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I atau PMHMETD I. Jumlah saham yang akhirnya diterbitkan, rasio HMETD, harga pelaksanaan, dan ketentuan final lainnya baru akan ditetapkan kemudian, menunggu hasil proses pendaftaran ke Otoritas Jasa Keuangan (OJK) dan ketentuan peraturan yang berlaku. Sebagai tindak lanjut, perseroan juga akan mengubah Pasal 4 Anggaran Dasar terkait peningkatan modal, serta memberi kuasa kepada Direksi dan/atau Dewan Komisaris untuk menjalankan segala langkah yang diperlukan dalam pelaksanaan PMHMETD I ini. Perubahan anggaran dasar itu sendiri baru berlaku kalau peningkatan modal benar-benar dijalankan.",
+   "Jadwal dan mekanisme teknis RUPSLB yang sudah diumumkan sebelumnya tetap berlaku. Rapat digelar di Cyber 2 Tower, Lantai 17, Jalan H. R. Rasuna Said, Jakarta Selatan, pukul 10.00 WIB, dengan Senin, 16 November 2026, sebagai tanggal pencatatan pemegang saham yang berhak hadir. Pemegang saham yang ingin memberi atau mengubah kuasa, termasuk pilihan suara lewat fasilitas elektronik eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, harus melakukannya paling lambat Selasa, 8 Desember 2026, satu hari kerja sebelum rapat."
   ],
   "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a long table, soft morning light through large windows",
-  "takeaway": "Penilaian saya netral untuk laporan ini, karena isinya baru sebatas jadwal dan mekanisme teknis RUPSLB, belum mengungkap apa yang akan diputuskan dalam rapat tersebut. RUPSLB biasanya dipakai emiten untuk memutuskan hal-hal yang bisa mengubah struktur modal, seperti penambahan jumlah saham beredar, pergantian direksi atau komisaris, atau aksi korporasi lain yang berpengaruh ke ekuitas pemegang saham, sehingga pasar baru bisa menakar dampaknya begitu agenda resmi keluar. Yang perlu dipantau pemegang saham PART adalah terbitnya surat pemanggilan resmi berisi agenda lengkap pada 17 November 2026, tenggat pengajuan usul mata acara sekitar 10 November 2026, serta pelaksanaan RUPSLB itu sendiri pada 9 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Penilaian saya netral untuk pemanggilan ini, karena yang terbit baru rencana dan belum ada kepastian dana yang akan dipakai untuk apa, sementara rasio dan harga pelaksanaan haknya pun masih belum ditetapkan. Yang tersentuh langsung adalah jumlah saham beredar dan laba per saham, karena penerbitan saham baru lewat right issue bisa menambah saham beredar sebanyak-banyaknya 1 miliar lembar, sehingga laba per saham bisa terdilusi bagi pemegang saham yang tidak ikut menebus haknya, sementara modal disetor perseroan akan bertambah kalau haknya banyak dieksekusi. Mekanisme ini disebut hak memesan efek terlebih dahulu atau HMETD, yaitu kesempatan yang diberikan lebih dulu ke pemegang saham lama untuk membeli saham baru sesuai porsi kepemilikannya, supaya mereka bisa mempertahankan persentase kepemilikan kalau mau. Yang perlu dipantau pemegang saham PART berikutnya adalah keputusan persetujuan dalam RUPSLB pada 9 Desember 2026, serta rasio dan harga pelaksanaan HMETD yang baru akan ditetapkan setelah proses pendaftaran ke OJK selesai.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T14:10:28",
+    "ringkas": "Agenda RUPSLB PART terbit: rencana right issue hingga 1 miliar saham baru dan modal dasar naik jadi 40,16 miliar lembar saham.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3df151560e_8d80836d43.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-17T14:10:28",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Pemanggilan resmi RUPSLB dengan agenda right issue terbit"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Batas akhir kuasa dan suara elektronik via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "RUPSLB membahas right issue dan modal dasar"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "aces-laba-kuartal-iii-naik-25-7-skor-tata-kelola-melonjak",
@@ -40809,8 +41094,8 @@ var ARTICLES = [
  {
   "slug": "totl-gelar-rupslb-16-november-bahas-perubahan-direksi",
   "category": "Aksi Korporasi",
-  "title": "TOTL Gelar RUPSLB 16 November, Bahas Perubahan [Direksi]",
-  "deck": "Total Bangun Persada memanggil RUPSLB pada 16 November 2026 untuk membahas perubahan susunan Direksi dan Dewan Komisaris, dengan pencatatan pemegang saham per 22 Oktober 2026.",
+  "title": "RUPSLB TOTL 16 November: [Direksi] Saleh Presiden Direktur Baru",
+  "deck": "RUPSLB TOTL menyetujui pergantian direksi dan komisaris: Ir. Saleh naik jadi Presiden Direktur, menggantikan Janti Komadjaja yang kini menjabat Komisaris, dengan 94,26% suara setuju.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "23 Oktober 2026",
   "isoDate": "2026-10-23T09:33:31",
@@ -40821,16 +41106,33 @@ var ARTICLES = [
    "TOTL",
    "RUPSLB",
    "Direksi",
-   "Dewan Komisaris"
+   "Komisaris"
   ],
   "body": [
-   "Total Bangun Persada Tbk (TOTL) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 16 November 2026 pukul 09.30 WIB di kantor pusat perusahaan, Jalan Letjen S. Parman No. 106, Jakarta, sekaligus secara elektronik melalui sistem eASY.KSEI. Agenda tunggal rapat adalah perubahan susunan Direksi dan Dewan Komisaris Perseroan, sejalan dengan Peraturan OJK No. 33/POJK.04/2014 yang mewajibkan setiap perubahan jajaran direksi dan komisaris emiten mendapat persetujuan RUPS.",
-   "Pemegang saham yang berhak hadir dan memberi suara adalah yang tercatat dalam Daftar Pemegang Saham per Kamis, 22 Oktober 2026 pukul 16.00 WIB untuk saham berbentuk warkat, atau yang tercatat di Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan tanggal yang sama untuk saham tanpa warkat. Kehadiran fisik di lokasi rapat dibatasi hanya untuk profesi penunjang pasar modal yang ditunjuk, sedikitnya satu anggota Direksi dan/atau satu anggota Dewan Komisaris, serta pimpinan rapat. Pemegang saham lain diarahkan mengikuti rapat lewat aplikasi eASY.KSEI atau memberi kuasa elektronik (e-proxy).",
-   "Perseroan menetapkan batas waktu deklarasi kehadiran elektronik dan pemberian suara pada 13 November 2026 pukul 12.00 WIB. Bagi pemegang saham dengan saham warkat yang ingin memberi kuasa konvensional kepada pihak independen, yaitu staf PT Adimitra Jasa Korpora selaku biro administrasi efek yang ditunjuk perusahaan, surat kuasa beserta identitas pemberi kuasa harus disampaikan paling lambat 13 November 2026 pukul 16.00 WIB melalui email ke corsec@totalbp.com atau ke kantor Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Total Bangun Persada Tbk (TOTL) yang digelar Senin, 16 November 2026, menyetujui perubahan susunan Direksi dan Dewan Komisaris Perseroan dengan 94,26 persen suara setuju, 5,74 persen menolak, dan sisanya abstain. Rapat dihadiri pemegang saham yang mewakili 2.293.296.420 saham atau 67,25 persen dari total 3.410.000.000 saham Perseroan.",
+   "Keputusan utama rapat adalah memberhentikan dengan hormat Janti Komadjaja dari jabatan Presiden Direktur, lalu mengangkatnya sebagai Komisaris. Posisi Presiden Direktur yang kosong diisi oleh Saleh, yang sebelumnya menjabat Direktur. Rapat juga mengangkat Yohanes Teddy Andrianto sebagai Direktur baru dan Akam Wiranjaya sebagai Komisaris Independen baru. Seluruh perubahan berlaku sejak penutupan rapat pada 16 November 2026, untuk masa jabatan sampai penutupan RUPST Perseroan pada 2030.",
+   "Susunan Direksi Perseroan yang baru: Presiden Direktur Saleh; Direktur Moeljati Soetrisno; Direktur Lio Sudarto; Direktur Rasyid Daulay; dan Direktur Yohanes Teddy Andrianto. Susunan Dewan Komisaris yang baru: Presiden Komisaris dan Komisaris Independen Rusdy Daryono; Komisaris Pinarto Sutanto; Komisaris Liliana Komajaya; Komisaris Wibowo; Komisaris Rudi S. Komajaya; Komisaris Janti Komadjaja; Komisaris Independen Joseph Vittorio Pesik; dan Komisaris Independen Akam Wiranjaya.",
+   "RUPSLB ini merupakan kelanjutan dari pemanggilan rapat yang diumumkan Perseroan pada 23 Oktober 2026, dengan agenda tunggal perubahan susunan Direksi dan Dewan Komisaris sesuai Peraturan OJK No. 33/POJK.04/2014. Rapat digelar di kantor pusat Perseroan di Jalan Letjen S. Parman No. 106, Jakarta, sekaligus secara elektronik melalui sistem eASY.KSEI, tanpa ada pemegang saham yang mengajukan pertanyaan selama sesi tanya jawab."
   ],
   "fotoAdegan": "Construction workers in hard hats checking rebar on a highrise building site in Jakarta, cranes visible, late afternoon light",
-  "takeaway": "Pemanggilan ini condong netral bagi TOTL, sebab dokumen baru mengumumkan jadwal dan mekanisme rapat, belum menyebut nama-nama yang diusulkan masuk atau keluar dari jajaran Direksi dan Dewan Komisaris, sehingga pasar belum punya dasar untuk menilai dampaknya. Perubahan susunan direksi dan komisaris biasanya disorot karena memengaruhi arah strategi dan kredibilitas pengambilan keputusan perusahaan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, jadi dampaknya lebih ke tata kelola ketimbang ke angka di laporan keuangan. Yang perlu dipantau adalah pelaksanaan RUPSLB pada 16 November 2026 dan keputusan resmi soal siapa yang akan mengisi kursi Direksi dan Dewan Komisaris yang baru. Pemegang saham yang ingin hadir secara elektronik juga punya tenggat mendeklarasikan kehadiran dan memberi suara paling lambat 13 November 2026 pukul 12.00 WIB, sebelum rapat berlangsung.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi TOTL, karena pergantian direksi dan komisaris berjalan mulus dengan dukungan 94,26 persen suara, dan pejabat lama yang digeser dari kursi Presiden Direktur, yaitu Janti Komadjaja, tetap dipertahankan sebagai Komisaris, bukan disingkirkan dari perusahaan. Perubahan semacam ini menyentuh tata kelola, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga pasar biasanya menilainya dari sisi kesinambungan strategi dan kredibilitas pengambilan keputusan di bawah kepemimpinan baru, bukan dari angka di laporan keuangan. Yang perlu dipantau berikutnya adalah bagaimana jajaran direksi baru ini menjalankan strategi perusahaan, mengingat masa jabatan mereka berlaku sampai penutupan RUPST Perseroan pada 2030.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T14:29:14",
+    "ringkas": "RUPSLB TOTL menyetujui penggantian Presiden Direktur dari Janti Komadjaja ke Saleh, disetujui 94,26 persen suara.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b31b86cd01_048bc7aea3.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-17T14:29:14",
+  "jadwal": [
+   {
+    "tanggal": "2030-05-06",
+    "acara": "Akhir periode jabatan Direksi dan Dewan Komisaris baru"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "hero-jawab-bei-soal-anjloknya-saham-8-07-volatilitas",

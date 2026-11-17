@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
+  "category": "Aksi Korporasi",
+  "title": "IIKP: Asuransi Jiwa IFG [Tambah] 740,5 Juta Saham, Suara ke 9,49%",
+  "deck": "PT Asuransi Jiwa IFG menambah 740,49 juta saham IIKP pada 19 Desember 2025, menaikkan hak suaranya dari 7,29% menjadi 9,49%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IIKP",
+   "Asuransi Jiwa IFG",
+   "kepemilikan saham",
+   "Jiwasraya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8726-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "atla-komisaris-rudi-sutantra-jual-20-juta-saham-suara-jadi-38-88",
+  "category": "Aksi Korporasi",
+  "title": "ATLA: Komisaris Rudi Sutantra [Jual] 20 Juta Saham, Suara Jadi 38,88%",
+  "deck": "Komisaris ATLA Rudi R Sutantra melepas 20 juta saham lewat mekanisme repurchase agreement pada 16 November 2026, hak suara turun jadi 38,88%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATLA",
+   "kepemilikan saham",
+   "komisaris",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8540-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-rupslb-tgra-28-desember-2026-jadwal-dps-1-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPST & RUPSLB TGRA 28 Desember 2026: [Jadwal] DPS 1 Desember",
+  "deck": "TGRA menjadwalkan RUPST tahun buku 2025 dan RUPSLB pada Senin, 28 Desember 2026, dengan pemegang saham per 1 Desember 2026 yang berhak hadir dan memberi suara.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "RUPST",
+   "RUPSLB",
+   "Terregra Asia Energy"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc25a748ed_a98f279e92.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "shid-semester-i-2026-rugi-menyempit-ke-rp15-07-miliar",
+  "category": "Aksi Korporasi",
+  "title": "SHID Semester I 2026: [Rugi] Menyempit ke Rp15,07 Miliar",
+  "deck": "Rugi bersih Hotel Sahid Jaya turun hampir separuh dibanding semester I 2025, tapi kas perusahaan menyusut tajam setelah membayar cicilan utang bank.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SHID",
+   "Hotel Sahid Jaya",
+   "laporan keuangan",
+   "rugi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117144104-65791-0/FinancialStatement-2026-II-SHID.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo",
   "category": "UMKM",
   "title": "KPPU Soroti [Konsentrasi] Pasokan di Program MBG Sidoarjo",
@@ -37,6 +101,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7228/indonesia-dorong-penguatan-kerja-sama-transisi-energi-kawasan-melalui-azec-20-di-pertemuan-4th-azec-leaders-meeting",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",
+  "category": "Aksi Korporasi",
+  "title": "LCGP: Asuransi Jiwa IFG Jual Seluruh Saham, Suara ke 0% [Delisting]",
+  "deck": "PT Asuransi Jiwa IFG melepas seluruh 491,8 juta saham LCGP, setara 8,74% hak suara, menyusul delisting saham dari bursa efektif 10 November 2026.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LCGP",
+   "delisting",
+   "kepemilikan saham",
+   "Asuransi Jiwa IFG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0349-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-asuransi-jiwa-ifg-jual-39-3-juta-saham-jadi-7-93",
+  "category": "Aksi Korporasi",
+  "title": "PPRO: Asuransi Jiwa IFG Jual 679,86 Juta Saham, Hak Suara 8,44%",
+  "deck": "PT Asuransi Jiwa IFG menjual 679.861.500 saham PPRO senilai sekitar Rp17 miliar pada 25 Februari 2026, hak suaranya turun dari 9,54% jadi 8,44%, mendahului transaksi April yang sudah diberitakan.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "Asuransi Jiwa IFG",
+   "Laporan Kepemilikan Saham",
+   "Hak Suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-3207-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-gtbo-18-november-rkab-disetujui-kuota-817-900-ton",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose GTBO 18 November: RKAB [Disetujui], Kuota 817.900 Ton",
+  "deck": "GTBO menggelar Public Expose Tahunan 18 November 2026, mengungkap RKAB 2026 disetujui dengan kuota produksi maksimal 817.900 ton setelah setahun tanpa izin produksi.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GTBO",
+   "Public Expose",
+   "RKAB",
+   "Batu Bara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b912035ab7_3387f78b00.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii",
@@ -6408,121 +6520,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477410-kuota-pertalite-bakal-ditambah-menko-airlangga-anggaran-masih-ada"
- },
- {
-  "slug": "myor-laba-naik-31-utang-bank-turun-tajam-di-kuartal-iii-2026",
-  "category": "Aksi Korporasi",
-  "title": "MYOR: Laba Naik 31%, [Utang] Bank Turun Tajam di Kuartal III 2026",
-  "deck": "Laporan keuangan interim kuartal III 2026 menunjukkan laba bersih Mayora Indah naik 31 persen dan total utang turun 23 persen dibanding akhir 2025, didorong pelunasan pinjaman bank.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MYOR",
-   "Mayora Indah",
-   "Laporan Keuangan",
-   "Kuartal III 2026"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109181804-65776-0/FinancialStatement-2026-III-MYOR.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-perkuat-hak-suara-ke-42-16-via-repo",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah 100,2 Juta Saham, Hak Suara Jadi 45,05%",
-  "deck": "Direksi Samuel Sekuritas Indonesia menambah 100,2 juta saham NSSS lewat skema repo, mengangkat hak suaranya dari 44,63% menjadi 45,05% menjelang RUPSLB 1 Desember yang membahas pergantian komisaris.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "repo",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5536-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel",
-  "category": "UMKM",
-  "title": "UMKM Kerajinan Difabel PUKA Teken [LoI] Ekspansi ke Ritel",
-  "deck": "Bisnis kerajinan tangan PUKA yang memberdayakan 22 pekerja disabilitas memperluas pasar lewat kerja sama awal dengan APRINDO dan tampil di Trade Expo Indonesia 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/umkm-kerajinan-difabel-puka-teken-loi-ekspansi-ke-ritel.jpg",
-  "imageV": "mw94wq6j",
-  "tags": [
-   "UMKM",
-   "disabilitas",
-   "APRINDO",
-   "ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ruang-inklusif-disabilitas-produk-hobi-puka",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ekspor-lampu-tenaga-surya-ri-tumbuh-20-91-persen-ke-as",
-  "category": "Industri",
-  "title": "Ekspor Lampu Tenaga Surya RI [Tumbuh] 20,91 Persen ke AS",
-  "deck": "Kemendag mendukung ekspor produk penerangan tenaga surya PT Synergy Infra Hijau, saat ekspor lampu Indonesia naik 20,91 persen dalam sembilan bulan pertama 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/ekspor-lampu-tenaga-surya-ri-tumbuh-20-91-persen-ke-as.jpg",
-  "imageV": "mw94wtap",
-  "tags": [
-   "ekspor",
-   "energi surya",
-   "Kemendag",
-   "manufaktur"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dukung-perluasan-ekspor-produsen-manufaktur-teknologi-pemanfaatan-energi-surya-mendag-busan-kunjungi-pt-synergy-infra-hijau",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "rlco-direksi-tambah-11-56-juta-saham-via-top-up-repo",
-  "category": "Aksi Korporasi",
-  "title": "RLCO: Direksi Tambah 7,75 Juta Saham, Hak Suara Jadi 14,88%",
-  "deck": "Rangkaian transaksi repo oleh direksi RLCO, Samuel Sekuritas Indonesia, pada 12 November 2026 menambah kepemilikan bersih 7,75 juta saham, menaikkan hak suara dari 14,63% menjadi 14,88%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "Laporan Kepemilikan",
-   "Repo",
-   "Direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8276-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ultj-bagi-dividen-tunai-tambahan-rp100-per-saham",
-  "category": "Aksi Korporasi",
-  "title": "ULTJ Bagi [Dividen] Tunai Tambahan Rp100 per Saham",
-  "deck": "RUPSLB ULTJ menyetujui dividen tunai tambahan Rp100 per saham untuk tahun buku 2025, total Rp1,04 triliun, dibayarkan 9 Desember 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "dividen tunai",
-   "RUPSLB",
-   "Ultrajaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de48692ef4_3a956faf42.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asbi-terangkan-lonjakan-liabilitas-pinjam-ke-pemegang-saham",
-  "category": "Aksi Korporasi",
-  "title": "ASBI Terangkan [Lonjakan] Liabilitas, Pinjam ke Pemegang Saham",
-  "deck": "ASBI menjelaskan ke BEI bahwa total liabilitasnya melonjak lebih dari 20 persen, didorong pinjaman dari pemegang saham pengendali dan uang muka penjualan aset di Surabaya.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASBI",
-   "Asuransi Bintang",
-   "liabilitas",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109171332-65769-0/FinancialStatement-2026-III-ASBI.pdf",
-  "sourceLabel": "IDX"
  }
 ];

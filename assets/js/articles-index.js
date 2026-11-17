@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo",
+  "category": "UMKM",
+  "title": "KPPU Soroti [Konsentrasi] Pasokan di Program MBG Sidoarjo",
+  "deck": "KPPU memantau program MBG dan koperasi desa di Sidoarjo, menyoroti dominasi pasokan oleh mitra dapur dan masuknya Agrinas ke koperasi tanpa koordinasi jelas.",
+  "date": "17 November 2026",
+  "image": "assets/img/kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo.jpg",
+  "imageV": "mwkcydwp",
+  "tags": [
+   "KPPU",
+   "MBG",
+   "Koperasi Merah Putih",
+   "Persaingan Usaha"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-pantau-persaingan-usaha-dalam-pelaksanaan-program-mbg-dan-kdkmp",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "indonesia-pacu-target-100-gw-surya-di-forum-azec-manila",
+  "category": "Energi",
+  "title": "Indonesia Pacu Target [100 GW] Surya di Forum AZEC Manila",
+  "deck": "Menko Airlangga mewakili Presiden Prabowo Subianto dalam pertemuan AZEC 2.0 di Manila, memaparkan sejumlah proyek dan target energi bersih berikut tenggatnya.",
+  "date": "17 November 2026",
+  "image": "assets/img/panel-surya-atap.jpg",
+  "tags": [
+   "AZEC",
+   "Transisi Energi",
+   "Energi Surya",
+   "Biodiesel"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7228/indonesia-dorong-penguatan-kerja-sama-transisi-energi-kawasan-melalui-azec-20-di-pertemuan-4th-azec-leaders-meeting",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii",
+  "category": "BUMN",
+  "title": "InfraNexia Cetak Laba [Rp1,04] Triliun hingga Kuartal III",
+  "deck": "Anak usaha operasional Telkom ini membukukan pendapatan Rp10,5 triliun dan laba bersih Rp1,04 triliun hingga kuartal III 2026, ditopang kenaikan pelanggan di luar TelkomGroup.",
+  "date": "17 November 2026",
+  "image": "assets/img/infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii.jpg",
+  "imageV": "mwkcyg03",
+  "tags": [
+   "InfraNexia",
+   "Telkom Indonesia",
+   "TelkomGroup",
+   "infrastruktur telekomunikasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478802-infranexia-raup-pendapatan-rp105-triliun-laba-bersih-tembus-rp1-triliun"
+ },
+ {
   "slug": "inet-cakrawala-nexus-akuisisi-6-68-miliar-saham-suara-29-87",
   "category": "Aksi Korporasi",
   "title": "INET: Abadi Kreasi [Jual] 6,685 Miliar Saham, Suara Susut ke 29,89%",
@@ -19,6 +70,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4304-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wacana-larang-vape-pengamat-ingatkan-dampak-investasi",
+  "category": "Industri",
+  "title": "Wacana Larang Vape, Pengamat Ingatkan Dampak [Investasi]",
+  "deck": "Pengamat kebijakan publik meminta pemerintah mengkaji menyeluruh wacana pelarangan vape, mengingat industri ini menyumbang cukai Rp2,84 triliun dan menyerap 150 ribu tenaga kerja.",
+  "date": "17 November 2026",
+  "image": "assets/img/wacana-larang-vape-pengamat-ingatkan-dampak-investasi.jpg",
+  "imageV": "mwkcygc8",
+  "tags": [
+   "vape",
+   "rokok elektrik",
+   "cukai",
+   "industri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478796-soal-wacana-pelarangan-vape-pengamat-ingatkan-dampak-investasi-dan-tenaga-kerja"
  },
  {
   "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",
@@ -6456,70 +6524,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109171332-65769-0/FinancialStatement-2026-III-ASBI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "SRTG Jadwalkan [RUPSLB] Virtual pada 16 Desember 2026",
-  "deck": "Saratoga Investama Sedaya akan menggelar RUPSLB secara virtual lewat eASY.KSEI pada 16 Desember 2026, dengan batas pencatatan pemegang saham 23 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "RUPSLB",
-   "Saratoga Investama Sedaya",
-   "KSEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a6964be8e_317ebc2d6f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcic-komisaris-independen-mundur-disiapkan-jadi-dirut",
-  "category": "Aksi Korporasi",
-  "title": "BCIC: Komisaris Independen Mundur, Disiapkan Jadi [Dirut]",
-  "deck": "Abdullah Firman Wibowo mundur dari kursi Komisaris Independen Bank JTrust Indonesia untuk disiapkan menjadi Direktur Utama, menyusul pengunduran diri Dirut sebelumnya pekan lalu.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCIC",
-   "Bank JTrust Indonesia",
-   "pergantian direksi",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/71d3f6d0af_b019015b3f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-tambah-saham-via-repo-hak-suara-ke-5-58",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Tambah Saham via Repo, [Hak Suara] ke 5,58%",
-  "deck": "Direksi NSSS, Mitra Agro Dharma Unggul, membeli 626,9 juta saham lewat repo senilai sekitar Rp285,2 miliar, mengangkat hak suaranya dari 2,95% menjadi 5,58%.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-5417-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital",
-  "category": "Teknologi",
-  "title": "Kemendagri Minta Pemda Percepat [Registrasi] Perlinsos Digital",
-  "deck": "Kemendagri mendesak pemda mempercepat registrasi Perlinsos Digital agar data penerima bansos lebih akurat, sejalan dengan rencana satu identitas digital lintas layanan publik.",
-  "date": "9 November 2026",
-  "image": "assets/img/kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital.jpg",
-  "imageV": "mw94wtq8",
-  "tags": [
-   "bansos",
-   "perlinsos digital",
-   "kemendagri",
-   "dukcapil"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477401-upaya-penyaluran-bansos-tepat-sasaran-kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital"
  }
 ];

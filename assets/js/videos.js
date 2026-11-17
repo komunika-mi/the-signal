@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UEl73Rju3Zg",
+  "title": "KLH Segera Terbitkan Aturan Produsen Wajib Kelola Sampah",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Kementerian Lingkungan Hidup akan menerbitkan peraturan yang mewajibkan produsen bertanggung jawab atas pengelolaan sampah dari produknya sendiri.",
+  "takeaway": "Aturan ini relevan bagi pelaku industri karena berpotensi menambah kewajiban dan biaya kepatuhan baru dalam proses produksi.",
+  "terbit": "2026-11-17T05:39:35+00:00"
+ },
+ {
   "id": "JuRC_HF7HKY",
   "title": "Perebutan Untung dari Pengelolaan Sumur Minyak Rakyat",
   "category": "Energi",

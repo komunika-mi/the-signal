@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UEl73Rju3Zg",
+  "title": "KLH Segera Terbitkan Aturan Produsen Wajib Kelola Sampah",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "Kementerian Lingkungan Hidup akan menerbitkan peraturan yang mewajibkan produsen bertanggung jawab atas pengelolaan sampah dari produknya sendiri.",
+  "takeaway": "Aturan ini relevan bagi pelaku industri karena berpotensi menambah kewajiban dan biaya kepatuhan baru dalam proses produksi."
+ },
+ {
   "id": "JuRC_HF7HKY",
   "title": "Perebutan Untung dari Pengelolaan Sumur Minyak Rakyat",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi di Istana Merdeka, Jakarta, Senin, 2 November 2026, dengan dihadiri sejumlah menteri dan kepala badan.",
   "takeaway": "Rapat ini layak disimak karena bisa memberi gambaran arah kebijakan ekonomi pemerintah dalam waktu dekat."
- },
- {
-  "id": "HEBrnjMEN3U",
-  "title": "KADIN Dorong Perempuan Pengusaha Perkuat Ekonomi",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Kamar Dagang dan Industri Indonesia menyatakan dukungan terhadap Musyawarah Nasional X Ikatan Wanita Pengusaha Indonesia sebagai upaya mendorong peran pengusaha perempuan dalam penguatan ekonomi nasional.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran pengusaha perempuan dan UMKM dalam mendukung pertumbuhan ekonomi nasional."
  }
 ];

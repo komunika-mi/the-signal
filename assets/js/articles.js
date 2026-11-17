@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo",
+  "category": "UMKM",
+  "title": "KPPU Soroti [Konsentrasi] Pasokan di Program MBG Sidoarjo",
+  "deck": "KPPU memantau program MBG dan koperasi desa di Sidoarjo, menyoroti dominasi pasokan oleh mitra dapur dan masuknya Agrinas ke koperasi tanpa koordinasi jelas.",
+  "image": "assets/img/kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T07:09:23.473Z",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-pantau-persaingan-usaha-dalam-pelaksanaan-program-mbg-dan-kdkmp",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha",
+  "tags": [
+   "KPPU",
+   "MBG",
+   "Koperasi Merah Putih",
+   "Persaingan Usaha"
+  ],
+  "body": [
+   "Komisi Pengawas Persaingan Usaha (KPPU) turun langsung ke Sidoarjo, Jawa Timur, pada 14 November 2026 untuk memantau pelaksanaan Program Makan Bergizi Gratis (MBG) dan Koperasi Desa/Kelurahan Merah Putih (KDKMP). Anggota KPPU Rhido Jusmadi bersama tim KPPU Surabaya mengunjungi dapur penyedia MBG di Kedungrejo, Kecamatan Waru, serta koperasi di Desa Bangah untuk menelusuri pola pengadaan bahan baku dan kemitraan usaha. Pemantauan ini penting karena kedua program tersebut menyalurkan dana dan barang dalam skala nasional, sehingga pola pasokan yang tertutup bagi pelaku usaha tertentu bisa berdampak luas bagi pemasok kecil dan koperasi di berbagai daerah.",
+   "Di dapur MBG Kedungrejo, yang melayani sekitar 2.400 penerima manfaat, Kepala SPPG Andi mengungkapkan bahwa hanya sekitar 40 persen bahan baku seperti telur puyuh, sayuran, dan beras dipasok oleh pelaku usaha lokal, warga setempat, dan BUMDes. Sisanya, sekitar 60 persen, dipenuhi melalui mitra yang juga menjadi pemilik dapur tersebut, termasuk pasokan daging ayam beku dari PT Japfa yang mensyaratkan Nomor Kontrol Veteriner dan sertifikat halal. KPPU juga menerima informasi soal fluktuasi harga ayam dan dugaan penimbunan oleh pemasok, yang menurut lembaga ini masih perlu didalami lebih jauh berdasarkan komoditas, pelaku, dan bukti pendukungnya. Rhido meminta pengelola dapur menyerahkan data pemasok, termasuk identitas koperasi pemasok telur, serta memastikan harga jual tidak melampaui harga eceran tertinggi yang ditetapkan.",
+   "Di Desa Bangah, Ketua Koperasi Joni dan Sekretaris Anita menjelaskan bahwa KDKMP setempat mulai beroperasi mandiri dengan modal sendiri sejak Juni 2026, beranggotakan 102 orang, dan buka layanan setiap Selasa dan Sabtu. Koperasi menjual beras, gula, dan minyak goreng yang dipasok Perum Bulog dan ID FOOD, dengan harga yang dibedakan antara anggota dan nonanggota, dan sejumlah pelaku usaha sekitar turut mengambil barang dari koperasi ini.",
+   "Persoalan yang mengemuka dalam pertemuan itu adalah masuknya Agrinas sebagai pemasok barang ke koperasi tanpa didahului pemberitahuan dan pembahasan yang memadai dengan pengurus, menurut penjelasan Joni. Ia juga menyebut adanya perubahan jalur pasokan melalui Rumah Pangan Kita, gerai distribusi pangan milik Bulog, setelah Agrinas mulai terlibat dalam kegiatan koperasi. KPPU menyatakan akan mendalami struktur dan pola pasokan, mekanisme pembentukan harga, serta hubungan antarpelaku usaha di kedua program itu, dengan meminta data dan klarifikasi lebih lanjut dari pihak-pihak terkait sebelum menyampaikan masukan kepada Badan Gizi Nasional."
+  ],
+  "fotoAdegan": "Kitchen staff loading trays of rice and vegetables into insulated delivery boxes inside a busy community kitchen, morning light",
+  "fotoSumber": "https://kppu.go.id/uploads/news/1794894099_6afbe91364b3b_1112.jpg",
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "takeaway": "Hal paling konkret dari kunjungan ini adalah bahwa 60 persen bahan baku di dapur MBG Kedungrejo justru dipasok oleh mitra yang sama dengan pemilik dapur itu sendiri, bukan oleh pemasok lokal yang independen. Pola serupa muncul di koperasi Desa Bangah, tempat Agrinas disebut mulai memasok barang tanpa pembicaraan jelas lebih dulu dengan pengurus koperasi, sampai mengubah jalur pasokan lama lewat Rumah Pangan Kita, semacam gerai distribusi pangan bersubsidi milik Bulog. Yang terdampak adalah pemasok kecil dan UMKM di sekitar Waru yang hanya kebagian 40 persen pasokan dapur, serta 102 anggota koperasi Bangah yang usahanya baru berjalan mandiri sejak Juni. KPPU sendiri masih di tahap pengumpulan data dan belum menyimpulkan ada pelanggaran, tetapi pola tertutupnya akses pemasok independen di tingkat dapur dan masuknya pemain besar seperti Agrinas ke koperasi desa menunjukkan arah risiko konsentrasi usaha dalam program berskala nasional ini. Yang akan menentukan apakah ini berlanjut jadi investigasi atau berhenti di rekomendasi adalah hasil permintaan data pemasok KPPU dan masukan yang nantinya disampaikan ke Badan Gizi Nasional.",
+  "imageV": "mwkcydwp"
+ },
+ {
+  "slug": "indonesia-pacu-target-100-gw-surya-di-forum-azec-manila",
+  "category": "Energi",
+  "title": "Indonesia Pacu Target [100 GW] Surya di Forum AZEC Manila",
+  "deck": "Menko Airlangga mewakili Presiden Prabowo Subianto dalam pertemuan AZEC 2.0 di Manila, memaparkan sejumlah proyek dan target energi bersih berikut tenggatnya.",
+  "image": "assets/img/panel-surya-atap.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T07:09:05.183Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7228/indonesia-dorong-penguatan-kerja-sama-transisi-energi-kawasan-melalui-azec-20-di-pertemuan-4th-azec-leaders-meeting",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "AZEC",
+   "Transisi Energi",
+   "Energi Surya",
+   "Biodiesel"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, mewakili Presiden Prabowo Subianto, memimpin delegasi Indonesia pada pertemuan tingkat tinggi Asia Zero Emission Community (AZEC) keempat di Manila, Selasa (17/11), bersamaan dengan rangkaian KTT ASEAN ke-49. Pertemuan yang dipimpin bersama Perdana Menteri Jepang Sanae Takaichi dan Presiden Filipina Ferdinand Marcos Jr. itu membahas kelanjutan kerja sama transisi energi kawasan lewat skema yang disebut AZEC 2.0. Bagi Indonesia, forum ini menjadi kesempatan memaparkan sejumlah proyek dan target energi bersih yang sedang didorong, mulai dari pembangkit surya skala besar hingga proyek panas bumi dan pengolahan sampah.",
+   "AZEC 2.0 menetapkan tiga sasaran utama, yakni penanganan perubahan iklim, pertumbuhan ekonomi yang inklusif, dan ketahanan energi. Timor-Leste mulai ikut bergabung dalam forum ini, menambah jumlah negara yang terlibat dalam kerja sama tersebut. Airlangga menyampaikan bahwa Indonesia tetap mengejar target bebas emisi karbon pada 2060 atau lebih cepat, dengan menggenjot sumber energi dari dalam negeri agar tidak terlalu bergantung pada impor.",
+   "Salah satu target yang dipaparkan adalah pembangunan pembangkit listrik tenaga surya berkapasitas puncak 100 Gigawatt, yang pelaksanaannya ingin dipercepat dalam tiga tahun ke depan. Di sektor bahan bakar, pemerintah akan menaikkan campuran biodiesel berbasis sawit menjadi B50, serta menambah campuran etanol pada bensin lewat program E10 pada 2027 dan E20 pada 2028. Pada proyek yang lebih konkret, pengolahan sampah menjadi listrik di Legok Nangka dengan nilai investasi sekitar US$400 juta ditargetkan mencapai kesepakatan pendanaan akhir atau financial close pada akhir 2026, sementara saluran transmisi listrik Jawa-Sumatra masih dalam tahap studi kelayakan bersama. Tiga proyek panas bumi turut didorong, yaitu PLTP Rajabasa berkapasitas 220 MW di Lampung, PLTP Hululais berkapasitas 110 MW di Bengkulu, dan perluasan PLTP Sarulla di Sumatera Utara.",
+   "Airlangga menegaskan bahwa transisi energi kawasan perlu tetap memberi ruang bagi negara berkembang untuk melanjutkan industrialisasi dan menjaga harga energi yang terjangkau bagi masyarakat maupun dunia usaha. Ia menyebut penguatan kerja sama pembiayaan, investasi, dan teknologi dengan mitra seperti Jepang sebagai faktor penting untuk mempercepat realisasi proyek-proyek tersebut."
+  ],
+  "fotoAdegan": "Technicians installing rows of large solar panels across an open field under bright daylight in rural Indonesia",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan daftar target dan proyek energi bersih yang ingin dipercepat Indonesia: pembangkit surya 100 Gigawatt dikejar dalam tiga tahun, campuran biodiesel sawit dinaikkan jadi B50, dan bensin campuran etanol dari tebu atau singkong ditargetkan mulai 2027 lalu diperbesar pada 2028. Proyek pengolahan sampah jadi listrik di Legok Nangka senilai sekitar US$400 juta ditargetkan selesai tahap pendanaannya, yaitu saat uang pembangunan resmi disetujui, pada akhir 2026, sementara saluran listrik Jawa-Sumatra dan tiga proyek panas bumi di Lampung, Bengkulu, dan Sumatera Utara masih pada tahap studi kelayakan, artinya belum pasti jalan. Yang akan terdampak lebih dulu adalah warga sekitar lokasi proyek panas bumi dan tempat pengolahan sampah itu, petani sawit serta tebu sebagai pemasok bahan baku biodiesel dan bioetanol, dan nantinya pengendara yang memakai bahan bakar campuran baru. Pola yang terlihat adalah Indonesia memakai forum kerja sama regional seperti AZEC untuk mencari pendanaan dan mitra asing, terutama Jepang, bagi proyek-proyek yang sebagian masih berupa target dan studi. Penanda paling konkret untuk menilai apakah rencana ini benar berjalan adalah apakah financial close proyek Legok Nangka tercapai sesuai jadwal akhir 2026.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii",
+  "category": "BUMN",
+  "title": "InfraNexia Cetak Laba [Rp1,04] Triliun hingga Kuartal III",
+  "deck": "Anak usaha operasional Telkom ini membukukan pendapatan Rp10,5 triliun dan laba bersih Rp1,04 triliun hingga kuartal III 2026, ditopang kenaikan pelanggan di luar TelkomGroup.",
+  "image": "assets/img/infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T11:54:49+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478802-infranexia-raup-pendapatan-rp105-triliun-laba-bersih-tembus-rp1-triliun",
+  "tags": [
+   "InfraNexia",
+   "Telkom Indonesia",
+   "TelkomGroup",
+   "infrastruktur telekomunikasi"
+  ],
+  "body": [
+   "InfraNexia, perusahaan operasional PT Telkom Indonesia (Persero) Tbk yang mengelola infrastruktur telekomunikasi, membukukan pendapatan Rp10,5 triliun dan laba bersih Rp1,04 triliun sepanjang Januari hingga September 2026. Capaian ini menjadi sorotan karena merupakan hasil kinerja setelah Telkom memindahkan sebagian aset dan bisnis wholesale infrastrukturnya ke badan usaha tersendiri.",
+   "Pendapatan InfraNexia sejauh ini masih bertumpu pada kebutuhan internal ekosistem TelkomGroup. Namun pendapatan dari pelanggan di luar grup tumbuh 22,1 persen secara tahunan menjadi Rp1,42 triliun, berasal dari operator telekomunikasi, penyedia layanan internet, perusahaan layanan digital, hingga pelanggan korporasi. Dari sisi lini bisnis, segmen Wholesale Network yang mencakup Metronexia, Wavenexia, dan IP Nexia mencatat kenaikan pendapatan 20,3 persen dibandingkan periode yang sama tahun sebelumnya, padahal portofolio ini sebelumnya masih dikelola langsung oleh Telkom.",
+   "Direktur Utama Telkom, Nanang Hendarno, menyebut hasil ini menunjukkan adanya peluang mengelola bisnis infrastruktur secara lebih terarah dan independen. Menurutnya, pemindahan aset dan bisnis wholesale dari Telkom ke InfraNexia ditujukan agar penggunaan aset lebih maksimal, pengelolaan lebih terfokus, dan peluang ekspansi bisnis semakin terbuka. Ia menambahkan bahwa langkah ini merupakan bagian dari transformasi TelkomGroup untuk membangun bisnis yang lebih kompetitif, dengan harapan InfraNexia dapat memberi nilai tambah bagi grup sekaligus mendukung pertumbuhan ekosistem digital Indonesia."
+  ],
+  "fotoAdegan": "Technicians inspecting fiber optic cable trays inside a telecommunications data center, rows of server racks, cool blue lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/17/6afbdcef17e2c-infranexia-operating-company-telkom-membukukan-pendapatan-rp105-triliun-dan-laba-bersih-sebesar-rp104-triliun-sepanjang-sembilan-bulan-pertama-tahun-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara Telkom mengelola infrastrukturnya: aset dan bisnis sewa infrastruktur yang dulu menyatu dengan Telkom dipindahkan ke anak usaha baru, InfraNexia, supaya bisa dijual jasanya ke siapa saja, tidak cuma dipakai sendiri oleh grup. Hasilnya, pendapatan dari luar TelkomGroup memang naik 22,1 persen jadi Rp1,42 triliun, tapi itu baru sekitar 13,5 persen dari total pendapatan Rp10,5 triliun, jadi sebagian besar pemasukan InfraNexia masih berasal dari perusahaan Telkom sendiri di dalam grup. Yang kena dampak langsung adalah operator telekomunikasi lain, penyedia layanan internet, dan perusahaan digital yang jadi calon pelanggan baru kapasitas jaringan ini, selain Telkom sendiri yang berharap asetnya lebih produktif. Arahnya terlihat ke pola yang biasa dipakai perusahaan telekomunikasi, yaitu memisahkan infrastruktur jadi badan usaha sendiri agar bisa tumbuh dari pelanggan luar, bukan cuma melayani kebutuhan internal grup. Yang akan memastikan arah ini benar-benar berjalan adalah apakah porsi pendapatan dari luar TelkomGroup terus membesar di laporan kuartal-kuartal berikutnya, karena saat ini porsinya masih kecil dibanding total pendapatan.",
+  "imageV": "mwkcyg03"
+ },
+ {
   "slug": "inet-cakrawala-nexus-akuisisi-6-68-miliar-saham-suara-29-87",
   "category": "Aksi Korporasi",
   "title": "INET: Abadi Kreasi [Jual] 6,685 Miliar Saham, Suara Susut ke 29,89%",
@@ -38,6 +120,33 @@ var ARTICLES = [
    }
   ],
   "diperbarui": "2026-11-17T10:45:15"
+ },
+ {
+  "slug": "wacana-larang-vape-pengamat-ingatkan-dampak-investasi",
+  "category": "Industri",
+  "title": "Wacana Larang Vape, Pengamat Ingatkan Dampak [Investasi]",
+  "deck": "Pengamat kebijakan publik meminta pemerintah mengkaji menyeluruh wacana pelarangan vape, mengingat industri ini menyumbang cukai Rp2,84 triliun dan menyerap 150 ribu tenaga kerja.",
+  "image": "assets/img/wacana-larang-vape-pengamat-ingatkan-dampak-investasi.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T11:33:27+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478796-soal-wacana-pelarangan-vape-pengamat-ingatkan-dampak-investasi-dan-tenaga-kerja",
+  "tags": [
+   "vape",
+   "rokok elektrik",
+   "cukai",
+   "industri"
+  ],
+  "body": [
+   "Wacana pelarangan industri rokok elektrik atau vape mendapat sorotan dari pengamat kebijakan publik Universitas Katolik Parahyangan, Kristian Widya Wicaksono. Ia meminta pemerintah melakukan kajian menyeluruh sebelum mengambil keputusan, karena pelarangan ini akan menyentuh kepastian hukum, keberlangsungan usaha, investasi, penerimaan negara, sekaligus nasib tenaga kerja di sektor tersebut.",
+   "Data Sistem Informasi Industri Nasional 2025 mencatat nilai produksi rokok elektrik mencapai Rp25,17 triliun. Penerimaan cukai dari hasil pengolahan tembakau lainnya, yang mayoritas berasal dari vape, tercatat Rp2,84 triliun sepanjang 2025, naik 7,38 persen dari Rp2,65 triliun pada tahun sebelumnya. Di luar cukai, negara juga mendapat pajak rokok sekitar Rp284 miliar, SPPR Rp80 miliar, dan PPnHT Rp296,6 miliar. Ekspor produk rokok elektrik ikut melonjak dari US$164,95 juta pada 2022 menjadi US$518,28 juta pada 2025, dengan industri ini diklaim menyerap sekitar 150 ribu tenaga kerja.",
+   "Dari sisi produksi, rokok elektrik cair mencapai 5,12 juta liter dengan 58,4 persen di antaranya diekspor, sementara produksi bentuk padat mencapai 4.700 ton dengan porsi ekspor jauh lebih tinggi, 91,6 persen. Kapitalisasi pasar vape diperkirakan sekitar Rp10 triliun dengan pertumbuhan tahunan rata-rata 50 persen. Kristian mengingatkan bahwa pemerintah sebenarnya sudah punya dasar aturan lewat Peraturan Pemerintah Nomor 28 Tahun 2024, yang mengatur rokok elektrik melalui kewajiban izin usaha dan pengujian kandungan nikotin.",
+   "Pengamat ekonomi Universitas Pasundan, Acuviarta Kartabi, menilai industri vape punya potensi ekonomi besar terutama dari sisi penerimaan cukai dan investasi. Ia mendorong pemerintah membuat studi kelayakan untuk menghitung dampak ekonominya, sekaligus mengkaji persoalan kesehatan dan lingkungan yang selama ini menjadi perhatian Majelis Ulama Indonesia."
+  ],
+  "fotoAdegan": "Workers inspecting small vape device components on an assembly line inside a bright Indonesian electronics factory",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2023/01/16/63c5779c1c6d2-ilustrasi-vape_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah sejauh ini baru wacana pelarangan vape yang disoroti kalangan pengamat, bukan keputusan resmi pemerintah. Aturan yang sudah berjalan, Peraturan Pemerintah Nomor 28 Tahun 2024, baru mengatur rokok elektrik lewat izin usaha dan uji kandungan nikotin, belum menyentuh larangan total. Kalau wacana ini berlanjut jadi kebijakan, yang langsung terdampak adalah industri dengan nilai produksi Rp25,17 triliun dan penyerapan sekitar 150 ribu tenaga kerja, sekaligus penerimaan negara dari cukai yang tahun ini mencapai Rp2,84 triliun. Yang masih kurang untuk membaca ke mana arah kebijakan ini adalah hasil studi kelayakan serta kajian dampak kesehatan dan lingkungan yang diminta kedua pengamat, sebab sampai sekarang belum ada jadwal atau lembaga yang dipastikan akan mengerjakannya.",
+  "imageV": "mwkcygc8"
  },
  {
   "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",

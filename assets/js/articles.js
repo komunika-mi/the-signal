@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penjelasan-bursa-msky-kas-rp2-1-m-vs-utang-rp490-5-m-pkpu",
+  "category": "Aksi Korporasi",
+  "title": "Penjelasan Bursa MSKY: Kas Rp2,1 M vs Utang Rp490,5 M [PKPU]",
+  "deck": "MSKY menjawab permintaan penjelasan Bursa Efek Indonesia terkait status PKPU: kas perusahaan hanya Rp2,1 miliar, sementara liabilitas jangka pendek mencapai Rp490,5 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T01:43:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8427bdd165_12513944e6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSKY",
+  "tags": [
+   "MSKY",
+   "PKPU",
+   "MNC Sky Vision",
+   "likuiditas"
+  ],
+  "body": [
+   "MNC Sky Vision Tbk (MSKY) menyampaikan tanggapan resmi atas surat elektronik Bursa Efek Indonesia Nomor S-14153/BEI.PP2/11-2026 tertanggal 13 November 2026, yang meminta penjelasan terkait proses Penundaan Kewajiban Pembayaran Utang (PKPU) serta laporan keuangan perusahaan per 30 September 2026. Dalam jawaban yang dikirim 17 November 2026, Corporate Secretary MSKY Ray Rezky Prihatino menyebutkan bahwa kas dan setara kas perusahaan per 30 September 2026 hanya tersisa Rp2.109 juta, jauh di bawah liabilitas jangka pendek yang mencapai Rp490.522 juta. Perseroan menyatakan pemenuhan kewajiban jangka pendek dan rencana restrukturisasi utang secara menyeluruh saat ini ditempuh melalui proses PKPU untuk mencapai rencana perdamaian dengan para kreditur.",
+   "Dari sisi operasional, MSKY mencatat 36.742 pelanggan aktif per 30 September 2026, dengan 5.000 pelanggan baru yang bergabung sepanjang periode berjalan, tingkat berhenti berlangganan (churn rate) sebesar 2 persen, dan rata-rata pendapatan per pelanggan (ARPU) Rp59.000. Perusahaan mengakui bisnis televisi berbayarnya tergerus oleh perubahan pola konsumsi masyarakat ke layanan streaming berbasis internet serta konten gratis di YouTube, Facebook, dan TikTok. Kendala teknis juga muncul dari peralihan teknologi satelit dari S-band ke Ku-band dan C-band, yang membuat perangkat penerima pelanggan perlu disesuaikan dan kualitas sinyal lebih sensitif terhadap cuaca. Untuk 2027, manajemen menargetkan pertumbuhan pelanggan 18 persen dibandingkan posisi akhir 2026, didukung penambahan dealer, toko elektronik, serta kerja sama dengan perbankan dan koperasi.",
+   "Soal piutang, MSKY mencatat piutang usaha dari pihak berelasi Rp68.706 juta per 30 September 2026, dengan Rp48.419 juta atau 70,5 persen berasal dari PT Digital Vision Nusantara terkait kerja sama pengadaan set top box dan produksi konten. Realisasi penagihan piutang pihak berelasi baru mencapai 39,91 persen dari total tersebut, sementara piutang usaha pihak ketiga senilai Rp109.375 juta baru tertagih 10,19 persen, sehingga perusahaan membentuk cadangan kerugian penurunan nilai Rp22.378 juta, naik dari nol di akhir 2025. Di sisi utang, saldo utang usaha kepada PT MNC Pictures selaku pihak berelasi mencapai Rp128.832 juta dan terus naik, sementara dari total utang usaha pihak berelasi Rp203.741 juta, baru Rp7.365 juta atau 3,61 persen yang terbayar sehingga Rp196.376 juta masih menunggak. Perusahaan juga mencatat utang baru kepada Sanremo Ventures Inc sebesar Rp14.610 juta yang berasal dari pengalihan utang PT GLD Property, serta pinjaman dari Investment Opportunities V Pte. Limited senilai US$4,13 juta yang bersifat roll-over tanpa instrumen lindung nilai kurs."
+  ],
+  "fotoAdegan": "Technician installing a small satellite dish on an apartment balcony railing in a dense Jakarta residential area, daylight.",
+  "takeaway": "Laporan ini condong negatif bagi MSKY karena menegaskan tekanan keuangan yang serius: kas perusahaan hanya Rp2,1 miliar, jauh di bawah liabilitas jangka pendek Rp490,5 miliar, sementara basis pelanggan yang menyusut ke 36.742 akun menunjukkan bisnis televisi berbayar kian tergerus oleh layanan streaming. Yang tersentuh adalah arus kas, yaitu kemampuan perusahaan membayar kewajiban yang sudah atau akan jatuh tempo, dan modal pemegang saham yang bisa makin terkikis jika proses PKPU berujung pada pemotongan nilai klaim kreditur; pencadangan piutang tak tertagih Rp22,378 juta juga langsung memangkas laba periode ini karena tercatat sebagai beban. Yang perlu dipantau selanjutnya adalah kelanjutan proses PKPU menuju rencana perdamaian dengan para kreditur, realisasi penagihan piutang yang masih rendah terutama dari PT Digital Vision Nusantara, dan apakah target pertumbuhan pelanggan 18 persen pada 2027 bisa tercapai di tengah tekanan arus kas saat ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
   "slug": "esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang",
   "category": "Energi",
   "title": "ESDM Tegaskan Ujung Kulon [Bukan] Kawasan Tambang",
@@ -29,6 +56,47 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah di sini bukan soal tambang baru dibuka, melainkan revisi batas wilayah pertambangan Banten lewat Kepmen ESDM No. 65.K/2026, yang kembali menegaskan sebagian perairan di sekitar Taman Nasional Ujung Kulon berstatus wilayah usaha pertambangan (WUP), semacam zona yang dicadangkan untuk kemungkinan tambang di masa depan, bukan izin tambang itu sendiri. Status ini sudah dipertahankan dan diperbarui berkali-kali sejak diusulkan Pemprov Banten pada 2013, tapi dalam lebih dari satu dekade itu belum ada satu pun izin usaha pertambangan yang benar-benar terbit di wilayah tersebut. Pihak yang paling berkepentingan adalah pelaku usaha tambang yang mengincar potensi mineral di perairan itu, serta pemerhati konservasi badak Jawa yang menjaga agar aktivitas tambang tidak merambah ke darat TNUK. Pola panjang ini menunjukkan kawasan tersebut lebih mungkin tetap jadi cadangan administratif ketimbang lokasi tambang aktif dalam waktu dekat, dan yang akan membuktikan arah sebenarnya adalah apakah ada perusahaan yang benar-benar mengajukan izin pemanfaatan ruang laut atau izin usaha pertambangan di wilayah itu ke depannya.",
   "imageV": "mwkyc4n9"
+ },
+ {
+  "slug": "saham-bonus-ppgl-disesuaikan-jadi-514-1-juta-distribusi-25-nov",
+  "category": "Aksi Korporasi",
+  "title": "Saham Bonus PPGL [Disesuaikan] Jadi 514,1 Juta, Distribusi 25 Nov",
+  "deck": "PPGL menyesuaikan jumlah saham bonus dari rencana 514.118.680 menjadi 514.117.134 saham akibat pembulatan ke bawah, distribusi tetap 25 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T23:58:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48641c6175_213d81719c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "KSEI",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) menjelaskan bahwa jumlah saham bonus yang akan didistribusikan kepada pemegang saham disesuaikan dari rencana awal 514.118.680 saham menjadi 514.117.134 saham, berkurang 1.546 saham. Penyesuaian ini merupakan hasil pembulatan ke bawah atas perhitungan hak saham bonus di masing-masing rekening efek atau sub rekening, sehingga sisa saham yang kepemilikannya tidak bisa dipastikan secara pasti tidak ikut diterbitkan. Distribusi saham bonus tetap berjalan sesuai jadwal pada 25 November 2026.",
+   "Pembagian saham bonus ini berasal dari keputusan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tanggal 23 Oktober 2026, dengan rasio 6 saham lama berbanding 4 saham bonus baru. Berdasarkan surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 12 November 2026, saham bonus tersebut akan dibagikan kepada 3.601 pemegang saham atau sub rekening, berdasarkan data kepemilikan per tanggal pencatatan (recording date) 4 November 2026. Dengan penyesuaian ini, jumlah saham PPGL setelah pembagian bonus menjadi 1.285.295.154 saham, sedikit lebih kecil dari rencana awal 1.285.296.700 saham, naik dari basis 771.178.020 saham sebelum pembagian.",
+   "Dari sisi permodalan, nilai kapitalisasi tambahan modal disetor yang berasal dari saham bonus ini turun dari Rp11.310.610.960 menjadi Rp11.310.576.948, mengikuti nilai nominal saham Rp22 per lembar. Perseroan menegaskan penyesuaian jumlah saham bonus ini tidak berdampak negatif terhadap kegiatan operasional, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Freight trucks queued at a logistics warehouse loading dock in Jakarta, workers moving pallets, early morning light",
+  "takeaway": "Laporan ini sendiri netral bagi PPGL, karena yang disesuaikan hanyalah pembulatan sebesar 1.546 saham dari total 514,1 juta saham bonus, angka yang nyaris tidak berarti secara finansial. Yang justru layak dicermati adalah pembagian saham bonusnya sendiri: jumlah saham PPGL yang beredar akan melonjak dari 771,18 juta menjadi sekitar 1,29 miliar lembar, naik sekitar 67 persen. Penambahan jumlah saham beredar sebesar itu membuat laba per saham berpotensi terdilusi, karena laba yang sama nantinya dibagi ke jumlah lembar yang jauh lebih banyak, meski ekuitas pemegang saham secara total tidak bertambah sebab saham bonus berasal dari kapitalisasi modal disetor, bukan dana segar baru. Yang perlu dipantau berikutnya adalah tanggal distribusi saham bonus pada 25 November 2026, saat saham tambahan itu resmi masuk ke rekening efek pemegang saham.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Penyesuaian Jumlah Saham Bonus PT Prima Globalindo Logistik Tbk",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-23",
+    "acara": "RUPSLB memutuskan rasio saham bonus 6:4"
+   },
+   {
+    "tanggal": "2026-11-04",
+    "acara": "Recording date kepemilikan saham untuk saham bonus"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Distribusi saham bonus kepada pemegang saham"
+   }
+  ]
  },
  {
   "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
@@ -15767,8 +15835,8 @@ var ARTICLES = [
  {
   "slug": "ppgl-gelar-public-expose-insidentil-usai-diminta-bursa",
   "category": "Aksi Korporasi",
-  "title": "PPGL Gelar Public Expose [Insidentil] Usai Diminta Bursa",
-  "deck": "Diminta Bursa Efek Indonesia, PPGL akan memaparkan kinerja dan penjelasan soal pergerakan harga sahamnya pada 10 November 2026.",
+  "title": "PPGL: [Insidentil] Aset Susut 87,92% usai Lepas Anak Usaha",
+  "deck": "Materi public expose insidentil PPGL ke bursa menunjukkan total aset turun 87,92% akibat anak usaha PT Armada Berjaya Trans Tbk tak lagi dikonsolidasi, sementara laba sebelum pajak susut 53,09%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T17:02:52",
@@ -15777,18 +15845,35 @@ var ARTICLES = [
   "emiten": "PPGL",
   "tags": [
    "PPGL",
-   "Public Expose",
-   "Bursa Efek Indonesia",
-   "Prima Globalindo Logistik"
+   "Public Expose Insidentil",
+   "Laporan Keuangan",
+   "Bursa Efek Indonesia"
   ],
   "body": [
-   "PT Prima Globalindo Logistik Tbk (PPGL) akan menggelar Public Expose Insidentil secara daring melalui Zoom Meeting pada Selasa, 10 November 2026 pukul 11.00 WIB. Berbeda dari public expose rutin, acara ini digelar bukan atas inisiatif perusahaan, melainkan atas permintaan Bursa Efek Indonesia, sesuai surat referensi Peng-SPT-00167/BEI.WAS/09-2026. Keterbukaan ini disampaikan lewat surat resmi bernomor 003/PGL/XI/2026 tertanggal 6 November 2026, yang ditandatangani Direktur Utama PPGL, Darmawan Suryadi SM.",
-   "Perseroan menyebut tiga agenda dalam paparan tersebut: kinerja keuangan dan kondisi bisnis terkini perseroan, rencana aksi korporasi dan bisnis ke depan, serta analisis manajemen soal pergerakan harga saham PPGL sendiri. Agenda ketiga ini yang membuat acara ini disebut insidentil dan diminta langsung oleh bursa, bukan sekadar paparan publik berkala.",
-   "Pendaftaran peserta sama sekali tidak dipungut biaya dan harus dilakukan paling lambat Senin, 9 November 2026 pukul 17.00 WIB melalui tautan Google Spreadsheet yang disediakan perseroan. Tautan Zoom Meeting untuk mengikuti acara akan dikirimkan sebelum acara berlangsung melalui alamat email atau nomor telepon yang didaftarkan peserta saat registrasi."
+   "PT Prima Globalindo Logistik Tbk (PPGL) menyerahkan materi Public Expose Insidentil kepada Bursa Efek Indonesia melalui surat No. 009/PGL/XI/2026 tertanggal 17 November 2026, menyusul rencana paparan yang sebelumnya diumumkan lewat surat No. 003/PGL/XI/2026. Materi itu memuat lampiran berjudul paparan untuk 18 November 2026, berbeda dari tanggal 10 November 2026 yang disebut dalam pengumuman sebelumnya. Dalam materi tersebut, total aset perseroan per 30 Juni 2026 tercatat Rp49,7 miliar, turun 87,92 persen dari Rp411,9 miliar pada 31 Desember 2025. Total liabilitas turun 95,30 persen menjadi Rp12,6 miliar, dan total ekuitas turun 74,25 persen menjadi Rp37,2 miliar. Perseroan menjelaskan penurunan ini terjadi karena PT Armada Berjaya Trans Tbk, anak usaha PPGL, tidak lagi dikonsolidasikan ke laporan keuangan perseroan per 30 Juni 2026.",
+   "Meski nilai aset menyusut tajam, rasio keuangan perseroan justru membaik karena skala utang ikut mengecil lebih cepat dari asetnya. Cash ratio, yakni perbandingan kas terhadap utang jangka pendek, naik dari 0,04 kali menjadi 0,35 kali. Rasio utang terhadap aset turun dari 9,41 persen menjadi 1,95 persen, dan rasio utang terhadap ekuitas turun dari 26,84 persen menjadi 2,61 persen. Namun dari sisi laba rugi, pendapatan usaha semester I 2026 tercatat Rp40,5 miliar, turun 54,51 persen dibanding Rp89,0 miliar pada semester I 2025. Laba sebelum pajak turun 53,09 persen menjadi Rp2,8 miliar, dan laba komprehensif tahun berjalan turun 53,84 persen menjadi Rp2,36 miliar. Materi perseroan tidak menjelaskan secara khusus penyebab penurunan pendapatan dan laba ini, berbeda dengan penjelasan yang diberikan untuk penurunan aset dan liabilitas.",
+   "Soal pergerakan harga sahamnya sendiri, yang menjadi alasan bursa meminta paparan insidentil ini, manajemen PPGL hanya menyatakan bahwa harga saham dipengaruhi oleh dinamika permintaan dan penawaran serta kondisi pasar secara umum yang berada di luar kendali perseroan. Perseroan tidak memberi penjelasan lebih spesifik dari itu. Untuk rencana bisnis ke depan, perseroan menyebut masih dalam tahap negosiasi pengembangan usaha dengan dua perusahaan, yaitu PT Natadana Solusi Pratama yang bergerak di jasa pengelolaan dan pendaftaran jaminan fidusia secara digital sejak 2019, dan PT Wani Piro Rek yang bergerak di pengolahan dan penjualan makanan siap santap sejak 2021. Perseroan tetap menjalankan bisnis utamanya sebagai perusahaan Jasa Pengurusan Transportasi di tengah harga freight internasional yang masih berfluktuasi sepanjang 2026.",
+   "Paparan insidentil ini sendiri digelar bukan atas inisiatif PPGL, melainkan atas permintaan Bursa Efek Indonesia sesuai surat referensi Peng-SPT-00167/BEI.WAS/09-2026, pola yang biasa muncul ketika bursa menilai ada aktivitas perdagangan saham yang tidak biasa pada suatu emiten. Tiga agenda yang diumumkan sebelumnya, yakni kinerja keuangan, rencana aksi korporasi, dan analisis manajemen soal harga saham, semuanya kini sudah terjawab lewat materi yang baru diserahkan ini."
   ],
   "fotoAdegan": "Warehouse workers moving pallets with forklifts inside a large logistics distribution center, morning light through skylights",
-  "takeaway": "Laporan ini netral bagi fundamental PPGL, sebab isinya hanya undangan rapat, bukan perubahan angka keuangan atau struktur kepemilikan saham. Yang justru menarik perhatian adalah sebabnya, acara ini digelar atas permintaan Bursa Efek Indonesia, bukan inisiatif perusahaan, dan salah satu agendanya secara eksplisit membahas pergerakan harga saham PPGL sendiri, pola yang biasa muncul ketika bursa menilai ada aktivitas perdagangan yang tidak biasa pada suatu saham. Pos yang akan disorot nanti adalah kinerja keuangan dan arus kas perusahaan, karena manajemen dijadwalkan memaparkan kondisi bisnis terkini serta rencana aksi korporasi, hal yang bisa mengubah persepsi investor meski belum ada angka baru di dokumen ini. Yang perlu dipantau adalah paparan itu sendiri pada Selasa, 10 November 2026 pukul 11.00 WIB, serta batas registrasi Senin, 9 November 2026 pukul 17.00 WIB, karena di sanalah publik akan mendapat penjelasan langsung dari direksi soal apa yang mendorong pergerakan harga sahamnya.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini condong negatif bagi PPGL, sebab di luar efek pelepasan anak usaha, pendapatan dan laba sebelum pajak sama-sama susut lebih dari 50 persen secara tahunan, dan jawaban manajemen soal pergerakan harga saham hanya menyebut dinamika pasar tanpa penjelasan konkret meski diminta langsung oleh bursa. Pos yang tersentuh adalah ekuitas, yang menyusut 74,25 persen menjadi Rp37,2 miliar karena anak usaha PT Armada Berjaya Trans Tbk tidak lagi digabung dalam laporan keuangan, serta laba bersih yang pada akhirnya menentukan laba per saham bagi pemegang saham. Di sisi lain, rasio utang terhadap aset dan ekuitas justru membaik karena perusahaan yang tersisa jauh lebih kecil dan tidak banyak berutang, jadi bukan sinyal gagal bayar. Yang perlu dipantau berikutnya adalah hasil negosiasi bisnis baru dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek yang disebut masih berjalan tanpa target waktu pasti, serta paparan publik insidentil yang menurut materi ini dijadwalkan 18 November 2026.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T23:58:35",
+    "ringkas": "PPGL serahkan materi public expose insidentil: aset turun 87,92% usai lepas anak usaha, laba sebelum pajak susut 53,09%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a274dcf80_e1c5173c76.pdf",
+    "judulIdx": "Penyampaian Materi Public Expose - Insidentil"
+   }
+  ],
+  "diperbarui": "2026-11-17T23:58:35",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Public expose insidentil PPGL"
+   }
+  ],
+  "peristiwa": "public-expose"
  },
  {
   "slug": "menn-masuk-papan-pemantauan-khusus-bei-9-november",

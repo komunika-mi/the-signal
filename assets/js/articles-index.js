@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penjelasan-bursa-msky-kas-rp2-1-m-vs-utang-rp490-5-m-pkpu",
+  "category": "Aksi Korporasi",
+  "title": "Penjelasan Bursa MSKY: Kas Rp2,1 M vs Utang Rp490,5 M [PKPU]",
+  "deck": "MSKY menjawab permintaan penjelasan Bursa Efek Indonesia terkait status PKPU: kas perusahaan hanya Rp2,1 miliar, sementara liabilitas jangka pendek mencapai Rp490,5 miliar.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSKY",
+   "PKPU",
+   "MNC Sky Vision",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8427bdd165_12513944e6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang",
   "category": "Energi",
   "title": "ESDM Tegaskan Ujung Kulon [Bukan] Kawasan Tambang",
@@ -21,6 +37,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-tegaskan-taman-nasional-ujung-kulon-bukan-wilayah-pertambangan",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "saham-bonus-ppgl-disesuaikan-jadi-514-1-juta-distribusi-25-nov",
+  "category": "Aksi Korporasi",
+  "title": "Saham Bonus PPGL [Disesuaikan] Jadi 514,1 Juta, Distribusi 25 Nov",
+  "deck": "PPGL menyesuaikan jumlah saham bonus dari rencana 514.118.680 menjadi 514.117.134 saham akibat pembulatan ke bawah, distribusi tetap 25 November 2026.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "saham bonus",
+   "KSEI",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48641c6175_213d81719c.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
@@ -6495,38 +6527,6 @@ var ARTICLES = [
    "Raymond Chew"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48eb46970d_af2f1bd3dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indy-tanggapi-permintaan-bursa-soal-sengketa-lahan-masmindo",
-  "category": "Aksi Korporasi",
-  "title": "INDY Tanggapi Permintaan Bursa soal Sengketa Lahan [Masmindo]",
-  "deck": "Indika Energy menjawab permintaan penjelasan BEI soal pemberitaan sengketa lahan anak usahanya, PT Masmindo Dwi Area, di Luwu, namun belum memberi penjelasan substantif dan masih menghimpun data.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDY",
-   "Indika Energy",
-   "Masmindo Dwi Area",
-   "sengketa lahan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/143f104478_cb7b54aa6b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wbsa-catat-laba-9m26-turun-55-meski-pendapatan-naik-31",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose WBSA 12 November: [Capex] 2027 Tembus Rp100 Miliar",
-  "deck": "Public expose 12 November: manajemen WBSA proyeksikan capex 2027 di atas Rp100 miliar dari kas internal, dividen 2026 diputuskan di RUPST 2027.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WBSA",
-   "Public Expose",
-   "Logistik",
-   "Capex"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b578c2dc1e_e7f4beb126.pdf",
   "sourceLabel": "IDX"
  }
 ];

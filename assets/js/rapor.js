@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-17T06:33:25.709+07:00",
+ "diperbarui": "2026-11-18T05:37:03.018+07:00",
  "entri": [
+  {
+   "id": "2026-11-17-3",
+   "edisi": "2026-11-17",
+   "benang": "Potensi Ekspor Jauh Lebih Besar dari Realisasi",
+   "klaim": "Angka potensi transaksi besar yang dipajang di SMEXPO 2026, business matching ekspor UMKM, Hajj Expo Jeddah, dan paviliun bumbu Tokyo kemungkinan besar tidak akan berubah penuh menjadi uang masuk atau kontrak konkret, sebagaimana lazim terjadi pada pameran dagang.",
+   "penanda": "Data realisasi ekspor UMKM dan performa SMEXPO pada edisi-edisi mendatang",
+   "tenggat": null,
+   "tenggatLabel": "edisi-edisi mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-17-2",
+   "edisi": "2026-11-17",
+   "benang": "Tekanan Utang Merambat ke Emiten Baru",
+   "klaim": "Tekanan utang yang merambat ke WEGE (PKPU baru dari dua kreditur), ADCP (obligasi jatuh tempo yang belum pasti sumber pelunasannya), dan TGRA (defisit yang melebar) menunjukkan daftar emiten bermasalah yang terus bertambah lintas sektor, bukan sekadar tekanan pada satu perusahaan.",
+   "penanda": "Hasil sidang PKPU WEGE dari PT Jaya Hamparan Alam dan PT Dutakreasi Bersama Realtindo di Pengadilan Niaga Jakarta Pusat, serta apakah ADCP melunasi obligasinya",
+   "tenggat": "2026-12-08",
+   "tenggatLabel": "sebelum obligasi ADCP jatuh tempo 8 Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-17-1",
+   "edisi": "2026-11-17",
+   "benang": "Repo Saham Jadi Pilihan Pemegang Saham Pengendali",
+   "klaim": "Pelepasan saham lewat skema repurchase agreement oleh pemegang saham pengendali di ATLA, AKPI, PLAN, ASRI, dan INET lebih mencerminkan kebutuhan dana jangka pendek ketimbang pelepasan kendali permanen, kecuali pada INET yang kini dibayangi risiko peralihan kepemilikan yang benar-benar permanen.",
+   "penanda": "Laporan kepemilikan susulan di keterbukaan informasi BEI",
+   "tenggat": null,
+   "tenggatLabel": "minggu-minggu mendatang",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-16-3",
    "edisi": "2026-11-16",

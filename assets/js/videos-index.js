@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "hqfJQwvWzmg",
+  "title": "Viva Media Asia Gelar RUPS Tahunan 2025",
+  "category": "Pasar Modal",
+  "program": "Kabar Utama",
+  "summary": "PT Visi Media Asia Tbk (VIVA) menggelar Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025 pada Selasa, 17 November 2026 di Jakarta, dengan agenda pengesahan laporan tahunan.",
+  "takeaway": "Relevan bagi investor pasar modal karena RUPST merupakan forum resmi pengesahan laporan keuangan dan kinerja tahunan emiten."
+ },
+ {
   "id": "n_CTphKzcP0",
   "title": "ASEAN Diajak Simpan Cadangan Minyak di Jepang",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Inovasi Membangun Negeri",
   "summary": "PAM JAYA menerima penghargaan Inovasi Membangun Negeri 2026 atas upaya transformasi layanan air bersih yang dinilai berhasil meningkatkan kualitas layanan kepada warga Jakarta.",
   "takeaway": "Penting bagi pembaca ekonomi karena menyoroti kinerja dan inovasi badan usaha milik daerah dalam penyediaan layanan publik."
- },
- {
-  "id": "Do5w-Cz4uP4",
-  "title": "Kementerian PKP Catat Realisasi Anggaran Rp8,6 Triliun",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Perumahan dan Kawasan Permukiman melaporkan realisasi anggaran sebesar Rp8,6 triliun sebagai bagian dari pelaksanaan program dan kegiatan kementerian.",
-  "takeaway": "Angka realisasi anggaran ini relevan bagi pembaca untuk memantau kinerja belanja pemerintah di sektor perumahan dan permukiman."
  }
 ];

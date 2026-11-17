@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang",
+  "category": "Energi",
+  "title": "ESDM Tegaskan Ujung Kulon [Bukan] Kawasan Tambang",
+  "deck": "Kementerian ESDM menegaskan Taman Nasional Ujung Kulon bukan wilayah tambang. Hanya sebagian perairan sekitarnya berstatus WUP sejak 2013, dan belum ada izin tambang yang terbit di sana.",
+  "date": "18 November 2026",
+  "image": "assets/img/esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang.jpg",
+  "imageV": "mwkyc4n9",
+  "tags": [
+   "ESDM",
+   "Ujung Kulon",
+   "Pertambangan",
+   "Konservasi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-tegaskan-taman-nasional-ujung-kulon-bukan-wilayah-pertambangan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
   "category": "Aksi Korporasi",
   "title": "VTNY ke BEI: Dana IPO Rp65,59 Miliar [Dibelikan Tanah]",
@@ -37,6 +55,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn",
+  "category": "Perbankan",
+  "title": "BNI-BPJS Kesehatan Teken [Tujuh] Kerja Sama JKN",
+  "deck": "BNI dan BPJS Kesehatan menambah tujuh perjanjian kerja sama untuk pengelolaan iuran, autodebit, dan dana JKN yang melayani hampir 284 juta peserta.",
+  "date": "17 November 2026",
+  "image": "assets/img/bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn.jpg",
+  "imageV": "mwkyc58u",
+  "tags": [
+   "BNI",
+   "BPJS Kesehatan",
+   "JKN",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478906-bni-dan-bpjs-kesehatan-teken-tujuh-pks-perkuat-layanan-jkn"
+ },
+ {
   "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
   "category": "Energi",
   "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
@@ -53,6 +88,23 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "bri-dan-playtopia-luncurkan-kartu-debit-tabungan-anak",
+  "category": "Perbankan",
+  "title": "BRI dan Playtopia [Luncurkan] Kartu Debit Tabungan Anak",
+  "deck": "BRI menggandeng Playtopia meluncurkan kartu debit co-branding BRI Junio untuk mendorong anak-anak menabung sambil bermain.",
+  "date": "17 November 2026",
+  "image": "assets/img/bri-dan-playtopia-luncurkan-kartu-debit-tabungan-anak.jpg",
+  "imageV": "mwkyc5qx",
+  "tags": [
+   "BRI",
+   "BBRI",
+   "Playtopia",
+   "BRI Junio"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478891-bri-dan-playtopia-group-luncurkan-kartu-debit-co-branding-bri-junio-x-playtopia"
  },
  {
   "slug": "irra-revisi-laporan-keuangan-semester-i-2026-koreksi-11-pos-akun",
@@ -6476,54 +6528,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b578c2dc1e_e7f4beb126.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-catat-laba-naik-dana-rights-issue-baru-6-35-terserap",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose INET: Rasio Lancar [Naik] ke 2,41x, Kas Rp3,96 T",
-  "deck": "Hasil public expose INET 12 November menunjukkan rasio lancar naik ke 2,41x dan kas Rp3,96 triliun per 30 September 2026, menjelang jatuh tempo Obligasi dan Sukuk Seri A Februari 2027.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "Public Expose",
-   "Likuiditas",
-   "Obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70f5bbc030_67dfab99bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir",
-  "category": "Bisnis",
-  "title": "Kemen PU Genjot Jalur [Pansela] di Blitar untuk Ekonomi Pesisir",
-  "deck": "Kemen PU mempercepat pembangunan ruas Pansela Ringinrejo-Simpang Jolosutro sepanjang 7,9 km di Blitar untuk membuka akses wisata pantai dan ekonomi pesisir selatan Jatim.",
-  "date": "9 November 2026",
-  "image": "assets/img/kemen-pu-genjot-jalur-pansela-di-blitar-untuk-ekonomi-pesisir.jpg",
-  "imageV": "mw9gmcow",
-  "tags": [
-   "Pansela",
-   "Kementerian PU",
-   "Blitar",
-   "Jawa Timur"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477431-tingkatkan-ekonomi-pesisir-kemen-pu-genjot-pembangunan-jalan-pansela-jawa-timur"
- },
- {
-  "slug": "ekspor-camilan-dua-kelinci-ke-australia-tembus-rp1-03-miliar",
-  "category": "Industri",
-  "title": "Ekspor Camilan Dua Kelinci ke Australia Tembus [Rp1,03] Miliar",
-  "deck": "Menteri Perdagangan melepas ekspor lima kontainer camilan Dua Kelinci senilai Rp1,03 miliar ke Australia, sembari mendorong pelaku usaha memanfaatkan 25 perjanjian dagang Indonesia.",
-  "date": "9 November 2026",
-  "image": "assets/img/mesin-tekstil.jpg",
-  "tags": [
-   "ekspor",
-   "Dua Kelinci",
-   "perjanjian dagang",
-   "Kementerian Perdagangan"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lepas-ekspor-pt-dua-kelinci-ke-negeri-kanguru-mendag-busan-terus-ajak-pelaku-usaha-manfaatkan-perjanjian-dagang",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

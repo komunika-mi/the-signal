@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang",
+  "category": "Energi",
+  "title": "ESDM Tegaskan Ujung Kulon [Bukan] Kawasan Tambang",
+  "deck": "Kementerian ESDM menegaskan Taman Nasional Ujung Kulon bukan wilayah tambang. Hanya sebagian perairan sekitarnya berstatus WUP sejak 2013, dan belum ada izin tambang yang terbit di sana.",
+  "image": "assets/img/esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-17T17:08:36.704Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-tegaskan-taman-nasional-ujung-kulon-bukan-wilayah-pertambangan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Ujung Kulon",
+   "Pertambangan",
+   "Konservasi"
+  ],
+  "body": [
+   "Kementerian ESDM menegaskan bahwa kawasan Taman Nasional Ujung Kulon (TNUK) di Banten tidak termasuk wilayah pertambangan yang ditetapkan lewat Keputusan Menteri ESDM Nomor 65.K Tahun 2026 tentang Wilayah Pertambangan Provinsi Banten. Yang masuk dalam aturan itu hanya sebagian wilayah perairan laut di sekitar TNUK, bukan daratan taman nasional yang menjadi habitat badak Jawa. Penegasan ini penting karena menjawab kekhawatiran bahwa kawasan konservasi tersebut bisa dibuka untuk aktivitas tambang.",
+   "Juru Bicara ESDM Dwi Anggia menjelaskan bahwa proses penetapan wilayah ini sudah berjalan lama. Pemerintah Provinsi Banten pertama kali mengusulkan wilayah perairan itu masuk Wilayah Usaha Pertambangan (WUP) pada 2013, namun usulan itu justru dikecualikan dalam Kepmen ESDM Nomor 1204 Tahun 2014. Pemprov Banten kembali mengusulkannya lewat surat pada 2015, hingga akhirnya sebagian perairan sekitar TNUK dimasukkan ke WUP melalui Kepmen ESDM Nomor 3672 Tahun 2017, lalu dipertegas lagi dalam Kepmen Nomor 84.K/MB.01/MEM.B/2022. Kepmen Nomor 65.K Tahun 2026 yang terbaru pada dasarnya mengulang penetapan itu sambil memperbaiki sebagian ketentuannya.",
+   "ESDM menegaskan bahwa sampai saat ini belum ada satu pun izin usaha pertambangan yang diterbitkan, baik di perairan sekitar TNUK maupun di dalam taman nasional itu sendiri. Dwi Anggia menjelaskan bahwa status WUP hanya bagian dari perencanaan tata kelola sumber daya mineral nasional, bukan izin untuk langsung menambang. Setiap calon pengusaha tambang masih harus melalui serangkaian proses sesuai Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara yang telah diubah dengan Undang-Undang Nomor 2 Tahun 2025, termasuk memastikan kesesuaian tata ruang, mengurus izin pemanfaatan ruang laut (PKKPRL), dan mendapat persetujuan lingkungan.",
+   "Kementerian ESDM juga memastikan penetapan wilayah usaha pertambangan di perairan itu tidak mengubah status TNUK sebagai kawasan konservasi, maupun mengurangi fungsi perlindungannya. Berdasarkan data geologi, sebagian perairan tersebut disebut memenuhi kriteria teknis untuk ditetapkan sebagai WUP karena memiliki potensi mineral, namun hal itu tidak otomatis berarti akan ada aktivitas tambang di kawasan tersebut."
+  ],
+  "fotoAdegan": "Small wooden fishing boats anchored near a dense rainforest coastline inside a tropical national park, calm sea, overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kementerian-esdm-tegaskan-taman-nasional-ujung-kulon-bukan-wilayah-pertambangan-qcgrno5.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan soal tambang baru dibuka, melainkan revisi batas wilayah pertambangan Banten lewat Kepmen ESDM No. 65.K/2026, yang kembali menegaskan sebagian perairan di sekitar Taman Nasional Ujung Kulon berstatus wilayah usaha pertambangan (WUP), semacam zona yang dicadangkan untuk kemungkinan tambang di masa depan, bukan izin tambang itu sendiri. Status ini sudah dipertahankan dan diperbarui berkali-kali sejak diusulkan Pemprov Banten pada 2013, tapi dalam lebih dari satu dekade itu belum ada satu pun izin usaha pertambangan yang benar-benar terbit di wilayah tersebut. Pihak yang paling berkepentingan adalah pelaku usaha tambang yang mengincar potensi mineral di perairan itu, serta pemerhati konservasi badak Jawa yang menjaga agar aktivitas tambang tidak merambah ke darat TNUK. Pola panjang ini menunjukkan kawasan tersebut lebih mungkin tetap jadi cadangan administratif ketimbang lokasi tambang aktif dalam waktu dekat, dan yang akan membuktikan arah sebenarnya adalah apakah ada perusahaan yang benar-benar mengajukan izin pemanfaatan ruang laut atau izin usaha pertambangan di wilayah itu ke depannya.",
+  "imageV": "mwkyc4n9"
+ },
+ {
   "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
   "category": "Aksi Korporasi",
   "title": "VTNY ke BEI: Dana IPO Rp65,59 Miliar [Dibelikan Tanah]",
@@ -59,6 +87,32 @@ var ARTICLES = [
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
  },
  {
+  "slug": "bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn",
+  "category": "Perbankan",
+  "title": "BNI-BPJS Kesehatan Teken [Tujuh] Kerja Sama JKN",
+  "deck": "BNI dan BPJS Kesehatan menambah tujuh perjanjian kerja sama untuk pengelolaan iuran, autodebit, dan dana JKN yang melayani hampir 284 juta peserta.",
+  "image": "assets/img/bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T21:35:47+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478906-bni-dan-bpjs-kesehatan-teken-tujuh-pks-perkuat-layanan-jkn",
+  "tags": [
+   "BNI",
+   "BPJS Kesehatan",
+   "JKN",
+   "BUMN"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk atau BNI memperluas kerja sama dengan Badan Penyelenggara Jaminan Sosial (BPJS) Kesehatan melalui penandatanganan tujuh perjanjian kerja sama baru untuk mendukung Program Jaminan Kesehatan Nasional (JKN). Kesepakatan ini menyangkut cara hampir 284 juta peserta JKN membayar iuran bulanan, sekaligus bagaimana BPJS Kesehatan mengelola dana untuk membayar klaim ke rumah sakit dan fasilitas kesehatan lain.",
+   "Penandatanganan dilakukan oleh Direktur Utama BNI Putrama Wahju Setyawan dan Direktur Utama BPJS Kesehatan Prihati Pujowaskito di Grha BNI, Jakarta, pada Senin, 16 November 2026. Ketujuh perjanjian tersebut mencakup pengelolaan iuran JKN, fasilitas autodebit dari rekening peserta, layanan payment point online bank atau PPOB, serta dukungan pengelolaan dana dan transaksi keuangan BPJS Kesehatan. BNI menyatakan akan memanfaatkan jaringan kantor cabang, layanan digital, dan agen perbankan Agen46 untuk memperluas titik pembayaran iuran, termasuk di wilayah yang akses perbankannya masih terbatas.",
+   "Direktur Utama BPJS Kesehatan Prihati Pujowaskito menyebut kerja sama ini sebagai kelanjutan kemitraan jangka panjang, dengan harapan ke depan kolaborasi juga menguat dalam pembayaran klaim dan pengelolaan investasi dana BPJS Kesehatan. Ia menambahkan bahwa skala kepesertaan JKN yang kini mencapai hampir 284 juta jiwa membuat dukungan sistem perbankan yang andal menjadi kebutuhan, baik untuk pengelolaan dana maupun pembayaran kepada fasilitas kesehatan."
+  ],
+  "fotoAdegan": "A community banking agent helping a villager complete a mobile payment at a small roadside kiosk, rural road, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/17/6afc657e9b2ad-perjanjian-kerja-sama-pks-antara-bni-dan-bpjs-kesehatan-di-grha-bni-jakarta-senin-16112026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah lingkup kerja sama BNI dan BPJS Kesehatan, dari sekadar menerima pembayaran iuran menjadi tujuh perjanjian sekaligus, termasuk dukungan pengelolaan dana dan rencana ke depan di pembayaran klaim rumah sakit. Yang terdampak langsung adalah hampir 284 juta peserta JKN yang membayar iuran bulanan, terutama yang mengandalkan Agen46 di daerah dengan akses bank terbatas, serta fasilitas kesehatan yang menerima pembayaran klaim dari BPJS Kesehatan. Namun kerja sama ini disebut sendiri oleh BPJS Kesehatan sebagai kelanjutan kemitraan yang sudah berjalan lama, bukan skema baru, sehingga belum jelas apakah akan ada perubahan biaya transaksi atau kecepatan pencairan klaim bagi peserta dan rumah sakit. Yang masih kurang untuk membaca ke mana arah kerja sama ini adalah rincian isi ketujuh perjanjian tersebut, termasuk apakah ada target waktu atau nilai dana yang akan dikelola BNI untuk investasi BPJS Kesehatan seperti disinggung Direktur Utama BPJS Kesehatan.",
+  "imageV": "mwkyc58u"
+ },
+ {
   "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
   "category": "Energi",
   "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
@@ -85,6 +139,33 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Angka HMA ini bukan sekadar catatan statistik, karena langsung jadi dasar hitung royalti yang wajib dibayar perusahaan tambang ke negara untuk periode 15-30 November 2026: semakin tinggi HMA suatu mineral, semakin besar pula royalti yang disetor perusahaan tambang komoditas itu. Yang paling terdampak adalah perusahaan tambang nikel dan aluminium, karena harga acuan kedua logam itu naik dua periode berturut-turut dan juga lebih tinggi dibanding setahun lalu, sehingga beban royaltinya ikut naik pada periode ini. Tembaga punya pola berbeda, meski turun 1,3 persen pada periode ini, harganya masih 33 persen lebih tinggi dibanding November tahun lalu, jadi penurunan kali ini lebih mirip koreksi kecil ketimbang pembalikan dari tren setahun yang menguat tajam. Yang perlu dicermati adalah penetapan HMA berikutnya untuk paruh pertama Desember 2026, karena itu akan menunjukkan apakah kenaikan nikel dan aluminium terus berlanjut atau mulai mereda seperti yang sudah terjadi pada tembaga dan emas.",
   "imageV": "mwksjw8d"
+ },
+ {
+  "slug": "bri-dan-playtopia-luncurkan-kartu-debit-tabungan-anak",
+  "category": "Perbankan",
+  "title": "BRI dan Playtopia [Luncurkan] Kartu Debit Tabungan Anak",
+  "deck": "BRI menggandeng Playtopia meluncurkan kartu debit co-branding BRI Junio untuk mendorong anak-anak menabung sambil bermain.",
+  "image": "assets/img/bri-dan-playtopia-luncurkan-kartu-debit-tabungan-anak.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T20:47:31+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478891-bri-dan-playtopia-group-luncurkan-kartu-debit-co-branding-bri-junio-x-playtopia",
+  "tags": [
+   "BRI",
+   "BBRI",
+   "Playtopia",
+   "BRI Junio"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk atau BRI bersama Playtopia Group meluncurkan kartu debit co-branding BRI Junio x Playtopia pada Rabu, 11 November 2026, di Playtopia Gandaria City, Jakarta. Produk ini menyasar anak-anak di bawah usia 17 tahun yang ingin mulai menabung, sekaligus membantu orang tua merencanakan keuangan anak sejak dini.",
+   "BRI Junio sendiri adalah produk tabungan khusus anak yang sudah ada sebelumnya, dengan fasilitas setoran kapan saja dan penarikan tanpa batas selama saldo mencukupi. Untuk membuka rekening ini, orang tua wajib sudah memiliki rekening Tabungan BRI BritAma atau Simpedes sebagai rekening induk, dengan setoran awal minimal Rp300.000. Proses menabung bisa diotomatisasi lewat fitur Automatic Fund Transfer yang memindahkan dana dari rekening orang tua ke rekening anak secara berkala.",
+   "Playtopia merupakan penyedia taman bermain anak dalam ruangan dengan konsep yang mereka sebut Happiness Factory. Lewat kolaborasi ini, aktivitas bermain bersama maskot dan penjelajahan area permainan dipadukan dengan pengenalan layanan perbankan kepada anak-anak. Acara peluncuran dihadiri Direktur Network and Retail Funding BRI Aquarius Rudianto, SEVP Transaction and Retail Funding BRI Trilaksito Singgih Hudanendra, dan CEO Playtopia Artherius James Giandhi.",
+   "Aquarius Rudianto menyampaikan bahwa kartu debit co-branding ini adalah langkah BRI menghadirkan layanan perbankan yang ramah anak dan keluarga, sambil membiasakan anak menabung sejak dini. Ia menyebut inisiatif ini juga bertujuan memperkuat kedekatan layanan BRI dengan keluarga Indonesia."
+  ],
+  "fotoAdegan": "A child placing a coin into a piggy bank inside a colorful indoor playground, soft play equipment in the background, warm lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/17/6afc5a3e64b8a-bri-dan-playtopia-group-luncurkan-kartu-debit-co-branding-bri-junio-x-playtopia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah bentuk kerja sama BRI memasarkan tabungan anak BRI Junio lewat kartu debit bersama bisnis taman bermain, dengan syarat orang tua sudah punya rekening BritAma atau Simpedes dan setoran awal Rp300.000. Yang langsung terdampak adalah orang tua nasabah BRI yang punya anak di bawah 17 tahun, terutama yang sering membawa anak ke Playtopia. Berita ini belum menyebut berapa jumlah pemegang BRI Junio saat ini atau target penambahan rekening dari kolaborasi ini, jadi belum bisa dipastikan apakah ini sekadar kampanye pemasaran sesaat atau bagian dari upaya BRI yang lebih luas menggaet dana murah dari segmen keluarga lewat kemitraan gaya hidup. Yang perlu dipantau adalah apakah BRI mengulang pola co-branding serupa dengan mitra konsumen lain, atau apakah laporan keuangan BRI kuartal mendatang menunjukkan pertumbuhan dana pihak ketiga ritel dari segmen tabungan anak.",
+  "imageV": "mwkyc5qx"
  },
  {
   "slug": "irra-revisi-laporan-keuangan-semester-i-2026-koreksi-11-pos-akun",
@@ -195,7 +276,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini sebenarnya cuma pembaruan angka, bukan kebijakan baru: pemerintah menyebut 250 proyek strategis nasional sudah rampung sejak 2016 dengan investasi Rp2.396 triliun, sementara 302.262 pekerja terserap lewat kawasan ekonomi khusus dan investasi nasional Januari-September 2026 tumbuh 7,6 persen. Yang terdampak langsung adalah daerah-daerah lokasi proyek dan kawasan ekonomi khusus itu, juga pencari kerja yang mengincar lapangan kerja baru dari proyek-proyek tersebut. Namun yang masih kurang untuk membaca ke mana arah program ini adalah pembanding: pemerintah tidak menyebut berapa proyek yang molor atau berapa target investasi KEK tahun ini, sehingga belum jelas apakah pertumbuhan 7,6 persen itu makin kencang atau justru melambat dari kuartal sebelumnya. Data yang akan menjawabnya adalah rilis realisasi investasi kuartal IV 2026 dari BKPM yang biasanya terbit akhir Januari 2027, serta evaluasi progres PSN berikutnya dari Kemenko Perekonomian.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "soda-abu-indonesia-bebas-kuota-impor-india",
@@ -889,7 +970,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan daftar target dan proyek energi bersih yang ingin dipercepat Indonesia: pembangkit surya 100 Gigawatt dikejar dalam tiga tahun, campuran biodiesel sawit dinaikkan jadi B50, dan bensin campuran etanol dari tebu atau singkong ditargetkan mulai 2027 lalu diperbesar pada 2028. Proyek pengolahan sampah jadi listrik di Legok Nangka senilai sekitar US$400 juta ditargetkan selesai tahap pendanaannya, yaitu saat uang pembangunan resmi disetujui, pada akhir 2026, sementara saluran listrik Jawa-Sumatra dan tiga proyek panas bumi di Lampung, Bengkulu, dan Sumatera Utara masih pada tahap studi kelayakan, artinya belum pasti jalan. Yang akan terdampak lebih dulu adalah warga sekitar lokasi proyek panas bumi dan tempat pengolahan sampah itu, petani sawit serta tebu sebagai pemasok bahan baku biodiesel dan bioetanol, dan nantinya pengendara yang memakai bahan bakar campuran baru. Pola yang terlihat adalah Indonesia memakai forum kerja sama regional seperti AZEC untuk mencari pendanaan dan mitra asing, terutama Jepang, bagi proyek-proyek yang sebagian masih berupa target dan studi. Penanda paling konkret untuk menilai apakah rencana ini benar berjalan adalah apakah financial close proyek Legok Nangka tercapai sesuai jadwal akhir 2026.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",

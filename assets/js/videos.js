@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "hqfJQwvWzmg",
+  "title": "Viva Media Asia Gelar RUPS Tahunan 2025",
+  "category": "Pasar Modal",
+  "program": "Kabar Utama",
+  "summary": "PT Visi Media Asia Tbk (VIVA) menggelar Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025 pada Selasa, 17 November 2026 di Jakarta, dengan agenda pengesahan laporan tahunan.",
+  "takeaway": "Relevan bagi investor pasar modal karena RUPST merupakan forum resmi pengesahan laporan keuangan dan kinerja tahunan emiten.",
+  "terbit": "2026-11-17T15:57:31+00:00"
+ },
+ {
   "id": "n_CTphKzcP0",
   "title": "ASEAN Diajak Simpan Cadangan Minyak di Jepang",
   "category": "Energi",

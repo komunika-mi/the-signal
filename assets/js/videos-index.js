@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "u5lQjJU5mrQ",
+  "title": "Trump Ajak ASEAN Gabung Aliansi Teknologi Pax Silica",
+  "category": "Teknologi",
+  "program": "OneNews Update",
+  "summary": "Presiden AS Donald Trump dikabarkan mengajak Indonesia dan negara ASEAN lain bergabung dalam inisiatif Pax Silica, program kerja sama teknologi yang digagas Amerika Serikat.",
+  "takeaway": "Kerja sama teknologi semacam ini berpotensi memengaruhi arah investasi dan rantai pasok industri di kawasan, termasuk Indonesia."
+ },
+ {
+  "id": "rhHowOfT8RA",
+  "title": "Menkeu: Defisit APBN Oktober Capai Rp379,3 Triliun",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara mengungkap defisit APBN per Oktober 2026 mencapai Rp379,3 triliun, setara 1,47 persen dari PDB, dan disebut masih sesuai target pemerintah.",
+  "takeaway": "Angka defisit fiskal ini penting bagi pembaca ekonomi untuk menilai kesehatan APBN dan ruang fiskal pemerintah menjelang akhir tahun."
+ },
+ {
   "id": "UEl73Rju3Zg",
   "title": "KLH Segera Terbitkan Aturan Produsen Wajib Kelola Sampah",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi bersama sejumlah menteri kabinet dan kepala lembaga di Istana Kepresidenan, Jakarta.",
   "takeaway": "Rapat tingkat tinggi ini penting diikuti karena berpotensi menjadi acuan arah kebijakan ekonomi pemerintah ke depan."
- },
- {
-  "id": "hhmATb2CzUQ",
-  "title": "Wapres Gibran Rakabuming Raka Dialog dengan Petani Kakao di Mamuju",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Wakil Presiden Gibran Rakabuming Raka berdialog dengan para petani kakao di Mamuju, Sulawesi Barat, membahas sejumlah hal terkait komoditas kakao.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut nasib petani dan komoditas kakao yang menjadi salah satu andalan ekspor Indonesia."
- },
- {
-  "id": "OK2y12-bjTs",
-  "title": "Presiden Prabowo Pimpin Ratas Bahas Perkembangan Ekonomi",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Presiden Prabowo Subianto memimpin rapat terbatas bidang ekonomi di Istana Merdeka, Jakarta, Senin, 2 November 2026, dengan dihadiri sejumlah menteri dan kepala badan.",
-  "takeaway": "Rapat ini layak disimak karena bisa memberi gambaran arah kebijakan ekonomi pemerintah dalam waktu dekat."
  }
 ];

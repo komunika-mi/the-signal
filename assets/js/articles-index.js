@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "umkm-ekspor-catat-us-361-juta-79-masih-potensi",
+  "category": "UMKM",
+  "title": "UMKM Ekspor Catat US$361 Juta, [79%] Masih Potensi",
+  "deck": "Nilai transaksi business matching ekspor UMKM Januari-Oktober 2026 mencapai US$361,61 juta, tapi 79 persennya masih berupa potensi, bukan pesanan pembelian pasti.",
+  "date": "17 November 2026",
+  "image": "assets/img/batik-umkm.jpg",
+  "tags": [
+   "UMKM",
+   "ekspor",
+   "Kemendag",
+   "business matching"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/business-matching-kemendag-januari-oktober-2026-catat-transaksi-usd-36161-juta-dan-libatkan-1433-pelaku-usaha",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ri-bidik-potensi-transaksi-us-8-97-juta-di-expo-haji-jeddah",
+  "category": "Bisnis",
+  "title": "RI Bidik Potensi Transaksi [US$8,97 Juta] di Expo Haji Jeddah",
+  "deck": "Delapan perusahaan Indonesia menjajaki bisnis di Hajj Conference & Expo 2026 Jeddah, PT Family Food Indonesia meneken MoU dan mencatat potensi transaksi terbesar.",
+  "date": "17 November 2026",
+  "image": "assets/img/ri-bidik-potensi-transaksi-us-8-97-juta-di-expo-haji-jeddah.jpg",
+  "imageV": "mwkjdmuc",
+  "tags": [
+   "ekspor",
+   "Arab Saudi",
+   "haji dan umrah",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-hasilkan-mou-dan-transaksi-signifikan-dalam-hajj-conference-expo-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
   "category": "Aksi Korporasi",
   "title": "IIKP: Asuransi Jiwa IFG [Tambah] 740,5 Juta Saham, Suara ke 9,49%",
@@ -6487,38 +6521,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109182556-65146-0/FinancialStatement-2026-III-FAST.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bris-kantongi-restu-rupslb-untuk-rights-issue-ii",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Kantongi Restu RUPSLB untuk [Rights Issue] II",
-  "deck": "Pemegang saham BSI menyetujui penerbitan hingga 6,8 miliar saham baru lewat skema HMETD II, harga dan jadwal pasti masih menyusul.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "rights issue",
-   "RUPSLB",
-   "PMHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ff8ea6819_02a75a2e93.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-pastikan-tambah-kuota-pertalite-anggaran-cukup",
-  "category": "Energi",
-  "title": "Pemerintah Pastikan Tambah Kuota [Pertalite], Anggaran Cukup",
-  "deck": "Pemerintah menambah kuota Pertalite setelah konsumsi melonjak akibat kenaikan harga Pertamax, dan Menko Airlangga memastikan anggaran negara masih mencukupi.",
-  "date": "9 November 2026",
-  "image": "assets/img/pemerintah-pastikan-tambah-kuota-pertalite-anggaran-cukup.jpg",
-  "imageV": "mw9bbe2f",
-  "tags": [
-   "pertalite",
-   "bbm subsidi",
-   "airlangga hartarto",
-   "bph migas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477410-kuota-pertalite-bakal-ditambah-menko-airlangga-anggaran-masih-ada"
  }
 ];

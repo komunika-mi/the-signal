@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "u5lQjJU5mrQ",
+  "title": "Trump Ajak ASEAN Gabung Aliansi Teknologi Pax Silica",
+  "category": "Teknologi",
+  "program": "OneNews Update",
+  "summary": "Presiden AS Donald Trump dikabarkan mengajak Indonesia dan negara ASEAN lain bergabung dalam inisiatif Pax Silica, program kerja sama teknologi yang digagas Amerika Serikat.",
+  "takeaway": "Kerja sama teknologi semacam ini berpotensi memengaruhi arah investasi dan rantai pasok industri di kawasan, termasuk Indonesia.",
+  "terbit": "2026-11-17T10:00:15+00:00"
+ },
+ {
+  "id": "rhHowOfT8RA",
+  "title": "Menkeu: Defisit APBN Oktober Capai Rp379,3 Triliun",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Keuangan Suahasil Nazara mengungkap defisit APBN per Oktober 2026 mencapai Rp379,3 triliun, setara 1,47 persen dari PDB, dan disebut masih sesuai target pemerintah.",
+  "takeaway": "Angka defisit fiskal ini penting bagi pembaca ekonomi untuk menilai kesehatan APBN dan ruang fiskal pemerintah menjelang akhir tahun.",
+  "terbit": "2026-11-17T09:08:32+00:00"
+ },
+ {
   "id": "UEl73Rju3Zg",
   "title": "KLH Segera Terbitkan Aturan Produsen Wajib Kelola Sampah",
   "category": "Industri",

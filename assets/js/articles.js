@@ -3,6 +3,43 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "inet-cakrawala-nexus-akuisisi-6-68-miliar-saham-suara-29-87",
+  "category": "Aksi Korporasi",
+  "title": "INET: Abadi Kreasi [Jual] 6,685 Miliar Saham, Suara Susut ke 29,89%",
+  "deck": "PT Abadi Kreasi Unggul Nusantara, yang sebelumnya menguasai 59,76% suara INET, melepas 6,685 miliar saham lewat perjanjian repo Rp300 per saham, hak suaranya kini 29,89%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T11:35:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4304-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "laporan kepemilikan",
+   "Abadi Kreasi Unggul Nusantara",
+   "Cakrawala Nexus Investama"
+  ],
+  "body": [
+   "Pihak yang melepas 6,685 miliar saham PT Sinergi Inti Andalan Prima Tbk (INET) kepada PT Cakrawala Nexus Investama akhirnya terungkap. Dalam laporan kepemilikan baru ke Otoritas Jasa Keuangan, PT Abadi Kreasi Unggul Nusantara melaporkan bahwa pada 16 November 2026 pihaknya menjual 6.685.000.000 saham INET melalui perjanjian repurchase agreement atau repo, dengan harga Rp300 per saham. Sebelum transaksi, Abadi Kreasi menguasai 13.373.689.331 saham atau 59,76 persen hak suara INET, menjadikannya pemegang saham mayoritas. Setelah melepas hampir separuh kepemilikannya itu, saham yang tersisa di tangan Abadi Kreasi adalah 6.688.689.331 lembar, dan hak suaranya susut menjadi 29,89 persen. Dokumen mencatat tujuan transaksi sebagai divestasi.",
+   "Penjualan ini adalah sisi lain dari transaksi yang sebelumnya dilaporkan oleh PT Cakrawala Nexus Investama. Cakrawala Nexus, yang sebelumnya tidak memiliki saham INET sama sekali, kini memegang 6.685.000.000 saham atau 29,87 persen hak suara INET lewat perjanjian repo yang sama, dengan harga dan tanggal transaksi yang identik, yakni 16 November 2026 di harga Rp300 per saham. Nilai total transaksi berdasarkan harga dan jumlah saham tersebut sekitar Rp2,01 triliun.",
+   "Rangkaian pelaporan ini muncul tidak lama setelah INET menggelar paparan publik yang menunjukkan perbaikan rasio lancar dan posisi kas perusahaan. Namun dokumen kepemilikan yang beredar sejauh ini, baik dari sisi pembeli maupun penjual, tidak menyebutkan kaitan apa pun antara pergantian pemegang saham ini dan kinerja operasional perusahaan."
+  ],
+  "fotoAdegan": "Technician inspecting server racks and fiber optic cable bundles in a data center aisle, blue indicator lights glowing",
+  "takeaway": "Rangkaian laporan ini kami nilai condong negatif bagi tata kelola INET, bukan karena transaksinya memengaruhi kas atau laba perusahaan, melainkan karena pemegang saham yang sebelumnya menguasai mayoritas suara, 59,76 persen, melepas hampir separuh kepemilikannya sendiri dan kini kehilangan status itu setelah hak suaranya turun ke 29,89 persen. Yang tersentuh hanyalah hak suara, yaitu porsi suara di rapat pemegang saham, karena saham yang berpindah tangan adalah saham lama yang sudah beredar di pasar, bukan saham baru, sehingga ekuitas, arus kas, dan jumlah saham beredar INET tidak berubah, begitu juga laba per saham. Yang berubah secara nyata adalah peta kekuasaan di INET, dari satu pemegang saham mayoritas menjadi dua pemegang saham dengan porsi suara yang hampir setara, masing-masing sekitar 29,89 persen dan 29,87 persen, situasi yang membuka kemungkinan perimbangan kekuatan baru dalam pengambilan keputusan perusahaan. Yang perlu dipantau berikutnya adalah apakah ada keterbukaan lanjutan soal kesepakatan di balik perjanjian repo ini, termasuk kemungkinan jangka waktu atau opsi pembelian kembali saham oleh Abadi Kreasi, sebab dokumen yang diterbitkan hari ini belum menyertakan jadwal atau batas waktu apa pun terkait kelanjutan transaksi.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T10:45:15",
+    "ringkas": "Penjual saham INET terungkap: Abadi Kreasi Unggul Nusantara melepas 6,685 miliar saham, hak suaranya susut dari 59,76% ke 29,89%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0514-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-17T10:45:15"
+ },
+ {
   "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",
   "category": "Energi",
   "title": "Pemerintah Targetkan Elektrifikasi [100] Persen pada 2029",
@@ -85,6 +122,109 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret dari pameran ini baru satu: nota kesepahaman gula aren senilai US$5.700, jauh lebih kecil dibanding total potensi transaksi yang diklaim mencapai US$303.730 dari 70 pertemuan bisnis. Ini wajar untuk pameran dagang, sebab potensi transaksi biasanya cuma berarti minat awal pembeli, bukan kontrak yang sudah ditandatangani, jadi angka Rp5,4 miliar itu belum sama dengan nilai ekspor yang sudah pasti terjadi. Yang terdampak langsung adalah produsen kecil bumbu dan rempah seperti Mahorahora, serta dua restoran Indonesia di Tokyo yang berfungsi sebagai etalase produk ke pembeli Jepang yang dikenal hati-hati sebelum menjalin kerja sama baru. Arah yang terlihat adalah pola promosi ekspor Kemendag yang memakai restoran Indonesia di luar negeri sebagai pintu masuk sebelum transaksi dagang lebih besar, mengikuti jejak Mahorahora yang baru saja ekspor perdana ke Malaysia usai Trade Expo Indonesia Oktober lalu. Yang akan menentukan apakah pola ini berlanjut atau berhenti di tahap wacana adalah rencana demo olahan cokelat bersama Kopi Kalyan Tokyo awal 2027, serta apakah pertemuan bisnis lain dari JFEX benar-benar berubah jadi kontrak dalam beberapa bulan mendatang.",
   "imageV": "mwk63phu"
+ },
+ {
+  "slug": "rupslb-ketiga-hade-24-november-usai-kuorum-gagal-dua-kali",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB Ketiga HADE 24 November, usai [Kuorum] Gagal Dua Kali",
+  "deck": "RUPSLB ketiga HADE digelar 24 November 2026 setelah dua rapat sebelumnya gagal kuorum, dengan agenda tunggal persetujuan penyesuaian KBLI 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T10:39:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/44504164f2_8c32a03b7c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HADE",
+  "tags": [
+   "HADE",
+   "RUPSLB",
+   "Himalaya Energi Perkasa",
+   "KBLI"
+  ],
+  "body": [
+   "PT Himalaya Energi Perkasa Tbk (HADE), dulu bernama PT HD Capital Tbk, akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk ketiga kalinya pada Selasa, 24 November 2026 pukul 15.00 hingga 16.00 WIB. Lokasinya di Event Space, RuangKami Coworking Space, Plaza Menteng, Jl. HOS Cokroaminoto 79, Jakarta Pusat. Rapat ini diadakan karena RUPSLB pertama pada 10 Juni 2026 dan RUPSLB kedua pada 25 Juni 2026 sama-sama gagal mencapai kuorum kehadiran yang disyaratkan, sehingga keputusan belum bisa diambil pada dua kesempatan sebelumnya.",
+   "Agenda RUPSLB ketiga ini hanya satu, yaitu persetujuan penyesuaian Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025, semacam kode standar yang menunjukkan jenis kegiatan usaha perusahaan di mata pemerintah. Pemegang saham yang berhak hadir atau memberi kuasa adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 16 November 2026 pukul 16.00 WIB. Perseroan tidak mengirim undangan terpisah, sehingga pengumuman ini sekaligus berfungsi sebagai undangan resmi.",
+   "Pemegang saham yang tidak bisa hadir langsung dapat memberi kuasa melalui sistem elektronik e-RUPS atau surat kuasa tertulis yang harus diterima direksi paling lambat tiga hari kerja sebelum rapat. Anggota direksi, komisaris, dan karyawan perusahaan boleh menjadi penerima kuasa, tetapi suara mereka tidak ikut dihitung dalam pemungutan suara. Pengumuman ditandatangani oleh Direktur Martha Ester Lumenta pada 17 November 2026."
+  ],
+  "fotoAdegan": "Rows of empty chairs facing a small stage in a modern coworking event space, soft morning light through large windows.",
+  "takeaway": "Laporan ini netral bagi fundamental Himalaya Energi Perkasa, karena satu-satunya agenda rapat hanya penyesuaian kode klasifikasi usaha (KBLI), bukan keputusan yang langsung mengubah modal, utang, atau kas perusahaan. Agenda semacam ini tidak menyentuh pos-pos yang biasa dipantau pelaku pasar seperti ekuitas (modal sendiri perusahaan), arus kas, atau laba per saham, karena KBLI hanya soal pencatatan jenis usaha untuk keperluan administrasi dan izin, bukan transaksi keuangan. Yang justru menarik perhatian adalah fakta dua RUPSLB sebelumnya gagal mencapai kuorum, yang biasanya berarti porsi pemegang saham yang hadir atau mewakilkan suaranya terlalu kecil dari yang disyaratkan, sehingga bisa menandakan rendahnya partisipasi pemegang saham publik perusahaan ini. Yang perlu dipantau adalah apakah RUPSLB ketiga pada 24 November 2026 akhirnya mencapai kuorum dan menyetujui agenda tersebut, mengingat aturan bursa biasanya memberi kelonggaran syarat kuorum pada percobaan rapat berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "RUPSLB ketiga HADE digelar"
+   }
+  ]
+ },
+ {
+  "slug": "rupst-arti-9-desember-perubahan-pengurus-masuk-agenda",
+  "category": "Aksi Korporasi",
+  "title": "RUPST ARTI 9 Desember: [Perubahan Pengurus] Masuk Agenda",
+  "deck": "ARTI menjadwalkan RUPST 9 Desember 2026, membahas laporan tahunan 2025, penunjukan akuntan publik, perubahan susunan pengurus, dan honorarium direksi-komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T10:26:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/837d777f11_b81dbc693e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARTI",
+  "tags": [
+   "ARTI",
+   "RUPST",
+   "Ratu Prabu Energi",
+   "Perubahan Pengurus"
+  ],
+  "body": [
+   "PT Ratu Prabu Energi Tbk (ARTI) mengundang pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Tahunan (RUPST) yang akan digelar Rabu, 9 Desember 2026, pukul 10.30 WIB di Gedung Ratu Prabu 1, Jalan TB Simatupang Kav. 20, Cilandak, Jakarta. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan hingga 16 November 2026 pukul 16.00 WIB adalah yang berhak hadir atau memberikan suara dalam rapat ini.",
+   "Ada empat agenda yang akan dibahas. Pertama, persetujuan Laporan Tahunan dan Laporan Keuangan Konsolidasian untuk tahun buku yang berakhir 31 Desember 2025, termasuk laporan pertanggungjawaban Direksi dan laporan pengawasan Dewan Komisaris. Kedua, pemberian wewenang kepada Dewan Komisaris untuk menunjuk Akuntan Publik yang akan mengaudit laporan keuangan tahun buku 2026 beserta honorariumnya. Ketiga, persetujuan perubahan susunan pengurus Perseroan, meski dokumen pemanggilan ini belum merinci posisi atau nama yang akan diubah. Keempat, penentuan honorarium, gaji, dan tunjangan bagi anggota Dewan Komisaris dan Direksi.",
+   "Rapat akan sah dan bisa mengambil keputusan mengikat jika dihadiri pemegang saham atau kuasanya yang mewakili lebih dari separuh total saham dengan hak suara yang sah. Perseroan menyelenggarakan rapat secara hibrida, bisa dihadiri fisik di lokasi atau secara elektronik lewat aplikasi eASY.KSEI, dan mendorong pemegang saham memberi kuasa elektronik (e-proxy) kepada perwakilan independen dari Biro Administrasi Efek, PT Ficomindo Buana Registrar. Batas waktu deklarasi kehadiran, kuasa, dan suara lewat eASY.KSEI adalah pukul 12.00 WIB pada satu hari kerja sebelum tanggal rapat, sementara pendaftaran di lokasi pada hari H ditutup pukul 10.25 WIB."
+  ],
+  "fotoAdegan": "Empty corporate boardroom with rows of chairs arranged for a shareholders meeting, morning light through tall windows",
+  "takeaway": "Catatan ini netral, karena pemanggilan RUPST ini hanya menjadwalkan rapat dan merinci agendanya, belum memuat keputusan apa pun yang bisa dinilai menguntungkan atau merugikan ARTI. Dua pos yang pantas dicermati dari agenda adalah perubahan susunan pengurus, yang berarti kemungkinan ada direksi atau komisaris yang berganti dan bisa menggeser arah strategi perusahaan, serta penetapan honorarium Direksi dan Dewan Komisaris, yang merupakan beban gaji yang pada akhirnya mengurangi laba perusahaan meski biasanya porsinya kecil dibanding total biaya. Dokumen ini tidak merinci siapa yang diusulkan masuk atau keluar dari jajaran pengurus, sehingga dampaknya terhadap arah perusahaan belum bisa dinilai dari sini saja. Yang perlu dipantau berikutnya adalah hasil RUPST pada 9 Desember 2026, terutama apakah agenda perubahan susunan pengurus benar disetujui dan siapa yang masuk atau keluar dari jajaran direksi-komisaris, serta berapa besaran honorarium yang akhirnya ditetapkan untuk Direksi dan Dewan Komisaris.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Recording date pemegang saham berhak hadir RUPST"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "RUPST Tahunan ARTI digelar"
+   }
+  ]
+ },
+ {
+  "slug": "asri-manunggal-prime-jual-356-2-juta-saham-suara-jadi-21",
+  "category": "Aksi Korporasi",
+  "title": "ASRI: Manunggal Prime [Jual] 356,2 Juta Saham, Suara Jadi 21%",
+  "deck": "Manunggal Prime Development, entitas direksi ASRI, melepas 356,2 juta saham lewat fasilitas repurchase agreement, hak suara turun dari 23% jadi 21%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T10:23:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8731-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASRI",
+  "tags": [
+   "ASRI",
+   "Alam Sutera Realty",
+   "Manunggal Prime Development",
+   "repurchase agreement"
+  ],
+  "body": [
+   "Manunggal Prime Development, yang berstatus sebagai Direksi di PT Alam Sutera Realty Tbk (ASRI), melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di ASRI berkurang dari 4.519.863.564 unit menjadi 4.163.650.564 unit, atau turun 356.213.000 lembar. Pengurangan ini setara 7,88 persen dari jumlah saham yang dipegangnya sebelum transaksi. Akibatnya, hak suaranya di ASRI turun dari 23 persen menjadi 21 persen.",
+   "Dalam laporan tersebut, jenis transaksinya tercatat sebagai Repurchase Agreement atau REPO, dengan tujuan transaksi disebutkan sebagai 'Fasilitas Repurchase Agreement (REPO)'. Saham yang terlibat sebanyak 356.213.000 lembar saham biasa dengan harga Rp130 per saham, dan tanggal transaksinya tercatat 8 April 2026. Laporan ini sendiri baru disampaikan ke OJK pada 17 November 2026 dengan nomor surat LK/17112026/0002/1, sesuai kewajiban pelaporan dalam POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Construction cranes rising above unfinished townhouses in a suburban housing development, overcast afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi ASRI, karena porsi yang dilepas cukup besar, hampir 8 persen dari kepemilikan Manunggal Prime Development sebelumnya, dan dilakukan lewat skema repurchase agreement yang biasanya berarti saham dipakai sebagai jaminan pembiayaan dan kemudian benar-benar berpindah tangan. Yang tersentuh di sini adalah hak suara pengendali, bukan jumlah saham beredar ASRI secara keseluruhan, sehingga tidak ada dilusi laba per saham, tetapi kekuatan kendali salah satu pemegang saham utama di perusahaan berkurang dua poin persentase, dari 23 persen jadi 21 persen. Pelaku pasar biasanya mencermati transaksi berbasis repo semacam ini karena sering menandakan kebutuhan likuiditas di pihak pemegang saham yang bersangkutan. Dokumen ini tidak menyebut tenggat atau agenda lanjutan apa pun, sehingga yang perlu dipantau adalah apakah Manunggal Prime Development atau pihak terafiliasi lain di ASRI kembali melaporkan pengurangan kepemilikan dalam waktu dekat.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram",
@@ -24611,8 +24751,8 @@ var ARTICLES = [
  {
   "slug": "ranc-gelar-rupslb-9-desember-bahas-perubahan-kegiatan-usaha",
   "category": "Aksi Korporasi",
-  "title": "RANC Gelar RUPSLB 9 Desember, Bahas [Perubahan] Kegiatan Usaha",
-  "deck": "Supra Boga Lestari (RANC) menjadwalkan RUPSLB pada 9 Desember 2026 untuk membahas perubahan kegiatan usaha dan amendemen Pasal 3 anggaran dasar.",
+  "title": "RUPSLB RANC 9 Desember: [Pemanggilan] Resmi, Bahas Studi Kelayakan",
+  "deck": "Supra Boga Lestari (RANC) resmi mengirim pemanggilan RUPSLB 9 Desember 2026, mengungkap studi kelayakan penambahan usaha oleh KJPP Benedictus Darmapuspita dan penyesuaian KBLI 2025.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T11:06:21",
@@ -24623,16 +24763,41 @@ var ARTICLES = [
    "RANC",
    "RUPSLB",
    "Supra Boga Lestari",
-   "perubahan kegiatan usaha"
+   "Perubahan Kegiatan Usaha"
   ],
   "body": [
-   "PT Supra Boga Lestari Tbk (RANC), pemilik jaringan supermarket Ranch Market dan Farmers Market, mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 Desember 2026 pukul 09.30 WIB. Rapat akan berlangsung di SBL Academy, Farmers Market Pondok Kopi Lantai 2, Jalan Robusta Raya No. 1, Duren Sawit, Jakarta Timur, serta bisa diikuti secara elektronik lewat sistem eASY.KSEI. RUPSLB ini diselenggarakan atas permintaan Dewan Komisaris Perseroan sesuai surat No. 172/CORSEC-SBL/X/2026 tertanggal 19 Oktober 2026, bukan inisiatif direksi.",
-   "Agenda utama yang disebutkan dalam surat adalah perubahan kegiatan usaha Perseroan, termasuk rancangan perubahan Pasal 3 anggaran dasar, yaitu pasal yang mengatur ruang lingkup bisnis resmi perusahaan. Untuk mendukung agenda ini, perusahaan wajib menyediakan dokumen Keterbukaan Informasi dan Laporan Studi Kelayakan, semacam kajian yang menilai apakah rencana bisnis baru itu layak dijalankan, sesuai ketentuan POJK No. 17/POJK.04/2020 tentang transaksi material dan perubahan kegiatan usaha. Kedua dokumen itu baru akan tersedia dan bisa diunduh di situs ranchmarket.co.id mulai tanggal pengumuman resmi RUPSLB, yaitu 17 November 2026, sampai hari pelaksanaan rapat.",
-   "Dari sisi administrasi, pemegang saham yang berhak hadir adalah mereka yang namanya tercatat di Daftar Pemegang Saham pada 16 November 2026, sehari sebelum pemanggilan resmi, atau pemegang saham di sub rekening KSEI pada tanggal yang sama hingga penutupan perdagangan di pasar reguler. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mewakili minimal 1/20 dari total saham berhak suara dan mengajukannya paling lambat 10 November 2026. Pemberian kuasa elektronik (e-Proxy) lewat eASY.KSEI dibuka sejak tanggal pemanggilan hingga 8 Desember 2026."
+   "Supra Boga Lestari Tbk (RANC) resmi menerbitkan surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 17 November 2026, menyusul pemberitahuan rencana rapat yang sudah diumumkan dua pekan sebelumnya. RUPSLB akan digelar Rabu, 9 Desember 2026 pukul 09.30 WIB di SBL Academy, Farmers Market Pondok Kopi, Jakarta Timur, serta bisa diikuti secara elektronik lewat eASY.KSEI. Pemanggilan ini memastikan Daftar Pemegang Saham yang berhak hadir ditetapkan pada 16 November 2026 (recording date), sehari sebelum pemanggilan ini terbit.",
+   "Dalam dokumen pemanggilan, Perseroan mengungkap bahwa Laporan Studi Kelayakan atas rencana penambahan kegiatan usaha disusun oleh Kantor Jasa Penilai Publik (KJPP) Benedictus Darmapuspita dan Rekan, dengan nomor laporan 00361/2.0103-00/BS/05/0121/1/X/2026 tertanggal 16 Oktober 2026. Laporan ini akan dipaparkan dan dibahas dalam RUPSLB sebelum pemegang saham dimintai persetujuan atas penambahan kegiatan usaha. Agenda RUPSLB juga mencakup penyesuaian kode dan uraian kegiatan usaha Perseroan saat ini dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang berlaku, sesuai aturan Badan Pusat Statistik. Dokumen ini masih belum merinci sektor usaha baru apa yang akan ditambahkan ke Pasal 3 anggaran dasar.",
+   "RUPSLB ini sebelumnya dijadwalkan atas permintaan Dewan Komisaris Perseroan lewat surat bernomor 172/CORSEC-SBL/X/2026 tanggal 19 Oktober 2026, bukan inisiatif direksi, dengan tujuan mengubah Pasal 3 anggaran dasar yang mengatur ruang lingkup bisnis resmi perusahaan. Pembahasan ini wajib disertai Laporan Studi Kelayakan sesuai Peraturan OJK No. 17/2020 tentang transaksi material dan perubahan kegiatan usaha.",
+   "Bahan RUPSLB, termasuk Laporan Studi Kelayakan, tersedia bagi pemegang saham sejak tanggal pemanggilan ini, 17 November 2026, hingga hari rapat, dan bisa diunduh di ranchmarket.co.id serta eASY.KSEI. Pemegang saham yang ingin memberi kuasa secara elektronik (e-Proxy) lewat eASY.KSEI bisa melakukannya sampai 8 Desember 2026, sehari sebelum RUPSLB berlangsung."
   ],
   "fotoAdegan": "Shoppers browsing fresh produce aisles in a modern Indonesian supermarket, bright overhead lighting, stocked shelves in soft focus",
-  "takeaway": "Laporan ini netral bagi RANC karena isinya baru sebatas jadwal dan mekanisme RUPSLB, belum memuat rincian bisnis baru apa yang akan dimasukkan ke Pasal 3 anggaran dasar, sehingga dampaknya terhadap kinerja perusahaan belum bisa dinilai arahnya. Perubahan kegiatan usaha menyentuh ruang lingkup pendapatan perusahaan ke depan, karena menambah atau mengganti lini bisnis resmi yang boleh dijalankan, yang pada akhirnya bisa mempengaruhi laba per saham jika bisnis baru itu berjalan; itu sebabnya regulator mewajibkan ada Laporan Studi Kelayakan, semacam kajian kelayakan proyek, sebelum pemegang saham memutuskan. Yang perlu dipantau pemegang saham RANC adalah publikasi Keterbukaan Informasi dan Laporan Studi Kelayakan pada 17 November 2026, karena di situlah baru akan terlihat bisnis apa yang hendak dimasuki Perseroan, serta hasil pemungutan suara pada RUPSLB tanggal 9 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini tetap netral bagi RANC, karena rangkaian pemberitahuan sampai pemanggilan ini hanya memastikan RUPSLB berjalan sesuai jadwal dan membuka siapa penyusun studi kelayakannya, tanpa mengungkap sektor usaha baru yang sebenarnya akan dimasuki perusahaan. Perubahan Pasal 3 anggaran dasar menyentuh ruang lingkup bisnis resmi perusahaan, yang bisa menambah sumber pendapatan dan memengaruhi laba per saham jika lini usaha baru itu benar dijalankan, sehingga regulator mewajibkan Laporan Studi Kelayakan, semacam kajian independen yang menilai apakah rencana bisnis baru itu masuk akal secara finansial, dipaparkan dulu ke pemegang saham sebelum pemungutan suara. Yang perlu dipantau berikutnya adalah hasil pemungutan suara dalam RUPSLB pada 9 Desember 2026 yang menentukan apakah penambahan kegiatan usaha disetujui, serta isi lengkap Laporan Studi Kelayakan yang kini bisa diunduh di ranchmarket.co.id untuk mengetahui sektor usaha yang sebenarnya dibidik Perseroan, dengan batas akhir pemberian kuasa elektronik pada 8 Desember 2026.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T11:03:33",
+    "ringkas": "RANC resmi memanggil RUPSLB 9 Desember, Laporan Studi Kelayakan disusun KJPP Benedictus Darmapuspita untuk penambahan usaha dan penyesuaian KBLI 2025.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8cf91cda01_3b47863f4b.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-17T11:03:33",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Recording date Daftar Pemegang Saham RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Batas akhir e-Proxy lewat eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "RUPSLB membahas perubahan kegiatan usaha"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "indo-laba-kuartal-iii-naik-49-jadi-rp36-7-miliar",

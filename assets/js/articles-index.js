@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "inet-cakrawala-nexus-akuisisi-6-68-miliar-saham-suara-29-87",
+  "category": "Aksi Korporasi",
+  "title": "INET: Abadi Kreasi [Jual] 6,685 Miliar Saham, Suara Susut ke 29,89%",
+  "deck": "PT Abadi Kreasi Unggul Nusantara, yang sebelumnya menguasai 59,76% suara INET, melepas 6,685 miliar saham lewat perjanjian repo Rp300 per saham, hak suaranya kini 29,89%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "laporan kepemilikan",
+   "Abadi Kreasi Unggul Nusantara",
+   "Cakrawala Nexus Investama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4304-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",
   "category": "Energi",
   "title": "Pemerintah Targetkan Elektrifikasi [100] Persen pada 2029",
@@ -57,6 +73,54 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-srasa-hadir-di-jfex-2026-jepang-bumbu-nusantara-bukukan-potensi-transaksi-rp54-m",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "rupslb-ketiga-hade-24-november-usai-kuorum-gagal-dua-kali",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB Ketiga HADE 24 November, usai [Kuorum] Gagal Dua Kali",
+  "deck": "RUPSLB ketiga HADE digelar 24 November 2026 setelah dua rapat sebelumnya gagal kuorum, dengan agenda tunggal persetujuan penyesuaian KBLI 2025.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HADE",
+   "RUPSLB",
+   "Himalaya Energi Perkasa",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/44504164f2_8c32a03b7c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-arti-9-desember-perubahan-pengurus-masuk-agenda",
+  "category": "Aksi Korporasi",
+  "title": "RUPST ARTI 9 Desember: [Perubahan Pengurus] Masuk Agenda",
+  "deck": "ARTI menjadwalkan RUPST 9 Desember 2026, membahas laporan tahunan 2025, penunjukan akuntan publik, perubahan susunan pengurus, dan honorarium direksi-komisaris.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARTI",
+   "RUPST",
+   "Ratu Prabu Energi",
+   "Perubahan Pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/837d777f11_b81dbc693e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "asri-manunggal-prime-jual-356-2-juta-saham-suara-jadi-21",
+  "category": "Aksi Korporasi",
+  "title": "ASRI: Manunggal Prime [Jual] 356,2 Juta Saham, Suara Jadi 21%",
+  "deck": "Manunggal Prime Development, entitas direksi ASRI, melepas 356,2 juta saham lewat fasilitas repurchase agreement, hak suara turun dari 23% jadi 21%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASRI",
+   "Alam Sutera Realty",
+   "Manunggal Prime Development",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8731-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram",
@@ -6457,69 +6521,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477401-upaya-penyaluran-bansos-tepat-sasaran-kemendagri-minta-pemda-percepat-registrasi-perlinsos-digital"
- },
- {
-  "slug": "amor-rinci-dividen-99-dan-rencana-buyback-di-public-expose",
-  "category": "Aksi Korporasi",
-  "title": "AMOR Rinci Dividen 99% dan Rencana Buyback di [Public Expose]",
-  "deck": "Dalam public expose tahunan 4 November 2026, manajemen AMOR memaparkan alasan kenaikan beban distribusi, dasar hitung dividen payout 99%, dan pertimbangan buyback saham.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMOR",
-   "Ashmore Asset Management",
-   "Public Expose",
-   "Dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/96088336af_ecccab5edc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bvic-victoria-investama-tambah-saham-hak-suara-ke-64-23",
-  "category": "Aksi Korporasi",
-  "title": "BVIC: Victoria Investama [Tambah] Saham, Hak Suara ke 64,23%",
-  "deck": "Victoria Investama Tbk membeli 749,6 juta saham BVIC via repo senilai sekitar Rp60 miliar, mengangkat hak suaranya di Bank Victoria dari 60,17 persen menjadi 64,23 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BVIC",
-   "Victoria Investama",
-   "Bank Victoria",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-2734-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "part-jawab-bursa-rights-issue-1-miliar-saham-dilusi-25-97",
-  "category": "Aksi Korporasi",
-  "title": "PART Jawab Bursa: Rights Issue 1 Miliar Saham, Dilusi [25,97%]",
-  "deck": "Cipta Perdana Lancar menjelaskan ke BEI rencana rights issue Rp200 miliar: maksimal 1 miliar saham baru, dilusi hingga 25,97% bagi pemegang saham yang tidak ambil HMETD.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PART",
-   "rights issue",
-   "PMHMETD",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5a132515a2_3716b9b132.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-waran-terstruktur-penerbitan-ke-2-berakhir-26-nov",
-  "category": "Aksi Korporasi",
-  "title": "DR: [Waran] Terstruktur Penerbitan ke-2 Berakhir 26 Nov",
-  "deck": "Delapan seri waran terstruktur RHB Sekuritas berbasis saham ASII, BBCA, BBNI, BBRI, BMRI, ICBP, INDF, dan TLKM berhenti diperdagangkan 23 November dan dieksekusi otomatis 26 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "delisting"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/116f24fb30_60e993fd03.pdf",
-  "sourceLabel": "IDX"
  }
 ];

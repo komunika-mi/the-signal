@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri",
+  "category": "Energi",
+  "title": "Presiden Prabowo Ajak [Jepang] Kembangkan Energi Bersih RI",
+  "deck": "Di KTT ASEAN-Jepang di Manila, Presiden Prabowo Subianto menawarkan kerja sama energi bersih, dari program biodiesel B50 hingga rencana PLTS 100 gigawatt, kepada Jepang.",
+  "date": "18 November 2026",
+  "image": "assets/img/presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri.jpg",
+  "imageV": "mwla4c7d",
+  "tags": [
+   "energi bersih",
+   "biodiesel B50",
+   "PLTS",
+   "Indonesia-Jepang"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-b50-hingga-plts-100-gwp-indonesia-ajak-jepang-perkuat-kerja-sama-energi-bersih",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "penjelasan-bursa-msky-kas-rp2-1-m-vs-utang-rp490-5-m-pkpu",
   "category": "Aksi Korporasi",
   "title": "Penjelasan Bursa MSKY: Kas Rp2,1 M vs Utang Rp490,5 M [PKPU]",
@@ -6511,22 +6529,6 @@ var ARTICLES = [
    "nikel"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c033db52a8_80d2f125f4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bata-rombak-direksi-raymond-chew-jadi-presiden-direktur",
-  "category": "Aksi Korporasi",
-  "title": "BATA Rombak Direksi, [Raymond Chew] Jadi Presiden Direktur",
-  "deck": "RUPSLB Sepatu Bata menyetujui pengunduran dua presiden direktur dan mengangkat Raymond Chew sebagai Presiden Direktur baru bersama Anibal Juan Torres Alvarez sebagai direktur.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BATA",
-   "RUPSLB",
-   "Direksi",
-   "Raymond Chew"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48eb46970d_af2f1bd3dd.pdf",
   "sourceLabel": "IDX"
  }
 ];

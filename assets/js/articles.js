@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri",
+  "category": "Energi",
+  "title": "Presiden Prabowo Ajak [Jepang] Kembangkan Energi Bersih RI",
+  "deck": "Di KTT ASEAN-Jepang di Manila, Presiden Prabowo Subianto menawarkan kerja sama energi bersih, dari program biodiesel B50 hingga rencana PLTS 100 gigawatt, kepada Jepang.",
+  "image": "assets/img/presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-17T22:39:23.537Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-b50-hingga-plts-100-gwp-indonesia-ajak-jepang-perkuat-kerja-sama-energi-bersih",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "energi bersih",
+   "biodiesel B50",
+   "PLTS",
+   "Indonesia-Jepang"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto menawarkan kerja sama energi bersih yang lebih konkret kepada Jepang dalam Konferensi Tingkat Tinggi (KTT) ke-29 ASEAN-Jepang di Manila, Filipina, Selasa (17/11). Dalam forum tersebut, ia menonjolkan program biodiesel campuran 50 persen (B50) dan pembangunan pembangkit listrik tenaga surya (PLTS) berkapasitas 100 gigawatt-peak sebagai bukti arah kemandirian energi Indonesia, sekaligus membuka pintu bagi investasi dan transfer teknologi Jepang di sektor ini.",
+   "Menurut pemerintah, program B50 resmi berjalan sejak 9 Juli 2026 di Karawang, Jawa Barat, dan hingga September 2026 penggunaan biodiesel di dalam negeri telah mencapai 11,92 juta kiloliter. Pemerintah mengklaim langkah ini menghemat devisa negara sebesar US$6,37 miliar, setara sekitar Rp164,86 triliun, sepanjang 2026, serta diproyeksikan membuka 2,1 juta lapangan kerja dan menekan emisi karbon dioksida hingga 44,46 juta ton.",
+   "Di sisi energi surya, program PLTS 100 GWp diluncurkan pada 25 Agustus 2026 di Jembrana, Bali. Pemerintah mencatat kapasitas terpasang pembangkit energi baru terbarukan nasional mencapai 16.442 megawatt per Agustus 2026, atau sekitar 15 persen dari total kapasitas pembangkit listrik di Indonesia, dengan 55 proyek EBT yang diresmikan sekaligus pada Juni lalu.",
+   "Menteri Koordinator Bidang Hilirisasi dan Energi yang juga Menteri ESDM, Bahlil Lahadalia, menambahkan bahwa pemerintah ingin mengembangkan bioetanol untuk mengurangi impor bensin, namun ekosistemnya masih membutuhkan dukungan dari hulu ke hilir, mulai dari bahan baku hingga teknologi pengolahan. Ia menilai kerja sama dengan Jepang semestinya diarahkan ke pengembangan teknologi dan peningkatan kapasitas sumber daya manusia, agar Indonesia tidak sekadar menjadi pengguna teknologi energi, tetapi juga mampu meningkatkan nilai tambah industri energinya sendiri."
+  ],
+  "fotoAdegan": "Technicians installing rows of solar panels across a wide rural field in Indonesia, cables and support racks visible, bright daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dari-b50-hingga-plts-100-gwp-indonesia-ajak-jepang-perkuat-kerja-sama-energi-bersih-dd70ziq.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan Indonesia memakai pencapaian domestiknya, B50 dan rencana PLTS 100 GWp, sebagai modal tawar untuk menarik investasi dan teknologi Jepang, terutama untuk bioetanol yang pemerintah sendiri mengakui masih butuh dukungan dari hulu sampai hilir. Yang terdampak langsung adalah pelaku industri energi dalam negeri, termasuk produsen biodiesel dan calon investor di sektor surya serta bioetanol, sementara konsumen BBM campuran biodiesel ikut terpengaruh lewat kenaikan kadar campuran itu. Arahnya tampak mengikuti pola yang sudah berulang: pemerintah mengumumkan target besar dan klaim capaian lewat forum internasional, sementara kerja sama konkret dengan mitra seperti Jepang baru akan terlihat dari ada atau tidaknya kesepakatan investasi nyata setelah pertemuan ini. Yang perlu dipantau adalah apakah ajakan di Manila ini berlanjut jadi nota kerja sama atau komitmen investasi dalam beberapa bulan mendatang, atau berhenti sebagai pernyataan diplomatik tanpa tindak lanjut.",
+  "imageV": "mwla4c7d"
+ },
+ {
   "slug": "penjelasan-bursa-msky-kas-rp2-1-m-vs-utang-rp490-5-m-pkpu",
   "category": "Aksi Korporasi",
   "title": "Penjelasan Bursa MSKY: Kas Rp2,1 M vs Utang Rp490,5 M [PKPU]",
@@ -344,7 +372,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini sebenarnya cuma pembaruan angka, bukan kebijakan baru: pemerintah menyebut 250 proyek strategis nasional sudah rampung sejak 2016 dengan investasi Rp2.396 triliun, sementara 302.262 pekerja terserap lewat kawasan ekonomi khusus dan investasi nasional Januari-September 2026 tumbuh 7,6 persen. Yang terdampak langsung adalah daerah-daerah lokasi proyek dan kawasan ekonomi khusus itu, juga pencari kerja yang mengincar lapangan kerja baru dari proyek-proyek tersebut. Namun yang masih kurang untuk membaca ke mana arah program ini adalah pembanding: pemerintah tidak menyebut berapa proyek yang molor atau berapa target investasi KEK tahun ini, sehingga belum jelas apakah pertumbuhan 7,6 persen itu makin kencang atau justru melambat dari kuartal sebelumnya. Data yang akan menjawabnya adalah rilis realisasi investasi kuartal IV 2026 dari BKPM yang biasanya terbit akhir Januari 2027, serta evaluasi progres PSN berikutnya dari Kemenko Perekonomian.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "soda-abu-indonesia-bebas-kuota-impor-india",

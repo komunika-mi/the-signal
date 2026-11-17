@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
+  "category": "Energi",
+  "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
+  "deck": "Kementerian ESDM menetapkan harga acuan nikel periode 15-30 November 2026 naik 0,76 persen jadi USD15.596,88 per ton, sementara tembaga dan emas terkoreksi tipis.",
+  "image": "assets/img/harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T14:26:36.105Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "nikel",
+   "ESDM",
+   "royalti tambang",
+   "harga mineral"
+  ],
+  "body": [
+   "Kementerian ESDM menetapkan Harga Mineral Acuan (HMA) nikel untuk periode 15-30 November 2026 sebesar USD15.596,88 per ton, naik USD118,21 atau 0,76 persen dari paruh pertama November yang tercatat USD15.478,67 per ton. Kenaikan ini penting karena HMA menjadi dasar penghitungan royalti yang wajib dibayar perusahaan tambang mineral ke negara, sehingga nilainya langsung mempengaruhi beban yang ditanggung pelaku usaha pertambangan nikel pada periode tersebut.",
+   "Secara tahunan, harga nikel juga menguat. Dibandingkan paruh kedua November 2025 yang sebesar USD14.998,67 per ton, HMA nikel sekarang lebih tinggi USD598,21 atau sekitar 4 persen, seiring naiknya rata-rata harga jual tunai nikel di London Metal Exchange selama 19 Oktober hingga 9 November 2026. Aluminium mengalami tren serupa, HMA-nya naik USD32,91 atau sekitar 1 persen menjadi USD3.079,81 per ton, dan secara tahunan melonjak sekitar 8 persen dari USD2.847,17 per ton.",
+   "Dua komoditas lain bergerak berlawanan arah. HMA tembaga turun USD188,73 atau 1,3 persen menjadi USD14.358,94 per ton akibat melemahnya rata-rata harga tembaga di LME, meski begitu harganya masih melonjak sekitar 33 persen dibandingkan periode yang sama tahun lalu sebesar USD10.782,53 per ton. HMA emas sebagai mineral ikutan turun USD83,37 atau sekitar 2 persen menjadi USD4.045,81 per troy ounce, mengikuti pergerakan harga acuan London Bullion Market Association, meski secara tahunan masih sedikit lebih tinggi dibanding November 2025.",
+   "HMA periode kedua November 2026 ini menjadi dasar perhitungan Harga Patokan Mineral (HPM) dan kewajiban royalti komoditas mineral untuk periode 15-30 November 2026, yang berarti kenaikan harga nikel dan aluminium berpotensi menambah beban royalti perusahaan tambang sekaligus penerimaan negara dari sektor pertambangan pada periode tersebut."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting stockpiled nickel ore at an open-pit mine, heavy excavators working in the background, hazy tropical daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026-i26gtny.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Angka HMA ini bukan sekadar catatan statistik, karena langsung jadi dasar hitung royalti yang wajib dibayar perusahaan tambang ke negara untuk periode 15-30 November 2026: semakin tinggi HMA suatu mineral, semakin besar pula royalti yang disetor perusahaan tambang komoditas itu. Yang paling terdampak adalah perusahaan tambang nikel dan aluminium, karena harga acuan kedua logam itu naik dua periode berturut-turut dan juga lebih tinggi dibanding setahun lalu, sehingga beban royaltinya ikut naik pada periode ini. Tembaga punya pola berbeda, meski turun 1,3 persen pada periode ini, harganya masih 33 persen lebih tinggi dibanding November tahun lalu, jadi penurunan kali ini lebih mirip koreksi kecil ketimbang pembalikan dari tren setahun yang menguat tajam. Yang perlu dicermati adalah penetapan HMA berikutnya untuk paruh pertama Desember 2026, karena itu akan menunjukkan apakah kenaikan nikel dan aluminium terus berlanjut atau mulai mereda seperti yang sudah terjadi pada tembaga dan emas.",
+  "imageV": "mwksjw8d"
+ },
+ {
   "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
   "category": "Aksi Korporasi",
   "title": "BMTR: Dana Obligasi-Sukuk Rp793,5 M [Lunasi] Utang Lama, Sisa Rp0",
@@ -83,7 +111,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini sebenarnya cuma pembaruan angka, bukan kebijakan baru: pemerintah menyebut 250 proyek strategis nasional sudah rampung sejak 2016 dengan investasi Rp2.396 triliun, sementara 302.262 pekerja terserap lewat kawasan ekonomi khusus dan investasi nasional Januari-September 2026 tumbuh 7,6 persen. Yang terdampak langsung adalah daerah-daerah lokasi proyek dan kawasan ekonomi khusus itu, juga pencari kerja yang mengincar lapangan kerja baru dari proyek-proyek tersebut. Namun yang masih kurang untuk membaca ke mana arah program ini adalah pembanding: pemerintah tidak menyebut berapa proyek yang molor atau berapa target investasi KEK tahun ini, sehingga belum jelas apakah pertumbuhan 7,6 persen itu makin kencang atau justru melambat dari kuartal sebelumnya. Data yang akan menjawabnya adalah rilis realisasi investasi kuartal IV 2026 dari BKPM yang biasanya terbit akhir Januari 2027, serta evaluasi progres PSN berikutnya dari Kemenko Perekonomian.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "soda-abu-indonesia-bebas-kuota-impor-india",
@@ -768,7 +796,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan aturan baru, melainkan daftar target dan proyek energi bersih yang ingin dipercepat Indonesia: pembangkit surya 100 Gigawatt dikejar dalam tiga tahun, campuran biodiesel sawit dinaikkan jadi B50, dan bensin campuran etanol dari tebu atau singkong ditargetkan mulai 2027 lalu diperbesar pada 2028. Proyek pengolahan sampah jadi listrik di Legok Nangka senilai sekitar US$400 juta ditargetkan selesai tahap pendanaannya, yaitu saat uang pembangunan resmi disetujui, pada akhir 2026, sementara saluran listrik Jawa-Sumatra dan tiga proyek panas bumi di Lampung, Bengkulu, dan Sumatera Utara masih pada tahap studi kelayakan, artinya belum pasti jalan. Yang akan terdampak lebih dulu adalah warga sekitar lokasi proyek panas bumi dan tempat pengolahan sampah itu, petani sawit serta tebu sebagai pemasok bahan baku biodiesel dan bioetanol, dan nantinya pengendara yang memakai bahan bakar campuran baru. Pola yang terlihat adalah Indonesia memakai forum kerja sama regional seperti AZEC untuk mencari pendanaan dan mitra asing, terutama Jepang, bagi proyek-proyek yang sebagian masih berupa target dan studi. Penanda paling konkret untuk menilai apakah rencana ini benar berjalan adalah apakah financial close proyek Legok Nangka tercapai sesuai jadwal akhir 2026.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",

@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
+  "category": "Energi",
+  "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
+  "deck": "Kementerian ESDM menetapkan harga acuan nikel periode 15-30 November 2026 naik 0,76 persen jadi USD15.596,88 per ton, sementara tembaga dan emas terkoreksi tipis.",
+  "date": "17 November 2026",
+  "image": "assets/img/harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik.jpg",
+  "imageV": "mwksjw8d",
+  "tags": [
+   "nikel",
+   "ESDM",
+   "royalti tambang",
+   "harga mineral"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
   "category": "Aksi Korporasi",
   "title": "BMTR: Dana Obligasi-Sukuk Rp793,5 M [Lunasi] Utang Lama, Sisa Rp0",
@@ -6507,22 +6525,6 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ee64b41969_b7e3d88639.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-terbitkan-panggilan-resmi-rupsu-sukuk-ke-pemegang",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Terbitkan Panggilan Resmi [RUPSU] Sukuk ke Pemegang",
-  "deck": "Bank Mega sebagai wali amanat akan memuat panggilan RUPSU sukuk WIKA di koran nasional pada 23 November, menjelang rapat pemegang sukuk pada 9 Desember terkait gagal bayar kupon.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c1c81fb8c1_f12c929322.pdf",
   "sourceLabel": "IDX"
  }
 ];

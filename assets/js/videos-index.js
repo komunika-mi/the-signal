@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "n_CTphKzcP0",
+  "title": "ASEAN Diajak Simpan Cadangan Minyak di Jepang",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Jepang menawarkan fasilitas penyimpanan minyak mentahnya kepada negara-negara ASEAN sebagai tempat cadangan energi untuk mengantisipasi potensi krisis pasokan.",
+  "takeaway": "Kerja sama cadangan energi ini penting bagi pembaca karena menyangkut ketahanan pasokan minyak dan stabilitas harga energi di kawasan ASEAN."
+ },
+ {
   "id": "fcwH-45lpT4",
   "title": "APVI Minta Pemerintah Libatkan Pelaku Usaha Kaji Kebijakan Rokok Elektrik",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kementerian Perumahan dan Kawasan Permukiman melaporkan realisasi anggaran sebesar Rp8,6 triliun sebagai bagian dari pelaksanaan program dan kegiatan kementerian.",
   "takeaway": "Angka realisasi anggaran ini relevan bagi pembaca untuk memantau kinerja belanja pemerintah di sektor perumahan dan permukiman."
- },
- {
-  "id": "YXhNqgtVbmU",
-  "title": "KKP Matangkan Kampung Nelayan Merah Putih untuk Dorong Ekonomi Nelayan",
-  "category": "UMKM",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Kelautan dan Perikanan terus mematangkan Program Kampung Nelayan Merah Putih sebagai upaya mendorong peningkatan ekonomi masyarakat nelayan.",
-  "takeaway": "Menunjukkan arah kebijakan pemerintah dalam memberdayakan ekonomi sektor perikanan dan masyarakat pesisir."
  }
 ];

@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "n_CTphKzcP0",
+  "title": "ASEAN Diajak Simpan Cadangan Minyak di Jepang",
+  "category": "Energi",
+  "program": "OneNews Update",
+  "summary": "Jepang menawarkan fasilitas penyimpanan minyak mentahnya kepada negara-negara ASEAN sebagai tempat cadangan energi untuk mengantisipasi potensi krisis pasokan.",
+  "takeaway": "Kerja sama cadangan energi ini penting bagi pembaca karena menyangkut ketahanan pasokan minyak dan stabilitas harga energi di kawasan ASEAN.",
+  "terbit": "2026-11-17T13:00:01+00:00"
+ },
+ {
   "id": "fcwH-45lpT4",
   "title": "APVI Minta Pemerintah Libatkan Pelaku Usaha Kaji Kebijakan Rokok Elektrik",
   "category": "Industri",

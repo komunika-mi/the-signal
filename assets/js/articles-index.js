@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 8.800 Saham, Hak Suara 0,3124%",
+  "deck": "Komisaris AKPI Henry Liem melepas 8.800 saham lewat skema repurchase agreement pada 16 November 2026, hak suaranya turun dari 0,3139% ke 0,3124%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "Komisaris",
+   "Laporan Kepemilikan Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4990-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bi-perkuat-aturan-pelindungan-konsumen-digital",
   "category": "Moneter",
   "title": "BI Perkuat [Aturan] Pelindungan Konsumen Digital",
@@ -6497,22 +6513,6 @@ var ARTICLES = [
    "pailit"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4010e939e3_a8514b375e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-tarik-us-18-juta-lagi-dari-kbank-total-jadi-us-258-juta",
-  "category": "Aksi Korporasi",
-  "title": "BMAS Tarik US$2 Juta Lagi dari KBank, Total Jadi US$340 Juta",
-  "deck": "BMAS menarik tambahan US$2 juta dari fasilitas pinjaman bilateral KBank pada 13 November 2026, sehingga total penarikan mencapai US$340 juta dari limit US$341 juta, hanya tersisa sekitar US$1 juta.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "transaksi afiliasi",
-   "pinjaman bilateral",
-   "KBank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40326f8631_ab663ffc47.pdf",
   "sourceLabel": "IDX"
  }
 ];

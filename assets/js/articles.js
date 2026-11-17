@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
+  "category": "Aksi Korporasi",
+  "title": "AKPI: Komisaris Henry Liem [Jual] 8.800 Saham, Hak Suara 0,3124%",
+  "deck": "Komisaris AKPI Henry Liem melepas 8.800 saham lewat skema repurchase agreement pada 16 November 2026, hak suaranya turun dari 0,3139% ke 0,3124%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T09:55:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4990-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKPI",
+  "tags": [
+   "AKPI",
+   "Henry Liem",
+   "Komisaris",
+   "Laporan Kepemilikan Saham"
+  ],
+  "body": [
+   "Pada 16 November 2026, komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, menjual 8.800 lembar saham AKPI melalui skema repurchase agreement dengan harga Rp645 per saham. Transaksi ini mengurangi kepemilikannya dari 1.921.659 lembar menjadi 1.912.859 lembar, atau setara 0,4579% dari total saham yang dipegangnya. Akibatnya, hak suara Henry Liem di AKPI turun dari 0,3139% menjadi 0,3124%. Saham yang dijual berstatus kepemilikan tidak langsung, dan laporan ini disampaikan ke OJK sesuai POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
+   "Laporan ini merupakan kelanjutan dari pola penjualan bertahap yang dilakukan Henry Liem. Sebelumnya pada 9 November 2026, ia melaporkan penjualan 200.000 saham yang membuat hak suaranya turun ke 0,3139%, angka yang menjadi titik awal transaksi 16 November ini. Jenis transaksi yang tercatat adalah repurchase agreement, yaitu skema jual saham dengan janji dibeli kembali pada harga dan waktu tertentu, yang umumnya dipakai sebagai sarana pendanaan pribadi dengan saham sebagai jaminan, bukan pelepasan permanen kepemilikan di perusahaan."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of plastic packaging film moving through an industrial production line, factory floor lighting",
+  "takeaway": "Laporan ini netral bagi AKPI, karena jumlah saham yang dilepas Henry Liem hanya 8.800 lembar, setara 0,4579% dari kepemilikannya sendiri, dan membuat hak suaranya nyaris tidak bergeser dari 0,3139% menjadi 0,3124%. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham, bukan ekuitas atau kas perusahaan, karena transaksi di pasar sekunder antar pemegang saham ini tidak mengubah jumlah saham beredar AKPI. Skema repurchase agreement yang dipakai membuat saham dijual dengan janji dibeli kembali pada harga dan waktu tertentu, sehingga lebih mencerminkan kebutuhan pendanaan pribadi Henry Liem daripada sinyal soal prospek perusahaan. Pola ini berulang sejak laporan 9 November 2026 yang melepas 200.000 saham, sehingga yang perlu dipantau adalah apakah penjualan bertahap lewat skema repo ini terus berlanjut, meski dokumen ini tidak menyebut tanggal jatuh tempo pembelian kembali sahamnya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "bi-perkuat-aturan-pelindungan-konsumen-digital",
   "category": "Moneter",
   "title": "BI Perkuat [Aturan] Pelindungan Konsumen Digital",
@@ -24577,8 +24604,8 @@ var ARTICLES = [
  {
   "slug": "igar-rencanakan-go-private-dan-delisting-dari-bei",
   "category": "Aksi Korporasi",
-  "title": "IGAR Rencanakan [Go Private] dan Delisting dari BEI",
-  "deck": "Champion Pacific Indonesia (IGAR) menggelar RUPSLB 9 Desember 2026 untuk meminta restu pemegang saham independen atas rencana go private dan delisting dari bursa.",
+  "title": "RUPSLB IGAR 9 Desember: [Go Private] Pemanggilan Resmi Terbit",
+  "deck": "IGAR resmi memanggil pemegang saham untuk RUPSLB 9 Desember 2026 soal go private dan delisting, dengan tenggat kuasa 4 dan 8 Desember. Harga buyback belum diumumkan.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T08:29:42",
@@ -24587,18 +24614,51 @@ var ARTICLES = [
   "emiten": "IGAR",
   "tags": [
    "IGAR",
-   "go private",
-   "delisting",
-   "RUPSLB"
+   "RUPSLB",
+   "Go Private",
+   "Delisting"
   ],
   "body": [
-   "PT Champion Pacific Indonesia Tbk (IGAR) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 9 Desember 2026 pukul 10.00 WIB, di Mitsui House, Jalan Pangeran Diponegoro No. 42, Menteng, Jakarta Pusat. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per Senin, 16 November 2026.",
-   "Agenda utama rapat adalah persetujuan rencana go private dan delisting, yang mencakup empat hal: pembatalan pencatatan (delisting) saham IGAR dari Bursa Efek Indonesia, perubahan status Perseroan dari perusahaan terbuka menjadi tertutup, pelaksanaan pembelian kembali saham sebagai bagian dari pelaksanaan rencana tersebut, dan pemberian kewenangan kepada Direksi untuk mengambil segala tindakan yang diperlukan termasuk eksekusi pembelian kembali saham. Agenda kedua, yang baru berlaku jika agenda pertama disetujui, adalah perubahan seluruh Anggaran Dasar Perseroan untuk menyesuaikan status badan hukum dari terbuka menjadi tertutup.",
-   "Dua agenda ini punya syarat kelulusan yang berbeda. Agenda pertama hanya sah jika dihadiri Pemegang Saham Independen yang mewakili lebih dari separuh total saham independen berhak suara, dan disetujui oleh lebih dari separuh suara independen yang hadir, pengendali tidak ikut menentukan. Agenda kedua soal perubahan anggaran dasar tidak memerlukan persetujuan independen itu, tapi tetap mensyaratkan kehadiran minimal dua pertiga dari seluruh saham berhak suara dan persetujuan lebih dari dua pertiga suara yang hadir. Perseroan juga membuka kesempatan bagi pemegang saham dengan minimal 1/20 saham berhak suara untuk mengusulkan agenda tambahan, dengan tenggat pengajuan paling lambat Selasa, 10 November 2026, sementara pemanggilan resmi RUPSLB akan diumumkan Selasa, 17 November 2026 lewat situs BEI, sistem eASY.KSEI, dan situs web Perseroan."
+   "PT Champion Pacific Indonesia Tbk (IGAR) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, mengonfirmasi pelaksanaan rapat pada Rabu, 9 Desember 2026 pukul 10.00 WIB di Mitsui House, Menteng, Jakarta Pusat, untuk meminta restu pemegang saham independen atas rencana go private dan delisting dari Bursa Efek Indonesia.",
+   "Pemanggilan ini menetapkan dua tenggat penting bagi pemegang saham yang tidak hadir langsung. Kuasa tertulis konvensional lewat PT Adimitra Jasa Korpora dibuka sejak 17 November dan ditutup Jumat, 4 Desember 2026 pukul 16.00 WIB. Kuasa elektronik lewat aplikasi eASY.KSEI dibuka pada periode yang sama tetapi ditutup lebih dekat ke hari rapat, yaitu Selasa, 8 Desember 2026 pukul 12.00 WIB.",
+   "Agenda rapat tidak berubah dari pengumuman sebelumnya: persetujuan rencana go private dan delisting saham dari bursa, perubahan status Perseroan dari terbuka menjadi tertutup, serta pembelian kembali saham sebagai mekanisme pelaksanaannya. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per Senin, 16 November 2026. Dasar hukumnya adalah POJK No. 45 Tahun 2024 dan Peraturan Bursa Efek Indonesia No. I-N tentang delisting.",
+   "Dokumen ini juga memerinci kuorum berjenjang: jika RUPSLB pertama tidak memenuhi kuorum pemegang saham independen, rapat kedua bisa digelar 10 sampai 21 hari sesudahnya, dan rapat ketiga baru bisa digelar setelah mendapat penetapan kuorum dari OJK. Namun dokumen ini tetap tidak mengungkap harga atau skema pembelian kembali saham yang akan menjadi acuan nilai keluar bagi pemegang saham minoritas."
   ],
   "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium, elegant Jakarta hotel ballroom, soft morning light",
-  "takeaway": "Rencana go private dan delisting ini condong negatif bagi pemegang saham publik IGAR, sebab ujungnya saham Perseroan tidak lagi bisa diperdagangkan bebas di bursa dan pemegang saham minoritas pada akhirnya harus melepas kepemilikannya lewat mekanisme pembelian kembali yang harga dan skemanya belum diumumkan dalam dokumen ini. Yang tersentuh langsung adalah jumlah saham beredar di tangan publik, karena pembelian kembali saham akan menariknya dari pasar sampai porsi publik berkurang drastis, sekaligus mengubah status Perseroan dari perusahaan terbuka menjadi tertutup sehingga lepas dari kewajiban keterbukaan informasi berkala ke publik. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 17 November 2026, yang biasanya memuat rincian skema dan harga pembelian kembali saham, serta hasil pemungutan suara Pemegang Saham Independen pada RUPSLB 9 Desember 2026 itu sendiri, karena agenda go private ini hanya lolos bila disetujui pemegang saham independen, bukan pemegang saham pengendali.",
-  "sentimen": "negatif"
+  "takeaway": "Pemanggilan resmi ini tetap condong negatif bagi pemegang saham publik IGAR, sebab seluruh proses berjalan sesuai rencana menuju go private dan delisting sementara harga pembelian kembali saham yang akan menentukan nilai keluar pemegang saham minoritas belum diungkap sama sekali. Yang tersentuh adalah jumlah saham beredar di tangan publik, karena pembelian kembali akan menariknya dari pasar, dan status keterbukaan Perseroan, karena begitu berubah jadi perusahaan tertutup, IGAR lepas dari kewajiban melaporkan kinerja secara berkala ke publik. Yang perlu dipantau berikutnya adalah tenggat penyerahan kuasa pada 4 Desember 2026 untuk kuasa konvensional dan 8 Desember 2026 untuk e-proxy, serta hasil pemungutan suara pemegang saham independen pada RUPSLB 9 Desember 2026, karena agenda go private hanya lolos bila disetujui mayoritas suara independen, bukan pengendali.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T09:07:09",
+    "ringkas": "Pemanggilan resmi RUPSLB IGAR terbit, memuat tenggat kuasa 4 dan 8 Desember serta kuorum berjenjang, harga buyback belum diumumkan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4ce859e708_038565420a.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa dan Independen"
+   }
+  ],
+  "diperbarui": "2026-11-17T09:07:09",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Pemanggilan resmi RUPSLB terbit, mulai periode kuasa"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas akhir penyerahan kuasa konvensional 16.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Batas akhir deklarasi kehadiran/e-proxy via eASY.KSEI 12.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "RUPSLB dan RUPS Independen IGAR"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "nayz-dirikan-anak-usaha-baru-rambah-bisnis-laundry",

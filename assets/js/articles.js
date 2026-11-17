@@ -3,6 +3,116 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",
+  "category": "Energi",
+  "title": "Pemerintah Targetkan Elektrifikasi [100] Persen pada 2029",
+  "deck": "Harga Pertalite, Biosolar, dan LPG 3 kg bersubsidi ditahan hingga September 2026, sambil memperluas bantuan listrik gratis bagi keluarga prasejahtera.",
+  "image": "assets/img/pemerintah-targetkan-elektrifikasi-100-persen-pada-2029.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T03:56:12.066Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-meja-ktt-asean-tiongkok-ke-rumah-warga-energi-jadi-penggerak-kesejahteraan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "elektrifikasi",
+   "subsidi energi",
+   "BPBL",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah menegaskan komitmen memperluas akses listrik dan menahan harga energi bersubsidi sebagai bagian dari upaya mempercepat pengentasan kemiskinan, menyusul pernyataan Presiden Prabowo Subianto dalam Konferensi Tingkat Tinggi ke-29 ASEAN-Tiongkok di Manila, Filipina, Senin (16/11/2026). Hal ini penting bagi masyarakat prasejahtera karena menyangkut akses listrik rumah tangga dan harga bahan bakar yang dipakai sehari-hari.",
+   "Rasio elektrifikasi nasional saat ini sudah mencapai 99,8 persen. Program Listrik Desa (Lisdes) menjangkau 955 desa pada 2024, naik menjadi 1.403 desa pada 2025, dan ditargetkan 2.065 desa pada 2026. Untuk keluarga yang sudah terjangkau jaringan tapi belum mampu memasang listrik sendiri, Bantuan Pasang Baru Listrik (BPBL) menyasar 155.429 rumah tangga pada 2024, naik menjadi 220.845 rumah tangga pada 2025, dan ditargetkan 250.000 rumah tangga pada 2026. Pemerintah menargetkan rasio elektrifikasi rumah tangga mencapai 100 persen pada 2029, dengan perhatian khusus ke wilayah terdepan, terluar, dan tertinggal.",
+   "Dari sisi harga, pemerintah menahan harga Pertalite di Rp10.000 per liter, Biosolar Rp6.800 per liter, dan LPG 3 kilogram Rp12.750 per tabung sepanjang Februari hingga September 2026. Program pencampuran biodiesel juga ditingkatkan dari B40 menjadi B50 pada 2026, yang menurut Kementerian ESDM akan menyerap 2,1 juta tenaga kerja, naik dari 1,8 juta tenaga kerja pada program B40 tahun 2025.",
+   "Pemerintah juga melibatkan masyarakat dalam pengelolaan sumber daya energi dan mineral. Sebanyak 22 badan usaha, terdiri dari 8 UMKM, 8 koperasi, dan 6 BUMD, mengelola sumur minyak masyarakat di 11 kabupaten, dengan 316.800 barel hasil produksinya telah dibeli negara hingga Oktober 2026. Di sektor mineral, pemerintah menetapkan 2.046 blok Wilayah Pertambangan Rakyat seluas 100.764,97 hektare di 27 provinsi untuk membuka ruang tambang rakyat yang legal."
+  ],
+  "fotoAdegan": "A worker installing an electricity meter box on the wall of a modest wooden village house, rural Indonesia, late afternoon light",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dari-meja-ktt-asean-tiongkok-ke-rumah-warga-energi-jadi-penggerak-kesejahteraan-938a1rh.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Perubahan konkret yang perlu dicatat adalah harga Pertalite Rp10.000 per liter, Biosolar Rp6.800 per liter, dan LPG 3 kilogram Rp12.750 per tabung dijamin tetap hanya sampai September 2026, bukan untuk seterusnya. Di sisi lain, bantuan listrik gratis lewat BPBL terus bertambah setiap tahun, dari 155.429 rumah tangga pada 2024 menjadi target 250.000 rumah tangga pada 2026, begitu juga jumlah desa yang dialiri listrik baru lewat program Lisdes. Yang terdampak adalah keluarga prasejahtera penerima listrik baru, warga desa di wilayah terdepan dan tertinggal, serta pengguna BBM dan LPG bersubsidi pada umumnya. Pola kenaikan jumlah penerima bantuan listrik tiap tahun, ditambah target elektrifikasi 100 persen pada 2029, mengarah pada perluasan bantuan secara bertahap ketimbang pengurangan subsidi dalam waktu dekat. Yang akan membuktikan arah ini adalah keputusan harga BBM dan LPG bersubsidi setelah September 2026, sebab pemerintah belum mengumumkan kelanjutannya setelah bulan itu.",
+  "imageV": "mwk63j1h"
+ },
+ {
+  "slug": "presiden-prabowo-tawarkan-mineral-kritis-ke-semikonduktor-korea",
+  "category": "Energi",
+  "title": "Presiden Prabowo Tawarkan Mineral Kritis ke [Semikonduktor] Korea",
+  "deck": "Presiden Prabowo mengajak Korea Selatan menjadikan hilirisasi mineral kritis bagian dari rantai pasok industri semikonduktor, dalam KTT ASEAN-Korea Selatan di Manila.",
+  "image": "assets/img/presiden-prabowo-tawarkan-mineral-kritis-ke-semikonduktor-korea.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T03:56:11.319Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-tambang-ke-chip-indonesia-tawarkan-hilirisasi-mineral-kritis-untuk-industri-semikonduktor-korea",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Hilirisasi",
+   "Mineral Kritis",
+   "Semikonduktor",
+   "Korea Selatan"
+  ],
+  "body": [
+   "Dalam Konferensi Tingkat Tinggi ASEAN-Republik Korea di Manila, Filipina, Presiden Prabowo Subianto mengajak Korea Selatan menjadikan hilirisasi mineral kritis sebagai jembatan kemitraan menuju industri semikonduktor. Presiden Prabowo menyebut Korea Selatan, salah satu pemimpin industri semikonduktor dunia, sebagai mitra strategis penting bagi ASEAN. Tawaran ini penting karena mengarahkan posisi Indonesia dari sekadar pemasok bahan tambang menjadi calon pemain dalam rantai pasok teknologi tinggi.",
+   "Presiden Prabowo menyebut nilai perdagangan barang ASEAN-Korea Selatan tahun lalu melampaui US$226 miliar, menjadikan Korea Selatan mitra dagang terbesar keenam ASEAN. Fondasi kerja sama mineral kritis sendiri sudah diletakkan sejak April 2026, ketika Indonesia dan Korea Selatan menandatangani nota kesepahaman di Seoul yang mencakup mineral kritis, energi bersih, serta penangkapan dan penyimpanan karbon. Nota kesepahaman itu mengatur kerja sama mulai dari survei geosains, pengolahan dan pemurnian, daur ulang, penerapan standar lingkungan, hingga reklamasi pascatambang.",
+   "Menteri Koordinator Hilirisasi dan Energi Bahlil Lahadalia menyebut sejak 2024 pemerintah telah meresmikan sejumlah fasilitas pengolahan mineral, antara lain smelter tembaga dan emas PT Freeport Indonesia di Gresik, smelter katoda tembaga PT Amman di Sumbawa Barat, pabrik alumina di Mempawah, serta ekosistem nikel di Weda Bay, Maluku Utara. Pembangunan ekosistem industri baterai kendaraan listrik di Karawang, Jawa Barat, juga telah dimulai. Menurut data ESDM, realisasi investasi di sektor ini pada semester pertama 2026 mencapai US$16,47 miliar, naik 18,4 persen dibandingkan periode yang sama tahun sebelumnya dan menjadi yang tertinggi dalam enam tahun terakhir.",
+   "Pasokan gas bumi nasional turut menopang hilirisasi, dengan 2.001 BBTUD atau 38 persen dari total pemanfaatan gas dialokasikan untuk industri dan pupuk hingga semester pertama 2026. Kapasitas pembangkit energi baru terbarukan tercatat 16.442 megawatt pada Agustus 2026, setara 15 persen dari total pembangkit nasional, seiring program pembangkit listrik tenaga surya berkapasitas 100 gigawatt-peak yang telah diluncurkan pemerintah. Investasi Korea Selatan di Indonesia sendiri tercatat sekitar US$2,9 miliar pada 2024 dan disebut mendukung lebih dari 183.000 lapangan kerja, dengan Rencana Aksi ASEAN-Republik Korea 2026-2030 menjadi kerangka kerja sama ke depan."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring molten copper flow inside an industrial smelter furnace, orange glow lighting the floor.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-dari-tambang-ke-chip-indonesia-tawarkan-hilirisasi-mineral-kritis-untuk-industri-semikonduktor-korea-39bscjb.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang konkret di balik ajakan di Manila ini adalah nota kesepahaman mineral kritis, energi bersih, dan penangkapan karbon yang sudah diteken Indonesia-Korea Selatan di Seoul pada April 2026, mencakup survei geosains sampai reklamasi pascatambang. Tapi pernyataan kali ini belum disertai kesepakatan baru yang mengikat khusus untuk rantai pasok semikonduktor, baru ajakan politik dari dua kepala negara. Pihak yang paling terkait kalau arah ini berjalan adalah operator smelter yang sudah berproduksi seperti Freeport di Gresik dan Amman di Sumbawa Barat, serta proyek baterai kendaraan listrik di Karawang. Ada dua kemungkinan ke depan, mineral kritis Indonesia benar masuk rantai pasok chip Korea lewat perjanjian teknis lanjutan, atau kerja sama ini berhenti di level tambang dan energi seperti sekarang karena produksi semikonduktor butuh kemampuan fabrikasi yang jauh di luar hilirisasi tambang. Kelanjutan teknis dari nota kesepahaman April 2026 dan isi Rencana Aksi ASEAN-Korea Selatan 2026-2030 akan menunjukkan arah mana yang terjadi.",
+  "imageV": "mwk63kn0"
+ },
+ {
+  "slug": "paviliun-bumbu-ri-di-tokyo-catat-potensi-transaksi-rp5-4-m",
+  "category": "UMKM",
+  "title": "Paviliun Bumbu RI di Tokyo Catat [Potensi] Transaksi Rp5,4 M",
+  "deck": "Paviliun S'RASA Kemendag membukukan potensi transaksi US$303.730 di pameran JFEX Winter 2026 Tokyo, didukung satu MoU ekspor gula aren senilai US$5.700.",
+  "image": "assets/img/paviliun-bumbu-ri-di-tokyo-catat-potensi-transaksi-rp5-4-m.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T03:56:00.440Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-srasa-hadir-di-jfex-2026-jepang-bumbu-nusantara-bukukan-potensi-transaksi-rp54-m",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Ekspor",
+   "UMKM",
+   "Jepang",
+   "Kemendag"
+  ],
+  "body": [
+   "Paviliun S'RASA, wadah promosi bumbu dan rempah Indonesia yang digagas Kementerian Perdagangan, mencatatkan potensi transaksi senilai US$303.730, setara sekitar Rp5,4 miliar, dalam pameran Japan International Food & Beverage Expo (JFEX) Winter 2026 di Tokyo Big Sight pada 11 hingga 13 November 2026. Angka ini dihasilkan dari keikutsertaan 10 produsen bumbu, rempah, serta makanan dan minuman Indonesia, didukung dua restoran Indonesia yang beroperasi di Tokyo. Partisipasi di pasar Jepang, yang dikenal sangat ketat soal standar kualitas dan keamanan pangan, jadi ukuran sejauh mana produk UMKM Indonesia bisa diterima di sana.",
+   "Selama tiga hari pameran, perwakilan Paviliun S'RASA melakukan lebih dari 70 pertemuan bisnis dengan 10 calon pembeli yang berasal dari Jepang, Taiwan, Korea Selatan, Meksiko, Amerika Serikat, Irlandia, Sri Lanka, Vietnam, Tiongkok, dan Filipina. Enam merek, yaitu Mahorahora, Joyfood, Tempbar, Global Spice, Rooted Field, dan Kokona, hadir langsung di booth bersama dua restoran, Amanah Mande Padang dan Kuta Bali Cafe, yang menyajikan sampel masakan Indonesia kepada pengunjung. Empat merek lain, yakni Rendah Vanilla, Gudeg Bu Tjitro, Hunay Bawang Goreng, dan Sagoolicius, mengikuti pameran secara hibrida dengan difasilitasi Atase Perdagangan RI di Tokyo.",
+   "Dari rangkaian pertemuan itu, baru satu kesepakatan konkret yang berhasil diteken, yaitu nota kesepahaman antara produsen gula aren Mahorahora dan importir Kopi Kalyan Tokyo (Three United Co., Ltd.) untuk pasokan gula aren cair senilai US$5.700. Kesepakatan ini menyambung capaian Mahorahora yang sebelumnya melakukan ekspor perdana gula aren cair ke Malaysia setelah mengikuti Trade Expo Indonesia ke-41 pada 14-18 Oktober 2026. Kemendag berencana melanjutkan kolaborasi dengan Kopi Kalyan Tokyo melalui promosi produk hotel, restoran, dan kafe asal Indonesia seperti vanila, kayu manis, cokelat, dan gula aren, termasuk demo olahan cokelat bersama chocolatier profesional yang dijadwalkan awal 2027.",
+   "Direktur Jenderal Pengembangan Ekspor Nasional Kemendag, Fajarini Puntodewi, menyebut partisipasi di JFEX menunjukkan kesiapan produk bumbu dan pangan Indonesia memenuhi standar pasar Jepang. Atase Perdagangan RI Tokyo, Merry Astrid Indriasari, mengatakan pembeli Jepang umumnya berhati-hati dan berorientasi jangka panjang dalam menjajaki kemitraan baru, sehingga pendampingan pascapameran disebut penting agar peluang bisnis berlanjut jadi transaksi nyata. Pemilik Kuta Bali Cafe, Susanti, menilai keikutsertaan di paviliun ini membantu memperkenalkan cita rasa Indonesia kepada importir dan pelaku restoran Jepang."
+  ],
+  "fotoAdegan": "Small jars and packets of Indonesian spices and palm sugar arranged on a trade fair booth table, visitors sampling food, bright exhibition hall lighting",
+  "fotoSumber": "https://www.kemendag.go.id/albums/ToSOldVq7EVOBJV6e4YWkwtFkBkDKAV7JBBEOG2L.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang konkret dari pameran ini baru satu: nota kesepahaman gula aren senilai US$5.700, jauh lebih kecil dibanding total potensi transaksi yang diklaim mencapai US$303.730 dari 70 pertemuan bisnis. Ini wajar untuk pameran dagang, sebab potensi transaksi biasanya cuma berarti minat awal pembeli, bukan kontrak yang sudah ditandatangani, jadi angka Rp5,4 miliar itu belum sama dengan nilai ekspor yang sudah pasti terjadi. Yang terdampak langsung adalah produsen kecil bumbu dan rempah seperti Mahorahora, serta dua restoran Indonesia di Tokyo yang berfungsi sebagai etalase produk ke pembeli Jepang yang dikenal hati-hati sebelum menjalin kerja sama baru. Arah yang terlihat adalah pola promosi ekspor Kemendag yang memakai restoran Indonesia di luar negeri sebagai pintu masuk sebelum transaksi dagang lebih besar, mengikuti jejak Mahorahora yang baru saja ekspor perdana ke Malaysia usai Trade Expo Indonesia Oktober lalu. Yang akan menentukan apakah pola ini berlanjut atau berhenti di tahap wacana adalah rencana demo olahan cokelat bersama Kopi Kalyan Tokyo awal 2027, serta apakah pertemuan bisnis lain dari JFEX benar-benar berubah jadi kontrak dalam beberapa bulan mendatang.",
+  "imageV": "mwk63phu"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Rp7.000 Jadi Rp2.515.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp7.000 menjadi Rp2.515.000 per gram, sementara harga buyback juga melemah ke Rp2.278.000 per gram, Selasa (17/11/2026).",
+  "image": "assets/img/harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T09:58:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478773-terpantau-turun-harga-emas-antam-hari-ini-17-november-2026-rp2515000-per-gram",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "investasi emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam kompak melemah pada Selasa, 17 November 2026. Berdasarkan laman resmi Logam Mulia, harga jual emas Antam turun Rp7.000 menjadi Rp2.515.000 per gram, dari posisi sehari sebelumnya di Rp2.522.000 per gram. Pergerakan ini penting diikuti karena harga Antam jadi acuan utama bagi masyarakat yang membeli atau menjual emas batangan fisik di dalam negeri.",
+   "Penurunan serupa juga terjadi pada harga buyback, yaitu harga yang dibayar Antam saat seseorang menjual kembali emas yang sudah dibelinya. Harga buyback hari ini turun ke Rp2.278.000 per gram. Selisih antara harga jual dan harga buyback tercatat Rp237.000 per gram, yang merupakan margin baku antara harga beli dan harga jual emas batangan.",
+   "Pihak Antam mengingatkan bahwa harga emas batangan ini sewaktu-waktu bisa berubah, sehingga angka yang tercantum hari ini belum tentu sama dengan transaksi di jam atau hari berikutnya. Dari sisi pajak, setiap transaksi buyback dengan nilai di atas Rp10 juta akan dikenai PPh Pasal 22 sebesar 1,5 persen, yang langsung dipotong dari total nilai transaksi saat emas dijual kembali. Sementara untuk pembelian emas Antam, pembeli dikenakan PPh sebesar 0,25 persen dari harga dasar yang tercantum di situs resmi."
+  ],
+  "fotoAdegan": "Close-up of small gold bullion bars stacked on a velvet tray inside a jewelry shop display case, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya ada di dua angka: harga jual emas Antam turun Rp7.000 menjadi Rp2.515.000 per gram, dan harga buyback ikut turun ke Rp2.278.000 per gram pada hari yang sama. Yang terkena dampak adalah masyarakat yang menyimpan emas Antam sebagai tabungan, baik yang berencana membeli hari ini maupun yang ingin menjual kembali emasnya, karena nilai transaksi keduanya sama-sama lebih rendah dari sehari sebelumnya. Data hari ini belum cukup untuk membaca apakah ini awal tren pelemahan atau sekadar koreksi sehari, sebab beritanya tidak menyertakan pergerakan harga emas dunia atau tren beberapa hari terakhir yang biasanya jadi acuan penyesuaian harga Antam. Yang perlu dipantau adalah harga Antam pada hari-hari berikutnya serta pergerakan harga emas global, karena dari situ baru terlihat apakah penurunan ini berlanjut atau berbalik naik.",
+  "imageV": "mwk63pth"
+ },
+ {
   "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
   "category": "Aksi Korporasi",
   "title": "AKPI: Komisaris Henry Liem [Jual] 8.800 Saham, Hak Suara 0,3124%",
@@ -55,7 +165,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah di sini bukan soal peluncuran acaranya, melainkan penegasan dua aturan, PBI 6/2026 dan PADG 32/2026, yang mewajibkan penyelenggara dompet digital dan aplikasi pembayaran menjamin keterbukaan informasi, keamanan data, dan jalur pengaduan, ditambah jalur sengketa resmi lewat LAPS hasil kerja sama BI-OJK. Yang kena dampak langsung adalah penyelenggara jasa sistem pembayaran yang kini punya kewajiban formal, dan pengguna layanan pembayaran digital yang mendapat jalur perlindungan baru kalau terjadi masalah. Arahnya terlihat bergerak dari sekadar kampanye edukasi ke pengawasan perilaku (market conduct) yang lebih mengikat secara aturan, tapi indeks keberdayaan konsumen yang baru 77,03 dan belum masuk kategori tertinggi menunjukkan penerapannya di lapangan masih berproses. Yang akan menentukan apakah pengetatan ini benar-benar jalan adalah hasil pengawasan BI terhadap kepatuhan penyelenggara pada PADG 32/2026, serta apakah indeks keberdayaan konsumen pada survei tahun berikutnya naik melewati ambang yang disebut BI sebagai kategori \"Berdaya\".",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "emas-jelaskan-ke-bei-arus-kas-operasi-negatif-us-25-58-juta",

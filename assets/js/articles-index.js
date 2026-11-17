@@ -5,6 +5,77 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",
+  "category": "Energi",
+  "title": "Pemerintah Targetkan Elektrifikasi [100] Persen pada 2029",
+  "deck": "Harga Pertalite, Biosolar, dan LPG 3 kg bersubsidi ditahan hingga September 2026, sambil memperluas bantuan listrik gratis bagi keluarga prasejahtera.",
+  "date": "17 November 2026",
+  "image": "assets/img/pemerintah-targetkan-elektrifikasi-100-persen-pada-2029.jpg",
+  "imageV": "mwk63j1h",
+  "tags": [
+   "elektrifikasi",
+   "subsidi energi",
+   "BPBL",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-meja-ktt-asean-tiongkok-ke-rumah-warga-energi-jadi-penggerak-kesejahteraan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "presiden-prabowo-tawarkan-mineral-kritis-ke-semikonduktor-korea",
+  "category": "Energi",
+  "title": "Presiden Prabowo Tawarkan Mineral Kritis ke [Semikonduktor] Korea",
+  "deck": "Presiden Prabowo mengajak Korea Selatan menjadikan hilirisasi mineral kritis bagian dari rantai pasok industri semikonduktor, dalam KTT ASEAN-Korea Selatan di Manila.",
+  "date": "17 November 2026",
+  "image": "assets/img/presiden-prabowo-tawarkan-mineral-kritis-ke-semikonduktor-korea.jpg",
+  "imageV": "mwk63kn0",
+  "tags": [
+   "Hilirisasi",
+   "Mineral Kritis",
+   "Semikonduktor",
+   "Korea Selatan"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-tambang-ke-chip-indonesia-tawarkan-hilirisasi-mineral-kritis-untuk-industri-semikonduktor-korea",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "paviliun-bumbu-ri-di-tokyo-catat-potensi-transaksi-rp5-4-m",
+  "category": "UMKM",
+  "title": "Paviliun Bumbu RI di Tokyo Catat [Potensi] Transaksi Rp5,4 M",
+  "deck": "Paviliun S'RASA Kemendag membukukan potensi transaksi US$303.730 di pameran JFEX Winter 2026 Tokyo, didukung satu MoU ekspor gula aren senilai US$5.700.",
+  "date": "17 November 2026",
+  "image": "assets/img/paviliun-bumbu-ri-di-tokyo-catat-potensi-transaksi-rp5-4-m.jpg",
+  "imageV": "mwk63phu",
+  "tags": [
+   "Ekspor",
+   "UMKM",
+   "Jepang",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-srasa-hadir-di-jfex-2026-jepang-bumbu-nusantara-bukukan-potensi-transaksi-rp54-m",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Rp7.000 Jadi Rp2.515.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp7.000 menjadi Rp2.515.000 per gram, sementara harga buyback juga melemah ke Rp2.278.000 per gram, Selasa (17/11/2026).",
+  "date": "17 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram.jpg",
+  "imageV": "mwk63pth",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478773-terpantau-turun-harga-emas-antam-hari-ini-17-november-2026-rp2515000-per-gram"
+ },
+ {
   "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
   "category": "Aksi Korporasi",
   "title": "AKPI: Komisaris Henry Liem [Jual] 8.800 Saham, Hak Suara 0,3124%",
@@ -6449,70 +6520,6 @@ var ARTICLES = [
    "delisting"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/116f24fb30_60e993fd03.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jati-lanjutkan-buyback-tahap-iii-sisa-28-1-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "JATI Lanjutkan [Buyback] Tahap III, Sisa 28,1 Juta Saham",
-  "deck": "PT Informasi Teknologi Indonesia Tbk membeli kembali hingga 28,1 juta saham lagi senilai maksimal Rp3,38 miliar untuk menutup sisa program buyback 5 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JATI",
-   "buyback saham",
-   "saham treasuri",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab8b342ce7_7b2b718adc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-akhiri-waran-terstruktur-seri-ke-28-pada-26-november",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Akhiri [Waran Terstruktur] Seri ke-28 pada 26 November",
-  "deck": "RHB Sekuritas mengumumkan jadwal berakhirnya waran terstruktur Penerbitan ke-28 dengan saham acuan BBNI, DSNG, UNTR, dan UNVR, efektif 26 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "RHB Sekuritas",
-   "Waran Terstruktur",
-   "UNTR"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/506042e8ca_211d1120ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-akhiri-waran-terstruktur-seri-ke-40-pada-26-november",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB [Akhiri] Waran Terstruktur Seri ke-40 pada 26 November",
-  "deck": "RHB Sekuritas mengakhiri waran terstruktur seri ke-40 beracuan BRMS, CUAN, ENRG, MDKA, dan TPIA pada 26 November 2026, sesuai jadwal baku pelaksanaan otomatis.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "waran terstruktur",
-   "RHB Sekuritas",
-   "pasar derivatif"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4a620c9efc_f2c5b21a5a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tops-masuk-daftar-kriteria-baru-pkpu-pemantauan-khusus",
-  "category": "Aksi Korporasi",
-  "title": "TOPS Masuk Daftar Kriteria Baru [PKPU] Pemantauan Khusus",
-  "deck": "BEI menambahkan kriteria PKPU dan potensi pailit ke status pemantauan khusus saham TOPS, PT Totalindo Eka Persada Tbk, efektif 10 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOPS",
-   "pemantauan khusus",
-   "PKPU",
-   "pailit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4010e939e3_a8514b375e.pdf",
   "sourceLabel": "IDX"
  }
 ];

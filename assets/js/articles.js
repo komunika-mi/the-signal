@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
+  "category": "Aksi Korporasi",
+  "title": "BMTR: Dana Obligasi-Sukuk Rp793,5 M [Lunasi] Utang Lama, Sisa Rp0",
+  "deck": "Global Mediacom melaporkan realisasi dana hasil Obligasi dan Sukuk Ijarah Berkelanjutan V Tahap II 2026 senilai Rp793,5 miliar, seluruhnya sudah terpakai untuk melunasi obligasi lama dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T19:44:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4accb01e75_9de5e26e42.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMTR",
+  "tags": [
+   "BMTR",
+   "obligasi",
+   "sukuk ijarah",
+   "Global Mediacom"
+  ],
+  "body": [
+   "PT Global Mediacom Tbk (BMTR) menyampaikan laporan realisasi penggunaan dana hasil Obligasi Berkelanjutan V Tahap II Tahun 2026 dan Sukuk Ijarah Berkelanjutan V Tahap II Tahun 2026 kepada Otoritas Jasa Keuangan. Dari Obligasi V, perseroan meraih dana Rp500 miliar dengan biaya penawaran Rp4 miliar, sehingga dana bersih yang diterima Rp496 miliar. Dari Sukuk Ijarah V, dana yang terkumpul Rp300 miliar dengan biaya Rp2,5 miliar, menyisakan dana bersih Rp297,5 miliar. Kedua instrumen efektif sejak 18 Juni 2025, dan menurut laporan ini seluruh dana, total Rp793,5 miliar, sudah terpakai 100 persen sesuai rencana di prospektus, tanpa sisa dana.",
+   "Dana bersih dari Obligasi V dipakai untuk melunasi empat surat utang lama milik Global Mediacom sendiri: Rp10,555 miliar atau 2,13 persen untuk Obligasi Berkelanjutan II Tahap 2 Tahun 2021 Seri C, Rp230,26 miliar atau 46,42 persen untuk Obligasi Berkelanjutan IV Tahap 1 Tahun 2023 Seri B, Rp50 juta atau 0,01 persen untuk Sukuk Ijarah Berkelanjutan II Tahap 2 Tahun 2021 Seri C, dan Rp255,135 miliar atau 51,44 persen untuk Sukuk Ijarah Berkelanjutan IV Tahap 1 Tahun 2023 Seri B.",
+   "Sementara dana bersih dari Sukuk Ijarah V dibagi dua: Rp187,225 miliar atau 62,93 persen juga dipakai melunasi Sukuk Ijarah Berkelanjutan IV Tahap 1 Tahun 2023 Seri B, dan sisanya Rp110,275 miliar atau 37,07 persen dialokasikan sebagai modal kerja perseroan. Laporan ditandatangani oleh Corporate Secretary BMTR, Christophorus Taufik Siswandi, sebagai pemenuhan ketentuan POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum dan Peraturan I-E Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Modern glass office towers in Jakarta's financial district glowing at dusk, viewed from a busy street below.",
+  "takeaway": "Laporan ini netral bagi kinerja BMTR, karena pada dasarnya perseroan hanya menggeser utang lama ke instrumen utang baru, bukan menambah ekspansi usaha, dan hanya sebagian kecil dana, sekitar Rp110,275 miliar, yang benar benar menambah modal kerja. Yang perlu dicermati pemegang saham adalah pos beban bunga di laporan keuangan berikutnya, sebab menukar bunga obligasi atau sukuk lama dengan bunga instrumen baru bisa membuat beban bunga BMTR naik atau turun tergantung selisih kuponnya. Karena laporan ini menyatakan sisa dana sudah nol dan seluruh rencana di prospektus terealisasi penuh, tidak ada lagi tenggat pelaporan lanjutan soal dana Obligasi dan Sukuk Ijarah V ini, sehingga perhatian pemegang saham berikutnya lebih relevan diarahkan ke laporan keuangan kuartalan BMTR untuk melihat dampak nyata dari pelunasan utang ini.",
+  "sentimen": "netral",
+  "judulIdx": "Laporan Penggunaan Dana Hasil Penawaran Umum"
+ },
+ {
   "slug": "kppu-hitung-risiko-persaingan-sejak-rencanakan-merger",
   "category": "Bisnis",
   "title": "KPPU: Hitung Risiko [Persaingan] Sejak Rencanakan Merger",
@@ -84,6 +111,93 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret: India mencoret Indonesia dari daftar negara yang kena jatah volume impor soda abu lewat putusan resmi 4 November 2026, sementara negara pengekspor soda abu lain kemungkinan masih dibatasi jumlahnya. Yang kena dampak langsung adalah eksportir soda abu Indonesia seperti PT Sree International Indonesia, serta industri yang memakai bahan ini sebagai bahan baku, misalnya produsen kertas, deterjen, dan sabun. Ini mengarah ke penguatan posisi dagang Indonesia untuk komoditas kimia di pasar India, karena bebasnya kuota memberi keunggulan dibanding pesaing yang masih dibatasi. Yang akan memastikan apakah keunggulan ini benar terpakai adalah data ekspor-impor Indonesia-India pada periode berikutnya, terutama angka ekspor produk kimia dalam laporan dagang kuartal IV 2026, yang akan menunjukkan apakah pembebasan ini benar-benar mendongkrak volume ekspor soda abu."
+ },
+ {
+  "slug": "smar-david-fernando-audy-jadi-komisaris-utama-gantikan-franky",
+  "category": "Aksi Korporasi",
+  "title": "SMAR: David Fernando Audy Jadi [Komisaris Utama], Gantikan Franky",
+  "deck": "Komisaris Utama SMAR berganti dari Franky Oesman Widjaja ke David Fernando Audy per 17 November 2026, direksi tidak berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T19:21:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34b3c4a3cb_df91d79f21.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMAR",
+  "tags": [
+   "SMAR",
+   "Komisaris Utama",
+   "Pergantian Pengurus",
+   "Sinar Mas"
+  ],
+  "body": [
+   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) melaporkan perubahan susunan komisaris ke Bursa Efek Indonesia pada 17 November 2026. Jabatan Komisaris Utama beralih dari Franky Oesman Widjaja ke David Fernando Audy, efektif pada tanggal yang sama. Posisi Wakil Komisaris Utama yang sebelumnya dipegang Rafael Buhay Concepcion, Jr. juga beralih ke Dicky Bayu Atmadja pada tanggal yang sama, sementara Wakil Komisaris Utama lainnya, Prof. DR. Teddy Pawitra, tetap menjabat sejak pengangkatannya pada 16 Juni 2025.",
+   "Dalam dokumen yang sama, Rafael Buhay Concepcion, Jr. tercatat berpindah posisi menjadi Komisaris biasa, menggantikan Ir. Lukmono Sutarto di kursi tersebut. Tiga komisaris independen, yakni Ketut Sanjaya, Prof. DR. Susiyati B. Hirawan, dan Ardhayadi, SE., MA, tidak mengalami perubahan dan tetap menjabat sejak 16 Juni 2025, begitu juga Teddy Pawitra yang statusnya independen.",
+   "Di sisi direksi, tidak ada perubahan sama sekali. The Biao Leng tetap menjabat Direktur Utama, Jimmy Pramono dan DR. ING. Gianto Widjaja tetap sebagai Wakil Direktur Utama, serta Franciscus Costan, D. Agus Purnomo, dan Drs. Gatot Eddy Pramono tetap sebagai Direktur, semuanya sejak pengangkatan 16 Juni 2025. Laporan ditandatangani secara elektronik oleh Jimmy Pramono selaku Corporate Secretary."
+  ],
+  "fotoAdegan": "Aerial view of an oil palm plantation at sunrise with workers loading fresh fruit bunches onto a truck",
+  "takeaway": "Perubahan ini netral bagi fundamental SMAR karena yang berganti hanya jajaran pengawas, sedangkan direksi yang menjalankan operasional sehari-hari sama sekali tidak berubah. Yang tersentuh di sini adalah pos tata kelola perusahaan, bukan kinerja keuangan. Komisaris bertugas mengawasi kerja direksi atas nama pemegang saham, dan yang patut dicatat adalah tiga komisaris independen tetap bertahan sehingga fungsi pengawasan independen tidak melemah akibat reshuffle ini. Yang perlu dipantau pemegang saham selanjutnya adalah apakah SMAR akan mengeluarkan keterbukaan lanjutan yang menjelaskan dasar RUPS atau alasan di balik pergantian ini, karena dokumen ini sendiri tidak menyebutkan tanggal rapat pemegang saham yang mendasarinya.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Efektif pengangkatan Komisaris Utama dan Wakil Komisaris Utama baru"
+   }
+  ]
+ },
+ {
+  "slug": "wege-digugat-pkpu-oleh-dua-perusahaan-terdaftar-13-november",
+  "category": "Aksi Korporasi",
+  "title": "WEGE Digugat [PKPU] oleh Dua Perusahaan, Terdaftar 13 November",
+  "deck": "Dua perusahaan, PT Jaya Hamparan Alam dan PT Dutakreasi Bersama Realtindo, mengajukan permohonan PKPU terhadap WEGE ke Pengadilan Niaga Jakarta Pusat, terdaftar 13 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T18:54:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/54bf587656_2715ae053d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WEGE",
+  "tags": [
+   "WEGE",
+   "PKPU",
+   "Pengadilan Niaga",
+   "Konstruksi"
+  ],
+  "body": [
+   "PT Wijaya Karya Bangunan Gedung Tbk (WEGE) menjadi termohon dalam perkara penundaan kewajiban pembayaran utang (PKPU) yang didaftarkan di Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat dengan nomor register 344/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst. Pemohonnya adalah PT Jaya Hamparan Alam dan PT Dutakreasi Bersama Realtindo. Permohonan tertanggal 12 November 2026 itu resmi terdaftar di pengadilan pada 13 November 2026.",
+   "Dalam keterbukaan informasi yang diteken Direktur Keuangan, Human Capital, dan Manajemen Risiko WEGE, Rohandi, perusahaan menyatakan belum menerima relaas atau surat panggilan sidang maupun salinan permohonan PKPU dari pengadilan sampai surat ini dibuat pada 17 November 2026. WEGE menyebut akan memverifikasi lebih dulu nilai dan dasar klaim yang diajukan kedua pemohon setelah dokumen resmi tersebut diterima, sebelum memberikan tanggapan di forum hukum yang sesuai.",
+   "Perseroan menyatakan belum ada dampak langsung dari perkara ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya, dan berjanji menyampaikan perkembangan lebih lanjut sesuai aturan yang berlaku. Laporan ini juga ditandatangani oleh Corporate Secretary WEGE, Purba Yudha Tama, sesuai kewajiban keterbukaan informasi berdasarkan POJK Nomor 31/POJK.04/2015 dan POJK Nomor 45 Tahun 2024."
+  ],
+  "fotoAdegan": "Wide exterior shot of an unfinished high-rise office tower with scaffolding and cranes, overcast afternoon sky over Jakarta.",
+  "takeaway": "Laporan ini condong negatif bagi WEGE, karena pendaftaran perkara PKPU oleh pihak luar menandakan ada klaim utang yang disengketakan dan belum diselesaikan secara damai, terlepas dari klaim perusahaan bahwa belum ada dampak langsung. PKPU adalah proses hukum di pengadilan niaga yang memberi kesempatan debitur bernegosiasi ulang utangnya dengan kreditur dalam waktu terbatas, dan jika gagal mencapai kesepakatan, bisa berujung pada pernyataan pailit, sehingga pos yang tersentuh adalah arus kas dan kelangsungan usaha perusahaan, bukan sekadar urusan administratif. Nilai klaim yang diajukan kedua pemohon belum diketahui karena WEGE sendiri mengaku belum menerima salinan permohonannya. Yang perlu dipantau selanjutnya adalah kapan WEGE menerima relaas dan salinan permohonan resmi dari Pengadilan Niaga Jakarta Pusat, serta tanggapan resmi yang wajib disampaikan perusahaan begitu dokumen itu diterima.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material Perseroan"
+ },
+ {
+  "slug": "pkpu-wege-dari-pratama-widya-dicabut-kasus-resmi-selesai",
+  "category": "Aksi Korporasi",
+  "title": "PKPU WEGE dari Pratama Widya [Dicabut], Kasus Resmi Selesai",
+  "deck": "Pengadilan Niaga Jakarta Pusat mencatat PT Pratama Widya Tbk mencabut gugatan PKPU terhadap WEGE pada 12 November 2026, perkara dinyatakan selesai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T18:54:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/066673e033_ddab072b8f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WEGE",
+  "tags": [
+   "WEGE",
+   "PKPU",
+   "Pengadilan Niaga",
+   "Pratama Widya"
+  ],
+  "body": [
+   "Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat menjatuhkan putusan pada 12 November 2026 atas perkara dengan nomor register 247/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst, dengan PT Pratama Widya Tbk sebagai pemohon dan PT Wijaya Karya Bangunan Gedung Tbk (WEGE) sebagai termohon. Berdasarkan Sistem Informasi Penelusuran Perkara (SIPP) PN Jakarta Pusat, Pratama Widya mencabut sendiri permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) itu, sehingga status perkara tercatat Dicabut. Pengadilan mengabulkan pencabutan tersebut, menyatakan perkara selesai, dan menghukum Pratama Widya membayar biaya perkara sebesar Rp2.354.000. Pemberitahuan putusan ini disampaikan kepada pemohon pada hari yang sama, 12 November 2026.",
+   "Perkara ini bermula dari permohonan PKPU yang pertama kali diungkapkan WEGE dalam laporan keterbukaan informasi tertanggal 20 Agustus 2026. Direktur Keuangan, Human Capital, dan Manajemen Risiko WEGE, Rohandi, menyatakan bahwa dengan dicabutnya permohonan tersebut, perkara dinyatakan selesai dan tidak ada dampak terhadap kegiatan operasional, posisi hukum, kondisi keuangan, maupun kelangsungan usaha perseroan.",
+   "Pencabutan ini terjadi di tengah sorotan terhadap WEGE yang pekan ini juga diberitakan menghadapi permohonan PKPU baru dari dua perusahaan lain yang terdaftar pada 13 November 2026. Kedua perkara itu berbeda nomor register dan pihak pemohon dari kasus Pratama Widya yang baru dicabut, sehingga penyelesaian kasus ini tidak otomatis menghapus risiko hukum dari gugatan PKPU lain yang masih berjalan."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta courthouse building with tall glass facade, lawyers in formal attire crossing the plaza, midday light",
+  "takeaway": "Laporan ini positif bagi WEGE, karena satu dari rangkaian gugatan PKPU yang membebani perusahaan sejak Agustus 2026 resmi dicabut oleh pemohonnya sendiri dan dinyatakan selesai oleh pengadilan. PKPU sendiri adalah upaya kreditor meminta pengadilan menunda kewajiban bayar utang debitur sambil merundingkan skema pelunasan, dan jika perundingan gagal, prosesnya bisa berlanjut ke kepailitan yang mengancam kelangsungan usaha, jadi setiap kasus yang dicabut berarti satu ancaman semacam itu hilang meski tidak ada pos keuangan seperti ekuitas atau arus kas WEGE yang berubah langsung akibat putusan ini. Yang perlu dipantau selanjutnya adalah dua permohonan PKPU baru yang terdaftar terhadap WEGE pada 13 November 2026 dari pihak lain, karena perkembangan dan putusan atas kasus-kasus itu yang akan menentukan apakah tekanan hukum terhadap perseroan benar-benar mengecil atau justru berlanjut.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material Perseroan"
  },
  {
   "slug": "smexpo-2026-ditutup-potensi-bisnis-umkm-tembus-rp34-miliar",
@@ -259,6 +373,99 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "pengurus",
   "judulIdx": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris"
+ },
+ {
+  "slug": "buva-hapsoro-jual-333-juta-saham-hak-suara-jadi-1-05",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Hapsoro Beli 600 Juta, Jual 333 Juta Saham, Suara ke 1,05%",
+  "deck": "Dokumen baru menunjukkan Hapsoro membeli 600 juta saham BUVA pada 12 November sebelum menjual 333 juta di antaranya, sehingga hak suaranya net naik dari 0,18% menjadi 1,05%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T16:59:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0768-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "Hapsoro",
+   "Laporan Kepemilikan Saham",
+   "Free Float"
+  ],
+  "body": [
+   "Sebelum transaksi penjualan 333 juta saham yang sempat memangkas hak suaranya ke 1,05 persen, laporan baru ke Otoritas Jasa Keuangan menunjukkan bahwa Hapsoro, pemegang saham PT Bukit Uluwatu Villa Tbk (BUVA) yang bukan anggota direksi maupun dewan komisaris, lebih dulu membeli 600 juta saham BUVA secara tidak langsung pada tanggal yang sama, 12 November 2026, dengan harga Rp250 per saham. Pembelian itu menaikkan kepemilikannya dari 54.806.311 lembar saham, dengan hak suara 0,18 persen, menjadi 654.806.311 lembar, dengan hak suara 2,13 persen. Hapsoro mencantumkan tujuan transaksi ini sebagai penyelarasan portofolio.",
+   "Seperti telah dilaporkan sebelumnya, pada hari yang sama Hapsoro kemudian melepas 333 juta saham lewat dua transaksi, yaitu 200 juta saham pada harga Rp260 per saham dan 133 juta saham pada harga Rp361 per saham, dengan alasan menambah likuiditas free float, yakni porsi saham BUVA yang beredar bebas dan bisa diperdagangkan publik. Setelah penjualan itu, kepemilikan Hapsoro berakhir di 321.806.311 lembar saham dengan hak suara 1,05 persen. Hapsoro tercatat sebagai warga negara Indonesia.",
+   "Jika dihitung dari posisi awal hingga akhir hari transaksi pada 12 November 2026, hak suara Hapsoro di BUVA justru naik, dari 0,18 persen menjadi 1,05 persen, meskipun sempat mencapai puncak 2,13 persen sebelum sebagian sahamnya dijual kembali di hari yang sama."
+  ],
+  "fotoAdegan": "Cliffside resort villas with infinity pools overlooking the ocean in Uluwatu, Bali, soft afternoon light",
+  "takeaway": "Dibaca utuh dengan laporan pembelian yang mendahuluinya, rangkaian transaksi Hapsoro di BUVA ini netral bagi pembacaan pasar, bukan sinyal negatif seperti kesan dari laporan penjualan yang lebih dulu terbit, sebab hak suaranya justru naik dari 0,18 persen menjadi 1,05 persen sepanjang 12 November 2026, bukan turun dari posisi yang sudah mapan. Yang tersentuh hanyalah sebaran pemilik saham BUVA di pasar sekunder, bukan kondisi keuangan perusahaan, karena jumlah saham beredar, ekuitas, dan laba per saham BUVA tidak berubah akibat jual beli antar investor ini. Pola beli lalu jual dalam satu hari, dengan alasan penyelarasan portofolio untuk pembelian dan penambahan likuiditas free float untuk penjualan, lebih mencerminkan aktivitas perdagangan jangka pendek ketimbang sikap jangka panjang terhadap BUVA. Yang perlu dipantau selanjutnya adalah laporan kepemilikan berikutnya dari Hapsoro, untuk melihat apakah posisi 1,05 persen ini bertahan atau kembali terjadi jual beli dalam jumlah besar.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T16:51:28",
+    "ringkas": "Sebelum menjual 333 juta saham, Hapsoro ternyata membeli 600 juta saham BUVA pada hari yang sama, hak suaranya net naik ke 1,05%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8028-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-17T16:51:28"
+ },
+ {
+  "slug": "buva-nusantara-utama-investama-jual-600-juta-saham-suara-ke-58-2",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Nusantara Utama Investama [Jual] 600 Juta Saham, Suara ke 58,2%",
+  "deck": "Nusantara Utama Investama melepas 600 juta saham BUVA secara tidak langsung pada 12 November 2026, hak suara turun dari 60,15% menjadi 58,20%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T16:47:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0866-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "Nusantara Utama Investama",
+   "hak suara"
+  ],
+  "body": [
+   "PT Nusantara Utama Investama, pemegang saham utama PT Bukit Uluwatu Villa Tbk (BUVA), melaporkan penjualan 600 juta saham BUVA secara tidak langsung melalui mekanisme repurchase agreement. Transaksi tercatat pada 12 November 2026 dengan harga Rp250 per saham, sehingga nilai totalnya sekitar Rp150 miliar.",
+   "Dengan penjualan ini, jumlah saham BUVA yang dikuasai Nusantara Utama Investama turun dari 18.508.539.715 lembar menjadi 17.908.539.715 lembar. Hak suaranya di BUVA pun berkurang dari 60,15 persen menjadi 58,20 persen. Dalam laporan ke Otoritas Jasa Keuangan, perusahaan menyebut tujuan transaksi ini sebagai penyelarasan portofolio.",
+   "Besaran saham yang dilepas setara 3,24 persen dari total kepemilikan Nusantara Utama Investama di BUVA sebelum transaksi berlangsung. Kendati berkurang, Nusantara Utama Investama tetap menjadi pemegang saham mayoritas BUVA dengan hak suara di atas separuh total saham beredar."
+  ],
+  "fotoAdegan": "Cliffside villas with infinity pools overlooking the ocean in Bali, palm trees swaying, warm late afternoon light",
+  "takeaway": "Laporan ini tergolong netral bagi BUVA karena meski Nusantara Utama Investama melepas 600 juta saham, hak suaranya cuma turun dari 60,15 persen ke 58,20 persen dan ia masih memegang kendali mayoritas perusahaan. Yang tersentuh di sini adalah struktur pemegang saham dan jumlah saham yang beredar di pasar, bukan kinerja keuangan BUVA, karena ini jual beli saham antar pemegang saham lama, bukan penerbitan saham baru oleh perusahaan. Pelaku pasar biasanya memperhatikan perubahan hak suara pemegang saham mayoritas karena itu jadi indikator apakah kendali perusahaan masih stabil, dan dalam kasus ini kendalinya belum berubah. Yang perlu dipantau berikutnya adalah apakah Nusantara Utama Investama melanjutkan pengurangan sahamnya di laporan-laporan susulan, mengingat alasan resmi yang diberikan, penyelarasan portofolio, biasanya menandakan rangkaian transaksi yang belum tentu berhenti di satu laporan ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "plan-direksi-jual-1-88-juta-saham-hak-suara-ke-2-64",
+  "category": "Aksi Korporasi",
+  "title": "PLAN: Direksi [Jual] 1,88 Juta Saham, Hak Suara ke 2,64%",
+  "deck": "Direksi PLAN Antonyo Hartono Tanujaya melepas 1.883.100 saham lewat tiga transaksi repo pada 16 November, hak suara turun dari 2,85% ke 2,64%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T16:47:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8358-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PLAN",
+  "tags": [
+   "PLAN",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "body": [
+   "Antonyo Hartono Tanujaya, anggota direksi PT Planet Properindo Jaya Tbk (PLAN), melaporkan penjualan tidak langsung atas 1.883.100 lembar saham perusahaan pada 16 November 2026. Dengan transaksi ini, kepemilikannya turun dari 25.537.500 lembar menjadi 23.654.400 lembar saham, sementara hak suaranya di perusahaan bergeser dari 2,85 persen menjadi 2,64 persen.",
+   "Penjualan dilakukan dalam tiga transaksi terpisah dengan jenis transaksi tercatat sebagai repurchase agreement (repo) dan tujuan transaksi divestasi. Rinciannya adalah 680.000 saham di harga Rp44 per saham, 1.180.000 saham di harga Rp43 per saham, dan 23.100 saham di harga Rp46 per saham, seluruhnya dieksekusi pada tanggal yang sama. Total nilai ketiga transaksi tersebut sekitar Rp81,7 juta.",
+   "Setelah transaksi ini, Antonyo masih mengantongi 23.654.400 saham PLAN atau setara 2,64 persen hak suara perusahaan, sehingga posisinya sebagai direksi dengan kepemilikan saham tetap bertahan meski mengecil. Laporan ini disampaikan sesuai kewajiban Pasal 2 Ayat 1 POJK Nomor 4/2024 tentang laporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka."
+  ],
+  "fotoAdegan": "Exterior of a mixed-use residential and retail building under construction in an Indonesian city, cranes visible, late afternoon light",
+  "takeaway": "Laporan ini netral bagi pemegang saham PLAN secara umum: saham yang dilepas Antonyo hanya sekitar 7,4 persen dari kepemilikannya sendiri, dan hak suaranya di perusahaan cuma bergeser dari 2,85 persen menjadi 2,64 persen, bukan perubahan yang mengubah peta kendali perusahaan. Yang tersentuh di sini adalah kepemilikan pribadi sang direksi, bukan jumlah total saham beredar PLAN, sehingga hak suara pemegang saham lain tidak berubah sama sekali. Jenis transaksinya tercatat sebagai repurchase agreement, yaitu jual saham dengan kesepakatan bisa dibeli kembali, semacam gadai sementara yang di laporan ini berakhir dengan saham benar-benar berpindah tangan sebagai divestasi. Dokumen ini tidak menyebut rencana lanjutan atau tenggat baru, sehingga yang perlu dicermati adalah apakah direksi ini akan melaporkan penjualan susulan dalam waktu dekat yang bisa mengubah pola kepemilikannya lebih jauh.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
   "slug": "adcp-belum-tegaskan-dana-siap-obligasi-rp15-7-m-jatuh-tempo-8-des",
@@ -37562,8 +37769,8 @@ var ARTICLES = [
  {
   "slug": "smar-gelar-rupslb-17-november-rombak-komisaris",
   "category": "Aksi Korporasi",
-  "title": "SMAR Gelar RUPSLB 17 November, Rombak [Komisaris]",
-  "deck": "SMAR memanggil RUPSLB pada 17 November 2026 untuk menyesuaikan anggaran dasar dan mengubah susunan Dewan Komisaris.",
+  "title": "RUPSLB SMAR: [Komisaris Utama] David Audy Gantikan Franky Widjaja",
+  "deck": "RUPSLB SMAR 17 November menyetujui pergantian Komisaris Utama dari Franky Oesman Widjaja ke David Fernando Audy, plus dua perubahan anggaran dasar.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "26 Oktober 2026",
   "isoDate": "2026-10-26T17:41:49",
@@ -37574,16 +37781,27 @@ var ARTICLES = [
    "SMAR",
    "RUPSLB",
    "Dewan Komisaris",
-   "Anggaran Dasar"
+   "Sinar Mas Agro"
   ],
   "body": [
-   "PT Sinar Mas Agro Resources and Technology Tbk (SMAR) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, pukul 10.00 WIB di Ruang Danamas, Plaza Sinar Mas Land, Menara 2, Lantai 39, Jalan MH Thamrin No. 51, Jakarta Pusat. Pemegang saham juga bisa mengikuti rapat secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Yang berhak hadir atau memberi kuasa adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per penutupan perdagangan 23 Oktober 2026.",
-   "Ada tiga agenda yang akan diputuskan dalam rapat ini. Pertama, penyesuaian Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan klasifikasi baku lapangan usaha terbaru, KBLI 2025, yang diterbitkan Badan Pusat Statistik. Perseroan menegaskan penyesuaian ini tidak menambah atau mengurangi kegiatan usaha, sehingga tidak masuk kategori transaksi material menurut aturan Otoritas Jasa Keuangan. Kedua, perubahan Pasal 26 ayat 4 Anggaran Dasar tentang Laporan Tahunan, untuk menegaskan kewajiban seluruh anggota Direksi dan Dewan Komisaris menandatangani Laporan Tahunan sesuai Undang-Undang Perseroan Terbatas dan aturan OJK soal laporan tahunan emiten. Ketiga, perubahan susunan anggota Dewan Komisaris Perseroan, yang menurut Anggaran Dasar dan Undang-Undang Perseroan Terbatas menjadi kewenangan RUPS. Surat pemanggilan belum menyebutkan nama-nama yang akan diganti atau diangkat.",
-   "Bagi pemegang saham yang tidak bisa datang langsung, kuasa konvensional harus disampaikan ke Biro Administrasi Efek PT Sinartama Gunita selambat-lambatnya tiga hari kerja sebelum rapat sampai pukul 16.00 WIB, sedangkan kuasa elektronik lewat eASY.KSEI paling lambat satu hari kerja sebelum rapat. Pemanggilan ini ditandatangani oleh Corporate Secretary SMAR, Jimmy Pramono, sementara surat pemberitahuan resmi ke OJK dan Bursa Efek Indonesia ditandatangani oleh Direktur Fiscus Costan."
+   "RUPSLB PT Sinar Mas Agro Resources and Technology Tbk (SMAR) yang berlangsung 17 November 2026 menyetujui pergantian susunan Dewan Komisaris. Franky Oesman Widjaja mengundurkan diri dari jabatan Komisaris Utama, Rafael Buhay Concepcion Jr. dari Wakil Komisaris Utama, dan Ir. Lukmono Sutarto dari Komisaris, efektif sejak rapat ditutup. David Fernando Audy diangkat sebagai Komisaris Utama baru dan Dicky Bayu Atmadja sebagai Wakil Komisaris Utama baru, melanjutkan sisa masa jabatan hingga penutupan RUPS Tahunan 2030. Agenda ini disetujui secara musyawarah mufakat oleh pemegang saham yang mewakili 2.793.463.273 saham atau 100 persen suara yang hadir.",
+   "Dengan perubahan ini, susunan Dewan Komisaris SMAR menjadi: Komisaris Utama David Fernando Audy, Wakil Komisaris Utama Dicky Bayu Atmadja, Wakil Komisaris Utama dan Komisaris Independen Prof. DR. Teddy Pawitra, serta tiga Komisaris Independen yaitu Prof. DR. Susiyati B. Hirawan, Ardhayadi SE., MA, dan Ketut Sanjaya.",
+   "Dua agenda lain yang dibahas dalam rapat yang sama, yaitu penyesuaian Pasal 3 Anggaran Dasar tentang klasifikasi usaha mengikuti KBLI 2025 dan perubahan Pasal 26 ayat 4 tentang kewajiban seluruh anggota Direksi dan Dewan Komisaris menandatangani Laporan Tahunan, juga disetujui. Keduanya lolos dengan suara terbanyak, masing-masing disetujui 2.793.328.273 saham atau 99,9952 persen dari suara yang hadir, sementara 135.000 saham atau 0,0048 persen menolak. Perseroan menegaskan penyesuaian Pasal 3 tidak mengubah ruang lingkup maupun jenis kegiatan usaha SMAR.",
+   "RUPSLB ini dipanggil lewat surat tertanggal 26 Oktober 2026 dan digelar di Ruang Danamas, Sinar Mas Land Plaza, Jakarta Pusat, dihadiri secara fisik dan elektronik lewat eASY.KSEI oleh pemegang saham yang mewakili 2.793.463.273 saham atau 97,2589 persen dari total 2.872.193.366 saham berhak suara. Rapat berlangsung singkat, dari pukul 10.26 hingga 11.00 WIB, tanpa ada pertanyaan atau pendapat dari pemegang saham untuk ketiga agenda. Notaris independen Sri Hidianingsih Adi Sugijanto bertugas memvalidasi hasil pemungutan suara."
   ],
   "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a small stage, tall windows letting in soft morning light",
-  "takeaway": "Laporan ini netral bagi SMAR karena isinya murni pemanggilan rapat untuk menyesuaikan anggaran dasar dan mengganti susunan komisaris, belum ada keputusan atau angka yang mengubah kondisi keuangan perseroan saat ini. Perubahan yang dibahas tidak menyentuh pos-pos seperti ekuitas, arus kas, atau laba per saham, melainkan struktur pengawasan lewat pergantian Dewan Komisaris, yang diperhatikan pasar karena komisaris baru bisa membawa arah pengawasan berbeda terhadap keputusan manajemen. Yang perlu dipantau adalah hasil RUPSLB pada 17 November 2026, terutama nama-nama yang diusulkan masuk atau keluar dari Dewan Komisaris serta apakah penyesuaian anggaran dasar terkait KBLI 2025 disahkan tanpa mengubah kegiatan usaha perseroan.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi SMAR karena seluruh keputusan bersifat administratif dan pergantian pengurus pengawasan, bukan transaksi yang mengubah kondisi keuangan perseroan saat ini. Pergantian Dewan Komisaris tidak menyentuh pos seperti ekuitas, arus kas, beban bunga, atau laba per saham, tetapi tetap diperhatikan pasar karena David Fernando Audy dan Dicky Bayu Atmadja kini memegang posisi puncak pengawasan dan bisa membawa arah berbeda dalam mengawasi keputusan Direksi. Yang perlu dipantau selanjutnya adalah bagaimana Dewan Komisaris baru ini menjalankan fungsinya, serta proses legalisasi perubahan Anggaran Dasar lewat akta notaris dan pemberitahuan ke Kementerian Hukum, yang belum disertai tanggal pasti dalam dokumen ini.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T19:06:57",
+    "ringkas": "RUPSLB SMAR menyetujui pergantian Komisaris Utama dari Franky Oesman Widjaja ke David Fernando Audy, plus dua perubahan anggaran dasar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f5fe1f5c8c_0f6ca02c9e.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-17T19:06:57",
+  "peristiwa": "rups"
  },
  {
   "slug": "tbig-raih-afirmasi-peringkat-aa-idn-dari-fitch-outlook-stabil",

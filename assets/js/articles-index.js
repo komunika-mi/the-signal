@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
+  "category": "Aksi Korporasi",
+  "title": "BMTR: Dana Obligasi-Sukuk Rp793,5 M [Lunasi] Utang Lama, Sisa Rp0",
+  "deck": "Global Mediacom melaporkan realisasi dana hasil Obligasi dan Sukuk Ijarah Berkelanjutan V Tahap II 2026 senilai Rp793,5 miliar, seluruhnya sudah terpakai untuk melunasi obligasi lama dan modal kerja.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMTR",
+   "obligasi",
+   "sukuk ijarah",
+   "Global Mediacom"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4accb01e75_9de5e26e42.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-hitung-risiko-persaingan-sejak-rencanakan-merger",
   "category": "Bisnis",
   "title": "KPPU: Hitung Risiko [Persaingan] Sejak Rencanakan Merger",
@@ -53,6 +69,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/soda-abu-indonesia-terbebas-dari-aturan-kuota-impor-india-mendag-busan-ajak-tingkatkan-ekspor",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "smar-david-fernando-audy-jadi-komisaris-utama-gantikan-franky",
+  "category": "Aksi Korporasi",
+  "title": "SMAR: David Fernando Audy Jadi [Komisaris Utama], Gantikan Franky",
+  "deck": "Komisaris Utama SMAR berganti dari Franky Oesman Widjaja ke David Fernando Audy per 17 November 2026, direksi tidak berubah.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMAR",
+   "Komisaris Utama",
+   "Pergantian Pengurus",
+   "Sinar Mas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34b3c4a3cb_df91d79f21.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "wege-digugat-pkpu-oleh-dua-perusahaan-terdaftar-13-november",
+  "category": "Aksi Korporasi",
+  "title": "WEGE Digugat [PKPU] oleh Dua Perusahaan, Terdaftar 13 November",
+  "deck": "Dua perusahaan, PT Jaya Hamparan Alam dan PT Dutakreasi Bersama Realtindo, mengajukan permohonan PKPU terhadap WEGE ke Pengadilan Niaga Jakarta Pusat, terdaftar 13 November 2026.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WEGE",
+   "PKPU",
+   "Pengadilan Niaga",
+   "Konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/54bf587656_2715ae053d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpu-wege-dari-pratama-widya-dicabut-kasus-resmi-selesai",
+  "category": "Aksi Korporasi",
+  "title": "PKPU WEGE dari Pratama Widya [Dicabut], Kasus Resmi Selesai",
+  "deck": "Pengadilan Niaga Jakarta Pusat mencatat PT Pratama Widya Tbk mencabut gugatan PKPU terhadap WEGE pada 12 November 2026, perkara dinyatakan selesai.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WEGE",
+   "PKPU",
+   "Pengadilan Niaga",
+   "Pratama Widya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/066673e033_ddab072b8f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "smexpo-2026-ditutup-potensi-bisnis-umkm-tembus-rp34-miliar",
@@ -151,6 +215,54 @@ var ARTICLES = [
    "Gema Grahasarana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4119a04ae1_f4b34fcb7e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-hapsoro-jual-333-juta-saham-hak-suara-jadi-1-05",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Hapsoro Beli 600 Juta, Jual 333 Juta Saham, Suara ke 1,05%",
+  "deck": "Dokumen baru menunjukkan Hapsoro membeli 600 juta saham BUVA pada 12 November sebelum menjual 333 juta di antaranya, sehingga hak suaranya net naik dari 0,18% menjadi 1,05%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "Hapsoro",
+   "Laporan Kepemilikan Saham",
+   "Free Float"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0768-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-nusantara-utama-investama-jual-600-juta-saham-suara-ke-58-2",
+  "category": "Aksi Korporasi",
+  "title": "BUVA: Nusantara Utama Investama [Jual] 600 Juta Saham, Suara ke 58,2%",
+  "deck": "Nusantara Utama Investama melepas 600 juta saham BUVA secara tidak langsung pada 12 November 2026, hak suara turun dari 60,15% menjadi 58,20%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "kepemilikan saham",
+   "Nusantara Utama Investama",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0866-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "plan-direksi-jual-1-88-juta-saham-hak-suara-ke-2-64",
+  "category": "Aksi Korporasi",
+  "title": "PLAN: Direksi [Jual] 1,88 Juta Saham, Hak Suara ke 2,64%",
+  "deck": "Direksi PLAN Antonyo Hartono Tanujaya melepas 1.883.100 saham lewat tiga transaksi repo pada 16 November, hak suara turun dari 2,85% ke 2,64%.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PLAN",
+   "kepemilikan saham",
+   "direksi",
+   "divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8358-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6411,118 +6523,6 @@ var ARTICLES = [
    "gagal bayar"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c1c81fb8c1_f12c929322.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rans-resmi-batalkan-kerja-sama-konser-d-masiv-tur-asia",
-  "category": "Aksi Korporasi",
-  "title": "RANS Resmi Batalkan Kerja Sama Konser [D'MASIV] Tur Asia",
-  "deck": "RANS resmi membatalkan rencana kerja sama konser D'MASIV Asia Home Run Tour per 9 November 2026, tiga hari setelah membantah kabar serupa ke publik.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "D'MASIV",
-   "IPO",
-   "konser musik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/365dad443c_5a414a455f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "scma-jelaskan-volatilitas-saham-emtk-pastikan-investasi-panjang",
-  "category": "Aksi Korporasi",
-  "title": "SCMA Jelaskan [Volatilitas] Saham, EMTK Pastikan Investasi Panjang",
-  "deck": "SCMA menjawab permintaan BEI soal volatilitas saham: tak ada info baru selain dividen interim yang telah diumumkan, dan EMTK menegaskan kepemilikannya untuk investasi jangka panjang.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SCMA",
-   "volatilitas saham",
-   "EMTK",
-   "dividen interim"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d6e21f8c91_0878163dc8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-tawarkan-obligasi-dan-sukuk-baru-rp550-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Tawarkan [Obligasi] dan Sukuk Baru Rp550 Miliar",
-  "deck": "Eagle High Plantations menerbitkan obligasi hingga Rp175 miliar dan sukuk mudharabah hingga Rp375 miliar tahap II, bunga 9,5-12 persen per tahun.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "obligasi",
-   "sukuk",
-   "surat utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4dc6155140_675d268461.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bwpt-rinci-bunga-obligasi-sukuk-12-senilai-rp550-m",
-  "category": "Aksi Korporasi",
-  "title": "BWPT Rinci Bunga Obligasi-Sukuk [12%] Senilai Rp550 M",
-  "deck": "Eagle High Plantations merinci struktur tiga seri obligasi dan sukuk mudharabah tahap II senilai total Rp550 miliar, dengan bunga 9,5 sampai 12 persen dan masa penawaran 23-24 November 2026.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BWPT",
-   "obligasi",
-   "sukuk mudharabah",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/835d807fb5_29b2458347.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbri-cetak-laba-rp48-2-triliun-di-9-bulan-2026-naik-16-8",
-  "category": "Aksi Korporasi",
-  "title": "BBRI Cetak Laba [Rp48,2] Triliun di 9 Bulan 2026, Naik 16,8%",
-  "deck": "BRI melaporkan laba bersih Rp48,2 triliun pada sembilan bulan 2026, naik 16,8 persen, didorong kredit yang tumbuh 14,5 persen dan dana pihak ketiga naik 12 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBRI",
-   "kinerja keuangan",
-   "laba bersih",
-   "perbankan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d443245ae_ccf9c761d9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-direksi-cindy-budijono-beli-1-25-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Direksi Cindy Budijono Beli [1,25 Juta] Saham",
-  "deck": "Direktur BUVA, Cindy Budijono, menambah kepemilikan sahamnya 1,25 juta lembar pada 2 November 2026, tapi porsi hak suaranya di perseroan tetap 0,02 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "Bukit Uluwatu Villa",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0704-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-pemegang-saham-hapsoro-tambah-10-9-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: [Pemegang Saham] Hapsoro Tambah 10,9 Juta Saham",
-  "deck": "Hapsoro membeli 10,96 juta saham BUVA secara tidak langsung senilai Rp250 per saham pada 2 November 2026, menambah kepemilikannya 25 persen namun hak suaranya tetap 0,18 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "pemegang saham",
-   "kepemilikan saham",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-0000-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

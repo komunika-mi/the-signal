@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "uma-tfas-13-november-manajemen-tak-tahu-pemicu-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "[UMA] TFAS 13 November: Manajemen Tak Tahu Pemicu Volatilitas",
+  "deck": "TFAS menjawab permintaan BEI soal volatilitas transaksi sahamnya: manajemen menyatakan tidak ada informasi material apa pun di balik pergerakan itu.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TFAS",
+   "UMA",
+   "Bursa Efek Indonesia",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51b1714ddc_cd5bf7cb81.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "private-placement-tgra-21-miliar-saham-ams-jadi-pengendali-baru",
+  "category": "Aksi Korporasi",
+  "title": "[Private Placement] TGRA 21 Miliar Saham: AMS Jadi Pengendali Baru",
+  "deck": "TGRA terbitkan 21 miliar saham baru seharga Rp10, pemegang saham lama terdilusi 88,42% dan kendali beralih ke PT Adidaya Mandiri Sejahtera.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGRA",
+   "private placement",
+   "PMTHMETD",
+   "pengendali baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/69b68a027c_cf21575c17.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "umkm-ekspor-catat-us-361-juta-79-masih-potensi",
   "category": "UMKM",
   "title": "UMKM Ekspor Catat US$361 Juta, [79%] Masih Potensi",
@@ -37,6 +69,70 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-hasilkan-mou-dan-transaksi-signifikan-dalam-hajj-conference-expo-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "rupslb-gema-komisaris-agustinus-mundur-dedy-rochimat-komut",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB GEMA: [Komisaris] Agustinus Mundur, Dedy Rochimat Komut",
+  "deck": "RUPSLB Gema Grahasarana (GEMA) pada 17 November 2026 menyetujui pengunduran diri Komisaris Agustinus Purna Irawan, dan menetapkan Dedy Rochimat sebagai Komisaris Utama baru hingga 2029.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GEMA",
+   "Komisaris",
+   "RUPSLB",
+   "Gema Grahasarana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4119a04ae1_f4b34fcb7e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adcp-belum-tegaskan-dana-siap-obligasi-rp15-7-m-jatuh-tempo-8-des",
+  "category": "Aksi Korporasi",
+  "title": "ADCP Belum Tegaskan Dana Siap, [Obligasi] Rp15,7 M Jatuh Tempo 8 Des",
+  "deck": "ADCP melaporkan kesiapan dana pelunasan obligasi Rp15,7 miliar yang jatuh tempo 8 Desember 2026, tapi hanya menyebut koordinasi dengan penjamin CGIF, tanpa memastikan dana sudah tersedia.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADCP",
+   "obligasi",
+   "Adhi Commuter Properti",
+   "CGIF"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/53592b96f0_65989d05e2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sema-prospek-2027-pendapatan-dan-laba-diproyeksi-naik-signifikan",
+  "category": "Aksi Korporasi",
+  "title": "SEMA Prospek 2027: [Pendapatan] dan Laba Diproyeksi Naik Signifikan",
+  "deck": "Semacom Integrated (SEMA) ungkap pandangan awal manajemen yang sangat positif atas penjualan dan laba 2027, didorong proyek data center swasta, tanpa target angka resmi.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SEMA",
+   "data center",
+   "prospek kinerja",
+   "panel listrik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52dc682339_e26aa0e65b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-dgwg-rp19-5-per-saham-cair-17-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim DGWG Rp19,5 per Saham, [Cair] 17 Desember",
+  "deck": "Direksi DGWG menetapkan dividen interim Rp19,5 per saham, total Rp114,7 miliar, dibayar 17 Desember 2026 setelah recording date 27 November.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "dividen interim",
+   "pasar modal",
+   "emiten"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bd28e40824_bc1094f396.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
@@ -764,15 +860,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-daaz-sukuk-rp378-m-cair-ke-indo-lautan-energi",
   "category": "Aksi Korporasi",
-  "title": "Public Expose DAAZ: [Sukuk] Rp378 M Cair ke Indo Lautan Energi",
-  "deck": "Seluruh dana Rp378 miliar dari Sukuk Wakalah I dialokasikan ke anak usaha untuk membeli solar, sementara laba bersih sembilan bulan turun jadi Rp157 miliar dari Rp277 miliar.",
+  "title": "Public Expose DAAZ: [Koreksi] Data Nikel dan Batubara Tertukar",
+  "deck": "DAAZ koreksi data Public Expose: bijih nikel naik 41,8% jadi Rp4,82 triliun, batubara anjlok 71,8% jadi Rp350 miliar, membalik angka sebelumnya.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DAAZ",
-   "sukuk wakalah",
-   "kinerja keuangan",
-   "public expose"
+   "Sukuk Wakalah",
+   "Public Expose",
+   "Koreksi Laporan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b528d62a50_b463f6db5b.pdf",
   "sourceLabel": "IDX"
@@ -6424,102 +6520,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-8716-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-tirta-orisa-yasa-tambah-114-96-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Tirta Orisa Yasa [Tambah] 114,96 Juta Saham",
-  "deck": "PT Tirta Orisa Yasa membeli 114,96 juta saham BUVA secara tidak langsung senilai Rp250 per lembar pada 2 November 2026, namun hak suaranya tetap 1,87 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "kepemilikan saham",
-   "pemegang saham",
-   "Bukit Uluwatu Villa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-7882-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hits-jadwalkan-rupst-rupslb-16-desember-bahas-modal-dasar",
-  "category": "Aksi Korporasi",
-  "title": "HITS Jadwalkan RUPST-RUPSLB 16 Desember, Bahas [Modal Dasar]",
-  "deck": "HITS akan gelar RUPST dan RUPSLB pada 16 Desember 2026, dengan satu agenda RUPSLB soal rencana menaikkan modal dasar perseroan.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HITS",
-   "RUPST",
-   "RUPSLB",
-   "modal dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/073b252e79_edf0c41802.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-nusantara-utama-investama-tambah-3-47-miliar-saham-rp868-m",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Nusantara Utama Investama Tambah 3,47 Miliar Saham [Rp868 M]",
-  "deck": "Nusantara Utama Investama menambah 3,47 miliar saham BUVA senilai Rp868,6 miliar pada 2 November 2026, meski hak suaranya sedikit menyusut jadi 60,15 persen.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "kepemilikan saham",
-   "pemegang saham mayoritas",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-09112026-6387-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-ganti-wali-amanat-sukuk-ke-cimb-niaga",
-  "category": "Aksi Korporasi",
-  "title": "INET Ganti [Wali Amanat] Sukuk ke CIMB Niaga",
-  "deck": "RUPSI menyetujui pergantian wali amanat Sukuk Ijarah I INET senilai Rp500 miliar dari Bank KB Indonesia ke CIMB Niaga, disetujui 100 persen suara yang hadir.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "sukuk",
-   "wali amanat",
-   "RUPSI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9d031c0f5_d2a7f1c7c7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inet-rupo-obligasi-gagal-kuorum-ganti-wali-amanat-molor",
-  "category": "Aksi Korporasi",
-  "title": "INET: RUPO Obligasi Gagal [Kuorum], Ganti Wali Amanat Molor",
-  "deck": "RUPO obligasi INET pada 5 November hanya dihadiri 66,79% pemegang obligasi, di bawah syarat kuorum 75%, sehingga rencana ganti wali amanat ke CIMB Niaga belum disetujui.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "RUPO",
-   "obligasi",
-   "wali amanat"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e3dd40f998_412093210d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fast-ekuitas-susut-40-pendapatan-tumbuh-16-di-kuartal-iii",
-  "category": "Aksi Korporasi",
-  "title": "FAST: Ekuitas Susut [40%], Pendapatan Tumbuh 16% di Kuartal III",
-  "deck": "Laporan interim kuartal III 2026 menunjukkan pendapatan FAST naik 16% menjadi Rp4,13 triliun, namun ekuitas susut hampir 40% menjadi Rp261,79 miliar akibat rugi berjalan tanpa suntikan modal baru.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FAST",
-   "Fast Food Indonesia",
-   "laporan keuangan kuartal III",
-   "ekuitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261109182556-65146-0/FinancialStatement-2026-III-FAST.pdf",
   "sourceLabel": "IDX"
  }
 ];

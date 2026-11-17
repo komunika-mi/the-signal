@@ -344,7 +344,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini sebenarnya cuma pembaruan angka, bukan kebijakan baru: pemerintah menyebut 250 proyek strategis nasional sudah rampung sejak 2016 dengan investasi Rp2.396 triliun, sementara 302.262 pekerja terserap lewat kawasan ekonomi khusus dan investasi nasional Januari-September 2026 tumbuh 7,6 persen. Yang terdampak langsung adalah daerah-daerah lokasi proyek dan kawasan ekonomi khusus itu, juga pencari kerja yang mengincar lapangan kerja baru dari proyek-proyek tersebut. Namun yang masih kurang untuk membaca ke mana arah program ini adalah pembanding: pemerintah tidak menyebut berapa proyek yang molor atau berapa target investasi KEK tahun ini, sehingga belum jelas apakah pertumbuhan 7,6 persen itu makin kencang atau justru melambat dari kuartal sebelumnya. Data yang akan menjawabnya adalah rilis realisasi investasi kuartal IV 2026 dari BKPM yang biasanya terbit akhir Januari 2027, serta evaluasi progres PSN berikutnya dari Kemenko Perekonomian.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "soda-abu-indonesia-bebas-kuota-impor-india",

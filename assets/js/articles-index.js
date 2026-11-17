@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
+  "category": "Aksi Korporasi",
+  "title": "VTNY ke BEI: Dana IPO Rp65,59 Miliar [Dibelikan Tanah]",
+  "deck": "VTNY menjawab permintaan penjelasan kedua BEI soal piutang Rp147 miliar lewat skema cessie, kenaikan CKPN 23,41%, dan dana IPO Rp65,59 miliar yang dipakai membeli tanah kantor.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "Dana IPO",
+   "CKPN",
+   "Keterbukaan Informasi BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61c7698a1c_46890e0da9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-kija-pendapatan-q3-naik-16-laba-turun-38",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose KIJA: Pendapatan Q3 Naik 16%, Laba [Turun] 38%",
+  "deck": "Pendapatan KIJA kuartal III 2026 naik 16 persen jadi Rp4,25 triliun, tapi laba bersih turun 38 persen akibat biaya refinancing sekali waktu.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KIJA",
+   "Kawasan Industri Jababeka",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/680c96fe47_7413619589.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
   "category": "Energi",
   "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
@@ -21,6 +53,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "irra-revisi-laporan-keuangan-semester-i-2026-koreksi-11-pos-akun",
+  "category": "Aksi Korporasi",
+  "title": "IRRA Revisi Laporan Keuangan Semester I 2026: [Koreksi] 11 Pos Akun",
+  "deck": "IRRA merevisi laporan keuangan semester I 2026, mengoreksi 11 pos termasuk utang bank dan piutang pajak, tanpa mengubah total aset maupun laba.",
+  "date": "17 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IRRA",
+   "laporan keuangan",
+   "koreksi laporan",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117205418-65809-0/FinancialStatement-2026-II-IRRA.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
@@ -172,15 +220,15 @@ var ARTICLES = [
  {
   "slug": "private-placement-tgra-21-miliar-saham-ams-jadi-pengendali-baru",
   "category": "Aksi Korporasi",
-  "title": "[Private Placement] TGRA 21 Miliar Saham: AMS Jadi Pengendali Baru",
-  "deck": "TGRA terbitkan 21 miliar saham baru seharga Rp10, pemegang saham lama terdilusi 88,42% dan kendali beralih ke PT Adidaya Mandiri Sejahtera.",
+  "title": "Private Placement TGRA 21 Miliar Saham: Defisit Rp293 M [Terungkap]",
+  "deck": "Koreksi keterbukaan TGRA ungkap rugi bersih Rp25,29 miliar dan defisit Rp293,10 miliar per September 2026, sementara rencana private placement 21 miliar saham ke AMS tetap tak berubah.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "TGRA",
    "private placement",
-   "PMTHMETD",
-   "pengendali baru"
+   "dilusi saham",
+   "going concern"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/69b68a027c_cf21575c17.pdf",
   "sourceLabel": "IDX"
@@ -6477,54 +6525,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/lepas-ekspor-pt-dua-kelinci-ke-negeri-kanguru-mendag-busan-terus-ajak-pelaku-usaha-manfaatkan-perjanjian-dagang",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bri-cetak-laba-rp48-2-triliun-di-triwulan-iii-2026",
-  "category": "Perbankan",
-  "title": "BRI Cetak Laba [Rp48,2 Triliun] di Triwulan III 2026",
-  "deck": "Laba bersih BRI tumbuh 16,8 persen secara tahunan menjadi Rp48,2 triliun pada triwulan III 2026, ditopang ekspansi kredit dan porsi UMKM yang tetap dominan.",
-  "date": "9 November 2026",
-  "image": "assets/img/bri-cetak-laba-rp48-2-triliun-di-triwulan-iii-2026.jpg",
-  "imageV": "mw9bbdmx",
-  "tags": [
-   "BRI",
-   "laba bank",
-   "kredit UMKM",
-   "kinerja keuangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477426-dukung-kemajuan-ekonomi-nasional-bri-cetak-laba-rp482-triliun-pada-triwulan-iii-2026"
- },
- {
-  "slug": "oppm-terbitkan-obligasi-rp1-15-triliun-di-bawah-target-rp3-33-t",
-  "category": "Aksi Korporasi",
-  "title": "Obligasi OPPM Rp1,15 Triliun [Tercatat] di BEI Mulai 13 November",
-  "deck": "Obligasi rupiah dan dolar OPPM yang rampung diterbitkan dengan nilai jauh di bawah target resmi dicatatkan di Bursa Efek Indonesia mulai 13 November 2026, membawa peringkat idA+ dari Pefindo.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OPPM",
-   "obligasi korporasi",
-   "pencatatan BEI",
-   "peringkat kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f07fbf832b_934e281453.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wika-jadwalkan-rupsu-sukuk-buntut-gagal-bayar-kupon",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jadwalkan RUPSU Sukuk Buntut [Gagal Bayar] Kupon",
-  "deck": "WIKA akan menggelar rapat pemegang Sukuk Mudharabah Berkelanjutan II Tahap I 2021 pada 7 Desember 2026, menyusul suspensi saham dan penurunan rating ke status default.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "sukuk",
-   "RUPSU",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ee64b41969_b7e3d88639.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
+  "category": "Aksi Korporasi",
+  "title": "VTNY ke BEI: Dana IPO Rp65,59 Miliar [Dibelikan Tanah]",
+  "deck": "VTNY menjawab permintaan penjelasan kedua BEI soal piutang Rp147 miliar lewat skema cessie, kenaikan CKPN 23,41%, dan dana IPO Rp65,59 miliar yang dipakai membeli tanah kantor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T23:05:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61c7698a1c_46890e0da9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "Dana IPO",
+   "CKPN",
+   "Keterbukaan Informasi BEI"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia melalui surat No. 007/VFI/ACCT/XI/2026 tertanggal 17 November 2026, yang ditandatangani Direktur Kaleb Solaiman. Surat ini menjawab permintaan penjelasan BEI No. S-14154/BEI.PP2/11-2026 tanggal 13 November 2026 terkait laporan keuangan per 30 Juni 2026 dan 31 Desember 2025, sekaligus realisasi penggunaan dana hasil penawaran umum perdana saham (IPO).",
+   "Salah satu poin utama adalah transaksi pengalihan piutang usaha senilai Rp147 miliar melalui skema cessie, yang berasal dari penjualan dan pengembangan sistem Super-App Venteny. Piutang tersebut dieliminasi melawan utang obligasi Perseroan kepada pihak ketiga sebesar nilai yang sama, karena kreditur meminta pelunasan lebih cepat dari jatuh tempo akibat kebutuhan likuiditas mendesak. Perseroan juga mengklarifikasi bahwa prosedur know your customer (KYC) yang biasa diterapkan hanya berlaku untuk calon peminjam dalam bisnis pembiayaan produktif, bukan untuk transaksi penjualan perangkat lunak business-to-business senilai Rp147 miliar itu, yang dianggap sebagai pasar khusus sehingga tidak melalui pengecekan serupa.",
+   "Soal kualitas piutang, Perseroan mengonfirmasi piutang kotor dari bisnis pembiayaan naik 6,80 persen, dari Rp1,16 triliun per akhir 2025 menjadi Rp1,24 triliun per Juni 2026. Namun cadangan kerugian penurunan nilai (CKPN) naik lebih cepat, 23,41 persen, dari Rp57,15 miliar menjadi Rp70,53 miliar, sehingga rasio cadangan terhadap piutang naik dari 4,94 persen menjadi 5,71 persen. Perseroan beralasan kenaikan ini untuk mengantisipasi kondisi makro global, perang dagang, dan situasi politik dalam negeri. Di pos lain, biaya dibayar di muka Rp17,51 miliar yang merupakan komisi perantara pendanaan untuk anak usaha Venteny GK dan Venteny Pte Ltd sudah habis dibebankan menjadi nol per Juni 2026, sementara pendapatan lain-lain Rp3,81 miliar berasal dari negosiasi pelunasan obligasi lebih cepat dengan kreditur pihak ketiga, bukan pihak berelasi.",
+   "Terkait dana IPO, Perseroan mengakui pos 'organization development' senilai Rp65,59 miliar yang di prospektus ditujukan untuk penguatan sumber daya manusia, realisasinya mayoritas dipakai membeli tanah kantor pusat seharga Rp59,7 miliar di Jalan Sultan Agung No. 20, Jakarta Selatan, ditambah interior gedung Rp5,89 miliar. Perseroan berdalih langkah ini menghapus biaya sewa gedung yang sebelumnya dibayarkan di WTC secara permanen, dan penghematan sewa itu dipakai membiayai penambahan karyawan serta program retensi SDM lewat kas operasional. Untuk pos pemasaran dan brand development senilai Rp6,25 miliar, Perseroan menyebut Rp4,15 miliar dipakai untuk sponsorship ajang balap SuperGT dan sisanya untuk kampanye V-Happy serta seminar, yang menurut Perseroan hanya berbeda pengelompokan penyajian dari jawaban sebelumnya yang pernah menyebut sponsor Japan Lamborghini Owners Club."
+  ],
+  "fotoAdegan": "Construction workers finishing the interior of a mid-rise office building, scaffolding and bare concrete columns, daylight through windows",
+  "takeaway": "Laporan ini condong negatif bagi VTNY, karena ini sudah permintaan penjelasan kedua dari BEI untuk topik yang sama, dan jawaban Perseroan soal KYC maupun penggunaan dana IPO sempat berbeda antara satu surat dengan surat berikutnya, sementara dana yang disebut untuk pengembangan organisasi ternyata mayoritas dipakai membeli tanah kantor, bukan memperkuat sumber daya manusia seperti dijanjikan di prospektus. Pos yang tersentuh adalah cadangan kerugian penurunan nilai atau CKPN, yaitu dana yang disisihkan perusahaan untuk menutup kemungkinan piutang tidak tertagih; cadangan ini naik 23,41 persen, jauh lebih cepat dari pertumbuhan piutang yang hanya 6,80 persen, sehingga porsi yang harus disisihkan makin besar dan bisa menekan laba bersih periode berjalan. Auditor juga disebut tidak melakukan pengujian substantif atas pendaftaran pihak ketiga dan pemilik manfaat akhir dalam transaksi pengalihan piutang Rp147 miliar, celah yang justru disoroti BEI sendiri. Yang perlu dipantau selanjutnya adalah apakah BEI akan mengajukan permintaan penjelasan susulan mengingat topik ini sudah berulang dibahas sejak Oktober 2026, serta rincian realisasi sisa dana pemasaran yang penjelasannya di surat ini belum tuntas disampaikan.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "public-expose-kija-pendapatan-q3-naik-16-laba-turun-38",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose KIJA: Pendapatan Q3 Naik 16%, Laba [Turun] 38%",
+  "deck": "Pendapatan KIJA kuartal III 2026 naik 16 persen jadi Rp4,25 triliun, tapi laba bersih turun 38 persen akibat biaya refinancing sekali waktu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T21:48:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/680c96fe47_7413619589.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KIJA",
+  "tags": [
+   "KIJA",
+   "Kawasan Industri Jababeka",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "Kawasan Industri Jababeka Tbk (KIJA) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 17 November 2026, merujuk pada surat pengumuman rencana public expose tahunan sebelumnya tertanggal 5 November 2026. Materi ditandatangani oleh Corporate Secretary T. Budianto Liman dan memuat kinerja keuangan kuartal III 2026 beserta gambaran operasional perusahaan.",
+   "Pendapatan konsolidasian KIJA pada kuartal III 2026 tercatat Rp4.254,9 miliar, tumbuh 16 persen dari Rp3.675 miliar pada periode sama tahun sebelumnya. Namun laba bersih turun 38 persen menjadi Rp391,7 miliar dari Rp635 miliar, yang menurut materi ini disebabkan oleh biaya satu kali dari refinancing utang pada kuartal II 2026. Laba kotor naik 7 persen menjadi Rp1.577,8 miliar, tapi marjin laba kotor turun dari 40 persen menjadi 37 persen. Segmen infrastruktur menyumbang Rp2.242,5 miliar atau 53 persen dari total pendapatan, tumbuh 15 persen, sementara segmen pengembangan lahan dan properti menyumbang Rp1.914,8 miliar, termasuk Rp939,9 miliar yang dibukukan khusus pada kuartal III. EBITDA tumbuh 4 persen menjadi Rp1.362,4 miliar.",
+   "Dari sisi neraca, total aset KIJA naik menjadi Rp15.151 miliar per akhir September 2026 dari Rp15.056 miliar pada akhir 2025, dengan posisi kas Rp3.153,7 miliar. Total pinjaman naik menjadi Rp4.859 miliar dari Rp4.602 miliar, sementara total ekuitas relatif stagnan di Rp8.105 miliar dari Rp8.144 miliar, membuat rasio utang terhadap ekuitas naik dari 0,57 menjadi 0,60. Penjualan marketing sembilan bulan 2026 mencapai Rp1.524,4 miliar, dibandingkan realisasi penuh tahun 2025 sebesar Rp3.601 miliar yang saat itu mencapai 103 persen dari target. Persediaan lahan (land bank) perusahaan tercatat 5.089 hektare per 30 September 2026, tersebar di Kota Jababeka Cikarang 1.288 hektare, Kendal Industrial Park 427 hektare, Tanjung Lesung 1.481 hektare, dan Morotai 1.893 hektare."
+  ],
+  "fotoAdegan": "Wide view of an industrial estate access road lined with factory warehouses and loading docks under clear afternoon light",
+  "takeaway": "Laporan ini NETRAL bagi KIJA: pendapatan dan EBITDA tumbuh dua digit, tapi laba bersih justru turun 38 persen, dan penyebabnya adalah beban satu kali dari refinancing utang, bukan pelemahan bisnis inti, sehingga belum bisa disebut sepenuhnya positif atau negatif. Yang perlu diperhatikan adalah marjin laba kotor yang menyusut dari 40 persen menjadi 37 persen, artinya biaya yang dikeluarkan perusahaan untuk menghasilkan pendapatan relatif membesar, dan rasio utang terhadap modal sendiri yang naik tipis dari 0,57 menjadi 0,60, tanda porsi utang dibanding modal sendiri sedikit membesar meski kemampuan membayar bunga dari EBITDA masih longgar, sekitar 4,9 kali beban bunga. Dokumen ini disampaikan menjelang sesi public expose tahunan yang sudah diumumkan lewat surat 5 November 2026, tapi tanggal pasti sesi tersebut tidak tercantum di sini, sehingga investor perlu menunggu paparan publik itu untuk mendengar langsung penjelasan manajemen soal dampak refinancing terhadap laba ke depan.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
   "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
   "category": "Energi",
   "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
@@ -29,6 +85,34 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Angka HMA ini bukan sekadar catatan statistik, karena langsung jadi dasar hitung royalti yang wajib dibayar perusahaan tambang ke negara untuk periode 15-30 November 2026: semakin tinggi HMA suatu mineral, semakin besar pula royalti yang disetor perusahaan tambang komoditas itu. Yang paling terdampak adalah perusahaan tambang nikel dan aluminium, karena harga acuan kedua logam itu naik dua periode berturut-turut dan juga lebih tinggi dibanding setahun lalu, sehingga beban royaltinya ikut naik pada periode ini. Tembaga punya pola berbeda, meski turun 1,3 persen pada periode ini, harganya masih 33 persen lebih tinggi dibanding November tahun lalu, jadi penurunan kali ini lebih mirip koreksi kecil ketimbang pembalikan dari tren setahun yang menguat tajam. Yang perlu dicermati adalah penetapan HMA berikutnya untuk paruh pertama Desember 2026, karena itu akan menunjukkan apakah kenaikan nikel dan aluminium terus berlanjut atau mulai mereda seperti yang sudah terjadi pada tembaga dan emas.",
   "imageV": "mwksjw8d"
+ },
+ {
+  "slug": "irra-revisi-laporan-keuangan-semester-i-2026-koreksi-11-pos-akun",
+  "category": "Aksi Korporasi",
+  "title": "IRRA Revisi Laporan Keuangan Semester I 2026: [Koreksi] 11 Pos Akun",
+  "deck": "IRRA merevisi laporan keuangan semester I 2026, mengoreksi 11 pos termasuk utang bank dan piutang pajak, tanpa mengubah total aset maupun laba.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "17 November 2026",
+  "isoDate": "2026-11-17T20:44:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117205418-65809-0/FinancialStatement-2026-II-IRRA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IRRA",
+  "tags": [
+   "IRRA",
+   "laporan keuangan",
+   "koreksi laporan",
+   "utang bank"
+  ],
+  "body": [
+   "PT Itama Ranoraya Tbk (IRRA) mengajukan revisi laporan keuangan triwulan II tahun 2026 (tidak diaudit) dan laporan keuangan tahunan 2025 (diaudit) kepada Bursa Efek Indonesia melalui surat bernomor 053/IRR/CS/Jkt/XI/2026 tertanggal 17 November 2026. Perusahaan distributor alat kesehatan ini mengoreksi sebelas pos sekaligus, meliputi laporan perubahan ekuitas, piutang usaha, persediaan, utang bank, pajak dibayar di muka, klaim pengembalian pajak, pajak tangguhan, beban pokok penjualan, beban usaha, pengungkapan tambahan arus kas, informasi segmen, instrumen keuangan, serta manajemen risiko keuangan dan permodalan. Surat ini ditandatangani oleh Corporate Secretary Viertin M.L. Tobing.",
+   "Dari perbandingan dua versi laporan yang diterima redaksi, koreksi yang paling terlihat bersifat pemindahan saldo antarpos, bukan perubahan jumlah uang yang dimiliki atau dihutang perusahaan. Pajak dibayar di muka turun dari Rp54,16 miliar menjadi Rp31,62 miliar, sementara klaim pengembalian pajak naik dari Rp83,32 miliar menjadi Rp105,86 miliar, selisih yang hampir sama besar menunjukkan dua pos itu sekadar dipindah. Utang bank jangka pendek dikoreksi turun tipis dari Rp558,44 miliar menjadi Rp558,07 miliar, sedangkan utang bank jangka panjang naik dari Rp504,43 miliar menjadi Rp509,09 miliar, dan utang kepada pihak berelasi senilai Rp4,29 miliar yang semula tercatat jangka pendek dihapus dari pos itu. Meski begitu, total aset tetap Rp2,97 triliun, total liabilitas tetap Rp2,36 triliun, dan total ekuitas tetap Rp604,48 miliar pada 30 Juni 2026, sama seperti sebelum dikoreksi.",
+   "Di luar soal koreksi, laporan yang sama memperlihatkan penjualan neto semester I 2026 turun menjadi Rp538,32 miliar dari Rp590,34 miliar pada semester I 2025, namun laba bersih relatif stabil di Rp26,65 miliar dari sebelumnya Rp26,59 miliar, dengan laba per saham dasar Rp17,67. Kas perusahaan susut tajam menjadi Rp22,58 miliar dari Rp80,13 miliar pada awal tahun, setelah IRRA membelanjakan Rp336,15 miliar untuk aset tetap, jauh lebih besar dibanding Rp14,21 miliar pada periode yang sama tahun lalu, yang sebagian didanai dari penarikan utang bank baru senilai Rp323,32 miliar."
+  ],
+  "fotoAdegan": "Warehouse staff stacking boxes of medical supplies onto a pallet inside a logistics distribution center, forklift nearby, daytime lighting.",
+  "takeaway": "Laporan ini netral bagi fundamental Itama Ranoraya karena koreksi yang diajukan hanya memindahkan saldo antarpos neraca, seperti piutang pajak dan klasifikasi utang bank, tanpa mengubah total aset, total utang, atau laba bersih perusahaan. Yang tersentuh adalah pos ekuitas dan komposisi utang bank jangka pendek-jangka panjang, dua hal yang diperhatikan pasar karena ekuitas menunjukkan seberapa besar modal sendiri yang jadi penyangga kalau bisnis merugi, sementara komposisi jatuh tempo utang menentukan seberapa cepat perusahaan harus menyediakan uang untuk membayar kembali pinjamannya. Yang perlu dicermati bukan koreksi ini sendiri, melainkan lonjakan belanja aset tetap senilai Rp336 miliar yang dibiayai utang bank baru, sementara kas tunai perusahaan justru menyusut dari Rp80 miliar menjadi Rp22,6 miliar, sehingga laporan keuangan kuartal berikutnya layak ditunggu untuk melihat apakah belanja itu mulai menambah pendapatan atau justru membebani arus kas.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)"
  },
  {
   "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
@@ -284,8 +368,8 @@ var ARTICLES = [
  {
   "slug": "private-placement-tgra-21-miliar-saham-ams-jadi-pengendali-baru",
   "category": "Aksi Korporasi",
-  "title": "[Private Placement] TGRA 21 Miliar Saham: AMS Jadi Pengendali Baru",
-  "deck": "TGRA terbitkan 21 miliar saham baru seharga Rp10, pemegang saham lama terdilusi 88,42% dan kendali beralih ke PT Adidaya Mandiri Sejahtera.",
+  "title": "Private Placement TGRA 21 Miliar Saham: Defisit Rp293 M [Terungkap]",
+  "deck": "Koreksi keterbukaan TGRA ungkap rugi bersih Rp25,29 miliar dan defisit Rp293,10 miliar per September 2026, sementara rencana private placement 21 miliar saham ke AMS tetap tak berubah.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T17:32:46",
@@ -295,17 +379,17 @@ var ARTICLES = [
   "tags": [
    "TGRA",
    "private placement",
-   "PMTHMETD",
-   "pengendali baru"
+   "dilusi saham",
+   "going concern"
   ],
   "body": [
-   "TGRA berencana menerbitkan 21 miliar saham seri B baru dengan nilai nominal Rp5 per saham melalui skema penambahan modal tanpa hak memesan efek terlebih dahulu (private placement), dengan harga pelaksanaan Rp10 per saham. Jumlah saham baru ini setara 88,42% dari total modal perseroan setelah transaksi, sehingga seluruh pemegang saham lama otomatis terdilusi sebesar persentase itu. Rencana ini memerlukan persetujuan RUPSLB yang akan digelar Senin, 28 Desember 2026, dan skema tanpa hak memesan efek ini dipilih khusus untuk perbaikan posisi keuangan sesuai POJK No. 14/2019, karena modal kerja TGRA sudah negatif dan rasio utang terhadap aset melampaui 80%.",
-   "Saham baru itu seluruhnya diserap tiga investor baru: PT Adidaya Mandiri Sejahtera (AMS) mengambil 15 miliar saham dan akan menguasai 63,16% TGRA setelah transaksi sekaligus menjadi pengendali baru menggantikan pemegang saham lama; PT Hilal Arkan Energi (HAE) mengambil 3,55 miliar saham (14,95%); dan PT Triple Berkah Bersama mengambil 2,45 miliar saham (10,32%). Akibatnya, kepemilikan pemegang saham lama terkikis tajam: PT Terregra Asia Equity turun dari 16,46% menjadi 1,91%, Djani Sutedja selaku Direktur Utama dari 3,19% menjadi 0,37%, Roy Petrus Chalim selaku Komisaris dari 1,46% menjadi 0,17%, Iwan Sugiarjo dari 1,24% menjadi 0,14%, dan Lasman Citra dari 0,08% menjadi 0,01%. Pemegang saham publik yang sebelumnya menguasai 77,57% juga ikut tergerus dengan rasio dilusi yang sama, menjadi sekitar 8,98% seiring bertambahnya jumlah saham beredar dari 2,75 miliar menjadi 23,75 miliar lembar.",
-   "Dana hasil private placement ini, menurut ringkasan perjanjian investasi, mencapai Rp210 miliar. Sekitar Rp8,419 miliar akan dipakai melunasi utang ke Bank BCA, dan sisanya sekitar Rp201,581 miliar untuk modal kerja, pembangunan proyek PLTMH termasuk Proyek Sisira, akuisisi PLTMH yang sudah beroperasi, serta pelunasan utang afiliasi sekitar Rp20,8 miliar kepada Djani Sutedja dan Direktur Daniel Tagu Dedo yang berasal dari pinjaman pribadi keduanya untuk operasional perseroan. Sisa pinjaman pemegang saham lain sekitar Rp70,75 miliar akan disubordinasi tanpa bunga dan tidak dibayar dari dana private placement ini. KJPP Febriman Siregar dan Rekan menilai 100% ekuitas TGRA per 30 September 2026 sebesar Rp0, karena hasil perhitungan sebenarnya negatif Rp1,75 miliar yang menurut standar penilaian Indonesia harus dilaporkan sebagai nol.",
-   "Saham TGRA sendiri sudah disuspensi BEI sejak 23 Juni 2025 karena tidak membukukan pendapatan selama lebih dari setahun dan berada di Papan Pemantauan Khusus; pencabutan suspensi bukan syarat pelaksanaan private placement dan baru akan dipertimbangkan BEI setelah transaksi ini selesai. Penyetoran dana oleh investor juga mensyaratkan konfirmasi PLN atas kelanjutan Proyek Sisira serta penyelesaian utang BCA, BPR dan afiliasi. Bersamaan dengan transaksi ini, susunan direksi dan komisaris akan diperbarui menjadi masing-masing 4 orang, dengan AMS menempatkan 2 nominasi termasuk Direktur Utama dan Komisaris Utama baru, HAE dan PT Terregra Asia Equity masing-masing 1 nominasi, ditambah komisaris independen yang disetujui investor. Perseroan menargetkan pencatatan saham baru ini di BEI pada 14 Januari 2027."
+   "PT Terregra Asia Energy (TGRA) mengoreksi keterbukaan informasi private placement yang terbit pada hari yang sama, 17 November 2026, dengan menyertakan laporan keuangan auditan yang sebelumnya belum diungkap secara rinci. Laporan itu menunjukkan TGRA mencatat rugi bersih Rp25,29 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, dengan defisit akumulasi, yaitu kerugian yang menumpuk dari tahun-tahun sebelumnya, mencapai Rp293,10 miliar pada tanggal yang sama. Utang jangka pendek perusahaan juga sudah melampaui aset jangka pendeknya sebesar Rp157,43 miliar, sementara nilai aset pembangkit listrik yang masih dalam pembangunan turun Rp17,79 miliar akibat penurunan nilai yang dibebankan ke laporan laba rugi tahun ini. Auditor Irwanto & Rekan menyatakan opininya tidak berubah meski kondisi ini menimbulkan keraguan signifikan atas kemampuan TGRA mempertahankan kelangsungan usahanya.",
+   "Koreksi ini tidak mengubah struktur dasar rencana private placement. TGRA tetap berencana menerbitkan 21 miliar saham baru seri B dengan nilai nominal Rp5 dan harga pelaksanaan Rp10 per saham, setara 88,42% dari modal perseroan setelah transaksi. Seluruh saham baru itu diserap tiga investor: PT Adidaya Mandiri Sejahtera (AMS) mengambil 15 miliar saham (63,16%) dan menjadi pengendali baru, PT Hilal Arkan Energi (HAE) mengambil 3,55 miliar saham (14,95%), dan PT Triple Berkah Bersama mengambil 2,45 miliar saham (10,32%). Kepemilikan pemegang saham lama tergerus dengan rasio yang sama seperti sebelumnya: PT Terregra Asia Equity dari 16,46% menjadi 1,91%, Djani Sutedja dari 3,19% menjadi 0,37%, Roy Petrus Chalim dari 1,46% menjadi 0,17%, Iwan Sugiarjo dari 1,24% menjadi 0,14%, Lasman Citra dari 0,08% menjadi 0,01%, dan pemegang saham publik dari 77,57% menjadi 8,98%.",
+   "Dana Rp210 miliar hasil private placement akan dipakai melunasi utang ke Bank BCA sekitar Rp8,419 miliar, serta sisanya sekitar Rp201,581 miliar untuk modal kerja, pembangunan proyek PLTMH termasuk Proyek Sisira, akuisisi PLTMH yang sudah beroperasi, dan pelunasan utang afiliasi sekitar Rp20,8 miliar kepada Direktur Utama Djani Sutedja dan Direktur Daniel Tagu Dedo. Sisa pinjaman pemegang saham lain sekitar Rp70,75 miliar akan disubordinasi tanpa bunga dan tidak dibayar dari dana ini. KJPP Febriman Siregar dan Rekan menilai 100% ekuitas TGRA per 30 September 2026 sebesar Rp0, karena hasil hitungan sebenarnya negatif Rp1,75 miliar yang menurut standar penilaian Indonesia harus dilaporkan sebagai nol.",
+   "Saham TGRA masih disuspensi Bursa Efek Indonesia sejak 23 Juni 2025 karena tidak membukukan pendapatan dan berada di Papan Pemantauan Khusus; pencabutan suspensi bukan syarat pelaksanaan transaksi dan baru dipertimbangkan bursa setelah private placement selesai. Penyetoran dana investor juga mensyaratkan konfirmasi PLN atas kelanjutan Proyek Sisira serta penyelesaian utang BCA, BPR, dan afiliasi. Bersamaan dengan transaksi ini, susunan direksi dan komisaris akan diperbarui menjadi masing-masing 4 orang, dengan AMS menempatkan 2 nominasi termasuk Direktur Utama dan Komisaris Utama baru, HAE dan PT Terregra Asia Equity masing-masing 1 nominasi, ditambah komisaris independen. Perseroan tetap menargetkan pencatatan saham baru pada 14 Januari 2027, dan RUPSLB persetujuan pemegang saham dijadwalkan Senin, 28 Desember 2026."
   ],
   "fotoAdegan": "Technicians inspecting turbine machinery inside a small hydroelectric power plant in a forested river valley, overcast daylight.",
-  "takeaway": "Private placement ini condong negatif bagi pemegang saham lama TGRA, karena kendali perusahaan berpindah tangan dan kepemilikan mereka terkikis drastis, meski dana segar yang masuk memang dibutuhkan untuk menambal kondisi keuangan perusahaan yang ekuitasnya sudah tercatat negatif. Pos yang tersentuh adalah jumlah saham beredar, yang melonjak dari 2,75 miliar menjadi 23,75 miliar lembar sehingga laba perusahaan di masa depan akan terbagi ke basis saham jauh lebih besar, serta posisi utang, karena sebagian dana segar dipakai melunasi pinjaman bank BCA dan utang pribadi dua direksi ke perseroan. Pelaku pasar biasanya mencermati rasio dilusi sebesar ini karena menentukan seberapa besar porsi keuntungan ke depan yang masih bisa dinikmati pemegang saham lama. Yang perlu dipantau berikutnya adalah RUPSLB pada 28 Desember 2026 yang akan memutuskan persetujuan pemegang saham, konfirmasi PLN atas Proyek Sisira dan pelunasan utang sebagai syarat penyetoran dana, serta target pencatatan saham baru pada 14 Januari 2027.",
+  "takeaway": "Koreksi ini condong negatif bagi TGRA, karena laporan keuangan auditan yang baru disertakan memperjelas seberapa dalam kesulitan keuangan perusahaan, bukan sekadar status ekuitas negatif yang sudah diketahui sebelumnya. Pos yang tersentuh adalah kemampuan membayar utang jangka pendek, karena liabilitas lancar sudah melampaui aset lancar sebesar Rp157,43 miliar, ditambah defisit akumulasi Rp293,10 miliar yang berarti kerugian perusahaan dari tahun ke tahun sudah menggerus seluruh modal yang pernah disetor pemegang saham. Jumlah saham beredar juga akan melonjak dari 2,75 miliar menjadi 23,75 miliar lembar begitu private placement berjalan, sehingga keuntungan perusahaan di masa depan, jika ada, akan terbagi ke basis saham yang jauh lebih besar bagi pemegang saham lama. Yang perlu dipantau berikutnya adalah RUPSLB pada 28 Desember 2026 yang akan memutuskan persetujuan pemegang saham, konfirmasi PLN atas Proyek Sisira sebagai syarat penyetoran dana investor, dan target pencatatan saham baru pada 14 Januari 2027.",
   "sentimen": "negatif",
   "peristiwa": "right-issue",
   "judulIdx": "Penambahan Modal Tanpa HMETD Penempatan Terbatas (Private Placement)",
@@ -318,7 +402,16 @@ var ARTICLES = [
     "tanggal": "2027-01-14",
     "acara": "Target pencatatan saham baru hasil private placement"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-17T21:58:18",
+    "ringkas": "Koreksi keterbukaan TGRA mengungkap rugi bersih Rp25,29 miliar dan defisit Rp293,10 miliar per September 2026 tanpa mengubah rencana private placement.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/623826dafa_1aa997c2ef.pdf",
+    "judulIdx": "Penambahan Modal Tanpa HMETD Penempatan Terbatas (Private Placement) (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-17T21:58:18"
  },
  {
   "slug": "umkm-ekspor-catat-us-361-juta-79-masih-potensi",

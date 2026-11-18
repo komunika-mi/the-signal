@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-jerman-bahas-investasi-ieu-cepa-diincar-2027",
+  "category": "Global",
+  "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
+  "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
+  "date": "18 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Jerman",
+   "Investasi",
+   "EUDR"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7233/perkuat-kemitraan-ekonomi-dengan-jerman-indonesia-dorong-peningkatan-perdagangan-dan-investasi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "pegadaian-ajak-warga-bogor-tanam-pohon-di-hulu-ciliwung",
+  "category": "BUMN",
+  "title": "Pegadaian Ajak Warga Bogor [Tanam] Pohon di Hulu Ciliwung",
+  "deck": "Pegadaian mengajak warga Cisarua, Bogor, menanam pohon dan menebar benih ikan di kawasan hulu Sungai Ciliwung untuk menjaga ketersediaan air bagi wilayah Jabodetabek.",
+  "date": "18 November 2026",
+  "image": "assets/img/pegadaian-ajak-warga-bogor-tanam-pohon-di-hulu-ciliwung.jpg",
+  "imageV": "mwmcq6xm",
+  "tags": [
+   "pegadaian",
+   "lingkungan",
+   "ciliwung",
+   "bogor"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479127-jaga-hulu-ciliwung-pegadaian-ajak-warga-bogor-tanam-pohon-dan-tebar-benih"
+ },
+ {
+  "slug": "pertamina-perkuat-stok-bbm-lpg-jelang-nataru",
+  "category": "Energi",
+  "title": "Pertamina Perkuat Stok BBM-LPG Jelang [Nataru]",
+  "deck": "Pertamina Patra Niaga menaikkan produksi dan impor BBM serta menggandakan armada kapal demi mengamankan stok BBM dan LPG menjelang libur Natal dan Tahun Baru.",
+  "date": "18 November 2026",
+  "image": "assets/img/pertamina-perkuat-stok-bbm-lpg-jelang-nataru.jpg",
+  "imageV": "mwmcq7ef",
+  "tags": [
+   "pertamina",
+   "bbm",
+   "lpg",
+   "energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479123-optimalisasi-kilang-hingga-armada-strategi-pertamina-amankan-stok-bbm-dan-lpg"
+ },
+ {
   "slug": "denda-ojk-asli-rp2-7-miliar-lunas-dibayar-sebelum-tenggat",
   "category": "Aksi Korporasi",
   "title": "Denda OJK ASLI Rp2,7 Miliar: [Lunas] Dibayar Sebelum Tenggat",
@@ -606,7 +656,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -885,7 +935,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -2412,7 +2462,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
   "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
   "date": "14 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -2428,7 +2478,7 @@ var ARTICLES = [
   "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
   "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
   "date": "14 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -2494,7 +2544,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -2576,7 +2626,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -3494,7 +3544,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6477,54 +6527,6 @@ var ARTICLES = [
    "Sugih Energy"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/564ff5d881_94ede5a14c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wsbp-terbitkan-54-3-juta-saham-baru-dari-konversi-utang",
-  "category": "Aksi Korporasi",
-  "title": "WSBP Terbitkan [54,3 Juta] Saham Baru dari Konversi Utang",
-  "deck": "WSBP akan menerbitkan 54,3 juta saham baru pada 18 November 2026 sebagai konversi utang tahap VII, dengan harga konversi Rp50,81 per saham.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WSBP",
-   "PMTHMETD",
-   "konversi utang",
-   "Waskita Beton Precast"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0156544c51_ba78cc487b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "auto-vto-astra-international-pangkas-free-float-ke-15-05",
-  "category": "Aksi Korporasi",
-  "title": "AUTO: [VTO] Astra International Pangkas Free Float ke 15,05%",
-  "deck": "Public expose AUTO membahas laba 9M 2026 naik 14,7% dan tender offer Astra International yang menekan saham publik ke 15,05%, pas di atas syarat minimum bursa.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AUTO",
-   "VTO",
-   "Astra Otoparts",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b22aab9a62_1685846a01.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ssms-laba-naik-71-jadi-rp1-75-t-aset-melonjak-37-7",
-  "category": "Aksi Korporasi",
-  "title": "SSMS: Laba Naik 71% jadi Rp1,75 T, [Aset] Melonjak 37,7%",
-  "deck": "Sawit Sumbermas Sarana (SSMS) membukukan laba Rp1,75 triliun pada sembilan bulan 2026, naik 71 persen, didorong kenaikan pendapatan dan lonjakan aset akibat aturan penahanan devisa ekspor.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SSMS",
-   "laporan keuangan",
-   "sawit",
-   "devisa hasil ekspor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110141414-65779-0/FinancialStatement-2026-III-SSMS.pdf",
   "sourceLabel": "IDX"
  }
 ];

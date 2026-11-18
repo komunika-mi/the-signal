@@ -4,6 +4,54 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "TeGHpY8xunM",
+  "title": "Wapres Baru Dinanti, Apa Efeknya bagi Ekonomi?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengunduran diri Wakil Presiden Gibran Rakabuming Raka dan rencana pelantikan wapres baru pada 9 Desember 2026 dinilai membawa dampak terhadap arah perekonomian Indonesia.",
+  "takeaway": "Pergantian wapres menyangkut kepastian arah kebijakan ekonomi yang dipantau pelaku usaha."
+ },
+ {
+  "id": "-UWIISJyxiI",
+  "title": "Dekan FEB UI: Jakarta Harus Jadi Penarik Investasi",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Dekan Fakultas Ekonomi dan Bisnis UI menilai Jakarta perlu memperkuat perannya sebagai penarik investasi ke Indonesia di tengah dinamika pergantian wakil presiden.",
+  "takeaway": "Pandangan akademisi ini relevan bagi investor yang mencermati stabilitas iklim investasi di Jakarta."
+ },
+ {
+  "id": "jaWZK_ZhA1o",
+  "title": "Lapangan Kerja Belum Banyak, Bakom RI: Industri Butuh Waktu",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Bakom RI menyebut penciptaan lapangan kerja baru masih terbatas karena sektor industri memerlukan waktu untuk berkembang di tengah dinamika politik dalam negeri.",
+  "takeaway": "Informasi ini relevan bagi pembaca yang memantau penyerapan tenaga kerja di sektor industri."
+ },
+ {
+  "id": "xxWMf6FfSrI",
+  "title": "Kadin Ingatkan Pentingnya Sektor Swasta bagi Ekonomi",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Kamar Dagang dan Industri Indonesia menekankan peran sektor swasta sebagai penggerak utama pertumbuhan ekonomi nasional di tengah masa transisi kepemimpinan.",
+  "takeaway": "Pernyataan Kadin penting bagi pelaku usaha yang menilai arah dukungan pemerintah terhadap sektor swasta."
+ },
+ {
+  "id": "fcF9um2JNEk",
+  "title": "Wamenko Perekonomian: Presiden Prabowo Pilih Wapres demi Rakyat",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Wakil Menteri Koordinator Bidang Perekonomian menyatakan Presiden Prabowo Subianto akan memilih calon wakil presiden yang berorientasi pada kesejahteraan rakyat.",
+  "takeaway": "Pernyataan ini memberi sinyal arah kebijakan ekonomi pemerintah dalam proses pergantian wakil presiden."
+ },
+ {
+  "id": "wgkXe6ljy7o",
+  "title": "Koperasi Desa Merah Putih, Penggerak Ekonomi Rakyat",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Program Koperasi Desa Merah Putih didorong menjadi penggerak ekonomi lokal dengan mengajak masyarakat desa mengembangkan potensi ekonomi secara mandiri dan berkelanjutan.",
+  "takeaway": "Program ini relevan bagi pembaca yang mengikuti upaya pemerataan ekonomi dari tingkat desa."
+ },
+ {
   "id": "Gb-JSrOImdI",
   "title": "PT Advansia Indotani Rayakan HUT ke-15, Dukung Petani",
   "category": "Industri",
@@ -434,53 +482,5 @@ var VIDEOS = [
   "program": "IBF",
   "summary": "Komnas Perempuan mendorong revisi kebijakan PPN atas pembalut wanita yang dinilai memberatkan karena menyasar kebutuhan dasar perempuan.",
   "takeaway": "Menunjukkan arah wacana kebijakan fiskal yang mulai mempertimbangkan aspek keadilan sosial dalam penetapan tarif pajak."
- },
- {
-  "id": "fubdwcxSZmU",
-  "title": "Tanggapan Mahasiswi soal Polemik Pajak Pembalut",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Kalangan mahasiswi menyuarakan keberatan atas PPN efektif 11 persen pada pembalut wanita yang dinilai memberatkan kebutuhan harian.",
-  "takeaway": "Memberi gambaran reaksi publik sebagai konsumen terhadap kebijakan pajak yang berdampak langsung pada pengeluaran rumah tangga."
- },
- {
-  "id": "1V1MWTXVp8Y",
-  "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen pada pembalut wanita menjadi sorotan publik karena dinilai membebani kebutuhan biologis esensial perempuan.",
-  "takeaway": "Menyoroti dampak kebijakan pajak konsumsi terhadap daya beli dan kesetaraan akses kebutuhan dasar."
- },
- {
-  "id": "HOu6QhLazRo",
-  "title": "Bakom RI: PPN Pembalut Akan Dikaji Ulang",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Di tengah perdebatan publik soal PPN 11 persen pada pembalut wanita, otoritas terkait menyatakan kebijakan tersebut akan ditinjau kembali.",
-  "takeaway": "Perkembangan rencana evaluasi kebijakan pajak ini relevan bagi pembaca yang mengikuti arah kebijakan fiskal pemerintah."
- },
- {
-  "id": "MyeOqJ2zRuo",
-  "title": "Ekonom: Inflasi Penyebab Kenaikan Harga Pembalut",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Prof. Telisa menjelaskan bahwa inflasi turut mendorong kenaikan harga pembalut, di tengah polemik PPN 11 persen yang dinilai memberatkan kebutuhan biologis perempuan.",
-  "takeaway": "Memberi konteks makroekonomi, yakni inflasi, terhadap kenaikan harga barang kebutuhan dasar yang sedang ramai dibahas."
- },
- {
-  "id": "F_2b1F8muIk",
-  "title": "Menkeu Pastikan Stabilitas Keuangan Indonesia Tetap Terjaga",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Keuangan Suahasil Nazara menyatakan stabilitas sistem keuangan Indonesia tetap terjaga hingga triwulan III 2026, meski tekanan sempat meningkat pada Oktober akibat konflik geopolitik global.",
-  "takeaway": "Pernyataan otoritas fiskal ini penting bagi pembaca untuk menilai ketahanan sistem keuangan nasional di tengah gejolak global."
- },
- {
-  "id": "dmw__wvtWog",
-  "title": "Pemerintah Minta Seluruh Kementerian Jaga Efisiensi Belanja APBN",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Keuangan Suahasil Nazara menyebut inflasi Indonesia sebesar 3,23 persen masih sesuai sasaran pemerintah, sekaligus meminta seluruh kementerian menjaga efisiensi belanja APBN.",
-  "takeaway": "Data inflasi dan arahan efisiensi anggaran ini relevan bagi pembaca yang memantau kesehatan fiskal dan daya beli masyarakat."
  }
 ];

@@ -2,6 +2,60 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "TeGHpY8xunM",
+  "title": "Wapres Baru Dinanti, Apa Efeknya bagi Ekonomi?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Pengunduran diri Wakil Presiden Gibran Rakabuming Raka dan rencana pelantikan wapres baru pada 9 Desember 2026 dinilai membawa dampak terhadap arah perekonomian Indonesia.",
+  "takeaway": "Pergantian wapres menyangkut kepastian arah kebijakan ekonomi yang dipantau pelaku usaha.",
+  "terbit": "2026-11-18T16:20:14+00:00"
+ },
+ {
+  "id": "-UWIISJyxiI",
+  "title": "Dekan FEB UI: Jakarta Harus Jadi Penarik Investasi",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Dekan Fakultas Ekonomi dan Bisnis UI menilai Jakarta perlu memperkuat perannya sebagai penarik investasi ke Indonesia di tengah dinamika pergantian wakil presiden.",
+  "takeaway": "Pandangan akademisi ini relevan bagi investor yang mencermati stabilitas iklim investasi di Jakarta.",
+  "terbit": "2026-11-18T15:47:42+00:00"
+ },
+ {
+  "id": "jaWZK_ZhA1o",
+  "title": "Lapangan Kerja Belum Banyak, Bakom RI: Industri Butuh Waktu",
+  "category": "Ketenagakerjaan",
+  "program": "Indonesia Business Forum",
+  "summary": "Bakom RI menyebut penciptaan lapangan kerja baru masih terbatas karena sektor industri memerlukan waktu untuk berkembang di tengah dinamika politik dalam negeri.",
+  "takeaway": "Informasi ini relevan bagi pembaca yang memantau penyerapan tenaga kerja di sektor industri.",
+  "terbit": "2026-11-18T15:34:52+00:00"
+ },
+ {
+  "id": "xxWMf6FfSrI",
+  "title": "Kadin Ingatkan Pentingnya Sektor Swasta bagi Ekonomi",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Kamar Dagang dan Industri Indonesia menekankan peran sektor swasta sebagai penggerak utama pertumbuhan ekonomi nasional di tengah masa transisi kepemimpinan.",
+  "takeaway": "Pernyataan Kadin penting bagi pelaku usaha yang menilai arah dukungan pemerintah terhadap sektor swasta.",
+  "terbit": "2026-11-18T15:29:47+00:00"
+ },
+ {
+  "id": "fcF9um2JNEk",
+  "title": "Wamenko Perekonomian: Presiden Prabowo Pilih Wapres demi Rakyat",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Wakil Menteri Koordinator Bidang Perekonomian menyatakan Presiden Prabowo Subianto akan memilih calon wakil presiden yang berorientasi pada kesejahteraan rakyat.",
+  "takeaway": "Pernyataan ini memberi sinyal arah kebijakan ekonomi pemerintah dalam proses pergantian wakil presiden.",
+  "terbit": "2026-11-18T15:23:37+00:00"
+ },
+ {
+  "id": "wgkXe6ljy7o",
+  "title": "Koperasi Desa Merah Putih, Penggerak Ekonomi Rakyat",
+  "category": "UMKM",
+  "program": "Kabar Utama",
+  "summary": "Program Koperasi Desa Merah Putih didorong menjadi penggerak ekonomi lokal dengan mengajak masyarakat desa mengembangkan potensi ekonomi secara mandiri dan berkelanjutan.",
+  "takeaway": "Program ini relevan bagi pembaca yang mengikuti upaya pemerataan ekonomi dari tingkat desa.",
+  "terbit": "2026-11-18T14:23:34+00:00"
+ },
+ {
   "id": "Gb-JSrOImdI",
   "title": "PT Advansia Indotani Rayakan HUT ke-15, Dukung Petani",
   "category": "Industri",

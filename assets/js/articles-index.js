@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",
+  "category": "Aksi Korporasi",
+  "title": "WGSH: Direksi Hendy Rusli [Jual] 226 Saham, Hak Suara Tetap 0,05%",
+  "deck": "Direksi WGSH Hendy Rusli melepas 226 saham perusahaan secara tidak langsung pada 17 November 2026 seharga Rp89 per saham, hak suaranya tetap 0,05 persen.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WGSH",
+   "laporan kepemilikan saham",
+   "direksi",
+   "Wira Global Solusi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2007-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri",
   "category": "Energi",
   "title": "Presiden Prabowo Ajak [Jepang] Kembangkan Energi Bersih RI",
@@ -6513,22 +6529,6 @@ var ARTICLES = [
    "go private"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/269b59ba05_4f2bed2560.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mbma-terbitkan-obligasi-tahap-vi-rp2-5-triliun-bunga-9-10-75",
-  "category": "Aksi Korporasi",
-  "title": "MBMA Terbitkan Obligasi [Tahap VI] Rp2,5 Triliun, Bunga 9-10,75%",
-  "deck": "MBMA menawarkan obligasi Tahap VI senilai hingga Rp2,5 triliun, tiga seri berbunga 9-10,75 persen, bagian dari program obligasi berkelanjutan Rp16 triliun.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "obligasi korporasi",
-   "pasar modal",
-   "nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c033db52a8_80d2f125f4.pdf",
   "sourceLabel": "IDX"
  }
 ];

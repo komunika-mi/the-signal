@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",
+  "category": "Aksi Korporasi",
+  "title": "WGSH: Direksi Hendy Rusli [Jual] 226 Saham, Hak Suara Tetap 0,05%",
+  "deck": "Direksi WGSH Hendy Rusli melepas 226 saham perusahaan secara tidak langsung pada 17 November 2026 seharga Rp89 per saham, hak suaranya tetap 0,05 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T08:04:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2007-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WGSH",
+  "tags": [
+   "WGSH",
+   "laporan kepemilikan saham",
+   "direksi",
+   "Wira Global Solusi"
+  ],
+  "body": [
+   "Hendy Rusli, anggota Direksi PT Wira Global Solusi Tbk (WGSH), melaporkan penjualan saham perusahaan sebanyak 226 lembar pada 17 November 2026. Berdasarkan laporan kepemilikan yang disampaikan ke Otoritas Jasa Keuangan, jumlah saham Hendy turun dari 9.990 unit menjadi 9.764 unit setelah transaksi tersebut. Saham dijual dengan harga Rp89 per saham melalui skema repurchase agreement, dengan status kepemilikan tidak langsung dan tujuan transaksi dicatat sebagai investasi.",
+   "Jumlah saham yang dilepas setara 2,26 persen dari total kepemilikan Hendy di WGSH sebelum transaksi berlangsung. Hak suaranya di perusahaan tidak berubah, tetap tercatat 0,05 persen baik sebelum maupun sesudah penjualan. Laporan ini disampaikan sebagai kewajiban rutin sesuai Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan dan perubahan kepemilikan saham oleh direksi dan komisaris perusahaan terbuka."
+  ],
+  "fotoAdegan": "Financial district office tower exterior with reflective glass windows, busy city street below, midday light",
+  "takeaway": "Laporan ini netral bagi WGSH karena penjualan 226 saham oleh Hendy Rusli hanya setara 2,26 persen dari kepemilikannya sendiri dan tidak mengubah hak suaranya yang tetap di 0,05 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal perubahan sikap direksi terhadap perusahaan. Yang tersentuh di sini adalah struktur kepemilikan saham beredar milik orang dalam perusahaan, bukan arus kas atau laba perusahaan, dan pelaku pasar tetap memantau transaksi semacam ini karena pola jual beli direksi kadang mencerminkan pandangan mereka sendiri terhadap prospek perusahaan. Repurchase agreement yang disebut dalam laporan ini berarti kesepakatan jual saham dengan janji membeli kembali di kemudian hari, sehingga saham yang dilepas Hendy berpotensi kembali ke tangannya sesuai perjanjian tersebut. Yang perlu dipantau selanjutnya adalah apakah Hendy atau direksi lain WGSH melaporkan transaksi serupa dalam skala yang lebih besar, karena baru pada ukuran itu perubahan kepemilikan orang dalam mulai berarti bagi pemegang saham publik.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri",
   "category": "Energi",
   "title": "Presiden Prabowo Ajak [Jepang] Kembangkan Energi Bersih RI",

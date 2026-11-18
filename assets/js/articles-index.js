@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pkpu-ades-rp3-6-miliar-perseroan-bentuk-pencadangan-penuh",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADES Rp3,6 Miliar: Perseroan Bentuk [Pencadangan] Penuh",
+  "deck": "ADES membentuk pencadangan penuh Rp3,63 miliar menanggapi permintaan penjelasan BEI atas gugatan PKPU dari kontraktor PT Megaland Infra Perkasa.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "PKPU",
+   "sengketa hukum",
+   "pencadangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0e419aa01_c9e57a6efb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "stock-split-rdtx-1-20-saham-baru-diperdagangkan-24-november",
+  "category": "Aksi Korporasi",
+  "title": "Stock Split RDTX 1:20 [Efektif] 18 November 2026",
+  "deck": "Stock split RDTX 1:20 resmi efektif 18 November 2026; saham nominal baru mulai diperdagangkan 24 November di pasar reguler dan negosiasi.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "Roda Vivatex",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ffb4c1ad9c_d6ee8708c9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "foru-dua-anggota-komite-audit-mundur-diganti-dua-nama-baru",
+  "category": "Aksi Korporasi",
+  "title": "FORU: Dua Anggota Komite Audit Mundur, [Diganti] Dua Nama Baru",
+  "deck": "Tjandra Susanto Putra dan Iwan mundur dari Komite Audit FORU efektif 17 November 2026, digantikan Triyoga Deni Intarto dan Yeniatie.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "Komite Audit",
+   "Fortune Indonesia",
+   "Tata Kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e478462e15_7769b888d6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pack-bantah-kongsi-bakrie-haji-isam-bidik-saham-weda-bay-nickel",
   "category": "Aksi Korporasi",
   "title": "PACK [Bantah] Kongsi Bakrie-Haji Isam Bidik Saham Weda Bay Nickel",
@@ -212,6 +260,22 @@ var ARTICLES = [
    "free float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e056a29b00_3ab0273d29.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smma-lenny-marlina-jadi-direktur-utama-baru-gantikan-burhanuddin",
+  "category": "Aksi Korporasi",
+  "title": "SMMA: Lenny Marlina Jadi [Direktur Utama] Baru, Gantikan Burhanuddin",
+  "deck": "PT Sinar Mas Multiartha Tbk mengangkat Lenny Marlina sebagai Direktur Utama baru per 17 November 2026, menggantikan Burhanuddin Abdullah, sekaligus menambah satu direktur baru.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "Direksi",
+   "Corporate Governance",
+   "Pergantian Pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6be4882084_bd1431a45b.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6459,72 +6523,6 @@ var ARTICLES = [
    "HALO"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-4641-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-bahas-24-dari-25-bidang-aksesi-oecd",
-  "category": "Makroekonomi",
-  "title": "Indonesia Bahas [24] dari 25 Bidang Aksesi OECD",
-  "deck": "Rapat koordinasi tim nasional digelar menjelang kunjungan Sekjen OECD, dengan pembahasan teknis sudah berjalan di 24 dari 25 bidang menuju target rampung 2028.",
-  "date": "10 November 2026",
-  "image": "assets/img/bendungan.jpg",
-  "tags": [
-   "OECD",
-   "Airlangga Hartarto",
-   "aksesi OECD",
-   "reformasi regulasi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7208/menko-airlangga-ajak-menteri-dan-kepala-lembaga-perkuat-komitmen-indonesia-untuk-percepat-proses-aksesi-oecd",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pemerintah-tawarkan-empat-blok-migas-baru-di-papua-hingga-ntt",
-  "category": "Energi",
-  "title": "Pemerintah [Tawarkan] Empat Blok Migas Baru di Papua hingga NTT",
-  "deck": "ESDM menetapkan empat wilayah kerja migas di Papua, Papua Barat Daya, Laut Arafuru, dan NTT sebagai status Available, terbuka bagi investor lewat penawaran langsung.",
-  "date": "10 November 2026",
-  "image": "assets/img/pemerintah-tawarkan-empat-blok-migas-baru-di-papua-hingga-ntt.jpg",
-  "imageV": "mwa5az6h",
-  "tags": [
-   "migas",
-   "ESDM",
-   "investasi hulu migas",
-   "wilayah kerja"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/tingkatkan-investasi-dan-eksplorasi-hulu-migas-pemerintah-tawarkan-empat-wilayah-kerja-available",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "penjualan-eceran-oktober-diprakirakan-naik-1-persen",
-  "category": "Makroekonomi",
-  "title": "Penjualan Eceran Oktober Diprakirakan [Naik] 1 Persen",
-  "deck": "Bank Indonesia memperkirakan penjualan eceran Oktober 2026 tumbuh 1 persen dibanding tahun sebelumnya, ditopang penjualan bahan bakar kendaraan serta makanan dan minuman.",
-  "date": "10 November 2026",
-  "image": "assets/img/koperasi-desa.jpg",
-  "tags": [
-   "penjualan eceran",
-   "Bank Indonesia",
-   "inflasi",
-   "konsumsi rumah tangga"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824626.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "avia-panggil-rupslb-bahas-penghapusan-saham-treasuri",
-  "category": "Aksi Korporasi",
-  "title": "AVIA Panggil RUPSLB, Bahas Penghapusan Saham [Treasuri]",
-  "deck": "AVIA memanggil RUPSLB 2 Desember 2026 untuk menyetujui penghapusan seluruh saham treasuri lewat pengurangan modal disetor.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AVIA",
-   "RUPSLB",
-   "saham treasuri",
-   "pengurangan modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f8b8f2c6d_2efbc5ccdb.pdf",
   "sourceLabel": "IDX"
  }
 ];

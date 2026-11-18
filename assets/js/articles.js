@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pkpu-ades-rp3-6-miliar-perseroan-bentuk-pencadangan-penuh",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADES Rp3,6 Miliar: Perseroan Bentuk [Pencadangan] Penuh",
+  "deck": "ADES membentuk pencadangan penuh Rp3,63 miliar menanggapi permintaan penjelasan BEI atas gugatan PKPU dari kontraktor PT Megaland Infra Perkasa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T19:03:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0e419aa01_c9e57a6efb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADES",
+  "tags": [
+   "ADES",
+   "PKPU",
+   "sengketa hukum",
+   "pencadangan"
+  ],
+  "body": [
+   "PT Akasha Wira International Tbk (ADES) menjawab surat permintaan penjelasan Bursa Efek Indonesia tertanggal 16 November 2026 terkait permohonan Penundaan Kewajiban Pembayaran Utang (PKPU) yang diajukan PT Megaland Infra Perkasa dengan nomor perkara 340/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst di Pengadilan Niaga Jakarta Pusat. Dalam suratnya yang ditandatangani Presiden Direktur Fany Soegiarto pada 18 November 2026, Perseroan mengonfirmasi keberadaan proses PKPU tersebut dan menyatakan akan membentuk pencadangan atau provisi senilai Rp3.631.948.975,22, setara dengan nilai klaim yang diajukan Megaland. Perseroan menegaskan pencadangan ini bersifat antisipatif, bukan pengakuan bahwa klaim tersebut benar atau sah.",
+   "Sengketa ini bermula dari kerja sama proyek konstruksi perluasan jalur produksi fabrik ADES di Cibinong, Jawa Barat, dengan Megaland sebagai kontraktor. Pekerjaan dihentikan karena ada perbedaan perhitungan tagihan dan ketidaksesuaian spesifikasi pekerjaan dengan standar yang disyaratkan. Sebelum Megaland mendaftarkan PKPU, perselisihan ini sudah lebih dulu masuk ke jalur gugatan perdata biasa di Pengadilan Negeri Jakarta Selatan dengan nomor perkara 928/Pdt.G/2026/PN Jak.Sel. ADES menilai klaim Megaland sebagai sengketa perdata biasa soal selisih nilai tagihan, bukan indikasi kesulitan keuangan Perseroan.",
+   "Perseroan merinci bahwa nilai klaim Rp3,63 miliar itu hanya setara 0,09 persen dari total ekuitas, 0,07 persen dari total aset, dan 0,3 persen dari total liabilitas ADES. Perseroan telah menunjuk tim hukum untuk mendampingi proses persidangan dan menyatakan, berdasarkan evaluasi awal, PKPU ini diperkirakan tidak berdampak material terhadap kelangsungan usaha maupun kondisi keuangan Perseroan. ADES tidak mengungkapkan informasi material lain terkait perkara ini."
+  ],
+  "fotoAdegan": "Unfinished factory building framework with scaffolding and exposed rebar, workers inspecting structure, overcast sky in a West Java industrial area",
+  "takeaway": "Laporan ini tergolong netral bagi ADES karena nilai klaim yang mendasari PKPU hanya 0,09 persen dari ekuitas dan 0,07 persen dari total aset perusahaan, jauh dari ukuran yang bisa mengganggu kondisi keuangan secara nyata. Pos yang tersentuh adalah liabilitas, sebab Perseroan membentuk pencadangan atau provisi senilai klaim tersebut, yaitu dana yang disisihkan di laporan keuangan untuk menanggung potensi kewajiban, sehingga ada sedikit tekanan ke laba meski klaimnya belum diakui benar. Yang tetap perlu dicatat, PKPU adalah jalur hukum yang bisa bermuara pada penundaan pembayaran utang atau bahkan kepailitan kalau tidak berakhir damai, jadi statusnya layak dipantau walau nilainya kecil. Yang dipantau berikutnya adalah kelanjutan sidang PKPU di Pengadilan Niaga Jakarta Pusat serta proses gugatan perdata terkait di Pengadilan Negeri Jakarta Selatan, karena hasil kedua proses itu akan menentukan apakah klaim Megaland Infra Perkasa tetap sekecil perkiraan Perseroan.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "stock-split-rdtx-1-20-saham-baru-diperdagangkan-24-november",
+  "category": "Aksi Korporasi",
+  "title": "Stock Split RDTX 1:20 [Efektif] 18 November 2026",
+  "deck": "Stock split RDTX 1:20 resmi efektif 18 November 2026; saham nominal baru mulai diperdagangkan 24 November di pasar reguler dan negosiasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T18:18:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ffb4c1ad9c_d6ee8708c9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RDTX",
+  "tags": [
+   "RDTX",
+   "stock split",
+   "Roda Vivatex",
+   "BEI"
+  ],
+  "body": [
+   "Roda Vivatex Tbk (RDTX) menyatakan pemecahan saham (stock split) dengan rasio 1:20 resmi efektif pada 18 November 2026, menyusul keterbukaan informasi terbaru yang merujuk Pasal 24 POJK No. 15/POJK.04/2022 tentang Pemecahan Saham dan Penggabungan Saham oleh Perusahaan Terbuka. Status efektif ini menandai tahap akhir sebelum saham dengan nilai nominal baru resmi diperdagangkan di Bursa Efek Indonesia.",
+   "Pemecahan saham ini telah disetujui dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 4 November 2026. Melalui aksi ini, nilai nominal saham turun dari Rp500 menjadi Rp25 per saham, sementara jumlah saham yang ditempatkan dan disetor penuh naik dari 268,8 juta menjadi 5,376 miliar lembar. Modal dasar perseroan juga bertambah dari 560 juta menjadi 11,2 miliar saham, meski jumlah modal dalam rupiah tidak berubah. Perubahan ini telah tercatat dalam akta notaris Fathiah Helmi tertanggal 4 November 2026 dan disahkan Kementerian Hukum pada 6 November 2026. Bursa Efek Indonesia juga telah menyetujui pencatatan saham tambahan hasil pemecahan ini melalui surat tertanggal 17 November 2026.",
+   "Sesuai jadwal, saham dengan nilai nominal lama akan diperdagangkan untuk terakhir kalinya pada 23 November 2026 di seluruh pasar. Saham dengan nominal baru mulai diperdagangkan pada 24 November 2026 di pasar reguler dan negosiasi, lalu pada 26 November 2026 di pasar tunai. Bagi pemegang saham yang sahamnya tersimpan secara elektronik di KSEI, saham hasil pemecahan akan otomatis masuk ke sub rekening efek masing-masing berdasarkan saldo pada 23 November 2026. Sementara pemegang saham dengan bentuk warkat atau sertifikat fisik harus mengurus penukaran mulai 26 November 2026 dengan membawa surat kolektif saham asli dan identitas ke biro administrasi efek perseroan, PT Bima Registra.",
+   "Susunan pemegang saham RDTX setelah pemecahan tidak berubah proporsinya dari sebelum stock split. Sutiadi Widjaja tetap menjadi pemegang saham terbesar dengan 2.285.186.000 lembar atau sekitar 42,5 persen, diikuti Turniady Widjaja dengan 1.008.896.000 lembar atau 18,8 persen, Wiriady Widjaja dengan 453.198.000 lembar atau 8,4 persen, dan Karta Widjaja dengan 343.644.000 lembar atau 6,4 persen. Sisanya, 1.285.076.000 lembar atau 23,9 persen, dipegang oleh masyarakat, sehingga total saham beredar mencapai 5.376.000.000 lembar dengan nilai nominal seluruhnya Rp134,4 miliar."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, photographed from street level in late afternoon light.",
+  "takeaway": "Laporan terbaru ini netral bagi fundamental RDTX, karena yang berubah hanyalah status resmi: proses pemecahan saham yang sudah disetujui sejak RUPSLB 4 November kini dinyatakan efektif pada 18 November 2026, tanpa ada perubahan modal atau proporsi kepemilikan pemegang saham. Yang tersentuh tetap jumlah saham beredar, yang melonjak dari 268,8 juta menjadi 5,376 miliar lembar; ini membuat laba per saham tampak lebih kecil karena dibagi jumlah saham yang lebih banyak, padahal laba bersih perusahaan tidak berubah sama sekali. Pelaku pasar memperhatikan status efektif semacam ini karena menjadi syarat resmi sebelum saham dengan nominal baru bisa mulai diperdagangkan. Yang perlu dipantau selanjutnya adalah 24 November 2026, saat saham nominal baru mulai diperdagangkan di pasar reguler dan negosiasi, serta 26 November 2026 untuk pasar tunai dan bagi pemegang saham warkat yang harus menukarkan sertifikat fisiknya lewat PT Bima Registra.",
+  "sentimen": "netral",
+  "peristiwa": "stock-split",
+  "judulIdx": "Keterbukaan Informasi terkait Aksi Korporasi - Rencana Pelaksanaan Stock Split (KOREKSI) - 18112026",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Tanggal efektif pelaksanaan stock split"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Hari terakhir perdagangan saham nominal lama di seluruh pasar"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Saham nominal baru mulai diperdagangkan di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Saham nominal baru mulai diperdagangkan di pasar tunai"
+   }
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T15:16:00",
+    "ringkas": "Stock split RDTX 1:20 resmi dinyatakan efektif pada 18 November 2026, tahap akhir sebelum saham baru diperdagangkan 24 November.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/763a280f54_b9fcd27b21.pdf",
+    "judulIdx": "Keterbukaan Informasi terkait Aksi Korporasi - Stock Split - 18112026"
+   }
+  ],
+  "diperbarui": "2026-11-18T15:16:00"
+ },
+ {
+  "slug": "foru-dua-anggota-komite-audit-mundur-diganti-dua-nama-baru",
+  "category": "Aksi Korporasi",
+  "title": "FORU: Dua Anggota Komite Audit Mundur, [Diganti] Dua Nama Baru",
+  "deck": "Tjandra Susanto Putra dan Iwan mundur dari Komite Audit FORU efektif 17 November 2026, digantikan Triyoga Deni Intarto dan Yeniatie.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T17:34:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e478462e15_7769b888d6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "Komite Audit",
+   "Fortune Indonesia",
+   "Tata Kelola"
+  ],
+  "body": [
+   "Fortune Indonesia Tbk (FORU) melaporkan pengunduran diri dua anggota Komite Audit, yaitu Tjandra Susanto Putra dan Iwan. Keduanya mengajukan surat pengunduran diri terpisah yang masing-masing tertanggal 16 November 2026. Pengunduran diri itu diterima Dewan Komisaris Perseroan melalui Keputusan Sirkuler Dewan Komisaris Nomor 93/FORU-BOC/XI/2026 tertanggal 17 November 2026, dan berlaku efektif sejak tanggal yang sama.",
+   "Sebagai pengganti, kedudukan keduanya di Komite Audit diisi oleh Triyoga Deni Intarto dan Yeniatie. Keterbukaan informasi ini disampaikan perseroan untuk memenuhi Peraturan Otoritas Jasa Keuangan Nomor 55/POJK.04/2015 tentang Pembentukan dan Pedoman Pelaksanaan Kerja Komite Audit, yang mewajibkan emiten melapor setiap perubahan susunan komite tersebut.",
+   "Manajemen menegaskan pergantian ini tidak membawa dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ditandatangani secara elektronik oleh Hadi Pranggono selaku Direktur dan Sekretaris Perusahaan, dan disampaikan kepada OJK serta Bursa Efek Indonesia pada 18 November 2026."
+  ],
+  "fotoAdegan": "Glass-walled corporate boardroom in a Jakarta high-rise with empty leather chairs around a long table, city skyline through windows, daytime light.",
+  "takeaway": "Laporan ini netral bagi fundamental FORU, karena sekadar pergantian personel pengawas dan perseroan sendiri menyatakan tidak ada dampak terhadap operasional maupun keuangan. Komite Audit adalah badan independen yang membantu Dewan Komisaris mengawasi proses penyusunan laporan keuangan dan kinerja auditor eksternal, jadi perubahan personelnya tidak mengubah pos-pos seperti ekuitas, arus kas, atau laba per saham, tetapi tetap relevan karena menyangkut kualitas pengawasan independen atas akurasi laporan keuangan yang dipakai investor. Dokumen ini tidak menyebut agenda RUPS atau tenggat lanjutan terkait pergantian ini, sehingga hal yang perlu dipantau adalah bagaimana rekam jejak dan independensi Triyoga Deni Intarto serta Yeniatie dijelaskan saat perseroan merilis laporan tahunan atau profil komite audit berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran Diri Anggota Komite Audit PT Fortune Indonesia Tbk"
+ },
+ {
   "slug": "pack-bantah-kongsi-bakrie-haji-isam-bidik-saham-weda-bay-nickel",
   "category": "Aksi Korporasi",
   "title": "PACK [Bantah] Kongsi Bakrie-Haji Isam Bidik Saham Weda Bay Nickel",
@@ -440,6 +551,39 @@ var ARTICLES = [
   "takeaway": "Laporan ini condong negatif bagi Metro Realty, karena perusahaan mengakui salah unggah berkas catatan laporan keuangan, sebagian besar pertanyaan bursa lainnya masih dijawab 'belum memiliki data', dan sahamnya tetap disuspensi karena belum memenuhi syarat free float. Yang tersentuh adalah akun-akun inti neraca seperti kas dan setara kas, piutang usaha, persediaan, serta utang dan pendapatan diterima di muka, yang menentukan seberapa likuid dan sehat posisi keuangan perusahaan di mata investor, sementara koreksi pada beban pokok pendapatan ikut memengaruhi laba yang akhirnya tercermin pada laba per saham. Piutang dan utang kepada pihak berelasi PT Perkasa Makmur Amara yang nilainya tidak berubah sejak 2024 juga menandakan belum ada kemajuan penyelesaian. Yang perlu dipantau selanjutnya adalah hasil koordinasi dengan OJK untuk merevisi resmi laporan keuangan per 30 Juni 2026, serta kelanjutan upaya perseroan memenuhi ketentuan free float agar suspensi sahamnya bisa dicabut.",
   "sentimen": "negatif",
   "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "smma-lenny-marlina-jadi-direktur-utama-baru-gantikan-burhanuddin",
+  "category": "Aksi Korporasi",
+  "title": "SMMA: Lenny Marlina Jadi [Direktur Utama] Baru, Gantikan Burhanuddin",
+  "deck": "PT Sinar Mas Multiartha Tbk mengangkat Lenny Marlina sebagai Direktur Utama baru per 17 November 2026, menggantikan Burhanuddin Abdullah, sekaligus menambah satu direktur baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T14:26:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6be4882084_bd1431a45b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "Direksi",
+   "Corporate Governance",
+   "Pergantian Pengurus"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) melaporkan ke Bursa Efek Indonesia bahwa Lenny Marlina resmi menjabat sebagai Direktur Utama per 17 November 2026, menggantikan Burhanuddin Abdullah. Dalam dokumen yang sama, perusahaan juga mengangkat Anup Kumar sebagai direktur baru dengan tanggal pengangkatan yang sama, 17 November 2026, menambah jumlah kursi di jajaran direksi.",
+   "Posisi Wakil Direktur Utama tetap dipegang Eric Febrianto Buntoro, yang menjabat sejak 18 November 2025. Empat direktur lain tidak berubah, yaitu Agus Leman Gunawan dan Felix yang menjabat sejak 16 Mei 2024, Ir. Dumoly Freddy Pardede sejak 28 Oktober 2024, Tjong Huei Wey sejak 19 Juni 2025, dan Lynn Ramli sejak 18 November 2025. Felix, yang juga merangkap sebagai Corporate Secretary, menjadi penanda tangan elektronik laporan keterbukaan ini.",
+   "Jajaran dewan komisaris tidak mengalami perubahan. Fuganto Widjaja tetap menjabat Komisaris Utama sejak 16 Mei 2024, didampingi Robinson Simbolon dan Ketut Sanjaya sebagai komisaris dengan tanggal jabatan yang sama. Dokumen ini tidak menyebutkan alasan pergantian Burhanuddin Abdullah maupun rencana kerja direksi baru."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table in a Jakarta office tower, soft morning light",
+  "takeaway": "Laporan ini netral bagi SMMA karena hanya mencatat pergantian pucuk pimpinan tanpa disertai angka keuangan atau perubahan strategi yang dijelaskan dalam dokumen. Pergantian Direktur Utama tidak langsung mengubah pos kinerja seperti ekuitas, arus kas, atau laba per saham, tapi tetap dipantau pelaku pasar karena arah strategi perusahaan biasanya mengikuti siapa yang memimpin direksi. Penambahan satu direktur baru, Anup Kumar, juga berarti struktur pengambilan keputusan sedikit melebar tanpa mengubah komposisi pemegang saham atau hak suara. Yang perlu dipantau selanjutnya adalah apakah kepemimpinan baru ini membawa perubahan arah bisnis yang biasanya baru terlihat pada laporan kinerja kuartalan mendatang, karena dokumen ini tidak menyebutkan agenda RUPS atau jadwal lanjutan apa pun.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Pengangkatan Direktur Utama dan direktur baru SMMA"
+   }
+  ]
  },
  {
   "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
@@ -40126,8 +40270,8 @@ var ARTICLES = [
  {
   "slug": "smma-panggil-rupslb-17-november-agenda-rombak-direksi",
   "category": "Aksi Korporasi",
-  "title": "SMMA Panggil RUPSLB 17 November, Agenda [Rombak] Direksi",
-  "deck": "SMMA mengundang pemegang saham ke RUPSLB 17 November 2026 untuk membahas pergantian susunan direksi dan perubahan anggaran dasar perusahaan.",
+  "title": "RUPSLB SMMA 17 November: [Direksi] Lenny Marlina Jadi Dirut Baru",
+  "deck": "RUPSLB SMMA menyetujui Lenny Marlina sebagai Direktur Utama baru menggantikan Burhanuddin Abdullah, serta mengesahkan perubahan Pasal 3 anggaran dasar soal klasifikasi usaha.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "26 Oktober 2026",
   "isoDate": "2026-10-26T09:52:31",
@@ -40137,17 +40281,28 @@ var ARTICLES = [
   "tags": [
    "SMMA",
    "RUPSLB",
-   "direksi",
-   "anggaran dasar"
+   "Direksi",
+   "Anggaran Dasar"
   ],
   "body": [
-   "PT Sinar Mas Multiartha Tbk (SMMA) memanggil pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada 17 November 2026 pukul 16.00 WIB di The Grand Mansion, Jalan Borobudur Nomor 10, Pegangsaan, Menteng, Jakarta Pusat. Pemanggilan ini menyusul pemberitahuan sebelumnya pada 9 Oktober 2026. Pemegang saham yang namanya tercatat dalam daftar pemegang saham per 23 Oktober 2026 yang berhak hadir dan memberikan suara dalam rapat tersebut.",
-   "Rapat ini membahas dua agenda. Pertama, persetujuan pengangkatan kembali atau perubahan susunan direksi perseroan. Kedua, persetujuan perubahan anggaran dasar perseroan. Dokumen keterbukaan yang ditandatangani oleh Corporate Secretary SMMA, Felix, tidak merinci nama calon direksi baru maupun pasal anggaran dasar yang akan diubah, sehingga detailnya baru akan terungkap saat rapat berlangsung.",
-   "Sebagai bagian dari kewajiban keterbukaan, SMMA juga mengirimkan bukti bahwa iklan pemanggilan rapat ini sudah dimuat di surat kabar harian nasional Investor Daily pada Senin, 26 Oktober 2026. Pengiriman bukti iklan itu ditandatangani oleh Wakil Direktur Utama SMMA, Eric Buntoro, untuk memenuhi aturan Otoritas Jasa Keuangan Nomor 15/POJK.04/2020 tentang penyelenggaraan RUPS perusahaan terbuka serta Undang-Undang Perseroan Terbatas."
+   "PT Sinar Mas Multiartha Tbk (SMMA) resmi merombak jajaran direksinya setelah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, menyetujui pengunduran diri Burhanuddin Abdullah dari posisi Direktur Utama dan mengangkat Lenny Marlina sebagai penggantinya. Rapat juga mengangkat Anup Kumar sebagai direktur baru perseroan. Keputusan ini disetujui 99,99 persen suara dari pemegang saham yang hadir, yang mewakili 72,41 persen dari seluruh saham perseroan dengan hak suara sah.",
+   "Dengan susunan baru ini, jajaran Direksi SMMA menjadi: Lenny Marlina sebagai Direktur Utama, Eric Febrianto Buntoro sebagai Wakil Direktur Utama, serta Agus Leman Gunawan, Felix, Ir. Dumoly Freddy Pardede, Tjong Huei Wey, Lynn Ramli, dan Anup Kumar sebagai Direktur. Sementara Dewan Komisaris tetap diisi Fuganto Widjaja sebagai Komisaris Utama, didampingi Robinson Simbolon dan Ketut Sanjaya sebagai Komisaris Independen. Burhanuddin Abdullah diberikan pembebasan dan pelunasan penuh (acquit et de charge) atas tindakan pengurusannya selama menjabat.",
+   "Agenda kedua rapat, yakni perubahan Pasal 3 Anggaran Dasar tentang maksud, tujuan, dan kegiatan usaha perseroan, juga disetujui dengan persentase suara yang sama. Perubahan ini dilakukan untuk menyesuaikan klasifikasi usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang ditetapkan Badan Pusat Statistik, bukan perubahan bidang bisnis perusahaan.",
+   "Rapat ini merupakan kelanjutan dari pemanggilan yang diumumkan SMMA pada 26 Oktober 2026, menyusul pemberitahuan rencana rapat kepada Otoritas Jasa Keuangan pada 2 Oktober 2026. Keputusan RUPSLB tertuang dalam Akta Berita Acara Rapat Nomor 16 tanggal 17 November 2026, yang salinannya masih dalam proses penyelesaian di kantor notaris."
   ],
   "fotoAdegan": "Empty boardroom with a long polished table and leather chairs arranged for a corporate shareholders meeting, soft morning light through windows",
-  "takeaway": "Laporan ini netral bagi pemegang saham karena baru berupa undangan rapat, belum ada nama calon direksi atau pasal anggaran dasar yang hendak diubah sehingga dampaknya belum bisa dinilai. Yang tersentuh di sini adalah tata kelola perusahaan, sebab susunan direksi menentukan siapa yang mengambil keputusan bisnis sehari-hari, sementara perubahan anggaran dasar bisa menyangkut aturan dasar perseroan seperti kewenangan direksi, struktur modal, atau hak pemegang saham, dan pasar mencermatinya karena berpotensi mengubah arah strategi perusahaan. Yang perlu dipantau adalah hasil RUPSLB pada 17 November 2026, termasuk siapa saja yang akan menjabat di direksi baru dan bagian anggaran dasar mana yang benar-benar diubah, karena baru saat itu dampaknya bagi perusahaan bisa dinilai lebih jelas.",
-  "sentimen": "netral"
+  "takeaway": "Pergantian direksi dan perubahan anggaran dasar ini netral bagi pemegang saham karena sifatnya administratif dan internal, tanpa angka transaksi, dana masuk, atau perubahan utang yang memengaruhi kas perusahaan secara langsung. Yang tersentuh adalah tata kelola: susunan direksi menentukan siapa mengambil keputusan bisnis sehari-hari, sementara perubahan Pasal 3 hanya menyesuaikan klasifikasi usaha ke aturan Badan Pusat Statistik terbaru, bukan mengubah lini bisnis perseroan. Pasar tetap mencermati pergantian pucuk pimpinan semacam ini karena arah strategi perusahaan bisa bergeser di bawah pimpinan baru. Yang perlu dipantau berikutnya adalah kinerja perseroan di bawah Direktur Utama baru Lenny Marlina, serta penyelesaian salinan Akta Berita Acara Rapat Nomor 16 yang masih diproses notaris, karena baru setelah itu keputusan rapat ini berkekuatan hukum penuh.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T13:48:48",
+    "ringkas": "RUPSLB SMMA menyetujui Lenny Marlina sebagai Dirut baru menggantikan Burhanuddin Abdullah dan mengesahkan perubahan Pasal 3 anggaran dasar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0582806856_c1e783b1f2.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-18T13:48:48",
+  "peristiwa": "rups"
  },
  {
   "slug": "dewi-sujito-ngatiman-jual-saham-hak-suara-turun-ke-7-70",
@@ -109894,8 +110049,8 @@ var ARTICLES = [
  {
   "slug": "bmas-rights-issue-rp1-triliun-untuk-kredit",
   "category": "Aksi Korporasi",
-  "title": "BMAS Rights Issue Rp1 Triliun untuk [Kredit]",
-  "deck": "Bank Kasikorn Indonesia menawarkan 2,87 miliar saham baru lewat rights issue seharga Rp350 per saham, menghimpun Rp1,01 triliun untuk modal kerja penyaluran kredit.",
+  "title": "Rights Issue BMAS 23 November: [Cum] HMETD di Pasar Reguler",
+  "deck": "BMAS mengoreksi jadwal rights issue Rp1,01 triliun: cum HMETD 23 November, periode pelaksanaan 27 November-3 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "8 September 2026",
   "isoDate": "2026-09-08T20:08:18",
@@ -109906,16 +110061,61 @@ var ARTICLES = [
    "BMAS",
    "rights issue",
    "HMETD",
-   "perbankan"
+   "Bank Kasikorn"
   ],
   "body": [
-   "PT Bank Kasikorn Indonesia Tbk (BMAS) mengumumkan rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) keempat, sesuai keterbukaan informasi yang disampaikan ke Bursa Efek Indonesia pada 8 September 2026. Perseroan akan menerbitkan 2.874.315.845 saham baru dengan nilai nominal Rp100 per saham, setara 13,70 persen dari total modal disetor setelah aksi ini rampung. Setiap pemegang 655 saham lama berhak atas 104 hak memesan saham baru, dan setiap satu hak bisa ditukar dengan satu saham baru seharga Rp350 per saham. Jika seluruh hak dilaksanakan, dana yang masuk ke kas perseroan mencapai Rp1,01 triliun, dan seluruhnya akan dipakai sebagai modal kerja untuk mendukung peningkatan penyaluran kredit.",
-   "Pemegang saham utama BMAS, Kasikorn Vision Financial Company Pte Ltd (KVF), yang menguasai 86,03 persen saham atau 15.574.208.968 lembar, menyatakan akan melaksanakan seluruh haknya sebanyak 2.543.333.619 hak. Angka itu terdiri dari jatah haknya sendiri sebanyak 2.472.851.500 hak, ditambah 70.482.119 hak yang dialihkan dari Kasikornbank Public Company Limited (KBANK). KBANK, yang memegang 2,45 persen saham BMAS, memilih tidak mengeksekusi haknya sendiri dan menyerahkan seluruhnya ke KVF. Pemegang saham lain, KVFI, dengan kepemilikan 1,00 persen, akan melaksanakan penuh 28.743.158 haknya. Jika masih ada saham baru yang tidak terserap pemegang saham lain, KVF bertindak sebagai pembeli siaga yang wajib menyerap sisanya sesuai perjanjian pembelian sisa saham.",
-   "Bagi pemegang saham lama yang tidak menggunakan haknya, dilusi kepemilikan maksimum yang harus ditanggung mencapai 13,70 persen. Dengan asumsi seluruh pemegang saham existing melaksanakan haknya, komposisi kepemilikan pasca rights issue bergeser tipis: porsi KVF naik dari 86,03 persen menjadi 86,37 persen, KBANK turun dari 2,45 persen menjadi 2,12 persen karena tidak menambah saham, sementara KVFI dan publik tetap masing-masing di 1,00 persen dan 10,52 persen. Total saham beredar perseroan bertambah dari 18.102.662.304 menjadi 20.976.978.149 lembar. Jadwal aksi korporasi ini dimulai dari RUPSLB pada 27 Agustus 2026, dengan tanggal efektif pada 13 November 2026, periode perdagangan HMETD berlangsung 27 November hingga 3 Desember 2026, dan batas akhir pembayaran pesanan saham tambahan pada 7 Desember 2026, diikuti tanggal penjatahan pada 8 Desember 2026."
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) mengoreksi pengumuman jadwal rights issue (PMHMETD IV) yang sebelumnya terbit 16 November 2026. Lewat surat 18 November 2026, perseroan memastikan jadwal final: pemegang saham yang ingin mendapat hak beli saham baru harus sudah memegang saham BMAS paling lambat pada cum HMETD 23 November 2026 di pasar reguler dan negosiasi, atau 25 November 2026 untuk pasar tunai. Sehari setelah masing-masing tanggal itu, saham BMAS mulai diperdagangkan tanpa hak tersebut (ex HMETD). Pencatatan pemegang saham yang resmi berhak atas hak beli ini jatuh pada 25 November 2026 pukul 16.00 WIB, hak itu dibagikan ke rekening efek investor pada 26 November, dan baru bisa benar-benar diperdagangkan serta dieksekusi mulai 27 November hingga 3 Desember 2026.",
+   "Inti aksinya tidak berubah dari rencana awal. Perseroan akan menerbitkan sebanyak-banyaknya 2.874.315.845 saham baru dengan harga Rp350 per saham, setiap pemegang 655 saham lama berhak atas 104 hak beli saham baru. Jika seluruh hak dilaksanakan, dana yang masuk ke kas BMAS sebesar Rp1.006.010.545.750, sekitar Rp1,01 triliun, dan seluruhnya dipakai sebagai modal kerja untuk mendukung penyaluran kredit. Tanggal efektif aksi ini tetap 13 November 2026, sesuai persetujuan RUPSLB pada 27 Agustus 2026.",
+   "Komitmen pemegang saham pengendali juga tidak berubah. Kasikorn Vision Financial Company Pte Ltd (KVF), pemegang 86,03 persen saham BMAS, akan melaksanakan seluruh haknya ditambah hak yang dialihkan dari Kasikornbank Public Company Limited (KBANK) yang memilih tidak ikut serta. KVF juga bertindak sebagai pembeli siaga yang wajib menyerap sisa saham baru yang tak terserap pemegang saham lain. Pemegang saham yang tidak menggunakan haknya akan mengalami penurunan porsi kepemilikan maksimum 13,70 persen.",
+   "Setelah periode pelaksanaan HMETD selesai pada 3 Desember 2026, batas akhir pembayaran pesanan saham tambahan jatuh pada 7 Desember 2026, diikuti penjatahan pada 8 Desember, pembayaran dari KVF sebagai pembeli siaga pada 9 Desember, dan pengembalian kelebihan uang pesanan pada 10 Desember 2026."
   ],
   "fotoAdegan": "Modern bank branch lobby in Jakarta with customers queued near teller counters, glass facade, soft morning light",
-  "takeaway": "Laporan ini condong positif bagi BMAS karena rights issue ini murni untuk memperkuat modal kerja yang mendukung penyaluran kredit, dan pemegang saham pengendali KVF sudah mengunci komitmen penuh dengan menyerap seluruh haknya plus bertindak sebagai pembeli siaga atas sisa saham yang tidak terserap, sehingga kepastian dana masuk Rp1,01 triliun relatif tinggi. Pos yang tersentuh adalah ekuitas dan jumlah saham beredar: modal disetor perseroan bertambah sekitar Rp1 triliun sementara jumlah saham beredar naik dari 18,1 miliar menjadi hampir 21 miliar lembar, sehingga laba per saham berpotensi terdilusi dalam jangka pendek sebelum tambahan modal itu terserap jadi kredit baru yang menghasilkan pendapatan bunga. Pemegang saham yang tidak ikut serta perlu tahu bahwa porsi kepemilikannya bisa tergerus hingga 13,70 persen jika tidak menggunakan haknya. Yang perlu dipantau berikutnya adalah tanggal efektif pada 13 November 2026 dan periode pelaksanaan HMETD pada 27 November hingga 3 Desember 2026, karena di situlah terlihat apakah dana benar-benar terkumpul sesuai rencana.",
-  "sentimen": "positif"
+  "takeaway": "Koreksi jadwal ini tetap condong positif bagi BMAS karena substansi aksinya tidak berubah: dana Rp1,01 triliun untuk modal kerja kredit dan komitmen penuh pengendali KVF masih berlaku, dokumen ini hanya memperjelas tanggal-tanggal pelaksanaannya. Pos yang tersentuh tetap ekuitas dan jumlah saham beredar perseroan, karena begitu saham baru ini terbit, jumlah lembar saham BMAS melonjak dari 18,1 miliar menjadi hampir 21 miliar, sehingga laba yang dihasilkan kini dibagi ke lebih banyak saham dan laba per saham bisa tergerus untuk sementara sebelum tambahan modal itu menghasilkan pendapatan bunga baru. Yang perlu dicatat pemegang saham lama adalah cum HMETD di pasar reguler pada 23 November 2026, yaitu hari terakhir memegang saham BMAS agar masih berhak membeli saham baru ini, karena setelah lewat tanggal itu dilusi kepemilikan sebesar 13,70 persen tidak bisa lagi dihindari. Tenggat berikutnya yang menentukan kepastian dana benar-benar masuk adalah pembayaran pesanan tambahan pada 7 Desember, penjatahan pada 8 Desember, dan pembayaran dari KVF sebagai pembeli siaga pada 9 Desember 2026 jika ada sisa saham yang tak terserap pemegang saham lain.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T16:36:00",
+    "ringkas": "BMAS mengoreksi jadwal rights issue: cum HMETD 23 November, periode pelaksanaan 27 November-3 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a64c025223_cb6f735412.pdf",
+    "judulIdx": "Keterbukaan Informasi terkait Aksi Korporasi - HMETD (KOREKSI) - 18112026"
+   }
+  ],
+  "diperbarui": "2026-11-18T16:36:00",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Cum HMETD di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Ex HMETD di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Recording date pemegang saham berhak HMETD"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Distribusi HMETD ke pemegang saham"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Mulai periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Akhir periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Batas akhir pembayaran pesanan saham tambahan"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Tanggal penjatahan pemesanan saham tambahan"
+   }
+  ],
+  "peristiwa": "right-issue"
  },
  {
   "slug": "uang-tegaskan-tak-ada-info-baru-rights-issue-masih-tertunda",

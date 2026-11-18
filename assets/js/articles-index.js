@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-teken-ieu-cepa-dengan-uni-eropa-21-november",
+  "category": "Global",
+  "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
+  "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
+  "date": "18 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Perdagangan",
+   "Indonesia-Inggris"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7230/tandatangani-ieu-cepa-dan-perkuat-implementasi-indonesiaunited-kingdom-egp-menko-airlangga-buka-peluang-baru-pertumbuhan-ekonomi-indonesia",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",
   "category": "Aksi Korporasi",
   "title": "WGSH: Direksi Hendy Rusli [Jual] 226 Saham, Hak Suara Tetap 0,05%",
@@ -19,6 +35,35 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2007-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "sgn-genjot-hilirisasi-tebu-kejar-gula-2-06-juta-ton",
+  "category": "BUMN",
+  "title": "SGN Genjot [Hilirisasi] Tebu, Kejar Gula 2,06 Juta Ton",
+  "deck": "PT Sinergi Gula Nusantara mengembangkan bioetanol dan fasilitas pemurnian dari tebu, sembari menargetkan produksi gula naik ke 2,06 juta ton pada 2030.",
+  "date": "18 November 2026",
+  "image": "assets/img/sgn-genjot-hilirisasi-tebu-kejar-gula-2-06-juta-ton.jpg",
+  "imageV": "mwlgk9xh",
+  "tags": [
+   "gula",
+   "hilirisasi",
+   "tebu",
+   "swasembada"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478959-hilirisasi-tebu-jadi-strategi-tingkatkan-produksi-gula-nasional-hingga-206-juta"
+ },
+ {
+  "slug": "megaspeed-firma-singapura-disorot-dugaan-penyelundupan-cip-nvidia",
+  "category": "Global",
+  "title": "Megaspeed, Firma Singapura Disorot Dugaan [Penyelundupan] Cip Nvidia",
+  "deck": "Megaspeed International, perusahaan cloud computing Singapura, diduga jadi alat penyelundupan cip AI Nvidia dari AS ke China lewat Indonesia; Polri masih mendalami permintaan penggeledahan dari FBI.",
+  "date": "18 November 2026",
+  "image": "assets/img/megaspeed-firma-singapura-disorot-dugaan-penyelundupan-cip-nvidia.jpg",
+  "imageV": "mwlgkabp",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478949-apa-itu-megaspeed-perusahaan-yang-terseret-dugaan-kasus-cip-nvidia-via-ri"
  },
  {
   "slug": "presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri",
@@ -244,7 +289,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -1771,7 +1816,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
   "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
   "date": "14 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -1787,7 +1832,7 @@ var ARTICLES = [
   "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
   "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
   "date": "14 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -1853,7 +1898,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -1935,7 +1980,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -2853,7 +2898,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6481,54 +6526,6 @@ var ARTICLES = [
    "go private"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4477de1d3d_5b4ab3c898.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "envy-resmi-delisting-dari-bei-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "ENVY Resmi [Delisting] dari BEI per 10 November 2026",
-  "deck": "Bursa menghapus pencatatan saham ENVY efektif 10 November 2026 karena forced delisting dan go private, bersamaan dengan 17 emiten lain.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENVY",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d216df89b0_67ed67ef2a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtra-resmi-delisting-dari-bei-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "MTRA Resmi [Delisting] dari BEI per 10 November 2026",
-  "deck": "Bursa Efek Indonesia mencabut status perusahaan tercatat MTRA efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang juga delisting bersamaan.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTRA",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/29a361eaf3_6e7565bb82.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sbat-resmi-kena-delisting-paksa-dari-bei-efektif-10-november",
-  "category": "Aksi Korporasi",
-  "title": "SBAT Resmi Kena [Delisting] Paksa dari BEI, Efektif 10 November",
-  "deck": "Bursa menghapus pencatatan saham SBAT secara paksa efektif 10 November 2026, satu paket dengan 17 emiten lain yang juga didelisting hari itu.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SBAT",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/269b59ba05_4f2bed2560.pdf",
   "sourceLabel": "IDX"
  }
 ];

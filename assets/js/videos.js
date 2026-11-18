@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "waJgz_UyA-M",
+  "title": "Pertamina Gelar Simulasi Tanggap Darurat Energi Nasional",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "PT Pertamina menggelar simulasi tanggap darurat skala besar untuk memperkuat kesiapsiagaan operasional dan menjaga keandalan pasokan energi nasional.",
+  "takeaway": "Kesiapsiagaan BUMN energi ini relevan bagi pembaca karena menyangkut keamanan pasokan energi yang menjadi tulang punggung aktivitas ekonomi nasional.",
+  "terbit": "2026-11-18T01:15:36+00:00"
+ },
+ {
+  "id": "f9f16eXBmE4",
+  "title": "KP2MI dan Kadin Seleksi 2.700 Calon Pekerja Migran ke Turki",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Kementerian P2MI bersama Kadin Indonesia menyeleksi sekitar 2.700 calon pekerja migran Indonesia untuk ditempatkan bekerja di Turki.",
+  "takeaway": "Pembukaan jalur penempatan pekerja migran baru ini penting bagi pembaca ekonomi karena berpotensi memperluas lapangan kerja dan menambah aliran remitansi.",
+  "terbit": "2026-11-18T00:48:29+00:00"
+ },
+ {
   "id": "hqfJQwvWzmg",
   "title": "Viva Media Asia Gelar RUPS Tahunan 2025",
   "category": "Pasar Modal",

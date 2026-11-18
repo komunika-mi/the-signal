@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "waJgz_UyA-M",
+  "title": "Pertamina Gelar Simulasi Tanggap Darurat Energi Nasional",
+  "category": "Energi",
+  "program": "Kabar Pagi",
+  "summary": "PT Pertamina menggelar simulasi tanggap darurat skala besar untuk memperkuat kesiapsiagaan operasional dan menjaga keandalan pasokan energi nasional.",
+  "takeaway": "Kesiapsiagaan BUMN energi ini relevan bagi pembaca karena menyangkut keamanan pasokan energi yang menjadi tulang punggung aktivitas ekonomi nasional."
+ },
+ {
+  "id": "f9f16eXBmE4",
+  "title": "KP2MI dan Kadin Seleksi 2.700 Calon Pekerja Migran ke Turki",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Kementerian P2MI bersama Kadin Indonesia menyeleksi sekitar 2.700 calon pekerja migran Indonesia untuk ditempatkan bekerja di Turki.",
+  "takeaway": "Pembukaan jalur penempatan pekerja migran baru ini penting bagi pembaca ekonomi karena berpotensi memperluas lapangan kerja dan menambah aliran remitansi."
+ },
+ {
   "id": "hqfJQwvWzmg",
   "title": "Viva Media Asia Gelar RUPS Tahunan 2025",
   "category": "Pasar Modal",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menyatakan penguatan dan naik kelasnya UMKM menjadi kunci utama bagi Indonesia untuk keluar dari jebakan kelas menengah.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan penguatan UMKM yang berkontribusi besar terhadap struktur ekonomi domestik."
- },
- {
-  "id": "iBtuz4dEwjc",
-  "title": "DJP Tanggapi Isu Pajak Transfer Bank per 9 November 2026",
-  "category": "Perbankan",
-  "program": "OneNews Update",
-  "summary": "Ditjen Pajak Kementerian Keuangan buka suara menanggapi ramainya isu transfer bank yang disebut akan dikenai pajak pertambahan nilai mulai 9 November 2026.",
-  "takeaway": "Penting bagi nasabah perbankan dan pelaku usaha agar mendapat kepastian soal aturan pajak atas transaksi transfer bank mereka."
- },
- {
-  "id": "mjPzauhmRtY",
-  "title": "PAM JAYA Raih Penghargaan Inovasi Membangun Negeri 2026",
-  "category": "BUMN",
-  "program": "Inovasi Membangun Negeri",
-  "summary": "PAM JAYA menerima penghargaan Inovasi Membangun Negeri 2026 atas upaya transformasi layanan air bersih yang dinilai berhasil meningkatkan kualitas layanan kepada warga Jakarta.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti kinerja dan inovasi badan usaha milik daerah dalam penyediaan layanan publik."
  }
 ];

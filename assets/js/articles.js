@@ -62,7 +62,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini baru satu angka pasti, yakni target implementasi IEU-CEPA pada 1 Januari 2027, sementara perjanjian dagang itu sendiri belum resmi ditandatangani. Pihak yang paling terdampak adalah petani kecil, terutama yang produknya seperti sawit dan kayu harus memenuhi aturan baru Uni Eropa soal deforestasi dan pajak karbon impor, karena mereka wajib membuktikan asal produknya lewat sistem pelacakan digital yang belum tentu mereka miliki sekarang. Di sisi investasi, sektor yang disebut sebagai incaran investor Jerman adalah semikonduktor, pusat data, dan kecerdasan buatan, tetapi belum ada nilai investasi atau nama perusahaan yang disebutkan secara konkret. Yang masih perlu dipantau adalah tanggal resmi penandatanganan IEU-CEPA dan bentuk nyata dukungan Jerman untuk petani kecil, karena sampai sekarang itu baru permintaan, bukan skema yang sudah berjalan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol",
@@ -1096,7 +1096,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan targetnya, melainkan cara pemerintah memintanya dieksekusi. Alih-alih sekadar menyebut target besar seperti tambahan 69,5 gigawatt kapasitas listrik baru atau investasi Rp2.133,7 triliun dalam RUPTL 2025-2034, pemerintah kini meminta investor Eropa menyusun rencana aksi konkret dalam 90 hari dan menetapkan siapa yang bertanggung jawab atas tiap proyek. Pihak yang langsung kena dampak permintaan ini adalah anggota EuroCham Energy Working Group, PT PLN, dan Danantara yang diminta duduk bersama membahas proyek nyata, selain daerah penerima proyek seperti enam provinsi lokasi tahap pertama program pembangkit tenaga surya atau 741 lokasi yang akan beralih dari generator diesel ke tenaga surya. Pergeseran dari janji ke tenggat 90 hari ini mengarah pada pemerintah yang mulai mendesak kepastian eksekusi, bukan sekadar pengumpulan komitmen di atas kertas. Yang akan membuktikan apakah dorongan ini berhasil adalah apakah rencana aksi 90 hari itu benar muncul, dan apakah proyek tahap pertama program surya berkapasitas 5,3 gigawatt peak itu mencapai kesepakatan pembiayaan dalam beberapa bulan mendatang.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bi-naikkan-suku-bunga-acuan-ke-6-demi-jaga-rupiah",
@@ -1124,7 +1125,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan cuma angka bunga, tapi arah prioritas Bank Indonesia. Inflasi dalam negeri justru sedang melandai, tapi BI tetap menaikkan bunga acuan karena alasannya ada di luar negeri, yaitu rupiah yang melemah dan dolar yang terus menguat akibat prospek bunga Amerika Serikat yang masih tinggi. Di sisi lain, BI sengaja tidak mengetatkan kredit, insentif likuiditas ke bank malah ditambah supaya pinjaman ke dunia usaha tetap mengalir, jadi dampaknya lebih terasa bagi nasabah dengan bunga kredit mengambang dan pelaku usaha yang butuh dolar untuk impor atau bayar utang luar negeri, bukan bagi usaha kecil yang mengandalkan kredit program pemerintah. Pola ini menunjukkan BI memilih menahan kurs lebih dulu sambil tetap membuka keran kredit, ketimbang mengetatkan ekonomi secara menyeluruh. Yang akan menentukan apakah langkah ini cukup adalah pergerakan rupiah dalam beberapa minggu mendatang serta keputusan Rapat Dewan Gubernur berikutnya, sebab rupiah masih melemah 0,66 persen meski insentif lindung nilai sudah berjalan sejak Juni.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "mtsm-akui-salah-unggah-calk-revisi-laporan-keuangan-juni-2026",

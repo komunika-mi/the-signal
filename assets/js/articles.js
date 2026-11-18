@@ -62,7 +62,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini baru satu angka pasti, yakni target implementasi IEU-CEPA pada 1 Januari 2027, sementara perjanjian dagang itu sendiri belum resmi ditandatangani. Pihak yang paling terdampak adalah petani kecil, terutama yang produknya seperti sawit dan kayu harus memenuhi aturan baru Uni Eropa soal deforestasi dan pajak karbon impor, karena mereka wajib membuktikan asal produknya lewat sistem pelacakan digital yang belum tentu mereka miliki sekarang. Di sisi investasi, sektor yang disebut sebagai incaran investor Jerman adalah semikonduktor, pusat data, dan kecerdasan buatan, tetapi belum ada nilai investasi atau nama perusahaan yang disebutkan secara konkret. Yang masih perlu dipantau adalah tanggal resmi penandatanganan IEU-CEPA dan bentuk nyata dukungan Jerman untuk petani kecil, karena sampai sekarang itu baru permintaan, bukan skema yang sudah berjalan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol",

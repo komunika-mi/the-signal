@@ -214,6 +214,11 @@
   "tanggal": "2026-10-01",
   "kali": 1
  },
+ "https://kkp.go.id/news/news-detail/indonesia-jadi-pusat-pengembangan-sdm-kelautan-dan-perikanan-di-asia-z7Rr.html": {
+  "sebab": "seremonial",
+  "tanggal": "2026-11-18",
+  "kali": 1
+ },
  "https://kkp.go.id/news/news-detail/kkp-fao-tingkatkan-kerja-sama-perikanan-untuk-ketahanan-pangan-Q6y0.html": {
   "sebab": "seremonial",
   "tanggal": "2026-09-16",
@@ -7117,6 +7122,11 @@
  "https://www.tvonenews.com/ekonomi/478673-gerak-cepat-kementerian-pu-pulihkan-huntara-4-aceh-tamiang-usai-dilanda-banjir": {
   "sebab": "editor menolak",
   "tanggal": "2026-11-16",
+  "kali": 1
+ },
+ "https://www.tvonenews.com/ekonomi/478965-biaya-hidup-makin-tinggi-pendidikan-tinggi-masih-penting-cek-kampus-negeri-ini": {
+  "sebab": "editor menolak",
+  "tanggal": "2026-11-18",
   "kali": 1
  }
 }

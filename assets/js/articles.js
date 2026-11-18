@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa",
+  "category": "Industri",
+  "title": "KKP Terima Dokumen Awal Proyek Karbon [Biru] Lombok-Jawa",
+  "deck": "KKP menandatangani pernyataan bersama dengan dua perusahaan untuk menerima dokumen awal usulan proyek karbon biru di Lombok Timur dan Jawa, bukan persetujuan proyek.",
+  "image": "assets/img/kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T14:03:48.097Z",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-teken-pernyataan-bersama-pengembangan-karbon-biru-di-cop31-x2PJ.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan",
+  "tags": [
+   "karbon biru",
+   "KKP",
+   "COP31",
+   "mangrove"
+  ],
+  "body": [
+   "Kementerian Kelautan dan Perikanan menandatangani pernyataan bersama dengan dua perusahaan swasta, PT Lentera Karbon Indonesia atau Lume Carbon dan Apolownia, dalam rangkaian Konferensi Perubahan Iklim PBB ke-31 di Antalya, Turkiye, pada Rabu, 18 November 2026. Pernyataan ini menandai diterimanya dokumen dan informasi awal usulan proyek karbon biru berupa restorasi hutan bakau dan padang lamun di Lombok Timur dan beberapa wilayah di Jawa. Proyek semacam ini menjadi salah satu cara mengubah ekosistem pesisir menjadi instrumen yang bisa diperhitungkan sebagai kredit karbon, sekaligus bagian dari strategi ekonomi biru pemerintah.",
+   "Wakil Menteri Kelautan dan Perikanan Irwan Meilano menegaskan bahwa penandatanganan ini bukan persetujuan proyek, bukan penetapan lokasi final, dan tidak memberikan hak karbon atau keistimewaan apa pun kepada kedua perusahaan tersebut. KKP masih akan memeriksa kelengkapan administrasi dan melakukan pengecekan langsung ke lapangan sebelum usulan ini bisa lanjut ke tahap berikutnya. Jika ditemukan dokumen yang kurang atau perlu klarifikasi, perusahaan pengusul wajib melengkapinya sesuai prosedur yang berlaku.",
+   "Pemerintah mewajibkan setiap proyek karbon biru memenuhi tiga syarat baru sebelum berjalan, yaitu persetujuan masyarakat pesisir yang diberikan secara sukarela setelah mendapat penjelasan lengkap, rencana pembagian manfaat ekonomi bagi warga setempat, dan mekanisme pengaduan jika masyarakat merasa dirugikan. Irwan menyatakan manfaat proyek karbon biru harus kembali kepada masyarakat pesisir, dengan aspek perlindungan lingkungan, pelibatan warga, dan transparansi menjadi bagian yang tidak bisa dipisahkan dari pengembangan proyek.",
+   "Menteri Kelautan dan Perikanan Sakti Wahyu Trenggono menyebut langkah ini sebagai bagian dari komitmen Indonesia memperkuat ekonomi biru sekaligus berkontribusi pada upaya global menekan dampak perubahan iklim. Menurut KKP, Indonesia memiliki potensi ekosistem karbon biru yang besar, terutama hutan bakau dan padang lamun, yang perlu dikelola dengan tata kelola kuat dan berbasis sains agar ekosistem tetap lestari dan masyarakat pesisir tetap sejahtera."
+  ],
+  "fotoAdegan": "Workers planting mangrove saplings along a muddy tidal coastline, small wooden boats anchored nearby, overcast tropical sky",
+  "fotoSumber": "https://kkp.go.id/storage/Berita/kkp-teken-pernyataan-bersama-pengembangan-karbon-biru-di-cop31-x2PJ.jpg",
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "takeaway": "Yang berubah bukan proyeknya sudah disetujui, melainkan KKP baru menerima dokumen awal usulan dari dua perusahaan untuk proyek pemulihan hutan bakau dan padang lamun di Lombok Timur dan sebagian Jawa, sebagai salah satu syarat sebelum proyek ini bisa dihitung sebagai kredit karbon yang diperjualbelikan. Pihak yang langsung terdampak adalah masyarakat pesisir di dua lokasi itu, karena aturan baru mewajibkan mereka dimintai persetujuan lebih dulu secara sukarela dan diberi penjelasan lengkap sebelum proyek berjalan, disertai rencana pembagian manfaat yang jelas dan jalur pengaduan kalau mereka dirugikan. Pola ini menunjukkan pemerintah sedang membangun proses berjenjang untuk proyek karbon biru, bukan langsung memberi izin dan hak karbon ke perusahaan, melainkan dicek dulu kelengkapan dokumen dan kondisi lapangannya sebelum lanjut ke tahap berikutnya. Yang akan memastikan ke arah mana ini berjalan adalah hasil pemeriksaan lapangan KKP atas dua usulan tersebut, dan apakah izin definitif serta hak karbon akhirnya benar diberikan atau justru tertahan karena dokumen dianggap belum lengkap.",
+  "imageV": "mwm75r52"
+ },
+ {
   "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",
   "category": "Aksi Korporasi",
   "title": "OILS Jelaskan BEI: Anak Usaha IGNP [Afiliasi], Telat Lapor 1 Hari",
@@ -84,6 +112,32 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "lapkeu",
   "judulIdx": "Tanggapan Tambahan atas Permintaan Penjelasan Terkait Laporan Keuangan per 30 September 2026 PT Selamat Sempurna Tbk (Perseroan)."
+ },
+ {
+  "slug": "taspen-gelar-lomba-jurnalistik-perdana-320-peserta-ikut",
+  "category": "BUMN",
+  "title": "Taspen Gelar Lomba Jurnalistik [Perdana], 320 Peserta Ikut",
+  "deck": "PT Taspen menggelar Anugerah Jurnalistik Taspen 2026, kompetisi pertama yang diikuti 320 peserta jurnalis, ASN, dan masyarakat umum untuk memperluas literasi perlindungan sosial.",
+  "image": "assets/img/taspen-gelar-lomba-jurnalistik-perdana-320-peserta-ikut.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T19:33:42+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479095-diikuti-320-peserta-anugerah-jurnalistik-taspen-perkuat-literasi-sosial-asn",
+  "tags": [
+   "taspen",
+   "asn",
+   "jurnalistik",
+   "bumn"
+  ],
+  "body": [
+   "PT Taspen (Persero) menggelar Anugerah Jurnalistik Taspen 2026, ajang penghargaan pertama yang mereka adakan untuk jurnalis, Aparatur Sipil Negara (ASN), dan masyarakat umum. Kompetisi ini diikuti 320 peserta dan ditutup dengan malam penganugerahan di Kota Bandung pada Jumat, 13 November 2026. Lewat ajang ini, Taspen berusaha memperluas pemahaman publik soal program, layanan, dan manfaat perlindungan sosial yang mereka kelola untuk ASN dan Pejabat Negara.",
+   "Kompetisi dibagi menjadi empat kategori, yaitu Karya Tulis Jurnalistik, Konten Video Kreatif Jurnalis, Konten Video Kreatif ASN, dan Konten Video Kreatif Masyarakat Umum. Taspen menggandeng detikcom sebagai mitra penyelenggara, dan dewan juri berasal dari kalangan profesional media serta industri kreatif. Untuk tiap kategori, juara pertama mendapat hadiah Rp7 juta, juara kedua Rp5 juta, dan juara ketiga Rp3 juta, di luar trofi dan sertifikat.",
+   "Corporate Secretary Taspen, Henra, menyebut ajang perdana ini sebagai bentuk komitmen perusahaan mendorong insan pers dan masyarakat ikut menyebarluaskan informasi soal program Taspen. Ia menilai partisipasi 320 peserta menunjukkan tingginya perhatian publik terhadap isu perlindungan sosial dan kesejahteraan peserta program."
+  ],
+  "fotoAdegan": "Elderly civil service retirees being assisted by a bank officer at a pension service counter, bright office interior",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/18/6afd98d15c9d8-diikuti-lebih-dari-300-peserta-anugerah-jurnalistik-perdana-taspen-dorong-literasi-perlindungan-sosial-asn_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara Taspen berkomunikasi ke publik: mereka kini memakai lomba jurnalistik dan konten kreator berhadiah, bukan cuma sosialisasi searah, dan menggandeng detikcom sebagai mitra media. Yang terdampak langsung adalah 320 peserta dari kalangan jurnalis, ASN, dan masyarakat umum yang ikut lomba, serta secara tidak langsung ASN dan Pejabat Negara yang jadi sasaran edukasi soal manfaat dana pensiun dan perlindungan sosial mereka. Berita ini tidak menyebut apakah ajang ini akan rutin digelar tiap tahun atau cuma sekali, dan juga tidak ada ukuran konkret soal target literasi yang ingin dicapai Taspen. Untuk tahu apakah ini jadi strategi komunikasi jangka panjang atau sekadar acara seremonial satu kali, yang perlu dipantau adalah apakah Taspen mengumumkan Anugerah Jurnalistik edisi kedua pada 2027.",
+  "imageV": "mwm75rjf"
  },
  {
   "slug": "pkpu-ades-sidang-perdana-digelar-klaim-rp3-6-miliar",
@@ -648,7 +702,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan targetnya, melainkan cara pemerintah memintanya dieksekusi. Alih-alih sekadar menyebut target besar seperti tambahan 69,5 gigawatt kapasitas listrik baru atau investasi Rp2.133,7 triliun dalam RUPTL 2025-2034, pemerintah kini meminta investor Eropa menyusun rencana aksi konkret dalam 90 hari dan menetapkan siapa yang bertanggung jawab atas tiap proyek. Pihak yang langsung kena dampak permintaan ini adalah anggota EuroCham Energy Working Group, PT PLN, dan Danantara yang diminta duduk bersama membahas proyek nyata, selain daerah penerima proyek seperti enam provinsi lokasi tahap pertama program pembangkit tenaga surya atau 741 lokasi yang akan beralih dari generator diesel ke tenaga surya. Pergeseran dari janji ke tenggat 90 hari ini mengarah pada pemerintah yang mulai mendesak kepastian eksekusi, bukan sekadar pengumpulan komitmen di atas kertas. Yang akan membuktikan apakah dorongan ini berhasil adalah apakah rencana aksi 90 hari itu benar muncul, dan apakah proyek tahap pertama program surya berkapasitas 5,3 gigawatt peak itu mencapai kesepakatan pembiayaan dalam beberapa bulan mendatang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "bi-naikkan-suku-bunga-acuan-ke-6-demi-jaga-rupiah",
@@ -676,7 +730,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan cuma angka bunga, tapi arah prioritas Bank Indonesia. Inflasi dalam negeri justru sedang melandai, tapi BI tetap menaikkan bunga acuan karena alasannya ada di luar negeri, yaitu rupiah yang melemah dan dolar yang terus menguat akibat prospek bunga Amerika Serikat yang masih tinggi. Di sisi lain, BI sengaja tidak mengetatkan kredit, insentif likuiditas ke bank malah ditambah supaya pinjaman ke dunia usaha tetap mengalir, jadi dampaknya lebih terasa bagi nasabah dengan bunga kredit mengambang dan pelaku usaha yang butuh dolar untuk impor atau bayar utang luar negeri, bukan bagi usaha kecil yang mengandalkan kredit program pemerintah. Pola ini menunjukkan BI memilih menahan kurs lebih dulu sambil tetap membuka keran kredit, ketimbang mengetatkan ekonomi secara menyeluruh. Yang akan menentukan apakah langkah ini cukup adalah pergerakan rupiah dalam beberapa minggu mendatang serta keputusan Rapat Dewan Gubernur berikutnya, sebab rupiah masih melemah 0,66 persen meski insentif lindung nilai sudah berjalan sejak Juni.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "mtsm-akui-salah-unggah-calk-revisi-laporan-keuangan-juni-2026",
@@ -1031,7 +1085,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah penggantian skema akses pasar Indonesia ke Uni Eropa, dari keringanan tarif sepihak GSP yang akan berakhir, menjadi perjanjian dagang resmi IEU-CEPA yang membebaskan bea masuk untuk 90,4 persen pos tarif ekspor begitu berlaku penuh, ditargetkan kuartal I 2027. Yang langsung terdampak adalah eksportir produk seperti alas kaki, tekstil, dan komoditas olahan yang mengincar pasar 27 negara Uni Eropa, serta UMKM dan petani kecil yang masih perlu pendampingan sertifikasi agar bisa memenuhi standar keberlanjutan Uni Eropa. Dibarengi dengan pembahasan awal perjanjian serupa dengan Inggris yang baru dimulai di London, pola ini mengarah ke strategi Indonesia mengganti fasilitas tarif sepihak yang bisa dicabut sewaktu-waktu dengan perjanjian dagang resmi yang mengikat kedua pihak. Yang akan menentukan apakah target ini tercapai sesuai rencana adalah proses ratifikasi di parlemen Indonesia dan Uni Eropa, karena IEU-CEPA baru berlaku penuh setelah prosedur hukum domestik kedua pihak selesai.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",

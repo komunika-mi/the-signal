@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa",
+  "category": "Industri",
+  "title": "KKP Terima Dokumen Awal Proyek Karbon [Biru] Lombok-Jawa",
+  "deck": "KKP menandatangani pernyataan bersama dengan dua perusahaan untuk menerima dokumen awal usulan proyek karbon biru di Lombok Timur dan Jawa, bukan persetujuan proyek.",
+  "date": "18 November 2026",
+  "image": "assets/img/kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa.jpg",
+  "imageV": "mwm75r52",
+  "tags": [
+   "karbon biru",
+   "KKP",
+   "COP31",
+   "mangrove"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-teken-pernyataan-bersama-pengembangan-karbon-biru-di-cop31-x2PJ.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
   "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",
   "category": "Aksi Korporasi",
   "title": "OILS Jelaskan BEI: Anak Usaha IGNP [Afiliasi], Telat Lapor 1 Hari",
@@ -51,6 +69,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbdeed05ad_cbb280d8c2.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "taspen-gelar-lomba-jurnalistik-perdana-320-peserta-ikut",
+  "category": "BUMN",
+  "title": "Taspen Gelar Lomba Jurnalistik [Perdana], 320 Peserta Ikut",
+  "deck": "PT Taspen menggelar Anugerah Jurnalistik Taspen 2026, kompetisi pertama yang diikuti 320 peserta jurnalis, ASN, dan masyarakat umum untuk memperluas literasi perlindungan sosial.",
+  "date": "18 November 2026",
+  "image": "assets/img/taspen-gelar-lomba-jurnalistik-perdana-320-peserta-ikut.jpg",
+  "imageV": "mwm75rjf",
+  "tags": [
+   "taspen",
+   "asn",
+   "jurnalistik",
+   "bumn"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479095-diikuti-320-peserta-anugerah-jurnalistik-taspen-perkuat-literasi-sosial-asn"
  },
  {
   "slug": "pkpu-ades-sidang-perdana-digelar-klaim-rp3-6-miliar",
@@ -6495,37 +6530,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umkm-jawa-timur-tembus-pasar-global-kemendag-perkuat-mutu-dan-standardisasi-produk",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "pdpp-panggil-rupslb-ubah-susunan-dewan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "PDPP Panggil RUPSLB Ubah Susunan [Dewan Komisaris]",
-  "deck": "RUPSLB PT Primadaya Plastisindo digelar 2 Desember 2026 untuk mengganti susunan Dewan Komisaris, pemegang saham per 9 November berhak hadir.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PDPP",
-   "RUPSLB",
-   "Dewan Komisaris",
-   "Primadaya Plastisindo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6876b2d7c4_45fb6c0ddc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atla-komisaris-rudi-sutantra-lepas-10-juta-saham-lewat-repo",
-  "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Rudi Sutantra Jual 30 Juta Saham, Suara 39,20%",
-  "deck": "Komisaris ATLA Rudi R Sutantra kembali lepas 30 juta saham lewat repo pada Rp16 per saham, hak suara turun dari 39,68% menjadi 39,20%, penjualan repo kedua dalam sepekan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATLA",
-   "Rudi Sutantra",
-   "Repo Saham",
-   "Laporan Kepemilikan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-2691-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

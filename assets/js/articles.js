@@ -3,6 +3,159 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",
+  "category": "Aksi Korporasi",
+  "title": "OILS Jelaskan BEI: Anak Usaha IGNP [Afiliasi], Telat Lapor 1 Hari",
+  "deck": "OILS menjelaskan ke BEI bahwa pendirian anak usaha IGNP bersama tiga direksi, yang juga anak Komisaris Utama Sulastri, adalah transaksi afiliasi; pelaporannya telat karena menunggu SK Kemenkumham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T20:13:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/953d0fefe9_4c6d5f2608.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OILS",
+  "tags": [
+   "OILS",
+   "transaksi afiliasi",
+   "anak usaha",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Indo Oil Perkasa Tbk (OILS) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-14168/BEI.PP2/11-2026 terkait pendirian anak usaha PT Indo Global Niaga Perkasa (IGNP). Dalam surat bertanggal 18 November 2026 yang ditandatangani Corporate Secretary Peter Surya Prabowo, perusahaan menegaskan bahwa pendirian IGNP masuk kategori transaksi afiliasi berdasarkan POJK Nomor 42/POJK.04/2020. Tiga pihak yang ikut mendirikan IGNP, yaitu Johan Widakdo Liem, Yonathan Widakdo Sutanto, dan Albert Widakdo Sutanto, tercatat sebagai anggota Direksi OILS sekaligus anak kandung dari Sulastri yang menjabat Komisaris Utama OILS. Ketiganya tidak memiliki hubungan dengan Azizah, Komisaris Independen OILS.",
+   "Struktur permodalan IGNP dirinci sebagai berikut: OILS memegang 80 persen saham dengan nilai penyertaan Rp200 juta, Johan Widakdo Liem 10 persen senilai Rp25 juta, Yonathan Widakdo Sutanto 5 persen senilai Rp12,5 juta, dan Albert Widakdo Sutanto 5 persen senilai Rp12,5 juta, sehingga total modal disetor IGNP mencapai Rp250 juta. IGNP didirikan untuk menjalankan usaha ekspor impor minyak dan perdagangan komoditas dari pemasok dalam negeri ke pasar internasional. Perusahaan menyatakan penyertaan modal Rp200 juta itu berasal dari kas internal dan hanya setara 0,20 persen dari total ekuitas OILS per 31 Desember 2025, sehingga dinilai tidak berdampak material terhadap kondisi keuangan perusahaan.",
+   "Soal keterlambatan pelaporan, OILS mengakui transaksi pendirian terjadi pada 5 November 2026 namun baru diungkapkan ke publik pada 10 November 2026, melewati batas dua hari kerja yang diatur POJK. Perusahaan berdalih keterlambatan itu terjadi karena Surat Keputusan Kementerian Hukum dan HAM atas pendirian IGNP baru terbit pada 9 November 2026, dan laporan disampaikan sehari setelahnya. OILS juga menyatakan tidak ada benturan kepentingan dalam transaksi ini serta menyebut sejumlah risiko yang dipantau, yaitu risiko operasional, pasar, keuangan, pengembangan usaha, dan kepatuhan perizinan, yang akan diawasi melalui mekanisme tata kelola dan evaluasi berkala terhadap kinerja IGNP."
+  ],
+  "fotoAdegan": "Dock workers stacking metal drums of palm or petroleum product near a cargo ship at a busy Indonesian export port.",
+  "takeaway": "Laporan ini netral bagi fundamental OILS karena nilai investasinya di IGNP hanya Rp200 juta, setara 0,20 persen dari total ekuitas perusahaan per akhir 2025, sehingga tidak mengubah kondisi keuangan secara berarti. Yang disentuh di sini bukan laba atau arus kas, melainkan tata kelola, sebab tiga direktur OILS yang juga anak kandung Komisaris Utama justru menjadi pemegang saham minoritas di anak usaha yang baru dibentuk, sehingga transaksi ini resmi berstatus transaksi afiliasi yang butuh pengawasan ekstra agar kepentingan pemegang saham publik tidak tergerus. Perusahaan sendiri mengakui keterlambatan mengumumkan transaksi, dari tanggal transaksi 5 November ke pengumuman 10 November, lebih lama dari batas dua hari kerja yang diwajibkan OJK, dengan alasan menunggu surat keputusan Kemenkumham. Yang perlu dipantau berikutnya adalah apakah penjelasan ini dianggap cukup oleh Bursa Efek Indonesia atau akan ada permintaan tindak lanjut, serta bagaimana kinerja IGNP mulai tercermin di laporan keuangan konsolidasi OILS pada periode berikutnya.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "medc-corporate-guarantee-atas-surat-utang-us-300-juta",
+  "category": "Aksi Korporasi",
+  "title": "MEDC: [Corporate Guarantee] atas Surat Utang US$300 Juta",
+  "deck": "Medco dan tujuh anak usahanya di Indonesia menjamin surat utang senior US$300 juta berbunga 8,875% yang diterbitkan anak usaha di British Virgin Islands, jatuh tempo 2032.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T20:04:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc9806081a_dc31a3e113.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "corporate guarantee",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk melaporkan ke OJK dan BEI bahwa anak usahanya, Medco Redwood Tree Limited yang berbadan hukum British Virgin Islands dan sahamnya dimiliki tidak langsung sepenuhnya oleh Medco melalui Medco Strait Services Pte. Ltd., menerbitkan surat utang senior (senior notes) senilai US$300 juta pada 17 November 2026. Surat utang ini berbunga 8,875 persen per tahun dan jatuh tempo pada 2032. Perdagangannya baru efektif di Singapore Exchange Securities Trading Limited pada 18 November 2026, dan ditawarkan hanya kepada investor di luar Indonesia sesuai aturan Rule 144A dan Regulation S di Amerika Serikat, sehingga tidak termasuk penawaran umum menurut hukum pasar modal Indonesia.",
+   "Untuk mendukung penerbitan itu, Medco sebagai penjamin induk bersama tujuh anak usaha di Indonesia yakni PT Medco E&P Indonesia, PT Medco E&P Rimau, PT Medco E&P Lematang, PT Medco E&P Tarakan, PT Medco Energi Sentarum, PT Medco Energi Nusantara, dan PT Medco Energi Amanah, memberikan jaminan perusahaan (corporate guarantee). Jaminan itu dituangkan dalam delapan akta notaris di hadapan Jose Dima Satria di Jakarta, bernomor 163 sampai 170, seluruhnya diteken pada 17 November 2026. Selain itu, 49 anak usaha Medco di luar negeri, mulai dari Ophir Asia Pacific hingga Medco Melati Limited, turut menjadi penjamin atas surat utang tersebut. Seluruh anak usaha penjamin ini dimiliki Medco minimal 99 persen, baik langsung maupun tidak langsung.",
+   "Medco menjelaskan transaksi ini tergolong transaksi afiliasi karena melibatkan perusahaan terbuka dengan anak usaha yang sahamnya dikuasai minimal 99 persen, sehingga menurut POJK 42/2020 cukup dilaporkan ke OJK paling lambat dua hari kerja setelah penandatanganan akta jaminan, tanpa memerlukan persetujuan pemegang saham independen. Perseroan juga menegaskan nilai surat utang ini belum mencapai 20 persen dari ekuitas Medco berdasarkan laporan keuangan interim per 30 Juni 2026, sehingga bukan transaksi material. Direksi dan Dewan Komisaris menyatakan transaksi ini tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Offshore oil and gas platform at dusk with a support vessel moored alongside, calm open sea",
+  "takeaway": "Penilaian saya netral, sebab ini adalah mekanisme pendanaan rutin dalam satu grup usaha, dijamin bersama oleh entitas yang sahamnya dikuasai Medco minimal 99 persen, bukan transaksi dengan pihak luar yang berpotensi merugikan pemegang saham minoritas. Yang tersentuh adalah beban bunga, yakni biaya yang harus dibayar perusahaan atas pinjaman, karena kupon 8,875 persen untuk utang dolar ini tergolong cukup tinggi dan akan membebani laporan laba rugi grup Medco setiap tahun hingga 2032. Jaminan perusahaan dari induk dan belasan anak usaha juga berarti tanggung jawab bersama menanggung utang itu jika penerbitnya gagal bayar, sehingga menambah risiko di luar neraca yang perlu diperhatikan investor. Yang perlu dipantau selanjutnya adalah laporan keuangan Medco pada kuartal mendatang untuk melihat seberapa besar kenaikan beban bunga akibat surat utang baru ini, serta apakah dana hasil penerbitan dipakai untuk melunasi utang lama atau membiayai proyek baru, sesuatu yang belum dijelaskan dalam laporan ini.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Pelaporan Transaksi Afiliasi sehubungan dengan Pemberian Jaminan Perusahaan (Corporate Guarantee) oleh PT Medco Energi Internasional Tbk dan beberapa perusahaan terkendalinya atas Penerbitan Surat Uta"
+ },
+ {
+  "slug": "smsm-tanggapan-lanjutan-ke-bei-piutang-rp652-71-m-tertagih-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Tanggapan Lanjutan ke BEI: [Piutang] Rp652,71 M Tertagih Oktober",
+  "deck": "SMSM menyampaikan tanggapan tambahan ke BEI soal laporan keuangan kuartal III 2026, mengungkapkan Rp652,71 miliar atau 49,2 persen piutang usaha tertagih sepanjang Oktober.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T19:37:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbdeed05ad_cbb280d8c2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "Selamat Sempurna",
+   "piutang usaha",
+   "BEI"
+  ],
+  "body": [
+   "Selamat Sempurna Tbk (SMSM) menyampaikan surat tanggapan tambahan kepada Bursa Efek Indonesia dan OJK pada 18 November 2026, sebagai lanjutan dari surat pertama bertanggal 13 November 2026 yang menjawab permintaan penjelasan bursa atas laporan keuangan per 30 September 2026. Surat ini ditandatangani Wakil Direktur Utama SMSM, Ang Andri Pribadi. Sebagian besar pertanyaan bursa, yaitu soal status likuidasi dua anak usaha PT Cahaya Mitra Gemilang dan PT Cahaya Sejahtera Riau, penyebab penurunan kas Rp136,86 miliar, perubahan komposisi dana dari deposito ke kas dolar AS, alasan menaruh dana di bank berperingkat idCCC, kecukupan kas untuk modal kerja dan dividen, serta sebab kenaikan piutang usaha yang melampaui pertumbuhan penjualan, dinyatakan sudah dijawab di surat sebelumnya dan tidak diulang lagi di sini.",
+   "Informasi baru yang muncul dalam surat ini adalah realisasi penagihan piutang usaha setelah tutup buku kuartal III. Perseroan melaporkan bahwa dari total piutang usaha neto Rp1.326,73 miliar per 30 September 2026, sebanyak Rp652,71 miliar atau sekitar 49,20 persen sudah tertagih sepanjang Oktober 2026. Rinciannya, Rp562,16 miliar berasal dari piutang pelanggan domestik dan Rp90,55 miliar dari pelanggan luar negeri, dengan nilai mata uang asing dikonversi menggunakan kurs akhir September 2026.",
+   "Untuk permintaan rincian pelanggan atas piutang yang sudah lewat jatuh tempo lebih dari 180 hari senilai Rp94,86 miliar, SMSM menolak membuka identitas pelanggan secara terbuka dan menyatakan akan menyampaikannya secara rahasia melalui Form E074 kepada bursa. Soal metodologi perhitungan cadangan kerugian piutang, Perseroan menjelaskan memakai pendekatan yang disederhanakan dengan mengakui potensi kerugian sepanjang umur piutang sejak awal, dengan mempertimbangkan data historis, kondisi terkini, dan proyeksi ekonomi ke depan, serta dinilai baik secara individual maupun kelompok."
+  ],
+  "fotoAdegan": "Workers checking automotive filter parts on an industrial assembly line, overhead lighting, Indonesian factory floor.",
+  "takeaway": "Laporan ini condong netral bagi emiten: inti dari permintaan bursa, soal kas yang menyusut dan bank berperingkat rendah, sudah dijawab di surat sebelumnya dan tidak dibuka ulang, sementara satu data baru yang disetor di sini, yakni penagihan hampir separuh piutang usaha dalam sebulan, justru sedikit melegakan karena menunjukkan piutang itu cukup lancar cair menjadi uang tunai. Pos yang tersentuh di sini adalah piutang usaha dan arus kas dari pelanggan: piutang adalah uang yang sudah ditagihkan ke pembeli tapi belum dibayar, jadi kecepatan piutang berubah jadi kas tunai penting untuk menilai apakah penjualan yang dicatat benar-benar akan jadi uang, bukan cuma angka di atas kertas. Yang perlu dipantau berikutnya adalah apakah bursa menerima tanggapan tambahan ini sebagai sudah lengkap atau masih meminta klarifikasi susulan, serta kelanjutan proses likuidasi dua anak usaha SMSM yang sejauh ini belum diberi kepastian waktu penyelesaiannya.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Tanggapan Tambahan atas Permintaan Penjelasan Terkait Laporan Keuangan per 30 September 2026 PT Selamat Sempurna Tbk (Perseroan)."
+ },
+ {
+  "slug": "pkpu-ades-sidang-perdana-digelar-klaim-rp3-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADES: [Sidang Perdana] Digelar, Klaim Rp3,6 Miliar",
+  "deck": "ADES menjalani sidang perdana PKPU di Pengadilan Niaga Jakarta Pusat, Rabu (18/11), atas klaim Rp3,6 miliar dari kontraktor PT Megaland Infra Perkasa yang masih disengketakan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T19:28:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75c7123f8d_6e00779c7f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADES",
+  "tags": [
+   "ADES",
+   "PKPU",
+   "sengketa hukum",
+   "kontraktor"
+  ],
+  "body": [
+   "PT Akasha Wira International Tbk (ADES) menjalani sidang perdana perkara Penundaan Kewajiban Pembayaran Utang (PKPU) di Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat, Rabu, 18 November 2026, pukul 10.00 WIB. Perkara bernomor 340/Pdt.Sus-PKPU/2026/PN.Jkt.Pst ini diajukan oleh PT Megaland Infra Perkasa, kontraktor yang menagih pembayaran sebesar Rp3.631.948.975,22 atas pekerjaan konstruksi pabrik ADES di Cibinong, Jawa Barat. ADES baru menerima relaas panggilan sidang pada Senin, 16 November 2026.",
+   "Berdasarkan kronologi yang disampaikan manajemen, kerja sama kedua pihak dimulai dari penawaran harga pada Juni 2025, dan Megaland mengerjakan konstruksi sejak Mei 2025 hingga Maret 2026 dengan pembayaran termin yang menurut ADES sudah dibayarkan bertahap sesuai progres. Pada April-Mei 2026, ADES menghentikan sementara pekerjaan untuk audit mutu dan menemukan ketidaksesuaian spesifikasi serta perbedaan hitungan tagihan akhir. Megaland lantas mengirim surat somasi pada September 2026 sebelum akhirnya mendaftarkan permohonan PKPU pada November 2026. Sengketa yang sama juga berjalan di jalur perdata lewat perkara bernomor 928/Pdt.G/2026/PN.Jak.Sel di Pengadilan Negeri Jakarta Selatan, dengan sidang pertama dijadwalkan 26 November 2026.",
+   "Manajemen ADES menyebut klaim Rp3,6 miliar itu masih berupa tagihan sepihak dari Megaland yang belum disepakati dan masih dalam evaluasi internal. Perseroan menyatakan permohonan PKPU ini tidak berdampak material pada operasional, keuangan, maupun kelangsungan usaha, serta memastikan produksi dan distribusi tetap berjalan normal. ADES telah menunjuk kuasa hukum untuk mengikuti proses persidangan dan mengaku tetap membuka ruang negosiasi damai dengan Megaland."
+  ],
+  "fotoAdegan": "A paused industrial construction site with scaffolding, stacked rebar, and an idle crane beside an unfinished factory building, overcast sky.",
+  "takeaway": "Laporan ini kami nilai netral bagi ADES: proses PKPU memang bisa berujung serius kalau pengadilan sampai memutuskan status pailit, tapi nilai klaim yang disengketakan di sini kecil dibanding skala keuangan ADES dan statusnya masih tagihan sepihak dari kontraktor, belum diakui perusahaan. PKPU sendiri adalah jalur hukum yang dipakai kreditur untuk memaksa debitur merundingkan ulang cara membayar utang di bawah pengawasan pengadilan, dan kalau proses damai gagal, pengadilan bisa menjatuhkan status pailit yang jauh lebih berat. Pos yang perlu dicermati investor adalah arus kas dan kewajiban jangka pendek ADES, karena di situlah kemampuan perusahaan menyelesaikan tagihan semacam ini sebenarnya diuji, bukan pada nilai nominal klaim yang relatif kecil. Yang perlu dipantau selanjutnya adalah hasil sidang perdana PKPU pada 18 November 2026 dan sidang pertama gugatan perdata terkait di Pengadilan Negeri Jakarta Selatan pada 26 November 2026, karena dua jalur hukum ini yang akan menentukan apakah sengketa berakhir damai atau berlanjut ke proses yang lebih berat.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan informasi terkait Perkara Penundaan Kewajiban Pembayaran Utang",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Sidang perdana PKPU ADES di Pengadilan Niaga Jakarta Pusat"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Sidang pertama gugatan perdata terkait di PN Jakarta Selatan"
+   }
+  ]
+ },
+ {
+  "slug": "mknt-jelaskan-ke-bei-private-placement-tambah-1-02-triliun-saham",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Jelaskan ke BEI: [Private Placement] Tambah 1,02 Triliun Saham",
+  "deck": "MKNT merinci ke BEI: konversi utang dan setoran tunai menambah 1,02 triliun saham baru, menyusutkan porsi pemegang saham lama hingga sekitar 0,5 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T19:07:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c481da928_aba2a1cb4a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MKNT",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "dilusi saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Remitra Global International Tbk, emiten dengan kode saham MKNT yang sebelumnya bernama PT Mitra Komunikasi Nusantara Tbk, menyampaikan tanggapan lanjutan kepada Bursa Efek Indonesia pada 18 November 2026 terkait penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) yang dilaksanakan tahun ini. BEI sebelumnya mempertanyakan kejanggalan laporan keuangan per September 2026, yang masih mencatat modal saham lama Rp110 miliar meski saham hasil PMTHMETD sudah didistribusikan sejak 30 September 2026. Perseroan menjelaskan bahwa distribusi saham pada tanggal itu hanya tahap pencatatan di pasar modal, sedangkan peningkatan modal secara hukum baru berlaku 9 Oktober 2026, yakni saat Menteri Hukum menerbitkan surat penerimaan perubahan anggaran dasar. Karena itu, dampak PMTHMETD belum tercermin dalam laporan keuangan September 2026 dan baru dicatat sebagai peristiwa setelah tanggal pelaporan.",
+   "Perseroan merinci bahwa modal saham bertambah Rp1,02 triliun, berasal dari konversi utang sebesar Rp822,93 miliar dan setoran tunai Rp201,56 miliar, yang masing masing dikonversi menjadi saham Seri B dengan harga Rp1 per saham. Utang yang dikonversi terdiri dari utang kepada HBEH sebesar Rp668 miliar dan kepada MCP sebesar Rp154,93 miliar, yang merupakan dana untuk mengambil alih saham PT Citra Baru Steel (CBS) dan PT Radja Udang Malingping (RUM). Nilai pasar wajar CBS menurut penilai KJPP Sih Wiryadi & Rekan per 29 Mei 2026 adalah Rp646,26 miliar, sementara nilai RUM menurut KJPP Syarif, Endang dan Rekan pada tanggal yang sama adalah Rp151,28 miliar. Harga pengambilalihan berbeda 3,37 persen dari nilai CBS dan 3,45 persen dari nilai RUM, yang menurut Perseroan masih dalam batas kewajaran sesuai Pasal 48 POJK Nomor 35/2020.",
+   "Dengan rekonsiliasi itu, jumlah ekuitas Perseroan melonjak dari Rp11,99 miliar sebelum PMTHMETD menjadi Rp1,04 triliun setelahnya, sebelum memperhitungkan biaya emisi. Di sisi lain, jumlah saham beredar melonjak dari 5,5 miliar lembar menjadi sekitar 1,03 triliun lembar, karena PMTHMETD tidak ditawarkan secara proporsional kepada pemegang saham lama. Akibatnya, porsi kepemilikan pemegang saham publik yang ada sebelum transaksi ini tersusut tajam menjadi sekitar 0,5 persen dari total saham beredar. Perseroan menegaskan tidak akan menyajikan kembali laporan keuangan September 2026, dan dampak penuh transaksi, termasuk biaya emisi serta perubahan laba per saham, baru akan tercermin dalam laporan keuangan konsolidasian auditan untuk tahun yang berakhir 31 Desember 2026."
+  ],
+  "fotoAdegan": "Workers stacking steel coils inside a large industrial warehouse, forklift maneuvering under fluorescent lights",
+  "takeaway": "Catatan ini condong negatif bagi pemegang saham publik MKNT, karena meski transaksi mengurangi utang dan mendatangkan kas segar, skala penerbitan saham barunya membuat kepemilikan investor lama tersusut dari seluruhnya menjadi hanya sekitar 0,5 persen, yang berarti kendali perusahaan praktis berpindah ke HBEH dan MCP selaku pihak yang mengonversi utangnya jadi saham. Pos yang tersentuh adalah ekuitas, yakni selisih aset dikurangi utang yang jadi hak pemegang saham, yang melonjak dari sekitar Rp12 miliar menjadi Rp1,04 triliun, tapi kenaikan itu dibarengi lonjakan jumlah saham beredar sekitar 187 kali lipat, yang membuat laba per saham, yaitu laba bersih dibagi jumlah saham beredar, berpotensi tergerus meski labanya sendiri tidak berubah. Investor juga perlu mencermati bahwa harga konversi Rp1 per saham jauh di bawah nilai nominal saham lama yang sekitar Rp20 per saham, sehingga pihak yang mengonversi utangnya mendapat saham jauh lebih murah dibanding basis kepemilikan lama. Yang perlu dipantau berikutnya adalah laporan keuangan konsolidasian auditan untuk tahun yang berakhir 31 Desember 2026, karena di situ baru akan terlihat dampak penuh transaksi ini termasuk biaya emisi dan laba per saham yang sudah disesuaikan.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-31",
+    "acara": "Laporan keuangan tahunan auditan mencerminkan dampak penuh PMTHMETD"
+   }
+  ]
+ },
+ {
   "slug": "pkpu-ades-rp3-6-miliar-perseroan-bentuk-pencadangan-penuh",
   "category": "Aksi Korporasi",
   "title": "PKPU ADES Rp3,6 Miliar: Perseroan Bentuk [Pencadangan] Penuh",

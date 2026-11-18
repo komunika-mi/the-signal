@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",
+  "category": "Aksi Korporasi",
+  "title": "OILS Jelaskan BEI: Anak Usaha IGNP [Afiliasi], Telat Lapor 1 Hari",
+  "deck": "OILS menjelaskan ke BEI bahwa pendirian anak usaha IGNP bersama tiga direksi, yang juga anak Komisaris Utama Sulastri, adalah transaksi afiliasi; pelaporannya telat karena menunggu SK Kemenkumham.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OILS",
+   "transaksi afiliasi",
+   "anak usaha",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/953d0fefe9_4c6d5f2608.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "medc-corporate-guarantee-atas-surat-utang-us-300-juta",
+  "category": "Aksi Korporasi",
+  "title": "MEDC: [Corporate Guarantee] atas Surat Utang US$300 Juta",
+  "deck": "Medco dan tujuh anak usahanya di Indonesia menjamin surat utang senior US$300 juta berbunga 8,875% yang diterbitkan anak usaha di British Virgin Islands, jatuh tempo 2032.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "corporate guarantee",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc9806081a_dc31a3e113.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smsm-tanggapan-lanjutan-ke-bei-piutang-rp652-71-m-tertagih-oktober",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Tanggapan Lanjutan ke BEI: [Piutang] Rp652,71 M Tertagih Oktober",
+  "deck": "SMSM menyampaikan tanggapan tambahan ke BEI soal laporan keuangan kuartal III 2026, mengungkapkan Rp652,71 miliar atau 49,2 persen piutang usaha tertagih sepanjang Oktober.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "Selamat Sempurna",
+   "piutang usaha",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbdeed05ad_cbb280d8c2.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpu-ades-sidang-perdana-digelar-klaim-rp3-6-miliar",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADES: [Sidang Perdana] Digelar, Klaim Rp3,6 Miliar",
+  "deck": "ADES menjalani sidang perdana PKPU di Pengadilan Niaga Jakarta Pusat, Rabu (18/11), atas klaim Rp3,6 miliar dari kontraktor PT Megaland Infra Perkasa yang masih disengketakan.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "PKPU",
+   "sengketa hukum",
+   "kontraktor"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75c7123f8d_6e00779c7f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mknt-jelaskan-ke-bei-private-placement-tambah-1-02-triliun-saham",
+  "category": "Aksi Korporasi",
+  "title": "MKNT Jelaskan ke BEI: [Private Placement] Tambah 1,02 Triliun Saham",
+  "deck": "MKNT merinci ke BEI: konversi utang dan setoran tunai menambah 1,02 triliun saham baru, menyusutkan porsi pemegang saham lama hingga sekitar 0,5 persen.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MKNT",
+   "PMTHMETD",
+   "dilusi saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c481da928_aba2a1cb4a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pkpu-ades-rp3-6-miliar-perseroan-bentuk-pencadangan-penuh",
   "category": "Aksi Korporasi",
   "title": "PKPU ADES Rp3,6 Miliar: Perseroan Bentuk [Pencadangan] Penuh",
@@ -6446,83 +6526,6 @@ var ARTICLES = [
    "Laporan Kepemilikan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-2691-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "doss-klarifikasi-lonjakan-saham-pemegang-utama-tanpa-rencana-jual",
-  "category": "Aksi Korporasi",
-  "title": "DOSS Klarifikasi Lonjakan Saham, Pemegang Utama Tanpa [Rencana] Jual",
-  "deck": "Menjawab permintaan Bursa Efek Indonesia soal volatilitas transaksi, DOSS menyatakan tak mengetahui informasi material dan pemegang saham utama memastikan tak berniat mengubah kepemilikan sahamnya.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOSS",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e441e7c609_8fa9818f56.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "halo-direksi-beli-saham-hak-suara-naik-ke-1-158",
-  "category": "Aksi Korporasi",
-  "title": "HALO: Direksi [Beli] Saham, Hak Suara Naik ke 1,158%",
-  "deck": "Direksi PT Haloni Jane Tbk, Juliana, menambah kepemilikan saham perseroan sebanyak 394.900 lembar lewat tiga transaksi pembelian pada 5-6 November 2026, senilai sekitar Rp18,4 juta.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO",
-   "Haloni Jane",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-6239-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "koka-jadwalkan-rupslb-18-desember-dps-tutup-25-november",
-  "category": "Aksi Korporasi",
-  "title": "KOKA Jadwalkan [RUPSLB] 18 Desember, DPS Tutup 25 November",
-  "deck": "Koka Indonesia akan menggelar RUPSLB pada 18 Desember 2026, dengan pemegang saham yang tercatat hingga 25 November 2026 berhak hadir dan memberi suara.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOKA",
-   "RUPSLB",
-   "pemegang saham",
-   "IDX"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1f2c8bf8c5_adaaefe10f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "suri-direksi-imelda-lin-tambah-saham-jadi-490-000-lembar",
-  "category": "Aksi Korporasi",
-  "title": "SURI: Direksi Imelda Lin [Tambah] Saham, Jadi 490.000 Lembar",
-  "deck": "Direksi PT Maja Agung Latexindo Tbk, Imelda Lin, membeli 290.000 saham SURI dalam tiga transaksi awal November 2026, menggandakan kepemilikannya meski porsinya tetap kecil.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SURI",
-   "Maja Agung Latexindo",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-6963-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "halo-komisaris-beli-250-000-saham-hak-suara-ke-0-08",
-  "category": "Aksi Korporasi",
-  "title": "HALO: [Komisaris] Beli 250.000 Saham, Hak Suara ke 0,08%",
-  "deck": "Dewan Komisaris HALO, Imelda Lin, membeli 250.000 saham perusahaan secara tidak langsung dalam empat transaksi pada 2-4 November 2026, menaikkan hak suaranya ke 0,08 persen.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HALO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-10112026-4641-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

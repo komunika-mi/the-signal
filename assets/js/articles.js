@@ -3,6 +3,284 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pack-bantah-kongsi-bakrie-haji-isam-bidik-saham-weda-bay-nickel",
+  "category": "Aksi Korporasi",
+  "title": "PACK [Bantah] Kongsi Bakrie-Haji Isam Bidik Saham Weda Bay Nickel",
+  "deck": "PACK menegaskan tidak terlibat rencana akuisisi saham Weda Bay Nickel bersama VKTR, Danantara, dan Grup Bakrie, menjawab permintaan klarifikasi BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T16:26:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3d49b46c8d_2b5cb0a41a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "Weda Bay Nickel",
+   "Klarifikasi BEI",
+   "Rights Issue"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) menjawab permintaan penjelasan Bursa Efek Indonesia nomor S-14234/BEI.PP1/11-2026 tertanggal 17 November 2026, terkait pemberitaan Kontan pada 13 November 2026 berjudul 'Kongsi Bakrie (VKTR) dan Haji Isam (PACK) Bidik Saham Weda Bay Milik Eramet'. Dalam surat yang diteken Direktur Donnie Holman Partogi Manurung dan Corporate Secretary Calvin Setiawan pada 18 November 2026, perseroan menyatakan pemberitaan tersebut tidak benar sepanjang menyangkut dirinya. PACK menegaskan tidak pernah dan tidak sedang melakukan penjajakan, pembicaraan, negosiasi, maupun kesepakatan apa pun untuk mengakuisisi saham PT Weda Bay Nickel milik Eramet, baik sendiri maupun bersama pihak lain, dan bukan bagian dari konsorsium dengan PT VKTR Teknologi Mobilitas Tbk, BPI Danantara Indonesia, atau Grup Bakrie. Perseroan juga memastikan belum ada keputusan Direksi, persetujuan Dewan Komisaris, maupun persetujuan Rapat Umum Pemegang Saham terkait rencana tersebut.",
+   "Soal penyebutan 'Haji Isam (PACK)' dalam judul berita, perseroan menjelaskan bahwa hal itu tidak menunjukkan keterlibatan perusahaan. Andi Syamsuddin Arsyad, pemegang saham yang dimaksud dalam pemberitaan, memang tercatat sebagai pemegang saham PACK, tetapi bukan anggota Direksi maupun Dewan Komisaris perusahaan.",
+   "Perseroan menyatakan sampai tanggal surat ini tidak ada informasi atau fakta material terkait pemberitaan yang belum disampaikan ke publik. Aksi korporasi yang sedang berjalan hanya yang sudah diumumkan sebelumnya, yaitu perubahan kegiatan usaha, akuisisi PT Bumanik, akuisisi saham Denway Development Limited, dan penambahan modal lewat hak memesan efek terlebih dahulu (rights issue), sebagaimana keterbukaan informasi 22 Oktober 2026, koreksinya pada 23 Oktober 2026, serta pemberitahuan dan panggilan Rapat Umum Pemegang Saham Luar Biasa tertanggal 6 November 2026. PACK menegaskan tidak satu pun dari rencana tersebut berkaitan dengan PT Weda Bay Nickel."
+  ],
+  "fotoAdegan": "Bulk cargo ship being loaded with reddish nickel ore at a sprawling tropical mining port, cranes and conveyor belts in operation.",
+  "takeaway": "Laporan ini kami nilai netral bagi fundamental PACK, karena isinya membantah rumor akuisisi dan tidak membawa transaksi atau angka baru ke neraca perusahaan. Yang lebih layak dicermati justru bukan rumor Weda Bay Nickel, melainkan rencana penambahan modal lewat hak memesan efek terlebih dahulu yang disebut dalam surat ini: skema ini akan menambah jumlah saham beredar PACK, sehingga laba per saham pemegang lama berisiko tergerus kalau mereka tidak menebus haknya. Dua akuisisi yang sedang dijalankan, PT Bumanik dan saham Denway Development Limited, juga berpotensi mengubah arus kas dan struktur modal perusahaan begitu nilai serta skema pembayarannya diumumkan secara rinci. Yang perlu dipantau selanjutnya adalah hasil Rapat Umum Pemegang Saham Luar Biasa yang panggilannya sudah diedarkan pada 6 November 2026, karena di forum itulah pemegang saham akan memutuskan perubahan kegiatan usaha, akuisisi, dan rights issue tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Pemberitaan Media Massa"
+ },
+ {
+  "slug": "okas-alihkan-60-saham-bormindo-ke-sarida-utama-lunasi-utang",
+  "category": "Aksi Korporasi",
+  "title": "OKAS Alihkan 60% Saham Bormindo ke Sarida Utama, [Lunasi] Utang",
+  "deck": "OKAS menyerahkan 108.000 saham (60%) di PT Bormindo Nusantara kepada PT Sarida Utama untuk melunasi seluruh utangnya, efektif 16 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T16:24:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9ba7f8aa7_5db32de4a2.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OKAS",
+  "tags": [
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "Bormindo Nusantara",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "Ancora Indonesia Resources Tbk (OKAS) mengalihkan seluruh kepemilikannya di PT Bormindo Nusantara kepada PT Sarida Utama. Lewat Akta Penjualan dan Pengalihan Saham No. 10 tanggal 16 November 2026 yang dibuat di hadapan notaris Fatimatu Zahroh, notaris pengganti dari Hana Badrina, OKAS melepas 108.000 saham di Bormindo Nusantara, setara 60 persen dari seluruh saham perusahaan itu, kepada Sarida Utama.",
+   "Transaksi ini dijalankan lewat mekanisme debt-to-asset settlement, yakni penyerahan aset sebagai pengganti pembayaran utang tunai. Saham Bormindo Nusantara yang dialihkan menjadi pelunasan atas seluruh utang OKAS kepada Sarida Utama yang jatuh tempo pada tanggal penyelesaian transaksi tersebut. Akibatnya, Bormindo Nusantara tidak lagi dikonsolidasikan ke dalam laporan keuangan OKAS karena kepemilikan mayoritas sudah berpindah tangan.",
+   "Dalam laporan keterbukaan informasi ke Otoritas Jasa Keuangan, OKAS menyatakan transaksi ini tidak tergolong transaksi material sebagaimana diatur POJK No. 17/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha, karena nilainya di bawah ambang batas yang diatur dalam Pasal 3 regulasi tersebut. Perseroan juga menegaskan transaksi ini tidak mengganggu kelangsungan usahanya dan operasional perusahaan tetap berjalan seperti biasa."
+  ],
+  "fotoAdegan": "Workers in hard hats operating a land drilling rig at an Indonesian oilfield, steel pipes and machinery, dusty daylight.",
+  "takeaway": "Transaksi ini cenderung netral bagi OKAS: utangnya ke Sarida Utama lunas, tapi sebagai gantinya perusahaan kehilangan mayoritas sahamnya di Bormindo Nusantara, dan OKAS sendiri menegaskan nilai transaksinya di bawah ambang batas transaksi material sehingga dampaknya terbatas. Pos yang tersentuh adalah utang dan laporan keuangan konsolidasian, yaitu gabungan pembukuan OKAS dengan anak usahanya. Begitu Bormindo Nusantara keluar dari konsolidasi, aset dan pendapatan perusahaan itu tidak lagi tercatat sebagai bagian dari OKAS, meski di sisi lain utang OKAS ke Sarida Utama juga terhapus dari pembukuan. Yang perlu dipantau adalah laporan keuangan OKAS periode berikutnya, untuk melihat seberapa besar aset dan pendapatan yang hilang akibat keluarnya Bormindo Nusantara dari konsolidasi, karena dokumen ini tidak menyebutkan nilai utang maupun nilai wajar saham yang dipertukarkan.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Informasi atau Fakta Material Lainnya: Pengalihan Kepemilikan Saham PT Ancora Indonesia Resources Tbk (\"Perseroan\") dalam PT Bormindo Nusantara (\"Transaksi\")"
+ },
+ {
+  "slug": "pack-jawab-bei-rights-issue-100-m-saham-dilusi-maks-74-6",
+  "category": "Aksi Korporasi",
+  "title": "PACK Jawab BEI: [Rights Issue] 100 M Saham, Dilusi Maks 74,6%",
+  "deck": "PACK menanggapi permintaan BEI soal rights issue 100 miliar saham dengan dilusi maksimal 74,6%, serta rencana akuisisi dua perusahaan tambang dan pemurnian nikel.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T16:24:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cad6841c34_de3422e2e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "rights issue",
+   "akuisisi nikel",
+   "dilusi saham"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) menjawab surat permintaan penjelasan Bursa Efek Indonesia Nomor S-13698/BEI.PP1/11-2026. Perseroan menyatakan akan menerbitkan 100 miliar saham baru lewat mekanisme rights issue (HMETD) yang akan dimintakan persetujuan dalam RUPSLB. Jumlah itu jauh melampaui modal dasar Perseroan saat ini, yakni 50 miliar saham sesuai laporan keuangan per 30 Juni 2026 yang diaudit KAP Anwar dan Rekan (DFK Internasional). Per 30 September 2026, saham dalam portepel, yaitu jatah saham di modal dasar yang belum diterbitkan, hanya tersisa 15.893.780.469 lembar, sehingga Perseroan juga akan meminta persetujuan pemegang saham untuk menaikkan modal dasar agar jatah saham portepel cukup menampung penerbitan baru tersebut.",
+   "Dana dari rights issue ini berkaitan dengan rencana transaksi material berupa akuisisi 100% saham PT Bukit Makmur Istindo Nikeltama (Bumanik), perusahaan tambang bijih nikel yang berlokasi di Kabupaten Morowali Utara, Sulawesi Tengah, dan 100% saham Denway Development Limited (DDL), perusahaan holding investasi yang didirikan 8 Juni 2010. DDL menaungi sejumlah entitas anak di sektor pengolahan dan pemurnian nikel, antara lain PT Hanking Makmur Nickelsmelt, Harvest Globe Limited, PT Konutara Sejati, dan PT Karyatama Konawe Utara, yang beroperasi di Konawe Utara, Sulawesi Tenggara, dan Hong Kong. Akuisisi akan dilakukan lewat anak usaha Perseroan, PT Daya Unggul Raya (DUR) dan PT Gemilang Padma Raya (GPR). Namun Perseroan menegaskan dana akuisisi Bumanik tidak akan diambil dari hasil rights issue, melainkan dari pembiayaan eksternal yang masih dikaji, yang nantinya disalurkan ke DUR dan GPR sebagai pinjaman antarperusahaan dengan bunga dan jangka waktu yang akan ditentukan sesuai standar pasar.",
+   "PT Eco Energi Perkasa, pemegang saham pengendali Perseroan, akan bertindak sebagai pembeli siaga dalam rights issue ini. Bursa mencatat potensi dilusi bagi pemegang saham yang tidak melaksanakan haknya bisa mencapai sekitar 74,6%. Perseroan menyatakan tidak ada perubahan pengendali karena Eco Energi Perkasa berkomitmen melaksanakan haknya sekaligus menjadi pembeli siaga. Per 30 September 2026, porsi kepemilikan publik (free float) tercatat 41,46%, dan Perseroan menyatakan akan tetap memenuhi ketentuan free float dalam Peraturan BEI Nomor I-A. Perseroan juga menegaskan tidak ada informasi atau fakta material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting haul trucks at an open-pit nickel mine, reddish soil, overcast tropical sky",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham minoritas, karena potensi dilusi hingga 74,6% tergolong besar dan Perseroan sampai harus menaikkan modal dasar dari 50 miliar saham demi menampung penerbitan 100 miliar saham baru. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan dibagi jumlah lembar saham. Kalau jumlah lembar melonjak tajam sementara laba belum tentu ikut naik secepat itu, bagian keuntungan per lembar saham bisa menyusut bagi yang tidak ikut menambah modal. Sisi penahannya, pengendali PT Eco Energi Perkasa berkomitmen menjadi pembeli siaga sehingga kendali perusahaan tidak berpindah tangan, dan dana akuisisi dua perusahaan nikel tersebut rencananya memakai pembiayaan eksternal, bukan dari dana rights issue. Yang perlu dipantau selanjutnya adalah RUPSLB yang akan memutuskan kenaikan modal dasar dan pelaksanaan rights issue ini, karena dokumen ini belum menyebut tanggalnya, serta kejelasan sumber pembiayaan eksternal untuk akuisisi Bumanik yang akan disalurkan sebagai pinjaman ke DUR dan GPR.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "dividen-interim-boba-rp2-per-saham-cair-18-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim BOBA Rp2 per Saham, [Cair] 18 Desember",
+  "deck": "BOBA membagikan dividen interim tunai Rp2 per saham, total Rp2,31 miliar, dengan tanggal pembayaran 18 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T16:03:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab881ce957_ee705a92de.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOBA",
+  "tags": [
+   "BOBA",
+   "dividen interim",
+   "dividen tunai",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Formosa Ingredient Factory Tbk (BOBA) akan membagikan dividen interim tunai untuk tahun buku 2026 sebesar Rp2 per saham, dengan total nilai Rp2.311.500.000. Keputusan ini diambil Direksi yang terdiri dari Yunita Sugiarto EW sebagai Direktur Utama, Dewi Irianty Wijaya sebagai Wakil Direktur Utama, dan Heri sebagai Direktur, setelah mendapat persetujuan Dewan Komisaris yang beranggotakan Paporn Mahattanobol sebagai Komisaris Utama, Hengky Wijaya sebagai Komisaris, dan Sugiarto sebagai Komisaris Independen. Kedua persetujuan diteken pada 16 November 2026.",
+   "Jadwal pembagiannya cukup rapat. Periode cum dividen, saat saham masih membawa hak atas dividen, berakhir 26 November 2026 di pasar reguler dan negosiasi, lalu mulai masuk periode ex dividen pada 27 November 2026. Untuk pasar tunai, batas cum dividen jatuh 30 November 2026 dan ex dividen mulai 1 Desember 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen ditetapkan 30 November 2026 pukul 16.00 WIB, dan dividen akan dibayarkan pada 18 Desember 2026.",
+   "Dividen ini diambil dari kinerja sembilan bulan yang berakhir 30 September 2026, saat BOBA mencatat laba bersih yang diatribusikan ke pemilik perusahaan sebesar Rp17,19 miliar, dengan saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp49,58 miliar dan total ekuitas Rp175,49 miliar. Pembagian dividen interim ini nantinya akan dimintakan pengesahan dalam Rapat Umum Pemegang Saham Tahunan BOBA yang baru akan digelar pada 2027."
+  ],
+  "fotoAdegan": "Workers in hairnets packing translucent tapioca pearls into clear plastic bags on a factory conveyor line",
+  "takeaway": "Laporan ini condong positif bagi BOBA. Total dividen Rp2,31 miliar hanya sekitar 13 persen dari laba bersih sembilan bulan Rp17,19 miliar, jadi perusahaan membagi sebagian kecil keuntungannya ke pemegang saham tanpa menggerus kas atau ekuitas secara berarti dibandingkan total ekuitas Rp175,49 miliar. Yang tersentuh di sini adalah arus kas keluar perusahaan dan saldo laba ditahan, yaitu keuntungan tahun-tahun lalu yang belum dibagikan dan biasa dipakai sebagai cadangan atau modal kerja; pelaku pasar memperhatikan pos ini karena pembagian dividen yang terlalu besar dibanding laba ditahan bisa menandakan perusahaan kehabisan amunisi kas, sementara porsi kecil seperti ini menunjukkan kehati-hatian. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 30 November 2026 untuk memastikan siapa yang berhak, realisasi pembayaran pada 18 Desember 2026, serta pengesahan resminya dalam RUPST yang baru akan digelar pada 2027.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Keputusan Direksi dan persetujuan Komisaris atas dividen interim"
+   },
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Pengumuman dividen interim di Bursa Efek Indonesia"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Recording date dan cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "mmix-pukul-rata-kanan-tambah-200-juta-saham-jadi-8-74",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Pukul Rata Kanan [Tambah] 200 Juta Saham, Jadi 8,74%",
+  "deck": "PT Pukul Rata Kanan menambah 200 juta saham MMIX pada 17 November 2026, menaikkan kepemilikannya dari 4,57% menjadi 8,74%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T16:01:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/283bc948f9_cb8cddfefa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "kepemilikan saham",
+   "Pukul Rata Kanan",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Multi Medika Internasional Tbk (MMIX) melaporkan bahwa pemegang sahamnya, PT Pukul Rata Kanan, menambah kepemilikan sebanyak 200.000.000 lembar saham, setara 4,17 persen dari total saham beredar, melalui transaksi pembelian yang terjadi pada 17 November 2026. Sebelum transaksi ini, Pukul Rata Kanan tercatat memegang 219.549.999 lembar saham MMIX atau 4,57 persen. Dengan penambahan tersebut, total kepemilikannya kini menjadi 419.549.999 lembar saham, atau 8,74 persen dari seluruh saham MMIX yang beredar.",
+   "Laporan ini disampaikan perseroan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia sebagai pemenuhan kewajiban pelaporan kepemilikan saham sesuai POJK Nomor 4 Tahun 2024. Ini merupakan penambahan kedua oleh Pukul Rata Kanan dalam waktu kurang dari sepekan: pada 13 November 2026, entitas yang sama tercatat menambah 11,4 juta saham yang membawa kepemilikannya ke 4,57 persen. Dengan transaksi terbaru, porsinya di MMIX hampir dua kali lipat dalam rentang waktu singkat tersebut.",
+   "Laporan ditandatangani oleh Direktur Keuangan MMIX, Eveline N. Susanto, yang menyatakan transaksi ini tidak menimbulkan dampak merugikan terhadap operasional harian perseroan dan telah sesuai dengan ketentuan pasar modal yang berlaku."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of medical laboratory equipment onto shelves, forklift nearby, bright fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi fundamental MMIX, karena transaksi jual beli saham antar pemegang saham seperti ini tidak mengalirkan dana baru ke kas perusahaan dan tidak mengubah jumlah saham beredar, laba per saham, ekuitas, maupun arus kas perseroan secara langsung. Yang berubah hanya struktur kepemilikan dan hak suara: porsi Pukul Rata Kanan di MMIX naik dari 4,57% menjadi 8,74%, hampir dua kali lipat dibanding posisi lima hari sebelumnya, sehingga pelaku pasar biasa mencermati apakah ini tanda akumulasi menuju posisi pemegang saham yang lebih besar. Yang perlu dipantau berikutnya adalah apakah Pukul Rata Kanan akan terus menambah porsinya, sebab jika kepemilikannya menembus ambang tertentu, aturan pasar modal mewajibkan keterbukaan tambahan atau bahkan penawaran tender kepada pemegang saham publik. Dokumen ini sendiri tidak menyebut rencana lanjutan, RUPSLB, atau tanggal spesifik terkait langkah berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Laporan Keterbukaan Informasi Terkait Perubahan Struktur Kepemilikan Saham dan Transaksi Pembelian Saham"
+ },
+ {
+  "slug": "dividen-interim-ipcc-rp38-975-per-saham-cair-18-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim IPCC Rp38,975 per Saham, [Cair] 18 Desember",
+  "deck": "IPCC membagikan dividen interim tahun buku 2026 senilai Rp70,87 miliar atau Rp38,975 per saham, dibayar 18 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T15:51:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1fc4a0dd7f_0b5d172aa9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IPCC",
+  "tags": [
+   "IPCC",
+   "dividen interim",
+   "Indonesia Kendaraan Terminal",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Indonesia Kendaraan Terminal Tbk (IPCC) akan membagikan dividen tunai interim untuk tahun buku 2026 senilai total Rp70.871.461.356,40, atau setara Rp38,975 per saham. Keputusan ini diambil Direksi dan telah disetujui Dewan Komisaris pada 16 November 2026, menyusul surat usulan Direksi tertanggal 9 November 2026.",
+   "Jadwalnya, saham IPCC masuk periode cum dividen di pasar reguler dan negosiasi pada 26 November 2026, lalu berubah menjadi ex dividen pada 27 November 2026. Di pasar tunai, cum dividen jatuh pada 30 November 2026 dan ex dividen pada 1 Desember 2026. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham atau di rekening efek KSEI pada penutupan perdagangan 30 November 2026 pukul 16.00 WIB berhak menerima dividen ini, yang akan dibayarkan paling lambat 18 Desember 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba bersih yang diatribusikan ke entitas induk sebesar Rp50,52 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp434,81 miliar, dan total ekuitas Rp1,38 triliun. Soal pajak, dividen ini dikecualikan dari objek pajak bagi pemegang saham badan dalam negeri, dan bagi pemegang saham perorangan dalam negeri asalkan dividen diinvestasikan kembali di Indonesia. Pemegang saham asing yang ingin memakai tarif pajak berdasarkan perjanjian penghindaran pajak berganda wajib menyerahkan dokumen DGT/SKD ke KSEI atau biro administrasi efek, kalau tidak dividen akan dipotong PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Rows of new cars parked at a seaport vehicle terminal, cargo ship docked in the background, workers in safety vests, overcast morning light",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham: IPCC tetap membagikan dividen interim Rp70,87 miliar meski jumlah itu melebihi laba bersih sembilan bulan 2026 yang hanya Rp50,52 miliar, artinya sebagian dibayar dari cadangan laba ditahan tahun-tahun sebelumnya, pertanda kas dan cadangan perusahaan masih cukup untuk memberi imbal hasil tunai ke pemegang saham. Pos yang tersentuh adalah ekuitas dan laba ditahan, yakni dana milik pemegang saham yang tertahan di perusahaan: setelah dividen ini dibayarkan, saldo laba ditahan yang bisa dipakai bebas akan menyusut dari Rp434,81 miliar menjadi sekitar Rp363,94 miliar, dan total ekuitas berkurang sekitar 5 persen dari Rp1,38 triliun. Pelaku pasar memperhatikan pos ini karena ekuitas yang menyusut berarti bantalan modal perusahaan menipis, meski porsi penyusutan di sini masih tergolong kecil. Yang perlu dipantau berikutnya adalah batas recording date pada 30 November 2026 pukul 16.00 WIB yang menentukan siapa berhak atas dividen ini, serta tanggal pembayaran paling lambat 18 Desember 2026 sebagai bukti realisasinya.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Recording date dan cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "dooh-klarifikasi-kasus-manipulasi-waran-bukan-pihak-terkait",
+  "category": "Aksi Korporasi",
+  "title": "DOOH Klarifikasi Kasus Manipulasi Waran: [Bukan Pihak Terkait]",
+  "deck": "PT Era Media Sejahtera Tbk (DOOH), kini bernama Nexora Energy Infrastructure, menegaskan bukan pihak dalam kasus dugaan manipulasi perdagangan Waran Seri I (DOOH-W) yang diusut OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T15:49:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dfb985d0ec_babc92ed66.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DOOH",
+  "tags": [
+   "DOOH",
+   "OJK",
+   "manipulasi pasar",
+   "waran"
+  ],
+  "body": [
+   "PT Era Media Sejahtera Tbk, emiten dengan kode saham DOOH yang kini telah berganti nama menjadi PT Nexora Energy Infrastructure Tbk, mengoreksi dan menegaskan ulang klarifikasinya atas pemberitaan CNBC Indonesia serta unggahan akun Instagram @tumbuhkaya.id pada 17 November 2026 yang mengaitkan pengendali perseroan dengan dugaan manipulasi perdagangan Waran Seri I perseroan (DOOH-W). Dalam surat kepada pemegang saham dan masyarakat, Direktur Utama Vicktor Aritonang menegaskan bahwa perseroan maupun jajaran direksi, komisaris, pemegang saham pengendali, dan pemilik manfaat akhirnya tidak disebut sebagai tersangka atau pihak dalam perkara tersebut.",
+   "Klarifikasi ini merujuk pada Siaran Pers OJK Nomor SP 225/DKPU/OJK/XI/2026 tanggal 16 November 2026, yang menyebutkan Penyidik Departemen Penyidikan Sektor Jasa Keuangan OJK menahan tiga tersangka berinisial JF alias O, FS, dan S, yang semuanya karyawan swasta, serta menyebut satu tersangka lain berinisial TGB alias T yang bekerja di sebuah perusahaan sekuritas. Perkara ini berkaitan dengan transaksi pada 29 Mei 2023 atas lima efek sekaligus, yaitu Waran Seri I PT Chemstar Indonesia Tbk (CHEM-W), Waran Seri I DOOH-W, serta tiga waran terstruktur ADRODRCM3A, BUKADRCV3A, dan INCODRCX3A. Modus yang diduga dilakukan para tersangka adalah membeli identitas orang lain untuk membuka dan mengelola rekening efek, serta mendanai transaksi lewat rekening bank milik pihak lain.",
+   "Perseroan menilai judul pemberitaan CNBC Indonesia serta unggahan Instagram yang mencantumkan kode saham '$DOOH' dan logo perseroan berdampingan dengan logo OJK dan ilustrasi palu hakim berpotensi menimbulkan kesan keliru bahwa perseroan ikut terlibat atau diperiksa dalam perkara tersebut, padahal kedua pihak itu tidak meminta konfirmasi kepada perseroan sebelum terbit. Perseroan telah mengirim surat kepada redaksi CNBC Indonesia dan pengelola akun @tumbuhkaya.id untuk meminta pencabutan atau koreksi pemberitaan, termasuk pemuatan hak jawab, dan menyatakan berhak menempuh langkah hukum atas penyebaran informasi yang dinilai tidak benar atau menyesatkan. Perseroan menegaskan perkara ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya, dan kegiatan usaha tetap berjalan normal."
+  ],
+  "fotoAdegan": "A judge's gavel resting beside stacked legal case files on a wooden desk under soft office lighting, shallow focus",
+  "takeaway": "Klarifikasi ini netral bagi fundamental DOOH karena tidak ada satu pun angka keuangan yang berubah, perseroan sekadar membersihkan namanya dari pemberitaan yang mengaitkannya dengan kasus pidana pasar modal yang sebenarnya menyasar pihak lain. Tidak ada pos ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham yang tersentuh dari laporan ini, karena yang dipertaruhkan justru kepercayaan pasar terhadap nama dan waran perseroan, bukan kinerja keuangannya. Pelaku pasar tetap perlu mencatat bahwa DOOH-W pernah menjadi salah satu dari lima efek yang diduga dipakai dalam modus manipulasi pada 2023, meski perseroan selaku penerbit disebutkan OJK hanya untuk mengidentifikasi efeknya, bukan sebagai pihak yang diperiksa. Yang perlu dipantau selanjutnya adalah tindak lanjut proses hukum OJK terhadap para tersangka serta respons CNBC Indonesia dan akun Instagram @tumbuhkaya.id atas permintaan pencabutan dan hak jawab dari perseroan, sebab jika permintaan itu tidak dipenuhi, perseroan menyatakan akan menempuh langkah hukum lebih lanjut.",
+  "sentimen": "netral",
+  "judulIdx": "Klarifikasi atas Pemberitaan Media Massa dan Media Sosial terkait Dugaan Manipulasi Perdagangan Waran Seri I PT Era Media Sejahtera Tbk (DOOH-W) (KOREKSI)"
+ },
+ {
+  "slug": "flmc-defisiensi-modal-rp2-59-miliar-rupslb-pmthmetd-28-desember",
+  "category": "Aksi Korporasi",
+  "title": "FLMC Defisiensi Modal Rp2,59 Miliar: [RUPSLB] PMTHMETD 28 Desember",
+  "deck": "FLMC mengaku defisiensi modal Rp2,59 miliar dan rasio lancar 0,31 kali per Juni 2026, berencana terbitkan saham baru tanpa HMETD hingga 10% dan gelar RUPSLB 28 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T15:31:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c64a5b4291_bcec2af2c6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "going concern",
+   "PMTHMETD",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) menjelaskan kepada Bursa Efek Indonesia bahwa per 30 Juni 2026 perseroan mencatat defisiensi modal sebesar Rp2,59 miliar, defisit akumulasi kerugian Rp90,68 miliar, dan rasio lancar hanya 0,31 kali, yang berarti aset lancar perusahaan jauh di bawah utang yang harus dibayar dalam waktu dekat. Auditor independen menyatakan ada keraguan substansial atas kelangsungan usaha perseroan. Untuk menambah likuiditas, manajemen berencana menggelar Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yaitu menerbitkan saham baru sebanyak-banyaknya 10 persen dari modal yang sudah ditempatkan tanpa menawarkannya dulu kepada pemegang saham lama. Agenda RUPSLB untuk rencana itu sudah disampaikan ke Otoritas Jasa Keuangan dengan indikasi jadwal pelaksanaan 28 Desember 2026, dan perseroan menyebut ada calon investor yang bersedia menyerap seluruh porsi 10 persen tersebut, meski bentuk dan jadwal pasti dukungan dana dari pemegang saham lama sendiri belum ditentukan.",
+   "Di sisi operasional, kapasitas produksi perseroan masih jauh dari terpakai. Untuk lini wet wipes, kapasitas terpasang 15,83 juta unit per semester hanya terealisasi 4,49 juta unit pada semester pertama 2026, naik tipis dari 4,05 juta unit pada periode yang sama tahun sebelumnya. Lini dry wipes berkapasitas 187.668 unit per semester terealisasi 34.619 unit, sementara lini kain nonwoven berkapasitas 576.000 unit sama sekali tidak berproduksi pada kedua periode tersebut. Perjanjian kerja sama distribusi dengan PT Indomarco Prismatama yang berakhir 31 Desember 2025 juga belum diperpanjang, meski transaksi penjualan tetap berjalan lewat pesanan per transaksi. Perseroan juga membebankan sekaligus biaya relokasi pabrik dari Padalarang ke Boyolali sebesar Rp9,66 miliar dan biaya pembangunan sendiri Rp3,16 miliar yang sebelumnya dicatat sebagai aset dan diamortisasi delapan tahun, sehingga ikut memperbesar rugi kotor semester pertama 2026 menjadi Rp11,46 miliar.",
+   "Perseroan juga mengungkap penjualan mesin kepada Irvan Hanafi, pihak berelasi yang sebelumnya menjadi pemegang saham, seharga Rp500 juta termasuk PPN, jauh di bawah nilai buku mesin itu sebesar Rp1,64 miliar, dengan alasan mesin tersebut sudah tidak digunakan dan tanpa melibatkan penilai independen. Beban umum dan administrasi semester pertama 2026 memuat denda dan sanksi OJK senilai Rp7 miliar, yaitu tujuh sanksi administratif masing-masing Rp1 miliar atas keterlambatan penyampaian laporan keuangan tahun buku 2021-2023, dan perseroan menyatakan belum punya rencana kapan akan melunasinya. Utang kepada Handoyo Guntoro sebesar Rp9,80 miliar yang jatuh tempo 30 Juni 2026 juga belum dilunasi, meski perseroan menyebut tidak dalam kondisi wanprestasi karena perjanjian itu tidak membebankan bunga maupun jaminan. Perseroan bahkan mengakui belum menyampaikan keterbukaan informasi sesuai POJK Nomor 31/POJK.04/2015 terkait utang itu sejak ekuitasnya turun."
+  ],
+  "fotoAdegan": "Idle nonwoven fabric production machines in a quiet factory hall, a worker inspecting a conveyor line under dim industrial lighting",
+  "takeaway": "Laporan ini negatif bagi pemegang saham FLMC, karena menegaskan keraguan going concern, defisiensi modal, dan sejumlah utang jatuh tempo yang belum dilunasi, sementara jalan keluarnya baru sebatas rencana tanpa kepastian dana. Pos yang paling tersentuh adalah ekuitas, karena modal perusahaan sudah negatif Rp2,59 miliar dan rugi berjalan mengikis saldo laba lebih dalam, serta jumlah saham beredar, karena rencana PMTHMETD bisa menambah saham baru hingga 10 persen tanpa memberi pemegang saham lama hak membeli lebih dulu sehingga porsi kepemilikan mereka berpotensi mengecil. Arus kas operasional juga perlu dicermati karena perusahaan belum punya rencana pasti membayar denda OJK Rp7 miliar maupun utang Rp9,8 miliar kepada kreditur perseorangan yang sudah lewat jatuh tempo. Yang perlu dipantau berikutnya adalah RUPSLB bertanggal indikatif 28 Desember 2026 untuk menyetujui penerbitan saham baru itu, serta apakah investor yang disebut berminat menyerap saham benar-benar terealisasi.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-28",
+    "acara": "Indikasi RUPSLB persetujuan rencana PMTHMETD 10%"
+   }
+  ]
+ },
+ {
   "slug": "kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor",
   "category": "Bisnis",
   "title": "KPPU Ungkap 78 dari 82 Kasus Merger [Terlambat] Lapor",
@@ -29,6 +307,56 @@ var ARTICLES = [
   "kreditFoto": "Komisi Pengawas Persaingan Usaha",
   "takeaway": "Angka yang mencolok dari paparan ini adalah 78 dari 82 perkara merger yang disidangkan KPPU sejak tahun 2000 ternyata soal keterlambatan lapor, bukan soal substansi persaingan usahanya. Artinya aturan ambang notifikasi, yakni transaksi dengan aset gabungan di atas Rp2,5 triliun atau penjualan di atas Rp5 triliun, sudah lama berlaku tapi masih banyak dilanggar meski dendanya bisa sampai Rp25 miliar. Yang terdampak langsung adalah direksi dan tim hukum perusahaan yang punya rencana merger atau akuisisi besar, karena KPPU mendorong mereka memeriksa risiko persaingan sejak awal, bukan menunggu transaksi selesai. Pola ini mengarah ke pendekatan KPPU yang lebih menekankan pencegahan lewat konsultasi sukarela dan pemantauan komitmen jangka panjang, seperti pengawasan atas akuisisi Tokopedia oleh TikTok yang baru akan selesai Juni 2027, ketimbang hanya mengandalkan denda setelah pelanggaran terjadi. Yang akan menunjukkan apakah pendekatan ini membuahkan hasil adalah apakah angka keterlambatan notifikasi pada data KPPU tahun berikutnya mulai turun.",
   "imageV": "mwltlcnj"
+ },
+ {
+  "slug": "dividen-interim-mlbi-rp228-per-saham-cair-15-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim MLBI Rp228 per Saham, [Cair] 15 Desember 2026",
+  "deck": "MLBI akan membagikan dividen interim tunai Rp228 per saham, total Rp480,396 miliar, dengan pembayaran pada 15 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T14:41:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1169a08ea7_4fd6d94c9b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MLBI",
+  "tags": [
+   "MLBI",
+   "dividen interim",
+   "Multi Bintang Indonesia",
+   "dividen tunai"
+  ],
+  "body": [
+   "Direksi Multi Bintang Indonesia Tbk (MLBI) melalui keputusan sirkuler tertanggal 16 November 2026, yang telah disetujui Dewan Komisaris pada tanggal yang sama, menetapkan pembagian dividen interim tunai untuk tahun buku 2026 sebesar Rp228 per saham. Total dividen yang akan dibagikan mencapai Rp480.396.000.000, diambil dari laba bersih periode sembilan bulan yang berakhir 30 September 2026 sebesar Rp897.960.000.000. Dividen ini dibagikan kepada pemegang seluruh 2.107.000.000 saham perseroan yang namanya tercatat dalam Daftar Pemegang Saham pada 30 November 2026 pukul 16.00 WIB.",
+   "Jadwalnya berjenjang di dua jenis pasar. Di Pasar Reguler dan Pasar Negosiasi, cum dividen berlaku 26 November 2026 dan ex dividen 27 November 2026, artinya pembeli saham sejak 27 November tidak lagi berhak atas dividen ini. Di Pasar Tunai, cum dividen jatuh 30 November 2026 dan ex dividen 1 Desember 2026. Pembayaran dividen dijadwalkan pada 15 Desember 2026, selambat-lambatnya sepuluh hari kerja setelah recording date.",
+   "Perseroan menyertakan data keuangan per 30 September 2026 sebagai dasar pembagian: saldo laba ditahan yang tidak dibatasi penggunaannya sebesar Rp1.432.929.000.000 dan total ekuitas Rp1.474.189.000.000. Pembayaran untuk pemegang saham yang sahamnya tercatat di Kustodian Sentral Efek Indonesia (KSEI) dilakukan melalui pemegang rekening di KSEI, sementara pemegang saham di luar penitipan kolektif KSEI menerima dana lewat transfer bank setelah menyampaikan data rekening ke Biro Administrasi Efek, PT Raya Saham Registra."
+  ],
+  "fotoAdegan": "Stainless steel brewing tanks and a bottling conveyor line inside an Indonesian beverage factory, workers in uniform nearby",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham karena perseroan membagikan kas tunai Rp480,396 miliar, sekitar 53 persen dari laba bersih sembilan bulan pertama tahun ini, yang menunjukkan kinerja operasional masih mampu menopang pembayaran tunai ke investor. Pos yang tersentuh adalah ekuitas dan arus kas perusahaan: dividen ini dibayar dari kas dan akan memotong saldo laba ditahan, sehingga total ekuitas yang sebelum pembagian tercatat Rp1,474 triliun akan menyusut sebesar nilai dividen begitu dana benar-benar keluar, karena hampir seluruh ekuitas MLBI berasal dari laba ditahan yang tidak dibatasi penggunaannya. Pelaku pasar memperhatikan pos ini karena penyusutan ekuitas memengaruhi rasio keuangan seperti nilai buku per saham. Yang perlu dipantau berikutnya adalah recording date pada 30 November 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran pada 15 Desember 2026 saat dana harus benar-benar cair ke rekening pemegang saham.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Cum dividen di Pasar Reguler dan Negosiasi"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ex dividen di Pasar Reguler dan Negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum dividen di Pasar Tunai dan recording date pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen di Pasar Tunai"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
  },
  {
   "slug": "investor-eropa-diminta-susun-rencana-aksi-90-hari-proyek-energi",
@@ -85,6 +413,33 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan cuma angka bunga, tapi arah prioritas Bank Indonesia. Inflasi dalam negeri justru sedang melandai, tapi BI tetap menaikkan bunga acuan karena alasannya ada di luar negeri, yaitu rupiah yang melemah dan dolar yang terus menguat akibat prospek bunga Amerika Serikat yang masih tinggi. Di sisi lain, BI sengaja tidak mengetatkan kredit, insentif likuiditas ke bank malah ditambah supaya pinjaman ke dunia usaha tetap mengalir, jadi dampaknya lebih terasa bagi nasabah dengan bunga kredit mengambang dan pelaku usaha yang butuh dolar untuk impor atau bayar utang luar negeri, bukan bagi usaha kecil yang mengandalkan kredit program pemerintah. Pola ini menunjukkan BI memilih menahan kurs lebih dulu sambil tetap membuka keran kredit, ketimbang mengetatkan ekonomi secara menyeluruh. Yang akan menentukan apakah langkah ini cukup adalah pergerakan rupiah dalam beberapa minggu mendatang serta keputusan Rapat Dewan Gubernur berikutnya, sebab rupiah masih melemah 0,66 persen meski insentif lindung nilai sudah berjalan sejak Juni.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "mtsm-akui-salah-unggah-calk-revisi-laporan-keuangan-juni-2026",
+  "category": "Aksi Korporasi",
+  "title": "MTSM Akui Salah Unggah CALK, [Revisi] Laporan Keuangan Juni 2026",
+  "deck": "Metro Realty menjelaskan ke Bursa bahwa kesalahan unggah PDF membuat catatan laporan keuangan per Juni 2026 keliru, sembilan pos keuangan direvisi, dan suspensi saham masih berlanjut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T14:39:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e056a29b00_3ab0273d29.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTSM",
+  "tags": [
+   "MTSM",
+   "suspensi saham",
+   "laporan keuangan",
+   "free float"
+  ],
+  "body": [
+   "Metro Realty Tbk (MTSM), melalui sekretaris perusahaan Yuanita Fajarwati, mengirim surat No. 424/MR-DIR/CORSEC/XI/2026 tertanggal 17 November 2026 kepada Bursa Efek Indonesia. Surat ini menjawab permintaan penjelasan lanjutan dari BEI bernomor S-14027/BEI.PP3/11-2026 tertanggal 11 November 2026, yang baru diterima perseroan pada 13 November 2026. Dalam surat yang ditandatangani Direktur Utama Rose Merry Maruli, perseroan menjelaskan bahwa catatan atas laporan keuangan (CALK) yang diunggah untuk laporan keuangan per 30 Juni 2026 keliru karena berkas PDF yang diunggah belum direvisi, dan perseroan menyebut sedang berkoordinasi dengan petugas OJK untuk merevisi laporan tersebut.",
+   "Akibat kesalahan unggah itu, sembilan pos dalam posisi keuangan per akhir 2025 ikut direvisi sebagai angka pembanding. Kas dan setara kas dikoreksi dari Rp10,99 miliar menjadi Rp6,05 miliar, piutang usaha dari Rp2,47 miliar menjadi Rp924,37 juta, persediaan dari Rp10,07 miliar menjadi Rp7,1 miliar, dan utang lain-lain dari Rp6,6 miliar menjadi Rp2,72 miliar. Pendapatan diterima di muka turun dari Rp6,78 miliar menjadi Rp4,52 miliar, dan uang jaminan pelanggan dari Rp5,03 miliar menjadi Rp2,73 miliar, sementara utang pajak, biaya masih harus dibayar, dan piutang lain-lain juga dikoreksi meski dengan selisih yang lebih kecil.",
+   "Perseroan juga mengungkap piutang kepada pihak berelasi, PT Perkasa Makmur Amara, senilai Rp440,43 juta yang tidak berubah sejak 2024 dan berbunga 10 persen per tahun, serta utang kepada pihak yang sama yang digunakan untuk mendukung operasional perseroan, meski nilai persisnya di dokumen hasil pemindaian kurang terbaca jelas. Berdasarkan Akta No. 8 tanggal 12 Juni 2026, susunan direksi berubah karena pengunduran diri Sukardi, sementara susunan dewan komisaris masih belum ditentukan. Jumlah karyawan tercatat 68 orang per Juni 2026, terdiri dari 39 karyawan tetap dan 29 karyawan tidak tetap. Perseroan menyatakan masih mengupayakan pemenuhan ketentuan free float dan pencabutan status suspensi saham, yang menurut mereka terganjal kondisi keuangan dan nilai rupiah yang tidak stabil sehingga investor kurang tertarik."
+  ],
+  "fotoAdegan": "Exterior of an aging multi-story shopping building in a dense Jakarta commercial district, pedestrians passing by, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi Metro Realty, karena perusahaan mengakui salah unggah berkas catatan laporan keuangan, sebagian besar pertanyaan bursa lainnya masih dijawab 'belum memiliki data', dan sahamnya tetap disuspensi karena belum memenuhi syarat free float. Yang tersentuh adalah akun-akun inti neraca seperti kas dan setara kas, piutang usaha, persediaan, serta utang dan pendapatan diterima di muka, yang menentukan seberapa likuid dan sehat posisi keuangan perusahaan di mata investor, sementara koreksi pada beban pokok pendapatan ikut memengaruhi laba yang akhirnya tercermin pada laba per saham. Piutang dan utang kepada pihak berelasi PT Perkasa Makmur Amara yang nilainya tidak berubah sejak 2024 juga menandakan belum ada kemajuan penyelesaian. Yang perlu dipantau selanjutnya adalah hasil koordinasi dengan OJK untuk merevisi resmi laporan keuangan per 30 Juni 2026, serta kelanjutan upaya perseroan memenuhi ketentuan free float agar suspensi sahamnya bisa dicabut.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
  },
  {
   "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
@@ -22769,8 +23124,8 @@ var ARTICLES = [
  {
   "slug": "wika-disuspensi-bursa-usai-gagal-bayar-kupon-obligasi",
   "category": "Aksi Korporasi",
-  "title": "WIKA [Disuspensi] Bursa Usai Gagal Bayar Kupon Obligasi",
-  "deck": "Bursa Efek Indonesia melanjutkan penghentian perdagangan saham WIKA di seluruh pasar sejak 3 November 2026 setelah perseroan gagal membayar bunga obligasi dan bagi hasil sukuk yang jatuh tempo hari itu.",
+  "title": "WIKA Gagal Bayar Obligasi Lagi, [Suspensi] Berlanjut 18 November",
+  "deck": "BEI melanjutkan suspensi saham WIKA sejak 18 November 2026 setelah perseroan kembali gagal bayar bunga obligasi dan bagi hasil sukuk seri lain, dua pekan setelah default pertama awal November.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "3 November 2026",
   "isoDate": "2026-11-03T15:02:46",
@@ -22780,17 +23135,42 @@ var ARTICLES = [
   "tags": [
    "WIKA",
    "suspensi saham",
-   "obligasi korporasi",
+   "obligasi",
    "gagal bayar"
   ],
   "body": [
-   "Bursa Efek Indonesia (BEI) melanjutkan suspensi perdagangan saham PT Wijaya Karya (Persero) Tbk (WIKA) di seluruh pasar mulai sesi pertama perdagangan, 3 November 2026. Alasan yang dicantumkan bursa adalah tidak dibayarnya kupon bunga. Keputusan ini merujuk pada surat WIKA tertanggal 30 Oktober 2026 dan surat PT Kustodian Sentral Efek Indonesia (KSEI) tertanggal 2 November 2026 yang menyatakan perseroan menunda pembayaran kewajibannya.",
-   "Ada enam pembayaran yang tertunda, semuanya sebenarnya berjadwal cair pada 3 November 2026. Rinciannya adalah bunga ke-16 untuk tiga seri Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022, yaitu Seri A (WIKA03ACN1), Seri B (WIKA03BCN1), dan Seri C (WIKA03CCN1). Selain itu ada bagi hasil Sukuk Mudharabah Berkelanjutan III Wijaya Karya Tahap I Tahun 2022, yakni bagi hasil ke-15 Seri A (SMWIKA03ACN1) serta bagi hasil ke-16 Seri B (SMWIKA03BCN1) dan Seri C (SMWIKA03CCN1).",
-   "Bursa secara tegas menyebut penundaan pembayaran ini mengindikasikan adanya permasalahan pada kelangsungan usaha WIKA. Saham WIKA saat ini tercatat di papan pemantauan khusus, dan suspensi akan berlaku hingga ada pengumuman lanjutan dari bursa. Pengumuman ditandatangani Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A."
+   "Bursa Efek Indonesia (BEI) kembali melanjutkan suspensi perdagangan saham PT Wijaya Karya (Persero) Tbk (WIKA) di seluruh pasar mulai sesi pertama, 18 November 2026, setelah perseroan untuk kedua kalinya gagal membayar kewajiban bunga obligasi dan bagi hasil sukuknya yang jatuh tempo pada tanggal yang sama.",
+   "Kali ini yang tertunda adalah enam pembayaran dari rangkaian surat utang yang berbeda dari yang dilaporkan awal November. Rinciannya adalah bunga ke-19 Obligasi Berkelanjutan II Wijaya Karya Tahap II Tahun 2022 Seri A (WIKA02ACN2), Seri B (WIKA02BCN2), dan Seri C (WIKA02CCN2), serta bagi hasil Sukuk Mudharabah Berkelanjutan II Wijaya Karya Tahap II Tahun 2022, yaitu bagi hasil ke-15 Seri A (SMWIKA02ACN2) dan bagi hasil ke-19 Seri B (SMWIKA02BCN2) serta Seri C (SMWIKA02CCN2).",
+   "BEI merujuk pada surat WIKA tertanggal 30 Oktober 2026 dan surat PT Kustodian Sentral Efek Indonesia (KSEI) nomor KSEI-8453/DIR/1126 tertanggal 17 November 2026 yang menyatakan penundaan pembayaran ini. Bursa kembali menegaskan bahwa penundaan pembayaran semacam ini mengindikasikan adanya permasalahan pada kelangsungan usaha WIKA, dan saham perseroan tetap tercatat di papan pemantauan khusus.",
+   "Masalah ini berawal dari gagal bayar pertama pada 3 November 2026, yaitu bunga ke-16 tiga seri Obligasi Berkelanjutan III Wijaya Karya Tahap I Tahun 2022 dan bagi hasil tiga seri Sukuk Mudharabah Berkelanjutan III Tahap I Tahun 2022, yang saat itu juga membuat BEI menghentikan perdagangan saham WIKA. Sebelumnya, akhir Oktober 2026, pemegang obligasi dan sukuk sudah menolak permintaan WIKA untuk merestrukturisasi syarat pembayaran, termasuk penolakan restrukturisasi sukuk tahap II senilai Rp500 miliar. Suspensi akan berlaku hingga ada pengumuman lanjutan dari bursa, dan pengumuman terbaru ini ditandatangani Kepala Divisi Penilaian Perusahaan 2 Adi Pratomo Aryanto dan Kepala Divisi Pengaturan dan Operasional Perdagangan Pande Made Kusuma Ari A."
   ],
   "fotoAdegan": "Idle construction site at dusk with stationary tower cranes and stacked rebar, quiet unfinished concrete building in Jakarta",
-  "takeaway": "Ini jelas sinyal negatif, bukan sekadar administratif, karena bursa sendiri menyebut penundaan bayar kupon ini mengindikasikan masalah kelangsungan usaha perseroan. Yang tersentuh adalah arus kas, yaitu kemampuan perusahaan membayar kewajiban yang jatuh tempo tepat waktu, dan gagal bayar seperti ini biasanya memicu klausul yang membuat utang lain perusahaan juga bisa ditagih lebih cepat, sehingga bebannya bisa membesar. Ini juga sejalan dengan rangkaian sebelumnya, setelah pada akhir Oktober pemegang obligasi dan sukuk menolak permintaan WIKA untuk mengatur ulang syarat pembayaran, termasuk penolakan restrukturisasi sukuk tahap II senilai Rp500 miliar. Yang perlu dipantau adalah dua hal, pembayaran yang masih tertunda ini bisa dilunasi dalam masa tenggat yang ada di perjanjian wali amanat, dan kapan bursa mengumumkan pencabutan suspensi karena saat ini belum ada tanggal pasti, hanya disebut berlaku hingga pengumuman lebih lanjut.",
-  "sentimen": "negatif"
+  "takeaway": "Ini sinyal negatif yang menguat, bukan sekadar perpanjangan administratif, karena WIKA kini gagal membayar bunga dan bagi hasil untuk seri obligasi dan sukuk yang berbeda dari yang dilaporkan awal November, menunjukkan masalah bayar utangnya menyebar, bukan cuma di satu seri surat utang. Yang tersentuh adalah arus kas, yaitu kemampuan perusahaan menyediakan uang tunai untuk membayar kewajiban yang jatuh tempo tepat waktu, dan gagal bayar berulang seperti ini biasanya memicu klausul yang membuat utang lain ikut bisa ditagih lebih cepat sehingga beban keuangan membesar. Rangkaian ini berawal dari penolakan restrukturisasi akhir Oktober, suspensi pertama 3 November, dan kini diperpanjang lagi karena default kedua pada 18 November. Yang perlu dipantau berikutnya adalah apakah WIKA bisa melunasi enam pembayaran yang tertunda ini dalam masa tenggat yang diatur perjanjian wali amanat, serta kapan BEI mengumumkan pencabutan suspensi, karena sampai dokumen ini terbit belum ada tanggal pastinya.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T16:22:50",
+    "ringkas": "WIKA kembali gagal bayar bunga obligasi dan bagi hasil sukuk seri II Tahap II 2022 yang jatuh tempo 18 November, BEI lanjutkan suspensi saham.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9ea90251e_e01909b00d.pdf",
+    "judulIdx": "Penghentian Sementara Perdagangan Efek PT Wijaya Karya (Persero) Tbk"
+   }
+  ],
+  "diperbarui": "2026-11-18T16:22:50",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-30",
+    "acara": "Surat WIKA soal penundaan bunga obligasi dan bagi hasil sukuk"
+   },
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Surat KSEI soal penundaan pembayaran obligasi dan sukuk seri II Tahap II"
+   },
+   {
+    "tanggal": "2026-11-18",
+    "acara": "BEI melanjutkan suspensi saham WIKA setelah default kedua"
+   }
+  ],
+  "peristiwa": "suspensi"
  },
  {
   "slug": "mtfn-rugi-rp31-8-m-di-2025-marjin-kotor-naik-ke-5-6",
@@ -23266,8 +23646,8 @@ var ARTICLES = [
  {
   "slug": "halo-jadwalkan-rupslb-pada-10-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "HALO Jadwalkan [RUPSLB] pada 10 Desember 2026",
-  "deck": "Haloni Jane Tbk akan menggelar rapat pemegang saham luar biasa 10 Desember 2026, dengan tanggal pencatatan pemegang saham pada 17 November 2026.",
+  "title": "RUPSLB HALO 10 Desember: [Agenda] Ubah Direksi-Komisaris",
+  "deck": "Pemanggilan resmi RUPSLB Haloni Jane (HALO) 10 Desember 2026 mengungkap agenda: pergantian direksi/komisaris dan penyesuaian anggaran dasar ke KBLI 2025.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "3 November 2026",
   "isoDate": "2026-11-03T10:01:06",
@@ -23278,16 +23658,44 @@ var ARTICLES = [
    "HALO",
    "RUPSLB",
    "Haloni Jane",
-   "pasar modal"
+   "Direksi Komisaris"
   ],
   "body": [
-   "PT Haloni Jane Tbk (HALO) menyampaikan kepada Otoritas Jasa Keuangan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar pada Kamis, 10 Desember 2026 pukul 10.00 WIB di Gedung Shamrock, eks Gedung Soman, Lantai 3, Jalan Angkasa 35, Gunung Sahari. Pemberitahuan ini merujuk pada surat sebelumnya bernomor 634/HJ-Tbk/X/2026 dan ditandatangani oleh Direktur Perseroan, Juliana, pada 3 November 2026.",
-   "Perseroan menetapkan 17 November 2026 pukul 16.00 WIB sebagai batas waktu pencatatan nama pemegang saham di Daftar Pemegang Saham. Hanya pemegang saham yang namanya sudah tercatat sampai tanggal dan jam tersebut yang berhak hadir dan memberikan suara dalam rapat. Pemanggilan resmi berisi agenda lengkap rapat baru akan diumumkan melalui situs web PT Kustodian Sentral Efek Indonesia, situs Bursa Efek Indonesia, dan situs resmi Haloni Jane pada Rabu, 18 November 2026.",
-   "Dokumen ini juga mengingatkan hak pemegang saham minoritas. Satu pemegang saham atau lebih yang bersama-sama memegang minimal 1/20 atau 5 persen dari seluruh saham berhak suara dapat mengusulkan mata acara rapat secara tertulis kepada Direksi, paling lambat tujuh hari sebelum tanggal pemanggilan resmi, yaitu sekitar 11 November 2026. Usulan itu harus diajukan dengan itikad baik, mempertimbangkan kepentingan Perseroan, menyertakan alasan dan bahan pendukung, serta tidak melanggar aturan yang berlaku."
+   "PT Haloni Jane Tbk (HALO) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya hanya dijadwalkan tanpa agenda. Pemanggilan bernomor 652/HJ-Tbk/XI/2026 ini akhirnya membuka dua mata acara rapat yang akan digelar Kamis, 10 Desember 2026 pukul 10.00 WIB di Gedung Shamrock, Jalan Angkasa 35, Gunung Sahari Selatan, Jakarta Pusat.",
+   "Agenda pertama adalah persetujuan perubahan susunan anggota Direksi dan/atau Dewan Komisaris Perseroan. Perseroan belum menyebut nama pengganti dalam dokumen ini, hanya menyatakan akan meminta persetujuan pemegang saham sesuai Pasal 11 dan 14 Anggaran Dasar serta Pasal 94 dan 111 Undang-Undang Perseroan Terbatas. Agenda kedua adalah persetujuan perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kegiatan usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, sebuah langkah administratif agar sejalan dengan sistem perizinan berusaha elektronik (OSS).",
+   "Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per Selasa, 17 November 2026 pukul 16.00 WIB berhak hadir dan memberi suara. Rapat dapat diikuti secara elektronik lewat aplikasi eASY.KSEI, kehadiran fisik, atau pemberian kuasa. Bagi yang ingin memberi kuasa tertulis, berkas harus sudah diterima Biro Administrasi Efek, PT Sinartama Gunita, paling lambat Senin, 7 Desember 2026 pukul 16.00 WIB, sementara deklarasi kehadiran atau pemberian suara elektronik melalui eASY.KSEI harus dilakukan paling lambat Rabu, 9 Desember 2026 pukul 12.00 WIB."
   ],
   "fotoAdegan": "Rows of empty conference chairs facing a podium in a quiet corporate meeting hall, soft morning light through tall windows",
-  "takeaway": "Penilaian saya netral, karena dokumen ini baru memberitahukan jadwal dan tata cara rapat, sementara agenda sesungguhnya yang akan diputuskan belum diungkap sama sekali. RUPSLB semacam ini biasanya dipakai emiten untuk memutuskan hal yang bisa menyentuh ekuitas, yaitu modal bersih perusahaan, atau jumlah saham beredar, misalnya lewat penambahan modal atau perubahan susunan pengurus, tapi tanpa agenda yang jelas pasar belum punya dasar untuk menilai dampaknya ke Haloni Jane. Yang perlu dipantau adalah pemanggilan resmi berisi agenda lengkap pada 18 November 2026, serta tenggat pencatatan pemegang saham pada 17 November 2026 bagi yang ingin tetap punya hak suara saat rapat berlangsung pada 10 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Penilaian saya netral, sebab agenda yang akhirnya terbuka ini bersifat tata kelola dan administratif, bukan aksi yang langsung mengubah keuangan atau jumlah saham beredar Haloni Jane. Agenda pertama, pergantian susunan direksi dan/atau komisaris, tetap layak dicermati karena merekalah yang nanti menentukan arah strategi dan keputusan operasional perusahaan, meski dokumen ini belum menyebut nama pengganti. Agenda kedua, penyesuaian Pasal 3 anggaran dasar ke KBLI 2025, murni mengikuti aturan perizinan berusaha baru dan tidak mengubah kegiatan usaha inti perusahaan. Yang perlu dipantau berikutnya adalah hasil pemungutan suara dalam RUPSLB pada 10 Desember 2026, termasuk nama-nama direksi dan komisaris baru jika disetujui, serta batas deklarasi kehadiran elektronik pada 9 Desember 2026 bagi pemegang saham yang ingin tetap memberikan suara.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T15:08:50",
+    "ringkas": "Pemanggilan resmi RUPSLB HALO terbit, agenda ubah direksi/komisaris dan sesuaikan anggaran dasar ke KBLI 2025.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6888677054_9e9ac605ce.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-18T15:08:50",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Batas penyerahan surat kuasa tertulis ke BAE"
+   },
+   {
+    "tanggal": "2026-12-09",
+    "acara": "Batas deklarasi kehadiran dan suara elektronik eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "RUPSLB HALO digelar di Gedung Shamrock, Jakarta Pusat"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "esdm-ubah-aturan-tambang-prioritaskan-pengusaha-daerah",

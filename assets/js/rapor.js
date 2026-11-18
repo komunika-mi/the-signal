@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-18T05:37:03.018+07:00",
+ "diperbarui": "2026-11-19T05:19:56.414+07:00",
  "entri": [
+  {
+   "id": "2026-11-18-3",
+   "edisi": "2026-11-18",
+   "benang": "Dagang dengan Eropa Memasuki Tahap Mengikat",
+   "klaim": "Hubungan dagang dan investasi Indonesia dengan Uni Eropa sudah jelas menuju pengikatan yang lebih formal.",
+   "penanda": "Penandatanganan IEU-CEPA di Brussels pada 21 November",
+   "tenggat": "2026-11-21",
+   "tenggatLabel": "penandatanganan di Brussels pada 21 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-18-2",
+   "edisi": "2026-11-18",
+   "benang": "Tekanan Utang Melebar ke Emiten Lebih Kecil",
+   "klaim": "Tekanan utang bukan lagi soal satu dua emiten besar, melainkan sudah menjalar ke emiten kecil dan menengah lintas sektor.",
+   "penanda": "Hasil RUPSLB ARII pada 20 November serta proses PKPU MSKY dan ADES di Pengadilan Niaga Jakarta Pusat",
+   "tenggat": "2026-11-20",
+   "tenggatLabel": "RUPSLB ARII pada 20 November",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-18-1",
+   "edisi": "2026-11-18",
+   "benang": "Bunga Naik, Rupiah Tetap Tertekan",
+   "klaim": "Kenaikan BI-Rate 25 basis poin ke 6,00 persen belum cukup menahan pelemahan rupiah dalam jangka pendek.",
+   "penanda": "Pergerakan kurs rupiah dalam sepekan setelah kenaikan BI-Rate ini berlaku efektif",
+   "tenggat": null,
+   "tenggatLabel": "sepekan setelah kenaikan BI-Rate berlaku efektif",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-17-3",
    "edisi": "2026-11-17",

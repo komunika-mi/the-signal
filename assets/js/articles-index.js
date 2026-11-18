@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "sima-ifg-tambah-14-2-juta-saham-hak-suara-jadi-8-10",
+  "category": "Aksi Korporasi",
+  "title": "SIMA: IFG [Tambah] 14,2 Juta Saham, Hak Suara Jadi 8,10%",
+  "deck": "PT Asuransi Jiwa IFG menambah 14,2 juta saham SIMA lewat hibah, hak suaranya naik dari 4,88% ke 8,10% pada 7 Agustus 2026.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SIMA",
+   "kepemilikan saham",
+   "PT Asuransi Jiwa IFG",
+   "Jiwasraya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-1784-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mmix-mengky-mangarek-tambah-1-juta-saham-hak-suara-6-02",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Mengky Mangarek [Tambah] 1 Juta Saham, Hak Suara 6,02%",
+  "deck": "Direksi MMIX Mengky Mangarek membeli 1 juta saham pada 23 Oktober 2026, menambah kepemilikannya jadi 289 juta lembar dan hak suara naik dari 6,00% ke 6,02%.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MMIX",
+   "laporan kepemilikan",
+   "direksi",
+   "hak suara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2467-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
   "category": "Aksi Korporasi",
   "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",
@@ -6495,37 +6527,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477448-edukasi-halal-tak-cukup-untuk-orang-dewasa-lppom-mui-sasar-ribuan-pelajar-lewat-kompetisi-berbasis-nasional"
- },
- {
-  "slug": "wmuu-minta-pemegang-saham-fisik-tukar-sks-ke-elektronik-sebelum-2030",
-  "category": "Aksi Korporasi",
-  "title": "WMUU Minta Pemegang Saham Fisik Tukar SKS ke [Elektronik] Sebelum 2030",
-  "deck": "WMUU mengumumkan proses dematerialisasi saham fisik. Pemegang Surat Kolektif Saham diminta menukarkan sertifikat ke Datindo Entrycom sebelum 6 Mei 2030.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WMUU",
-   "dematerialisasi saham",
-   "pemegang saham",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dde1082a54_06eef4bdf2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "goll-resmi-delisting-dari-bei-efektif-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "GOLL Resmi [Delisting] dari BEI, Efektif 10 November 2026",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan saham GOLL mulai 10 November 2026 karena forced delisting dan go private, bagian dari 18 emiten yang didelisting bersamaan.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GOLL",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/583b1aac8d_62c0b5de2e.pdf",
-  "sourceLabel": "IDX"
  }
 ];

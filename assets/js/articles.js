@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "sima-ifg-tambah-14-2-juta-saham-hak-suara-jadi-8-10",
+  "category": "Aksi Korporasi",
+  "title": "SIMA: IFG [Tambah] 14,2 Juta Saham, Hak Suara Jadi 8,10%",
+  "deck": "PT Asuransi Jiwa IFG menambah 14,2 juta saham SIMA lewat hibah, hak suaranya naik dari 4,88% ke 8,10% pada 7 Agustus 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T10:49:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-1784-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SIMA",
+  "tags": [
+   "SIMA",
+   "kepemilikan saham",
+   "PT Asuransi Jiwa IFG",
+   "Jiwasraya"
+  ],
+  "body": [
+   "PT Asuransi Jiwa IFG melaporkan ke Otoritas Jasa Keuangan bahwa kepemilikannya di Siwani Makmur Tbk (SIMA) bertambah dari 21.610.424 lembar saham menjadi 35.846.524 lembar saham, atau naik 14.236.100 lembar. Dengan tambahan itu, hak suara PT Asuransi Jiwa IFG di SIMA naik dari 4,88 persen menjadi 8,10 persen.",
+   "Jenis transaksi yang tercatat dalam laporan adalah hibah, bukan pembelian di pasar, dengan tanggal transaksi 7 Agustus 2026. Pada kolom tujuan transaksi, disebutkan bahwa penambahan saham ini terjadi karena likuidasi reksadana atas hasil pengalihan aset dari PT Asuransi Jiwasraya (Persero). Artinya, saham SIMA yang sebelumnya dipegang lewat reksadana berisi aset peninggalan Jiwasraya kini dipindahkan langsung ke rekening kepemilikan PT Asuransi Jiwa IFG setelah reksadana tersebut dibubarkan.",
+   "Laporan ini disampaikan ke OJK pada 18 November 2026 sebagai kewajiban pelaporan kepemilikan saham sesuai POJK Nomor 4/2024. Dokumen tidak menyebutkan rencana lanjutan PT Asuransi Jiwa IFG terhadap saham SIMA yang kini dipegangnya."
+  ],
+  "fotoAdegan": "Exterior of a modern Jakarta office tower housing financial and insurance firms, motorbikes passing below, midday sun.",
+  "takeaway": "Perubahan kepemilikan ini netral bagi fundamental SIMA, karena sahamnya berasal dari pemindahan aset lama milik Jiwasraya, bukan dana segar yang masuk ke kas perusahaan atau saham baru yang menambah jumlah saham beredar. Yang bergerak di sini adalah hak suara, yaitu ukuran besar pengaruh satu pemegang saham dalam rapat umum pemegang saham, dan kenaikannya dari 4,88 persen menjadi 8,10 persen membuat PT Asuransi Jiwa IFG makin dekat dengan posisi pemegang saham signifikan di SIMA tanpa mengubah jumlah saham beredar maupun laba per saham perusahaan. Yang perlu dipantau berikutnya adalah apakah IFG akan terus menambah kepemilikannya di SIMA, sebab laporan ini tidak menyebutkan rencana lanjutan atau tenggat baru dari pihak pelapor.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "mmix-mengky-mangarek-tambah-1-juta-saham-hak-suara-6-02",
+  "category": "Aksi Korporasi",
+  "title": "MMIX: Mengky Mangarek [Tambah] 1 Juta Saham, Hak Suara 6,02%",
+  "deck": "Direksi MMIX Mengky Mangarek membeli 1 juta saham pada 23 Oktober 2026, menambah kepemilikannya jadi 289 juta lembar dan hak suara naik dari 6,00% ke 6,02%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T10:40:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2467-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MMIX",
+  "tags": [
+   "MMIX",
+   "laporan kepemilikan",
+   "direksi",
+   "hak suara"
+  ],
+  "body": [
+   "Mengky Mangarek, anggota Direksi PT Multi Medika Internasional Tbk (MMIX), melaporkan pembelian 1.000.000 saham perusahaan pada 23 Oktober 2026 dengan harga Rp540 per saham untuk tujuan investasi. Transaksi ini bersifat pembelian tidak langsung dan menambah kepemilikan sahamnya dari 288.000.000 lembar menjadi 289.000.000 lembar.",
+   "Dengan penambahan tersebut, hak suara Mengky Mangarek di MMIX naik dari 6,00% menjadi 6,02%. Jika dibandingkan dengan jumlah saham yang sudah dimilikinya sebelum transaksi, tambahan 1 juta lembar ini hanya setara 0,35 persen, porsi yang kecil dari total kepemilikannya."
+  ],
+  "fotoAdegan": "Rows of medical supply boxes stacked in a warehouse, a worker moving a pallet with a hand truck, fluorescent lighting",
+  "takeaway": "Pembelian ini netral bagi MMIX, karena penambahan 1 juta lembar saham hanya setara 0,35 persen dari kepemilikan Mengky Mangarek sebelumnya, terlalu kecil untuk dibaca sebagai sinyal keyakinan khusus terhadap perusahaan. Yang bergerak di sini adalah hak suara, yaitu porsi kekuatan seorang pemegang saham untuk ikut menentukan keputusan di rapat umum pemegang saham, dan kenaikan dari 6,00% ke 6,02% masih jauh dari level yang mengubah posisinya di MMIX. Dokumen ini tidak menyebut tenggat atau agenda lanjutan, sehingga yang perlu dipantau adalah apakah direksi atau komisaris lain MMIX juga menambah kepemilikan dalam waktu dekat, yang bisa menunjukkan pola akumulasi oleh jajaran internal perusahaan.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
   "category": "Aksi Korporasi",
   "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",

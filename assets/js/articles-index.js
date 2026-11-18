@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "denda-ojk-asli-rp2-7-miliar-lunas-dibayar-sebelum-tenggat",
+  "category": "Aksi Korporasi",
+  "title": "Denda OJK ASLI Rp2,7 Miliar: [Lunas] Dibayar Sebelum Tenggat",
+  "deck": "ASLI membayar lunas denda OJK Rp2,7 miliar atas laporan keuangan yang dinilai tidak andal, plus denda tanggung renteng tiga direksi total Rp645 juta.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASLI",
+   "OJK",
+   "Sanksi Denda",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f1d3f81e4a_edbae83da0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "menn-utang-melonjak-ke-rp19-74-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "MENN: [Utang] Melonjak ke Rp19,74 Miliar di Semester I 2026",
+  "deck": "Laporan keuangan interim MENN mencatat utang usaha baru Rp19,74 miliar untuk membiayai ekspansi bisnis, meski penjualan inti justru turun.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MENN",
+   "laporan keuangan",
+   "utang usaha",
+   "ekspansi bisnis"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261118214800-65819-0/FinancialStatement-2026-II-MENN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa",
   "category": "Industri",
   "title": "KKP Terima Dokumen Awal Proyek Karbon [Biru] Lombok-Jawa",
@@ -21,6 +53,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-teken-pernyataan-bersama-pengembangan-karbon-biru-di-cop31-x2PJ.html",
   "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "rupslb-arii-20-november-pmthmetd-375-juta-saham-diajukan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ARII 20 November: [PMTHMETD] 375 Juta Saham Diajukan",
+  "deck": "ARII akan menerbitkan hingga 375 juta saham baru atau 10 persen dari modal disetor untuk mendanai jalan angkut batu bara anak usahanya, RUPSLB digelar 20 November 2026.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARII",
+   "PMTHMETD",
+   "RUPSLB",
+   "Bank Mandiri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a146b1215a_7e8bd1042e.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",
@@ -6478,57 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110141414-65779-0/FinancialStatement-2026-III-SSMS.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "heli-gelar-rupslb-17-desember-agenda-perlu-suara-independen",
-  "category": "Aksi Korporasi",
-  "title": "HELI Gelar RUPSLB 17 Desember, Agenda Perlu Suara [Independen]",
-  "deck": "PT Jaya Trishindo Tbk (HELI) akan menggelar RUPSLB pada 17 Desember 2026, dengan satu agenda yang membutuhkan persetujuan Pemegang Saham Independen.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HELI",
-   "RUPSLB",
-   "Jaya Trishindo",
-   "pemegang saham independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ef88b7938b_90b04380fd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya",
-  "category": "UMKM",
-  "title": "KKP Salurkan [1,5 Juta] Benih Ikan dan Udang ke Pembudidaya",
-  "deck": "KKP membagikan benih ikan dan udang ke kelompok pembudidaya di 27 lokasi, sebagian dilepas ke alam untuk menambah stok ikan lokal.",
-  "date": "10 November 2026",
-  "image": "assets/img/kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya.jpg",
-  "imageV": "mwaboi7e",
-  "tags": [
-   "KKP",
-   "budidaya perikanan",
-   "benih ikan",
-   "restocking"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-salurkan-benih-ikan-dan-udang-untuk-pembudidaya-dan-restocking-selama-bulan-bakti-kelautan-dan-perikanan-BPDJ.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "300-umkm-jatim-dibekali-standar-mutu-demi-tembus-ekspor",
-  "category": "UMKM",
-  "title": "300 UMKM Jatim Dibekali [Standar] Mutu demi Tembus Ekspor",
-  "deck": "Kemendag melatih sekitar 300 pelaku UMKM di Banyuwangi, Bondowoso, dan Situbondo soal standar mutu agar produknya siap menembus pasar ekspor.",
-  "date": "10 November 2026",
-  "image": "assets/img/300-umkm-jatim-dibekali-standar-mutu-demi-tembus-ekspor.jpg",
-  "imageV": "mwabokdx",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Jawa Timur",
-   "Standardisasi"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-umkm-jawa-timur-tembus-pasar-global-kemendag-perkuat-mutu-dan-standardisasi-produk",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

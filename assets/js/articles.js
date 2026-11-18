@@ -3,6 +3,61 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "denda-ojk-asli-rp2-7-miliar-lunas-dibayar-sebelum-tenggat",
+  "category": "Aksi Korporasi",
+  "title": "Denda OJK ASLI Rp2,7 Miliar: [Lunas] Dibayar Sebelum Tenggat",
+  "deck": "ASLI membayar lunas denda OJK Rp2,7 miliar atas laporan keuangan yang dinilai tidak andal, plus denda tanggung renteng tiga direksi total Rp645 juta.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T22:41:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f1d3f81e4a_edbae83da0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASLI",
+  "tags": [
+   "ASLI",
+   "OJK",
+   "Sanksi Denda",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Asri Karya Lestari Tbk (ASLI) menjelaskan kepada Bursa Efek Indonesia bahwa sanksi administratif berupa denda sebesar Rp2,70 miliar yang diumumkan Otoritas Jasa Keuangan lewat Pengumuman No. PENG-4/PM.2/2026 tanggal 6 November 2026 sudah dilunasi. Denda itu dijatuhkan karena laporan keuangan tengah tahunan 2024, laporan keuangan tahunan 2024, dan laporan keuangan tengah tahunan 2025 perusahaan memuat aset bernilai material yang keandalan nilai dan informasinya tidak bisa dibuktikan berdasarkan dokumen pendukung. Pada kasus yang sama, direksi perusahaan periode tersebut juga dikenai denda tanggung renteng, dan akuntan publik yang menangani laporan keuangan tahunan 2024 turut disanksi.",
+   "Dalam surat tanggapan bernomor 022/ASRI-CRCS/EXTERNAL/XI/2026 yang ditandatangani Corporate Secretary Vayolla Naurah Shyfa, perusahaan merinci status pembayaran. Denda untuk perusahaan sebesar Rp2,70 miliar berdasarkan Surat OJK No. S-2316/PM.221/2026 telah dibayar pada 6 Oktober 2026. Sementara denda tanggung renteng direksi sebesar Rp645 juta berdasarkan Surat OJK No. S-2317/PM.221/2026 tanggal 16 September 2026 dibayar oleh tiga direktur, yaitu Sulistiono, Yudra Saputra, dan Didik Hariyanto, masing-masing Rp215 juta, pada 23 September 2026. Bukti pembayaran berupa surat setoran OJK yang sudah divalidasi bank dilampirkan dalam surat tersebut.",
+   "Perusahaan menyatakan seluruh denda dibayar sebelum batas waktu yang ditetapkan dan berkomitmen menyempurnakan pengungkapan informasi dalam laporan keuangan ke depan."
+  ],
+  "fotoAdegan": "Rows of small shop-office buildings along a busy street in an Indonesian city, signage blurred in the distance, motorbikes passing, midday light",
+  "takeaway": "Catatan ini condong NEGATIF, karena intinya bukan soal dendanya sudah lunas, melainkan fakta bahwa laporan keuangan ASLI selama tiga periode berturut-turut, yakni tengah tahunan 2024, tahunan 2024, dan tengah tahunan 2025, mengandung aset bernilai material yang keandalannya tidak bisa dibuktikan, sampai akuntan publiknya pun ikut disanksi. Yang tersentuh di sini adalah keandalan nilai aset dan karenanya ekuitas yang dilaporkan, sebab angka aset dan ekuitas itulah yang dipakai investor untuk menilai kesehatan keuangan perusahaan, dan kalau nilainya diragukan maka seluruh rasio yang dihitung dari situ ikut tidak bisa dipercaya penuh. Yang perlu dipantau selanjutnya adalah apakah laporan keuangan periode berikutnya benar-benar menunjukkan perbaikan pengungkapan seperti yang dijanjikan perusahaan, karena dokumen ini tidak mencantumkan tanggal atau tenggat baru selain pembayaran denda yang sudah selesai.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "menn-utang-melonjak-ke-rp19-74-miliar-di-semester-i-2026",
+  "category": "Aksi Korporasi",
+  "title": "MENN: [Utang] Melonjak ke Rp19,74 Miliar di Semester I 2026",
+  "deck": "Laporan keuangan interim MENN mencatat utang usaha baru Rp19,74 miliar untuk membiayai ekspansi bisnis, meski penjualan inti justru turun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T21:46:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261118214800-65819-0/FinancialStatement-2026-II-MENN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MENN",
+  "tags": [
+   "MENN",
+   "laporan keuangan",
+   "utang usaha",
+   "ekspansi bisnis"
+  ],
+  "body": [
+   "PT Menn Teknologi Indonesia Tbk (MENN) menyampaikan laporan keuangan interim per 30 Juni 2026 beserta surat penjelasan resmi atas perubahan pos aset dan liabilitas yang melebihi 20 persen dibanding akhir 2025. Total aset konsolidasian tercatat Rp43,62 miliar, naik 80,15 persen dari Rp24,21 miliar per 31 Desember 2025. Kenaikan ini terutama didorong oleh aset tidak berwujud yang melonjak menjadi Rp23,70 miliar dari sebelumnya Rp4,42 miliar, serta kas dan setara kas yang naik menjadi Rp385,79 juta dari Rp52,67 juta.",
+   "Di sisi liabilitas, perubahannya lebih tajam. Total liabilitas naik dari hanya Rp81,99 juta menjadi Rp19,79 miliar, hampir seluruhnya berasal dari utang usaha kepada pihak ketiga sebesar Rp19,74 miliar yang sebelumnya nihil. Perseroan menjelaskan utang baru ini berasal dari penarikan fasilitas pendanaan dan utang usaha untuk membiayai perolehan aset tetap serta modal kerja ekspansi lini bisnis baru. Di sisi lain, utang pajak turun menjadi Rp10,10 juta dari Rp26,70 juta dan beban akrual yang sebelumnya Rp16,35 juta telah dilunasi menjadi nihil.",
+   "Dari sisi kinerja usaha, penjualan bersih semester I 2026 tercatat Rp543,33 juta, turun dari Rp728,12 juta pada periode sama tahun lalu. Namun rugi tahun berjalan menyusut menjadi Rp301,42 juta dari Rp3,79 miliar pada semester I 2025, dengan rugi per saham dasar Rp0,21 dibanding Rp2,63 setahun sebelumnya. Jumlah ekuitas turun tipis menjadi Rp23,83 miliar dari Rp24,13 miliar akibat akumulasi rugi. Surat pernyataan direksi ditandatangani Direktur Utama Cahyadi dan Direktur Rena Hikmawan pada 18 November 2026, dengan status laporan belum diaudit."
+  ],
+  "fotoAdegan": "Technicians connecting cables on server racks inside a small dim data center, blue indicator lights glowing",
+  "takeaway": "Laporan ini condong negatif bagi MENN, karena lonjakan utang usaha dari nihil menjadi Rp19,74 miliar justru dipakai membiayai aset tidak berwujud untuk lini bisnis baru yang belum terbukti mendatangkan pendapatan, sementara penjualan inti malah turun dari Rp728 juta menjadi Rp543 juta. Yang tersentuh di sini adalah liabilitas, yaitu total utang perusahaan yang kini hampir seluruhnya berasal dari pinjaman dagang baru, serta ekuitas yang merupakan selisih antara aset dan utang dan menipis karena rugi yang terus terkumpul; investor memperhatikan ini karena utang besar tanpa kepastian pendapatan baru membuat perusahaan lebih rentan jika bisnis barunya tidak segera membukukan penjualan. Memang rugi bersihnya menyusut tajam dibanding tahun lalu, tapi itu lebih karena basis tahun sebelumnya yang sangat buruk, bukan tanda pemulihan penjualan. Dokumen ini juga menegaskan dan memberi angka pasti atas ekspansi bisnis baru MENN yang sebelumnya sudah dilaporkan sebagai sinyal negatif. Yang perlu dipantau pada laporan kuartal berikutnya adalah apakah utang baru Rp19,74 miliar ini mulai menghasilkan pendapatan dari lini bisnis baru, atau justru hanya menambah beban tanpa hasil.",
+  "sentimen": "negatif",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)"
+ },
+ {
   "slug": "kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa",
   "category": "Industri",
   "title": "KKP Terima Dokumen Awal Proyek Karbon [Biru] Lombok-Jawa",
@@ -29,6 +84,45 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Kelautan dan Perikanan",
   "takeaway": "Yang berubah bukan proyeknya sudah disetujui, melainkan KKP baru menerima dokumen awal usulan dari dua perusahaan untuk proyek pemulihan hutan bakau dan padang lamun di Lombok Timur dan sebagian Jawa, sebagai salah satu syarat sebelum proyek ini bisa dihitung sebagai kredit karbon yang diperjualbelikan. Pihak yang langsung terdampak adalah masyarakat pesisir di dua lokasi itu, karena aturan baru mewajibkan mereka dimintai persetujuan lebih dulu secara sukarela dan diberi penjelasan lengkap sebelum proyek berjalan, disertai rencana pembagian manfaat yang jelas dan jalur pengaduan kalau mereka dirugikan. Pola ini menunjukkan pemerintah sedang membangun proses berjenjang untuk proyek karbon biru, bukan langsung memberi izin dan hak karbon ke perusahaan, melainkan dicek dulu kelengkapan dokumen dan kondisi lapangannya sebelum lanjut ke tahap berikutnya. Yang akan memastikan ke arah mana ini berjalan adalah hasil pemeriksaan lapangan KKP atas dua usulan tersebut, dan apakah izin definitif serta hak karbon akhirnya benar diberikan atau justru tertahan karena dokumen dianggap belum lengkap.",
   "imageV": "mwm75r52"
+ },
+ {
+  "slug": "rupslb-arii-20-november-pmthmetd-375-juta-saham-diajukan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ARII 20 November: [PMTHMETD] 375 Juta Saham Diajukan",
+  "deck": "ARII akan menerbitkan hingga 375 juta saham baru atau 10 persen dari modal disetor untuk mendanai jalan angkut batu bara anak usahanya, RUPSLB digelar 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T20:43:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a146b1215a_7e8bd1042e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARII",
+  "tags": [
+   "ARII",
+   "PMTHMETD",
+   "RUPSLB",
+   "Bank Mandiri"
+  ],
+  "body": [
+   "PT Atlas Resources Tbk (ARII) mengajukan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dengan menerbitkan saham baru sebanyak-banyaknya 375 juta lembar, setara 10 persen dari total saham beredar saat ini yang berjumlah 3,75 miliar lembar. Rencana ini akan dimintakan persetujuan pemegang saham independen dalam RUPSLB pada Jumat, 20 November 2026, bersamaan dengan agenda penambahan plafon kredit dari PT Bank Mandiri (Persero) Tbk dari Rp500 miliar menjadi Rp2 triliun.",
+   "Seluruh dana hasil PMTHMETD akan dipakai mendanai pembangunan jalan angkut batu bara sepanjang sekitar 52 kilometer milik PT Musi Mitra Jaya (MMJ), anak usaha yang 74,40 persen sahamnya dimiliki ARII, di Kabupaten Musi Banyuasin, Sumatera Selatan. Jalan baru itu diklaim bisa memperpendek jarak angkut batu bara sekitar 15 kilometer. Karena penyaluran dana dari ARII ke MMJ tergolong transaksi afiliasi, perusahaan wajib menggunakan penilai independen untuk menilai kewajaran transaksi sebelum dana disalurkan. Harga pelaksanaan saham baru belum ditentukan, tapi aturan Bursa Efek Indonesia mematok batas bawahnya di 90 persen dari rata-rata harga penutupan saham ARII selama 25 hari bursa sebelum permohonan pencatatan saham tambahan, dan tidak boleh di bawah nilai nominal Rp200 per saham. Jika seluruh saham baru terbit, kepemilikan pemegang saham lama akan terdilusi sebanyak-banyaknya 9,09 persen, dengan pengendali ARII, PT Calorie Viva Utama, turun dari 29,08 persen menjadi 26,44 persen, dan Presiden Direktur Abdi Andre dari 12,69 persen menjadi 11,54 persen.",
+   "Dalam skenario ilustratif harga pelaksanaan sebesar nilai nominal Rp200 per saham, dana yang masuk ke kas ARII mencapai Rp75 miliar atau sekitar US$4,5 juta, yang membuat kas perusahaan naik 34,92 persen dari US$12,89 juta menjadi US$17,39 juta, dan ekuitas naik 5,71 persen dari US$78,87 juta menjadi US$83,37 juta. Dengan kenaikan ekuitas itu, rasio utang terhadap ekuitas membaik dari 6,29 kali menjadi 5,95 kali, meski keduanya masih tergolong tinggi. Dalam RUPSLB yang sama, ARII juga meminta persetujuan menjaminkan rekening khusus devisa hasil ekspor (DHE SDA) kepada Bank Mandiri sehubungan dengan penambahan plafon fasilitas kredit dari Rp500 miliar menjadi Rp2 triliun, karena nilai aset yang dijaminkan diperkirakan melebihi 50 persen kekayaan bersih perusahaan sehingga wajib mendapat restu RUPSLB sesuai anggaran dasar. Fasilitas kredit berbunga 0,50 persen per tahun itu berjalan selama 12 bulan sejak 22 April 2026 hingga 21 April 2027, dan dananya dipakai sebagai modal kerja.",
+   "ARII sebelumnya sudah beberapa kali melakukan PMTHMETD: pada 2021 menerbitkan 131 juta saham dengan harga Rp1.100 per saham, pada 2022 sebanyak 300 juta saham dengan harga Rp250 per saham, rencana pada 2023 batal dilaksanakan, dan pada akhir 2025 menerbitkan 319 juta saham dengan harga Rp273 per saham. Laporan keuangan audit tahun buku 2025 juga mencatat opini tanpa modifikasian namun disertai paragraf penekanan soal ketidakpastian material terkait kelangsungan usaha perusahaan."
+  ],
+  "fotoAdegan": "Coal haul trucks moving along a wide red-dirt mining road through green hills in South Sumatra, dusty daylight.",
+  "takeaway": "Laporan ini condong negatif, karena auditor menyertakan catatan ketidakpastian material soal kelangsungan usaha Atlas Resources, dan utang perusahaan sudah 6,29 kali lebih besar dari ekuitasnya, tergolong sangat tinggi untuk emiten tambang batu bara. Dua agenda yang diajukan bersamaan dalam RUPSLB ini sama-sama menyentuh ekuitas, yaitu modal bersih milik pemegang saham setelah dikurangi utang, dan beban bunga perusahaan. Suntikan dana dari penerbitan saham baru menambah ekuitas tapi jumlahnya kecil, paling banyak Rp75 miliar dalam skenario harga terendah, sementara plafon utang baru ke Bank Mandiri yang diajukan bersamaan mencapai Rp1,5 triliun. Jumlah saham beredar juga akan bertambah hingga 9,09 persen, yang berarti laba per saham ke depan terbagi ke lebih banyak lembar saham. Yang perlu dipantau adalah hasil RUPSLB pada 20 November 2026 untuk kedua agenda ini, serta harga pelaksanaan saham baru yang belum ditentukan dan baru akan diumumkan menjelang permohonan pencatatan ke BEI.",
+  "sentimen": "negatif",
+  "peristiwa": "right-issue",
+  "judulIdx": "Penambahan modal tanpa HMETD - Perubahan dan/atau Tambahan Informasi Penambahan Modal Tanpa HMETD",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "RUPSLB ARII memutuskan PMTHMETD dan penjaminan aset ke Bank Mandiri"
+   },
+   {
+    "tanggal": "2027-04-21",
+    "acara": "Jatuh tempo Fasilitas Kredit Bank Mandiri senilai Rp2 triliun"
+   }
+  ]
  },
  {
   "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",

@@ -3,6 +3,40 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mina-jelaskan-ke-bei-dana-rights-issue-baru-10-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "MINA Jelaskan ke BEI: Dana Rights Issue Baru [10%] Terealisasi",
+  "deck": "MINA menjawab permintaan penjelasan BEI: baru Rp16,99 miliar atau 10% dana rights issue Juli 2025 terpakai, sisanya mengendap di deposito dan giro bank.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T00:06:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/890fd201dd_ef0f00d7ca.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MINA",
+  "tags": [
+   "MINA",
+   "rights issue",
+   "HMETD",
+   "Mertasari"
+  ],
+  "body": [
+   "PT Sanurhasta Mitra Tbk (MINA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menjawab surat permintaan penjelasan BEI Nomor S-14167/BEI.PP2/11-2026 tanggal 16 November 2026. Dalam surat bertanggal 18 November 2026 yang ditandatangani Duddy Abdullah selaku Direktur dan Corporate Secretary, perusahaan mengakui bahwa dari seluruh dana hasil Penawaran Umum Terbatas I (rights issue atau HMETD) yang diterima pada Juli 2025, baru 10 persen atau Rp16,99 miliar yang benar-benar terealisasi hingga paruh pertama 2026.",
+   "Rincian dana yang sudah terpakai itu adalah Rp846,1 juta untuk belanja modal berupa perencanaan, desain, dan pengadaan aset proyek, Rp15,15 miliar untuk modal kerja MINA seperti pelunasan utang ke pihak ketiga, gaji karyawan, dan jasa profesional, serta Rp1 miliar untuk modal kerja anak usaha Sanur Hasta Griya (SHG) yang dipakai melunasi utang ke PT Lumbungmas Konstrindo Utama sebesar Rp768,2 juta, bunga pinjaman Rp174,8 juta, dan utang ke pihak bernama Sylvia sebesar Rp60 juta. Dana untuk modal kerja Sanur Hasta Resorts, pengelola The Santai yang dulu bernama Minna Padi Resorts, sama sekali belum dipakai, masih tercatat Rp0.",
+   "Untuk sisa dana, perusahaan berencana mengalokasikan 67,04 persen atau Rp108,45 miliar untuk belanja modal Proyek Mertasari di Sanur, Bali, yang mencakup pembangunan hotel, area komersial, beach club, dan condotel, dengan jadwal indikatif 2026 hingga 2031. Proyek ini masih berada di tahap masterplan dan desain arsitektur bersama LAB Architecture, yang kontraknya berjalan lima tahun sejak 1 September 2026 sampai 1 September 2031, dan belum masuk konstruksi fisik. Sebanyak 30,3 persen atau Rp49,05 miliar disiapkan untuk modal kerja perusahaan dengan sisa belum terpakai Rp33,9 miliar, sementara 2,02 persen atau Rp3,27 miliar untuk modal kerja MPR. Alokasi untuk MPR ini jauh lebih kecil dari rencana awal, yakni sekitar 35 persen dana yang semula akan disalurkan sebagai pinjaman pemegang saham berjangka lima tahun dengan bunga 6 persen per tahun, namun rencana itu dibatalkan setelah RUPSLB 15 Januari 2026 mengubah peruntukan dana.",
+   "Dari sisi penempatan kas, saldo di rekening giro Bank CIMB Niaga turun drastis dari Rp162,23 miliar pada akhir Desember 2025 menjadi Rp6,52 miliar per 30 September 2026, sementara dana yang dipindahkan ke deposito Bank Permata naik menjadi Rp145 miliar, ditempatkan dalam dua tahap yaitu Rp100 miliar pada 30 Juni 2026 dan Rp45 miliar pada 1 Juli 2026. Penempatan ini menghasilkan pendapatan bunga neto Rp4,54 miliar selama sembilan bulan. Di sisi lain, total pendapatan usaha perusahaan untuk periode yang sama justru turun 2,47 persen menjadi Rp7,3 miliar dari Rp7,48 miliar, ditekan oleh penurunan pendapatan kamar, penjualan makanan dan minuman, serta jasa pendukung lainnya. Perusahaan juga mengungkapkan bahwa 3.563 meter persegi atau 8,76 persen dari lahan Proyek Mertasari berstatus lahan sewa dari Pemerintah Provinsi Bali yang masa pakainya sudah berakhir sejak 27 Januari 2025, dan perusahaan masih menunggu proses penilaian ulang untuk perpanjangannya."
+  ],
+  "fotoAdegan": "A coastal plot of undeveloped land in Bali marked with survey stakes and fencing, palm trees swaying, overcast afternoon light.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham MINA, karena setelah 16 bulan sejak dana rights issue cair, baru 10 persen yang benar benar dipakai sementara pendapatan sembilan bulan malah turun 2,47 persen. Yang tersentuh adalah efisiensi arus kas perusahaan, sebab Rp145 miliar dana pemegang saham justru mengendap di deposito dan hanya menghasilkan bunga Rp4,54 miliar, bukan dipakai membangun Proyek Mertasari yang masih di tahap gambar desain, padahal dana menganggur seperti ini biasanya membuat pelaku pasar mempertanyakan seberapa cepat perusahaan bisa mengubah modal jadi pendapatan baru. Rencana awal menyalurkan sekitar 35 persen dana sebagai pinjaman ke anak usaha MPR juga dibatalkan dan diganti alokasi yang jauh lebih kecil, sehingga dukungan ke lini bisnis resor itu ikut mengecil. Yang perlu dipantau berikutnya adalah progres desain LAB Architecture untuk Mertasari yang kontraknya baru berakhir 1 September 2031, serta kejelasan perpanjangan sewa lahan dari Pemerintah Provinsi Bali yang sudah kedaluwarsa sejak 27 Januari 2025 namun belum ada kepastian baru.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2031-09-01",
+    "acara": "Target akhir kontrak LAB Architecture untuk desain Proyek Mertasari"
+   }
+  ]
+ },
+ {
   "slug": "indonesia-jerman-bahas-investasi-ieu-cepa-diincar-2027",
   "category": "Global",
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
@@ -352,6 +386,34 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "antm-direksi-arini-kasmira-tambah-40-000-saham-hak-suara-tetap-0",
+  "category": "Aksi Korporasi",
+  "title": "ANTM: Direksi Arini Kasmira [Tambah] 40.000 Saham, Hak Suara Tetap 0%",
+  "deck": "Direksi ANTM Arini Kasmira membeli 40.000 saham tambahan pada 16 November 2026, kepemilikannya naik jadi 284.000 lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T19:09:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6001-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANTM",
+  "tags": [
+   "ANTM",
+   "Aneka Tambang",
+   "laporan kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direksi PT Aneka Tambang (Persero) Tbk (ANTM), Arini Kasmira, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli 40.000 saham ANTM secara tidak langsung pada 16 November 2026. Harga pembelian tercatat Rp2.720 per saham untuk jenis saham biasa, dengan tujuan transaksi yang disebutkan dalam dokumen adalah pembelian.",
+   "Dengan transaksi ini, kepemilikan saham Arini di ANTM naik dari 244.000 lembar menjadi 284.000 lembar, atau bertambah sekitar 16,4 persen dari jumlah yang ia pegang sebelumnya. Meski begitu, dokumen mencatat hak suaranya di perusahaan tidak berubah, tetap di angka 0,00 persen baik sebelum maupun sesudah pembelian, menandakan porsi saham ini sangat kecil dibanding total saham ANTM yang beredar.",
+   "Laporan ini disampaikan melalui sistem Kustodian Sentral Efek Indonesia sesuai Peraturan OJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan setiap direksi dan komisaris melaporkan transaksi saham perusahaan tempat mereka menjabat."
+  ],
+  "fotoAdegan": "Workers inspecting stacked ore stockpiles at an open-pit nickel mining site under an overcast sky",
+  "takeaway": "Transaksi ini netral bagi fundamental ANTM karena nilainya kecil dan tidak mengubah hak suara direksi di perusahaan. Pembelian saham oleh direksi kadang dibaca pasar sebagai sinyal kepercayaan pribadi, tetapi nilai transaksi ini hanya sekitar Rp108,8 juta, yakni 40.000 lembar dikali Rp2.720, sehingga tidak menambah jumlah saham beredar ANTM maupun mempengaruhi laba per saham perusahaan karena ini jual beli di pasar sekunder, bukan penerbitan saham baru. Pos yang biasanya dipantau pelaku pasar dari laporan semacam ini, yaitu perubahan hak suara dan jumlah saham beredar, sama sekali tidak bergeser di sini. Yang perlu diperhatikan selanjutnya adalah apakah ada laporan serupa dari direksi atau komisaris ANTM lain dalam periode yang sama, karena pola pembelian internal yang terjadi bersamaan biasanya lebih bermakna daripada satu laporan tunggal seperti ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "mknt-jelaskan-ke-bei-private-placement-tambah-1-02-triliun-saham",
   "category": "Aksi Korporasi",
   "title": "MKNT Jelaskan ke BEI: [Private Placement] Tambah 1,02 Triliun Saham",
@@ -468,6 +530,61 @@ var ARTICLES = [
   "diperbarui": "2026-11-18T15:16:00"
  },
  {
+  "slug": "bull-direksi-wong-kevin-tambah-2-juta-saham-hak-suara-3-48",
+  "category": "Aksi Korporasi",
+  "title": "BULL: Direksi Wong Kevin [Tambah] 2 Juta Saham, Hak Suara 3,48%",
+  "deck": "Direktur BULL Wong Kevin membeli 2 juta saham Buana Lintas Lautan pada 16 November 2026, hak suaranya naik tipis menjadi 3,48 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T18:04:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7061-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BULL",
+  "tags": [
+   "BULL",
+   "Buana Lintas Lautan",
+   "laporan kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Direktur PT Buana Lintas Lautan Tbk (BULL), Wong Kevin, melaporkan pembelian 2.000.000 lembar saham biasa perusahaan pada 16 November 2026. Transaksi dilakukan secara tidak langsung melalui mekanisme repurchase agreement dengan harga Rp245 per saham, sehingga nilai transaksinya sekitar Rp490 juta, dengan tujuan investasi.",
+   "Dengan pembelian ini, jumlah saham yang dikuasai Wong Kevin di BULL naik dari 537.337.950 lembar menjadi 539.337.950 lembar. Porsi hak suaranya di perusahaan bertambah dari 3,47 persen menjadi 3,48 persen. Laporan ini disampaikan kepada Otoritas Jasa Keuangan sesuai Peraturan OJK Nomor 4/2024 yang mewajibkan direksi dan komisaris perusahaan terbuka melaporkan setiap perubahan kepemilikan saham."
+  ],
+  "fotoAdegan": "A moored tanker ship at an Indonesian port at sunrise, crew checking mooring ropes on the dock",
+  "takeaway": "Pembelian ini netral bagi BULL karena ukurannya kecil, hanya setara 0,37 persen dari saham yang sudah dimiliki Wong Kevin, sehingga belum bisa dibaca sebagai pernyataan sikap yang kuat dari direksi. Pos yang tersentuh adalah hak suara, yakni persentase kekuatan suara seorang pemegang saham dalam rapat pemegang saham, yang di sini hanya naik dari 3,47 persen menjadi 3,48 persen, jauh dari level yang mengubah kendali atas perusahaan. Yang perlu dipantau selanjutnya adalah apakah Wong Kevin atau direksi dan komisaris BULL lain melaporkan pembelian serupa dalam waktu dekat, karena akumulasi saham yang konsisten oleh orang dalam biasanya baru punya arti kalau jumlahnya membesar dari laporan ke laporan.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "cybr-direksi-tambah-7-6-juta-saham-hak-suara-jadi-0-944",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Tambah] 7,6 Juta Saham, Hak Suara Jadi 0,944%",
+  "deck": "Direksi ITSEC Asia Patrick Rudolf Dannacher membeli 7.600.300 saham CYBR secara tidak langsung sepanjang 4-17 November 2026, menaikkan hak suaranya ke 0,944%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T18:02:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3402-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CYBR",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "laporan kepemilikan",
+   "direksi"
+  ],
+  "body": [
+   "Patrick Rudolf Dannacher, anggota Direksi PT ITSEC Asia Tbk (CYBR) yang berwarga negara asing, melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di emiten keamanan siber itu bertambah dari 119.795.500 lembar menjadi 127.395.800 lembar, naik 7.600.300 lembar. Hak suaranya di perusahaan naik dari 0,888% menjadi 0,944%. Laporan bertanggal 18 November 2026 ini menyebut kenaikan tersebut berasal dari rangkaian pembelian saham secara tidak langsung yang dilakukan sepanjang 4 sampai 17 November 2026.",
+   "Pembelian dilakukan dalam puluhan transaksi harian dengan jumlah yang bervariasi, dari ratusan lembar hingga lebih dari satu juta lembar per transaksi, pada rentang harga Rp324 sampai Rp354 per saham. Seluruh transaksi berstatus pembelian tidak langsung atas saham biasa CYBR, dengan tujuan transaksi yang seluruhnya dicatat sebagai investasi. Transaksi harian terbesar terjadi pada 16 November 2026, ketika Dannacher mencatatkan satu pembelian sebesar 1.165.100 lembar saham pada harga Rp336 per lembar.",
+   "Kenaikan 7,6 juta lembar saham itu setara dengan 6,34% dari jumlah saham yang sebelumnya dimiliki Dannacher, meski porsinya terhadap total saham CYBR yang beredar masih kecil, hanya menambah hak suaranya sekitar 0,056 poin persentase menjadi 0,944%."
+  ],
+  "fotoAdegan": "Technicians in a dim data center checking blinking server racks, cables routed neatly along the floor, cool blue lighting",
+  "takeaway": "Laporan ini condong positif bagi ITSEC Asia, karena yang terjadi adalah penambahan kepemilikan oleh direksi secara konsisten selama dua minggu, bukan pelepasan saham, dan pola semacam ini biasanya dibaca pasar sebagai tanda keyakinan orang dalam terhadap prospek perusahaan. Pos yang tersentuh adalah struktur hak suara pemegang saham, yang naik tipis dari 0,888% menjadi 0,944% seiring tambahan 7,6 juta lembar saham, meski porsinya terhadap total saham CYBR yang beredar masih di bawah 1% sehingga belum mengubah siapa yang mengendalikan perusahaan. Yang perlu dipantau berikutnya adalah apakah pola pembelian serupa masih berlanjut pada laporan kepemilikan periode selanjutnya, karena laporan ini hanya mencakup transaksi sampai 17 November 2026 dan tidak menyebut rencana pembelian lanjutan.",
+  "sentimen": "positif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "foru-dua-anggota-komite-audit-mundur-diganti-dua-nama-baru",
   "category": "Aksi Korporasi",
   "title": "FORU: Dua Anggota Komite Audit Mundur, [Diganti] Dua Nama Baru",
@@ -494,6 +611,44 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "pengurus",
   "judulIdx": "Pengunduran Diri Anggota Komite Audit PT Fortune Indonesia Tbk"
+ },
+ {
+  "slug": "folk-komisaris-sutopo-widodo-tambah-15-8-juta-saham-suara-5-33",
+  "category": "Aksi Korporasi",
+  "title": "FOLK: Sumber Garam Pratama Jual 62.999.372 Saham, Suara 15,65%",
+  "deck": "Sumber Garam Pratama melepas 62.999.372 saham FOLK dalam dua transaksi pada 13 dan 17 November 2026, menurunkan hak suaranya dari 17,19 persen menjadi 15,65 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T17:20:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6564-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FOLK",
+  "tags": [
+   "FOLK",
+   "Laporan Kepemilikan Saham",
+   "Sumber Garam Pratama",
+   "Sutopo Widodo"
+  ],
+  "body": [
+   "Sumber Garam Pratama, pemegang saham PT Multi Garam Utama Tbk (FOLK) yang bukan anggota direksi maupun dewan komisaris, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya melepas 62.999.372 saham FOLK dalam dua transaksi pada 13 dan 17 November 2026. Pelepasan ini mengurangi kepemilikannya dari 703.115.752 lembar menjadi 640.116.380 lembar, sehingga hak suaranya di perusahaan turun dari 17,19 persen menjadi 15,65 persen.",
+   "Transaksi pertama terjadi pada 13 November 2026, yaitu pelepasan 15.829.572 saham dengan harga Rp95 per saham. Transaksi kedua terjadi empat hari berikutnya, 17 November 2026, sebanyak 47.169.800 saham dengan harga Rp106 per saham. Kedua transaksi ini tercatat sebagai kepemilikan tidak langsung, artinya saham dipegang lewat pihak lain bukan atas nama Sumber Garam Pratama sendiri, dengan tujuan transaksi yang ditulis sebagai divestasi, yakni pengurangan kepemilikan yang disengaja.",
+   "Yang menarik, jumlah dan tanggal transaksi pertama ini, 15.829.572 saham pada 13 November 2026 dengan harga Rp95 per saham, sama persis dengan penambahan saham FOLK yang sebelumnya dilaporkan oleh Komisaris Sutopo Widodo. Dalam laporan terpisah, Sutopo mencatat kepemilikannya bertambah dari 202.084.632 lembar menjadi 217.914.204 lembar, yang mengangkat hak suaranya dari 4,94 persen menjadi 5,33 persen.",
+   "Dengan dua laporan ini, gambaran kepemilikan FOLK pada pekan ini menunjukkan dua arah berbeda: satu pemegang saham besar mengurangi porsinya, sementara seorang komisaris menambah kepemilikannya pada tanggal yang sama. Jumlah saham FOLK yang beredar secara keseluruhan tidak berubah, karena kedua transaksi ini adalah jual beli di pasar sekunder antarpemegang saham, bukan penerbitan saham baru oleh perusahaan."
+  ],
+  "fotoAdegan": "Workers raking white salt crystals into mounds at a coastal salt evaporation pond under bright midday sun",
+  "takeaway": "Laporan ini condong negatif bagi persepsi pasar terhadap FOLK, karena Sumber Garam Pratama melepas 62.999.372 saham, setara 8,96 persen dari kepemilikannya sendiri, ukuran yang cukup besar untuk dibaca sebagai sinyal pengurangan keterlibatan, bukan transaksi remah. Pos yang tersentuh adalah struktur hak suara pemegang saham, bukan jumlah saham beredar perusahaan secara keseluruhan, karena hak suara Sumber Garam Pratama turun dari 17,19 persen menjadi 15,65 persen sementara total saham FOLK tidak bertambah atau berkurang. Pelaku pasar memperhatikan pergeseran hak suara pemegang saham besar seperti ini karena bisa mengubah peta kendali dan pengaruh dalam pengambilan keputusan perusahaan, meski Sumber Garam Pratama masih memegang porsi yang cukup besar yaitu 15,65 persen. Penambahan kepemilikan Komisaris Sutopo Widodo pada tanggal yang sama memberi sedikit penyeimbang, meski jumlahnya jauh lebih kecil dibanding pelepasan Sumber Garam Pratama. Yang perlu dipantau berikutnya adalah apakah Sumber Garam Pratama melanjutkan pelepasan sahamnya pada laporan-laporan selanjutnya, dan apakah penambahan kepemilikan Sutopo Widodo juga berlanjut sebagai pola, bukan transaksi satu kali.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T17:07:24",
+    "ringkas": "Sumber Garam Pratama melepas 62.999.372 saham FOLK dalam dua transaksi, menurunkan hak suaranya dari 17,19% menjadi 15,65%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-0188-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-18T17:07:24"
  },
  {
   "slug": "pack-bantah-kongsi-bakrie-haji-isam-bidik-saham-weda-bay-nickel",
@@ -576,6 +731,43 @@ var ARTICLES = [
   "takeaway": "Laporan ini condong negatif bagi pemegang saham minoritas, karena potensi dilusi hingga 74,6% tergolong besar dan Perseroan sampai harus menaikkan modal dasar dari 50 miliar saham demi menampung penerbitan 100 miliar saham baru. Yang tersentuh adalah jumlah saham beredar dan laba per saham, yaitu keuntungan perusahaan dibagi jumlah lembar saham. Kalau jumlah lembar melonjak tajam sementara laba belum tentu ikut naik secepat itu, bagian keuntungan per lembar saham bisa menyusut bagi yang tidak ikut menambah modal. Sisi penahannya, pengendali PT Eco Energi Perkasa berkomitmen menjadi pembeli siaga sehingga kendali perusahaan tidak berpindah tangan, dan dana akuisisi dua perusahaan nikel tersebut rencananya memakai pembiayaan eksternal, bukan dari dana rights issue. Yang perlu dipantau selanjutnya adalah RUPSLB yang akan memutuskan kenaikan modal dasar dan pelaksanaan rights issue ini, karena dokumen ini belum menyebut tanggalnya, serta kejelasan sumber pembiayaan eksternal untuk akuisisi Bumanik yang akan disalurkan sebagai pinjaman ke DUR dan GPR.",
   "sentimen": "negatif",
   "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-tambah-101-600-saham-hak-suara-32-08",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Tambah 1.050.000 Saham, Hak Suara 32,08%",
+  "deck": "Dokumen baru mengungkap Putrasakti Mandiri juga membeli 948.400 saham KDTN pada 17 November 2026 di Rp176-Rp179, melengkapi total pembelian hari itu jadi 1,05 juta saham dan hak suara 32,084%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T16:09:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3083-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KDTN",
+  "tags": [
+   "KDTN",
+   "Putrasakti Mandiri",
+   "Laporan Kepemilikan Saham",
+   "Puri Sentul Permai"
+  ],
+  "body": [
+   "Putrasakti Mandiri, pemegang saham PT Puri Sentul Permai Tbk (KDTN) yang bukan bagian dari jajaran direksi maupun dewan komisaris, melaporkan ke Otoritas Jasa Keuangan pembelian tidak langsung tambahan atas 948.400 saham KDTN pada 17 November 2026, terdiri dari 500.000 saham di harga Rp179 dan 448.400 saham di harga Rp176, keduanya dengan tujuan pembelian. Transaksi ini menaikkan kepemilikannya dari 400.010.000 lembar menjadi 400.958.400 lembar, dengan hak suara naik dari 32,00% menjadi 32,076%.",
+   "Digabung dengan pembelian 101.600 saham di harga Rp179 yang sudah dilaporkan sebelumnya pada hari yang sama, total saham yang dibeli Putrasakti Mandiri pada 17 November 2026 mencapai 1.050.000 lembar. Kepemilikannya kini menjadi 401.060.000 lembar saham KDTN, dengan hak suara 32,084%.",
+   "Laporan ini disampaikan sesuai POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka, yang mewajibkan pemegang saham signifikan mengungkap setiap perubahan kepemilikannya ke bursa."
+  ],
+  "fotoAdegan": "A groundskeeper trimming hedges outside suburban houses with red tiled roofs near green hills, soft morning light",
+  "takeaway": "Laporan ini tetap netral bagi KDTN. Pembelian tambahan 948.400 saham oleh Putrasakti Mandiri, digabung dengan 101.600 saham yang sudah dilaporkan sebelumnya pada hari yang sama, membuat total akumulasi 17 November 2026 sekitar 1,05 juta saham, atau kurang dari 0,3 persen dari kepemilikannya yang sudah di atas 400 juta saham, masih terlalu kecil untuk dibaca sebagai sinyal keyakinan baru atau pergeseran kendali perusahaan. Yang tersentuh hanya hak suara pelapor, kini bergerak total dari 32,00% menjadi 32,084%, sementara jumlah saham beredar KDTN sendiri tidak berubah karena ini transaksi antar pemegang saham di pasar sekunder, bukan penerbitan saham baru, sehingga tidak menggerus laba per saham pemegang saham lain. Dokumen-dokumen ini tidak memuat agenda korporasi seperti RUPS atau tanggal lain yang menentukan kelanjutan peristiwa, sehingga yang perlu dipantau adalah apakah rangkaian pembelian kecil oleh Putrasakti Mandiri ini terus berlanjut di laporan-laporan berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T15:56:01",
+    "ringkas": "Dokumen baru mengungkap Putrasakti Mandiri juga membeli 948.400 saham KDTN pada 17 November, total pembelian hari itu jadi 1,05 juta saham.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-5292-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-18T15:56:01"
  },
  {
   "slug": "dividen-interim-boba-rp2-per-saham-cair-18-desember",

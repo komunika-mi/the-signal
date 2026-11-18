@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mina-jelaskan-ke-bei-dana-rights-issue-baru-10-terealisasi",
+  "category": "Aksi Korporasi",
+  "title": "MINA Jelaskan ke BEI: Dana Rights Issue Baru [10%] Terealisasi",
+  "deck": "MINA menjawab permintaan penjelasan BEI: baru Rp16,99 miliar atau 10% dana rights issue Juli 2025 terpakai, sisanya mengendap di deposito dan giro bank.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MINA",
+   "rights issue",
+   "HMETD",
+   "Mertasari"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/890fd201dd_ef0f00d7ca.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-jerman-bahas-investasi-ieu-cepa-diincar-2027",
   "category": "Global",
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
@@ -202,6 +218,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "antm-direksi-arini-kasmira-tambah-40-000-saham-hak-suara-tetap-0",
+  "category": "Aksi Korporasi",
+  "title": "ANTM: Direksi Arini Kasmira [Tambah] 40.000 Saham, Hak Suara Tetap 0%",
+  "deck": "Direksi ANTM Arini Kasmira membeli 40.000 saham tambahan pada 16 November 2026, kepemilikannya naik jadi 284.000 lembar.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANTM",
+   "Aneka Tambang",
+   "laporan kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6001-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mknt-jelaskan-ke-bei-private-placement-tambah-1-02-triliun-saham",
   "category": "Aksi Korporasi",
   "title": "MKNT Jelaskan ke BEI: [Private Placement] Tambah 1,02 Triliun Saham",
@@ -250,6 +282,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bull-direksi-wong-kevin-tambah-2-juta-saham-hak-suara-3-48",
+  "category": "Aksi Korporasi",
+  "title": "BULL: Direksi Wong Kevin [Tambah] 2 Juta Saham, Hak Suara 3,48%",
+  "deck": "Direktur BULL Wong Kevin membeli 2 juta saham Buana Lintas Lautan pada 16 November 2026, hak suaranya naik tipis menjadi 3,48 persen.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BULL",
+   "Buana Lintas Lautan",
+   "laporan kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7061-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cybr-direksi-tambah-7-6-juta-saham-hak-suara-jadi-0-944",
+  "category": "Aksi Korporasi",
+  "title": "CYBR: Direksi [Tambah] 7,6 Juta Saham, Hak Suara Jadi 0,944%",
+  "deck": "Direksi ITSEC Asia Patrick Rudolf Dannacher membeli 7.600.300 saham CYBR secara tidak langsung sepanjang 4-17 November 2026, menaikkan hak suaranya ke 0,944%.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CYBR",
+   "ITSEC Asia",
+   "laporan kepemilikan",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3402-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "foru-dua-anggota-komite-audit-mundur-diganti-dua-nama-baru",
   "category": "Aksi Korporasi",
   "title": "FORU: Dua Anggota Komite Audit Mundur, [Diganti] Dua Nama Baru",
@@ -263,6 +327,22 @@ var ARTICLES = [
    "Tata Kelola"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e478462e15_7769b888d6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "folk-komisaris-sutopo-widodo-tambah-15-8-juta-saham-suara-5-33",
+  "category": "Aksi Korporasi",
+  "title": "FOLK: Sumber Garam Pratama Jual 62.999.372 Saham, Suara 15,65%",
+  "deck": "Sumber Garam Pratama melepas 62.999.372 saham FOLK dalam dua transaksi pada 13 dan 17 November 2026, menurunkan hak suaranya dari 17,19 persen menjadi 15,65 persen.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FOLK",
+   "Laporan Kepemilikan Saham",
+   "Sumber Garam Pratama",
+   "Sutopo Widodo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6564-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -311,6 +391,22 @@ var ARTICLES = [
    "dilusi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cad6841c34_de3422e2e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kdtn-putrasakti-mandiri-tambah-101-600-saham-hak-suara-32-08",
+  "category": "Aksi Korporasi",
+  "title": "KDTN: Putrasakti Mandiri Tambah 1.050.000 Saham, Hak Suara 32,08%",
+  "deck": "Dokumen baru mengungkap Putrasakti Mandiri juga membeli 948.400 saham KDTN pada 17 November 2026 di Rp176-Rp179, melengkapi total pembelian hari itu jadi 1,05 juta saham dan hak suara 32,084%.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KDTN",
+   "Putrasakti Mandiri",
+   "Laporan Kepemilikan Saham",
+   "Puri Sentul Permai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3083-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6431,102 +6527,6 @@ var ARTICLES = [
    "RUPSLB"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/618465354f_48df098b5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adro-asi-alihkan-48-77-saham-ke-empat-investor",
-  "category": "Aksi Korporasi",
-  "title": "ADRO: ASI Alihkan [48,77%] Saham ke Empat Investor",
-  "deck": "PT Adaro Strategic Investments mengalihkan seluruh 48,77 persen sahamnya di Alamtri Resources ke empat pihak lewat pasar negosiasi BEI, tanpa mengubah pengendalian perusahaan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADRO",
-   "Alamtri Resources",
-   "pengalihan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1ef3bf66ee_d84b5ee50a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aadi-asi-alihkan-41-1-saham-ke-empat-pihak-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "AADI: ASI Alihkan 41,1% Saham ke Empat Pihak [Afiliasi]",
-  "deck": "PT Adaro Strategic Investments mengalihkan seluruh 41,0965% sahamnya di AADI ke empat perusahaan lewat pasar negosiasi BEI, tanpa mengubah pengendalian perseroan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AADI",
-   "Adaro Andalan Indonesia",
-   "pengalihan saham",
-   "pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d65008db0_e32df9f752.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tcpi-entitas-anak-galangan-kapal-modal-disetor-rp25-miliar",
-  "category": "Aksi Korporasi",
-  "title": "TCPI [Entitas Anak] Galangan Kapal, Modal Disetor Rp25 Miliar",
-  "deck": "Transcoal Pacific mendirikan anak usaha galangan kapal dengan modal disetor Rp25 miliar, menguasai 99% saham bersama PT Trans Energi Logistik.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TCPI",
-   "entitas anak",
-   "galangan kapal",
-   "pelayaran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b97b8aa29_a3f0a778f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "skyb-resmi-delisting-dari-bei-gabung-17-emiten-lain",
-  "category": "Aksi Korporasi",
-  "title": "SKYB Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
-  "deck": "Bursa Efek Indonesia resmi mencabut status SKYB sebagai perusahaan tercatat per 10 November 2026 akibat forced delisting dan go private, bersama 17 emiten lain termasuk Sri Rejeki Isman (SRIL).",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SKYB",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aa7966b762_3840ec07e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "psdn-bukukan-laba-rp46-2-miliar-liabilitas-turun-29",
-  "category": "Aksi Korporasi",
-  "title": "PSDN Bukukan Laba Rp46,2 Miliar, [Liabilitas] Turun 29%",
-  "deck": "Laporan kuartal III Prasidha Aneka Niaga menunjukkan laba Rp46,2 miliar setelah penjualan aset di Lampung, sementara total liabilitas turun 29,3 persen menjadi Rp84,2 miliar.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSDN",
-   "Prasidha Aneka Niaga",
-   "Laporan Keuangan",
-   "Liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110150901-65782-0/FinancialStatement-2026-III-PSDN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sugi-resmi-kena-delisting-dari-bei-efektif-10-november",
-  "category": "Aksi Korporasi",
-  "title": "SUGI Resmi Kena [Delisting] dari BEI, Efektif 10 November",
-  "deck": "Bursa Efek Indonesia mencabut status perusahaan tercatat Sugih Energy Tbk (SUGI) mulai 10 November 2026, bersama 17 emiten lain, setelah sahamnya lama disuspensi.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SUGI",
-   "delisting",
-   "BEI",
-   "Sugih Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/564ff5d881_94ede5a14c.pdf",
   "sourceLabel": "IDX"
  }
 ];

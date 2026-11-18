@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
+  "category": "Aksi Korporasi",
+  "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",
+  "deck": "PT Asuransi Jiwa IFG menambah 35,4 juta saham SMRU lewat hibah terkait likuidasi reksadana eks aset Jiwasraya, hak suara naik ke 9,01 persen.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMRU",
+   "kepemilikan saham",
+   "IFG Life",
+   "Jiwasraya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7537-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smbr-asuransi-jiwa-ifg-jual-16-juta-saham-suara-7-93",
+  "category": "Aksi Korporasi",
+  "title": "SMBR: Asuransi Jiwa IFG [Jual] 16 Juta Saham, Suara 7,93%",
+  "deck": "PT Asuransi Jiwa IFG melepas 16 juta saham SMBR seharga Rp282 per saham lewat skema repo, hak suaranya turun dari 8,10% menjadi 7,93%.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "Kepemilikan Saham",
+   "Asuransi Jiwa IFG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-4233-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-teken-ieu-cepa-dengan-uni-eropa-21-november",
   "category": "Global",
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
@@ -545,8 +577,8 @@ var ARTICLES = [
  {
   "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
   "category": "Aksi Korporasi",
-  "title": "IIKP: Asuransi Jiwa IFG [Tambah] 740,5 Juta Saham, Suara ke 9,49%",
-  "deck": "PT Asuransi Jiwa IFG menambah 740,49 juta saham IIKP pada 19 Desember 2025, menaikkan hak suaranya dari 7,29% menjadi 9,49%.",
+  "title": "IIKP: Asuransi Jiwa IFG Tambah 1,37 Miliar Saham, Suara ke 13,60%",
+  "deck": "PT Asuransi Jiwa IFG menambah 1,37 miliar saham IIKP pada 7 Agustus 2026, hak suaranya naik dari 9,51% menjadi 13,60%.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
@@ -643,15 +675,15 @@ var ARTICLES = [
  {
   "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",
   "category": "Aksi Korporasi",
-  "title": "LCGP: Asuransi Jiwa IFG Jual Seluruh Saham, Suara ke 0% [Delisting]",
-  "deck": "PT Asuransi Jiwa IFG melepas seluruh 491,8 juta saham LCGP, setara 8,74% hak suara, menyusul delisting saham dari bursa efektif 10 November 2026.",
+  "title": "LCGP: Asuransi Jiwa IFG [Hibah] 228,4 Juta Saham, Hak Suara 8,74%",
+  "deck": "Kepemilikan Asuransi Jiwa IFG di LCGP sempat naik ke 8,74% pada Agustus 2026 lewat hibah dari likuidasi reksadana eks aset Jiwasraya, sebelum dilepas seluruhnya saat delisting 10 November 2026.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "LCGP",
+   "Asuransi Jiwa IFG",
    "delisting",
-   "kepemilikan saham",
-   "Asuransi Jiwa IFG"
+   "laporan kepemilikan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0349-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -988,15 +1020,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-pgas-19-november-laba-9m-2026-naik-ke-us-293-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PGAS 19 November: [Laba] 9M-2026 Naik ke US$293 Juta",
-  "deck": "PGN menyampaikan materi public expose tahunan 2026, mengungkap laba bersih sembilan bulan pertama 2026 naik ke US$293 juta dan rasio utang terhadap ekuitas turun ke 27 persen.",
+  "title": "Public Expose PGAS 19 November [Diundur]: Jam 10.30-11.30 WIB",
+  "deck": "PGN mengubah jam public expose tahunan dari 10.00 menjadi 10.30-11.30 WIB pada 19 November 2026, agenda dan materi laba 9M-2026 tetap sama.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "PGAS",
+   "public expose",
    "PGN",
-   "Public Expose",
-   "Laporan Keuangan"
+   "jadwal korporasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40b6ce9a78_0050ccf280.pdf",
   "sourceLabel": "IDX"
@@ -6494,38 +6526,6 @@ var ARTICLES = [
    "go private"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/583b1aac8d_62c0b5de2e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-resmi-delisting-saham-duck-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "BEI Resmi [Delisting] Saham DUCK per 10 November 2026",
-  "deck": "Bursa Efek Indonesia mencabut status Perusahaan Tercatat DUCK (Jaya Bersama Indo) efektif 10 November 2026 akibat forced delisting dan go private, bersama 17 emiten lain.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DUCK",
-   "delisting",
-   "go private",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0cd8491276_53b9b851f5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "maba-resmi-delisting-dari-bei-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "MABA Resmi [Delisting] dari BEI per 10 November 2026",
-  "deck": "Bursa mencabut pencatatan saham MABA bersama 17 emiten lain mulai 10 November 2026 akibat forced delisting dan go private.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MABA",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4477de1d3d_5b4ab3c898.pdf",
   "sourceLabel": "IDX"
  }
 ];

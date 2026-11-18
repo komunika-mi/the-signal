@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
+  "category": "Aksi Korporasi",
+  "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",
+  "deck": "PT Asuransi Jiwa IFG menambah 35,4 juta saham SMRU lewat hibah terkait likuidasi reksadana eks aset Jiwasraya, hak suara naik ke 9,01 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T09:37:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7537-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMRU",
+  "tags": [
+   "SMRU",
+   "kepemilikan saham",
+   "IFG Life",
+   "Jiwasraya"
+  ],
+  "body": [
+   "PT Asuransi Jiwa IFG melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikan sahamnya di SMR Utama Tbk (SMRU) bertambah dari 1.090.719.560 unit menjadi 1.126.135.760 unit, atau naik 35.416.200 unit saham. Dengan penambahan itu, hak suara PT Asuransi Jiwa IFG di SMRU naik dari 8,73 persen menjadi 9,01 persen. Laporan ini tercatat dengan nomor LK/18112026/0003/1 dan diterima pada 18 November 2026, dengan status kepemilikan langsung.",
+   "Formulir laporan menyebut jenis transaksinya sebagai Repurchase Agreement, namun keterangan tujuan transaksi menjelaskan bahwa penambahan saham ini sebenarnya berasal dari hibah, akibat likuidasi reksadana atas hasil pengalihan aset dari PT Asuransi Jiwasraya (Persero). Tanggal transaksi yang tercantum dalam dokumen adalah 27 November 2025. Tidak ada harga transaksi yang dicantumkan dalam laporan, sesuai dengan sifatnya sebagai pengalihan aset dan bukan jual beli di pasar saham.",
+   "PT Asuransi Jiwa IFG, yang lebih dikenal sebagai IFG Life, adalah bagian dari holding asuransi milik negara Indonesia Financial Group yang ditugaskan menampung sebagian aset dan polis eks PT Asuransi Jiwasraya (Persero) dalam program restrukturisasi perusahaan asuransi pelat merah itu. Saham SMRU yang kini tercatat di tangan IFG Life kemungkinan merupakan bagian dari portofolio reksadana yang sebelumnya terkait dengan Jiwasraya."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's financial district at dusk, busy street traffic below",
+  "takeaway": "Laporan ini netral bagi fundamental SMRU karena penambahan saham IFG Life bukan jual beli di pasar atau suntikan modal baru ke perusahaan, melainkan pengalihan aset akibat proses restrukturisasi Jiwasraya, sehingga tidak mengubah ekuitas, kas, atau jumlah saham beredar SMRU. Yang berubah hanya hak suara, yaitu persentase pengaruh seorang pemegang saham dalam keputusan rapat umum pemegang saham, yang di sini naik dari 8,73 persen menjadi 9,01 persen, kenaikan kurang dari satu poin persentase sehingga belum mengubah peta kekuatan pemegang saham SMRU secara berarti. Dokumen ini tidak mencantumkan tanggal RUPS atau tenggat lanjutan apa pun, sehingga publik perlu menunggu laporan keterbukaan berikutnya untuk melihat apakah proses pengalihan aset eks Jiwasraya ke IFG Life ini masih berlanjut dan terus menambah kepemilikannya di SMRU.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "smbr-asuransi-jiwa-ifg-jual-16-juta-saham-suara-7-93",
+  "category": "Aksi Korporasi",
+  "title": "SMBR: Asuransi Jiwa IFG [Jual] 16 Juta Saham, Suara 7,93%",
+  "deck": "PT Asuransi Jiwa IFG melepas 16 juta saham SMBR seharga Rp282 per saham lewat skema repo, hak suaranya turun dari 8,10% menjadi 7,93%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T09:18:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-4233-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMBR",
+  "tags": [
+   "SMBR",
+   "Semen Baturaja",
+   "Kepemilikan Saham",
+   "Asuransi Jiwa IFG"
+  ],
+  "body": [
+   "PT Asuransi Jiwa IFG melaporkan ke Otoritas Jasa Keuangan pada 18 November 2026 bahwa mereka telah menjual 16.000.000 saham PT Semen Baturaja (Persero) Tbk (SMBR) pada 18 Juli 2025 dengan harga Rp282 per saham, melalui mekanisme Repurchase Agreement. Transaksi ini mengubah kepemilikan langsung IFG Life di SMBR dari 804.084.300 lembar menjadi 788.084.300 lembar, sementara hak suaranya turun dari 8,10 persen menjadi 7,93 persen.",
+   "Dalam laporan yang sama, perusahaan menyebut tujuan transaksi adalah mengurangi kepemilikan saham dan persentase hak suara agar memenuhi Pasal 2 Ayat 2 Peraturan OJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Dengan kata lain, penjualan ini dilatari kepatuhan pada ambang batas kepemilikan yang wajib dilaporkan, bukan keputusan bisnis atas prospek SMBR.",
+   "Jumlah saham yang dilepas setara sekitar 1,99 persen dari kepemilikan IFG Life sendiri sebelum transaksi, sehingga meski hak suaranya sedikit menyusut, perusahaan asuransi pelat merah ini masih mengantongi hampir 7,93 persen saham SMBR dan tetap tercatat sebagai salah satu pemegang saham signifikan emiten semen tersebut."
+  ],
+  "fotoAdegan": "Workers inspecting cement bags moving along a conveyor belt inside a large industrial cement factory, dusty light",
+  "takeaway": "Laporan ini netral bagi SMBR, karena penjualan 16 juta saham oleh PT Asuransi Jiwa IFG hanya setara 1,99 persen dari kepemilikannya sendiri sebelum transaksi, dan tujuannya menurut dokumen memang untuk mematuhi ambang kepemilikan pada Pasal 2 Ayat 2 POJK Nomor 4 Tahun 2024, bukan sinyal keyakinan atau kekhawatiran terhadap bisnis Semen Baturaja. Yang bergeser di sini cuma susunan pemegang saham dan hak suara pemegang saham besar non-pengendali, dari 8,10 persen menjadi 7,93 persen, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham perusahaan, sehingga tidak ada dampak langsung ke kinerja SMBR. Patut dicatat, transaksi penjualannya sendiri terjadi pada 18 Juli 2025, lebih dari setahun sebelum dilaporkan ke OJK pada 18 November 2026, jarak waktu yang cukup lebar untuk laporan kepemilikan semacam ini. Yang perlu dipantau berikutnya adalah apakah IFG Life melanjutkan pengurangan kepemilikannya di SMBR, terutama di tengah proses merger SMBR dengan BMU yang menurut keterbukaan emiten masih menunggu rasio konversi final dan ditargetkan efektif pada 2027.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "ri-teken-ieu-cepa-dengan-uni-eropa-21-november",
   "category": "Global",
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
@@ -988,8 +1044,8 @@ var ARTICLES = [
  {
   "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
   "category": "Aksi Korporasi",
-  "title": "IIKP: Asuransi Jiwa IFG [Tambah] 740,5 Juta Saham, Suara ke 9,49%",
-  "deck": "PT Asuransi Jiwa IFG menambah 740,49 juta saham IIKP pada 19 Desember 2025, menaikkan hak suaranya dari 7,29% menjadi 9,49%.",
+  "title": "IIKP: Asuransi Jiwa IFG Tambah 1,37 Miliar Saham, Suara ke 13,60%",
+  "deck": "PT Asuransi Jiwa IFG menambah 1,37 miliar saham IIKP pada 7 Agustus 2026, hak suaranya naik dari 9,51% menjadi 13,60%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T15:21:18",
@@ -1003,15 +1059,25 @@ var ARTICLES = [
    "Jiwasraya"
   ],
   "body": [
-   "PT Asuransi Jiwa IFG melaporkan penambahan kepemilikan saham di PT Inti Agri Resources Tbk (IIKP) kepada Otoritas Jasa Keuangan pada 17 November 2026. Jumlah saham yang dipegang perusahaan asuransi ini naik dari 2.449.641.760 lembar menjadi 3.190.136.030 lembar, bertambah 740.494.270 lembar. Dengan penambahan ini, hak suara PT Asuransi Jiwa IFG di IIKP naik dari 7,29 persen menjadi 9,49 persen.",
-   "Transaksi tercatat berlangsung pada 19 Desember 2025 dengan jenis hibah tidak langsung, tanpa keterangan harga per saham, dan status kepemilikannya tidak langsung. Dalam kolom tujuan transaksi, PT Asuransi Jiwa IFG menjelaskan bahwa penambahan jumlah saham ini terjadi karena likuidasi reksadana atas hasil pengalihan aset dari PT Asuransi Jiwasraya (Persero). Dokumen juga menyebut skema repurchase agreement, namun tidak merinci nilai atau jangka waktunya.",
-   "Penambahan 740,49 juta saham ini setara dengan sekitar 30,23 persen dari jumlah saham yang sebelumnya dimiliki PT Asuransi Jiwa IFG di IIKP. Karena sifatnya perpindahan saham dari proses pengalihan aset Jiwasraya, transaksi ini tidak menambah jumlah total saham beredar IIKP, melainkan hanya mengalihkan kepemilikan sebagian saham yang sudah ada ke tangan PT Asuransi Jiwa IFG."
+   "PT Asuransi Jiwa IFG melaporkan penambahan kepemilikan baru di PT Inti Agri Resources Tbk (IIKP) kepada Otoritas Jasa Keuangan pada 18 November 2026. Transaksi yang tercatat berlangsung pada 7 Agustus 2026 ini menambah saham IFG dari 3.195.133.750 lembar menjadi 4.569.099.150 lembar, naik 1.373.965.400 lembar atau sekitar 43 persen dari kepemilikannya sebelumnya. Hak suara IFG di IIKP naik dari 9,51 persen menjadi 13,60 persen.",
+   "Sama seperti laporan-laporan sebelumnya, jenis transaksi ini tercatat sebagai hibah dengan skema repurchase agreement, tanpa keterangan harga per saham, dan kepemilikannya bersifat tidak langsung. Dalam kolom tujuan transaksi, IFG menjelaskan penambahan ini terjadi karena likuidasi reksadana atas hasil pengalihan aset dari PT Asuransi Jiwasraya (Persero), persis dengan alasan yang sama pada laporan sebelumnya.",
+   "Laporan sebelumnya yang terbit 17 November 2026 mencatat transaksi pada 19 Desember 2025, saat IFG menambah 740.494.270 lembar saham IIKP dan menaikkan hak suaranya dari 7,29 persen menjadi 9,49 persen. Dengan laporan teranyar ini, hak suara IFG di IIKP sudah naik hampir dua kali lipat dari posisi awal rangkaian pelaporan ini.",
+   "Karena transaksi ini berasal dari pengalihan saham yang sudah ada akibat restrukturisasi aset Jiwasraya, bukan penerbitan saham baru, jumlah total saham beredar IIKP tidak berubah. Artinya laba per saham milik pemegang saham lain tidak ikut terdilusi oleh transaksi ini, yang bergeser hanyalah konsentrasi hak suara ke tangan IFG."
   ],
   "fotoAdegan": "Workers harvesting oil palm fruit bunches on a plantation under an overcast tropical sky in Indonesia",
-  "takeaway": "Laporan ini netral bagi kinerja IIKP, karena kenaikan kepemilikan ini murni perpindahan saham akibat restrukturisasi aset Jiwasraya, bukan transaksi pasar yang mencerminkan pandangan investor terhadap prospek perusahaan. Jumlah saham beredar IIKP sendiri tidak berubah sehingga laba per saham tidak terdilusi oleh transaksi ini, yang bergeser hanya konsentrasi hak suara, yang kini membuat PT Asuransi Jiwa IFG memegang hampir satu dari sepuluh hak suara di rapat pemegang saham IIKP. Dokumen ini tidak menyebutkan tenggat atau agenda lanjutan seperti RUPS, sehingga yang perlu dicermati investor adalah apakah kenaikan kepemilikan dari proses pengalihan aset Jiwasraya ini masih akan berlanjut di laporan-laporan berikutnya.",
+  "takeaway": "Laporan ini tetap netral bagi kinerja IIKP, karena penambahan kepemilikan ini berasal dari pengalihan saham lewat skema hibah dan repurchase agreement akibat restrukturisasi aset Jiwasraya, bukan transaksi pasar yang mencerminkan pandangan investor terhadap prospek perusahaan. Yang tersentuh hanya hak suara, yakni porsi suara yang dipegang IFG dalam rapat pemegang saham, sementara jumlah saham beredar IIKP tidak berubah sehingga laba per saham pemegang lain tidak ikut terdilusi. Perlu dicatat, dalam waktu kurang dari setahun hak suara IFG di IIKP sudah naik dari 7,29 persen menjadi 13,60 persen lewat tiga transaksi hibah berturut-turut, pola yang patut dicermati meski belum mendekati ambang batas pengendalian. Dokumen ini tidak menyebutkan tenggat atau agenda lanjutan seperti RUPS, sehingga yang perlu dipantau berikutnya adalah apakah seri penambahan kepemilikan dari proses pengalihan aset Jiwasraya ini masih akan berlanjut di laporan-laporan mendatang.",
   "sentimen": "netral",
   "peristiwa": "kepemilikan",
-  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T09:45:48",
+    "ringkas": "PT Asuransi Jiwa IFG menambah 1,37 miliar saham IIKP lagi pada 7 Agustus 2026, hak suara naik dari 9,51% menjadi 13,60%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3156-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-18T09:45:48"
  },
  {
   "slug": "atla-komisaris-rudi-sutantra-jual-20-juta-saham-suara-jadi-38-88",
@@ -1177,8 +1243,8 @@ var ARTICLES = [
  {
   "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",
   "category": "Aksi Korporasi",
-  "title": "LCGP: Asuransi Jiwa IFG Jual Seluruh Saham, Suara ke 0% [Delisting]",
-  "deck": "PT Asuransi Jiwa IFG melepas seluruh 491,8 juta saham LCGP, setara 8,74% hak suara, menyusul delisting saham dari bursa efektif 10 November 2026.",
+  "title": "LCGP: Asuransi Jiwa IFG [Hibah] 228,4 Juta Saham, Hak Suara 8,74%",
+  "deck": "Kepemilikan Asuransi Jiwa IFG di LCGP sempat naik ke 8,74% pada Agustus 2026 lewat hibah dari likuidasi reksadana eks aset Jiwasraya, sebelum dilepas seluruhnya saat delisting 10 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T14:08:42",
@@ -1187,18 +1253,18 @@ var ARTICLES = [
   "emiten": "LCGP",
   "tags": [
    "LCGP",
+   "Asuransi Jiwa IFG",
    "delisting",
-   "kepemilikan saham",
-   "Asuransi Jiwa IFG"
+   "laporan kepemilikan"
   ],
   "body": [
-   "PT Asuransi Jiwa IFG melaporkan kepada Otoritas Jasa Keuangan bahwa pada 10 November 2026 pihaknya melepas seluruh 491.819.015 lembar saham PT Eureka Prima Jakarta Tbk (LCGP) yang sebelumnya dikuasainya, setara 8,74% hak suara perusahaan tersebut. Setelah transaksi itu, kepemilikan dan hak suara Asuransi Jiwa IFG di LCGP menjadi nihil, turun dari 8,74% menjadi 0%.",
-   "Dalam laporan bernomor LK/17112026/0007/1 yang disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan saham perusahaan terbuka, jenis transaksi dicatat sebagai repurchase agreement atau perjanjian jual saham dengan kesepakatan dibeli kembali. Alasan pelepasan yang dicantumkan adalah adanya pengumuman delisting saham LCGP dari Bursa Efek Indonesia, yang berlaku efektif sejak 10 November 2026. Dokumen tidak mencantumkan harga dalam transaksi tersebut.",
-   "Laporan menyebut Asuransi Jiwa IFG bukan anggota direksi atau dewan komisaris LCGP, melainkan pemegang saham langsung yang sebelumnya menguasai saham dalam jumlah signifikan, sebelum akhirnya keluar sepenuhnya dari struktur kepemilikan perusahaan itu."
+   "Dokumen baru yang disampaikan ke Otoritas Jasa Keuangan pada 18 November 2026 mengungkap asal mula saham LCGP yang belakangan dilepas seluruhnya oleh PT Asuransi Jiwa IFG. Pada 7 Agustus 2026, kepemilikan Asuransi Jiwa IFG di PT Eureka Prima Jakarta Tbk (LCGP) bertambah dari 263.378.515 lembar saham (4,68% hak suara) menjadi 491.819.015 lembar saham (8,74% hak suara), setelah menerima tambahan 228.440.500 lembar saham biasa. Transaksi ini tercatat berjenis hibah, dengan keterangan bahwa penambahan saham terjadi karena likuidasi reksadana atas hasil pengalihan aset dari PT Asuransi Jiwasraya (Persero). Dokumen tidak mencantumkan harga untuk transaksi ini.",
+   "Jumlah 491.819.015 lembar saham atau 8,74% hak suara itu persis sama dengan yang kemudian dilepas seluruhnya oleh Asuransi Jiwa IFG pada 10 November 2026, menyusul delisting saham LCGP dari Bursa Efek Indonesia yang berlaku efektif pada tanggal yang sama. Setelah pelepasan itu, kepemilikan dan hak suara Asuransi Jiwa IFG di LCGP menjadi nihil alias 0%, dan saham LCGP tidak lagi bisa diperjualbelikan di pasar reguler bursa.",
+   "Laporan bernomor LK/18112026/0004/1 ini disampaikan sesuai Peraturan OJK Nomor 4/2024 tentang pelaporan kepemilikan saham perusahaan terbuka. Asuransi Jiwa IFG berstatus warga negara Indonesia, bukan anggota direksi atau dewan komisaris LCGP, dan tercatat sebagai pemegang saham langsung."
   ],
   "fotoAdegan": "Empty glass-walled stock exchange trading floor viewed through tall windows, dim evening light, no people present",
-  "takeaway": "Laporan ini negatif bagi pemegang saham publik LCGP, karena bukan transaksi rutin melainkan buntut dari delisting saham perusahaan ini dari Bursa Efek Indonesia yang sudah berlaku efektif sejak 10 November 2026, artinya saham LCGP tidak lagi bisa diperjualbelikan di pasar reguler bursa. Yang tersentuh di sini adalah hak suara, yakni porsi kekuatan pemegang saham dalam rapat perusahaan, yang pada kasus Asuransi Jiwa IFG turun dari 8,74% menjadi nol karena seluruh sahamnya dilepas lewat repurchase agreement, semacam perjanjian jual saham yang disertai kesepakatan dibeli kembali oleh pihak lain pada harga dan waktu tertentu. Pelaku pasar memperhatikan pergerakan hak suara pemegang saham besar seperti ini karena menunjukkan siapa yang masih punya kepentingan di perusahaan setelah delisting. Yang perlu dipantau selanjutnya adalah apakah masih ada mekanisme bagi pemegang saham publik lain yang tersisa untuk menjual kepemilikannya, mengingat dokumen ini sendiri tidak menyebut adanya penawaran pembelian kembali dari pihak pengendali setelah delisting berlaku efektif per 10 November 2026.",
-  "sentimen": "negatif",
+  "takeaway": "Laporan terbaru ini sendiri netral bagi pemegang saham LCGP, karena sekadar menjelaskan asal usul saham yang toh sudah dilepas seluruhnya oleh Asuransi Jiwa IFG bulan lalu, bukan sinyal baru soal arah perusahaan. Yang tersentuh adalah hak suara, yaitu porsi kekuatan pemegang saham dalam rapat perusahaan, yang sempat naik dari 4,68% menjadi 8,74% pada Agustus 2026 lewat hibah, yakni pemberian saham tanpa pembayaran tunai, sebagai dampak likuidasi reksadana yang berasal dari pengalihan aset PT Asuransi Jiwasraya (Persero). Rangkaian penuhnya tetap berujung negatif bagi pemegang saham publik LCGP, sebab saham 8,74% itu pada akhirnya dilepas seluruhnya oleh Asuransi Jiwa IFG pada 10 November 2026, bertepatan dengan delisting saham LCGP dari Bursa Efek Indonesia yang berlaku efektif pada tanggal yang sama. Yang perlu dipantau selanjutnya adalah apakah pengendali LCGP akan membuka mekanisme pembelian kembali bagi pemegang saham publik yang masih tersisa, karena sampai dokumen terbaru ini belum ada kepastian soal itu.",
+  "sentimen": "netral",
   "peristiwa": "kepemilikan",
   "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
   "jadwal": [
@@ -1206,7 +1272,16 @@ var ARTICLES = [
     "tanggal": "2026-11-10",
     "acara": "Delisting saham LCGP dari Bursa Efek Indonesia berlaku efektif"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T09:50:45",
+    "ringkas": "IFG terima hibah 228,4 juta saham LCGP pada Agustus 2026, asal kepemilikan 8,74% yang lalu dijual habis saat delisting.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7586-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-18T09:50:45"
  },
  {
   "slug": "ppro-asuransi-jiwa-ifg-jual-39-3-juta-saham-jadi-7-93",
@@ -1838,8 +1913,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-pgas-19-november-laba-9m-2026-naik-ke-us-293-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PGAS 19 November: [Laba] 9M-2026 Naik ke US$293 Juta",
-  "deck": "PGN menyampaikan materi public expose tahunan 2026, mengungkap laba bersih sembilan bulan pertama 2026 naik ke US$293 juta dan rasio utang terhadap ekuitas turun ke 27 persen.",
+  "title": "Public Expose PGAS 19 November [Diundur]: Jam 10.30-11.30 WIB",
+  "deck": "PGN mengubah jam public expose tahunan dari 10.00 menjadi 10.30-11.30 WIB pada 19 November 2026, agenda dan materi laba 9M-2026 tetap sama.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T21:14:34",
@@ -1848,26 +1923,35 @@ var ARTICLES = [
   "emiten": "PGAS",
   "tags": [
    "PGAS",
+   "public expose",
    "PGN",
-   "Public Expose",
-   "Laporan Keuangan"
+   "jadwal korporasi"
   ],
   "body": [
-   "PT Perusahaan Gas Negara Tbk (PGN) menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia, menyusul rencana penyelenggaraan acara yang sudah diumumkan sejak 5 November 2026. Public expose akan digelar 19 November 2026 pukul 10.00 sampai 11.00 WIB melalui Zoom Webinar. Materi tersebut memuat kinerja keuangan sembilan bulan pertama 2026, dengan pendapatan konsolidasian US$3,019 miliar, naik dari US$2,923 miliar pada periode yang sama tahun lalu. Laba kotor tercatat US$571 juta, laba bersih US$293 juta, dan EBITDA US$785 juta, dengan pertumbuhan pendapatan yang lebih cepat dari pertumbuhan beban membuat marjin EBITDA naik dari 25 persen menjadi 26 persen.",
-   "Dari sisi neraca per akhir September 2026, total aset PGN tercatat US$6,016 miliar, turun dari US$6,232 miliar pada akhir Desember 2025, sementara total liabilitas juga turun dari US$2,624 miliar menjadi US$2,383 miliar. Total ekuitas justru naik tipis dari US$3,608 miliar menjadi US$3,633 miliar. Arus kas dari kegiatan operasi naik dari US$439 juta pada sembilan bulan pertama 2025 menjadi US$518 juta pada periode yang sama 2026, dengan posisi kas akhir periode sekitar US$1.277 juta. Rasio utang berbunga terhadap ekuitas turun dari 33 persen menjadi 27 persen, sedangkan rasio EBITDA terhadap beban bunga melonjak dari 17 kali menjadi 23 kali.",
-   "Untuk tahun 2026, PGN mengalokasikan belanja modal US$353 juta, dengan realisasi hingga September mencapai US$151 juta. Sebanyak 88 persen dari anggaran itu dipakai untuk investasi organik dan 12 persen untuk anorganik, dengan porsi terbesar mengalir ke segmen hilir dan lainnya (62 persen) dibanding hulu (38 persen). Sejumlah proyek strategis berjalan paralel, antara lain pipa minyak Cikampek-Plumpang di Jawa Barat sepanjang 96 kilometer berkapasitas 79.800 barel per hari dengan anggaran 2026 US$46,8 juta dan realisasi US$24,6 juta, ditargetkan beroperasi kuartal III 2027. Proyek lain mencakup tangki LNG dasar rata di Teluk Lamong, Jawa Timur yang baru merealisasikan US$0,02 juta dari jatah US$6,5 juta, perluasan jaringan gas kota di 7 provinsi dan 11 kota yang menyasar 50.000 calon pelanggan rumah tangga, serta proyek regasifikasi baru di Jawa Barat lewat pipa interkoneksi FSRU-Muara Bekasi berkapasitas hingga 500 MMSCFD senilai sekitar US$98 juta yang ditargetkan beroperasi kuartal III 2028."
+   "PT Perusahaan Gas Negara Tbk (PGN) mengumumkan perubahan jam penyelenggaraan public expose tahunan 2026 kepada Bursa Efek Indonesia pada 18 November 2026. Acara yang semula dijadwalkan pukul 10.00-11.00 WIB diundur menjadi pukul 10.30-11.30 WIB. Tanggal acara tetap 19 November 2026, agenda tetap laporan kinerja kuartal III 2026, pemateri tetap manajemen perseroan, dan tautan pendaftaran Zoom Webinar tidak berubah.",
+   "Materi yang akan dipaparkan tetap sama seperti yang disampaikan PGN sebelumnya, yakni kinerja keuangan sembilan bulan pertama 2026. Pendapatan konsolidasian tercatat US$3,019 miliar, naik dari US$2,923 miliar pada periode yang sama tahun lalu, dengan laba bersih US$293 juta dan EBITDA US$785 juta. Rasio utang berbunga terhadap ekuitas turun dari 33 persen menjadi 27 persen, sementara rasio EBITDA terhadap beban bunga melonjak dari 17 kali menjadi 23 kali.",
+   "Dari sisi neraca per akhir September 2026, total aset PGN tercatat US$6,016 miliar, turun dari US$6,232 miliar pada akhir Desember 2025, sementara total ekuitas naik tipis menjadi US$3,633 miliar. Arus kas dari kegiatan operasi naik dari US$439 juta menjadi US$518 juta. Untuk tahun 2026, PGN mengalokasikan belanja modal US$353 juta, dengan realisasi hingga September baru mencapai US$151 juta, termasuk proyek pipa minyak Cikampek-Plumpang dan tangki LNG di Teluk Lamong yang masih berjalan."
   ],
   "fotoAdegan": "Workers in overalls inspecting a long buried gas pipeline trench at an industrial construction site, overcast daylight",
-  "takeaway": "Materi ini condong positif bagi fundamental PGN: laba bersih dan EBITDA sembilan bulan pertama 2026 sama-sama naik dibanding periode yang sama tahun lalu, sementara rasio utang terhadap ekuitas justru turun dari 33 persen menjadi 27 persen. Yang tersentuh di sini adalah arus kas dari kegiatan operasi, yang naik dari US$439 juta menjadi US$518 juta, tanda bisnis inti gas trading dan transmisi menghasilkan kas lebih banyak, serta rasio EBITDA terhadap beban bunga yang melonjak dari 17 kali menjadi 23 kali, artinya kemampuan PGN membayar bunga utangnya makin longgar. Yang perlu dipantau adalah realisasi belanja modal 2026 senilai US$353 juta, karena sejumlah proyek seperti tangki LNG Teluk Lamong baru merealisasikan US$0,02 juta dari jatah US$6,5 juta hingga September, serta hasil paparan publik pada 19 November 2026 yang akan memberi detail lebih lanjut kepada investor.",
-  "sentimen": "positif",
+  "takeaway": "Pengumuman ini netral bagi fundamental PGN, karena isinya cuma menggeser jam acara sebanyak 30 menit, bukan mengubah substansi laporan keuangan. PGN sendiri menyatakan dalam dokumen ini bahwa perubahan jadwal tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha, jadi pos-pos seperti ekuitas, arus kas, atau laba per saham tidak tersentuh oleh dokumen ini. Yang perlu dipantau tetap sama seperti sebelumnya, yaitu paparan publik PGN pada 19 November 2026, kini pukul 10.30 sampai 11.30 WIB, yang akan memberi detail lebih lanjut soal kinerja sembilan bulan pertama 2026 dan realisasi belanja modal kepada investor.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
    {
     "tanggal": "2026-11-19",
-    "acara": "Public expose tahunan PGN via Zoom Webinar"
+    "acara": "Public expose tahunan PGN, pukul 10.30-11.30 WIB via Zoom Webinar"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T09:06:53",
+    "ringkas": "PGN mengundur jam public expose tahunan 19 November 2026 dari 10.00 menjadi 10.30-11.30 WIB, agenda dan tautan tetap sama.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4eef39a0c3_ff7c1926a1.pdf",
+    "judulIdx": "Perubahan Waktu Penyelenggaraan Public Expose Tahunan PT Perusahaan Gas Negara (Persero) Tbk Tahun 2026"
+   }
+  ],
+  "diperbarui": "2026-11-18T09:06:53"
  },
  {
   "slug": "rupslb-mbma-8-desember-private-placement-10-8-miliar-saham",

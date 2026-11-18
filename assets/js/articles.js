@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Bantah [Reekspor Ilegal] GPU, Pastikan Tak Pernah Digeledah",
+  "deck": "Dalam keterbukaan informasi 18 November 2026, MGLV membantah tudingan reekspor ilegal GPU sejak 2024 dan memastikan tidak pernah ada penggeledahan di fasilitas pusat datanya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T12:05:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f630909a3_1660579a5d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV",
+  "tags": [
+   "MGLV",
+   "data center",
+   "ekspor GPU",
+   "fakta material"
+  ],
+  "body": [
+   "PT NexAI Digital Infrastruktur Tbk (MGLV) menyampaikan keterbukaan informasi pada 18 November 2026 untuk menanggapi spekulasi yang beredar mengenai dugaan reekspor ilegal graphics processing unit (GPU) berteknologi tinggi yang disebut terjadi sekitar tahun 2024, serta pemberitaan mengenai penggeledahan oleh aparat penegak hukum. Dalam surat bernomor 027/NexAI/Corsec/XI/2026 yang ditandatangani Corporate Secretary sekaligus Direktur Putra Harianto Bate'e, perseroan menegaskan tidak pernah memiliki, membeli, mengimpor, mengekspor, atau memindahkan perangkat GPU, dan tidak memiliki keterkaitan maupun keterlibatan dengan pihak-pihak yang disebut dalam pemberitaan tersebut.",
+   "Perseroan menjelaskan model bisnisnya sebagai penyedia infrastruktur pusat data: menyewakan bangunan inti (shell and core), sistem kelistrikan, pendingin, dan jaringan TI kepada berbagai pelanggan, termasuk penyedia layanan komputasi berbasis GPU, serta menitipkan (hosting) perangkat milik pelanggan termasuk server GPU. MGLV menegaskan tidak berinvestasi pada, tidak memiliki, dan tidak mengoperasikan sendiri perangkat GPU tersebut, dan basis pelanggannya terdiversifikasi sehingga tidak bergantung pada satu klien. Perseroan juga menyebut sedang mencermati Interim Final Rule bertajuk 'Addressing Remote Access to Advanced Semiconductors' yang diterbitkan Biro Industri dan Keamanan (BIS) Amerika Serikat pada 16 November 2026, serta akan mengkaji potensi dampaknya terhadap kegiatan usaha hosting GPU yang dijalankannya.",
+   "Secara rinci, perseroan menyatakan tidak mengetahui adanya kegiatan melanggar hukum di fasilitas yang dikelolanya, dan sejak awal operasi hingga tanggal keterbukaan ini tidak pernah ada tindakan penggeledahan oleh aparat di fasilitas pusat data miliknya. Seluruh fasilitas disebut tetap beroperasi 100 persen tanpa gangguan layanan, dan perseroan menegaskan tidak ada hubungan afiliasi maupun kepemilikan saham silang dengan pihak yang dikaitkan dalam pemberitaan penggeledahan tersebut. MGLV menyatakan akan kooperatif penuh memenuhi permintaan otoritas, telah meminta pelanggannya melakukan hal serupa, dan menyebut keterbukaan informasi ini tidak berdampak merugikan terhadap operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Rows of server racks with cooling pipes and dim status lights inside a quiet data center hall, technician checking cables",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham, bukan karena ada pelanggaran yang terbukti, melainkan karena perseroan sampai harus membantah secara formal tudingan reekspor ilegal GPU dan penggeledahan, tepat ketika aturan ekspor teknologi Amerika Serikat yang baru justru menyasar model bisnis hosting GPU yang menjadi andalan MGLV. Pos yang paling relevan dipantau bukan laba di atas kertas, tapi arus kas dari sewa ruang pusat data ke klien komputasi GPU, sebab kalau klien ragu menyewa kapasitas akibat sorotan regulasi atau rumor hukum semacam ini, pendapatan sewa yang menjadi sumber arus kas utama perseroan bisa ikut tertekan, meski MGLV menegaskan basis pelanggannya terdiversifikasi. Yang perlu dipantau selanjutnya adalah bagaimana implementasi Interim Final Rule BIS Amerika Serikat yang berlaku sejak 16 November 2026 itu memengaruhi klien-klien penyewa kapasitas MGLV, serta apakah otoritas di Indonesia maupun Amerika Serikat membuka pemeriksaan resmi menyusul spekulasi reekspor ilegal yang kini dibantah perseroan.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material Lainnya"
+ },
+ {
+  "slug": "ptpp-kontrak-baru-3-proyek-irigasi-pu-airi-8-905-hektare-sawah",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: [Kontrak Baru] 3 Proyek Irigasi PU, Airi 8.905 Hektare Sawah",
+  "deck": "PTPP menggarap tiga paket rehabilitasi irigasi Kementerian PU di Jabar, Jatim, dan Kalsel, mencakup 71 daerah irigasi untuk mengairi 8.905 hektare sawah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T11:18:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ce6a25d9f6_a68f51cfcf.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "irigasi",
+   "Kementerian PU",
+   "kontrak konstruksi"
+  ],
+  "body": [
+   "PP (Persero) Tbk atau PTPP mendapat penugasan baru dari Kementerian Pekerjaan Umum untuk mengerjakan tiga proyek peningkatan dan rehabilitasi jaringan irigasi di Jawa Barat, Jawa Timur, dan Kalimantan Selatan. Secara keseluruhan, ketiga proyek ini mencakup 71 daerah irigasi di 14 kabupaten dan 79 desa, dengan total panjang saluran sekitar 186,16 kilometer, 419 bangunan irigasi, tiga bendung, dan 528 pintu air. Infrastruktur ini ditargetkan mendukung layanan irigasi untuk lahan pertanian seluas 8.905,54 hektare. Dokumen keterbukaan yang diteken Corporate Secretary PTPP, Joko Raharjo, tidak menyebutkan nilai kontrak dari ketiga paket pekerjaan tersebut.",
+   "Rinciannya, proyek BBWS Citarum Paket 4 di Kabupaten Subang, Jawa Barat, meliputi 19 daerah irigasi dengan panjang saluran 59,80 kilometer, 271 bangunan irigasi, dan 227 pintu air, untuk mengairi 1.227,07 hektare. Proyek BBWS Brantas Paket I di Jawa Timur mencakup 39 daerah irigasi di tujuh kabupaten, dengan panjang saluran 42,36 kilometer, tiga bendung, 19 bangunan irigasi, dan 144 pintu air, mendukung area 2.739,72 hektare. Sementara proyek BWS Kalimantan III Banjarmasin Paket 2 di Kalimantan Selatan mencakup 13 daerah irigasi di enam kabupaten, dengan panjang saluran 84 kilometer, 129 bangunan irigasi, dan 157 pintu air, ditargetkan melayani 4.938,75 hektare lahan pertanian.",
+   "Joko Raharjo menyebut penugasan ini sebagai bentuk pengakuan atas kompetensi dan rekam jejak PTPP dalam proyek infrastruktur strategis, sekaligus tanggung jawab untuk menjaga kualitas pekerjaan, aspek keselamatan kerja, dan ketepatan waktu penyelesaian. Perusahaan juga mengaitkan proyek ini dengan agenda ketahanan pangan dan swasembada pangan nasional di bawah pemerintahan Presiden Prabowo Subianto."
+  ],
+  "fotoAdegan": "Workers repairing a concrete irrigation canal beside a wide rice paddy field, shallow water flowing, overcast morning light",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental PTPP, karena kabar operasional yang sebenarnya positif ini tidak menyebut nilai kontrak sama sekali, sehingga besar tambahan pendapatan dari tiga proyek irigasi itu belum bisa diukur. Proyek baru biasanya menambah arus kas, yaitu aliran uang masuk perusahaan dari pekerjaan yang dibayar bertahap, tapi proyek pemerintah semacam ini juga lazim membutuhkan modal kerja di muka seperti jaminan bank, yang berarti beban tambahan sebelum uangnya benar-benar cair. Pekan ini pula tiga rapat pemegang obligasi dan sukuk PTPP menolak seluruh usulan restrukturisasi bunga dan bagi hasil yang sudah macet, jadi kabar kontrak baru ini tidak mengubah tekanan likuiditas yang justru lebih menentukan arah keuangan perusahaan dalam waktu dekat. Yang perlu dipantau berikutnya adalah bagaimana PTPP akhirnya menyelesaikan tunggakan bunga obligasi dan bagi hasil sukuk yang sudah ditolak restrukturisasinya, serta apakah nilai kontrak dan jadwal pengerjaan ketiga proyek irigasi ini akan diungkapkan dalam laporan lanjutan.",
+  "sentimen": "netral",
+  "judulIdx": "Laporan Informasi atau Fakta Material Press Release \"Dipercaya Kementerian PU, PTPP Raih Tiga Proyek Strategis Irigasi, Dukung Pengairan 8.905 Hektare Lahan Sawah Produktif\""
+ },
+ {
   "slug": "sima-ifg-tambah-14-2-juta-saham-hak-suara-jadi-8-10",
   "category": "Aksi Korporasi",
   "title": "SIMA: IFG [Tambah] 14,2 Juta Saham, Hak Suara Jadi 8,10%",
@@ -16107,8 +16161,8 @@ var ARTICLES = [
  {
   "slug": "ppgl-gelar-public-expose-insidentil-usai-diminta-bursa",
   "category": "Aksi Korporasi",
-  "title": "PPGL: [Insidentil] Aset Susut 87,92% usai Lepas Anak Usaha",
-  "deck": "Materi public expose insidentil PPGL ke bursa menunjukkan total aset turun 87,92% akibat anak usaha PT Armada Berjaya Trans Tbk tak lagi dikonsolidasi, sementara laba sebelum pajak susut 53,09%.",
+  "title": "PPGL Public Expose Insidentil: Ekuitas Susut, [Dividen Jumbo] Rp35,8 M",
+  "deck": "Materi koreksi public expose insidentil PPGL menyebut pembagian dividen jumbo Rp35,8 miliar pada 2025-2026, selain divestasi anak usaha, sebagai sebab ekuitas turun 74,25% ke Rp37,2 miliar.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T17:02:52",
@@ -16118,17 +16172,17 @@ var ARTICLES = [
   "tags": [
    "PPGL",
    "Public Expose Insidentil",
-   "Laporan Keuangan",
-   "Bursa Efek Indonesia"
+   "Dividen Jumbo",
+   "Ekuitas"
   ],
   "body": [
-   "PT Prima Globalindo Logistik Tbk (PPGL) menyerahkan materi Public Expose Insidentil kepada Bursa Efek Indonesia melalui surat No. 009/PGL/XI/2026 tertanggal 17 November 2026, menyusul rencana paparan yang sebelumnya diumumkan lewat surat No. 003/PGL/XI/2026. Materi itu memuat lampiran berjudul paparan untuk 18 November 2026, berbeda dari tanggal 10 November 2026 yang disebut dalam pengumuman sebelumnya. Dalam materi tersebut, total aset perseroan per 30 Juni 2026 tercatat Rp49,7 miliar, turun 87,92 persen dari Rp411,9 miliar pada 31 Desember 2025. Total liabilitas turun 95,30 persen menjadi Rp12,6 miliar, dan total ekuitas turun 74,25 persen menjadi Rp37,2 miliar. Perseroan menjelaskan penurunan ini terjadi karena PT Armada Berjaya Trans Tbk, anak usaha PPGL, tidak lagi dikonsolidasikan ke laporan keuangan perseroan per 30 Juni 2026.",
-   "Meski nilai aset menyusut tajam, rasio keuangan perseroan justru membaik karena skala utang ikut mengecil lebih cepat dari asetnya. Cash ratio, yakni perbandingan kas terhadap utang jangka pendek, naik dari 0,04 kali menjadi 0,35 kali. Rasio utang terhadap aset turun dari 9,41 persen menjadi 1,95 persen, dan rasio utang terhadap ekuitas turun dari 26,84 persen menjadi 2,61 persen. Namun dari sisi laba rugi, pendapatan usaha semester I 2026 tercatat Rp40,5 miliar, turun 54,51 persen dibanding Rp89,0 miliar pada semester I 2025. Laba sebelum pajak turun 53,09 persen menjadi Rp2,8 miliar, dan laba komprehensif tahun berjalan turun 53,84 persen menjadi Rp2,36 miliar. Materi perseroan tidak menjelaskan secara khusus penyebab penurunan pendapatan dan laba ini, berbeda dengan penjelasan yang diberikan untuk penurunan aset dan liabilitas.",
-   "Soal pergerakan harga sahamnya sendiri, yang menjadi alasan bursa meminta paparan insidentil ini, manajemen PPGL hanya menyatakan bahwa harga saham dipengaruhi oleh dinamika permintaan dan penawaran serta kondisi pasar secara umum yang berada di luar kendali perseroan. Perseroan tidak memberi penjelasan lebih spesifik dari itu. Untuk rencana bisnis ke depan, perseroan menyebut masih dalam tahap negosiasi pengembangan usaha dengan dua perusahaan, yaitu PT Natadana Solusi Pratama yang bergerak di jasa pengelolaan dan pendaftaran jaminan fidusia secara digital sejak 2019, dan PT Wani Piro Rek yang bergerak di pengolahan dan penjualan makanan siap santap sejak 2021. Perseroan tetap menjalankan bisnis utamanya sebagai perusahaan Jasa Pengurusan Transportasi di tengah harga freight internasional yang masih berfluktuasi sepanjang 2026.",
-   "Paparan insidentil ini sendiri digelar bukan atas inisiatif PPGL, melainkan atas permintaan Bursa Efek Indonesia sesuai surat referensi Peng-SPT-00167/BEI.WAS/09-2026, pola yang biasa muncul ketika bursa menilai ada aktivitas perdagangan saham yang tidak biasa pada suatu emiten. Tiga agenda yang diumumkan sebelumnya, yakni kinerja keuangan, rencana aksi korporasi, dan analisis manajemen soal harga saham, semuanya kini sudah terjawab lewat materi yang baru diserahkan ini."
+   "PT Prima Globalindo Logistik Tbk (PPGL) mengoreksi materi public expose insidentilnya melalui surat No. 010/PGL/XI/2026 tertanggal 18 November 2026, yang membetulkan surat sebelumnya No. 009/PGL/XI/2026 tanggal 17 November 2026. Dalam materi yang dikoreksi, perseroan menambahkan penjelasan bahwa penurunan ekuitas per 30 Juni 2026 tidak hanya disebabkan oleh anak usaha PT Armada Berjaya Trans Tbk yang tidak lagi dikonsolidasikan, tetapi juga karena perseroan membagikan dividen jumbo senilai Rp35,8 miliar pada 2025 dan 2026. Materi ini sekaligus menegaskan bahwa paparan publik insidentil digelar pada 18 November 2026, hari ini.",
+   "Fakta inti dari materi sebelumnya tetap berlaku. Total aset perseroan per 30 Juni 2026 turun 87,92 persen menjadi Rp49,7 miliar dari Rp411,9 miliar pada akhir 2025 secara konsolidasi, total liabilitas turun 95,30 persen menjadi Rp12,6 miliar, dan ekuitas turun 74,25 persen menjadi Rp37,2 miliar, terutama karena Armada Berjaya Trans tidak lagi masuk laporan keuangan PPGL.",
+   "Dari sisi laba rugi, pendapatan usaha semester I 2026 tercatat Rp40,5 miliar, turun 54,51 persen dibanding Rp89,0 miliar pada semester I 2025. Laba sebelum pajak turun 53,09 persen menjadi Rp2,8 miliar, dan laba komprehensif tahun berjalan turun 53,84 persen menjadi Rp2,36 miliar. Materi koreksi ini tidak menambahkan penjelasan baru untuk penurunan pendapatan dan laba tersebut.",
+   "Untuk rencana bisnis ke depan, perseroan masih dalam tahap negosiasi pengembangan usaha dengan PT Natadana Solusi Pratama, yang bergerak di jasa pengelolaan dan pendaftaran jaminan fidusia digital sejak 2019, dan PT Wani Piro Rek, yang mengolah dan menjual makanan siap santap sejak 2021. Soal pergerakan harga sahamnya sendiri, manajemen tetap hanya menyebut dinamika permintaan dan penawaran serta kondisi pasar umum yang di luar kendali perseroan, tanpa penjelasan lebih spesifik meski ini diminta langsung oleh Bursa Efek Indonesia."
   ],
   "fotoAdegan": "Warehouse workers moving pallets with forklifts inside a large logistics distribution center, morning light through skylights",
-  "takeaway": "Laporan ini condong negatif bagi PPGL, sebab di luar efek pelepasan anak usaha, pendapatan dan laba sebelum pajak sama-sama susut lebih dari 50 persen secara tahunan, dan jawaban manajemen soal pergerakan harga saham hanya menyebut dinamika pasar tanpa penjelasan konkret meski diminta langsung oleh bursa. Pos yang tersentuh adalah ekuitas, yang menyusut 74,25 persen menjadi Rp37,2 miliar karena anak usaha PT Armada Berjaya Trans Tbk tidak lagi digabung dalam laporan keuangan, serta laba bersih yang pada akhirnya menentukan laba per saham bagi pemegang saham. Di sisi lain, rasio utang terhadap aset dan ekuitas justru membaik karena perusahaan yang tersisa jauh lebih kecil dan tidak banyak berutang, jadi bukan sinyal gagal bayar. Yang perlu dipantau berikutnya adalah hasil negosiasi bisnis baru dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek yang disebut masih berjalan tanpa target waktu pasti, serta paparan publik insidentil yang menurut materi ini dijadwalkan 18 November 2026.",
+  "takeaway": "Koreksi ini condong negatif bagi PPGL, karena pendapatan dan laba bersih semester I 2026 tetap tercatat turun lebih dari 50 persen secara tahunan tanpa penjelasan baru, meski kini ada tambahan informasi bahwa penyusutan ekuitas bukan hanya akibat lepasnya anak usaha Armada Berjaya Trans, tapi juga karena perseroan membagikan dividen jumbo Rp35,8 miliar pada 2025 dan 2026. Pos yang tersentuh adalah ekuitas, yang turun 74,25 persen menjadi Rp37,2 miliar, dan laba bersih yang menentukan laba per saham pemegang saham; dividen besar memang mengalirkan uang ke pemegang saham, tapi juga mengecilkan modal sendiri perseroan yang tersisa untuk ekspansi usaha. Rasio utang terhadap aset dan ekuitas tetap membaik karena perseroan yang tersisa jauh lebih kecil dan tidak banyak berutang, jadi bukan sinyal gagal bayar. Yang perlu dipantau berikutnya adalah pelaksanaan paparan publik insidentil pada 18 November 2026 dan kelanjutan negosiasi bisnis baru dengan PT Natadana Solusi Pratama serta PT Wani Piro Rek yang belum punya target waktu pasti.",
   "sentimen": "negatif",
   "pembaruan": [
    {
@@ -16136,9 +16190,15 @@ var ARTICLES = [
     "ringkas": "PPGL serahkan materi public expose insidentil: aset turun 87,92% usai lepas anak usaha, laba sebelum pajak susut 53,09%.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a274dcf80_e1c5173c76.pdf",
     "judulIdx": "Penyampaian Materi Public Expose - Insidentil"
+   },
+   {
+    "tanggal": "2026-11-18T11:24:01",
+    "ringkas": "Koreksi materi public expose PPGL ungkap dividen jumbo Rp35,8 miliar turut jadi sebab susutnya ekuitas, selain divestasi anak usaha.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67552a420b_c71e1c529d.pdf",
+    "judulIdx": "Penyampaian Materi Public Expose - Insidentil (KOREKSI)"
    }
   ],
-  "diperbarui": "2026-11-17T23:58:35",
+  "diperbarui": "2026-11-18T11:24:01",
   "jadwal": [
    {
     "tanggal": "2026-11-18",
@@ -35785,8 +35845,8 @@ var ARTICLES = [
  {
   "slug": "inco-panggil-rupslb-bahas-pengunduran-direktur-dan-revisi-ad",
   "category": "Aksi Korporasi",
-  "title": "INCO Panggil RUPSLB, Bahas [Pengunduran] Direktur dan Revisi AD",
-  "deck": "Vale Indonesia memanggil RUPSLB pada 18 November 2026 untuk meratifikasi pengunduran diri seorang direktur dan menyesuaikan anggaran dasar dengan KBLI 2025.",
+  "title": "RUPSLB INCO 18 November: [Direksi dan Komisaris] Baru Disetujui",
+  "deck": "Vale Indonesia menyetujui pergantian komisaris dan direktur, serta penyesuaian anggaran dasar sesuai KBLI 2025, dalam RUPSLB 18 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "27 Oktober 2026",
   "isoDate": "2026-10-27T17:17:17",
@@ -35797,16 +35857,37 @@ var ARTICLES = [
    "INCO",
    "RUPSLB",
    "Vale Indonesia",
-   "Direksi"
+   "tata kelola"
   ],
   "body": [
-   "PT Vale Indonesia Tbk (INCO) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 18 November 2026, pukul 09.00 WIB, di Sudirman Hall, Sequis Tower, Jakarta. Rapat diselenggarakan secara hybrid, yaitu fisik dan elektronik melalui platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 26 Oktober 2026 berhak hadir dan memberikan suara dalam rapat ini.",
-   "Agenda pertama adalah persetujuan perubahan susunan direksi perseroan, menyusul pengunduran diri Budiawansyah dari jabatan Direktur sekaligus Chief Sustainability and Corporate Affairs, yang suratnya diterima perseroan pada 20 Agustus 2026. Sesuai anggaran dasar perseroan dan Peraturan OJK No. 33/POJK.04/2014, pengunduran diri anggota direksi wajib diputuskan dalam RUPS paling lambat 90 hari setelah permohonan tersebut diterima, sehingga RUPSLB ini digelar tepat pada batas waktu tersebut.",
-   "Agenda kedua adalah persetujuan perubahan Pasal 3 anggaran dasar untuk menyesuaikan klasifikasi kegiatan usaha perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, menyusul terbitnya Peraturan Badan Pusat Statistik No. 7 Tahun 2025. Perseroan juga menetapkan batas waktu pemberian kuasa elektronik (e-proxy) pada 17 November 2026 pukul 12.00 WIB bagi pemegang saham dengan saham di Penitipan Kolektif KSEI, atau pukul 17.00 WIB untuk kuasa konvensional kepada Biro Administrasi Efek PT Bima Registra, serta membatasi kehadiran fisik maksimal 50 pemegang saham berdasarkan prinsip siapa cepat dia dapat."
+   "RUPSLB Vale Indonesia Tbk (INCO) yang digelar Rabu, 18 November 2026, menyetujui pergantian susunan dewan komisaris dan direksi perseroan. Sahid Junaidi diangkat sebagai Komisaris menggantikan M. Jasman Panjaitan yang diberhentikan dengan hormat, sementara Basrie Kamba diangkat sebagai Direktur dan Chief Sustainability and Corporate Affairs Officer, efektif 1 Desember 2026. Rapat juga menyetujui penyesuaian Pasal 3 Anggaran Dasar perseroan mengenai kegiatan usaha agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025.",
+   "RUPSLB ini sebelumnya dipanggil untuk meratifikasi pengunduran diri Budiawansyah dari jabatan Direktur dan Chief Sustainability and Corporate Affairs Officer, yang suratnya diterima perseroan pada 20 Agustus 2026. Sesuai Peraturan OJK No. 33/POJK.04/2014, pengunduran diri anggota direksi wajib diputuskan dalam RUPS paling lambat 90 hari sejak permohonan diterima, sehingga RUPSLB ini digelar tepat pada batas waktu tersebut. Pengunduran diri Budiawansyah resmi disetujui efektif sejak penutupan rapat, dan ia memperoleh pembebasan serta pelunasan tanggung jawab penuh (acquit et de charge) atas tindakan pengurusannya sampai 20 Agustus 2026, sepanjang tercermin dalam pembukuan dan laporan keuangan perseroan serta bukan merupakan pelanggaran hukum.",
+   "Dengan susunan terbaru, Dewan Komisaris Vale Indonesia kini terdiri dari Presiden Komisaris F.S. Multhazar, Wakil Presiden Komisaris Kristina Gauthier, serta Komisaris Patricia Renee Pegues, Adam MacMillan, Shiro Imai, Sahid Junaidi, dan Katherina Anggela Oendun, ditambah Komisaris Independen Rudiantara, Marita Alisjahbana, dan Retno Marsudi. Direksi perseroan terdiri dari Presiden Direktur dan Chief Executive Officer Bernardus Irmanto, Wakil Presiden Direktur dan Chief Operation and Infrastructure Officer Abu Ashar, Direktur dan Chief Human Capital Officer Heriyanto Agung Putra, Direktur dan Chief Sustainability and Corporate Affairs Officer Basrie Kamba, Direktur dan Chief Financial Officer Rizky Andhika Putra, Direktur dan Chief Project Officer Muhammad Asril, serta Direktur dan Chief Strategy and Technical Officer M. Slamet Sugiharto.",
+   "Penyesuaian Anggaran Dasar mengacu pada Peraturan Badan Pusat Statistik No. 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia, sebagaimana diubah dengan Peraturan BPS No. 6 Tahun 2026. Perubahan ini mencakup penyesuaian klasifikasi dan redaksi sejumlah kegiatan usaha, antara lain perdagangan besar bijih dan produk logam, penyediaan tenaga listrik, kegiatan real estat, serta pengelolaan air limbah dan sampah."
   ],
   "fotoAdegan": "Workers in hard hats and reflective vests inspecting heavy equipment at a reddish open-pit nickel mine, overcast tropical sky.",
-  "takeaway": "Laporan ini netral bagi kinerja fundamental Vale Indonesia, karena RUPSLB ini sekadar menjalankan kewajiban formal mengesahkan pengunduran diri direktur yang sudah terjadi sejak Agustus dan merapikan kodifikasi usaha di anggaran dasar, tanpa ada perubahan angka keuangan. Pos yang tersentuh adalah susunan direksi dan tata kelola perusahaan, bukan ekuitas atau arus kas, tetapi pergantian direktur yang membidangi keberlanjutan dan hubungan korporat tetap relevan dipantau karena posisi itu bersentuhan dengan isu lingkungan dan relasi dengan pemerintah daerah, hal yang krusial bagi tambang nikel seperti Vale. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 18 November 2026, termasuk apakah perseroan sudah menetapkan pengganti definitif untuk posisi direktur yang kosong, serta kapan perubahan anggaran dasar itu efektif setelah mendapat persetujuan dari Kementerian Hukum dan HAM.",
-  "sentimen": "netral"
+  "takeaway": "Laporan hasil RUPSLB ini tetap netral bagi fundamental Vale Indonesia, karena intinya adalah pergantian pengurus dan penyesuaian format anggaran dasar, bukan perubahan modal, utang, atau arus kas perseroan. Pos yang tersentuh adalah struktur tata kelola, yakni komposisi dewan komisaris dan direksi, yang penting dipantau investor karena menentukan arah kebijakan keberlanjutan dan relasi dengan pemerintah daerah, mengingat posisi Chief Sustainability and Corporate Affairs kini dipegang Basrie Kamba. Pemegang saham juga memberi pelunasan tanggung jawab penuh (acquit et de charge) kepada Budiawansyah, direktur yang mengundurkan diri, artinya tindakannya selama menjabat dianggap tuntas dan bebas dari tuntutan lebih lanjut selama tercermin dalam pembukuan perseroan. Yang perlu dipantau berikutnya adalah 1 Desember 2026, saat Basrie Kamba resmi menjabat Direktur dan Chief Sustainability and Corporate Affairs Officer, serta kapan perubahan anggaran dasar sesuai KBLI 2025 ini mendapat pengesahan dari Kementerian Hukum dan HAM.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-18T12:49:51",
+    "ringkas": "RUPSLB Vale Indonesia menyetujui pergantian komisaris dan direktur serta penyesuaian anggaran dasar sesuai KBLI 2025.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b66e731320_c35c0edf6d.pdf",
+    "judulIdx": "Siaran Pers RUPSLB 2026 PT Vale Indonesia Tbk"
+   }
+  ],
+  "diperbarui": "2026-11-18T12:49:51",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "RUPSLB menyetujui pergantian direksi, komisaris, dan AD"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Basrie Kamba efektif menjabat Direktur"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "asgr-laba-bersih-naik-15-jadi-rp209-miliar-di-kuartal-iii-2026",

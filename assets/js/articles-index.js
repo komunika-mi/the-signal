@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
+  "category": "Aksi Korporasi",
+  "title": "MGLV Bantah [Reekspor Ilegal] GPU, Pastikan Tak Pernah Digeledah",
+  "deck": "Dalam keterbukaan informasi 18 November 2026, MGLV membantah tudingan reekspor ilegal GPU sejak 2024 dan memastikan tidak pernah ada penggeledahan di fasilitas pusat datanya.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "data center",
+   "ekspor GPU",
+   "fakta material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f630909a3_1660579a5d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ptpp-kontrak-baru-3-proyek-irigasi-pu-airi-8-905-hektare-sawah",
+  "category": "Aksi Korporasi",
+  "title": "PTPP: [Kontrak Baru] 3 Proyek Irigasi PU, Airi 8.905 Hektare Sawah",
+  "deck": "PTPP menggarap tiga paket rehabilitasi irigasi Kementerian PU di Jabar, Jatim, dan Kalsel, mencakup 71 daerah irigasi untuk mengairi 8.905 hektare sawah.",
+  "date": "18 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "irigasi",
+   "Kementerian PU",
+   "kontrak konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ce6a25d9f6_a68f51cfcf.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "sima-ifg-tambah-14-2-juta-saham-hak-suara-jadi-8-10",
   "category": "Aksi Korporasi",
   "title": "SIMA: IFG [Tambah] 14,2 Juta Saham, Hak Suara Jadi 8,10%",
@@ -6494,38 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9bab99186e_cd4c8e15bd.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "tril-didelisting-bei-efektif-10-november-jadi-go-private",
-  "category": "Aksi Korporasi",
-  "title": "TRIL Didelisting BEI, Efektif 10 November jadi [Go Private]",
-  "deck": "Bursa Efek Indonesia mencabut status TRIL sebagai perusahaan tercatat mulai 10 November 2026, bagian dari forced delisting dan go private atas 18 emiten sekaligus.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIL",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b693f70da1_e4cc622b76.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal",
-  "category": "Bisnis",
-  "title": "LPPOM MUI [Ajak] 4.525 Pelajar Kenal Ekosistem Halal",
-  "deck": "LPPOM MUI menggelar Gen Halal Championship 2026 yang diikuti 4.525 pelajar SMA/SMK/MA, termasuk non-Muslim, untuk mengenalkan ekosistem halal sejak dini.",
-  "date": "9 November 2026",
-  "image": "assets/img/lppom-mui-ajak-4-525-pelajar-kenal-ekosistem-halal.jpg",
-  "imageV": "mw9gmc8i",
-  "tags": [
-   "halal",
-   "LPPOM MUI",
-   "Gen Halal Championship",
-   "ekonomi syariah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477448-edukasi-halal-tak-cukup-untuk-orang-dewasa-lppom-mui-sasar-ribuan-pelajar-lewat-kompetisi-berbasis-nasional"
  }
 ];

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "M8aj4CdkamU",
+  "title": "Wapres Baru Dinanti, Apa Efeknya Bagi Ekonomi?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Proses pengisian kursi wakil presiden menjelang pelantikan 9 Desember 2026 dibahas dari sisi dampaknya terhadap arah perekonomian dan sentimen pasar domestik.",
+  "takeaway": "Transisi kepemimpinan di jajaran eksekutif kerap memengaruhi persepsi pelaku pasar, sehingga relevan dipantau pembaca ekonomi."
+ },
+ {
+  "id": "CLPf2WbZ9ec",
+  "title": "Wamenko Perekonomian Bantah Daya Beli Lemah",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Wakil Menteri Koordinator Bidang Perekonomian membantah anggapan bahwa daya beli masyarakat sedang melemah dengan memaparkan sejumlah data pendukung.",
+  "takeaway": "Daya beli masyarakat adalah indikator inti pertumbuhan konsumsi yang berpengaruh langsung pada kinerja ekonomi nasional."
+ },
+ {
   "id": "TeGHpY8xunM",
   "title": "Wapres Baru Dinanti, Apa Efeknya bagi Ekonomi?",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah melalui Perum Bulog dan ID Food menyiapkan program pembelian telur ayam dari peternak mikro dan rakyat senilai total Rp30 miliar secara bertahap hingga Desember.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan stabilisasi harga pangan dan dukungan permodalan bagi pelaku usaha mikro di sektor peternakan."
- },
- {
-  "id": "FN-TTLQAQ4c",
-  "title": "Polemik PPN 11 Persen pada Pembalut Wanita",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen pada pembalut wanita menjadi sorotan karena dianggap membebani kebutuhan biologis esensial perempuan.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan fiskal atas barang kena pajak dan dampaknya pada daya beli masyarakat."
- },
- {
-  "id": "XFGTRurXsB0",
-  "title": "Komnas Perempuan Usul Revisi Aturan PPN Pembalut",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Komnas Perempuan mendorong revisi kebijakan PPN atas pembalut wanita yang dinilai memberatkan karena menyasar kebutuhan dasar perempuan.",
-  "takeaway": "Menunjukkan arah wacana kebijakan fiskal yang mulai mempertimbangkan aspek keadilan sosial dalam penetapan tarif pajak."
  }
 ];

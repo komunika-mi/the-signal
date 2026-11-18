@@ -62,7 +62,34 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret dari pertemuan ini baru satu angka pasti, yakni target implementasi IEU-CEPA pada 1 Januari 2027, sementara perjanjian dagang itu sendiri belum resmi ditandatangani. Pihak yang paling terdampak adalah petani kecil, terutama yang produknya seperti sawit dan kayu harus memenuhi aturan baru Uni Eropa soal deforestasi dan pajak karbon impor, karena mereka wajib membuktikan asal produknya lewat sistem pelacakan digital yang belum tentu mereka miliki sekarang. Di sisi investasi, sektor yang disebut sebagai incaran investor Jerman adalah semikonduktor, pusat data, dan kecerdasan buatan, tetapi belum ada nilai investasi atau nama perusahaan yang disebutkan secara konkret. Yang masih perlu dipantau adalah tanggal resmi penandatanganan IEU-CEPA dan bentuk nyata dukungan Jerman untuk petani kecil, karena sampai sekarang itu baru permintaan, bukan skema yang sudah berjalan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
+ },
+ {
+  "slug": "hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol",
+  "category": "BUMN",
+  "title": "Hadapi Musim Hujan, Jasa Marga [Perkuat] Kesiagaan Tol",
+  "deck": "PT Jasa Marga menyiagakan ratusan tim dan unit pompa air di jalan tol menjelang musim hujan 2026-2027.",
+  "image": "assets/img/hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T23:35:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479128-hadapi-musim-hujan-jasa-marga-perkuat-kesiapan-operasional-jalan-tol",
+  "tags": [
+   "jasa marga",
+   "musim hujan",
+   "jalan tol",
+   "bumn"
+  ],
+  "body": [
+   "PT Jasa Marga (Persero) Tbk menambah kesiagaan di seluruh ruas jalan tol yang dikelolanya untuk menghadapi musim hujan 2026-2027. Langkah ini penting karena jalan tol adalah jalur utama distribusi logistik dan mobilitas antarkota, sehingga gangguan akibat genangan atau longsor saat musim hujan bisa merembet ke keterlambatan pengiriman barang dan perjalanan masyarakat.",
+   "Persiapan dimulai dari pemetaan titik rawan genangan dan pergerakan tanah, normalisasi saluran drainase, hingga penguatan lereng di sisi jalan tol. Direktur Utama Jasa Marga, Rivan A. Purwantono, mengatakan pemetaan ini jadi dasar untuk menempatkan personel dan peralatan di lapangan lebih awal, sebelum musim hujan mencapai puncaknya.",
+   "Untuk mendukung kesiapan tersebut, Jasa Marga mengerahkan 73 tim siaga, 203 tim drainase, dan 75 tim preservasi jalan, ditambah 234 unit pompa air. Perusahaan juga mengaktifkan sistem peringatan dini (Early Warning System) di 23 titik yang terhubung ke pusat kendali Jasa Marga Traffic Center (JMTC), serta menyebarkan informasi cuaca dan lalu lintas lewat 278 papan informasi digital (Dynamic Message Sign) di sepanjang ruas tol.",
+   "Rivan mengimbau pengendara untuk menjaga kecepatan, menjaga jarak aman, dan berhenti di rest area bila jarak pandang terbatas atau hujan dirasa membahayakan. Jika butuh bantuan di jalan tol, pengguna jalan bisa menghubungi One Call Center 133 atau aplikasi Travoy. Jasa Marga menyatakan akan terus mengevaluasi efektivitas penanganan di lapangan dan memantau cuaca secara real-time selama musim hujan berlangsung."
+  ],
+  "fotoAdegan": "Workers in rain gear operating a water pump beside a flooded elevated highway lane, grey rainy sky, wet asphalt reflecting headlights",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/18/6afdd1b631933-ilustrasi-jasa-marga-perkuat-kesiapan-operasional-jalan-tol_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah skala kesiapan yang dikerahkan Jasa Marga: 73 tim siaga, 203 tim drainase, 75 tim preservasi, 234 pompa air, serta sistem peringatan dini di 23 titik menjelang musim hujan 2026-2027. Yang terdampak langsung adalah pengguna jalan tol, termasuk truk logistik dan pemudik, karena genangan atau longsor di ruas tol bisa memutus jalur distribusi barang maupun perjalanan antarkota. Berita ini belum menyebutkan apakah jumlah tim dan alat ini lebih besar dibanding musim hujan tahun sebelumnya, atau berapa titik gangguan yang tercatat tahun lalu, sehingga belum bisa dibaca apakah ini penguatan yang signifikan atau sekadar rutinitas tahunan. Yang perlu dicermati adalah laporan Jasa Marga saat puncak musim hujan nanti, soal berapa titik yang benar-benar terganggu dibanding jumlah tim yang sudah disiagakan ini.",
+  "imageV": "mwmhycpl"
  },
  {
   "slug": "pegadaian-ajak-warga-bogor-tanam-pohon-di-hulu-ciliwung",
@@ -1069,7 +1096,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dari pertemuan ini bukan targetnya, melainkan cara pemerintah memintanya dieksekusi. Alih-alih sekadar menyebut target besar seperti tambahan 69,5 gigawatt kapasitas listrik baru atau investasi Rp2.133,7 triliun dalam RUPTL 2025-2034, pemerintah kini meminta investor Eropa menyusun rencana aksi konkret dalam 90 hari dan menetapkan siapa yang bertanggung jawab atas tiap proyek. Pihak yang langsung kena dampak permintaan ini adalah anggota EuroCham Energy Working Group, PT PLN, dan Danantara yang diminta duduk bersama membahas proyek nyata, selain daerah penerima proyek seperti enam provinsi lokasi tahap pertama program pembangkit tenaga surya atau 741 lokasi yang akan beralih dari generator diesel ke tenaga surya. Pergeseran dari janji ke tenggat 90 hari ini mengarah pada pemerintah yang mulai mendesak kepastian eksekusi, bukan sekadar pengumpulan komitmen di atas kertas. Yang akan membuktikan apakah dorongan ini berhasil adalah apakah rencana aksi 90 hari itu benar muncul, dan apakah proyek tahap pertama program surya berkapasitas 5,3 gigawatt peak itu mencapai kesepakatan pembiayaan dalam beberapa bulan mendatang.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "bi-naikkan-suku-bunga-acuan-ke-6-demi-jaga-rupiah",
@@ -1097,7 +1124,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan cuma angka bunga, tapi arah prioritas Bank Indonesia. Inflasi dalam negeri justru sedang melandai, tapi BI tetap menaikkan bunga acuan karena alasannya ada di luar negeri, yaitu rupiah yang melemah dan dolar yang terus menguat akibat prospek bunga Amerika Serikat yang masih tinggi. Di sisi lain, BI sengaja tidak mengetatkan kredit, insentif likuiditas ke bank malah ditambah supaya pinjaman ke dunia usaha tetap mengalir, jadi dampaknya lebih terasa bagi nasabah dengan bunga kredit mengambang dan pelaku usaha yang butuh dolar untuk impor atau bayar utang luar negeri, bukan bagi usaha kecil yang mengandalkan kredit program pemerintah. Pola ini menunjukkan BI memilih menahan kurs lebih dulu sambil tetap membuka keran kredit, ketimbang mengetatkan ekonomi secara menyeluruh. Yang akan menentukan apakah langkah ini cukup adalah pergerakan rupiah dalam beberapa minggu mendatang serta keputusan Rapat Dewan Gubernur berikutnya, sebab rupiah masih melemah 0,66 persen meski insentif lindung nilai sudah berjalan sejak Juni.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "mtsm-akui-salah-unggah-calk-revisi-laporan-keuangan-juni-2026",
@@ -1452,7 +1479,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah penggantian skema akses pasar Indonesia ke Uni Eropa, dari keringanan tarif sepihak GSP yang akan berakhir, menjadi perjanjian dagang resmi IEU-CEPA yang membebaskan bea masuk untuk 90,4 persen pos tarif ekspor begitu berlaku penuh, ditargetkan kuartal I 2027. Yang langsung terdampak adalah eksportir produk seperti alas kaki, tekstil, dan komoditas olahan yang mengincar pasar 27 negara Uni Eropa, serta UMKM dan petani kecil yang masih perlu pendampingan sertifikasi agar bisa memenuhi standar keberlanjutan Uni Eropa. Dibarengi dengan pembahasan awal perjanjian serupa dengan Inggris yang baru dimulai di London, pola ini mengarah ke strategi Indonesia mengganti fasilitas tarif sepihak yang bisa dicabut sewaktu-waktu dengan perjanjian dagang resmi yang mengikat kedua pihak. Yang akan menentukan apakah target ini tercapai sesuai rencana adalah proses ratifikasi di parlemen Indonesia dan Uni Eropa, karena IEU-CEPA baru berlaku penuh setelah prosedur hukum domestik kedua pihak selesai.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",

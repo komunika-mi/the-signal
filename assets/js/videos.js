@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "M8aj4CdkamU",
+  "title": "Wapres Baru Dinanti, Apa Efeknya Bagi Ekonomi?",
+  "category": "Makroekonomi",
+  "program": "Indonesia Business Forum",
+  "summary": "Proses pengisian kursi wakil presiden menjelang pelantikan 9 Desember 2026 dibahas dari sisi dampaknya terhadap arah perekonomian dan sentimen pasar domestik.",
+  "takeaway": "Transisi kepemimpinan di jajaran eksekutif kerap memengaruhi persepsi pelaku pasar, sehingga relevan dipantau pembaca ekonomi.",
+  "terbit": "2026-11-18T17:17:52+00:00"
+ },
+ {
+  "id": "CLPf2WbZ9ec",
+  "title": "Wamenko Perekonomian Bantah Daya Beli Lemah",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Wakil Menteri Koordinator Bidang Perekonomian membantah anggapan bahwa daya beli masyarakat sedang melemah dengan memaparkan sejumlah data pendukung.",
+  "takeaway": "Daya beli masyarakat adalah indikator inti pertumbuhan konsumsi yang berpengaruh langsung pada kinerja ekonomi nasional.",
+  "terbit": "2026-11-18T16:48:50+00:00"
+ },
+ {
   "id": "TeGHpY8xunM",
   "title": "Wapres Baru Dinanti, Apa Efeknya bagi Ekonomi?",
   "category": "Makroekonomi",

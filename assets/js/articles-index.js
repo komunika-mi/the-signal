@@ -37,6 +37,23 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol",
+  "category": "BUMN",
+  "title": "Hadapi Musim Hujan, Jasa Marga [Perkuat] Kesiagaan Tol",
+  "deck": "PT Jasa Marga menyiagakan ratusan tim dan unit pompa air di jalan tol menjelang musim hujan 2026-2027.",
+  "date": "18 November 2026",
+  "image": "assets/img/hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol.jpg",
+  "imageV": "mwmhycpl",
+  "tags": [
+   "jasa marga",
+   "musim hujan",
+   "jalan tol",
+   "bumn"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479128-hadapi-musim-hujan-jasa-marga-perkuat-kesiapan-operasional-jalan-tol"
+ },
+ {
   "slug": "pegadaian-ajak-warga-bogor-tanam-pohon-di-hulu-ciliwung",
   "category": "BUMN",
   "title": "Pegadaian Ajak Warga Bogor [Tanam] Pohon di Hulu Ciliwung",
@@ -6511,22 +6528,6 @@ var ARTICLES = [
    "Akuisisi PEAR"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e7aa32543b_399c068955.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nayz-bentuk-anak-usaha-isd-rencana-inbreng-bt-berlanjut",
-  "category": "Aksi Korporasi",
-  "title": "NAYZ Bentuk Anak Usaha ISD, Rencana [Inbreng] BT Berlanjut",
-  "deck": "NAYZ menjelaskan ke Bursa bahwa anak usaha baru ISD belum punya studi kelayakan dan izin usaha, sementara rencana suntik aset BT lewat rights issue masih menunggu RUPSLB.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NAYZ",
-   "Hassana Boga Sejahtera",
-   "rights issue",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/618465354f_48df098b5b.pdf",
   "sourceLabel": "IDX"
  }
 ];

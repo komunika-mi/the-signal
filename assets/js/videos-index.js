@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Gb-JSrOImdI",
+  "title": "PT Advansia Indotani Rayakan HUT ke-15, Dukung Petani",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "PT Advansia Indotani merayakan hari jadi ke-15 dengan tema Advansia Maju, Petani Makmur, menegaskan komitmen perusahaan mendukung kesejahteraan petani melalui produk agrikultur.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran industri agrikultur dalam mendukung produktivitas dan kesejahteraan petani."
+ },
+ {
+  "id": "f_g7rJQuzHw",
+  "title": "Serikat Pekerja Sampaikan Keluhan ke Pimpinan DPR",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Siang",
+  "summary": "Perwakilan serikat pekerja menyampaikan sejumlah keluhan dalam audiensi dengan Wakil Ketua DPR Sufmi Dasco Ahmad dan pimpinan Komisi VI DPR RI di Kompleks Parlemen, Jakarta.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut aspirasi pekerja yang berpotensi memengaruhi kebijakan ketenagakerjaan dan hubungan industrial."
+ },
+ {
   "id": "waJgz_UyA-M",
   "title": "Pertamina Gelar Simulasi Tanggap Darurat Energi Nasional",
   "category": "Energi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Menteri Keuangan Suahasil Nazara menyebut inflasi Indonesia sebesar 3,23 persen masih sesuai sasaran pemerintah, sekaligus meminta seluruh kementerian menjaga efisiensi belanja APBN.",
   "takeaway": "Data inflasi dan arahan efisiensi anggaran ini relevan bagi pembaca yang memantau kesehatan fiskal dan daya beli masyarakat."
- },
- {
-  "id": "UmxcA1Kp7Rs",
-  "title": "PT Pupuk Indonesia Bangun Ammonia Hub di Batam",
-  "category": "BUMN",
-  "program": "Kabar Merah Putih",
-  "summary": "PT Pupuk Indonesia menjajaki pembangunan pusat industri amonia di Batam dengan memanfaatkan gas alam dari Natuna dan Gresik untuk memperkuat hilirisasi.",
-  "takeaway": "Proyek ini menunjukkan langkah BUMN memperkuat hilirisasi industri kimia berbasis gas alam domestik."
- },
- {
-  "id": "OgQuAkgo640",
-  "title": "Anindya Bakrie: UMKM Kunci Keluar dari Middle Income Trap",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Ketua Umum Kadin Indonesia, Anindya Bakrie, menyatakan penguatan dan naik kelasnya UMKM menjadi kunci utama bagi Indonesia untuk keluar dari jebakan kelas menengah.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan penguatan UMKM yang berkontribusi besar terhadap struktur ekonomi domestik."
  }
 ];

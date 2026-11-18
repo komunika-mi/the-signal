@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor",
+  "category": "Bisnis",
+  "title": "KPPU Ungkap 78 dari 82 Kasus Merger [Terlambat] Lapor",
+  "deck": "KPPU mencatat 78 dari 82 perkara merger sejak 2000 terkait keterlambatan notifikasi, dengan denda hingga Rp25 miliar bagi perusahaan yang lalai melapor transaksi.",
+  "image": "assets/img/kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T07:42:34.705Z",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-perusahaan-harus-perhitungkan-risiko-persaingan-sejak-merencanakan-merger",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha",
+  "tags": [
+   "KPPU",
+   "Merger dan Akuisisi",
+   "Persaingan Usaha",
+   "Notifikasi"
+  ],
+  "body": [
+   "Komisi Pengawas Persaingan Usaha (KPPU) mengungkapkan bahwa dari 82 perkara merger dan akuisisi yang ditangani sejak tahun 2000 hingga Oktober 2026, sebanyak 78 perkara berkaitan dengan keterlambatan perusahaan menyampaikan notifikasi transaksi. Data ini disampaikan dalam forum bisnis yang mempertemukan pelaku usaha dengan pembahasan hukum persaingan usaha di Jakarta, Selasa (17/11). Pesan utamanya, perusahaan masih banyak yang baru memikirkan aspek persaingan usaha setelah transaksi selesai, bukan sejak tahap perencanaan, padahal keterlambatan itu bisa berujung denda besar.",
+   "Berdasarkan aturan yang berlaku, perusahaan wajib melaporkan transaksi merger atau akuisisi ke KPPU apabila nilai aset gabungan melebihi Rp2,5 triliun atau nilai penjualan gabungan melebihi Rp5 triliun, dan transaksi itu mengubah pihak yang mengendalikan perusahaan. Laporan wajib disampaikan paling lambat 30 hari kerja sejak transaksi berlaku efektif secara hukum. Jika terlambat, perusahaan bisa dikenai denda Rp1 miliar untuk setiap hari keterlambatan, dengan batas maksimal Rp25 miliar.",
+   "KPPU memberi dua contoh bagaimana penilaian merger bekerja dalam praktik. Pengambilalihan PT Semen Grobogan oleh PT Indocement Tunggal Prakarsa Tbk disetujui bersyarat pada 26 Agustus 2024, setelah ditemukan potensi kenaikan konsentrasi pasar serta risiko tertutupnya akses pasar bagi pesaing di segmen beton siap pakai atau ready-mix. Sementara itu, pengambilalihan saham PT Tokopedia oleh TikTok Nusantara disetujui bersyarat pada Juni 2025 dengan lima syarat pengawasan, yaitu kebebasan memilih layanan pembayaran dan logistik, larangan menyalahgunakan kekuatan pasar, kebebasan promosi lintas platform, larangan menaikkan harga secara tidak wajar, serta kesempatan setara bagi pelaku usaha kecil dan menengah. Pengawasan atas komitmen itu dijadwalkan berlangsung hingga 17 Juni 2027.",
+   "KPPU mendorong perusahaan menerapkan pengecekan risiko persaingan usaha sejak awal merencanakan transaksi, termasuk mendokumentasikan manfaat efisiensi dan berkonsultasi dengan KPPU sebelum transaksi berjalan jika diperlukan. Perusahaan juga bisa memanfaatkan konsultasi sukarela sebelum transaksi untuk mendeteksi masalah persaingan usaha lebih dini. Langkah ini, menurut KPPU, diperlukan agar aksi korporasi tidak hanya mengejar peningkatan skala usaha atau efisiensi, tetapi juga tetap menjaga proses persaingan dan kepentingan konsumen."
+  ],
+  "fotoAdegan": "Warehouse workers packing boxes on a conveyor belt inside a busy e-commerce fulfillment center, fluorescent lighting",
+  "fotoSumber": "https://kppu.go.id/uploads/news/1794910356_6afc289411e66_c7157a85-a3c0-4095-81b4-37a1089fa6bf.jpeg",
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "takeaway": "Angka yang mencolok dari paparan ini adalah 78 dari 82 perkara merger yang disidangkan KPPU sejak tahun 2000 ternyata soal keterlambatan lapor, bukan soal substansi persaingan usahanya. Artinya aturan ambang notifikasi, yakni transaksi dengan aset gabungan di atas Rp2,5 triliun atau penjualan di atas Rp5 triliun, sudah lama berlaku tapi masih banyak dilanggar meski dendanya bisa sampai Rp25 miliar. Yang terdampak langsung adalah direksi dan tim hukum perusahaan yang punya rencana merger atau akuisisi besar, karena KPPU mendorong mereka memeriksa risiko persaingan sejak awal, bukan menunggu transaksi selesai. Pola ini mengarah ke pendekatan KPPU yang lebih menekankan pencegahan lewat konsultasi sukarela dan pemantauan komitmen jangka panjang, seperti pengawasan atas akuisisi Tokopedia oleh TikTok yang baru akan selesai Juni 2027, ketimbang hanya mengandalkan denda setelah pelanggaran terjadi. Yang akan menunjukkan apakah pendekatan ini membuahkan hasil adalah apakah angka keterlambatan notifikasi pada data KPPU tahun berikutnya mulai turun.",
+  "imageV": "mwltlcnj"
+ },
+ {
+  "slug": "investor-eropa-diminta-susun-rencana-aksi-90-hari-proyek-energi",
+  "category": "Energi",
+  "title": "Investor Eropa Diminta Susun [Rencana Aksi] 90 Hari Proyek Energi",
+  "deck": "Pemerintah mengajak investor Eropa mempercepat realisasi proyek transisi energi melalui rencana aksi 90 hari, di tengah target RUPTL 69,5 gigawatt kapasitas listrik baru hingga 2034.",
+  "image": "assets/img/jaringan-listrik.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T07:41:24.610Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7231/percepat-realisasi-proyek-transisi-energi-pemerintah-ajak-investor-eropa-perkuat-kolaborasi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "transisi energi",
+   "investasi Eropa",
+   "RUPTL",
+   "energi terbarukan"
+  ],
+  "body": [
+   "Pemerintah mengajak investor dan penyedia teknologi energi dari Eropa untuk memperkuat kolaborasi mempercepat realisasi proyek transisi energi di Indonesia. Dorongan ini disampaikan Wakil Menteri Koordinator Bidang Perekonomian Dradjad Hari Wibowo dalam acara EuroCham Energy Dinner 2026 di Jakarta, Selasa (17/11). Ia menegaskan bahwa komitmen dan target besar energi bersih perlu segera diwujudkan menjadi proyek yang benar-benar layak dibiayai dan berjalan, bukan sekadar wacana.",
+   "Dalam kesempatan itu, Dradjad mengajukan tiga langkah kepada EuroCham Energy Working Group dan anggotanya. Pertama, memprioritaskan proyek energi terbarukan, bahan bakar nabati, hidrogen, serta pengolahan sampah menjadi energi. Kedua, memperkuat kolaborasi investor dan teknologi Eropa dengan PT PLN (Persero), Danantara, dan pengembang proyek. Ketiga, mempercepat implementasi lewat kepemilikan proyek yang jelas dan rencana aksi 90 hari.",
+   "Indonesia sendiri telah menetapkan arah pengembangan energi melalui Rencana Usaha Penyediaan Tenaga Listrik (RUPTL) 2025-2034, dengan target tambahan kapasitas pembangkit 69,5 gigawatt, terdiri dari 42,6 gigawatt energi terbarukan dan 10,3 gigawatt kapasitas penyimpanan energi. Rencana ini diperkirakan membutuhkan investasi sekitar Rp2.133,7 triliun dan berpotensi membuka lebih dari 1,7 juta lapangan kerja, termasuk sekitar 760 ribu pekerjaan ramah lingkungan. Program Pembangkit Listrik Tenaga Surya 100 gigawatt peak yang diluncurkan 25 Agustus 2026 memasuki tahap pertama dengan 14 proyek di enam provinsi berkapasitas gabungan 5,3 gigawatt peak, sementara program penggantian generator diesel di 741 lokasi membutuhkan sekitar 3,21 gigawatt peak tenaga surya dan 9,03 gigawatt jam kapasitas penyimpanan energi.",
+   "Pemerintah menyatakan tetap menyiapkan kanal debottlenecking untuk mengatasi hambatan proyek, seperti kepastian regulasi, ketersediaan lahan, kesiapan jaringan listrik, pembiayaan, dan proses perizinan. Kerja sama Indonesia-Uni Eropa melalui Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) disebut sebagai salah satu platform untuk memperkuat hubungan ekonomi dan investasi, termasuk di sektor energi."
+  ],
+  "fotoAdegan": "Workers installing rows of solar panels on an open field in rural Indonesia, electricity transmission towers visible in the distance, midday sun",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah dari pertemuan ini bukan targetnya, melainkan cara pemerintah memintanya dieksekusi. Alih-alih sekadar menyebut target besar seperti tambahan 69,5 gigawatt kapasitas listrik baru atau investasi Rp2.133,7 triliun dalam RUPTL 2025-2034, pemerintah kini meminta investor Eropa menyusun rencana aksi konkret dalam 90 hari dan menetapkan siapa yang bertanggung jawab atas tiap proyek. Pihak yang langsung kena dampak permintaan ini adalah anggota EuroCham Energy Working Group, PT PLN, dan Danantara yang diminta duduk bersama membahas proyek nyata, selain daerah penerima proyek seperti enam provinsi lokasi tahap pertama program pembangkit tenaga surya atau 741 lokasi yang akan beralih dari generator diesel ke tenaga surya. Pergeseran dari janji ke tenggat 90 hari ini mengarah pada pemerintah yang mulai mendesak kepastian eksekusi, bukan sekadar pengumpulan komitmen di atas kertas. Yang akan membuktikan apakah dorongan ini berhasil adalah apakah rencana aksi 90 hari itu benar muncul, dan apakah proyek tahap pertama program surya berkapasitas 5,3 gigawatt peak itu mencapai kesepakatan pembiayaan dalam beberapa bulan mendatang.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "bi-naikkan-suku-bunga-acuan-ke-6-demi-jaga-rupiah",
+  "category": "Moneter",
+  "title": "BI [Naikkan] Suku Bunga Acuan ke 6% demi Jaga Rupiah",
+  "deck": "Bank Indonesia menaikkan BI-Rate 25 basis poin menjadi 6,00% untuk menahan pelemahan rupiah, sembari tetap melonggarkan aturan kredit perbankan.",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T07:40:53.615Z",
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx",
+  "sourceLabel": "Bank Indonesia",
+  "tags": [
+   "BI-Rate",
+   "Rupiah",
+   "Bank Indonesia",
+   "Suku Bunga"
+  ],
+  "body": [
+   "Bank Indonesia menaikkan suku bunga acuannya, BI-Rate, sebesar 25 basis poin menjadi 6,00% dalam Rapat Dewan Gubernur pada 17-18 November 2026. Dua suku bunga pendamping juga naik dengan besaran yang sama, yaitu suku bunga simpanan bank di BI (Deposit Facility) menjadi 5,25% dan suku bunga pinjaman bank dari BI (Lending Facility) menjadi 6,75%. Bank Indonesia menyebut kenaikan ini sebagai langkah menjaga nilai tukar rupiah di tengah ketidakpastian global, sekaligus langkah antisipasi agar inflasi tahun 2026 dan 2027 tetap berada di kisaran target 2,5 persen plus minus 1 persen. Bagi masyarakat, kenaikan suku bunga acuan biasanya diikuti kenaikan bunga kredit dan deposito perbankan, meski efeknya baru terasa beberapa waktu ke depan.",
+   "Kenaikan ini terjadi saat rupiah tercatat Rp18.245 per dolar AS pada 17 November 2026, melemah 0,66 persen dibandingkan posisi akhir Oktober. Bank Indonesia mengaitkan pelemahan itu dengan ketidakpastian global, termasuk ketegangan di Timur Tengah, instabilitas politik di Eropa, dan prakiraan kenaikan suku bunga bank sentral Amerika Serikat yang membuat dolar tetap kuat terhadap mata uang negara berkembang. Untuk menahan tekanan itu, BI memberi insentif bagi transaksi lindung nilai rupiah, semacam proteksi bagi pelaku usaha dan investor dari risiko kurs, lewat instrumen swap dan transaksi memakai mata uang lokal negara mitra dagang. Sejak kebijakan ini berlaku Juni 2026, nilai transaksi lindung nilai yang terbentuk mencapai sekitar US$14,10 miliar hingga 17 November 2026.",
+   "Di sisi lain, inflasi konsumen justru melandai, dari 3,28 persen pada September menjadi 3,23 persen pada Oktober 2026 dibandingkan setahun sebelumnya, didorong inflasi inti yang turun ke 2,56 persen dan harga yang diatur pemerintah seperti BBM dan listrik yang turun ke 3,24 persen. Pengecualian ada pada harga pangan bergejolak seperti cabai dan beras, yang inflasinya justru naik ke 5,81 persen karena gangguan cuaca menekan produksi di sejumlah daerah sentra. Artinya, kenaikan BI-Rate kali ini lebih didorong tekanan dari luar negeri terhadap kurs rupiah, bukan oleh lonjakan inflasi di dalam negeri yang sedang mereda.",
+   "Meski menaikkan bunga acuan, BI tetap melonggarkan aturan perbankan agar kredit terus mengalir ke dunia usaha. Kredit perbankan tumbuh 13,21 persen pada Oktober 2026, ditopang kredit investasi yang tumbuh 21,32 persen dan kredit terkait program pemerintah yang tumbuh 20,8 persen. BI menyalurkan insentif likuiditas ke bank sebesar Rp466,2 triliun hingga awal November, dan memperkirakan kredit tahun ini masih tumbuh 8 sampai 12 persen. Ketahanan perbankan juga masih terjaga, tercermin dari rasio modal yang tinggi di 24,30 persen dan rasio kredit bermasalah yang rendah di 2,07 persen pada September 2026."
+  ],
+  "fotoAdegan": "Bank teller handing documents to a customer at a teller window inside a busy branch, soft indoor lighting",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah di sini bukan cuma angka bunga, tapi arah prioritas Bank Indonesia. Inflasi dalam negeri justru sedang melandai, tapi BI tetap menaikkan bunga acuan karena alasannya ada di luar negeri, yaitu rupiah yang melemah dan dolar yang terus menguat akibat prospek bunga Amerika Serikat yang masih tinggi. Di sisi lain, BI sengaja tidak mengetatkan kredit, insentif likuiditas ke bank malah ditambah supaya pinjaman ke dunia usaha tetap mengalir, jadi dampaknya lebih terasa bagi nasabah dengan bunga kredit mengambang dan pelaku usaha yang butuh dolar untuk impor atau bayar utang luar negeri, bukan bagi usaha kecil yang mengandalkan kredit program pemerintah. Pola ini menunjukkan BI memilih menahan kurs lebih dulu sambil tetap membuka keran kredit, ketimbang mengetatkan ekonomi secara menyeluruh. Yang akan menentukan apakah langkah ini cukup adalah pergerakan rupiah dalam beberapa minggu mendatang serta keputusan Rapat Dewan Gubernur berikutnya, sebab rupiah masih melemah 0,66 persen meski insentif lindung nilai sudah berjalan sejak Juni.",
+  "fotoGagal": 1
+ },
+ {
   "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
   "category": "Aksi Korporasi",
   "title": "MGLV Bantah [Reekspor Ilegal] GPU, Pastikan Tak Pernah Digeledah",
@@ -28,6 +112,60 @@ var ARTICLES = [
   "takeaway": "Laporan ini condong negatif bagi pemegang saham, bukan karena ada pelanggaran yang terbukti, melainkan karena perseroan sampai harus membantah secara formal tudingan reekspor ilegal GPU dan penggeledahan, tepat ketika aturan ekspor teknologi Amerika Serikat yang baru justru menyasar model bisnis hosting GPU yang menjadi andalan MGLV. Pos yang paling relevan dipantau bukan laba di atas kertas, tapi arus kas dari sewa ruang pusat data ke klien komputasi GPU, sebab kalau klien ragu menyewa kapasitas akibat sorotan regulasi atau rumor hukum semacam ini, pendapatan sewa yang menjadi sumber arus kas utama perseroan bisa ikut tertekan, meski MGLV menegaskan basis pelanggannya terdiversifikasi. Yang perlu dipantau selanjutnya adalah bagaimana implementasi Interim Final Rule BIS Amerika Serikat yang berlaku sejak 16 November 2026 itu memengaruhi klien-klien penyewa kapasitas MGLV, serta apakah otoritas di Indonesia maupun Amerika Serikat membuka pemeriksaan resmi menyusul spekulasi reekspor ilegal yang kini dibantah perseroan.",
   "sentimen": "negatif",
   "judulIdx": "Informasi atau Fakta Material Lainnya"
+ },
+ {
+  "slug": "infomedia-raih-penghargaan-frost-sullivan-2026-di-bpo-digital",
+  "category": "BUMN",
+  "title": "Infomedia Raih Penghargaan [Frost & Sullivan] 2026 di BPO Digital",
+  "deck": "Anak usaha Telkom Indonesia ini dinobatkan Company of the Year oleh Frost & Sullivan atas integrasi AI dalam layanan business process outsourcing di Indonesia.",
+  "image": "assets/img/infomedia-raih-penghargaan-frost-sullivan-2026-di-bpo-digital.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T12:02:22+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479008-infomedia-raih-penghargaan-frost-sullivan-2026-di-industri-digital-bpo",
+  "tags": [
+   "Infomedia",
+   "Telkom Indonesia",
+   "BPO",
+   "Frost & Sullivan"
+  ],
+  "body": [
+   "PT Infomedia Nusantara, perusahaan operasional di bawah PT Telkom Indonesia (Persero) Tbk, menerima pengakuan Frost & Sullivan 2026 Indonesian Company of the Year untuk industri business process outsourcing (BPO) digital. Penghargaan ini diberikan lembaga riset dan konsultan global tersebut atas keberhasilan Infomedia memasukkan kecerdasan buatan ke berbagai lini layanan bisnisnya. Pengakuan semacam ini biasa dipakai perusahaan sebagai bukti kredibilitas di hadapan calon klien korporat yang mempertimbangkan jasa alih daya layanan pelanggan berbasis teknologi.",
+   "Menurut Frost & Sullivan, kategori Company of the Year dinilai dari sejumlah indikator, antara lain pertumbuhan pangsa pasar, tingkat kepuasan pelanggan, daya saing perusahaan, serta kemampuan mendorong inovasi dan pertumbuhan industri secara berkelanjutan. Namun tidak ada angka spesifik yang disebutkan, seperti berapa persen pangsa pasar Infomedia naik atau berapa jumlah klien baru yang didapat berkat penerapan AI tersebut.",
+   "Infomedia menyebut pencapaian ini merupakan hasil dari strategi jangka panjang yang memadukan penguatan kemampuan teknologi dengan model bisnis berbasis nilai, yakni pendekatan yang menggabungkan sisi komersial, efisiensi operasional, dan kebutuhan pelanggan dalam satu kesatuan. Perusahaan menyebut tujuan dari strategi itu adalah menjaga stabilitas pendapatan, memperkuat kondisi keuangan, dan membuka peluang masuk ke segmen pasar baru.",
+   "Direktur Utama Infomedia, Eddy Sofryano, mengatakan, \"Pengakuan ini semakin menguatkan komitmen kami untuk membantu perusahaan mengubah pemanfaatan AI dan otomasi menjadi peningkatan nyata dalam kualitas layanan, efisiensi, dan ketahanan bisnis. Di Infomedia, kami memadukan keahlian manusia, teknologi cerdas, dan operasional yang disiplin untuk menghadirkan transformasi yang memberikan nilai bermakna bagi pelanggan.\""
+  ],
+  "fotoAdegan": "Customer service agents wearing headsets working at rows of desks in a modern call center office, soft blurred computer screens, Jakarta skyline through windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/18/6afd2fdf8502e-infomedia-operating-company-telkom-meraih-pengakuan-frost-sullivan-2026-indonesian-company-of-the-year-pada-industri-digital-business-process-outsourcing-bpo_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini murni soal pengakuan dari luar, Infomedia mendapat status Company of the Year dari lembaga riset Frost & Sullivan untuk sektor BPO digital, bukan perubahan kebijakan, harga, atau struktur bisnis yang bisa langsung diukur dampaknya. Yang terdampak secara langsung adalah reputasi Infomedia dan induk usahanya, Telkom Indonesia, karena gelar semacam ini biasanya dipakai sebagai bahan promosi ke calon klien korporat yang menimbang jasa alih daya layanan pelanggan berbasis AI. Belum ada angka konkret di balik klaim ini, seperti berapa besar kontribusi AI terhadap pendapatan Infomedia, berapa klien baru yang didapat, atau seberapa besar penghematan biaya operasional yang sebenarnya terjadi. Supaya pengakuan ini bisa dibaca sebagai sinyal bisnis yang nyata dan bukan sekadar nilai reputasi, perlu dicek laporan keuangan Telkom Indonesia berikutnya atau laporan tahunan Infomedia untuk melihat apakah lini bisnis BPO digital ini memang tumbuh secara nyata.",
+  "imageV": "mwltle65"
+ },
+ {
+  "slug": "bri-salurkan-rp12-61-triliun-kredit-program-perumahan",
+  "category": "BUMN",
+  "title": "BRI Salurkan [Rp12,61 Triliun] Kredit Program Perumahan",
+  "deck": "BRI merealisasikan Rp12,61 triliun kredit program perumahan dan Rp17,15 triliun bantuan sosial hingga kuartal III 2026, bagian dari sinergi dengan program pemerintah.",
+  "image": "assets/img/bri-salurkan-rp12-61-triliun-kredit-program-perumahan.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T11:33:25+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478999-bri-perkuat-sinergi-dengan-pemerintah-salurkan-dana-kredit-program-perumahan",
+  "tags": [
+   "BRI",
+   "Kredit Program Perumahan",
+   "Bantuan Sosial",
+   "BUMN"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk atau BRI melaporkan penguatan kerja sama dengan pemerintah lewat penyaluran Kredit Program Perumahan (KPP) senilai Rp12,61 triliun hingga September 2026. Dana ini disalurkan untuk membantu pelaku usaha mikro, kecil, dan menengah di sektor perumahan dan konstruksi memperoleh modal, baik untuk membangun maupun merenovasi tempat usaha. Realisasi tersebut setara 90,05 persen dari target penyaluran KPP sepanjang tahun ini, sehingga tersisa satu kuartal bagi BRI untuk menuntaskan sisanya.",
+   "Di sektor perumahan, BRI juga menjalankan Fasilitas Likuiditas Pembiayaan Perumahan (FLPP), skema yang membantu masyarakat berpenghasilan rendah memperoleh kredit rumah subsidi dengan bunga lebih murah. Dalam konferensi pers kinerja keuangan kuartal III 2026, Wakil Direktur Utama BRI Viviana Dyah Ayu R.K. menyebut keterlibatan BRI dalam program pemerintah ini sebagai bagian dari peran perseroan sebagai mitra strategis pembangunan ekonomi nasional. Menurutnya, penyaluran pembiayaan ini berjalan beriringan dengan upaya memperkuat ekosistem ekonomi yang lebih inklusif.",
+   "Di luar sektor perumahan, BRI juga menjadi penyalur bantuan sosial pemerintah berupa Program Keluarga Harapan dan bantuan sembako. Hingga periode yang sama, total bantuan yang disalurkan mencapai Rp17,15 triliun untuk 8,6 juta penerima manfaat, yang berarti seluruh target penyaluran tahun ini sudah terpenuhi 100 persen.",
+   "BRI turut memperluas akses layanan perbankan bagi pekerja di sektor pertanian dan perikanan melalui pembagian lebih dari 5,6 juta kartu, terdiri dari sekitar 5,18 juta Kartu Tani dan 513 ribu Kartu Kusuka. Kartu-kartu ini dirancang agar petani dan pelaku usaha perikanan lebih mudah mengakses layanan dan transaksi perbankan."
+  ],
+  "fotoAdegan": "Workers mixing cement and laying bricks at a small residential construction site, modest houses nearby, midday sunlight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/18/6afd291ec4949-bri-perkuat-sinergi-dengan-pemerintah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret di sini: BRI sudah menyalurkan Rp12,61 triliun kredit untuk program perumahan sampai akhir September, tinggal menyisakan sekitar 10 persen dari target setahun, sementara bantuan sosial berupa dana PKH dan sembako senilai Rp17,15 triliun untuk 8,6 juta orang sudah tuntas 100 persen padahal tahun belum berakhir. Yang kena dampak langsung adalah pelaku UMKM di sektor perumahan dan konstruksi yang butuh modal, keluarga penerima bantuan sosial, serta petani dan nelayan yang kini punya 5,6 juta kartu untuk membuka akses ke layanan perbankan. Dengan realisasi kredit perumahan yang sudah di atas 90 persen pada kuartal ketiga, arahnya kemungkinan besar target itu akan tercapai penuh atau bahkan terlampaui sebelum tahun tutup buku, sementara bantuan sosial yang targetnya sudah habis terpakai sejak kuartal ketiga menunjukkan bank ini makin menjadi jalur utama penyaluran program pemerintah, bukan sekadar pemberi pinjaman biasa. Yang akan memastikan arah ini adalah laporan kinerja keuangan BRI untuk tahun penuh 2026 yang biasanya terbit awal tahun depan, karena di situ akan terlihat apakah target kredit perumahan benar tercapai dan apakah ada tambahan alokasi bantuan sosial baru di luar yang sudah ditetapkan.",
+  "imageV": "mwltlenq"
  },
  {
   "slug": "ptpp-kontrak-baru-3-proyek-irigasi-pu-airi-8-905-hektare-sawah",
@@ -112,6 +250,32 @@ var ARTICLES = [
   "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-514-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.514.000/Gram",
+  "deck": "Harga emas Antam turun Rp1.000 menjadi Rp2.514.000 per gram pada 18 November 2026, sementara harga buyback ikut turun ke Rp2.272.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-514-000-gram.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T09:55:14+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478983-harga-emas-antam-hari-ini-18-november-2026-turun-tipis-jadi-rp2514000-per-gram",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "buyback emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam pada Rabu, 18 November 2026, tercatat turun tipis Rp1.000 menjadi Rp2.514.000 per gram. Pergerakan ini penting dipantau masyarakat yang menyimpan atau berencana membeli emas batangan sebagai tabungan, meski selisihnya terhitung kecil dibanding harga sehari sebelumnya.",
+   "Berdasarkan data dari laman resmi Logam Mulia, harga emas Antam turun dari Rp2.515.000 per gram menjadi Rp2.514.000 per gram. Harga beli kembali atau buyback, yakni harga yang diterima masyarakat jika menjual kembali emas Antam miliknya ke Antam, juga ikut turun menjadi Rp2.272.000 per gram.",
+   "Perlu diingat, harga emas batangan Antam ini dapat berubah sewaktu-waktu mengikuti pergerakan pasar emas dunia dan kurs rupiah. Artinya, harga yang berlaku saat transaksi di gerai atau situs resmi Antam bisa saja berbeda dari angka yang tercatat pada pagi hari ini."
+  ],
+  "fotoAdegan": "A jeweler's hands using a small digital scale to weigh gold bullion bars at a precious metals counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/20/67dbcd5e179d5-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan hari ini sebenarnya kecil, harga jual emas Antam turun Rp1.000 jadi Rp2.514.000 per gram, dan harga beli kembali, yaitu harga yang diterima orang kalau menjual emas Antamnya ke Antam, turun ke Rp2.272.000 per gram. Yang kena dampak langsung adalah masyarakat yang menyimpan emas batangan Antam sebagai tabungan atau yang mau bertransaksi hari ini, karena selisih Rp1.000 per gram ini menentukan harga jual-beli saat itu. Dari data satu hari saja belum bisa disimpulkan apakah ini awal tren turun atau sekadar koreksi kecil, sebab pergerakan Rp1.000 dari harga sekitar Rp2,5 juta tergolong sangat tipis. Yang perlu dipantau adalah harga beberapa hari mendatang serta pergerakan harga emas dunia, karena harga Antam biasanya mengikuti arah harga emas internasional dan nilai tukar rupiah.",
+  "imageV": "mwltlf44"
+ },
+ {
   "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
   "category": "Aksi Korporasi",
   "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",
@@ -168,6 +332,28 @@ var ARTICLES = [
   "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
  },
  {
+  "slug": "penipuan-qris-marak-ini-cara-aman-pakai-shopeepay",
+  "category": "Teknologi",
+  "title": "Penipuan QRIS Marak, Ini Cara [Aman] Pakai ShopeePay",
+  "deck": "Transaksi QRIS makin umum, tapi modus penipuan seperti kode QR palsu dan pesan tiruan ikut meningkat. ShopeePay menawarkan fitur pengecekan transaksi plus cashback hingga Rp100 ribu.",
+  "image": "assets/img/penipuan-qris-marak-ini-cara-aman-pakai-shopeepay.jpg",
+  "date": "18 November 2026",
+  "isoDate": "2026-11-18T09:00:26+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478889-waspada-penipuan-digital-ini-cara-aman-dan-hemat-bayar-qris-pakai-shopeepay",
+  "tags": [],
+  "body": [
+   "Pembayaran dengan memindai kode QRIS kini jadi kebiasaan banyak orang karena praktis untuk beli makanan, belanja, atau bayar berbagai kebutuhan sehari-hari. Namun kemudahan ini juga membuka celah penipuan, karena pelaku kejahatan ikut memanfaatkan popularitas QRIS untuk mengincar dana pengguna yang lengah.",
+   "Salah satu modus yang perlu diwaspadai adalah penggantian kode QR asli dengan kode QR milik pelaku, yang biasanya ditempelkan di lokasi pembayaran seperti meja kasir. Kalau pengguna langsung memindai dan membayar tanpa memeriksa detailnya, uang yang seharusnya masuk ke toko atau restoran malah mengalir ke rekening orang lain. Selain modus fisik ini, penipuan juga datang lewat tautan promosi palsu dan pesan WhatsApp yang mengatasnamakan layanan pembayaran resmi.",
+   "Untuk mengantisipasinya, ShopeePay menyarankan pengguna mengecek nama penerima dan jumlah tagihan yang muncul di halaman konfirmasi sebelum menekan tombol bayar. Kalau nama merchant tidak sesuai dengan toko yang dikunjungi, atau nominalnya berbeda dari yang seharusnya, transaksi sebaiknya dihentikan dulu dan dikonfirmasi langsung ke penjual. Kebiasaan memeriksa detail ini juga berlaku untuk transaksi belanja online, karena kode QR yang dibagikan lewat sumber tidak dikenal berisiko sama dengan kode QR palsu di lokasi fisik.",
+   "Sebagai bagian dari dorongan bertransaksi lebih aman, ShopeePay juga menawarkan cashback hingga Rp100 ribu bagi pengguna yang membayar QRIS lewat aplikasinya."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/17/6afc58d27d842-ilustrasi-waspada-penipuan-digital-ini-cara-aman-dan-hemat-bayar-qris-pakai-shopeepay_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau kebijakan, melainkan imbauan keamanan dari ShopeePay sekaligus insentif cashback sampai Rp100 ribu untuk menarik orang membayar QRIS lewat aplikasi mereka. Yang kena dampak langsung adalah pengguna pembayaran digital harian dan pedagang atau merchant yang menerima QRIS, karena merekalah yang berisiko rugi kalau kode QR dipalsukan di tempat usaha. Beritanya tidak menyebut data resmi dari Bank Indonesia atau kepolisian soal berapa banyak kasus penipuan QRIS belakangan ini, jadi belum bisa dipastikan apakah risiko ini memang sedang naik atau cuma imbauan rutin. Yang perlu dicermati selanjutnya adalah apakah Bank Indonesia atau asosiasi sistem pembayaran merilis data tren penipuan QRIS secara resmi, karena itu yang akan menentukan apakah peringatan semacam ini mencerminkan ancaman yang membesar atau sekadar edukasi berkala.",
+  "imageV": "mwltlfkh"
+ },
+ {
   "slug": "ri-teken-ieu-cepa-dengan-uni-eropa-21-november",
   "category": "Global",
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
@@ -193,7 +379,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkretnya adalah penggantian skema akses pasar Indonesia ke Uni Eropa, dari keringanan tarif sepihak GSP yang akan berakhir, menjadi perjanjian dagang resmi IEU-CEPA yang membebaskan bea masuk untuk 90,4 persen pos tarif ekspor begitu berlaku penuh, ditargetkan kuartal I 2027. Yang langsung terdampak adalah eksportir produk seperti alas kaki, tekstil, dan komoditas olahan yang mengincar pasar 27 negara Uni Eropa, serta UMKM dan petani kecil yang masih perlu pendampingan sertifikasi agar bisa memenuhi standar keberlanjutan Uni Eropa. Dibarengi dengan pembahasan awal perjanjian serupa dengan Inggris yang baru dimulai di London, pola ini mengarah ke strategi Indonesia mengganti fasilitas tarif sepihak yang bisa dicabut sewaktu-waktu dengan perjanjian dagang resmi yang mengikat kedua pihak. Yang akan menentukan apakah target ini tercapai sesuai rencana adalah proses ratifikasi di parlemen Indonesia dan Uni Eropa, karena IEU-CEPA baru berlaku penuh setelah prosedur hukum domestik kedua pihak selesai.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",
@@ -42008,7 +42194,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Uang Beredar [Tumbuh] 8,3% Meski Penyaluran Kredit Melambat",
   "deck": "BI mencatat uang beredar tumbuh 8,3 persen pada September 2026, naik tipis dari bulan sebelumnya, sementara penyaluran kredit ke masyarakat justru melambat menjadi 12,7 persen.",
-  "image": "assets/img/rupiah-kurs.jpg",
+  "image": "assets/img/sidang-komisi-dpr.jpg",
   "date": "23 Oktober 2026",
   "isoDate": "2026-10-23T04:37:13.338Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823526.aspx",
@@ -45106,7 +45292,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI [Tahan] Suku Bunga 5,75%, Perkuat Insentif Jaga Rupiah",
   "deck": "Bank Indonesia menahan BI-Rate di 5,75% dan menaikkan bunga simpanan bank di BI, sembari memperbesar insentif bagi investor asing untuk menahan pelemahan rupiah.",
-  "image": "assets/img/sidang-komisi-dpr.jpg",
+  "image": "assets/img/pelantikan-pejabat.jpg",
   "date": "21 Oktober 2026",
   "isoDate": "2026-10-21T09:07:15.810Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823326.aspx",
@@ -49410,7 +49596,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "BI Gandeng IFSB-IILM Bahas [Ketahanan] Keuangan Syariah",
   "deck": "Bank Indonesia bersama IFSB dan IILM menggelar seminar internasional soal risiko dan ketahanan keuangan syariah, saat aset syariah RI tumbuh 10 persen jadi Rp3.264 triliun.",
-  "image": "assets/img/pelantikan-pejabat.jpg",
+  "image": "assets/img/podium-kosong-briefing.jpg",
   "date": "19 Oktober 2026",
   "isoDate": "2026-10-19T07:36:25.825Z",
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2823226.aspx",
@@ -77796,7 +77982,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pemerintah Kejar Tambahan [100 Gigawatt] Pembangkit Listrik",
   "deck": "Menko Airlangga sebut kapasitas pembangkit listrik perlu naik hingga 100 gigawatt untuk mendukung target investasi Rp2.218-2.258 triliun demi pertumbuhan ekonomi 6 persen pada 2027.",
-  "image": "assets/img/jaringan-listrik.jpg",
+  "image": "assets/img/spbu-bbm.jpg",
   "date": "29 September 2026",
   "isoDate": "2026-09-29T10:09:53.730Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7116/menko-airlangga-green-energy-dan-digital-development-jadi-twin-engine-pertumbuhan-ekonomi",
@@ -81597,7 +81783,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Pengguna QRIS Tembus 65,8 Juta, Transaksi [Tumbuh] 93,9%",
   "deck": "Rangkaian FEKDI x IFSE 2026 ditutup dengan data terbaru: transaksi QRIS semester I 2026 tumbuh 93,92 persen menjadi Rp1,12 kuadriliun, dan cakupannya ke luar negeri bertambah.",
-  "image": "assets/img/podium-kosong-briefing.jpg",
+  "image": "assets/img/meja-kebijakan.jpg",
   "date": "26 September 2026",
   "isoDate": "2026-09-26T16:36:34.949Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7114/pemerintah-perkuat-transformasi-ekonomi-digital-untuk-dorong-produktivitas-dan-daya-saing-nasional",
@@ -99114,7 +99300,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Bioetanol Lampung Ditarget Produksi [Desember 2026]",
   "deck": "Kementerian Investasi/BKPM, Pertamina, dan Toyota membangun pusat pengembangan bioetanol di Lampung, kapasitas awal 60 kiloliter, target produksi Desember 2026.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/kilang-minyak.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T11:38:41.568Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-resmikan-peluncuran-bioethanol-development-center-di-lampung",
@@ -123045,7 +123231,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Tembus] Rp17.750 usai The Fed Sinyalkan Kenaikan Bunga",
   "deck": "Rupiah dibuka melemah 0,32 persen ke Rp17.750 per dolar AS pada Senin pagi, menyusul penguatan dolar AS setelah Ketua The Fed Kevin Warsh membuka peluang kenaikan suku bunga.",
-  "image": "assets/img/meja-kebijakan.jpg",
+  "image": "assets/img/konpers-podium.jpg",
   "date": "31 Agustus 2026",
   "isoDate": "2026-08-31T09:40:18+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463786-rupiah-awali-pekan-di-zona-merah-tembus-rp17750-per-dolar-as",
@@ -123545,7 +123731,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Aturan [Baru] DHE SDA Berlaku 1 September, Ini Kriterianya",
   "deck": "Pemerintah menetapkan lima negara mitra dan kriteria eksportir tambang yang berhak memakai skema khusus devisa hasil ekspor SDA mulai 1 September 2026.",
-  "image": "assets/img/konpers-podium.jpg",
+  "image": "assets/img/rapat-dewan-gubernur.jpg",
   "date": "30 Agustus 2026",
   "isoDate": "2026-08-30T02:00:26+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463543-dhe-sda-berubah-mulai-1-september-ini-5-negara-dan-15-bank-yang-masuk-skema-baru",
@@ -123626,7 +123812,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tekan Dolar AS ke Rp17.693",
   "deck": "Dolar AS melemah 0,29% ke Rp17.693 pada perdagangan Sabtu, meski masih menguat 6,07% terhadap rupiah sepanjang 2026.",
-  "image": "assets/img/rapat-dewan-gubernur.jpg",
+  "image": "assets/img/wartawan-menunggu.jpg",
   "date": "29 Agustus 2026",
   "isoDate": "2026-08-29T22:30:21+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/463480-rupiah-balik-menekan-dolar-as-mata-uang-paman-sam-turun-ke-rp17693",
@@ -126940,7 +127126,7 @@ var ARTICLES = [
   "category": "Moneter",
   "title": "Rupiah [Menguat] Tipis ke Rp17.695, Ikuti Asia",
   "deck": "Rupiah naik 28 poin ke Rp17.695 per dolar AS, sejalan dengan penguatan mayoritas mata uang Asia, sementara euro dan poundsterling melemah.",
-  "image": "assets/img/wartawan-menunggu.jpg",
+  "image": "assets/img/koin-logam.jpg",
   "date": "26 Agustus 2026",
   "isoDate": "2026-08-26T11:10:42+07:00",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/462595-rupiah-kembali-menguat-tembus-rp17695-per-dolar-as-di-tengah-penguatan-mata-uang-asia",

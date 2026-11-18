@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor",
+  "category": "Bisnis",
+  "title": "KPPU Ungkap 78 dari 82 Kasus Merger [Terlambat] Lapor",
+  "deck": "KPPU mencatat 78 dari 82 perkara merger sejak 2000 terkait keterlambatan notifikasi, dengan denda hingga Rp25 miliar bagi perusahaan yang lalai melapor transaksi.",
+  "date": "18 November 2026",
+  "image": "assets/img/kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor.jpg",
+  "imageV": "mwltlcnj",
+  "tags": [
+   "KPPU",
+   "Merger dan Akuisisi",
+   "Persaingan Usaha",
+   "Notifikasi"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-perusahaan-harus-perhitungkan-risiko-persaingan-sejak-merencanakan-merger",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "investor-eropa-diminta-susun-rencana-aksi-90-hari-proyek-energi",
+  "category": "Energi",
+  "title": "Investor Eropa Diminta Susun [Rencana Aksi] 90 Hari Proyek Energi",
+  "deck": "Pemerintah mengajak investor Eropa mempercepat realisasi proyek transisi energi melalui rencana aksi 90 hari, di tengah target RUPTL 69,5 gigawatt kapasitas listrik baru hingga 2034.",
+  "date": "18 November 2026",
+  "image": "assets/img/jaringan-listrik.jpg",
+  "tags": [
+   "transisi energi",
+   "investasi Eropa",
+   "RUPTL",
+   "energi terbarukan"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7231/percepat-realisasi-proyek-transisi-energi-pemerintah-ajak-investor-eropa-perkuat-kolaborasi",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bi-naikkan-suku-bunga-acuan-ke-6-demi-jaga-rupiah",
+  "category": "Moneter",
+  "title": "BI [Naikkan] Suku Bunga Acuan ke 6% demi Jaga Rupiah",
+  "deck": "Bank Indonesia menaikkan BI-Rate 25 basis poin menjadi 6,00% untuk menahan pelemahan rupiah, sembari tetap melonggarkan aturan kredit perbankan.",
+  "date": "18 November 2026",
+  "image": "assets/img/rupiah-kurs.jpg",
+  "tags": [
+   "BI-Rate",
+   "Rupiah",
+   "Bank Indonesia",
+   "Suku Bunga"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
   "category": "Aksi Korporasi",
   "title": "MGLV Bantah [Reekspor Ilegal] GPU, Pastikan Tak Pernah Digeledah",
@@ -19,6 +69,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f630909a3_1660579a5d.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "infomedia-raih-penghargaan-frost-sullivan-2026-di-bpo-digital",
+  "category": "BUMN",
+  "title": "Infomedia Raih Penghargaan [Frost & Sullivan] 2026 di BPO Digital",
+  "deck": "Anak usaha Telkom Indonesia ini dinobatkan Company of the Year oleh Frost & Sullivan atas integrasi AI dalam layanan business process outsourcing di Indonesia.",
+  "date": "18 November 2026",
+  "image": "assets/img/infomedia-raih-penghargaan-frost-sullivan-2026-di-bpo-digital.jpg",
+  "imageV": "mwltle65",
+  "tags": [
+   "Infomedia",
+   "Telkom Indonesia",
+   "BPO",
+   "Frost & Sullivan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479008-infomedia-raih-penghargaan-frost-sullivan-2026-di-industri-digital-bpo"
+ },
+ {
+  "slug": "bri-salurkan-rp12-61-triliun-kredit-program-perumahan",
+  "category": "BUMN",
+  "title": "BRI Salurkan [Rp12,61 Triliun] Kredit Program Perumahan",
+  "deck": "BRI merealisasikan Rp12,61 triliun kredit program perumahan dan Rp17,15 triliun bantuan sosial hingga kuartal III 2026, bagian dari sinergi dengan program pemerintah.",
+  "date": "18 November 2026",
+  "image": "assets/img/bri-salurkan-rp12-61-triliun-kredit-program-perumahan.jpg",
+  "imageV": "mwltlenq",
+  "tags": [
+   "BRI",
+   "Kredit Program Perumahan",
+   "Bantuan Sosial",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478999-bri-perkuat-sinergi-dengan-pemerintah-salurkan-dana-kredit-program-perumahan"
  },
  {
   "slug": "ptpp-kontrak-baru-3-proyek-irigasi-pu-airi-8-905-hektare-sawah",
@@ -69,6 +153,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-turun-tipis-ke-rp2-514-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.514.000/Gram",
+  "deck": "Harga emas Antam turun Rp1.000 menjadi Rp2.514.000 per gram pada 18 November 2026, sementara harga buyback ikut turun ke Rp2.272.000 per gram.",
+  "date": "18 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-514-000-gram.jpg",
+  "imageV": "mwltlf44",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "buyback emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478983-harga-emas-antam-hari-ini-18-november-2026-turun-tipis-jadi-rp2514000-per-gram"
+ },
+ {
   "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
   "category": "Aksi Korporasi",
   "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",
@@ -99,6 +200,18 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-4233-00.pdf-0.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penipuan-qris-marak-ini-cara-aman-pakai-shopeepay",
+  "category": "Teknologi",
+  "title": "Penipuan QRIS Marak, Ini Cara [Aman] Pakai ShopeePay",
+  "deck": "Transaksi QRIS makin umum, tapi modus penipuan seperti kode QR palsu dan pesan tiruan ikut meningkat. ShopeePay menawarkan fitur pengecekan transaksi plus cashback hingga Rp100 ribu.",
+  "date": "18 November 2026",
+  "image": "assets/img/penipuan-qris-marak-ini-cara-aman-pakai-shopeepay.jpg",
+  "imageV": "mwltlfkh",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/478889-waspada-penipuan-digital-ini-cara-aman-dan-hemat-bayar-qris-pakai-shopeepay"
  },
  {
   "slug": "ri-teken-ieu-cepa-dengan-uni-eropa-21-november",
@@ -6413,118 +6526,6 @@ var ARTICLES = [
    "Batu Bara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c206fdd991_4b34d9d1db.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bei-resmi-delisting-saham-sril-mulai-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "BEI Resmi [Delisting] Saham SRIL Mulai 10 November 2026",
-  "deck": "Bursa Efek Indonesia mencabut status tercatat Sri Rejeki Isman (SRIL) efektif 10 November 2026 karena forced delisting dan go private.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRIL",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3456c61142_27d261efb9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cowl-resmi-delisting-dari-bei-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "COWL Resmi [Delisting] dari BEI per 10 November 2026",
-  "deck": "BEI resmi delisting saham COWL efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang juga dihapus dari pencatatan bursa.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COWL",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ba108abcd6_e35993ed32.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lcgp-resmi-delisting-dari-bei-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "LCGP Resmi [Delisting] dari BEI per 10 November 2026",
-  "deck": "Bursa Efek Indonesia mencabut status tercatat PT Eureka Prima Jakarta Tbk (LCGP) akibat forced delisting dan go private, bersama 17 emiten lain dalam satu pengumuman.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LCGP",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/80bc8cc31f_d1176fe971.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "plas-resmi-delisting-dari-bei-gabung-17-emiten-lain",
-  "category": "Aksi Korporasi",
-  "title": "PLAS Resmi [Delisting] dari BEI, Gabung 17 Emiten Lain",
-  "deck": "Bursa Efek Indonesia menghapus pencatatan saham PLAS efektif 10 November 2026 karena forced delisting dan go private, bersama 17 emiten lain yang disuspensi lama.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLAS",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/913d831c50_17870684c5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "toys-resmi-delisting-dari-bei-per-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "TOYS Resmi [Delisting] dari BEI per 10 November 2026",
-  "deck": "BEI mencabut status tercatat saham TOYS efektif 10 November 2026 akibat forced delisting dan go private, bagian dari 18 emiten yang didelisting bersamaan.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOYS",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2f8586cd52_a9fc19b056.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "unit-resmi-delisting-dari-bei-mulai-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "UNIT resmi [delisting] dari BEI mulai 10 November 2026",
-  "deck": "Bursa Efek Indonesia mencabut status PT Nusantara Inti Corpora Tbk (UNIT) sebagai perusahaan tercatat akibat forced delisting dan go private.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "UNIT",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/033391f130_4c2c82add7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "lmas-kena-delisting-paksa-bei-efektif-10-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "LMAS Kena [Delisting] Paksa BEI, Efektif 10 November 2026",
-  "deck": "BEI resmi mencabut status perusahaan tercatat LMAS beserta 17 emiten lain, efektif 10 November 2026, setelah saham disuspensi lebih dari 24 bulan tanpa tanda pemulihan.",
-  "date": "9 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LMAS",
-   "delisting",
-   "BEI",
-   "go private"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9bab99186e_cd4c8e15bd.pdf",
   "sourceLabel": "IDX"
  }
 ];

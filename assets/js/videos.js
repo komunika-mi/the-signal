@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Gb-JSrOImdI",
+  "title": "PT Advansia Indotani Rayakan HUT ke-15, Dukung Petani",
+  "category": "Industri",
+  "program": "Kabar Siang",
+  "summary": "PT Advansia Indotani merayakan hari jadi ke-15 dengan tema Advansia Maju, Petani Makmur, menegaskan komitmen perusahaan mendukung kesejahteraan petani melalui produk agrikultur.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran industri agrikultur dalam mendukung produktivitas dan kesejahteraan petani.",
+  "terbit": "2026-11-18T06:20:20+00:00"
+ },
+ {
+  "id": "f_g7rJQuzHw",
+  "title": "Serikat Pekerja Sampaikan Keluhan ke Pimpinan DPR",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Siang",
+  "summary": "Perwakilan serikat pekerja menyampaikan sejumlah keluhan dalam audiensi dengan Wakil Ketua DPR Sufmi Dasco Ahmad dan pimpinan Komisi VI DPR RI di Kompleks Parlemen, Jakarta.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut aspirasi pekerja yang berpotensi memengaruhi kebijakan ketenagakerjaan dan hubungan industrial.",
+  "terbit": "2026-11-18T06:15:29+00:00"
+ },
+ {
   "id": "waJgz_UyA-M",
   "title": "Pertamina Gelar Simulasi Tanggap Darurat Energi Nasional",
   "category": "Energi",

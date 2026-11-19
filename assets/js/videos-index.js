@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "W9mEPp_4v8U",
+  "title": "Presiden Prabowo Bawa Komitmen Investasi Rp1.310 Triliun dari China",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Presiden Prabowo Subianto menyaksikan penandatanganan sejumlah nota kesepahaman dengan China yang memperkuat komitmen investasi senilai Rp1.310 triliun dalam rangkaian kunjungan kenegaraan ke China.",
+  "takeaway": "Komitmen investasi sebesar itu layak disimak karena berpotensi mendorong penciptaan lapangan kerja dan pertumbuhan ekonomi dalam negeri."
+ },
+ {
+  "id": "vcub_pEBg1A",
+  "title": "Polda Kalsel Gelar Job Fair, Ratusan Lowongan Kerja Ditawarkan",
+  "category": "Ketenagakerjaan",
+  "program": "AKIS tvOne",
+  "summary": "Polda Kalimantan Selatan menggelar Job Fair 2026 di Gedung SDC Polda Kalsel pada Rabu (18/11/2026), menawarkan ratusan lowongan kerja bagi warga Banjarbaru dan sekitarnya yang mencari pekerjaan.",
+  "takeaway": "Job fair ini mencerminkan dinamika pasar tenaga kerja daerah dan upaya penyerapan angkatan kerja yang relevan bagi pembaca ekonomi."
+ },
+ {
   "id": "M8aj4CdkamU",
   "title": "Wapres Baru Dinanti, Apa Efeknya Bagi Ekonomi?",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah mempercepat penyusunan rencana induk Kawasan Swasembada Pangan, Energi, dan Air Nasional di empat provinsi.",
   "takeaway": "Proyek strategis ini relevan bagi pembaca karena menyangkut arah investasi dan ketahanan pangan serta energi nasional."
- },
- {
-  "id": "SXSTX6n-ypI",
-  "title": "Pajak PPN 11 Persen untuk Pembalut Picu Perdebatan Publik",
-  "category": "Makroekonomi",
-  "program": "IBF",
-  "summary": "Pengenaan Pajak Pertambahan Nilai efektif 11 persen atas pembalut wanita menuai kritik publik karena produk ini dianggap kebutuhan biologis esensial, bukan barang mewah yang semestinya dikenai pajak tinggi.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan perpajakan yang berdampak langsung pada daya beli dan akses kebutuhan dasar perempuan."
- },
- {
-  "id": "ppbjweTb_JI",
-  "title": "Pemerintah Siapkan Program Pembelian Telur untuk Peternak Mikro",
-  "category": "UMKM",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah melalui Perum Bulog dan ID Food menyiapkan program pembelian telur ayam dari peternak mikro dan rakyat senilai total Rp30 miliar secara bertahap hingga Desember.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut kebijakan stabilisasi harga pangan dan dukungan permodalan bagi pelaku usaha mikro di sektor peternakan."
  }
 ];

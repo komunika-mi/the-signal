@@ -5,6 +5,35 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-dan-jabar-teken-kesepakatan-awasi-persaingan-usaha",
+  "category": "Bisnis",
+  "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
+  "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
+  "date": "19 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [],
+  "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "kokopit-kaltim-ekspor-perdana-ke-taiwan-rp138-juta",
+  "category": "UMKM",
+  "title": "Kokopit Kaltim [Ekspor] Perdana ke Taiwan, Rp138 Juta",
+  "deck": "Koperasi produsen di Balikpapan mengirim kokopit, media tanam dari serabut kelapa, senilai Rp138 juta ke Taiwan, ekspor pertama berkat fasilitasi KDEI Taipei.",
+  "date": "19 November 2026",
+  "image": "assets/img/kokopit-kaltim-ekspor-perdana-ke-taiwan-rp138-juta.jpg",
+  "imageV": "mwn9zd1s",
+  "tags": [
+   "ekspor",
+   "kokopit",
+   "KDEI Taipei",
+   "UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kdei-taipei-fasilitasi-ekspor-perdana-media-tanam-kokopit-ke-taiwan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "msie-koreksi-free-float-ke-bursa-ungkap-afiliasi-pengendali",
   "category": "Aksi Korporasi",
   "title": "MSIE Koreksi [Free Float] ke Bursa, Ungkap Afiliasi Pengendali",
@@ -2063,7 +2092,7 @@ var ARTICLES = [
   "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
   "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
   "date": "16 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -6498,39 +6527,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477595-arab-saudi-percepat-persiapan-haji-2027-kontrak-dan-visa-jemaah-diminta-rampung-sebelum-1-syawal"
- },
- {
-  "slug": "bike-koreksi-lagi-ekuitas-berbalik-ke-positif-rp8-98-m",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Koreksi Lagi, [Ekuitas] Berbalik ke Positif Rp8,98 M",
-  "deck": "Koreksi kedua BIKE membalik ekuitas interim per 30 September 2026 dari negatif Rp87,59 miliar jadi positif Rp8,98 miliar, setelah dana pinjaman PMJ dicatat ulang sebagai investasi, bukan beban.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "laporan keuangan",
-   "suspensi saham",
-   "PMJ"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/13c44ad196_224de7c258.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ibc-gandeng-avesta-belgia-garap-baterai-solid-state",
-  "category": "Industri",
-  "title": "IBC Gandeng [Avesta] Belgia, Garap Baterai Solid-State",
-  "deck": "IBC dan Avesta Holding dari Belgia menjajaki teknologi baterai solid-state, bagian dari upaya pemerintah menarik investasi Uni Eropa lewat IEU-CEPA.",
-  "date": "10 November 2026",
-  "image": "assets/img/ibc-gandeng-avesta-belgia-garap-baterai-solid-state.jpg",
-  "imageV": "mwai7v11",
-  "tags": [
-   "IBC",
-   "Avesta",
-   "Baterai Solid-State",
-   "Investasi Uni Eropa"
-  ],
-  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/menteri-rosan-dorong-investasi-uni-eropa-ibc-avesta-sepakati-kerja-sama-baterai",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
  }
 ];

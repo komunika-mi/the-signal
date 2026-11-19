@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "W9mEPp_4v8U",
+  "title": "Presiden Prabowo Bawa Komitmen Investasi Rp1.310 Triliun dari China",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Presiden Prabowo Subianto menyaksikan penandatanganan sejumlah nota kesepahaman dengan China yang memperkuat komitmen investasi senilai Rp1.310 triliun dalam rangkaian kunjungan kenegaraan ke China.",
+  "takeaway": "Komitmen investasi sebesar itu layak disimak karena berpotensi mendorong penciptaan lapangan kerja dan pertumbuhan ekonomi dalam negeri.",
+  "terbit": "2026-11-19T08:00:21+00:00"
+ },
+ {
+  "id": "vcub_pEBg1A",
+  "title": "Polda Kalsel Gelar Job Fair, Ratusan Lowongan Kerja Ditawarkan",
+  "category": "Ketenagakerjaan",
+  "program": "AKIS tvOne",
+  "summary": "Polda Kalimantan Selatan menggelar Job Fair 2026 di Gedung SDC Polda Kalsel pada Rabu (18/11/2026), menawarkan ratusan lowongan kerja bagi warga Banjarbaru dan sekitarnya yang mencari pekerjaan.",
+  "takeaway": "Job fair ini mencerminkan dinamika pasar tenaga kerja daerah dan upaya penyerapan angkatan kerja yang relevan bagi pembaca ekonomi.",
+  "terbit": "2026-11-19T07:52:35+00:00"
+ },
+ {
   "id": "M8aj4CdkamU",
   "title": "Wapres Baru Dinanti, Apa Efeknya Bagi Ekonomi?",
   "category": "Makroekonomi",

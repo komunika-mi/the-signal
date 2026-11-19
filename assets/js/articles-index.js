@@ -5,6 +5,134 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupslb-inov-28-desember-divestasi-45-8-saham-urecel-ke-cip",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB INOV 28 Desember: [Divestasi] 45,8% Saham Urecel ke CIP",
+  "deck": "INOV akan melepas 45,8% saham anak usahanya, PT Urecel Indonesia, ke CIP Capital Singapura senilai Rp258,16 miliar. RUPSLB persetujuan digelar 28 Desember 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INOV",
+   "Transaksi Material",
+   "Urecel Indonesia",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c537c346c8_0ebdc3e2d9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pmthmetd-flmc-investor-futura-living-serap-78-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "PMTHMETD FLMC: Investor [Futura Living] Serap 78,1 Juta Saham",
+  "deck": "FLMC menerbitkan 78.125.000 saham baru tanpa hak memesan efek terlebih dahulu kepada PT Futura Living Investama di Rp100 per saham untuk menambal ekuitas negatif Rp2,59 miliar.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "PMTHMETD",
+   "RUPSLB",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f692e71c37_fbfcbce699.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-flmc-28-desember-jadwal-dps-3-desember-panggilan-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 28 Desember: [Jadwal] DPS 3 Desember, Panggilan 4 Desember",
+  "deck": "FLMC jadwalkan RUPSLB 28 Desember 2026 di Bandung; DPS 3 Desember, batas usul agenda pemegang saham 24 November.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "PMTHMETD",
+   "jadwal RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f8fb48918f_decf44c43d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-bbca-rp35-per-saham-cair-16-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim BBCA Rp35 per Saham, [Cair] 16 Desember 2026",
+  "deck": "BCA akan membagikan dividen interim kuartal IV 2026 sebesar Rp35 per saham, total Rp4,29 triliun, dibayar 16 Desember 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBCA",
+   "dividen interim",
+   "Bank Central Asia",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5d4767f9c_391a07aa69.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buyback-elsa-rp84-5-miliar-lanjutan-fase-ii-mulai-20-november",
+  "category": "Aksi Korporasi",
+  "title": "Buyback ELSA Rp84,5 Miliar: [Lanjutan] Fase II Mulai 20 November",
+  "deck": "Elnusa mengalokasikan hingga Rp84,5 miliar untuk pembelian kembali saham fase II pada 20 November 2026 hingga 19 Februari 2027, memakai sisa dana program sebelumnya.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELSA",
+   "buyback",
+   "pembelian kembali saham",
+   "Elnusa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/006ce46e72_cf90890ba9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hgii-jawab-bei-dana-ipo-rp253-3-miliar-belum-terserap",
+  "category": "Aksi Korporasi",
+  "title": "HGII Jawab BEI: [Dana IPO] Rp253,3 Miliar Belum Terserap",
+  "deck": "HGII menjelaskan ke BEI bahwa dana IPO Rp254,2 miliar baru terserap 0,35%, sementara dua pembangkitnya yang sudah beroperasi masih jauh dari target produksi kontrak.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HGII",
+   "realisasi dana IPO",
+   "energi terbarukan",
+   "PLTM"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e829f09294_0fca829bb7.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-inov-28-desember-dps-pemegang-saham-dicatat-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB INOV 28 Desember: [DPS] Pemegang Saham Dicatat 3 Desember",
+  "deck": "Inocycle Technology Group (INOV) menjadwalkan RUPSLB pada 28 Desember 2026, dengan pemegang saham yang berhak hadir dicatat per 3 Desember 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INOV",
+   "RUPSLB",
+   "Inocycle Technology Group",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d509c5935_6a086cd55e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-blue-24-november-laba-turun-5-pendapatan-naik-5-6",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BLUE 24 November: [Laba] Turun 5%, Pendapatan Naik 5,6%",
+  "deck": "Public expose tahunan BLUE digelar 24 November 2026; laba periode berjalan Januari-September turun 5,02 persen meski pendapatan naik 5,63 persen.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLUE",
+   "public expose",
+   "kinerja keuangan",
+   "Berkah Prima Perkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f598dc436e_1bc28a2bf9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-periksa-saksi-kasus-tender-revitalisasi-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
@@ -35,6 +163,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kppu.go.id/berita/kppu-awasi-penghapusan-syarat-pembelian-lpg-nonsubsidi-bagi-penerima-lpg-3-kg-di-tegal",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "laba-arci-semester-i-2026-melonjak-134-jadi-us-81-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "Laba ARCI Semester I 2026 [Melonjak] 134% jadi US$81,5 Juta",
+  "deck": "Laba bersih ARCI naik 134% menjadi US$81,5 juta pada semester I 2026, didorong kenaikan pendapatan emas 67 persen dibanding tahun sebelumnya.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARCI",
+   "laporan keuangan",
+   "emas",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119175115-65818-0/FinancialStatement-2026-II-ARCI.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pemerintah-pastikan-daya-beli-tumbuh-bukan-melemah",
@@ -6381,154 +6525,6 @@ var ARTICLES = [
    "free float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f19582841_33547b1658.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa",
-  "category": "BUMN",
-  "title": "Telkom Sabet [Dua] Penghargaan Transformasi Bisnis dari SWA",
-  "deck": "Telkom Indonesia meraih dua penghargaan dari Majalah SWA atas konsistensi transformasi bisnis lewat kerangka TLKM 30 yang berlaku hingga 2030.",
-  "date": "10 November 2026",
-  "image": "assets/img/telkom-sabet-dua-penghargaan-transformasi-bisnis-dari-swa.jpg",
-  "imageV": "mwaw19bk",
-  "tags": [
-   "Telkom Indonesia",
-   "BUMN",
-   "TLKM 30",
-   "Transformasi Bisnis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477642-sabet-dua-penghargaan-bergengsi-telkom-perkuat-strategi-transformasi-bisnis-hingga-2030"
- },
- {
-  "slug": "bei-delisting-obligasi-tdpm-dan-tele-usai-saham-dicabut",
-  "category": "Aksi Korporasi",
-  "title": "BEI Delisting Obligasi [TDPM] dan TELE Usai Saham Dicabut",
-  "deck": "Bursa mencabut pencatatan lima obligasi TDPM dan TELE menyusul delisting saham kedua emiten pada 10 November 2026, tapi kewajiban bayar bunga dan pokok ke pemegang obligasi tetap berlaku.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TDPM",
-   "TELE",
-   "Delisting",
-   "Obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3fdf526963_02fd9fdf86.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ri-mulai-susun-ripparnas-2027-2045-target-devisa-us-39-4-m",
-  "category": "Makroekonomi",
-  "title": "RI Mulai Susun [RIPPARNAS] 2027-2045, Target Devisa US$39,4 M",
-  "deck": "Pemerintah memulai penyusunan RIPPARNAS 2027-2045 untuk mendorong investasi pariwisata, menargetkan kontribusi PDB 5 persen dan devisa US$39,4 miliar pada 2029.",
-  "date": "10 November 2026",
-  "image": "assets/img/terminal-bus.jpg",
-  "tags": [
-   "pariwisata",
-   "RIPPARNAS",
-   "investasi",
-   "devisa"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7209/pemerintah-perkuat-investasi-dan-integrasi-ekosistem-pariwisata-melalui-ripparnas-20272045",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "lapd-resmi-ubah-nama-ke-jsi-sinergi-internasional-dan-alamat",
-  "category": "Aksi Korporasi",
-  "title": "LAPD Resmi Ubah Nama ke [JSI Sinergi Internasional] dan Alamat",
-  "deck": "Leyand International resmi berganti nama menjadi JSI Sinergi Internasional efektif 7 November 2026, disertai pindah domisili ke Jakarta Selatan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LAPD",
-   "RUPSLB",
-   "ganti nama",
-   "JSI Sinergi Internasional"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/184fb24521_70b86001f3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-gabungkan-telkominfra-dan-nsi-perampingan-lanjut",
-  "category": "BUMN",
-  "title": "Telkom [Gabungkan] Telkominfra dan NSI, Perampingan Lanjut",
-  "deck": "Telkom menggabungkan Telkominfra ke Telkom Akses dan NSI ke GSD, bagian dari rencana merampingkan puluhan anak usaha menuju status strategic holding sebelum akhir 2026.",
-  "date": "10 November 2026",
-  "image": "assets/img/telkom-gabungkan-telkominfra-dan-nsi-perampingan-lanjut.jpg",
-  "imageV": "mwaqforn",
-  "tags": [
-   "Telkom",
-   "Telkominfra",
-   "Streamlining BUMN",
-   "Danantara"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477629-percepat-streamlining-telkom-rampingkan-anak-usaha-lewat-dua-merger-sekaligus"
- },
- {
-  "slug": "ptdu-rinci-proses-pkpu-ekuitas-negatif-rp7-75-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PTDU Rinci Proses [PKPU], Ekuitas Negatif Rp7,75 Miliar",
-  "deck": "PTDU menjawab 14 pertanyaan Bursa soal PKPU dari CV Titan senilai Rp1 miliar, sementara total klaim kreditur mencapai Rp132,9 miliar dari 122 pihak.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTDU",
-   "PKPU",
-   "ekuitas negatif",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bc4019f310_ffe9c4ae04.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nfcx-lapor-eksekusi-buyback-pertama-120-000-saham-di-rp1-800",
-  "category": "Aksi Korporasi",
-  "title": "NFCX Lapor Eksekusi [Buyback] Pertama, 120.000 Saham di Rp1.800",
-  "deck": "PT NFC Indonesia Tbk melaporkan ke OJK bahwa pada 10 November 2026 perseroan membeli kembali 120.000 saham di harga Rp1.800 per saham, hari pertama eksekusi setelah rencana buyback direvisi.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NFCX",
-   "buyback",
-   "saham treasuri",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3467abd790_c2ac03458c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal",
-  "category": "Bisnis",
-  "title": "Jelang Nataru, Harga Bapok di Solo [Stabil], Cabai Masih Mahal",
-  "deck": "Pemantauan Kementerian Perdagangan di Pasar Gede Surakarta menunjukkan sebagian bapok di bawah harga acuan, tapi cabai dan gula pasir masih di atas batas yang ditetapkan.",
-  "date": "10 November 2026",
-  "image": "assets/img/jelang-nataru-harga-bapok-di-solo-stabil-cabai-masih-mahal.jpg",
-  "imageV": "mwani7vm",
-  "tags": [
-   "Nataru",
-   "Harga Pangan",
-   "Surakarta",
-   "Kementerian Perdagangan"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/pastikan-stabilitas-harga-bapok-jelang-nataru-mendag-busan-pantau-pasar-gede",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "kios-panggil-rupslb-kedua-usai-rapat-pertama-gagal-kuorum",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB Kedua KIOS 17 November: [Direksi Tetap], KBLI Gagal Kuorum",
-  "deck": "RUPSLB kedua Kioson 17 November hanya dihadiri 40,56% pemegang saham. Agenda susunan direksi-komisaris tetap disetujui, tapi perubahan KBLI gagal kuorum dan akan dibawa ke rapat ketiga.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIOS",
-   "RUPSLB",
-   "Tata Kelola",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ea96c0098_44b6a100b4.pdf",
   "sourceLabel": "IDX"
  }
 ];

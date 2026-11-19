@@ -3,6 +3,326 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-inov-28-desember-divestasi-45-8-saham-urecel-ke-cip",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB INOV 28 Desember: [Divestasi] 45,8% Saham Urecel ke CIP",
+  "deck": "INOV akan melepas 45,8% saham anak usahanya, PT Urecel Indonesia, ke CIP Capital Singapura senilai Rp258,16 miliar. RUPSLB persetujuan digelar 28 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:31:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c537c346c8_0ebdc3e2d9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INOV",
+  "tags": [
+   "INOV",
+   "Transaksi Material",
+   "Urecel Indonesia",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Inocycle Technology Group Tbk (INOV) mengumumkan rencana menjual 45,8% sahamnya di PT Urecel Indonesia (PT UI), anak usaha yang bergerak di industri polyurethane, kepada CIP Capital Pte Ltd, perusahaan asal Singapura. Dasar transaksi ini adalah Perjanjian Jual Beli Saham Bersyarat yang sudah ditandatangani INOV dan CIP pada 4 Agustus 2026. Saham yang dijual sebanyak 11.450 lembar dengan nilai nominal Rp10.035.925.000. Karena nilai transaksi ditaksir melebihi 50% ekuitas INOV, aksi ini masuk kategori Transaksi Material yang wajib mendapat persetujuan Rapat Umum Pemegang Saham sesuai aturan OJK.",
+   "Penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menetapkan nilai pasar 45,8% saham PT UI per 30 Juni 2026 sebesar Rp258.161.428.879. Angka ini diperoleh dengan membobot pendekatan pendapatan atau metode arus kas diskonto sebesar 75% dan pendekatan pasar atau metode perbandingan dengan perusahaan sejenis yang tercatat di bursa sebesar 25%. Sebagai pembanding, CIP Capital, pihak pembeli, baru didirikan di Singapura pada 20 November 2025 dan menurut profil usahanya di regulator Singapura (ACRA), modal disetornya hanya 1 dolar Singapura dengan 1 lembar saham, menandakan perusahaan ini adalah entitas induk atau kendaraan investasi, bukan operator bisnis aktif.",
+   "Manajemen INOV beralasan transaksi ini untuk mengoptimalkan portofolio investasi dan memfokuskan sumber daya pada bisnis inti perusahaan di bidang daur ulang plastik, sekaligus memperoleh dana segar untuk modal kerja, pemenuhan kewajiban keuangan, dan memperkuat posisi keuangan secara keseluruhan. Perseroan menyatakan transaksi ini tidak akan mengganggu kelangsungan usaha utama dan justru berpotensi menambah likuiditas dari dana hasil penjualan. RUPS Luar Biasa untuk menyetujui transaksi ini dijadwalkan pada Senin, 28 Desember 2026, dengan satu-satunya mata acara yaitu persetujuan atas rencana divestasi tersebut."
+  ],
+  "fotoAdegan": "Workers sorting bales of recycled plastic bottles on a warehouse floor, forklift moving pallets nearby, industrial lighting",
+  "takeaway": "Laporan ini netral bagi INOV: ada suntikan dana sekitar Rp258 miliar dari penjualan anak usaha di luar bisnis inti, tapi dampaknya terhadap laba belum bisa dipastikan karena dokumen tidak menyebut untung atau rugi dari pelepasan saham ini, sementara pembelinya, CIP Capital, adalah entitas baru berumur setahun dengan modal disetor cuma 1 dolar Singapura. Pos yang tersentuh adalah ekuitas dan arus kas, karena nilai transaksi ini ditaksir melebihi separuh ekuitas INOV sehingga pelepasannya bisa mengubah signifikan struktur aset dan modal perusahaan, sementara dana yang masuk akan menambah kas yang bisa dipakai melunasi utang atau menambah modal kerja. Yang perlu dipantau adalah RUPSLB pada 28 Desember 2026, karena tanpa persetujuan pemegang saham di rapat itu, penjualan 45,8% saham Urecel ke CIP tidak bisa dilanjutkan.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Penyampaian Informasi rencana Transaksi material - Rencana Transaksi Material Dengan Persetujuan RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-28",
+    "acara": "RUPSLB persetujuan divestasi 45,8% saham PT Urecel Indonesia"
+   }
+  ]
+ },
+ {
+  "slug": "pmthmetd-flmc-investor-futura-living-serap-78-1-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "PMTHMETD FLMC: Investor [Futura Living] Serap 78,1 Juta Saham",
+  "deck": "FLMC menerbitkan 78.125.000 saham baru tanpa hak memesan efek terlebih dahulu kepada PT Futura Living Investama di Rp100 per saham untuk menambal ekuitas negatif Rp2,59 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:26:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f692e71c37_fbfcbce699.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "PMTHMETD",
+   "RUPSLB",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) berencana menerbitkan 78.125.000 saham baru bernilai nominal Rp80 per saham lewat skema Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD). Saham baru itu akan diserap seluruhnya oleh PT Futura Living Investama (FLI) dengan harga pelaksanaan Rp100 per saham. Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPSLB yang dijadwalkan Senin, 28 Desember 2026.",
+   "Perseroan berhak melewati mekanisme hak memesan efek terlebih dahulu karena kondisi keuangannya memenuhi syarat dalam POJK No. 14/2019, yaitu memiliki modal kerja bersih negatif dan liabilitas di atas 80 persen dari aset. Per 30 Juni 2026, total aset FLMC tercatat Rp37,14 miliar berbanding liabilitas Rp39,73 miliar, atau rasio liabilitas terhadap aset 106,98 persen, sehingga ekuitas perusahaan negatif Rp2,59 miliar. Kondisi ini memburuk tajam dibanding ekuitas positif Rp20,66 miliar pada akhir 2025 dan Rp43,48 miliar pada akhir 2024. Karena ekuitas negatif itu pula, Bursa Efek Indonesia telah memasukkan saham FLMC ke dalam Papan Pemantauan Khusus sejak 7 Oktober 2026.",
+   "Kantor Jasa Penilai Publik Areyanti, Zainab dan Rekan menilai 100 persen ekuitas FLMC per 30 Juni 2026 senilai Rp57,31 miliar, atau setara Rp73 per saham, dengan menggabungkan metode diskonto arus kas senilai Rp76,8 miliar dan metode pembanding perusahaan terbuka senilai Rp37,8 miliar, masing masing dengan bobot 50 persen. Dengan acuan itu, harga pelaksanaan Rp100 per saham yang dipatok untuk Futura Living Investama berada sekitar 37 persen di atas nilai wajar hasil penilaian independen tersebut.",
+   "Jika seluruh saham baru terbit, jumlah saham beredar FLMC akan bertambah dari 781,25 juta menjadi 859,375 juta lembar, atau dilusi sekitar 9 persen bagi pemegang saham lama. Di luar rencana ini, Perseroan, Presiden Direktur Rosalina Indra Wirawati, dan Presiden Komisaris Theresia Indrawirawan masih berstatus tergugat dalam perkara perdata di Pengadilan Negeri Jakarta Selatan Nomor 1418/Pdt.G/2025/PN.Jkt.Sel, yang diajukan Michael Rusli terkait perjanjian jual beli 655 juta saham senilai Rp25,5 miliar. Perseroan menegaskan objek gugatan itu adalah saham milik pemegang saham pribadi, bukan aset Perseroan, dan perkara belum diputus."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of nonwoven fabric on an industrial production line inside a small Indonesian textile factory",
+  "takeaway": "Laporan ini condong positif karena harga pelaksanaan Rp100 per saham ternyata sekitar 37 persen di atas nilai wajar Rp73 yang dihitung penilai independen, sehingga dana segar yang masuk dari investor baru relatif tidak murah bagi pemegang saham lama. Yang tersentuh adalah ekuitas, yaitu selisih antara total aset dan total utang perusahaan, yang per 30 Juni 2026 sudah negatif Rp2,59 miliar sehingga suntikan dana ini memang dibutuhkan untuk menambalnya. Tetap perlu dicermati dilusi, yaitu berkurangnya porsi kepemilikan pemegang saham lama karena jumlah saham beredar bertambah sekitar 9 persen, meski secara nilai tidak merugikan karena harga jualnya di atas nilai wajar. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 28 Desember 2026 yang menentukan apakah pemegang saham menyetujui rencana ini, serta kelanjutan gugatan perdata di Pengadilan Negeri Jakarta Selatan yang belum diputus.",
+  "sentimen": "positif",
+  "peristiwa": "right-issue",
+  "judulIdx": "Rencana Perseroan untuk melakukan Penambahan Modal Perseroan Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD) serta persetujuan atas perubahan Anggaran Dasar Perseroan sehubungan dengan pe",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-28",
+    "acara": "RUPSLB persetujuan rencana PMTHMETD FLMC"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-flmc-28-desember-jadwal-dps-3-desember-panggilan-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 28 Desember: [Jadwal] DPS 3 Desember, Panggilan 4 Desember",
+  "deck": "FLMC jadwalkan RUPSLB 28 Desember 2026 di Bandung; DPS 3 Desember, batas usul agenda pemegang saham 24 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:25:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f8fb48918f_decf44c43d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "PMTHMETD",
+   "jadwal RUPS"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 28 Desember 2026 pukul 10.00 WIB di Artotel Suites Aquilla Bandung, Jalan Dr. Djunjunan No 116, Bandung. Pemegang saham yang berhak hadir, diwakili, dan memberikan suara dalam rapat ini adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Kamis, 3 Desember 2026.",
+   "Sesuai Peraturan OJK Nomor 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka, panggilan resmi rapat beserta mata acara lengkapnya baru akan diumumkan pada Jumat, 4 Desember 2026, melalui situs Bursa Efek Indonesia, situs resmi perseroan, dan aplikasi eASY.KSEI. Pemegang saham yang ingin mengusulkan atau menambah mata acara RUPS harus mewakili paling sedikit 1/20 dari total saham berhak suara, dan mengajukan usulan tertulis kepada direksi paling lambat tujuh hari sebelum pemanggilan, yakni Selasa, 24 November 2026.",
+   "Pengumuman ini menyusul surat sebelumnya bernomor 041-RUPSLB/FLMC-TBK/XI/2026 dan berkaitan dengan RUPSLB 28 Desember yang sebelumnya diberitakan membahas penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD), di tengah defisiensi modal Rp2,59 miliar yang diungkap perseroan pada 18 November 2026. Dokumen pengumuman kali ini belum merinci mata acara RUPS secara spesifik, karena rincian itu baru akan dipublikasikan bersama panggilan resmi pada 4 Desember 2026."
+  ],
+  "fotoAdegan": "Empty hotel conference hall with rows of chairs being arranged before a shareholders meeting, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi penilaian FLMC, karena hanya menjadwalkan mekanisme RUPSLB yang agendanya sudah lebih dulu diberitakan, tanpa angka keuangan baru. Pos yang tersentuh adalah hak suara pemegang saham, yaitu siapa yang berhak menentukan keputusan RUPSLB ditetapkan berdasarkan siapa yang memegang saham FLMC pada tanggal daftar pemegang saham 3 Desember 2026, sementara substansi keputusan soal penambahan modal tanpa hak memesan efek terlebih dahulu dan defisiensi modal Rp2,59 miliar yang sudah diberitakan sebelumnya belum berubah di dokumen ini. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB beserta mata acara lengkap pada 4 Desember 2026, serta batas waktu pemegang saham mengajukan usul mata acara pada 24 November 2026, karena dari dua tanggal itu baru terlihat detail keputusan yang akan dibawa ke rapat 28 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Batas usul mata acara RUPS oleh pemegang saham minoritas"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Tanggal daftar pemegang saham (DPS) yang berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Panggilan resmi RUPSLB beserta mata acara lengkap"
+   },
+   {
+    "tanggal": "2026-12-28",
+    "acara": "RUPSLB FLMC digelar di Bandung"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-interim-bbca-rp35-per-saham-cair-16-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim BBCA Rp35 per Saham, [Cair] 16 Desember 2026",
+  "deck": "BCA akan membagikan dividen interim kuartal IV 2026 sebesar Rp35 per saham, total Rp4,29 triliun, dibayar 16 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:24:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5d4767f9c_391a07aa69.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBCA",
+  "tags": [
+   "BBCA",
+   "dividen interim",
+   "Bank Central Asia",
+   "dividen"
+  ],
+  "body": [
+   "Direksi PT Bank Central Asia Tbk memutuskan membagikan dividen tunai interim untuk kuartal IV tahun buku 2026 sebesar Rp35 per saham, dengan total nilai dividen Rp4.296.650.487.500. Keputusan ini telah disetujui Dewan Komisaris pada 19 November 2026 dan mengacu pada laporan keuangan perseroan per 30 September 2026.",
+   "Investor yang ingin mendapatkan dividen ini harus memegang saham BBCA paling lambat 27 November 2026 untuk transaksi di pasar reguler dan pasar negosiasi, karena mulai 30 November 2026 saham sudah diperdagangkan tanpa hak dividen. Untuk pasar tunai, batas cum dividen adalah 1 Desember 2026 dan ex dividen mulai 2 Desember 2026. Tanggal pencatatan pemegang saham yang berhak atas dividen ditetapkan 1 Desember 2026 pukul 16.00 WIB, dengan pembayaran dilakukan pada 16 Desember 2026.",
+   "Berdasarkan laporan keuangan per 30 September 2026, BCA mencatat laba bersih yang diatribusikan kepada entitas induk sebesar Rp45,22 triliun, saldo laba ditahan yang tidak dibatasi penggunaannya Rp264,27 triliun, dan total ekuitas Rp283,66 triliun. Perseroan juga mencantumkan catatan bahwa jumlah saham yang benar-benar berhak menerima dividen interim ini bisa lebih rendah dari perkiraan, mengikuti akumulasi saham yang telah dibeli kembali lewat program buyback sampai tanggal pencatatan tersebut."
+  ],
+  "fotoAdegan": "Interior of a modern bank branch lobby in Jakarta with customers waiting near teller counters, bright afternoon light",
+  "takeaway": "Dividen interim ini tergolong netral bagi fundamental BCA, karena besarnya sejalan dengan laba bersih Rp45,22 triliun yang sudah dikantongi perseroan dalam sembilan bulan pertama 2026 dan merupakan pembagian rutin, bukan sinyal perubahan arah bisnis. Pembagian dividen akan mengurangi kas dan ekuitas perusahaan sekitar Rp4,29 triliun begitu dibayarkan, tapi dibandingkan total ekuitas Rp283,66 triliun porsinya kecil sehingga tidak mengganggu permodalan bank. Satu hal yang perlu dicermati adalah jumlah saham yang benar-benar berhak menerima dividen ini bisa berkurang dari perkiraan, karena BCA akan memperhitungkan saham yang sudah dibeli kembali lewat program buyback sampai tanggal pencatatan pemegang saham. Yang dipantau berikutnya adalah tanggal pembayaran dividen pada 16 Desember 2026 dan apakah realisasi jumlah saham penerima dividen berbeda dari proyeksi awal akibat buyback tersebut.",
+  "sentimen": "netral",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Cum dividen di Pasar Reguler dan Pasar Negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex dividen di Pasar Reguler dan Pasar Negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Recording date pemegang saham yang berhak dividen"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Cum dividen di Pasar Tunai"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Ex dividen di Pasar Tunai"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Pembayaran dividen interim Rp35 per saham"
+   }
+  ]
+ },
+ {
+  "slug": "buyback-elsa-rp84-5-miliar-lanjutan-fase-ii-mulai-20-november",
+  "category": "Aksi Korporasi",
+  "title": "Buyback ELSA Rp84,5 Miliar: [Lanjutan] Fase II Mulai 20 November",
+  "deck": "Elnusa mengalokasikan hingga Rp84,5 miliar untuk pembelian kembali saham fase II pada 20 November 2026 hingga 19 Februari 2027, memakai sisa dana program sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:23:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/006ce46e72_cf90890ba9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ELSA",
+  "tags": [
+   "ELSA",
+   "buyback",
+   "pembelian kembali saham",
+   "Elnusa"
+  ],
+  "body": [
+   "Elnusa Tbk berencana melanjutkan pembelian kembali saham (buyback) dengan dana maksimal Rp84,5 miliar. Jumlah ini adalah sisa dana dari program buyback periode sebelumnya, 3 Agustus hingga 2 November 2026, yang laporan realisasinya sudah disampaikan perseroan pada 18 November 2026. Periode buyback baru ini direncanakan berlangsung dari 20 November 2026 sampai 19 Februari 2027, dan dilakukan lewat perdagangan di Bursa Efek Indonesia melalui satu anggota bursa.",
+   "Perseroan menggunakan dasar hukum POJK Nomor 13 Tahun 2023 tentang kebijakan menjaga stabilitas pasar modal saat kondisi pasar berfluktuasi signifikan, serta surat OJK Nomor S-137/D.04/2026 tanggal 25 Oktober 2026, sehingga buyback ini bisa dijalankan tanpa persetujuan RUPS. Dana buyback sepenuhnya berasal dari kas internal perseroan, bukan dari dana hasil penawaran umum perdana maupun dari pinjaman atau utang. Selama periode buyback, direksi, komisaris, pegawai, dan pemegang saham utama Elnusa dilarang bertransaksi atas saham perseroan.",
+   "Berdasarkan simulasi menggunakan laporan keuangan per 30 September 2026 yang belum diaudit, total ekuitas perseroan diperkirakan turun dari Rp5,668 triliun menjadi Rp5,583 triliun dan total aset turun dari Rp11,773 triliun menjadi Rp11,689 triliun, masing-masing berkurang sebesar dana buyback Rp84,5 miliar. Laba bersih tidak berubah di angka Rp681,55 miliar, sementara laba per saham diperkirakan naik dari Rp93,38 menjadi Rp95,43 karena jumlah saham beredar yang menjadi pembagi berkurang. Saham hasil buyback baru boleh dialihkan paling cepat 30 hari setelah pembelian kembali selesai dilaksanakan atau setelah periode buyback berakhir."
+  ],
+  "fotoAdegan": "Technicians in hard hats inspecting pipeline valves at an onshore oil and gas facility, overcast daylight",
+  "takeaway": "Laporan ini netral bagi Elnusa: dana Rp84,5 miliar hanya setara sekitar 1,5 persen dari total ekuitas perseroan dan merupakan sisa alokasi program lama, bukan komitmen dana baru, sehingga terlalu kecil untuk dibaca sebagai sinyal kuat ke arah mana pun. Yang tersentuh adalah ekuitas, yang berkurang karena kas dipakai membeli saham sendiri, dan laba per saham (EPS), yakni laba bersih dibagi jumlah saham yang beredar di pasar, naik tipis karena pembaginya mengecil ketika sebagian saham ditarik dari pasar. Pelaku pasar memperhatikan EPS karena angka ini sering dipakai menilai mahal atau murahnya harga saham dibanding labanya. Yang perlu dipantau selanjutnya adalah realisasi aktual buyback pada periode 20 November 2026 sampai 19 Februari 2027, serta kemungkinan pengalihan saham hasil buyback yang baru boleh dilakukan paling cepat 30 hari setelah periode itu berakhir.",
+  "sentimen": "netral",
+  "peristiwa": "buyback",
+  "judulIdx": "Keterbukaan Informasi kepada Pemegang Saham sehubungan dengan rencana pembelian kembali saham Perseroan dalam kondisi pasar yang berfluktuasi secara signifikan (\"Pembelian Kembali Saham\")",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Mulai periode pembelian kembali saham fase II"
+   },
+   {
+    "tanggal": "2027-02-19",
+    "acara": "Akhir periode pembelian kembali saham fase II"
+   }
+  ]
+ },
+ {
+  "slug": "hgii-jawab-bei-dana-ipo-rp253-3-miliar-belum-terserap",
+  "category": "Aksi Korporasi",
+  "title": "HGII Jawab BEI: [Dana IPO] Rp253,3 Miliar Belum Terserap",
+  "deck": "HGII menjelaskan ke BEI bahwa dana IPO Rp254,2 miliar baru terserap 0,35%, sementara dua pembangkitnya yang sudah beroperasi masih jauh dari target produksi kontrak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T18:44:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e829f09294_0fca829bb7.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HGII",
+  "tags": [
+   "HGII",
+   "realisasi dana IPO",
+   "energi terbarukan",
+   "PLTM"
+  ],
+  "body": [
+   "PT Hero Global Investment Tbk (HGII) mengirim surat penjelasan kepada Bursa Efek Indonesia pada 19 November 2026, menjawab permintaan penjelasan BEI bernomor S-14235/BEI.PP2/11-2026 tertanggal 17 November 2026. Surat yang ditandatangani Robin Sunyoto selaku Direktur Utama ini menjawab 14 pertanyaan BEI melalui Form E023, mencakup kegiatan usaha dan kinerja operasional, realisasi dana hasil penawaran umum, posisi kas, aset keuangan dari proyek konsesi, hingga biaya dan pajak dibayar di muka.",
+   "Di sisi operasional, dua entitas anak HGII, PT Seluma Clean Energy (SCE) dan PT Bina Godang Energi (BGE), sudah menjual listrik ke PLN dari PLTM Parmonangan I dan Parmonangan II. Produksi listrik keduanya naik pada sembilan bulan pertama 2026 dibanding periode sama 2025, yaitu dari 24,56 juta kWh menjadi 27,98 juta kWh untuk Parmonangan I dan dari 31,61 juta kWh menjadi 35,32 juta kWh untuk Parmonangan II. Namun capacity factor realisasi, yaitu perbandingan listrik yang benar-benar diproduksi dengan kapasitas yang disepakati dalam kontrak jual beli listrik (PPA), baru 47,4 persen untuk Parmonangan I dan 53,9 persen untuk Parmonangan II, jauh di bawah target kontrak masing-masing 65 persen dan 67,5 persen. Empat entitas anak lain, yaitu Multiprima Hidro Energi, Siantar Sitanduk Energi, Bina Adong Energi, dan Kalbar Bio Energi, masih dalam tahap pengembangan dan mengikuti proses lelang kuota pembangkit (PPTL) PLN, dengan perkiraan commercial operation date antara 2029 dan 2033.",
+   "Soal dana hasil penawaran umum, HGII mengakui per 30 Juni 2026 hanya merealisasikan Rp894,8 juta atau 0,35 persen dari hasil bersih penawaran umum sebesar Rp254,2 miliar, dan per 30 September 2026 sisa dana masih Rp253,3 miliar. Dana yang sudah terpakai dihabiskan untuk studi kelayakan dan due diligence teknis empat proyek calon, yakni PLTM AC Rp532,2 juta, PLTA GU Rp65,9 juta, PLTM SK-2 Rp206,7 juta, dan PLTS Sumut Rp90 juta. Sisa dana ditempatkan dalam rekening giro Bank Mandiri berbunga 1 sampai 5 persen, berbeda dari rencana prospektus yang menyebut deposito, dengan alasan kebutuhan likuiditas dan suku bunga giro yang bisa mencapai 5 persen. Penyaluran modal ke anak usaha MHE untuk proyek Lae Ordi (Rp79,94 miliar) dan SSE untuk proyek Sitanduk (Rp169,87 miliar) menunggu hasil lelang PPTL PLN, dengan dokumen lelang masing-masing sudah diajukan 30 Maret 2026 dan 6 November 2026. HGII menyebut jika kedua anak usaha gagal memenangkan lelang, perubahan rencana penggunaan dana dari yang tertulis di prospektus baru akan dilakukan setelah dilaporkan ke OJK dan atau memperoleh persetujuan RUPS.",
+   "Dari sisi keuangan, kas dan setara kas konsolidasi HGII tercatat Rp274,9 miliar per 30 September 2026, di mana Rp253,3 miliar merupakan sisa dana IPO yang belum tersalur. Setelah dikurangi Rp6,73 miliar yang dijadikan jaminan utang bank di rekening BGE pada BCA, kas yang bisa dipakai bebas untuk operasional hanya Rp14,88 miliar. Perseroan juga mencatat aset keuangan dari proyek konsesi Rp639 miliar, dengan harga jual listrik Parmonangan I yang turun dari Rp1.210 menjadi Rp935 per kWh sejak Juli 2025 sesuai klausul kontrak tahun kesembilan, dan pendapatan bunga dari aset konsesi itu turun 3,9 persen menjadi Rp44 miliar."
+  ],
+  "fotoAdegan": "Technicians inspecting turbine machinery inside a small hydroelectric power station beside a forested river in Sumatra",
+  "takeaway": "Laporan ini condong negatif bagi HGII, karena dua sinyal yang sama-sama menunjukkan pertumbuhan belum berjalan sesuai rencana, pembangkit yang sudah beroperasi memproduksi listrik jauh di bawah target kontrak, dan dana IPO sebesar Rp254,2 miliar nyaris tak tersentuh setelah lebih dari setahun. Yang tersentuh di sini adalah arus kas perusahaan, yakni uang yang benar-benar mengendap dan berputar di kas HGII: sebagian besar kasnya, Rp253,3 miliar dari total Rp274,9 miliar, masih berupa sisa dana IPO yang menunggu proyek, sementara pendapatan bunga dari penempatan dana itu justru menyusut 3,9 persen menjadi Rp44 miliar karena saldo asetnya terus berkurang seiring waktu. Capacity factor, yakni persentase produksi listrik aktual dibanding kapasitas yang dijanjikan ke PLN, juga baru 47,4 persen dan 53,9 persen untuk dua pembangkit yang jalan, jauh dari target kontrak 65 persen dan 67,5 persen, yang berarti potensi pendapatan listrik belum tergarap maksimal. Yang perlu dipantau berikutnya adalah hasil lelang PPTL PLN untuk proyek Lae Ordi yang diperkirakan diumumkan pada kuartal IV 2026 dan proyek Sitanduk pada kuartal II 2027, karena hasil lelang itulah yang akan menentukan apakah dana IPO yang masih mengendap mulai tersalur atau justru perlu diubah rencananya lewat RUPS.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "rupslb-inov-28-desember-dps-pemegang-saham-dicatat-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB INOV 28 Desember: [DPS] Pemegang Saham Dicatat 3 Desember",
+  "deck": "Inocycle Technology Group (INOV) menjadwalkan RUPSLB pada 28 Desember 2026, dengan pemegang saham yang berhak hadir dicatat per 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T18:09:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d509c5935_6a086cd55e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INOV",
+  "tags": [
+   "INOV",
+   "RUPSLB",
+   "Inocycle Technology Group",
+   "pasar modal"
+  ],
+  "body": [
+   "Direksi PT Inocycle Technology Group Tbk (INOV) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 28 Desember 2026 pukul 14.00 WIB di kantor perusahaan, Kawasan Industri Pasar Kemis, Tangerang. Sesuai aturan OJK terbaru, rapat ini juga akan digelar secara elektronik sehingga pemegang saham bisa mengikuti dari jarak jauh.",
+   "Pemanggilan resmi RUPSLB akan diumumkan pada Jumat, 4 Desember 2026 melalui situs Bursa Efek Indonesia, situs KSEI lewat aplikasi eASY.KSEI, dan situs perusahaan. Yang berhak hadir dan memberi suara adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per Kamis, 3 Desember 2026 pukul 16.00 WIB, atau yang sahamnya tersimpan di penitipan kolektif KSEI saat penutupan perdagangan di hari yang sama. Pemegang saham yang ingin mengusulkan tambahan mata acara rapat harus mengirim surat tercatat beserta alasannya, paling lambat Jumat, 27 November 2026 pukul 16.00 WIB. Fasilitas pemberian kuasa elektronik lewat eASY.KSEI tersedia sejak tanggal pemanggilan sampai Kamis, 24 Desember 2026 pukul 12.00 WIB, atau satu hari kerja sebelum rapat.",
+   "Surat ini merujuk pada pemberitahuan sebelumnya bernomor 0068/SP-Legal/INO-TGR/XI/2026, yang menjadi dasar RUPSLB ini. Berdasarkan laporan sebelumnya dari Perseroan pada tanggal yang sama, agenda rapat yang dijadwalkan pada 28 Desember 2026 ini terkait dengan rencana pelepasan 45,8 persen saham anak usaha Urecel kepada CIP senilai sekitar Rp258 miliar, yang masih menunggu persetujuan pemegang saham dalam rapat tersebut."
+  ],
+  "fotoAdegan": "Workers sorting bales of crushed plastic bottles on a conveyor belt inside a recycling factory, industrial lighting.",
+  "takeaway": "Pengumuman ini sendiri netral bagi pemegang saham karena isinya sekadar jadwal dan prosedur RUPSLB, bukan keputusan atau angka transaksi baru, sehingga belum mengubah penilaian atas rencana pelepasan saham Urecel yang sudah diberitakan sebelumnya. Yang sebenarnya dipertaruhkan dalam rapat ini adalah pos arus kas dan ekuitas Perseroan, karena dana masuk dari penjualan anak usaha dan perubahan struktur konsolidasi baru berlaku sah setelah disetujui pemegang saham. Dua tanggal di dokumen ini layak dicatat pembaca: batas usul agenda tambahan oleh pemegang saham pada Jumat, 27 November 2026 pukul 16.00 WIB, dan hasil RUPSLB itu sendiri pada Senin, 28 Desember 2026, yang akan menentukan apakah divestasi Urecel benar terlaksana.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Batas usul mata acara tambahan RUPSLB oleh pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Pencatatan pemegang saham berhak hadir RUPSLB (DPS)"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Pemanggilan resmi RUPSLB diumumkan"
+   },
+   {
+    "tanggal": "2026-12-24",
+    "acara": "Batas akhir pemberian kuasa elektronik via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-28",
+    "acara": "RUPSLB INOV digelar"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-blue-24-november-laba-turun-5-pendapatan-naik-5-6",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BLUE 24 November: [Laba] Turun 5%, Pendapatan Naik 5,6%",
+  "deck": "Public expose tahunan BLUE digelar 24 November 2026; laba periode berjalan Januari-September turun 5,02 persen meski pendapatan naik 5,63 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T17:46:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f598dc436e_1bc28a2bf9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLUE",
+  "tags": [
+   "BLUE",
+   "public expose",
+   "kinerja keuangan",
+   "Berkah Prima Perkasa"
+  ],
+  "body": [
+   "PT Berkah Prima Perkasa Tbk (BLUE) menjadwalkan public expose tahunan 2026 pada Selasa, 24 November 2026, pukul 14.00-16.00 WIB, secara daring melalui Zoom Webinar. Agenda yang akan dibahas meliputi profil dan lini usaha perusahaan, perkembangan kinerja operasional 2026, rencana usaha, kinerja keuangan kuartal III 2026, tantangan dan strategi perusahaan, serta sesi tanya jawab. Manajemen yang dijadwalkan hadir adalah jajaran direksi, corporate secretary, dan manajemen perusahaan lainnya, dipimpin Direktur Utama Herman Tansri.",
+   "Materi yang dilampirkan menunjukkan pendapatan perusahaan sepanjang Januari-September 2026 naik 5,63 persen menjadi Rp116,19 miliar dibandingkan periode yang sama tahun sebelumnya sebesar Rp109,99 miliar. Namun laba usaha turun 4,99 persen menjadi Rp15,26 miliar dan laba periode berjalan turun 5,02 persen menjadi Rp15,21 miliar, karena beban pokok pendapatan naik lebih cepat yaitu 8,90 persen menjadi Rp78,19 miliar dan beban umum serta administrasi naik 11,44 persen menjadi Rp18,07 miliar, meski beban penjualan justru turun 21,05 persen menjadi Rp4,67 miliar. Dari sisi posisi keuangan per 30 September 2026, total aset tercatat Rp110,74 miliar, naik 1,59 persen dari akhir 2025, dengan kas dan bank melonjak 36,39 persen menjadi Rp5,26 miliar dan piutang usaha naik 23,23 persen menjadi Rp23,93 miliar, sementara persediaan turun 16,02 persen menjadi Rp27,16 miliar. Total ekuitas naik tipis 0,98 persen menjadi Rp102,36 miliar, sedangkan total liabilitas naik 9,73 persen menjadi Rp8,38 miliar.",
+   "Dalam materi tersebut, manajemen BLUE memaparkan rencana memperluas jangkauan ke segmen supermarket dengan Jawa Timur sebagai langkah awal, mencakup enam kota yaitu Kediri, Madiun, Malang, Jember, Banyuwangi, dan Surabaya. Perusahaan juga menjajaki peluang kerja sama dengan calon pelanggan di industri makanan dan minuman di Tangerang (PIK 2), mempertahankan kehadiran di pasar komputer di Jakarta, Yogyakarta, dan Samarinda, serta memperkenalkan produknya kepada calon mitra ritel besar di Jakarta. Manajemen menyebut dua tantangan utama tahun ini, yaitu pelemahan daya beli masyarakat akibat pemotongan anggaran pemerintah dan gelombang pemutusan hubungan kerja di berbagai sektor, serta kenaikan biaya impor akibat pelemahan nilai tukar rupiah yang menekan margin karena perusahaan tidak selalu bisa langsung menaikkan harga jual.",
+   "Materi tersebut juga mencantumkan susunan pemegang saham perusahaan, yaitu Herman Tansri 28,21 persen, PT Cetak Biru Kapital 24,52 persen, Siek Agung Guntoro 17,94 persen, Rudy Tasrif 10,16 persen, Fadjar Tasrif 7,17 persen, dan publik 11,97 persen."
+  ],
+  "fotoAdegan": "Warehouse workers stacking cardboard boxes of ink cartridges onto pallets, forklift moving nearby, bright industrial lighting.",
+  "takeaway": "Laporan ini condong negatif karena laba periode berjalan Januari-September 2026 turun 5,02 persen menjadi Rp15,21 miliar, padahal pendapatan justru naik 5,63 persen menjadi Rp116,19 miliar, tanda bahwa beban pokok pendapatan yang naik 8,9 persen menggerus margin keuntungan perusahaan. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih pemegang saham setelah dikurangi utang, yang hanya tumbuh 0,98 persen menjadi Rp102,36 miliar karena laba yang mengalir ke dalamnya ikut mengecil, padahal aset perusahaan tumbuh lebih cepat yaitu 1,59 persen. Pelaku pasar biasanya mencermati laju pertumbuhan ekuitas karena itu mencerminkan apakah kegiatan usaha benar-benar menambah nilai bagi pemegang saham, bukan sekadar menambah aset dari piutang yang menumpuk. Yang perlu dipantau berikutnya adalah sesi public expose pada 24 November 2026 pukul 14.00-16.00 WIB, saat manajemen dijadwalkan menjelaskan langsung strategi mereka menghadapi pelemahan daya beli dan kenaikan biaya impor yang mereka sebut sendiri sebagai tantangan utama tahun ini.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Public expose tahunan BLUE secara daring via Zoom"
+   }
+  ]
+ },
+ {
   "slug": "kppu-periksa-saksi-kasus-tender-revitalisasi-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
@@ -54,6 +374,34 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan aturan baru, melainkan pengecekan atas komitmen yang sudah disetujui PT Hibarnas Jaya untuk tidak lagi mewajibkan warga membeli LPG nonsubsidi 5,5 kg atau 12 kg saat hendak membeli LPG 3 kg bersubsidi, dan KPPU kini mengecek penerapannya di 63 pangkalan Kabupaten Tegal. Yang terdampak langsung adalah warga Tegal pembeli LPG subsidi yang sebelumnya harus ikut membeli tabung nonsubsidi, serta PT Hibarnas Jaya dan jaringan pangkalannya yang kini diperiksa perilakunya. Arahnya menuju keputusan formal: KPPU akan merangkum hasil pengecekan ini dalam laporan paling lambat 1 Desember 2026, untuk diserahkan ke Majelis Komisi, yakni panel di KPPU yang berwenang memutus perkara, yang akan menentukan apakah komitmen itu diterima atau ditolak. Kalau ditolak, perkara ini kemungkinan berlanjut ke proses pemeriksaan lanjutan, sehingga laporan dan keputusan Majelis Komisi awal Desember itu yang perlu dipantau untuk memastikan arah akhirnya."
+ },
+ {
+  "slug": "laba-arci-semester-i-2026-melonjak-134-jadi-us-81-5-juta",
+  "category": "Aksi Korporasi",
+  "title": "Laba ARCI Semester I 2026 [Melonjak] 134% jadi US$81,5 Juta",
+  "deck": "Laba bersih ARCI naik 134% menjadi US$81,5 juta pada semester I 2026, didorong kenaikan pendapatan emas 67 persen dibanding tahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T17:39:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119175115-65818-0/FinancialStatement-2026-II-ARCI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARCI",
+  "tags": [
+   "ARCI",
+   "laporan keuangan",
+   "emas",
+   "obligasi"
+  ],
+  "body": [
+   "PT Archi Indonesia Tbk (ARCI) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026. Dalam laporan ini, perusahaan tambang emas tersebut membukukan pendapatan US$322,29 juta, naik 67 persen dari US$192,43 juta pada semester I 2025, terutama dari penjualan emas. Laba bersih periode berjalan melonjak jadi US$81,47 juta, naik 134 persen dari US$34,81 juta pada periode yang sama tahun lalu. Laba kotor naik dari US$77,74 juta menjadi US$146,01 juta, dan EBITDA naik dari US$85,51 juta menjadi US$160,48 juta. Laba per saham dasar turut naik lebih dari dua kali lipat, dari US$0,0014 menjadi US$0,0032.",
+   "Dari sisi posisi keuangan per 30 Juni 2026, total aset ARCI tercatat US$1,07 miliar, naik dari US$1,03 miliar pada akhir 2025. Ekuitas perusahaan bertambah menjadi US$413,64 juta dari US$362,93 juta, sementara total liabilitas justru turun sedikit menjadi US$660,97 juta dari US$663,84 juta. Modal disetor relatif stabil di sekitar US$20,59 juta, tidak banyak berubah dari posisi akhir 2025. Laporan keuangan ini diaudit oleh KAP Purwanto Susanti dan Surja, firma anggota Ernst & Young Global, dengan partner penandatangan Edward Dharmadi, dan memperoleh opini wajar tanpa modifikasian atau opini bersih tertanggal 21 Oktober 2026.",
+   "Laporan ini merupakan koreksi atas Laporan Auditor Independen sebelumnya yang terbit 28 September 2026. Menurut penjelasan auditor, laporan keuangan diterbitkan kembali dengan beberapa perubahan dan pengungkapan tambahan sehubungan dengan rencana ARCI menawarkan efek utang di Indonesia, yakni Penawaran Umum Berkelanjutan Obligasi dan Sukuk Wakalah Bi-Al Istitsmar Archi Indonesia I Tahun 2026, sesuai aturan Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Miners and haul trucks moving ore at an open-pit gold mine, misty mountains in the background, early morning light",
+  "takeaway": "Laporan ini condong positif bagi ARCI, karena pendapatan dan laba bersihnya sama-sama melonjak tajam dalam enam bulan, didukung opini audit bersih dari auditor independen. Pos yang paling jelas berubah adalah ekuitas, yaitu total kekayaan bersih pemegang saham setelah dikurangi utang, yang naik dari US$362,93 juta menjadi US$413,64 juta karena laba besar yang belum dibagi sebagai dividen tetap mengendap di dalam perusahaan. Karena modal disetor atau jumlah saham beredar tidak banyak bertambah, kenaikan laba tersebut benar-benar tercermin pada laba per saham yang naik lebih dari dua kali lipat, bukan sekadar terdilusi oleh penambahan saham baru. Yang perlu dipantau selanjutnya adalah proses penawaran umum berkelanjutan obligasi dan sukuk Archi Indonesia I Tahun 2026 yang disebut dokumen ini sebagai alasan koreksi laporan, karena belum disebutkan kapan OJK menyatakan efektif maupun berapa besar dana yang akan dihimpun dari penerbitan utang tersebut.",
+  "sentimen": "positif",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)"
  },
  {
   "slug": "pemerintah-pastikan-daya-beli-tumbuh-bukan-melemah",
@@ -18474,8 +18822,8 @@ var ARTICLES = [
  {
   "slug": "prda-sisa-dana-buyback-saham-tinggal-rp46-miliar",
   "category": "Aksi Korporasi",
-  "title": "Buyback PRDA 13 November: Sisa Dana [Menyusut] ke Rp39,06 Miliar",
-  "deck": "Prodia Widyahusada melaporkan sisa dana buyback saham turun lagi menjadi Rp39,06 miliar per 13 November 2026, setelah membeli kembali saham tambahan sejak laporan 6 November.",
+  "title": "Buyback PRDA 19 November: [Selesai] 36,1 Juta Saham Rp112,42 Miliar",
+  "deck": "Prodia menuntaskan buyback sahamnya pada 19 November 2026: total 36,14 juta saham dibeli senilai Rp112,42 miliar sejak 20 Agustus, menyisakan dana Rp37,58 miliar dari alokasi Rp150 miliar.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T16:51:45",
@@ -18486,16 +18834,16 @@ var ARTICLES = [
    "PRDA",
    "buyback saham",
    "Prodia Widyahusada",
-   "pasar modal"
+   "saham treasuri"
   ],
   "body": [
-   "PT Prodia Widyahusada Tbk (PRDA) melaporkan sisa dana pembelian kembali saham tinggal Rp39,06 miliar per 13 November 2026, turun dari Rp46,02 miliar pada laporan sebelumnya tanggal 6 November. Dalam sepekan terakhir, Prodia membeli kembali saham setiap hari perdagangan, termasuk 150.000 saham pada 13 November dengan harga rata-rata Rp3.593 per saham.",
-   "Sejak transaksi pertama pada 20 Agustus 2026, perusahaan telah mengakumulasi pembelian kembali sekitar 35,7 juta saham atau sekitar 3,81 persen dari total saham yang tercatat di Bursa Efek Indonesia. Program ini merujuk pada keterbukaan informasi 19 Agustus 2026 tentang rencana buyback saat kondisi pasar berfluktuasi signifikan, sesuai Pasal 12 ayat 1 POJK No. 13 Tahun 2023.",
-   "Harga rata-rata pembelian terus bergerak naik sepanjang program, dari Rp2.548 per saham pada transaksi pertama menjadi berkisar Rp3.593 hingga Rp3.697 pada pekan ini. Pembelian terbesar dalam satu hari masih tercatat pada 7 September 2026 sejumlah 2.616.500 saham atau 0,28 persen dari total saham tercatat, dengan harga rata-rata Rp2.795.",
-   "Dalam laporan ini, Corporate Secretary Marina Eka Amalia menyatakan bahwa pelaksanaan buyback tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Laporan semacam ini wajib disampaikan secara berkala selama program buyback dalam kondisi pasar fluktuatif masih berjalan."
+   "PT Prodia Widyahusada Tbk (PRDA) resmi menutup program pembelian kembali sahamnya pada 19 November 2026, setelah periode pembelian berjalan sejak 20 Agustus 2026. Selama periode itu, perusahaan membeli kembali 36.138.500 saham, setara 3,85 persen dari seluruh saham yang tercatat di Bursa Efek Indonesia, dengan harga rata-rata Rp3.033 per saham. Total dana yang terpakai adalah Rp112,42 miliar, menyisakan Rp37,58 miliar dari pagu awal Rp150 miliar yang tidak lagi digunakan karena program sudah berakhir.",
+   "Dengan penutupan ini, total saham yang kini disimpan Prodia sebagai saham treasuri mencapai 83.863.000 saham atau 8,95 persen dari modal disetor perseroan, jumlah yang mencakup saham hasil pembelian kembali dari program-program sebelumnya, bukan hanya dari periode Agustus-November 2026 ini. Jumlah tersebut masih di bawah batas maksimal 20 persen dari modal disetor yang diizinkan regulator, dan perusahaan menyatakan telah memperhatikan ketentuan jumlah saham beredar publik (free float) dalam pelaksanaannya.",
+   "Sepanjang program, harga rata-rata pembelian terus naik, dari Rp2.548 per saham pada transaksi pertama 20 Agustus 2026 menjadi Rp3.528 pada transaksi terakhir 19 November 2026. Pembelian harian terbesar tetap tercatat pada 7 September 2026 sebanyak 2.616.500 saham dengan harga rata-rata Rp2.795. Program ini dijalankan berdasarkan POJK No. 13 Tahun 2023 tentang kebijakan menjaga kinerja pasar modal pada kondisi pasar yang berfluktuasi signifikan, sehingga Prodia tidak memerlukan persetujuan RUPS lebih dahulu untuk melaksanakannya.",
+   "Corporate Secretary Marina Eka Amalia menyatakan penyelesaian pembelian kembali saham ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
   ],
   "fotoAdegan": "Medical laboratory technicians processing rows of blood sample tubes on an automated analyzer under bright clinical lighting",
-  "takeaway": "Laporan ini tetap condong positif bagi Prodia, karena perusahaan terus menjalankan program buyback yang dijanjikan sejak 19 Agustus 2026 dan kini sisa dananya tinggal Rp39,06 miliar dari alokasi awal sekitar Rp150 miliar. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena setiap saham yang dibeli balik ditarik dari pasar sehingga laba perusahaan terbagi ke lebih sedikit lembar saham dan berpotensi mengerek laba per saham. Harga rata-rata pembelian pekan ini berkisar Rp3.593 hingga Rp3.697, jauh di atas Rp2.548 saat program dimulai, namun Prodia tetap melanjutkan pembelian meski harganya sudah naik signifikan. Yang perlu dipantau berikutnya adalah seberapa cepat sisa dana Rp39,06 miliar ini terpakai, sebab dengan kecepatan pembelian harian seperti sekarang program ini bisa segera mencapai batas dananya dan investor perlu menunggu pengumuman resmi Prodia soal kelanjutan atau penghentian program setelah dana ini habis.",
+  "takeaway": "Laporan penutupan ini condong positif bagi Prodia karena program buyback yang dijanjikan sejak 19 Agustus 2026 selesai tepat waktu tanpa melebihi pagu dana yang diizinkan, dan hanya memakai Rp112,42 miliar dari Rp150 miliar yang dialokasikan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab saham yang dibeli balik ditarik dari pasar sebagai saham treasuri, kini totalnya mencapai 8,95 persen dari modal disetor, sehingga laba perusahaan ke depan terbagi ke jumlah lembar saham yang lebih kecil. Kas perusahaan juga berkurang sebesar dana yang sudah dibelanjakan selama program, meski jumlah itu masih di bawah pagu yang disetujui sejak awal. Yang perlu dipantau berikutnya adalah apakah Prodia akan mengumumkan program buyback baru atau mengubah status 83,86 juta lembar saham treasuri ini, misalnya menariknya permanen dari modal disetor atau memakainya untuk program kompensasi karyawan, karena dokumen ini tidak menyebutkan langkah lanjutan setelah periode 20 Agustus-19 November 2026 berakhir.",
   "sentimen": "positif",
   "pembaruan": [
    {
@@ -18503,10 +18851,22 @@ var ARTICLES = [
     "ringkas": "Sisa dana buyback PRDA turun ke Rp39,06 miliar per 13 November, setelah pembelian tambahan sejak laporan 6 November.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4a7e527fe_970eb5d82e.pdf",
     "judulIdx": "Laporan Hasil Pelaksanaan Pembelian Kembali Saham"
+   },
+   {
+    "tanggal": "2026-11-19T17:31:58",
+    "ringkas": "Program buyback PRDA resmi selesai 19 November 2026: total 36,14 juta saham dibeli senilai Rp112,42 miliar, sisa dana Rp37,58 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/024e0267e3_ec7b142099.pdf",
+    "judulIdx": "Keterbukaan Informasi atas Penyelesaian Pembelian Kembali Saham Perseroan"
    }
   ],
-  "diperbarui": "2026-11-13T17:49:29",
-  "peristiwa": "buyback"
+  "diperbarui": "2026-11-19T17:31:58",
+  "peristiwa": "buyback",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Periode pembelian kembali saham berakhir"
+   }
+  ]
  },
  {
   "slug": "hrta-terang-anugrah-abadi-tambah-609-000-saham",
@@ -23178,8 +23538,8 @@ var ARTICLES = [
  {
   "slug": "bina-jadwalkan-rupslb-dan-rups-independen-11-desember",
   "category": "Aksi Korporasi",
-  "title": "BINA Jadwalkan RUPSLB dan RUPS [Independen] 11 Desember",
-  "deck": "Bank Ina mengumumkan rencana RUPSLB sekaligus RUPS Independen pada 11 Desember 2026, tanda ada transaksi yang perlu restu pemegang saham non-afiliasi.",
+  "title": "RUPSLB BINA 11 Desember: [Private Placement] 350 Juta Saham",
+  "deck": "Pemanggilan resmi RUPS BINA 11 Desember mengungkap agenda sesungguhnya: RUPSLB mengubah susunan direksi/komisaris, RUPS Independen meminta restu private placement hingga 350 juta saham (5,69%).",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T13:07:45",
@@ -23190,17 +23550,46 @@ var ARTICLES = [
    "BINA",
    "RUPSLB",
    "RUPS Independen",
-   "Bank Ina Perdana"
+   "Private Placement"
   ],
   "body": [
-   "PT Bank Ina Perdana Tbk (BINA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen (RUPS Independen) secara bersamaan pada Jumat, 11 Desember 2026 pukul 10.00. Pemegang saham yang berhak hadir dan memberi suara adalah yang tercatat dalam Daftar Pemegang Saham per Rabu, 18 November 2026, sampai penutupan perdagangan saham hari itu. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada Kamis, 19 November 2026 lewat situs Bursa Efek Indonesia, sistem eASY.KSEI, dan situs resmi Bank Ina.",
-   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, asalkan diajukan bersama oleh pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham berhak suara. Usulan tertulis itu wajib diterima direksi paling lambat tujuh hari kalender sebelum pemanggilan, yaitu Kamis, 12 November 2026, dan harus disertai alasan serta bahan pendukung.",
-   "Untuk RUPS Independen, hanya pemegang saham yang tidak punya kepentingan ekonomis pribadi atas transaksi tertentu dan bukan merupakan direksi, komisaris, pemegang saham utama, pengendali, atau pihak terafiliasi mereka yang berhak hadir dan memberi suara. Kuorum kehadirannya berjenjang: rapat pertama sah jika dihadiri lebih dari separuh saham berhak suara milik pemegang saham independen dan keputusan disetujui oleh lebih dari separuh yang hadir. Jika kuorum tidak tercapai, digelar rapat kedua dengan ambang yang sama, dan jika masih gagal, rapat ketiga dengan kuorum yang ditetapkan OJK atas permohonan perseroan, dengan keputusan sah bila disetujui lebih dari 50 persen saham independen yang hadir.",
-   "Rapat juga dapat diikuti secara elektronik lewat eASY.KSEI yang dikelola KSEI, atau pemegang saham bisa memberi kuasa lewat formulir di situs perseroan kepada PT Raya Saham Registra sebagai pihak independen yang ditunjuk Bank Ina."
+   "PT Bank Ina Perdana Tbk (BINA) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dan Rapat Umum Pemegang Saham Independen pada Kamis, 19 November 2026, yang untuk pertama kalinya mengungkap agenda sesungguhnya dari rapat yang akan digelar 11 Desember 2026. RUPSLB akan membahas perubahan susunan pengurus perseroan, sementara RUPS Independen dimintai restu atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), yaitu penerbitan saham baru tanpa menawarkannya dulu kepada pemegang saham lama.",
+   "Dalam dokumen itu, Bank Ina menyebut rencana PMTHMETD akan menerbitkan saham biasa baru sebanyak-banyaknya 350.000.000 lembar, atau setara maksimal 5,69 persen dari seluruh saham yang telah disetor penuh perseroan saat ini. Jika disetujui dan dilaksanakan, perseroan juga akan mengubah Pasal 4 ayat (2) Anggaran Dasar terkait peningkatan modal ditempatkan dan disetor, serta memberi kuasa kepada Direksi dan/atau Dewan Komisaris untuk menjalankan seluruh tindakan yang diperlukan dalam proses tersebut. Pemanggilan ini belum merinci harga pelaksanaan maupun kepada siapa saham baru itu akan dijual.",
+   "Dokumen ini tidak merinci nama atau jabatan yang akan diganti dalam agenda perubahan susunan pengurus di RUPSLB, sehingga rinciannya baru akan diketahui saat rapat berlangsung.",
+   "Seperti sudah diumumkan sebelumnya, pemegang saham yang berhak hadir dan memberi suara adalah yang tercatat dalam Daftar Pemegang Saham per Rabu, 18 November 2026, sampai penutupan perdagangan hari itu. Pemanggilan terbaru menambahkan tenggat baru: batas waktu memberi atau mengubah kuasa suara lewat eASY.KSEI, maupun menyerahkan surat kuasa fisik ke PT Raya Saham Registra, jatuh pada Kamis, 10 Desember 2026 pukul 12.00 WIB, sehari sebelum rapat digelar di Gedung Ariobimo Sentral Lantai 10, Jakarta.",
+   "Keharusan meminta restu lewat RUPS Independen, bukan RUPS biasa, berarti transaksi PMTHMETD ini dianggap berpotensi menyangkut kepentingan pihak yang tidak boleh ikut menentukan keputusannya sendiri, seperti direksi, komisaris, pemegang saham utama, atau pihak terafiliasi mereka. Karena itu suara penentu ada di tangan pemegang saham yang tidak memiliki kepentingan pribadi atas transaksi tersebut."
   ],
   "fotoAdegan": "Rows of empty boardroom chairs around a long table in a glass-walled Jakarta office tower, soft afternoon light",
-  "takeaway": "Pengumuman ini kami nilai netral, karena isinya baru sebatas jadwal dan mekanisme rapat, belum mengungkap agenda atau transaksi yang sesungguhnya dibahas. Yang tersentuh di sini adalah hak suara pemegang saham: aturan RUPS Independen mewajibkan transaksi yang melibatkan kepentingan direksi, komisaris, pemegang saham utama, atau pihak terafiliasi mereka mendapat restu khusus dari pemegang saham yang tidak punya kepentingan pribadi dalam transaksi itu, supaya keputusan tidak dikendalikan oleh pihak yang justru diuntungkan. Keberadaan agenda RUPS Independen ini sendiri menjadi sinyal bahwa ada transaksi berpotensi mengandung kepentingan terafiliasi yang sedang disiapkan perseroan. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 19 November 2026, karena di situlah agenda dan rincian transaksi baru akan diungkap secara lengkap, serta hasil keputusan dalam rapat itu sendiri pada 11 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Kami menilai pemanggilan ini netral karena baru membuka agenda, bukan hasil akhir, dan dampaknya dua arah: di satu sisi rencana penambahan modal ini bisa memperkuat basis modal bank, di sisi lain penerbitan saham baru sampai 5,69 persen akan menambah jumlah saham beredar sehingga laba per saham pemegang saham lama berpotensi terdilusi tanpa mereka diberi kesempatan membeli lebih dulu, karena PMTHMETD memang berarti saham baru tidak ditawarkan ke pemegang saham lama seperti pada right issue biasa. Pos yang tersentuh adalah jumlah saham beredar dan modal disetor perseroan, dua angka yang menentukan seberapa besar kue perusahaan terbagi dan seberapa kuat permodalan bank menyerap risiko. Pemanggilan ini juga belum mengungkap harga pelaksanaan atau pihak yang akan menerima saham baru, informasi yang sebenarnya paling menentukan besar kecilnya dilusi bagi pemegang saham lama. Yang perlu dipantau berikutnya adalah tenggat kuasa suara pada 10 Desember 2026 pukul 12.00 WIB dan hasil RUPSLB sekaligus RUPS Independen pada 11 Desember 2026, saat kedua agenda ini akan diputuskan.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T17:38:30",
+    "ringkas": "Pemanggilan resmi ungkap agenda RUPS BINA 11 Desember: ubah pengurus dan private placement maksimal 350 juta saham (5,69%).",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/04ad491f4a_5247c9d2c2.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa dan Independen"
+   }
+  ],
+  "diperbarui": "2026-11-19T17:38:30",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Recording date pemegang saham berhak hadir RUPS"
+   },
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Pemanggilan resmi RUPSLB dan RUPS Independen"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Tenggat kuasa e-voting/surat kuasa fisik, pukul 12.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPSLB dan RUPS Independen BINA"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "sdra-panggil-rupslb-agendakan-pergantian-direksi-komisaris",

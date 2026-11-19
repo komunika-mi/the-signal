@@ -18950,8 +18950,8 @@ var ARTICLES = [
  {
   "slug": "ppgl-gelar-public-expose-insidentil-usai-diminta-bursa",
   "category": "Aksi Korporasi",
-  "title": "PPGL Public Expose Insidentil: Ekuitas Susut, [Dividen Jumbo] Rp35,8 M",
-  "deck": "Materi koreksi public expose insidentil PPGL menyebut pembagian dividen jumbo Rp35,8 miliar pada 2025-2026, selain divestasi anak usaha, sebagai sebab ekuitas turun 74,25% ke Rp37,2 miliar.",
+  "title": "Public Expose PPGL: [Pengendali] Tetap di Tangan Darmawan Suryadi",
+  "deck": "Public expose insidentil PPGL 18 November menegaskan pengendali tetap Darmawan Suryadi, suspensi saham masih dibahas dengan BEI, dan KJPP akan menilai rencana bisnis baru.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T17:02:52",
@@ -18960,19 +18960,19 @@ var ARTICLES = [
   "emiten": "PPGL",
   "tags": [
    "PPGL",
-   "Public Expose Insidentil",
-   "Dividen Jumbo",
-   "Ekuitas"
+   "Public Expose",
+   "Suspensi Saham",
+   "Pengendali Perusahaan"
   ],
   "body": [
-   "PT Prima Globalindo Logistik Tbk (PPGL) mengoreksi materi public expose insidentilnya melalui surat No. 010/PGL/XI/2026 tertanggal 18 November 2026, yang membetulkan surat sebelumnya No. 009/PGL/XI/2026 tanggal 17 November 2026. Dalam materi yang dikoreksi, perseroan menambahkan penjelasan bahwa penurunan ekuitas per 30 Juni 2026 tidak hanya disebabkan oleh anak usaha PT Armada Berjaya Trans Tbk yang tidak lagi dikonsolidasikan, tetapi juga karena perseroan membagikan dividen jumbo senilai Rp35,8 miliar pada 2025 dan 2026. Materi ini sekaligus menegaskan bahwa paparan publik insidentil digelar pada 18 November 2026, hari ini.",
-   "Fakta inti dari materi sebelumnya tetap berlaku. Total aset perseroan per 30 Juni 2026 turun 87,92 persen menjadi Rp49,7 miliar dari Rp411,9 miliar pada akhir 2025 secara konsolidasi, total liabilitas turun 95,30 persen menjadi Rp12,6 miliar, dan ekuitas turun 74,25 persen menjadi Rp37,2 miliar, terutama karena Armada Berjaya Trans tidak lagi masuk laporan keuangan PPGL.",
-   "Dari sisi laba rugi, pendapatan usaha semester I 2026 tercatat Rp40,5 miliar, turun 54,51 persen dibanding Rp89,0 miliar pada semester I 2025. Laba sebelum pajak turun 53,09 persen menjadi Rp2,8 miliar, dan laba komprehensif tahun berjalan turun 53,84 persen menjadi Rp2,36 miliar. Materi koreksi ini tidak menambahkan penjelasan baru untuk penurunan pendapatan dan laba tersebut.",
-   "Untuk rencana bisnis ke depan, perseroan masih dalam tahap negosiasi pengembangan usaha dengan PT Natadana Solusi Pratama, yang bergerak di jasa pengelolaan dan pendaftaran jaminan fidusia digital sejak 2019, dan PT Wani Piro Rek, yang mengolah dan menjual makanan siap santap sejak 2021. Soal pergerakan harga sahamnya sendiri, manajemen tetap hanya menyebut dinamika permintaan dan penawaran serta kondisi pasar umum yang di luar kendali perseroan, tanpa penjelasan lebih spesifik meski ini diminta langsung oleh Bursa Efek Indonesia."
+   "PT Prima Globalindo Logistik Tbk (PPGL) melaporkan hasil penyelenggaraan public expose insidentil yang digelar Rabu, 18 November 2026 pukul 11.00 WIB secara daring lewat Zoom, dihadiri 24 peserta dari luar manajemen dan karyawan perseroan, termasuk investor, analis, dan wartawan. Dalam sesi tanya jawab, Direktur Utama Darmawan Suryadi SM menegaskan bahwa meski perseroan masih bernegosiasi bisnis baru dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek, pengendali perseroan tetap dirinya sendiri, tidak berubah.",
+   "Soal suspensi perdagangan saham PPGL, manajemen hanya menyatakan terus berkomunikasi dengan Bursa Efek Indonesia dan mengikuti arahan serta instruksi otoritas, tanpa memberi kepastian waktu pencabutan. Untuk menilai prospek bisnis dari rencana kerja sama dengan Natadana dan Wani Piro, perseroan menyebut akan menggunakan jasa kantor jasa penilai publik (KJPP) independen. Menjawab pertanyaan peserta mengenai siapa yang membeli saham yang sebelumnya dilepas oleh komisaris perseroan, manajemen menyatakan tidak mengetahuinya karena transaksi itu diatur oleh broker atau perusahaan sekuritas.",
+   "Laporan ini melengkapi materi public expose yang sebelumnya dikoreksi pada 18 November 2026, yang menyebut ekuitas PPGL per 30 Juni 2026 turun 74,25 persen menjadi Rp37,2 miliar, selain karena anak usaha PT Armada Berjaya Trans Tbk tidak lagi dikonsolidasikan, juga karena perseroan membagikan dividen jumbo Rp35,8 miliar pada 2025 dan 2026. Total aset turun 87,92 persen menjadi Rp49,7 miliar dan total liabilitas turun 95,30 persen menjadi Rp12,6 miliar secara konsolidasi.",
+   "Dari sisi laba rugi, pendapatan usaha semester I 2026 tercatat Rp40,5 miliar, turun 54,51 persen dibanding Rp89,0 miliar pada semester I 2025. Laba sebelum pajak turun 53,09 persen menjadi Rp2,8 miliar, dan laba komprehensif tahun berjalan turun 53,84 persen menjadi Rp2,36 miliar."
   ],
   "fotoAdegan": "Warehouse workers moving pallets with forklifts inside a large logistics distribution center, morning light through skylights",
-  "takeaway": "Koreksi ini condong negatif bagi PPGL, karena pendapatan dan laba bersih semester I 2026 tetap tercatat turun lebih dari 50 persen secara tahunan tanpa penjelasan baru, meski kini ada tambahan informasi bahwa penyusutan ekuitas bukan hanya akibat lepasnya anak usaha Armada Berjaya Trans, tapi juga karena perseroan membagikan dividen jumbo Rp35,8 miliar pada 2025 dan 2026. Pos yang tersentuh adalah ekuitas, yang turun 74,25 persen menjadi Rp37,2 miliar, dan laba bersih yang menentukan laba per saham pemegang saham; dividen besar memang mengalirkan uang ke pemegang saham, tapi juga mengecilkan modal sendiri perseroan yang tersisa untuk ekspansi usaha. Rasio utang terhadap aset dan ekuitas tetap membaik karena perseroan yang tersisa jauh lebih kecil dan tidak banyak berutang, jadi bukan sinyal gagal bayar. Yang perlu dipantau berikutnya adalah pelaksanaan paparan publik insidentil pada 18 November 2026 dan kelanjutan negosiasi bisnis baru dengan PT Natadana Solusi Pratama serta PT Wani Piro Rek yang belum punya target waktu pasti.",
-  "sentimen": "negatif",
+  "takeaway": "Laporan hasil public expose ini netral bagi PPGL, karena isinya lebih banyak mengonfirmasi hal yang sudah diketahui pasar ketimbang menghadirkan data keuangan baru, meski kepastian bahwa pengendalian masih di tangan Darmawan Suryadi cukup melegakan investor yang sempat khawatir ada pengendali baru lewat rencana bisnis dengan Natadana dan Wani Piro. Pos yang tersentuh adalah struktur pengendalian dan hak suara, bukan laba atau ekuitas; bagi pemegang saham, kepastian pengendali penting karena perubahan pengendali biasanya memicu perubahan arah bisnis secara tiba-tiba. Status suspensi saham yang belum jelas kapan dicabut tetap membatasi likuiditas investor, karena saham yang disuspensi tidak bisa diperjualbelikan di pasar reguler. Pertanyaan soal pembeli saham yang dilepas komisaris tidak disertai keterangan jumlah atau nilai transaksi dalam dokumen ini, jadi belum bisa dinilai apakah itu sinyal berarti atau sekadar transaksi kecil. Yang perlu dipantau berikutnya adalah hasil penilaian KJPP atas prospek bisnis dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek, serta perkembangan komunikasi perseroan dengan Bursa Efek Indonesia soal status suspensi saham, yang keduanya belum punya tanggal pasti dalam dokumen ini.",
+  "sentimen": "netral",
   "pembaruan": [
    {
     "tanggal": "2026-11-17T23:58:35",
@@ -18985,9 +18985,15 @@ var ARTICLES = [
     "ringkas": "Koreksi materi public expose PPGL ungkap dividen jumbo Rp35,8 miliar turut jadi sebab susutnya ekuitas, selain divestasi anak usaha.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67552a420b_c71e1c529d.pdf",
     "judulIdx": "Penyampaian Materi Public Expose - Insidentil (KOREKSI)"
+   },
+   {
+    "tanggal": "2026-11-19T23:58:47",
+    "ringkas": "Hasil public expose insidentil PPGL ungkap pengendali tetap Darmawan Suryadi dan KJPP akan menilai prospek bisnis baru dengan Natadana dan Wani Piro.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f123774644_78d61a932f.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Insidentil"
    }
   ],
-  "diperbarui": "2026-11-18T11:24:01",
+  "diperbarui": "2026-11-19T23:58:47",
   "jadwal": [
    {
     "tanggal": "2026-11-18",

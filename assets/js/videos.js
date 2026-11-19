@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "99paPQU-pzE",
+  "title": "Presiden Prabowo: APEC Beri Manfaat Investasi US$86,8 Miliar bagi RI",
+  "category": "Global",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto menyebut forum APEC memberikan manfaat nyata bagi perekonomian Indonesia, dengan potensi investasi dan kesepakatan ekonomi senilai US$86,8 miliar.",
+  "takeaway": "Angka investasi dari forum APEC ini relevan bagi pembaca ekonomi karena menggambarkan potensi aliran modal asing ke Indonesia.",
+  "terbit": "2026-11-19T14:20:53+00:00"
+ },
+ {
+  "id": "KI7yCxCWs2s",
+  "title": "KDMP Ciwaru Sukabumi Kembangkan Hilirisasi Perikanan",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "KDMP Desa Ciwaru, Sukabumi, mendorong hilirisasi sektor perikanan dengan mengolah hasil tangkapan laut menjadi produk bernilai tambah serta membuka peluang usaha baru.",
+  "takeaway": "Contoh hilirisasi di tingkat desa ini relevan bagi pembaca ekonomi sebagai gambaran bagaimana UMKM perikanan bisa meningkatkan nilai tambah produknya.",
+  "terbit": "2026-11-19T13:46:17+00:00"
+ },
+ {
   "id": "fPHRvQGqxBU",
   "title": "Bos IMF: AI Jadi Risiko Baru bagi Ekonomi Dunia",
   "category": "Global",

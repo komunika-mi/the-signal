@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "99paPQU-pzE",
+  "title": "Presiden Prabowo: APEC Beri Manfaat Investasi US$86,8 Miliar bagi RI",
+  "category": "Global",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto menyebut forum APEC memberikan manfaat nyata bagi perekonomian Indonesia, dengan potensi investasi dan kesepakatan ekonomi senilai US$86,8 miliar.",
+  "takeaway": "Angka investasi dari forum APEC ini relevan bagi pembaca ekonomi karena menggambarkan potensi aliran modal asing ke Indonesia."
+ },
+ {
+  "id": "KI7yCxCWs2s",
+  "title": "KDMP Ciwaru Sukabumi Kembangkan Hilirisasi Perikanan",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "KDMP Desa Ciwaru, Sukabumi, mendorong hilirisasi sektor perikanan dengan mengolah hasil tangkapan laut menjadi produk bernilai tambah serta membuka peluang usaha baru.",
+  "takeaway": "Contoh hilirisasi di tingkat desa ini relevan bagi pembaca ekonomi sebagai gambaran bagaimana UMKM perikanan bisa meningkatkan nilai tambah produknya."
+ },
+ {
   "id": "fPHRvQGqxBU",
   "title": "Bos IMF: AI Jadi Risiko Baru bagi Ekonomi Dunia",
   "category": "Global",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Koperasi Desa Merah Putih di Desa Kembang, Kulonprogo, Yogyakarta, diharapkan menjadi solusi atas berbagai tantangan yang dihadapi petani setempat.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran koperasi desa dalam memperkuat pemberdayaan ekonomi dan daya saing petani di tingkat lokal."
- },
- {
-  "id": "uaQVmk3NHFc",
-  "title": "Pemerintah dan DPR Bahas Pengangkatan PPPK Penuh Waktu",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Petang",
-  "summary": "Pemerintah dan DPR menyepakati perubahan status pegawai P3K paruh waktu menjadi P3K penuh waktu, langkah yang berdampak pada anggaran negara dan kesejahteraan tenaga kerja di sektor pemerintahan.",
-  "takeaway": "Perubahan status kepegawaian ini relevan bagi pembaca karena menyangkut anggaran negara dan prospek kesejahteraan ribuan tenaga kerja sektor publik."
- },
- {
-  "id": "_-0MCUGj8HE",
-  "title": "Ekonomi Indonesia Tumbuh 5,47 Persen di Kuartal III 2026",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Pertumbuhan ekonomi Indonesia pada kuartal III 2026 tercatat 5,47 persen secara tahunan, naik dari 5,29 persen pada kuartal sebelumnya.",
-  "takeaway": "Data pertumbuhan domestik bruto ini menjadi acuan utama untuk menilai arah kebijakan ekonomi makro pemerintah di sisa tahun."
  }
 ];

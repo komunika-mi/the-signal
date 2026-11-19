@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "msie-koreksi-free-float-ke-bursa-ungkap-afiliasi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "MSIE Koreksi [Free Float] ke Bursa, Ungkap Afiliasi Pengendali",
+  "deck": "MSIE mengakui salah hitung free float dan membenarkan saham Komisaris dari 1.252.300 jadi 1.250.000, menyusul permintaan penjelasan Bursa atas LBRPE September-Oktober 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MSIE",
+   "Free Float",
+   "Pemegang Saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/175a07a740_a81a43991a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bike-akuisisi-3-anak-usaha-rp0-minta-bursa-buka-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE: [Akuisisi] 3 Anak Usaha Rp0, Minta Bursa Buka Suspensi",
+  "deck": "BIKE mengoreksi surat ke bursa, merinci akuisisi tiga anak usaha senilai Rp0 dan berharap suspensi sahamnya dibuka.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "suspensi saham",
+   "entitas anak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/551c5bdcc1_03d77313d0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-medp-17-november-kuorum-tak-terpenuhi-rupo-kedua-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "RUPO MEDP 17 November: Kuorum Tak Terpenuhi, [RUPO Kedua] Menyusul",
+  "deck": "RUPO pertama obligasi MEDP pada 17 November gagal capai kuorum sehingga keputusan soal pengalihan dana ditunda; RUPO kedua wajib digelar dalam 14-21 hari kalender.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDP",
+   "RUPO",
+   "obligasi",
+   "Medco Power"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11c834f72f_947251f88f.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas",
   "category": "Energi",
   "title": "Ledakan Kilang PPSDM Cepu, Satu Pekerja [Tewas]",
@@ -39,6 +87,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/disaksikan-presiden-prabowo-kerja-sama-coal-to-ethanol-usd18-miliar-dorong-hilirisasi-batu-bara",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "rupslb-pola-28-desember-diminta-pemegang-saham-pengendali-72-61",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB POLA 28 Desember: Diminta Pemegang Saham Pengendali [72,61%]",
+  "deck": "Pool Advista Finance (POLA) akan menggelar RUPSLB pada 28 Desember 2026 atas permintaan pemegang saham pengendali yang menguasai 72,61% hak suara.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POLA",
+   "RUPSLB",
+   "Pool Advista Finance",
+   "pemegang saham pengendali"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56cd5bdc49_21a7363689.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-trio-28-desember-dps-pemegang-saham-per-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TRIO 28 Desember: [DPS] Pemegang Saham per 3 Desember",
+  "deck": "Trikomsel Oke (TRIO) menjadwalkan RUPSLB pada Senin, 28 Desember 2026. Pemegang saham yang berhak hadir ditentukan dari daftar per 3 Desember 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIO",
+   "RUPSLB",
+   "Trikomsel Oke",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e1fd90915_7d23043d2f.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
@@ -6452,89 +6532,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/menteri-rosan-dorong-investasi-uni-eropa-ibc-avesta-sepakati-kerja-sama-baterai",
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "bkpm-buka-desk-investasi-di-medan-kejar-rp13-triliun",
-  "category": "Makroekonomi",
-  "title": "BKPM Buka Desk Investasi di Medan, Kejar [Rp13 Triliun]",
-  "deck": "Kementerian Investasi/BKPM meluncurkan Desk Investasi Regional di Medan untuk mengawal realisasi investasi Rp13 triliun di Sumatera, menyusul proyek serupa di Batam dan Bali.",
-  "date": "10 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "BKPM",
-   "Desk Investasi",
-   "Sumatera",
-   "Realisasi Investasi"
-  ],
-  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-desk-investasi-regional-targetkan-realisasi-rp100-triliun",
-  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
- },
- {
-  "slug": "esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa",
-  "category": "Energi",
-  "title": "ESDM Libatkan Pemda dalam Lelang [Panas Bumi] dan Listrik Desa",
-  "deck": "Wamen ESDM Yuliot menyepakati pemda ikut jadi panitia lelang panas bumi, sembari memacu elektrifikasi 100 persen pada 2029 dan menuntaskan proyek PLTA di Kalimantan Utara.",
-  "date": "10 November 2026",
-  "image": "assets/img/esdm-libatkan-pemda-dalam-lelang-panas-bumi-dan-listrik-desa.jpg",
-  "imageV": "mwai7xmq",
-  "tags": [
-   "ESDM",
-   "Energi Terbarukan",
-   "Panas Bumi",
-   "Elektrifikasi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/bahas-ketahanan-energi-dengan-dpd-ri-wamen-esdm-perkuat-peran-daerah-dalam-percepatan-ebt",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ekspor-batu-bara-sawit-ferro-alloy-wajib-lewat-dsi-2027",
-  "category": "Industri",
-  "title": "Ekspor Batu Bara, Sawit, Ferro Alloy Wajib Lewat [DSI] 2027",
-  "deck": "Mulai 1 Januari 2027, ekspor batu bara, sawit, dan ferro alloy wajib melalui Danantara Sumberdaya Indonesia sebagai perantara tunggal, meski eksportir tetap bisa bernegosiasi langsung dengan buyer.",
-  "date": "10 November 2026",
-  "image": "assets/img/ekspor-batu-bara-sawit-ferro-alloy-wajib-lewat-dsi-2027.jpg",
-  "imageV": "mwai857x",
-  "tags": [
-   "ekspor SDA strategis",
-   "Danantara Sumberdaya Indonesia",
-   "Kementerian Perdagangan",
-   "Eksportir Terdaftar"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kebijakan-tata-kelola-ekspor-sda-akan-berlaku-mendag-busan-tekankan-aktivitas-ekspor-tetap-sama",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "heli-rencanakan-akuisisi-60-saham-pear-rp14-4-miliar",
-  "category": "Aksi Korporasi",
-  "title": "HELI Rencanakan [Akuisisi] 60% Saham PEAR Rp14,4 Miliar",
-  "deck": "HELI akan membeli 60 persen saham PT Putra Elang Angkasaraya senilai Rp14,4 miliar dari PT Multi Angkasa Indonesia, menunggu persetujuan RUPSLB 17 Desember 2026.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HELI",
-   "akuisisi",
-   "transaksi material",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/77776d7983_697a004e35.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-koreksi-lk-2023-ketiga-kali-liabilitas-melonjak-83",
-  "category": "Aksi Korporasi",
-  "title": "CASH Koreksi LK 2023 Ketiga Kali, Liabilitas [Melonjak] 83%",
-  "deck": "Cashlez merevisi laporan keuangan 2023 untuk ketiga kalinya dalam sepekan, dengan total liabilitas melonjak 83 persen jadi Rp74,9 miliar akibat pinjaman baru dan utang pembelian barang.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "laporan keuangan",
-   "restatement",
-   "liabilitas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261110163457-65775-0/FinancialStatement-2023-Tahunan-CASH.pdf",
-  "sourceLabel": "IDX"
  }
 ];

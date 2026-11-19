@@ -3,6 +3,95 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "msie-koreksi-free-float-ke-bursa-ungkap-afiliasi-pengendali",
+  "category": "Aksi Korporasi",
+  "title": "MSIE Koreksi [Free Float] ke Bursa, Ungkap Afiliasi Pengendali",
+  "deck": "MSIE mengakui salah hitung free float dan membenarkan saham Komisaris dari 1.252.300 jadi 1.250.000, menyusul permintaan penjelasan Bursa atas LBRPE September-Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T13:07:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/175a07a740_a81a43991a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MSIE",
+  "tags": [
+   "MSIE",
+   "Free Float",
+   "Pemegang Saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Multisarana Intan Eduka Tbk (MSIE) menjawab surat permintaan penjelasan Bursa Efek Indonesia nomor S-14197/BEI.PP1/11-2026 tanggal 17 November 2026 yang mempertanyakan cara perusahaan menghitung saham free float dalam Laporan Bulanan Registrasi Pemegang Efek (LBRPE) periode September dan Oktober 2026. Dalam tanggapan yang dikirim 18 November 2026, MSIE mengakui bahwa perhitungan sebelumnya mengurangkan saham Direksi, Dewan Komisaris, dan pihak afiliasi dari basis saham publik, namun belum sepenuhnya mengikuti aturan Bursa bahwa saham milik pemegang saham pengendali dan afiliasinya harus dikeluarkan dari hitungan free float sejak awal. Perusahaan berjanji tidak akan mengurangkan saham yang sama dua kali jika sudah dikecualikan lewat klasifikasi afiliasi lain.",
+   "Menanggapi permintaan Bursa soal daftar afiliasi pengendali, MSIE menyebutkan enam pihak yang terafiliasi dengan pemegang saham pengendali Imanuel Herman Prawiromaruto dan Swandriyani Hudianto, yaitu Suminsen (menantu), Ivana Wiyono (menantu), Hanna Gabrielle (anak), Josua Abe Prawiromaruto (anak), PT Permata Health Nusantara (perusahaan milik Imanuel yang juga menjabat direktur di sana), serta Suzanna Rosa Prawiromaruto yang merupakan adik kandung Imanuel dan sudah tercatat sebagai salah satu pemegang saham pengendali. Perusahaan juga mengoreksi selisih 2.300 saham pada LBRPE September 2026: angka 1.252.300 saham yang sebelumnya tercatat sebagai kepemilikan Direksi dan Dewan Komisaris di bawah 5 persen ternyata salah ketik, karena seluruh 1.250.000 saham tersebut hanya dimiliki oleh Komisaris Ian Griffin Prawiromaruto, tanpa kepemilikan dari direksi atau komisaris lain.",
+   "MSIE juga membenarkan sejumlah persentase kepemilikan yang keliru ditulis di LBRPE: saham Imanuel Herman Prawiromaruto dan Suzanna Rosa Prawiromaruto masing-masing dari 30 persen menjadi 30,14 persen, dan saham Swandriyani Hudianto dari 15 persen menjadi 15,07 persen, serta memperbaiki penulisan alamat pemegang saham dari 'Ngiden Intan' menjadi 'Nginden Intan'. Untuk persentase saham publik non-warkat yang seharusnya 24,57 persen, perusahaan tetap mencantumkan 24,56 persen karena jika diubah total kepemilikan akan melebihi 100 persen dalam sistem pelaporan. Perusahaan menegaskan seluruh koreksi ini hanya soal penyajian data dan tidak mengubah jumlah saham yang sebenarnya dimiliki tiap pemegang saham, serta akan menyesuaikan LBRPE periode Oktober dan November 2026 setelah rekonsiliasi data dengan Biro Administrasi Efek."
+  ],
+  "fotoAdegan": "Jakarta's financial district skyline with the stock exchange tower glowing at dusk, traffic lights blurring below",
+  "takeaway": "Laporan ini netral bagi fundamental MSIE karena tidak ada saham yang berpindah tangan, semua yang dikoreksi hanya cara menghitung dan menuliskan data pemegang saham, tetapi kesalahan yang terjadi berulang di dua periode laporan sekaligus menunjukkan lemahnya kontrol internal perusahaan dalam menjaga data kepemilikan sahamnya sendiri. Yang tersentuh di sini adalah angka free float, yaitu porsi saham yang beredar bebas di luar genggaman pemegang saham pengendali dan keluarganya, angka ini dipakai Bursa dan penyedia indeks untuk menilai seberapa likuid saham tersebut diperdagangkan, sehingga kalau salah hitung, investor bisa salah menilai seberapa mudah saham ini diperjualbelikan. Yang perlu dipantau selanjutnya adalah apakah MSIE benar-benar mengoreksi LBRPE periode Oktober dan November 2026 secara konsisten seperti yang dijanjikan, karena Bursa sudah dua kali meminta klarifikasi atas laporan rutin yang sama dalam waktu berdekatan.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "bike-akuisisi-3-anak-usaha-rp0-minta-bursa-buka-suspensi",
+  "category": "Aksi Korporasi",
+  "title": "BIKE: [Akuisisi] 3 Anak Usaha Rp0, Minta Bursa Buka Suspensi",
+  "deck": "BIKE mengoreksi surat ke bursa, merinci akuisisi tiga anak usaha senilai Rp0 dan berharap suspensi sahamnya dibuka.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T13:00:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/551c5bdcc1_03d77313d0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIKE",
+  "tags": [
+   "BIKE",
+   "akuisisi",
+   "suspensi saham",
+   "entitas anak"
+  ],
+  "body": [
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengirim surat koreksi kepada Bursa Efek Indonesia pada 19 November 2026, merevisi surat sehari sebelumnya yang merespons permintaan bursa tertanggal 17 November 2026 agar perseroan membuka keterbukaan informasi ke publik. Dalam lampirannya, Direktur BIKE Muhamad Kuswandi menyatakan penyampaian ini diharapkan menjadi bahan pertimbangan bursa untuk membuka kembali suspensi perdagangan saham BIKE.",
+   "Dokumen tersebut merinci tiga akuisisi yang sudah dijalankan BIKE, semuanya dengan nilai Rp0 karena perseroan mengambil alih kewajiban utang entitas yang diakuisisi alih-alih membayar tunai. Pertama, 99 persen saham PT Fahreza Bumi Megah (FBM), efektif 15 Juli 2026, dibeli dari Nadila Syafira yang berstatus anggota Direksi BIKE sehingga tergolong transaksi afiliasi. Kedua, 99 persen atau 10.692 dari 10.800 saham PT Mega Teknologi Investama (MTI), efektif sejak 9 Juni 2026, dibeli dari Ny. Vitria yang bukan pihak terafiliasi; neraca MTI tercatat punya liabilitas sekitar Rp15 miliar berbanding modal disetor Rp10,8 miliar, alias ekuitasnya negatif. Ketiga, 98 persen atau 220.500 dari 225.000 saham PT Karya Bersinar Indonesia (KBI) yang bermodal disetor Rp225 miliar, efektif 28 Oktober 2026, dibeli dari PT Metro Investama Global dan PT Sigma Internasional Indonesia yang masing-masing menyisakan 1 persen saham sebagai mitra transisi.",
+   "Perseroan menjelaskan ketiga akuisisi ini belum masuk laporan keuangan per 30 September 2026. KBI belum dikonsolidasikan karena transaksinya baru efektif setelah tanggal tutup buku itu, sementara konsolidasi MTI dan FBM masih menunggu tim akuntansi merampungkan kertas kerja alokasi harga beli dan akan disajikan ulang mulai laporan keuangan kuartal IV 2026. Di luar akuisisi, BIKE juga melaporkan bahwa pemegang saham pengendali barunya, PT Penajam Makmur Jaya (PMJ), masih menunggu persetujuan Otoritas Jasa Keuangan atas rencana penawaran tender wajib, serta telah mencairkan Rp125 miliar dari fasilitas pinjaman tanpa bunga senilai total Rp1,1 triliun pada 10 September 2026 untuk modal kerja perseroan.",
+   "[dipotong] — BIKE menyatakan akan terus menjelaskan kemungkinan pembatalan transaksi akuisisi, namun rincian poin ini tidak tersedia dalam dokumen yang diterima."
+  ],
+  "fotoAdegan": "Construction workers inspecting steel structural beams at an active industrial building site, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi BIKE, bukan karena akuisisinya gratis, tapi karena ketiga entitas yang diambil justru dalam kondisi keuangan bermasalah, MTI tercatat berekuitas negatif dan KBI menanggung utang serta kerugian operasional, sehingga BIKE pada dasarnya membeli kewajiban, bukan aset bersih. Pos yang tersentuh adalah ekuitas konsolidasian perseroan, karena begitu PPA (proses menghitung ulang nilai aset dan utang entitas yang dibeli) selesai dan laporan direstatement di kuartal IV, utang-utang entitas anak itu akan ikut masuk ke buku BIKE dan bisa menggerus modal perseroan, ditambah potensi tambahan utang dari pinjaman pemegang saham berplafon Rp1,1 triliun meski tanpa bunga. Yang perlu dipantau berikutnya adalah apakah bursa bersedia membuka kembali suspensi saham BIKE setelah menerima penjelasan ini, kelanjutan proses persetujuan OJK atas penawaran tender wajib oleh PT Penajam Makmur Jaya, dan hasil konsolidasi penuh MTI serta FBM yang dijanjikan masuk ke laporan keuangan per 31 Desember 2026. Surat ini juga merupakan koreksi atas surat serupa yang terbit sehari sebelumnya dan menyambung rangkaian permintaan penjelasan berulang dari bursa dalam beberapa bulan terakhir, pola yang biasanya menandakan bursa belum puas dengan jawaban-jawaban sebelumnya.",
+  "sentimen": "negatif",
+  "judulIdx": "Penyampaian Keterbukaan Informasi kepada Publik PT Bhineka Inovasi Ketahanan Energi Tbk. (KOREKSI)",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-31",
+    "acara": "Target konsolidasi penuh akuisisi MTI dan FBM di laporan keuangan kuartal IV"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-medp-17-november-kuorum-tak-terpenuhi-rupo-kedua-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "RUPO MEDP 17 November: Kuorum Tak Terpenuhi, [RUPO Kedua] Menyusul",
+  "deck": "RUPO pertama obligasi MEDP pada 17 November gagal capai kuorum sehingga keputusan soal pengalihan dana ditunda; RUPO kedua wajib digelar dalam 14-21 hari kalender.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T11:09:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11c834f72f_947251f88f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDP",
+  "tags": [
+   "MEDP",
+   "RUPO",
+   "obligasi",
+   "Medco Power"
+  ],
+  "body": [
+   "PT Medco Power Indonesia (MEDP) melaporkan hasil Rapat Umum Pemegang Obligasi (RUPO) atas Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025, yang digelar 17 November 2026 pukul 14.00 di Ruang Jasmine Energy Building Lantai 2, Jakarta. Agenda rapat adalah persetujuan perubahan Pasal 2 ayat 2.1 Perjanjian Perwaliamanatan, yakni perubahan rencana penggunaan dana hasil penawaran umum obligasi tersebut, rencana yang sebelumnya diberitakan sebagai pengalihan dana Rp427 miliar dari proyek panas bumi Bonjol ke ekspansi PLTGU Batam.",
+   "Hasilnya, kuorum kehadiran yang disyaratkan Pasal 10 ayat 7 huruf a angka 1 huruf a Perjanjian Perwaliamanatan tidak terpenuhi. Akibatnya, RUPO tidak dapat melanjutkan pembahasan maupun mengambil keputusan yang sah dan mengikat bagi pemegang obligasi, sehingga rencana pengalihan penggunaan dana tersebut belum resmi disetujui.",
+   "Sesuai Pasal 10 ayat 7 huruf a angka 1 huruf b juncto Pasal 10 ayat 5 huruf e perjanjian yang sama, kegagalan kuorum pada RUPO pertama mewajibkan perseroan menggelar RUPO kedua paling cepat 14 hari kalender dan paling lambat 21 hari kalender sejak RUPO pertama. Jadwal dan tata cara RUPO kedua akan diumumkan tersendiri sesuai ketentuan perjanjian. Dokumen ditandatangani Fajrah Lestari Akili, Corporate Secretary & Head Corporate Communication MEDP."
+  ],
+  "fotoAdegan": "Steam rising from geothermal power plant pipelines on a misty tropical hillside, workers in hard hats inspecting valves",
+  "takeaway": "Laporan ini netral bagi MEDP: gagal kuorum dan RUPO kedua adalah mekanisme standar yang memang diatur dalam perjanjian wali amanat, bukan tanda gagal bayar atau masalah keuangan baru. Yang tersentuh adalah pos arus kas, yaitu rencana memindahkan dana hasil obligasi dari proyek panas bumi Bonjol yang molor ke ekspansi PLTGU Batam yang sudah berkontrak; pemegang obligasi memperhatikan ini karena menentukan proyek mana yang lebih dulu menerima kucuran dana segar dari obligasi yang sudah mereka beli. Yang perlu dipantau adalah RUPO kedua, yang menurut perjanjian wajib digelar paling cepat 14 hari dan paling lambat 21 hari sejak 17 November 2026, karena baru di RUPO kedua itu keputusan soal pengalihan dana bisa menjadi sah dan mengikat.",
+  "sentimen": "netral",
+  "peristiwa": "rupo",
+  "judulIdx": "Pemberitahuan Hasil RUPO PT Medco Power Indonesia"
+ },
+ {
   "slug": "ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas",
   "category": "Energi",
   "title": "Ledakan Kilang PPSDM Cepu, Satu Pekerja [Tewas]",
@@ -57,6 +146,94 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Yang berubah adalah penandatanganan nota kesepahaman antara Kemendiktisaintek dan Pertamina dengan Beijing Petrochemical Engineering, senilai US$1,8 miliar untuk mengembangkan teknologi pengolahan batu bara menjadi etanol, salah satu dari empat kerja sama Indonesia-Tiongkok senilai total US$71,8 miliar. Pihak yang langsung terkait adalah Pertamina sebagai calon pelaksana teknologi ini di dalam negeri, serta industri batu bara berkalori rendah yang berpotensi mendapat pasar baru di luar pembangkit listrik dan ekspor. Namun yang ditandatangani masih sebatas nota kesepahaman untuk pengembangan dan transfer teknologi, belum menyebut lokasi pabrik, kapasitas produksi, atau target waktu mulai beroperasi, sehingga belum bisa dipastikan apakah ini berlanjut jadi investasi nyata atau berhenti di tahap studi. Yang perlu ditunggu adalah apakah kerja sama ini diikuti studi kelayakan atau kesepakatan proyek dengan jadwal konkret, karena itu yang akan menentukan apakah batu bara kalori rendah Indonesia benar terserap jadi etanol atau rencana ini mandek di level kesepahaman.",
   "imageV": "mwn1b8wr"
+ },
+ {
+  "slug": "rupslb-pola-28-desember-diminta-pemegang-saham-pengendali-72-61",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB POLA 28 Desember: Diminta Pemegang Saham Pengendali [72,61%]",
+  "deck": "Pool Advista Finance (POLA) akan menggelar RUPSLB pada 28 Desember 2026 atas permintaan pemegang saham pengendali yang menguasai 72,61% hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T10:59:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56cd5bdc49_21a7363689.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLA",
+  "tags": [
+   "POLA",
+   "RUPSLB",
+   "Pool Advista Finance",
+   "pemegang saham pengendali"
+  ],
+  "body": [
+   "PT Pool Advista Finance Tbk (POLA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 28 Desember 2026 pukul 10.00 WIB, di Aula Pertemuan PT Pool Advista Finance Tbk Lantai 2, Jl. Letjen Soepeno Blok CC6, Jakarta Selatan. Rapat ini digelar atas permintaan pemegang saham pengendali, PT Pool Advista Indonesia Tbk, melalui surat permintaan Nomor 082/POOL/XI/2026 tertanggal 2 November 2026. PT Pool Advista Indonesia Tbk tercatat menguasai 72,61% dari seluruh saham Perseroan dengan hak suara.",
+   "Soal jadwal prosesnya, pemanggilan resmi rapat akan dilakukan pada Jumat, 4 Desember 2026, melalui situs web Bursa Efek Indonesia, situs Perseroan, dan situs PT Kustodian Sentral Efek Indonesia (KSEI). Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau pemilik saham di sub rekening efek KSEI, terhitung sejak Kamis, 3 Desember 2026, sampai penutupan perdagangan saham POLA di bursa pada hari itu. Pemegang saham yang ingin mengusulkan mata acara rapat, dengan syarat mewakili paling sedikit 1/20 dari total saham berhak suara, wajib menyampaikan usulan tertulis kepada Direksi paling lambat Senin, 27 November 2026.",
+   "Pengumuman ini belum memuat agenda atau mata acara RUPSLB. Rincian agenda baru akan disampaikan bersamaan dengan pemanggilan rapat pada 4 Desember 2026. Bagi pemegang saham yang tidak bisa hadir langsung, hak suara tetap bisa disalurkan lewat surat kuasa elektronik melalui sistem eASY.KSEI yang disediakan KSEI."
+  ],
+  "fotoAdegan": "Rows of empty chairs arranged in a corporate meeting hall before a shareholders gathering, soft morning light through windows",
+  "takeaway": "Pengumuman ini netral bagi POLA karena baru memberitahukan jadwal RUPSLB, bukan keputusan atau agenda yang bisa langsung dinilai dampaknya ke kinerja perusahaan. Yang perlu digarisbawahi, rapat ini diminta oleh pemegang saham pengendali yang menguasai 72,61% hak suara, sehingga RUPSLB ini berpotensi membahas aksi korporasi yang bisa menyentuh struktur permodalan atau jumlah saham beredar Perseroan, meski dokumen ini sendiri belum mengungkap agenda spesifiknya. Pelaku pasar biasanya mencermati siapa yang meminta rapat dan besar kepemilikannya, karena pemegang saham dengan porsi hak suara sebesar itu praktis bisa meloloskan keputusan apa pun tanpa perlu dukungan pemegang saham lain. Yang dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 4 Desember 2026 saat agenda rapat akan diumumkan, tenggat pengajuan usul mata acara oleh pemegang saham lain pada 27 November 2026, dan pelaksanaan RUPSLB itu sendiri pada 28 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Batas akhir usul mata acara RUPSLB oleh pemegang saham minoritas"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Pemanggilan resmi RUPSLB beserta agenda"
+   },
+   {
+    "tanggal": "2026-12-28",
+    "acara": "Pelaksanaan RUPSLB POLA"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-trio-28-desember-dps-pemegang-saham-per-3-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TRIO 28 Desember: [DPS] Pemegang Saham per 3 Desember",
+  "deck": "Trikomsel Oke (TRIO) menjadwalkan RUPSLB pada Senin, 28 Desember 2026. Pemegang saham yang berhak hadir ditentukan dari daftar per 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T10:50:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e1fd90915_7d23043d2f.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIO",
+  "tags": [
+   "TRIO",
+   "RUPSLB",
+   "Trikomsel Oke",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "PT Trikomsel Oke Tbk (TRIO) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) di Jakarta pada Senin, 28 Desember 2026 pukul 09.30 WIB, dengan lokasi di Jl. Kebon Sirih Raya No. 63, Jakarta Pusat. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan melalui situs eASY.KSEI, situs Bursa Efek Indonesia, dan situs resmi perseroan pada Jumat, 4 Desember 2026, sehingga agenda rapat belum terungkap dalam pengumuman ini.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan di Bursa Efek Indonesia hari Kamis, 3 Desember 2026 pukul 16.00 WIB. Jika ada pemegang saham yang ingin mengusulkan mata acara tambahan, usulan tersebut harus diterima Direksi paling lambat tujuh hari kalender sebelum tanggal pemanggilan rapat, sesuai Pasal 12 ayat 6 Anggaran Dasar Perseroan dan Pasal 16 POJK No. 15/2020.",
+   "Perseroan juga mengimbau pemegang saham untuk memberikan kuasa melalui fasilitas elektronik eASY.KSEI (e-Proxy) yang disediakan KSEI. Fasilitas ini tersedia sejak tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB digelar, sebagai alternatif bagi pemegang saham yang tidak hadir secara fisik."
+  ],
+  "fotoAdegan": "Customers browsing smartphones and accessories at a mobile phone retail counter inside an Indonesian shopping mall, bright display lighting",
+  "takeaway": "Laporan ini NETRAL karena isinya hanya pemberitahuan jadwal RUPSLB, bukan agenda atau keputusan yang bisa dinilai dampaknya pada kinerja TRIO. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh di dokumen ini, karena agenda rapat baru terungkap saat pemanggilan resmi, bukan di pemberitahuan rencana ini. Satu-satunya hal konkret adalah batas pencatatan pemegang saham (DPS) pada 3 Desember 2026, yaitu tanggal yang menentukan siapa saja yang berhak datang dan memberi suara di rapat. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi agenda rapat pada 4 Desember 2026, serta pelaksanaan RUPSLB itu sendiri pada 28 Desember 2026, karena di situlah keputusan yang berpengaruh ke investor baru akan terlihat.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Cut off Daftar Pemegang Saham yang berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Pemanggilan resmi RUPSLB berisi agenda rapat diumumkan"
+   },
+   {
+    "tanggal": "2026-12-28",
+    "acara": "Pelaksanaan RUPSLB"
+   }
+  ]
  },
  {
   "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
@@ -12522,8 +12699,8 @@ var ARTICLES = [
  {
   "slug": "wsbp-terbitkan-54-3-juta-saham-baru-dari-konversi-utang",
   "category": "Aksi Korporasi",
-  "title": "WSBP Terbitkan [54,3 Juta] Saham Baru dari Konversi Utang",
-  "deck": "WSBP akan menerbitkan 54,3 juta saham baru pada 18 November 2026 sebagai konversi utang tahap VII, dengan harga konversi Rp50,81 per saham.",
+  "title": "PMTHMETD WSBP Tahap VII [Efektif]: 54,3 Juta Saham ke 5 Kreditur",
+  "deck": "WSBP resmi melaksanakan konversi utang Tahap VII pada 18 November, efektif tercatat 19 November, dengan rincian lima kreditur dagang penerima saham.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T14:35:47",
@@ -12534,16 +12711,37 @@ var ARTICLES = [
    "WSBP",
    "PMTHMETD",
    "konversi utang",
-   "Waskita Beton Precast"
+   "PKPU"
   ],
   "body": [
-   "PT Waskita Beton Precast Tbk (WSBP) akan melaksanakan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Tahap VII pada 18 November 2026, dengan menerbitkan 54.295.065 saham baru bernilai nominal Rp50 per saham. Penerbitan ini merupakan konversi utang kepada para kreditur sebagai pelaksanaan Perjanjian Perdamaian yang disahkan Pengadilan Niaga Jakarta Pusat pada 28 Juni 2022 dan dikuatkan putusan Mahkamah Agung pada 20 September 2022, menyusul proses penundaan kewajiban pembayaran utang (PKPU) yang dialami perseroan. Rencana ini sebelumnya disetujui dalam RUPS Luar Biasa 30 Juni 2023, RUPS Tahunan 22 Mei 2025, dan RUPS Luar Biasa Kedua pada 23 Oktober 2026.",
-   "Harga konversi ditetapkan Rp50,81 per saham, dihitung berdasarkan rata-rata harga tertimbang volume perdagangan (VWAP) sesuai aturan pencatatan saham Bursa Efek Indonesia. Setelah penerbitan ini, tanggal efektif pencatatan saham ditetapkan 19 November 2026 dan pemberitahuan pelaksanaannya disampaikan 20 November 2026. Jumlah saham ditempatkan dan disetor WSBP akan bertambah dari 56.959.163.746 saham menjadi 57.013.458.811 saham.",
-   "Tahap VII ini merupakan kelanjutan dari enam tahap konversi sebelumnya, yang masing-masing menerbitkan 28.194.563.791 saham (Tahap I), 350.781.751 saham (Tahap II), 178.545.623 saham (Tahap III), 751.468.422 saham (Tahap IV), 943.961.365 saham (Tahap V), dan 178.685.260 saham (Tahap VI). Dengan Tahap VII, total saham yang telah atau akan diterbitkan dari program ini mencapai sekitar 30,65 miliar lembar, dari target keseluruhan 33.831.589.017 saham yang disepakati dalam perjanjian perdamaian."
+   "PT Waskita Beton Precast Tbk (WSBP) resmi melaksanakan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Tahap VII pada 18 November 2026, dengan tanggal efektif pencatatan saham baru pada 19 November 2026. Perseroan menerbitkan 54.295.065 saham baru bernilai nominal Rp50 per saham dengan harga konversi Rp50,81 per saham, sehingga total saham beredar WSBP menjadi 57.013.458.811 saham, terdiri dari 1 saham seri A, 26.361.157.533 saham seri B, dan 30.652.301.277 saham seri C.",
+   "Saham baru ini diterima oleh lima kreditur dagang sebagai konversi utang senilai total Rp2.758.732.351, dengan rincian: CV Dinamis menerima 5.343.866 saham dari utang Rp271.521.856, PT Jui Shin Indonesia menerima 466.498 saham dari utang Rp23.702.795, PT Maruzen Samudera Taiheiyo menerima 14.844.680 saham dari utang Rp754.258.200, PT Nexco Indonesia menerima 25.694.125 saham dari utang Rp1.305.518.500, dan PT Nuryeni menerima 7.945.896 saham dari utang Rp403.731.000.",
+   "Konversi ini merupakan pelaksanaan Perjanjian Perdamaian yang disahkan Pengadilan Niaga Jakarta Pusat pada 28 Juni 2022 dan dikuatkan putusan Mahkamah Agung pada 20 September 2022, menyusul proses penundaan kewajiban pembayaran utang (PKPU) yang dialami WSBP. Rencana PMTHMETD Tahap VII ini sebelumnya disetujui dalam RUPS Luar Biasa 30 Juni 2023, RUPS Tahunan 22 Mei 2025, dan RUPS Luar Biasa Kedua pada 23 Oktober 2026.",
+   "Tahap VII merupakan kelanjutan dari enam tahap konversi sebelumnya, yang masing-masing menerbitkan 28.194.563.791 saham (Tahap I), 350.781.751 saham (Tahap II), 178.545.623 saham (Tahap III), 751.468.422 saham (Tahap IV), 943.961.365 saham (Tahap V), dan 178.685.260 saham (Tahap VI). Dengan Tahap VII, total saham yang telah diterbitkan dari program konversi utang ini mencapai sekitar 30,65 miliar lembar, dari target keseluruhan 33.831.589.017 saham sesuai Perjanjian Perdamaian, sehingga masih tersisa sekitar 3,18 miliar saham untuk tahap-tahap berikutnya."
   ],
   "fotoAdegan": "Workers in hard hats inspecting rows of large precast concrete beams stacked in an industrial manufacturing yard under overcast daylight",
-  "takeaway": "Laporan ini netral bagi WSBP karena saham baru yang diterbitkan, 54,3 juta lembar, hanya menambah sekitar 0,1 persen dari total saham yang sudah beredar, sehingga dampaknya ke pemegang saham lama sangat kecil. Di sisi lain, konversi ini mengurangi utang perusahaan kepada krediturnya sesuai perjanjian perdamaian dari proses PKPU, yang justru meringankan beban keuangan WSBP ke depan. Yang perlu diperhatikan adalah jumlah saham beredar, yaitu total lembar saham yang dipegang publik dan pemegang saham lain, karena setiap penambahan saham baru berpotensi menekan laba per saham, yakni keuntungan perusahaan yang dibagi rata ke setiap lembar sahamnya. Dari target total konversi 33,8 miliar saham sepanjang program PMTHMETD ini, baru sekitar 30,65 miliar lembar yang telah atau akan diterbitkan sampai Tahap VII, sehingga masih ada sisa sekitar 3,18 miliar saham yang menunggu tahap konversi berikutnya. Yang perlu dipantau adalah efektifnya pencatatan saham baru ini di Bursa Efek Indonesia pada 19 November 2026 serta jadwal tahap konversi selanjutnya untuk menuntaskan sisa target tersebut.",
-  "sentimen": "netral"
+  "takeaway": "Pelaksanaan Tahap VII ini netral bagi WSBP: tambahan 54,3 juta saham hanya menaikkan saham beredar sekitar 0,1 persen, jadi pengaruhnya ke kepemilikan pemegang saham lama hampir tidak terasa, sementara di sisi lain perseroan melunasi utang dagang Rp2,76 miliar kepada lima kreditur sehingga beban kewajibannya dari proses PKPU berkurang. Pos yang tersentuh adalah jumlah saham beredar, yang kini menjadi 57.013.458.811 lembar terbagi dalam tiga seri saham, dan ini relevan karena setiap penambahan lembar saham membagi laba perusahaan ke porsi yang lebih banyak sehingga laba per saham, yaitu keuntungan yang jatuh ke setiap lembar, bisa sedikit tergerus meski dalam kasus ini dampaknya kecil. Yang perlu dipantau berikutnya adalah sisa sekitar 3,18 miliar saham dari target konversi 33,8 miliar lembar yang belum diterbitkan, serta kapan WSBP akan menjalankan tahap konversi selanjutnya untuk menuntaskan Perjanjian Perdamaian ini.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T11:37:04",
+    "ringkas": "PMTHMETD Tahap VII resmi terlaksana 18 November, efektif tercatat 19 November, dengan rincian 54.295.065 saham untuk lima kreditur dagang.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b1cee5dcaf_2fcf2dea91.pdf",
+    "judulIdx": "Penyampaian Keterbukaan Informasi Hasil Pelaksanaan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Tahap VII PT Waskita Beton Precast Tbk"
+   }
+  ],
+  "diperbarui": "2026-11-19T11:37:04",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Pelaksanaan konversi utang PMTHMETD Tahap VII"
+   },
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Tanggal efektif pencatatan saham hasil Tahap VII"
+   }
+  ],
+  "peristiwa": "right-issue"
  },
  {
   "slug": "auto-vto-astra-international-pangkas-free-float-ke-15-05",
@@ -22769,8 +22967,8 @@ var ARTICLES = [
  {
   "slug": "pkpk-gelar-rupslb-dan-rups-independen-11-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "PKPK Gelar [RUPSLB] dan RUPS Independen 11 Desember 2026",
-  "deck": "Paragon Karya Perkasa menjadwalkan RUPSLB dan RUPS Independen pada 11 Desember 2026. Pemegang saham yang tercatat per 18 November 2026 berhak hadir dan memberi suara.",
+  "title": "RUPSLB PKPK 11 Desember: Agenda [Stock Split] dan Akuisisi DPAL",
+  "deck": "Surat panggilan RUPSLB dan RUPS Independen PKPK pada 19 November 2026 mengungkap agenda penuh: stock split 1:10 dan persetujuan akuisisi sisa saham DPAL senilai Rp722,2 miliar.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T09:47:41",
@@ -22780,17 +22978,46 @@ var ARTICLES = [
   "tags": [
    "PKPK",
    "RUPSLB",
-   "RUPS Independen",
-   "Paragon Karya Perkasa"
+   "Stock Split",
+   "Akuisisi DPAL"
   ],
   "body": [
-   "Direksi Paragon Karya Perkasa Tbk (PKPK), melalui surat Nomor 061/DIR-PKPK/XI/2026 yang ditandatangani Corporate Secretary Fransiska Setiawan, mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen pada Jumat, 11 Desember 2026 pukul 09.00 WIB, di Sheraton Grand Jakarta Gandaria City Hotel. Dua rapat ini digelar bersamaan: RUPSLB untuk seluruh pemegang saham dan RUPS Independen khusus dihadiri pemegang saham independen Perseroan.",
-   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Rabu, 18 November 2026 sampai pukul 16.00 WIB. Surat panggilan resmi yang memuat mata acara rapat beserta penjelasannya baru akan diterbitkan pada Kamis, 19 November 2026, lewat situs web KSEI (aplikasi eASY.KSEI), situs Bursa Efek Indonesia, dan situs Perseroan sendiri. Pemegang saham yang ingin mengusulkan mata acara rapat harus menyampaikannya secara tertulis kepada Direksi paling lambat tujuh hari sebelum tanggal panggilan tersebut.",
-   "Rapat juga dapat diikuti secara elektronik lewat sistem e-RUPS milik KSEI. Perseroan mengimbau pemegang saham memberikan suara melalui aplikasi eASY.KSEI, yang akan dibuka sejak tanggal panggilan rapat hingga satu hari kerja sebelum rapat, yaitu Kamis, 10 Desember 2026 pukul 12.00 WIB. Dokumen pengumuman ini belum memuat agenda rapat, karena rincian mata acara baru akan diumumkan bersamaan dengan surat panggilan pada 19 November 2026."
+   "Direksi Paragon Karya Perkasa Tbk (PKPK) menerbitkan surat panggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dan Rapat Umum Pemegang Saham Independen pada Kamis, 19 November 2026, yang untuk pertama kalinya membuka agenda lengkap kedua rapat tersebut. RUPSLB akan membahas tiga hal: persetujuan pemecahan nilai nominal saham (stock split) dengan rasio 1:10, perubahan anggaran dasar tentang masa jabatan anggota Direksi dan Dewan Komisaris, serta penyesuaian anggaran dasar mengenai kegiatan usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Sementara itu, RUPS Independen, yang hanya diikuti pemegang saham tanpa kepentingan ekonomi pribadi dalam transaksi ini, akan memutuskan rencana pembelian 720.374 saham PT Deli Pratama Angkutan Laut (DPAL) atau 50,99% dari seluruh saham DPAL, senilai Rp722,2 miliar atau 67,30% dari ekuitas PKPK, dari PT Deli Indonesia Raya dan PT Karya Niaga Gemilang.",
+   "Pembelian saham DPAL ini merupakan tahap kedua dari rencana Perseroan mengambil alih 99,99% saham DPAL, yang pertama kali diungkapkan dalam Keterbukaan Informasi PKPK pada 26 Juni 2026. Karena nilai transaksinya melebihi separuh ekuitas Perseroan dan dilakukan dengan pihak terafiliasi, transaksi ini digolongkan sebagai Transaksi Material dan Transaksi Afiliasi yang keputusannya harus diambil pemegang saham independen, meski Perseroan menyatakan transaksi ini tidak mengandung benturan kepentingan.",
+   "Rencana stock split sendiri sudah mendapat persetujuan prinsip dari Bursa Efek Indonesia lewat surat tertanggal 23 Oktober 2026. Jika disetujui RUPSLB, nilai nominal saham PKPK turun dari Rp200 menjadi Rp20 per saham dan jumlah saham beredar bertambah dari 1,2 miliar menjadi 12 miliar lembar, tanpa mengubah modal disetor Perseroan dalam rupiah.",
+   "Kedua rapat tetap digelar pada Jumat, 11 Desember 2026 pukul 09.00 WIB di Sheraton Grand Jakarta Gandaria City Hotel, baik secara fisik maupun elektronik lewat sistem eASY.KSEI milik KSEI. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham pada Rabu, 18 November 2026 pukul 16.00 WIB. Pemberian kuasa dan suara elektronik dibuka sejak tanggal panggilan ini hingga Kamis, 10 Desember 2026 pukul 12.00 WIB, sementara kuasa tertulis ke Biro Administrasi Efek PT Raya Saham Registra harus diterima paling lambat Selasa, 8 Desember 2026."
   ],
   "fotoAdegan": "Rows of empty chairs facing a stage inside a large hotel ballroom prepared for a corporate meeting, soft morning light",
-  "takeaway": "Dokumen ini sendiri netral bagi fundamental PKPK, sebab isinya baru jadwal dan mekanisme rapat, belum memuat agenda atau angka keuangan apa pun. Yang perlu digarisbawahi adalah digelarnya RUPS Independen bersamaan dengan RUPSLB, sebab format ini biasanya dipakai untuk transaksi yang berpotensi mengandung benturan kepentingan sehingga butuh persetujuan mayoritas pemegang saham independen, bukan pemegang saham biasa. Pos yang layak diawasi adalah ekuitas dan jumlah saham beredar, dua hal yang belakangan sudah bergerak lewat rencana stock split 1:10 dan akuisisi sisa saham DPAL senilai Rp722 miliar yang memangkas rasio ekuitas PKPK. Yang paling menentukan adalah surat panggilan resmi pada 19 November 2026, karena saat itulah agenda sebenarnya dari RUPSLB dan RUPS Independen ini baru akan terbuka ke publik. Pemegang saham yang ingin punya hak suara juga harus memastikan kepemilikannya sudah tercatat paling lambat 18 November 2026 pukul 16.00 WIB.",
-  "sentimen": "netral"
+  "takeaway": "Dokumen panggilan resmi ini condong netral karena baru memformalkan agenda yang sudah diumumkan sejak awal November dan akhir Juni 2026, belum ada keputusan RUPS yang bisa dinilai positif atau negatif bagi PKPK. Yang menarik perhatian adalah dua pos sekaligus: ekuitas, karena transaksi pembelian sisa saham DPAL senilai Rp722,2 miliar setara 67,3 persen dari ekuitas PKPK sehingga porsinya besar dibanding ukuran modal perusahaan sendiri, dan jumlah saham beredar, karena stock split 1:10 akan mengubah saham PKPK dari 1,2 miliar menjadi 12 miliar lembar meski nilai modal disetor tidak berubah sepeser pun. Yang perlu dipantau adalah hasil pemungutan suara pada RUPSLB dan RUPS Independen 11 Desember 2026, sebab persetujuan akuisisi DPAL harus datang dari pemegang saham independen yang tidak punya kepentingan ekonomi pribadi dalam transaksi itu, dengan batas akhir pemberian suara elektronik pada 10 Desember 2026 pukul 12.00 WIB.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T11:03:38",
+    "ringkas": "Surat panggilan RUPSLB PKPK 19 November mengungkap agenda stock split 1:10 dan akuisisi sisa saham DPAL senilai Rp722,2 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d9be8edf85_36a9c1f32e.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa dan Independen"
+   }
+  ],
+  "diperbarui": "2026-11-19T11:03:38",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Recording date pemegang saham berhak hadir RUPS"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Batas penyampaian surat kuasa tertulis ke BAE"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Batas pemberian suara elektronik via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPSLB dan RUPS Independen PKPK"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "kmds-panggil-rupslb-26-november-ubah-anggaran-dasar",
@@ -41228,8 +41455,8 @@ var ARTICLES = [
  {
   "slug": "ammn-panggil-rupslb-rombak-komisaris-17-november",
   "category": "Aksi Korporasi",
-  "title": "AMMN Panggil RUPSLB Rombak [Komisaris] 17 November",
-  "deck": "Amman Mineral Internasional mengundang pemegang saham ke RUPSLB 17 November 2026 untuk menyetujui perubahan susunan Dewan Komisaris, tanpa menyebut nama calon dalam surat pemanggilan.",
+  "title": "RUPSLB AMMN 17 November: [Komisaris] M. Teguh Pamuji Diberhentikan",
+  "deck": "RUPSLB AMMN 17 November 2026 menyetujui pemberhentian M. Teguh Pamuji sebagai Komisaris dan mengesahkan susunan baru Direksi serta Dewan Komisaris yang kini beranggotakan empat orang.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "26 Oktober 2026",
   "isoDate": "2026-10-26T08:30:55",
@@ -41240,16 +41467,33 @@ var ARTICLES = [
    "AMMN",
    "RUPSLB",
    "Dewan Komisaris",
-   "Amman Mineral"
+   "tata kelola perusahaan"
   ],
   "body": [
-   "PT Amman Mineral Internasional Tbk (AMMN) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026, pukul 10.30 WIB. Rapat ini digelar sepenuhnya secara elektronik melalui platform eASY.KSEI, dengan koordinasi pimpinan rapat, direksi, komisaris, notaris, dan profesi penunjang dilakukan dari The Energy Building, SCBD Lot 11A, Jakarta. Satu-satunya mata acara dalam RUPSLB ini adalah persetujuan atas perubahan susunan anggota Dewan Komisaris Perseroan. Surat pemanggilan tidak menyebutkan nama komisaris yang akan diberhentikan maupun yang diusulkan untuk diangkat, hanya merujuk pada Pasal 23 POJK Nomor 33/POJK.04/2014 dan Pasal 20 ayat 2 Anggaran Dasar Perseroan yang mengharuskan pengangkatan atau pemberhentian komisaris diputuskan lewat rapat pemegang saham.",
-   "Pemegang saham yang berhak mengikuti RUPSLB ini adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per 23 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada tanggal yang sama. Rencana penyelenggaraan RUPSLB ini sendiri sudah diumumkan Perseroan sejak 9 Oktober 2026 melalui situs BEI, situs perusahaan, dan eASY.KSEI, dan surat pemanggilan ini adalah undangan resmi yang berlaku bagi seluruh pemegang saham tanpa undangan tersendiri.",
-   "Perseroan menetapkan dua tenggat penting bagi pemegang saham yang ingin berpartisipasi. Pertama, batas deklarasi kehadiran dan pemberian suara secara elektronik melalui eASY.KSEI adalah 16 November 2026 pukul 12.00 WIB, sehari sebelum rapat. Kedua, bagi yang memilih memberi kuasa tertulis konvensional kepada PT Datindo Entrycom selaku biro administrasi efek, formulir kuasa harus sudah diserahkan paling lambat Kamis, 12 November 2026 pukul 12.00 WIB di kantor BAE di Jalan Hayam Wuruk Jakarta Pusat. Tayangan RUPSLB melalui Zoom Webinar dibatasi untuk 500 peserta berdasarkan urutan masuk, namun keterlambatan menonton tayangan tidak menggugurkan hak suara selama registrasi di eASY.KSEI sudah dilakukan."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Amman Mineral Internasional Tbk (AMMN) yang digelar Selasa, 17 November 2026, dihadiri pemegang saham yang mewakili 64.111.761.093 saham atau 88,537% dari total saham berhak suara. Rapat menyetujui mata acara tunggal dengan 96,46% suara setuju, 3,29% tidak setuju, dan 0,24% abstain. Keputusannya adalah memberhentikan dengan hormat M. Teguh Pamuji sebagai Komisaris Perseroan terhitung sejak 17 November 2026, disertai ucapan terima kasih dan pembebasan tanggung jawab penuh (acquit et de charge) atas tindakannya selama menjabat.",
+   "Rapat juga mengesahkan susunan baru Direksi dan Dewan Komisaris Perseroan. Direksi: Direktur Utama Arief Widyawan Sidarto, Direktur Anthony R. Mathias, Direktur Aditya Sasmito, dan Direktur Lal Naveen Chandra, tidak berubah dari sebelumnya. Dewan Komisaris kini beranggotakan empat orang, berkurang satu dari lima sebelumnya karena posisi M. Teguh Pamuji tidak diisi penggantinya: Komisaris Utama Agoes Projosasmito, Komisaris Alexander Ramlie, Komisaris Independen Markus Permadi, dan Komisaris Independen Teguh Boentoro. Masa jabatan mereka berbeda-beda, berakhir pada 30 Juni 2030 atau 30 Juni 2031 sesuai periode penugasan masing-masing.",
+   "RUPSLB ini sebelumnya dipanggil Perseroan melalui surat tanggal 26 Oktober 2026, dengan rencana penyelenggaraan sudah diumumkan sejak 9 Oktober 2026. Saat pemanggilan, Perseroan belum menyebutkan nama komisaris yang akan diberhentikan maupun diangkat, hanya merujuk pada kewajiban POJK dan Anggaran Dasar bahwa perubahan susunan komisaris harus diputuskan lewat rapat pemegang saham. Rapat digelar sepenuhnya secara elektronik melalui platform eASY.KSEI dan dipimpin oleh Agoes Projosasmito selaku Komisaris Utama.",
+   "Pemegang saham turut memberikan kuasa kepada Direksi Perseroan untuk menindaklanjuti keputusan ini secara administratif, termasuk membuat akta dan menyampaikan pemberitahuan kepada instansi berwenang seperti Kementerian Hukum Republik Indonesia. Dalam rapat tersebut tidak ada pemegang saham atau kuasanya yang mengajukan pertanyaan maupun pendapat."
   ],
   "fotoAdegan": "Modern glass office towers in Jakarta's SCBD business district at dusk, seen from street level, soft lit windows",
-  "takeaway": "Laporan ini saya nilai netral bagi fundamental AMMN, karena yang diumumkan baru jadwal dan prosedur RUPSLB, bukan nama atau alasan di balik perubahan Dewan Komisaris itu sendiri, jadi arah dampaknya belum bisa dibaca. Yang tersentuh di sini bukan angka keuangan seperti laba atau arus kas, melainkan tata kelola perusahaan, yaitu siapa yang mengawasi kerja direksi atas nama pemegang saham, dan pergantian pengawas ini bisa mempengaruhi cara investor menilai kualitas pengawasan ke depan meski belum tentu mengubah kinerja operasional. Yang perlu dipantau pemegang saham adalah hasil RUPSLB pada 17 November 2026 itu sendiri, karena di situlah baru akan terungkap siapa yang masuk dan keluar dari Dewan Komisaris, sementara tenggat pemberian suara elektronik jatuh sehari sebelumnya, 16 November 2026 pukul 12.00 WIB.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini saya nilai netral bagi fundamental AMMN, karena pemberhentian satu komisaris dan pengesahan susunan baru adalah murni perubahan tata kelola yang disetujui mayoritas besar pemegang saham, 96,46%, tanpa menyentuh laba, kas, atau operasional tambang perusahaan. Yang tersentuh adalah struktur Dewan Komisaris sebagai pengawas kerja direksi atas nama pemegang saham, jumlahnya turun dari lima jadi empat orang, namun proporsi komisaris independen justru naik dari dua berbanding lima menjadi dua berbanding empat, sehingga rasio pengawasan independen terhadap direksi relatif menguat, hal yang biasa dicermati investor sebagai indikator kualitas tata kelola. Yang perlu dipantau selanjutnya adalah bagaimana Dewan Komisaris baru yang lebih ramping ini bekerja mengawasi direksi, mengingat masa jabatan mereka berlaku sampai 30 Juni 2030 atau 2031 tergantung periode masing-masing, serta proses administrasi lanjutan ke Kementerian Hukum yang sudah dikuasakan Perseroan kepada direksinya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T13:35:42",
+    "ringkas": "RUPSLB AMMN 17 November 2026 resmi memberhentikan M. Teguh Pamuji sebagai Komisaris dan mengesahkan susunan baru Direksi-Komisaris.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/94ac6ac5a1_f1c1198e66.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-19T13:35:42",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "RUPSLB menyetujui pemberhentian Komisaris dan susunan baru"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bumi-akuisisi-100-saham-mount-margaret-senilai-us-22-juta",

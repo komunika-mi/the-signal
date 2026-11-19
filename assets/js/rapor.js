@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-19T05:19:56.414+07:00",
+ "diperbarui": "2026-11-20T05:26:42.245+07:00",
  "entri": [
+  {
+   "id": "2026-11-19-3",
+   "edisi": "2026-11-19",
+   "benang": "Konsumsi Makro Naik, Pendapatan Mikro Dipertanyakan",
+   "klaim": "Pendapatan riil pengemudi ojol akan tertekan karena hilangnya subsidi promo akibat pemangkasan komisi aplikator dari 20 persen menjadi 8 persen, bukan tertutup oleh insentif langsung atau penyesuaian tarif dari aplikator.",
+   "penanda": "Data pendapatan pengemudi atau evaluasi Kemenhub atas aturan komisi 8 persen ini",
+   "tenggat": null,
+   "tenggatLabel": "evaluasi Kemenhub atas aturan komisi 8 persen ini",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-19-2",
+   "edisi": "2026-11-19",
+   "benang": "Dana Publik Mengendap, Rencana Meleset dari Jadwal",
+   "klaim": "Dana besar hasil penggalangan dana publik di HGII dan MINA mengendap idle lebih lama dari yang dijanjikan ke pemegang saham dibandingkan rencana ekspansi yang dijanjikan saat penggalangan dana.",
+   "penanda": "Penjelasan lanjutan ke BEI soal target penyerapan baru pada kuartal berikutnya",
+   "tenggat": null,
+   "tenggatLabel": "pada kuartal berikutnya",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-19-1",
+   "edisi": "2026-11-19",
+   "benang": "Tekanan Utang Meluas ke Emiten Lebih Besar",
+   "klaim": "Tekanan utang yang sebelumnya terlihat pada emiten kecil kini merambat ke emiten yang lebih besar, sebagaimana ditunjukkan oleh gugatan PKPU terhadap ADHI, pelebaran rugi bersih dan arus kas negatif Link Net, serta permintaan penjaminan aset besar oleh Atlas Resources (ARII).",
+   "penanda": "Tanggapan resmi ADHI begitu menerima pemberitahuan pengadilan soal PKPU tersebut",
+   "tenggat": null,
+   "tenggatLabel": "begitu menerima pemberitahuan pengadilan soal PKPU tersebut",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-18-3",
    "edisi": "2026-11-18",

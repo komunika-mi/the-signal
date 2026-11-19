@@ -210,6 +210,59 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "presiden-prabowo-bawa-investasi-rp1-584-triliun-dari-apec",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Bawa Investasi [Rp1.584 Triliun] dari APEC",
+  "deck": "Presiden Prabowo Subianto akan menyaksikan penandatanganan investasi US$15 miliar di Shenzhen, menambah total potensi kerja sama ekonomi dari agenda APEC jadi sekitar Rp1.584 triliun.",
+  "image": "assets/img/presiden-prabowo-bawa-investasi-rp1-584-triliun-dari-apec.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:12:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479277-presiden-prabowo-hasilkan-kesepakatan-investasi-rp1584-triliun-dari-apec",
+  "tags": [
+   "APEC",
+   "Investasi Asing",
+   "Presiden Prabowo",
+   "Shenzhen"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto dijadwalkan menyaksikan penandatanganan rencana kesepakatan investasi senilai US$15 miliar, atau sekitar Rp274 triliun, dalam pertemuan bisnis di Shenzhen, China, pada Jumat (20/11/2026). Kesepakatan ini menjadi bagian dari rangkaian agenda KTT ke-33 Kerja Sama Ekonomi Asia Pasifik (APEC) yang diikuti Presiden Prabowo di China. Nilainya penting karena menambah daftar komitmen modal asing yang diklaim pemerintah masuk ke Indonesia dalam rangkaian forum yang sama, sekaligus jadi ukuran hasil konkret dari kunjungan diplomasi ekonomi tersebut.",
+   "Sehari sebelumnya, Rabu (18/11/2026), Indonesia sudah menukar nota kesepahaman atau MoU senilai US$71,8 miliar, setara sekitar Rp1.310,5 triliun, dengan sejumlah mitra. Jika kesepakatan yang dijadwalkan Jumat ini terealisasi, total potensi kerja sama ekonomi dan investasi yang dihimpun Indonesia dari seluruh agenda APEC kali ini bisa mencapai US$86,8 miliar, atau sekitar Rp1.584 triliun. \"Besok saya akan menghadiri pertemuan bisnis lain yang akan menyaksikan pertukaran kesepakatan yang membawa hingga 15 miliar dolar AS ke perekonomian kita,\" kata Presiden Prabowo dalam keterangannya di Jakarta, Kamis (19/11/2026).",
+   "Presiden Prabowo menegaskan bahwa forum APEC bukan sekadar pertemuan seremonial para kepala negara, melainkan wadah konkret untuk mendatangkan manfaat ekonomi langsung bagi masyarakat. \"Yang berarti bagi Indonesia, APEC benar-benar merupakan kekuatan untuk kemakmuran Indonesia,\" ujarnya. Di sela agenda investasi itu, Presiden Prabowo disebut juga akan menyampaikan pandangannya terkait dinamika pertemuan antara Presiden China Xi Jinping, Presiden Amerika Serikat Donald Trump, dan Presiden Rusia Vladimir Putin di rangkaian KTT APEC, meski rincian isi pandangan tersebut belum dipaparkan dalam keterangan yang beredar."
+  ],
+  "fotoAdegan": "Delegates in formal business attire greeting each other near a conference hall lobby with international flags, Shenzhen skyline visible through glass walls, daytime.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/11/01/69058c98d58f6-presiden-ri-prabowo-subianto-di-apec-jumat-31102025_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah angka komitmen, dari MoU senilai US$71,8 miliar yang diteken Rabu menjadi potensi total US$86,8 miliar, atau sekitar Rp1.584 triliun, kalau kesepakatan US$15 miliar di Shenzhen besok benar terealisasi. Perlu dibedakan dua hal: MoU atau nota kesepahaman itu baru niat tertulis untuk bekerja sama, belum kontrak investasi yang mengikat, jadi angka besar ini masih berstatus potensi, bukan uang yang sudah pasti cair ke proyek tertentu. Yang berpotensi terdampak adalah sektor-sektor di Indonesia yang nantinya menerima aliran modal itu, tetapi berita ini belum merinci sektor apa, perusahaan atau negara mana yang jadi mitra, dan kapan dananya benar-benar masuk. Yang masih perlu dipantau adalah keterangan lanjutan dari pemerintah soal rincian sektor dan jadwal realisasi investasi ini, karena di forum-forum internasional sebelumnya angka MoU besar tidak selalu berubah jadi proyek nyata dalam waktu dekat.",
+  "imageV": "mwnlqpo5"
+ },
+ {
+  "slug": "belanja-di-shopee-kini-bisa-jadi-garudamiles",
+  "category": "Bisnis",
+  "title": "Belanja di Shopee Kini Bisa Jadi [GarudaMiles]",
+  "deck": "Shopee dan Garuda Indonesia meluncurkan program tukar poin belanja menjadi mil penerbangan, dengan kurs Rp10.000 belanja setara 1 Mil.",
+  "image": "assets/img/belanja-di-shopee-kini-bisa-jadi-garudamiles.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:01:39+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479276-shopee-gandeng-garuda-indonesia-belanja-produk-favorit-bisa-dapat-garudamiles",
+  "tags": [
+   "shopee",
+   "garuda indonesia",
+   "garudamiles",
+   "loyalitas"
+  ],
+  "body": [
+   "Shopee dan Garuda Indonesia resmi menjalin kerja sama lewat program bernama Shopee x GarudaMiles. Lewat program ini, transaksi belanja harian di Shopee tidak lagi berhenti sebagai sekadar pembelian barang, tapi juga bisa dikonversi menjadi mil penerbangan Garuda Indonesia yang selama ini identik dengan aktivitas terbang.",
+   "Mekanismenya sederhana, setiap belanja senilai Rp10.000 di Shopee akan disetarakan dengan 1 GarudaMiles. Namun tidak semua transaksi otomatis terhitung, karena hanya pembelian di toko berkategori Shopee Mall, Star+, dan Star yang masuk ke dalam skema misi belanja bulanan yang disiapkan untuk program ini.",
+   "Director of Business Partnership Shopee Indonesia, Daniel Minardi, menyebut kolaborasi ini sebagai cara baru bagi pengguna untuk mengumpulkan GarudaMiles secara terintegrasi lewat kebiasaan belanja online yang sudah mereka jalani. Sementara itu, Vice President Miles & Ancillary Garuda Indonesia, Purwa Adi Gurnita, menjelaskan bahwa kerja sama ini dimaksudkan untuk memperluas cara pelanggan mendapatkan mil, sehingga manfaat GarudaMiles bisa dinikmati tanpa harus menunggu frekuensi penerbangan tertentu.",
+   "Dengan skema ini, pengguna yang rutin berbelanja di kategori toko yang ditentukan punya jalur tambahan untuk menabung mil, yang kemudian bisa ditukarkan untuk kebutuhan perjalanan udara bersama Garuda Indonesia."
+  ],
+  "fotoAdegan": "A courier motorbike loaded with parcel boxes parked outside a busy airport terminal entrance, daytime, soft motion blur",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/19/6afee0b3e8b17-kolaborasi-strategis-shopee-dan-garuda-indonesia-kini-belanja-produk-favorit-bisa-dapat-garudamiles_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah cara mengumpulkan GarudaMiles, poin loyalitas Garuda Indonesia yang biasanya hanya didapat dari terbang, kini juga bisa didapat dari belanja di Shopee dengan kurs setiap Rp10.000 belanja disetarakan 1 Mil, khusus transaksi di toko kategori Shopee Mall, Star+, dan Star. Yang terdampak adalah pengguna Shopee yang juga anggota GarudaMiles, karena mereka bisa menambah tabungan mil tanpa harus naik pesawat, sementara bagi Garuda Indonesia sendiri ini memperluas jumlah orang yang aktif mengumpulkan mil di luar penumpang reguler. Wakil Presiden Garuda untuk urusan mil, Purwa Adi Gurnita, secara terbuka menyebut tujuannya agar manfaat GarudaMiles tidak lagi bergantung pada frekuensi perjalanan udara, yang menunjukkan arah besarnya adalah menjadikan program mil ini sebagai alat loyalitas gaya hidup sehari-hari, bukan sekadar bonus penerbangan, sejalan dengan tren maskapai lain yang mulai menggandeng mitra ritel dan dompet digital. Yang akan memperjelas apakah ini langkah strategis jangka panjang atau sekadar promosi sesaat adalah apakah Garuda Indonesia mengumumkan kerja sama serupa dengan mitra non-penerbangan lain dalam beberapa bulan mendatang.",
+  "imageV": "mwnlqq1a"
+ },
+ {
   "slug": "hgii-jawab-bei-dana-ipo-rp253-3-miliar-belum-terserap",
   "category": "Aksi Korporasi",
   "title": "HGII Jawab BEI: [Dana IPO] Rp253,3 Miliar Belum Terserap",
@@ -429,7 +482,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkret dalam keterangan ini adalah data yang dipakai Kemenko Perekonomian untuk membantah narasi pelemahan daya beli: konsumsi rumah tangga diklaim tumbuh di atas 5 persen, jauh melampaui pertumbuhan penduduk yang hanya 1 persen, sementara belanja restoran dan hotel naik 6,59 persen. Yang terdampak langsung adalah pelaku usaha ritel fisik seperti toko pakaian dan sepatu, yang menurut data yang disebut justru tumbuh paling lambat, serta lulusan perguruan tinggi yang disasar lewat Program Magang Nasional untuk 150.000 peserta. Arah yang terlihat adalah pemerintah memilih strategi melawan kekhawatiran soal daya beli dengan menonjolkan data konsumsi agregat, bukan mengakui adanya pelemahan di sektor tertentu. Ini akan ketahuan benar atau tidak lewat rilis data konsumsi rumah tangga Badan Pusat Statistik untuk kuartal berikutnya, terutama apakah sektor pakaian dan alas kaki terus tertinggal sementara sektor jasa seperti restoran dan pariwisata terus naik.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kemendag-jatuhkan-sanksi-ke-27-importir-usai-pengawasan-risiko",
@@ -458,6 +511,33 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Angka yang paling menarik dari data ini bukan soal banyaknya pemeriksaan, tapi soal ketepatan sasarannya. Dari 170.563 dokumen impor yang masuk sepanjang Januari-Oktober 2026, hanya 733 yang akhirnya diperiksa secara mendalam, tapi dari jumlah kecil itu lebih dari separuh pelaku usaha, 96 dari 169, ternyata tidak memenuhi ketentuan, termasuk 27 yang barangnya langsung diperintahkan ditarik dan dimusnahkan. Pola ini menunjukkan sistem penyaringan berbasis risiko cukup berhasil menjaring importir yang memang bermasalah, bukan asal memeriksa secara acak. Yang terdampak langsung adalah importir yang barangnya ditandai berisiko tinggi, serta industri dan konsumen dalam negeri yang mengandalkan barang impor sesuai standar. Kemendag menyebut akan terus memperluas pertukaran data antarinstansi lewat sistem berbagi risiko bernama ISRM, dan yang akan menunjukkan apakah langkah ini benar membawa hasil adalah apakah angka kepatuhan pelaku usaha yang diperiksa naik pada data pengawasan periode November 2026 hingga akhir tahun, atau justru jumlah pelanggaran tetap tinggi.",
   "imageV": "mwnfe7sh"
+ },
+ {
+  "slug": "komisi-ojol-turun-ke-8-persen-pakar-ingatkan-risiko-baru",
+  "category": "Ketenagakerjaan",
+  "title": "Komisi Ojol Turun ke [8 Persen], Pakar Ingatkan Risiko Baru",
+  "deck": "Dosen Unair menilai pembatasan komisi aplikator ojol ke 8 persen justru berisiko menggerus pendapatan pengemudi karena subsidi promo konsumen ikut terpangkas.",
+  "image": "assets/img/komisi-ojol-turun-ke-8-persen-pakar-ingatkan-risiko-baru.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T17:37:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479266-pakar-komisi-8-persen-ojol-berpotensi-timbulkan-masalah-baru",
+  "tags": [
+   "ojol",
+   "komisi aplikator",
+   "ojek online",
+   "Universitas Airlangga"
+  ],
+  "body": [
+   "Kebijakan yang membatasi komisi platform ojek online maksimal 8 persen, berlaku sejak 1 Juli 2026, dinilai berpotensi menimbulkan masalah baru bagi pengemudi yang justru ingin dilindungi. Dosen Ilmu Ekonomi Universitas Airlangga, Gigih Prihantoni, menyebut kebijakan yang lahir dari desakan publik tanpa kalkulasi data yang presisi kerap memicu dampak tak terduga. Menurutnya, di atas kertas pemangkasan komisi ini terlihat sebagai kemenangan bagi mitra pengemudi, tetapi logika ekonomi tidak selalu bekerja selinier itu.",
+   "Gigih memaparkan, dari komisi lama sebesar 20 persen, ada 6,5 persen yang dipakai aplikator untuk mensubsidi promo atau diskon bagi penumpang, dan 2 persen lagi untuk dana perlindungan serta insentif kesejahteraan pengemudi. Begitu komisi dipangkas menjadi 8 persen, ruang untuk subsidi promo itu praktis hilang, padahal selama ini volume pesanan banyak terdorong oleh promo tersebut. Akibatnya, menurut Gigih, jumlah pesanan berisiko turun drastis, waktu tunggu pengemudi memanjang, sementara biaya bensin dan perawatan kendaraan tetap sama.",
+   "Sebagai gambaran dampaknya, simulasi Institute for Demographic and Affluence Studies yang dikutip Gigih menyebut penurunan komisi dari 20 persen menjadi 8 persen hanya menambah pendapatan pengemudi sekitar Rp19 ribu per hari. Penilaian Gigih ini senada dengan keberatan yang sebelumnya disampaikan sejumlah asosiasi pengemudi ojol, termasuk Garda Indonesia.",
+   "Untuk menangani potensi masalah tersebut, Gigih mengusulkan tiga langkah yang disusun berdasarkan konsensus antara pemerintah, aplikator, akademisi, dan asosiasi pengemudi, meski rincian ketiga langkah itu belum dipaparkan lebih lanjut dalam keterangannya."
+  ],
+  "fotoAdegan": "Motorcycle taxi drivers resting on their bikes along a busy street curb, checking phone mounts, afternoon traffic haze",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/02/6a9824e41c572-ilustrasi-pengemudi-ojek-online_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah komisi aplikator ojol dipatok maksimal 8 persen sejak 1 Juli 2026, turun dari 20 persen, padahal dari komisi lama itu 6,5 persen dipakai menyubsidi promo penumpang dan 2 persen untuk dana perlindungan serta insentif pengemudi. Pihak yang paling terdampak jelas pengemudi ojol, karena menurut simulasi yang dikutip Gigih, pemangkasan sebesar itu hanya menambah pendapatan bersih sekitar Rp19 ribu per hari, sementara promo yang biasa mendongkrak jumlah pesanan ikut hilang. Ada dua arah yang mungkin dari sini, komisi rendah ini berhenti sebagai angka di atas kertas tanpa perbaikan nyata bagi pengemudi karena order turun dan waktu tunggu memanjang, atau usulan tiga langkah berbasis konsensus pemerintah, aplikator, akademisi, dan asosiasi pengemudi yang disebut Gigih benar terealisasi dan menambal kekurangan subsidi tersebut. Simulasi yang sudah ada sejauh ini lebih condong ke arah pertama, dan yang akan menentukannya adalah rincian tiga langkah itu serta data riil penghasilan pengemudi pada bulan-bulan setelah kebijakan ini berjalan.",
+  "imageV": "mwnlqqgt"
  },
  {
   "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",

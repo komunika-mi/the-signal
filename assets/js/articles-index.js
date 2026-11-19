@@ -85,6 +85,40 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "presiden-prabowo-bawa-investasi-rp1-584-triliun-dari-apec",
+  "category": "Makroekonomi",
+  "title": "Presiden Prabowo Bawa Investasi [Rp1.584 Triliun] dari APEC",
+  "deck": "Presiden Prabowo Subianto akan menyaksikan penandatanganan investasi US$15 miliar di Shenzhen, menambah total potensi kerja sama ekonomi dari agenda APEC jadi sekitar Rp1.584 triliun.",
+  "date": "19 November 2026",
+  "image": "assets/img/presiden-prabowo-bawa-investasi-rp1-584-triliun-dari-apec.jpg",
+  "imageV": "mwnlqpo5",
+  "tags": [
+   "APEC",
+   "Investasi Asing",
+   "Presiden Prabowo",
+   "Shenzhen"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479277-presiden-prabowo-hasilkan-kesepakatan-investasi-rp1584-triliun-dari-apec"
+ },
+ {
+  "slug": "belanja-di-shopee-kini-bisa-jadi-garudamiles",
+  "category": "Bisnis",
+  "title": "Belanja di Shopee Kini Bisa Jadi [GarudaMiles]",
+  "deck": "Shopee dan Garuda Indonesia meluncurkan program tukar poin belanja menjadi mil penerbangan, dengan kurs Rp10.000 belanja setara 1 Mil.",
+  "date": "19 November 2026",
+  "image": "assets/img/belanja-di-shopee-kini-bisa-jadi-garudamiles.jpg",
+  "imageV": "mwnlqq1a",
+  "tags": [
+   "shopee",
+   "garuda indonesia",
+   "garudamiles",
+   "loyalitas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479276-shopee-gandeng-garuda-indonesia-belanja-produk-favorit-bisa-dapat-garudamiles"
+ },
+ {
   "slug": "hgii-jawab-bei-dana-ipo-rp253-3-miliar-belum-terserap",
   "category": "Aksi Korporasi",
   "title": "HGII Jawab BEI: [Dana IPO] Rp253,3 Miliar Belum Terserap",
@@ -213,6 +247,23 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-kepatuhan-importir-dan-lindungi-pasar-dalam-negeri-kemendag-perkuat-pengawasan-post-border-berbasis-risiko",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "komisi-ojol-turun-ke-8-persen-pakar-ingatkan-risiko-baru",
+  "category": "Ketenagakerjaan",
+  "title": "Komisi Ojol Turun ke [8 Persen], Pakar Ingatkan Risiko Baru",
+  "deck": "Dosen Unair menilai pembatasan komisi aplikator ojol ke 8 persen justru berisiko menggerus pendapatan pengemudi karena subsidi promo konsumen ikut terpangkas.",
+  "date": "19 November 2026",
+  "image": "assets/img/komisi-ojol-turun-ke-8-persen-pakar-ingatkan-risiko-baru.jpg",
+  "imageV": "mwnlqqgt",
+  "tags": [
+   "ojol",
+   "komisi aplikator",
+   "ojek online",
+   "Universitas Airlangga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479266-pakar-komisi-8-persen-ojol-berpotensi-timbulkan-masalah-baru"
  },
  {
   "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
@@ -6477,54 +6528,6 @@ var ARTICLES = [
    "jasa influencer"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a5c9d536a8_3fe792df5c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sqmi-pinjaman-rp36-miliar-dari-pihak-ketiga-terungkap",
-  "category": "Aksi Korporasi",
-  "title": "SQMI: Pinjaman [Rp36 Miliar] dari Pihak Ketiga Terungkap",
-  "deck": "Public expose tahunan SQMI mengungkap pinjaman Rp36 miliar dari Fandy Hartanto dan proses pengalihan kendali ke Maxglory Capital Limited yang masih menunggu restu pemegang saham.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SQMI",
-   "Wilton Makmur Indonesia",
-   "Public Expose",
-   "Maxglory Capital Limited"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9277afb1de_ed73ab83a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "itmg-catat-laba-us-167-5-juta-liabilitas-melonjak-24-6",
-  "category": "Aksi Korporasi",
-  "title": "ITMG Catat Laba US$167,5 Juta, Liabilitas [Melonjak] 24,6%",
-  "deck": "Laba bersih sembilan bulan ITMG naik hampir 25 persen jadi US$167,5 juta, tapi arus kas operasi menyusut tajam dan ada utang bank jangka pendek baru untuk modal kerja anak usaha.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMG",
-   "laporan keuangan",
-   "batu bara",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110211144-65708-0/FinancialStatement-2026-III-ITMG.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bipi-indotambang-perkasa-tambah-1-juta-saham-jadi-20-7",
-  "category": "Aksi Korporasi",
-  "title": "BIPI: Indotambang Perkasa [Tambah] 1 Juta Saham, Jadi 20,7%",
-  "deck": "Afiliasi pengendali PT Indotambang Perkasa menambah 1 juta saham BIPI pada Oktober 2026, sementara saham publik berkurang setara jumlah itu.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPI",
-   "Astrindo Nusantara Infrastruktur",
-   "pemegang saham",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f19582841_33547b1658.pdf",
   "sourceLabel": "IDX"
  }
 ];

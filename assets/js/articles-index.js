@@ -5,6 +5,72 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-periksa-saksi-kasus-tender-revitalisasi-pasar-ciparay",
+  "category": "Bisnis",
+  "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
+  "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "KPPU",
+   "Pasar Ciparay",
+   "persekongkolan tender",
+   "revitalisasi pasar"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-dalami-dasar-perhitungan-kontribusi-dan-kelayakan-investasi-revitalisasi-pasar-ciparay",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "kppu-awasi-penghapusan-syarat-beli-lpg-nonsubsidi-di-tegal",
+  "category": "Energi",
+  "title": "KPPU [Awasi] Penghapusan Syarat Beli LPG Nonsubsidi di Tegal",
+  "deck": "KPPU memeriksa penerapan komitmen PT Hibarnas Jaya menghapus syarat beli LPG nonsubsidi bagi pembeli LPG 3 kg bersubsidi di 63 pangkalan Kabupaten Tegal.",
+  "date": "19 November 2026",
+  "image": "assets/img/tabung-lpg.jpg",
+  "tags": [
+   "KPPU",
+   "LPG 3 Kg",
+   "Tegal",
+   "Persaingan Usaha"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-awasi-penghapusan-syarat-pembelian-lpg-nonsubsidi-bagi-penerima-lpg-3-kg-di-tegal",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "pemerintah-pastikan-daya-beli-tumbuh-bukan-melemah",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
+  "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
+  "date": "19 November 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "daya beli",
+   "konsumsi rumah tangga",
+   "Program Magang Nasional",
+   "Kemenko Perekonomian"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7234/jaga-momentum-pertumbuhan-wamenko-dradjad-tekankan-konsistensi-kebijakan-ekonomi-dan-penguatan-daya-beli",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "kemendag-jatuhkan-sanksi-ke-27-importir-usai-pengawasan-risiko",
+  "category": "Bisnis",
+  "title": "Kemendag Jatuhkan [Sanksi] ke 27 Importir usai Pengawasan Risiko",
+  "deck": "Dari 169 pelaku usaha yang diperiksa khusus Kemendag pada Januari-Oktober 2026, 27 importir dikenai perintah penarikan dan pemusnahan barang, 18 lainnya diberi peringatan.",
+  "date": "19 November 2026",
+  "image": "assets/img/kemendag-jatuhkan-sanksi-ke-27-importir-usai-pengawasan-risiko.jpg",
+  "imageV": "mwnfe7sh",
+  "tags": [
+   "impor",
+   "Kemendag",
+   "pengawasan risiko",
+   "bea cukai"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-kepatuhan-importir-dan-lindungi-pasar-dalam-negeri-kemendag-perkuat-pengawasan-post-border-berbasis-risiko",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
   "category": "Aksi Korporasi",
   "title": "ASSA Teken Kredit Rp250 Miliar dari Bank of China [Modal Kerja]",
@@ -35,6 +101,40 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e1fbe89506_5d41aeea6c.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laba-anak-usaha-bri-melonjak-43-5-ditopang-emas-dan-umi",
+  "category": "Perbankan",
+  "title": "Laba Anak Usaha BRI [Melonjak] 43,5%, Ditopang Emas dan UMi",
+  "deck": "Laba perusahaan anak BRI naik 43,5% jadi Rp11,8 triliun hingga September 2026, didorong Holding Ultra Mikro dan bisnis emas Pegadaian.",
+  "date": "19 November 2026",
+  "image": "assets/img/laba-anak-usaha-bri-melonjak-43-5-ditopang-emas-dan-umi.jpg",
+  "imageV": "mwnfe87o",
+  "tags": [
+   "BRI",
+   "Holding Ultra Mikro",
+   "Pegadaian",
+   "laba perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479244-laba-anak-usaha-bri-melonjak-435-holding-umi-dan-bisnis-emas-jadi-penopang"
+ },
+ {
+  "slug": "menteri-hukum-luncurkan-gi-tourism-di-dieng",
+  "category": "UMKM",
+  "title": "Menteri Hukum Luncurkan [GI Tourism] di Dieng",
+  "deck": "Kementerian Hukum menggandeng produk indikasi geografis khas daerah dengan sektor wisata, dimulai dari kawasan Dieng, Wonosobo.",
+  "date": "19 November 2026",
+  "image": "assets/img/menteri-hukum-luncurkan-gi-tourism-di-dieng.jpg",
+  "imageV": "mwnfe8mc",
+  "tags": [
+   "indikasi geografis",
+   "GI Tourism",
+   "Kementerian Hukum",
+   "wisata Dieng"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479242-menteri-hukum-resmikan-gi-tourism-angkat-produk-khas-daerah-jadi-magnet-wisata"
  },
  {
   "slug": "link-kuartal-iii-2026-rugi-melebar-ke-rp1-3-triliun",
@@ -74,7 +174,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -2220,7 +2320,7 @@ var ARTICLES = [
   "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
   "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
   "date": "16 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -3092,7 +3192,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -4010,7 +4110,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6429,102 +6529,6 @@ var ARTICLES = [
    "KBLI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ea96c0098_44b6a100b4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmhs-jadwalkan-rupslb-pada-17-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "BMHS Jadwalkan [RUPSLB] pada 17 Desember 2026",
-  "deck": "Bundamedik (BMHS) mengumumkan rencana RUPSLB 17 Desember 2026, dengan batas pencatatan pemegang saham pada 24 November.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMHS",
-   "RUPSLB",
-   "Bundamedik",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6f6e8fce8f_06a974b786.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iiff-catatkan-obligasi-rp1-7-triliun-di-bei-mulai-11-november",
-  "category": "Aksi Korporasi",
-  "title": "IIFF Catatkan [Obligasi] Rp1,7 Triliun di BEI Mulai 11 November",
-  "deck": "Tiga seri obligasi IIFF senilai total Rp1,7 triliun resmi dicatatkan di BEI pada 11 November 2026, berbunga 7,2 hingga 7,6 persen per tahun dengan peringkat AAA dari Fitch.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIFF",
-   "obligasi",
-   "BEI",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0dbbb98241_0ec4e236c5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "skbm-jadwalkan-pembayaran-dividen-interim-30-november",
-  "category": "Aksi Korporasi",
-  "title": "SKBM Jadwalkan Pembayaran [Dividen] Interim 30 November",
-  "deck": "Sekar Bumi akan membayar dividen interim Rp17,5 per saham pada 30 November 2026, dengan pemegang saham per 20 November sebagai penerima.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SKBM",
-   "dividen interim",
-   "Sekar Bumi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc8593cdd1_27e906c64d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-alihkan-sisa-dana-rp424-8-m-ke-anak-usaha-lewat-pinjaman",
-  "category": "Aksi Korporasi",
-  "title": "PACK Alihkan Sisa Dana Rp424,8 M ke [Anak Usaha] Lewat Pinjaman",
-  "deck": "PACK mengubah rencana penggunaan sisa dana rights issue Rp424,8 miliar, dari biaya operasional sendiri menjadi pinjaman tanpa bunga ke anak usaha di bisnis logam.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "rights issue",
-   "penggunaan dana",
-   "anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/877f48cbd7_59df85c375.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dr-rhb-tak-sesuaikan-waran-medc-meski-ada-dividen",
-  "category": "Aksi Korporasi",
-  "title": "DR: RHB Tak Sesuaikan Waran [MEDC] Meski Ada Dividen",
-  "deck": "RHB Sekuritas menegaskan tidak ada penyesuaian pada waran terstruktur MEDCDRCZ6A dan MEDCDRCH7A meski saham acuannya, MEDC, membagikan dividen tunai.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DR",
-   "MEDC",
-   "waran terstruktur",
-   "RHB Sekuritas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b7e27bc214_ef52f24505.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-kdtn-direksi-lama-diangkat-ulang-komisaris-asing-batal",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB KDTN: Direksi Lama Diangkat Ulang, Komisaris Asing [Batal]",
-  "deck": "RUPSLB KDTN mempertahankan direksi dan komisaris utama yang sama, sementara rencana komisaris dan dua direktur baru dari luar negeri batal karena belum lolos uji kelayakan OJK.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "RUPSLB",
-   "Direksi Komisaris",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/994ef21617_f3c8ad0f76.pdf",
   "sourceLabel": "IDX"
  }
 ];

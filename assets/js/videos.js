@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "fPHRvQGqxBU",
+  "title": "Bos IMF: AI Jadi Risiko Baru bagi Ekonomi Dunia",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Direktur Pelaksana IMF Kristalina Georgieva memperingatkan potensi risiko baru dari pesatnya perkembangan kecerdasan buatan bagi ekonomi dunia, disampaikan di hadapan Presiden China Xi Jinping.",
+  "takeaway": "Peringatan lembaga sebesar IMF soal dampak AI penting disimak karena menyangkut arah kebijakan ekonomi global ke depan.",
+  "terbit": "2026-11-19T10:30:16+00:00"
+ },
+ {
   "id": "W9mEPp_4v8U",
   "title": "Presiden Prabowo Bawa Komitmen Investasi Rp1.310 Triliun dari China",
   "category": "Makroekonomi",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "fPHRvQGqxBU",
+  "title": "Bos IMF: AI Jadi Risiko Baru bagi Ekonomi Dunia",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Direktur Pelaksana IMF Kristalina Georgieva memperingatkan potensi risiko baru dari pesatnya perkembangan kecerdasan buatan bagi ekonomi dunia, disampaikan di hadapan Presiden China Xi Jinping.",
+  "takeaway": "Peringatan lembaga sebesar IMF soal dampak AI penting disimak karena menyangkut arah kebijakan ekonomi global ke depan."
+ },
+ {
   "id": "W9mEPp_4v8U",
   "title": "Presiden Prabowo Bawa Komitmen Investasi Rp1.310 Triliun dari China",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pertumbuhan ekonomi Indonesia pada kuartal III 2026 tercatat 5,47 persen secara tahunan, naik dari 5,29 persen pada kuartal sebelumnya.",
   "takeaway": "Data pertumbuhan domestik bruto ini menjadi acuan utama untuk menilai arah kebijakan ekonomi makro pemerintah di sisa tahun."
- },
- {
-  "id": "lEwdsTC0dSo",
-  "title": "Pemerintah Percepat Pembangunan Kawasan Swasembada Pangan dan Energi",
-  "category": "Energi",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah mempercepat penyusunan rencana induk Kawasan Swasembada Pangan, Energi, dan Air Nasional di empat provinsi.",
-  "takeaway": "Proyek strategis ini relevan bagi pembaca karena menyangkut arah investasi dan ketahanan pangan serta energi nasional."
  }
 ];

@@ -595,7 +595,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkret dalam keterangan ini adalah data yang dipakai Kemenko Perekonomian untuk membantah narasi pelemahan daya beli: konsumsi rumah tangga diklaim tumbuh di atas 5 persen, jauh melampaui pertumbuhan penduduk yang hanya 1 persen, sementara belanja restoran dan hotel naik 6,59 persen. Yang terdampak langsung adalah pelaku usaha ritel fisik seperti toko pakaian dan sepatu, yang menurut data yang disebut justru tumbuh paling lambat, serta lulusan perguruan tinggi yang disasar lewat Program Magang Nasional untuk 150.000 peserta. Arah yang terlihat adalah pemerintah memilih strategi melawan kekhawatiran soal daya beli dengan menonjolkan data konsumsi agregat, bukan mengakui adanya pelemahan di sektor tertentu. Ini akan ketahuan benar atau tidak lewat rilis data konsumsi rumah tangga Badan Pusat Statistik untuk kuartal berikutnya, terutama apakah sektor pakaian dan alas kaki terus tertinggal sementara sektor jasa seperti restoran dan pariwisata terus naik.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kemendag-jatuhkan-sanksi-ke-27-importir-usai-pengawasan-risiko",

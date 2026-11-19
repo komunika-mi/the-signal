@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas",
+  "category": "Energi",
+  "title": "Ledakan Kilang PPSDM Cepu, Satu Pekerja [Tewas]",
+  "deck": "Ledakan di Tangki T-143 PPSDM Migas Cepu saat kilang berhenti operasi untuk perawatan menewaskan satu pekerja pihak ketiga; api sudah dipadamkan dan investigasi penyebabnya berjalan.",
+  "image": "assets/img/ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T04:07:15.165Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/insiden-kilang-ppsdm-migas-cepu-kementerian-esdm-pastikan-situasi-terkendali-dan-investigasi-penyebab-ledakan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Kilang Cepu",
+   "Keselamatan Kerja",
+   "Migas"
+  ],
+  "body": [
+   "Sebuah ledakan terjadi di Tangki Nomor T-143 milik Pusat Pengembangan Sumber Daya Manusia Minyak dan Gas Bumi (PPSDM Migas) Cepu di Kabupaten Blora, Jawa Tengah, pada Rabu, 18 November 2026, sekitar pukul 09.30 WIB. Insiden ini mengakibatkan satu pekerja dari pihak ketiga alias kontraktor mengalami luka bakar serius dan dinyatakan meninggal dunia pada pukul 17.00 WIB hari yang sama.",
+   "Juru Bicara Kementerian ESDM Dwi Anggia menjelaskan bahwa ledakan terjadi saat kilang tidak sedang beroperasi, melainkan menjalani turnaround, yaitu perawatan terjadwal yang mengharuskan fasilitas berhenti total untuk dibersihkan dan diperiksa. Saat kejadian, aktivitas yang berlangsung adalah pembersihan tangki. Kementerian ESDM menyatakan kebakaran akibat ledakan tersebut sudah berhasil dipadamkan dan proses pendinginan di area kilang telah dilakukan, sehingga situasi di lokasi dinyatakan terkendali.",
+   "Sebagai langkah lanjutan, tim dari Direktorat Teknik dan Lingkungan Ditjen Migas bersama aparat penegak hukum sudah berada di lokasi untuk menginvestigasi penyebab ledakan. Kementerian ESDM belum mengumumkan dugaan awal pemicu kejadian dan menyatakan proses pencarian penyebab masih berlangsung.",
+   "Kementerian ESDM juga meluruskan sejumlah foto dan video yang beredar di masyarakat terkait insiden ini. Menurut Dwi Anggia, sebagian dokumentasi yang viral sebenarnya adalah rekaman kebakaran di Central Processing Plant (CPP) Gundih pada 2020, kejadian berbeda yang tidak berkaitan dengan insiden di Cepu. PPSDM Migas Cepu sendiri dalam kondisi normal berfungsi sebagai fasilitas pelatihan dan uji kompetensi tenaga kerja sektor minyak dan gas bumi."
+  ],
+  "fotoAdegan": "Firefighters in protective gear cooling large industrial fuel storage tanks with water cannons at an oil refinery complex, overcast sky",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-insiden-kilang-ppsdm-migas-cepu-kementerian-esdm-pastikan-situasi-terkendali-dan-investigasi-penyebab-ledakan-70e731p.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah secara konkret adalah satu kematian pekerja akibat ledakan Tangki T-143 saat PPSDM Migas Cepu sedang menjalani turnaround, yaitu masa kilang berhenti total untuk dibersihkan dan diperiksa. Korban berstatus pekerja pihak ketiga, artinya bukan pegawai tetap Kementerian ESDM melainkan pekerja kontrak yang biasanya mengerjakan tugas lapangan seperti pembersihan tangki, sehingga isu keselamatan kerja bagi pekerja kontrak di fasilitas migas relevan untuk dicermati, bukan cuma soal fasilitas PPSDM Cepu semata. Yang masih kurang untuk membaca arah kasus ini adalah hasil investigasi Ditjen Migas dan aparat penegak hukum, yang belum mengungkap apakah ledakan dipicu kelalaian prosedur kerja atau faktor teknis pada tangki itu sendiri. Sampai hasil investigasi itu keluar, belum bisa disimpulkan apakah insiden ini akan berujung pada perubahan aturan keselamatan kerja di fasilitas pelatihan migas atau berhenti sebagai insiden yang ditutup tanpa tindak lanjut regulasi.",
+  "imageV": "mwn1b6qa"
+ },
+ {
+  "slug": "ri-china-sepakati-kerja-sama-batu-bara-ke-etanol-us-1-8-miliar",
+  "category": "Energi",
+  "title": "RI-China Sepakati Kerja Sama Batu Bara ke Etanol [US$1,8 Miliar]",
+  "deck": "Indonesia dan Tiongkok sepakati MoU coal-to-ethanol senilai US$1,8 miliar, bagian dari paket kerja sama US$71,8 miliar yang disaksikan Presiden Prabowo di Shenzhen.",
+  "image": "assets/img/ri-china-sepakati-kerja-sama-batu-bara-ke-etanol-us-1-8-miliar.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T04:07:14.496Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/disaksikan-presiden-prabowo-kerja-sama-coal-to-ethanol-usd18-miliar-dorong-hilirisasi-batu-bara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "hilirisasi batu bara",
+   "coal-to-ethanol",
+   "Indonesia-Tiongkok",
+   "Pertamina"
+  ],
+  "body": [
+   "Indonesia menjalin kerja sama dengan Tiongkok untuk mengembangkan teknologi pengolahan batu bara menjadi etanol, lewat nota kesepahaman senilai US$1,8 miliar antara Kementerian Pendidikan Tinggi, Sains, dan Teknologi (Kemendiktisaintek) bersama Pertamina dengan perusahaan Tiongkok Beijing Petrochemical Engineering. Kesepakatan ini menjadi salah satu dari empat kerja sama strategis Indonesia-Tiongkok yang disaksikan langsung Presiden Prabowo Subianto di Shenzhen, Provinsi Guangdong, pada Rabu, 18 November. Kerja sama ini menunjukkan upaya pemerintah mendiversifikasi pemanfaatan batu bara, yang selama ini mayoritas dipakai untuk bahan bakar pembangkit listrik atau diekspor dalam bentuk mentah.",
+   "Teknologi coal-to-ethanol memungkinkan batu bara, termasuk jenis berkalori rendah, diolah menjadi etanol yang bisa dipakai sebagai bahan baku industri kimia maupun campuran bahan bakar bensin. Di Tiongkok, teknologi ini sudah diterapkan secara komersial hingga skala industri, dan hasil olahannya juga dipakai untuk produksi pelarut dan produk kimia turunan lainnya.",
+   "Menteri Koordinator Bidang Hilirisasi dan Transisi Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyebut kerja sama ini sejalan dengan upaya pemerintah mengoptimalkan sumber daya energi domestik. \"Selama ini batu bara kita lebih banyak dimanfaatkan untuk pembangkit listrik dan diekspor sebagai bahan mentah. Melalui teknologi coal-to-ethanol, kita ingin membuka peluang agar batu bara bisa diolah menjadi produk dengan nilai tambah yang lebih tinggi, sekaligus menjadi alternatif untuk memperkuat ketahanan energi nasional,\" ujar Bahlil. Ia menambahkan bahwa nilai penting kerja sama ini bukan sekadar besaran investasinya, melainkan penguasaan teknologi oleh dalam negeri. \"Yang paling penting dari kerja sama ini bukan hanya nilai investasinya, tetapi juga bagaimana teknologi tersebut bisa kita kuasai dan kembangkan di dalam negeri. Kita ingin hilirisasi ini memberikan manfaat yang nyata, membuka lapangan kerja, meningkatkan nilai tambah, dan mengurangi ketergantungan terhadap impor energi,\" tegasnya.",
+   "Kerja sama coal-to-ethanol merupakan bagian dari total empat kesepakatan strategis Indonesia-Tiongkok dengan nilai investasi dan komitmen mencapai US$71,8 miliar, atau lebih dari Rp1.300 triliun. Tiga kerja sama lainnya mencakup pengembangan smart city, manufaktur dan teknologi, serta pembiayaan infrastruktur. Bahlil sebelumnya juga menyebut sejumlah perusahaan Tiongkok menawarkan kerja sama pengolahan batu bara berkalori rendah menjadi gas maupun bahan bakar cair, yang menurutnya sejalan dengan arahan Presiden Prabowo untuk mengurangi ketergantungan pada impor BBM."
+  ],
+  "fotoAdegan": "Coal conveyor belts feeding a large industrial processing plant under a grey sky, workers in hard hats inspecting machinery at a mining site",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-disaksikan-presiden-prabowo-kerja-sama-coal-to-ethanol-usd18-miliar-dorong-hilirisasi-batu-bara-s76cikj.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah adalah penandatanganan nota kesepahaman antara Kemendiktisaintek dan Pertamina dengan Beijing Petrochemical Engineering, senilai US$1,8 miliar untuk mengembangkan teknologi pengolahan batu bara menjadi etanol, salah satu dari empat kerja sama Indonesia-Tiongkok senilai total US$71,8 miliar. Pihak yang langsung terkait adalah Pertamina sebagai calon pelaksana teknologi ini di dalam negeri, serta industri batu bara berkalori rendah yang berpotensi mendapat pasar baru di luar pembangkit listrik dan ekspor. Namun yang ditandatangani masih sebatas nota kesepahaman untuk pengembangan dan transfer teknologi, belum menyebut lokasi pabrik, kapasitas produksi, atau target waktu mulai beroperasi, sehingga belum bisa dipastikan apakah ini berlanjut jadi investasi nyata atau berhenti di tahap studi. Yang perlu ditunggu adalah apakah kerja sama ini diikuti studi kelayakan atau kesepakatan proyek dengan jadwal konkret, karena itu yang akan menentukan apakah batu bara kalori rendah Indonesia benar terserap jadi etanol atau rencana ini mandek di level kesepahaman.",
+  "imageV": "mwn1b8wr"
+ },
+ {
   "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
   "category": "Aksi Korporasi",
   "title": "Dividen Interim PSGO Rp6 per Saham, [Cair] 18 Desember 2026",

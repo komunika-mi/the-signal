@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas",
+  "category": "Energi",
+  "title": "Ledakan Kilang PPSDM Cepu, Satu Pekerja [Tewas]",
+  "deck": "Ledakan di Tangki T-143 PPSDM Migas Cepu saat kilang berhenti operasi untuk perawatan menewaskan satu pekerja pihak ketiga; api sudah dipadamkan dan investigasi penyebabnya berjalan.",
+  "date": "19 November 2026",
+  "image": "assets/img/ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas.jpg",
+  "imageV": "mwn1b6qa",
+  "tags": [
+   "ESDM",
+   "Kilang Cepu",
+   "Keselamatan Kerja",
+   "Migas"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/insiden-kilang-ppsdm-migas-cepu-kementerian-esdm-pastikan-situasi-terkendali-dan-investigasi-penyebab-ledakan",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "ri-china-sepakati-kerja-sama-batu-bara-ke-etanol-us-1-8-miliar",
+  "category": "Energi",
+  "title": "RI-China Sepakati Kerja Sama Batu Bara ke Etanol [US$1,8 Miliar]",
+  "deck": "Indonesia dan Tiongkok sepakati MoU coal-to-ethanol senilai US$1,8 miliar, bagian dari paket kerja sama US$71,8 miliar yang disaksikan Presiden Prabowo di Shenzhen.",
+  "date": "19 November 2026",
+  "image": "assets/img/ri-china-sepakati-kerja-sama-batu-bara-ke-etanol-us-1-8-miliar.jpg",
+  "imageV": "mwn1b8wr",
+  "tags": [
+   "hilirisasi batu bara",
+   "coal-to-ethanol",
+   "Indonesia-Tiongkok",
+   "Pertamina"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/disaksikan-presiden-prabowo-kerja-sama-coal-to-ethanol-usd18-miliar-dorong-hilirisasi-batu-bara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
   "category": "Aksi Korporasi",
   "title": "Dividen Interim PSGO Rp6 per Saham, [Cair] 18 Desember 2026",
@@ -6499,38 +6535,6 @@ var ARTICLES = [
    "liabilitas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202311/20261110163457-65775-0/FinancialStatement-2023-Tahunan-CASH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "amag-free-float-11-12-kejar-syarat-15-sampai-2029",
-  "category": "Aksi Korporasi",
-  "title": "AMAG: [free float] 11,12%, kejar syarat 15% sampai 2029",
-  "deck": "Public expose AMAG mengungkap porsi saham publik baru 11,12%, masih di bawah syarat baru 15%, dan menegaskan tidak akan melanjutkan buyback saham.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAG",
-   "free float",
-   "public expose",
-   "asuransi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f95535e904_de930bf61b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jaya-laba-bersih-melonjak-296-persen-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "JAYA: Laba Bersih [Melonjak] 296 Persen di Semester I 2026",
-  "deck": "Laba bersih JAYA naik hampir empat kali lipat pada semester I 2026 seiring pendapatan yang melonjak, tapi utang sewa pembiayaan juga naik tajam untuk perluasan armada.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JAYA",
-   "laporan keuangan",
-   "transportasi dan logistik",
-   "sewa pembiayaan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110162401-65784-0/FinancialStatement-2026-II-JAYA.pdf",
   "sourceLabel": "IDX"
  }
 ];

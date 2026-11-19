@@ -3,6 +3,39 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akra-akuisisi-saham-apr-dari-bp-rp257-miliar-non-material",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Akuisisi Saham APR dari BP Rp257 Miliar: [Non-Material]",
+  "deck": "AKR Corporindo menjelaskan ke bursa bahwa pembelian sisa 49,9% saham APR dari BP senilai Rp257,4 miliar, yang menaikkan kepemilikannya jadi 100%, tidak memenuhi kriteria transaksi material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T21:45:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2ca952935a_4ecd2c6114.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AKRA",
+  "tags": [
+   "AKRA",
+   "akuisisi",
+   "APR",
+   "BP Global Investments"
+  ],
+  "body": [
+   "PT AKR Corporindo Tbk (AKRA) menjelaskan kepada Bursa Efek Indonesia bahwa transaksi pembelian saham milik BP Global Investments Limited di PT Aneka Petroindo Raya (APR), yang diumumkan pada 9 November 2026, merupakan pembelian seluruh sisa kepemilikan BP sebesar 49,9% di APR. Dengan transaksi ini, kepemilikan Grup AKR Corporindo di APR naik dari sebelumnya 50,1% menjadi 100%, efektif sejak 6 November 2026. APR tetap menjalankan bisnis ritel bahan bakar minyak dengan merek bp berdasarkan perjanjian lisensi yang masih berlaku, sehingga operasional SPBU BP-AKR yang sudah berjalan tidak berubah.",
+   "Nilai transaksi ini sebesar US$14.221.500, atau setara Rp257.409.150.000 dengan asumsi kurs Rp18.100 per dolar AS. Perseroan menghitung nilai itu setara 1,65% dari total ekuitas AKR Corporindo yang tercatat Rp15.609.949.469.000 per 31 Desember 2025. Rasio materialitas lain juga dihitung: total aset APR dibanding total aset AKR Corporindo 5,43%, laba bersih APR dibanding laba bersih AKR Corporindo 1,10%, dan pendapatan usaha APR dibanding pendapatan usaha AKR Corporindo 4,59%. Karena seluruh rasio itu di bawah ambang 20% yang diatur Peraturan OJK Nomor 17/POJK.04/2020, perseroan menyatakan transaksi ini bukan transaksi material sehingga tidak wajib memenuhi ketentuan keterbukaan informasi tambahan dalam Pasal 18 ayat (1) huruf a angka 3 aturan tersebut.",
+   "AKR Corporindo menegaskan bahwa sejak sebelum transaksi, APR sudah dikonsolidasikan penuh dalam laporan keuangan perseroan karena kepemilikannya sudah di atas 50%, sehingga seluruh pendapatan, beban, aset, dan liabilitas APR sudah tercatat lebih dulu. Yang berubah pascatransaksi adalah porsi laba bersih konsolidasian yang diatribusikan kepada pemegang saham AKR Corporindo, karena kepentingan nonpengendali milik BP di APR sebesar 49,9% kini hilang. Dari sisi neraca, transaksi ini akan tercermin pada penyesuaian saldo kas dan komposisi ekuitas konsolidasian. Perseroan juga menyatakan tidak ada fakta atau informasi material lain terkait transaksi ini yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Gas station attendant refueling a car at a busy roadside fuel station forecourt in Jakarta, late afternoon light.",
+  "takeaway": "Laporan ini condong positif bagi AKR Corporindo, sebab perusahaan membeli habis sisa saham mitranya di anak usaha ritel BBM menggunakan dana sendiri senilai Rp257,4 miliar, sehingga ke depan seluruh laba APR mengalir penuh ke pemegang saham AKR tanpa perlu dibagi dengan BP Global Investments. Yang tersentuh adalah komposisi ekuitas konsolidasian dan atribusi laba bersih ke pemegang saham induk: sebelumnya 49,9% laba APR harus disisihkan untuk kepentingan nonpengendali, yakni bagian laba anak usaha yang jadi hak pemilik minoritas, sedangkan kini seluruhnya jadi hak AKR Corporindo, walau kontribusi laba APR terhadap laba bersih AKR Corporindo sendiri tercatat hanya 1,10 persen sehingga dampaknya ke laba per saham tidak besar. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartalan AKR Corporindo berikutnya, karena dokumen ini menyebut penyesuaian saldo kas dan komposisi ekuitas akibat transaksi baru akan tercermin di sana, sementara tanggal efektif peningkatan kepemilikan sendiri sudah berlaku sejak 6 November 2026.",
+  "sentimen": "positif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-06",
+    "acara": "Tanggal efektif peningkatan kepemilikan AKR di APR menjadi 100%"
+   }
+  ]
+ },
+ {
   "slug": "smkm-koreksi-lbrpe-bondra-uji-pratama-ternyata-pegang-4-99",
   "category": "Aksi Korporasi",
   "title": "SMKM [Koreksi] LBRPE: Bondra Uji Pratama Ternyata Pegang 4,99%",

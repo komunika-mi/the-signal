@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "akra-akuisisi-saham-apr-dari-bp-rp257-miliar-non-material",
+  "category": "Aksi Korporasi",
+  "title": "AKRA Akuisisi Saham APR dari BP Rp257 Miliar: [Non-Material]",
+  "deck": "AKR Corporindo menjelaskan ke bursa bahwa pembelian sisa 49,9% saham APR dari BP senilai Rp257,4 miliar, yang menaikkan kepemilikannya jadi 100%, tidak memenuhi kriteria transaksi material.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AKRA",
+   "akuisisi",
+   "APR",
+   "BP Global Investments"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2ca952935a_4ecd2c6114.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "smkm-koreksi-lbrpe-bondra-uji-pratama-ternyata-pegang-4-99",
   "category": "Aksi Korporasi",
   "title": "SMKM [Koreksi] LBRPE: Bondra Uji Pratama Ternyata Pegang 4,99%",
@@ -6512,22 +6528,6 @@ var ARTICLES = [
    "APE"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a76b81475d_3b15f3a34f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-kucurkan-pinjaman-rp10-m-ke-anak-usaha-kmj",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Kucurkan [Pinjaman] Rp10 M ke Anak Usaha KMJ",
-  "deck": "RAJA menyalurkan pinjaman afiliasi Rp10 miliar ke anak usaha KMJ untuk danai bisnis gas pipa, bunga naik ke 8,6% begitu KMJ mulai berpendapatan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "transaksi afiliasi",
-   "KMJ",
-   "pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/574716cdb5_5b64fcec8b.pdf",
   "sourceLabel": "IDX"
  }
 ];

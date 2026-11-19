@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim PSGO Rp6 per Saham, [Cair] 18 Desember 2026",
+  "deck": "PSGO membagikan dividen tunai interim tahun buku 2026 senilai Rp113,1 miliar atau Rp6 per saham, dibayarkan 18 Desember 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSGO",
+   "dividen interim",
+   "Palma Serasih",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb4522579a_24c051d5ea.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-zata-rugi-rp77-8-m-usai-divestasi-aset-tekan-utang",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose ZATA: Rugi Rp77,8 M Usai [Divestasi] Aset Tekan Utang",
+  "deck": "Materi Public Expose tahunan ZATA menunjukkan rugi bersih Rp77,8 miliar akibat rugi pelepasan aset non-produktif Rp78,3 miliar untuk melunasi utang ke Bank OCBC.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZATA",
+   "Public Expose",
+   "divestasi aset",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0be81de52_a3d9c1c0fb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pssi-komisaris-beli-102-900-saham-hak-suara-jadi-0-252",
+  "category": "Aksi Korporasi",
+  "title": "PSSI: Komisaris [Beli] 102.900 Saham, Hak Suara Jadi 0,252%",
+  "deck": "Komisaris PSSI, Iriawan Ibarat, membeli 102.900 saham secara tidak langsung pada 11-12 November 2026, hak suaranya naik tipis menjadi 0,252%.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PSSI",
+   "IMC Pelita Logistik",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-7752-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgik-perseroan-jual-400-2-juta-saham-treasury-suara-ke-0",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: Global Dinamika Kencana Tambah 400,2 Juta Saham, Suara ke 75,6%",
+  "deck": "Global Dinamika Kencana, pemegang saham mayoritas DGIK, membeli seluruh 400,2 juta saham treasuri yang dilepas DGIK pada 19 November 2026, hak suaranya naik dari 68,30% jadi 75,60%.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGIK",
+   "saham treasuri",
+   "kepemilikan saham",
+   "Global Dinamika Kencana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-2538-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mfmi-imhk-alihkan-99-35-saham-ke-im-asia-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "MFMI: IMHK Alihkan 99,35% Saham ke IM Asia [Restrukturisasi]",
+  "deck": "IMHK mengalihkan 752,6 juta saham MFMI (99,35%) ke Iron Mountain Asia Pte Ltd lewat pasar negosiasi BEI pada 18 November 2026, restrukturisasi internal tanpa mengubah pengendali.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MFMI",
+   "Iron Mountain",
+   "pemegang saham",
+   "restrukturisasi internal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/718f44f88c_eeadf63a2a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mina-jelaskan-ke-bei-dana-rights-issue-baru-10-terealisasi",
   "category": "Aksi Korporasi",
   "title": "MINA Jelaskan ke BEI: Dana Rights Issue Baru [10%] Terealisasi",
@@ -6451,83 +6531,6 @@ var ARTICLES = [
    "sewa pembiayaan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110162401-65784-0/FinancialStatement-2026-II-JAYA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-rp17-5-triliun-beli-saham-aadi-adro-dari-asi-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "SRTG Rp17,5 Triliun: Beli Saham AADI-ADRO dari ASI [Afiliasi]",
-  "deck": "SRTG membeli 838,46 juta saham AADI dan 3,68 miliar saham ADRO milik ASI senilai total Rp17,5 triliun, transaksi afiliasi penyederhanaan struktur kepemilikan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "AADI",
-   "ADRO",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf0ba7b34c_06993673d1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-koreksi-lagi-akuisisi-tambang-batu-bara-86-juta-ton",
-  "category": "Aksi Korporasi",
-  "title": "BIKE [Koreksi] Lagi, Akuisisi Tambang Batu Bara 86 Juta Ton",
-  "deck": "Anak usaha BIKE, PT Prambanan Nusantara Energi, akuisisi 45% saham tambang batu bara PT Sumber Bara Abadi seluas 4.909 hektare, lewat koreksi laporan ketiga BIKE dalam sebulan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi tambang",
-   "koreksi laporan",
-   "batu bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5f8916bedc_444122f051.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-catatkan-obligasi-dan-sukuk-rp1-2-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Catatkan [Obligasi] dan Sukuk Rp1,2 Triliun di BEI",
-  "deck": "Rukun Raharja mencatatkan obligasi dan sukuk wakalah tahap I senilai total Rp1,2 triliun di BEI mulai 11 November 2026, dengan kupon 8,5-9 persen dan tenor tiga sampai lima tahun.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "obligasi korporasi",
-   "sukuk wakalah",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c4a51afa6c_4bcd947a80.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-bidik-rampungkan-divestasi-3-anak-usaha-awal-2027",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Bidik Rampungkan [Divestasi] 3 Anak Usaha Awal 2027",
-  "deck": "Dalam public expose tahunan, manajemen MTFN memaparkan rencana divestasi tiga anak usaha rampung kuartal I 2027 di tengah ekuitas negatif Rp538,7 miliar, sambil mengklaim margin usaha membaik.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bef433d300_b724233ec2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "heli-terbitkan-83-3-juta-saham-baru-tanpa-hmetd-danai-pear",
-  "category": "Aksi Korporasi",
-  "title": "HELI Terbitkan [83,3 Juta] Saham Baru Tanpa HMETD, Danai PEAR",
-  "deck": "HELI berencana menerbitkan hingga 83,3 juta saham baru tanpa HMETD untuk mendanai akuisisi PT Putra Elang Angkasaraya, menanti RUPSLB 17 Desember 2026.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HELI",
-   "Penambahan Modal",
-   "PMTHMETD",
-   "Akuisisi PEAR"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e7aa32543b_399c068955.pdf",
   "sourceLabel": "IDX"
  }
 ];

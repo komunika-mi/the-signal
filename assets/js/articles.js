@@ -3,6 +3,177 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim PSGO Rp6 per Saham, [Cair] 18 Desember 2026",
+  "deck": "PSGO membagikan dividen tunai interim tahun buku 2026 senilai Rp113,1 miliar atau Rp6 per saham, dibayarkan 18 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T10:38:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb4522579a_24c051d5ea.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSGO",
+  "tags": [
+   "PSGO",
+   "dividen interim",
+   "Palma Serasih",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Palma Serasih Tbk (PSGO) akan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp113,1 miliar, atau Rp6 per saham. Keputusan ini diambil Direksi dan telah disetujui Dewan Komisaris pada 17 November 2026, berdasarkan laporan keuangan konsolidasian perseroan per 30 September 2026.",
+   "Investor yang ingin mendapatkan hak dividen harus sudah memiliki saham PSGO sebelum tanggal cum dividen di pasar reguler dan negosiasi pada 27 November 2026, karena mulai 30 November 2026 saham akan diperdagangkan tanpa hak dividen (ex dividen). Untuk transaksi di pasar tunai, cum dividen jatuh pada 1 Desember 2026 dan ex dividen pada 2 Desember 2026. Perseroan menetapkan 1 Desember 2026 pukul 16.00 WIB sebagai tanggal pencatatan pemegang saham (recording date) yang berhak menerima dividen, dengan pembayaran paling lambat dilakukan pada 18 Desember 2026 melalui KSEI ke rekening dana nasabah pemegang saham.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 30 September 2026, yang mencatat laba bersih yang bisa diatribusikan kepada pemegang saham induk sebesar Rp312,76 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp783,6 miliar, dan total ekuitas Rp2,93 triliun. Perseroan juga menjelaskan bahwa dividen ini akan dikenakan pajak sesuai aturan yang berlaku, dengan pengecualian antara lain bagi pemegang saham badan dalam negeri, dan bagi pemegang saham perorangan dalam negeri yang menginvestasikan kembali dividennya di wilayah Indonesia."
+  ],
+  "fotoAdegan": "Plantation workers loading harvested oil palm fruit bunches onto a truck under bright tropical daylight, rural setting.",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham PSGO, karena perseroan membagikan Rp113,1 miliar tunai dari laba yang sudah terkumpul, sementara total ekuitasnya masih tersisa Rp2,93 triliun dan saldo laba ditahan yang bebas dipakai masih Rp783,6 miliar, sehingga pembayaran ini tidak menggerus modal perusahaan secara berarti. Yang tersentuh di sini adalah arus kas, karena dana Rp113,1 miliar akan keluar dari kas perseroan untuk dibayarkan ke pemegang saham, dan ekuitas, karena laba ditahan yang dibagikan sebagai dividen akan mengurangi pos tersebut di laporan keuangan berikutnya. Pelaku pasar biasanya membandingkan besaran dividen dengan laba yang dihasilkan, karena dividen yang jauh lebih besar dari laba bisa berarti perseroan memakai cadangan dana yang seharusnya untuk operasional atau ekspansi. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham (recording date) pada 1 Desember 2026 pukul 16.00 WIB, sebab setelah itu pembeli saham baru tidak lagi berhak atas dividen ini, dan tanggal pembayaran pada 18 Desember 2026 sebagai konfirmasi dana benar-benar sudah disalurkan.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Cum dividen di Pasar Reguler dan Negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex dividen di Pasar Reguler dan Negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Recording date pemegang saham dan cum dividen di Pasar Tunai"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Ex dividen di Pasar Tunai"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-zata-rugi-rp77-8-m-usai-divestasi-aset-tekan-utang",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose ZATA: Rugi Rp77,8 M Usai [Divestasi] Aset Tekan Utang",
+  "deck": "Materi Public Expose tahunan ZATA menunjukkan rugi bersih Rp77,8 miliar akibat rugi pelepasan aset non-produktif Rp78,3 miliar untuk melunasi utang ke Bank OCBC.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T10:31:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0be81de52_a3d9c1c0fb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZATA",
+  "tags": [
+   "ZATA",
+   "Public Expose",
+   "divestasi aset",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bersama Zatta Jaya Tbk (ZATA), pemilik merek fesyen muslim Elzatta, melaporkan rugi bersih Rp77,77 miliar hingga September 2026, berbalik dari laba Rp1,93 miliar pada periode yang sama tahun sebelumnya. Rugi itu terutama berasal dari pos pendapatan dan beban lain-lain yang melonjak menjadi beban Rp83,27 miliar, di dalamnya terdapat rugi pelepasan atau divestasi aset non-produktif senilai Rp78,3 miliar. Materi ini disampaikan Perseroan dalam Public Expose Tahunan 2026 yang diunggah ke Bursa Efek Indonesia pada 19 November 2026.",
+   "Dari sisi operasional, penjualan ZATA justru naik 1% secara tahunan menjadi Rp159,70 miliar dari Rp158,09 miliar, dengan laba usaha stagnan di Rp6,82 miliar. Jumlah pengunjung toko turun 3,35% menjadi 446 ribu, tetapi jumlah transaksi naik 7,93% menjadi 579 ribu, yang berarti pembeli yang datang ke toko lebih sering benar-benar membeli. Toko fisik di Jawa dan Bali masih menyumbang 69% penjualan, disusul Sumatera dan kanal online yang masing-masing menyumbang 14%. Perseroan membuka tiga toko baru sepanjang 2026.",
+   "Divestasi aset itu terjadi pada April 2026 dan mendatangkan dana kas Rp75 miliar secara kotor. Dampaknya, aset tetap Perseroan menyusut 86,6% dari Rp168,4 miliar menjadi Rp22,5 miliar, sementara utang bank turun 61,9% dari Rp101,2 miliar menjadi Rp38,6 miliar. Secara keseluruhan, total aset ZATA menyusut 27,2% menjadi Rp422,82 miliar dan ekuitas turun 21,6% menjadi Rp281,87 miliar per September 2026, sementara total liabilitas turun lebih dalam yaitu 36,2% menjadi Rp140,95 miliar.",
+   "Rencana penjualan aset ini sebelumnya disetujui pemegang saham dalam RUPS Luar Biasa pada 18 Februari 2026, dengan kuorum kehadiran 75,85% dan persetujuan 90,67% suara, untuk menurunkan kredit Perseroan di Bank OCBC. Dalam RUPS Tahunan pada 2 September 2026, pemegang saham menyetujui laporan keuangan 2025 serta mengalokasikan seluruh laba bersih tahun itu senilai Rp2,04 miliar untuk mengurangi akumulasi saldo defisit, tanpa pembagian dividen, dan mengangkat Kombes Pol (Purn) Dr. Slamet Pribadi, S.H., M.H. sebagai Komisaris Independen baru. Pemegang saham pengendali, PT Lembur Sadaya, masih menguasai 68,71% saham ZATA, sementara sisanya 31,29% dipegang publik."
+  ],
+  "fotoAdegan": "Modest fashion dresses and hijabs hanging neatly on racks inside a clothing store, shoppers browsing quietly in soft daylight",
+  "takeaway": "Laporan ini cenderung netral, karena rugi bersih besar yang tercatat hampir seluruhnya berasal dari pencatatan satu kali atas pelepasan aset untuk melunasi utang bank, sementara bisnis inti penjualan pakaian justru stagnan, hanya tumbuh 1% dengan laba usaha yang nyaris tidak bergerak. Ekuitas ZATA tergerus 21,6% karena menyerap rugi tersebut, dan laba per saham berbalik jadi rugi Rp9,15 dari untung Rp0,23 setahun sebelumnya, dua ukuran yang biasa dipantau pemegang saham karena langsung memengaruhi nilai buku perusahaan dan potensi dividen ke depan. Di sisi lain, rasio utang terhadap modal justru mengecil dari 61% menjadi 50% dan kemampuan membayar utang jangka pendek membaik, karena dana dari penjualan aset dipakai menekan pinjaman bank, bukan dibagikan ke pemegang saham. Yang perlu dipantau selanjutnya adalah apakah Perseroan bisa membalik tren penjualan ritel offline yang melambat, mengingat dokumen ini sendiri menyebut Indeks Penjualan Riil ritel nasional ambruk ke 0,6% secara tahunan dari 5,8% setahun sebelumnya, sehingga perbaikan rasio keuangan tidak otomatis berarti penjualan ke depan ikut membaik.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
+  "slug": "pssi-komisaris-beli-102-900-saham-hak-suara-jadi-0-252",
+  "category": "Aksi Korporasi",
+  "title": "PSSI: Komisaris [Beli] 102.900 Saham, Hak Suara Jadi 0,252%",
+  "deck": "Komisaris PSSI, Iriawan Ibarat, membeli 102.900 saham secara tidak langsung pada 11-12 November 2026, hak suaranya naik tipis menjadi 0,252%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T10:27:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-7752-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PSSI",
+  "tags": [
+   "PSSI",
+   "IMC Pelita Logistik",
+   "kepemilikan saham",
+   "komisaris"
+  ],
+  "body": [
+   "Dewan Komisaris PT IMC Pelita Logistik Tbk (PSSI), Iriawan Ibarat, melaporkan kepada Otoritas Jasa Keuangan bahwa ia membeli saham perusahaan secara tidak langsung dalam lima transaksi terpisah pada 11 dan 12 November 2026. Seluruh pembelian dilakukan dengan tujuan investasi.",
+   "Rinciannya, pada 11 November 2026 ia membeli 500 saham dengan harga Rp314 per saham, 500 saham dengan harga Rp312, dan 70.500 saham dengan harga Rp318. Pada 12 November 2026, pembelian berlanjut sebanyak 6.400 saham dengan harga Rp316 dan 25.000 saham dengan harga Rp318. Total pembelian mencapai 102.900 saham, menambah kepemilikan Iriawan dari 13.579.500 saham menjadi 13.682.400 saham.",
+   "Dengan tambahan ini, hak suara Iriawan di PSSI naik dari 0,25 persen menjadi 0,252 persen. Dalam laporannya, Iriawan menyatakan bukan merupakan pengendali perusahaan dan tidak berniat mempertahankan status pengendalian."
+  ],
+  "fotoAdegan": "A tugboat pushing a loaded cargo barge past a busy river port terminal, cranes and container stacks faintly visible at dusk.",
+  "takeaway": "Transaksi ini netral bagi emiten, karena pembelian 102.900 saham oleh komisaris hanya setara 0,76 persen dari kepemilikannya sendiri dan hak suaranya di perusahaan nyaris tak berubah, dari 0,25 persen menjadi 0,252 persen, sehingga terlalu kecil untuk dibaca sebagai sinyal keyakinan yang kuat terhadap prospek perusahaan. Yang tersentuh di sini adalah struktur pemegang saham dan hak suara, bukan kinerja keuangan perusahaan, sebab laporan ini hanya mencatat perubahan kepemilikan pribadi komisaris, tanpa ada dana baru yang masuk ke kas PSSI atau perubahan jumlah saham beredar perusahaan secara keseluruhan. Yang perlu dipantau berikutnya adalah apakah Iriawan atau jajaran komisaris dan direksi PSSI lainnya melanjutkan pembelian serupa dalam beberapa bulan ke depan, karena pola akumulasi bertahap oleh orang dalam baru punya arti kalau jumlahnya terus bertambah secara signifikan dari waktu ke waktu.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "dgik-perseroan-jual-400-2-juta-saham-treasury-suara-ke-0",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: Global Dinamika Kencana Tambah 400,2 Juta Saham, Suara ke 75,6%",
+  "deck": "Global Dinamika Kencana, pemegang saham mayoritas DGIK, membeli seluruh 400,2 juta saham treasuri yang dilepas DGIK pada 19 November 2026, hak suaranya naik dari 68,30% jadi 75,60%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T10:13:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-2538-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "saham treasuri",
+   "kepemilikan saham",
+   "Global Dinamika Kencana"
+  ],
+  "body": [
+   "Teka-teki soal siapa pembeli saham treasuri PT Nusa Konstruksi Enjiniring Tbk (DGIK) terjawab. Laporan kepemilikan baru yang disampaikan ke Otoritas Jasa Keuangan menunjukkan Global Dinamika Kencana, pemegang saham mayoritas DGIK, membeli 400.214.500 lembar saham tersebut pada 19 November 2026 dengan harga Rp166 per saham. Transaksi ini membuat hak suara Global Dinamika Kencana di DGIK naik dari 68,30% menjadi 75,60%, sementara jumlah sahamnya bertambah dari 3.786.640.600 lembar menjadi 4.186.855.100 lembar.",
+   "Jumlah dan harga saham dalam laporan ini sama persis dengan saham treasuri yang sebelumnya dilaporkan DGIK sendiri telah dijualnya seluruhnya pada tanggal yang sama, 19 November 2026, dengan nilai total sekitar Rp66,44 miliar. Dengan kata lain, dana hasil penjualan saham treasuri itu masuk ke kas DGIK, sementara seluruh sahamnya diserap langsung oleh pemegang saham pengendalinya sendiri, bukan oleh investor publik di pasar sekunder.",
+   "Pergerakan ini menyusul laporan kepemilikan Global Dinamika Kencana sebelumnya pada 13 November 2026, saat pihak ini menambah kepemilikannya sebanyak 189,5 juta saham sehingga hak suaranya naik ke 68,2%. Dua laporan kepemilikan dalam waktu kurang dari sepekan ini menunjukkan tren yang sama: Global Dinamika Kencana terus menambah genggamannya atas DGIK, dan kini sudah menguasai lebih dari tiga perempat hak suara perusahaan."
+  ],
+  "fotoAdegan": "Workers operating cranes and heavy machinery at a large construction site under an overcast sky",
+  "takeaway": "Laporan ini condong netral bagi DGIK, karena dana Rp66,44 miliar dari penjualan saham treasuri tetap masuk ke kas perusahaan, tetapi kini jelas bahwa seluruh saham itu diserap oleh pemegang saham pengendalinya sendiri, bukan oleh publik. Pos yang tersentuh adalah struktur kepemilikan dan jumlah saham yang benar-benar beredar bebas di pasar, karena begitu saham treasuri balik beredar namun langsung diborong pengendali, porsi saham yang bisa diperjualbelikan investor lain tidak bertambah, sementara hak suara pengendali melonjak dari 68,30% menjadi 75,60%, kenaikan sekitar 7,3 poin persentase yang cukup besar untuk disebut sinyal, bukan remah. Yang perlu dipantau berikutnya adalah apakah DGIK akan mengumumkan rencana penggunaan dana hasil penjualan saham treasuri ini, serta apakah konsentrasi kepemilikan yang makin tinggi di tangan Global Dinamika Kencana berdampak pada likuiditas perdagangan saham DGIK di pasar.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T09:59:04",
+    "ringkas": "Pembeli saham treasuri DGIK terungkap: Global Dinamika Kencana, hak suaranya naik dari 68,30% ke 75,60%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-4714-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-19T09:59:04"
+ },
+ {
+  "slug": "mfmi-imhk-alihkan-99-35-saham-ke-im-asia-restrukturisasi",
+  "category": "Aksi Korporasi",
+  "title": "MFMI: IMHK Alihkan 99,35% Saham ke IM Asia [Restrukturisasi]",
+  "deck": "IMHK mengalihkan 752,6 juta saham MFMI (99,35%) ke Iron Mountain Asia Pte Ltd lewat pasar negosiasi BEI pada 18 November 2026, restrukturisasi internal tanpa mengubah pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T09:01:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/718f44f88c_eeadf63a2a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MFMI",
+  "tags": [
+   "MFMI",
+   "Iron Mountain",
+   "pemegang saham",
+   "restrukturisasi internal"
+  ],
+  "body": [
+   "PT Multifiling Mitra Indonesia Tbk (MFMI) melaporkan perubahan pemegang saham utama perseroan. Pada 18 November 2026, Iron Mountain Hong Kong Limited (IMHK) mengalihkan seluruh kepemilikannya sebanyak 752.632.700 saham, atau 99,35 persen dari modal ditempatkan dan disetor penuh MFMI, kepada Iron Mountain Asia Pte Ltd (IM Asia). Pengalihan dilakukan melalui pasar negosiasi di Bursa Efek Indonesia.",
+   "Dalam suratnya, Direktur dan Sekretaris Perusahaan MFMI, Senjaya Bidjaksana, menjelaskan bahwa transaksi ini merupakan restrukturisasi internal di dalam grup usaha Iron Mountain. Baik IMHK maupun IM Asia sama-sama dikendalikan oleh induk usaha yang sama, Iron Mountain Inc, sehingga perseroan menyatakan tidak terjadi perubahan pengendalian baik secara langsung maupun tidak langsung. Atas dasar itu, MFMI menyimpulkan transaksi ini tidak memicu kewajiban Penawaran Tender Wajib kepada pemegang saham publik sebagaimana diatur dalam POJK Nomor 9/2018.",
+   "Dengan selesainya pengalihan ini, komposisi pemegang saham MFMI berubah nama pemegang mayoritasnya: IM Asia kini tercatat memiliki 752.632.700 saham atau 99,35 persen dari total modal perseroan, sementara porsi milik masyarakat tetap sebesar 4.948.300 saham atau 0,65 persen."
+  ],
+  "fotoAdegan": "Rows of labeled archive boxes on tall industrial warehouse shelving, a forklift passing under overhead lighting.",
+  "takeaway": "Laporan ini netral bagi pemegang saham publik MFMI karena transaksi ini sekadar pemindahan nama pemilik dari satu entitas ke entitas lain dalam satu grup usaha yang sama, tanpa ada uang segar yang masuk ke perusahaan atau perubahan jumlah saham yang beredar. Ekuitas, arus kas, dan laba per saham perseroan tidak tersentuh oleh transaksi ini, sebab yang berpindah hanyalah kepemilikan atas saham yang sudah ada, bukan penerbitan saham baru; hak suara publik pun tetap di porsi 0,65 persen seperti sebelumnya. Karena IMHK dan IM Asia sama-sama berada di bawah kendali Iron Mountain Inc, perseroan menyimpulkan tidak ada perubahan pengendali sehingga tidak wajib menggelar penawaran tender kepada pemegang saham publik. Yang perlu dipantau selanjutnya adalah apakah restrukturisasi internal ini akan diikuti perubahan di jajaran direksi, komisaris, atau arah bisnis MFMI, sebab dokumen ini sendiri belum menyinggung hal tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi Yang Perlu Diketahui Publik"
+ },
+ {
   "slug": "mina-jelaskan-ke-bei-dana-rights-issue-baru-10-terealisasi",
   "category": "Aksi Korporasi",
   "title": "MINA Jelaskan ke BEI: Dana Rights Issue Baru [10%] Terealisasi",
@@ -40331,8 +40502,8 @@ var ARTICLES = [
  {
   "slug": "gema-panggil-rupslb-agendakan-perubahan-komisaris",
   "category": "Aksi Korporasi",
-  "title": "GEMA Panggil RUPSLB, Agendakan [Perubahan] Komisaris",
-  "deck": "Gema Grahasarana (GEMA) menggelar RUPSLB pada 17 November 2026 untuk membahas perubahan susunan Dewan Komisaris dan penyesuaian pasal anggaran dasar sesuai KBLI 2025.",
+  "title": "RUPSLB GEMA 17 November: [Komisaris] Agustinus Mundur, KBLI Disetujui",
+  "deck": "RUPSLB GEMA, 17 November 2026: pemegang saham setujui pengunduran komisaris Agustinus Purna Irawan, susunan Dewan Komisaris jadi tiga orang, dan sahkan revisi Pasal 3 Anggaran Dasar sesuai KBLI 2025",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "26 Oktober 2026",
   "isoDate": "2026-10-26T14:40:27",
@@ -40343,16 +40514,27 @@ var ARTICLES = [
    "GEMA",
    "RUPSLB",
    "Dewan Komisaris",
-   "Gema Grahasarana"
+   "KBLI"
   ],
   "body": [
-   "PT Gema Grahasarana Tbk (GEMA) mengundang para pemegang saham untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026 pukul 14.00 WIB di Gedung SOUTH78, Jalan Boulevard Gading Serpong Blok O No 7-8, Medang, Pagedangan, Tangerang. Yang berhak hadir adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 23 Oktober 2026 pukul 16.00 WIB, atau bagi saham dalam penitipan kolektif KSEI, yang tercatat sampai penutupan perdagangan di Bursa Efek Indonesia pada Jumat, 23 Oktober 2026.",
-   "Rapat ini membawa dua agenda. Pertama, perubahan susunan anggota Dewan Komisaris Perseroan sesuai Anggaran Dasar dan aturan Otoritas Jasa Keuangan, namun dokumen pemanggilan belum menyebut nama calon komisaris yang akan diangkat atau diberhentikan, karena hal itu baru akan dibahas dan diputuskan dalam rapat. Kedua, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan maksud, tujuan, dan kegiatan usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Perseroan menegaskan perubahan ini bersifat administratif dan bukan perubahan kegiatan usaha sebagaimana diatur dalam POJK No 17/POJK.04/2020 tentang Transaksi Material dan Perubahan Kegiatan Usaha.",
-   "Pemegang saham dapat hadir secara elektronik melalui aplikasi eASY.KSEI atau memberikan kuasa melalui formulir yang tersedia di situs Perseroan. Surat kuasa fisik yang sudah ditandatangani harus diterima oleh biro administrasi efek, PT Adimitra Jasa Korpora di Kirana Avenue III Blok F3 No 5, Kelapa Gading, Jakarta Utara, paling lambat tiga hari kerja sebelum tanggal rapat sampai pukul 16.00 WIB. Perseroan juga mengimbau pemegang saham memberikan kuasa kepada pihak independen yang ditunjuk, yaitu biro administrasi efek tersebut, sesuai Pasal 28 ayat 2 POJK No 15/POJK.04/2020."
+   "PT Gema Grahasarana Tbk (GEMA) merampungkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 17 November 2026. Rapat yang dihadiri pemegang saham dengan 75,84 persen hak suara ini menyetujui pengunduran diri Agustinus Purna Irawan dari kursi komisaris. Susunan Dewan Komisaris Perseroan sekarang tinggal tiga orang, yaitu Dedy Rochimat sebagai Komisaris Utama, Pulung Peranginangin sebagai Komisaris, dan Eko Suhartanto sebagai Komisaris Independen, menjabat sampai penutupan RUPS Tahunan 2029. Tidak ada nama baru yang masuk, keputusan ini murni mengurangi satu kursi komisaris.",
+   "Agenda kedua, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan kegiatan usaha Perseroan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, juga disetujui dengan hasil suara yang sama, 99,99 persen setuju, 100 suara tidak setuju, dan 11.700 suara abstain. Perseroan menegaskan perubahan ini bersifat administratif, bukan perubahan kegiatan usaha material sebagaimana diatur POJK No 17/POJK.04/2020.",
+   "Kedua agenda ini sebelumnya hanya diumumkan sebagai rencana lewat panggilan RUPSLB pada 26 Oktober 2026, saat Perseroan belum membuka nama komisaris yang akan diganti karena keputusannya memang baru diambil di dalam rapat. Hasil rapat ini sekaligus menjawab bahwa perubahan dimaksud adalah pengunduran diri Agustinus Purna Irawan, bukan masuknya komisaris baru.",
+   "Direksi Perseroan diberi kuasa untuk menuangkan dua keputusan tersebut ke dalam akta notaris dan mengajukan persetujuan perubahan Pasal 3 Anggaran Dasar kepada instansi berwenang. Perseroan menyebut proses pengajuan itu baru akan dilakukan setelah basis data KBLI 2025 benar-benar digunakan oleh instansi terkait, sehingga belum ada tanggal pasti kapan perubahan anggaran dasar itu efektif berlaku."
   ],
   "fotoAdegan": "Rows of modern upholstered office chairs arranged neatly in an empty corporate meeting hall, soft morning light through large windows",
-  "takeaway": "Laporan ini bersifat netral karena hanya memanggil rapat dan belum memuat nama calon komisaris baru atau keputusan final apa pun, sementara agenda penyesuaian anggaran dasar murni administratif tanpa mengubah bisnis inti perusahaan. Perubahan susunan Dewan Komisaris memang tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau laba per saham, tetapi tetap diperhatikan pelaku pasar karena komisaris adalah pihak yang mengawasi kinerja direksi, sehingga wajah baru di kursi pengawas bisa mengubah arah pengawasan terhadap manajemen. Yang perlu dipantau adalah hasil RUPSLB pada 17 November 2026, saat nama komisaris baru dan pengesahan resmi perubahan Pasal 3 anggaran dasar akan diputuskan. Pemegang saham yang ingin memberi kuasa kepada pihak lain harus mengirim surat kuasa ke PT Adimitra Jasa Korpora paling lambat tiga hari kerja sebelum rapat, sekitar 12 November 2026, sampai pukul 16.00 WIB.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi fundamental Gema Grahasarana, karena perubahan komisaris hanya pengunduran satu orang tanpa pergantian pemegang saham pengendali, dan revisi anggaran dasar sekadar menyesuaikan klasifikasi usaha, bukan mengubah bisnis inti perusahaan. Perubahan di jajaran komisaris tidak menyentuh angka di laporan keuangan seperti ekuitas atau laba per saham, tetapi tetap relevan karena komisaris adalah pihak yang mengawasi kinerja direksi, sehingga susunan yang menyusut dari empat menjadi tiga orang berarti ada satu pengawas lebih sedikit yang mengecek keputusan manajemen. Yang perlu dipantau berikutnya adalah proses notaris dan pengajuan resmi perubahan Pasal 3 Anggaran Dasar ke instansi berwenang, yang menurut keputusan rapat baru akan diajukan setelah basis data KBLI 2025 digunakan oleh otoritas, sehingga belum ada tenggat pasti kapan perubahan itu berlaku efektif.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T09:58:31",
+    "ringkas": "RUPSLB GEMA 17 November 2026 menyetujui pengunduran komisaris Agustinus Purna Irawan dan mengesahkan revisi Pasal 3 Anggaran Dasar sesuai KBLI 2025.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/761b625a67_48bcede9e5.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-19T09:58:31",
+  "peristiwa": "rups"
  },
  {
   "slug": "mbss-teken-kontrak-angkutan-material-5-tahun-dengan-gel",

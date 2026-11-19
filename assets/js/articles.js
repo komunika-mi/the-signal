@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "smkm-koreksi-lbrpe-bondra-uji-pratama-ternyata-pegang-4-99",
+  "category": "Aksi Korporasi",
+  "title": "SMKM [Koreksi] LBRPE: Bondra Uji Pratama Ternyata Pegang 4,99%",
+  "deck": "SMKM menjawab permintaan penjelasan BEI soal data pemegang saham, mengakui kekeliruan dan mengungkap pemegang 4,99% saham yang sebelumnya tidak tercatat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T20:11:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b795dbe7e7_c9405a0da9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMKM",
+  "tags": [
+   "SMKM",
+   "LBRPE",
+   "pemegang saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Sumber Mas Konstruksi Tbk (SMKM) menjawab surat permintaan penjelasan Bursa Efek Indonesia bernomor S-14196/BEI.PP1/11-2026 lewat surat tertanggal 19 November 2026 yang ditandatangani Direktur Utama Budi Aris. Permintaan itu terkait Laporan Bulanan Registrasi Pemegang Efek (LBRPE) periode September dan Oktober 2026, di mana jumlah saham free float tercatat 939.749.900 lembar pada September dan turun menjadi 876.663.600 lembar pada Oktober 2026.",
+   "Bursa menemukan data pemilik manfaat di laporan itu tidak lengkap, yakni alamat empat nama, Chen Pei Ling Catherine, Victoria Lim Yu, Victoria, dan Chong Chee Hoong, tidak diisi. SMKM mengakui kekeliruan tersebut dan akan melengkapi alamat tiga nama pertama di 16 Kallang Place #03-02, Singapura, serta alamat Chong Chee Hoong di Graha Mustika Ratu Lantai 5, Jakarta. Perseroan juga memastikan tidak ada afiliasi pemegang saham lain di luar yang sudah dilaporkan, dan mengonfirmasi bahwa nama pemilik manfaat yang benar adalah Chong Chee Hoong, bukan Chong Chee Hoong Chee seperti yang tercantum sebagai anggota Dewan Komisaris.",
+   "Temuan paling signifikan menyangkut Bondra Uji Pratama, yang di LBRPE periode sebelumnya dilaporkan memegang 0 saham atau 0 persen. Berdasarkan data KSEI per 30 September 2026, Bondra Uji Pratama justru memegang 62.527.500 saham atau 4,99 persen, dan SMKM berjanji mengoreksi angka ini. Bursa juga mempertanyakan penulisan nama pemegang saham pengendali, yang di LBRPE tertulis Lim Shrimp Org Pte dengan alamat 16 Kallang Place #03-02, sedangkan data KSEI mencatatnya sebagai Lim Shrimp Org Pte Ltd berdomisili Singapura dengan kepemilikan 313.250.000 saham atau 25 persen per 30 September dan 30 Oktober 2026. SMKM menyatakan akan menyesuaikan seluruh data tersebut dalam koreksi LBRPE."
+  ],
+  "fotoAdegan": "A clerk reaching for a folder among rows of binders in a quiet corporate registrar office, blurred background, fluorescent light",
+  "takeaway": "Laporan ini condong negatif bagi SMKM, karena mengungkap lemahnya kontrol internal perseroan dalam melaporkan data pemegang saham, termasuk gagal mencatat pemegang 4,99 persen saham selama setidaknya satu periode laporan. Yang tersentuh di sini bukan laba atau kas, melainkan keterbukaan struktur kepemilikan, yakni data soal siapa sebenarnya memegang saham dan hak suara di perusahaan, yang penting bagi investor untuk menilai siapa yang benar-benar mengendalikan arah perseroan dan keputusan di RUPS. Yang perlu dipantau berikutnya adalah apakah SMKM benar-benar merealisasikan koreksi LBRPE seperti yang dijanjikan, dan apakah Bursa menjatuhkan sanksi atas keterlambatan serta ketidakakuratan pelaporan pemegang saham ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "pkpu-adhi-17-november-digugat-dua-kreditur-ke-pn-jakpus",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADHI 17 November: [Digugat] Dua Kreditur ke PN Jakpus",
+  "deck": "PT Atap Perkasa dan PT Satek Aire Indonesia mengajukan permohonan PKPU terhadap ADHI ke Pengadilan Niaga PN Jakarta Pusat, perkara terdaftar 17 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:51:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8141a1a2c1_4dff092c7c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "PKPU",
+   "Adhi Karya",
+   "Pengadilan Niaga"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk melaporkan ke Otoritas Jasa Keuangan bahwa perusahaan menjadi termohon dalam perkara Penundaan Kewajiban Pembayaran Utang (PKPU) di Pengadilan Niaga pada Pengadilan Negeri Jakarta Pusat. Perkara terdaftar dengan nomor register 349/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst, dengan PT Atap Perkasa dan PT Satek Aire Indonesia sebagai pihak pemohon. Tanggal kejadian yang dicatat perseroan adalah 17 November 2026, mengikuti tanggal pendaftaran perkara di Sistem Informasi Penelusuran Perkara (SIPP) pengadilan tersebut.",
+   "Dalam suratnya yang diteken Corporate Secretary Siswanto, ADHI menyatakan hingga saat laporan ini diterbitkan belum menerima pemberitahuan resmi atau relaas dari Pengadilan Negeri Jakarta Pusat terkait permohonan tersebut. Perseroan menyebut akan melakukan verifikasi menyeluruh terhadap dasar dan substansi permohonan PKPU setelah relaas itu diterima, serta berjanji menyampaikan perkembangan lebih lanjut kepada pemangku kepentingan. Dalam laporan ini, ADHI juga menyatakan belum ada dampak signifikan terhadap kegiatan operasional, kondisi keuangan, maupun kelangsungan usaha perseroan akibat perkara ini."
+  ],
+  "fotoAdegan": "Exterior facade of a large Indonesian courthouse with stone columns, pedestrians walking past in morning light",
+  "takeaway": "Laporan ini condong negatif bagi ADHI, sebab permohonan PKPU dari kreditur eksternal adalah proses hukum yang muncul karena ada pihak yang menilai punya tagihan utang yang belum dibayar, meski klaim dampaknya belum bisa dipastikan sebelum ADHI menerima pemberitahuan resmi pengadilan. PKPU sendiri adalah mekanisme di pengadilan niaga yang memberi perusahaan kesempatan merundingkan ulang jadwal dan jumlah pembayaran utang dengan kreditor sebelum berujung pailit, sehingga pos yang langsung tersentuh adalah arus kas dan kondisi likuiditas perseroan, bukan laba usahanya. Perlu dicatat laporan ini datang tak lama setelah ADHI juga mengagendakan RUPO soal obligasi Tahap III 2022 dan RUPSLB yang memuat agenda divestasi JMJ, sehingga pola kebutuhan pengaturan ulang kewajiban keuangan perlu terus dipantau meski ketiganya adalah proses yang berbeda. Yang perlu dipantau selanjutnya adalah kapan ADHI menerima relaas resmi dari Pengadilan Negeri Jakarta Pusat, karena perseroan baru akan memverifikasi dasar gugatan dan melaporkan perkembangan setelah dokumen itu di tangan, sementara dokumen ini belum menyebutkan tanggal sidang pertama.",
+  "sentimen": "negatif",
+  "judulIdx": "Laporan Informasi atau Fakta Material terkait perkara Penundaan Kewajiban Pembayaran Utang (\"PKPU\")"
+ },
+ {
+  "slug": "rupst-viva-17-november-direksi-komisaris-diangkat-lagi-5-tahun",
+  "category": "Aksi Korporasi",
+  "title": "RUPST VIVA 17 November: [Direksi-Komisaris] Diangkat Lagi 5 Tahun",
+  "deck": "RUPST VIVA menyetujui laporan tahunan 2025 dan mengangkat kembali seluruh direksi serta komisaris untuk periode lima tahun berikutnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T19:40:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d92651a5f_417dcb8ba0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VIVA",
+  "tags": [
+   "VIVA",
+   "RUPST",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "PT Visi Media Asia Tbk (VIVA) menggelar Rapat Umum Pemegang Saham Tahunan (RUPST) pada Selasa, 17 November 2026, di The Convergence Indonesia, Jakarta Selatan, yang dihadiri pemegang saham dan kuasa mereka sebanyak 10.692.059.563 saham, setara 69,94 persen dari total 16.464.270.400 saham dengan hak suara sah. Seluruh anggota Dewan Komisaris berhalangan hadir, sehingga rapat dipimpin oleh Direktur Neil R. Tobing yang ditunjuk oleh Direksi. Ketiga agenda rapat, yakni pengesahan laporan tahunan dan laporan keuangan 2025, pemberian kewenangan kepada Dewan Komisaris untuk menunjuk Kantor Akuntan Publik tahun buku 2026, serta pengangkatan kembali Direksi dan Komisaris, disetujui lewat voting dengan hasil hampir seragam: 10.692.059.263 suara setuju (99,999997 persen) berbanding 300 suara menolak untuk setiap agenda. Tidak ada pemegang saham yang mengajukan pertanyaan selama rapat berlangsung.",
+   "Melalui voting itu, RUPST mengangkat kembali Ilham Akbar Habibie sebagai Wakil Presiden Komisaris sekaligus Komisaris Independen, Arief Yahya sebagai Presiden Direktur, dan Jastiro Abi sebagai Wakil Presiden Direktur, masing-masing untuk masa jabatan lima tahun berikutnya hingga penutupan RUPST kelima sejak tanggal rapat ini. Susunan Direksi dan Dewan Komisaris Perseroan yang berlaku efektif sejak penutupan rapat tidak berubah dari sebelumnya: Dewan Komisaris diisi Anindya Novyan Bakrie sebagai Presiden Komisaris, Ilham Akbar Habibie sebagai Wakil Presiden Komisaris merangkap Komisaris Independen, dan Omar Luthfi Anwar sebagai Komisaris; sementara Direksi diisi Arief Yahya sebagai Presiden Direktur, Jastiro Abi sebagai Wakil Presiden Direktur, serta M. Sahid Mahudie dan Neil R. Tobing sebagai Direktur. Direksi juga diberi kuasa untuk mengurus seluruh dokumen notaril dan pemberitahuan ke instansi berwenang terkait susunan pengurus tersebut, meski faktanya tidak ada pergantian nama dalam susunan ini."
+  ],
+  "fotoAdegan": "Busy television broadcast control room, technicians watching multiple video feed monitors, dim blue ambient lighting, evening shift.",
+  "takeaway": "Laporan ini netral bagi pemegang saham VIVA, karena hasil RUPST sepenuhnya mempertahankan status quo: direksi dan komisaris yang sama diangkat kembali untuk lima tahun ke depan, tanpa ada nama baru atau perubahan kekuasaan. Pos yang tersentuh sebenarnya bukan angka keuangan seperti ekuitas atau laba per saham, melainkan tata kelola, yaitu kewenangan Dewan Komisaris memilih kantor akuntan publik untuk mengaudit laporan keuangan 2026, yang penting karena kualitas audit itu menentukan seberapa bisa dipercaya angka-angka keuangan VIVA ke depan oleh investor. Perlu dicatat juga seluruh anggota Dewan Komisaris absen dari rapat ini, sehingga pengesahan dipimpin oleh salah satu direktur, sebuah detail tata kelola yang sebaiknya terus diperhatikan meski tidak sampai mengubah penilaian kami menjadi negatif. Yang perlu dipantau selanjutnya adalah Rapat Umum Pemegang Saham Luar Biasa VIVA yang dijadwalkan 9 Desember 2026, karena agenda konversi utang menjadi saham di rapat itu akan diputuskan oleh susunan direksi dan komisaris yang baru saja dikonfirmasi lewat RUPST ini.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pengumuman Ringkasan Risalah Rapat Umum Pemegang Saham PT Visi Media Asia Tbk"
+ },
+ {
   "slug": "rupslb-inov-28-desember-divestasi-45-8-saham-urecel-ke-cip",
   "category": "Aksi Korporasi",
   "title": "RUPSLB INOV 28 Desember: [Divestasi] 45,8% Saham Urecel ke CIP",
@@ -538,6 +618,41 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret adalah komisi aplikator ojol dipatok maksimal 8 persen sejak 1 Juli 2026, turun dari 20 persen, padahal dari komisi lama itu 6,5 persen dipakai menyubsidi promo penumpang dan 2 persen untuk dana perlindungan serta insentif pengemudi. Pihak yang paling terdampak jelas pengemudi ojol, karena menurut simulasi yang dikutip Gigih, pemangkasan sebesar itu hanya menambah pendapatan bersih sekitar Rp19 ribu per hari, sementara promo yang biasa mendongkrak jumlah pesanan ikut hilang. Ada dua arah yang mungkin dari sini, komisi rendah ini berhenti sebagai angka di atas kertas tanpa perbaikan nyata bagi pengemudi karena order turun dan waktu tunggu memanjang, atau usulan tiga langkah berbasis konsensus pemerintah, aplikator, akademisi, dan asosiasi pengemudi yang disebut Gigih benar terealisasi dan menambal kekurangan subsidi tersebut. Simulasi yang sudah ada sejauh ini lebih condong ke arah pertama, dan yang akan menentukannya adalah rincian tiga langkah itu serta data riil penghasilan pengemudi pada bulan-bulan setelah kebijakan ini berjalan.",
   "imageV": "mwnlqqgt"
+ },
+ {
+  "slug": "meja-rencana-right-issue-akuisisi-45-trimata-coal-rp1-11-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Rencana [Right Issue] Akuisisi 45% Trimata Coal Rp1,11 Triliun",
+  "deck": "MEJA memaparkan rencana rights issue untuk akuisisi 45% saham tambang batu bara Trimata Coal Perkasa senilai Rp1,11 triliun, RUPSLB dijadwalkan Februari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T17:10:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4117e7a52_2f14228049.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEJA",
+  "tags": [
+   "MEJA",
+   "rights issue",
+   "akuisisi tambang batu bara",
+   "Trimata Coal Perkasa"
+  ],
+  "body": [
+   "PT Harta Djaya Karya Tbk (MEJA), perusahaan solusi interior dengan merek Interra, menggelar Public Expose Tahunan 2026 pada Selasa, 24 November 2026 pukul 13.00 WIB secara hybrid di kantor Perseroan di Jl. Bintaro Raya No. 8A, Jakarta Selatan, dan melalui Zoom. Dalam materi yang disampaikan ke Bursa Efek Indonesia, Perseroan memaparkan kinerja keuangan semester I 2026 yang memburuk: penjualan bersih turun dari Rp31,07 miliar pada semester I 2025 menjadi Rp6,37 miliar, laba kotor Rp7,79 miliar berubah menjadi rugi kotor Rp2,56 miliar, dan Perseroan mencatat rugi periode berjalan Rp8,88 miliar, berbalik dari laba Rp0,99 miliar pada periode yang sama tahun sebelumnya. Rugi per saham tercatat Rp3,41, dibandingkan laba per saham Rp0,52 setahun sebelumnya. Perseroan menyebut penurunan pendapatan ini sebagai fase transisi portofolio proyek, sementara beban usaha berhasil ditekan 11,2% menjadi Rp4,41 miliar.",
+   "Di sisi permodalan, posisi keuangan per 30 Juni 2026 menunjukkan total aset naik 33,2% menjadi Rp118,2 miliar dari Rp88,7 miliar per akhir 2025. Total ekuitas melonjak 42,7% menjadi Rp90,7 miliar, didorong eksekusi waran yang menambah modal disetor Rp22,8 miliar, sementara total liabilitas naik tipis menjadi Rp27,4 miliar sehingga rasio liabilitas terhadap ekuitas tetap rendah di 0,30 kali. Pada RUPSLB 21 Agustus 2026, pemegang saham menyetujui kenaikan modal dasar menjadi Rp208,6 miliar dan pembagian 372,6 juta saham bonus. Langkah ini berjalan seiring perjanjian swap saham yang ditandatangani pengendali Perseroan, PT Triple Berkah Bersama, pada 22 Desember 2025, untuk mengambil alih 45% saham PT Trimata Coal Perkasa (TCP) melalui Perseroan, dengan uang muka investasi Rp11,5 miliar yang sudah dibayarkan sebagai komitmen awal.",
+   "Agenda utama Public Expose ini adalah rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD atau rights issue) untuk dua tujuan: pertama, mengakuisisi 45% saham TCP melalui mekanisme share swap, di mana pemegang saham TCP menyetorkan saham mereka sebagai pembayaran atas saham baru MEJA tanpa Perseroan mengeluarkan kas; kedua, dana tunai dari pelaksanaan HMETD untuk modal kerja usaha interior yang berjalan. TCP merupakan perusahaan tambang batu bara di Sumatera Selatan dengan wilayah konsesi sekitar 11.640 hektare, sumber daya batu bara sekitar 693,7 juta ton, dan cadangan tertambang sekitar 400 juta ton, dengan kapasitas produksi yang direncanakan naik bertahap dari 1,5 juta ton menjadi 6 juta ton per tahun. Berdasarkan valuasi discounted cash flow internal per 6 Oktober 2026, nilai 100% saham TCP ditaksir Rp2,47 triliun, sehingga 45% saham yang akan diambil MEJA senilai Rp1,11 triliun, angka yang disebut Perseroan dapat mendongkrak ekuitasnya hingga sekitar 13 kali lipat menjadi Rp1.200,4 miliar secara proforma. Perseroan menegaskan valuasi ini masih bersifat internal dan akan dikonfirmasi oleh Kantor Jasa Penilai Publik independen, sementara rencana besar ini bergantung pada persetujuan RUPSLB yang dijadwalkan Februari 2027, pernyataan efektif OJK, dan persetujuan Menteri ESDM, dengan opsi uang muka investasi dapat dikembalikan apabila rencana ini batal.",
+   "Perseroan memproyeksikan kontribusi TCP terhadap pendapatan konsolidasi meningkat dari US$23,4 juta pada 2027 menjadi US$29,3 juta pada 2028 dan US$35,1 juta pada 2029, dihitung dari porsi 45% atas total pendapatan TCP yang diproyeksikan US$52 juta hingga US$78 juta sepanjang periode itu, dengan asumsi produksi naik dari 2 juta menjadi 3 juta ton per tahun. Sebagai pembanding, pendapatan usaha Perseroan sepanjang 2025 tercatat Rp28,1 miliar, jauh lebih kecil dari potensi kontribusi TCP tersebut. Untuk menjalankan rencana ini, Perseroan telah menunjuk profesi penunjang pasar modal, termasuk kantor akuntan publik, kantor jasa penilai publik, konsultan hukum pasar modal dan pertambangan, notaris, serta Competent Person Indonesia, dengan jadwal indikatif dari tahap persiapan pada November 2026 hingga pelaksanaan HMETD setelah RUPSLB."
+  ],
+  "fotoAdegan": "Wide open-pit coal mine with heavy excavators loading haul trucks under an overcast tropical sky, dust rising",
+  "takeaway": "Laporan ini campuran: kinerja inti usaha interior MEJA memburuk tajam dengan pendapatan anjlok dan berbalik rugi, tapi di sisi lain Perseroan sedang menyiapkan aksi korporasi besar lewat rights issue untuk masuk ke bisnis tambang batu bara, sehingga sentimennya netral karena dampak akhirnya sangat bergantung pada apakah rencana ini benar-benar terealisasi. Yang tersentuh adalah ekuitas, yaitu modal bersih perusahaan setelah dikurangi utang, yang sudah naik signifikan dari eksekusi waran (hak beli saham) dan bisa melonjak drastis lagi jika akuisisi tambang terwujud, serta laba per saham yang sudah negatif di semester I 2026 dan berisiko makin terdilusi karena rights issue akan menambah jumlah saham beredar. Pelaku pasar perlu mencermati bahwa valuasi Rp1,11 triliun untuk 45% saham TCP itu masih hitungan internal Perseroan, belum dari penilai independen, sehingga angka finalnya bisa berbeda. Yang perlu dipantau selanjutnya adalah RUPSLB yang dijadwalkan Februari 2027 untuk meminta persetujuan pemegang saham atas rencana akuisisi ini, serta Keterbukaan Informasi dan Prospektus yang menurut Perseroan akan terbit sekitar Januari 2027 dan memuat harga pelaksanaan rights issue serta struktur final transaksi.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Public Expose Tahunan 2026 secara hybrid di kantor Perseroan dan Zoom"
+   }
+  ]
  },
  {
   "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
@@ -23223,8 +23338,8 @@ var ARTICLES = [
  {
   "slug": "bike-jadwalkan-rupsi-dan-rupslb-11-desember",
   "category": "Aksi Korporasi",
-  "title": "BIKE Jadwalkan [RUPSI] dan RUPSLB 11 Desember",
-  "deck": "BIKE akan menggelar RUPSLB dan RUPSI pada 11 Desember 2026, dengan pemegang saham tercatat per 18 November 2026 yang berhak hadir.",
+  "title": "RUPSLB-RUPSI BIKE 11 Desember: [Agenda] Pinjaman Rp1,1 T dari PMJ",
+  "deck": "Pemanggilan resmi RUPSLB dan RUPSI BIKE terbit 19 November, mengungkap agenda RUPSI berupa persetujuan pinjaman afiliasi Rp1,1 triliun dari PMJ. Jadwal rapat tetap 11 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T15:43:54",
@@ -23235,16 +23350,42 @@ var ARTICLES = [
    "BIKE",
    "RUPSLB",
    "RUPSI",
-   "KSEI"
+   "transaksi afiliasi"
   ],
   "body": [
-   "Direksi PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) sekaligus Rapat Umum Pemegang Saham Independen (RUPSI) pada Jumat, 11 Desember 2026, pukul 14.00 WIB, di Jl. Prof Dr Soepomo No. 323, Tebet, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham, yaitu daftar resmi pemilik saham perseroan, per Rabu, 18 November 2026. Surat pemanggilan resmi yang memuat agenda rapat akan diterbitkan di situs penyedia layanan RUPS elektronik (e-RUPS), situs Bursa Efek Indonesia, dan situs perseroan, dalam bahasa Indonesia dan Inggris, pada Kamis, 19 November 2026.",
-   "Pemegang saham yang menguasai sedikitnya 1/20 atau 5 persen dari total saham dengan hak suara dapat mengusulkan tambahan mata acara rapat, paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, yaitu sekitar 12 November 2026. Usulan itu harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, disertai alasan dan bahan pendukung, serta tidak bertentangan dengan anggaran dasar perseroan maupun aturan Otoritas Jasa Keuangan.",
-   "Bagi pemegang saham yang tidak hadir langsung, perseroan menyediakan pemberian kuasa dan pilihan suara secara elektronik melalui sistem eASY.KSEI, layanan rapat elektronik milik PT Kustodian Sentral Efek Indonesia selaku lembaga penyimpanan saham. Kuasa dan pilihan suara itu harus disampaikan paling lambat satu hari kerja sebelum rapat, yaitu Kamis, 10 Desember 2026."
+   "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) resmi menerbitkan surat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) dan Rapat Umum Pemegang Saham Independen (RUPSI) pada Kamis, 19 November 2026. Berbeda dari pengumuman sebelumnya yang baru sebatas jadwal, surat pemanggilan ini untuk pertama kali membuka agenda lengkap rapat, termasuk agenda RUPSI yang selama ini belum diketahui, yaitu persetujuan transaksi afiliasi berupa penambahan modal melalui pinjaman senilai Rp1,1 triliun dari pihak yang disebut PMJ.",
+   "Dalam RUPSLB, Direksi BIKE juga meminta persetujuan pemegang saham untuk empat agenda lain: perubahan kedudukan dan alamat kantor pusat perseroan beserta perubahan Pasal 3 Anggaran Dasar, perubahan susunan Direksi dan Dewan Komisaris berupa permohonan pengunduran diri dan/atau pengangkatan anggota baru, penegasan atas susunan pemegang saham berdasarkan data terbaru dari PT Adimitra Jasa Korpora selaku Biro Administrasi Efek dan PT Kustodian Sentral Efek Indonesia, serta penambahan klasifikasi usaha (KBLI) baru sesuai studi kelayakan yang disusun Kantor Jasa Penilai Publik.",
+   "Khusus untuk agenda pinjaman Rp1,1 triliun itu, perseroan menjelaskan bahwa persetujuannya memerlukan suara pemegang saham independen karena transaksi tersebut tergolong transaksi afiliasi yang berpotensi mengandung benturan kepentingan, mengacu pada Peraturan OJK Nomor 42/POJK.04/2020. Perseroan menyertakan laporan pendapat kewajaran (fairness opinion) dari Kantor Jasa Penilai Publik sebagai dasar rekomendasi kepada pemegang saham.",
+   "Rapat tetap digelar Jumat, 11 Desember 2026, pukul 14.00 WIB, di Jl. Prof Dr. Soepomo No. 323, Tebet, Jakarta Selatan, dengan opsi hadir secara daring lewat video conference eASY.KSEI. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per Rabu, 18 November 2026. Bagi yang tidak hadir langsung, kuasa dan pilihan suara elektronik lewat eASY.KSEI, atau kuasa tertulis kepada BAE PT Adimitra, harus disampaikan paling lambat Kamis, 10 Desember 2026, pukul 16.00 WIB.",
+   "BIKE belakangan sempat mengoreksi tiga pengumuman akuisisi, yaitu FBM, PNE, dan BUM, dan mengakui ketiganya melibatkan direksi perseroan sendiri sehingga memerlukan mekanisme RUPS Independen. Dokumen pemanggilan ini tidak menyebut ketiga akuisisi tersebut dalam agendanya, sehingga agenda pinjaman Rp1,1 triliun dari PMJ tampak sebagai transaksi afiliasi yang berdiri sendiri dari tiga koreksi akuisisi sebelumnya."
   ],
   "fotoAdegan": "Rows of empty formal chairs facing a small stage in a corporate conference hall, soft morning light, no visible signage.",
-  "takeaway": "Laporan ini netral bagi BIKE, karena isinya sebatas jadwal dan mekanisme administratif rapat, belum memuat agenda atau angka transaksi yang bisa dinilai dampaknya terhadap kinerja perseroan. Pos yang disentuh di sini adalah hak suara pemegang saham, sebab RUPS Independen secara khusus digelar untuk transaksi yang mengandung benturan kepentingan, di mana suara pemegang saham yang berafiliasi dengan pihak terkait dalam transaksi itu tidak dihitung. Ini relevan karena BIKE belakangan mengoreksi tiga pengumuman akuisisi, yaitu FBM, PNE, dan BUM, dan mengakui ketiganya melibatkan direksi perseroan sendiri. Yang perlu dipantau adalah isi surat pemanggilan resmi yang terbit 19 November 2026, karena di situlah agenda rapat, termasuk apakah menyangkut persetujuan atas akuisisi-akuisisi tersebut, baru akan diungkap. Tenggat lain yang perlu diingat pemegang saham adalah batas pemberian kuasa elektronik pada 10 Desember 2026, sehari sebelum rapat digelar pada 11 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini condong negatif bagi BIKE, karena agenda RUPSI yang akhirnya terungkap justru meminta persetujuan menambah utang baru senilai Rp1,1 triliun dari pihak berafiliasi, nilai yang besar untuk emiten seukuran BIKE, dan transaksi ini butuh mekanisme Independen karena berpotensi benturan kepentingan. Pos yang tersentuh adalah beban bunga dan arus kas, sebab pinjaman baru berarti ada bunga dan cicilan pokok yang harus dibayar perseroan ke depan, mengurangi kas yang bisa dipakai untuk operasional atau ekspansi; perubahan susunan Direksi dan Komisaris yang diajukan dalam rapat yang sama turut menyentuh tata kelola perseroan. Yang perlu dipantau pemegang saham adalah hasil pemungutan suara RUPSLB dan RUPSI pada 11 Desember 2026, khususnya apakah pemegang saham independen, yang suaranya tidak menghitung pihak berafiliasi dengan PMJ, menyetujui pinjaman tersebut, serta batas akhir pemberian kuasa elektronik pada 10 Desember 2026 pukul 16.00 WIB bagi yang tak bisa hadir langsung.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T19:47:10",
+    "ringkas": "Pemanggilan resmi RUPSLB-RUPSI BIKE terbit, mengungkap agenda RUPSI: persetujuan pinjaman afiliasi Rp1,1 triliun dari PMJ.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/105443359a_d31c443de1.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa dan Independen"
+   }
+  ],
+  "diperbarui": "2026-11-19T19:47:10",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB/RUPSI"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Batas pemberian kuasa elektronik/tertulis, pukul 16.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPSLB dan RUPSI BIKE, pukul 14.00 WIB"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "meta-panggil-rupslb-26-november-bahas-susunan-direksi",
@@ -23432,8 +23573,8 @@ var ARTICLES = [
  {
   "slug": "oasa-rombak-rencana-pakai-dana-rights-issue-rp469-5-miliar",
   "category": "Aksi Korporasi",
-  "title": "OASA [Rombak] Rencana Pakai Dana Rights Issue Rp469,5 Miliar",
-  "deck": "RUPSLB 11 Desember 2026 akan memutuskan realokasi dana rights issue OASA senilai sekitar Rp469,5 miliar dari proyek IKN dan PSEL Semarang menjadi modal kerja grup.",
+  "title": "RUPSLB OASA 11 Desember: [Panggilan] Resmi, Dana Rp469,5 M",
+  "deck": "OASA resmi memanggil RUPSLB 11 Desember 2026 dengan agenda tunggal persetujuan realokasi dana rights issue Rp469,5 miliar; kuasa elektronik ditutup 10 Desember pukul 12.00 WIB.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T14:06:44",
@@ -23443,18 +23584,48 @@ var ARTICLES = [
   "tags": [
    "OASA",
    "RUPSLB",
-   "rights issue",
+   "Right Issue",
    "Maharaksa Biru Energi"
   ],
   "body": [
-   "PT Maharaksa Biru Energi Tbk (OASA) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 Desember 2026, pukul 14.00 hingga 15.00 WIB, secara hybrid di Treasury Tower, District 8 SCBD, Jakarta. Agenda rapat adalah persetujuan perubahan rencana penggunaan dana hasil Penambahan Modal Dengan Hak Memesan Efek Terlebih Dahulu I, sesuai POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum.",
-   "Ada empat pos dana yang diubah peruntukannya. Dana sekitar Rp69 miliar tetap disalurkan berjenjang lewat PT Indoplas Makmur Lestari ke PT Indoplas Karya Energi sebagai modal kerja persiapan proyek Fasilitas Pengolahan Sampah Antara (FPSA) DKI Jakarta Wilayah Layanan Barat, namun kini ditambah penggunaannya untuk modal kerja operasional Maharaksa Biru Energi dan seluruh anak usahanya. Dana sekitar Rp340,5 miliar yang semula disetor ke PT Telesys Indonesia untuk trading Bio Propylene Glycol, proyek Wood Pellet di Bangka Belitung, serta pengembangan biomassa, biogas, dan pembangkit energi baru terbarukan di berbagai wilayah, kini disederhanakan hanya untuk pembangunan atau pembelian Pembangkit Listrik Tenaga Mesin Gas dan Pembangkit Listrik Tenaga Diesel di Indonesia bagian Barat dan Tengah, ditambah modal kerja grup.",
-   "Dua pos lainnya mengalami perubahan tujuan yang lebih mencolok. Dana sekitar Rp40 miliar yang semula untuk membiayai operasional proyek pengadaan peralatan dan manajemen sistem di Ibu Kota Nusantara (IKN), kini dialihkan untuk modal kerja anak usaha terkait proyek FPSA DKI Jakarta, biaya pembangunan pabrik Wood Chip milik PT Mentari Biru Energi di Bangka Belitung, dan modal kerja grup. Dana sekitar Rp20 miliar yang semula untuk operasional proyek Pengelolaan Sampah menjadi Energi Listrik (PSEL) di Semarang, kini sepenuhnya dialihkan untuk biaya pembangunan pabrik Wood Chip tersebut dan modal kerja grup.",
-   "Perseroan menetapkan Rabu, 18 November 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dalam RUPSLB, baik yang tercatat di daftar pemegang saham perusahaan maupun yang memegang saham lewat Kustodian Sentral Efek Indonesia. Undangan resmi rapat akan disebar Kamis, 19 November 2026, dan usulan agenda dari pemegang saham harus diterima perusahaan paling lambat tujuh hari sebelum tanggal undangan tersebut. Pemberian suara jarak jauh dapat dilakukan lewat sistem eASY.KSEI dengan kuasa kepada biro administrasi efek, PT Sinartama Gunita."
+   "PT Maharaksa Biru Energi Tbk (OASA) menerbitkan panggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 19 November 2026. Rapat akan digelar Jumat, 11 Desember 2026, pukul 14.00 hingga 15.00 WIB secara hybrid di Treasury Tower, District 8 SCBD, Jakarta, dengan satu-satunya agenda: persetujuan perubahan penggunaan dana hasil Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I) sesuai POJK Nomor 40 Tahun 2025. Pemegang saham yang tercatat per 18 November 2026 berhak hadir atau memberi suara. Bagi yang ingin memberi kuasa lewat sistem elektronik eASY.KSEI kepada biro administrasi efek PT Sinartama Gunita, batas waktunya Kamis, 10 Desember 2026 pukul 12.00 WIB, sehari sebelum rapat; opsi lain adalah memberi kuasa fisik langsung di kantor perusahaan.",
+   "Panggilan ini menyusul Tambahan Keterbukaan Informasi yang dirilis perusahaan pada tanggal yang sama, 19 November 2026, yang mengungkap bahwa dana rights issue sebesar Rp598,862 miliar, hasil penjualan 5.988.620.000 saham baru seharga Rp100 per saham berdasarkan prospektus 30 Desember 2022, sudah pernah diubah peruntukannya sekali lewat RUPSLB 30 November 2023. RUPSLB 11 Desember 2026 ini akan memutuskan perubahan kedua, berupa realokasi total sekitar Rp469,5 miliar dari dana tersebut.",
+   "Rincian realokasi yang diajukan: Rp69 miliar tetap mengalir lewat PT Indoplas Makmur Lestari ke PT Indoplas Karya Energi untuk persiapan proyek Fasilitas Pengolahan Sampah Antara (FPSA) DKI Jakarta Wilayah Layanan Barat sekaligus modal kerja grup. Rp340,5 miliar yang semula untuk PT Telesys Indonesia dikhususkan untuk pembangunan atau pembelian Pembangkit Listrik Tenaga Mesin Gas dan Pembangkit Listrik Tenaga Diesel di Indonesia bagian Barat dan Tengah. Rp40 miliar yang semula untuk proyek IKN dialihkan ke modal kerja anak usaha untuk FPSA DKI Jakarta dan pembangunan pabrik Wood Chip PT Mentari Biru Energi di Bangka Belitung. Rp20 miliar yang semula untuk proyek PSEL Semarang kini sepenuhnya untuk pabrik Wood Chip tersebut serta modal kerja grup.",
+   "Dasar hukum perubahan ini adalah Pasal 16 ayat 1 huruf a POJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum. Perusahaan mencatat bahwa penyertaan modal ke anak usaha dalam rencana ini tergolong transaksi dengan pihak berafiliasi, karena entitas penerima dana adalah anak perusahaan OASA sendiri. Dana yang belum terealisasi direncanakan habis dipakai paling lambat 30 Juni 2027."
   ],
   "fotoAdegan": "A front loader stacking wood chips at an open-air biomass processing yard, hazy industrial afternoon light, no readable signage",
-  "takeaway": "Perubahan ini condong negatif bagi pemegang saham, karena total dana sekitar Rp469,5 miliar yang semula dikaitkan dengan proyek-proyek bernama jelas, yaitu proyek pengadaan di IKN dan proyek pengolahan sampah jadi listrik di Semarang, kini dialihkan menjadi modal kerja umum grup dan proyek pembangkit listrik yang berbeda dari rencana awal. Yang tersentuh adalah alokasi modal, yaitu cara perusahaan memutuskan ke mana uang hasil rights issue itu mengalir, dan pelaku pasar biasa mencermatinya karena perubahan dari proyek spesifik ke modal kerja umum membuat lebih sulit menilai apakah proyek IKN dan PSEL Semarang itu masih berjalan atau justru tertunda. Di sisi lain perusahaan tetap menyebutkan rencana konkret baru, yaitu pembangunan pabrik Wood Chip di Bangka Belitung dan pembangkit listrik tenaga gas serta diesel, sehingga dana tidak sepenuhnya kehilangan arah proyek. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 11 Desember 2026, yang menentukan apakah perubahan ini disetujui, dengan catatan hanya pemegang saham yang tercatat per 18 November 2026 yang berhak memberikan suara dan usulan agenda tambahan harus masuk sebelum 12 November 2026.",
-  "sentimen": "negatif"
+  "takeaway": "Panggilan resmi RUPSLB ini masih condong negatif bagi pemegang saham OASA, karena substansinya tetap sama dengan temuan sebelumnya: dana rights issue Rp598,8 miliar yang sudah dua kali dialihkan dari proyek bernama jelas menjadi payung modal kerja yang lebih luas. Yang tersentuh adalah pos alokasi modal, yakni bagaimana kas hasil penjualan saham baru pada 2022 itu dipakai perusahaan, karena publik makin sulit melacak proyek mana yang benar-benar berjalan begitu dana itu bercampur dengan modal kerja grup. Dokumen ini menambahkan satu kepastian prosedural baru: pemegang saham yang ingin memberi kuasa secara elektronik lewat eASY.KSEI harus melakukannya paling lambat Kamis, 10 Desember 2026 pukul 12.00 WIB, sehari sebelum rapat. Yang perlu dipantau berikutnya adalah hasil pemungutan suara RUPSLB pada Jumat, 11 Desember 2026, karena persetujuan pemegang saham adalah syarat sah bagi perubahan penggunaan dana ini menurut POJK 40/2025.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T20:54:19",
+    "ringkas": "OASA ungkap riwayat dua kali perubahan penggunaan dana rights issue Rp598,8 miliar dan dasar hukumnya, menjelang RUPSLB 11 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bdd161132d_4ef830319a.pdf",
+    "judulIdx": "Tambahan Keterbukaan Informasi kepada Para Pemegang Saham Sehubungan Dengan Pengumuman Rapat Umum Pemegang Saham Luar Biasa PT Maharaksa Biru Energi Tbk tanggal 4 November 2026"
+   },
+   {
+    "tanggal": "2026-11-19T20:53:45",
+    "ringkas": "OASA menerbitkan panggilan resmi RUPSLB 11 Desember 2026, dengan tenggat kuasa elektronik 10 Desember pukul 12.00 WIB.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/92111d7703_24356b1485.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-19T20:53:45",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Batas akhir pemberian kuasa elektronik lewat eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPSLB memutuskan perubahan penggunaan dana PMHMETD I"
+   },
+   {
+    "tanggal": "2027-06-30",
+    "acara": "Batas akhir realisasi dana PMHMETD I yang belum terpakai"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bq-sesuaikan-rasio-waran-terstruktur-medcbqcz6a-usai-dividen-medc",

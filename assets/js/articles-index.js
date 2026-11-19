@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "smkm-koreksi-lbrpe-bondra-uji-pratama-ternyata-pegang-4-99",
+  "category": "Aksi Korporasi",
+  "title": "SMKM [Koreksi] LBRPE: Bondra Uji Pratama Ternyata Pegang 4,99%",
+  "deck": "SMKM menjawab permintaan penjelasan BEI soal data pemegang saham, mengakui kekeliruan dan mengungkap pemegang 4,99% saham yang sebelumnya tidak tercatat.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMKM",
+   "LBRPE",
+   "pemegang saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b795dbe7e7_c9405a0da9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpu-adhi-17-november-digugat-dua-kreditur-ke-pn-jakpus",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADHI 17 November: [Digugat] Dua Kreditur ke PN Jakpus",
+  "deck": "PT Atap Perkasa dan PT Satek Aire Indonesia mengajukan permohonan PKPU terhadap ADHI ke Pengadilan Niaga PN Jakarta Pusat, perkara terdaftar 17 November 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "PKPU",
+   "Adhi Karya",
+   "Pengadilan Niaga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8141a1a2c1_4dff092c7c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-viva-17-november-direksi-komisaris-diangkat-lagi-5-tahun",
+  "category": "Aksi Korporasi",
+  "title": "RUPST VIVA 17 November: [Direksi-Komisaris] Diangkat Lagi 5 Tahun",
+  "deck": "RUPST VIVA menyetujui laporan tahunan 2025 dan mengangkat kembali seluruh direksi serta komisaris untuk periode lima tahun berikutnya.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VIVA",
+   "RUPST",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d92651a5f_417dcb8ba0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-inov-28-desember-divestasi-45-8-saham-urecel-ke-cip",
   "category": "Aksi Korporasi",
   "title": "RUPSLB INOV 28 Desember: [Divestasi] 45,8% Saham Urecel ke CIP",
@@ -264,6 +312,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479266-pakar-komisi-8-persen-ojol-berpotensi-timbulkan-masalah-baru"
+ },
+ {
+  "slug": "meja-rencana-right-issue-akuisisi-45-trimata-coal-rp1-11-triliun",
+  "category": "Aksi Korporasi",
+  "title": "MEJA Rencana [Right Issue] Akuisisi 45% Trimata Coal Rp1,11 Triliun",
+  "deck": "MEJA memaparkan rencana rights issue untuk akuisisi 45% saham tambang batu bara Trimata Coal Perkasa senilai Rp1,11 triliun, RUPSLB dijadwalkan Februari 2027.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEJA",
+   "rights issue",
+   "akuisisi tambang batu bara",
+   "Trimata Coal Perkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4117e7a52_2f14228049.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
@@ -6464,70 +6528,6 @@ var ARTICLES = [
    "pinjaman"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/574716cdb5_5b64fcec8b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jelaskan-ke-bursa-rugi-9-bulan-rp75-7-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jelaskan ke Bursa, [Rugi] 9 Bulan Rp75,7 Miliar",
-  "deck": "Penjelasan resmi BIKE ke BEI soal anjloknya total aset dan liabilitas lebih dari 20%, disertai laporan rugi Rp75,7 miliar untuk sembilan bulan pertama 2026.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "laporan keuangan",
-   "rugi",
-   "koreksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261110221828-65785-0/FinancialStatement-2026-III-BIKE.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rights-issue-ultj-rp2-150-saham-kendali-ke-frieslandcampina",
-  "category": "Aksi Korporasi",
-  "title": "Rights Issue ULTJ Rp2.150/Saham: [Kendali] ke FrieslandCampina",
-  "deck": "ULTJ mematok harga rights issue Rp2.150/saham, rasio 15.200:11.517, dana hingga Rp16,94 triliun, dan kendali beralih ke FrieslandCampina.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ULTJ",
-   "rights issue",
-   "Frisian Flag",
-   "FrieslandCampina"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/834499b59b_bcb15b994d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arko-jelaskan-lonjakan-arus-kas-operasi-ke-bursa",
-  "category": "Aksi Korporasi",
-  "title": "ARKO Jelaskan Lonjakan [Arus Kas] Operasi ke Bursa",
-  "deck": "Arkora Hydro merespons permintaan penjelasan BEI soal arus kas operasi yang membengkak dan proyek PLTM Tomoni yang ditargetkan beroperasi kuartal I 2027.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARKO",
-   "Arkora Hydro",
-   "arus kas",
-   "PLTM Tomoni"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a3b6170406_3006ba58e3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rans-bantah-konflik-kepentingan-kontrak-kementerian-klarifikasi",
-  "category": "Aksi Korporasi",
-  "title": "RANS Bantah Konflik Kepentingan Kontrak Kementerian [Klarifikasi]",
-  "deck": "RANS merinci kontrak jasa influencer Rp14,7 miliar dengan Kemenbud dan KKP, serta membantah ada konflik kepentingan terkait posisi Raffi Ahmad sebagai Utusan Khusus Presiden.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "konflik kepentingan",
-   "ICW",
-   "jasa influencer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a5c9d536a8_3fe792df5c.pdf",
   "sourceLabel": "IDX"
  }
 ];

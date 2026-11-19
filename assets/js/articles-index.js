@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Teken Kredit Rp250 Miliar dari Bank of China [Modal Kerja]",
+  "deck": "ASSA menandatangani perjanjian Term Loan III senilai Rp250 miliar dengan Bank of China Cabang Jakarta untuk modal kerja pembelian unit kendaraan sewa.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASSA",
+   "kredit bank",
+   "Bank of China",
+   "modal kerja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa72c6b4a8_eeee19a3ab.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-roti-15-desember-tarik-treasury-shares-ganti-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ROTI 15 Desember: [Tarik] Treasury Shares & Ganti Direksi",
+  "deck": "ROTI akan gelar RUPSLB pada 15 Desember 2026 untuk menyetujui penarikan treasury shares lewat penurunan modal dan perubahan direksi, bersamaan laba kuartal III melonjak ke Rp51,3 miliar.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROTI",
+   "RUPSLB",
+   "Treasury Shares",
+   "Nippon Indosari Corpindo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e1fbe89506_5d41aeea6c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "link-kuartal-iii-2026-rugi-melebar-ke-rp1-3-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LINK Kuartal III 2026: [Rugi] Melebar ke Rp1,3 Triliun",
+  "deck": "Rugi bersih Link Net melebar jadi Rp1,3 triliun dalam sembilan bulan 2026, sementara ekuitas perusahaan susut hampir sepertiga dibanding akhir 2025.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LINK",
+   "Link Net",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119160617-65805-0/FinancialStatement-2026-III-LINK.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-ppro-pkpu-lancar-right-issue-belum-prioritas",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PPRO: [PKPU] Lancar, Right Issue Belum Prioritas",
+  "deck": "PP Properti melaporkan kewajiban utang pascarestrukturisasi PKPU terbayar sesuai jadwal, sementara right issue atau private placement belum menjadi fokus perusahaan saat ini.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "Public Expose",
+   "PKPU",
+   "PP Properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbed6aa311_72e76f5fd6.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-dan-jabar-teken-kesepakatan-awasi-persaingan-usaha",
   "category": "Bisnis",
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
@@ -32,6 +96,70 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kdei-taipei-fasilitasi-ekspor-perdana-media-tanam-kokopit-ke-taiwan",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "dividen-interim-jtpe-rp10-per-saham-cair-17-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim JTPE Rp10 per Saham, [Cair] 17 Desember",
+  "deck": "JTPE akan membagikan dividen interim tunai Rp10 per saham, total Rp67,73 miliar, dengan pembayaran pada 17 Desember 2026.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JTPE",
+   "dividen interim",
+   "dividen tunai",
+   "Jasuindo Tiga Perkasa"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ee4c0b6fd_94d11c279c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "arii-jawab-bei-pmthmetd-rp75-m-untuk-jalan-tambang-mmj",
+  "category": "Aksi Korporasi",
+  "title": "ARII Jawab BEI: [PMTHMETD] Rp75 M untuk Jalan Tambang MMJ",
+  "deck": "Atlas Resources (ARII) merinci ke BEI bahwa dana PMTHMETD 375 juta saham akan dipakai membangun jalan angkut batu bara 52 km milik anak usahanya, tapi banyak detail investasi masih belum final.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARII",
+   "PMTHMETD",
+   "RUPSLB",
+   "Musi Mitra Jaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/97a0212d12_81be2897dd.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-bmhs-24-november-laba-bersih-9m26-turun-95",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BMHS 24 November: [Laba] Bersih 9M26 Turun 95%",
+  "deck": "BMHS gelar public expose tahunan 24 November 2026: laba bersih 9M26 ambrol 95 persen meski ekspansi rumah sakit terus berjalan.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMHS",
+   "Bundamedik",
+   "Public Expose",
+   "Laba Bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ba6893f23_4e3343c5be.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "fifa-dana-obligasi-orange-i-rp187-23-miliar-terealisasi-100",
+  "category": "Aksi Korporasi",
+  "title": "FIFA: Dana Obligasi Orange I Rp187,23 Miliar [Terealisasi] 100%",
+  "deck": "PT Federal International Finance (FIFA) melaporkan seluruh dana Rp187,23 miliar dari Obligasi Orange I Tahap I 2026 telah terpakai untuk modal kerja pembiayaan, tanpa sisa dana.",
+  "date": "19 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "penggunaan dana",
+   "FIF Group"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aa8f830e9b_996bc05285.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "msie-koreksi-free-float-ke-bursa-ungkap-afiliasi-pengendali",
@@ -6290,15 +6418,15 @@ var ARTICLES = [
  {
   "slug": "kios-panggil-rupslb-kedua-usai-rapat-pertama-gagal-kuorum",
   "category": "Aksi Korporasi",
-  "title": "KIOS Panggil [RUPSLB] Kedua usai Rapat Pertama Gagal Kuorum",
-  "deck": "Setelah RUPSLB 27 Oktober gagal kuorum, Kioson memanggil rapat kedua 17 November untuk membahas perubahan direksi/komisaris dan penyesuaian KBLI.",
+  "title": "RUPSLB Kedua KIOS 17 November: [Direksi Tetap], KBLI Gagal Kuorum",
+  "deck": "RUPSLB kedua Kioson 17 November hanya dihadiri 40,56% pemegang saham. Agenda susunan direksi-komisaris tetap disetujui, tapi perubahan KBLI gagal kuorum dan akan dibawa ke rapat ketiga.",
   "date": "10 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "KIOS",
    "RUPSLB",
-   "tata kelola perusahaan",
-   "perubahan direksi komisaris"
+   "Tata Kelola",
+   "KBLI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ea96c0098_44b6a100b4.pdf",
   "sourceLabel": "IDX"
@@ -6398,134 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/994ef21617_f3c8ad0f76.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-sajikan-ulang-lk-2024-ekuitas-susut-55-jadi-rp54-9-m",
-  "category": "Aksi Korporasi",
-  "title": "CASH Sajikan Ulang LK 2024, Ekuitas [Susut] 55% jadi Rp54,9 M",
-  "deck": "Cashlez menerbitkan ulang laporan keuangan 2024 karena koreksi penyajian aset takberwujud, membuat total aset turun 28% dan ekuitas turun 55% dibanding versi sebelumnya.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "Cashlez",
-   "restatement laporan keuangan",
-   "emiten teknologi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202411/20261110173130-65765-0/FinancialStatement-2024-Tahunan-CASH.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nfcx-revisi-buyback-incar-49-juta-saham-hingga-februari-2027",
-  "category": "Aksi Korporasi",
-  "title": "NFCX Revisi Buyback, Incar [49 Juta] Saham hingga Februari 2027",
-  "deck": "PT NFC Indonesia Tbk mengoreksi pengumuman buyback 6 November, menegaskan rencana membeli kembali hingga 49 juta saham atau 7,35 persen modal disetor dalam tiga bulan mulai 9 November 2026.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NFCX",
-   "buyback saham",
-   "pasar modal",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec83db80fc_9d8a9e09ad.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cash-sajikan-ulang-lk-2023-ekuitas-susut-50-jadi-rp77-6-m-koreksi",
-  "category": "Aksi Korporasi",
-  "title": "CASH Sajikan Ulang LK 2023, Ekuitas Susut 50% jadi Rp77,6 M [Koreksi]",
-  "deck": "Cashlez mengoreksi penyajian aset takberwujud sesuai PSAK 238, memangkas ekuitas 2023 dari Rp154,9 miliar jadi Rp77,6 miliar, koreksi ketiga dalam sepekan.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASH",
-   "restatement",
-   "laporan keuangan",
-   "PSAK 238"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5dae374888_293438a1e8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jeli-suntik-modal-rp130-miliar-ke-anak-usaha-nps",
-  "category": "Aksi Korporasi",
-  "title": "JELI Suntik [Modal] Rp130 Miliar ke Anak Usaha NPS",
-  "deck": "PT Niramas Utama Tbk menyuntik modal Rp130 miliar ke anak usaha NPS untuk menambah modal kerja, sesuai rencana penggunaan dana IPO di prospektus.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JELI",
-   "transaksi afiliasi",
-   "IPO",
-   "Niramas Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/232bb00aeb_da18f1bcbc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnga-suntik-modal-slcapital-rp365-miliar-via-inbreng-npl",
-  "category": "Aksi Korporasi",
-  "title": "BNGA Suntik Modal SLCapital Rp365 Miliar via [Inbreng] NPL",
-  "deck": "BNGA meningkatkan modal di anak usaha SLCapital dengan memindahkan portofolio kredit bermasalah Rp325,778 miliar dan aset kantor Rp39,5 miliar, sehingga kepemilikannya naik menjadi 99,9998%.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNGA",
-   "CIMB Niaga",
-   "SLCapital",
-   "kredit macet"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b992a55f4f_f5dd13cc7f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "jecx-liabilitas-turun-39-9-usai-lunasi-utang-bca-rp175-m",
-  "category": "Aksi Korporasi",
-  "title": "JECX: Liabilitas Turun 39,9% usai [Lunasi] Utang BCA Rp175 M",
-  "deck": "Total liabilitas JECX turun 39,9% menjadi Rp384,98 miliar per September 2026, didorong pelunasan dipercepat utang bank ke BCA senilai Rp175 miliar dari dana IPO.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JECX",
-   "liabilitas",
-   "pelunasan utang",
-   "IPO"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/686262772e_f2281f544d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bcic-jadwalkan-rupslb-pada-17-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "BCIC Jadwalkan [RUPSLB] pada 17 Desember 2026",
-  "deck": "Bank JTrust Indonesia (BCIC) akan menggelar RUPSLB pada 17 Desember 2026, dengan pemegang saham tercatat per 24 November 2026 yang berhak hadir.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BCIC",
-   "RUPSLB",
-   "Bank JTrust Indonesia",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52a89d5b02_90da1aaf05.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027",
-  "category": "Global",
-  "title": "Arab Saudi [Percepat] Tenggat Kontrak dan Visa Haji 2027",
-  "deck": "Arab Saudi meminta kantor urusan haji dari 76 negara menyelesaikan kontrak layanan dan visa Haji 2027 sebelum 1 Syawal, termasuk kesiapan medis jemaah.",
-  "date": "10 November 2026",
-  "image": "assets/img/arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027.jpg",
-  "imageV": "mwani8dq",
-  "tags": [
-   "haji 2027",
-   "arab saudi",
-   "visa haji",
-   "1 syawal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477595-arab-saudi-percepat-persiapan-haji-2027-kontrak-dan-visa-jemaah-diminta-rampung-sebelum-1-syawal"
  }
 ];

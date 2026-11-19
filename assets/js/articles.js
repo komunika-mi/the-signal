@@ -3,6 +3,127 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
+  "category": "Aksi Korporasi",
+  "title": "ASSA Teken Kredit Rp250 Miliar dari Bank of China [Modal Kerja]",
+  "deck": "ASSA menandatangani perjanjian Term Loan III senilai Rp250 miliar dengan Bank of China Cabang Jakarta untuk modal kerja pembelian unit kendaraan sewa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T16:34:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa72c6b4a8_eeee19a3ab.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASSA",
+  "tags": [
+   "ASSA",
+   "kredit bank",
+   "Bank of China",
+   "modal kerja"
+  ],
+  "body": [
+   "PT Adi Sarana Armada Tbk (ASSA) menandatangani Perjanjian Kredit dengan Bank of China (Hong Kong) Limited Cabang Jakarta untuk fasilitas Term Loan III (Committed) senilai Rp250 miliar. Perjanjian ini diteken pada 19 November 2026, dan dana dari fasilitas tersebut akan digunakan sebagai tambahan modal kerja perseroan, menurut keterbukaan informasi yang disampaikan Direktur Keuangan ASSA, Jerry Fandy Tunjungan, kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia.",
+   "Dalam dokumen itu disebutkan, dana pinjaman akan dipakai untuk membeli unit kendaraan yang akan ditambahkan ke armada penyewaan milik ASSA untuk disewakan kepada pelanggan perseroan. Manajemen menyebut penambahan armada ini berpotensi meningkatkan pendapatan perseroan sekaligus mendorong pertumbuhan kegiatan usahanya, mengingat bisnis utama ASSA adalah jasa penyewaan kendaraan, transportasi, dan logistik.",
+   "Dokumen tersebut tidak merinci berapa unit kendaraan yang akan dibeli, jadwal penarikan dana, atau tenor pinjamannya. Keterbukaan informasi hanya menyebut bahwa fasilitas ini bersifat committed, yang berarti bank sudah mengikatkan diri untuk mengucurkan dana sesuai perjanjian, tanpa menyebut rincian bunga atau jaminan yang dipakai."
+  ],
+  "fotoAdegan": "Workers inspecting a row of rental sedans parked in an outdoor vehicle yard, soft morning light, Jakarta",
+  "takeaway": "Laporan ini condong positif bagi ASSA, karena dana pinjaman langsung diarahkan untuk menambah unit kendaraan yang disewakan ke pelanggan, bukan sekadar menambal kas yang seret. Pos yang tersentuh ada dua: arus kas pembiayaan ASSA akan bertambah begitu dana ini ditarik, dan beban bunga, yaitu biaya yang harus dibayar perseroan atas pinjaman ini, akan naik sejalan dengan tambahan utang Rp250 miliar tersebut. Pelaku pasar memperhatikan beban bunga karena kenaikannya bisa menggerus laba kalau pendapatan dari armada baru tidak tumbuh secepat cicilan utangnya. Dokumen ini tidak menyebut tanggal pencairan dana atau target jumlah kendaraan yang dibeli, sehingga yang perlu dipantau berikutnya adalah laporan keuangan kuartal mendatang untuk melihat apakah tambahan utang ini benar menaikkan pendapatan sewa seperti yang diklaim perseroan.",
+  "sentimen": "positif",
+  "judulIdx": "Keterbukaan Informasi"
+ },
+ {
+  "slug": "rupslb-roti-15-desember-tarik-treasury-shares-ganti-direksi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ROTI 15 Desember: [Tarik] Treasury Shares & Ganti Direksi",
+  "deck": "ROTI akan gelar RUPSLB pada 15 Desember 2026 untuk menyetujui penarikan treasury shares lewat penurunan modal dan perubahan direksi, bersamaan laba kuartal III melonjak ke Rp51,3 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T16:30:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e1fbe89506_5d41aeea6c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROTI",
+  "tags": [
+   "ROTI",
+   "RUPSLB",
+   "Treasury Shares",
+   "Nippon Indosari Corpindo"
+  ],
+  "body": [
+   "PT Nippon Indosari Corpindo Tbk (ROTI), produsen Sari Roti, menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia pada 19 November 2026, menjelang paparan publik yang dijadwalkan di Jakarta pada 24 November 2026. Dalam materi itu, Perseroan mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 15 Desember 2026 dengan dua agenda utama: penarikan kembali treasury shares melalui penurunan modal, dan perubahan susunan direksi serta komisaris Perseroan.",
+   "Materi tersebut juga memuat kinerja keuangan kuartal III 2026. Penjualan bersih tercatat Rp967,1 miliar, naik 7,3 persen dari Rp901,2 miliar pada kuartal sebelumnya, didorong musim belanja kembali ke sekolah serta kontribusi produk baru Sari Roti POP dan lini kustom untuk Bean!SPOT. Penjualan dari luar Jawa mencapai Rp488,8 miliar, naik 8,3 persen, seiring ekspansi kapasitas produksi dan distribusi di wilayah timur dan barat Indonesia. Margin kotor naik ke 52,0 persen, sementara rasio pengembalian produk atau return rate turun tajam ke 12,8 persen dari 22,7 persen pada kuartal sebelumnya, hasil dari fokus pada produk-produk terlaris dan disiplin alokasi persediaan. Laba bersih melonjak menjadi Rp51,3 miliar, 29 kali lipat dibandingkan Rp1,8 miliar pada kuartal II 2026, dengan margin EBITDA naik ke 14,5 persen dan margin bersih ke 5,3 persen.",
+   "Untuk kuartal IV 2026, Perseroan memproyeksikan permintaan roti dan kue tetap terjaga seiring musim libur akhir tahun dan belanja pemerintah yang biasanya meningkat pada periode itu, sembari tetap menjaga disiplin biaya produksi dan return rate. Agenda RUPSLB 15 Desember 2026 belum merinci siapa anggota direksi atau komisaris yang akan diganti, maupun jumlah pasti saham treasury yang akan ditarik. Jajaran direksi saat ini dipimpin Presiden Direktur dan CEO Wendy Yap, didampingi Presiden Komisaris Benny Setiawan."
+  ],
+  "fotoAdegan": "Workers in blue uniforms monitoring rows of bread loaves moving along a conveyor belt inside a bright industrial bakery",
+  "takeaway": "Laporan ini cenderung positif bagi ROTI karena dua sinyal datang bersamaan: laba bersih kuartal III 2026 melonjak 29 kali menjadi Rp51,3 miliar, dan Perseroan berencana menarik kembali treasury shares lewat penurunan modal, yang berarti mengurangi jumlah saham yang beredar di pasar. Treasury shares adalah saham yang dulu dibeli kembali oleh ROTI dan disimpan, bukan diedarkan ke publik. Kalau saham itu resmi dihapus lewat penurunan modal, jumlah saham yang membagi laba Perseroan jadi lebih kecil, sehingga laba per saham cenderung naik meski laba totalnya sama, salah satu alasan pelaku pasar memperhatikan aksi semacam ini. Agenda RUPSLB juga mencakup perubahan susunan direksi dan komisaris, meski dokumen belum merinci siapa yang akan berganti. Yang perlu dipantau adalah hasil RUPSLB pada 15 Desember 2026, karena penarikan treasury shares dan susunan pengurus baru baru resmi berlaku setelah disetujui pemegang saham di rapat itu.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Pelaksanaan Public Expose Tahunan ROTI di Jakarta"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "RUPSLB: penarikan treasury shares dan perubahan pengurus"
+   }
+  ]
+ },
+ {
+  "slug": "link-kuartal-iii-2026-rugi-melebar-ke-rp1-3-triliun",
+  "category": "Aksi Korporasi",
+  "title": "LINK Kuartal III 2026: [Rugi] Melebar ke Rp1,3 Triliun",
+  "deck": "Rugi bersih Link Net melebar jadi Rp1,3 triliun dalam sembilan bulan 2026, sementara ekuitas perusahaan susut hampir sepertiga dibanding akhir 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T15:54:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119160617-65805-0/FinancialStatement-2026-III-LINK.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LINK",
+  "tags": [
+   "LINK",
+   "Link Net",
+   "laporan keuangan",
+   "rugi bersih"
+  ],
+  "body": [
+   "PT Link Net Tbk (LINK) menyampaikan laporan keuangan interim yang ditelaah secara terbatas untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia pada 19 November 2026. Perseroan mencatat rugi bersih Rp1.307.199 juta, melebar dari rugi Rp1.027.946 juta pada periode yang sama tahun 2025. Rugi per saham ikut membesar dari Rp374 menjadi Rp475. Pendapatan perusahaan turun dari Rp2.394.743 juta menjadi Rp2.059.289 juta, sementara beban keuangan naik dari Rp404.540 juta menjadi Rp431.976 juta.",
+   "Dari sisi posisi keuangan, jumlah ekuitas turun dari Rp3.549.589 juta pada akhir 2025 menjadi Rp2.261.862 juta pada akhir September 2026. Penyebabnya, saldo laba yang belum dicadangkan berbalik dari positif Rp463.951 juta menjadi defisit Rp831.557 juta akibat akumulasi rugi. Di sisi lain, jumlah liabilitas naik dari Rp9.688.424 juta menjadi Rp10.816.412 juta, dengan pinjaman bank jangka pendek bertambah dari Rp6.996.702 juta menjadi Rp7.500.000 juta dan munculnya pinjaman jangka panjang baru senilai Rp1.491.857 juta yang sebelumnya tidak ada. Kas dan setara kas perusahaan menyusut dari Rp360.961 juta menjadi Rp232.221 juta.",
+   "Arus kas dari aktivitas operasi berbalik menjadi negatif Rp845.316 juta, dari sebelumnya positif Rp929.116 juta pada periode yang sama tahun lalu. Perseroan menutup kekurangan ini lewat pendanaan baru, menerima pencairan pinjaman Rp2.742.000 juta dan membayar kembali pinjaman Rp725.000 juta, sehingga arus kas dari aktivitas pendanaan tercatat positif Rp1.413.371 juta. Laporan ini ditandatangani oleh Corporate Secretary Rininta Agustina Widya Pratika dan ditelaah oleh KAP Rintis, Jumadi, Rianto & Rekan dengan partner penandatangan Fandy Adhitya."
+  ],
+  "fotoAdegan": "Technicians splicing fiber-optic cables on a utility pole along a residential Jakarta street, midday light",
+  "takeaway": "Laporan ini condong negatif bagi Link Net, karena rugi yang melebar, ekuitas yang tergerus hampir sepertiga, dan arus kas operasi yang berbalik jadi negatif menunjukkan tekanan finansial yang nyata, bukan sekadar fluktuasi musiman. Yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang perusahaan yang mencerminkan kekayaan bersih pemegang saham, dan arus kas operasi, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari, bukan dari pinjaman. Beban bunga yang naik juga perlu diperhatikan karena perusahaan membayar lebih mahal untuk utang yang jumlahnya juga membesar. Rugi per saham yang melebar dari Rp374 menjadi Rp475 berarti setiap lembar saham menanggung kerugian yang lebih besar dibanding tahun lalu. Yang perlu dipantau berikutnya adalah apakah arus kas dari operasional bisa kembali positif pada laporan kuartal mendatang, sebab pinjaman baru menutup kekurangan kas tahun ini tapi menambah beban bunga ke depan.",
+  "sentimen": "negatif",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim Yang Ditelaah Secara Terbatas"
+ },
+ {
+  "slug": "public-expose-ppro-pkpu-lancar-right-issue-belum-prioritas",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PPRO: [PKPU] Lancar, Right Issue Belum Prioritas",
+  "deck": "PP Properti melaporkan kewajiban utang pascarestrukturisasi PKPU terbayar sesuai jadwal, sementara right issue atau private placement belum menjadi fokus perusahaan saat ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T15:30:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbed6aa311_72e76f5fd6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "Public Expose",
+   "PKPU",
+   "PP Properti"
+  ],
+  "body": [
+   "PT PP Properti Tbk (PPRO) menggelar public expose tahunan secara daring lewat Zoom pada 17 November 2026, dihadiri 66 pelaku pasar modal di luar jajaran manajemen dan karyawan perseroan. Dalam sesi tanya jawab, Direktur Keuangan Ikhwan Putra Pradhana menjelaskan status pembayaran utang perseroan setelah proses PKPU, yaitu restrukturisasi utang lewat pengadilan niaga. Ia menegaskan tidak ada kewajiban yang tertunda dari proposal perdamaian, dan seluruh porsi pokok serta bunga tahun 2025-2026 sudah dibayarkan, bahkan sebagian dipercepat. Perseroan merinci kewajiban pokok dan bunga untuk tiga tahun ke depan: pokok Rp30,1 miliar dengan bunga Rp16,5 miliar pada 2026, pokok Rp26,9 miliar dengan bunga Rp37,5 miliar pada 2027, dan pokok Rp25,9 miliar dengan bunga Rp31,5 miliar pada 2028.",
+   "Menjawab pertanyaan soal kemungkinan aksi korporasi untuk mempercepat pemulihan, Direktur Utama Dyah Rahadyannie menyatakan right issue (penambahan saham baru lewat penawaran kepada pemegang saham) maupun private placement (penjualan saham baru ke investor tertentu) belum menjadi fokus utama perseroan saat ini. PPRO memilih berfokus pada divestasi atau penjualan aset untuk menurunkan liabilitas, memperkuat arus kas, dan memperbaiki struktur permodalan yang masih menanggung akumulasi kerugian. Direktur Pengelolaan Bisnis dan HCM, Adi Suryolaksono, menambahkan bahwa selain divestasi, perseroan tetap membuka kerja sama operasi atau sewa lahan dengan mitra strategis untuk aset yang masih berpotensi dikembangkan.",
+   "Terkait pelemahan daya beli masyarakat, Managing Director Daniel Moeis memaparkan tiga strategi perseroan: menjual unit ready stock dengan harga yang memenuhi kriteria program insentif pemerintah serta memperkuat segmen masyarakat berpenghasilan rendah, menyesuaikan skema pembayaran per segmen produk termasuk hunian mahasiswa, dan menjalankan program promosi SuPPer Sensational Price tahap kedua yang menawarkan hadiah hingga Desember 2027."
+  ],
+  "fotoAdegan": "Construction workers finishing exterior walls of a mid-rise apartment tower under a hazy Jakarta sky.",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham PPRO, karena manajemen menegaskan seluruh pembayaran pokok dan bunga utang hasil restrukturisasi PKPU berjalan sesuai jadwal tanpa penundaan, dan tidak ada rencana right issue atau private placement yang akan mendilusi kepemilikan saham yang sudah ada. Pos yang tersentuh di sini adalah beban bunga dan arus kas, yaitu uang yang benar-benar masuk dan keluar dari kas perusahaan untuk membayar utang: kewajiban bunga PPRO justru melonjak dari Rp16,5 miliar tahun ini menjadi Rp37,5 miliar pada 2027, sehingga kemampuan arus kas menanggung lonjakan itu jadi penentu apakah pemulihan struktur permodalan benar terjadi seperti diklaim manajemen. Yang perlu dipantau pemegang saham adalah realisasi divestasi aset yang disebut manajemen sebagai strategi utama menurunkan liabilitas, sebab dokumen ini belum menyebut aset spesifik, nilai transaksi, atau tenggat waktu divestasi tersebut.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+ },
+ {
   "slug": "kppu-dan-jabar-teken-kesepakatan-awasi-persaingan-usaha",
   "category": "Bisnis",
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
@@ -50,6 +171,151 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang konkret berubah baru satu transaksi: satu kontainer kokopit senilai Rp138 juta dari koperasi kecil di Balikpapan, berhasil terkirim ke Taiwan setelah proses penjajakan bisnis selama kurang lebih setahun lewat program kurasi ekspor Kemendag. Yang terdampak langsung adalah koperasi produsen itu sendiri dan, kalau jalurnya terbukti bisa diulang, pelaku UMKM sejenis di daerah lain yang berharap ikut program kurasi serupa. Dengan nilai dan volume yang masih kecil, kabar ini lebih tepat dibaca sebagai uji pasar ketimbang pembukaan pasar besar, karena bahkan pihak Export Center Balikpapan sendiri baru menyatakan harapan, bukan kepastian, soal pengiriman susulan. Yang akan menentukan apakah ini permintaan berkelanjutan atau sekadar transaksi satu kali adalah apakah kontainer kedua dan seterusnya benar terealisasi ke Taiwan dalam beberapa bulan mendatang.",
   "imageV": "mwn9zd1s"
+ },
+ {
+  "slug": "dividen-interim-jtpe-rp10-per-saham-cair-17-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim JTPE Rp10 per Saham, [Cair] 17 Desember",
+  "deck": "JTPE akan membagikan dividen interim tunai Rp10 per saham, total Rp67,73 miliar, dengan pembayaran pada 17 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T14:56:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ee4c0b6fd_94d11c279c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JTPE",
+  "tags": [
+   "JTPE",
+   "dividen interim",
+   "dividen tunai",
+   "Jasuindo Tiga Perkasa"
+  ],
+  "body": [
+   "Jasuindo Tiga Perkasa Tbk (JTPE) menetapkan pembagian dividen interim tunai sebesar Rp10 per saham untuk tahun buku 2026 periode Januari hingga September 2026. Total dividen yang akan dibagikan mencapai Rp67,73 miliar. Keputusan ini mengacu pada Surat Keputusan Rapat Direksi nomor 144/JTP-DIRUT/XI/2026 yang telah disetujui Dewan Komisaris melalui surat nomor 011/JTP/DEKOM/XI/2026, keduanya tertanggal 18 November 2026, sebagaimana disampaikan oleh Corporate Secretary Lukito Budiman.",
+   "Jadwalnya, cum dividen di pasar reguler dan negosiasi jatuh pada 27 November 2026, diikuti ex dividen pada 30 November 2026. Di pasar tunai, cum dividen berlaku 1 Desember 2026 dan ex dividen 2 Desember 2026. Tanggal daftar pemegang saham (DPS) yang berhak menerima dividen ditetapkan 1 Desember 2026 pukul 16.00, dan pembayaran dividen dilakukan paling lambat 17 Desember 2026.",
+   "Dasar pembagian ini adalah data keuangan per 30 September 2026, di mana JTPE membukukan laba bersih yang dapat diatribusikan kepada entitas induk sebesar Rp200,01 miliar. Saldo laba ditahan yang tidak dibatasi penggunaannya tercatat Rp1,07 triliun, sementara total ekuitas perusahaan mencapai Rp1,52 triliun."
+  ],
+  "fotoAdegan": "Workers monitoring a large industrial printing press on a factory floor, stacks of blank paper nearby, bright lighting",
+  "takeaway": "Laporan ini condong positif bagi JTPE karena perusahaan memutuskan membagi sebagian laba sembilan bulannya kepada pemegang saham tanpa menunggu rapat tahunan, tanda arus kasnya cukup longgar untuk itu. Dividen Rp67,73 miliar ini akan mengurangi kas dan saldo laba ditahan, yakni pos yang menyimpan keuntungan perusahaan yang belum dibagikan, sehingga ekuitas totalnya ikut turun setelah dibayarkan. Meski begitu, jumlahnya hanya sekitar sepertiga dari laba bersih Rp200,01 miliar yang dibukukan hingga September, jadi masih menyisakan dana cukup besar untuk operasional. Jumlah saham beredar dan laba per saham tidak berubah karena ini pembagian kas, bukan penerbitan saham baru. Yang perlu dipantau berikutnya adalah tanggal pencatatan pemegang saham pada 1 Desember 2026 pukul 16.00 yang menentukan siapa berhak menerima dividen, serta tanggal pembayarannya pada 17 Desember 2026.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Recording date pemegang saham dan cum dividen pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "arii-jawab-bei-pmthmetd-rp75-m-untuk-jalan-tambang-mmj",
+  "category": "Aksi Korporasi",
+  "title": "ARII Jawab BEI: [PMTHMETD] Rp75 M untuk Jalan Tambang MMJ",
+  "deck": "Atlas Resources (ARII) merinci ke BEI bahwa dana PMTHMETD 375 juta saham akan dipakai membangun jalan angkut batu bara 52 km milik anak usahanya, tapi banyak detail investasi masih belum final.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T14:56:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/97a0212d12_81be2897dd.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ARII",
+  "tags": [
+   "ARII",
+   "PMTHMETD",
+   "RUPSLB",
+   "Musi Mitra Jaya"
+  ],
+  "body": [
+   "PT Atlas Resources Tbk (ARII) menjawab surat permintaan penjelasan dan pengingat dari Bursa Efek Indonesia terkait rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) yang diumumkan 13 Oktober 2026. Perusahaan menjelaskan bahwa dana hasil PMTHMETD akan digunakan membangun jalan angkut (hauling road) batu bara sepanjang sekitar 52 kilometer milik PT Musi Mitra Jaya (MMJ) di Kabupaten Musi Banyuasin, Sumatera Selatan, sebagai bagian dari pengembangan hub Musi Rawas Utara. Jalan ini diklaim akan memperpendek jarak angkut sekitar 15 kilometer serta menambah kapasitas dan kualitas jalan. Namun jenis konstruksi, target kapasitas angkut, kontraktor pelaksana, status perizinan, dan status lahan belum bisa diungkapkan karena rencana investasi masih dalam tahap finalisasi.",
+   "Sebagai ilustrasi, jika seluruh 375 juta saham baru diterbitkan pada harga terendah yaitu nilai nominal Rp200 per saham, ARII akan menerima dana sekitar Rp75 miliar sebelum biaya emisi. Jika dana itu tidak cukup untuk membangun jalan tersebut, kekurangannya akan ditutup dari kas internal atau sumber pendanaan lain. Penyaluran dana ke MMJ, yang sahamnya dikuasai tidak langsung oleh ARII sebesar 74,40 persen (melalui PT Sriwijaya Muba Logistik 73,81 persen dan PT Aquela Pratama Indonesia 0,60 persen), sementara 25,60 persen sisanya dimiliki PT PLN EPI Investasi, dikategorikan sebagai transaksi afiliasi sesuai POJK 42/2020. Karena itu, ARII wajib menunjuk penilai independen untuk opini kewajaran dan mengumumkan keterbukaan informasi tersendiri saat transaksi berlangsung. Apakah PLN EPI akan ikut mendanai sesuai porsi kepemilikannya juga belum diputuskan.",
+   "Soal jadwal, PMTHMETD dapat dilaksanakan sekaligus atau bertahap dalam waktu paling lama dua tahun sejak RUPSLB yang akan digelar 20 November 2026, dengan harga pelaksanaan minimal 90 persen dari rata-rata harga penutupan saham 25 hari bursa sebelum permohonan pencatatan dan tidak boleh di bawah nilai nominal. ARII juga melaporkan realisasi PMTHMETD sebelumnya, yang disetujui RUPSLB 29 Oktober 2025 dan dilaksanakan 22 Desember 2025 lewat penerbitan 319 juta saham seharga Rp273 per saham, menghasilkan dana Rp87.087 juta. Di RUPSLB yang sama pada 20 November 2026, pemegang saham juga akan dimintai persetujuan atas penjaminan instrumen Devisa Hasil Ekspor Sumber Daya Alam (DHE SDA) di PT Bank Mandiri (Persero) Tbk senilai lebih dari 50 persen kekayaan bersih perusahaan, terkait penambahan limit fasilitas kredit."
+  ],
+  "fotoAdegan": "A gravel hauling road cutting through forested hills with a loaded coal truck convoy, South Sumatra, overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi ARII, karena dua bulan setelah rencana PMTHMETD diumumkan, perusahaan masih belum bisa memastikan hampir semua detail penting seperti kontraktor, jadwal, dan kebutuhan dana pasti, sementara di RUPSLB yang sama ARII juga meminta izin menjaminkan aset senilai lebih dari separuh kekayaan bersihnya untuk menambah limit kredit di Bank Mandiri. Yang tersentuh di sini adalah jumlah saham beredar, karena penerbitan hingga 375 juta saham baru bisa membuat laba per saham tiap pemegang saham lama terdilusi, serta sisi utang dan arus kas perusahaan, karena penambahan limit kredit berarti potensi beban bunga baru di tengah beban utang yang sebelumnya sudah disorot auditor sebagai berisiko. Penyaluran dana ke anak usaha MMJ juga dikategorikan sebagai transaksi dengan pihak terkait, yang berarti akan ada proses penilaian kewajaran tambahan sebelum dana benar-benar mengalir. Yang perlu dipantau adalah hasil RUPSLB pada 20 November 2026, karena di situ pemegang saham independen akan memutuskan baik soal PMTHMETD maupun penjaminan DHE SDA ke Bank Mandiri, serta pengumuman lanjutan begitu rencana investasi jalan MMJ dan identitas calon pemodal PMTHMETD sudah final.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "RUPSLB menyetujui PMTHMETD dan penjaminan DHE SDA ke Bank Mandiri"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-bmhs-24-november-laba-bersih-9m26-turun-95",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BMHS 24 November: [Laba] Bersih 9M26 Turun 95%",
+  "deck": "BMHS gelar public expose tahunan 24 November 2026: laba bersih 9M26 ambrol 95 persen meski ekspansi rumah sakit terus berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T14:41:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ba6893f23_4e3343c5be.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMHS",
+  "tags": [
+   "BMHS",
+   "Bundamedik",
+   "Public Expose",
+   "Laba Bersih"
+  ],
+  "body": [
+   "PT Bundamedik Tbk (BMHS) akan menggelar public expose tahunan pada Selasa, 24 November 2026, pukul 10.00 WIB melalui video konferensi Zoom. Agenda utamanya adalah pemaparan laporan kinerja keuangan kuartal III 2026, yang materi presentasinya sudah disampaikan perusahaan ke Bursa Efek Indonesia melalui surat yang diteken Direktur Utama Agus Heru Darjono. Acara ini akan dihadiri jajaran direksi perusahaan beserta staf terkait, dan pendaftaran peserta dibuka lewat tautan yang disediakan BMHS.",
+   "Materi presentasi menunjukkan pendapatan kotor BMHS pada sembilan bulan pertama 2026 naik 3 persen menjadi Rp1,19 triliun, dari Rp1,16 triliun pada periode yang sama tahun lalu, didorong kenaikan volume operasi bedah, siklus bayi tabung, dan jumlah tes laboratorium. Namun laba operasional sebelum bunga, pajak, dan penyusutan (EBITDA) justru turun 10 persen menjadi Rp153 miliar, akibat beban operasional tambahan dari gedung rumah sakit dan klinik baru yang belum beroperasi penuh. Dampaknya lebih terasa di laba bersih yang ambrol 95 persen, dari Rp20 miliar pada sembilan bulan 2025 menjadi hanya Rp1,1 miliar pada sembilan bulan 2026. Perusahaan menyebut penurunan ini terutama akibat beban satu kali di salah satu anak usaha senilai Rp22,4 miliar pada kuartal II 2026, yang membuat laba bersih kuartal itu sempat negatif Rp21,4 miliar sebelum berbalik menjadi laba Rp22,4 miliar pada kuartal III 2026.",
+   "Dari sisi operasional, jumlah tempat tidur rumah sakit BMHS bertambah 12 persen menjadi 671 unit per September 2026, hasil penambahan kapasitas di lima rumah sakit: RS Menteng dari 129 menjadi 199 tempat tidur, RS Bekasi dari 111 menjadi 161, RS Bali dari 25 menjadi 50, RS Padang dari 121 menjadi 191, dan RS Palembang dari 38 menjadi 138 tempat tidur. Volume operasi bedah naik 13 persen dibanding tahun lalu, dengan operasi berbantuan robot melonjak 204 persen dan telah melewati 1.000 kasus kumulatif. Tingkat keterisian tempat tidur (BOR) justru turun dari 56 persen menjadi 53 persen, menandakan kapasitas baru belum terisi penuh. Perusahaan juga menargetkan mengakuisisi lima rumah sakit dalam lima tahun ke depan, lewat pengambilalihan saham mayoritas rumah sakit komunitas maupun kemitraan membangun rumah sakit baru di kawasan Jakarta Selatan atau Tangerang.",
+   "BMHS juga melaporkan sejumlah kemitraan strategis, antara lain kerja sama klinis dengan Mayo Clinic yang diteken dalam forum Mayo Clinic VITAL Summit 2026 di Jacksonville, Amerika Serikat, serta kerja sama dengan Sinar Mas Land untuk membangun rumah sakit terintegrasi berbasis teknologi di BSD. Perusahaan juga meluncurkan Morula IVF International Fertility Clinic di Biomedical Campus BSD City dengan luas sekitar 1.300 meter persegi dan kapasitas 3.000 siklus per tahun, membidik pasien dari dalam dan luar negeri. Dari sisi pembiayaan, rasio utang bersih terhadap EBITDA naik ke 2,8 kali pada sembilan bulan 2026, dari 1,6 kali pada akhir 2025, seiring pengeluaran modal untuk ekspansi rumah sakit. Komposisi pendapatan rumah sakit dari pasien BPJS Kesehatan juga naik menjadi 25,4 persen pada sembilan bulan 2026, dari 23,3 persen setahun sebelumnya, sementara pendapatan dari pasien mandiri dan asuransi korporasi tetap tumbuh."
+  ],
+  "fotoAdegan": "Medical staff preparing a robotic surgery arm beside an operating table in a brightly lit hospital room",
+  "takeaway": "Laporan ini netral bagi fundamental BMHS: ekspansi kapasitas rumah sakit dan kemitraan strategis menunjukkan upaya pertumbuhan jangka panjang, tetapi laba bersih sembilan bulan 2026 ambrol 95 persen dan beban utangnya makin berat, sehingga belum ada alasan kuat untuk menyebutnya jelas positif. Pos yang tersentuh adalah margin EBITDA, yakni porsi laba operasional sebelum bunga, pajak, dan penyusutan dari pendapatan, yang turun dari 15 persen ke 13 persen, serta rasio utang bersih terhadap EBITDA yang naik ke 2,8 kali dari 1,6 kali, ukuran seberapa berat utang dibanding kemampuan perusahaan menghasilkan laba operasional. Pelaku pasar memperhatikan dua pos ini karena menentukan apakah ekspansi rumah sakit yang agresif dibiayai secara sehat atau justru membebani arus kas ke depan. Yang perlu dipantau berikutnya adalah pemaparan lengkap dalam public expose tahunan pada Selasa, 24 November 2026 pukul 10.00 WIB, termasuk apakah manajemen memberi kepastian waktu kapan beban operasional rumah sakit dan klinik baru bisa tertutup oleh pendapatan seperti yang dijanjikan dalam materi ini.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Public expose tahunan, paparan kinerja keuangan kuartal III 2026"
+   }
+  ]
+ },
+ {
+  "slug": "fifa-dana-obligasi-orange-i-rp187-23-miliar-terealisasi-100",
+  "category": "Aksi Korporasi",
+  "title": "FIFA: Dana Obligasi Orange I Rp187,23 Miliar [Terealisasi] 100%",
+  "deck": "PT Federal International Finance (FIFA) melaporkan seluruh dana Rp187,23 miliar dari Obligasi Orange I Tahap I 2026 telah terpakai untuk modal kerja pembiayaan, tanpa sisa dana.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "19 November 2026",
+  "isoDate": "2026-11-19T14:19:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aa8f830e9b_996bc05285.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FIFA",
+  "tags": [
+   "FIFA",
+   "obligasi",
+   "penggunaan dana",
+   "FIF Group"
+  ],
+  "body": [
+   "PT Federal International Finance (FIFA) melaporkan kepada Otoritas Jasa Keuangan dan PT Bank Rakyat Indonesia (Persero) Tbk selaku wali amanat bahwa dana hasil penerbitan Obligasi Berkelanjutan Orange I Federal International Finance Tahap I Tahun 2026, yang efektif pada 22 Juni 2026, sudah terpakai seluruhnya. Dari total dana yang terkumpul Rp191 miliar, setelah dipotong biaya penawaran umum Rp3,77 miliar, dana bersih yang diterima perusahaan adalah Rp187,23 miliar. Seluruh dana ini, alias 100 persen, telah disalurkan untuk modal kerja pembiayaan sesuai rencana yang diungkapkan dalam prospektus, dan sampai Oktober 2026 tidak ada lagi sisa dana yang belum digunakan.",
+   "Dari total biaya penawaran umum Rp3,77 miliar, porsi terbesar adalah biaya jasa profesi penunjang pasar modal sebesar Rp1,84 miliar atau 0,964 persen dari total dana yang dihimpun, diikuti biaya jasa lembaga penunjang pasar modal Rp1,07 miliar atau 0,561 persen. Biaya penjaminan emisi, yang mencakup jasa penjaminan, penyelenggaraan, dan penjualan efek, totalnya Rp353,92 juta atau 0,185 persen, sementara biaya lain-lain tercatat Rp505,95 juta atau 0,265 persen. Tidak ada biaya jasa konsultasi keuangan yang dikenakan dalam penerbitan ini.",
+   "Laporan ini ditandatangani oleh Theodorus Indra Surya Putra selaku Corp. Secretary, Legal & Litigation Division Head FIFA, dan dikirimkan kepada Otoritas Jasa Keuangan serta PT Bank Rakyat Indonesia (Persero) Tbk selaku wali amanat obligasi, dengan tembusan kepada Direktur Utama Bursa Efek Indonesia dan Direktur Utama Kustodian Sentral Efek Indonesia. Pelaporan ini mengacu pada Peraturan OJK Nomor 40 Tahun 2025 tentang Penggunaan Dana Hasil Penawaran Umum dan Surat Edaran Bapepam-LK Nomor SE-05/BL/2006 tentang keterbukaan biaya emisi."
+  ],
+  "fotoAdegan": "A finance officer discussing loan paperwork with a customer at a motorcycle dealership, blurred documents, new motorbikes in showroom background",
+  "takeaway": "Laporan ini netral bagi FIFA, karena isinya hanya menegaskan bahwa dana obligasi yang terkumpul sejak Juni sudah terpakai penuh sesuai rencana awal, tanpa ada perubahan arah bisnis atau risiko baru yang muncul. Obligasi ini menambah utang berbunga perusahaan sebesar Rp191 miliar, dan karena dananya dipakai sebagai modal kerja pembiayaan, ini masuk sebagai arus kas masuk dari aktivitas pendanaan sekaligus menambah dana yang bisa disalurkan FIF ke nasabah pembiayaan. Pelaku pasar biasanya memperhatikan beban bunga atau kupon yang harus dibayar emiten dari obligasi semacam ini, karena itu akan membebani laba FIFA ke depan meski dananya dipakai untuk mengembangkan bisnis pembiayaan. Yang perlu dipantau berikutnya adalah apakah FIF Group akan menerbitkan tahap lanjutan dari program Obligasi Berkelanjutan Orange I ini, mengingat skema penerbitan ini memang dirancang bertahap dan laporan kali ini menandai tuntasnya kewajiban pelaporan dana untuk Tahap I.",
+  "sentimen": "netral",
+  "judulIdx": "Laporan Penggunaan Dana Hasil Penawaran Umum"
  },
  {
   "slug": "msie-koreksi-free-float-ke-bursa-ungkap-afiliasi-pengendali",
@@ -11795,8 +12061,8 @@ var ARTICLES = [
  {
   "slug": "kios-panggil-rupslb-kedua-usai-rapat-pertama-gagal-kuorum",
   "category": "Aksi Korporasi",
-  "title": "KIOS Panggil [RUPSLB] Kedua usai Rapat Pertama Gagal Kuorum",
-  "deck": "Setelah RUPSLB 27 Oktober gagal kuorum, Kioson memanggil rapat kedua 17 November untuk membahas perubahan direksi/komisaris dan penyesuaian KBLI.",
+  "title": "RUPSLB Kedua KIOS 17 November: [Direksi Tetap], KBLI Gagal Kuorum",
+  "deck": "RUPSLB kedua Kioson 17 November hanya dihadiri 40,56% pemegang saham. Agenda susunan direksi-komisaris tetap disetujui, tapi perubahan KBLI gagal kuorum dan akan dibawa ke rapat ketiga.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T18:59:54",
@@ -11806,17 +12072,38 @@ var ARTICLES = [
   "tags": [
    "KIOS",
    "RUPSLB",
-   "tata kelola perusahaan",
-   "perubahan direksi komisaris"
+   "Tata Kelola",
+   "KBLI"
   ],
   "body": [
-   "PT Kioson Komersial Indonesia Tbk (KIOS) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kedua, setelah RUPSLB pertama yang digelar 27 Oktober 2026 gagal mengambil keputusan karena tidak memenuhi syarat kuorum kehadiran sesuai Peraturan OJK Nomor 15/POJK.04/2020. RUPSLB kedua ini akan berlangsung Selasa, 17 November 2026 pukul 14.00 WIB di Axa Tower Lantai 42, Jalan Prof DR Satrio, Kuningan, Jakarta Selatan.",
-   "Dua agenda akan dibawa ke rapat. Pertama, persetujuan perubahan susunan direksi dan/atau dewan komisaris perseroan, namun dokumen pemanggilan ini belum merinci siapa yang akan masuk atau keluar dari jajaran tersebut. Kedua, persetujuan perubahan Pasal 3 Anggaran Dasar Kioson untuk menyesuaikan klasifikasi bidang usaha perseroan dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia (KBLI).",
-   "Pemegang saham yang berhak hadir dan memberikan suara adalah mereka yang namanya tercatat dalam daftar pemegang saham pada penutupan perdagangan bursa, Senin 16 November 2026. Bagi yang ingin memberikan suara lewat aplikasi eASY.KSEI, batas waktu menyampaikan deklarasi kehadiran, kuasa, atau pilihan suara adalah pukul 12.00 WIB pada 16 November 2026, satu hari kerja sebelum rapat. Perseroan tidak mengirimkan undangan khusus dan tidak menyediakan materi rapat dalam bentuk cetak, seluruh dokumen hanya bisa diunduh lewat situs web Kioson."
+   "RUPSLB kedua PT Kioson Komersial Indonesia Tbk (KIOS) yang digelar Selasa, 17 November 2026, dihadiri pemegang saham yang mewakili 436.419.185 saham atau 40,56% dari total saham dengan hak suara. Meski begitu, agenda pertama soal susunan direksi dan komisaris tetap sah diputuskan karena ketentuan kuorum untuk agenda itu terpenuhi. Hasilnya, tidak ada perubahan pada susunan direksi dan dewan komisaris Kioson. Jajaran yang menjabat sampai penutupan RUPS Tahunan 2029 adalah Ornela Bartin Sutan Giri sebagai Direktur Utama, Reginald Trisna sebagai Direktur, Viperi Limiardi sebagai Komisaris Utama, dan Junaidi Ariansyah sebagai Komisaris Independen.",
+   "Agenda kedua, yakni perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan klasifikasi usaha (KBLI) dengan aturan baru Badan Pusat Statistik, tidak bisa diputuskan karena kuorum untuk agenda ini tidak terpenuhi. Kioson akan menggelar Rapat Ketiga, dan sesuai aturan OJK, kuorum kehadiran serta kuorum pengambilan keputusan untuk rapat ketiga itu akan ditetapkan sendiri oleh OJK atas permohonan perseroan. Permohonan itu wajib disampaikan paling lambat 14 hari sejak RUPSLB kedua ini digelar.",
+   "RUPSLB pertama yang digelar 27 Oktober 2026 gagal total mengambil keputusan karena tidak memenuhi syarat kuorum kehadiran sesuai Peraturan OJK Nomor 15/POJK.04/2020. Kioson lalu memanggil RUPSLB kedua ini pada 10 November 2026, dengan dua agenda yang sama: persetujuan perubahan susunan direksi/komisaris dan penyesuaian Pasal 3 Anggaran Dasar soal KBLI. Saat pemanggilan, perseroan belum merinci arah perubahan direksi atau komisaris, sehingga publik baru mengetahui hasilnya, yaitu tidak ada pergantian, setelah rapat berlangsung.",
+   "Tidak ada pemegang saham, baik yang hadir fisik maupun lewat aplikasi eASY.KSEI, yang mengajukan pertanyaan dalam RUPSLB kedua ini. Seluruh keputusan pada agenda yang disahkan diambil secara musyawarah untuk mufakat, tanpa suara menolak atau abstain."
   ],
   "fotoAdegan": "Rows of empty chairs facing a podium in a corporate conference hall inside a Jakarta office tower, soft morning light through tall windows",
-  "takeaway": "Laporan ini netral bagi Kioson karena agenda perubahan direksi dan komisaris belum menyebut nama atau arah perubahannya, sementara penyesuaian Pasal 3 Anggaran Dasar soal KBLI hanya mengikuti aturan klasifikasi usaha baru dari BPS, bukan perubahan lini bisnis. Yang tersentuh di sini adalah tata kelola perusahaan, yakni siapa yang nanti duduk di kursi pengambil keputusan strategis, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pasar tetap mencermatinya karena pergantian pengurus bisa mengubah arah kebijakan perusahaan ke depan. Gagalnya kuorum pada RUPSLB pertama juga menunjukkan rendahnya partisipasi pemegang saham publik dalam rapat sebelumnya. Yang perlu dipantau adalah apakah RUPSLB kedua pada 17 November 2026 ini berhasil mencapai kuorum dan menghasilkan keputusan sah, termasuk nama-nama direksi atau komisaris baru yang akan diumumkan dalam hasil rapat.",
-  "sentimen": "netral"
+  "takeaway": "Hasil rapat ini netral bagi Kioson karena kelangsungan direksi dan komisaris yang sama memberi kepastian tata kelola, tanpa kejutan pergantian pengurus yang bisa mengubah arah strategi perusahaan. Yang tersentuh di sini adalah tata kelola perusahaan, yakni siapa yang duduk di kursi pengambil keputusan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, tapi tingkat kehadiran yang hanya 40,56% pada dua RUPSLB berturut-turut menunjukkan lemahnya keterlibatan pemegang saham publik, sampai agenda administratif seperti penyesuaian klasifikasi usaha pun tertunda ke rapat ketiga. Yang perlu dipantau berikutnya adalah permohonan Kioson ke OJK untuk menetapkan kuorum khusus Rapat Ketiga, yang wajib diajukan paling lambat 14 hari sejak 17 November 2026, serta jadwal dan hasil Rapat Ketiga itu sendiri.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T16:49:00",
+    "ringkas": "RUPSLB kedua Kioson pertahankan direksi-komisaris, agenda KBLI gagal kuorum dan akan dibawa ke rapat ketiga.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2d6b557a4f_dd5eea4707.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-19T16:49:00",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-27",
+    "acara": "RUPSLB pertama Kioson, gagal kuorum"
+   },
+   {
+    "tanggal": "2026-11-17",
+    "acara": "RUPSLB kedua: direksi-komisaris tetap, agenda KBLI gagal kuorum"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bmhs-jadwalkan-rupslb-pada-17-desember-2026",
@@ -22834,8 +23121,8 @@ var ARTICLES = [
  {
   "slug": "kblv-jadwalkan-rupslb-pada-11-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "KBLV Jadwalkan [RUPSLB] pada 11 Desember 2026",
-  "deck": "First Media (KBLV) akan menggelar RUPSLB pada 11 Desember 2026, dengan pemegang saham berhak hadir dicatat per 18 November 2026.",
+  "title": "RUPSLB KBLV 11 Desember: [Agenda] Ubah Direksi dan Komisaris",
+  "deck": "Pemanggilan resmi RUPSLB First Media (KBLV) 11 Desember 2026 mengungkap agenda: perubahan susunan Direksi dan/atau Dewan Komisaris.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T11:08:22",
@@ -22844,18 +23131,43 @@ var ARTICLES = [
   "emiten": "KBLV",
   "tags": [
    "KBLV",
-   "First Media",
    "RUPSLB",
-   "pasar modal"
+   "First Media",
+   "Direksi dan Komisaris"
   ],
   "body": [
-   "First Media Tbk (KBLV) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 Desember 2026 pukul 10.00 WIB. Rapat akan digelar secara fisik dan elektronik di Hotel Aryaduta, Jalan Prajurit KKO Usman dan Harun Nomor 44-48, Gambir, Jakarta. Pengumuman ini merujuk pada surat perusahaan ke OJK bernomor SB-031/FM/OJK/X/2026 dan ditandatangani oleh Corporate Secretary First Media, Harianda Noerlan, pada 4 November 2026.",
-   "Pemegang saham yang berhak hadir dan memberikan suara dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Rabu, 18 November 2026 pukul 16.00 WIB. Mata acara rapat sendiri belum diumumkan dalam dokumen ini. Undangan resmi beserta daftar agenda baru akan diunggah ke situs web First Media, situs Bursa Efek Indonesia, dan situs Kustodian Sentral Efek Indonesia (KSEI) pada Kamis, 19 November 2026.",
-   "Perusahaan mengimbau pemegang saham yang tidak hadir langsung untuk memberikan kuasa secara elektronik melalui fasilitas eASY.KSEI di akses.ksei.co.id, atau mengunduh formulir kuasa di situs perusahaan, dengan menunjuk Biro Administrasi Efek PT Sharestar Indonesia sebagai penerima kuasa. Pemegang saham yang ingin mengusulkan mata acara tambahan harus menyampaikannya ke Direksi paling lambat tujuh hari sebelum tanggal pemanggilan rapat, yakni sekitar 12 November 2026, sesuai Pasal 16 POJK Nomor 15 Tahun 2020."
+   "First Media Tbk (KBLV) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 19 November 2026. Pemanggilan ini sekaligus mengungkap agenda tunggal rapat yang sebelumnya belum diumumkan: perubahan susunan anggota Direksi dan/atau Dewan Komisaris Perseroan. Dokumen belum menyebut nama calon pengganti atau posisi mana yang akan diubah, sehingga perubahan konkretnya baru akan diketahui saat rapat berlangsung.",
+   "RUPSLB akan digelar Jumat, 11 Desember 2026 pukul 10.00 WIB, secara fisik di Hotel Aryaduta, Jalan Prajurit KKO Usman dan Harun Nomor 44-48, Gambir, Jakarta, dan secara elektronik lewat platform eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 18 November 2026 pukul 16.00 WIB.",
+   "Bagi pemegang saham yang sahamnya tidak berada dalam penitipan kolektif KSEI dan ingin memberi kuasa, surat kuasa asli yang sudah diisi dan ditandatangani wajib diserahkan ke Biro Administrasi Efek, PT Sharestar Indonesia, paling lambat Kamis, 10 Desember 2026 pukul 16.00 WIB. Karena kapasitas ruangan terbatas, kehadiran fisik di lokasi rapat dibatasi dengan prinsip siapa datang lebih dulu dilayani lebih dulu.",
+   "Pemanggilan ini merujuk pada pemberitahuan sebelumnya bernomor SB-033/FM/DPS/XI/2026 tanggal 4 November 2026, dan ditandatangani oleh Corporate Secretary First Media, Harianda Noerlan, atas nama Direksi Perseroan."
   ],
   "fotoAdegan": "Hotel ballroom staff arranging rows of chairs facing an empty stage before a formal corporate meeting, soft morning light",
-  "takeaway": "Pemberitahuan ini netral bagi fundamental First Media, sebab isinya sebatas jadwal dan mekanisme rapat, belum memuat satu pun mata acara yang bisa dinilai dampaknya. RUPSLB lazim dipakai emiten untuk memutuskan hal-hal yang menyentuh langsung kepentingan pemegang saham, misalnya penambahan modal yang menambah jumlah saham beredar dan bisa mengecilkan laba per saham, atau pergantian direksi dan komisaris, sehingga pelaku pasar biasa menunggu isi agendanya sebelum menilai arah dampaknya. Yang perlu dipantau selanjutnya adalah terbitnya pemanggilan rapat lengkap dengan mata acara pada 19 November 2026 di situs IDX, KSEI, dan First Media, serta pelaksanaan RUPSLB itu sendiri pada 11 Desember 2026. Pemegang saham yang ingin mengusulkan agenda tambahan juga punya tenggat singkat, sekitar 12 November 2026, untuk mengirimkan usulannya ke Direksi.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi fundamental First Media, karena agenda yang diungkap baru sebatas rencana mengubah susunan Direksi dan/atau Dewan Komisaris, tanpa menyebut nama atau posisi yang akan diganti, sehingga arah dampaknya belum bisa dinilai. Pos yang tersentuh di sini bukan angka keuangan seperti ekuitas atau laba per saham, melainkan kepemimpinan perusahaan. Pelaku pasar memperhatikan susunan direksi dan komisaris karena merekalah yang menentukan jalannya strategi dan operasional perusahaan sehari-hari, jadi pergantian di level ini bisa mengubah arah bisnis meski tidak langsung mengubah angka di laporan keuangan. Yang perlu dipantau selanjutnya adalah hasil keputusan RUPSLB pada 11 Desember 2026 soal siapa yang masuk dan keluar dari jajaran Direksi dan Dewan Komisaris, serta tenggat penyerahan surat kuasa asli ke BAE pada 10 Desember 2026 pukul 16.00 WIB bagi pemegang saham yang ingin diwakilkan.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T15:33:30",
+    "ringkas": "Agenda RUPSLB KBLV 11 Desember terungkap: perubahan susunan Direksi dan/atau Dewan Komisaris.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2d6d53f9d1_e82b931ba9.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-19T15:33:30",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Batas penyerahan surat kuasa asli ke BAE pukul 16.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPSLB First Media pukul 10.00 WIB di Hotel Aryaduta"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "pkpk-lakukan-stock-split-1-10-saham-jadi-12-miliar-lembar",
@@ -22886,8 +23198,8 @@ var ARTICLES = [
  {
   "slug": "pans-umumkan-rupslb-pemegang-saham-tercatat-18-november-2026",
   "category": "Aksi Korporasi",
-  "title": "PANS Umumkan RUPSLB, Pemegang Saham [Tercatat] 18 November 2026",
-  "deck": "Panin Sekuritas akan menggelar RUPSLB pada 11 Desember 2026. Pemegang saham yang tercatat pada 18 November 2026 berhak hadir dan memberi suara dalam rapat.",
+  "title": "RUPSLB PANS 11 Desember: [Agenda] Ganti Komisaris, Ubah Anggaran Dasar",
+  "deck": "Surat pemanggilan resmi RUPSLB Panin Sekuritas (PANS) terbit 19 November 2026, mengungkap agenda: pergantian komisaris dan perubahan anggaran dasar menyesuaikan KBLI 2025.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T10:45:03",
@@ -22897,17 +23209,42 @@ var ARTICLES = [
   "tags": [
    "PANS",
    "RUPSLB",
-   "Panin Sekuritas",
-   "pasar modal"
+   "Dewan Komisaris",
+   "Anggaran Dasar"
   ],
   "body": [
-   "Panin Sekuritas Tbk (PANS) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 11 Desember 2026 pukul 10.00 WIB di Panin Bank Building Lantai 4, Jalan Jenderal Sudirman, Senayan, Jakarta. Rapat akan berlangsung secara fisik sekaligus elektronik melalui aplikasi eASY.KSEI. Surat pemanggilan resmi yang memuat agenda rapat baru akan diterbitkan pada Kamis, 19 November 2026, lewat situs web KSEI, Bursa Efek Indonesia, dan situs perusahaan.",
-   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham perseroan dan atau pemilik saldo rekening efek di KSEI pada Rabu, 18 November 2026. Perseroan merinci, pembelian saham di pasar reguler yang masih berhak mengikuti rapat adalah sampai tanggal 16 November 2026, sementara pembelian di pasar tunai berlaku sampai 18 November 2026.",
-   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat mewakili minimal 1/20 dari total saham berhak suara dan diajukan secara tertulis kepada direksi paling lambat tujuh hari kalender sebelum pemanggilan rapat. Bagi yang tidak bisa hadir langsung, kuasa dapat diberikan secara elektronik lewat eASY.KSEI atau tertulis kepada PT Sinartama Gunita selaku Biro Administrasi Efek, dengan batas pemberian e-Proxy sampai 10 Desember 2026 pukul 11.00 WIB. Dokumen ini ditandatangani oleh Indra Christanto selaku Presiden Direktur dan disampaikan oleh Prama Nugraha selaku Corporate Secretary."
+   "Panin Sekuritas Tbk (PANS) menerbitkan surat pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 19 November 2026. Surat ini akhirnya mengungkap dua agenda rapat: pertama, persetujuan perubahan susunan Dewan Komisaris sehubungan dengan pengunduran diri salah satu anggota komisaris; kedua, persetujuan perubahan Anggaran Dasar pasal 3 tentang maksud, tujuan, dan kegiatan usaha perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025), yakni penyesuaian klasifikasi atas kegiatan usaha yang memang sudah dijalankan perseroan.",
+   "RUPSLB tetap dijadwalkan pada Jumat, 11 Desember 2026 pukul 10.00 WIB di Panin Bank Building Lantai 4, Jalan Jenderal Sudirman, Senayan, Jakarta, dan berlangsung secara fisik sekaligus elektronik lewat aplikasi eASY.KSEI. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per Rabu, 18 November 2026, sebagaimana sudah diumumkan sebelumnya.",
+   "Bagi pemegang saham yang tidak bisa hadir langsung, kuasa dapat diberikan secara elektronik melalui eASY.KSEI kepada PT Sinartama Gunita selaku Biro Administrasi Efek, dengan batas waktu pemberian kuasa sampai Kamis, 10 Desember 2026 pukul 11.00 WIB, atau satu hari kerja sebelum rapat. Kuasa tertulis manual juga tetap bisa diunduh dari situs web perseroan dan dibawa saat rapat.",
+   "Surat pemanggilan ditandatangani oleh Indra Christanto selaku Presiden Direktur dan disampaikan oleh Prama Nugraha selaku Corporate Secretary, merujuk pada surat pemberitahuan rencana RUPS sebelumnya tertanggal 4 November 2026."
   ],
   "fotoAdegan": "A modern high-rise office building facade in Jakarta's financial district, pedestrians walking past the entrance in late afternoon light.",
-  "takeaway": "Catatan ini netral karena dokumen baru mengumumkan jadwal dan mekanisme RUPSLB, sementara agenda rapatnya sendiri belum diungkap sehingga dampaknya ke fundamental perseroan belum bisa dinilai. Pos yang tersentuh di sini sebetulnya bukan soal keuangan, melainkan hak suara pemegang saham, yaitu siapa yang berhak ikut menentukan keputusan perseroan, dan itu ditentukan oleh kepemilikan saham sampai tanggal pencatatan 18 November 2026. Pelaku pasar baru bisa menilai arah RUPSLB ini setelah tahu agendanya, entah itu soal permodalan, dividen, atau perubahan pengurus. Yang perlu dipantau berikutnya adalah surat pemanggilan resmi yang memuat agenda lengkap, terbit 19 November 2026, lalu pelaksanaan RUPSLB sendiri pada 11 Desember 2026 yang akan menentukan keputusan apa yang diambil pemegang saham.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini condong netral bagi Panin Sekuritas karena kedua agenda yang akhirnya terungkap sifatnya administratif dan rutin, yaitu pergantian satu komisaris akibat pengunduran diri, dan penyesuaian pasal anggaran dasar agar cocok dengan klasifikasi lapangan usaha baru KBLI 2025 atas bisnis yang memang sudah dijalankan perseroan, bukan perluasan atau perubahan lini usaha. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan tata kelola perusahaan, yakni siapa yang mengawasi jalannya direksi lewat kursi dewan komisaris, dan payung hukum kegiatan usaha lewat anggaran dasar; pelaku pasar memperhatikan pergantian pengurus karena bisa menandakan arah strategi baru, meski di sini belum ada nama pengganti yang diumumkan. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 11 Desember 2026, yang akan menentukan siapa komisaris pengganti dan apakah perubahan anggaran dasar disetujui, dengan batas pemberian kuasa elektronik sampai 10 Desember 2026 pukul 11.00 WIB.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-19T15:46:06",
+    "ringkas": "Pemanggilan RUPSLB PANS terbit, agenda terungkap: pergantian komisaris dan perubahan anggaran dasar menyesuaikan KBLI 2025.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8d4cfbfd5e_60ef7b13ab.pdf",
+    "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-19T15:46:06",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Batas pemberian kuasa elektronik e-Proxy pukul 11.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPSLB PANS: agenda komisaris dan anggaran dasar"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "mark-bagikan-dividen-interim-kedua-rp20-per-saham",

@@ -151,15 +151,15 @@ var ARTICLES = [
  {
   "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
   "category": "Aksi Korporasi",
-  "title": "RUPST DMY-SHM 21 November: [Dividen Tunai] Disetujui",
-  "deck": "RUPS Tahunan DMY-SHM ternyata juga menyetujui dividen tunai dari laba bersih 2026, kuorum 34,14 persen, selain dividen saham dan transaksi material yang sudah disetujui sebelumnya.",
+  "title": "RUPSLB DMY-SHM 18 November: [Reverse Stock] dan Right Issue Disetujui",
+  "deck": "Ringkasan risalah resmi mengungkap RUPSLB DMY-SHM 18 November juga menyetujui penggabungan nilai nominal saham (reverse stock), selain dividen tunai, saham bonus, dividen saham, dan right issue yang sudah diketahui.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
-   "RUPST",
-   "dividen tunai",
-   "dividen saham"
+   "RUPSLB",
+   "Reverse Stock",
+   "Right Issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_90a39480-8e7c-4333-9179-1c2ca0eb6162-20261121010557.pdf",
   "sourceLabel": "IDX"
@@ -194,6 +194,54 @@ var ARTICLES = [
    "Penambahan Modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E074A_f98c2686-153a-476a-b751-ef87e37aea17-20261121005421.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rups-dmy-shm-18-november-right-issue-140-25-juta-saham-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 18 November: [Right Issue] 140,25 Juta Saham Disetujui",
+  "deck": "RUPS DMY-SHM menyetujui rights issue hingga 140,25 juta saham rasio 10:1 harga Rp400, dana Rp54,7 miliar untuk ekspansi pabrik dan modal kerja.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "HMETD",
+   "Right Issue",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_2d1acc13-f104-4183-8502-a9dca4b91aa0-20261121005207.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp7-saham-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Saham DMY-SHM 27,5 Juta Lembar [Cair] 11 Desember 2026",
+  "deck": "RUPS Tahunan DMY-SHM 18 November menyetujui dividen saham Rp11 miliar (27,5 juta lembar) selain dividen tunai Rp7 per saham, keduanya dibagikan 11 Desember 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "dividen saham",
+   "dividen tunai",
+   "RUPS Tahunan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_0eb19001-fb5f-424c-8c16-e205938c1471-20261121004749.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "reverse-stock-dmy-shm-5-1-saham-beredar-jadi-250-juta",
+  "category": "Aksi Korporasi",
+  "title": "Reverse Stock DMY-SHM 5:1: [Saham Beredar] Jadi 250 Juta",
+  "deck": "RUPS DMY-SHM menyetujui penggabungan saham rasio 5:1, memangkas saham beredar dari 1,25 miliar jadi 250 juta lembar mulai 9 Desember 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "reverse stock",
+   "penggabungan saham",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_941cad22-b7ec-4a06-9949-3bc0dbfaf766-20261121002752.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6464,55 +6512,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477899-pertamina-smexpo-2026-strategi-pertamina-kembangkan-umkm-dan-perluas-akses-pasar"
- },
- {
-  "slug": "penjelasan-bursa-brrc-laba-bruto-kuartal-iii-rugi-kas-rp70-juta",
-  "category": "Aksi Korporasi",
-  "title": "Penjelasan Bursa BRRC: Laba Bruto Kuartal III [Rugi], Kas Rp70 Juta",
-  "deck": "BRRC menjelaskan ke BEI bahwa rugi bruto kuartal III 2026 dipicu lonjakan harga tepung terigu, sementara kas tergerus hingga tersisa Rp70,54 juta meski ada dana IPO dan waran.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRRC",
-   "Permintaan Penjelasan Bursa",
-   "Laporan Keuangan",
-   "Likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d4d8f2cba0_d807705e77.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "stok-beras-nasional-aman-hadapi-nataru-2026",
-  "category": "Makroekonomi",
-  "title": "Stok Beras Nasional [Aman] Hadapi Nataru 2026",
-  "deck": "Mentan Amran Sulaiman klaim stok beras 4,5 juta ton jadi tertinggi sepanjang sejarah merdeka, sembari ungkap penindakan 13 tersangka pengoplosan dan pemalsuan harga beras.",
-  "date": "11 November 2026",
-  "image": "assets/img/stok-beras-nasional-aman-hadapi-nataru-2026.jpg",
-  "imageV": "mwch5e0e",
-  "tags": [
-   "beras",
-   "ketahanan pangan",
-   "Kementan",
-   "nataru"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477893-antisipasi-ketahanan-pangan-mentan-pastikan-ketersediaan-beras-nasional-aman-untuk-hadapi-nataru"
- },
- {
-  "slug": "kek-industropolis-batang-sertifikasi-80-talenta-kreatif",
-  "category": "Ketenagakerjaan",
-  "title": "KEK Industropolis Batang Sertifikasi 80 Talenta [Kreatif]",
-  "deck": "KEK Industropolis Batang dan Kemenekraf menyertifikasi 80 talenta kreatif lokal, 50 penari dan 30 pengelola acara, dalam program yang digelar 5-7 November 2026.",
-  "date": "11 November 2026",
-  "image": "assets/img/kek-industropolis-batang-sertifikasi-80-talenta-kreatif.jpg",
-  "imageV": "mwch5ei9",
-  "tags": [
-   "Batang",
-   "Industri Kreatif",
-   "Kemenekraf",
-   "KEK"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477889-kemenekraf-dan-kek-industropolis-batang-tingkatkan-kompetensi-sdm-kreatif-lokal"
  }
 ];

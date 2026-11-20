@@ -1105,7 +1105,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perbaikan NPI kali ini hampir seluruhnya datang dari neraca dagang, yakni ekspor komoditas yang lebih mahal dan impor migas yang lebih rendah, bukan dari derasnya modal asing yang masuk. Justru sebaliknya, dana asing di surat utang pemerintah, yang disebut investasi portofolio, malah tercatat keluar karena investor global menahan diri di tengah ketidakpastian pasar dunia. Pola ini paling terasa bagi pelaku pasar obligasi pemerintah dan eksportir komoditas, karena kini ekspor menjadi andalan utama penopang arus dolar masuk, bukan lagi investor portofolio. Yang akan menentukan apakah pola ini bertahan atau sekadar sementara adalah data neraca pembayaran triwulan IV 2026 serta pergerakan arus modal asing di pasar surat utang negara pada bulan-bulan mendatang, terutama bila ketidakpastian global mereda.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "rupslb-mari-29-desember-dps-pemegang-saham-dicatat-4-desember",

@@ -245,6 +245,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "ccepc-beri-beasiswa-dan-sarana-belajar-ke-sd-di-cikarang",
+  "category": "Industri",
+  "title": "CCEPC Beri [Beasiswa] dan Sarana Belajar ke SD di Cikarang",
+  "deck": "PT CCEPC Indonesia menyalurkan bantuan sarana belajar dan beasiswa bagi SDN Pasirtanjung 03 di Cikarang lewat program CSR CCEPC TechCare.",
+  "date": "20 November 2026",
+  "image": "assets/img/ccepc-beri-beasiswa-dan-sarana-belajar-ke-sd-di-cikarang.jpg",
+  "imageV": "mwpjs8os",
+  "tags": [
+   "bekasi",
+   "pendidikan",
+   "csr",
+   "industri"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479483-upaya-tingkatkan-kualitas-belajar-siswa-di-lingkar-kawasan-industri-bekasi"
+ },
+ {
   "slug": "adopsi-ai-di-indonesia-melonjak-40-persen-dalam-setahun",
   "category": "Teknologi",
   "title": "Adopsi AI di Indonesia [Melonjak] 40 Persen dalam Setahun",
@@ -6495,22 +6512,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477904-kek-industropolis-batang-jajaki-teknologi-cip-hemat-energi-dengan-perusahaan-eropa"
- },
- {
-  "slug": "smexpo-2026-transaksi-umkm-binaan-pertamina-tembus-rp33-miliar",
-  "category": "UMKM",
-  "title": "SMEXPO 2026: Transaksi UMKM Binaan Pertamina Tembus [Rp33 Miliar]",
-  "deck": "Pertamina mencatat potensi transaksi lebih dari Rp33 miliar dari 52 UMKM binaan di ajang SMEXPO 2026 Jakarta, bagian dari pembinaan lebih dari 2.000 UMKM sepanjang tahun.",
-  "date": "11 November 2026",
-  "image": "assets/img/smexpo-2026-transaksi-umkm-binaan-pertamina-tembus-rp33-miliar.jpg",
-  "imageV": "mwch5dl1",
-  "tags": [
-   "pertamina",
-   "umkm",
-   "smexpo",
-   "jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477899-pertamina-smexpo-2026-strategi-pertamina-kembangkan-umkm-dan-perluas-akses-pasar"
  }
 ];

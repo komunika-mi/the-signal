@@ -62,7 +62,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret adalah kepastian tanggal: IEU-CEPA diteken 21 November 2026, dan begitu berlaku akan menghapus bea masuk untuk 90,4 persen kategori barang ekspor Indonesia ke Uni Eropa secara langsung. Pihak yang paling terdampak adalah eksportir Indonesia yang produknya masuk daftar tarif nol itu, serta investor yang akan mendapat perlindungan lewat perjanjian investasi terpisah yang diteken bersamaan. Arah yang terlihat adalah upaya mempercepat manfaat perjanjian lewat skema penerapan sementara mulai awal 2027, yaitu sebagian aturan berjalan duluan sebelum proses ratifikasi penuh di parlemen kedua pihak rampung. Yang akan menentukan apakah target ini tercapai adalah kemajuan ratifikasi domestik Indonesia dan Uni Eropa menjelang awal 2027, karena penerapan sementara tetap bergantung pada selesainya prosedur hukum masing-masing pihak.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "rups-dmy-shm-18-november-direksi-yoga-gantikan-teguh-yang-mundur",
@@ -619,6 +619,32 @@ var ARTICLES = [
     "acara": "Akhir periode pembelian saham pecahan dan eksekusi pembelian saham tidak penuh satu lot"
    }
   ]
+ },
+ {
+  "slug": "ccepc-beri-beasiswa-dan-sarana-belajar-ke-sd-di-cikarang",
+  "category": "Industri",
+  "title": "CCEPC Beri [Beasiswa] dan Sarana Belajar ke SD di Cikarang",
+  "deck": "PT CCEPC Indonesia menyalurkan bantuan sarana belajar dan beasiswa bagi SDN Pasirtanjung 03 di Cikarang lewat program CSR CCEPC TechCare.",
+  "image": "assets/img/ccepc-beri-beasiswa-dan-sarana-belajar-ke-sd-di-cikarang.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T23:06:24+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479483-upaya-tingkatkan-kualitas-belajar-siswa-di-lingkar-kawasan-industri-bekasi",
+  "tags": [
+   "bekasi",
+   "pendidikan",
+   "csr",
+   "industri"
+  ],
+  "body": [
+   "PT CCEPC Indonesia, perusahaan yang beroperasi di kawasan industri Greenland International Industrial Center (GIIC) Cikarang, menyalurkan bantuan sarana belajar dan beasiswa untuk SDN Pasirtanjung 03 di Kecamatan Cikarang Pusat, Kabupaten Bekasi, pada Kamis (19/11). Bantuan ini disalurkan lewat program CSR bernama CCEPC TechCare, hasil kolaborasi dengan Katadata Green. Langkah ini menunjukkan bagaimana perusahaan di kawasan industri mulai mengarahkan sebagian program sosialnya langsung ke sekolah di sekitar lokasi operasi mereka.",
+   "Bantuan yang diserahkan berupa 100 set meja dan kursi siswa, tiga papan tulis, serta 200 paket alat tulis dan buku. Selain sarana fisik, lima siswa berprestasi di sekolah tersebut juga menerima beasiswa untuk mendukung kegiatan akademik maupun non akademik mereka. Sekolah ini dipilih karena lokasinya berdekatan dengan kawasan GIIC, tempat proyek CCEPC Indonesia beroperasi sejak perusahaan masuk ke Indonesia pada 2020.",
+   "Direktur Eksekutif CCEPC Indonesia, Gao Hai, hadir dalam seremoni penyerahan bantuan bersama perwakilan Katadata Green, pemerintah daerah, dan pihak sekolah. Ia menyebut pendidikan dasar sebagai pondasi penting bagi sumber daya manusia Indonesia dan menyatakan program ini sebagai langkah pertama perusahaan di bidang pendidikan. Selain seremoni penyerahan, agenda tersebut juga mencakup peninjauan fasilitas sekolah dan pengenalan dasar dunia keteknikan kepada para siswa sebagai gambaran pilihan karier di masa depan."
+  ],
+  "fotoAdegan": "Elementary school children arranging new wooden desks and chairs in a simple classroom near an industrial estate, soft daylight through windows",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/20/6b006f5e9ebfa-upaya-tingkatkan-kualitas-belajar-siswa-di-lingkar-kawasan-industri-bekasi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkret di sini hanya menyentuh satu sekolah, SDN Pasirtanjung 03, dengan bantuan 100 set meja kursi, tiga papan tulis, 200 paket alat tulis, dan beasiswa untuk lima siswa. Yang langsung terdampak adalah siswa dan guru sekolah itu, yang kebetulan berada tepat di pinggir kawasan industri GIIC tempat CCEPC Indonesia beroperasi. Gao Hai menyebut ini sebagai langkah pertama perusahaan di bidang pendidikan, tetapi berita ini belum menunjukkan apakah bantuan serupa akan menjangkau sekolah lain di sekitar kawasan industri atau berhenti di satu lokasi saja. Yang perlu dipantau adalah apakah CCEPC Indonesia atau perusahaan lain di GIIC mengumumkan program CSR pendidikan lanjutan pada tahun ajaran berikutnya, karena itu yang akan menentukan apakah inisiatif ini berlanjut atau berhenti sebagai seremoni sekali jalan.",
+  "imageV": "mwpjs8os"
  },
  {
   "slug": "adopsi-ai-di-indonesia-melonjak-40-persen-dalam-setahun",

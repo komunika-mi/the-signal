@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "public-expose-sema-7-desember-online-bahas-kinerja-2027",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose SEMA 7 Desember: [Online] Bahas Kinerja 2027",
+  "deck": "SEMA menggelar Public Expose Insidentil secara daring pada 7 Desember 2026, membahas pengembangan usaha dan prospek kinerja 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T13:01:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/31e020307a_0c5653aaf4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SEMA",
+  "tags": [
+   "SEMA",
+   "Public Expose",
+   "Keterbukaan Informasi",
+   "Prospek 2027"
+  ],
+  "body": [
+   "PT Semacom Integrated Tbk (SEMA) akan menyelenggarakan Public Expose Insidentil secara online pada Senin, 7 Desember 2026, pukul 10.00 hingga 12.00 WIB. Acara ini bersifat sukarela, bukan atas permintaan Bursa Efek Indonesia atau Otoritas Jasa Keuangan, dengan agenda utama membahas pengembangan usaha dan prospek kinerja perseroan untuk tahun 2027.",
+   "Manajemen yang dijadwalkan hadir adalah Direktur Utama Rudi Hartono Intan, Direktur Riany Sandra Widjaja, dan Sekretaris Perusahaan Dian Tresnawati. Pemegang saham dan investor dapat mengikuti acara melalui tautan yang sudah dibagikan perseroan, yaitu bit.ly/SEMAPUBEX2026. Perseroan menyebut materi presentasi Public Expose akan disampaikan selambat-lambatnya tiga hari bursa sebelum tanggal penyelenggaraan.",
+   "Surat pemberitahuan ini dikirim dari kantor perseroan di Jalan Intan I, Kampung Poncol, Kelurahan Curug, Kecamatan Gunung Sindur, Kabupaten Bogor, dan ditandatangani secara elektronik oleh Direktur Riany Sandra Widjaja."
+  ],
+  "fotoAdegan": "A person taking notes while joining a video conference call on a laptop at a home desk, soft morning light",
+  "takeaway": "Laporan ini netral bagi SEMA: sifatnya administratif, sekadar pemberitahuan jadwal forum dengan investor, bukan reaksi atas masalah keuangan atau hasil kinerja yang sudah final. Tidak ada pos kinerja seperti ekuitas, arus kas, atau laba per saham yang berubah dari dokumen ini, karena dokumen hanya mengatur logistik acara; forum ini sendiri baru akan jadi ajang di mana manajemen memaparkan proyeksi yang biasanya memengaruhi ekspektasi pasar terhadap kinerja ke depan. Yang perlu dipantau adalah pelaksanaan Public Expose pada 7 Desember 2026 itu sendiri, karena di sanalah proyeksi kualitatif soal lonjakan penjualan dan laba 2027 yang sebelumnya disampaikan manajemen berpotensi diperjelas dengan angka atau target yang lebih konkret.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Rencana Penyelenggaraan Public Expose - Insidentil",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Public Expose online bahas pengembangan usaha dan prospek kinerja 2027"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-interim-bfin-rp35-per-saham-cair-17-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim BFIN Rp35 per Saham, [Cair] 17 Desember 2026",
+  "deck": "BFI Finance membagikan dividen interim tahun buku 2026 sebesar Rp35 per saham, total Rp516,2 miliar, dibayar 17 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T11:13:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2d7837a6dc_fe7d0f6b13.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BFIN",
+  "tags": [
+   "BFIN",
+   "dividen interim",
+   "BFI Finance",
+   "pasar modal"
+  ],
+  "body": [
+   "BFI Finance Indonesia Tbk (BFIN) memutuskan membagikan dividen tunai interim untuk tahun buku 2026 sebesar Rp35 per saham. Keputusan ini diambil dalam rapat Direksi pada 18 November 2026 dan telah disetujui Dewan Komisaris pada hari yang sama. Total dividen yang dibagikan mencapai Rp516.228.426.700, dilaporkan oleh Budi Darwan Munthe selaku Corporate Secretary perseroan.",
+   "Jadwalnya, saham BFIN masih mengikutkan hak dividen (cum dividen) di pasar reguler dan negosiasi sampai 30 November 2026, lalu berubah menjadi tanpa hak dividen (ex dividen) mulai 1 Desember 2026. Di pasar tunai, cum dividen berlaku sampai 2 Desember 2026 dan ex dividen mulai 3 Desember 2026. Pemegang saham yang namanya tercatat di daftar pemegang saham pada 2 Desember 2026 pukul 16.00 WIB berhak menerima dividen, yang akan dibayarkan paling lambat 17 Desember 2026.",
+   "Dasar pembagian dividen ini adalah data keuangan per 30 September 2026, dengan laba bersih yang diatribusikan ke pemegang saham induk sebesar Rp1,31 triliun. Saldo laba ditahan yang tidak dibatasi penggunaannya tercatat Rp10,64 triliun, sementara total ekuitas perseroan mencapai Rp11,41 triliun. Perseroan juga mengatur perlakuan pajak berbeda antara pemegang saham dalam negeri yang tidak dipotong pajak penghasilan, dan pemegang saham luar negeri yang terkena pemotongan sesuai aturan pajak berlaku pada tanggal pencatatan."
+  ],
+  "fotoAdegan": "Motorcycles and cars parked neatly outside a vehicle financing branch office, bright midday light on a busy Indonesian street.",
+  "takeaway": "Laporan ini condong positif bagi BFIN. Nilai dividen Rp516,2 miliar itu hanya sekitar 5 persen dari saldo laba ditahan perseroan yang mencapai Rp10,64 triliun, jadi pembagian ini tidak menggerus modal perusahaan secara berarti dan sejalan dengan kinerja laba yang memang sedang tumbuh seperti dilaporkan sebelumnya. Dua pos yang tersentuh adalah kas, karena perusahaan harus menyiapkan dana Rp516,2 miliar untuk dibayarkan ke pemegang saham, dan ekuitas, yang akan berkurang sebesar nilai dividen begitu dibayarkan karena dividen tunai diambil dari laba ditahan, bukan dari penerbitan saham baru sehingga jumlah saham beredar dan hak suara pemegang saham tidak berubah. Yang perlu dipantau pemegang saham adalah tanggal pencatatan 2 Desember 2026 pukul 16.00 WIB untuk memastikan namanya tercatat sebagai penerima dividen, dan tanggal pembayaran paling lambat 17 Desember 2026.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Cum dividen di pasar tunai dan recording date"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
   "slug": "neraca-pembayaran-ri-surplus-tipis-di-triwulan-iii-2026",
   "category": "Makroekonomi",
   "title": "Neraca Pembayaran RI [Surplus] Tipis di Triwulan III 2026",

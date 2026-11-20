@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "public-expose-sema-7-desember-online-bahas-kinerja-2027",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose SEMA 7 Desember: [Online] Bahas Kinerja 2027",
+  "deck": "SEMA menggelar Public Expose Insidentil secara daring pada 7 Desember 2026, membahas pengembangan usaha dan prospek kinerja 2027.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SEMA",
+   "Public Expose",
+   "Keterbukaan Informasi",
+   "Prospek 2027"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/31e020307a_0c5653aaf4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-bfin-rp35-per-saham-cair-17-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim BFIN Rp35 per Saham, [Cair] 17 Desember 2026",
+  "deck": "BFI Finance membagikan dividen interim tahun buku 2026 sebesar Rp35 per saham, total Rp516,2 miliar, dibayar 17 Desember 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BFIN",
+   "dividen interim",
+   "BFI Finance",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2d7837a6dc_fe7d0f6b13.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "neraca-pembayaran-ri-surplus-tipis-di-triwulan-iii-2026",
   "category": "Makroekonomi",
   "title": "Neraca Pembayaran RI [Surplus] Tipis di Triwulan III 2026",
@@ -6493,39 +6525,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a39a87629_67c95896a7.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun",
-  "category": "Bisnis",
-  "title": "Peserta JKN Tembus [285,7] Juta, Klaim Rp1.279 Triliun",
-  "deck": "BPJS Kesehatan mencatat lebih dari 285,7 juta peserta JKN per awal November 2026, dengan total klaim ke rumah sakit tembus Rp1.279 triliun sejak 2014 lewat iuran gotong royong peserta.",
-  "date": "11 November 2026",
-  "image": "assets/img/peserta-jkn-tembus-285-7-juta-klaim-rp1-279-triliun.jpg",
-  "imageV": "mwbq4kq9",
-  "tags": [
-   "JKN",
-   "BPJS Kesehatan",
-   "gotong royong",
-   "layanan kesehatan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477746-program-jaminan-kesehatan-nasional-jadi-pahlawan-bagi-sesama"
- },
- {
-  "slug": "pnm-luncurkan-kredit-perempuan-prasejahtera-8-di-batam",
-  "category": "UMKM",
-  "title": "PNM Luncurkan Kredit Perempuan Prasejahtera [8%] di Batam",
-  "deck": "PNM meluncurkan kredit berbunga 8 persen bagi nasabah Mekaar di Batam untuk memperluas akses modal usaha ultra mikro perempuan prasejahtera.",
-  "date": "11 November 2026",
-  "image": "assets/img/pnm-luncurkan-kredit-perempuan-prasejahtera-8-di-batam.jpg",
-  "imageV": "mwbq4l5w",
-  "tags": [
-   "PNM",
-   "KPPS",
-   "Mekaar",
-   "Batam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477742-pnm-siapkan-kredit-perempuan-prasejahtera-8-perluas-peluang-usaha-perempuan-di-batam"
  }
 ];

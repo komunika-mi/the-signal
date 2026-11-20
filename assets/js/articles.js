@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "vktr-bantah-ikut-konsorsium-bidik-saham-weda-bay-eramet",
+  "category": "Aksi Korporasi",
+  "title": "VKTR [Bantah] Ikut Konsorsium Bidik Saham Weda Bay Eramet",
+  "deck": "VKTR membantah keterlibatan dalam rencana konsorsium Bakrie dan Haji Isam membeli saham Weda Bay milik Eramet, menegaskan tak ada dampak material pada operasional maupun keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T07:11:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5417e7e6f7_3712095adb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VKTR",
+  "tags": [
+   "VKTR",
+   "Bursa Efek Indonesia",
+   "Klarifikasi Media",
+   "Weda Bay"
+  ],
+  "body": [
+   "PT VKTR Teknologi Mobilitas Tbk memberikan tanggapan resmi kepada Bursa Efek Indonesia (BEI) atas permintaan penjelasan lewat surat nomor S-14257/BEI.PP3/11-2026 tanggal 18 November 2026, terkait pemberitaan Kontan pada 13 November 2026 berjudul \"Kongsi Bakrie (VKTR) dan Haji Isam (PACK) Bidik Saham Weda Bay Milik Eramet\". Dalam surat tanggapan bernomor 2144/L/VKTR/CRSC-IDX/11-2026 yang disampaikan 19 November 2026 dan ditandatangani Direktur/Corporate Secretary Indah Permatasari Saugi, VKTR menyatakan dengan tegas tidak memiliki keterkaitan maupun peran apa pun dalam rencana pembentukan konsorsium yang diberitakan tersebut.",
+   "Perseroan menegaskan bahwa pemberitaan yang mengaitkan VKTR dengan rencana pembelian saham proyek Weda Bay milik Eramet tidak merepresentasikan posisi perusahaan, dan tidak mengakibatkan maupun berpotensi mengakibatkan dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, atau kelangsungan usaha VKTR. VKTR juga menyatakan bahwa sampai tanggal surat tersebut, tidak ada informasi atau fakta material apa pun yang belum disampaikan ke publik, termasuk soal rencana transaksi atau aksi korporasi lain yang melibatkan perusahaan.",
+   "Dalam surat yang sama, VKTR turut menanggapi pemberitaan soal anak usahanya, PT Indo Pacific Critical Minerals (IPCM). Perseroan merujuk pada keterbukaan informasi yang sudah disampaikan sebelumnya lewat surat nomor 1900/L/VKTR/CRSC-OJK/10-2026 tanggal 15 Oktober 2026, dan menegaskan seluruh informasi material terkait IPCM yang wajib diungkapkan sudah termuat di surat tersebut, tanpa ada tambahan informasi material baru per tanggal surat tanggapan ini."
+  ],
+  "fotoAdegan": "Heavy haul trucks moving reddish nickel ore at a large open-pit mine in eastern Indonesia, dusty midday light",
+  "takeaway": "Laporan ini netral bagi fundamental VKTR, sebab isinya adalah bantahan atas spekulasi media soal rencana ikut konsorsium membeli saham tambang Weda Bay, bukan transaksi atau aksi korporasi nyata yang mengubah posisi perusahaan. Karena tidak ada transaksi yang benar-benar terjadi, pos-pos yang biasa dicermati pelaku pasar seperti ekuitas (modal pemegang saham), arus kas, beban bunga, jumlah saham beredar, dan laba per saham VKTR semuanya tetap tidak tersentuh oleh surat ini. Yang perlu dipantau berikutnya adalah apakah di kemudian hari VKTR benar menerbitkan keterbukaan informasi baru soal rencana transaksi atau aksi korporasi nyata, sebab dokumen ini sendiri tidak menyebut rencana konkret maupun tanggal apa pun ke depan.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Pemberitaan Media Massa"
+ },
+ {
   "slug": "akra-akuisisi-saham-apr-dari-bp-rp257-miliar-non-material",
   "category": "Aksi Korporasi",
   "title": "AKRA Akuisisi Saham APR dari BP Rp257 Miliar: [Non-Material]",
@@ -38764,8 +38791,8 @@ var ARTICLES = [
  {
   "slug": "nine-panggil-rupslb-bahas-rights-issue-2-44-miliar-saham",
   "category": "Aksi Korporasi",
-  "title": "NINE Panggil RUPSLB, Bahas [Rights Issue] 2,44 Miliar Saham",
-  "deck": "Techno9 Indonesia mengundang RUPSLB 18 November 2026, agendakan pergantian direksi-komisaris, rights issue hingga 2,44 miliar saham, dan penerbitan surat utang baru.",
+  "title": "RUPSLB NINE 18 November: [Right Issue] 2,44 Miliar Saham Disetujui",
+  "deck": "RUPSLB Techno9 Indonesia (NINE) merampungkan tiga agenda: rights issue hingga 2,44 miliar saham, penerbitan surat utang baru, dan pergantian direksi-komisaris, semua disetujui dengan kuorum 51,94%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "27 Oktober 2026",
   "isoDate": "2026-10-27T17:39:34",
@@ -38779,14 +38806,24 @@ var ARTICLES = [
    "Techno9 Indonesia"
   ],
   "body": [
-   "PT Techno9 Indonesia Tbk (NINE) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 18 November 2026 pukul 14.00 WIB di HARRIS Suites Puri Mansion, Jakarta Barat. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan Senin, 26 Oktober 2026 berhak hadir dan memberikan suara, baik secara fisik, secara elektronik lewat aplikasi eASY.KSEI, maupun melalui kuasa.",
-   "Agenda pertama adalah perombakan direksi dan komisaris. Perseroan mengangkat Tan Jun Yong sebagai direktur baru, sehingga susunan direksi menjadi Direktur Utama Teo Bee Cheng bersama direktur Boas P. Panjaitan, Irwan Dharma Kusuma, Koh Hui Ling, dan Tan Jun Yong. Di jajaran komisaris, Hoe Tat Kai diangkat sebagai komisaris baru, melengkapi Komisaris Utama Poh Kay Ping, Komisaris Noprian Fadli, dan Komisaris Independen Venantius Agung Passinoraga. Masa jabatan susunan baru ini berlaku sejak penutupan RUPSLB sampai penutupan RUPS Tahunan 2030.",
-   "Agenda kedua meminta persetujuan pemegang saham atas penambahan modal dengan hak memesan efek terlebih dahulu (rights issue), dengan jumlah saham baru yang akan diterbitkan sebanyak-banyaknya 2.443.000.000 lembar bernilai nominal Rp10 per saham. Direksi diberi kuasa penuh untuk menentukan rasio saham baru terhadap saham lama, harga pelaksanaan, penggunaan dana hasil rights issue, dan jadwal pelaksanaannya, termasuk menandatangani prospektus dan mencatatkan saham baru di Bursa Efek Indonesia. Agenda ketiga meminta persetujuan penerbitan surat utang dengan jumlah pokok di bawah 50 persen dari total ekuitas Perseroan berdasarkan laporan keuangan audit terakhir, juga dengan kuasa penuh kepada direksi untuk menetapkan syarat dan ketentuannya.",
-   "Bagi pemegang saham yang ingin memberi kuasa secara fisik, salinan cetak Surat Kuasa harus diterima Perseroan paling lambat Senin, 16 November 2026, dua hari kerja sebelum rapat. Sementara deklarasi kehadiran atau kuasa elektronik lewat aplikasi eASY.KSEI harus disampaikan paling lambat pukul 12.00 WIB, satu hari kerja sebelum tanggal rapat."
+   "RUPSLB Techno9 Indonesia Tbk (NINE) yang digelar Rabu, 18 November 2026, menyetujui seluruh tiga agenda yang diajukan: pergantian susunan direksi dan komisaris, rencana penambahan modal dengan hak memesan efek terlebih dahulu (rights issue) sebanyak-banyaknya 2.443.000.000 saham baru bernilai nominal Rp10 per saham, dan penerbitan surat utang baru dengan pokok di bawah 50 persen dari total ekuitas perusahaan. Rapat dihadiri pemegang saham yang mewakili 1.120.257.192 saham atau 51,94 persen dari total 2.157.000.000 saham berhak suara, sehingga kuorum terpenuhi untuk seluruh agenda.",
+   "Pada pemungutan suara, agenda pergantian direksi dan komisaris disetujui 99,44 persen suara, dengan 0,56 persen tidak setuju dan 0,02 persen abstain. Agenda rights issue disetujui 99,71 persen suara, dengan 0,29 persen tidak setuju dan 0,02 persen abstain. Agenda penerbitan surat utang disetujui 99,71 persen suara, dengan 0,29 persen tidak setuju dan 0,21 persen abstain. Direksi diberi kuasa penuh untuk menentukan rasio, harga pelaksanaan, penggunaan dana, dan jadwal pelaksanaan rights issue, termasuk menandatangani prospektus dan mencatatkan saham baru di Bursa Efek Indonesia, karena rincian itu belum ditetapkan dalam rapat.",
+   "Dengan persetujuan ini, susunan direksi Perseroan terhitung sejak penutupan rapat sampai penutupan RUPS Tahunan 2030 adalah Direktur Utama Teo Bee Cheng bersama direktur Boas P. Panjaitan, Irwan Dharma Kusuma, Koh Hui Ling, dan direktur baru Tan Jun Yong. Susunan komisaris menjadi Komisaris Utama Poh Kay Ping, Komisaris Noprian Fadli, Komisaris Independen Venantius Agung Passinoraga, dan komisaris baru Hoe Tat Kai.",
+   "Techno9 pertama kali mengundang RUPSLB ini lewat pemberitahuan pada 27 Oktober 2026, saat perusahaan tengah menghadapi kondisi rugi yang membesar seperti terungkap dalam jawabannya ke bursa sebelumnya. Rencana rights issue dan surat utang baru itu kini resmi disahkan pemegang saham, meski besaran rasio, harga pelaksanaan, dan jadwal penerbitannya masih menunggu keputusan direksi."
   ],
   "fotoAdegan": "Hotel ballroom staff arranging empty rows of chairs before a corporate shareholders meeting, soft early morning light",
-  "takeaway": "Laporan ini condong negatif bagi Techno9, karena agenda RUPSLB menegaskan dua rencana pendanaan sekaligus, rights issue hingga 2,44 miliar saham baru dan penerbitan surat utang baru, di tengah kondisi rugi yang sudah membesar seperti terungkap dalam jawaban Techno9 ke bursa pekan lalu. Rights issue menambah jumlah saham beredar sehingga laba per saham pemegang saham lama bisa terdilusi signifikan, sementara surat utang baru menambah beban bunga yang harus dibayar perusahaan ke depan, dua pos yang biasanya diawasi ketat pelaku pasar saat perusahaan sedang merugi. Perombakan direksi dan komisaris yang dibahas dalam rapat yang sama juga pantas dicermati karena terjadi bersamaan dengan rencana penggalangan dana besar ini. Yang perlu dipantau selanjutnya adalah hasil RUPSLB pada 18 November 2026, termasuk rasio dan harga pelaksanaan rights issue yang baru akan ditentukan direksi setelah rapat disetujui.",
-  "sentimen": "negatif"
+  "takeaway": "Laporan ini tetap condong negatif bagi Techno9, karena RUPSLB justru mengesahkan dua rencana pendanaan yang sebelumnya baru berupa usulan, rights issue hingga 2,44 miliar saham baru dan surat utang dengan pokok di bawah separuh ekuitas perusahaan, keduanya disetujui dengan suara setuju di atas 99 persen. Rights issue akan menambah jumlah saham beredar sehingga laba per saham pemegang saham lama berpotensi terdilusi, sementara surat utang baru menambah beban bunga yang harus ditanggung perusahaan ke depan, dua pos yang biasanya diawasi ketat investor terutama karena persetujuan ini datang di tengah kondisi rugi yang sudah membesar. Perombakan susunan direksi dan komisaris yang disahkan di rapat yang sama, termasuk masuknya direktur dan komisaris baru, langsung berlaku sejak penutupan rapat hingga 2030. Yang perlu dipantau selanjutnya adalah rasio dan harga pelaksanaan rights issue serta jadwal penerbitan prospektus, yang belum ditentukan dalam dokumen ini karena kuasa penetapannya masih di tangan direksi.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T07:33:26",
+    "ringkas": "RUPSLB NINE menyetujui rights issue hingga 2,44 miliar saham, penerbitan surat utang baru, dan pergantian direksi-komisaris dengan kuorum 51,94%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/354d28a1f5_ae8155f920.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-20T07:33:26",
+  "peristiwa": "rups"
  },
  {
   "slug": "msin-paparkan-strategi-v-short-dan-integrasi-rcti-vision",

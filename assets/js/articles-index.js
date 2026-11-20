@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "vktr-bantah-ikut-konsorsium-bidik-saham-weda-bay-eramet",
+  "category": "Aksi Korporasi",
+  "title": "VKTR [Bantah] Ikut Konsorsium Bidik Saham Weda Bay Eramet",
+  "deck": "VKTR membantah keterlibatan dalam rencana konsorsium Bakrie dan Haji Isam membeli saham Weda Bay milik Eramet, menegaskan tak ada dampak material pada operasional maupun keuangan.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VKTR",
+   "Bursa Efek Indonesia",
+   "Klarifikasi Media",
+   "Weda Bay"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5417e7e6f7_3712095adb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "akra-akuisisi-saham-apr-dari-bp-rp257-miliar-non-material",
   "category": "Aksi Korporasi",
   "title": "AKRA Akuisisi Saham APR dari BP Rp257 Miliar: [Non-Material]",
@@ -6512,22 +6528,6 @@ var ARTICLES = [
    "due diligence"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d4aa45bf_ebd3f7978d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "raja-salurkan-pinjaman-rp101-8-m-ke-anak-usaha-afiliasi",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Salurkan Pinjaman Rp101,8 M ke Anak Usaha [Afiliasi]",
-  "deck": "EHK, anak usaha RAJA, meminjamkan USD5,87 juta ke APE untuk mendanai operasional pengangkutan gas, berbunga 7,5 persen per tahun hingga akhir 2028.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "transaksi afiliasi",
-   "EHK",
-   "APE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a76b81475d_3b15f3a34f.pdf",
   "sourceLabel": "IDX"
  }
 ];

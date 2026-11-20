@@ -3,6 +3,232 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Material MARI Rp406 Miliar: [Right Issue] CAST Tunggu RUPS",
+  "deck": "MARI ajukan transaksi material Rp406,35 miliar untuk konversi utang dan penyertaan modal baru di anak usahanya, CAST, menanti persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:41:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/35edba8c8b_b2e2918e1a.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MARI",
+  "tags": [
+   "MARI",
+   "Transaksi Material",
+   "CAST",
+   "RUPS"
+  ],
+  "body": [
+   "PT Mahaka Radio Integra Tbk (MARI) menyampaikan keterbukaan informasi tentang rencana transaksi material senilai US$22.477.778, atau setara Rp406.353.270.684 berdasarkan kurs tengah Bank Indonesia per 31 Juli 2026 sebesar Rp18.078 per dolar AS. Transaksi ini menyangkut restrukturisasi permodalan Creative Audio Stream Technology Pte Ltd (CAST), anak usaha di bidang teknologi audio digital yang sahamnya dipegang lewat PT Mahaka Digital Inovasi (MDI). Karena nilainya setara 135 persen dari total aset Perseroan per 31 Juli 2026, jauh di atas ambang 25 persen, transaksi ini wajib mendapat persetujuan Rapat Umum Pemegang Saham sesuai aturan OJK tentang transaksi material.",
+   "Transaksi terdiri atas tiga bagian. Pertama, konversi utang senilai US$21,5 juta atau Rp388,677 miliar yang diterima CAST dari lima investor, yaitu Northstar, Alpha JWC, AJWCS, SEA Audio, dan Kinesys Group, berdasarkan Convertible Loan Agreement yang diteken 8 April 2022 dan terakhir diubah 8 Januari 2026. Utang itu akan dikonversi menjadi Saham Preferen Kelas A di CAST. Kedua, penyertaan modal JIA Investments Limited senilai US$700.000 untuk 197.694 saham preferen kelas A, sesuai perjanjian 24 April 2025. Ketiga, penyertaan modal tambahan JIA tahap pertama senilai US$277.778 atau Rp5 miliar untuk 78.451 saham preferen kelas A, berdasarkan perjanjian baru 13 November 2026. Tahap kedua dari komitmen JIA, senilai maksimum US$277.778 lagi, belum terealisasi sehingga tidak dihitung dalam nilai transaksi material ini.",
+   "Seluruh transaksi ini akan mengubah struktur permodalan dan komposisi kepemilikan saham di CAST, sehingga porsi kepemilikan MDI, yang 75 persennya dimiliki MARI, di CAST, yang saat ini 67,6 persen, akan terdilusi. Perseroan menegaskan pemegang saham pengendali di CAST tidak berubah, dan transaksi ini bukan transaksi afiliasi maupun transaksi benturan kepentingan. Penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menyimpulkan rencana transaksi ini wajar. MARI mencatat rugi periode berjalan Rp21,26 miliar untuk tujuh bulan pertama 2026, membaik dari rugi Rp41,54 miliar pada periode yang sama 2025, namun ekuitas konsolidasiannya tetap negatif Rp154,349 miliar per 31 Juli 2026, makin dalam dari negatif Rp104,623 miliar per akhir 2025, sehingga acuan materialitas transaksi memakai total aset, bukan ekuitas, sesuai aturan OJK untuk emiten berekuitas negatif."
+  ],
+  "fotoAdegan": "Hands adjusting dials on an audio mixing console in a dim sound technology studio, close-up, evening light",
+  "takeaway": "Laporan ini kami nilai netral bagi MARI, karena dua dampaknya saling menyeimbangkan dan tidak jelas mana yang lebih dominan. Yang tersentuh adalah pos utang dan ekuitas: begitu utang investor dikonversi menjadi saham, kewajiban jangka panjang Rp388,677 miliar di buku konsolidasian MARI akan lenyap sehingga beban utang grup berkurang besar, tapi saham pengganti utang itu dimiliki pihak luar, bukan MARI, sehingga ke depan bagian laba CAST yang mengalir ke MARI lewat MDI akan lebih kecil dari sekarang. Perlu dicatat juga ekuitas konsolidasian MARI sendiri sudah negatif dan makin dalam dibanding akhir tahun lalu, artinya total utang perusahaan sudah melampaui total asetnya, meski rugi tahun berjalan sebenarnya mengecil dibanding tahun lalu. Yang perlu dipantau selanjutnya adalah hasil RUPS yang akan memutuskan restu atau tidaknya transaksi ini, karena nilainya jauh di atas ambang wajib RUPS, serta apakah pendanaan tahap kedua dari JIA senilai maksimum US$277.778 akan benar-benar terealisasi.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Penyampaian Informasi rencana Transaksi material - Rencana Transaksi Material Dengan Persetujuan RUPS"
+ },
+ {
+  "slug": "waran-terstruktur-dr-disesuaikan-usai-bbca-bagi-dividen-rp35",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR [Disesuaikan] usai BBCA Bagi Dividen Rp35",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur BBCA (DR) menyusul dividen tunai Rp35 per saham dari BBCA, efektif 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:38:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8a629d1e5_6a6f42271b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "BBCA",
+   "Waran Terstruktur",
+   "Dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit Waran Terstruktur dengan kode DR, mengumumkan penyesuaian syarat dan ketentuan waran tersebut karena saham acuannya, PT Bank Central Asia Tbk (BBCA), akan membagikan dividen tunai untuk tahun buku 2026. Berdasarkan keputusan Direksi BBCA yang disetujui Dewan Komisaris pada 19 November 2026, dividen ditetapkan sebesar Rp35 per saham dengan total nilai Rp4.296.650.487.500.",
+   "Jadwal pembagian dividen BBCA diatur sebagai berikut: cum dividen di pasar reguler dan negosiasi pada 27 November 2026, lalu ex dividen pada 30 November 2026. Di pasar tunai, cum dividen jatuh pada 1 Desember 2026 dan ex dividen pada 2 Desember 2026. Tanggal pencatatan pemegang saham (recording date) yang berhak menerima dividen ditetapkan 1 Desember 2026 pukul 16.00 WIB, dengan pembayaran dividen dijadwalkan paling lambat 16 Desember 2026.",
+   "Sesuai Term Sheet dan Prospektus Waran Terstruktur BBCA, rasio pelaksanaan dan harga pelaksanaan waran akan disesuaikan dengan formula yang memperhitungkan harga penutupan BBCA pada hari bursa terakhir sebelum status cum dividen berakhir, dikurangi nilai dividen per saham, dibagi harga penutupan tersebut. RHB Sekuritas juga menyebutkan bahwa penyesuaian ini bisa saja tidak dilakukan jika menurut kebijakan penerbit, tanpa kewajiban apa pun kepada pemegang waran, penyesuaian dianggap tidak diperlukan."
+  ],
+  "fotoAdegan": "Bank customers queueing at a teller counter inside a modern branch, soft morning light, Jakarta financial district.",
+  "takeaway": "Penyesuaian ini netral bagi DR karena sifatnya murni teknis, mengikuti aturan baku produk waran terstruktur ketika saham acuannya membagi dividen, bukan cerminan kondisi keuangan RHB Sekuritas maupun BBCA. Yang tersentuh adalah rasio dan harga pelaksanaan waran, bukan laporan keuangan: waran terstruktur adalah produk turunan yang nilainya mengikuti harga saham BBCA, dan karena harga saham BBCA otomatis terkoreksi turun sebesar nilai dividen begitu status dagangnya berubah dari cum ke ex dividen, rasio dan harga pelaksanaan waran perlu disesuaikan agar pemegang waran tidak dirugikan semata oleh koreksi itu. Yang perlu dipantau adalah tanggal pencatatan pemegang saham BBCA pada 1 Desember 2026 pukul 16.00 yang menentukan siapa berhak atas dividen Rp35 per saham itu, serta harga penutupan BBCA pada hari bursa terakhir sebelum ex dividen, karena dari situlah formula penyesuaian rasio dan harga pelaksanaan waran dihitung. Pembayaran dividen final dijadwalkan 16 Desember 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi terkait Perubahan Syarat dan Ketentuan WT BBCA",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Tanggal efektif rencana dividen BBCA"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Cum dividen BBCA di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex dividen BBCA di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Cum dividen pasar tunai dan recording date pemegang saham BBCA"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Ex dividen BBCA di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Pembayaran dividen tunai BBCA"
+   }
+  ]
+ },
+ {
+  "slug": "waran-terstruktur-dr-disesuaikan-usai-bfin-bagi-dividen-rp35-rasio",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR Disesuaikan usai BFIN Bagi Dividen Rp35 [Rasio]",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur BFIN setelah BFI Finance mengumumkan dividen tunai Rp35 per saham, total Rp516,2 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:38:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/85dd77a5ff_09d5d2abf3.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "BFIN",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT RHB Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten DR, mengumumkan penyesuaian rasio pelaksanaan dan harga pelaksanaan untuk waran terstruktur yang saham acuannya PT BFI Finance Indonesia Tbk (BFIN). Penyesuaian ini dilakukan karena BFIN akan membagikan dividen tunai untuk tahun buku 2026 sebesar Rp35 per saham, dengan total nilai dividen Rp516.228.426.700. Keputusan pembagian dividen ini diambil Direksi BFIN dan telah disetujui Dewan Komisaris pada 18 November 2026.",
+   "Jadwal pembagian dividen BFIN diatur sebagai berikut: tanggal efektif 18 November 2026, cum dividen di pasar reguler dan negosiasi pada 30 November 2026, lalu ex dividen di pasar yang sama pada 1 Desember 2026. Di pasar tunai, cum dividen jatuh pada 2 Desember 2026 dan ex dividen pada 3 Desember 2026. Pemegang saham BFIN yang tercatat dalam Daftar Pemegang Saham (DPS) pada 2 Desember 2026 pukul 16.00 berhak menerima dividen, yang akan dibayarkan paling lambat 17 Desember 2026.",
+   "Sesuai syarat dan ketentuan dalam Term Sheet dan Bagian 3 Prospektus Waran Terstruktur BFIN, rasio dan harga pelaksanaan waran akan disesuaikan dengan formula yang memperhitungkan harga penutupan saham BFIN pada hari bursa terakhir sebelum ex dividen serta besaran dividen per saham. RHB Sekuritas menyebutkan bahwa penyesuaian ini bisa saja tidak dilakukan jika penerbit, berdasarkan kebijakannya sendiri dan tanpa kewajiban apa pun kepada pemegang waran terstruktur, menilai penyesuaian tidak diperlukan."
+  ],
+  "fotoAdegan": "Rows of motorbikes parked at an Indonesian multifinance showroom lot, staff assisting a customer, warm afternoon light",
+  "takeaway": "Penyesuaian ini netral bagi DR, karena sifatnya murni mekanisme teknis baku produk waran terstruktur ketika saham acuannya membagi dividen, bukan cerminan kondisi keuangan RHB Sekuritas sendiri. Yang berubah adalah rasio dan harga pelaksanaan waran, bukan laba atau arus kas RHB Sekuritas, sebab pembagian dividen BFIN membuat harga saham BFIN otomatis turun sebesar nilai dividen pada tanggal ex dividen, sehingga nilai acuan waran perlu disesuaikan agar pemegang waran tidak ikut menanggung penurunan harga akibat dividen itu. Pelaku pasar waran terstruktur memperhatikan penyesuaian semacam ini karena langsung memengaruhi berapa banyak saham acuan yang bisa diperoleh pemegang waran saat jatuh tempo dan pada harga berapa. Yang perlu dipantau selanjutnya adalah harga penutupan saham BFIN pada 1 Desember 2026, sehari sebelum ex dividen, karena angka itu menjadi dasar hitungan rasio dan harga pelaksanaan baru, serta tanggal pembayaran dividen BFIN pada 17 Desember 2026 sebagai penanda selesainya proses ini.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi terkait Perubahan Syarat dan Ketentuan WT BFIN",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Tanggal efektif rencana dividen BFIN"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum dividen BFIN di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen BFIN di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Cum dividen BFIN di pasar tunai, tanggal DPS pukul 16.00"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Ex dividen BFIN di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "Pembayaran dividen BFIN Rp35 per saham"
+   }
+  ]
+ },
+ {
+  "slug": "akuisisi-jpfa-jfi-ambil-alih-tcl-dan-tct-dari-tigaraksa-satria",
+  "category": "Aksi Korporasi",
+  "title": "[Akuisisi] JPFA: JFI Ambil Alih TCL dan TCT dari Tigaraksa Satria",
+  "deck": "Japfa Food Indonesia, anak usaha JAPFA, menandatangani perjanjian membeli 168.000 saham (60%) TCL dan 100 saham (1%) TCT dari Tigaraksa Satria, memperkuat kendali atas logistik rantai dingin.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:33:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20d27f55ab_c2c3fe8b6b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JPFA",
+  "tags": [
+   "JPFA",
+   "akuisisi",
+   "Tigaraksa Satria",
+   "logistik rantai dingin"
+  ],
+  "body": [
+   "PT Japfa Comfeed Indonesia Tbk (JPFA) mengumumkan bahwa anak usahanya, PT Japfa Food Indonesia (JFI), yang 99,94 persen sahamnya dipegang langsung oleh JPFA, pada 20 November 2026 menandatangani Perjanjian Jual Beli Saham Bersyarat dengan PT Tigaraksa Satria Tbk. Lewat perjanjian ini, JFI akan membeli seluruh saham milik Tigaraksa Satria di dua perusahaan, yaitu 168.000 saham atau 60 persen dari modal disetor PT Tira Cipta Logistik (TCL), serta 100 saham atau 1 persen dari modal disetor PT Tira Cipta Transportasi (TCT).",
+   "Sebelum transaksi dengan Tigaraksa Satria selesai, JFI juga akan membeli saham TCL dan TCT yang selama ini dipegang oleh PT Proteindotama Cipta Pangan (PCP), anak usaha JPFA lainnya, yaitu 112.000 saham atau 40 persen saham TCL dan 100 saham atau 1 persen saham TCT. Jika kedua transaksi ini tuntas, JFI akan menguasai seluruh saham TCL sehingga TCL menjadi anak usaha yang sepenuhnya dimiliki JFI, dan secara tidak langsung ikut menguasai saham TCT. Karena PCP dan JFI sama-sama dikendalikan oleh JPFA dengan kepemilikan minimal 99 persen, pembelian saham dari PCP ini tergolong transaksi afiliasi berdasarkan POJK No. 42/2020, dan JPFA wajib melaporkannya ke OJK paling lambat akhir hari kerja kedua setelah tanggal transaksi tersebut dilakukan.",
+   "Tujuan seluruh transaksi ini adalah agar JPFA, lewat JFI, memperoleh kendali atas kegiatan logistik rantai dingin (cold chain) yang dijalankan TCL dan TCT, sehingga keduanya sepenuhnya berada dalam grup JAPFA. Transaksi dengan Tigaraksa Satria akan dirampungkan melalui penandatanganan akta jual beli saham di hadapan notaris, setelah seluruh syarat pendahuluan terpenuhi atau dikesampingkan oleh para pihak. JPFA menyatakan transaksi ini bukan transaksi afiliasi, bukan transaksi benturan kepentingan, dan bukan transaksi material menurut aturan OJK, serta tidak berdampak negatif terhadap operasional maupun kondisi keuangan perusahaan."
+  ],
+  "fotoAdegan": "Refrigerated delivery trucks parked at a cold storage warehouse loading dock, workers in jackets moving crates, early morning light",
+  "takeaway": "Transaksi ini condong netral bagi JPFA, karena perusahaan sendiri menegaskan ini bukan transaksi material, artinya nilainya relatif kecil dibanding skala bisnis JAPFA secara keseluruhan, dan tidak ada harga pembelian yang diungkap ke publik. Pos kinerja yang tersentuh adalah ekuitas, karena setelah transaksi ini JFI akan memiliki seluruh saham TCL sehingga porsi kepemilikan pihak luar hilang dari laporan konsolidasi, dan arus kas, karena pembelian saham ini membutuhkan dana tunai dari JFI meski jumlahnya tidak disebutkan dalam dokumen. Yang perlu dipantau selanjutnya adalah penandatanganan akta jual beli saham secara notariil setelah seluruh syarat pendahuluan terpenuhi atau dikesampingkan para pihak, karena dokumen ini belum menyebut tanggal pastinya, serta laporan Pengalihan Saham PCP ke OJK yang wajib disampaikan paling lambat akhir hari kerja kedua setelah transaksi itu terjadi.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi mengenai Perjanjian Jual Beli Saham Bersyarat"
+ },
+ {
+  "slug": "penyesuaian-harga-waran-zp-imbas-dividen-bbca-efektif-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Penyesuaian Harga Waran ZP Imbas Dividen BBCA, [Efektif] 30 November",
+  "deck": "Harga pelaksanaan dan rasio konversi waran terstruktur ZP atas saham BBCA disesuaikan menyusul dividen interim Rp35 per saham, efektif mulai 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:28:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/881e1bbadb_bcff4ee376.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "BBCA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia, penerbit waran terstruktur dengan kode emiten ZP, mengumumkan penyesuaian harga pelaksanaan dan rasio konversi untuk dua waran terstrukturnya, BBCAZPCZ6A dan BBCAZPCH7A. Keduanya merupakan waran yang mengacu pada saham PT Bank Central Asia Tbk (BBCA). Penyesuaian dilakukan menyusul pengumuman BBCA pada 19 November 2026 mengenai pembagian dividen interim tahun buku 2026 sebesar Rp35 per saham.",
+   "Sesuai syarat dan ketentuan dalam prospektus waran tertanggal 11 April 2025, harga pelaksanaan baru dihitung dengan mengurangkan Rp35 dari harga perdagangan terakhir BBCA pada cum-date, membaginya dengan harga tersebut, lalu mengalikannya dengan harga pelaksanaan lama. Rasio konversi baru dihitung dengan rumus serupa terhadap rasio konversi lama. Penyesuaian ini berlaku pada tanggal ex dividen BBCA, yaitu 30 November 2026 untuk Pasar Reguler dan Negosiasi, serta 2 Desember 2026 untuk Pasar Tunai.",
+   "Maybank Sekuritas Indonesia selaku penerbit mencantumkan klausul bahwa penyesuaian ini bisa saja tidak dilakukan apabila berdasarkan kebijakannya sendiri dianggap tidak diperlukan, tanpa kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "Wide view of Jakarta's financial district skyscrapers under afternoon light, light traffic on the street below",
+  "takeaway": "Penyesuaian ini bersifat netral karena murni mengikuti rumus baku yang sudah ditetapkan sejak prospektus waran terbit pada April 2025, bukan keputusan bisnis baru dari Maybank Sekuritas Indonesia atau BBCA. Yang tersentuh adalah harga pelaksanaan dan rasio konversi waran, yakni syarat berapa rupiah yang harus dibayar pemegang waran untuk menukarnya jadi saham BBCA dan berapa banyak waran yang dibutuhkan untuk satu saham tersebut. Penyesuaian semacam ini penting karena dividen Rp35 per saham biasanya membuat harga saham BBCA turun otomatis pada tanggal ex dividen, sehingga tanpa penyesuaian nilai waran bisa tergerus meski bukan karena kinerja BBCA memburuk. Yang perlu dipantau adalah tanggal ex dividen di Pasar Reguler dan Negosiasi pada 30 November 2026 dan di Pasar Tunai pada 2 Desember 2026, karena saat itulah formula penyesuaian ini resmi berlaku, dengan catatan Maybank Sekuritas Indonesia tetap punya kebijakan untuk membatalkan penyesuaian ini sewaktu-waktu.",
+  "sentimen": "netral",
+  "judulIdx": "Keterbukaan Informasi terkait Penyesuaian Syarat Ketentuan WT BBCA",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex dividen BBCA di Pasar Reguler dan Negosiasi, penyesuaian waran ZP berlaku"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Ex dividen BBCA di Pasar Tunai, penyesuaian waran ZP berlaku"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-flmc-18-november-domisili-pindah-ke-kota-cimahi-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 18 November: [Domisili] Pindah ke Kota Cimahi Disetujui",
+  "deck": "RUPSLB FLMC menyetujui perubahan domisili ke Kota Cimahi, penyesuaian KBLI 2025, dan penambahan KBLI perusahaan induk untuk rencana anak usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:01:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/25aa080cf7_ce39892847.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "Perubahan Domisili",
+   "KBLI"
+  ],
+  "body": [
+   "PT Falmaco Nonwoven Industri Tbk (FLMC) menggelar Rapat Umum Pemegang Saham Luar Biasa pada 18 November 2026 di Bandung, dihadiri pemegang saham yang mewakili 604.484.600 saham atau 77,37 persen dari total 781.250.000 saham dengan hak suara yang sah. Jumlah itu memenuhi syarat kuorum dua pertiga yang diatur anggaran dasar perseroan. Rapat dipimpin oleh Donny Hartanto selaku Komisaris Independen, sementara pembahasan agenda disampaikan oleh Direktur Andre Rajasa.",
+   "Tiga agenda disetujui dengan hasil suara yang sama persis di setiap agenda: 604.484.500 suara setuju atau 99,99 persen, 100 suara tidak setuju, dan nol abstain. Agenda pertama menyesuaikan kode klasifikasi usaha (KBLI) perseroan ke KBLI tahun 2025 yang dikeluarkan Badan Pusat Statistik. Agenda kedua menambahkan KBLI 64210 soal aktivitas perusahaan induk, sebagai dasar hukum bila FLMC nanti mendirikan anak usaha. Dalam pembahasan agenda ini, resume studi kelayakan dibacakan oleh penilai independen Ir. Siti Zainab, MAPPI (Cert.). Agenda ketiga memindahkan domisili resmi perseroan dari Kabupaten Bandung Barat menjadi Kota Cimahi.",
+   "Sebagai konsekuensi keputusan itu, Pasal 1 anggaran dasar soal nama dan domisili serta Pasal 3 soal maksud dan bidang usaha akan disusun ulang. Daftar kegiatan usaha yang baru mencakup pembuatan kain nonwoven (KBLI 13993), industri kertas tisu (17091), industri bahan dan produk pembersih (20231), industri peralatan kedokteran dan kedokteran gigi (32509), industri produk lain (32909), perdagangan besar atas dasar fee atau kontrak (46100), dan aktivitas perusahaan induk (64210). Hasil rapat ini dituangkan dalam akta notaris tertanggal 18 November 2026, dan salinannya masih dalam proses penyelesaian di kantor notaris Mayasari Soegiharto."
+  ],
+  "fotoAdegan": "Rolls of white nonwoven fabric moving along an industrial production line, workers in uniforms checking machinery, factory lighting",
+  "takeaway": "Laporan ini netral bagi FLMC, karena ketiga agenda bersifat organisasional, yakni kode usaha dan lokasi domisili, bukan transaksi yang menggerakkan uang masuk atau keluar dari kas perseroan. Tidak ada pos ekuitas, arus kas, utang, atau jumlah saham beredar yang berubah lewat keputusan ini, sehingga belum berpengaruh ke laporan keuangan. Yang patut dicatat, penambahan izin sebagai perusahaan induk membuka jalan hukum bagi FLMC untuk mendirikan anak usaha di kemudian hari, tapi dokumen ini belum menyebut kapan atau dengan modal berapa rencana itu dijalankan. Yang lebih menentukan arah keuangan perseroan justru RUPSLB berikutnya pada 28 Desember 2026 yang akan membahas penambahan modal tanpa hak memesan efek terlebih dahulu untuk menambal defisiensi modal, dengan tanggal pencatatan pemegang saham 3 Desember dan pemanggilan rapat pada 4 Desember.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+ },
+ {
   "slug": "djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt",
   "category": "Makroekonomi",
   "title": "DJP Ingatkan Wajib Pajak [Cermati] Data Bukti Potong SPT",
@@ -4662,8 +4888,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-gtbo-18-november-rkab-disetujui-kuota-817-900-ton",
   "category": "Aksi Korporasi",
-  "title": "Public Expose GTBO 18 November: RKAB [Disetujui], Kuota 817.900 Ton",
-  "deck": "GTBO menggelar Public Expose Tahunan 18 November 2026, mengungkap RKAB 2026 disetujui dengan kuota produksi maksimal 817.900 ton setelah setahun tanpa izin produksi.",
+  "title": "Public Expose GTBO: [Capex] Didanai Bank Singapura, Uang Muka Pembeli",
+  "deck": "Hasil Public Expose GTBO 18 November: capex didanai pinjaman bank Singapura dan uang muka pembeli, serta diversifikasi produk bersih masih dikaji.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T13:56:02",
@@ -4677,13 +4903,14 @@ var ARTICLES = [
    "Batu Bara"
   ],
   "body": [
-   "PT Garda Tujuh Buana Tbk (GTBO) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 17 November 2026, menjelang acara publik yang digelar Rabu, 18 November 2026, di Ballroom Krakatau, Permata Kuningan Building Lantai 2, Jakarta. Materi itu mengungkapkan bahwa sepanjang 2025 kinerja perusahaan buruk karena Rencana Kerja dan Anggaran Biaya (RKAB), yakni izin tahunan dari pemerintah yang mengatur berapa banyak batu bara boleh ditambang, tidak diterbitkan sehingga GTBO sama sekali tidak bisa memproduksi dan menjual batu bara. Kondisi pasar batu bara global sendiri disebut stabil, baik dari sisi permintaan maupun harga.",
-   "Pembaruan untuk 2026 menunjukkan perbaikan. Kementerian Energi dan Sumber Daya Mineral melalui Direktorat Jenderal Mineral dan Batubara menyetujui RKAB GTBO lewat surat bertanggal 25 September 2026, dengan kuota produksi batu bara maksimal 817.900 ton untuk tahun ini. Perusahaan memperkirakan realisasi produksi sampai akhir Desember 2026 berada di kisaran 400.000 sampai 500.000 ton, dan sudah memiliki tiga kontrak penjualan batu bara, terdiri dari dua kontrak jangka panjang dan satu kontrak jangka pendek. Pengiriman batu bara pertama di tahun 2026 tercatat terjadi pada 17 November 2026, bertepatan dengan tanggal penyampaian materi ini ke bursa.",
-   "Materi tersebut juga mencantumkan data pasar saham GTBO. Jumlah saham yang tercatat di Bursa Efek Indonesia mencapai 2,5 miliar lembar, dengan kapitalisasi pasar per 31 Desember 2025 sebesar Rp595 miliar. Bagian laporan keuangan dan susunan pemegang saham dalam materi presentasi hanya memuat judul subbab tanpa tabel angka yang ikut terbaca dalam dokumen yang tersedia."
+   "PT Garda Tujuh Buana Tbk (GTBO) menyampaikan laporan hasil Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 20 November 2026, dua hari setelah acara publik digelar 18 November 2026 di Ballroom Krakatau, Permata Kuningan Building, Jakarta. Sesi tanya jawab dalam acara itu mengungkap informasi baru: belanja modal (capex) perusahaan saat ini dibiayai dari pinjaman bank di Singapura dan uang muka dari pembeli batu bara, karena GTBO masih mencatat kerugian. Manajemen juga menyebut sedang mempertimbangkan diversifikasi usaha ke produk batu bara yang lebih bersih, meski belum menjadi keputusan final.",
+   "Acara itu dihadiri 16 peserta di luar manajemen dan karyawan perusahaan, termasuk pemegang saham dan media, serta dipaparkan oleh Presiden Direktur Ganesh Tikamdas Ramchandani. Manajemen menjelaskan GTBO memiliki satu tambang batu bara di Pulau Bunyu, Kalimantan Utara, dan akan menempuh efisiensi lewat pemanfaatan teknologi serta pembelian bertahap peralatan tambang untuk mengurangi biaya sewa. Soal kewajiban menjual sebagian produksi ke pasar domestik (DMO), perusahaan hanya menyatakan akan mematuhi aturan yang berlaku tanpa merinci persentasenya.",
+   "Kabar yang sudah diketahui sebelumnya tetap berlaku: Kementerian Energi dan Sumber Daya Mineral menyetujui RKAB 2026 GTBO lewat surat bertanggal 25 September 2026, dengan kuota produksi maksimal 817.900 ton, setelah sepanjang 2025 perusahaan sama sekali tidak bisa berproduksi karena RKAB belum terbit. Perusahaan memperkirakan realisasi produksi sampai akhir Desember 2026 berada di kisaran 400.000 sampai 500.000 ton, dengan tiga kontrak penjualan batu bara yang terdiri dari dua kontrak jangka panjang dan satu kontrak jangka pendek. Pengiriman batu bara pertama di tahun 2026 sudah terjadi pada 17 November 2026.",
+   "Jumlah saham GTBO yang tercatat di Bursa Efek Indonesia mencapai 2,5 miliar lembar, dengan kapitalisasi pasar per 31 Desember 2025 sebesar Rp595 miliar."
   ],
   "fotoAdegan": "Coal trucks loading mineral ore at an open-pit mine, dusty haul road, overcast tropical sky",
-  "takeaway": "Laporan ini condong positif karena menunjukkan pemulihan operasional GTBO setelah sepanjang 2025 perusahaan sama sekali tidak bisa berproduksi akibat RKAB belum terbit, dan kini pengiriman batu bara pertama di 2026 sudah terjadi. Yang tersentuh adalah arus kas perusahaan, yakni uang yang benar-benar masuk dari penjualan, karena setahun tanpa produksi berarti tidak ada pendapatan dari batu bara sama sekali sementara biaya operasional tetap berjalan. Meski begitu, kuota produksi 2026 dibatasi maksimal 817.900 ton dan sisa tahun ini hanya diperkirakan menyumbang 400.000 sampai 500.000 ton, jadi pemulihannya baru dimulai dan belum mengembalikan kapasitas penuh perusahaan. Yang perlu dipantau berikutnya adalah realisasi produksi sampai akhir Desember 2026 dibandingkan estimasi tersebut, serta apakah dua kontrak jangka panjang dan satu kontrak jangka pendek GTBO benar-benar terpenuhi.",
-  "sentimen": "positif",
+  "takeaway": "Laporan hasil public expose ini condong netral: sesi tanya jawab menegaskan bahwa GTBO masih mengandalkan pinjaman dari bank di Singapura dan uang muka pembeli untuk membiayai belanja modal, sementara perusahaan sendiri mengaku masih merugi. Pos yang tersentuh adalah arus kas dan beban bunga, yakni ongkos pinjaman yang harus dibayar perusahaan, karena pendanaan dari luar berarti sebagian hasil penjualan batu bara nanti terpakai untuk membayar utang dan bunganya, bukan murni menambah kas perusahaan. Di sisi lain, manajemen menyebut rencana efisiensi lewat teknologi dan pembelian bertahap alat tambang untuk mengurangi biaya sewa, serta sedang mempertimbangkan diversifikasi ke produk batu bara yang lebih bersih, meski ini masih sebatas wacana dan belum jadi keputusan. Yang perlu dipantau berikutnya adalah realisasi produksi GTBO sampai akhir Desember 2026 dibandingkan estimasi 400.000-500.000 ton, serta apakah rencana pembelian alat tambang dan kajian diversifikasi itu berlanjut menjadi langkah konkret.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
@@ -4699,7 +4926,16 @@ var ARTICLES = [
     "tanggal": "2026-11-18",
     "acara": "Public Expose Tahunan GTBO"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T16:04:47",
+    "ringkas": "Hasil Public Expose GTBO ungkap capex didanai pinjaman bank Singapura dan uang muka pembeli, diversifikasi produk bersih masih dikaji.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f82e857f82_b6d42cbdd9.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T16:04:47"
  },
  {
   "slug": "infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii",
@@ -8003,8 +8239,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-hajj-target-laba-bersih-rp15-miliar-di-2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose HAJJ: [Target] Laba Bersih Rp15 Miliar di 2026",
-  "deck": "Materi public expose tahunan HAJJ memuat target pendapatan Rp950 miliar dan laba bersih Rp15 miliar di 2026, meski kinerja sembilan bulan pertama justru melambat.",
+  "title": "Public Expose HAJJ 18 November: [Target 2026] Diyakini Tercapai",
+  "deck": "Public expose tahunan HAJJ terlaksana 18 November 2026; manajemen optimistis target laba bersih Rp15 miliar tahun ini masih bisa dikejar di kuartal IV, meski kinerja sembilan bulan pertama melambat.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 November 2026",
   "isoDate": "2026-11-13T17:56:17",
@@ -8013,18 +8249,20 @@ var ARTICLES = [
   "emiten": "HAJJ",
   "tags": [
    "HAJJ",
-   "Public Expose",
-   "Umrah dan Haji",
-   "Laporan Keuangan"
+   "public expose",
+   "kinerja keuangan",
+   "umrah haji"
   ],
   "body": [
-   "PT Arsy Buana Travelindo Tbk (HAJJ), penyedia jasa B2B untuk perjalanan umrah dan haji, menyampaikan materi public expose tahunan yang dijadwalkan berlangsung 18 November 2026 sesuai surat Nomor 089/ABT-CSL/XI/26. Dalam materi itu, manajemen memasang target 2026 berupa pendapatan Rp950 miliar, laba kotor Rp70 miliar, dan laba bersih Rp15 miliar, naik dari realisasi 2025 yang masing-masing tercatat Rp944,96 miliar, Rp90,76 miliar, dan Rp6,04 miliar.",
-   "Namun kinerja sembilan bulan pertama 2026 justru bergerak ke arah sebaliknya. Pendapatan turun dari Rp727,25 miliar pada periode yang sama 2025 menjadi Rp657,67 miliar, dengan laba bersih anjlok dari Rp35,50 miliar menjadi Rp8,82 miliar. Margin laba kotor ikut tergerus dari 12,54 persen menjadi 7,39 persen. Berdasarkan rincian segmen, penurunan terjadi di semua lini: pendapatan hotel turun dari Rp647,55 miliar menjadi Rp602,49 miliar, tiket pesawat dari Rp60,45 miliar menjadi Rp41,21 miliar, dan paket umrah dari Rp19,25 miliar menjadi Rp13,97 miliar.",
-   "Dari sisi operasional, Perseroan saat ini mengelola lima hotel dengan total 1.586 kamar dan 381.835 kamar malam per tahun di Mekkah dan Madinah, serta memegang lisensi MISA dari Kementerian Investasi Arab Saudi yang memungkinkan anak usahanya, ABT LLC, mengelola allotment hotel langsung di Arab Saudi. Manajemen menargetkan ekspansi menjadi 5.000 kamar pada 2029, disertai rencana pencatatan saham di Bursa Efek Saudi (Tadawul) pada tahun yang sama. Susunan manajemen terdiri dari Direktur Utama Saipul Bahri, Direktur Agung Prabowo, Komisaris Didik Ariyanto, dan Komisaris Independen Sammy T.S. Lalamentik."
+   "PT Arsy Buana Travelindo Tbk (HAJJ) melaksanakan public expose tahunan pada Rabu, 18 November 2026, pukul 14.00 hingga 15.10 WIB secara daring lewat Zoom, dihadiri 11 peserta dari kalangan investor, analis, dan media. Dalam sesi tanya jawab, manajemen menyatakan optimistis target keuangan 2026 masih dapat tercapai karena kuartal keempat biasanya menjadi periode permintaan tertinggi bagi bisnis umrah dan haji.",
+   "Manajemen juga menjelaskan penyebab penurunan pendapatan dan margin laba kotor sepanjang sembilan bulan pertama 2026: bisnis Perseroan bersifat musiman mengikuti kalender Hijriah, dan tahun ini Perseroan melakukan penyesuaian strategi dalam penataan portofolio hotel. Soal ekspansi ke 5.000 kamar pada 2029, manajemen mengatakan pendanaan akan dipertimbangkan dari berbagai opsi dan dilakukan bertahap sesuai kemampuan arus kas, sementara skema sebagai operator hotel disebut melengkapi, bukan menggantikan, bisnis inti allotment hotel.",
+   "Dalam materi public expose yang disampaikan sebelumnya, manajemen memasang target 2026 berupa pendapatan Rp950 miliar, laba kotor Rp70 miliar, dan laba bersih Rp15 miliar, naik dari realisasi 2025 yang masing-masing tercatat Rp944,96 miliar, Rp90,76 miliar, dan Rp6,04 miliar.",
+   "Namun kinerja sembilan bulan pertama 2026 bergerak ke arah sebaliknya. Pendapatan turun dari Rp727,25 miliar pada periode yang sama 2025 menjadi Rp657,67 miliar, dengan laba bersih anjlok dari Rp35,50 miliar menjadi Rp8,82 miliar. Margin laba kotor ikut tergerus dari 12,54 persen menjadi 7,39 persen. Berdasarkan rincian segmen, penurunan terjadi di semua lini: pendapatan hotel turun dari Rp647,55 miliar menjadi Rp602,49 miliar, tiket pesawat dari Rp60,45 miliar menjadi Rp41,21 miliar, dan paket umrah dari Rp19,25 miliar menjadi Rp13,97 miliar.",
+   "Dari sisi operasional, Perseroan saat ini mengelola lima hotel dengan total 1.586 kamar dan 381.835 kamar malam per tahun di Mekkah dan Madinah, serta memegang lisensi MISA dari Kementerian Investasi Arab Saudi yang memungkinkan anak usahanya, ABT LLC, mengelola allotment hotel langsung di Arab Saudi. Susunan manajemen yang hadir dalam public expose terdiri dari Direktur Utama Saipul Bahri, Direktur dan Sekretaris Perusahaan Agung Prabowo, Komisaris Utama Didik Ariyanto, dan Komisaris Independen Sammy T.S. Lalamentik."
   ],
   "fotoAdegan": "Hotel housekeeping staff pushing luggage carts through a quiet pilgrimage-city hotel corridor, soft early morning light",
-  "takeaway": "Laporan ini condong negatif karena kinerja riil sembilan bulan pertama 2026 memburuk tajam, sementara target setahun penuh justru dipasang naik dari realisasi 2025, menyisakan jarak besar yang harus ditutup di kuartal terakhir. Yang paling tersentuh adalah margin laba kotor, yang turun dari 12,54 persen jadi 7,39 persen, dan laba bersih, yang susut dari Rp35,50 miliar jadi Rp8,82 miliar; dua pos ini penting karena jadi dasar penghitungan laba per saham dan menunjukkan apakah bisnis inti perusahaan masih menghasilkan untung sebesar sebelumnya meski pendapatan bergerak. Yang perlu dipantau adalah forum public expose pada 18 November 2026, karena di sanalah manajemen biasanya diminta menjelaskan langsung kesenjangan antara kinerja sembilan bulan dan target tahunan yang mereka tetapkan sendiri.",
-  "sentimen": "negatif",
+  "takeaway": "Laporan ini condong netral karena hanya memuat penjelasan kualitatif dari manajemen tanpa angka baru yang mengubah gambaran kinerja sembilan bulan yang sudah melemah. Pos yang disentuh tetap margin laba kotor dan laba bersih, yang menurut manajemen tertekan karena bisnis umrah-haji mengikuti kalender Hijriah sehingga musim ramai bergeser, ditambah penyesuaian portofolio hotel yang mengubah pola pendapatan sementara; dua pos ini penting karena jadi dasar penghitungan laba per saham dan menggambarkan apakah bisnis inti masih untung sebesar sebelumnya. Manajemen menyatakan optimistis target 2026 masih bisa dikejar karena kuartal keempat biasanya jadi musim permintaan tertinggi, tetapi klaim ini belum didukung angka kuartal keempat yang sebenarnya. Yang perlu dipantau adalah laporan keuangan kuartal IV dan tahunan 2026 nanti, untuk melihat apakah optimisme manajemen soal musim ramai benar-benar menutup kesenjangan antara realisasi sembilan bulan dan target setahun penuh.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
@@ -8032,7 +8270,16 @@ var ARTICLES = [
     "tanggal": "2026-11-18",
     "acara": "Public expose tahunan PT Arsy Buana Travelindo Tbk"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T16:31:18",
+    "ringkas": "Public expose tahunan HAJJ terlaksana 18 November; manajemen optimistis target 2026 tercapai di kuartal IV meski kinerja sembilan bulan melambat.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4dc1b95f7a_0f09a9c73f.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T16:31:18"
  },
  {
   "slug": "pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal",
@@ -9015,8 +9262,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PNBS 18 November: [Laba] Naik 69,78% ke Rp73,4 M",
-  "deck": "Materi Public Expose PNBS mengungkap laba sebelum pajak kuartal III 2026 melonjak 69,78% jadi Rp73,4 miliar, sementara rasio kecukupan modal turun ke 16,61%.",
+  "title": "Public Expose PNBS 18 Nov: [Free Float] Pengendali Bisa Lepas Saham",
+  "deck": "Resume hasil Public Expose 18 November mengungkap manajemen PNBS mempertimbangkan pelepasan saham pengendali ke publik untuk penuhi syarat free float 15% paling lambat 31 Maret 2028.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 November 2026",
   "isoDate": "2026-11-13T11:28:47",
@@ -9025,27 +9272,36 @@ var ARTICLES = [
   "emiten": "PNBS",
   "tags": [
    "PNBS",
-   "Bank Panin Dubai Syariah",
    "Public Expose",
-   "laporan keuangan"
+   "Free Float",
+   "Bank Syariah"
   ],
   "body": [
-   "PT Bank Panin Dubai Syariah Tbk (PNBS) menyampaikan materi Public Expose Tahunan 2026 ke Bursa Efek Indonesia pada 13 November 2026, sebagai bahan presentasi untuk acara Public Expose yang akan digelar Rabu, 18 November 2026 pukul 10.00 sampai 11.00 WIB secara daring lewat Zoom. Materi itu memuat data kinerja keuangan perseroan hingga kuartal III 2026, dengan laba sebelum pajak tercatat Rp73,4 miliar, naik 69,78% dibanding periode yang sama tahun lalu sebesar Rp43,2 miliar. Karena tidak ada beban pajak pada periode ini, laba setelah pajak besarnya sama, Rp73,4 miliar.",
-   "Total aset perseroan tercatat Rp19,646 triliun per akhir September 2026, naik 7,99% dibanding Rp18,193 triliun setahun sebelumnya. Pertumbuhan ini terutama didorong pembiayaan yang naik 10,96% menjadi Rp14,264 triliun dan dana pihak ketiga (DPK) yang tumbuh 13,62% menjadi Rp15,558 triliun. Rasio pembiayaan terhadap dana pihak ketiga (FDR) turun dari 94,88% menjadi 90,87%, sementara porsi dana nasabah berbiaya rendah (CASA) naik dari 12% menjadi 18,61%. Dari sisi efisiensi, rasio biaya operasional terhadap pendapatan operasional (BOPO) membaik dari 95,78% menjadi 93,72%, dan rasio biaya terhadap pendapatan (CIR) turun dari 86,5% menjadi 80,2%. Kualitas pembiayaan juga membaik, tercermin dari rasio pembiayaan bermasalah kotor (NPF gross) yang turun dari 3,85% menjadi 3,07%.",
-   "Di sisi permodalan, rasio kecukupan modal (CAR) turun dari 19,11% pada September 2025 menjadi 16,61% pada September 2026. Ekuitas perseroan tercatat Rp2.964 miliar per September 2026, naik 1,18% dibanding setahun sebelumnya namun turun tipis 0,26% dibanding posisi akhir 2025 yang sebesar Rp2.972 miliar. Modal disetor perseroan tidak berubah sejak akhir 2022, tetap di angka Rp3.881 miliar. Berdasarkan komposisi pemegang saham per September 2026, PT Bank Pan Indonesia Tbk (PaninBank) menguasai 67,30% saham PNBS, Dubai Islamic Bank memegang 25,10%, dan sisanya 7,60% dimiliki publik.",
-   "Materi ini juga menyebutkan jaringan kantor perseroan per 30 September 2026 berjumlah 98 unit, terdiri dari 10 kantor cabang, 40 kantor fungsional operasional, dan 48 layanan syariah bank umum atau sinergi perbankan. Penyampaian materi ini merujuk pada surat sebelumnya, No.201/DIR/EXT/XI/2026 tanggal 4 November 2026, perihal rencana penyelenggaraan Public Expose Tahunan, dan ditandatangani oleh Corporate Secretary PNBS, Slamet Haryanto Pradhana."
+   "PT Bank Panin Dubai Syariah Tbk (PNBS) menyampaikan laporan hasil Public Expose Tahunan 2026 ke Bursa Efek Indonesia pada 20 November 2026, menyusul pelaksanaan acara pada Rabu, 18 November 2026 secara daring lewat Zoom. Dari 25 peserta yang hadir, salah satu sorotan sesi tanya jawab adalah soal porsi saham publik PNBS yang masih kecil. Direktur Utama Bratha dan jajaran manajemen menjelaskan bahwa Perseroan punya waktu hingga 31 Maret 2028 untuk memenuhi syarat minimal 15% saham beredar di tangan publik, dan salah satu opsi yang dipertimbangkan adalah pelepasan sebagian saham oleh pemegang saham pengendali, yakni PT Bank Pan Indonesia Tbk (PaninBank) atau Dubai Islamic Bank, kepada publik. Manajemen menegaskan belum ada keputusan final soal bentuk aksi korporasi ini, terutama untuk tahun 2027.",
+   "Manajemen juga menjawab sejumlah pertanyaan analis soal kinerja kuartal III 2026. Beban pajak tercatat nihil karena Perseroan masih menikmati fasilitas insentif pajak selama lima tahun atas kerugian yang dibukukan pada 2021, yang menurut manajemen masih berlaku hingga 2026. Soal pencadangan kerugian pembiayaan yang turun 28% di tengah pembiayaan yang tumbuh 10,96%, manajemen mengakui memakai pendekatan konservatif pada September dan berencana menambah pencadangan pada triwulan berikutnya berkoordinasi dengan OJK. Penyusutan aset dan pembiayaan dari Juni ke September disebut terjadi karena ada pelunasan dipercepat dari sejumlah nasabah, sementara rasio pembiayaan terhadap dana pihak ketiga (FDR) yang membaik dari sekitar 97-98% menjadi 90% disebut sebagai langkah menjaga likuiditas menghadapi kondisi pasar yang diperkirakan makin terbatas. Manajemen juga mulai mengalihkan sebagian penempatan dana ke surat berharga seperti SUKBI dan obligasi pemerintah, dan menilai rasio kecukupan modal (CAR) di kisaran 17% saat ini masih memadai.",
+   "Materi yang dipaparkan dalam Public Expose tersebut sebelumnya menunjukkan laba sebelum pajak PNBS kuartal III 2026 melonjak 69,78% menjadi Rp73,4 miliar dibanding Rp43,2 miliar setahun sebelumnya. Total aset tercatat Rp19,646 triliun, naik 7,99%, didorong pembiayaan yang tumbuh 10,96% menjadi Rp14,264 triliun dan dana pihak ketiga yang naik 13,62% menjadi Rp15,558 triliun. Ekuitas perseroan sebesar Rp2.964 miliar per September 2026, turun tipis 0,26% dibanding akhir 2025, sementara modal disetor tidak berubah sejak akhir 2022 di angka Rp3.881 miliar. Berdasarkan komposisi pemegang saham per September 2026, PaninBank menguasai 67,30% saham PNBS, Dubai Islamic Bank 25,10%, dan publik hanya 7,60%, jauh di bawah syarat minimal 15% yang harus dipenuhi Perseroan.",
+   "Dalam sesi tanya jawab, manajemen juga merespons wacana Otoritas Jasa Keuangan (OJK) untuk membentuk empat bank syariah besar pada 2027 serta kemungkinan bank kelompok modal inti (KBMI) 1 seperti PNBS naik kelas ke KBMI 2. Manajemen menyatakan belum bisa memberikan tanggapan lebih jauh karena aturan OJK terkait rencana tersebut belum diterbitkan, dan Perseroan masih menunggu kejelasan ketentuan sebelum menentukan langkah lanjutan."
   ],
   "fotoAdegan": "Teller counter at a modern Islamic bank branch in Jakarta, customers waiting quietly in queue, soft morning light.",
-  "takeaway": "Laporan ini condong positif bagi PNBS: laba sebelum pajak melonjak hampir 70 persen dan dua indikator efisiensi utama, BOPO dan CIR, membaik signifikan dalam setahun, menunjukkan bank berhasil menekan biaya sambil memperbesar pendapatan. Yang perlu dicermati adalah rasio kecukupan modal (CAR), yaitu perbandingan modal bank dengan risiko kreditnya, yang turun dari 19,11% menjadi 16,61%; meski masih di atas ambang aman, penurunan ini berarti ruang bank untuk menyalurkan pembiayaan baru atau menyerap potensi kerugian makin menyempit dibanding setahun lalu. Ekuitas, yaitu kekayaan bersih pemegang saham, juga sedikit menyusut dibanding akhir tahun lalu meski masih tumbuh dibanding setahun sebelumnya, sejalan dengan modal disetor yang memang tidak bertambah sejak 2022. Investor bisa memantau langsung penjelasan manajemen soal tren modal ini dalam sesi Public Expose Tahunan yang dijadwalkan Rabu, 18 November 2026 pukul 10.00 WIB.",
-  "sentimen": "positif",
+  "takeaway": "Laporan hasil Public Expose ini netral bagi PNBS, karena isinya penjelasan manajemen menjawab pertanyaan analis dan investor, bukan keputusan atau aksi korporasi baru, meski ada beberapa sinyal yang perlu dicermati. Manajemen menjelaskan penurunan pencadangan kerugian pembiayaan sebesar 28% di tengah pembiayaan yang justru tumbuh 10,96%, serta penyusutan aset dan pembiayaan dari Juni ke September akibat pelunasan dipercepat nasabah, dua hal yang biasa dibaca pasar sebagai indikasi bank mengerem laju pembiayaan baru. Dari sisi permodalan, manajemen menilai rasio kecukupan modal di kisaran 17%, meski turun dari tahun lalu, masih memadai, sementara penyesuaian rasio pembiayaan terhadap dana pihak ketiga dari sekitar 97-98% ke 90% disebut sebagai langkah menjaga likuiditas menghadapi kondisi pasar yang makin ketat. Soal porsi saham publik yang masih di bawah syarat bursa, manajemen membuka opsi pelepasan sebagian saham oleh pemegang saham pengendali, meski belum ada keputusan final dan Perseroan punya waktu hingga 31 Maret 2028 untuk memenuhi batas minimal 15% saham publik. Yang perlu dipantau berikutnya adalah penambahan pencadangan yang dijanjikan manajemen pada triwulan mendatang serta perkembangan rencana pemenuhan free float menjelang tenggat 31 Maret 2028.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
    {
-    "tanggal": "2026-11-18",
-    "acara": "Public Expose Tahunan PNBS"
+    "tanggal": "2028-03-31",
+    "acara": "Batas waktu PNBS penuhi syarat free float 15% saham publik"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T16:15:48",
+    "ringkas": "Resume Public Expose PNBS: pengendali bisa lepas saham demi penuhi syarat free float 15% paling lambat 31 Maret 2028.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a50a472d09_d58269c6b4.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T16:15:48"
  },
  {
   "slug": "drma-komisaris-jual-2-juta-saham-hak-suara-jadi-1-96",
@@ -15422,8 +15678,8 @@ var ARTICLES = [
  {
   "slug": "mbma-terbitkan-obligasi-tahap-vi-rp2-5-triliun-bunga-9-10-75",
   "category": "Aksi Korporasi",
-  "title": "MBMA Terbitkan Obligasi [Tahap VI] Rp2,5 Triliun, Bunga 9-10,75%",
-  "deck": "MBMA menawarkan obligasi Tahap VI senilai hingga Rp2,5 triliun, tiga seri berbunga 9-10,75 persen, bagian dari program obligasi berkelanjutan Rp16 triliun.",
+  "title": "Obligasi MBMA Tahap VI 20 November: Masa Penawaran [Dipangkas] Sehari",
+  "deck": "MBMA mengoreksi masa penawaran obligasi Tahap VI Rp2,5 triliun dari dua hari jadi hanya 20 November 2026, serta merinci rencana dana untuk melunasi utang dolar Fasilitas B.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T22:16:30",
@@ -15432,19 +15688,59 @@ var ARTICLES = [
   "emiten": "MBMA",
   "tags": [
    "MBMA",
-   "obligasi korporasi",
-   "pasar modal",
-   "nikel"
+   "obligasi",
+   "Fasilitas B",
+   "obligasi berkelanjutan"
   ],
   "body": [
-   "PT Merdeka Battery Materials Tbk (MBMA) menawarkan Obligasi Berkelanjutan I Tahap VI Tahun 2026 dengan jumlah pokok sebanyak-banyaknya Rp2,5 triliun, tepatnya Rp2.499.781.000.000. Penerbitan ini merupakan tahap keenam dari program Penawaran Umum Berkelanjutan Obligasi Berkelanjutan I MBMA yang bertarget total Rp16 triliun. Sejauh ini perusahaan sudah menerbitkan dan menawarkan obligasi senilai Rp13,5 triliun, tepatnya Rp13.500.219.000.000, pada tahap-tahap sebelumnya dari program yang sama.",
-   "Obligasi tahap VI ini dibagi dalam tiga seri dengan bunga tetap berbeda. Seri A senilai Rp217,94 miliar berbunga 9 persen per tahun dengan jangka waktu 367 hari kalender sejak tanggal emisi. Seri B senilai Rp272,38 miliar berbunga 10,25 persen per tahun untuk tenor tiga tahun, dan Seri C senilai Rp17,95 miliar berbunga 10,75 persen per tahun untuk tenor lima tahun. Dari seluruh pokok yang ditawarkan, Rp508,26 miliar dijamin penuh oleh para penjamin emisi dengan skema kesanggupan penuh, sedangkan sisanya sebesar Rp1,99 triliun hanya dijamin dengan skema kesanggupan terbaik, yang berarti jika sebagian atau seluruh porsi itu tidak terjual, MBMA tidak wajib menerbitkan sisa obligasi tersebut.",
-   "Masa penawaran umum berlangsung 19 sampai 20 November 2026, dengan tanggal penjatahan pada 23 November, distribusi elektronik pada 25 November, dan pencatatan di Bursa Efek Indonesia pada 26 November 2026. Bunga dibayarkan setiap tiga bulan, dimulai 25 Februari 2027, sementara pelunasan pokok masing-masing seri dilakukan sekaligus saat jatuh tempo, yaitu 2 Desember 2027 untuk Seri A, 25 November 2029 untuk Seri B, dan 25 November 2031 untuk Seri C. Lembaga pemeringkat Pefindo memberikan peringkat idA atau Single A untuk obligasi ini. Obligasi tidak memiliki jaminan khusus, tetapi dijamin dengan seluruh harta kekayaan perusahaan sesuai aturan umum KUHPerdata, dan kedudukan pemegang obligasi setara dengan kreditur lain tanpa hak didahulukan. MBMA juga menyatakan tidak menyiapkan dana penyisihan pelunasan atau sinking fund, dengan alasan ingin memakai seluruh dana hasil emisi untuk kebutuhan yang sudah direncanakan.",
-   "Penjamin pelaksana emisi obligasi ini adalah PT Indo Premier Sekuritas, PT Trimegah Sekuritas Indonesia Tbk, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Bahana Sekuritas, PT CIMB Niaga Sekuritas, PT Mandiri Sekuritas, dan PT Sinarmas Sekuritas, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat. Dokumen ini juga mencantumkan risiko utama MBMA sebagai perusahaan induk yang bergantung pada pembayaran dividen dari anak usahanya untuk memenuhi kewajiban pembayaran bunga dan pokok obligasi ini."
+   "PT Merdeka Battery Materials Tbk (MBMA) menerbitkan dokumen tambahan informasi dan perbaikan atas informasi tambahan ringkas Obligasi Berkelanjutan I Tahap VI Tahun 2026 pada 20 November 2026. Perbaikan utamanya adalah masa penawaran umum obligasi, yang sebelumnya diumumkan berlangsung dua hari pada 19 sampai 20 November 2026, dikoreksi menjadi hanya satu hari, yaitu 20 November 2026 pukul 09.00 sampai 16.00 WIB. Jadwal setelahnya tidak berubah: tanggal penjatahan tetap 23 November 2026, dana pemesanan yang tidak terserap dikembalikan dan distribusi elektronik dilakukan 25 November 2026, serta pencatatan di Bursa Efek Indonesia pada 26 November 2026.",
+   "Dokumen ini juga merinci rencana penggunaan dana yang sebelumnya belum dijelaskan secara spesifik. Jika dana yang terkumpul sebesar porsi yang dijamin penuh, yakni Rp508,26 miliar, seluruhnya akan dipakai untuk membayar lebih awal sebagian pokok utang Fasilitas B dalam perjanjian fasilitas kredit berjangka dan bergulir senilai sampai US$250 juta yang diteken 3 Oktober 2025, setara Rp504,8 miliar atau US$27,8 juta, sehingga saldo utang Fasilitas B itu akan menyusut menjadi sekitar US$85,2 juta atau setara Rp1.545,1 miliar. Jika dana yang terkumpul lebih besar karena porsi kesanggupan terbaik ikut terjual, seluruh sisa utang Fasilitas B akan dilunasi lebih dulu, dan kelebihan dana dipakai untuk modal kerja seperti biaya karyawan, jasa profesional, pajak, dan biaya keuangan.",
+   "Obligasi Tahap VI ini tetap ditawarkan dengan jumlah pokok sebanyak-banyaknya Rp2,5 triliun, terbagi tiga seri: Seri A Rp217,94 miliar berbunga 9 persen per tahun bertenor 367 hari, Seri B Rp272,38 miliar berbunga 10,25 persen bertenor tiga tahun, dan Seri C Rp17,95 miliar berbunga 10,75 persen bertenor lima tahun. Dari jumlah itu, Rp508,26 miliar dijamin penuh oleh penjamin emisi, sedangkan sisanya Rp1,99 triliun hanya dijamin dengan basis upaya terbaik, yang berarti jika tidak terjual seluruhnya MBMA tidak wajib menerbitkan sisanya. Penerbitan ini merupakan tahap keenam dari total program obligasi berkelanjutan senilai Rp16 triliun, setelah sebelumnya MBMA menerbitkan Rp13,5 triliun pada tahap-tahap sebelumnya.",
+   "Pefindo memberi peringkat idA atau Single A untuk obligasi ini. Penjamin pelaksana emisinya adalah PT Indo Premier Sekuritas, PT Trimegah Sekuritas Indonesia Tbk, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Bahana Sekuritas, PT CIMB Niaga Sekuritas, PT Mandiri Sekuritas, dan PT Sinarmas Sekuritas, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat. MBMA menyatakan risiko utamanya adalah statusnya sebagai perusahaan induk yang bergantung pada dividen dari anak usaha untuk membayar bunga dan pokok obligasi ini."
   ],
   "fotoAdegan": "Industrial nickel processing plant with workers in hard hats monitoring glowing molten metal flow, steam rising under grey sky",
-  "takeaway": "Laporan ini netral bagi MBMA karena hanya memperpanjang program obligasi berkelanjutan yang sudah efektif sejak Juni 2025, bukan langkah finansial baru yang mengubah arah keuangan perusahaan secara mendadak. Yang tersentuh adalah beban bunga, yakni biaya pinjaman yang harus dibayar setiap tiga bulan dengan bunga tetap 9 sampai 10,75 persen per tahun dan akan mengurangi laba bersih MBMA selama obligasi ini berjalan, serta arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena dana segar dari penjualan obligasi menambah kas tapi diikuti kewajiban membayar kembali dalam beberapa tahun ke depan. Investor pasar modal perlu mencermati bahwa Rp1,99 triliun dari total penawaran ini hanya dijamin dengan basis upaya terbaik, bukan kepastian penuh, sehingga dana yang benar-benar terkumpul bisa lebih kecil dari target jika permintaan pasar lemah. Yang perlu dipantau berikutnya adalah hasil masa penawaran umum pada 19 sampai 20 November 2026 dan tanggal penjatahan pada 23 November 2026, karena dari situ baru terlihat berapa dana riil yang berhasil dihimpun MBMA sebelum obligasi resmi tercatat di Bursa Efek Indonesia pada 26 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Tambahan informasi ini netral bagi MBMA karena sifatnya administratif, mengoreksi jangka waktu penawaran dan merinci rencana pakai dana, tanpa mengubah besaran pokok maupun bunga obligasi yang sudah ditetapkan sebelumnya. Yang tersentuh adalah utang dan arus kas: dana obligasi akan dipakai melunasi lebih dulu sebagian pokok utang dolar Fasilitas B, pinjaman berjangka senilai sampai US$250 juta, sehingga saldo utang itu bisa menyusut jadi sekitar US$85,2 juta, namun beban bunga obligasi baru tetap membebani laba karena harus dibayar setiap tiga bulan terlepas dari pelunasan utang lama itu. Jika dana yang terkumpul lebih besar karena porsi kesanggupan terbaik ikut terjual, seluruh sisa utang Fasilitas B bisa langsung lunas dan kelebihannya dipakai untuk modal kerja. Yang perlu dipantau berikutnya adalah hasil penawaran pada 20 November 2026 ini sendiri dan tanggal penjatahan pada 23 November 2026, karena dari situ baru terlihat berapa dana riil yang terkumpul dan seberapa besar utang Fasilitas B yang benar-benar bisa dilunasi MBMA.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T16:11:49",
+    "ringkas": "MBMA memperbaiki jadwal: masa penawaran obligasi Tahap VI dipersingkat jadi sehari pada 20 November, dan merinci rencana pelunasan utang Fasilitas B.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d276c10b71_c8362b1d87.pdf",
+    "judulIdx": "Tambahan Informasi dan/atau Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi Berkelanjutan I Merdeka Battery Materials Tahap VI Tahun 2026"
+   }
+  ],
+  "diperbarui": "2026-11-20T16:11:49",
+  "jadwal": [
+   {
+    "tanggal": "2025-06-30",
+    "acara": "Tanggal efektif program Obligasi Berkelanjutan I"
+   },
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Masa penawaran umum (dipersingkat jadi satu hari)"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Tanggal penjatahan"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Batas dana in good funds diterima penjamin emisi"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Distribusi elektronik dan pengembalian uang pemesanan"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Pencatatan obligasi di Bursa Efek Indonesia"
+   },
+   {
+    "tanggal": "2027-12-02",
+    "acara": "Jatuh tempo dan pelunasan Obligasi Seri A"
+   }
+  ],
+  "peristiwa": "obligasi"
  },
  {
   "slug": "bata-rombak-direksi-raymond-chew-jadi-presiden-direktur",
@@ -39165,8 +39461,8 @@ var ARTICLES = [
  {
   "slug": "gtbo-rombak-direksi-dan-komisaris-rupst-18-november",
   "category": "Aksi Korporasi",
-  "title": "GTBO Rombak [Direksi] dan Komisaris, RUPST 18 November",
-  "deck": "RUPST Garda Tujuh Buana (GTBO) pada 18 November 2026 akan mengesahkan laporan keuangan 2025 dan mengganti sejumlah direksi serta komisaris, termasuk satu komisaris independen baru.",
+  "title": "RUPST GTBO 18 November: [Tanpa Dividen], Direksi Baru Disahkan",
+  "deck": "RUPST GTBO pada 18 November 2026 menyetujui tidak membagikan dividen karena rugi komprehensif 2025, sekaligus mengesahkan direksi dan komisaris baru serta KAP baru untuk audit 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "27 Oktober 2026",
   "isoDate": "2026-10-27T18:36:30",
@@ -39176,18 +39472,33 @@ var ARTICLES = [
   "tags": [
    "GTBO",
    "RUPST",
-   "pergantian direksi",
-   "komisaris independen"
+   "Dividen",
+   "Direksi-Komisaris"
   ],
   "body": [
-   "Garda Tujuh Buana Tbk (GTBO) memanggil Rapat Umum Pemegang Saham Tahunan (RUPST) yang akan digelar Rabu, 18 November 2026, pukul 14.00 hingga 15.00 WIB, di Ballroom Krakatau, Permata Kuningan Building Lantai 2, Jalan Kuningan Mulia Kav. 9C, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 26 Oktober 2026, sesuai tanggal pencatatan yang ditetapkan perseroan. Rapat ini sendiri molor dari jadwal normal karena Anggaran Dasar perseroan mewajibkan RUPS Tahunan digelar paling lambat 6 bulan setelah tutup tahun buku, sementara Laporan Keuangan Konsolidasian tahun buku 2025 baru selesai disusun pada 15 Juli 2026. Karena itu, agenda pertama RUPST adalah permintaan dispensasi atas keterlambatan tersebut.",
-   "Agenda berikutnya mencakup persetujuan Laporan Tahunan dan Laporan Keuangan Tahunan 2025 beserta laporan pengawasan Dewan Komisaris selama tahun itu, persetujuan penggunaan laba bersih tahun buku 2025, serta penunjukan Akuntan Publik dan/atau Kantor Akuntan Publik untuk mengaudit laporan keuangan tahun buku 2026 beserta penetapan honorariumnya. Rincian besaran laba yang akan dibagikan maupun nama kantor akuntan publik yang diusulkan belum disebutkan dalam surat pemanggilan ini dan baru akan disampaikan dalam rapat.",
-   "Agenda yang paling menyentuh susunan pengurus adalah perubahan Direksi dan Dewan Komisaris. Perseroan mengusulkan mengganti anggota Direksi Mastan Singh, dengan mengangkat Ganesh Tikamdas Ramchandani dan Pasi Ajay Chhotelal sebagai direksi baru. Di jajaran Dewan Komisaris, perseroan mengusulkan mengganti Sandeep Kaur dan mengangkat Timothy James Cornelius sebagai Komisaris Independen.",
-   "Bagi pemegang saham yang tidak dapat hadir langsung, perseroan menyediakan mekanisme kuasa elektronik melalui fasilitas eASY.KSEI atau kuasa non elektronik yang formulirnya dapat diunduh di situs resmi perseroan, dengan surat kuasa harus diserahkan ke biro administrasi efek, PT Datindo Entrycom, paling lambat Selasa, 17 November 2026."
+   "Rapat Umum Pemegang Saham Tahunan (RUPST) Garda Tujuh Buana Tbk (GTBO) yang digelar Rabu, 18 November 2026, menghasilkan sejumlah keputusan penting. Rapat yang dihadiri pemegang saham mewakili 2.309.533.805 saham atau 92,38 persen dari total saham dengan hak suara itu menyetujui dispensasi atas keterlambatan penyelenggaraan RUPST tahun buku 2025, mengesahkan Laporan Tahunan dan Laporan Keuangan 2025, serta memutuskan tidak membagikan dividen maupun menyisihkan laba ke cadangan wajib karena perseroan mengalami rugi komprehensif pada tahun buku 2025. Seluruh keputusan diambil dengan persetujuan 100 persen suara yang hadir, tanpa ada yang menolak atau abstain.",
+   "Rapat juga mengesahkan penunjukan Kantor Akuntan Publik Sarastanto & Rekan untuk mengaudit laporan keuangan perseroan tahun buku 2026, serta menetapkan susunan Direksi dan Dewan Komisaris baru yang berlaku efektif sejak penutupan rapat hingga penutupan RUPST Tahunan kelima mendatang, atau sampai 18 November 2031. Susunan Direksi kini terdiri atas Ganesh Tikamdas Ramchandani sebagai Presiden Direktur, Pasi Ajay Chhotelal, dan Yanry Musa, masing-masing sebagai Direktur. Sementara Dewan Komisaris terdiri atas Saini Sunil Kumar sebagai Presiden Komisaris dan Cornelius Timothy James sebagai Komisaris Independen.",
+   "Pergantian direksi dan komisaris ini melanjutkan rencana yang sudah diumumkan dalam surat pemanggilan RUPST pada 27 Oktober 2026, yang saat itu mengusulkan mengganti Mastan Singh dengan Ganesh Tikamdas Ramchandani dan Pasi Ajay Chhotelal di jajaran Direksi, serta mengganti Sandeep Kaur dengan Cornelius Timothy James sebagai Komisaris Independen. Hasil akhir RUPST menunjukkan Yanry Musa tetap bertahan sebagai Direktur dan Saini Sunil Kumar tetap menjabat Presiden Komisaris. RUPST ini sendiri sempat molor dari jadwal normal karena Anggaran Dasar mewajibkan rapat tahunan digelar paling lambat 6 bulan setelah tutup tahun buku, sementara Laporan Keuangan Konsolidasian 2025 baru selesai disusun pada 15 Juli 2026, sehingga perseroan perlu meminta dispensasi yang kini sudah disetujui."
   ],
   "fotoAdegan": "Rows of empty chairs arranged in a corporate ballroom ahead of a shareholders meeting, soft morning light through tall windows.",
-  "takeaway": "Laporan ini netral bagi fundamental emiten, karena inti pemanggilan RUPST ini adalah mekanisme rutin tahunan plus pergantian pengurus, bukan transaksi keuangan yang mengubah modal atau kas perusahaan. Pergantian direksi dan komisaris tidak mengubah jumlah saham beredar atau laba per saham, yakni keuntungan yang dibagi rata ke setiap lembar saham, tetapi pelaku pasar tetap memperhatikannya karena pengurus baru inilah yang nanti menentukan arah kebijakan investasi dan utang GTBO. Yang sedikit mengganjal adalah RUPST ini sendiri molor dari jadwal normal, karena Anggaran Dasar mewajibkan rapat tahunan paling lambat 6 bulan setelah tutup tahun buku, sementara laporan keuangan 2025 baru selesai 15 Juli 2026, sehingga perlu agenda dispensasi khusus. Yang perlu dipantau berikutnya adalah hasil keputusan RUPST pada 18 November 2026, terutama apakah pergantian direksi dan komisaris ini disetujui pemegang saham serta bagaimana rencana pembagian laba bersih tahun buku 2025 diputuskan.",
-  "sentimen": "netral"
+  "takeaway": "Laporan hasil RUPST ini condong negatif bagi fundamental emiten, karena fakta barunya menegaskan GTBO mengalami rugi komprehensif pada 2025, yakni kerugian total perusahaan setahun termasuk pos-pos di luar operasional inti, sehingga pemegang saham sepakat tidak membagikan dividen maupun menyisihkan laba ke cadangan wajib. Pos yang tersentuh adalah laba bersih dan dividen yang nihil akibat rugi tahun berjalan itu, sementara jumlah saham beredar dan hak suara pemegang saham tidak berubah oleh pergantian direksi dan komisaris ini, meski pelaku pasar tetap memperhatikan siapa pengurus baru karena merekalah yang nanti menentukan strategi memperbaiki kinerja serta kebijakan utang perusahaan. Yang perlu dipantau berikutnya adalah kinerja Direksi baru yang dipimpin Presiden Direktur Ganesh Tikamdas Ramchandani sepanjang tahun buku 2026, yang akan diaudit oleh Kantor Akuntan Publik Sarastanto & Rekan, karena hasil audit itu akan menentukan apakah rugi tahun 2025 masih berlanjut atau mulai membalik.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T15:57:01",
+    "ringkas": "RUPST GTBO menyetujui tidak membagikan dividen karena rugi 2025, serta mengesahkan direksi dan komisaris baru serta KAP Sarastanto & Rekan untuk audit 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6552fd1247_f55d449661.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T15:57:01",
+  "jadwal": [
+   {
+    "tanggal": "2031-11-18",
+    "acara": "Akhir periode jabatan Direksi dan Dewan Komisaris baru GTBO"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "ppgl-jadwalkan-saham-bonus-distribusi-25-november-2026",

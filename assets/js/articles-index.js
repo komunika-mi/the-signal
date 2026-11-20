@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Material MARI Rp406 Miliar: [Right Issue] CAST Tunggu RUPS",
+  "deck": "MARI ajukan transaksi material Rp406,35 miliar untuk konversi utang dan penyertaan modal baru di anak usahanya, CAST, menanti persetujuan RUPS.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MARI",
+   "Transaksi Material",
+   "CAST",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/35edba8c8b_b2e2918e1a.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-terstruktur-dr-disesuaikan-usai-bbca-bagi-dividen-rp35",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR [Disesuaikan] usai BBCA Bagi Dividen Rp35",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan Waran Terstruktur BBCA (DR) menyusul dividen tunai Rp35 per saham dari BBCA, efektif 19 November 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "BBCA",
+   "Waran Terstruktur",
+   "Dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e8a629d1e5_6a6f42271b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-terstruktur-dr-disesuaikan-usai-bfin-bagi-dividen-rp35-rasio",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR Disesuaikan usai BFIN Bagi Dividen Rp35 [Rasio]",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur BFIN setelah BFI Finance mengumumkan dividen tunai Rp35 per saham, total Rp516,2 miliar.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "BFIN",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/85dd77a5ff_09d5d2abf3.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akuisisi-jpfa-jfi-ambil-alih-tcl-dan-tct-dari-tigaraksa-satria",
+  "category": "Aksi Korporasi",
+  "title": "[Akuisisi] JPFA: JFI Ambil Alih TCL dan TCT dari Tigaraksa Satria",
+  "deck": "Japfa Food Indonesia, anak usaha JAPFA, menandatangani perjanjian membeli 168.000 saham (60%) TCL dan 100 saham (1%) TCT dari Tigaraksa Satria, memperkuat kendali atas logistik rantai dingin.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JPFA",
+   "akuisisi",
+   "Tigaraksa Satria",
+   "logistik rantai dingin"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20d27f55ab_c2c3fe8b6b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penyesuaian-harga-waran-zp-imbas-dividen-bbca-efektif-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Penyesuaian Harga Waran ZP Imbas Dividen BBCA, [Efektif] 30 November",
+  "deck": "Harga pelaksanaan dan rasio konversi waran terstruktur ZP atas saham BBCA disesuaikan menyusul dividen interim Rp35 per saham, efektif mulai 30 November 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "BBCA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/881e1bbadb_bcff4ee376.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-flmc-18-november-domisili-pindah-ke-kota-cimahi-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 18 November: [Domisili] Pindah ke Kota Cimahi Disetujui",
+  "deck": "RUPSLB FLMC menyetujui perubahan domisili ke Kota Cimahi, penyesuaian KBLI 2025, dan penambahan KBLI perusahaan induk untuk rencana anak usaha.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "RUPSLB",
+   "Perubahan Domisili",
+   "KBLI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/25aa080cf7_ce39892847.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt",
   "category": "Makroekonomi",
   "title": "DJP Ingatkan Wajib Pajak [Cermati] Data Bukti Potong SPT",
@@ -2405,8 +2501,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-gtbo-18-november-rkab-disetujui-kuota-817-900-ton",
   "category": "Aksi Korporasi",
-  "title": "Public Expose GTBO 18 November: RKAB [Disetujui], Kuota 817.900 Ton",
-  "deck": "GTBO menggelar Public Expose Tahunan 18 November 2026, mengungkap RKAB 2026 disetujui dengan kuota produksi maksimal 817.900 ton setelah setahun tanpa izin produksi.",
+  "title": "Public Expose GTBO: [Capex] Didanai Bank Singapura, Uang Muka Pembeli",
+  "deck": "Hasil Public Expose GTBO 18 November: capex didanai pinjaman bank Singapura dan uang muka pembeli, serta diversifikasi produk bersih masih dikaji.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
@@ -4178,15 +4274,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-hajj-target-laba-bersih-rp15-miliar-di-2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose HAJJ: [Target] Laba Bersih Rp15 Miliar di 2026",
-  "deck": "Materi public expose tahunan HAJJ memuat target pendapatan Rp950 miliar dan laba bersih Rp15 miliar di 2026, meski kinerja sembilan bulan pertama justru melambat.",
+  "title": "Public Expose HAJJ 18 November: [Target 2026] Diyakini Tercapai",
+  "deck": "Public expose tahunan HAJJ terlaksana 18 November 2026; manajemen optimistis target laba bersih Rp15 miliar tahun ini masih bisa dikejar di kuartal IV, meski kinerja sembilan bulan pertama melambat.",
   "date": "13 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "HAJJ",
-   "Public Expose",
-   "Umrah dan Haji",
-   "Laporan Keuangan"
+   "public expose",
+   "kinerja keuangan",
+   "umrah haji"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93b09b99b8_bab37e1f4a.pdf",
   "sourceLabel": "IDX"
@@ -4689,15 +4785,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PNBS 18 November: [Laba] Naik 69,78% ke Rp73,4 M",
-  "deck": "Materi Public Expose PNBS mengungkap laba sebelum pajak kuartal III 2026 melonjak 69,78% jadi Rp73,4 miliar, sementara rasio kecukupan modal turun ke 16,61%.",
+  "title": "Public Expose PNBS 18 Nov: [Free Float] Pengendali Bisa Lepas Saham",
+  "deck": "Resume hasil Public Expose 18 November mengungkap manajemen PNBS mempertimbangkan pelepasan saham pengendali ke publik untuk penuhi syarat free float 15% paling lambat 31 Maret 2028.",
   "date": "13 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "PNBS",
-   "Bank Panin Dubai Syariah",
    "Public Expose",
-   "laporan keuangan"
+   "Free Float",
+   "Bank Syariah"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a85b831a9f_31fbbe63c1.pdf",
   "sourceLabel": "IDX"
@@ -6428,103 +6524,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03f4c8ba8d_982f43842b.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "trgu-komisaris-independen-mundur-efektif-usai-rupslb",
-  "category": "Aksi Korporasi",
-  "title": "TRGU: [Komisaris Independen] Mundur, Efektif Usai RUPSLB",
-  "deck": "PT Cerestar Indonesia Tbk (TRGU) menerima surat pengunduran diri Antonius selaku Komisaris Independen pada 9 November 2026, efektif setelah keputusan RUPSLB.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRGU",
-   "Komisaris Independen",
-   "Pengunduran Diri",
-   "Cerestar Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7bfb3e2636_d6cc8404f0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cpri-batalkan-rupst-yang-dijadwalkan-26-november",
-  "category": "Aksi Korporasi",
-  "title": "CPRI [Batalkan] RUPST yang Dijadwalkan 26 November",
-  "deck": "Capri Nusa Satu Properti membatalkan RUPST yang sedianya digelar 26 November 2026, hanya lima hari setelah pemanggilan resmi dikirim, tanpa jadwal pengganti.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CPRI",
-   "RUPST",
-   "pembatalan rapat",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf94d83413_b7ed022cc0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rgas-pinjamkan-rp25-miliar-ke-anak-usaha-pt-kian-santang",
-  "category": "Aksi Korporasi",
-  "title": "RGAS Pinjamkan [Rp25 Miliar] ke Anak Usaha PT Kian Santang",
-  "deck": "Perseroan menyalurkan pinjaman modal kerja senilai Rp25 miliar ke anak usaha PT Kian Santang, setara 24,06 persen dari ekuitasnya.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RGAS",
-   "transaksi material",
-   "transaksi afiliasi",
-   "pinjaman anak usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e04958cfd5_cdd606fa42.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "danantara-telkom-ubah-padi-umkm-jadi-marketplace-nasional",
-  "category": "UMKM",
-  "title": "Danantara-Telkom [Ubah] PaDi UMKM Jadi Marketplace Nasional",
-  "deck": "Danantara dan Telkom mengembangkan Padisera, transformasi platform PaDi UMKM dari layanan B2B khusus BUMN menjadi marketplace nasional yang juga menyasar konsumen ritel.",
-  "date": "11 November 2026",
-  "image": "assets/img/danantara-telkom-ubah-padi-umkm-jadi-marketplace-nasional.jpg",
-  "imageV": "mwbxrwlf",
-  "tags": [
-   "Padisera",
-   "PaDi UMKM",
-   "Danantara",
-   "Telkom"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477789-danantara-dan-telkom-hadirkan-padisera-untuk-perkuat-ekosistem-perdagangan-digital-umkm"
- },
- {
-  "slug": "iapi-gelar-sertifikasi-auditor-syariah-perdana",
-  "category": "Perbankan",
-  "title": "IAPI Gelar Sertifikasi [Auditor Syariah] Perdana",
-  "deck": "IAPI menggelar pendidikan dan sertifikasi Certified Sharia Auditor pertama bagi 53 akuntan publik untuk memperkuat pemeriksaan kepatuhan dan tata kelola syariah.",
-  "date": "11 November 2026",
-  "image": "assets/img/iapi-gelar-sertifikasi-auditor-syariah-perdana.jpg",
-  "imageV": "mwbxrx1k",
-  "tags": [
-   "syariah",
-   "iapi",
-   "akuntan publik",
-   "sertifikasi auditor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477781-cara-dorong-tata-kelola-syariah-yang-efektif-lewat-pendidikan-dan-sertifikasi-auditor"
- },
- {
-  "slug": "pemerintah-tetapkan-empat-agenda-digitalisasi-ekonomi-dan-keuangan",
-  "category": "Teknologi",
-  "title": "Pemerintah Tetapkan Empat Agenda [Digitalisasi] Ekonomi dan Keuangan",
-  "deck": "Pemerintah menetapkan empat agenda digitalisasi ekonomi, dari efisiensi belanja negara lewat e-katalog hingga adopsi AI di sektor keuangan, saat ekonomi digital mendekati US$100 miliar.",
-  "date": "11 November 2026",
-  "image": "assets/img/server-data.jpg",
-  "tags": [
-   "transformasi digital",
-   "AI",
-   "e-katalog",
-   "QRIS"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7210/wamenko-dradjad-transformasi-digital-harus-lebih-tepat-sasaran-efisien-dan-memiliki-akses-luas",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

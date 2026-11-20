@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "neraca-pembayaran-ri-surplus-tipis-di-triwulan-iii-2026",
+  "category": "Makroekonomi",
+  "title": "Neraca Pembayaran RI [Surplus] Tipis di Triwulan III 2026",
+  "deck": "Neraca pembayaran Indonesia berbalik surplus 0,1 miliar dolar AS pada triwulan III 2026, ditopang perbaikan neraca dagang; cadangan devisa naik ke 146,3 miliar dolar AS.",
+  "date": "20 November 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "Neraca Pembayaran",
+   "Bank Indonesia",
+   "Cadangan Devisa",
+   "Ekspor"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825526.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "rupslb-mari-29-desember-dps-pemegang-saham-dicatat-4-desember",
   "category": "Aksi Korporasi",
   "title": "RUPSLB MARI 29 Desember: [DPS] Pemegang Saham Dicatat 4 Desember",
@@ -397,7 +413,7 @@ var ARTICLES = [
   "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
   "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
   "date": "19 November 2026",
-  "image": "assets/img/pasar-ikan.jpg",
+  "image": "assets/img/sidang-dpr.jpg",
   "tags": [
    "daya beli",
    "konsumsi rumah tangga",
@@ -1873,7 +1889,7 @@ var ARTICLES = [
   "title": "Realisasi PSN Capai [Rp2.396] Triliun, Serap 10,7 Juta Kerja",
   "deck": "Kemenko Perekonomian merinci realisasi Proyek Strategis Nasional dan Kawasan Ekonomi Khusus hingga September 2026, disertai data pertumbuhan ekonomi dan investasi nasional terbaru.",
   "date": "17 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "PSN",
    "KEK",
@@ -3482,7 +3498,7 @@ var ARTICLES = [
   "title": "Presiden Prabowo: Ekonomi Tumbuh [5,47]%, Kaji Hemat Energi",
   "deck": "Ratas di Istana Bogor membahas indikator ekonomi terbaru, rencana efisiensi BBM dan listrik, serta percepatan pabrik pakan dan peternakan ayam.",
   "date": "14 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "inflasi pangan",
    "pertumbuhan ekonomi",
@@ -3922,7 +3938,7 @@ var ARTICLES = [
   "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
   "deck": "Pemerintah wajibkan ekspor batu bara, minyak nabati, dan ferroalloy lewat Portal DSI mulai 2027, seiring aturan baru devisa ekspor tambang dan data ekonomi kuartal III 2026.",
   "date": "13 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "DHE SDA",
    "Portal DSI",
@@ -5816,7 +5832,7 @@ var ARTICLES = [
   "title": "Batam Tumbuh 7,28 Persen, Pemerintah Awasi [Impor Ilegal]",
   "deck": "Ekonomi dan investasi Batam melesat, tapi pemerintah pusat menyoroti praktik underinvoicing dan impor barang bekas ilegal yang dinilai bisa mengganggu iklim usaha di kawasan ini.",
   "date": "11 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Batam",
    "Investasi",
@@ -6141,7 +6157,7 @@ var ARTICLES = [
   "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
   "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
   "date": "11 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "PPh 21 DTP",
    "ritel",
@@ -6511,22 +6527,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477742-pnm-siapkan-kredit-perempuan-prasejahtera-8-perluas-peluang-usaha-perempuan-di-batam"
- },
- {
-  "slug": "harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Rp30 Ribu Jadi Rp2,53 Juta",
-  "deck": "Harga emas batangan Antam hari ini turun Rp30.000 menjadi Rp2.530.000 per gram, sementara harga buyback ikut melemah ke Rp2.338.000 per gram.",
-  "date": "11 November 2026",
-  "image": "assets/img/harga-emas-antam-turun-rp30-ribu-jadi-rp2-53-juta.jpg",
-  "imageV": "mwbik2o8",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "investasi emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477734-saatnya-beli-harga-emas-antam-hari-ini-11-november-2026-turun-jadi-rp2530000-per-gram"
  }
 ];

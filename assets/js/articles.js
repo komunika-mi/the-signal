@@ -30,6 +30,33 @@ var ARTICLES = [
   "judulIdx": "Penjelasan atas Pemberitaan Media Massa"
  },
  {
+  "slug": "dirut-pnm-raih-penghargaan-katalisator-umkm-ultra-mikro",
+  "category": "UMKM",
+  "title": "Dirut PNM Raih Penghargaan [Katalisator] UMKM Ultra Mikro",
+  "deck": "Kindaris, Dirut PT PNM, dinobatkan Tokoh Katalisator Kemandirian Pengusaha Ultra Mikro di detikcom Awards 2026 atas program pemberdayaan Mekaar.",
+  "image": "assets/img/dirut-pnm-raih-penghargaan-katalisator-umkm-ultra-mikro.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T05:55:00+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479345-dirut-pnm-jadi-sosok-katalisator-kemandirian-pengusaha-ultra-mikro",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "Ultra Mikro"
+  ],
+  "body": [
+   "Direktur Utama PT Permodalan Nasional Madani (Persero), Kindaris, menerima gelar Tokoh Katalisator Kemandirian Pengusaha Ultra Mikro pada ajang detikcom Awards 2026. Penghargaan ini diberikan atas perannya mendorong pemberdayaan ekonomi pelaku usaha ultra mikro, khususnya perempuan prasejahtera, lewat program pembiayaan dan pendampingan PNM.",
+   "Program utama yang jadi sorotan adalah Mekaar, singkatan dari Membina Ekonomi Keluarga Sejahtera. Lewat program ini, PNM tidak hanya menyalurkan modal, tetapi juga memberi pendampingan berkelanjutan berupa literasi usaha, pengelolaan keuangan, dan literasi digital kepada nasabahnya. Pendampingan itu dilakukan lewat pertemuan kelompok, tempat nasabah saling belajar dan membangun jejaring usaha.",
+   "Kindaris mengatakan kemandirian pengusaha ultra mikro adalah tujuan yang terus diupayakan lewat pemberdayaan yang konsisten. “Kami ingin setiap nasabah tidak hanya mampu menjalankan usahanya, tetapi juga memiliki kepercayaan diri, pengetahuan, dan kemampuan untuk mengambil peluang yang lebih besar. Penghargaan ini menjadi penyemangat bagi kami untuk terus memperluas manfaat pemberdayaan bagi pengusaha ultra mikro di Indonesia,” ujarnya.",
+   "PNM menyatakan keberhasilan mendorong kemandirian usaha ultra mikro bergantung pada kolaborasi banyak pihak, karena dampaknya dinilai menjalar dari individu nasabah ke keluarga dan lingkungan sekitarnya."
+  ],
+  "fotoAdegan": "Women gathered in a circle inside a modest community hall, holding notebooks during a small business support meeting, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/20/6aff7c72c9373-dirut-pt-pnm-kindaris-dinobatkan-sebagai-tokoh-katalisator-kemandirian-pengusaha-ultra-mikro_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari berita ini hanya status pengakuan, bukan angka bisnis: Kindaris mendapat gelar dari ajang detikcom Awards 2026, sementara tidak ada data operasional PNM yang disebutkan, seperti jumlah nasabah Mekaar saat ini, nilai pembiayaan yang sudah disalurkan, atau berapa banyak usaha binaan yang benar-benar naik kelas. Pihak yang jelas terdampak adalah nasabah program Mekaar, yakni perempuan prasejahtera yang jadi sasaran pendampingan usaha, serta PNM sendiri sebagai BUMN yang citranya terangkat lewat penghargaan ini. Berita ini belum cukup untuk menilai apakah pemberdayaan tersebut benar-benar menambah jumlah pengusaha ultra mikro yang mandiri secara finansial, karena tidak ada angka pertumbuhan nasabah atau indikator keberhasilan usaha yang dicantumkan. Yang perlu dicek adalah laporan kinerja PNM atau Holding Ultra Mikro BRI yang biasanya memuat jumlah nasabah aktif dan nilai penyaluran Mekaar, untuk melihat apakah penghargaan ini sejalan dengan pertumbuhan riil program atau sekadar pengakuan seremonial.",
+  "imageV": "mwobc2i0"
+ },
+ {
   "slug": "akra-akuisisi-saham-apr-dari-bp-rp257-miliar-non-material",
   "category": "Aksi Korporasi",
   "title": "AKRA Akuisisi Saham APR dari BP Rp257 Miliar: [Non-Material]",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "A8yuRJBvzbY",
+  "title": "Koperasi Desa Merah Putih Dorong Ekonomi Nasional",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Koperasi Desa Merah Putih digadang menjadi penggerak kemandirian ekonomi di tingkat desa, membuka peluang usaha baru bagi masyarakat sebagai fondasi penguatan ekonomi nasional.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan penguatan UMKM dan koperasi berbasis desa sebagai bagian dari strategi pertumbuhan ekonomi nasional."
+ },
+ {
   "id": "99paPQU-pzE",
   "title": "Presiden Prabowo: APEC Beri Manfaat Investasi US$86,8 Miliar bagi RI",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKAP tvOne",
   "summary": "Kementerian Perumahan dan Kawasan Permukiman memulai program gentengisasi dengan mengirim 2,4 juta genteng ke sejumlah daerah, disertai skema kredit rumah bagi masyarakat.",
   "takeaway": "Program ini menyangkut kebijakan pembiayaan perumahan yang berdampak pada sektor perbankan dan industri material bangunan."
- },
- {
-  "id": "UEy6H7kTbfI",
-  "title": "KDMP Desa Kembang Dorong Pemberdayaan Petani Lokal",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Koperasi Desa Merah Putih di Desa Kembang, Kulonprogo, Yogyakarta, diharapkan menjadi solusi atas berbagai tantangan yang dihadapi petani setempat.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran koperasi desa dalam memperkuat pemberdayaan ekonomi dan daya saing petani di tingkat lokal."
  }
 ];

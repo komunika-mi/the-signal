@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "A8yuRJBvzbY",
+  "title": "Koperasi Desa Merah Putih Dorong Ekonomi Nasional",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Koperasi Desa Merah Putih digadang menjadi penggerak kemandirian ekonomi di tingkat desa, membuka peluang usaha baru bagi masyarakat sebagai fondasi penguatan ekonomi nasional.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan penguatan UMKM dan koperasi berbasis desa sebagai bagian dari strategi pertumbuhan ekonomi nasional.",
+  "terbit": "2026-11-20T01:00:06+00:00"
+ },
+ {
   "id": "99paPQU-pzE",
   "title": "Presiden Prabowo: APEC Beri Manfaat Investasi US$86,8 Miliar bagi RI",
   "category": "Global",

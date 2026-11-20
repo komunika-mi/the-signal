@@ -21,6 +21,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "dirut-pnm-raih-penghargaan-katalisator-umkm-ultra-mikro",
+  "category": "UMKM",
+  "title": "Dirut PNM Raih Penghargaan [Katalisator] UMKM Ultra Mikro",
+  "deck": "Kindaris, Dirut PT PNM, dinobatkan Tokoh Katalisator Kemandirian Pengusaha Ultra Mikro di detikcom Awards 2026 atas program pemberdayaan Mekaar.",
+  "date": "20 November 2026",
+  "image": "assets/img/dirut-pnm-raih-penghargaan-katalisator-umkm-ultra-mikro.jpg",
+  "imageV": "mwobc2i0",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "Ultra Mikro"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479345-dirut-pnm-jadi-sosok-katalisator-kemandirian-pengusaha-ultra-mikro"
+ },
+ {
   "slug": "akra-akuisisi-saham-apr-dari-bp-rp257-miliar-non-material",
   "category": "Aksi Korporasi",
   "title": "AKRA Akuisisi Saham APR dari BP Rp257 Miliar: [Non-Material]",
@@ -6512,22 +6529,6 @@ var ARTICLES = [
    "Energasindo Heksa Karya"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ca16b61b0_4bd2010bd1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrme-dua-pemegang-saham-teken-ppjbs-jual-saham",
-  "category": "Aksi Korporasi",
-  "title": "HRME: Dua Pemegang Saham Teken [PPJBS] Jual Saham",
-  "deck": "PT Wijaya Wisesa Realty dan PT Twin Investment menjual saham HRME ke PT Properti International Development, transaksi masih menunggu uji tuntas.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRME",
-   "pemegang saham",
-   "PPJBS",
-   "due diligence"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/43d4aa45bf_ebd3f7978d.pdf",
   "sourceLabel": "IDX"
  }
 ];

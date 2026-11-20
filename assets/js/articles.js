@@ -3,6 +3,40 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pemantauan-khusus-dmy-shm-21-november-masuk-imbas-anak-usaha-pkpu",
+  "category": "Aksi Korporasi",
+  "title": "Pemantauan Khusus DMY-SHM 21 November: [Masuk] Imbas Anak Usaha PKPU",
+  "deck": "Bursa memasukkan saham DMY-SHM ke papan pemantauan khusus efektif 21 November 2026, dipicu anak usaha yang pendapatannya material sedang PKPU.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T02:38:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B031_737e4579-2350-45bf-b539-0c5d84ec744e-20261121023843.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "Pemantauan Khusus",
+   "PKPU",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) resmi memasukkan saham berkode DMY-SHM ke dalam daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus pada papan pencatatan Utama. Perubahan penempatan papan ini berlaku efektif 21 November 2026, berdasarkan pengumuman resmi bursa.",
+   "Dari 11 kriteria yang dipakai bursa untuk menetapkan status pemantauan khusus, saham DMY-SHM masuk karena memenuhi kriteria nomor 9, yaitu anak perusahaan yang kontribusi pendapatannya material terhadap perusahaan tercatat sedang dalam kondisi dimintakan Penundaan Kewajiban Pembayaran Utang (PKPU), pailit, atau pembatalan perdamaian. Pengumuman bursa tidak merinci nama anak usaha yang dimaksud, besaran kontribusi pendapatannya terhadap pendapatan konsolidasian, maupun pihak yang mengajukan permohonan PKPU tersebut.",
+   "Status ini muncul tidak lama setelah DMY-SHM menggelar dua agenda pemegang saham pekan ini, yaitu RUPST yang menyetujui pembagian dividen tunai dan RUPSLB yang menyetujui pemecahan saham (stock split), yang keduanya sebelumnya dinilai netral terhadap fundamental perusahaan. Masuknya status pemantauan khusus menunjukkan bahwa di sisi lain, bursa mendeteksi risiko dari anak usaha yang material bagi pendapatan konsolidasian perusahaan."
+  ],
+  "fotoAdegan": "A warehouse worker checking an idle forklift beside stacked pallets in a dim, quiet storage aisle, overcast light",
+  "takeaway": "Laporan ini condong negatif bagi DMY-SHM, sebab pemicunya bukan hal administratif melainkan indikasi risiko keuangan nyata, yaitu anak usaha yang pendapatannya material tengah berada dalam proses hukum PKPU, pailit, atau pembatalan perdamaian. Pos yang tersentuh adalah pendapatan dan arus kas konsolidasian, karena jika anak usaha itu akhirnya dinyatakan pailit, kontribusinya ke laporan keuangan DMY-SHM bisa hilang. PKPU sendiri adalah proses di pengadilan niaga yang memberi perusahaan yang berutang kesempatan merundingkan dan menunda pembayaran utangnya, sebelum berpotensi berlanjut ke status pailit kalau perundingan itu gagal. Yang perlu dipantau berikutnya adalah perkembangan proses PKPU anak usaha tersebut dan apakah laporan keuangan DMY-SHM ke depan mulai menunjukkan dampaknya pada pendapatan, mengingat perubahan papan pencatatan ke status pemantauan khusus ini sudah berlaku efektif sejak 21 November 2026.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Efek Bersifat Ekuitas Dalam Pemantauan Khusus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Perubahan papan pencatatan ke pemantauan khusus efektif"
+   }
+  ]
+ },
+ {
   "slug": "jelang-teken-ieu-cepa-ri-ue-bahas-implementasi",
   "category": "Global",
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
@@ -29,6 +63,227 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret adalah kepastian tanggal: IEU-CEPA diteken 21 November 2026, dan begitu berlaku akan menghapus bea masuk untuk 90,4 persen kategori barang ekspor Indonesia ke Uni Eropa secara langsung. Pihak yang paling terdampak adalah eksportir Indonesia yang produknya masuk daftar tarif nol itu, serta investor yang akan mendapat perlindungan lewat perjanjian investasi terpisah yang diteken bersamaan. Arah yang terlihat adalah upaya mempercepat manfaat perjanjian lewat skema penerapan sementara mulai awal 2027, yaitu sebagian aturan berjalan duluan sebelum proses ratifikasi penuh di parlemen kedua pihak rampung. Yang akan menentukan apakah target ini tercapai adalah kemajuan ratifikasi domestik Indonesia dan Uni Eropa menjelang awal 2027, karena penerapan sementara tetap bergantung pada selesainya prosedur hukum masing-masing pihak.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "rups-dmy-shm-18-november-direksi-yoga-gantikan-teguh-yang-mundur",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 18 November: [Direksi] Yoga Gantikan Teguh yang Mundur",
+  "deck": "RUPS DMY-SHM 18 November 2026 menetapkan direksi dan komisaris baru, termasuk direktur baru pengganti Teguh Uji Dummy yang mengundurkan diri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:59:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E036_6555dd7f-eb12-484a-8b3d-6ea2e48201de-20261121015941.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "Perubahan Pengurus",
+   "RUPS",
+   "Direksi"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham (RUPS) DMY-SHM pada 18 November 2026 menyetujui susunan direksi dan dewan komisaris baru untuk periode jabatan 18 November 2026 sampai 30 Juni 2031. Arif Dummy Uji diangkat kembali sebagai Direktur Utama dan Rina Dummy Percobaan diangkat kembali sebagai Direktur, masing-masing menjalani periode jabatan kedua mereka di posisi tersebut.",
+   "Perubahan terjadi pada satu kursi direktur yang sebelumnya dipegang Teguh Uji Dummy. RUPS mengangkat Yoga Dummy Percobaan sebagai Direktur baru untuk menggantikan Teguh Uji Dummy yang mengundurkan diri. Ini merupakan periode jabatan pertama Yoga di posisi direktur perusahaan.",
+   "Di jajaran dewan komisaris, RUPS mengangkat kembali tiga nama untuk periode yang sama, yaitu Hartono Dummy Uji sebagai Komisaris Utama, Maya Uji Dummy sebagai Komisaris, dan Dr. Agus Percobaan Dummy sebagai Komisaris. Ketiganya menjalani periode jabatan kedua mereka, dan dokumen tidak menyebut adanya perubahan lain di jajaran komisaris selain pengangkatan kembali tersebut."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with a long table and leather chairs, soft morning light through glass windows",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, sebab isinya didominasi pengangkatan kembali direksi dan komisaris yang sudah menjabat, dan satu pergantian direktur terjadi karena pengunduran diri biasa tanpa indikasi masalah tata kelola baru. Susunan pengurus tidak langsung mengubah ekuitas, arus kas, atau laba per saham perusahaan, tetapi pelaku pasar tetap memperhatikannya karena kualitas pengambilan keputusan manajemen memengaruhi kinerja jangka panjang, apalagi DMY-SHM saat ini berstatus pemantauan khusus bursa akibat masalah di anak usahanya. Yang perlu dipantau berikutnya adalah bagaimana jajaran direksi baru ini menangani masalah anak usaha tersebut, mengingat periode jabatan mereka berlaku sampai 30 Juni 2031.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-18",
+    "acara": "RUPS menyetujui pengangkatan direksi dan komisaris baru"
+   },
+   {
+    "tanggal": "2031-06-30",
+    "acara": "Akhir periode jabatan direksi dan komisaris yang baru diangkat"
+   }
+  ]
+ },
+ {
+  "slug": "transaksi-material-dmy-shm-rp35-miliar-mesin-mi-instan-tanpa-rups",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Material DMY-SHM Rp35 Miliar: [Mesin Mi Instan] Tanpa RUPS",
+  "deck": "DMY-SHM membeli mesin lini produksi mi instan 120 ton per hari senilai Rp35 miliar dari PT Mesin Pangan Dummy, setara 37,47 persen ekuitas, tanpa perlu restu RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:52:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E025B_830aa84c-422c-4ec9-a7b5-666118855018-20261121015239.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "transaksi material",
+   "ekspansi pabrik",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "DMY-SHM menyampaikan keterbukaan informasi soal transaksi material tanpa persetujuan RUPS kepada Bursa Efek Indonesia. Perseroan membeli mesin lini produksi mi instan berkapasitas 120 ton per hari dari PT Mesin Pangan Dummy untuk ekspansi pabrik, dengan nilai transaksi Rp35 miliar. Transaksi yang dilakukan pada 19 November 2026 ini setara 37,47 persen dari ekuitas perseroan berdasarkan laporan keuangan per 30 Juni 2026, sehingga menurut aturan hanya perlu diumumkan tanpa memerlukan persetujuan Rapat Umum Pemegang Saham.",
+   "Perseroan memakai jasa penilai independen untuk menguji kewajaran transaksi ini, yaitu KJPP Dummy Uji dan Rekan dengan penilai bernama Penilai Dummy Uji, MAPPI (Cert.), bernomor STTD TEST-STTD-PB-001. Penilaian dilakukan pada 10 November 2026 atas kewajaran pembelian mesin senilai Rp35 miliar tersebut, dan hasilnya menyatakan transaksi wajar. Perseroan juga menegaskan transaksi ini bukan transaksi dengan pihak terafiliasi, dan informasi ini telah diumumkan di situs web perseroan serta situs web Bursa Efek Indonesia pada 20 November 2026."
+  ],
+  "fotoAdegan": "Factory workers installing large stainless steel noodle production machinery on an industrial plant floor under bright skylights.",
+  "takeaway": "Laporan ini condong netral bagi DMY-SHM: pembelian mesin produksi senilai Rp35 miliar ini murni ekspansi kapasitas dengan penilaian independen yang menyatakan wajar dan bukan transaksi dengan pihak terafiliasi, tapi ukurannya yang mencapai 37,47 persen dari ekuitas pantas dicermati karena bersamaan waktu dengan anak usaha perseroan yang belakangan diberitakan sedang menjalani PKPU, proses hukum penundaan pembayaran utang akibat gagal bayar. Pos yang tersentuh adalah ekuitas dan arus kas, sebab dokumen ini tidak menyebutkan apakah pembelian dibayar tunai atau lewat utang baru, sehingga pelaku pasar perlu melihat laporan keuangan berikutnya untuk tahu apakah kas perseroan tergerus besar atau muncul beban bunga baru. Yang perlu dipantau selanjutnya adalah laporan keuangan kuartal mendatang untuk mengukur dampak nyata transaksi ini terhadap kas dan ekuitas, berikut kelanjutan proses PKPU anak usaha tersebut, karena dokumen ini sendiri tidak mencantumkan tanggal milestone baru selain tanggal transaksi 19 November 2026 dan tanggal pengumuman 20 November 2026.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Material Tanpa Persetujuan RUPS"
+ },
+ {
+  "slug": "transaksi-afiliasi-dmy-shm-beli-kemasan-rp18-m-dari-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi DMY-SHM: [Beli Kemasan] Rp18 M dari Anak Usaha",
+  "deck": "DMY-SHM membeli bahan kemasan plastik fleksibel senilai Rp18 miliar dari anak usahanya, PT Dummy Uji Kemasan, untuk produksi 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:51:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E025A_cbff6896-97eb-4236-976a-d45bf5a6d23b-20261121015131.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "transaksi afiliasi",
+   "anak usaha",
+   "kemasan"
+  ],
+  "body": [
+   "DMY-SHM mengumumkan transaksi afiliasi berupa pembelian bahan kemasan plastik fleksibel senilai Rp18 miliar dari anak usahanya, PT Dummy Uji Kemasan, pada 19 November 2026. Bahan kemasan ini disiapkan untuk kebutuhan produksi tahun 2027. PT Dummy Uji Kemasan berstatus afiliasi karena 99,9 persen sahamnya dimiliki langsung oleh DMY-SHM, sehingga transaksi ini wajib diungkapkan ke bursa meski terjadi di dalam grup usaha sendiri.",
+   "Kewajaran transaksi ini dinilai oleh Kantor Jasa Penilai Publik (KJPP) Dummy Uji dan Rekan, melalui penilai independen bernama Penilai Dummy Uji yang memegang nomor STTD TEST-STTD-PB-001. Penilaian dilakukan pada 10 November 2026 dengan objek berupa kewajaran harga pembelian kemasan senilai Rp18 miliar tersebut, dan hasilnya menyatakan transaksi ini wajar.",
+   "Transaksi ini merupakan pasokan bahan baku untuk memastikan ketersediaan kemasan bagi lini produksi DMY-SHM, dengan PT Dummy Uji Kemasan berperan sebagai pemasok atau pihak penjual, sementara DMY-SHM berperan sebagai pembeli dalam hubungan afiliasi tersebut."
+  ],
+  "fotoAdegan": "Factory workers inspecting rolls of flexible plastic packaging film moving through an industrial production line",
+  "takeaway": "Transaksi ini netral bagi fundamental DMY-SHM, karena nilainya sekadar mengganti pemasok bahan baku dengan anak usaha sendiri dan sudah dinyatakan wajar oleh penilai independen, tanpa mengubah struktur kepemilikan atau kendali di dalam grup. Pos yang tersentuh adalah arus kas dan beban pokok produksi, dua hal yang biasa diawasi pelaku pasar karena uang keluar Rp18 miliar untuk bahan baku bisa menekan margin laba kalau harganya tidak kompetitif, meski di sini sudah ada penilai independen yang menyatakan harga ini wajar. Yang perlu dipantau selanjutnya adalah realisasi pasokan kemasan ini sepanjang 2027 dan apakah transaksi serupa akan berulang tiap tahun, sebab dokumen ini hanya mencakup kebutuhan produksi untuk satu tahun ke depan tanpa menyebut kontrak jangka panjang.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Keterbukaan Informasi Transaksi Afiliasi"
+ },
+ {
+  "slug": "pkpu-dmy-shm-gugatan-pemasok-rp1-25-miliar-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "PKPU DMY-SHM: [Gugatan] Pemasok Rp1,25 Miliar, Tak Material",
+  "deck": "Pemasok kemasan mengajukan PKPU senilai Rp1,25 miliar ke DMY-SHM; manajemen sebut nilainya 0,55% aset dan berencana berdamai.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:49:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E018_1c9a6a17-a968-4ae5-9fba-61538cdee157-20261121014916.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "PKPU",
+   "litigasi",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Pemasok Dummy Kemasan mengajukan permohonan penundaan kewajiban pembayaran utang (PKPU) terhadap DMY-SHM ke Pengadilan Niaga Jakarta Pusat dengan nomor perkara TEST-123/Pdt.Sus-PKPU/2026/PN Niaga Jkt.Pst. Tagihan yang dipersoalkan berasal dari pembelian bahan baku kemasan untuk produksi senilai Rp1,25 miliar, dengan jangka waktu kewajiban pembayaran tercatat dari 4 Mei 2026 hingga 31 Agustus 2026.",
+   "Menurut keterangan yang disampaikan DMY-SHM, perseroan menunda pembayaran karena ada perselisihan mutu atas sebagian kemasan yang dikirim oleh pemasok tersebut, berdasar data hasil pengujian mutu. Kejadian yang memicu gugatan ini tercatat pada 16 November 2026. Manajemen menyatakan nilai tagihan tersebut setara 0,55 persen dari total aset perseroan per 30 Juni 2026, sehingga perkara ini dinilai tidak berdampak material terhadap kegiatan usaha.",
+   "Manajemen menyampaikan bahwa perseroan akan menyelesaikan perkara ini melalui jalur perdamaian dengan pihak pemasok. Laporan ini belum mengungkapkan tanggal sidang atau jadwal putusan PKPU di Pengadilan Niaga Jakarta Pusat."
+  ],
+  "fotoAdegan": "Stacks of plastic packaging rolls and cardboard cartons inside a food factory warehouse, a forklift maneuvering under fluorescent light",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena nilai tagihan yang digugat hanya setara 0,55 persen dari total aset perseroan, pemicunya adalah perselisihan mutu dengan pemasok dan bukan masalah keuangan struktural, dan manajemen sudah menyatakan rencana berdamai. Yang tersentuh adalah arus kas, yakni aliran uang masuk dan keluar perseroan, sebab PKPU ini berawal dari utang dagang ke pemasok kemasan yang belum dibayar. Pelaku pasar memperhatikan arus kas karena itu menunjukkan apakah perseroan punya cukup uang tunai untuk melunasi kewajiban jangka pendeknya tepat waktu. Yang perlu dipantau berikutnya adalah hasil proses PKPU di Pengadilan Niaga Jakarta Pusat dan apakah perdamaian dengan PT Pemasok Dummy Kemasan benar tercapai, sebab dokumen ini belum menyebut tanggal sidang atau putusannya.",
+  "sentimen": "netral",
+  "judulIdx": "Perkara PKPU"
+ },
+ {
+  "slug": "penggabungan-usaha-dmy-shm-efektif-1-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Penggabungan Usaha DMY-SHM [Efektif] 1 Desember 2026",
+  "deck": "PT Dummy Distribusi Pangan Uji melebur ke DMY-SHM, penggabungan usaha efektif berlaku 1 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:48:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E017B_ab8d6fa4-4f60-4d93-81e3-8c057cd06f09-20261121014811.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "penggabungan usaha",
+   "merger",
+   "korporasi"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) resmi melaksanakan penggabungan usaha dengan anak perusahaannya, PT Dummy Distribusi Pangan Uji Tbk, yang efektif berlaku pada 1 Desember 2026. Dalam penggabungan ini, DMY-SHM berperan sebagai perusahaan yang menerima penggabungan sekaligus menjadi perusahaan hasil penggabungan, sehingga PT Dummy Distribusi Pangan Uji Tbk berhenti beroperasi sebagai entitas tersendiri setelah tanggal tersebut.",
+   "Berdasarkan keterbukaan informasi yang disampaikan perseroan, PT Dummy Distribusi Pangan Uji Tbk tercatat berstatus perusahaan terbuka yang merupakan bagian dari grup perseroan sebelum penggabungan ini berlangsung. Dokumen yang disampaikan tidak merinci nilai aset, jumlah saham, atau skema konversi yang menyertai proses penggabungan, sehingga dampak finansial langsungnya terhadap laporan keuangan DMY-SHM belum bisa dipastikan hanya dari keterbukaan ini."
+  ],
+  "fotoAdegan": "Warehouse workers loading boxed food products onto pallets inside a busy distribution center, forklift nearby, overhead lighting.",
+  "takeaway": "Penggabungan ini condong netral bagi DMY-SHM karena yang terjadi adalah penyatuan anak usaha yang sebelumnya sudah masuk dalam laporan keuangan konsolidasi induk, tanpa ada penyebutan perubahan kepemilikan publik atau suntikan modal baru. Pos yang paling mungkin tersentuh adalah struktur ekuitas dan arus kas perseroan, sebab aset dan kewajiban anak usaha yang tadinya tercatat lewat konsolidasi kini melebur langsung ke buku DMY-SHM, termasuk kemungkinan utang atau beban yang selama ini ada di anak usaha tersebut. Yang perlu dipantau berikutnya adalah tanggal efektif penggabungan pada 1 Desember 2026 itu sendiri, serta apakah DMY-SHM akan merilis laporan keuangan pasca penggabungan yang menunjukkan dampak riil terhadap aset dan kewajiban gabungan.",
+  "sentimen": "netral",
+  "judulIdx": "Pelaksanaan Penggabungan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Tanggal efektif penggabungan usaha"
+   }
+  ]
+ },
+ {
+  "slug": "pengambilalihan-dmy-shm-investor-baru-incar-600-juta-saham-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "Pengambilalihan DMY-SHM: Investor Baru Incar 600 Juta Saham [Akuisisi]",
+  "deck": "PT Dummy Investor Pangan Uji menegosiasikan pengambilalihan sekitar 600 juta saham DMY-SHM, termasuk rencana membeli 48% saham dari pemegang saham utama perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:41:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E010_b49db87b-b000-49cb-a8e8-e6f982f51698-20261121014102.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "pengambilalihan",
+   "akuisisi",
+   "pengendali baru"
+  ],
+  "body": [
+   "Calon pengendali baru, PT Dummy Investor Pangan Uji, sedang bernegosiasi untuk mengambil alih sekitar 600 juta saham emiten DMY-SHM, menurut keterbukaan informasi yang dipublikasikan perseroan pada 21 November 2026. Saat ini PT Dummy Investor Pangan Uji belum memiliki satu pun saham DMY-SHM. Tujuan pengambilalihan itu disebutkan untuk pengembangan dan sinergi usaha di industri pangan, dan mencakup negosiasi pembelian 48 persen saham dari PT Dummy Holding Uji Utama, pemegang saham yang disebut dalam dokumen tersebut.",
+   "PT Dummy Investor Pangan Uji merupakan perusahaan investasi (holding) yang bergerak di sektor makanan dan minuman. Dokumen keterbukaan informasi ini belum mengungkap harga atau nilai transaksi pengambilalihan, dan proses yang berjalan masih berstatus negosiasi, bukan kesepakatan final. Karena skemanya adalah pembelian saham dari pemegang saham yang sudah ada, bukan penerbitan saham baru, dana dari transaksi ini tidak masuk ke kas perseroan, melainkan berpindah ke pihak penjual saham, yakni PT Dummy Holding Uji Utama.",
+   "Negosiasi ini muncul di tengah rangkaian keterbukaan informasi lain dari DMY-SHM belakangan ini, termasuk status pemantauan khusus bursa akibat masalah di anak usaha, pergantian direksi, serta penggabungan usaha anak perusahaan. Dokumen tidak menyebutkan tenggat waktu penyelesaian negosiasi maupun harga pembelian saham."
+  ],
+  "fotoAdegan": "Workers stacking crates of packaged snack food inside a busy food processing warehouse, forklift moving pallets, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi DMY-SHM untuk saat ini, sebab yang terjadi baru negosiasi perubahan pengendali lewat jual beli saham lama, bukan dana segar yang masuk ke perseroan atau tambahan saham baru. Yang tersentuh adalah struktur hak suara dan siapa pengendali perusahaan, bukan ekuitas, kas, atau laba per saham, karena skemanya membeli 48 persen saham dari pemegang saham yang sudah ada, bukan menerbitkan saham baru sehingga tidak menambah modal perseroan. Mengingat DMY-SHM belakangan juga berada dalam pemantauan khusus akibat masalah di anak usaha, masuknya pengendali baru ini bisa dibaca dua arah, membawa manajemen dan modal baru atau sekadar transaksi antar pemegang saham tanpa dampak langsung ke operasional. Yang perlu dipantau berikutnya adalah apakah negosiasi ini berlanjut menjadi kesepakatan mengikat lengkap dengan harga transaksi, karena dokumen ini belum mencantumkan nilai pembelian maupun tenggat waktu penyelesaiannya.",
+  "sentimen": "netral",
+  "peristiwa": "akuisisi",
+  "judulIdx": "Negosiasi dalam Pengambilalihan"
+ },
+ {
+  "slug": "private-placement-dmy-shm-14-desember-terbit-62-5-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "Private Placement DMY-SHM 14 Desember: [Terbit] 62,5 Juta Saham",
+  "deck": "DMY-SHM akan menerbitkan 62,5 juta saham baru tanpa hak memesan efek terlebih dahulu pada 14 Desember 2026, seharga Rp400 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:40:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E008_ec4a39e1-51f5-4d10-9e8b-4199590b0c04-20261121014010.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "Private Placement",
+   "Penambahan Modal",
+   "Pasar Modal"
+  ],
+  "body": [
+   "Emiten berkode DMY-SHM akan melaksanakan penambahan modal tanpa memberikan hak memesan efek terlebih dahulu (HMETD) kepada pemegang saham lama. Sebanyak 62,5 juta saham baru akan diterbitkan pada 14 Desember 2026 dengan harga pelaksanaan Rp400 per saham, sehingga dana yang masuk ke kas perseroan mencapai Rp25 miliar.",
+   "Penerbitan ini merupakan bagian dari jatah penambahan modal tanpa HMETD sebesar 125 juta saham yang disetujui pemegang saham dalam RUPS pada 18 November 2026. Menurut dokumen keterbukaan, hingga saat ini belum ada satu pun saham dari jatah tersebut yang direalisasikan, sehingga pelaksanaan 62,5 juta saham pada Desember nanti menjadi realisasi pertama dari jatah itu. Nilai nominal saham DMY-SHM tercatat Rp50 per lembar, sehingga harga pelaksanaan Rp400 setara delapan kali nilai nominalnya. Dengan penerbitan ini, jumlah saham DMY-SHM yang beredar akan bertambah dari 1,25 miliar menjadi 1,3125 miliar lembar.",
+   "Perseroan telah menyampaikan keterbukaan informasi mengenai rencana penambahan modal ini kepada publik pada 12 Oktober 2026, sebelum rencana tersebut mendapat persetujuan dalam RUPS. Dokumen ini tidak menyebutkan pihak yang akan menyerap saham baru tersebut maupun peruntukan dana hasil penerbitannya."
+  ],
+  "fotoAdegan": "Workers monitoring stainless steel food processing machinery on a factory floor, bright industrial lighting, packaged noodles nearby.",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, sebab penambahan modal tanpa HMETD ini hanya menambah sekitar 5 persen dari saham yang sudah beredar dan harganya jauh di atas nilai nominal, tapi dokumen ini tidak membuka siapa yang akan menyerap saham baru maupun untuk apa dananya dipakai. Yang tersentuh adalah jumlah saham beredar, yang naik dari 1,25 miliar menjadi 1,3125 miliar lembar, sehingga laba per saham, yaitu jatah laba yang dibagi ke setiap lembar saham, bisa sedikit terdilusi karena kue labanya kini dibagi ke lebih banyak lembar. Di sisi lain ekuitas perseroan bertambah sekitar Rp25 miliar dari dana yang masuk, karena saham baru dijual seharga Rp400 per lembar jauh di atas nilai nominalnya yang hanya Rp50. Yang perlu dipantau adalah tanggal pelaksanaan pada 14 Desember 2026, serta sisa jatah dari total 125 juta saham yang disetujui RUPS 18 November 2026 yang belum direalisasikan, karena baru di titik itu akan terlihat jelas siapa pembeli saham baru ini dan bagaimana dana itu dipakai.",
+  "sentimen": "netral",
+  "peristiwa": "right-issue",
+  "judulIdx": "Rencana Pelaksanaan Penambahan Modal Tanpa HMETD",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-12",
+    "acara": "Keterbukaan informasi rencana penambahan modal sebelum RUPS"
+   },
+   {
+    "tanggal": "2026-11-18",
+    "acara": "RUPS menyetujui penambahan modal tanpa HMETD 125 juta saham"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Pelaksanaan penerbitan 62,5 juta saham baru"
+   }
+  ]
  },
  {
   "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
@@ -135,6 +390,39 @@ var ARTICLES = [
    {
     "tanggal": "2026-11-21",
     "acara": "RUPSLB DMY-SHM menyetujui pemecahan nilai nominal saham"
+   }
+  ]
+ },
+ {
+  "slug": "efektif-hmetd-dmy-shm-20-november-right-issue-mulai-bergulir",
+  "category": "Aksi Korporasi",
+  "title": "Efektif HMETD DMY-SHM 20 November: [Right Issue] Mulai Bergulir",
+  "deck": "OJK menyatakan efektif pendaftaran penambahan modal dengan HMETD DMY-SHM pada 20 November 2026, membuka jalan bagi proses rights issue selanjutnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T00:54:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E074A_f98c2686-153a-476a-b751-ef87e37aea17-20261121005421.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "HMETD",
+   "Rights Issue",
+   "Penambahan Modal"
+  ],
+  "body": [
+   "DMY-SHM menyampaikan ke Bursa Efek Indonesia bahwa perseroan telah menerima Pemberitahuan Efektif Pendaftaran dari Otoritas Jasa Keuangan terkait rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD). Surat pemberitahuan itu bernomor TEST-DMY-SHM-HMETD dan bertanggal 20 November 2026, merujuk pada pengajuan sebelumnya mengenai rencana penambahan modal dengan HMETD yang sudah disampaikan perseroan ke bursa.",
+   "Dengan status efektif ini, DMY-SHM secara resmi mendapat lampu hijau regulator untuk melanjutkan proses penerbitan saham baru lewat skema HMETD, yang memberi hak kepada pemegang saham lama untuk membeli saham baru sesuai porsi kepemilikan mereka. Laporan yang diterima bursa kali ini hanya memuat konfirmasi status efektif tersebut, belum mencantumkan rincian seperti rasio saham baru, harga pelaksanaan, jumlah dana yang ditargetkan, maupun jadwal pencatatan dan periode perdagangan HMETD, yang kemungkinan sudah diumumkan dalam keterbukaan informasi sebelumnya namun tidak ikut disertakan dalam dokumen ini."
+  ],
+  "fotoAdegan": "Bank officers stamping stacks of blurred subscription forms at a busy teller counter, customers queuing, fluorescent lighting",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena efektifnya pendaftaran HMETD hanya mengonfirmasi proses administratif yang sudah diajukan sebelumnya, tanpa membawa angka baru soal besaran dana atau jumlah saham yang bisa menentukan arah dampaknya ke pemegang saham. Yang tersentuh dari aksi ini adalah jumlah saham beredar dan laba per saham: begitu saham baru terbit lewat HMETD, jumlah saham beredar bertambah, dan jika laba perseroan tidak tumbuh secepat penambahan saham itu, laba per saham bisa terdilusi, sementara di sisi lain dana yang terkumpul dari pemegang saham yang menyerap haknya bisa menambah modal atau mengurangi kebutuhan utang. Perkembangan ini juga muncul di tengah status pemantauan khusus yang sedang disandang DMY-SHM akibat PKPU anak usahanya, sehingga pasar kemungkinan akan mencermati apakah dana HMETD ini terkait dengan kebutuhan likuiditas perseroan. Yang perlu dipantau selanjutnya adalah pengumuman rinci dari perseroan soal rasio, harga pelaksanaan, dan jadwal pencatatan serta periode perdagangan HMETD, karena detail itu belum tercantum dalam laporan efektivitas ini.",
+  "sentimen": "netral",
+  "peristiwa": "right-issue",
+  "judulIdx": "Penyampaian Efektif HMETD",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "OJK menyatakan efektif pendaftaran HMETD"
    }
   ]
  },

@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemantauan-khusus-dmy-shm-21-november-masuk-imbas-anak-usaha-pkpu",
+  "category": "Aksi Korporasi",
+  "title": "Pemantauan Khusus DMY-SHM 21 November: [Masuk] Imbas Anak Usaha PKPU",
+  "deck": "Bursa memasukkan saham DMY-SHM ke papan pemantauan khusus efektif 21 November 2026, dipicu anak usaha yang pendapatannya material sedang PKPU.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "Pemantauan Khusus",
+   "PKPU",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B031_737e4579-2350-45bf-b539-0c5d84ec744e-20261121023843.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jelang-teken-ieu-cepa-ri-ue-bahas-implementasi",
   "category": "Global",
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
@@ -19,6 +35,118 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7237/jelang-penandatanganan-ieu-cepa-menko-airlangga-bahas-percepatan-implementasi-dengan-uni-eropa",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "rups-dmy-shm-18-november-direksi-yoga-gantikan-teguh-yang-mundur",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 18 November: [Direksi] Yoga Gantikan Teguh yang Mundur",
+  "deck": "RUPS DMY-SHM 18 November 2026 menetapkan direksi dan komisaris baru, termasuk direktur baru pengganti Teguh Uji Dummy yang mengundurkan diri.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "Perubahan Pengurus",
+   "RUPS",
+   "Direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E036_6555dd7f-eb12-484a-8b3d-6ea2e48201de-20261121015941.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "transaksi-material-dmy-shm-rp35-miliar-mesin-mi-instan-tanpa-rups",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Material DMY-SHM Rp35 Miliar: [Mesin Mi Instan] Tanpa RUPS",
+  "deck": "DMY-SHM membeli mesin lini produksi mi instan 120 ton per hari senilai Rp35 miliar dari PT Mesin Pangan Dummy, setara 37,47 persen ekuitas, tanpa perlu restu RUPS.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "transaksi material",
+   "ekspansi pabrik",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E025B_830aa84c-422c-4ec9-a7b5-666118855018-20261121015239.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "transaksi-afiliasi-dmy-shm-beli-kemasan-rp18-m-dari-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi DMY-SHM: [Beli Kemasan] Rp18 M dari Anak Usaha",
+  "deck": "DMY-SHM membeli bahan kemasan plastik fleksibel senilai Rp18 miliar dari anak usahanya, PT Dummy Uji Kemasan, untuk produksi 2027.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "transaksi afiliasi",
+   "anak usaha",
+   "kemasan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E025A_cbff6896-97eb-4236-976a-d45bf5a6d23b-20261121015131.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pkpu-dmy-shm-gugatan-pemasok-rp1-25-miliar-tak-material",
+  "category": "Aksi Korporasi",
+  "title": "PKPU DMY-SHM: [Gugatan] Pemasok Rp1,25 Miliar, Tak Material",
+  "deck": "Pemasok kemasan mengajukan PKPU senilai Rp1,25 miliar ke DMY-SHM; manajemen sebut nilainya 0,55% aset dan berencana berdamai.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "PKPU",
+   "litigasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E018_1c9a6a17-a968-4ae5-9fba-61538cdee157-20261121014916.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penggabungan-usaha-dmy-shm-efektif-1-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Penggabungan Usaha DMY-SHM [Efektif] 1 Desember 2026",
+  "deck": "PT Dummy Distribusi Pangan Uji melebur ke DMY-SHM, penggabungan usaha efektif berlaku 1 Desember 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "penggabungan usaha",
+   "merger",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E017B_ab8d6fa4-4f60-4d93-81e3-8c057cd06f09-20261121014811.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pengambilalihan-dmy-shm-investor-baru-incar-600-juta-saham-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "Pengambilalihan DMY-SHM: Investor Baru Incar 600 Juta Saham [Akuisisi]",
+  "deck": "PT Dummy Investor Pangan Uji menegosiasikan pengambilalihan sekitar 600 juta saham DMY-SHM, termasuk rencana membeli 48% saham dari pemegang saham utama perseroan.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "pengambilalihan",
+   "akuisisi",
+   "pengendali baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E010_b49db87b-b000-49cb-a8e8-e6f982f51698-20261121014102.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "private-placement-dmy-shm-14-desember-terbit-62-5-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "Private Placement DMY-SHM 14 Desember: [Terbit] 62,5 Juta Saham",
+  "deck": "DMY-SHM akan menerbitkan 62,5 juta saham baru tanpa hak memesan efek terlebih dahulu pada 14 Desember 2026, seharga Rp400 per saham.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "Private Placement",
+   "Penambahan Modal",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E008_ec4a39e1-51f5-4d10-9e8b-4199590b0c04-20261121014010.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
@@ -50,6 +178,22 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_68ece331-f7d8-49f1-b711-1addc920d710-20261121010210.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "efektif-hmetd-dmy-shm-20-november-right-issue-mulai-bergulir",
+  "category": "Aksi Korporasi",
+  "title": "Efektif HMETD DMY-SHM 20 November: [Right Issue] Mulai Bergulir",
+  "deck": "OJK menyatakan efektif pendaftaran penambahan modal dengan HMETD DMY-SHM pada 20 November 2026, membuka jalan bagi proses rights issue selanjutnya.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "HMETD",
+   "Rights Issue",
+   "Penambahan Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E074A_f98c2686-153a-476a-b751-ef87e37aea17-20261121005421.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6370,156 +6514,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477889-kemenekraf-dan-kek-industropolis-batang-tingkatkan-kompetensi-sdm-kreatif-lokal"
- },
- {
-  "slug": "tabungan-bri-rekor-tertinggi-dana-murah-tembus-70",
-  "category": "Perbankan",
-  "title": "Tabungan BRI [Rekor] Tertinggi, Dana Murah Tembus 70%",
-  "deck": "Tabungan BRI mencapai Rp637,7 triliun hingga September 2026, level tertinggi sepanjang sejarah perusahaan, seiring porsi dana murah yang naik ke 70 persen dari total dana pihak ketiga.",
-  "date": "11 November 2026",
-  "image": "assets/img/tabungan-bri-rekor-tertinggi-dana-murah-tembus-70.jpg",
-  "imageV": "mwch5ext",
-  "tags": [
-   "BRI",
-   "BBRI",
-   "CASA",
-   "BRImo"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477885-penghimpunan-tabungan-cetak-rekor-tertinggi-sepanjang-sejarah-bukti-nyata-keberhasilan-transformasi-bri"
- },
- {
-  "slug": "4-manajer-investasi-bumn-merger-aum-tembus-rp170-triliun",
-  "category": "Pasar Modal",
-  "title": "4 Manajer Investasi BUMN [Merger], AUM Tembus Rp170 Triliun",
-  "deck": "Danantara meluncurkan Danareksa Investments usai menggabungkan Mandiri, BRI, BNI, dan PNM Investment Management dengan dana kelolaan Rp172,5 triliun.",
-  "date": "11 November 2026",
-  "image": "assets/img/4-manajer-investasi-bumn-merger-aum-tembus-rp170-triliun.jpg",
-  "imageV": "mwde4rg1",
-  "tags": [
-   "Danareksa Investments",
-   "Danantara",
-   "manajer investasi",
-   "Rosan Roeslani"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477880-danareksa-investments-resmi-diluncurkan-usai-merger-empat-manajer-investasi-aum-gabungan-tembus-rp170-triliun"
- },
- {
-  "slug": "danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t",
-  "category": "Pasar Modal",
-  "title": "Danareksa Investment [Resmi] Lahir, Kelola AUM Rp172,5 T",
-  "deck": "Empat manajer investasi BUMN merger jadi Danareksa Investment Management Indonesia, mengelola dana Rp172,5 triliun dan menyasar posisi kedua terbesar nasional.",
-  "date": "11 November 2026",
-  "image": "assets/img/danareksa-investment-resmi-lahir-kelola-aum-rp172-5-t.jpg",
-  "imageV": "mwch5fe3",
-  "tags": [
-   "Danareksa Investment",
-   "Danantara",
-   "merger BUMN",
-   "manajer investasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477880-danareksa-investments-resmi-diluncurkan-dari-merger-4-mi-bumn-aum-capai-rp1725-triliun"
- },
- {
-  "slug": "cnaf-direktur-iris-savitri-mundur-dari-jajaran-direksi",
-  "category": "Aksi Korporasi",
-  "title": "CNAF: Direktur Iris Savitri [Mundur] dari Jajaran Direksi",
-  "deck": "PT CIMB Niaga Auto Finance (CNAF) melaporkan pengunduran diri Iris Savitri dari kursi direksi, menunggu persetujuan pemegang saham lewat keputusan sirkuler.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CNAF",
-   "direksi",
-   "pengunduran diri",
-   "CIMB Niaga Auto Finance"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6890e81186_b65dba298f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanksi-pajak-bisa-dihapus-100-persen-lewat-pmk-71-sampai-2028",
-  "category": "Makroekonomi",
-  "title": "Sanksi Pajak Bisa [Dihapus] 100 Persen Lewat PMK-71 Sampai 2028",
-  "deck": "Kanwil DJP Jawa Barat II mensosialisasikan PMK-71 di Cirebon: sanksi pajak bisa dihapus hingga 100 persen bagi Wajib Pajak yang melunasi utang pokoknya, berlaku sampai 1 Oktober 2028.",
-  "date": "11 November 2026",
-  "image": "assets/img/sanksi-pajak-bisa-dihapus-100-persen-lewat-pmk-71-sampai-2028.jpg",
-  "imageV": "mwc6ak7z",
-  "tags": [
-   "pajak",
-   "DJP",
-   "PMK-71",
-   "Cirebon"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sosialisasi-pmk-71-di-cirebon-kanwil-djp-jawa-barat-ii-ajak-wajib-pajak-wilayah",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "batam-tumbuh-7-28-persen-pemerintah-awasi-impor-ilegal",
-  "category": "Makroekonomi",
-  "title": "Batam Tumbuh 7,28 Persen, Pemerintah Awasi [Impor Ilegal]",
-  "deck": "Ekonomi dan investasi Batam melesat, tapi pemerintah pusat menyoroti praktik underinvoicing dan impor barang bekas ilegal yang dinilai bisa mengganggu iklim usaha di kawasan ini.",
-  "date": "11 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
-  "tags": [
-   "Batam",
-   "Investasi",
-   "KPBPB",
-   "Mekaar"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7212/perkuat-pertumbuhan-ekonomi-dan-kepastian-berusaha-pemerintah-dorong-daya-saing-investasi-kawasan-strategis-batam",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target",
-  "category": "Makroekonomi",
-  "title": "Ekspor RI [Naik] 5,58 Persen, TEI 2026 Lampaui Target",
-  "deck": "Dalam pembukaan forum pameran IBEF 2026, pemerintah menyoroti ekspor Indonesia yang naik 5,58 persen pada Januari-September 2026, serta capaian Trade Expo Indonesia yang lampaui target transaksi.",
-  "date": "11 November 2026",
-  "image": "assets/img/ekspor-ri-naik-5-58-persen-tei-2026-lampaui-target.jpg",
-  "imageV": "mwd8qpvm",
-  "tags": [
-   "ekspor",
-   "pameran dagang",
-   "Kementerian Perdagangan",
-   "Trade Expo Indonesia"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/wamendag-roro-tegaskan-peran-pameran-sebagai-jembatan-produk-indonesia-ke-pasar-global",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "oils-dirikan-anak-usaha-ignp-komisaris-direktur-ikut-setor-modal",
-  "category": "Aksi Korporasi",
-  "title": "OILS Dirikan Anak Usaha IGNP: [Komisaris] & Direktur Ikut Setor Modal",
-  "deck": "Komisaris Johan Widakdo Liem dan Direktur Yonathan Widakdo Sutanto ikut memegang saham pribadi di anak usaha baru OILS, PT Indo Global Niaga Perkasa.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OILS",
-   "anak usaha",
-   "tata kelola perusahaan",
-   "minyak kelapa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2f4d56f6e6_1e43e3c9f8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppgd-catatkan-obligasi-sukuk-baru-rp1-5-triliun-di-bei",
-  "category": "Aksi Korporasi",
-  "title": "PPGD catatkan [obligasi-sukuk] baru Rp1,5 triliun di BEI",
-  "deck": "Pegadaian (PPGD) mencatatkan empat seri obligasi dan sukuk senilai total Rp1,5 triliun di BEI mulai 12 November 2026, bagian dari program penawaran berkelanjutan senilai puluhan triliun rupiah.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGD",
-   "obligasi korporasi",
-   "sukuk",
-   "Pegadaian"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c28565f4f7_58994dc448.pdf",
-  "sourceLabel": "IDX"
  }
 ];

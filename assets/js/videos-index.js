@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "IMV5WFy1DcQ",
+  "title": "Defisit BPJS Kesehatan, Siapa yang Menanggung?",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "Penerimaan iuran BPJS Kesehatan hingga September 2026 baru mencapai Rp118 triliun, sementara manfaat yang dibayarkan Rp132 triliun, sehingga muncul selisih Rp14 triliun.",
+  "takeaway": "Defisit ini menyangkut beban fiskal dan keberlanjutan iuran jaminan kesehatan yang dibayar masyarakat dan dunia usaha."
+ },
+ {
+  "id": "Wa6YXowEsqI",
+  "title": "Isu BPJS Dihapus dan Dialihkan ke Klinik KDMP, Ini Jawabannya",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "BPJS Kesehatan merespons kabar rencana penghapusan program dan pengalihannya ke klinik KDMP, di tengah defisit iuran yang mencapai Rp14 triliun hingga September 2026.",
+  "takeaway": "Klarifikasi ini relevan karena menyangkut kepastian skema jaminan kesehatan yang dibiayai lewat iuran wajib pekerja dan pemberi kerja."
+ },
+ {
+  "id": "c1nD-DdVMT8",
+  "title": "Direktur BPJS Ungkap Alasan Defisit Kesehatan 3 Tahun Terakhir",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "Direktur Kepesertaan BPJS Kesehatan menjelaskan sebab defisit yang berulang selama tiga tahun terakhir, saat iuran yang terkumpul lebih kecil dari klaim manfaat yang dibayarkan.",
+  "takeaway": "Penjelasan ini membantu pembaca memahami akar masalah defisit yang berpotensi memengaruhi besaran iuran ke depan."
+ },
+ {
   "id": "PF69eIXAo8o",
   "title": "DJPb Kawal Triliunan Uang Negara, Ini Fokus Menuju 2027",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Kementerian ESDM mengalihkan sebagian alokasi ekspor gas bumi dari Singapura untuk memenuhi kebutuhan dalam negeri.",
   "takeaway": "Kebijakan ini mencerminkan prioritas pemerintah terhadap ketahanan pasokan energi domestik di tengah kebutuhan gas yang terus bertambah."
- },
- {
-  "id": "vLMgBt9vyQI",
-  "title": "Menko Airlangga Ingatkan Perbankan Perkuat Keamanan Siber",
-  "category": "Perbankan",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto mengingatkan seluruh sektor perbankan untuk segera memperkuat sistem keamanan siber.",
-  "takeaway": "Ketahanan siber perbankan menjadi isu penting bagi stabilitas sistem keuangan dan kepercayaan nasabah."
- },
- {
-  "id": "6nBnM8ZBx4s",
-  "title": "Gentengisasi Dorong UMKM dan Ekonomi Bergerak",
-  "category": "UMKM",
-  "program": "AKIM",
-  "summary": "Program Gentengisasi yang digagas Presiden Prabowo Subianto melalui Kementerian Perumahan dan Kawasan Permukiman dinilai turut menggerakkan UMKM dan roda ekonomi di tingkat daerah.",
-  "takeaway": "Menarik bagi pembaca ekonomi karena menunjukkan bagaimana program perumahan pemerintah bisa berdampak langsung pada pertumbuhan UMKM."
- },
- {
-  "id": "K34b2ZNITh4",
-  "title": "Upaya BP Batam Modernisasi Terminal Peti Kemas",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "BP Batam mendapat penghargaan atas modernisasi Pelabuhan Batu Ampar dan inovasi layanan investasi, yang disebut meningkatkan efisiensi logistik di Batam.",
-  "takeaway": "Modernisasi pelabuhan ini relevan bagi pembaca ekonomi karena menyangkut efisiensi logistik dan daya saing investasi di kawasan Batam."
  }
 ];

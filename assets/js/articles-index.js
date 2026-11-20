@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jelang-teken-ieu-cepa-ri-ue-bahas-implementasi",
+  "category": "Global",
+  "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
+  "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
+  "date": "21 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Airlangga Hartarto",
+   "perdagangan"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7237/jelang-penandatanganan-ieu-cepa-menko-airlangga-bahas-percepatan-implementasi-dengan-uni-eropa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
   "category": "Aksi Korporasi",
   "title": "RUPST DMY-SHM 21 November: [Dividen Tunai] Disetujui",
@@ -35,6 +51,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_68ece331-f7d8-49f1-b711-1addc920d710-20261121010210.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "adopsi-ai-di-indonesia-melonjak-40-persen-dalam-setahun",
+  "category": "Teknologi",
+  "title": "Adopsi AI di Indonesia [Melonjak] 40 Persen dalam Setahun",
+  "deck": "Adopsi AI di Indonesia tumbuh 40 persen setahun, 75 persen perusahaan pengguna melaporkan produktivitas naik, namun pebisnis masih dilema pilih aplikasi instan atau bangun sendiri.",
+  "date": "20 November 2026",
+  "image": "assets/img/adopsi-ai-di-indonesia-melonjak-40-persen-dalam-setahun.jpg",
+  "imageV": "mwpcyfpe",
+  "tags": [
+   "AI",
+   "adopsi teknologi",
+   "Xtremax",
+   "produktivitas bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479478-tren-ai-di-indonesia-produktivitas-meningkat-pebisnis-masih-terbentur-dilema"
  },
  {
   "slug": "telkom-solution-garap-konektivitas-digital-hotel",
@@ -189,7 +222,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -1480,7 +1513,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -2223,7 +2256,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2502,7 +2535,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -4029,7 +4062,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
   "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
   "date": "14 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -4045,7 +4078,7 @@ var ARTICLES = [
   "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
   "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
   "date": "14 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -4111,7 +4144,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -4193,7 +4226,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -5111,7 +5144,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6488,38 +6521,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c28565f4f7_58994dc448.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bris-catatkan-sukuk-rp2-triliun-genapkan-rp10-triliun",
-  "category": "Aksi Korporasi",
-  "title": "BRIS Catatkan Sukuk Rp2 Triliun, Genapkan [Rp10 Triliun]",
-  "deck": "Sukuk mudharabah tahap III senilai Rp2 triliun resmi tercatat di BEI pada 12 November 2026, melengkapi target Rp10 triliun program yang berjalan sejak 2024.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRIS",
-   "Sukuk Mudharabah",
-   "BEI",
-   "Obligasi Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c3d7939419_baac6c09fc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-hadirkan-asisten-ai-tara-untuk-cari-informasi",
-  "category": "Teknologi",
-  "title": "Telkom Hadirkan Asisten AI [TARA] untuk Cari Informasi",
-  "deck": "TARA, asisten AI Telkom yang diluncurkan Oktober 2026, sudah menjawab 14.072 pertanyaan publik seputar produk, investor, hingga lowongan kerja.",
-  "date": "11 November 2026",
-  "image": "assets/img/telkom-hadirkan-asisten-ai-tara-untuk-cari-informasi.jpg",
-  "imageV": "mwc6al2s",
-  "tags": [
-   "AI",
-   "Telkom",
-   "TARA",
-   "layanan digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477849-telkom-hadirkan-asisten-ai-tara-bantu-masyarakat-cari-informasi-lebih-cepat"
  }
 ];

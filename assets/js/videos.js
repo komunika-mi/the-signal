@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "IMV5WFy1DcQ",
+  "title": "Defisit BPJS Kesehatan, Siapa yang Menanggung?",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "Penerimaan iuran BPJS Kesehatan hingga September 2026 baru mencapai Rp118 triliun, sementara manfaat yang dibayarkan Rp132 triliun, sehingga muncul selisih Rp14 triliun.",
+  "takeaway": "Defisit ini menyangkut beban fiskal dan keberlanjutan iuran jaminan kesehatan yang dibayar masyarakat dan dunia usaha.",
+  "terbit": "2026-11-20T16:00:17+00:00"
+ },
+ {
+  "id": "Wa6YXowEsqI",
+  "title": "Isu BPJS Dihapus dan Dialihkan ke Klinik KDMP, Ini Jawabannya",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "BPJS Kesehatan merespons kabar rencana penghapusan program dan pengalihannya ke klinik KDMP, di tengah defisit iuran yang mencapai Rp14 triliun hingga September 2026.",
+  "takeaway": "Klarifikasi ini relevan karena menyangkut kepastian skema jaminan kesehatan yang dibiayai lewat iuran wajib pekerja dan pemberi kerja.",
+  "terbit": "2026-11-20T15:40:37+00:00"
+ },
+ {
+  "id": "c1nD-DdVMT8",
+  "title": "Direktur BPJS Ungkap Alasan Defisit Kesehatan 3 Tahun Terakhir",
+  "category": "Makroekonomi",
+  "program": "One On One",
+  "summary": "Direktur Kepesertaan BPJS Kesehatan menjelaskan sebab defisit yang berulang selama tiga tahun terakhir, saat iuran yang terkumpul lebih kecil dari klaim manfaat yang dibayarkan.",
+  "takeaway": "Penjelasan ini membantu pembaca memahami akar masalah defisit yang berpotensi memengaruhi besaran iuran ke depan.",
+  "terbit": "2026-11-20T15:26:15+00:00"
+ },
+ {
   "id": "PF69eIXAo8o",
   "title": "DJPb Kawal Triliunan Uang Negara, Ini Fokus Menuju 2027",
   "category": "Makroekonomi",

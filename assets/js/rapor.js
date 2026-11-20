@@ -12,7 +12,7 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-20T05:26:42.245+07:00",
+ "diperbarui": "2026-11-21T04:59:06.071+07:00",
  "entri": [
   {
    "id": "2026-11-19-3",
@@ -55,8 +55,13 @@ var RAPOR = {
    "penanda": "Penandatanganan IEU-CEPA di Brussels pada 21 November",
    "tenggat": "2026-11-21",
    "tenggatLabel": "penandatanganan di Brussels pada 21 November",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "ri-dan-uni-eropa-teken-perjanjian-dagang-cepa",
+    "judul": "RI dan Uni Eropa Teken Perjanjian Dagang CEPA",
+    "tanggal": "20 November 2026",
+    "alasan": "Artikel ini melaporkan penandatanganan resmi I-EU CEPA beserta perjanjian perlindungan investasi (IPA), menunjukkan pengikatan formal hubungan dagang-investasi RI-UE benar terjadi."
+   }
   },
   {
    "id": "2026-11-18-2",

@@ -3,6 +3,251 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jmas-defisit-dana-tabarru-rp60-88-m-ekuitas-kurang-modal",
+  "category": "Aksi Korporasi",
+  "title": "JMAS: Defisit Dana Tabarru Rp60,88 M, [Ekuitas Kurang] Modal",
+  "deck": "JMAS mengakui ekuitasnya Rp123,42 miliar, masih kurang Rp76,58 miliar dari syarat modal minimum Rp200 miliar, dan menjadwalkan rights issue paling lambat akhir 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T19:58:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a1d59cdb2_15c0ffbd31.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JMAS",
+  "tags": [
+   "JMAS",
+   "asuransi syariah",
+   "solvabilitas",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) menjelaskan kepada Bursa Efek Indonesia bahwa ekuitas perusahaan per akhir 2025 tercatat Rp123,42 miliar, masih kurang Rp76,58 miliar dari syarat modal minimum Rp200 miliar yang ditetapkan untuk kelompok perusahaan asuransi modal inti (KPPE 1). Jika piutang dana talangan (gardh) yang diberikan kepada dana tabarru' tidak bisa dipulihkan, ekuitas perusahaan bisa tergerus lebih dalam menjadi sekitar Rp80,12 miliar. Dana tabarru', yakni dana bersama milik peserta asuransi syariah yang dipakai untuk membayar klaim, tercatat defisit Rp60,88 miliar pada 2025, naik dari Rp52,97 miliar setahun sebelumnya, dengan tingkat solvabilitas minus 180,78 persen. Perseroan menjawab bahwa posisi ekuitas per Juni dan September 2026 sudah mendekati atau memenuhi batas minimum itu, dan berencana menggelar rights issue atau penambahan modal dengan hak memesan efek terlebih dahulu (HMETD) paling lambat akhir 2027, dengan opsi mundur sampai 2028 jika rencana itu tidak terealisasi sesuai jadwal.",
+   "Laporan Keuangan Tahunan 2025 ini sendiri baru diotorisasi auditor pada 4 November 2026, telat sekitar tujuh bulan dari batas akhir 31 Maret 2026. Perseroan menjelaskan keterlambatan terjadi karena proses audit sempat terhenti akibat pergantian kantor akuntan publik. Kantor Akuntan Publik Syarief, Wibawa, dan Rekan (KAP SWR) tidak memperpanjang kerja sama setelah kontraknya berakhir 31 Maret 2026, sehingga Perseroan kembali menunjuk Kantor Akuntan Publik Hendrawinata Hanny Erwin & Sumargo dengan Akuntan Publik Zulbadri. Proses ini bersamaan dengan perintah Otoritas Jasa Keuangan (OJK) agar Perseroan menghitung ulang penyisihan teknis, yakni cadangan dana untuk membayar klaim di masa depan, menggunakan konsultan aktuaria independen yang baru. Penghitungan ulang itu baru selesai akhir Juni 2026.",
+   "Di sisi pemegang saham, Bursa juga menyoroti masuknya PT Pijar Investasi Nusantara sebagai pemegang saham baru dengan 8,3 persen saham JMAS, serta kenaikan kepemilikan Drs. H. Bahrodji, MM. menjadi 4,29 persen dari sebelumnya 3,50 persen. Akibatnya porsi saham milik masyarakat turun dari 38,55 persen menjadi 29,46 persen, dan porsi saham free float, yaitu saham yang bebas diperdagangkan publik, turun dari 35,58 persen menjadi 27,3 persen. Perseroan mengaku tidak mengetahui mekanisme maupun latar belakang transaksi pembelian saham oleh PT Pijar Investasi Nusantara, maupun ada atau tidaknya hubungan pihak itu dengan pemegang saham pengendali. Perseroan sudah mengirim surat klarifikasi melalui perusahaan efek BNI Sekuritas sejak November 2025, namun hingga laporan ini disampaikan belum menerima tanggapan.",
+   "Dari sisi kinerja, laba tahun berjalan 2025 anjlok 85,99 persen menjadi hanya Rp0,40 miliar, sementara bisnis inti justru mencatat rugi usaha Rp1,21 miliar. Laba yang tersisa itu ditopang pembalikan pencadangan dan akrual sekitar Rp4,30 miliar, termasuk akrual dari tahun 2023 yang baru dibalik pada 2025. Cadangan kewajiban kepada pemegang polis yang disebut IBNR, estimasi klaim yang sudah terjadi tapi belum dilaporkan, naik 273 persen menjadi Rp28,74 miliar, terutama dari produk asuransi pembiayaan. Perseroan juga mencatat denda pajak Rp1,18 miliar untuk tahun pajak 2022 dan 2023, naik dari Rp0,25 miliar pada 2024, serta masih memiliki piutang yang belum tertagih dari PT Bank Syariah Indonesia Tbk sebesar Rp18,08 miliar dan dari PT Trans Dana Profitri, terkait Pertamina Hulu Rokan, sebesar Rp3,37 miliar per akhir 2025."
+  ],
+  "fotoAdegan": "A quiet insurance office desk with stacked paper folders and a calculator, soft morning light through a window",
+  "takeaway": "Laporan ini condong negatif bagi JMAS: ekuitas perusahaan belum memenuhi syarat modal minimum regulator, defisit dana tabarru' makin dalam, dan laba yang tersisa bukan dari bisnis inti yang justru rugi usaha, melainkan dari pembalikan pencadangan yang sifatnya satu kali. Pos yang tersentuh adalah ekuitas dan solvabilitas dana tabarru', yakni dana bersama peserta asuransi syariah untuk membayar klaim, dua hal yang diawasi ketat regulator karena menentukan kemampuan perusahaan membayar klaim nasabah dan kelangsungan izin usahanya. Kalau rencana penambahan modal lewat rights issue nanti terlaksana, jumlah saham JMAS yang beredar akan bertambah, dan itu bisa menggerus laba per saham milik pemegang saham lama. Yang perlu dipantau berikutnya adalah realisasi rights issue yang dijadwalkan Perseroan paling lambat akhir 2027 atau mundur ke 2028, serta tanggapan resmi dari PT Pijar Investasi Nusantara yang kepemilikan 8,3 persennya di JMAS masih belum dijelaskan ke publik.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa"
+ },
+ {
+  "slug": "rupst-true-18-november-direksi-berganti-dividen-nihil",
+  "category": "Aksi Korporasi",
+  "title": "RUPST TRUE 18 November: [Direksi] Berganti, Dividen Nihil",
+  "deck": "RUPST Triniti Dinamik menyetujui pergantian dua direktur dan satu komisaris, serta memutuskan tidak membagikan dividen untuk tahun buku 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T18:08:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d256168b03_dd8c452610.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "RUPST",
+   "Triniti Dinamik",
+   "pergantian direksi"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) menggelar Rapat Umum Pemegang Saham Tahunan pada 18 November 2026 di Tangerang, dihadiri pemegang saham yang mewakili 5.139.091.168 saham atau 67,88 persen dari total 7.571.107.860 saham dengan hak suara. Seluruh enam agenda disetujui dengan suara setuju di atas 99 persen. Pada agenda pertama, RUPST mengesahkan laporan tahunan dan laporan keuangan konsolidasian untuk tahun buku yang berakhir 31 Desember 2025, sekaligus membebaskan tanggung jawab Direksi dan Dewan Komisaris atas pengurusan dan pengawasan selama periode tersebut. Pada agenda kedua, pemegang saham menyetujui Perseroan tidak membagikan dividen baik tunai maupun saham untuk tahun buku 2025, dengan saldo laba ditahan dialokasikan untuk kebutuhan pengembangan proyek Perseroan.",
+   "Perubahan susunan pengurus menjadi sorotan di agenda kelima. RUPST menerima pengunduran diri Septian Starlin dan Chandra dari posisi Direktur, serta Kevin Jong dari posisi Komisaris. Sebagai pengganti, RUPST mengangkat Harris Febrian Aison dan Fayang Setiady sebagai Direktur baru, berlaku sejak penutupan rapat sampai penutupan RUPST Tahunan 2028. Susunan pengurus Perseroan kini terdiri dari Heriyanto sebagai Komisaris Utama, Dr. Ir. Erman Suparno sebagai Komisaris Independen, Yohanes Eddy Christianto sebagai Direktur Utama, serta Harris Febrian Aison dan Fayang Setiady sebagai Direktur. Selain itu, agenda ketiga memberi kewenangan kepada Dewan Komisaris untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026, dan agenda keempat menyetujui remunerasi serta tantiem tahun buku 2025 untuk Direksi dan Dewan Komisaris, dengan besarannya didelegasikan ke Dewan Komisaris dan Komisaris Utama.",
+   "Pada agenda keenam, RUPST menyetujui perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha Perseroan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 yang diterbitkan Badan Pusat Statistik. Perseroan menegaskan penyesuaian kode dan uraian kegiatan usaha ini bukan perubahan kegiatan usaha sebagaimana diatur dalam Peraturan OJK Nomor 17/POJK.04/2020 tentang Transaksi Material, sehingga tidak memerlukan prosedur transaksi material. Direksi diberi kuasa untuk menuangkan seluruh keputusan rapat ke dalam akta notaris."
+  ],
+  "fotoAdegan": "Construction workers finishing a mid-rise apartment building facade with scaffolding, late afternoon light in a Jakarta suburb",
+  "takeaway": "Rapat ini netral bagi Triniti Dinamik karena isinya hampir seluruhnya administratif, dan keputusan tidak membagi dividen sejalan dengan kondisi perusahaan yang memang masih merugi seperti sudah dilaporkan sebelumnya, bukan sinyal baru yang memberatkan. Pos yang tersentuh di sini adalah ekuitas, karena laba yang seharusnya bisa dibagi ke pemegang saham justru ditahan di perusahaan untuk mendanai proyek, artinya modal sendiri perusahaan tidak berkurang tapi pemegang saham juga tidak menerima kas tahun ini. Pergantian dua direktur dan satu komisaris juga bersifat rutin dan tidak mengubah pengendali Perseroan. Yang perlu dipantau selanjutnya adalah bagaimana manajemen baru memakai laba ditahan itu untuk proyek yang disebutkan, ditambah hasil penunjukan akuntan publik baru untuk mengaudit tahun buku 2026 serta kinerja Perseroan hingga masa jabatan Dewan Komisaris saat ini berakhir pada 30 Juni 2028.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2028-06-30",
+    "acara": "Akhir periode jabatan Dewan Komisaris saat ini"
+   },
+   {
+    "tanggal": "2031-11-18",
+    "acara": "Akhir periode jabatan Direktur baru"
+   }
+  ]
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-sukuk-ppgd-rp4-triliun-delisting-23-november",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi-Sukuk PPGD Rp4 Triliun: [Delisting] 23 November",
+  "deck": "Dua efek utang PPGD senilai total Rp4 triliun resmi dihapus dari pencatatan BEI mulai 23 November 2026 karena jatuh tempo pada tanggal itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:56:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/83babf95d4_3d70ff0c05.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGD",
+  "tags": [
+   "PPGD",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa dua efek utang milik PT Pegadaian (Persero) dengan kode saham PPGD akan dihapus dari pencatatan dan tidak bisa lagi diperdagangkan di BEI mulai 23 November 2026 karena telah jatuh tempo pada tanggal tersebut. Pengumuman ini tercatat dengan nomor Peng-JTO-0066/BEI.PP3/11-2026.",
+   "Efek pertama adalah Obligasi Berkelanjutan VI Pegadaian Tahap IV Tahun 2025 Seri A dengan kode PPGD06ACN4, bernilai Rp2,7 triliun. Efek kedua adalah Sukuk Mudharabah Berwawasan Sosial Berkelanjutan I Pegadaian Tahap III Tahun 2025 Seri A dengan kode SMPPGD01ASOCN3, bernilai Rp1,3 triliun. Kedua efek ini sama sama diterbitkan pada 13 November 2025 berdasarkan prospektus tertanggal 6 November 2025, dan jatuh tempo pada tanggal yang sama, 23 November 2026. Totalnya, Pegadaian harus melunasi Rp4 triliun pokok utang dari dua instrumen ini.",
+   "Dalam pengumuman ini BEI juga melampirkan dokumen bertajuk Kesiapan Bayar Obligasi Sukuk Sosial, yang merupakan bentuk konfirmasi standar dari penerbit obligasi dan sukuk kepada bursa bahwa dana untuk melunasi pokok dan imbal hasil terakhir sudah disiapkan menjelang tanggal jatuh tempo."
+  ],
+  "fotoAdegan": "A clerk weighing gold jewelry on a small scale at a pawnshop counter while customers wait, modest indoor lighting, Indonesia.",
+  "takeaway": "Laporan ini netral bagi Pegadaian, karena cuma mencatat kelanjutan otomatis dari jadwal yang sudah ditetapkan sejak obligasi dan sukuk ini terbit, bukan sinyal baru soal kesehatan keuangan perusahaan. Yang tersentuh adalah pos utang jangka panjang perseroan, begitu dua efek senilai total Rp4 triliun ini lunas, kewajiban utang Pegadaian berkurang sebesar itu, tapi arus kas, yaitu uang tunai yang keluar masuk perusahaan, akan tergerus signifikan dalam waktu dekat untuk membayar pokok dan imbal hasil terakhirnya. Berkurangnya utang biasanya membuat beban bunga ke depan lebih ringan sehingga laba bersih punya ruang lebih longgar, asalkan pelunasan berjalan tanpa gangguan. Yang perlu dipantau adalah apakah Pegadaian benar benar melunasi pokok dan imbal hasil kedua efek ini pada tanggal jatuh tempo, 23 November 2026, karena dokumen kesiapan bayar yang disertakan dalam pengumuman ini semestinya menjadi konfirmasi bahwa dana pelunasan sudah disiapkan.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Jatuh Tempo Obligasi / Sukuk Korporasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Obligasi dan sukuk PPGD dihapus dari pencatatan BEI karena jatuh tempo"
+   }
+  ]
+ },
+ {
+  "slug": "volatilitas-transaksi-bell-perseroan-bantah-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "Volatilitas Transaksi BELL: Perseroan [Bantah] Ada Informasi Material",
+  "deck": "Trisula Textile Industries menjawab permintaan penjelasan BEI soal volatilitas saham BELL, menegaskan tak ada informasi material dan pemegang saham utama tak berencana mengubah kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:54:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a293e76e8_a951af208c.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BELL",
+  "tags": [
+   "BELL",
+   "Trisula Textile Industries",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "body": [
+   "PT Trisula Textile Industries Tbk (BELL) memberikan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat permintaan penjelasan bernomor S-14082/BEI.PP1/11-2026 tertanggal 11 November 2026 terkait volatilitas transaksi saham perseroan. Jawaban disampaikan melalui surat nomor 080/ADM/XI/2026 tertanggal 20 November 2026, ditandatangani Heru Jatmiko Harrianto selaku Direktur Administrasi dan Keuangan.",
+   "Dalam tanggapannya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik berdasarkan POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E. Perseroan juga mengaku tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan saham, serta menegaskan tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di bursa.",
+   "Poin terakhir surat menyebutkan bahwa Corporate Secretary perseroan telah mengonfirmasi langsung kepada Pemegang Saham Utama mengenai rencana terkait kepemilikan sahamnya, dan pemegang saham utama tersebut menyatakan tidak memiliki rencana apa pun saat ini. Perseroan juga menegaskan tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Workers tending rows of industrial weaving machines inside a textile factory in West Java, natural light through tall windows",
+  "takeaway": "Laporan ini netral bagi pemegang saham karena isinya hanya bantahan formal, tanpa angka keuangan baru atau perubahan rencana bisnis yang mengubah penilaian atas Trisula Textile. Surat semacam ini wajib dikirim emiten setiap kali bursa mendeteksi gerakan harga atau volume transaksi saham yang tidak biasa, dan isinya menegaskan tidak ada rencana aksi korporasi yang bisa menambah jumlah saham beredar, menambah utang, atau mengubah kepemilikan pengendali dalam waktu dekat. Yang perlu dipantau pemodal selanjutnya adalah apakah pergerakan harga BELL mereda setelah bantahan ini, atau justru bursa mengeluarkan permintaan penjelasan serupa lagi jika volatilitas berlanjut, mengingat dokumen ini sendiri tidak menyebut tanggal atau agenda korporasi baru apa pun.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Volatilitas Transaksi"
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-sukuk-apai-22-nov-delisting-rp1-67-t",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi & Sukuk APAI 22 Nov: [Delisting] Rp1,67 T",
+  "deck": "Obligasi Seri C Rp1,489 triliun dan Sukuk Ijarah Seri C Rp177 miliar milik APAI jatuh tempo 22 November 2026 dan otomatis didelisting dari BEI mulai 23 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:47:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01edc4ae35_f7fd59c57b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APAI",
+  "tags": [
+   "APAI",
+   "Obligasi",
+   "Sukuk Ijarah",
+   "Jatuh Tempo"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa Obligasi I Seri C dan Sukuk Ijarah I Seri C milik APAI resmi tidak lagi tercatat dan tidak dapat diperdagangkan di bursa mulai 23 November 2026, menyusul tanggal jatuh tempo keduanya pada 22 November 2026. Obligasi dengan kode APAI01C bernilai pokok Rp1,489 triliun dan sukuk ijarah dengan kode SIAPAI01C bersisa imbalan Rp177 miliar, keduanya diterbitkan pada 22 November 2016 dengan tenor 10 tahun sejak tanggal emisi.",
+   "Kedua instrumen ini merupakan seri terakhir dan terbesar dari penawaran umum tahun 2016 yang total nilainya mencapai Rp2,5 triliun untuk obligasi dan Rp500 miliar untuk sukuk ijarah, terbagi dalam tiga seri masing masing. Seri A senilai Rp622 miliar (obligasi) dan Rp268 miliar (sukuk) sudah jatuh tempo pada 2021, sedangkan Seri B senilai Rp389 miliar dan Rp55 miliar sudah jatuh tempo pada 2023. Seri C, yang kini jatuh tempo, membawa bunga tetap 8,55 persen per tahun untuk obligasi dan cicilan imbalan ijarah Rp15,1335 miliar per tahun untuk sukuk, dengan pembayaran terakhir jatuh pada 22 November 2026 bersamaan dengan pelunasan pokoknya.",
+   "Dokumen menyebutkan bahwa obligasi dan sukuk ini dijamin dengan seluruh kekayaan perusahaan tanpa jaminan khusus, dan pemegangnya berkedudukan paripasu dengan kreditur lain tanpa hak preferen. Saat diterbitkan pada 2016, instrumen ini memperoleh peringkat idAAA untuk obligasi dan idAAAsy untuk sukuk dari Pefindo, dengan PT Bank Mega Tbk sebagai wali amanat. Pengumuman BEI ini hanya menyatakan bahwa kedua efek berhenti diperdagangkan karena sudah mencapai tanggal jatuh tempo kontraktualnya, bukan konfirmasi terpisah soal pelunasan dana dari APAI."
+  ],
+  "fotoAdegan": "Airport ground crew guiding a taxiing passenger jet across a sunlit apron at a regional Indonesian airport, morning haze.",
+  "takeaway": "Penghentian pencatatan ini bersifat netral karena jadwal dan nilainya sudah dikunci sejak prospektus 2016, bukan keputusan baru yang mencerminkan kondisi keuangan terkini APAI. Yang tersentuh adalah arus kas perusahaan, sebab APAI perlu menyiapkan dana sekitar Rp1,666 triliun untuk melunasi pokok obligasi Rp1,489 triliun dan sisa imbalan ijarah Rp177 miliar, sementara di sisi lain beban bunga tetap sekitar Rp127 miliar per tahun untuk obligasi dan cicilan imbalan ijarah Rp15,13 miliar per tahun untuk sukuk akan hilang setelah pelunasan ini, sehingga meringankan beban bunga ke depan. Yang perlu dipantau adalah konfirmasi resmi dari APAI bahwa pokok dan imbalan terakhir benar benar dibayar lunas pada tanggal jatuh tempo 22 November 2026, serta apakah perusahaan menerbitkan instrumen utang baru untuk menggantikan dana yang sebelumnya berasal dari obligasi dan sukuk ini.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Jatuh Tempo Obligasi / Sukuk Korporasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-22",
+    "acara": "Tanggal jatuh tempo Obligasi dan Sukuk Ijarah Seri C APAI"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Obligasi dan Sukuk Ijarah Seri C APAI resmi berhenti diperdagangkan di BEI"
+   }
+  ]
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-inkp-21-22-november-pelunasan-rp1-04-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi INKP 21-22 November: [Pelunasan] Rp1,04 Triliun",
+  "deck": "Obligasi, sukuk mudharabah, dan obligasi dolar INKP seri B senilai total Rp1,04 triliun plus US$900.000 jatuh tempo 21-22 November 2026 dan berhenti diperdagangkan di BEI mulai 23 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:42:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0301565c4c_482938f17b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "body": [
+   "PT Indah Kiat Pulp & Paper Tbk (INKP) akan melunasi tiga instrumen utang sekaligus pada 21 dan 22 November 2026. Bursa Efek Indonesia mengumumkan bahwa Obligasi Berkelanjutan IV Tahap III Seri B senilai Rp739,72 miliar, Sukuk Mudharabah Berkelanjutan III Tahap III Seri B senilai Rp303,56 miliar, dan Obligasi USD Berkelanjutan I Tahap II Seri B senilai US$900.000 jatuh tempo pada tanggal tersebut. Mulai 23 November 2026, ketiga efek ini resmi berhenti tercatat dan tidak lagi diperdagangkan di bursa.",
+   "Obligasi rupiah Seri B diterbitkan dengan bunga tetap 10,25 persen per tahun untuk jangka waktu tiga tahun, dengan pembayaran pokok dilakukan sekaligus di akhir periode (bullet payment) sebesar 100 persen pada tanggal jatuh tempo. Sukuk Mudharabah Seri B memberikan bagi hasil dengan nisbah 32,46 persen dari pendapatan yang dibagihasilkan, setara imbal hasil 10,25 persen per tahun, dengan skema pelunasan yang sama. Obligasi USD Seri B memberikan kupon tetap 7 persen per tahun dengan tenor yang sama. Ketiga seri ini pertama kali diterbitkan pada 21-22 November 2023 lewat penawaran umum berkelanjutan, skema yang memungkinkan perusahaan menerbitkan utang secara bertahap tanpa menyusun prospektus baru setiap kali.",
+   "Obligasi Berkelanjutan IV secara keseluruhan dirancang untuk menghimpun dana hingga Rp12 triliun, Sukuk Mudharabah Berkelanjutan III menargetkan hingga Rp3 triliun, dan Obligasi USD Berkelanjutan I menargetkan US$300 juta, yang diterbitkan bertahap dalam beberapa tahap sejak 2023. Pelunasan seri B pada tahap III dan tahap II ini berarti perseroan perlu menyiapkan kas sekitar Rp1,04 triliun ditambah US$900.000 untuk membayar pokok kepada pemegang obligasi dan sukuk, di luar pembayaran bunga atau bagi hasil triwulanan terakhir yang menyertainya."
+  ],
+  "fotoAdegan": "Large paper rolls stacked at a pulp and paper mill loading dock, forklift moving nearby, overcast morning light.",
+  "takeaway": "Laporan jatuh tempo ini netral bagi INKP karena merupakan pembayaran utang yang sudah dijadwalkan sejak obligasi dan sukuk ini terbit tiga tahun lalu, bukan sinyal gagal bayar atau pelunasan dini yang tidak terduga. Yang tersentuh adalah arus kas dan beban utang perusahaan: INKP perlu menyiapkan kas sekitar Rp1,04 triliun ditambah US$900.000 untuk membayar pokok obligasi dan sukuk secara penuh kepada pemegang efek, sementara beban bunga yang harus dibayar perusahaan ke depannya otomatis berkurang begitu utang ini lunas. Pelaku pasar biasanya memperhatikan apakah perusahaan sebesar INKP, yang kasnya berasal dari bisnis pulp dan kertas, mampu membayar tepat waktu tanpa mengganggu kas operasionalnya. Yang perlu dipantau berikutnya adalah realisasi pembayaran pada 21 dan 22 November 2026, serta apakah INKP akan menerbitkan obligasi atau sukuk tahap baru dari program penawaran umum berkelanjutan yang sama untuk menggantikan dana yang keluar.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Jatuh Tempo Obligasi / Sukuk Korporasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Jatuh tempo obligasi dan sukuk mudharabah rupiah Seri B"
+   },
+   {
+    "tanggal": "2026-11-22",
+    "acara": "Jatuh tempo obligasi USD Seri B"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Efek berhenti tercatat dan diperdagangkan di BEI"
+   }
+  ]
+ },
+ {
+  "slug": "hmetd-mglv-r-berakhir-23-november-saham-dihapus-24-november",
+  "category": "Aksi Korporasi",
+  "title": "HMETD MGLV-R Berakhir 23 November, Saham [Dihapus] 24 November",
+  "deck": "Masa perdagangan hak right MGLV-R di BEI berakhir 23 November 2026. Mulai 24 November, hak itu dihapus dari daftar efek tercatat bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:40:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan MGLV-R261123-No. Peng-00222BEI.POP11-2026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGLV-R",
+  "tags": [
+   "MGLV",
+   "MGLV-R",
+   "HMETD",
+   "Right Issue"
+  ],
+  "body": [
+   "Bursa Efek Indonesia mengumumkan bahwa masa perdagangan Hak Memesan Efek Terlebih Dahulu (HMETD) dengan kode MGLV-R, milik PT NexAI Digital Infrastruktur Tbk (MGLV), berakhir pada 23 November 2026. Terhitung mulai 24 November 2026, MGLV-R tidak lagi bisa diperdagangkan di BEI dan dikeluarkan dari daftar efek yang tercatat di bursa. Pengumuman bernomor Peng-00222/BEI.POP/11-2026 ini ditandatangani oleh Pande Made Kusuma Ari A., Kepala Divisi Pengaturan dan Operasional Perdagangan, dan Lidia M. Panjaitan, Kepala Divisi Penilaian Perusahaan 3, pada 20 November 2026.",
+   "HMETD adalah hak yang diberikan kepada pemegang saham lama untuk membeli saham baru dari aksi right issue lebih dulu dibanding pihak lain. Kalau pemegang saham tidak ingin menebus haknya sendiri, hak itu bisa dijual ke pihak lain selama periode perdagangan tertentu, yang untuk MGLV-R berlangsung sejak 10 November 2026. BEI menegaskan kembali jadwal ini dengan mengacu pada pengumuman sebelumnya, No. Peng-P-01094/BEI.PP3/11-2026 tanggal 9 November 2026, soal pencatatan efek bersifat ekuitas dan pra pencatatan saham MGLV di Papan Akselerasi, papan BEI untuk perusahaan yang baru tumbuh.",
+   "Dokumen ini sendiri hanya memuat jadwal penutupan perdagangan rights, tidak ada angka baru soal harga pelaksanaan, jumlah saham yang diserap, atau dana yang terkumpul dari right issue tersebut."
+  ],
+  "fotoAdegan": "Rows of server racks with blinking status lights in a dim data center corridor, technician checking cables",
+  "takeaway": "Pengumuman ini netral bagi NexAI Digital Infrastruktur karena isinya murni soal jadwal administratif akhir perdagangan rights, tanpa angka baru soal harga atau hasil penyerapan right issue. Yang tersentuh di belakang proses ini adalah jumlah saham beredar perusahaan, karena right issue menerbitkan saham baru bagi pemegang yang menebus haknya. Kalau sebagian pemegang saham lama tidak menebus haknya, porsi kepemilikan dan laba per saham mereka berpotensi terdilusi oleh saham baru yang terbit untuk pihak yang menebus. Yang perlu dipantau selanjutnya adalah batas waktu 23 November 2026 bagi pemegang MGLV-R untuk menjual atau menebus haknya, karena mulai 24 November 2026 hak itu dihapus dari pencatatan BEI dan kehilangan nilainya kalau belum dimanfaatkan. Investor sebaiknya juga menunggu pengumuman hasil akhir pelaksanaan right issue ini begitu periode penebusan selesai.",
+  "sentimen": "netral",
+  "peristiwa": "right-issue",
+  "judulIdx": "Batas Akhir Perdagangan HMETD NexAI Digital Infrastruktur Tbk. (MGLV-R)",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Akhir periode perdagangan HMETD MGLV-R"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "MGLV-R dihapus dari pencatatan BEI"
+   }
+  ]
+ },
+ {
   "slug": "kppu-awasi-pangkalan-lpg-tegal-cek-penghapusan-syarat-nonsubsidi",
   "category": "Energi",
   "title": "KPPU Awasi Pangkalan LPG Tegal, Cek [Penghapusan] Syarat Nonsubsidi",
@@ -55,6 +300,34 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan sekadar kunjungan kerja, tapi tahap penandatanganan resmi I-EU CEPA bersama perjanjian perlindungan investasi (IPA), setelah proses negosiasi yang panjang. Pihak yang langsung terkena adalah eksportir sawit, asam lemak, besi baja, kopi, dan alas kaki yang jadi andalan dagang ke Eropa, serta importir obat-obatan dan komponen pesawat dari Eropa yang akan diatur dalam kerangka baru ini. Data sembilan bulan pertama 2026 menunjukkan impor dari Uni Eropa sudah US$11,51 miliar, mendekati total impor sepanjang 2025 yang sebesar US$12,25 miliar, sementara ekspor US$14,57 miliar masih tertinggal dari total ekspor 2025 senilai US$19,40 miliar. Kalau pola ini berlanjut, surplus dagang Indonesia ke Uni Eropa berisiko menyempit dibanding tahun lalu, meski CEPA yang baru diteken ini seharusnya justru membuka peluang ekspor lebih besar. Yang akan memastikan ke mana arah ini bergerak adalah data dagang Indonesia-Uni Eropa untuk tahun penuh 2026 yang biasanya dirilis awal tahun berikutnya."
+ },
+ {
+  "slug": "tspc-suntik-modal-rp60-miliar-ke-tempo-land-porsi-tetap-50-50",
+  "category": "Aksi Korporasi",
+  "title": "TSPC Suntik Modal Rp60 Miliar ke Tempo Land, Porsi Tetap [50-50]",
+  "deck": "TSPC dan anak usahanya Barclay Products menambah modal PT Tempo Land senilai Rp60 miliar, dengan porsi kepemilikan tetap 50-50 di perusahaan itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:35:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b4d7dd6b6_001cb5ddb8.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TSPC",
+  "tags": [
+   "TSPC",
+   "transaksi afiliasi",
+   "Tempo Land",
+   "Barclay Products"
+  ],
+  "body": [
+   "Tempo Scan Pacific Tbk (TSPC) dan entitas anaknya, PT Barclay Products (BCL), menyuntikkan modal tambahan ke PT Tempo Land (TL) senilai total Rp60 miliar. Suntikan ini berasal dari penerbitan saham baru TL sebanyak 32.066 saham seri A dan 27.934 saham seri B, yang diambil bagian oleh TSPC dan BCL dengan porsi sama besar, masing-masing 16.033 saham seri A dan 13.967 saham seri B. Peningkatan modal ini tercatat dalam Akta No. 11 tanggal 13 November 2026 dan disahkan Menteri Hukum Republik Indonesia melalui Surat Keputusan No. AHU-0133829.AH.01.02.Tahun 2026 tanggal 18 November 2026.",
+   "Setelah peningkatan modal ini, susunan pemegang saham TL tidak berubah secara proporsi. TSPC kini memegang 40.083 saham seri A dan 34.917 saham seri B dengan nilai nominal Rp75 miliar, setara 50 persen dari modal ditempatkan TL. BCL memegang jumlah dan nilai yang sama, juga 50 persen. Karena BCL merupakan entitas anak yang sahamnya dimiliki penuh oleh TSPC, transaksi ini digolongkan sebagai transaksi afiliasi, yaitu transaksi antara pihak-pihak yang masih berada dalam satu kelompok usaha yang sama.",
+   "Manajemen TSPC menyatakan tidak ada transaksi sejenis dengan pihak yang tidak terafiliasi sebagai pembanding, karena tujuan transaksi ini memang untuk memperkuat modal anak usaha, bukan untuk kepentingan komersial dengan pihak luar. Perseroan juga menegaskan transaksi ini tidak berdampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha TSPC."
+  ],
+  "fotoAdegan": "Surveyors measuring a cleared plot of land for a future development, tall grass, golden late afternoon light, Indonesia",
+  "takeaway": "Transaksi ini netral bagi pemegang saham publik TSPC, karena dana yang disuntikkan hanya berpindah di antara entitas yang seluruhnya masih dikuasai penuh oleh TSPC sendiri, tanpa ada pihak luar yang masuk atau porsi kepemilikan yang berubah. Yang tersentuh hanya pos ekuitas dan investasi di laporan keuangan masing-masing entitas anak, sementara di laporan konsolidasi TSPC dampaknya akan saling menghapus karena TL, BCL, dan TSPC berada dalam satu kelompok usaha yang sama, sehingga jumlah saham beredar di pasar maupun laba per saham publik TSPC tidak ikut terpengaruh. Dokumen ini tidak menyebutkan agenda lanjutan atau tenggat baru, sehingga yang perlu diperhatikan investor selanjutnya adalah bagaimana Tempo Land, yang bergerak di lini usaha properti atau lahan, memakai tambahan modal Rp60 miliar itu, dan apakah pengaruhnya baru akan terlihat di laporan keuangan konsolidasi TSPC pada periode berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Laporan Informasi Terkait Transaksi Afiliasi"
  },
  {
   "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
@@ -10089,8 +10362,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA 17 November: Waktu [Dikoreksi] Lagi ke 14.00 WIB",
-  "deck": "MDIA mengoreksi lagi jadwal public expose tahunan 17 November 2026, kali ini waktunya berubah dari pukul 14.30 WIB menjadi 14.00 WIB, sekaligus menambah tautan registrasi Zoom.",
+  "title": "Public Expose MDIA: [Proyeksi] Pendapatan 2026 Rp550-560 Miliar",
+  "deck": "MDIA melaporkan hasil public expose 17 November: manajemen memproyeksikan pendapatan 2026 di kisaran Rp550-560 miliar dan menyiapkan capex 2027 Rp10-15 miliar.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T21:14:13",
@@ -10104,15 +10377,14 @@ var ARTICLES = [
    "ANTV"
   ],
   "body": [
-   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, kembali mengoreksi jadwal public expose tahunan yang akan digelar Selasa, 17 November 2026. Dalam pengumuman korektif tertanggal 16 November 2026 yang merevisi surat sebelumnya tertanggal 13 November 2026, perseroan mengubah waktu pelaksanaan dari pukul 14.30 WIB menjadi pukul 14.00 WIB sampai selesai. Tempat pelaksanaan tetap di The Convergence Indonesia, Lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, atau secara daring lewat Zoom.",
-   "Perseroan juga menambahkan tautan registrasi khusus bagi peserta yang mengikuti acara lewat Zoom, yakni https://bit.ly/RegPubExVivaMdia2026, terpisah dari tautan materi public expose yang akan diunggah paling lambat tiga hari bursa sebelum acara melalui https://bit.ly/MateriPubExVivaMdia2026. Peserta yang hadir secara fisik tetap wajib mengonfirmasi kehadiran selambat-lambatnya satu hari sebelum acara melalui email ke corsec@imc.co.id, karena kapasitas ruangan dibatasi. Acara akan dihadiri langsung oleh jajaran direksi perseroan.",
-   "Public expose ini membahas kinerja semester I 2026 yang sebelumnya disampaikan perseroan kepada Bursa Efek Indonesia pada 12 November 2026. Materi itu menunjukkan pendapatan turun 8,6 persen menjadi Rp281,82 miliar, dari Rp308,17 miliar pada periode yang sama tahun sebelumnya. EBITDA, yaitu laba operasional sebelum bunga, pajak, depresiasi dan amortisasi, turun 30,1 persen menjadi Rp59,71 miliar, sehingga marjinnya menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar dari Rp11,44 miliar pada semester I 2025 menjadi Rp32,30 miliar pada semester I 2026, naik 182,3 persen.",
-   "Dari sisi neraca, total aset perseroan turun 13,1 persen menjadi Rp2.901,72 miliar per akhir semester I 2026, sementara total liabilitas turun lebih tajam, 17,1 persen, menjadi Rp1.985,57 miliar. Ekuitas pemegang saham relatif stabil, turun tipis 2,9 persen menjadi Rp916,15 miliar. Berdasarkan data Biro Administrasi Efek per 31 Oktober 2026, PT Visi Media Asia Tbk tetap menjadi pemegang saham pengendali dengan 80,7 persen atau 31,66 miliar saham, diikuti PT DMS Investama dengan 6,7 persen atau 2,64 miliar saham, dan publik dengan 12,6 persen atau 4,92 miliar saham.",
-   "Susunan direksi perseroan saat ini dipimpin Ahmad R. Widarmana sebagai Direktur Utama, dengan Anindra Ardiansyah Bakrie sebagai Komisaris Utama."
+   "PT Intermedia Capital Tbk (MDIA), induk usaha stasiun televisi ANTV, melaporkan hasil penyelenggaraan public expose tahunan yang digelar Selasa, 17 November 2026, pukul 14.15 WIB sampai 15.00 WIB di The Convergence Indonesia, Jakarta Selatan, dan secara daring lewat Zoom. Acara ini dihadiri 46 peserta di luar jajaran manajemen dan karyawan perseroan, dengan empat orang mengajukan pertanyaan dalam sesi tanya jawab.",
+   "Dalam sesi tanya jawab, manajemen menyampaikan proyeksi pendapatan tahun 2026 berada di kisaran Rp550 miliar sampai Rp560 miliar, turun dibanding tahun sebelumnya akibat belanja iklan nasional yang menurut riset MPA diperkirakan turun sekitar 9 persen tahun ini. Soal laba, manajemen belum memberi target pasti, tetapi berharap perseroan tetap mencetak laba positif pada akhir tahun karena tren kinerja beberapa bulan terakhir mulai membaik. Manajemen juga mengungkapkan pendapatan hingga kuartal III 2026 diperkirakan sudah melewati Rp400 miliar, sementara laporan keuangan periode itu masih disusun. Untuk tahun 2027, perseroan menyiapkan belanja modal (capex) sebesar Rp10 miliar sampai Rp15 miliar, dan berencana melanjutkan kerja sama dengan platform OTT seperti Netflix untuk serial drama lokal, menambah serial India dan drama Cina, serta tetap menayangkan Liga Italia Serie A.",
+   "Public expose ini membahas kinerja semester I 2026 yang sebelumnya disampaikan perseroan ke Bursa Efek Indonesia pada 12 November 2026. Pendapatan perseroan turun 8,6 persen menjadi Rp281,82 miliar dari Rp308,17 miliar pada periode yang sama tahun sebelumnya, sementara EBITDA, yaitu laba operasional sebelum bunga, pajak, depresiasi, dan amortisasi, turun 30,1 persen menjadi Rp59,71 miliar sehingga marjinnya menyusut dari 27,7 persen menjadi 21,2 persen. Rugi bersih perseroan melebar dari Rp11,44 miliar menjadi Rp32,30 miliar, naik 182,3 persen. Ekuitas pemegang saham turun tipis 2,9 persen menjadi Rp916,15 miliar.",
+   "Berdasarkan data Biro Administrasi Efek per 31 Oktober 2026, PT Visi Media Asia Tbk tetap menjadi pemegang saham pengendali dengan 80,7 persen saham, diikuti PT DMS Investama dengan 6,7 persen dan publik 12,6 persen. Manajemen yang hadir dalam public expose ini adalah Direktur RM Harlin Erlianto Rahardjo dan Yufli Gunawan, didampingi Chief Sales & Marketing Officer ANTV Johan Honggowarsito dan Manager Research ANTV Fajar Tri Laksono. Jadwal acara ini sebelumnya dikoreksi dua kali oleh perseroan sebelum akhirnya terlaksana sesuai rencana."
   ],
   "fotoAdegan": "Television studio crew adjusting camera rigs and bright stage lighting on an entertainment program set",
-  "takeaway": "Koreksi kedua atas jadwal public expose ini tetap netral bagi investor karena cuma mengubah waktu acara dari pukul 14.30 WIB menjadi 14.00 WIB tanpa menyentuh substansi kinerja, namun rangkaian informasi sampai saat ini tetap condong negatif karena rugi bersih yang akan dipaparkan sudah melebar hampir tiga kali lipat pada semester I 2026. Pos yang disorot tetap EBITDA, yaitu laba operasional sebelum bunga, pajak, dan penyusutan yang jadi ukuran dasar apakah bisnis inti stasiun TV ini masih menghasilkan kas dari operasionalnya, dan marjin yang menyusut dari 27,7 persen jadi 21,2 persen berarti setiap rupiah pendapatan kini menyisakan laba operasional yang lebih tipis. Ekuitas pemegang saham juga tergerus tipis akibat akumulasi rugi, meski penurunan liabilitas 17,1 persen menahan tekanan di neraca secara keseluruhan. Yang perlu dipantau berikutnya adalah paparan manajemen pada public expose 17 November 2026 pukul 14.00 WIB, termasuk apakah ada penjelasan konkret soal upaya menahan laju rugi, karena dua kali koreksi jadwal ini sama-sama tidak menyebut target atau tenggat pemulihan kinerja.",
-  "sentimen": "negatif",
+  "takeaway": "Laporan hasil public expose ini netral bagi investor karena isinya proyeksi dan penjelasan manajemen, bukan angka keuangan final yang mengubah posisi perseroan, meski proyeksi pendapatan 2026 Rp550-560 miliar menyiratkan bisnis inti masih tertekan pelemahan belanja iklan sehingga rangkaian cerita sejak rugi bersih melebar di semester I tetap condong negatif. Pos yang tersentuh adalah proyeksi pendapatan dan rencana belanja modal, yakni dana yang disiapkan perseroan untuk investasi dan operasional, sebesar Rp10-15 miliar pada 2027, jumlah yang relatif kecil dibanding skala pendapatan sehingga belum menambah beban keuangan berarti; pelaku pasar memperhatikan pos ini karena menunjukkan sejauh mana manajemen berani berinvestasi di tengah pendapatan yang diperkirakan turun. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal III 2026 yang menurut manajemen masih disusun dan akan disampaikan dalam waktu dekat, serta realisasi akhir tahun terhadap proyeksi pendapatan Rp550-560 miliar dan harapan manajemen untuk tetap membukukan laba positif.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "pembaruan": [
@@ -10127,21 +10399,27 @@ var ARTICLES = [
     "ringkas": "MDIA mengoreksi lagi waktu public expose 17 November 2026 dari pukul 14.30 WIB menjadi 14.00 WIB, serta menambahkan tautan registrasi Zoom terpisah.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/db88ee164c_4f794d31a3.pdf",
     "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
+   },
+   {
+    "tanggal": "2026-11-20T18:11:41",
+    "ringkas": "MDIA menggelar public expose 17 November dengan 46 peserta; manajemen proyeksikan pendapatan 2026 Rp550-560 miliar dan capex 2027 Rp10-15 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/36b0876975_1aa31b1878.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
    }
   ],
-  "diperbarui": "2026-11-16T14:21:45",
+  "diperbarui": "2026-11-20T18:11:41",
   "jadwal": [
    {
     "tanggal": "2026-11-17",
-    "acara": "Public Expose Tahunan MDIA, pukul 14.00 WIB"
+    "acara": "Public Expose Tahunan MDIA terlaksana pukul 14.15-15.00 WIB"
    }
   ]
  },
  {
   "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 17 November: Jadwal Diubah Jadi 14.00 WIB",
-  "deck": "VIVA mengoreksi ulang jadwal Public Expose Tahunan 2026, kini dipastikan pukul 14.00 WIB pada Selasa, 17 November 2026, setelah sebelumnya diumumkan pukul 14.30 WIB.",
+  "title": "Public Expose VIVA 17 November: [Konversi Utang] Masih Direvisi",
+  "deck": "VIVA gelar Public Expose 17 November, dihadiri 47 peserta. Pendapatan sembilan bulan Rp651,9 miliar, dan konversi utang jadi saham untuk dua kreditur baru masih direvisi.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T21:10:13",
@@ -10150,18 +10428,19 @@ var ARTICLES = [
   "emiten": "VIVA",
   "tags": [
    "VIVA",
-   "Public Expose",
-   "Konversi Utang Saham",
-   "Laba Bersih"
+   "Public Expose 2026",
+   "Konversi Utang",
+   "PKPU"
   ],
   "body": [
-   "PT Visi Media Asia Tbk (VIVA) kembali mengoreksi jadwal Public Expose Tahunan 2026 melalui surat ke Bursa Efek Indonesia pada 16 November 2026. Acara yang sebelumnya dipastikan berlangsung pukul 14.30 WIB kini diubah menjadi pukul 14.00 WIB sampai selesai, tetap pada Selasa, 17 November 2026, di tempat dan saluran yang sama.",
-   "Acara digelar di The Convergence Indonesia, Lantai 28, Kawasan Rasuna Epicentrum, Jakarta Selatan, atau secara daring melalui aplikasi Zoom, dengan agenda Public Expose Tahunan yang akan dihadiri jajaran Direksi Perseroan. Karena kapasitas ruangan terbatas, peserta yang ingin hadir fisik wajib mengonfirmasi kehadiran ke corsec@vivagroup.co.id paling lambat satu hari sebelum acara, sementara peserta daring wajib mendaftar lebih dulu melalui tautan registrasi Zoom yang disediakan Perseroan. Materi Public Expose dijanjikan disampaikan paling lambat tiga hari bursa sebelum acara.",
-   "Materi Public Expose yang sudah disampaikan VIVA sebelumnya memuat kinerja keuangan semester I 2026. Pendapatan Perseroan tercatat Rp441,44 miliar, turun dari Rp477,94 miliar pada semester I 2025, sementara EBITDA turun dari Rp32,78 miliar menjadi Rp30,68 miliar meski margin EBITDA stabil di 6,9 persen. Laba bersih merosot tajam dari Rp1.191,87 miliar menjadi Rp60,02 miliar, turun sekitar 95 persen, karena hilangnya keuntungan satu kali yang mendongkrak laba tahun sebelumnya.",
-   "Dari sisi neraca, total liabilitas turun dari Rp6.022,35 miliar pada akhir 2025 menjadi Rp5.842,84 miliar per Juni 2026, sedangkan ekuitas melonjak 37,2 persen dari Rp361,61 miliar menjadi Rp496,10 miliar. Kenaikan ekuitas ini bukan berasal dari laba ditahan, melainkan dari proses konversi utang menjadi saham baru yang sebelumnya direvisi naik menjadi maksimal 86,17 miliar lembar saham."
+   "PT Visi Media Asia Tbk (VIVA) resmi menggelar Public Expose Tahunan 2026 pada Selasa, 17 November 2026, pukul 15.00 WIB sampai 16.00 WIB, sesuai laporan hasil pelaksanaan yang disampaikan ke Bursa Efek Indonesia pada 20 November 2026. Acara berlangsung di The Convergence Indonesia, Jakarta Selatan, dan secara daring melalui Zoom, diikuti 47 peserta di luar jajaran manajemen dan karyawan Perseroan, dengan lima penanya pada sesi tanya jawab. Waktu pelaksanaan yang tercatat dalam laporan ini, yakni pukul 15.00 WIB, berbeda dari jadwal terakhir yang diumumkan Perseroan sebelumnya, yaitu pukul 14.00 WIB.",
+   "Dalam sesi tanya jawab, manajemen Perseroan yang diwakili Presiden Direktur Arief Yahya menyampaikan bahwa pendapatan VIVA sepanjang sembilan bulan pertama 2026 diperkirakan mencapai Rp651,9 miliar, atau setara Rp868,67 miliar jika disetahunkan. Untuk kuartal III 2026 saja, manajemen memperkirakan pendapatan sudah di atas Rp600 miliar, sekitar 75 persen dari target pendapatan tahun ini, meski laporan keuangan resminya masih disusun. Perseroan menganggarkan belanja modal sekitar Rp15 miliar hingga Rp20 miliar untuk 2026 maupun 2027, sebagian besar untuk pemeliharaan infrastruktur penyiaran, bukan ekspansi baru.",
+   "Manajemen juga menjelaskan sebab laba bersih Rp60,02 miliar pada semester I 2026 jauh di atas EBITDA yang hanya Rp30,68 miliar: sebagian besar berasal dari keuntungan satu kali penjualan saham MDIA senilai Rp158 miliar, yang dikompensasi beban selisih kurs sekitar Rp50 miliar serta beban lain, sehingga tambahan laba neto sekitar Rp30 miliar menghasilkan laba bersih Rp60 miliar. Laba besar pada 2025 disebut berasal dari keuntungan pembatalan Junior Facility dalam penyelesaian PKPU. Dari struktur utang, manajemen menyebut sekitar 35 persen dari total kewajiban Rp5,8 triliun merupakan pinjaman kepada pihak berelasi.",
+   "Soal rencana konversi utang menjadi saham baru melalui penambahan modal tanpa hak memesan efek terlebih dahulu kepada PT Harta Abadijaya (HAJ) dan PT Jayakarta Sugi Makmur (JSM), manajemen mengatakan Perseroan masih melakukan penyesuaian atas keterbukaan informasi rencana tersebut dan akan menyampaikan perkembangan terbaru kemudian. Rencana ini sebelumnya diumumkan lewat keterbukaan informasi 9 Oktober 2026 dan direvisi 11 November 2026, dengan potensi saham baru hingga maksimal 86,17 miliar lembar yang mendongkrak ekuitas Perseroan 37,2 persen menjadi Rp496,10 miliar per Juni 2026.",
+   "Sebelum paparan publik ini terlaksana, VIVA dua kali mengoreksi jadwal acara dalam waktu sepekan, dari pukul 14.30 WIB menjadi 14.00 WIB, sebelum akhirnya berlangsung pukul 15.00 WIB. Materi yang sempat dipaparkan sebelumnya menunjukkan pendapatan semester I 2026 turun dari Rp477,94 miliar menjadi Rp441,44 miliar, sementara laba bersih merosot sekitar 95 persen dari Rp1.191,87 miliar menjadi Rp60,02 miliar dibanding periode sama tahun lalu."
   ],
   "fotoAdegan": "A television news camera crew filming an outdoor segment at dusk, lighting rig and microphone boom visible, Jakarta skyline",
-  "takeaway": "Koreksi jadwal hari ini sendiri bersifat administratif dan tidak mengubah angka apa pun, tapi secara rangkaian laporan ini tetap condong negatif karena substansi di baliknya masih laba bersih yang susut sekitar 95 persen pada semester I 2026 dibanding periode sama tahun lalu. Pos yang masih relevan dipantau adalah ekuitas dan jumlah saham beredar, sebab lonjakan ekuitas 37,2 persen per Juni 2026 berasal dari konversi utang menjadi saham baru sampai maksimal 86,17 miliar lembar, bukan dari laba ditahan, sehingga laba yang dihasilkan bisa terbagi ke lebih banyak lembar saham kalau konversi itu benar dijalankan. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose Tahunan VIVA yang kini pasti digelar Selasa, 17 November 2026 pukul 14.00 WIB, saat manajemen dijadwalkan menjelaskan kinerja semester I 2026 dan kelanjutan rencana konversi utang tersebut kepada pemegang saham dan analis.",
+  "takeaway": "Laporan hasil paparan publik ini condong negatif bagi VIVA, karena manajemen sendiri mengonfirmasi laba bersih Rp60,02 miliar pada semester I 2026 sebagian besar ditopang keuntungan satu kali dari penjualan saham MDIA senilai Rp158 miliar, bukan dari kinerja operasional yang membaik, sementara EBITDA hanya Rp30,68 miliar. Pos yang perlu dicermati adalah utang kepada pihak berelasi yang kini mencapai sekitar 35 persen dari total kewajiban Rp5,8 triliun, utang ke perusahaan dalam kelompok usaha sendiri sehingga pelaku pasar perlu memastikan persyaratannya setara dengan utang ke pihak luar, serta rencana penambahan saham baru untuk dua calon kreditur baru, HAJ dan JSM, yang bisa menambah jumlah saham beredar hingga 86,17 miliar lembar dan membuat laba yang dihasilkan terbagi ke lebih banyak lembar saham kalau konversi itu benar dijalankan. Sisi yang relatif positif, pendapatan kuartal III 2026 diperkirakan sudah mencapai sekitar 75 persen dari target tahunan, meski laporan keuangannya belum resmi. Yang perlu dipantau berikutnya adalah laporan keuangan resmi kuartal III 2026 yang menurut manajemen akan segera disampaikan, serta pembaruan keterbukaan informasi soal konversi utang kepada HAJ dan JSM yang masih dalam proses penyempurnaan sebelum rencana itu bisa dieksekusi.",
   "sentimen": "negatif",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -10177,9 +10456,15 @@ var ARTICLES = [
     "ringkas": "VIVA mengoreksi lagi jadwal Public Expose Tahunan 17 November 2026, dari pukul 14.30 WIB menjadi 14.00 WIB.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/15d5dba7aa_78e16dc8af.pdf",
     "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan (KOREKSI)"
+   },
+   {
+    "tanggal": "2026-11-20T17:42:20",
+    "ringkas": "VIVA gelar Public Expose 17 November, ungkap pendapatan 9 bulan Rp651,9 miliar; konversi utang jadi saham masih direvisi.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7acef56d32_a1dbd9caf5.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
    }
   ],
-  "diperbarui": "2026-11-16T14:08:52",
+  "diperbarui": "2026-11-20T17:42:20",
   "jadwal": [
    {
     "tanggal": "2026-11-17",

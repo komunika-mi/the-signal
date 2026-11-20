@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jmas-defisit-dana-tabarru-rp60-88-m-ekuitas-kurang-modal",
+  "category": "Aksi Korporasi",
+  "title": "JMAS: Defisit Dana Tabarru Rp60,88 M, [Ekuitas Kurang] Modal",
+  "deck": "JMAS mengakui ekuitasnya Rp123,42 miliar, masih kurang Rp76,58 miliar dari syarat modal minimum Rp200 miliar, dan menjadwalkan rights issue paling lambat akhir 2027.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JMAS",
+   "asuransi syariah",
+   "solvabilitas",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0a1d59cdb2_15c0ffbd31.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-true-18-november-direksi-berganti-dividen-nihil",
+  "category": "Aksi Korporasi",
+  "title": "RUPST TRUE 18 November: [Direksi] Berganti, Dividen Nihil",
+  "deck": "RUPST Triniti Dinamik menyetujui pergantian dua direktur dan satu komisaris, serta memutuskan tidak membagikan dividen untuk tahun buku 2025.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "RUPST",
+   "Triniti Dinamik",
+   "pergantian direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d256168b03_dd8c452610.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-sukuk-ppgd-rp4-triliun-delisting-23-november",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi-Sukuk PPGD Rp4 Triliun: [Delisting] 23 November",
+  "deck": "Dua efek utang PPGD senilai total Rp4 triliun resmi dihapus dari pencatatan BEI mulai 23 November 2026 karena jatuh tempo pada tanggal itu.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGD",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/83babf95d4_3d70ff0c05.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "volatilitas-transaksi-bell-perseroan-bantah-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "Volatilitas Transaksi BELL: Perseroan [Bantah] Ada Informasi Material",
+  "deck": "Trisula Textile Industries menjawab permintaan penjelasan BEI soal volatilitas saham BELL, menegaskan tak ada informasi material dan pemegang saham utama tak berencana mengubah kepemilikannya.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BELL",
+   "Trisula Textile Industries",
+   "volatilitas saham",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7a293e76e8_a951af208c.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-sukuk-apai-22-nov-delisting-rp1-67-t",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi & Sukuk APAI 22 Nov: [Delisting] Rp1,67 T",
+  "deck": "Obligasi Seri C Rp1,489 triliun dan Sukuk Ijarah Seri C Rp177 miliar milik APAI jatuh tempo 22 November 2026 dan otomatis didelisting dari BEI mulai 23 November.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APAI",
+   "Obligasi",
+   "Sukuk Ijarah",
+   "Jatuh Tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/01edc4ae35_f7fd59c57b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jatuh-tempo-obligasi-inkp-21-22-november-pelunasan-rp1-04-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Jatuh Tempo Obligasi INKP 21-22 November: [Pelunasan] Rp1,04 Triliun",
+  "deck": "Obligasi, sukuk mudharabah, dan obligasi dolar INKP seri B senilai total Rp1,04 triliun plus US$900.000 jatuh tempo 21-22 November 2026 dan berhenti diperdagangkan di BEI mulai 23 November.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk",
+   "jatuh tempo"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0301565c4c_482938f17b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "hmetd-mglv-r-berakhir-23-november-saham-dihapus-24-november",
+  "category": "Aksi Korporasi",
+  "title": "HMETD MGLV-R Berakhir 23 November, Saham [Dihapus] 24 November",
+  "deck": "Masa perdagangan hak right MGLV-R di BEI berakhir 23 November 2026. Mulai 24 November, hak itu dihapus dari daftar efek tercatat bursa.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGLV",
+   "MGLV-R",
+   "HMETD",
+   "Right Issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/Exchange/Peng-Batas Akhir Perdagangan MGLV-R261123-No. Peng-00222BEI.POP11-2026.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-awasi-pangkalan-lpg-tegal-cek-penghapusan-syarat-nonsubsidi",
   "category": "Energi",
   "title": "KPPU Awasi Pangkalan LPG Tegal, Cek [Penghapusan] Syarat Nonsubsidi",
@@ -37,6 +149,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersiap-tanda-tangani-i-eu-cepa-mendag-busan-bertolak-ke-brussels",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "tspc-suntik-modal-rp60-miliar-ke-tempo-land-porsi-tetap-50-50",
+  "category": "Aksi Korporasi",
+  "title": "TSPC Suntik Modal Rp60 Miliar ke Tempo Land, Porsi Tetap [50-50]",
+  "deck": "TSPC dan anak usahanya Barclay Products menambah modal PT Tempo Land senilai Rp60 miliar, dengan porsi kepemilikan tetap 50-50 di perusahaan itu.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TSPC",
+   "transaksi afiliasi",
+   "Tempo Land",
+   "Barclay Products"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b4d7dd6b6_001cb5ddb8.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
@@ -5228,8 +5356,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
   "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA 17 November: Waktu [Dikoreksi] Lagi ke 14.00 WIB",
-  "deck": "MDIA mengoreksi lagi jadwal public expose tahunan 17 November 2026, kali ini waktunya berubah dari pukul 14.30 WIB menjadi 14.00 WIB, sekaligus menambah tautan registrasi Zoom.",
+  "title": "Public Expose MDIA: [Proyeksi] Pendapatan 2026 Rp550-560 Miliar",
+  "deck": "MDIA melaporkan hasil public expose 17 November: manajemen memproyeksikan pendapatan 2026 di kisaran Rp550-560 miliar dan menyiapkan capex 2027 Rp10-15 miliar.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
@@ -5244,15 +5372,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 17 November: Jadwal Diubah Jadi 14.00 WIB",
-  "deck": "VIVA mengoreksi ulang jadwal Public Expose Tahunan 2026, kini dipastikan pukul 14.00 WIB pada Selasa, 17 November 2026, setelah sebelumnya diumumkan pukul 14.30 WIB.",
+  "title": "Public Expose VIVA 17 November: [Konversi Utang] Masih Direvisi",
+  "deck": "VIVA gelar Public Expose 17 November, dihadiri 47 peserta. Pendapatan sembilan bulan Rp651,9 miliar, dan konversi utang jadi saham untuk dua kreditur baru masih direvisi.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "VIVA",
-   "Public Expose",
-   "Konversi Utang Saham",
-   "Laba Bersih"
+   "Public Expose 2026",
+   "Konversi Utang",
+   "PKPU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
   "sourceLabel": "IDX"
@@ -6393,138 +6521,6 @@ var ARTICLES = [
    "Pelayaran Tamarin Samudra"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/974caea39f_429e1dd408.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Perluas Insentif Pajak Karyawan ke Semua Sektor [2027]",
-  "deck": "Kemenko Perekonomian memaparkan rencana perluasan insentif pajak gaji ke seluruh sektor pada 2027, di tengah sejumlah indikator konsumsi dan manufaktur yang menguat jelang akhir tahun.",
-  "date": "11 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "PPh 21 DTP",
-   "ritel",
-   "daya beli",
-   "QRIS"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7211/pemerintah-perkuat-daya-saing-ritel-dan-produk-lokal-untuk-dorong-pertumbuhan-ekonomi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi",
-  "category": "Bisnis",
-  "title": "Delapan Perusahaan RI [Jajaki] Pasar Haji-Umrah Arab Saudi",
-  "deck": "Kemendag memfasilitasi delapan perusahaan Indonesia di Hajj Conference & Expo 2026 Jeddah, salah satunya menjajaki MoU senilai US$3,39 juta di sektor makanan siap saji.",
-  "date": "11 November 2026",
-  "image": "assets/img/delapan-perusahaan-ri-jajaki-pasar-haji-umrah-arab-saudi.jpg",
-  "imageV": "mwbxrv4q",
-  "tags": [
-   "Kemendag",
-   "Arab Saudi",
-   "Haji dan Umrah",
-   "Ekspor"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-fasilitasi-delapan-perusahaan-indonesia-di-hajj-conference-expo-2026-jeddah",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "geopark-meratus-didorong-jadi-penggerak-ekonomi-kalsel",
-  "category": "Makroekonomi",
-  "title": "Geopark Meratus Didorong Jadi [Penggerak] Ekonomi Kalsel",
-  "deck": "Pemprov Kalsel ingin status UNESCO Geopark Meratus bukan sekadar daya tarik wisatawan, tapi benar-benar menggerakkan UMKM dan lapangan kerja daerah.",
-  "date": "11 November 2026",
-  "image": "assets/img/geopark-meratus-didorong-jadi-penggerak-ekonomi-kalsel.jpg",
-  "imageV": "mwbxrvl7",
-  "tags": [
-   "Kalimantan Selatan",
-   "Geopark Meratus",
-   "Pariwisata",
-   "UMKM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477823-transformasi-pariwisata-kalsel-geopark-meratus-jadi-penggerak-ekonomi-banua"
- },
- {
-  "slug": "kota-harga-saham-anjlok-23-klaim-tak-ada-info-baru",
-  "category": "Aksi Korporasi",
-  "title": "KOTA: Harga Saham [Anjlok] 23%, Klaim Tak Ada Info Baru",
-  "deck": "Bursa meminta penjelasan setelah saham DMS Propertindo turun 23,29% dalam sepekan ke Rp56, disertai volume transaksi yang justru ikut menyusut.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KOTA",
-   "DMS Propertindo",
-   "volatilitas saham",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/68c9c82e50_06cce0b26d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "surplus-beras-kalsel-tembus-1-2-juta-ton-teratas-nasional",
-  "category": "Industri",
-  "title": "Surplus Beras Kalsel [Tembus] 1,2 Juta Ton, Teratas Nasional",
-  "deck": "Surplus beras 1,2 juta ton mengantar Kalimantan Selatan ke peringkat pertama nasional pada Indeks Ketahanan Pangan 2025 dengan skor 81,98.",
-  "date": "11 November 2026",
-  "image": "assets/img/surplus-beras-kalsel-tembus-1-2-juta-ton-teratas-nasional.jpg",
-  "imageV": "mwbxrw0m",
-  "tags": [
-   "kalimantan selatan",
-   "kalsel",
-   "muhidin",
-   "ketahanan pangan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477818-surplus-beras-tembus-12-juta-ton-kalsel-kokoh-jadi-salah-satu-lumbung-pangan-nasional"
- },
- {
-  "slug": "admf-laporkan-realisasi-100-dana-sukuk-rp498-miliar",
-  "category": "Aksi Korporasi",
-  "title": "ADMF Laporkan Realisasi 100% [Dana] Sukuk Rp498 Miliar",
-  "deck": "ADMF melaporkan ke OJK bahwa seluruh dana hasil Sukuk Mudharabah Berkelanjutan VI Tahap IV, Rp498,3 miliar, sudah terpakai 100 persen sesuai rencana, tanpa sisa dana.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "sukuk mudharabah",
-   "pembiayaan konsumen",
-   "penggunaan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0e12591dca_69166be619.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupo-obligasi-bold-9-desember-agenda-menyusul-25-november",
-  "category": "Aksi Korporasi",
-  "title": "RUPO Obligasi BOLD 9 Desember, [Agenda] Menyusul 25 November",
-  "deck": "BOLD minta wali amanat BRI gelar RUPO Obligasi II BUMA 2024 pada 9 Desember 2026, agenda baru diumumkan lewat pemanggilan 25 November.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "BUMA",
-   "RUPO",
-   "obligasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ef48af942e_9f4e709aff.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "admf-rampungkan-realisasi-dana-obligasi-rp1-65-triliun",
-  "category": "Aksi Korporasi",
-  "title": "ADMF Rampungkan Realisasi Dana Obligasi [Rp1,65 Triliun]",
-  "deck": "ADMF melaporkan seluruh dana Rp1,65 triliun dari Obligasi Berkelanjutan VII Tahap IV sudah terpakai 100 persen sesuai rencana, tanpa sisa dana.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADMF",
-   "obligasi",
-   "penggunaan dana",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b79a035df1_a038849c09.pdf",
   "sourceLabel": "IDX"
  }
 ];

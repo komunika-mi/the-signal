@@ -916,6 +916,34 @@ var ARTICLES = [
   "imageV": "mwopgrbw"
  },
  {
+  "slug": "tmpo-pt-pikatan-baru-masuk-jadi-pemegang-saham-baru-10-19",
+  "category": "Aksi Korporasi",
+  "title": "TMPO: PT Pikatan Baru [Masuk] Jadi Pemegang Saham Baru 10,19%",
+  "deck": "PT Pikatan Baru resmi tercatat sebagai pemegang saham baru TMPO dengan 107.827.142 saham atau 10,19 persen, dalam laporan struktur pemegang saham periode berakhir 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T15:06:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d2c853851f_b186fb8e3b.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TMPO",
+  "tags": [
+   "TMPO",
+   "Tempo Inti Media",
+   "struktur pemegang saham",
+   "PT Pikatan Baru"
+  ],
+  "body": [
+   "Tempo Inti Media Tbk (TMPO) melaporkan ke Bursa Efek Indonesia bahwa PT Pikatan Baru, beralamat di Gedung Graha Pena Jawa Pos, kini tercatat sebagai pemegang saham baru perseroan dengan 107.827.142 saham atau 10,19 persen dari total saham tercatat. Pada bulan sebelumnya, PT Pikatan Baru tidak memegang saham TMPO sama sekali alias nol saham. Laporan ini merupakan bagian dari Laporan Bulanan Registrasi Pemegang Efek (LBRE) untuk periode yang berakhir 19 November 2026, ditandatangani oleh Corporate Secretary TMPO, Jajang Jamaludin.",
+   "Sementara itu, komposisi pemegang saham utama lain tidak berubah dari bulan sebelumnya. Yayasan Tempo 21 Juni tetap memegang 181.322.500 saham (17,13 persen), PT Jaya Raya Utama 300.809.207 saham (28,42 persen), Yayasan Pembangunan 90.429.394 saham (8,54 persen), dan Yayasan Karyawan 87.627.267 saham (8,28 persen). Kepemilikan jajaran direksi dan komisaris juga tetap, yaitu Sebastian Kinaatmaja selaku Direksi dengan 1.314.600 saham (0,12 persen), AA GDE BGS Wahyu selaku Direksi dengan 1.000 saham, Komisaris Goenawan S Mohamad dengan 800.000 saham (0,08 persen), dan Komisaris Bambang Harymurti dengan 2.745.000 saham (0,26 persen).",
+   "Dari sisi penyebaran saham publik, jumlah saham non-warkat yang dipegang publik naik dari 2.648.051.810 saham (25,0299 persen) menjadi 2.668.704.669 saham (26,9799 persen). Jumlah pemegang saham dengan nomor identitas tunggal (SID) juga bertambah dari 9.364 menjadi 9.733 pemegang, atau naik 369 pemegang dalam sebulan. Persentase saham free float, yaitu porsi saham yang beredar bebas di luar pengendali dan afiliasinya, tercatat tetap di angka 24,74 persen pada bulan ini maupun bulan sebelumnya."
+  ],
+  "fotoAdegan": "Printing press rollers running newspaper sheets through an industrial plant, dim overhead lighting, worker monitoring the line",
+  "takeaway": "Laporan ini cenderung netral ke arah positif bagi TMPO, karena masuknya pemegang saham baru dengan porsi signifikan di atas 10 persen biasa dibaca pelaku pasar sebagai tanda ada pihak yang berminat menambah keterlibatan di perseroan, meski dokumen ini tidak menjelaskan harga atau tujuan di balik perolehan saham tersebut. Yang tersentuh di sini adalah struktur kepemilikan dan porsi saham beredar di publik (free float), bukan pos keuangan seperti laba atau arus kas, karena laporan jenis ini hanya mencatat siapa memegang berapa saham tiap bulan. Pelaku pasar biasanya mencermati pos ini karena perubahan pada pemegang saham besar bisa berimbas pada peta kekuatan suara di rapat pemegang saham, meski dalam kasus ini posisi pengendali utama TMPO belum berubah. Yang perlu dipantau selanjutnya adalah apakah PT Pikatan Baru akan menerbitkan keterbukaan informasi tersendiri soal latar belakang perolehan saham ini, serta apakah posisinya bertambah atau tetap pada laporan struktur pemegang saham bulan berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Perubahan Struktur Pemegang Saham"
+ },
+ {
   "slug": "oso-dukung-ruu-obligasi-daerah-gagasan-golkar",
   "category": "Makroekonomi",
   "title": "OSO Dukung RUU [Obligasi] Daerah Gagasan Golkar",
@@ -941,6 +969,44 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang benar-benar baru di sini baru sebatas naskah akademik, yaitu kajian awal yang jadi dasar sebelum sebuah rancangan undang-undang resmi dibuat, yang diserahkan Fraksi Golkar ke MPR pekan ini. Obligasi daerah sendiri berarti pemerintah daerah berutang langsung ke investor lewat surat utang, bukan hanya mengandalkan transfer dana dari pusat seperti sekarang. Kalau skema ini benar-benar terwujud, yang paling terdampak adalah pemerintah daerah yang kesulitan dana pembangunan serta calon investor yang kelak bisa membeli surat utang tersebut. Berita ini belum menyebut kapan naskah akademik itu akan dibawa jadi rancangan undang-undang resmi, siapa yang menjamin pembayarannya, atau daerah mana yang berpotensi jadi penerbit pertama, sehingga arah kebijakan ini baru bisa terbaca jelas setelah RUU tersebut masuk pembahasan resmi di DPR atau Program Legislasi Nasional.",
   "imageV": "mwopgrsy"
+ },
+ {
+  "slug": "buyback-smgr-rp250-miliar-pembelian-mulai-20-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Buyback SMGR Rp250 Miliar: [Pembelian] Mulai 20 November 2026",
+  "deck": "SMGR akan membeli kembali saham senilai maksimal Rp250 miliar mulai 20 November 2026, berlaku sampai 3 bulan, menyusul relaksasi OJK di tengah pasar yang berfluktuasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T14:20:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4ab07071ce_f834e71ca6.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGR",
+  "tags": [
+   "SMGR",
+   "buyback",
+   "Semen Indonesia",
+   "OJK"
+  ],
+  "body": [
+   "PT Semen Indonesia (Persero) Tbk (SMGR) akan melaksanakan pembelian kembali (buyback) saham dengan dana maksimal Rp250 miliar, menyusul relaksasi dari Otoritas Jasa Keuangan (OJK) di tengah kondisi pasar modal yang berfluktuasi signifikan. Perseroan menyampaikan pemberitahuan rencana ini kepada OJK dan Bursa Efek Indonesia (BEI) pada 20 November 2026, bersamaan dengan pengumuman keterbukaan informasi. Periode pembelian kembali saham akan berlangsung paling lama 3 bulan sejak keterbukaan informasi ini diterbitkan.",
+   "Dasar hukum buyback ini adalah Surat OJK No. S-112/D.04/2026 tanggal 9 September 2026, yang memberi perusahaan terbuka keleluasaan membeli kembali saham tanpa persetujuan RUPS saat pasar bergejolak, sesuai Pasal 2 huruf g POJK No. 13/2023. Semen Indonesia menegaskan jumlah saham yang dibeli tidak akan melebihi 20 persen dari modal ditempatkan dan disetor perseroan, dan transaksi dilakukan melalui Bursa Efek Indonesia lewat satu anggota bursa, baik secara bertahap maupun sekaligus. Seluruh dana berasal dari kas internal perseroan, bukan dari dana hasil penawaran umum maupun pinjaman, sehingga menurut manajemen tidak akan mengganggu kemampuan membayar kewajiban yang jatuh tempo.",
+   "Dalam proforma laporan keuangan per 30 Juni 2026, perseroan memperkirakan total aset turun dari Rp74,62 triliun menjadi Rp74,37 triliun, dan total ekuitas turun dari Rp47,88 triliun menjadi Rp47,63 triliun, keduanya berkurang sebesar Rp250 miliar sesuai dana yang dipakai untuk buyback. Ekuitas yang dapat diatribusikan kepada pemilik entitas induk turun dari Rp43,68 triliun menjadi Rp43,43 triliun. Sebaliknya, laba bersih per saham diproyeksikan naik dari Rp34 menjadi Rp35 karena jumlah saham yang beredar di pasar berkurang. Selama periode buyback, karyawan, direksi, komisaris, dan pemegang saham utama perseroan dilarang bertransaksi atas saham perseroan pada hari yang sama dengan penjualan kembali saham hasil buyback oleh perseroan. Surat kepada OJK dan BEI ditandatangani oleh Direktur Utama Indrieffouny Indra, sementara keterbukaan informasi ditandatangani Corporate Secretary Vita Mahreyni."
+  ],
+  "fotoAdegan": "Cement plant with tall silos and conveyor belts under a hazy sky, trucks being loaded with bagged cement in the yard.",
+  "takeaway": "Laporan ini condong positif bagi SMGR, karena manajemen memakai kas sendiri untuk menopang harga saham di tengah gejolak pasar tanpa menambah utang, dan langkah ini mendongkrak laba per saham. Yang tersentuh adalah ekuitas, yang diproyeksikan berkurang Rp250 miliar dari total Rp47,88 triliun atau sekitar 0,5 persen, serta laba bersih per saham yang naik dari Rp34 ke Rp35 karena jumlah saham yang beredar di pasar menyusut setelah dibeli kembali. Nilainya kecil dibanding skala perseroan, jadi ini lebih merupakan langkah stabilisasi di tengah gejolak pasar ketimbang perubahan struktur modal yang signifikan. Yang perlu dipantau adalah realisasi pembelian selama periode maksimal tiga bulan sejak 20 November 2026, serta laporan realisasi pembelian kembali saham yang wajib disampaikan perseroan setelah periode tersebut berakhir.",
+  "sentimen": "positif",
+  "peristiwa": "buyback",
+  "judulIdx": "Rencana Pelaksanaan Buyback PT Semen Indonesia (Persero) Tbk",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pemberitahuan rencana buyback ke OJK dan BEI"
+   },
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pengumuman keterbukaan informasi buyback"
+   }
+  ]
  },
  {
   "slug": "bank-bjb-raih-liputan6-good-impact-award-untuk-umkm",
@@ -1462,8 +1528,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-inov-28-desember-divestasi-45-8-saham-urecel-ke-cip",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB INOV 28 Desember: [Divestasi] 45,8% Saham Urecel ke CIP",
-  "deck": "INOV akan melepas 45,8% saham anak usahanya, PT Urecel Indonesia, ke CIP Capital Singapura senilai Rp258,16 miliar. RUPSLB persetujuan digelar 28 Desember 2026.",
+  "title": "RUPSLB INOV 28 Desember: [Opini Wajar] Divestasi Urecel Rp258 M",
+  "deck": "Penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menyatakan rencana penjualan 45,8% saham Urecel ke CIP Capital senilai Rp258,16 miliar wajar. RUPSLB persetujuan tetap digelar 28 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T19:31:57",
@@ -1472,17 +1538,18 @@ var ARTICLES = [
   "emiten": "INOV",
   "tags": [
    "INOV",
-   "Transaksi Material",
-   "Urecel Indonesia",
-   "RUPSLB"
+   "RUPSLB",
+   "Divestasi",
+   "Transaksi Material"
   ],
   "body": [
-   "PT Inocycle Technology Group Tbk (INOV) mengumumkan rencana menjual 45,8% sahamnya di PT Urecel Indonesia (PT UI), anak usaha yang bergerak di industri polyurethane, kepada CIP Capital Pte Ltd, perusahaan asal Singapura. Dasar transaksi ini adalah Perjanjian Jual Beli Saham Bersyarat yang sudah ditandatangani INOV dan CIP pada 4 Agustus 2026. Saham yang dijual sebanyak 11.450 lembar dengan nilai nominal Rp10.035.925.000. Karena nilai transaksi ditaksir melebihi 50% ekuitas INOV, aksi ini masuk kategori Transaksi Material yang wajib mendapat persetujuan Rapat Umum Pemegang Saham sesuai aturan OJK.",
-   "Penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menetapkan nilai pasar 45,8% saham PT UI per 30 Juni 2026 sebesar Rp258.161.428.879. Angka ini diperoleh dengan membobot pendekatan pendapatan atau metode arus kas diskonto sebesar 75% dan pendekatan pasar atau metode perbandingan dengan perusahaan sejenis yang tercatat di bursa sebesar 25%. Sebagai pembanding, CIP Capital, pihak pembeli, baru didirikan di Singapura pada 20 November 2025 dan menurut profil usahanya di regulator Singapura (ACRA), modal disetornya hanya 1 dolar Singapura dengan 1 lembar saham, menandakan perusahaan ini adalah entitas induk atau kendaraan investasi, bukan operator bisnis aktif.",
-   "Manajemen INOV beralasan transaksi ini untuk mengoptimalkan portofolio investasi dan memfokuskan sumber daya pada bisnis inti perusahaan di bidang daur ulang plastik, sekaligus memperoleh dana segar untuk modal kerja, pemenuhan kewajiban keuangan, dan memperkuat posisi keuangan secara keseluruhan. Perseroan menyatakan transaksi ini tidak akan mengganggu kelangsungan usaha utama dan justru berpotensi menambah likuiditas dari dana hasil penjualan. RUPS Luar Biasa untuk menyetujui transaksi ini dijadwalkan pada Senin, 28 Desember 2026, dengan satu-satunya mata acara yaitu persetujuan atas rencana divestasi tersebut."
+   "Penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menyatakan rencana PT Inocycle Technology Group Tbk (INOV) menjual 45,8% sahamnya di PT Urecel Indonesia (PT UI) kepada CIP Capital Pte Ltd asal Singapura adalah transaksi yang wajar. Opini kewajaran ini tertuang dalam laporan bertanggal 18 November 2026 yang menjadi syarat wajib sebelum Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) menyetujui transaksi ini pada 28 Desember 2026.",
+   "Transaksi ini melibatkan penjualan 11.450 lembar saham PT UI dengan nilai nominal Rp10.035.925.000, mewakili 45,8% dari seluruh saham PT UI, senilai Rp258.161.428.879 menurut penilaian KJPP yang sama per 30 Juni 2026. Karena nilainya ditaksir melebihi 50% ekuitas INOV, transaksi ini masuk kategori Transaksi Material yang wajib mendapat persetujuan pemegang saham sesuai Peraturan OJK Nomor 17/POJK.04/2020. Perseroan menegaskan transaksi ini dilakukan dengan pihak ketiga sehingga tidak mengandung benturan kepentingan atau transaksi afiliasi.",
+   "CIP Capital baru didirikan di Singapura pada 20 November 2025 dengan modal disetor hanya 1 dolar Singapura dan 1 lembar saham, menandakan perusahaan ini adalah entitas induk atau kendaraan investasi, bukan operator bisnis aktif dengan produk atau penjualan sendiri. Berdasarkan keterbukaan informasi, bidang usaha CIP yang tercatat di regulator Singapura (ACRA) adalah perusahaan induk lainnya atau holding company, dengan Chew Hew Kim sebagai direktur dan Yio Swee Khim sebagai sekretaris perusahaan.",
+   "Manajemen INOV beralasan penjualan ini untuk mengoptimalkan portofolio investasi dan memfokuskan sumber daya pada bisnis inti daur ulang plastik, sekaligus memperoleh dana segar untuk modal kerja, pemenuhan kewajiban keuangan, dan memperkuat posisi keuangan perusahaan. RUPSLB pada Senin, 28 Desember 2026 hanya memiliki satu mata acara, yaitu persetujuan atas rencana divestasi 45,8% saham PT UI ini."
   ],
   "fotoAdegan": "Workers sorting bales of recycled plastic bottles on a warehouse floor, forklift moving pallets nearby, industrial lighting",
-  "takeaway": "Laporan ini netral bagi INOV: ada suntikan dana sekitar Rp258 miliar dari penjualan anak usaha di luar bisnis inti, tapi dampaknya terhadap laba belum bisa dipastikan karena dokumen tidak menyebut untung atau rugi dari pelepasan saham ini, sementara pembelinya, CIP Capital, adalah entitas baru berumur setahun dengan modal disetor cuma 1 dolar Singapura. Pos yang tersentuh adalah ekuitas dan arus kas, karena nilai transaksi ini ditaksir melebihi separuh ekuitas INOV sehingga pelepasannya bisa mengubah signifikan struktur aset dan modal perusahaan, sementara dana yang masuk akan menambah kas yang bisa dipakai melunasi utang atau menambah modal kerja. Yang perlu dipantau adalah RUPSLB pada 28 Desember 2026, karena tanpa persetujuan pemegang saham di rapat itu, penjualan 45,8% saham Urecel ke CIP tidak bisa dilanjutkan.",
+  "takeaway": "Dokumen ini tetap kami nilai netral bagi INOV. Opini 'wajar' dari penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menegaskan bahwa harga jual Rp258,16 miliar sudah sesuai hitungan pasar, tapi ini syarat administratif yang wajib ada sebelum RUPSLB, bukan kabar baru yang mengubah dampak transaksi terhadap laba INOV, yang sampai sekarang belum diketahui untung atau ruginya dari pelepasan saham tersebut. Pos yang tersentuh tetap ekuitas dan arus kas: nilai transaksi ini melebihi separuh ekuitas, atau modal bersih, INOV, sehingga penjualannya bisa mengubah signifikan struktur aset perusahaan, sementara dana Rp258,16 miliar yang masuk akan menambah kas yang bisa dipakai melunasi utang atau menambah modal kerja. Yang perlu dipantau tetap RUPSLB pada 28 Desember 2026, karena tanpa persetujuan pemegang saham di rapat itu, penjualan 45,8% saham Urecel ke CIP Capital tidak bisa dilanjutkan, sementara profil CIP Capital sendiri masih berupa entitas baru bermodal 1 dolar Singapura.",
   "sentimen": "netral",
   "peristiwa": "transaksi",
   "judulIdx": "Penyampaian Informasi rencana Transaksi material - Rencana Transaksi Material Dengan Persetujuan RUPS",
@@ -1491,7 +1558,16 @@ var ARTICLES = [
     "tanggal": "2026-12-28",
     "acara": "RUPSLB persetujuan divestasi 45,8% saham PT Urecel Indonesia"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T14:32:14",
+    "ringkas": "Penilai independen menyatakan rencana divestasi 45,8% saham Urecel ke CIP Capital senilai Rp258,16 miliar wajar, RUPSLB tetap 28 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4eeef8eccf_66b9d668a5.pdf",
+    "judulIdx": "Rencana Transaksi Material Dengan Persetujuan RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-20T14:32:14"
  },
  {
   "slug": "pmthmetd-flmc-investor-futura-living-serap-78-1-juta-saham",
@@ -6621,8 +6697,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-itma-pendapatan-9m26-melonjak-90-8",
   "category": "Aksi Korporasi",
-  "title": "Public Expose ITMA: Pendapatan 9M26 [Melonjak] 90,8%",
-  "deck": "Materi public expose tahunan ITMA memuat kinerja 9M26: pendapatan naik 90,8% dan laba neto naik 87,7%, ditopang kontribusi entitas asosiasi dan proyek sewa pembangkit baru.",
+  "title": "Public Expose ITMA 19 November: [Laba Bruto] Turun, Pendapatan +90,8%",
+  "deck": "Hasil public expose ITMA 19 November mengungkap laba bruto turun meski pendapatan 9M26 naik 90,8%, dipicu biaya one-off dan denda PLN, serta modal kerja proyek mini LNG yang masih minus.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T17:37:07",
@@ -6631,18 +6707,19 @@ var ARTICLES = [
   "emiten": "ITMA",
   "tags": [
    "ITMA",
-   "public expose",
-   "kinerja keuangan",
-   "energi"
+   "Public Expose",
+   "Mini LNG",
+   "Sumber Energi Andalan"
   ],
   "body": [
-   "PT Sumber Energi Andalan Tbk (ITMA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 16 November 2026, menjelang acara public expose yang menurut materi tersebut dijadwalkan pada 19 November 2026. Dalam materi itu, perseroan memaparkan bahwa pendapatan sembilan bulan yang berakhir 30 September 2026 melonjak 90,77 persen secara tahunan menjadi US$1,78 juta dari US$935.769 pada periode yang sama tahun sebelumnya, sementara laba neto periode berjalan naik sekitar 87,7 persen. Manajemen menyebut kenaikan ini didukung oleh kontribusi investasi perseroan pada entitas asosiasi serta mulai berkontribusinya proyek-proyek baru dan anak usaha.",
-   "Dari sisi posisi keuangan per 30 September 2026, total aset perseroan tercatat US$261,83 juta, relatif stabil dibandingkan US$260,01 juta pada akhir Desember 2025. Total liabilitas turun dari US$43,74 juta menjadi US$42,90 juta, sementara total ekuitas naik dari US$216,28 juta menjadi US$218,94 juta. Materi ini juga mencantumkan susunan pemegang saham per 30 September 2026: PT Astrindo Nusantara Infrastruktur Tbk menguasai 41,90 persen atau 418.560.000 saham, PT Fersindo Nusa Jaya 14,54 persen (145.227.200 saham), PT Trukindo Persada Sejahtera 6,55 persen (65.465.600 saham), PT Nusantara Energi Bersih 5,68 persen (56.717.605 saham), dan sisanya 31,33 persen atau 313.082.762 saham dimiliki publik, dari total 999.053.167 saham beredar.",
-   "Di lini bisnis, anak usaha PT Indopower Energi Abadi mencatatkan pendapatan US$1,05 juta dari proyek sewa mesin pembangkit listrik tenaga diesel (PLTD) 20 MW di Jeranjang, Lombok, yang memasok listrik ke PLN Batam, serta US$545 ribu dari proyek sewa pembangkit listrik tenaga mesin gas (PLTMG) 3 MW berkontrak lima tahun untuk memenuhi kebutuhan PT Citra Tubindo Tbk melalui PT Pelayanan Listrik Nasional Batam. Perseroan juga melaporkan progres pembangunan fasilitas pengolahan mini Liquefied Natural Gas (LNG) berkapasitas 2,5 MMSCFD di Jawa Timur yang sudah mencapai sekitar 60 persen, dengan target memulai tahap komisioning pada Juni 2027. Ke depan, manajemen menyatakan akan terus mengkaji peluang di sektor kelistrikan, termasuk proyek listrik baru maupun potensi akuisisi pembangkit yang sudah beroperasi."
+   "PT Sumber Energi Andalan Tbk (ITMA) menggelar Public Expose Tahunan 2026 pada 19 November 2026, dihadiri Presiden Direktur Rocky Oktanso Sugih serta Direktur Wong Michael dan Ferdy Yustianto, dan disaksikan secara daring oleh 10 peserta dari kalangan pemegang saham, investor, analis, dan media. Dalam sesi tanya jawab, manajemen mengakui bahwa meski pendapatan sembilan bulan 2026 melonjak 90,8 persen menjadi US$1,78 juta, laba bruto perseroan justru turun. Rocky menjelaskan penurunan itu dipicu biaya satu kali (one-off) selama tahap awal optimalisasi dua proyek sewa pembangkit, PLTD 20 MW dan PLTMG 3 MW, serta denda dari PLN akibat keterlambatan tanggal operasi komersial (COD) PLTMG 3 MW. Ia juga menegaskan lonjakan laba neto 87,7 persen ikut ditopang bagian laba dari entitas asosiasi PT Mitratama Perkasa yang dicatat dengan metode ekuitas, bukan dari pendapatan usaha utama.",
+   "Seorang analis juga menyoroti bahwa, berdasarkan data presentasi manajemen sendiri, aset lancar perseroan sekitar US$2,6 juta lebih kecil dari liabilitas jangka pendek sekitar US$4,6 juta, sementara proyek fasilitas mini LNG di Jawa Timur masih membutuhkan sisa pendanaan 40 persen. Manajemen menyatakan sisa dana itu akan berasal dari pinjaman perbankan dan sebagian kecil dari ekuitas, dengan biaya proyek yang belum tercatat sebagai aset lancar karena masih dalam tahap pembangunan. Untuk pasokan gas, perseroan mengklaim sudah mengamankan nota kesepahaman (MoU) sebesar 2 MMSCFD dan alokasi 1 MMSCFD dari pemasok lain, dinilai cukup untuk kapasitas fasilitas 2,5 MMSCFD, dengan target penyaluran ke pelanggan industri di Jawa Timur dan Jawa Tengah yang sudah menjalin beberapa MoU dan surat minat (LOI).",
+   "Manajemen merinci penyebab mundurnya proyek mini LNG dari target semula: keterlambatan proses administrasi impor barang dari luar kepabeanan Indonesia, kendala izin pengangkutan peralatan besar dari Pelabuhan Tanjung Perak yang melibatkan Kementerian Perhubungan, serta keterlambatan sejumlah komponen dari Eropa akibat gangguan jalur distribusi terkait isu geopolitik. Target komisioning tetap Juni 2027, dengan proyeksi operasi skala penuh tercapai dalam 1 hingga 2 bulan setelah itu, dan kontribusi tahunan ke laba operasional (EBITDA) diperkirakan sekitar US$3 juta menggunakan asumsi yang disebut konservatif. Analis lain juga menanyakan harga saham ITMA yang turun dari Rp2.430 menjadi Rp1.385 dengan volume perdagangan nyaris nol sejak kuartal II 2026, yang dijawab manajemen dengan mengaku tidak banyak informasi soal mekanisme pasar namun berupaya transparan khususnya atas pergerakan pemegang saham pengendali.",
+   "Fakta keuangan sembilan bulan 2026 yang sebelumnya dipaparkan dalam materi public expose tetap berlaku: total aset US$261,83 juta, total liabilitas turun menjadi US$42,90 juta, dan total ekuitas naik menjadi US$218,94 juta per 30 September 2026. Susunan pemegang saham juga tidak berubah, dengan PT Astrindo Nusantara Infrastruktur Tbk sebagai pemegang saham pengendali 41,90 persen, diikuti PT Fersindo Nusa Jaya 14,54 persen, PT Trukindo Persada Sejahtera 6,55 persen, PT Nusantara Energi Bersih 5,68 persen, dan publik 31,33 persen dari total 999.053.167 saham."
   ],
   "fotoAdegan": "Industrial diesel generator units lined up at a small power plant yard near a tropical coastline, technicians inspecting cables, overcast sky",
-  "takeaway": "Materi ini condong positif bagi pemegang saham karena data sembilan bulan menunjukkan pendapatan dan laba yang tumbuh signifikan, ditopang proyek sewa pembangkit yang sudah menghasilkan uang dan investasi di entitas asosiasi. Pos yang tersentuh di sini adalah pendapatan, laba neto, dan ekuitas, yaitu modal milik pemegang saham yang naik jadi US$218,94 juta, karena ekuitas yang menguat menandakan kekayaan pemegang saham ikut bertambah, bukan tergerus untuk menutup kerugian. Total utang perseroan juga turun dari US$43,74 juta menjadi US$42,90 juta, berarti beban kewajiban yang harus dibayar sedikit berkurang. Yang perlu dipantau berikutnya adalah progres fasilitas pengolahan mini LNG di Jawa Timur yang baru mencapai 60 persen dengan target mulai uji operasi pada Juni 2027, serta acara Public Expose Tahunan yang menurut materi ini dijadwalkan 19 November 2026, saat pemegang saham biasanya bisa bertanya langsung ke manajemen.",
-  "sentimen": "positif",
+  "takeaway": "Laporan hasil public expose ini bernada netral, karena membuka sisi yang belum terlihat di balik angka pertumbuhan: pendapatan naik 90,8 persen tetapi laba bruto justru turun, dan sebagian kenaikan laba neto berasal dari bagian laba entitas asosiasi, bukan semata operasi inti. Pos yang tersentuh adalah laba bruto, yaitu selisih pendapatan dengan biaya langsung produksi sebelum beban lain, serta arus kas atau modal kerja, yaitu kemampuan membayar kewajiban jangka pendek, yang di sini tergambar minus karena aset lancar sekitar US$2,6 juta lebih kecil dari liabilitas jangka pendek sekitar US$4,6 juta sehingga perseroan masih butuh pinjaman baru untuk menutup sisa 40 persen dana proyek mini LNG. Pasar modal memperhatikan keduanya karena laba bruto mencerminkan efisiensi bisnis inti, sementara modal kerja negatif menandakan perseroan bergantung pada pendanaan eksternal dalam waktu dekat. Yang perlu dipantau berikutnya adalah realisasi komisioning fasilitas mini LNG yang ditargetkan Juni 2027 dengan proyeksi kontribusi EBITDA sekitar US$3 juta per tahun, serta kepastian pinjaman perbankan baru untuk menutup sisa pendanaan proyek tersebut.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
@@ -6650,7 +6727,16 @@ var ARTICLES = [
     "tanggal": "2026-11-19",
     "acara": "Public Expose Tahunan ITMA"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T15:22:19",
+    "ringkas": "Sesi tanya jawab Public Expose ITMA 19 November mengungkap laba bruto turun akibat biaya one-off dan denda PLN, serta modal kerja proyek mini LNG masih minus.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c61e1f8690_dd6f010369.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T15:22:19"
  },
  {
   "slug": "bpdp-satukan-program-peremajaan-sawit-dan-biodiesel",
@@ -10973,8 +11059,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",
   "category": "Aksi Korporasi",
-  "title": "Public Expose CFIN 18 November: [Laba] 9M26 Naik 13,3% ke Rp154 M",
-  "deck": "CFIN gelar Public Expose Tahunan pada 18 November 2026 pukul 10.00 WIB, memaparkan laba bersih 9 bulan 2026 naik 13,26% menjadi Rp154 miliar meski piutang menyusut 9,21%.",
+  "title": "Public Expose CFIN 18 November: Coverage NPF Naik ke [55,64%]",
+  "deck": "CFIN laporkan hasil public expose 18 November: rasio pencadangan terhadap kredit bermasalah naik ke 55,64%, sementara ROE tahunan hanya 3,39%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T18:09:31",
@@ -10984,16 +11070,17 @@ var ARTICLES = [
   "tags": [
    "CFIN",
    "Public Expose",
-   "Clipan Finance",
-   "kinerja keuangan"
+   "NPF",
+   "ROE"
   ],
   "body": [
-   "PT Clipan Finance Indonesia Tbk (CFIN) menjadwalkan Public Expose Tahunan 2026 pada Rabu, 18 November 2026, pukul 10.00 WIB, melalui aplikasi Zoom. Perusahaan pembiayaan yang terafiliasi dengan PT Bank Pan Indonesia Tbk (Panin) ini menyampaikan materi paparan ke Bursa Efek Indonesia pada 12 November 2026, berisi kinerja keuangan sembilan bulan pertama 2026.",
-   "Materi paparan menunjukkan laba periode berjalan CFIN naik 13,26% menjadi Rp154 miliar pada Januari-September 2026, dari Rp136 miliar pada periode sama tahun sebelumnya. Kenaikan laba ini ditopang turunnya beban bunga dan keuangan sebesar 19,39% menjadi Rp172 miliar, serta beban pencadangan kerugian penurunan nilai yang turun 20,26% menjadi Rp364 miliar, meski pendapatan pembiayaan konsumen justru turun 10,16% menjadi Rp805 miliar. Di sisi lain, piutang pembiayaan menyusut 9,21% menjadi Rp8.455 miliar per akhir September 2026 dari Rp9.313 miliar pada akhir 2025, sejalan dengan total aset yang turun 9,90% menjadi Rp8.584 miliar. Rasio kredit bermasalah atau NPF bruto tercatat 8,46%, jauh di atas rata-rata industri pembiayaan 2,98%, sementara NPF neto 4,37% dibandingkan rata-rata industri 0,81%.",
-   "Materi tersebut juga mencantumkan susunan pemegang saham CFIN, dengan PT Bank Pan Indonesia Tbk sebagai pengendali menguasai 51,49% saham, disusul BBH Luxembourg S/A Fidelity FD, Sicav, FD FDS Pac FD sebesar 8,23%, dan sisanya 40,28% dimiliki publik. Jajaran komisaris diisi Bhindawati Gunawan sebagai Komisaris Utama, Murwanto sebagai Komisaris, dan Lukman Abdullah sebagai Komisaris Independen, sementara direksi dipimpin Jahja Anwar sebagai Direktur Utama bersama Willy Halim S. dan Roelly Makalis sebagai Direktur. Terhadap target 2026, realisasi pembiayaan baru sembilan bulan baru mencapai 69,91% dari target Rp4.291 miliar, piutang pembiayaan 84,31% dari target, dan laba bersih 93,33% dari target Rp165 miliar, sementara NPF neto 4,37% sudah melampaui batas atas yang ditetapkan sebesar 3,83%."
+   "PT Clipan Finance Indonesia Tbk (CFIN) melaporkan ke Bursa Efek Indonesia bahwa Public Expose Tahunan 2026 telah terlaksana pada Rabu, 18 November 2026, pukul 10.00-10.40 WIB melalui Zoom, dihadiri 43 peserta di luar manajemen dan karyawan perseroan. Dalam sesi tanya jawab, Direktur Utama Jahja Anwar mengungkapkan rasio pencadangan kerugian penurunan nilai terhadap kredit bermasalah (coverage ratio) naik menjadi 55,64% per September 2026, dari 47,28% pada akhir 2025, sementara return on equity (ROE) tahunan perseroan tercatat hanya 3,39%, lebih rendah dari imbal hasil obligasi pemerintah.",
+   "Manajemen juga menjelaskan pembiayaan dana tunai hanya berkontribusi sekitar 10% dari total pembiayaan baru, turun sekitar 12% dibanding periode sama tahun sebelumnya, sejalan dengan kebijakan yang lebih selektif terutama pada sektor alat berat terkait tambang dan komoditas. Untuk kuartal keempat, Jahja Anwar menyebut strategi perseroan adalah memperluas pembiayaan di sektor otomotif dan memperkuat sinergi dengan Bank Panin sebagai induk usaha. Soal dividen, manajemen mengaku belum menetapkan target payout ratio untuk tahun 2026, meski berharap bisa mempertahankan tingkat pembagian seperti tahun sebelumnya, dengan catatan keputusan akhir tetap di tangan RUPS.",
+   "Materi yang dipaparkan tetap mengacu pada kinerja sembilan bulan pertama 2026 yang sebelumnya diumumkan: laba bersih naik 13,26% menjadi Rp154 miliar, ditopang turunnya beban bunga dan beban pencadangan, meski piutang pembiayaan menyusut 9,21% menjadi Rp8.455 miliar. Rasio kredit bermasalah atau NPF bruto tercatat 8,46% dan NPF neto 4,37%, keduanya masih jauh di atas rata-rata industri pembiayaan. Realisasi pembiayaan baru sembilan bulan juga baru mencapai 69,91% dari target tahun ini.",
+   "Susunan pemegang saham masih sama seperti yang diumumkan sebelumnya, dengan PT Bank Pan Indonesia Tbk sebagai pengendali menguasai 51,49% saham, BBH Luxembourg S/A Fidelity FD 8,23%, dan sisanya 40,28% dimiliki publik, sementara jajaran direksi dipimpin Jahja Anwar sebagai Direktur Utama."
   ],
   "fotoAdegan": "Rows of used and new cars parked at a financing company showroom lot in Jakarta, staff reviewing paperwork, late afternoon light",
-  "takeaway": "Laporan ini campuran dan paling tepat dibaca netral: laba bersih memang naik 13,26% ditopang efisiensi beban bunga dan turunnya beban pencadangan, tapi sumber pertumbuhan itu bukan dari bisnis inti yang justru menyusut, piutang pembiayaan turun 9,21% dan rasio kredit bermasalah atau NPF bruto 8,46%, jauh di atas rata-rata industri 2,98%. NPF yang tinggi berarti porsi piutang yang berpotensi tidak terbayar membesar, dan kalau debitur makin banyak menunggak, perusahaan harus menambah pencadangan lagi ke depan, pos yang langsung memakan laba berikutnya. Ekuitas relatif stabil di Rp5.745 miliar dan gearing ratio, yaitu perbandingan utang berbunga terhadap modal, masih rendah di 0,45 kali dari batas maksimum OJK 10 kali, jadi permodalan belum berisiko. Yang perlu dipantau adalah paparan publik pada Rabu, 18 November 2026, terutama penjelasan manajemen soal rencana menekan NPF neto yang sudah melampaui batas atas target 3,83% serta strategi mengejar realisasi pembiayaan baru yang baru 69,91% dari target dengan sisa waktu kurang dari dua bulan.",
+  "takeaway": "Laporan hasil public expose ini condong netral dengan sedikit sisi positif: rasio pencadangan kerugian penurunan nilai terhadap kredit bermasalah naik menjadi 55,64% dari 47,28%, artinya perseroan punya bantalan yang lebih tebal kalau debitur yang menunggak gagal bayar, perbaikan dari kekhawatiran NPF tinggi yang disorot pada laporan sebelumnya. Namun return on equity atau ROE, yaitu seberapa besar laba yang dihasilkan dari setiap rupiah modal pemegang saham, hanya 3,39% dalam setahun dan lebih rendah dari imbal hasil obligasi pemerintah, sehingga pemanfaatan modal perseroan belum optimal meski gearing ratio-nya rendah di 0,45 kali. Piutang pembiayaan yang terus menyusut, termasuk pembiayaan dana tunai yang turun 12%, menunjukkan perseroan sengaja mengerem penyaluran demi menjaga kualitas kredit, bukan karena kekurangan modal. Yang perlu dipantau selanjutnya adalah apakah strategi kuartal keempat memperluas pembiayaan otomotif lewat sinergi dengan Bank Panin berhasil mengejar target pembiayaan baru yang baru 69,91% tercapai, serta keputusan RUPS mendatang soal besaran dividen 2026 karena manajemen belum menetapkan target payout ratio tahun ini.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -11002,7 +11089,16 @@ var ARTICLES = [
     "tanggal": "2026-11-18",
     "acara": "Public Expose Tahunan CFIN secara daring pukul 10.00 WIB"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T14:19:59",
+    "ringkas": "Hasil public expose CFIN 18 November: rasio pencadangan terhadap NPF naik ke 55,64%, ROE tahunan tercatat 3,39%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/24f77b9854_d24f308bab.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T14:19:59"
  },
  {
   "slug": "kaii-obligasi-rp1-1-triliun-siap-dilunasi-13-desember",
@@ -13404,8 +13500,8 @@ var ARTICLES = [
  {
   "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
   "category": "Aksi Korporasi",
-  "title": "MTFN Panggil RUPST Kedua usai [Kuorum] Pertama Gagal",
-  "deck": "Rapat pertama Capitalinc Investment pada 6 November gagal kuorum, sehingga pemegang saham dipanggil lagi 18 November untuk membahas laporan tahunan, keputusan tanpa dividen, dan perpanjangan masa jabatan direksi-komisaris.",
+  "title": "RUPST Kedua MTFN 18 November: [Tanpa Dividen] Direksi Diangkat Lagi",
+  "deck": "RUPST Kedua MTFN mencapai kuorum 43,17% pada 18 November dan menyetujui semua agenda, termasuk tanpa dividen dan direksi-komisaris lama diangkat lagi untuk 2026-2031.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "11 November 2026",
   "isoDate": "2026-11-11T12:22:26",
@@ -13415,17 +13511,28 @@ var ARTICLES = [
   "tags": [
    "MTFN",
    "RUPST",
-   "Capitalinc Investment",
-   "dividen"
+   "dividen",
+   "Capitalinc Investment"
   ],
   "body": [
-   "Capitalinc Investment Tbk (MTFN) mengeluarkan panggilan kedua Rapat Umum Pemegang Saham Tahunan (RUPST) setelah rapat pertama yang digelar Jumat, 6 November 2026, tidak memenuhi syarat kuorum kehadiran pemegang saham. RUPST kedua dijadwalkan Rabu, 18 November 2026 pukul 10.00 WIB di Kantor Taman E3.3 Unit D3A Lantai 5, Jalan DR. Ide Anak Agung Gde Agung, Kuningan, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per penutupan perdagangan BEI pada Selasa, 10 November 2026 pukul 16.00 WIB.",
-   "Enam agenda akan dibahas. Pertama, persetujuan atas laporan Direksi dan laporan keuangan konsolidasian tahun buku 2025 beserta Laporan Tahunan 2025. Kedua, pembebasan tanggung jawab (acquit et de charge) bagi seluruh anggota Direksi dan Dewan Komisaris atas pengurusan tahun buku 2025, kecuali untuk tindakan penggelapan, penipuan, atau tindak pidana lain. Ketiga, persetujuan untuk tidak membagikan dividen dari laba tahun buku 2025. Keempat, pemberian kewenangan kepada Dewan Komisaris untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026. Kelima, kewenangan kepada Dewan Komisaris untuk menetapkan besaran remunerasi dan tunjangan Direksi serta Dewan Komisaris untuk tahun 2026. Keenam, persetujuan pengangkatan kembali anggota Direksi dan Dewan Komisaris Perseroan.",
-   "Perseroan menetapkan bahwa surat kuasa bagi pemegang saham yang berhalangan hadir harus diterima dalam bentuk dokumen asli paling lambat tiga hari kerja sebelum rapat, yaitu 12 November 2026, di kantor biro administrasi efek PT Ficomindo Buana Registrar, atau dapat dikirim lebih dulu melalui email ke helpdesk@ficomindo.com. Pemegang saham juga dapat menggunakan hak suaranya secara elektronik melalui aplikasi eASY.KSEI untuk konfirmasi kehadiran, penunjukan kuasa, atau pemberian suara."
+   "Rapat Umum Pemegang Saham Tahunan (RUPST) Kedua Capitalinc Investment Tbk (MTFN) akhirnya terlaksana pada Rabu, 18 November 2026, setelah rapat pertama pada 6 November gagal memenuhi kuorum. RUPST Kedua dihadiri pemegang saham yang mewakili 13.746.839.858 saham, atau 43,171 persen dari total 31.842.082.852 saham dengan hak suara yang beredar, sehingga syarat kuorum kehadiran untuk rapat kedua terpenuhi dan seluruh enam agenda rapat disahkan.",
+   "Pemegang saham menyetujui untuk tidak membagikan dividen dari laba tahun buku 2025, dengan dukungan 99,997 persen suara yang hadir dan hanya 300.000 saham yang menyatakan tidak setuju. Rapat juga menyetujui pengangkatan kembali seluruh anggota Direksi dan Dewan Komisaris untuk masa jabatan baru yang berlaku efektif sejak penutupan rapat hingga 18 November 2031, yaitu Rizal F. Bamahry sebagai Direktur Utama, Khaerudin sebagai Direktur, Nicholas Justin Whittle sebagai Komisaris Utama, dan Ahmad Sultoni Soedradjat sebagai Komisaris Independen. Susunan pengurus perusahaan dengan demikian tidak berubah dari periode sebelumnya.",
+   "Selain itu, RUPST Kedua memberi kewenangan kepada Dewan Komisaris untuk menunjuk kantor akuntan publik yang akan mengaudit laporan keuangan tahun buku 2026, serta menetapkan besaran remunerasi dan tunjangan Direksi dan Dewan Komisaris untuk tahun 2026. Perseroan menyatakan nama kantor akuntan publik yang dipilih akan diumumkan lewat keterbukaan informasi terpisah. Rapat juga mengesahkan laporan Direksi dan laporan keuangan konsolidasian tahun buku 2025 beserta Laporan Tahunan 2025, dan memberikan pembebasan tanggung jawab (acquit et de charge) kepada Direksi dan Dewan Komisaris atas pengurusan tahun 2025, kecuali untuk tindakan penggelapan, penipuan, atau tindak pidana lain.",
+   "Rapat ini adalah panggilan kedua setelah RUPST pertama pada 6 November 2026 tidak mencapai kuorum kehadiran yang disyaratkan. Sepanjang pembahasan RUPST Kedua, Perseroan mencatat tidak ada satu pun pemegang saham atau kuasanya yang mengajukan pertanyaan pada keenam agenda rapat."
   ],
   "fotoAdegan": "Rows of empty chairs facing a podium in a modern corporate meeting room, soft morning light through tall glass windows, Jakarta office building.",
-  "takeaway": "Saya menilai panggilan ini netral bagi fundamental MTFN. Gagalnya kuorum pada rapat pertama adalah hal prosedural yang diatur dalam aturan RUPS, karena rapat kedua memang punya ambang kuorum yang lebih longgar, jadi bukan indikasi kuat soal krisis tata kelola, meski tetap menunjukkan rendahnya kehadiran pemegang saham pada percobaan pertama. Agenda yang paling menyentuh kepentingan pemegang saham adalah keputusan tidak membagikan dividen dari laba tahun buku 2025, yang berarti arus kas ke kantong pemegang saham tahun ini nihil, serta rencana memperpanjang masa jabatan direksi dan komisaris yang sama. Yang perlu dipantau adalah apakah RUPST kedua pada 18 November 2026 akhirnya mencapai kuorum dan menyetujui seluruh agenda tersebut, termasuk siapa kantor akuntan publik yang nantinya ditunjuk Dewan Komisaris untuk mengaudit buku 2026.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPST Kedua ini saya nilai netral bagi fundamental MTFN, karena seluruh keputusannya sudah bisa diprediksi sejak panggilan kedua diterbitkan dan tidak ada kejutan dari pemegang saham yang hadir. Pos yang tersentuh adalah arus kas ke pemegang saham, karena keputusan tidak membagikan dividen dari laba 2025 berarti seluruh laba ditahan di perusahaan, sementara susunan direksi dan komisaris yang tetap sama untuk lima tahun ke depan berarti tidak ada perubahan arah pengelolaan. Partisipasi pemegang saham juga masih tipis, kuorum baru tercapai 43,17 persen dari total saham beredar dan tidak ada satu pun yang mengajukan pertanyaan di seluruh agenda. Yang perlu dipantau selanjutnya adalah pengumuman resmi kantor akuntan publik yang akan ditunjuk Dewan Komisaris untuk mengaudit laporan keuangan tahun buku 2026, karena dokumen ini hanya memberi kewenangan tanpa menyebut nama kantor akuntan publiknya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T15:22:55",
+    "ringkas": "RUPST Kedua MTFN akhirnya kuorum pada 18 November, menyetujui tanpa dividen dan mengangkat kembali direksi-komisaris lama untuk 2026-2031.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4c51b8fd76_c77370593b.pdf",
+    "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T15:22:55",
+  "peristiwa": "rups"
  },
  {
   "slug": "trading-vs-investasi-beda-waktu-biaya-dan-risiko",

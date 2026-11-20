@@ -455,6 +455,22 @@ var ARTICLES = [
   "sourceLabel": "Direktorat Jenderal Pajak"
  },
  {
+  "slug": "tmpo-pt-pikatan-baru-masuk-jadi-pemegang-saham-baru-10-19",
+  "category": "Aksi Korporasi",
+  "title": "TMPO: PT Pikatan Baru [Masuk] Jadi Pemegang Saham Baru 10,19%",
+  "deck": "PT Pikatan Baru resmi tercatat sebagai pemegang saham baru TMPO dengan 107.827.142 saham atau 10,19 persen, dalam laporan struktur pemegang saham periode berakhir 19 November 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TMPO",
+   "Tempo Inti Media",
+   "struktur pemegang saham",
+   "PT Pikatan Baru"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d2c853851f_b186fb8e3b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "oso-dukung-ruu-obligasi-daerah-gagasan-golkar",
   "category": "Makroekonomi",
   "title": "OSO Dukung RUU [Obligasi] Daerah Gagasan Golkar",
@@ -470,6 +486,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479397-oso-dukung-ruu-obligasi-daerah-yang-disiapkan-golkar-di-mpr"
+ },
+ {
+  "slug": "buyback-smgr-rp250-miliar-pembelian-mulai-20-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Buyback SMGR Rp250 Miliar: [Pembelian] Mulai 20 November 2026",
+  "deck": "SMGR akan membeli kembali saham senilai maksimal Rp250 miliar mulai 20 November 2026, berlaku sampai 3 bulan, menyusul relaksasi OJK di tengah pasar yang berfluktuasi.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGR",
+   "buyback",
+   "Semen Indonesia",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4ab07071ce_f834e71ca6.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bank-bjb-raih-liputan6-good-impact-award-untuk-umkm",
@@ -733,15 +765,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-inov-28-desember-divestasi-45-8-saham-urecel-ke-cip",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB INOV 28 Desember: [Divestasi] 45,8% Saham Urecel ke CIP",
-  "deck": "INOV akan melepas 45,8% saham anak usahanya, PT Urecel Indonesia, ke CIP Capital Singapura senilai Rp258,16 miliar. RUPSLB persetujuan digelar 28 Desember 2026.",
+  "title": "RUPSLB INOV 28 Desember: [Opini Wajar] Divestasi Urecel Rp258 M",
+  "deck": "Penilai independen KJPP Yufrizal, Deny Kamal dan Rekan menyatakan rencana penjualan 45,8% saham Urecel ke CIP Capital senilai Rp258,16 miliar wajar. RUPSLB persetujuan tetap digelar 28 Desember 2026.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "INOV",
-   "Transaksi Material",
-   "Urecel Indonesia",
-   "RUPSLB"
+   "RUPSLB",
+   "Divestasi",
+   "Transaksi Material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c537c346c8_0ebdc3e2d9.pdf",
   "sourceLabel": "IDX"
@@ -3368,15 +3400,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-itma-pendapatan-9m26-melonjak-90-8",
   "category": "Aksi Korporasi",
-  "title": "Public Expose ITMA: Pendapatan 9M26 [Melonjak] 90,8%",
-  "deck": "Materi public expose tahunan ITMA memuat kinerja 9M26: pendapatan naik 90,8% dan laba neto naik 87,7%, ditopang kontribusi entitas asosiasi dan proyek sewa pembangkit baru.",
+  "title": "Public Expose ITMA 19 November: [Laba Bruto] Turun, Pendapatan +90,8%",
+  "deck": "Hasil public expose ITMA 19 November mengungkap laba bruto turun meski pendapatan 9M26 naik 90,8%, dipicu biaya one-off dan denda PLN, serta modal kerja proyek mini LNG yang masih minus.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ITMA",
-   "public expose",
-   "kinerja keuangan",
-   "energi"
+   "Public Expose",
+   "Mini LNG",
+   "Sumber Energi Andalan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b106259fc_24aeb3ef51.pdf",
   "sourceLabel": "IDX"
@@ -5646,15 +5678,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",
   "category": "Aksi Korporasi",
-  "title": "Public Expose CFIN 18 November: [Laba] 9M26 Naik 13,3% ke Rp154 M",
-  "deck": "CFIN gelar Public Expose Tahunan pada 18 November 2026 pukul 10.00 WIB, memaparkan laba bersih 9 bulan 2026 naik 13,26% menjadi Rp154 miliar meski piutang menyusut 9,21%.",
+  "title": "Public Expose CFIN 18 November: Coverage NPF Naik ke [55,64%]",
+  "deck": "CFIN laporkan hasil public expose 18 November: rasio pencadangan terhadap kredit bermasalah naik ke 55,64%, sementara ROE tahunan hanya 3,39%.",
   "date": "12 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "CFIN",
    "Public Expose",
-   "Clipan Finance",
-   "kinerja keuangan"
+   "NPF",
+   "ROE"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a4e1bebfa_12de5f60e5.pdf",
   "sourceLabel": "IDX"
@@ -6489,39 +6521,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d901e668bd_a7949c5935.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rans-ke-bei-kontrak-rai-kementerian-rp14-7-m-dibenarkan",
-  "category": "Aksi Korporasi",
-  "title": "RANS ke BEI: Kontrak RAI-Kementerian Rp14,7 M [Dibenarkan]",
-  "deck": "RANS membenarkan kontrak jasa kreatif Rp14,7 miliar dari dua kementerian ke anak usahanya, RAI, menyusul sorotan ICW atas kontrak tersebut.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RANS",
-   "Rans Animasi Indonesia",
-   "ICW",
-   "pengadaan pemerintah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/89fde0c7a4_ea88605a29.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai",
-  "category": "Bisnis",
-  "title": "Boga, Rempah, Perikanan RI Catat Potensi [Rp450 Miliar] di Shanghai",
-  "deck": "Produk boga, rempah, dan perikanan Indonesia mencatat potensi transaksi Rp450 miliar di pameran CIIE Shanghai, termasuk satu MoU UMKM dengan mitra Tiongkok.",
-  "date": "11 November 2026",
-  "image": "assets/img/boga-rempah-perikanan-ri-catat-potensi-rp450-miliar-di-shanghai.jpg",
-  "imageV": "mwc0gw6x",
-  "tags": [
-   "CIIE",
-   "ekspor",
-   "Tiongkok",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-boga-rempah-dan-perikanan-indonesia-catat-potensi-transaksi-rp450-miliar-di-pameran-shanghai",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

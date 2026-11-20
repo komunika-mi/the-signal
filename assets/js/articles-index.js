@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "telkom-solution-garap-konektivitas-digital-hotel",
+  "category": "Teknologi",
+  "title": "[Telkom] Solution Garap Konektivitas Digital Hotel",
+  "deck": "Telkom Solution memperluas layanan internet korporat Astinet dan Internet Bisnis ke sektor perhotelan, dicontohkan lewat kerja sama dengan hotel di Pasuruan, Jawa Timur.",
+  "date": "20 November 2026",
+  "image": "assets/img/telkom-solution-garap-konektivitas-digital-hotel.jpg",
+  "imageV": "mwp12xr4",
+  "tags": [
+   "Telkom",
+   "Telkom Solution",
+   "Konektivitas Digital",
+   "Perhotelan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479448-telkom-solution-perkuat-konektivitas-digital-industri-perhotelan"
+ },
+ {
   "slug": "jmas-defisit-dana-tabarru-rp60-88-m-ekuitas-kurang-modal",
   "category": "Aksi Korporasi",
   "title": "JMAS: Defisit Dana Tabarru Rp60,88 M, [Ekuitas Kurang] Modal",
@@ -6505,22 +6522,6 @@ var ARTICLES = [
    "pembangkit listrik"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93f810f0b4_7156c51994.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-tamu-18-desember-2026-jadwal-dps-per-25-november",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB TAMU 18 Desember 2026: [Jadwal] DPS per 25 November",
-  "deck": "PT Pelayaran Tamarin Samudra Tbk (TAMU) akan menggelar RUPST dan RUPSLB pada 18 Desember 2026. Pemegang saham yang tercatat per 25 November 2026 berhak hadir dan bersuara.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMU",
-   "RUPSLB",
-   "RUPST",
-   "Pelayaran Tamarin Samudra"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/974caea39f_429e1dd408.pdf",
   "sourceLabel": "IDX"
  }
 ];

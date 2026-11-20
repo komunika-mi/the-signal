@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "telkom-solution-garap-konektivitas-digital-hotel",
+  "category": "Teknologi",
+  "title": "[Telkom] Solution Garap Konektivitas Digital Hotel",
+  "deck": "Telkom Solution memperluas layanan internet korporat Astinet dan Internet Bisnis ke sektor perhotelan, dicontohkan lewat kerja sama dengan hotel di Pasuruan, Jawa Timur.",
+  "image": "assets/img/telkom-solution-garap-konektivitas-digital-hotel.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T20:19:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479448-telkom-solution-perkuat-konektivitas-digital-industri-perhotelan",
+  "tags": [
+   "Telkom",
+   "Telkom Solution",
+   "Konektivitas Digital",
+   "Perhotelan"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk lewat lini bisnis Telkom Solution memperluas sasaran layanan konektivitas korporatnya ke industri perhotelan, melalui paket Connectivity+ yang berisi Astinet dan Internet Bisnis. Salah satu pelanggan yang disebut memakai layanan ini adalah Surya Hotel & Cottages Prigen di Kabupaten Pasuruan, Jawa Timur, yang mengandalkannya untuk menunjang operasional sehari-hari sekaligus kenyamanan tamu yang menginap. Langkah ini penting dicermati karena menunjukkan bagaimana Telkom menggarap segmen bisnis ke bisnis (B2B) di sektor pariwisata, bukan cuma pelanggan rumah tangga.",
+   "Connectivity+ mengandalkan jaringan fiber optik yang menurut Telkom memberi koneksi internet stabil dengan jangkauan luas dan biaya lebih terjangkau, meski besaran biayanya tidak dirinci dalam keterangan ini. Telkom juga mengutip riset di jurnal Information Technology & Tourism edisi September 2026 yang menyebut ada keterkaitan antara pemanfaatan teknologi digital dengan kinerja industri pariwisata, tanpa merinci metode atau skala penelitiannya. Surya Hotel & Cottages Prigen disebut sudah bermitra dengan Telkom selama 35 tahun, sebuah hubungan bisnis jangka panjang yang menurut pengelola hotel turut berkontribusi membuka lapangan kerja bagi warga sekitar Pasuruan.",
+   "VP Enterprise Marketing & Growth Telkom, Reni Yustiani, menyebut konektivitas digital menjadi fondasi penting bagi pelaku perhotelan untuk menjaga kualitas layanan dan daya saing bisnis. Sejalan dengan itu, Sales & Marketing Manager Surya Hotel & Cottages Prigen, Sawitri, mengatakan koneksi internet yang stabil membuat operasional hotel lebih lancar dan pelayanan ke tamu lebih optimal."
+  ],
+  "fotoAdegan": "Fiber optic network cables being routed near a hotel reception desk, technician working, warm lobby lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/20/6b004855b46bd-telkom-solution-mendukung-kebutuhan-digital-industri-perhotelan-melalui-layanan-connectivity-astinet-dan-internet-bisnis-surya-hotel-cottages-prigen-di-kabupaten-pasuruan-jawa-timur_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah Telkom Solution memperluas pemasaran paket konektivitas B2B, Connectivity+ dengan Astinet dan Internet Bisnis, ke sektor perhotelan, dengan Surya Hotel & Cottages Prigen di Pasuruan sebagai contoh pemakainya. Pihak yang kena dampak langsung adalah pelaku usaha perhotelan dan pariwisata yang jadi target pasar baru segmen bisnis korporat Telkom, terutama di daerah wisata seperti Pasuruan. Namun berita ini pada dasarnya baru berupa studi kasus satu pelanggan, tanpa angka berapa banyak hotel atau pelaku pariwisata lain yang sudah memakai layanan ini, berapa nilai kerja sama, atau seberapa besar kontribusinya terhadap pendapatan unit bisnis enterprise Telkom. Supaya bisa dibaca sebagai tren nyata dan bukan sekadar materi promosi, yang masih dibutuhkan adalah data jumlah pelanggan B2B di segmen hospitality atau kontribusi lini Connectivity+ pada laporan keuangan Telkom di kuartal berikutnya.",
+  "imageV": "mwp12xr4"
+ },
+ {
   "slug": "jmas-defisit-dana-tabarru-rp60-88-m-ekuitas-kurang-modal",
   "category": "Aksi Korporasi",
   "title": "JMAS: Defisit Dana Tabarru Rp60,88 M, [Ekuitas Kurang] Modal",
@@ -796,7 +822,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perbaikan NPI kali ini hampir seluruhnya datang dari neraca dagang, yakni ekspor komoditas yang lebih mahal dan impor migas yang lebih rendah, bukan dari derasnya modal asing yang masuk. Justru sebaliknya, dana asing di surat utang pemerintah, yang disebut investasi portofolio, malah tercatat keluar karena investor global menahan diri di tengah ketidakpastian pasar dunia. Pola ini paling terasa bagi pelaku pasar obligasi pemerintah dan eksportir komoditas, karena kini ekspor menjadi andalan utama penopang arus dolar masuk, bukan lagi investor portofolio. Yang akan menentukan apakah pola ini bertahan atau sekadar sementara adalah data neraca pembayaran triwulan IV 2026 serta pergerakan arus modal asing di pasar surat utang negara pada bulan-bulan mendatang, terutama bila ketidakpastian global mereda.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "rupslb-mari-29-desember-dps-pemegang-saham-dicatat-4-desember",

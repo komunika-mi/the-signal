@@ -3,6 +3,111 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt",
+  "category": "Makroekonomi",
+  "title": "DJP Ingatkan Wajib Pajak [Cermati] Data Bukti Potong SPT",
+  "deck": "Kanwil DJP Kalselteng meminta wajib pajak mengecek ulang data bukti potong PPh di Coretax, setelah sejumlah WP pribadi menghapus data yang sudah terisi otomatis saat lapor SPT Tahunan 2025.",
+  "image": "assets/img/djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T08:09:58.180Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-kalselteng-imbau-wajib-pajak-cermati-data-bukti-potong-pada-spt-tahunan",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [],
+  "body": [
+   "Kantor Wilayah Direktorat Jenderal Pajak Kalimantan Selatan dan Tengah meminta wajib pajak memeriksa ulang data bukti potong pajak penghasilan sebelum menyampaikan SPT Tahunan lewat sistem Coretax DJP. Imbauan ini muncul setelah DJP menemukan sejumlah wajib pajak orang pribadi menghapus data bukti potong, yaitu catatan bahwa sebagian penghasilan mereka sudah dipotong pajak oleh pemberi kerja, yang sebenarnya sudah terisi otomatis di sistem saat mengisi SPT Tahunan PPh tahun pajak 2025. Hal ini penting karena penghasilan dan pajak yang dilaporkan bisa jadi tidak sesuai kondisi sebenarnya kalau data yang dihapus itu ternyata valid.",
+   "DJP sudah mengirim surel resmi ke wajib pajak yang terindikasi menghapus data tersebut. Kanwil DJP Kalselteng menegaskan surel ini sifatnya mengingatkan dan mendidik, bukan surat ketetapan pajak atau penjatuhan sanksi. Kepala Bidang Penyuluhan, Pelayanan, dan Hubungan Masyarakat Kanwil DJP Kalselteng, Moch. Luqman Hakim, menjelaskan bahwa fitur hapus pada draf SPT memang disediakan untuk data yang tidak valid, tercatat ganda, atau berasal dari transaksi yang tidak pernah terjadi. Namun ia mengingatkan, menghapus data dari draf SPT tidak otomatis menghapus data itu dari basis data DJP.",
+   "Wajib pajak disarankan mengunduh ulang daftar bukti potong di Coretax dan mencocokkannya dengan dokumen dari pemberi kerja atau pemotong pajak lain. Kalau ada data yang tidak dikenali atau keliru, wajib pajak diminta minta klarifikasi dan pembetulan kepada pihak pemotong. Sebaliknya, kalau bukti potong yang sudah dihapus itu ternyata sah dan seharusnya dilaporkan, wajib pajak diimbau melakukan pembetulan SPT Tahunan lewat Coretax. Jika pembetulan ini menimbulkan sanksi administrasi akibat kekhilafan, wajib pajak bisa mengajukan permohonan pengurangan atau penghapusan sanksi sesuai Peraturan Menteri Keuangan Nomor 71 Tahun 2026, sepanjang memenuhi syarat yang berlaku.",
+   "Kanwil DJP Kalselteng juga mengingatkan wajib pajak mewaspadai penipuan yang mengatasnamakan DJP, dengan memastikan surel resmi berasal dari domain @pajak.go.id dan tidak pernah membagikan kata sandi atau akses akun ke pihak lain. Informasi lebih lanjut bisa diperoleh lewat Kring Pajak 1500200, layanan live chat di laman pajak.go.id, atau Kantor Pelayanan Pajak terdekat."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2022-06/kringp1x.png",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah bukan aturan baru, melainkan cara DJP mengawasi: sistem Coretax sekarang bisa mendeteksi kalau wajib pajak menghapus data bukti potong yang sudah otomatis terisi, dan DJP menindaklanjutinya lewat surel peringatan, bukan langsung sanksi. Yang terdampak lebih dulu adalah wajib pajak orang pribadi di Kalimantan Selatan dan Tengah yang melaporkan SPT Tahunan PPh 2025, terutama karyawan yang penghasilannya dipotong pajak oleh pemberi kerja. Pendekatan DJP di sini masih lunak, imbauan dulu lalu tawaran keringanan sanksi lewat PMK 71/2026 kalau wajib pajak mau membetulkan sendiri, yang menunjukkan arah pengawasan berbasis pencocokan data otomatis sedang dibangun bertahap sebelum masuk fase yang lebih tegas. Yang akan menentukan apakah ini cuma imbauan musiman menjelang tenggat SPT Tahunan 2025 atau jadi pola pengawasan rutin adalah apakah DJP melanjutkan surel serupa ke wajib pajak di wilayah lain setelah periode pelaporan ini berakhir.",
+  "imageV": "mwopgpno"
+ },
+ {
+  "slug": "penghapusan-sanksi-pajak-100-berakhir-31-desember-2026",
+  "category": "Makroekonomi",
+  "title": "Penghapusan Sanksi Pajak [100%] Berakhir 31 Desember 2026",
+  "deck": "Ditjen Pajak membuka keringanan sanksi administrasi hingga 100 persen bagi wajib pajak yang membereskan SPT atau tunggakan sampai akhir tahun, sebelum besarannya turun bertahap mulai 2027.",
+  "image": "assets/img/penghapusan-sanksi-pajak-100-berakhir-31-desember-2026.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T08:09:57.670Z",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/enam-pekan-tersisa-untuk-hapus-sanksi-pajak-100-persen",
+  "sourceLabel": "Direktorat Jenderal Pajak",
+  "tags": [
+   "Pajak",
+   "PSA",
+   "Coretax",
+   "Jambi"
+  ],
+  "body": [
+   "Direktorat Jenderal Pajak membuka jalan bagi wajib pajak untuk menghapus sanksi administrasi perpajakan hingga 100 persen, tetapi kesempatan penuh itu hanya berlaku sampai 31 Desember 2026. Ketentuan ini disampaikan Kepala Kantor Wilayah DJP Sumatera Barat dan Jambi, Tarmizi, dalam pertemuan dengan 155 wajib pajak dan pimpinan asosiasi usaha di Jambi, Kamis (19/11/2026). Program bernama Pengurangan atau Penghapusan Sanksi Administrasi (PSA) ini berdasar pada Peraturan Menteri Keuangan Nomor 71 Tahun 2026 dan Keputusan Dirjen Pajak Nomor KEP-239/PJ/2026, dan relevan bagi siapa pun yang punya kewajiban pajak tertunggak.",
+   "Besaran keringanan berjenjang menurut waktu penyelesaian. Untuk keterlambatan penyampaian laporan pajak tahunan (SPT) berstatus kurang bayar, sanksinya dihapus 100 persen jika disampaikan antara 8 Oktober hingga 31 Desember 2026, lalu turun jadi 50 persen pada Januari-Maret 2027, dan 25 persen pada April-Juni 2027. Aturan serupa berlaku untuk tunggakan dalam surat ketetapan pajak, dihitung dari tanggal utang pajaknya dilunasi, bukan tanggal permohonan diajukan. Tarmizi menegaskan PSA bukan pemutihan, karena utang pajak pokoknya tetap wajib dibayar lebih dulu sebelum sisa pembayaran dihitung ke sanksi. Permohonan harus diajukan lewat sistem Coretax atau kantor pajak setempat, dilengkapi surat pernyataan bermeterai, paling lambat 1 Oktober 2028.",
+   "Tarmizi juga memaparkan data Kajian Fiskal Regional Provinsi Jambi 2025 untuk menjawab keluhan wajib pajak yang merasa manfaat pajak tidak terasa langsung. Sepanjang 2025, belanja negara di Jambi tercatat Rp22,05 triliun, sementara pajak neto yang terhimpun dari provinsi itu Rp5,42 triliun, atau setiap Rp1 pajak yang dibayar kembali sekitar Rp4 dalam bentuk belanja negara. Sebanyak Rp15,1 triliun dari belanja itu mengalir sebagai transfer ke 12 pemerintah daerah untuk gaji guru, tenaga kesehatan, dan Dana Desa Rp1,13 triliun, sementara kekurangan Rp15,24 triliun ditutup dari penerimaan daerah lain.",
+   "Di tingkat nasional, APBN 2026 menargetkan pendapatan negara Rp3.153,6 triliun, dengan Rp2.357,7 triliun berasal dari pajak, sementara belanja dipatok Rp3.842,7 triliun. Tarmizi menyinggung tekanan dari gejolak geopolitik yang bisa mengganggu pasokan minyak dunia, dengan perkiraan setiap kenaikan harga minyak US$1 per barel menambah defisit APBN sekitar Rp6,8 triliun. Ia menyebut subsidi dan kompensasi energi tahun ini mencapai Rp381 triliun untuk menjaga harga BBM dan tarif listrik rumah tangga, yang menurutnya ditopang penerimaan pajak."
+  ],
+  "fotoAdegan": "Palm oil smallholders and small shop owners waiting at a regional tax service counter in Indonesia, soft morning light",
+  "fotoSumber": "https://pajak.go.id/sites/default/files/2026-11/WhatsApp%20Image%202026-11-19%20at%2020.25.14%20%281%29_0.jpeg?itok=AjSpavBR",
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "takeaway": "Yang berubah konkret adalah ukuran keringanannya sendiri: penghapusan sanksi administrasi pajak turun bertahap, dari 100 persen jika kewajiban diselesaikan sampai 31 Desember 2026, menjadi 50 persen pada awal 2027, dan 25 persen pada pertengahan 2027, setelah itu keringanan ini habis. Yang terdampak adalah wajib pajak yang menunggak laporan pajak tahunan atau punya utang dari surat ketetapan pajak, termasuk pelaku usaha kecil yang dalam sesi dialog mengeluhkan beban pajak begitu usaha mulai untung. Kalau dilihat dari riwayatnya, sejak pengampunan pajak 2016-2017 sampai program pengungkapan sukarela 2022, DJP memang berulang kali memakai keringanan berjangka sebagai pemicu kepatuhan menjelang tenggat, bukan pemutihan permanen, sehingga pola yang terlihat adalah insentif yang terus mengecil ketimbang dihapus sekaligus. Yang akan memastikan apakah pola ini terulang lagi adalah data jumlah permohonan PSA yang masuk sebelum 31 Desember 2026, dan apakah pemerintah merilis skema keringanan baru setelah jenjang 25 persen ini berakhir Juni 2027.",
+  "imageV": "mwopgrbw"
+ },
+ {
+  "slug": "oso-dukung-ruu-obligasi-daerah-gagasan-golkar",
+  "category": "Makroekonomi",
+  "title": "OSO Dukung RUU [Obligasi] Daerah Gagasan Golkar",
+  "deck": "Mantan Ketua DPD OSO mendukung RUU Obligasi Daerah yang disiapkan Fraksi Golkar MPR sebagai alternatif pembiayaan pembangunan daerah.",
+  "image": "assets/img/oso-dukung-ruu-obligasi-daerah-gagasan-golkar.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T14:52:52+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479397-oso-dukung-ruu-obligasi-daerah-yang-disiapkan-golkar-di-mpr",
+  "tags": [
+   "obligasi daerah",
+   "otonomi daerah",
+   "golkar",
+   "oso"
+  ],
+  "body": [
+   "Oesman Sapta Odang, mantan Ketua Dewan Pimpinan Daerah RI periode 2017-2019, menyatakan dukungannya terhadap Rancangan Undang-Undang Obligasi Daerah yang disiapkan Fraksi Partai Golkar di MPR. Dukungan ini penting karena menyangkut kemungkinan pemerintah daerah mendapat sumber dana pembangunan baru, di luar transfer anggaran dari pusat yang selama ini menjadi andalan.",
+   "OSO menyampaikan dukungan itu saat menerima penghargaan Tokoh Pembangunan dan Pejuang Otonomi Daerah dalam ajang detikcom Awards 2026 di The Westin Jakarta, Kamis (19/11/2026). Ia dinilai konsisten mendorong penguatan otonomi daerah dan pemerataan anggaran, termasuk lewat desakan agar Dana Alokasi Umum dan Dana Alokasi Khusus lebih berpihak kepada daerah tertinggal, terdepan, dan terluar.",
+   "Menurut OSO, gagasan obligasi daerah sudah lama ia suarakan dan kembali dibahas bersama Ketua Fraksi Golkar MPR Melchias Marcus Mekeng. Pembahasan itu terjadi dalam Sarasehan Nasional yang digelar Fraksi Golkar MPR pada 18-19 November 2026 di Gedung Nusantara IV, Kompleks Parlemen Senayan, Jakarta, yang sekaligus menjadi momen penyerahan naskah akademik RUU Obligasi Daerah.",
+   "\"Berikan seluas-luasnya dan kesempatan daerah melalui berbagai inisiatif dan instrumen, supaya dana-dana untuk daerah lebih beragam. Sehingga daerah makmur, Indonesia makmur,\" ujar OSO. Ia menegaskan bahwa penguatan otonomi daerah, menurutnya, tidak boleh berhenti karena kemakmuran Indonesia baru tercapai jika seluruh daerah lebih dulu sejahtera."
+  ],
+  "fotoAdegan": "Wide exterior view of Indonesia's parliament complex buildings in Jakarta, flagpoles, overcast afternoon light, no people close to camera.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/20/6afff8e9c0593-oesman-sapta-odang-meraih-penghargaan-sebagai-tokoh-pembangunan-dan-pejuang-otonomi-daerah-dalam-ajang-detikcom-awards-2026-di-the-westin-jakarta-kamis-19112026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar baru di sini baru sebatas naskah akademik, yaitu kajian awal yang jadi dasar sebelum sebuah rancangan undang-undang resmi dibuat, yang diserahkan Fraksi Golkar ke MPR pekan ini. Obligasi daerah sendiri berarti pemerintah daerah berutang langsung ke investor lewat surat utang, bukan hanya mengandalkan transfer dana dari pusat seperti sekarang. Kalau skema ini benar-benar terwujud, yang paling terdampak adalah pemerintah daerah yang kesulitan dana pembangunan serta calon investor yang kelak bisa membeli surat utang tersebut. Berita ini belum menyebut kapan naskah akademik itu akan dibawa jadi rancangan undang-undang resmi, siapa yang menjamin pembayarannya, atau daerah mana yang berpotensi jadi penerbit pertama, sehingga arah kebijakan ini baru bisa terbaca jelas setelah RUU tersebut masuk pembahasan resmi di DPR atau Program Legislasi Nasional.",
+  "imageV": "mwopgrsy"
+ },
+ {
+  "slug": "bank-bjb-raih-liputan6-good-impact-award-untuk-umkm",
+  "category": "UMKM",
+  "title": "Bank BJB Raih Liputan6 Good Impact Award untuk [UMKM]",
+  "deck": "Bank BJB menerima Liputan6 Good Impact Award 2026 untuk program pemberdayaan UMKM, diterima langsung oleh Budiatmo Sudrajat di tengah hadirnya dua menteri.",
+  "image": "assets/img/bank-bjb-raih-liputan6-good-impact-award-untuk-umkm.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T13:59:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479388-bank-bjb-raih-liputan6-good-impact-award-2026-bukti-nyata-dorong-ekonomi-umkm",
+  "tags": [
+   "Bank BJB",
+   "UMKM",
+   "Liputan6 Good Impact Award",
+   "PESAT"
+  ],
+  "body": [
+   "Bank BJB kembali mendapat pengakuan eksternal atas program pemberdayaan usaha kecilnya, kali ini lewat Liputan6 Good Impact Award 2026 pada kategori Dampak Program UMKM dan Kewirausahaan Terbaik. Penghargaan yang diserahkan Kamis, 19 November 2026 ini menegaskan klaim bank daerah tersebut bahwa program pembiayaan UMKM mereka membawa dampak nyata bagi perekonomian masyarakat, bukan sekadar penyaluran kredit rutin.",
+   "Penghargaan diterima oleh Budiatmo Sudrajat, Pemimpin Divisi Kredit UMKM Bank BJB, dalam acara yang juga dihadiri Menteri Sosial Saifullah Yusuf dan Menteri Dalam Negeri Tito Karnavian. Kehadiran dua menteri tersebut menunjukkan acara ini mendapat perhatian dari pemerintah pusat, meski berita ini tidak merinci peran keduanya dalam penjurian atau penyelenggaraan acara.",
+   "Dasar penghargaan ini adalah program bernama Pemberdayaan Ekonomi Masyarakat Terpadu, atau PESAT, yang menggabungkan penyaluran pembiayaan dengan pelatihan kapasitas usaha, penguatan pengetahuan bisnis, dan perluasan akses pasar bagi pelaku UMKM. Lewat pendekatan ini, Bank BJB ingin pelaku usaha kecil tidak berhenti sebagai penerima kredit, tetapi juga naik level menjadi pengusaha yang punya kemampuan mengelola bisnis dan memperluas skala usahanya sendiri.",
+   "Budiatmo menyampaikan bahwa penghargaan ini menjadi pendorong bagi Bank BJB untuk terus memperbesar kontribusinya dalam mendukung dunia usaha. Bank BJB juga menilai akses pembiayaan perlu dibarengi edukasi pengelolaan keuangan, agar layanan perbankan tidak hanya mempermudah pencairan dana tetapi juga mendorong produktivitas dan membuka peluang ekonomi baru bagi nasabahnya."
+  ],
+  "fotoAdegan": "A small shop owner arranging goods on wooden shelves while a visitor in formal attire reviews a notebook nearby, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/20/6affecefcf866-bank-bjb-raih-liputan6-good-impact-award-2026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang benar-benar berubah di sini hanya status pengakuan, bukan kebijakan atau angka bisnis baru: Bank BJB menerima penghargaan untuk program pemberdayaan UMKM bernama PESAT, tanpa rincian berapa banyak UMKM yang sudah ikut program ini atau berapa nilai pembiayaan yang sudah disalurkan lewat jalur tersebut. Pihak yang disebut terdampak adalah nasabah UMKM Bank BJB yang jadi sasaran pelatihan dan pembiayaan itu, tapi berita ini tidak menyebut skala dampaknya di lapangan. Untuk bisa menilai apakah program ini benar membuat usaha kecil naik kelas atau baru sebatas materi penghargaan, pembaca perlu angka konkret seperti jumlah UMKM binaan, nilai kredit yang mengalir lewat PESAT, dan tingkat usaha yang tetap berjalan setelah ikut program. Angka semacam itu biasanya baru muncul di laporan tahunan atau laporan keuangan kuartalan Bank BJB, jadi itu yang perlu ditunggu sebelum penghargaan ini bisa dibaca sebagai bukti dampak nyata.",
+  "imageV": "mwopgs7k"
+ },
+ {
   "slug": "public-expose-sema-7-desember-online-bahas-kinerja-2027",
   "category": "Aksi Korporasi",
   "title": "Public Expose SEMA 7 Desember: [Online] Bahas Kinerja 2027",
@@ -87,6 +192,32 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-500-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.500.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp11.000 menjadi Rp2.500.000 per gram pada 20 November 2026, sementara harga buyback ikut melemah ke Rp2.145.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-500-000-gram.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T11:00:59+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479367-merosot-lagi-harga-emas-antam-hari-ini-20-november-2026-rp2500000-per-gram",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "body": [
+   "Harga emas batangan Antam kembali turun pada Jumat, 20 November 2026. Berdasarkan data Logam Mulia pukul 10.08 WIB, harga emas Antam melemah Rp11.000 dari Rp2.511.000 menjadi Rp2.500.000 per gram.",
+   "Penurunan tidak hanya terjadi pada harga jual. Harga buyback, yaitu harga ketika Antam membeli kembali emas dari pemilik, juga ikut turun ke Rp2.145.000 per gram.",
+   "Perlu dicatat, harga emas batangan Antam bisa berubah sewaktu-waktu dalam satu hari, mengikuti pergerakan pasar. Angka yang tercatat pagi ini belum tentu sama dengan harga pada sore atau keesokan harinya."
+  ],
+  "fotoAdegan": "Rows of small gold bullion bars stacked under soft lighting inside a jewelry store display cabinet",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2025/03/20/67dbcd5e179d5-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini cuma angka hariannya: harga jual emas Antam turun Rp11.000 jadi Rp2.500.000 per gram, dan harga buyback, yaitu harga ketika Antam membeli kembali emas dari pemiliknya, ikut turun ke Rp2.145.000 per gram. Yang kena dampak langsung adalah pemilik emas Antam yang berencana menjualnya hari ini, karena mereka menerima lebih sedikit dibanding kemarin, serta calon pembeli yang bisa masuk dengan harga sedikit lebih murah. Data yang ada hanya potret satu hari dan belum menunjukkan apakah ini awal tren turun yang berlanjut atau sekadar koreksi sesaat, sebab tidak ada informasi soal harga emas dunia atau kurs rupiah yang biasanya menjadi penggerak utama. Yang perlu dipantau adalah harga emas Antam dalam beberapa hari ke depan serta pergerakan harga emas internasional, untuk melihat apakah pelemahan ini berlanjut atau berbalik arah.",
+  "imageV": "mwopgsbl"
+ },
+ {
   "slug": "neraca-pembayaran-ri-surplus-tipis-di-triwulan-iii-2026",
   "category": "Makroekonomi",
   "title": "Neraca Pembayaran RI [Surplus] Tipis di Triwulan III 2026",
@@ -112,7 +243,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perbaikan NPI kali ini hampir seluruhnya datang dari neraca dagang, yakni ekspor komoditas yang lebih mahal dan impor migas yang lebih rendah, bukan dari derasnya modal asing yang masuk. Justru sebaliknya, dana asing di surat utang pemerintah, yang disebut investasi portofolio, malah tercatat keluar karena investor global menahan diri di tengah ketidakpastian pasar dunia. Pola ini paling terasa bagi pelaku pasar obligasi pemerintah dan eksportir komoditas, karena kini ekspor menjadi andalan utama penopang arus dolar masuk, bukan lagi investor portofolio. Yang akan menentukan apakah pola ini bertahan atau sekadar sementara adalah data neraca pembayaran triwulan IV 2026 serta pergerakan arus modal asing di pasar surat utang negara pada bulan-bulan mendatang, terutama bila ketidakpastian global mereda.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "rupslb-mari-29-desember-dps-pemegang-saham-dicatat-4-desember",

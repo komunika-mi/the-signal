@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "tfa5d9MHNXU",
+  "title": "Pramono Tetapkan UMP Jakarta 2027 Rp6,1 Juta",
+  "category": "Ketenagakerjaan",
+  "program": "AKIS",
+  "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi (UMP) Jakarta 2027 sebesar Rp6,1 juta, yang akan menjadi acuan pengupahan bagi pekerja dan pengusaha di ibu kota.",
+  "takeaway": "Angka UMP ini penting dipantau karena berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja pelaku usaha di Jakarta.",
+  "terbit": "2026-11-20T07:21:22+00:00"
+ },
+ {
   "id": "A8yuRJBvzbY",
   "title": "Koperasi Desa Merah Putih Dorong Ekonomi Nasional",
   "category": "UMKM",

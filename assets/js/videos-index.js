@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "tfa5d9MHNXU",
+  "title": "Pramono Tetapkan UMP Jakarta 2027 Rp6,1 Juta",
+  "category": "Ketenagakerjaan",
+  "program": "AKIS",
+  "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi (UMP) Jakarta 2027 sebesar Rp6,1 juta, yang akan menjadi acuan pengupahan bagi pekerja dan pengusaha di ibu kota.",
+  "takeaway": "Angka UMP ini penting dipantau karena berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja pelaku usaha di Jakarta."
+ },
+ {
   "id": "A8yuRJBvzbY",
   "title": "Koperasi Desa Merah Putih Dorong Ekonomi Nasional",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Pekerja dengan gaji di atas Rp3,5 juta disebut masih berpeluang memenuhi syarat sebagai penerima Bantuan Subsidi Upah atau BSU 2026 berdasarkan aturan terbaru dari pemerintah.",
   "takeaway": "Informasi ini relevan bagi pekerja yang ingin memastikan kelayakan mereka menerima subsidi upah tahun depan."
- },
- {
-  "id": "zh2MBG9HTj0",
-  "title": "Pemerintah Luncurkan Program Gentengisasi dan Kredit Rumah",
-  "category": "Bisnis",
-  "program": "AKAP tvOne",
-  "summary": "Kementerian Perumahan dan Kawasan Permukiman memulai program gentengisasi dengan mengirim 2,4 juta genteng ke sejumlah daerah, disertai skema kredit rumah bagi masyarakat.",
-  "takeaway": "Program ini menyangkut kebijakan pembiayaan perumahan yang berdampak pada sektor perbankan dan industri material bangunan."
  }
 ];

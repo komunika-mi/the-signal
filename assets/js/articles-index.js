@@ -5,6 +5,71 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt",
+  "category": "Makroekonomi",
+  "title": "DJP Ingatkan Wajib Pajak [Cermati] Data Bukti Potong SPT",
+  "deck": "Kanwil DJP Kalselteng meminta wajib pajak mengecek ulang data bukti potong PPh di Coretax, setelah sejumlah WP pribadi menghapus data yang sudah terisi otomatis saat lapor SPT Tahunan 2025.",
+  "date": "20 November 2026",
+  "image": "assets/img/djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt.jpg",
+  "imageV": "mwopgpno",
+  "tags": [],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-kalselteng-imbau-wajib-pajak-cermati-data-bukti-potong-pada-spt-tahunan",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "penghapusan-sanksi-pajak-100-berakhir-31-desember-2026",
+  "category": "Makroekonomi",
+  "title": "Penghapusan Sanksi Pajak [100%] Berakhir 31 Desember 2026",
+  "deck": "Ditjen Pajak membuka keringanan sanksi administrasi hingga 100 persen bagi wajib pajak yang membereskan SPT atau tunggakan sampai akhir tahun, sebelum besarannya turun bertahap mulai 2027.",
+  "date": "20 November 2026",
+  "image": "assets/img/penghapusan-sanksi-pajak-100-berakhir-31-desember-2026.jpg",
+  "imageV": "mwopgrbw",
+  "tags": [
+   "Pajak",
+   "PSA",
+   "Coretax",
+   "Jambi"
+  ],
+  "kreditFoto": "Direktorat Jenderal Pajak",
+  "sourceUrl": "https://pajak.go.id/id/siaran-pers/enam-pekan-tersisa-untuk-hapus-sanksi-pajak-100-persen",
+  "sourceLabel": "Direktorat Jenderal Pajak"
+ },
+ {
+  "slug": "oso-dukung-ruu-obligasi-daerah-gagasan-golkar",
+  "category": "Makroekonomi",
+  "title": "OSO Dukung RUU [Obligasi] Daerah Gagasan Golkar",
+  "deck": "Mantan Ketua DPD OSO mendukung RUU Obligasi Daerah yang disiapkan Fraksi Golkar MPR sebagai alternatif pembiayaan pembangunan daerah.",
+  "date": "20 November 2026",
+  "image": "assets/img/oso-dukung-ruu-obligasi-daerah-gagasan-golkar.jpg",
+  "imageV": "mwopgrsy",
+  "tags": [
+   "obligasi daerah",
+   "otonomi daerah",
+   "golkar",
+   "oso"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479397-oso-dukung-ruu-obligasi-daerah-yang-disiapkan-golkar-di-mpr"
+ },
+ {
+  "slug": "bank-bjb-raih-liputan6-good-impact-award-untuk-umkm",
+  "category": "UMKM",
+  "title": "Bank BJB Raih Liputan6 Good Impact Award untuk [UMKM]",
+  "deck": "Bank BJB menerima Liputan6 Good Impact Award 2026 untuk program pemberdayaan UMKM, diterima langsung oleh Budiatmo Sudrajat di tengah hadirnya dua menteri.",
+  "date": "20 November 2026",
+  "image": "assets/img/bank-bjb-raih-liputan6-good-impact-award-untuk-umkm.jpg",
+  "imageV": "mwopgs7k",
+  "tags": [
+   "Bank BJB",
+   "UMKM",
+   "Liputan6 Good Impact Award",
+   "PESAT"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479388-bank-bjb-raih-liputan6-good-impact-award-2026-bukti-nyata-dorong-ekonomi-umkm"
+ },
+ {
   "slug": "public-expose-sema-7-desember-online-bahas-kinerja-2027",
   "category": "Aksi Korporasi",
   "title": "Public Expose SEMA 7 Desember: [Online] Bahas Kinerja 2027",
@@ -35,6 +100,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2d7837a6dc_fe7d0f6b13.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-ke-rp2-500-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam [Turun] Lagi ke Rp2.500.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp11.000 menjadi Rp2.500.000 per gram pada 20 November 2026, sementara harga buyback ikut melemah ke Rp2.145.000 per gram.",
+  "date": "20 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-ke-rp2-500-000-gram.jpg",
+  "imageV": "mwopgsbl",
+  "tags": [
+   "emas",
+   "antam",
+   "harga emas",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479367-merosot-lagi-harga-emas-antam-hari-ini-20-november-2026-rp2500000-per-gram"
  },
  {
   "slug": "neraca-pembayaran-ri-surplus-tipis-di-triwulan-iii-2026",
@@ -6444,86 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7210/wamenko-dradjad-transformasi-digital-harus-lebih-tepat-sasaran-efisien-dan-memiliki-akses-luas",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "rupo-ptpp-10-november-obligasi-restrukturisasi-bunga-ditolak",
-  "category": "Aksi Korporasi",
-  "title": "RUPO PTPP 10 November: [Obligasi] Restrukturisasi Bunga Ditolak",
-  "deck": "Pemegang obligasi PTPP Seri B menolak dua opsi restrukturisasi bunga, termasuk penundaan pembayaran hingga 2027, dalam RUPO 10 November 2026.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "obligasi",
-   "RUPO",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5095b56510_49f21af8ea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ptpp-pemegang-sukuk-tolak-usulan-penundaan-bagi-hasil",
-  "category": "Aksi Korporasi",
-  "title": "PTPP: Pemegang Sukuk [Tolak] Usulan Penundaan Bagi Hasil",
-  "deck": "RUPSu sukuk PTPP menolak seluruh usulan restrukturisasi bagi hasil ke-18 yang telat dibayar, dengan suara menolak hingga 98,26 persen pada salah satu usulan.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "sukuk",
-   "RUPSu",
-   "gagal bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/360c301962_2636363437.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtfn-panggil-rupst-kedua-usai-kuorum-pertama-gagal",
-  "category": "Aksi Korporasi",
-  "title": "MTFN Panggil RUPST Kedua usai [Kuorum] Pertama Gagal",
-  "deck": "Rapat pertama Capitalinc Investment pada 6 November gagal kuorum, sehingga pemegang saham dipanggil lagi 18 November untuk membahas laporan tahunan, keputusan tanpa dividen, dan perpanjangan masa jabatan direksi-komisaris.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTFN",
-   "RUPST",
-   "Capitalinc Investment",
-   "dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/701ea495ce_ec2560b5f6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "trading-vs-investasi-beda-waktu-biaya-dan-risiko",
-  "category": "Pasar Modal",
-  "title": "Trading vs Investasi: Beda Waktu, Biaya, dan [Risiko]",
-  "deck": "Trading dan investasi sering dikira sama, padahal beda horizon waktu, biaya, dan risiko, penting diketahui investor baru saat IHSG anjlok 34,74 persen pada semester satu 2026.",
-  "date": "11 November 2026",
-  "image": "assets/img/trading-vs-investasi-beda-waktu-biaya-dan-risiko.jpg",
-  "imageV": "mwbq4k92",
-  "tags": [
-   "trading",
-   "investasi",
-   "IHSG",
-   "OJK"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477763-apa-itu-trading-dan-apa-bedanya-dengan-investasi-ini-perbedaan-horizon-waktu-biaya-dan-risiko"
- },
- {
-  "slug": "rupslb-giaa-6-november-rombak-direksi-komisaris-dikonfirmasi",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB GIAA 6 November: [Rombak] Direksi-Komisaris Dikonfirmasi",
-  "deck": "Garuda Indonesia membenarkan RUPSLB 6 November 2026 mengubah susunan Direksi dan Komisaris, usulan pemegang Saham Seri A Dwiwarna yang mewakili negara.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "RUPSLB",
-   "Direksi",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2a39a87629_67c95896a7.pdf",
-  "sourceLabel": "IDX"
  }
 ];

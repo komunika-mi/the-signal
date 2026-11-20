@@ -356,6 +356,255 @@ var ARTICLES = [
   "judulIdx": "Laporan Informasi Terkait Transaksi Afiliasi"
  },
  {
+  "slug": "tspc-transaksi-afiliasi-tus-terbitkan-saham-rp50-miliar-ke-bcl",
+  "category": "Aksi Korporasi",
+  "title": "TSPC: [Transaksi Afiliasi] TUS Terbitkan Saham Rp50 Miliar ke BCL",
+  "deck": "TUS, anak usaha TSPC, menerbitkan 50.000 saham baru senilai Rp50 miliar yang seluruhnya diambil BCL, sesama anak usaha TSPC, sehingga BCL kini menguasai 99,99% saham TUS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:34:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/09e2e8b2b2_71ca1ed758.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TSPC",
+  "tags": [
+   "TSPC",
+   "transaksi afiliasi",
+   "Tempo Scan Pacific",
+   "restrukturisasi internal"
+  ],
+  "body": [
+   "Tempo Scan Pacific Tbk (TSPC) melaporkan transaksi afiliasi dengan tanggal kejadian 18 November 2026. Berdasarkan Akta No. 13 tanggal 13 November 2026 yang dibuat di hadapan notaris Irene Yulia, dan disahkan Kementerian Hukum lewat Surat Keputusan No. AHU-0133820.AH.01.02.Tahun 2026 tanggal 18 November 2026, PT Tempo Utama Sejahtera (TUS), entitas anak TSPC, menambah modal ditempatkan dan disetor dengan menerbitkan 50.000 saham baru bernilai nominal total Rp50 miliar.",
+   "Seluruh saham baru tersebut diambil oleh PT Barclay Products (BCL), yang juga entitas anak TSPC. Sementara itu, PT Tempo Nagadi (TN), entitas anak TSPC lainnya yang juga memegang saham TUS, melepaskan haknya untuk ikut mengambil bagian atas saham baru itu. Akibatnya, susunan pemegang saham TUS berubah menjadi BCL sebanyak 89.999 saham atau 99,99 persen dari modal ditempatkan TUS senilai Rp89.999 miliar, dan TN tersisa 1 saham atau 0,01 persen senilai Rp1 juta.",
+   "TUS, BCL, dan TN sama-sama dimiliki penuh atau 100 persen oleh TSPC, sehingga transaksi ini digolongkan sebagai transaksi afiliasi yang wajib diumumkan ke Otoritas Jasa Keuangan. Manajemen TSPC menyatakan tidak ada transaksi pembanding yang sejenis karena tujuan transaksi ini murni untuk menambah modal anak usaha, dan transaksi ini dinyatakan tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha TSPC."
+  ],
+  "fotoAdegan": "Pharmaceutical warehouse interior with stacked medicine boxes on pallets, workers operating forklifts under bright industrial lighting",
+  "takeaway": "Transaksi ini netral bagi pemegang saham publik TSPC, karena dana Rp50 miliar itu hanya berpindah di antara entitas yang seluruhnya masih dikuasai penuh oleh TSPC sendiri, tanpa ada uang yang keluar dari kelompok usaha. Yang tersentuh hanya struktur permodalan internal, yaitu komposisi kepemilikan saham di anak usaha TUS antara BCL dan TN, bukan ekuitas atau laba konsolidasi TSPC yang dilaporkan ke publik. Istilah transaksi afiliasi sendiri berarti transaksi antara pihak-pihak yang masih berada dalam satu kelompok pemilik yang sama, sehingga tetap wajib diumumkan meski secara ekonomi tidak mengubah apa pun bagi induk usaha. Ini merupakan laporan reorganisasi internal kedua dari TSPC dalam pekan yang sama, setelah sebelumnya ada suntikan modal Rp60 miliar ke Tempo Land, yang menunjukkan perusahaan sedang merapikan struktur permodalan beberapa anak usahanya sekaligus. Yang perlu dipantau adalah apakah TSPC masih akan menerbitkan laporan serupa dari anak usaha lain dalam waktu dekat, karena pola reorganisasi semacam ini biasanya berlanjut dalam rangkaian, bukan berdiri sendiri.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Laporan Informasi Terkait Transaksi Afiliasi"
+ },
+ {
+  "slug": "tspc-suntik-modal-rp40-miliar-ke-pli-saham-jadi-94-44",
+  "category": "Aksi Korporasi",
+  "title": "TSPC [Suntik Modal] Rp40 Miliar ke PLI, Saham Jadi 94,44%",
+  "deck": "TSPC mengambil seluruh 40.000 saham baru anak usahanya, PT Polari Limunusainti, senilai Rp40 miliar, sementara dua anak usaha lain melepas haknya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:33:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6217f92695_5f781ae54e.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TSPC",
+  "tags": [
+   "TSPC",
+   "transaksi afiliasi",
+   "anak usaha",
+   "Polari Limunusainti"
+  ],
+  "body": [
+   "Tempo Scan Pacific Tbk (TSPC) melaporkan kepada Otoritas Jasa Keuangan bahwa pada 18 November 2026 perseroan mengambil bagian atas seluruh 40.000 saham baru yang diterbitkan anak usahanya, PT Polari Limunusainti (PLI), dengan nilai nominal total Rp40 miliar. Penerbitan saham baru ini merupakan peningkatan modal ditempatkan dan disetor PLI berdasarkan Akta No. 14 tanggal 13 November 2026 yang dibuat di hadapan notaris Irene Yulia, SH, dan telah disetujui Kementerian Hukum lewat Surat Keputusan No. AHU-0133811.AH.01.02.Tahun 2026 pada tanggal yang sama dengan tanggal kejadian.",
+   "Dua anak usaha TSPC lainnya yang juga menjadi pemegang saham PLI, yaitu PT Tempo Natural Products (TNP) dan PT Supra Ferbindo Farma (SFF), melepaskan hak mereka untuk mengambil bagian atas saham baru tersebut. Akibatnya, susunan pemegang saham PLI setelah peningkatan modal berubah menjadi: TSPC memegang 85.000 saham senilai Rp85 miliar atau 94,44 persen dari modal ditempatkan, TNP memegang 4.850 saham senilai Rp4,85 miliar atau 5,39 persen, dan SFF memegang 150 saham senilai Rp150 juta atau 0,17 persen.",
+   "TSPC menyebut transaksi ini sebagai transaksi afiliasi karena PLI, TNP, dan SFF seluruhnya adalah entitas anak yang sahamnya secara efektif dimiliki 100 persen oleh TSPC. Manajemen menyatakan tidak ada transaksi sejenis dengan pihak tidak terafiliasi yang bisa dijadikan pembanding, karena tujuan transaksi memang untuk menambah modal di anak usaha sendiri. Perseroan menegaskan transaksi ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha TSPC."
+  ],
+  "fotoAdegan": "Workers in white lab coats inspecting equipment on a pharmaceutical production line inside an Indonesian factory",
+  "takeaway": "Transaksi ini netral bagi pemegang saham publik TSPC, karena uang Rp40 miliar yang dipakai membeli saham baru PLI hanya berpindah di antara entitas yang seluruhnya dikuasai TSPC sendiri, sehingga porsi kepemilikan pihak luar tidak berubah dan tidak ada dilusi bagi pemegang saham publik. Yang tersentuh adalah arus kas TSPC, karena kas sebesar Rp40 miliar keluar untuk disuntikkan ke anak usaha, meski di laporan keuangan konsolidasi dampaknya nihil sebab PLI, TNP, dan SFF tetap tercatat seluruhnya milik TSPC. Dokumen ini tidak menyebut agenda korporasi lanjutan seperti RUPS atau tanggal efektif baru, sehingga yang perlu dipantau adalah apakah suntikan modal serupa ke anak usaha lain dalam grup Tempo Scan kembali muncul di laporan keuangan konsolidasi berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Laporan Informasi Terkait Transaksi Afiliasi"
+ },
+ {
+  "slug": "public-expose-pnbn-25-nov-laba-3q26-naik-3-jadi-rp2-26-t",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PNBN 25 Nov: [Laba] 3Q26 Naik 3% jadi Rp2,26 T",
+  "deck": "Bank Panin menggelar Public Expose tahunan 25 November 2026, memaparkan laba bersih sembilan bulan 2026 Rp2,26 triliun, naik 3 persen secara tahunan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:28:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c985365d6f_ca65f43309.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNBN",
+  "tags": [
+   "PNBN",
+   "Bank Panin",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "PT Bank Pan Indonesia Tbk (PNBN) alias Panin Bank akan menggelar Public Expose Tahunan pada Rabu, 25 November 2026, pukul 10.30 WIB di Gedung PaninBank Lantai 4, Jalan Jenderal Sudirman, Senayan, Jakarta Pusat. Materi paparan telah disampaikan ke Bursa Efek Indonesia oleh Corporate Secretary Jasman Ginting Munthe, merujuk pada surat direksi perseroan tertanggal 11 November 2026.",
+   "Dalam materi tersebut, Panin Bank memaparkan kinerja sembilan bulan pertama 2026. Total aset perusahaan tercatat Rp232,66 triliun per September 2026, naik 2,65 persen dibandingkan periode yang sama tahun lalu sebesar Rp226,64 triliun. Total kredit nyaris stagnan di Rp142,36 triliun, sementara dana pihak ketiga turun tipis 0,14 persen menjadi Rp149,79 triliun. Laba bersih periode berjalan naik 3 persen menjadi Rp2,26 triliun dari Rp2,2 triliun setahun sebelumnya. Namun laba komprehensif, yang sudah memasukkan perubahan nilai surat berharga yang belum direalisasikan, merosot 87 persen menjadi Rp369 miliar dari Rp2,94 triliun, akibat beban komprehensif lain senilai Rp1,89 triliun dibandingkan keuntungan Rp744 miliar pada periode sebelumnya.",
+   "Dari sisi rasio, kecukupan modal (CAR) konsolidasi tercatat 36,65 persen per September 2026, turun dari 37,45 persen setahun sebelumnya namun masih jauh di atas batas minimum yang ditetapkan regulator. Rasio kredit bermasalah (NPL) gross turun menjadi 3,04 persen dari 3,16 persen, sementara NPL netto naik tipis menjadi 1,13 persen dari 1,11 persen. Komposisi kredit masih didominasi segmen ritel dan UKM sebesar 58 persen, dan rasio dana murah (CASA) naik dari 40 persen menjadi 41 persen dibandingkan Desember 2025.",
+   "Materi itu juga mencantumkan struktur pemegang saham per September 2026: PT Panin Financial Tbk menguasai 46,04 persen saham, ANZ melalui Votraint memegang 38,82 persen, publik 15,08 persen, dan sisanya 0,06 persen berupa saham treasuri. Per 19 November 2026, harga saham PNBN berada di Rp790 per lembar dengan total 24,09 miliar saham beredar, setara kapitalisasi pasar sekitar Rp19,03 triliun atau sekitar US$1,04 miliar."
+  ],
+  "fotoAdegan": "Bank tellers assisting customers at service counters inside a busy Indonesian bank branch, soft natural daylight.",
+  "takeaway": "Materi ini netral bagi Panin Bank: kinerja inti masih tumbuh tipis, tapi ada satu sinyal yang perlu dicermati. Laba bersih sembilan bulan 2026 naik 3 persen jadi Rp2,26 triliun, namun laba komprehensif, yaitu laba bersih yang sudah ditambah atau dikurangi untung-rugi dari surat berharga yang belum dijual bank, justru longsor 87 persen jadi Rp369 miliar dari Rp2,94 triliun, karena beban komprehensif lain Rp1,89 triliun yang langsung mengurangi ekuitas perusahaan meski tidak tercatat sebagai rugi operasional. Permodalan bank tetap sangat tebal dengan rasio kecukupan modal 36,65 persen, jauh di atas batas minimum, sehingga kemampuan menyerap risiko belum terganggu. Yang perlu dipantau adalah paparan manajemen dalam Public Expose 25 November 2026, termasuk penjelasan soal penurunan laba komprehensif ini dan proyeksi kinerja sampai akhir tahun.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Public Expose Tahunan Bank Panin"
+   }
+  ]
+ },
+ {
+  "slug": "tgka-jual-60-saham-tira-cipta-logistik-ke-japfa-food-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "TGKA Jual 60% Saham Tira Cipta Logistik ke Japfa Food [Divestasi]",
+  "deck": "TGKA menjual 60 persen saham PT Tira Cipta Logistik dan 1 persen PT Tira Cipta Transportasi ke PT Japfa Food Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:27:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8f69207c83_927a5d79e9.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TGKA",
+  "tags": [
+   "TGKA",
+   "divestasi",
+   "Japfa Food Indonesia",
+   "Tira Cipta Logistik"
+  ],
+  "body": [
+   "PT Tigaraksa Satria Tbk (TGKA) menandatangani Perjanjian Jual Beli Saham Bersyarat pada 20 November 2026 untuk menjual 168.000 lembar saham atau 60 persen kepemilikannya di PT Tira Cipta Logistik, serta 100 lembar saham atau 1 persen kepemilikannya di PT Tira Cipta Transportasi, kepada PT Japfa Food Indonesia. Perusahaan menyebut langkah ini bertujuan agar TGKA bisa fokus pada bisnis penjualan dan distribusi, sekaligus melepas kegiatan logistik dan transportasi rantai dingin (cold chain) yang selama ini dijalankan lewat dua anak usaha tersebut.",
+   "Penyelesaian transaksi baru akan dilakukan lewat penandatanganan akta jual beli saham secara notariil, setelah seluruh syarat pendahuluan dalam perjanjian terpenuhi atau dikesampingkan. TGKA tidak mengungkapkan nilai transaksi dalam laporan ini. Perusahaan menegaskan transaksi ini bukan Transaksi Material menurut POJK 17/2020 karena nilainya di bawah ambang batas yang dihitung dari laporan keuangan tahunan 2025 teraudit, bukan Transaksi Afiliasi karena PT Japfa Food Indonesia bukan pihak terafiliasi TGKA, dan tidak mengandung benturan kepentingan direksi, komisaris, atau pemegang saham utama.",
+   "TGKA menyatakan transaksi ini tidak berdampak negatif terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Refrigerated delivery trucks parked in a logistics warehouse yard, workers loading boxes, early morning light",
+  "takeaway": "Transaksi ini kami nilai netral bagi TGKA karena nilai jual sahamnya tidak diungkapkan, dan perusahaan sendiri menyebut ukurannya masih di bawah ambang batas Transaksi Material, sehingga dampaknya pada keuangan konsolidasi kemungkinan tidak besar. Pos yang tersentuh adalah aset dan ekuitas TGKA dalam laporan keuangan konsolidasi, karena begitu transaksi tuntas, kepemilikan di dua anak usaha ini akan hilang atau berkurang drastis dari pembukuan induk, dan pelaku pasar biasanya mencermati pos ini untuk melihat apakah pelepasan anak usaha mendatangkan untung atau rugi bagi TGKA. Yang perlu dipantau selanjutnya adalah penandatanganan akta jual beli saham secara notariil, yang menurut dokumen ini baru terjadi setelah seluruh syarat pendahuluan terpenuhi atau dikesampingkan, sementara TGKA belum mencantumkan tanggal pasti maupun nilai transaksinya di laporan ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Laporan Informasi atau Fakta Material Keterbukaan Informasi Penjualan Kepemilikan Saham Perseroan pada PT Tira Cipta Logistik dan PT Tira Cipta Transportasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Penandatanganan Perjanjian Jual Beli Saham Bersyarat"
+   }
+  ]
+ },
+ {
+  "slug": "obligasi-medc-seri-b-jatuh-tempo-23-november-pelunasan-rp58-2-m",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi MEDC Seri B Jatuh Tempo 23 November: [Pelunasan] Rp58,2 M",
+  "deck": "Obligasi Berkelanjutan IV Medco Energi Tahap II Seri B senilai Rp58,195 miliar jatuh tempo 23 November 2026 dan langsung delisting dari BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:27:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8b3df6a7ca_1eb31316cb.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MEDC",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "body": [
+   "PT Medco Energi Internasional Tbk (MEDC) akan melunasi pokok Obligasi Berkelanjutan IV Medco Energi Internasional Tahap II Tahun 2021 Seri B dengan kode MEDC04BCN2 pada 23 November 2026. Nilai obligasi seri ini sebesar Rp58,195 miliar, bagian dari total penerbitan Tahap II senilai Rp1 triliun yang terdiri dari Seri A dan Seri B. Bursa Efek Indonesia mengumumkan bahwa mulai tanggal yang sama, obligasi ini tidak lagi tercatat dan tidak bisa diperdagangkan di bursa.",
+   "Obligasi Seri B ini diterbitkan pada 23 November 2021 dengan tenor 60 bulan atau lima tahun, membawa kupon bunga tetap 8,50 persen per tahun yang dibayarkan setiap tiga bulan. Pembayaran pokoknya menggunakan skema bullet payment, artinya seluruh pokok Rp58,195 miliar dibayar sekaligus di tanggal jatuh tempo, bukan dicicil selama masa obligasi berjalan. Saat diterbitkan, obligasi ini mendapat peringkat idA+ dari Pefindo.",
+   "Penerbitan ini merupakan bagian dari program penawaran umum berkelanjutan Medco dengan target total dana Rp5 triliun. Seri A dari tahap yang sama, senilai Rp941,805 miliar dengan kupon 7,75 persen, sudah jatuh tempo dan dilunasi lebih dulu pada 23 November 2024. Dokumen menyebut tahap-tahap selanjutnya dari program ini akan ditentukan kemudian."
+  ],
+  "fotoAdegan": "Wide shot of an offshore oil platform at dusk with a support vessel nearby, calm sea, industrial pipework visible",
+  "takeaway": "Penilaian saya netral, karena ini pelunasan utang yang jadwalnya sudah ditentukan sejak penerbitan lima tahun lalu, bukan kabar baru tentang kondisi keuangan Medco saat ini. Yang tersentuh adalah pos utang dan arus kas perusahaan, karena Medco harus mengeluarkan dana Rp58,195 miliar sekaligus untuk melunasi pokok obligasi ini, sementara di sisi lain beban utang jangka panjangnya berkurang setelah pelunasan selesai. Yang perlu dipantau adalah tanggal 23 November 2026 itu sendiri sebagai hari pelunasan dan delisting dari bursa, serta apakah Medco nantinya mengumumkan penerbitan obligasi tahap berikutnya dari program senilai Rp5 triliun ini sebagai pengganti pendanaan yang jatuh tempo.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Jatuh Tempo Obligasi / Sukuk Korporasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pelunasan pokok obligasi Seri B dan delisting dari BEI"
+   }
+  ]
+ },
+ {
+  "slug": "btpn-rencanakan-go-private-dan-delisting-rupslb-30-november",
+  "category": "Aksi Korporasi",
+  "title": "BTPN Rencanakan [Go Private] dan Delisting, RUPSLB 30 November",
+  "deck": "Bank SMBC Indonesia (BTPN) mengajukan rencana mengubah status jadi perusahaan tertutup dan menghapus seluruh sahamnya dari BEI, penjelasan rinci menyusul 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:26:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2835aebe3c_dab7a589e4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPN",
+  "tags": [
+   "BTPN",
+   "go private",
+   "delisting",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Bank SMBC Indonesia Tbk (BTPN) menyampaikan kepada OJK dan Bursa Efek Indonesia bahwa perseroan berencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk mengubah statusnya dari perusahaan terbuka yang tercatat di BEI menjadi perusahaan tertutup, atau yang biasa disebut go private. Bersamaan dengan itu, seluruh saham BTPN akan dihapus dari pencatatan bursa (delisting).",
+   "Dalam surat bernomor S.102/CCS/XI/2026 yang ditandatangani Corporate Secretary BTPN, Eneng Yulie Andriani, pada 20 November 2026, perseroan belum merinci mekanisme maupun dampak finansial dari rencana ini. Penjelasan lengkap, termasuk agenda resmi RUPSLB, baru akan disampaikan bersamaan dengan pengumuman RUPSLB pada 30 November 2026. BTPN menegaskan proses go private dan delisting ini akan mengikuti seluruh ketentuan peraturan yang berlaku, termasuk aturan OJK soal keterbukaan informasi dan transparansi bank.",
+   "Surat ini ditembuskan antara lain ke Deputi Komisioner Pengawas Pasar Modal OJK, Direktur Penilaian Keuangan Perusahaan Sektor Jasa OJK, PT Kustodian Sentral Efek Indonesia (KSEI), dan wali amanat, menandakan bahwa proses ini juga akan melibatkan pihak penjamin kepentingan pemegang efek BTPN, tidak hanya pemegang saham."
+  ],
+  "fotoAdegan": "Exterior view of a modern glass office tower in Jakarta's financial district under a clear blue sky.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham publik BTPN, karena delisting berarti saham mereka tidak lagi bisa diperjualbelikan bebas di bursa begitu proses ini selesai, sementara perseroan belum mengungkap skema atau harga pembelian kembali saham publiknya. Yang tersentuh di sini bukan laporan keuangan, melainkan status pencatatan saham itu sendiri: begitu delisting berlaku, likuiditas atau kemudahan menjual saham di pasar terbuka akan hilang, dan pemegang saham minoritas biasanya hanya bisa keluar lewat penawaran pembelian kembali dari pengendali. Yang perlu dipantau adalah pengumuman RUPSLB pada 30 November 2026, karena di situlah BTPN wajib menjelaskan agenda resmi, jadwal rapat, serta kemungkinan mekanisme dan kompensasi bagi pemegang saham publik yang terkena delisting.",
+  "sentimen": "negatif",
+  "judulIdx": "Keterbukaan Informasi yang perlu Diketahui Publik",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pengumuman RUPSLB dan penjelasan rinci rencana go private dan delisting"
+   }
+  ]
+ },
+ {
+  "slug": "emas-q3-2026-pendapatan-us-70-4-juta-liabilitas-melonjak-139",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Q3 2026: Pendapatan US$70,4 Juta, [Liabilitas] Melonjak 139%",
+  "deck": "Aset EMAS naik 64,6% jadi US$1,22 miliar dan pendapatan melonjak seiring tambang Pani mulai berproduksi, tapi utang bank melonjak 139% dan rugi masih berlanjut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T17:13:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120172351-65755-0/FinancialStatement-2026-III-EMAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMAS",
+  "tags": [
+   "EMAS",
+   "laporan keuangan",
+   "tambang emas",
+   "utang bank"
+  ],
+  "body": [
+   "PT Merdeka Gold Resources Tbk (EMAS) menyampaikan laporan keuangan konsolidasian interim teraudit untuk periode sembilan bulan yang berakhir 30 September 2026. Total aset Perseroan tercatat US$1,22 miliar, naik 64,6 persen dari US$740,6 juta pada akhir 2025. Total liabilitas melonjak lebih tajam, 139,4 persen, menjadi US$861,3 juta dari US$359,7 juta. Kenaikan aset terutama berasal dari penambahan aset tetap serta uang muka untuk pembangunan fasilitas Heap Leach Growth dan Carbon-in-Leach (CIL) senilai US$293,1 juta, sementara kenaikan liabilitas terutama dari tambahan pinjaman bank US$329,9 juta yang dipakai membiayai produksi dan pembangunan fasilitas tersebut.",
+   "Dari sisi laba rugi, pendapatan Perseroan melonjak menjadi US$70,38 juta untuk sembilan bulan 2026, dari hanya US$113.437 pada periode sama tahun lalu, menandai dimulainya produksi komersial tambang emas Pani melalui anak usaha PT Pani Bersama Tambang. Laba usaha tercatat US$17,99 juta, berbalik dari rugi usaha US$3,85 juta setahun sebelumnya. Namun beban keuangan yang melonjak jadi US$21,79 juta akibat pinjaman yang membesar membuat Perseroan tetap mencatat rugi periode berjalan US$18,98 juta, meski lebih kecil dibanding rugi US$22,28 juta pada periode sama tahun lalu. Rugi per saham dasar tercatat US$0,0013, menyempit dari US$0,0016.",
+   "Arus kas dari aktivitas operasi masih negatif US$54,50 juta untuk sembilan bulan ini, memperdalam posisi negatif US$19,17 juta pada periode sama tahun lalu, melanjutkan tren negatif yang juga disorot Perseroan dalam penjelasan arus kas periode sebelumnya. Kebutuhan dana ditutup dari aktivitas pendanaan yang membawa masuk dana bersih US$308,6 juta, terutama dari pencairan pinjaman bank baru senilai US$410,84 juta. Jumlah saham beredar juga berkurang dari 16,18 miliar menjadi 14,73 miliar lembar setelah saham treasuri senilai US$13,74 juta dihapuskan dari ekuitas. Auditor KAP Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan memberikan opini wajar tanpa modifikasian, dengan satu hal audit utama yaitu penilaian indikasi penurunan nilai atas properti pertambangan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting ore conveyor belts at a gold processing plant construction site, tropical hillside backdrop",
+  "takeaway": "Laporan ini bernada netral karena sinyal positif dan negatif saling mengimbangi: pendapatan melonjak drastis karena tambang emas Pani mulai berproduksi dan laba usaha berbalik positif, tetapi beban utang yang membesar membuat Perseroan tetap merugi dan arus kas dari operasi harian justru makin dalam negatifnya. Yang tersentuh adalah arus kas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan bisnis sehari-hari, yang minus US$54,50 juta dalam sembilan bulan ini, lebih dalam dari minus US$19,17 juta tahun lalu, sehingga pelaku pasar mencermati apakah produksi yang sudah berjalan bisa segera menghasilkan kas positif. Beban bunga pinjaman juga membesar seiring utang bank yang melonjak 139 persen untuk membiayai pembangunan fasilitas pengolahan, sehingga beban utang Perseroan kini jauh lebih besar dibanding akhir tahun lalu. Yang perlu dipantau berikutnya adalah apakah arus kas operasi berbalik positif pada laporan tahun buku penuh 2026, serta kelanjutan pembangunan fasilitas CIL yang disebut Perseroan sebagai penyebab utama kenaikan beban dan utang.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim Auditan"
+ },
+ {
+  "slug": "mbma-laba-9m-2026-us-313-7-juta-pendapatan-naik-ke-us-1-78-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MBMA: Laba 9M-2026 US$313,7 Juta, [Pendapatan] Naik ke US$1,78 Miliar",
+  "deck": "Laporan keuangan interim auditan MBMA mencatat pendapatan sembilan bulan 2026 naik ke US$1,78 miliar dan laba bersih melonjak ke US$313,68 juta, hampir lima kali periode sama tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T16:44:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120170555-65807-0/FinancialStatement-2026-III-MBMA.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "Merdeka Battery Materials",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) melaporkan pendapatan usaha US$1,78 miliar untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari US$934,99 juta pada periode yang sama tahun lalu. Laba bersih periode berjalan melonjak ke US$313,68 juta dari US$62,79 juta, dengan laba per saham dasar naik dari US$0,00023 menjadi US$0,00136. Dari laba tersebut, US$146,19 juta menjadi bagian pemilik entitas induk dan US$167,48 juta menjadi bagian pemegang saham non-pengendali di anak usaha.",
+   "Total aset Grup tercatat US$4,32 miliar per 30 September 2026, naik dari US$3,74 miliar pada akhir 2025, dengan kas dan setara kas bertambah menjadi US$349,58 juta dari US$192,64 juta. Di sisi liabilitas, total utang naik menjadi US$1,66 miliar dari US$1,39 miliar, antara lain karena pinjaman bank jangka pendek melonjak dari US$2,5 juta menjadi US$102 juta dan utang obligasi jangka pendek naik dari US$176,43 juta menjadi US$291,61 juta. Beban bunga ikut membengkak menjadi US$48,92 juta dari US$12,67 juta, sejalan dengan penambahan utang tersebut, sementara jumlah ekuitas Grup naik menjadi US$2,65 miliar dari US$2,35 miliar.",
+   "Selama sembilan bulan ini, Perseroan membeli saham treasuri senilai US$17,81 juta, sementara anak usaha menerbitkan saham baru senilai US$16,4 juta kepada pemegang saham non-pengendali dan menerima setoran modal di muka US$4,41 juta dari pihak yang sama. Dividen yang dibayarkan kepada pemegang saham non-pengendali tercatat US$23,85 juta, lebih rendah dari US$56,52 juta pada periode yang sama tahun lalu. Bagian Perseroan atas kinerja entitas asosiasi berbalik menjadi rugi US$20,24 juta, dari keuntungan US$14,35 juta pada sembilan bulan 2025.",
+   "Laporan keuangan ini diaudit oleh Kantor Akuntan Publik Tanubrata, Sutanto, Fahmi, Bambang, dan Rekan, dengan partner penandatangan Santanu Chandra yang telah menjabat lima tahun berturut-turut untuk Perseroan. Auditor memberikan opini wajar tanpa modifikasian atau opini bersih, dengan satu hal audit utama yaitu pengakuan pendapatan. Direksi menandatangani laporan ini pada 20 November 2026 sesuai ketentuan OJK Nomor 14/POJK.04/2022 tentang penyampaian laporan keuangan berkala."
+  ],
+  "fotoAdegan": "Workers in protective gear monitoring molten metal flow at a nickel smelting plant in eastern Indonesia, industrial lighting, sparks visible",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham MBMA, sebab laba bersih sembilan bulan 2026 melonjak hampir lima kali lipat menjadi US$313,68 juta, jauh lebih cepat dari pertumbuhan pendapatannya sendiri yang naik 90 persen. Yang perlu dicermati adalah beban bunga, yaitu biaya yang harus dibayar Perseroan atas utangnya: beban ini melonjak hampir empat kali lipat menjadi US$48,92 juta karena pinjaman bank jangka pendek membesar dari US$2,5 juta menjadi US$102 juta, sehingga sebagian kenaikan laba ke depan bisa tergerus biaya utang ini. Ekuitas, yaitu total kekayaan bersih Perseroan setelah dikurangi semua utang, tetap bertambah menjadi US$2,65 miliar sehingga fondasi permodalannya masih menguat. Yang perlu dipantau berikutnya adalah RUPSLB 8 Desember 2026, saat pemegang saham memutuskan rencana penerbitan hingga 10,8 miliar saham baru lewat private placement, yang jika disetujui akan menambah jumlah saham beredar dan bisa menggerus laba per saham yang saat ini tercatat US$0,00136.",
+  "sentimen": "positif",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim Auditan"
+ },
+ {
   "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
   "category": "Aksi Korporasi",
   "title": "Transaksi Material MARI Rp406 Miliar: [Right Issue] CAST Tunggu RUPS",
@@ -580,6 +829,40 @@ var ARTICLES = [
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+ },
+ {
+  "slug": "rgas-pinjamkan-rp45-m-ke-anak-usaha-transaksi-material-43-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Pinjamkan Rp45 M ke Anak Usaha: [Transaksi Material] 43% Ekuitas",
+  "deck": "Perseroan memberikan pinjaman modal kerja ke anak usaha PT KIS; digabung dengan pinjaman ke PT KS sebelumnya, totalnya Rp45 miliar atau 43,31 persen ekuitas, melewati ambang transaksi material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T15:40:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56d24be5f5_c9e2a25db4.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "transaksi material",
+   "pinjaman afiliasi",
+   "POJK 17/2020"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) melaporkan pemberian pinjaman dana kepada anak usahanya, PT Karya Instrumindo Simpati (PT KIS), dengan total fasilitas Rp20 miliar. Pinjaman dicairkan bertahap: Rp2 miliar pada 9 September 2026, Rp9 miliar pada 18 November 2026, dan sisa Rp9 miliar direncanakan cair pada Desember 2026. Per 18 November 2026, pinjaman yang sudah terealisasi sebesar Rp11 miliar. Bunga ditetapkan 9,5 persen efektif per tahun untuk jangka waktu 7 bulan, jatuh tempo 31 Maret 2027, dengan pokok dan bunga dibayar sekaligus di akhir periode tanpa jaminan.",
+   "PT KIS adalah perusahaan yang 99,56 persen sahamnya dimiliki RGAS, sehingga transaksi ini tergolong transaksi afiliasi dengan perusahaan terkendali. Karena kepemilikan di atas 99 persen, RGAS tidak wajib menggunakan jasa penilai independen maupun meminta persetujuan RUPS, meski nilainya tergolong transaksi material. Dana pinjaman berasal dari kas internal hasil usaha RGAS dan dipakai PT KIS untuk modal kerja serta menjaga kelangsungan operasionalnya. Per akhir 2025, PT KIS mencatat total aset Rp6,86 miliar, ekuitas Rp2,47 miliar, pendapatan usaha Rp10,42 miliar, dan laba periode berjalan Rp470 juta.",
+   "Secara sendiri-sendiri, nilai pinjaman ke PT KIS ini berada di bawah ambang 20 persen ekuitas. Namun RGAS menghitungnya bersama pinjaman serupa yang sudah diberikan ke anak usaha lain, PT KS, senilai Rp25 miliar yang diumumkan 11 November 2026. Gabungan kedua pinjaman itu mencapai Rp45 miliar, setara 43,31 persen dari ekuitas RGAS per 31 Desember 2025 yang sebesar Rp103,9 miliar, sehingga melewati ambang 20 persen yang mewajibkan keterbukaan informasi transaksi material. Karena belum melampaui 50 persen ekuitas, transaksi ini tidak memerlukan persetujuan RUPS, dan persetujuan internal yang diperoleh hanya dari Dewan Komisaris pada 1 September 2026."
+  ],
+  "fotoAdegan": "Technicians inspecting industrial gas pipeline valves and spare parts inside a warehouse, overhead lighting, safety helmets.",
+  "takeaway": "Laporan ini netral bagi RGAS. Pinjaman ke anak usaha didanai dari kas internal dan secara akuntansi konsolidasi tidak mengubah kekayaan grup, karena utang piutang antara induk dan anak usaha saling menghapus di laporan gabungan, tapi nilainya cukup besar, 43,31 persen dari ekuitas RGAS, terikat sebagai piutang ke dua anak usaha yang ukurannya jauh lebih kecil, misalnya PT KIS yang total asetnya cuma Rp6,86 miliar sementara menerima komitmen pinjaman Rp20 miliar. Pos yang tersentuh adalah arus kas dan likuiditas RGAS, karena dana yang sudah mengalir ke anak usaha itu tidak bisa dipakai bebas oleh induk sampai dibayar kembali. Yang perlu dipantau adalah pencairan sisa pinjaman Rp9 miliar pada Desember 2026 dan jatuh tempo pembayaran pokok plus bunga pada 31 Maret 2027, sebab pembayarannya baru dilakukan sekaligus saat itu tanpa jaminan, sehingga kemampuan anak usaha melunasi akan menentukan apakah dana tersebut benar-benar kembali ke RGAS.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Material Tanpa Persetujuan RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2027-03-31",
+    "acara": "Jatuh tempo pembayaran pinjaman RGAS ke PT KIS"
+   }
+  ]
  },
  {
   "slug": "djp-ingatkan-wajib-pajak-cermati-data-bukti-potong-spt",
@@ -2180,8 +2463,8 @@ var ARTICLES = [
  {
   "slug": "rupo-medp-17-november-kuorum-tak-terpenuhi-rupo-kedua-menyusul",
   "category": "Aksi Korporasi",
-  "title": "RUPO MEDP 17 November: Kuorum Tak Terpenuhi, [RUPO Kedua] Menyusul",
-  "deck": "RUPO pertama obligasi MEDP pada 17 November gagal capai kuorum sehingga keputusan soal pengalihan dana ditunda; RUPO kedua wajib digelar dalam 14-21 hari kalender.",
+  "title": "RUPO Kedua MEDP [Dijadwalkan] 2 Desember: Bahas Pengalihan Dana",
+  "deck": "RUPO kedua resmi dijadwalkan 2 Desember 2026 setelah RUPO pertama gagal kuorum; agenda tetap soal pengalihan dana obligasi dari proyek Bonjol ke PLTGU Batam.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T11:09:15",
@@ -2192,18 +2475,34 @@ var ARTICLES = [
    "MEDP",
    "RUPO",
    "obligasi",
-   "Medco Power"
+   "pengalihan dana"
   ],
   "body": [
-   "PT Medco Power Indonesia (MEDP) melaporkan hasil Rapat Umum Pemegang Obligasi (RUPO) atas Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025, yang digelar 17 November 2026 pukul 14.00 di Ruang Jasmine Energy Building Lantai 2, Jakarta. Agenda rapat adalah persetujuan perubahan Pasal 2 ayat 2.1 Perjanjian Perwaliamanatan, yakni perubahan rencana penggunaan dana hasil penawaran umum obligasi tersebut, rencana yang sebelumnya diberitakan sebagai pengalihan dana Rp427 miliar dari proyek panas bumi Bonjol ke ekspansi PLTGU Batam.",
-   "Hasilnya, kuorum kehadiran yang disyaratkan Pasal 10 ayat 7 huruf a angka 1 huruf a Perjanjian Perwaliamanatan tidak terpenuhi. Akibatnya, RUPO tidak dapat melanjutkan pembahasan maupun mengambil keputusan yang sah dan mengikat bagi pemegang obligasi, sehingga rencana pengalihan penggunaan dana tersebut belum resmi disetujui.",
-   "Sesuai Pasal 10 ayat 7 huruf a angka 1 huruf b juncto Pasal 10 ayat 5 huruf e perjanjian yang sama, kegagalan kuorum pada RUPO pertama mewajibkan perseroan menggelar RUPO kedua paling cepat 14 hari kalender dan paling lambat 21 hari kalender sejak RUPO pertama. Jadwal dan tata cara RUPO kedua akan diumumkan tersendiri sesuai ketentuan perjanjian. Dokumen ditandatangani Fajrah Lestari Akili, Corporate Secretary & Head Corporate Communication MEDP."
+   "PT Medco Power Indonesia (MEDP) resmi memanggil pemegang obligasi untuk menghadiri Rapat Umum Pemegang Obligasi (RUPO) kedua pada 2 Desember 2026 pukul 10.00 WIB, di Ruang Jasmine, Gedung Energy Lantai 2, SCBD Lot 11A, Jakarta. Agendanya sama dengan RUPO pertama, yaitu persetujuan perubahan Pasal 2 ayat 2.1 Perjanjian Perwaliamanatan Obligasi Berkelanjutan I Medco Power Indonesia Tahap I Tahun 2025, yang mengatur rencana penggunaan dana hasil penerbitan obligasi tersebut.",
+   "Panggilan ini menyusul RUPO pertama pada 17 November 2026 yang gagal mencapai kuorum kehadiran yang disyaratkan perjanjian, sehingga rapat saat itu tidak bisa mengambil keputusan yang sah dan mengikat. Sesuai ketentuan perjanjian wali amanat, kegagalan kuorum mewajibkan MEDP menggelar RUPO kedua paling cepat 14 hari dan paling lambat 21 hari kalender sejak RUPO pertama, dan tanggal 2 Desember 2026 ini jatuh dalam rentang tersebut.",
+   "Substansi yang akan dibahas tetap sama seperti yang sebelumnya diberitakan, yakni usulan memindahkan dana hasil obligasi senilai Rp427 miliar dari proyek panas bumi Bonjol yang mengalami keterlambatan, ke proyek ekspansi PLTGU Batam yang sudah berkontrak. Keputusan atas usulan ini belum final dan baru akan ditentukan dalam RUPO kedua pada 2 Desember 2026.",
+   "Dokumen panggilan ditandatangani Fajrah Lestari Akili, Corporate Secretary & Head Corporate Communication MEDP."
   ],
   "fotoAdegan": "Steam rising from geothermal power plant pipelines on a misty tropical hillside, workers in hard hats inspecting valves",
-  "takeaway": "Laporan ini netral bagi MEDP: gagal kuorum dan RUPO kedua adalah mekanisme standar yang memang diatur dalam perjanjian wali amanat, bukan tanda gagal bayar atau masalah keuangan baru. Yang tersentuh adalah pos arus kas, yaitu rencana memindahkan dana hasil obligasi dari proyek panas bumi Bonjol yang molor ke ekspansi PLTGU Batam yang sudah berkontrak; pemegang obligasi memperhatikan ini karena menentukan proyek mana yang lebih dulu menerima kucuran dana segar dari obligasi yang sudah mereka beli. Yang perlu dipantau adalah RUPO kedua, yang menurut perjanjian wajib digelar paling cepat 14 hari dan paling lambat 21 hari sejak 17 November 2026, karena baru di RUPO kedua itu keputusan soal pengalihan dana bisa menjadi sah dan mengikat.",
+  "takeaway": "Perkembangan ini netral bagi MEDP karena baru sebatas panggilan rapat lanjutan yang memang diwajibkan perjanjian setelah RUPO pertama gagal kuorum, bukan indikasi masalah keuangan baru. Pos yang tersentuh adalah arus kas perseroan, sebab keputusan rapat ini menentukan proyek mana, panas bumi Bonjol atau ekspansi PLTGU Batam, yang lebih dulu menerima kucuran dana segar dari obligasi yang sudah dibeli investor, sehingga pemegang obligasi perlu memastikan dana tetap dikelola sesuai komitmen awal. Yang perlu dipantau adalah hasil RUPO kedua pada 2 Desember 2026, karena di rapat inilah keputusan soal pengalihan dana tersebut bisa menjadi sah dan mengikat, berbeda dengan RUPO pertama yang gagal mengambil keputusan apa pun.",
   "sentimen": "netral",
   "peristiwa": "rupo",
-  "judulIdx": "Pemberitahuan Hasil RUPO PT Medco Power Indonesia"
+  "judulIdx": "Pemberitahuan Hasil RUPO PT Medco Power Indonesia",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T15:52:33",
+    "ringkas": "MEDP resmi menjadwalkan RUPO kedua pada 2 Desember 2026 untuk membahas ulang pengalihan dana obligasi dari proyek Bonjol ke PLTGU Batam.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec27a9a0d3_cd30b831ac.pdf",
+    "judulIdx": "Pemberitahuan Panggilan RUPO PT Medco Power Indonesia"
+   }
+  ],
+  "diperbarui": "2026-11-20T15:52:33",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-02",
+    "acara": "RUPO kedua membahas pengalihan dana obligasi MEDP"
+   }
+  ]
  },
  {
   "slug": "ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas",
@@ -9029,8 +9328,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-brms-30-november-paparkan-kinerja-2025",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BRMS 30 November: [Paparkan] Kinerja 2025",
-  "deck": "BRMS akan menggelar Public Expose Tahunan untuk tahun buku 2025 pada 30 November 2026 di Hotel The Westin Jakarta, memaparkan kinerja produksi dan keuangan.",
+  "title": "Public Expose BRMS 20 November: [Laba Bersih] 9M2026 Turun 35%",
+  "deck": "BRMS merilis materi Public Expose, lebih cepat dari tenggat: laba bersih 9 bulan 2026 turun 35% jadi US$24,3 juta, namun kuartal III sudah pulih.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 November 2026",
   "isoDate": "2026-11-13T16:42:20",
@@ -9039,30 +9338,36 @@ var ARTICLES = [
   "emiten": "BRMS",
   "tags": [
    "BRMS",
-   "Bumi Resources Minerals",
    "Public Expose",
-   "Pasar Modal"
+   "Kinerja Keuangan",
+   "Pertambangan Emas"
   ],
   "body": [
-   "Bumi Resources Minerals Tbk (BRMS) mengumumkan rencana penyelenggaraan Public Expose Tahunan untuk tahun buku yang berakhir 2025. Acara dijadwalkan pada Senin, 30 November 2026, pukul 14.00 WIB sampai selesai, di Denpasar Room, Ground Floor, Hotel The Westin Jakarta, Jalan H.R. Rasuna Said Kav. C-22A, Kuningan, Jakarta Selatan. Agenda yang akan dibawakan meliputi profil perusahaan dan anak-anak usahanya, profil manajemen perusahaan dan anak usaha, serta pemaparan kinerja produksi dan keuangan perusahaan.",
-   "Public Expose Tahunan ini akan dihadiri langsung oleh jajaran direksi dan manajemen BRMS. Perseroan menyebutkan bahwa materi presentasi yang akan dipaparkan dalam acara tersebut wajib disampaikan ke publik selambatnya pada 25 November 2026, lebih dulu dari hari pelaksanaan acara.",
-   "Pengumuman ini disampaikan untuk memenuhi Surat Keputusan Direksi PT Bursa Efek Indonesia No. Kep-00037/BEI/12-2025 tanggal 12 Desember 2025 tentang Perubahan Peraturan Nomor I-E mengenai Kewajiban Penyampaian Informasi. Surat bernomor 131/BRM-Corsec/XI/2026 ini ditandatangani oleh Muhammad Sulthon selaku Direktur dan Corporate Secretary BRMS, dan turut ditembuskan kepada Kepala Eksekutif Pengawas Pasar Modal, Keuangan Derivatif, dan Bursa Karbon di Otoritas Jasa Keuangan."
+   "Bumi Resources Minerals Tbk (BRMS) menyerahkan materi Public Expose Tahunan ke Bursa Efek Indonesia pada Jumat, 20 November 2026, lebih cepat lima hari dari tenggat 25 November 2026. Materi itu memuat kinerja sembilan bulan 2026: pendapatan konsolidasi US$167,58 juta, turun 8,7 persen dari US$183,58 juta pada periode yang sama tahun lalu. Laba usaha turun lebih dalam, 25,4 persen menjadi US$52,01 juta, dan laba bersih turun 35,4 persen menjadi US$24,29 juta.",
+   "Penurunan ini sebagian besar berasal dari kuartal II 2026, saat anak usaha Citra Palu Minerals menghentikan sementara penambangan terbuka di tambang River Reef Poboya untuk pekerjaan pushback, yaitu mengupas lapisan batuan penutup sebelum bisa menambang bijih di bawahnya, dan hanya 70 persen produksi emas yang terjual akibat kelebihan pasokan emas di pasar domestik. Pada kuartal itu perusahaan bahkan mencatat rugi bersih US$4,78 juta. BRMS menyebut kedua masalah itu sudah teratasi: pushback selesai Juli 2026 dan penambangan terbuka kembali berjalan di semester kedua 2026, sementara Citra Palu Minerals telah mengikat kontrak jual emas ke pembeli domestik dengan harga kompetitif sejak Juni 2026.",
+   "Data kuartal III 2026 yang baru diungkap menunjukkan pemulihan itu: pendapatan naik menjadi US$71,79 juta, mendekati level kuartal I (US$69,47 juta) dan jauh di atas kuartal II (US$26,32 juta), dengan laba bersih kembali positif US$11,01 juta. Secara volume, penjualan emas sembilan bulan 2026 tercatat 37.839 ons, turun dari 56.552 ons pada periode yang sama 2025, namun harga jual rata-rata emas justru naik dari US$3.156 menjadi US$4.280 per ons, yang menahan sebagian dampak penurunan volume terhadap pendapatan.",
+   "Acara Public Expose Tahunan BRMS sendiri tetap berlangsung sesuai jadwal semula, Senin, 30 November 2026 pukul 14.00 WIB di Denpasar Room, Hotel The Westin Jakarta, Kuningan, Jakarta Selatan. Dalam acara itu, jajaran direksi akan memaparkan ulang profil perusahaan dan anak usaha, profil manajemen, serta kinerja produksi dan keuangan tahun buku 2025 secara langsung kepada publik dan investor."
   ],
   "fotoAdegan": "Miners in helmets inspecting stacked ore samples at an open-pit mineral mining site under bright daylight.",
-  "takeaway": "Laporan ini netral karena isinya baru sebatas jadwal dan agenda acara, belum memuat satu pun angka kinerja yang bisa dinilai positif atau negatif bagi pemegang saham. Public expose sendiri adalah forum tahunan wajib di mana manajemen memaparkan langsung kondisi produksi dan keuangan perusahaan ke publik, sehingga analis dan investor punya kesempatan bertanya soal hal-hal yang belum terlihat jelas di laporan keuangan resmi BRMS. Yang perlu dipantau berikutnya adalah materi presentasi yang wajib disampaikan Perseroan paling lambat 25 November 2026, serta acara itu sendiri pada 30 November 2026 pukul 14.00 WIB di Hotel The Westin Jakarta, saat data produksi dan keuangan tahun buku 2025 baru benar-benar terbuka ke publik.",
+  "takeaway": "Laporan ini condong netral: performa sembilan bulan 2026 BRMS memang melemah secara tahunan, tapi penyebabnya satu kuartal bermasalah yang perusahaan sendiri akui sudah selesai, dan data kuartal III justru menunjukkan pemulihan nyata, bukan sekadar klaim. Yang tersentuh adalah laba usaha dan laba bersih, dua pos yang mencerminkan seberapa efisien perusahaan mengubah pendapatan jadi keuntungan setelah dipotong biaya operasional dan beban lain, sehingga pelaku pasar memakainya untuk menilai kesehatan bisnis dari waktu ke waktu. Harga jual rata-rata emas dan perak yang naik turut menahan dampak turunnya volume penjualan, menunjukkan margin per unit sebenarnya membaik meski jumlah yang terjual berkurang. Yang perlu dipantau berikutnya adalah Public Expose Tahunan BRMS pada Senin, 30 November 2026 pukul 14.00 WIB di Hotel The Westin Jakarta, saat manajemen akan menjawab langsung pertanyaan investor soal proyeksi semester kedua 2026 setelah pemulihan di kuartal III.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan",
   "jadwal": [
    {
-    "tanggal": "2026-11-25",
-    "acara": "Batas akhir penyampaian materi public expose"
-   },
-   {
     "tanggal": "2026-11-30",
     "acara": "Public Expose Tahunan BRMS tahun buku 2025"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T15:36:32",
+    "ringkas": "Materi Public Expose BRMS: laba bersih 9M2026 turun 35% jadi US$24,3 juta, tapi kuartal III sudah pulih.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c408bac045_efd95e355b.pdf",
+    "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-20T15:36:32"
  },
  {
   "slug": "testdwhshm-manajer-investasi-baru-jadi-indo-premier-13-nov",

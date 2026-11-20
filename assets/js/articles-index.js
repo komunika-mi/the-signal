@@ -184,6 +184,134 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "tspc-transaksi-afiliasi-tus-terbitkan-saham-rp50-miliar-ke-bcl",
+  "category": "Aksi Korporasi",
+  "title": "TSPC: [Transaksi Afiliasi] TUS Terbitkan Saham Rp50 Miliar ke BCL",
+  "deck": "TUS, anak usaha TSPC, menerbitkan 50.000 saham baru senilai Rp50 miliar yang seluruhnya diambil BCL, sesama anak usaha TSPC, sehingga BCL kini menguasai 99,99% saham TUS.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TSPC",
+   "transaksi afiliasi",
+   "Tempo Scan Pacific",
+   "restrukturisasi internal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/09e2e8b2b2_71ca1ed758.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tspc-suntik-modal-rp40-miliar-ke-pli-saham-jadi-94-44",
+  "category": "Aksi Korporasi",
+  "title": "TSPC [Suntik Modal] Rp40 Miliar ke PLI, Saham Jadi 94,44%",
+  "deck": "TSPC mengambil seluruh 40.000 saham baru anak usahanya, PT Polari Limunusainti, senilai Rp40 miliar, sementara dua anak usaha lain melepas haknya.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TSPC",
+   "transaksi afiliasi",
+   "anak usaha",
+   "Polari Limunusainti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6217f92695_5f781ae54e.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-pnbn-25-nov-laba-3q26-naik-3-jadi-rp2-26-t",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PNBN 25 Nov: [Laba] 3Q26 Naik 3% jadi Rp2,26 T",
+  "deck": "Bank Panin menggelar Public Expose tahunan 25 November 2026, memaparkan laba bersih sembilan bulan 2026 Rp2,26 triliun, naik 3 persen secara tahunan.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNBN",
+   "Bank Panin",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c985365d6f_ca65f43309.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tgka-jual-60-saham-tira-cipta-logistik-ke-japfa-food-divestasi",
+  "category": "Aksi Korporasi",
+  "title": "TGKA Jual 60% Saham Tira Cipta Logistik ke Japfa Food [Divestasi]",
+  "deck": "TGKA menjual 60 persen saham PT Tira Cipta Logistik dan 1 persen PT Tira Cipta Transportasi ke PT Japfa Food Indonesia.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TGKA",
+   "divestasi",
+   "Japfa Food Indonesia",
+   "Tira Cipta Logistik"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8f69207c83_927a5d79e9.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obligasi-medc-seri-b-jatuh-tempo-23-november-pelunasan-rp58-2-m",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi MEDC Seri B Jatuh Tempo 23 November: [Pelunasan] Rp58,2 M",
+  "deck": "Obligasi Berkelanjutan IV Medco Energi Tahap II Seri B senilai Rp58,195 miliar jatuh tempo 23 November 2026 dan langsung delisting dari BEI.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MEDC",
+   "obligasi",
+   "jatuh tempo",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8b3df6a7ca_1eb31316cb.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btpn-rencanakan-go-private-dan-delisting-rupslb-30-november",
+  "category": "Aksi Korporasi",
+  "title": "BTPN Rencanakan [Go Private] dan Delisting, RUPSLB 30 November",
+  "deck": "Bank SMBC Indonesia (BTPN) mengajukan rencana mengubah status jadi perusahaan tertutup dan menghapus seluruh sahamnya dari BEI, penjelasan rinci menyusul 30 November 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPN",
+   "go private",
+   "delisting",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2835aebe3c_dab7a589e4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emas-q3-2026-pendapatan-us-70-4-juta-liabilitas-melonjak-139",
+  "category": "Aksi Korporasi",
+  "title": "EMAS Q3 2026: Pendapatan US$70,4 Juta, [Liabilitas] Melonjak 139%",
+  "deck": "Aset EMAS naik 64,6% jadi US$1,22 miliar dan pendapatan melonjak seiring tambang Pani mulai berproduksi, tapi utang bank melonjak 139% dan rugi masih berlanjut.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMAS",
+   "laporan keuangan",
+   "tambang emas",
+   "utang bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120172351-65755-0/FinancialStatement-2026-III-EMAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mbma-laba-9m-2026-us-313-7-juta-pendapatan-naik-ke-us-1-78-miliar",
+  "category": "Aksi Korporasi",
+  "title": "MBMA: Laba 9M-2026 US$313,7 Juta, [Pendapatan] Naik ke US$1,78 Miliar",
+  "deck": "Laporan keuangan interim auditan MBMA mencatat pendapatan sembilan bulan 2026 naik ke US$1,78 miliar dan laba bersih melonjak ke US$313,68 juta, hampir lima kali periode sama tahun lalu.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "Merdeka Battery Materials",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120170555-65807-0/FinancialStatement-2026-III-MBMA.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
   "category": "Aksi Korporasi",
   "title": "Transaksi Material MARI Rp406 Miliar: [Right Issue] CAST Tunggu RUPS",
@@ -277,6 +405,22 @@ var ARTICLES = [
    "KBLI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/25aa080cf7_ce39892847.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rgas-pinjamkan-rp45-m-ke-anak-usaha-transaksi-material-43-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Pinjamkan Rp45 M ke Anak Usaha: [Transaksi Material] 43% Ekuitas",
+  "deck": "Perseroan memberikan pinjaman modal kerja ke anak usaha PT KIS; digabung dengan pinjaman ke PT KS sebelumnya, totalnya Rp45 miliar atau 43,31 persen ekuitas, melewati ambang transaksi material.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RGAS",
+   "transaksi material",
+   "pinjaman afiliasi",
+   "POJK 17/2020"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56d24be5f5_c9e2a25db4.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1089,15 +1233,15 @@ var ARTICLES = [
  {
   "slug": "rupo-medp-17-november-kuorum-tak-terpenuhi-rupo-kedua-menyusul",
   "category": "Aksi Korporasi",
-  "title": "RUPO MEDP 17 November: Kuorum Tak Terpenuhi, [RUPO Kedua] Menyusul",
-  "deck": "RUPO pertama obligasi MEDP pada 17 November gagal capai kuorum sehingga keputusan soal pengalihan dana ditunda; RUPO kedua wajib digelar dalam 14-21 hari kalender.",
+  "title": "RUPO Kedua MEDP [Dijadwalkan] 2 Desember: Bahas Pengalihan Dana",
+  "deck": "RUPO kedua resmi dijadwalkan 2 Desember 2026 setelah RUPO pertama gagal kuorum; agenda tetap soal pengalihan dana obligasi dari proyek Bonjol ke PLTGU Batam.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "MEDP",
    "RUPO",
    "obligasi",
-   "Medco Power"
+   "pengalihan dana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11c834f72f_947251f88f.pdf",
   "sourceLabel": "IDX"
@@ -4672,15 +4816,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-brms-30-november-paparkan-kinerja-2025",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BRMS 30 November: [Paparkan] Kinerja 2025",
-  "deck": "BRMS akan menggelar Public Expose Tahunan untuk tahun buku 2025 pada 30 November 2026 di Hotel The Westin Jakarta, memaparkan kinerja produksi dan keuangan.",
+  "title": "Public Expose BRMS 20 November: [Laba Bersih] 9M2026 Turun 35%",
+  "deck": "BRMS merilis materi Public Expose, lebih cepat dari tenggat: laba bersih 9 bulan 2026 turun 35% jadi US$24,3 juta, namun kuartal III sudah pulih.",
   "date": "13 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "BRMS",
-   "Bumi Resources Minerals",
    "Public Expose",
-   "Pasar Modal"
+   "Kinerja Keuangan",
+   "Pertambangan Emas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75415c98aa_34a2a7e5aa.pdf",
   "sourceLabel": "IDX"
@@ -6379,149 +6523,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/produk-boga-rempah-dan-perikanan-indonesia-catat-potensi-transaksi-rp450-miliar-di-pameran-shanghai",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "adhi-koreksi-laporan-keuangan-catat-rugi-rp19-18-miliar-di-h1-2026",
-  "category": "Aksi Korporasi",
-  "title": "ADHI Koreksi Laporan Keuangan, Catat [Rugi] Rp19,18 Miliar di H1 2026",
-  "deck": "Laporan keuangan interim koreksi ADHI untuk semester I 2026 menunjukkan rugi bersih Rp19,18 miliar, berbalik dari laba Rp7,54 miliar tahun sebelumnya, meski pendapatan usaha turun 18,4 persen.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "laporan keuangan",
-   "BUMN karya",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261111180017-65760-0/FinancialStatement-2026-II-ADHI.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "soci-dirikan-dua-anak-usaha-pelayaran-modal-total-us-1-juta",
-  "category": "Aksi Korporasi",
-  "title": "SOCI [Dirikan] Dua Anak Usaha Pelayaran, Modal Total US$1 Juta",
-  "deck": "Soechi Lines mendirikan dua anak usaha baru di bidang pelayaran, Victory Ocean Maritime dan Wave Maritime Lines, di Marshall Islands dengan modal masing-masing US$500.000.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SOCI",
-   "entitas anak",
-   "pelayaran",
-   "ekspansi usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9dd6cd7533_95332223e0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ltls-siapkan-dana-lunasi-obligasi-rp135-miliar",
-  "category": "Aksi Korporasi",
-  "title": "LTLS Siapkan Dana Lunasi [Obligasi] Rp135 Miliar",
-  "deck": "Obligasi Seri B senilai Rp135 miliar jatuh tempo 12 November 2026 dan delisting dari BEI; LTLS menyatakan telah menyiapkan dana penuh untuk pelunasan.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LTLS",
-   "obligasi korporasi",
-   "jatuh tempo obligasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/81f86e8265_637531c79f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rlco-panggil-rupslb-agendakan-pergantian-direksi",
-  "category": "Aksi Korporasi",
-  "title": "RLCO Panggil RUPSLB, Agendakan [Pergantian] Direksi",
-  "deck": "RLCO mengundang pemegang saham ke RUPSLB 3 Desember 2026 untuk membahas perubahan Anggaran Dasar dan pergantian susunan Direksi.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RLCO",
-   "RUPSLB",
-   "Direksi",
-   "Anggaran Dasar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1099b0a170_6966b3c744.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-city-laba-naik-49-6-okupansi-disorot-media",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose CITY: laba naik 49,6%, [okupansi] disorot media",
-  "deck": "Dalam public expose tahunan, CITY melaporkan laba bersih naik 49,6% dan ekuitas naik 2,02%, sementara dari 1.780 unit terjual baru 800 unit berpenghuni.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CITY",
-   "public expose",
-   "properti",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbb15fe1f7_5cbc6b6676.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menn-ubah-haluan-jadi-holding-teknologi-capex-rp19-76-m",
-  "category": "Aksi Korporasi",
-  "title": "MENN Ubah Haluan Jadi [Holding] Teknologi, Capex Rp19,76 M",
-  "deck": "PT Menn Teknologi Indonesia Tbk memaparkan rencana berubah jadi perusahaan induk investasi teknologi dengan tiga anak usaha baru, saat sahamnya masih disuspensi.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "Public Expose",
-   "Technology Investment Holding",
-   "Suspensi Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/932293aa16_3da4492d7d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pinjaman-afiliasi-pack-aki-rp424-8-m-bebas-bunga-tenor-2-tahun",
-  "category": "Aksi Korporasi",
-  "title": "Pinjaman Afiliasi PACK-AKI Rp424,8 M [Bebas Bunga], Tenor 2 Tahun",
-  "deck": "PACK meminjamkan Rp424,8 miliar ke anak usaha AKI tanpa bunga dan tanpa jaminan, tenor dua tahun sejak penarikan dan bisa diperpanjang.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "transaksi afiliasi",
-   "pinjaman intercompany",
-   "AKI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0da329d3d8_e51eeacacf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "futr-koreksi-laporan-realisasi-dana-ipo-rp10-5-m-mengendap",
-  "category": "Aksi Korporasi",
-  "title": "FUTR Koreksi Laporan Realisasi Dana IPO Rp10,5 M [Mengendap]",
-  "deck": "Futura Energi Global (FUTR) mengoreksi laporan realisasi dana IPO dan waran, dengan total Rp39,4 miliar dana belum terserap per 30 Juni 2026.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FUTR",
-   "penggunaan dana IPO",
-   "waran",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b65846e79_6b509cd627.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "keen-teken-ppa-plta-140-mw-senilai-us-1-2-miliar-dengan-pln",
-  "category": "Aksi Korporasi",
-  "title": "KEEN Teken [PPA] PLTA 140 MW Senilai US$1,2 Miliar dengan PLN",
-  "deck": "KEEN melalui dua anak usahanya meneken perjanjian jual beli listrik dengan PLN untuk PLTA Salu Uro 95 MW dan PLTA Pakkat 2 45 MW, dengan total nilai kontrak sekitar US$1,2 miliar selama 30 tahun.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KEEN",
-   "PLTA",
-   "PLN",
-   "pembangkit listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93f810f0b4_7156c51994.pdf",
-  "sourceLabel": "IDX"
  }
 ];

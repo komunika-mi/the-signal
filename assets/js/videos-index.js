@@ -4,6 +4,46 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "PF69eIXAo8o",
+  "title": "DJPb Kawal Triliunan Uang Negara, Ini Fokus Menuju 2027",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Direktorat Jenderal Perbendaharaan memaparkan fokus pengelolaan keuangan negara menjelang tahun anggaran 2027, menyoroti tata kelola yang tertib dan akuntabel di penghujung 2026.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti arah kebijakan fiskal dan pengelolaan APBN menjelang tahun anggaran baru."
+ },
+ {
+  "id": "YKDMJlC7mJY",
+  "title": "UMP DKI Jakarta 2027 Resmi Ditetapkan Rp6,13 Juta",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi 2027 sebesar Rp6,13 juta melalui Keputusan Gubernur Nomor 1270 Tahun 2026.",
+  "takeaway": "Penetapan UMP berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja perusahaan di Jakarta."
+ },
+ {
+  "id": "D5w_98Yt74Q",
+  "title": "HIPMI Lantik Pengurus Pusat Periode 2026-2029",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Badan Pengurus Pusat Himpunan Pengusaha Muda Indonesia melantik kepengurusan baru masa bakti 2026-2029 di Jakarta International Convention Center.",
+  "takeaway": "Pergantian kepengurusan HIPMI penting diikuti karena menyangkut arah advokasi dan jaringan pengusaha muda ke depan."
+ },
+ {
+  "id": "h3oFmwEaHNE",
+  "title": "Pesan Presiden Prabowo Soal Ekonomi dan Stabilitas di KTT APEC",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto menyampaikan optimisme atas manfaat ekonomi konkret serta harapan stabilitas global dalam KTT ke-33 APEC di Shenzhen.",
+  "takeaway": "Pernyataan kepala negara di forum APEC dapat memberi sinyal arah kebijakan ekonomi luar negeri Indonesia."
+ },
+ {
+  "id": "KiGdl0ZZJfY",
+  "title": "Putin Sebut Indonesia Berkekuatan Ekonomi Besar di KTT APEC",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Presiden Rusia Vladimir Putin menyebut Indonesia sebagai salah satu negara dengan perekonomian terbesar dan paling cepat berkembang di Asia maupun dunia dalam forum KTT APEC.",
+  "takeaway": "Pengakuan dari pemimpin negara besar bisa menjadi indikator posisi tawar ekonomi Indonesia di kancah global."
+ },
+ {
   "id": "tfa5d9MHNXU",
   "title": "Pramono Tetapkan UMP Jakarta 2027 Rp6,1 Juta",
   "category": "Ketenagakerjaan",
@@ -442,45 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "BP Batam mendapat penghargaan atas modernisasi Pelabuhan Batu Ampar dan inovasi layanan investasi, yang disebut meningkatkan efisiensi logistik di Batam.",
   "takeaway": "Modernisasi pelabuhan ini relevan bagi pembaca ekonomi karena menyangkut efisiensi logistik dan daya saing investasi di kawasan Batam."
- },
- {
-  "id": "vbCeN7Z6pgU",
-  "title": "Harga Tepung Tapioka Naik Hampir 100 Persen",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Harga sejumlah bahan pangan melonjak di beberapa daerah, dengan harga tepung tapioka di Yogyakarta naik hampir 100 persen sehingga pedagang terpaksa memperkecil ukuran dagangan.",
-  "takeaway": "Lonjakan harga bahan pangan ini penting bagi pembaca ekonomi karena berkaitan langsung dengan inflasi dan daya beli masyarakat."
- },
- {
-  "id": "OlEMGlYVJ7M",
-  "title": "Bank Indonesia Gelar Capacity Building untuk Jurnalis",
-  "category": "Moneter",
-  "program": "Kabar Merah Putih",
-  "summary": "Bank Indonesia menggelar kegiatan capacity building bagi 41 jurnalis media nasional di Sabang, Aceh, yang membahas ekonomi regional dan potensi daerah tersebut.",
-  "takeaway": "Kegiatan ini relevan bagi pembaca ekonomi karena menyoroti upaya Bank Indonesia memperkuat pemahaman tentang ekonomi regional dan potensi daerah seperti Sabang."
- },
- {
-  "id": "nFT0pcs-bTE",
-  "title": "Harga Tepung Naik, Penjual Kue Terpaksa Naikkan Harga Jual",
-  "category": "UMKM",
-  "program": "Apa Kabar Indonesia Siang",
-  "summary": "Kenaikan harga tepung terigu dan tapioka di berbagai daerah membebani pelaku UMKM kuliner, khususnya perajin kue, hingga memaksa mereka menaikkan harga jual produknya.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan bagaimana lonjakan harga bahan baku langsung menekan daya tahan usaha mikro dan kecil."
- },
- {
-  "id": "O4xlNS1SI50",
-  "title": "BPS Jelaskan Alasan Bekerja 1 Jam Sepekan Tetap Dihitung",
-  "category": "Ketenagakerjaan",
-  "program": "OneNews Update",
-  "summary": "Badan Pusat Statistik menjelaskan metodologi di balik definisi penduduk bekerja, termasuk alasan seseorang yang hanya bekerja satu jam dalam sepekan tetap masuk kategori tersebut.",
-  "takeaway": "Penting bagi pembaca yang ingin memahami cara membaca data ketenagakerjaan dan tingkat pengangguran yang rutin dirilis BPS."
- },
- {
-  "id": "25K-cm2npaw",
-  "title": "Aturan Baru BSU 2026: Pekerja Gaji Atas Rp3,5 Juta Bisa Dapat Subsidi",
-  "category": "Ketenagakerjaan",
-  "program": "OneNews Update",
-  "summary": "Pekerja dengan gaji di atas Rp3,5 juta disebut masih berpeluang memenuhi syarat sebagai penerima Bantuan Subsidi Upah atau BSU 2026 berdasarkan aturan terbaru dari pemerintah.",
-  "takeaway": "Informasi ini relevan bagi pekerja yang ingin memastikan kelayakan mereka menerima subsidi upah tahun depan."
  }
 ];

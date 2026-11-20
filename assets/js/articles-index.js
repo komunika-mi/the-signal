@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-awasi-pangkalan-lpg-tegal-cek-penghapusan-syarat-nonsubsidi",
+  "category": "Energi",
+  "title": "KPPU Awasi Pangkalan LPG Tegal, Cek [Penghapusan] Syarat Nonsubsidi",
+  "deck": "KPPU memeriksa tujuh pangkalan LPG 3 kg di Kabupaten Tegal untuk memastikan PT Hibarnas Jaya benar-benar menghapus syarat wajib beli LPG nonsubsidi bagi pembeli LPG subsidi.",
+  "date": "20 November 2026",
+  "image": "assets/img/kppu-awasi-pangkalan-lpg-tegal-cek-penghapusan-syarat-nonsubsidi.jpg",
+  "imageV": "mwouqgnh",
+  "tags": [
+   "KPPU",
+   "LPG subsidi",
+   "Persaingan usaha",
+   "Tegal"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-periksa-tujuh-pangkalan-lpg-di-tegal-awasi-penghapusan-syarat-pembelian-lpg-nonsubsidi",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "ri-dan-uni-eropa-teken-perjanjian-dagang-cepa",
+  "category": "Global",
+  "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
+  "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
+  "date": "20 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "Kementerian Perdagangan",
+   "ekspor impor"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bersiap-tanda-tangani-i-eu-cepa-mendag-busan-bertolak-ke-brussels",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "transaksi-material-mari-rp406-miliar-right-issue-cast-tunggu-rups",
   "category": "Aksi Korporasi",
   "title": "Transaksi Material MARI Rp406 Miliar: [Right Issue] CAST Tunggu RUPS",
@@ -1093,7 +1127,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -1836,7 +1870,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2115,7 +2149,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -3642,7 +3676,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
   "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
   "date": "14 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -3658,7 +3692,7 @@ var ARTICLES = [
   "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
   "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
   "date": "14 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -3724,7 +3758,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -3806,7 +3840,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -4724,7 +4758,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6491,38 +6525,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b79a035df1_a038849c09.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "andi-konfirmasi-pengambilalihan-33-saham-oleh-pjs",
-  "category": "Aksi Korporasi",
-  "title": "ANDI Konfirmasi [Pengambilalihan] 33% Saham oleh PJS",
-  "deck": "ANDI menjelaskan ke Bursa bahwa PT Puncak Jaya Sejahtera membeli 33 persen saham senilai Rp92,57 miliar dari APS dan CEP, menjadi pengendali baru tanpa penilaian independen atas harga transaksi.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANDI",
-   "pengambilalihan",
-   "kelapa sawit",
-   "tender offer"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2117e8719c_9ed5abbab1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "intp-panggil-rupslb-direktur-utama-dan-komisaris-mundur",
-  "category": "Aksi Korporasi",
-  "title": "INTP Panggil RUPSLB, [Direktur Utama] dan Komisaris Mundur",
-  "deck": "INTP memanggil RUPSLB pada 3 Desember 2026 untuk menetapkan pengganti Direktur Utama dan Komisaris yang telah mengundurkan diri.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INTP",
-   "RUPSLB",
-   "Direksi",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/03f4c8ba8d_982f43842b.pdf",
   "sourceLabel": "IDX"
  }
 ];

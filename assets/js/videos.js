@@ -2,6 +2,51 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "PF69eIXAo8o",
+  "title": "DJPb Kawal Triliunan Uang Negara, Ini Fokus Menuju 2027",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Direktorat Jenderal Perbendaharaan memaparkan fokus pengelolaan keuangan negara menjelang tahun anggaran 2027, menyoroti tata kelola yang tertib dan akuntabel di penghujung 2026.",
+  "takeaway": "Relevan bagi pembaca yang mengikuti arah kebijakan fiskal dan pengelolaan APBN menjelang tahun anggaran baru.",
+  "terbit": "2026-11-20T10:00:21+00:00"
+ },
+ {
+  "id": "YKDMJlC7mJY",
+  "title": "UMP DKI Jakarta 2027 Resmi Ditetapkan Rp6,13 Juta",
+  "category": "Ketenagakerjaan",
+  "program": "OneNews Update",
+  "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi 2027 sebesar Rp6,13 juta melalui Keputusan Gubernur Nomor 1270 Tahun 2026.",
+  "takeaway": "Penetapan UMP berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja perusahaan di Jakarta.",
+  "terbit": "2026-11-20T10:30:29+00:00"
+ },
+ {
+  "id": "D5w_98Yt74Q",
+  "title": "HIPMI Lantik Pengurus Pusat Periode 2026-2029",
+  "category": "Bisnis",
+  "program": "tvOneNews",
+  "summary": "Badan Pengurus Pusat Himpunan Pengusaha Muda Indonesia melantik kepengurusan baru masa bakti 2026-2029 di Jakarta International Convention Center.",
+  "takeaway": "Pergantian kepengurusan HIPMI penting diikuti karena menyangkut arah advokasi dan jaringan pengusaha muda ke depan.",
+  "terbit": "2026-11-20T10:04:02+00:00"
+ },
+ {
+  "id": "h3oFmwEaHNE",
+  "title": "Pesan Presiden Prabowo Soal Ekonomi dan Stabilitas di KTT APEC",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Presiden Prabowo Subianto menyampaikan optimisme atas manfaat ekonomi konkret serta harapan stabilitas global dalam KTT ke-33 APEC di Shenzhen.",
+  "takeaway": "Pernyataan kepala negara di forum APEC dapat memberi sinyal arah kebijakan ekonomi luar negeri Indonesia.",
+  "terbit": "2026-11-20T10:00:33+00:00"
+ },
+ {
+  "id": "KiGdl0ZZJfY",
+  "title": "Putin Sebut Indonesia Berkekuatan Ekonomi Besar di KTT APEC",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Presiden Rusia Vladimir Putin menyebut Indonesia sebagai salah satu negara dengan perekonomian terbesar dan paling cepat berkembang di Asia maupun dunia dalam forum KTT APEC.",
+  "takeaway": "Pengakuan dari pemimpin negara besar bisa menjadi indikator posisi tawar ekonomi Indonesia di kancah global.",
+  "terbit": "2026-11-20T09:50:29+00:00"
+ },
+ {
   "id": "tfa5d9MHNXU",
   "title": "Pramono Tetapkan UMP Jakarta 2027 Rp6,1 Juta",
   "category": "Ketenagakerjaan",

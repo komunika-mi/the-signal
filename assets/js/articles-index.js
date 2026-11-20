@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPST DMY-SHM 21 November: [Dividen Tunai] Disetujui",
+  "deck": "RUPS Tahunan DMY-SHM ternyata juga menyetujui dividen tunai dari laba bersih 2026, kuorum 34,14 persen, selain dividen saham dan transaksi material yang sudah disetujui sebelumnya.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "RUPST",
+   "dividen tunai",
+   "dividen saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_90a39480-8e7c-4333-9179-1c2ca0eb6162-20261121010557.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-dmy-shm-21-november-stock-split-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB DMY-SHM 21 November: [Stock Split] Disetujui",
+  "deck": "RUPSLB DMY-SHM menyetujui pemecahan nilai nominal saham (stock split) untuk tahun buku 2026, dihadiri pemegang saham yang menguasai 87,85 persen hak suara.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "RUPSLB",
+   "stock split",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_68ece331-f7d8-49f1-b711-1addc920d710-20261121010210.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-solution-garap-konektivitas-digital-hotel",
   "category": "Teknologi",
   "title": "[Telkom] Solution Garap Konektivitas Digital Hotel",
@@ -6489,37 +6521,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477849-telkom-hadirkan-asisten-ai-tara-bantu-masyarakat-cari-informasi-lebih-cepat"
- },
- {
-  "slug": "bei-evaluasi-saham-terkonsentrasi-bobot-ihsg-berubah",
-  "category": "Aksi Korporasi",
-  "title": "BEI Evaluasi Saham Terkonsentrasi, Bobot [IHSG] Berubah",
-  "deck": "Komite BEI mengevaluasi kepemilikan saham 10 pemegang saham terbesar di seluruh perusahaan tercatat per 30 Oktober 2026, memengaruhi penyesuaian bobot IHSG dua hari bursa mendatang.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IHSG",
-   "BEI",
-   "kepemilikan saham",
-   "indeks"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/07864ea30d_bd4f07848a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "inps-batalkan-rupslb-pmthmetd-tertunda-imbas-ojk",
-  "category": "Aksi Korporasi",
-  "title": "INPS Batalkan RUPSLB, [PMTHMETD] Tertunda Imbas OJK",
-  "deck": "RUPSLB INPS yang semula digelar 6 November 2026 dibatalkan karena OJK masih memproses revisi keterbukaan informasi rencana penambahan modal tanpa hak memesan efek terlebih dahulu.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPS",
-   "RUPSLB",
-   "PMTHMETD",
-   "OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d901e668bd_a7949c5935.pdf",
-  "sourceLabel": "IDX"
  }
 ];

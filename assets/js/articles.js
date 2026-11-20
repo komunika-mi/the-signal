@@ -3,6 +3,114 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPST DMY-SHM 21 November: [Dividen Tunai] Disetujui",
+  "deck": "RUPS Tahunan DMY-SHM ternyata juga menyetujui dividen tunai dari laba bersih 2026, kuorum 34,14 persen, selain dividen saham dan transaksi material yang sudah disetujui sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:05:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_90a39480-8e7c-4333-9179-1c2ca0eb6162-20261121010557.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "RUPST",
+   "dividen tunai",
+   "dividen saham"
+  ],
+  "body": [
+   "Lampiran resmi ringkasan risalah RUPS DMY-SHM mengungkap bahwa agenda RUPS Tahunan, salah satu dari tiga rapat yang digabung pada 21 November 2026, secara khusus menyetujui penggunaan laba bersih tahun buku 2026 dalam bentuk dividen tunai. Agenda ini dihadiri pemegang saham yang mewakili 234 saham, setara 34,14 persen dari seluruh saham berhak suara, dengan hasil voting 290 setuju, 168 tidak setuju, dan 352 abstain, sehingga dinyatakan disetujui. Dokumen ini tidak mencantumkan nominal dividen tunai per saham maupun total nilainya.",
+   "Keputusan ini melengkapi, bukan menggantikan, hasil yang sudah dilaporkan sebelumnya dari rapat gabungan yang sama. Pada agenda terpisah, pemegang saham yang mewakili 21 saham atau 19,68 persen dari seluruh saham berhak suara telah menyetujui pembagian dividen dalam bentuk saham serta satu transaksi material, masing-masing tanpa rincian nilai atau rasio. Pengesahan laporan tahunan dan laporan keuangan 2026 juga sudah disetujui dalam rapat tersebut.",
+   "Susunan pengurus baru yang efektif sejak 21 November 2026 tidak berubah. Direksi terdiri dari Arif Dummy Uji sebagai Direktur Utama, bersama Rina Dummy Percobaan dan Teguh Uji Dummy sebagai Direktur. Dewan Komisaris dipimpin Hartono Dummy Uji sebagai Komisaris Utama, didampingi Maya Uji Dummy dan Dr. Agus Percobaan Dummy sebagai Komisaris.",
+   "Rangkaian keterbukaan informasi ini bermula dari surat pemberitahuan rencana RUPST yang disampaikan DMY-SHM ke bursa pada 20 November 2026, dilanjutkan pemanggilan resmi, ringkasan risalah gabungan yang mengonfirmasi dividen saham dan transaksi material, hingga lampiran terbaru ini yang merinci agenda khusus RUPS Tahunan soal dividen tunai."
+  ],
+  "fotoAdegan": "An empty corporate boardroom with a long table, leather chairs arranged in rows, and sealed voting ballot boxes, soft morning light.",
+  "takeaway": "Laporan ini condong netral bagi DMY-SHM, sebab dividen tunai dari laba bersih 2026 memang sinyal positif soal arus kas dan kepercayaan manajemen, tetapi dampaknya belum bisa dinilai karena dokumen ini tidak mencantumkan nominal per saham, sementara dividen saham dan transaksi material dari agenda lain juga masih tanpa nilai. Yang tersentuh adalah arus kas perseroan, karena dividen tunai berarti uang benar-benar keluar dari kas perusahaan ke pemegang saham, berbeda dari dividen saham yang hanya menambah jumlah lembar saham beredar tanpa mengeluarkan uang tunai; kombinasi keduanya berpotensi membuat laba per saham makin terdilusi karena keuntungan yang sama kini dibagi ke lebih banyak lembar saham sekaligus sebagian dibagikan tunai. Yang perlu dipantau berikutnya adalah pengumuman resmi soal besaran rupiah per saham dari dividen tunai ini, rasio dividen saham yang sudah disetujui, serta rincian nilai dan pihak dalam transaksi material, karena ketiga angka itu belum terungkap baik di ringkasan risalah maupun lampiran ini.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Surat pemberitahuan rencana RUPST disampaikan ke bursa"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Pemberitahuan pemanggilan RUPST disampaikan ke bursa"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Tanggal daftar pemegang saham (DPS) yang berhak hadir RUPST"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "RUPST: dividen tunai, dividen saham, transaksi material disetujui"
+   }
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T01:03:35",
+    "ringkas": "Ringkasan risalah resmi mengungkap kuorum RUPST 85,53 persen dan rincian suara persetujuan laporan tahunan, data lebih rinci dari pemberitahuan sebelumnya.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_5a1eae31-0afa-437e-8e40-8cfca0a47b46-20261121010336.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   },
+   {
+    "tanggal": "2026-11-21T01:02:41",
+    "ringkas": "Pemanggilan resmi RUPST DMY-SHM mengungkap rapat digelar pukul 10.00 WIB secara elektronik via KSEI dengan recording date 21 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E002_cf4ea04f-0bd6-4d5b-9132-df0fb1d2a519-20261121010244.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Tahunan"
+   },
+   {
+    "tanggal": "2026-11-21T00:58:21",
+    "ringkas": "Ringkasan risalah RUPST DMY-SHM ternyata juga menyetujui dividen saham dan transaksi material, bukan cuma laporan tahunan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_0dc114f3-30fc-4f89-9f66-57fac44eec41-20261121005823.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   },
+   {
+    "tanggal": "2026-11-21T00:56:51",
+    "ringkas": "Lampiran ringkasan risalah RUPST DMY-SHM mengungkap agenda RUPS Tahunan menyetujui dividen tunai dari laba bersih 2026, kuorum 34,14 persen.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_9b969bdf-5877-46cf-8d6a-50afaca2298c-20261121005652.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-21T00:56:51"
+ },
+ {
+  "slug": "rupslb-dmy-shm-21-november-stock-split-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB DMY-SHM 21 November: [Stock Split] Disetujui",
+  "deck": "RUPSLB DMY-SHM menyetujui pemecahan nilai nominal saham (stock split) untuk tahun buku 2026, dihadiri pemegang saham yang menguasai 87,85 persen hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T01:02:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_68ece331-f7d8-49f1-b711-1addc920d710-20261121010210.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "RUPSLB",
+   "stock split",
+   "pasar modal"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) DMY-SHM yang digelar pada 21 November 2026 menyetujui agenda pemecahan nilai nominal saham atau stock split untuk tahun buku 2026. Rapat dihadiri pemegang saham yang mewakili 994 saham, setara 87,85 persen dari seluruh saham dengan hak suara sah milik perseroan. Seluruh pemegang saham yang hadir menyatakan setuju terhadap agenda tersebut, sehingga keputusan stock split resmi disahkan dalam rapat ini.",
+   "Dokumen ringkasan risalah rapat yang disampaikan ke Bursa Efek Indonesia tidak menyebutkan rasio pemecahan saham maupun nilai nominal baru per lembar, sehingga rinciannya baru akan diketahui lewat pengumuman lanjutan. Proses rapat dibantu oleh notaris dan biro administrasi efek (BAE) perseroan sebagai pihak penunjang pelaksanaan RUPS sesuai aturan.",
+   "Dalam dokumen yang sama, perseroan juga mencantumkan susunan direksi dan dewan komisaris yang berlaku efektif 21 November 2026. Direksi terdiri dari Arif Dummy Uji sebagai Direktur Utama, Rina Dummy Percobaan sebagai Direktur, dan Teguh Uji Dummy sebagai Direktur. Dewan Komisaris terdiri dari Hartono Dummy Uji sebagai Komisaris Utama, Maya Uji Dummy sebagai Komisaris, dan Dr. Agus Percobaan Dummy sebagai Komisaris."
+  ],
+  "fotoAdegan": "Brokers walking briskly across a marble trading floor lobby in a Jakarta financial tower, soft morning light, no visible screens or signage",
+  "takeaway": "Keputusan RUPSLB ini netral bagi fundamental DMY-SHM, karena stock split sekadar memperkecil nilai nominal per saham tanpa mengubah total ekuitas, aset, atau laba bersih perusahaan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham: jumlah lembar saham akan bertambah sesuai rasio pemecahan, sehingga laba per saham otomatis mengecil meski laba total perusahaan tetap sama, dan pasar memperhatikan ini karena harga per lembar saham ikut turun yang membuatnya lebih terjangkau bagi investor ritel. Yang perlu dipantau selanjutnya adalah rasio pemecahan dan tanggal efektif pencatatan saham baru di Bursa Efek Indonesia, sebab dokumen RUPSLB ini hanya memuat persetujuan agendanya tanpa menyebutkan detail teknis tersebut.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "RUPSLB DMY-SHM menyetujui pemecahan nilai nominal saham"
+   }
+  ]
+ },
+ {
   "slug": "telkom-solution-garap-konektivitas-digital-hotel",
   "category": "Teknologi",
   "title": "[Telkom] Solution Garap Konektivitas Digital Hotel",

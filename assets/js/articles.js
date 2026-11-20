@@ -3,6 +3,190 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-mari-29-desember-dps-pemegang-saham-dicatat-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB MARI 29 Desember: [DPS] Pemegang Saham Dicatat 4 Desember",
+  "deck": "PT Mahaka Radio Integra Tbk (MARI) menjadwalkan RUPSLB elektronik pada 29 Desember 2026, dengan pemegang saham berhak hadir dicatat per 4 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T10:09:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/afea0a66f9_a112b372bc.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MARI",
+  "tags": [
+   "MARI",
+   "RUPSLB",
+   "Mahaka Radio Integra",
+   "Rapat Umum Pemegang Saham"
+  ],
+  "body": [
+   "PT Mahaka Radio Integra Tbk. (MARI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 29 Desember 2026 pukul 10.30 WIB. Rapat akan digelar secara elektronik melalui sistem eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, sesuai POJK 14/2025 tentang pelaksanaan RUPS secara elektronik. Pengumuman ditandatangani oleh Donny Kurniawan Chandra selaku Director & Corporate Secretary pada 20 November 2026.",
+   "Perseroan menetapkan bahwa pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat sah di Daftar Pemegang Saham (DPS) Perseroan pada Jumat, 4 Desember 2026 pukul 16.00 WIB, atau kuasa mereka yang sah. Surat pemanggilan resmi yang memuat agenda rapat baru akan diumumkan melalui situs web Perseroan, situs IDX, dan eASY.KSEI pada Senin, 7 Desember 2026, sehingga agenda RUPSLB belum terungkap dalam dokumen ini.",
+   "Perseroan juga menyediakan fasilitas pemberian kuasa elektronik (e-Proxy) melalui eASY.KSEI dengan menunjuk PT Adimitra Jasa Korpora, Biro Administrasi Efek Perseroan, sebagai perwakilan independen penerima kuasa. Fasilitas ini bisa digunakan pemegang saham sejak tanggal pemanggilan hingga 28 Desember 2026, sehari sebelum RUPSLB berlangsung. Berdasarkan anggaran dasar, pemegang saham yang mewakili minimal 1/20 dari total saham berhak suara dapat mengusulkan mata acara RUPSLB secara tertulis kepada Direksi, paling lambat 7 hari sebelum tanggal pemanggilan."
+  ],
+  "fotoAdegan": "Empty radio broadcasting studio with microphones and a mixing console under soft morning light in Jakarta.",
+  "takeaway": "Pengumuman ini netral bagi investor karena isinya sebatas jadwal rapat, belum memuat agenda atau keputusan apa pun yang bisa mengubah kondisi keuangan perusahaan. Dampak sesungguhnya baru akan terlihat setelah surat pemanggilan resmi terbit dan mengungkap agenda, sebab agenda itulah yang menentukan apakah nanti ada perubahan jumlah saham beredar, pembagian dividen, atau pergantian pengurus yang bisa memengaruhi laba per saham dan struktur modal perusahaan. Batas waktu 4 Desember 2026 pukul 16.00 WIB penting karena hanya pemegang saham yang tercatat sampai saat itu yang punya hak suara dalam rapat ini. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 7 Desember 2026, yang akan mengungkap agenda sebenarnya, serta pelaksanaan RUPSLB itu sendiri pada 29 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPSLB (DPS)"
+   },
+   {
+    "tanggal": "2026-12-29",
+    "acara": "RUPSLB MARI diselenggarakan secara elektronik"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-bfin-26-november-laba-bersih-9m26-naik-12-5",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BFIN 26 November: [Laba Bersih] 9M26 Naik 12,5%",
+  "deck": "BFI Finance memaparkan materi public expose tahunan: laba bersih 9M26 naik 12,5 persen jadi Rp1,313 triliun, NPF membaik ke 1,33 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T10:01:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/173a40d8b4_9565aa78ff.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BFIN",
+  "tags": [
+   "BFIN",
+   "Public Expose",
+   "BFI Finance",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "BFI Finance Indonesia Tbk (BFIN) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 20 November 2026, menyusul surat pemberitahuan sebelumnya tanggal 12 November 2026. Acara public expose tahunan itu sendiri dijadwalkan berlangsung di Tangerang Selatan pada 26 November 2026. Surat disampaikan oleh Corporate Secretary Budi Darwan Munthe, sementara surat pengantar ke bursa ditandatangani oleh Direktur yang namanya tertulis Sudjono dalam dokumen (hasil pindaian, perlu dibaca dengan hati-hati).",
+   "Materi yang dilampirkan memuat kinerja keuangan perusahaan sembilan bulan pertama 2026 (9M26). Piutang pembiayaan yang dikelola tumbuh 3,0 persen secara tahunan menjadi Rp26.781 miliar, sementara pembiayaan baru relatif stabil di Rp16.336 miliar meski naik 9,1 persen dibanding kuartal sebelumnya menjadi Rp5.638 miliar di kuartal III. Total aset tercatat Rp24.883 miliar, turun 2,1 persen dibanding setahun lalu, sedangkan total ekuitas justru naik 4,8 persen menjadi Rp11.414 miliar. Laba bersih setelah pajak tumbuh 12,5 persen secara tahunan menjadi Rp1.313 miliar, dengan rasio kredit bermasalah (NPF) bruto turun 22 basis poin menjadi 1,33 persen dan cadangan kerugian (NPF coverage) naik dari 2,5 kali menjadi 3,0 kali lipat nilai kredit bermasalah tersebut.",
+   "Dari sisi pendanaan, perusahaan menyebut 58 persen dana operasionalnya berasal dari pinjaman eksternal dan 42 persen dari ekuitas sendiri, dengan rasio pinjaman terhadap ekuitas (gearing ratio) di level 1,1 kali dan biaya dana yang turun menjadi 6,9 persen. Untuk target akhir 2026, manajemen memasang target pertumbuhan total aset sekitar 5 persen, penyaluran pembiayaan sekitar 5 persen, dan ekuitas sekitar 7 persen secara tahunan, dengan NPF bruto dijaga di bawah 1,5 persen, NPF coverage sekitar 3 kali, gearing ratio tetap 1,1 kali, dan rasio pembayaran dividen (dividend payout ratio) sampai dengan 70 persen dari laba."
+  ],
+  "fotoAdegan": "Workers inspecting rows of excavators and heavy construction equipment at an equipment yard, overcast daylight",
+  "takeaway": "Laporan ini condong positif bagi BFIN karena laba bersihnya tumbuh dua digit justru ketika kualitas kreditnya ikut membaik, bukan memburuk saat mengejar pertumbuhan. Pos yang tersentuh adalah laba bersih dan ekuitas, yaitu modal yang menjadi hak pemegang saham, yang naik 4,8 persen secara tahunan, serta rasio kredit bermasalah (NPF) yang turun ke 1,33 persen; makin rendah NPF, makin kecil potensi kerugian dari pembiayaan yang gagal bayar, dan ekuitas yang lebih besar memberi penyangga modal yang lebih tebal saat kondisi ekonomi memburuk. Yang perlu dipantau berikutnya adalah acara public expose itu sendiri pada 26 November 2026, saat manajemen biasanya membuka sesi tanya jawab soal target akhir tahun seperti rasio pembayaran dividen yang dipatok sampai 70 persen, dan realisasinya baru akan terkonfirmasi lewat laporan keuangan tahun penuh nanti.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Public expose tahunan BFI Finance Indonesia (BFIN)"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-bima-dijadwalkan-29-desember-agenda-diumumkan-7-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BIMA Dijadwalkan 29 Desember: [Agenda] Diumumkan 7 Desember",
+  "deck": "RUPSLB Primarindo (BIMA) digelar 29 Desember 2026, DPS dicatat 4 Desember, agenda resmi baru diumumkan 7 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T09:30:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/23a728f1fd_59ad095588.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BIMA",
+  "tags": [
+   "BIMA",
+   "RUPSLB",
+   "Primarindo Asia Infrastructure",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Primarindo Asia Infrastructure Tbk (BIMA) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 29 Desember 2026 pukul 11.00 WIB, di Hotel Gren Alia Cikini, Jalan Cikini Raya No. 46, Jakarta Pusat. Perseroan menetapkan Daftar Pemegang Saham (DPS) yang berhak hadir atau diwakili dalam rapat tersebut pada 4 Desember 2026 pukul 16.00 WIB, artinya hanya investor yang namanya tercatat sebagai pemegang saham pada tanggal itu yang punya hak suara di RUPSLB.",
+   "Panggilan resmi RUPSLB beserta mata acara atau agendanya belum diumumkan dalam dokumen ini. Perseroan menyebut panggilan resmi itu baru akan ditayangkan melalui situs penyedia e-RUPS, situs web Bursa Efek Indonesia, dan situs web Perseroan pada 7 Desember 2026. Pemegang saham yang ingin mengusulkan mata acara rapat dipersilakan menyampaikannya secara tertulis kepada Direksi, dengan tenggat paling lambat tujuh hari sebelum panggilan resmi tersebut diterbitkan.",
+   "Pemberitahuan kepada pemegang saham ditandatangani oleh Corporate Secretary Mohamad Al Hadi, sementara surat resmi ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia disampaikan oleh Direktur Yati Nurhayati. Penyampaian ini merupakan kewajiban keterbukaan informasi sesuai Peraturan OJK No. 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "Empty hotel ballroom with rows of white chairs facing a small stage, set up for a formal meeting, soft morning light",
+  "takeaway": "Pengumuman ini netral bagi Primarindo karena isinya baru sebatas jadwal rapat, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya terhadap bisnis perseroan. Begitu agenda terbuka lewat panggilan resmi nanti, pelaku pasar biasanya mengecek apakah mata acaranya menyentuh pos seperti ekuitas atau jumlah saham beredar, misalnya kalau RUPSLB membahas penambahan modal atau penerbitan saham baru, karena hal semacam itu langsung memengaruhi porsi kepemilikan dan laba per saham pemegang lama. Untuk RUPSLB kali ini dokumennya sama sekali belum menyebut agenda, sehingga penilaian seperti itu belum bisa dilakukan. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB beserta mata acaranya yang dijadwalkan terbit 7 Desember 2026, lalu pelaksanaan rapatnya sendiri pada 29 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Pencatatan Daftar Pemegang Saham (DPS) yang berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Panggilan resmi RUPSLB beserta agenda diumumkan"
+   },
+   {
+    "tanggal": "2026-12-29",
+    "acara": "RUPSLB digelar di Hotel Gren Alia Cikini, Jakarta Pusat"
+   }
+  ]
+ },
+ {
+  "slug": "buyback-excl-rp1-triliun-pembelian-mulai-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Buyback EXCL Rp1 Triliun: [Pembelian] Mulai 23 November 2026",
+  "deck": "XLSMART (EXCL) akan membeli kembali saham senilai maksimal Rp1 triliun mulai 23 November 2026 hingga 22 Februari 2027, tanpa perlu restu RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T09:01:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/92b9aff368_db3fede04d.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EXCL",
+  "tags": [
+   "EXCL",
+   "buyback saham",
+   "XLSMART",
+   "pasar modal"
+  ],
+  "body": [
+   "PT XLSMART Telecom Sejahtera Tbk (EXCL) mengumumkan rencana pembelian kembali saham (buyback) dengan nilai maksimum Rp1 triliun, termasuk biaya transaksi. Buyback ini memakai jalur kebijakan OJK untuk kondisi pasar yang berfluktuasi signifikan, sesuai POJK No. 13/2023, POJK No. 29/2023, serta dua surat OJK yaitu S-137/D.04/2026 tertanggal 25 Oktober 2026 dan S-112/D.04/2026 tertanggal 9 September 2026. Karena menggunakan jalur ini, perseroan tidak perlu meminta persetujuan Rapat Umum Pemegang Saham (RUPS) lebih dulu, cukup melaporkan rencananya ke OJK dan Bursa Efek Indonesia pada 20 November 2026.",
+   "Pembelian akan dilakukan melalui bursa dan/atau di luar bursa, baik secara bertahap maupun sekaligus, sepanjang 23 November 2026 sampai 22 Februari 2027, dengan batas maksimum 20 persen dari modal disetor perseroan. Jika transaksi dilakukan lewat bursa, XLSMART akan menunjuk satu perantara pedagang efek untuk mengeksekusinya. Dana buyback bersumber dari kas internal perseroan, bukan dari dana hasil penawaran umum maupun pinjaman. Selama periode ini, komisaris, direktur, karyawan, pemegang saham utama, dan pihak lain yang punya akses informasi orang dalam dilarang bertransaksi saham EXCL.",
+   "Dokumen ini juga memuat simulasi dampak keuangan berdasarkan laporan keuangan per 30 September 2026. Jika buyback Rp1 triliun direalisasikan penuh, total aset perseroan turun dari Rp117,088 triliun menjadi Rp116,088 triliun, dan total ekuitas turun dari Rp28,432 triliun menjadi Rp27,432 triliun. Rugi tahun berjalan tetap sebesar Rp1,601 triliun, namun rugi per saham dasar melebar dari Rp88 menjadi Rp90 per saham karena jumlah saham yang dipakai sebagai pembagi berkurang."
+  ],
+  "fotoAdegan": "Telecommunications tower technicians inspecting rooftop antenna equipment against a city skyline, late afternoon light.",
+  "takeaway": "Laporan ini condong netral dengan nuansa hati-hati: nilai buyback Rp1 triliun bukan jumlah kecil, sekitar 3,5 persen dari total ekuitas EXCL, tapi perseroan masih mencatat rugi Rp1,6 triliun untuk sembilan bulan pertama 2026, sehingga pembelian kembali saham ini justru memperbesar rugi per saham dari Rp88 menjadi Rp90, bukan memperbaikinya seperti yang biasa terjadi pada buyback emiten yang untung. Pos yang tersentuh adalah ekuitas atau modal sendiri perusahaan, yang berkurang Rp1 triliun karena kas dipakai membeli saham sendiri, serta laba atau rugi per saham, ukuran yang menunjukkan berapa untung atau rugi perusahaan jika dibagi ke setiap lembar saham yang dipegang investor. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang 23 November 2026 sampai 22 Februari 2027, apakah perseroan benar-benar menyerap sampai Rp1 triliun atau hanya sebagian, karena jumlah pastinya baru akan diketahui lewat laporan realisasi setelah periode itu berakhir.",
+  "sentimen": "netral",
+  "peristiwa": "buyback",
+  "judulIdx": "Rencana Pelaksanaan Buyback Saham dalam Kondisi Pasar yang Berfluktuasi secara Signifikan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Penyampaian keterbukaan informasi ke OJK dan bursa"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Mulai periode pelaksanaan buyback saham"
+   },
+   {
+    "tanggal": "2027-02-22",
+    "acara": "Batas akhir periode pelaksanaan buyback saham"
+   }
+  ]
+ },
+ {
+  "slug": "tapg-terima-dividen-interim-rp599-99-miliar-dari-ventura-ustp",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Terima [Dividen Interim] Rp599,99 Miliar dari Ventura USTP",
+  "deck": "TAPG melaporkan penerimaan dividen interim Rp599,99 miliar dari ventura bersamanya, USTP, yang 50 persen sahamnya dimiliki TAPG.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T08:23:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e166906bef_d30b4b19aa.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "Transaksi Afiliasi",
+   "Dividen Interim",
+   "USTP"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan transaksi afiliasi berupa penerimaan dividen interim senilai Rp599.990.000.000 atau sekitar Rp599,99 miliar pada 19 November 2026. Dana tersebut diterima dari PT Union Sampoerna Triputra Persada (USTP) dan entitas anaknya, perusahaan ventura bersama yang 50 persen sahamnya dimiliki oleh TAPG.",
+   "Berdasarkan surat yang disampaikan kepada Otoritas Jasa Keuangan, penerimaan dividen interim ini didasarkan pada pemberitahuan pembagian dividen interim dari USTP dengan nilai yang sama, Rp599.990.000.000. Pihak yang terlibat dalam transaksi ini adalah TAPG selaku perseroan di satu sisi, dan USTP beserta entitas anaknya selaku pemberi dividen di sisi lain. TAPG menyatakan transaksi ini tidak berdampak material terhadap perusahaan.",
+   "Laporan ini disampaikan untuk memenuhi Peraturan Otoritas Jasa Keuangan Nomor 42/POJK.04/2020 tanggal 2 Juli 2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, yang mewajibkan emiten mengungkapkan transaksi dengan pihak terafiliasi seperti perusahaan ventura bersama."
+  ],
+  "fotoAdegan": "Workers loading freshly harvested palm oil fruit bunches onto a truck at a rural plantation collection point, tropical daylight.",
+  "takeaway": "Laporan ini condong positif bagi TAPG karena nilainya cukup besar, sekitar Rp599,99 miliar dana tunai masuk dari ventura bersamanya tanpa menambah utang atau mengurangi hak pemegang saham lama. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar mengalir masuk ke kas perusahaan bukan sekadar pencatatan di atas kertas, sehingga dana sebesar ini bisa menambah fleksibilitas TAPG untuk membiayai operasional, investasi, atau membayar utang tanpa mencari pinjaman baru. Karena USTP berstatus ventura bersama yang sahamnya hanya 50 persen dimiliki TAPG, penerimaan dividen semacam ini biasanya tidak otomatis menambah laba di laporan laba rugi, tapi tetap memperkuat posisi kas konsolidasi perusahaan. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal TAPG setelah 19 November 2026, untuk melihat bagaimana dana sebesar Rp599,99 miliar ini benar-benar tercermin dalam posisi kas dan digunakan oleh perseroan.",
+  "sentimen": "positif",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Afiliasi"
+ },
+ {
   "slug": "vktr-bantah-ikut-konsorsium-bidik-saham-weda-bay-eramet",
   "category": "Aksi Korporasi",
   "title": "VKTR [Bantah] Ikut Konsorsium Bidik Saham Weda Bay Eramet",
@@ -59371,8 +59555,8 @@ var ARTICLES = [
  {
   "slug": "arii-siapkan-pmthmetd-375-juta-saham-rupslb-20-november",
   "category": "Aksi Korporasi",
-  "title": "ARII Siapkan [PMTHMETD] 375 Juta Saham, RUPSLB 20 November",
-  "deck": "ARII menjadwalkan RUPSLB 20 November 2026 untuk meminta restu penerbitan hingga 375 juta saham baru tanpa HMETD, dananya untuk infrastruktur jalan anak usaha MMJ.",
+  "title": "RUPSLB ARII 20 November: [Ditunda] Tanpa Jadwal Pengganti",
+  "deck": "RUPSLB ARII yang dijadwalkan 20 November 2026 untuk merestui rencana penambahan modal ditunda tanpa jadwal pengganti; agenda dalam surat penundaan disebut berbeda dari pengumuman sebelumnya.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 Oktober 2026",
   "isoDate": "2026-10-13T23:59:35",
@@ -59381,19 +59565,29 @@ var ARTICLES = [
   "emiten": "ARII",
   "tags": [
    "ARII",
-   "Atlas Resources",
+   "RUPSLB",
    "PMTHMETD",
-   "RUPSLB"
+   "Penundaan RUPS"
   ],
   "body": [
-   "PT Atlas Resources Tbk (ARII) menjadwalkan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 20 November 2026 pukul 10.00 WIB, di Kantor Operasional Perseroan, Jalan Kemang Raya 43, Jakarta. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per 28 Oktober 2026, dengan pemanggilan resmi rapat dijadwalkan 29 Oktober 2026. Agenda utama RUPSLB adalah meminta persetujuan pemegang saham independen atas rencana Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD), serta persetujuan penjaminan sebagian aset Perseroan terkait penambahan limit fasilitas kredit dari PT Bank Mandiri (Persero) Tbk yang diungkapkan dalam keterbukaan informasi tersendiri.",
-   "Dalam rencana PMTHMETD ini, Perseroan akan menerbitkan saham baru sebanyak-banyaknya 375.000.000 lembar, atau setara 10 persen dari 3.750.000.000 saham yang telah ditempatkan dan disetor penuh, dengan nilai nominal Rp200 per saham. Karena penerbitan saham baru ini tidak ditawarkan lebih dulu kepada pemegang saham lama, seluruh pemegang saham akan terdilusi hingga 9,09 persen, sementara jumlah lembar saham yang mereka pegang tidak berubah. Harga pelaksanaan saham baru belum ditetapkan dan baru akan ditentukan paling rendah 90 persen dari rata-rata harga penutupan saham ARII selama 25 hari perdagangan sebelum permohonan pencatatan saham tambahan ke Bursa Efek Indonesia, dan tidak boleh di bawah nilai nominal. Pelaksanaan penerbitan bisa dilakukan sekaligus atau bertahap dalam jangka waktu paling lama dua tahun sejak RUPSLB menyetujui rencana ini.",
-   "Seluruh dana hasil PMTHMETD, setelah dikurangi biaya terkait, akan disalurkan ke PT Musi Mitra Jaya (MMJ), anak usaha Perseroan di bidang logistik batu bara di Musi Rawas Utara, Sumatera Selatan, untuk membangun infrastruktur jalan angkut yang diklaim dapat menambah kapasitas angkut dan menekan biaya logistik tanpa menambah utang baru. Dengan ilustrasi skenario harga pelaksanaan terendah sebesar nilai nominal Rp200 per saham, dana yang masuk ke kas Perseroan diperkirakan Rp75 miliar atau setara US$4,5 juta, membuat kas dan setara kas naik 34,92 persen dari US$12,885 juta menjadi US$17,385 juta. Dalam skenario itu, total aset Perseroan hanya naik 0,78 persen menjadi US$579,111 juta, sementara ekuitas naik 5,71 persen dari US$78,87 juta menjadi US$83,37 juta, sehingga rasio utang terhadap ekuitas membaik dari 6,29 kali menjadi 5,95 kali. Karena penyaluran dana dari Perseroan ke MMJ, yang sahamnya tidak sepenuhnya dimiliki Perseroan melalui anak usaha, tergolong transaksi afiliasi, Perseroan wajib menggunakan penilai independen untuk menilai kewajaran transaksi itu saat dana disalurkan.",
-   "Berdasarkan Daftar Pemegang Saham per 31 Agustus 2026, dengan asumsi seluruh saham baru diserap pemodal yang bukan pemegang saham saat ini, porsi kepemilikan seluruh pemegang saham lama akan turun proporsional: PT Calorie Viva Utama selaku pengendali dari 29,082 persen menjadi 26,438 persen, Presiden Direktur Abdi Andre dari 12,692 persen menjadi 11,539 persen, DB AG Singapore SES CLT A/C untuk Vitol Asia Pte Ltd dari 8,080 persen menjadi 7,345 persen, PT Sumber Daya Kemilau dari 5,004 persen menjadi 4,549 persen, Presiden Komisaris Jay T. Oentoro dari 2,314 persen menjadi 2,104 persen, Komisaris Pranata Hajadi dari 0,313 persen menjadi 0,285 persen, Wakil Presiden Direktur Hans Jurgen Kaschull dari 0,355 persen menjadi 0,322 persen, Direktur Joko Kus Sulistyoko dari 0,940 persen menjadi 0,855 persen, dan masyarakat dengan kepemilikan di bawah 5 persen dari 41,219 persen menjadi 37,472 persen. Jumlah lembar saham yang dipegang masing-masing pihak tidak berubah, sementara saham baru hasil PMTHMETD akan mengisi 9,091 persen dari total saham setelah penerbitan. Perseroan menegaskan rencana ini tidak dimaksudkan mengubah status pengendali, dan belum dapat mengungkapkan identitas calon pemodal."
+   "PT Atlas Resources Tbk (ARII) menunda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan Jumat, 20 November 2026, tanpa menyebutkan jadwal pengganti. Dalam surat bernomor 0071-OJK/AR-CS/XI/2026 yang terbit pada hari yang sama dengan jadwal rapat, Perseroan menyatakan penundaan ini merujuk pada surat panggilan RUPSLB bernomor 0062-OJK/AR-CS/X/2026 tertanggal 29 Oktober 2026, dan rapat baru akan digelar setelah ada pengumuman lebih lanjut.",
+   "Surat penundaan ini mencantumkan dua agenda RUPSLB, yaitu persetujuan rencana transaksi material di atas 50 persen dan persetujuan rencana penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD). Penyebutan ini berbeda dari pengumuman sebelumnya yang menjelaskan agenda penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) dan persetujuan penjaminan aset untuk fasilitas kredit dari PT Bank Mandiri (Persero) Tbk. Perseroan belum menjelaskan apakah perbedaan ini mencerminkan perubahan struktur rencana atau sekadar perbedaan penulisan dalam dokumen.",
+   "Rencana yang diumumkan sebelumnya adalah penerbitan saham baru tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 375 juta lembar, setara 10 persen dari 3,75 miliar saham yang telah ditempatkan dan disetor penuh. Karena saham baru ini tidak ditawarkan dulu kepada pemegang saham lama, seluruh pemegang saham lama akan terdilusi hingga 9,09 persen, meski jumlah lembar yang mereka pegang tidak berubah. Harga pelaksanaan belum ditetapkan dan baru dihitung dari rata-rata harga penutupan saham ARII selama 25 hari perdagangan sebelum Perseroan mengajukan pencatatan saham tambahan ke Bursa Efek Indonesia, dengan batas bawah nilai nominal Rp200 per saham.",
+   "Seluruh dana dari rencana ini sedianya disalurkan ke PT Musi Mitra Jaya (MMJ), anak usaha Perseroan di bidang logistik batu bara di Musi Rawas Utara, Sumatera Selatan, untuk membangun infrastruktur jalan angkut tanpa menambah utang baru. Dalam skenario harga pelaksanaan terendah sebesar nilai nominal, dana yang masuk diperkirakan Rp75 miliar atau setara US$4,5 juta, yang akan menaikkan ekuitas Perseroan 5,71 persen dari US$78,87 juta menjadi US$83,37 juta, serta memperbaiki rasio utang terhadap ekuitas dari 6,29 kali menjadi 5,95 kali. Dengan penundaan RUPSLB, perbaikan rasio ini juga ikut tertunda sampai ada kejelasan jadwal baru."
   ],
   "fotoAdegan": "Unpaved haul road cutting through tropical forest with loaded coal trucks queued in the distance, overcast South Sumatra sky",
-  "takeaway": "Laporan ini condong netral bagi Atlas Resources: dana segar yang masuk memang memperkuat modal tanpa menambah utang, tetapi dilusi kepemilikan hingga 9,09 persen bagi pemegang saham lama dan catatan ketidakpastian kelangsungan usaha yang disematkan auditor pada laporan keuangan 2025 membuat rencana ini bukan kabar baik murni. Pos yang tersentuh adalah ekuitas, yaitu modal milik pemegang saham setelah dikurangi utang, yang pada skenario harga pelaksanaan terendah hanya naik 5,71 persen, sementara rasio utang terhadap ekuitas yang sebelumnya sudah tinggi di 6,29 kali cuma turun tipis ke 5,95 kali; laba per saham juga ikut tergerus karena jumlah saham beredar bertambah tanpa laba ikut bertambah secara proporsional dalam waktu dekat. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 20 November 2026 yang menentukan apakah pemegang saham independen merestui rencana ini, serta penetapan harga pelaksanaan saham baru yang baru dihitung dari rata-rata harga 25 hari perdagangan sebelum Perseroan mengajukan permohonan pencatatan saham tambahan ke BEI.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini condong negatif bagi Atlas Resources, karena penundaan tanpa jadwal pengganti memperpanjang ketidakpastian atas rencana penambahan modal yang ditunggu untuk memperbaiki struktur modal Perseroan, apalagi agenda yang dicantumkan kali ini berbeda dari pengumuman sebelumnya tanpa penjelasan. Pos yang tersentuh adalah ekuitas, yaitu modal milik pemegang saham setelah dikurangi utang, karena penguatan ekuitas dari dana segar yang semula diharapkan tahun ini kini tertunda, sehingga rasio utang terhadap ekuitas yang sudah tinggi di 6,29 kali juga belum sempat membaik. Jumlah saham beredar untuk sementara tidak bertambah, sehingga dilusi laba per saham yang dikhawatirkan pemegang saham lama juga belum terjadi. Yang perlu dipantau berikutnya adalah pengumuman jadwal RUPSLB pengganti yang belum ditentukan, serta kejelasan Perseroan soal agenda mana yang berlaku, penambahan modal tanpa hak memesan seperti diumumkan semula atau dengan hak memesan seperti tertulis di surat penundaan ini.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T09:07:30",
+    "ringkas": "RUPSLB ARII yang dijadwalkan 20 November 2026 resmi ditunda tanpa jadwal pengganti, dengan agenda yang disebut sedikit berbeda dari pengumuman sebelumnya.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c4922f3e07_198caf6d33.pdf",
+    "judulIdx": "Penundaan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-20T09:07:30",
+  "peristiwa": "rups"
  },
  {
   "slug": "pertamina-trans-kontinental-borong-empat-trofi-maritim-digital",

@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupslb-mari-29-desember-dps-pemegang-saham-dicatat-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB MARI 29 Desember: [DPS] Pemegang Saham Dicatat 4 Desember",
+  "deck": "PT Mahaka Radio Integra Tbk (MARI) menjadwalkan RUPSLB elektronik pada 29 Desember 2026, dengan pemegang saham berhak hadir dicatat per 4 Desember 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MARI",
+   "RUPSLB",
+   "Mahaka Radio Integra",
+   "Rapat Umum Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/afea0a66f9_a112b372bc.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-bfin-26-november-laba-bersih-9m26-naik-12-5",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BFIN 26 November: [Laba Bersih] 9M26 Naik 12,5%",
+  "deck": "BFI Finance memaparkan materi public expose tahunan: laba bersih 9M26 naik 12,5 persen jadi Rp1,313 triliun, NPF membaik ke 1,33 persen.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BFIN",
+   "Public Expose",
+   "BFI Finance",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/173a40d8b4_9565aa78ff.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-bima-dijadwalkan-29-desember-agenda-diumumkan-7-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BIMA Dijadwalkan 29 Desember: [Agenda] Diumumkan 7 Desember",
+  "deck": "RUPSLB Primarindo (BIMA) digelar 29 Desember 2026, DPS dicatat 4 Desember, agenda resmi baru diumumkan 7 Desember 2026.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BIMA",
+   "RUPSLB",
+   "Primarindo Asia Infrastructure",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/23a728f1fd_59ad095588.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buyback-excl-rp1-triliun-pembelian-mulai-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Buyback EXCL Rp1 Triliun: [Pembelian] Mulai 23 November 2026",
+  "deck": "XLSMART (EXCL) akan membeli kembali saham senilai maksimal Rp1 triliun mulai 23 November 2026 hingga 22 Februari 2027, tanpa perlu restu RUPS.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EXCL",
+   "buyback saham",
+   "XLSMART",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/92b9aff368_db3fede04d.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tapg-terima-dividen-interim-rp599-99-miliar-dari-ventura-ustp",
+  "category": "Aksi Korporasi",
+  "title": "TAPG Terima [Dividen Interim] Rp599,99 Miliar dari Ventura USTP",
+  "deck": "TAPG melaporkan penerimaan dividen interim Rp599,99 miliar dari ventura bersamanya, USTP, yang 50 persen sahamnya dimiliki TAPG.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "Transaksi Afiliasi",
+   "Dividen Interim",
+   "USTP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e166906bef_d30b4b19aa.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "vktr-bantah-ikut-konsorsium-bidik-saham-weda-bay-eramet",
   "category": "Aksi Korporasi",
   "title": "VKTR [Bantah] Ikut Konsorsium Bidik Saham Weda Bay Eramet",
@@ -6448,87 +6528,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477734-saatnya-beli-harga-emas-antam-hari-ini-11-november-2026-turun-jadi-rp2530000-per-gram"
- },
- {
-  "slug": "prtl-bagikan-dividen-interim-rp200-miliar-rp3-43-saham",
-  "category": "Aksi Korporasi",
-  "title": "PRTL Bagikan [Dividen] Interim Rp200 Miliar, Rp3,43/Saham",
-  "deck": "Protelindo (PRTL) membagikan dividen interim Rp3,43 per saham atau total Rp200 miliar untuk tahun buku 2026, sesuai otorisasi RUPST kepada direksi.",
-  "date": "11 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PRTL",
-   "dividen interim",
-   "Protelindo",
-   "RUPST"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c59321b48_e5b7cbd6a9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan",
-  "category": "Ketenagakerjaan",
-  "title": "Resign Kerja, Begini Cara [Cairkan] JHT BPJS Ketenagakerjaan",
-  "deck": "Pekerja yang resign tetap bisa mencairkan saldo JHT BPJS Ketenagakerjaan, asal melewati masa tunggu satu bulan dan melengkapi syarat dokumen sesuai jumlah saldo.",
-  "date": "11 November 2026",
-  "image": "assets/img/resign-kerja-begini-cara-cairkan-jht-bpjs-ketenagakerjaan.jpg",
-  "imageV": "mwb1euak",
-  "tags": [
-   "BPJS Ketenagakerjaan",
-   "JHT",
-   "resign",
-   "JMO"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477683-baru-resign-mau-langsung-cairkan-bpjs-ketenagakerjaan-memang-bisa-ini-syarat-dan-caranya"
- },
- {
-  "slug": "giaa-luncurkan-rights-issue-rp6-2-triliun-dilusi-37-9",
-  "category": "Aksi Korporasi",
-  "title": "GIAA Luncurkan Rights Issue Rp6,2 Triliun, [Dilusi] 37,9%",
-  "deck": "Garuda menawarkan hingga 248,7 miliar saham baru seri E seharga Rp58-Rp68 per saham, dengan Danantara membayar mayoritas haknya pakai saham GMFI, bukan kas segar.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GIAA",
-   "rights issue",
-   "Danantara",
-   "GMFI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/461692c59d_0fca098a2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpdp-dorong-pasar-sawit-dan-umkm-di-pameran-ifbc-2026",
-  "category": "UMKM",
-  "title": "BPDP Dorong Pasar Sawit dan UMKM di Pameran [IFBC] 2026",
-  "deck": "BPDP membuka booth promosi di pameran IFBC 2026 untuk mengenalkan potensi sawit, kelapa, dan kakao serta mendorong perluasan pasar UMKM berbasis komoditas tersebut.",
-  "date": "10 November 2026",
-  "image": "assets/img/bpdp-dorong-pasar-sawit-dan-umkm-di-pameran-ifbc-2026.jpg",
-  "imageV": "mwb1eurk",
-  "tags": [
-   "BPDP",
-   "kelapa sawit",
-   "UMKM",
-   "IFBC 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477678-bpdp-genjot-perluasan-pasar-kelapa-sawit-dan-umkm-lewat-ifbc-2026"
- },
- {
-  "slug": "raja-teken-pinjaman-afiliasi-rp16-5-m-ke-anak-usaha-mui",
-  "category": "Aksi Korporasi",
-  "title": "RAJA Teken Pinjaman [Afiliasi] Rp16,5 M ke Anak Usaha MUI",
-  "deck": "EHK memberi pinjaman Rp16,5 miliar berbunga 7,5 persen per tahun kepada MUI, dua anak usaha yang sama-sama dikendalikan RAJA, untuk mendanai operasional bisnis pipa gas MUI.",
-  "date": "10 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAJA",
-   "Transaksi Afiliasi",
-   "Pinjaman Antar Perusahaan",
-   "Energasindo Heksa Karya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ca16b61b0_4bd2010bd1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

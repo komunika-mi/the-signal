@@ -112,8 +112,8 @@ var ARTICLES = [
  {
   "slug": "rups-dmy-shm-30-november-right-issue-100-000-saham-disetujui",
   "category": "Aksi Korporasi",
-  "title": "RUPS DMY-SHM 30 November: [Right Issue] 100.000 Saham Disetujui",
-  "deck": "RUPS DMY-SHM menyetujui penambahan modal lewat HMETD rasio 52:22, maksimal 100.000 saham baru di harga Rp100 per saham, efektif 30 November 2026.",
+  "title": "RUPS DMY-SHM 21 November: Right Issue 221 Saham Disetujui",
+  "deck": "RUPS DMY-SHM finalkan rights issue: 221 saham baru, rasio 480:786, harga Rp43, mengganti rencana awal 100.000 saham di Rp100. Proses rampung 21 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T12:17:02",
@@ -122,54 +122,63 @@ var ARTICLES = [
   "emiten": "DMY-SHM",
   "tags": [
    "DMY-SHM",
-   "rights issue",
+   "Right Issue",
    "HMETD",
-   "penambahan modal"
+   "RUPS"
   ],
   "body": [
-   "Rapat Umum Pemegang Saham PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) pada 30 November 2026 menyetujui penambahan modal melalui mekanisme hak memesan efek terlebih dahulu (HMETD), atau yang lazim disebut rights issue. Perusahaan akan menerbitkan saham baru sebanyak-banyaknya 100.000 lembar dengan nilai nominal Rp100 per saham. Rasio pelaksanaannya 52:22, artinya setiap pemegang 52 saham lama berhak membeli 22 saham baru, dengan harga pelaksanaan Rp100 per saham, sama dengan nilai nominalnya. Rights issue ini tidak disertai penerbitan waran, dan hak yang diperoleh pemegang saham juga tidak bisa dikonversi menjadi saham tambahan.",
-   "Seluruh jadwal rights issue ini, dari tanggal efektif, penentuan daftar pemegang saham yang berhak, cum dan ex HMETD di pasar reguler, negosiasi, maupun pasar tunai, distribusi hak, pencatatan di Bursa Efek Indonesia, periode perdagangan dan pelaksanaan HMETD, penjatahan, sampai pengembalian kelebihan uang pesanan, jatuh pada tanggal yang sama, 30 November 2026. Dokumen keterbukaan ini tidak memuat rincian soal rencana penggunaan dana hasil rights issue tersebut.",
-   "Aksi ini terjadi di tengah sejumlah masalah yang sedang membayangi DMY-SHM, termasuk status penundaan kewajiban pembayaran utang (PKPU) dengan tagihan yang disebut perusahaan sendiri setara 100 persen dari total aset, ancaman penghapusan status perusahaan terbuka setelah suspensi saham genap 24 bulan, serta realisasi dana hasil penawaran umum sebelumnya yang baru mencapai 44,6 persen dari target."
+   "Hasil Rapat Umum Pemegang Saham PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) yang dipublikasikan 21 November 2026 menetapkan angka final penambahan modal melalui hak memesan efek terlebih dahulu (HMETD) atau rights issue, jauh lebih kecil dari rencana yang sebelumnya diumumkan. Perusahaan hanya akan menerbitkan maksimal 221 saham baru dengan nilai nominal Rp206 per saham, pada harga pelaksanaan Rp43 per saham dengan rasio 480:786, artinya setiap pemegang 480 saham lama berhak membeli 786 saham baru. Angka ini menggantikan rencana sebelumnya yang menyebut maksimal 100.000 saham baru di harga Rp100 per saham dengan rasio 52:22.",
+   "Seluruh rangkaian proses rights issue ini, dari tanggal efektif, penentuan daftar pemegang saham yang berhak, cum dan ex HMETD di pasar reguler maupun tunai, distribusi hak, pencatatan di Bursa Efek Indonesia, periode perdagangan dan pelaksanaan HMETD, penjatahan, sampai pengembalian kelebihan uang pesanan, dijadwalkan rampung pada tanggal yang sama, 21 November 2026. Seperti rencana sebelumnya, dokumen ini tidak merinci rencana penggunaan dana hasil rights issue.",
+   "Aksi ini tetap berlangsung di tengah sejumlah masalah yang membayangi DMY-SHM, termasuk status penundaan kewajiban pembayaran utang (PKPU) dengan tagihan yang disebut perusahaan sendiri setara 100 persen dari total aset, ancaman penghapusan status perusahaan terbuka setelah suspensi saham genap 24 bulan, serta realisasi dana hasil penawaran umum sebelumnya yang baru mencapai 44,6 persen dari target."
   ],
   "fotoAdegan": "Workers stacking sacks of packaged food products onto pallets inside a busy warehouse, forklift nearby, industrial lighting",
-  "takeaway": "Laporan ini netral bagi DMY-SHM, karena skala rights issue ini terlalu kecil untuk dibaca sebagai sinyal tegas ke arah mana pun: dana yang bisa terkumpul maksimal hanya Rp10 juta, dari 100.000 saham baru dikali harga pelaksanaan Rp100 per saham, jumlah yang tidak material untuk perusahaan terbuka, apalagi di tengah kasus PKPU dengan tagihan yang sudah disebut setara seluruh aset perusahaan. Yang tersentuh dari aksi ini adalah jumlah saham beredar, yang bisa bertambah sampai 100.000 lembar baru, dan laba per saham, yaitu bagian laba perusahaan yang dibagi ke tiap lembar saham, karena penambahan lembar saham tanpa kepastian laba ikut naik akan membuat jatah per lembar sedikit lebih tipis meski dalam skala ini dampaknya kecil. Yang perlu dipantau selanjutnya adalah pelaksanaan jadwal pada 30 November 2026, saat seluruh proses dari distribusi hak, perdagangan dan pelaksanaan HMETD, penjatahan, sampai pengembalian kelebihan uang pesanan dijadwalkan rampung dalam satu hari yang sama, serta apakah perusahaan nantinya merinci untuk apa dana hasil rights issue ini benar-benar dipakai.",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena rights issue ini bahkan lebih kecil dari rencana awal, dana yang bisa terkumpul maksimal hanya sekitar Rp9.500, dari 221 saham baru dikali harga pelaksanaan Rp43 per saham, jumlah yang tidak berarti apa-apa bagi perusahaan terbuka, apalagi di tengah kasus PKPU dengan tagihan setara seluruh aset perusahaan. Yang tersentuh dari aksi ini adalah jumlah saham beredar, yang bertambah maksimal 221 lembar, dan laba per saham, yaitu bagian laba perusahaan yang dibagi ke tiap lembar, meski di skala ini dampaknya nyaris tidak terasa. Yang perlu dipantau selanjutnya adalah pelaksanaan seluruh proses pada 21 November 2026, karena distribusi hak, perdagangan dan pelaksanaan HMETD, penjatahan, sampai pengembalian kelebihan uang pesanan semuanya dijadwalkan rampung dalam hari yang sama, serta apakah perusahaan nantinya menjelaskan kenapa angka final rights issue ini berubah drastis dari rencana yang sebelumnya diumumkan.",
   "sentimen": "netral",
   "peristiwa": "right-issue",
   "judulIdx": "Penambahan Modal dengan HMETD",
   "jadwal": [
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Tanggal efektif rights issue"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Daftar pemegang saham yang berhak atas HMETD"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Cum HMETD di pasar reguler dan negosiasi"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Ex HMETD di pasar reguler dan negosiasi"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Distribusi HMETD"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Periode perdagangan dan pelaksanaan HMETD"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Tanggal penjatahan saham baru"
    },
    {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-21",
     "acara": "Pengembalian kelebihan uang pesanan"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T11:17:06",
+    "ringkas": "RUPS menetapkan rights issue DMY-SHM final: 221 saham baru, Rp43/saham, rasio 480:786, proses rampung 21 November 2026, jauh lebih kecil dari rencana awal.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_c7365d36-a1f8-453c-8df3-037182b4dbab-20261121111708.pdf",
+    "judulIdx": "Penambahan Modal dengan HMETD"
+   }
+  ],
+  "diperbarui": "2026-11-21T11:17:06"
  },
  {
   "slug": "dividen-tunai-dmy-shm-rp199-per-saham-cair-30-november",
@@ -400,6 +409,173 @@ var ARTICLES = [
    {
     "tanggal": "2026-11-21",
     "acara": "Tanggal pembayaran dividen tunai"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp1-per-saham-cair-5-februari-2027",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai DMY-SHM Rp1 per Saham, [Cair] 5 Februari 2027",
+  "deck": "RUPS Tahunan DMY-SHM 6 Januari 2027 menyetujui dividen tunai tahun buku 2026 Rp1 per saham, total Rp1 juta, dibayar 5 Februari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:15:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_ddcdce6d-f15f-4ce7-9fa0-c1e61094dd68-20261121111535.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "dividen tunai",
+   "RUPST",
+   "pasar modal"
+  ],
+  "body": [
+   "Emiten dengan kode DMY-SHM melaporkan ke Bursa Efek Indonesia bahwa Rapat Umum Pemegang Saham Tahunan pada 6 Januari 2027 menyetujui pembagian dividen tunai untuk tahun buku 2026. Dividen ditetapkan sebesar Rp1 per saham dengan total nilai Rp1 juta, seluruhnya berupa dividen final karena tidak ada dividen interim yang sudah dibagikan sepanjang tahun buku tersebut.",
+   "Jadwal pembagiannya sudah ditetapkan lengkap. Saham DMY-SHM akan diperdagangkan dengan hak dividen (cum dividen) di pasar reguler dan negosiasi sampai 14 Januari 2027, lalu masuk periode tanpa hak dividen (ex dividen) mulai 15 Januari 2027. Di pasar tunai, batas cum dividen jatuh pada 18 Januari 2027 dan ex dividen mulai 19 Januari 2027. Pemegang saham yang namanya tercatat di Daftar Pemegang Saham pada 18 Januari 2027 pukul 10.00 WIB adalah yang berhak menerima dividen, dan pembayarannya dijadwalkan pada 5 Februari 2027.",
+   "Dasar pembagian dividen ini adalah laporan keuangan per 31 Desember 2026, dengan laba bersih yang diatribusikan ke perusahaan induk sebesar Rp100 juta, saldo laba ditahan yang tidak dibatasi penggunaannya Rp200 juta, dan total ekuitas perusahaan Rp300 juta. Dengan total dividen yang dibagikan Rp1 juta, jumlah yang benar-benar dibayarkan berdasarkan Daftar Pemegang Saham juga tercatat sama, yakni Rp1 per saham atau Rp1 juta secara total."
+  ],
+  "fotoAdegan": "Analysts walking through a busy Jakarta stock exchange lobby, distant blurred ticker screens, soft morning light",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena nilai dividen yang dibagikan sangat kecil dibanding kondisi keuangan perusahaan dan tidak mengganggu apa pun. Pos yang tersentuh di sini adalah ekuitas, yaitu total kekayaan bersih perusahaan setelah dikurangi utang, yang tercatat Rp300 juta. Dividen Rp1 juta hanya mengambil sekitar 1 persen dari laba bersih tahun ini dan tidak sampai 1 persen dari ekuitas, jauh berbeda dari laporan dividen DMY-SHM sebelumnya yang nilainya nyaris menghabiskan seluruh ekuitas perusahaan. Yang perlu dipantau selanjutnya adalah tanggal 18 Januari 2027, saat daftar pemegang saham yang berhak menerima dividen ditutup, serta tanggal pembayaran pada 5 Februari 2027 untuk memastikan dividen benar-benar cair sesuai jadwal.",
+  "sentimen": "netral",
+  "peristiwa": "dividen",
+  "judulIdx": "Dividen Tunai",
+  "jadwal": [
+   {
+    "tanggal": "2027-01-06",
+    "acara": "RUPS Tahunan menyetujui dividen tunai tahun buku 2026"
+   },
+   {
+    "tanggal": "2027-01-14",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2027-01-15",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2027-01-18",
+    "acara": "Cum dividen di pasar tunai dan batas akhir Daftar Pemegang Saham"
+   },
+   {
+    "tanggal": "2027-01-19",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2027-02-05",
+    "acara": "Pembayaran dividen tunai"
+   }
+  ]
+ },
+ {
+  "slug": "buyback-dmy-shm-21-november-harga-limit-rp2-876-biaya-rp3-514",
+  "category": "Aksi Korporasi",
+  "title": "Buyback DMY-SHM 21 November: [Harga Limit] Rp2.876, Biaya Rp3.514",
+  "deck": "DMY-SHM berencana membeli kembali sahamnya pada 21 November 2026 lewat mekanisme Bursa Efek Indonesia, dengan batas harga Rp2.876 per saham dan perkiraan biaya Rp3.514.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:11:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E006_903031af-2bc3-49b9-b5e0-45bddab5b324-20261121111136.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "buyback",
+   "pembelian kembali saham",
+   "pasar modal"
+  ],
+  "body": [
+   "Emiten berkode DMY-SHM mengumumkan rencana pembelian kembali saham (buy back) dengan memanfaatkan aturan khusus untuk kondisi pasar yang berfluktuasi secara signifikan. Perkiraan jadwal pelaksanaannya hanya satu hari, yaitu 21 November 2026. Perseroan menyebut batas harga pembelian kembali saham sebesar Rp2.876 per saham, dengan perkiraan total biaya pembelian sebesar Rp3.514. Transaksi akan dilakukan melalui mekanisme Bursa Efek Indonesia, menggunakan jasa perantara pedagang efek Nilai Inti Sekuritas (RO).",
+   "Dalam dokumen, sumber dana untuk pembelian kembali ini hanya dicatat sebagai keterangan singkat tanpa rincian asal dana yang jelas. Keterbukaan informasi ini ditandatangani secara elektronik oleh Rendi Emiten Approver yang bertindak atas nama manajemen perseroan, pada 21 November 2026 pukul 11.11 WIB.",
+   "Rencana buyback ini muncul di tengah rangkaian aksi korporasi DMY-SHM belakangan ini. Perdagangan sahamnya baru dibuka kembali pada hari yang sama setelah disuspensi selama 24 bulan, sementara perseroan juga baru mencatatkan penempatan saham terbatas yang mendilusi kepemilikan pemegang saham lama hingga 90 persen. Dengan nilai yang kecil, rencana pembelian kembali ini belum tentu cukup untuk mengembalikan kepercayaan pasar setelah rangkaian peristiwa tersebut."
+  ],
+  "fotoAdegan": "Brokers conferring near blurred trading terminals on a stock exchange floor, soft early morning light streaming in.",
+  "takeaway": "Catatan ini netral bagi DMY-SHM, karena nilai rencana pembelian kembali saham yang tertulis dalam dokumen, sekitar Rp3.514, sangat kecil dan tidak akan berdampak berarti pada jumlah saham beredar maupun permodalan perusahaan. Pos yang seharusnya tersentuh adalah jumlah saham beredar dan ekuitas, karena buyback biasanya memakai kas perusahaan untuk menarik saham dari pasar sehingga porsi kepemilikan pemegang saham yang tersisa membesar, namun dengan dana sekecil ini efeknya praktis tidak terasa. Perlu diingat pula riwayat DMY-SHM belakangan ini diwarnai penempatan saham baru yang mendilusi pemegang saham lama hingga 90 persen dan suspensi perdagangan selama 24 bulan, sehingga rencana buyback berskala kecil ini tidak cukup mengimbangi tekanan tersebut. Yang perlu dipantau selanjutnya adalah laporan realisasi pembelian kembali saham setelah periode rencana berakhir pada 21 November 2026, untuk memastikan apakah transaksi benar-benar dieksekusi, mengingat sumber dananya dalam dokumen hanya disebut sebagai keterangan tanpa rincian jelas.",
+  "sentimen": "netral",
+  "peristiwa": "buyback",
+  "judulIdx": "Rencana Pembelian Kembali Saham (Buy Back) dalam Kondisi Pasar yang Berfluktuasi secara Signifikan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Periode rencana pembelian kembali saham dimulai dan berakhir"
+   }
+  ]
+ },
+ {
+  "slug": "rupst-dmy-shm-6-januari-dividen-disetujui-direksi-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPST DMY-SHM 6 Januari: [Dividen] Disetujui, Direksi Baru",
+  "deck": "RUPS Tahunan DMY-SHM yang digelar 6 Januari 2027 menyetujui pembagian dividen tunai dan menetapkan susunan direksi serta komisaris baru hingga 31 Juli 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:09:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_91dcd57e-ea36-407d-a576-72dd239aeb2a-20261121111234.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "RUPST",
+   "dividen tunai",
+   "direksi"
+  ],
+  "body": [
+   "DMY-SHM menggelar Rapat Umum Pemegang Saham Tahunan pada 6 Januari 2027 yang dihadiri pemegang saham yang mewakili 1.000.000 saham, atau seluruh saham dengan hak suara yang sah di perusahaan. Dua agenda dibawa ke rapat ini, yakni agenda lain-lain untuk tahun buku 2026 dan persetujuan penggunaan laba bersih dalam bentuk dividen tunai, juga untuk tahun buku 2026.",
+   "Kedua agenda disetujui dengan komposisi suara yang sama: 900.000 saham atau 90 persen suara menyatakan setuju, sementara 100.000 saham atau 10 persen suara menyatakan tidak setuju, dan tidak ada suara abstain. Dokumen tidak menyebutkan nilai dividen tunai per saham yang disetujui.",
+   "Rapat juga menetapkan susunan pengurus baru yang berlaku sejak 6 Januari 2027 hingga 31 Juli 2027. Direksi terdiri dari Arif Dummy Uji sebagai Direktur Utama, serta Rina Dummy Percobaan dan Yoga Dummy Percobaan sebagai Direktur. Dewan Komisaris terdiri dari Hartono Dummy Uji sebagai Komisaris Utama, serta Maya Uji Dummy dan Dr. Agus Percobaan Dummy sebagai Komisaris. Dokumen mencatat bahwa tidak satu pun dari jajaran direksi maupun komisaris ini berstatus independen."
+  ],
+  "fotoAdegan": "Empty boardroom table with rows of chairs and water glasses set up for a shareholders meeting, soft morning light",
+  "takeaway": "Catatan ini netral bagi DMY-SHM, sebab dokumen hanya mengonfirmasi rutinitas tahunan, persetujuan dividen dan pergantian pengurus, tanpa ada angka dividen baru yang bisa dinilai besar atau kecil dampaknya. Dividen tunai yang disetujui akan mengurangi kas dan ekuitas perusahaan karena laba yang seharusnya bisa ditahan untuk modal kerja justru dibagikan ke pemegang saham, meski besarannya belum disebut di sini. Pergantian direksi dan komisaris juga patut dicatat karena bisa memengaruhi arah kebijakan perusahaan ke depan, apalagi tidak ada satu pun komisaris independen dalam susunan baru ini. Yang perlu dipantau selanjutnya adalah pengumuman nilai dividen final per saham beserta tanggal pembayarannya, serta kinerja jajaran direksi dan komisaris baru hingga masa jabatan mereka berakhir pada 31 Juli 2027.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2027-01-06",
+    "acara": "RUPS Tahunan DMY-SHM diselenggarakan"
+   },
+   {
+    "tanggal": "2027-07-31",
+    "acara": "Akhir periode jabatan direksi dan komisaris baru"
+   }
+  ]
+ },
+ {
+  "slug": "perubahan-pengurus-dmy-shm-direktur-utama-baru-gantikan-arif",
+  "category": "Aksi Korporasi",
+  "title": "Perubahan Pengurus DMY-SHM: [Direktur Utama] Baru Gantikan Arif",
+  "deck": "RUPS 20 November 2026 mengesahkan pergantian jajaran direksi dan komisaris DMY-SHM, Budi jadi Direktur Utama baru, efektif 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:09:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E036_ec6dce12-a6aa-4036-b721-6dcc6525938e-20261121110936.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "Perubahan Pengurus",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) mengumumkan pergantian menyeluruh jajaran direksi dan dewan komisaris berdasarkan keputusan Rapat Umum Pemegang Saham (RUPS) tanggal 20 November 2026. Budi ditetapkan sebagai Direktur Utama baru, menggantikan Arif Dummy Uji. Jabatan ini mulai berlaku 23 November 2026 dan berakhir 23 November 2028, dengan masa jabatan dua tahun.",
+   "Dua kursi direksi lain juga berganti pengurus pada periode yang sama. Bambang menjadi Direktur baru menggantikan Rina Dummy Percobaan, sementara Joko menjadi Direktur baru menggantikan Yoga Dummy Percobaan. Ketiganya tercatat tidak memiliki afiliasi dan tidak merangkap jabatan pengurus di perusahaan tercatat lain.",
+   "Di jajaran komisaris, Yudhoyono menjadi Komisaris Utama baru menggantikan Hartono Dummy Uji, dan Arie menjadi Komisaris baru menggantikan Maya Uji Dummy. Dokumen menyebut keduanya tetap berstatus komisaris independen, sama seperti pejabat yang mereka gantikan, sehingga porsi pengawasan independen di jajaran komisaris tidak berkurang."
+  ],
+  "fotoAdegan": "Empty modern boardroom with leather chairs around a long table, city skyline visible through large windows, morning light",
+  "takeaway": "Catatan ini netral bagi DMY-SHM, sebab pergantian direksi dan komisaris ini hanyalah pelaksanaan dari keputusan RUPS yang sudah disetujui sebelumnya, tanpa ada dana yang masuk atau keluar dan tanpa perubahan jumlah saham beredar. Pergantian pengurus tidak langsung mengubah angka di laporan keuangan seperti ekuitas, arus kas, atau laba per saham, tapi menentukan siapa yang mengambil keputusan strategis dan mengawasi manajemen ke depan, sehingga pada akhirnya bisa memengaruhi pos-pos itu lewat keputusan belanja atau utang yang mereka ambil. Pasar juga memperhatikan bahwa dua komisaris baru tetap berstatus independen seperti pendahulunya, yang berarti fungsi pengawasan terhadap direksi tidak melemah. Yang perlu dipantau selanjutnya adalah kinerja dan arah kebijakan jajaran baru ini sejak resmi menjabat pada 23 November 2026 sampai akhir periode jabatan pada 23 November 2028.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "RUPS mengesahkan pergantian direksi dan komisaris"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Direksi dan komisaris baru resmi menjabat"
+   },
+   {
+    "tanggal": "2028-11-23",
+    "acara": "Akhir periode jabatan direksi dan komisaris baru"
    }
   ]
  },

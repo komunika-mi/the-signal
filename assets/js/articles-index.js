@@ -39,15 +39,15 @@ var ARTICLES = [
  {
   "slug": "rups-dmy-shm-30-november-right-issue-100-000-saham-disetujui",
   "category": "Aksi Korporasi",
-  "title": "RUPS DMY-SHM 30 November: [Right Issue] 100.000 Saham Disetujui",
-  "deck": "RUPS DMY-SHM menyetujui penambahan modal lewat HMETD rasio 52:22, maksimal 100.000 saham baru di harga Rp100 per saham, efektif 30 November 2026.",
+  "title": "RUPS DMY-SHM 21 November: Right Issue 221 Saham Disetujui",
+  "deck": "RUPS DMY-SHM finalkan rights issue: 221 saham baru, rasio 480:786, harga Rp43, mengganti rencana awal 100.000 saham di Rp100. Proses rampung 21 November 2026.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
-   "rights issue",
+   "Right Issue",
    "HMETD",
-   "penambahan modal"
+   "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_ba68b244-e226-4ac4-8568-6600c0957b55-20261121121705.pdf",
   "sourceLabel": "IDX"
@@ -114,6 +114,70 @@ var ARTICLES = [
    "ekuitas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_5e02f4c2-a928-4a74-9ac9-c5ebc7c0dcbd-20261121112045.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp1-per-saham-cair-5-februari-2027",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai DMY-SHM Rp1 per Saham, [Cair] 5 Februari 2027",
+  "deck": "RUPS Tahunan DMY-SHM 6 Januari 2027 menyetujui dividen tunai tahun buku 2026 Rp1 per saham, total Rp1 juta, dibayar 5 Februari 2027.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "dividen tunai",
+   "RUPST",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_ddcdce6d-f15f-4ce7-9fa0-c1e61094dd68-20261121111535.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buyback-dmy-shm-21-november-harga-limit-rp2-876-biaya-rp3-514",
+  "category": "Aksi Korporasi",
+  "title": "Buyback DMY-SHM 21 November: [Harga Limit] Rp2.876, Biaya Rp3.514",
+  "deck": "DMY-SHM berencana membeli kembali sahamnya pada 21 November 2026 lewat mekanisme Bursa Efek Indonesia, dengan batas harga Rp2.876 per saham dan perkiraan biaya Rp3.514.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "buyback",
+   "pembelian kembali saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E006_903031af-2bc3-49b9-b5e0-45bddab5b324-20261121111136.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-dmy-shm-6-januari-dividen-disetujui-direksi-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPST DMY-SHM 6 Januari: [Dividen] Disetujui, Direksi Baru",
+  "deck": "RUPS Tahunan DMY-SHM yang digelar 6 Januari 2027 menyetujui pembagian dividen tunai dan menetapkan susunan direksi serta komisaris baru hingga 31 Juli 2027.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "RUPST",
+   "dividen tunai",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_91dcd57e-ea36-407d-a576-72dd239aeb2a-20261121111234.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "perubahan-pengurus-dmy-shm-direktur-utama-baru-gantikan-arif",
+  "category": "Aksi Korporasi",
+  "title": "Perubahan Pengurus DMY-SHM: [Direktur Utama] Baru Gantikan Arif",
+  "deck": "RUPS 20 November 2026 mengesahkan pergantian jajaran direksi dan komisaris DMY-SHM, Budi jadi Direktur Utama baru, efektif 23 November 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "Perubahan Pengurus",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E036_ec6dce12-a6aa-4036-b721-6dcc6525938e-20261121110936.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6445,70 +6509,6 @@ var ARTICLES = [
    "struktur pemegang saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a7c2b0b626_fa2469fbcd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupo-obligasi-iii-bold-10-desember-agenda-menyusul-26-november",
-  "category": "Aksi Korporasi",
-  "title": "RUPO Obligasi III BOLD 10 Desember: [Agenda] Menyusul 26 November",
-  "deck": "Wali Amanat CIMB Niaga menjadwalkan RUPO Obligasi III BUMA Tahun 2025 pada 10 Desember 2026 di Jakarta; agenda resmi baru terbit lewat panggilan 26 November.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "RUPO",
-   "obligasi",
-   "BUMA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cfe3c47473_6c65933234.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtla-q3-2026-pendapatan-naik-4-16-laba-bersih-turun-ke-rp183-m",
-  "category": "Aksi Korporasi",
-  "title": "MTLA Q3 2026: Pendapatan Naik 4,16%, [Laba Bersih Turun] ke Rp183 M",
-  "deck": "Pendapatan usaha MTLA tumbuh 4,16% jadi Rp1,178 triliun hingga September 2026, tapi laba bersih turun ke Rp183 miliar karena pergeseran komposisi margin penjualan.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTLA",
-   "Metropolitan Land",
-   "Public Expose",
-   "Properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c19b505f44_3b8d4a6bc0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "truk-jawab-bursa-rugi-turun-jadi-rp3-59-miliar-per-9m-2026",
-  "category": "Aksi Korporasi",
-  "title": "TRUK Jawab Bursa: [Rugi] Turun Jadi Rp3,59 Miliar per 9M-2026",
-  "deck": "Pendapatan TRUK naik tipis ke Rp31,74 miliar dan rugi bersih menyempit ke Rp3,59 miliar per September 2026; dua fasilitas kredit rekening koran diperpanjang ke 2028.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUK",
-   "Guna Timur Raya",
-   "Kredit Bank",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9681dbe0d_836ef1c4bc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-rock-dijadwalkan-21-desember-dps-cut-off-26-november",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB ROCK Dijadwalkan 21 Desember: [DPS] Cut Off 26 November",
-  "deck": "Rockfields Properti Indonesia (ROCK) akan menggelar RUPSLB pada 21 Desember 2026, pemegang saham tercatat hingga 26 November 2026 berhak hadir.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROCK",
-   "RUPSLB",
-   "Rockfields Properti Indonesia",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/14d5d5753e_e0d8928b87.pdf",
   "sourceLabel": "IDX"
  }
 ];

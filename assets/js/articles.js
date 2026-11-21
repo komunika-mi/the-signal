@@ -446,7 +446,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret adalah kepastian tanggal: IEU-CEPA diteken 21 November 2026, dan begitu berlaku akan menghapus bea masuk untuk 90,4 persen kategori barang ekspor Indonesia ke Uni Eropa secara langsung. Pihak yang paling terdampak adalah eksportir Indonesia yang produknya masuk daftar tarif nol itu, serta investor yang akan mendapat perlindungan lewat perjanjian investasi terpisah yang diteken bersamaan. Arah yang terlihat adalah upaya mempercepat manfaat perjanjian lewat skema penerapan sementara mulai awal 2027, yaitu sebagian aturan berjalan duluan sebelum proses ratifikasi penuh di parlemen kedua pihak rampung. Yang akan menentukan apakah target ini tercapai adalah kemajuan ratifikasi domestik Indonesia dan Uni Eropa menjelang awal 2027, karena penerapan sementara tetap bergantung pada selesainya prosedur hukum masing-masing pihak.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "rups-dmy-shm-18-november-direksi-yoga-gantikan-teguh-yang-mundur",

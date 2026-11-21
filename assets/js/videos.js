@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "neAkiw1ZklA",
+  "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT ASEAN dan APEC",
+  "category": "Global",
+  "program": "AKAP",
+  "summary": "Presiden Prabowo Subianto kembali ke Indonesia setelah melakukan lawatan ke Filipina dan China untuk menghadiri KTT ASEAN dan APEC. Lawatan itu menghasilkan komitmen investasi senilai hampir Rp1.600 triliun.",
+  "takeaway": "Komitmen investasi sebesar itu layak dipantau karena berpotensi mempengaruhi arus modal masuk dan sejumlah proyek strategis nasional ke depan.",
+  "terbit": "2026-11-21T08:44:53+00:00"
+ },
+ {
+  "id": "uBsyd87ULJ0",
+  "title": "Koperasi Desa Perkuat Ekonomi Lewat Distribusi Pupuk di Kulon Progo",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Koperasi Desa Merah Putih di Desa Kembang, Kulon Progo, berperan memperkuat ekonomi desa melalui penyediaan dan distribusi pupuk bagi petani setempat.",
+  "takeaway": "Peran koperasi desa dalam rantai distribusi pupuk relevan bagi pembaca yang mengamati penguatan ekonomi berbasis desa dan ketahanan pangan.",
+  "terbit": "2026-11-21T08:16:48+00:00"
+ },
+ {
+  "id": "fCGCYL-lCog",
+  "title": "Fenomena Makan Tabungan Makin Marak, Ini Bahayanya",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Fenomena makan tabungan atau mantab mencerminkan tekanan finansial masyarakat ketika pendapatan tak lagi cukup menutup kebutuhan harian, sehingga warga terpaksa menggerus simpanan.",
+  "takeaway": "Tren pengurasan tabungan rumah tangga ini menjadi indikator penting untuk membaca daya beli dan kesehatan keuangan masyarakat saat ini.",
+  "terbit": "2026-11-21T07:30:11+00:00"
+ },
+ {
   "id": "kTw1s8FNCD8",
   "title": "Harga Bumbu Dapur di Pasar Tradisional Merangkak Naik",
   "category": "Makroekonomi",

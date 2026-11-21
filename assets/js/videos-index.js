@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "neAkiw1ZklA",
+  "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT ASEAN dan APEC",
+  "category": "Global",
+  "program": "AKAP",
+  "summary": "Presiden Prabowo Subianto kembali ke Indonesia setelah melakukan lawatan ke Filipina dan China untuk menghadiri KTT ASEAN dan APEC. Lawatan itu menghasilkan komitmen investasi senilai hampir Rp1.600 triliun.",
+  "takeaway": "Komitmen investasi sebesar itu layak dipantau karena berpotensi mempengaruhi arus modal masuk dan sejumlah proyek strategis nasional ke depan."
+ },
+ {
+  "id": "uBsyd87ULJ0",
+  "title": "Koperasi Desa Perkuat Ekonomi Lewat Distribusi Pupuk di Kulon Progo",
+  "category": "UMKM",
+  "program": "tvOneNews",
+  "summary": "Koperasi Desa Merah Putih di Desa Kembang, Kulon Progo, berperan memperkuat ekonomi desa melalui penyediaan dan distribusi pupuk bagi petani setempat.",
+  "takeaway": "Peran koperasi desa dalam rantai distribusi pupuk relevan bagi pembaca yang mengamati penguatan ekonomi berbasis desa dan ketahanan pangan."
+ },
+ {
+  "id": "fCGCYL-lCog",
+  "title": "Fenomena Makan Tabungan Makin Marak, Ini Bahayanya",
+  "category": "Makroekonomi",
+  "program": "OneNews Update",
+  "summary": "Fenomena makan tabungan atau mantab mencerminkan tekanan finansial masyarakat ketika pendapatan tak lagi cukup menutup kebutuhan harian, sehingga warga terpaksa menggerus simpanan.",
+  "takeaway": "Tren pengurasan tabungan rumah tangga ini menjadi indikator penting untuk membaca daya beli dan kesehatan keuangan masyarakat saat ini."
+ },
+ {
   "id": "kTw1s8FNCD8",
   "title": "Harga Bumbu Dapur di Pasar Tradisional Merangkak Naik",
   "category": "Makroekonomi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Kementerian Ekonomi Kreatif menggelar tiga workshop industri gim di Politeknik Negeri Batam, menyasar mahasiswa, pemuda, dan pelaku ekonomi kreatif setempat.",
   "takeaway": "Menggambarkan upaya pemerintah mendorong ekonomi kreatif sektor gim sebagai salah satu sumber pertumbuhan industri baru."
- },
- {
-  "id": "kA9Pgfx-E8g",
-  "title": "KPI Dorong Pengawasan Ketat terhadap Platform Digital",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "KPI mendorong regulasi yang lebih adil agar lembaga penyiaran konvensional dan platform media digital bersaing secara setara di industri media.",
-  "takeaway": "Menyentuh isu persaingan usaha yang berdampak pada iklim bisnis industri penyiaran dan platform digital nasional."
- },
- {
-  "id": "ZsYNkE-W1Zw",
-  "title": "Injourney Airports dan BP2MI Perkuat Dukungan Pekerja Migran",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "InJourney Airports menjalin kerja sama dengan Kementerian Pelindungan Pekerja Migran Indonesia untuk mendukung layanan bagi pekerja migran, bertepatan dengan Hari Pahlawan 2026.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut tata kelola ketenagakerjaan pekerja migran yang digarap BUMN pengelola bandara."
- },
- {
-  "id": "TdfYhS_30B4",
-  "title": "KDMP Desa Ciwaru Sukabumi Dorong Penguatan Ekonomi Nelayan",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Pembentukan dan optimalisasi Koperasi Desa/Masyarakat Pesisir di Desa Ciwaru, Kecamatan Ciemas, Kabupaten Sukabumi, menjadi langkah strategis memperkuat kemandirian ekonomi nelayan setempat.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan koperasi sebagai penggerak ekonomi di sektor perikanan dan wilayah pesisir."
  }
 ];

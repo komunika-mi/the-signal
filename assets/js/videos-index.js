@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "kTw1s8FNCD8",
+  "title": "Harga Bumbu Dapur di Pasar Tradisional Merangkak Naik",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Harga sejumlah bumbu dapur di Pasar Gamping, Sleman, naik akibat berkurangnya pasokan. Kencur melonjak dari Rp45 ribu menjadi Rp65 ribu per kilogram, serai juga ikut naik.",
+  "takeaway": "Kenaikan harga bumbu dapur menunjukkan tekanan pasokan pangan yang berdampak langsung pada biaya hidup masyarakat."
+ },
+ {
+  "id": "oG4xZ1Gjsq8",
+  "title": "Presiden Prabowo Saksikan 35 Kesepakatan Baru RI-China",
+  "category": "Global",
+  "program": "Kabar Siang",
+  "summary": "Presiden Prabowo Subianto menyaksikan penandatanganan 35 kesepakatan baru antara Indonesia dan China sebagai bagian dari upaya memperkuat hubungan bilateral kedua negara.",
+  "takeaway": "Deretan kesepakatan bilateral ini berpotensi membuka peluang baru bagi kerja sama dagang dan investasi Indonesia dengan China."
+ },
+ {
   "id": "TJE4kQXDs1M",
   "title": "UMP DKI Jakarta Naik 7,1 Persen",
   "category": "Ketenagakerjaan",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Pembentukan dan optimalisasi Koperasi Desa/Masyarakat Pesisir di Desa Ciwaru, Kecamatan Ciemas, Kabupaten Sukabumi, menjadi langkah strategis memperkuat kemandirian ekonomi nelayan setempat.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti penguatan koperasi sebagai penggerak ekonomi di sektor perikanan dan wilayah pesisir."
- },
- {
-  "id": "GMW_tPJ6Jh8",
-  "title": "Mendag RI Perluas Ekspor Produk Makanan ke Australia",
-  "category": "Bisnis",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Perdagangan Budi Santoso mendorong pelaku usaha domestik memanfaatkan perjanjian dagang internasional untuk memperluas ekspor produk makanan ke Australia.",
-  "takeaway": "Perluasan akses pasar ekspor ini relevan bagi pelaku usaha yang ingin menjajaki pasar Australia di tengah upaya diversifikasi tujuan ekspor nasional."
- },
- {
-  "id": "HL8fqBw8HmM",
-  "title": "Pemerintah Finalisasi Subsidi Upah Pekerja Rp300.000 per Bulan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Merah Putih",
-  "summary": "Pemerintah sedang memfinalisasi penyaluran bantuan subsidi upah atau BSU senilai Rp300.000 per bulan bagi para pekerja.",
-  "takeaway": "Kebijakan ini langsung berdampak pada daya beli pekerja dan menjadi penanda arah stimulus ekonomi pemerintah."
  }
 ];

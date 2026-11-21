@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "kTw1s8FNCD8",
+  "title": "Harga Bumbu Dapur di Pasar Tradisional Merangkak Naik",
+  "category": "Makroekonomi",
+  "program": "Kabar Siang",
+  "summary": "Harga sejumlah bumbu dapur di Pasar Gamping, Sleman, naik akibat berkurangnya pasokan. Kencur melonjak dari Rp45 ribu menjadi Rp65 ribu per kilogram, serai juga ikut naik.",
+  "takeaway": "Kenaikan harga bumbu dapur menunjukkan tekanan pasokan pangan yang berdampak langsung pada biaya hidup masyarakat.",
+  "terbit": "2026-11-21T06:03:06+00:00"
+ },
+ {
+  "id": "oG4xZ1Gjsq8",
+  "title": "Presiden Prabowo Saksikan 35 Kesepakatan Baru RI-China",
+  "category": "Global",
+  "program": "Kabar Siang",
+  "summary": "Presiden Prabowo Subianto menyaksikan penandatanganan 35 kesepakatan baru antara Indonesia dan China sebagai bagian dari upaya memperkuat hubungan bilateral kedua negara.",
+  "takeaway": "Deretan kesepakatan bilateral ini berpotensi membuka peluang baru bagi kerja sama dagang dan investasi Indonesia dengan China.",
+  "terbit": "2026-11-21T05:22:26+00:00"
+ },
+ {
   "id": "TJE4kQXDs1M",
   "title": "UMP DKI Jakarta Naik 7,1 Persen",
   "category": "Ketenagakerjaan",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "TJE4kQXDs1M",
+  "title": "UMP DKI Jakarta Naik 7,1 Persen",
+  "category": "Ketenagakerjaan",
+  "program": "Apa Kabar Indonesia Pagi",
+  "summary": "Upah Minimum Provinsi DKI Jakarta resmi naik 7,1 persen. Kenaikan ini disambut pekerja, namun pengusaha menyoroti dampaknya terhadap biaya operasional usaha.",
+  "takeaway": "Kenaikan UMP berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja perusahaan di Jakarta.",
+  "terbit": "2026-11-21T02:10:36+00:00"
+ },
+ {
+  "id": "_YRrGstgoH4",
+  "title": "KSPI: UMP 2027 Belum Cukupi Kebutuhan Hidup Layak di Jakarta",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "KSPI menilai Upah Minimum Provinsi 2027 Jakarta belum cukup menutupi kebutuhan hidup layak pekerja, mengingat tingginya biaya hidup di Ibu Kota.",
+  "takeaway": "Pandangan serikat pekerja ini memberi gambaran soal kesenjangan antara kebijakan pengupahan dan realitas biaya hidup pekerja.",
+  "terbit": "2026-11-21T02:00:39+00:00"
+ },
+ {
   "id": "IMV5WFy1DcQ",
   "title": "Defisit BPJS Kesehatan, Siapa yang Menanggung?",
   "category": "Makroekonomi",

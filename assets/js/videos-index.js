@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "TJE4kQXDs1M",
+  "title": "UMP DKI Jakarta Naik 7,1 Persen",
+  "category": "Ketenagakerjaan",
+  "program": "Apa Kabar Indonesia Pagi",
+  "summary": "Upah Minimum Provinsi DKI Jakarta resmi naik 7,1 persen. Kenaikan ini disambut pekerja, namun pengusaha menyoroti dampaknya terhadap biaya operasional usaha.",
+  "takeaway": "Kenaikan UMP berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja perusahaan di Jakarta."
+ },
+ {
+  "id": "_YRrGstgoH4",
+  "title": "KSPI: UMP 2027 Belum Cukupi Kebutuhan Hidup Layak di Jakarta",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "KSPI menilai Upah Minimum Provinsi 2027 Jakarta belum cukup menutupi kebutuhan hidup layak pekerja, mengingat tingginya biaya hidup di Ibu Kota.",
+  "takeaway": "Pandangan serikat pekerja ini memberi gambaran soal kesenjangan antara kebijakan pengupahan dan realitas biaya hidup pekerja."
+ },
+ {
   "id": "IMV5WFy1DcQ",
   "title": "Defisit BPJS Kesehatan, Siapa yang Menanggung?",
   "category": "Makroekonomi",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Kabar Merah Putih",
   "summary": "Pemerintah sedang memfinalisasi penyaluran bantuan subsidi upah atau BSU senilai Rp300.000 per bulan bagi para pekerja.",
   "takeaway": "Kebijakan ini langsung berdampak pada daya beli pekerja dan menjadi penanda arah stimulus ekonomi pemerintah."
- },
- {
-  "id": "Nhrf-VRVfxQ",
-  "title": "Kemenparekraf Dorong Pengembangan Industri Gim di Batam",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Pariwisata dan Ekonomi Kreatif menggelar seminar industri gim di Batam untuk mendorong keterampilan digital, termasuk pemanfaatan kecerdasan buatan dalam pemasaran produk.",
-  "takeaway": "Penguatan ekosistem ekonomi kreatif digital berpotensi membuka peluang usaha dan lapangan kerja baru di sektor industri gim."
- },
- {
-  "id": "V8SVau0KD8M",
-  "title": "RI Pangkas Jatah Ekspor Gas ke Singapura",
-  "category": "Energi",
-  "program": "OneNews Update",
-  "summary": "Kementerian ESDM mengalihkan sebagian alokasi ekspor gas bumi dari Singapura untuk memenuhi kebutuhan dalam negeri.",
-  "takeaway": "Kebijakan ini mencerminkan prioritas pemerintah terhadap ketahanan pasokan energi domestik di tengah kebutuhan gas yang terus bertambah."
  }
 ];

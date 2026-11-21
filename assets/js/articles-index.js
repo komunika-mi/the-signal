@@ -5,6 +5,77 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-tiongkok-perkuat-kerja-sama-hilirisasi-mineral-dan-energi",
+  "category": "Energi",
+  "title": "RI-Tiongkok Perkuat Kerja Sama [Hilirisasi] Mineral dan Energi",
+  "deck": "Bahlil Lahadalia mendorong alih teknologi dan peningkatan keterampilan pekerja dalam kerja sama mineral dan energi RI-Tiongkok, menyusul pertemuan Presiden Prabowo Subianto dan Presiden Xi Jinping di Shenzhen.",
+  "date": "21 November 2026",
+  "image": "assets/img/ri-tiongkok-perkuat-kerja-sama-hilirisasi-mineral-dan-energi.jpg",
+  "imageV": "mwpv9fxr",
+  "tags": [
+   "Hilirisasi",
+   "ESDM",
+   "RI-Tiongkok",
+   "Energi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kemitraan-ri-tiongkok-makin-erat-menteri-bahlil-tekankan-hilirisasi-dan-alih-teknologi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "presiden-prabowo-temui-presiden-xi-jinping-soroti-investasi",
+  "category": "Global",
+  "title": "Presiden Prabowo Temui Presiden Xi Jinping, Soroti [Investasi]",
+  "deck": "Presiden Prabowo dan Presiden Xi Jinping bertemu di Shenzhen membahas dagang dan investasi, di tengah neraca dagang RI yang masih defisit terhadap Tiongkok.",
+  "date": "21 November 2026",
+  "image": "assets/img/presiden-prabowo-temui-presiden-xi-jinping-soroti-investasi.jpg",
+  "imageV": "mwpv9mk3",
+  "tags": [
+   "Indonesia-Tiongkok",
+   "Kemendag",
+   "Investasi",
+   "Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dampingi-presiden-ri-bertemu-presiden-xi-jinping-mendag-busan-momentum-penguatan-hubungan-dagang-dan-investasi",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "100-umkm-pangan-jabar-dilatih-ekspor-taiwan-jadi-target-baru",
+  "category": "UMKM",
+  "title": "100 UMKM Pangan Jabar Dilatih Ekspor, [Taiwan] Jadi Target Baru",
+  "deck": "Kemendag melatih 100 pelaku UMKM pangan olahan Jawa Barat agar siap ekspor, dengan Amerika Serikat, Filipina, Malaysia, dan kini Taiwan sebagai pasar yang disasar.",
+  "date": "21 November 2026",
+  "image": "assets/img/100-umkm-pangan-jabar-dilatih-ekspor-taiwan-jadi-target-baru.jpg",
+  "imageV": "mwpv9nyi",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Pangan Olahan",
+   "Taiwan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-umkm-pangan-olahan-go-global-lewat-bimtek-citra-produk-ekspor",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-495-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.495.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp5.000 menjadi Rp2.495.000 per gram, sementara harga buyback ikut turun ke Rp2.095.000 per gram.",
+  "date": "21 November 2026",
+  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-495-000-gram.jpg",
+  "imageV": "mwpv9o7g",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479535-harga-emas-antam-hari-ini-21-november-2026-rp2495000-per-gram-lagi-lagi-turun"
+ },
+ {
   "slug": "rating-dmy-obl-pefindo-tahan-idaa-stable-untuk-3-seri-obligasi",
   "category": "Aksi Korporasi",
   "title": "Rating DMY-OBL: PEFINDO [Tahan] idAA/Stable untuk 3 Seri Obligasi",
@@ -6442,69 +6513,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/477961-ekonomi-indonesia-tumbuh-547-persen-penurunan-harga-minyak-jadi-harapan-di-tengah-tekanan-global"
- },
- {
-  "slug": "rupo-medp-17-november-alih-dana-rp427-m-ke-ekspansi-deb",
-  "category": "Aksi Korporasi",
-  "title": "RUPO MEDP 17 November: [Alih] Dana Rp427 M ke Ekspansi DEB",
-  "deck": "MEDP mengajukan perubahan penggunaan sisa dana obligasi Rp427,21 miliar dari proyek panas bumi Bonjol ke ekspansi PLTGU Batam, menunggu persetujuan RUPO 17 November 2026.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "Obligasi",
-   "RUPO",
-   "Medco Power Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ed9f4f36db_5b08e86767.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atic-komisaris-independen-meninggal-rups-pengganti-60-hari",
-  "category": "Aksi Korporasi",
-  "title": "ATIC: Komisaris Independen Meninggal, RUPS [Pengganti] 60 Hari",
-  "deck": "Komisaris Independen ATIC, Prasetio, meninggal dunia 11 November 2026. Perusahaan wajib gelar RUPS pengganti dalam 60 hari kalender.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATIC",
-   "Komisaris Independen",
-   "Tata Kelola",
-   "RUPS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87a8c0fcf9_08ec430d61.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupo-obligasi-ptpp-11-november-restrukturisasi-ditolak",
-  "category": "Aksi Korporasi",
-  "title": "RUPO PTPP 11 November: Bunga ke-21 Macet, [Restrukturisasi] Ditolak",
-  "deck": "PTPP mengoreksi hasil RUPO 11 November: bunga yang telat dibayar dan diusulkan ditunda ternyata bunga ke-21, bukan ke-18. Keempat usulan restrukturisasi tetap ditolak.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "Obligasi",
-   "RUPO",
-   "Restrukturisasi Utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9f6eaba4b_d2602b0803.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupsu-ptpp-11-november-restrukturisasi-sukuk-ditolak-setuju-68",
-  "category": "Aksi Korporasi",
-  "title": "RUPSu PTPP 11 November: [Restrukturisasi] Sukuk Ditolak, Setuju 68%",
-  "deck": "RUPSu pemegang Sukuk Mudharabah PTPP Seri B menolak dua opsi keringanan bagi hasil, opsi pertama disetujui 68,09% suara tapi kurang dari ambang 75% yang disyaratkan.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "RUPSu",
-   "Sukuk",
-   "Restrukturisasi Utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/075862d83b_bbd7e60b2d.pdf",
-  "sourceLabel": "IDX"
  }
 ];

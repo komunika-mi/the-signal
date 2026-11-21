@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-tiongkok-perkuat-kerja-sama-hilirisasi-mineral-dan-energi",
+  "category": "Energi",
+  "title": "RI-Tiongkok Perkuat Kerja Sama [Hilirisasi] Mineral dan Energi",
+  "deck": "Bahlil Lahadalia mendorong alih teknologi dan peningkatan keterampilan pekerja dalam kerja sama mineral dan energi RI-Tiongkok, menyusul pertemuan Presiden Prabowo Subianto dan Presiden Xi Jinping di Shenzhen.",
+  "image": "assets/img/ri-tiongkok-perkuat-kerja-sama-hilirisasi-mineral-dan-energi.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T03:38:57.936Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kemitraan-ri-tiongkok-makin-erat-menteri-bahlil-tekankan-hilirisasi-dan-alih-teknologi",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Hilirisasi",
+   "ESDM",
+   "RI-Tiongkok",
+   "Energi"
+  ],
+  "body": [
+   "Menteri Energi dan Sumber Daya Mineral Bahlil Lahadalia, yang juga menjabat Menko Hilirisasi dan Energi, menegaskan kerja sama Indonesia dengan Tiongkok di sektor mineral dan energi harus disertai alih teknologi, peningkatan keterampilan tenaga kerja, dan penguatan pasokan energi dalam negeri. Pernyataan itu disampaikan menyusul pertemuan bilateral Presiden Prabowo Subianto dengan Presiden Xi Jinping di Shenzhen pada Jumat, 20 November, di sela rangkaian kunjungan kerja Presiden untuk menghadiri KTT APEC 2026.",
+   "Kerja sama kedua negara di bidang mineral sejatinya sudah berpijak pada dua nota kesepahaman yang diteken pada 9 November 2024, yakni kerja sama mineral hijau antara Kementerian ESDM dengan Kementerian Perdagangan Tiongkok, serta kerja sama sumber daya mineral dengan Komisi Pembangunan dan Reformasi Nasional Tiongkok (NDRC). Cakupannya meliputi pengolahan dan pemurnian mineral, pengembangan investasi dan infrastruktur, peningkatan teknologi, hingga penerapan aspek lingkungan dan sosial dalam industri mineral.",
+   "Sejumlah proyek konkret menjadi contoh kerja sama tersebut. Konsorsium ANTAM, IBC, dan CBL mengembangkan ekosistem baterai kendaraan listrik terintegrasi di Halmahera Timur, Maluku Utara, dan Karawang, Jawa Barat, yang peletakan batu pertamanya diresmikan Presiden Prabowo pada 29 Juni 2025, mencakup penambangan dan pengolahan nikel hingga produksi sel baterai dan daur ulang. Di sektor surya, PT Trina Mas Agra Indonesia mengoperasikan fasilitas produksi sel dan modul surya di Kendal, Jawa Tengah. Sementara di sektor gas, Wison New Energies membangun fasilitas LNG terapung untuk proyek Genting dengan kapasitas rancangan 1,2 juta ton LNG per tahun, yang akan mengolah gas dari Lapangan Asap Kido Merah di Blok Kasuri, Teluk Bintuni, Papua Barat.",
+   "Bahlil menekankan bahwa kerja sama energi harus menjawab kebutuhan nasional, dengan pasokan energi yang lebih andal, tumbuhnya industri pendukung di dalam negeri, serta tenaga kerja yang mampu menguasai teknologinya. Ia juga menggarisbawahi investasi harus berjalan seiring dengan perlindungan lingkungan dan manfaat bagi masyarakat sekitar lokasi proyek."
+  ],
+  "fotoAdegan": "Haul trucks loading nickel ore at a sprawling open-pit mine in eastern Indonesia, dust rising under bright daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-kemitraan-ri-tiongkok-makin-erat-menteri-bahlil-tekankan-hilirisasi-dan-alih-teknologi-cnq9wni.jpg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Dari pertemuan di Shenzhen ini, yang berubah bukan proyeknya, melainkan penekanannya, Bahlil secara khusus meminta agar kerja sama dengan Tiongkok disertai alih teknologi dan peningkatan keterampilan pekerja, bukan sekadar aliran investasi. Pihak yang langsung terdampak adalah pekerja dan industri di lokasi proyek yang sudah berjalan, yaitu ekosistem baterai nikel di Halmahera Timur dan Karawang, pabrik sel surya di Kendal, serta proyek gas di Teluk Bintuni, Papua Barat. Siaran pers ini sendiri belum memuat kesepakatan baru, nota kesepahaman tambahan, atau tenggat waktu, sehingga belum bisa dipastikan apakah dorongan alih teknologi ini akan dituangkan menjadi syarat konkret dalam kontrak-kontrak berikutnya. Yang perlu dipantau adalah apakah ada dokumen kerja sama baru yang diteken menyusul rangkaian kunjungan Presiden Prabowo Subianto ke KTT APEC, karena itu yang akan menunjukkan apakah dorongan ini berlanjut menjadi aturan main baru atau berhenti sebagai pernyataan sela.",
+  "imageV": "mwpv9fxr"
+ },
+ {
+  "slug": "presiden-prabowo-temui-presiden-xi-jinping-soroti-investasi",
+  "category": "Global",
+  "title": "Presiden Prabowo Temui Presiden Xi Jinping, Soroti [Investasi]",
+  "deck": "Presiden Prabowo dan Presiden Xi Jinping bertemu di Shenzhen membahas dagang dan investasi, di tengah neraca dagang RI yang masih defisit terhadap Tiongkok.",
+  "image": "assets/img/presiden-prabowo-temui-presiden-xi-jinping-soroti-investasi.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T03:38:55.725Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dampingi-presiden-ri-bertemu-presiden-xi-jinping-mendag-busan-momentum-penguatan-hubungan-dagang-dan-investasi",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Indonesia-Tiongkok",
+   "Kemendag",
+   "Investasi",
+   "Perdagangan"
+  ],
+  "body": [
+   "Presiden Prabowo Subianto bertemu Presiden Tiongkok Xi Jinping dalam pertemuan bilateral di Shenzhen, Tiongkok, Jumat (20/11). Menteri Perdagangan Budi Santoso turut mendampingi, bersama sejumlah menteri koordinator dan menteri lain, dalam pertemuan yang membahas penguatan hubungan dagang dan investasi kedua negara. Pertemuan ini berlangsung di tengah posisi Tiongkok sebagai mitra dagang terbesar dan salah satu sumber investasi utama Indonesia, sehingga arah hubungan kedua negara berpengaruh langsung ke banyak sektor usaha di dalam negeri.",
+   "Berdasarkan data yang disampaikan Kementerian Perdagangan, nilai total perdagangan Indonesia dengan Tiongkok pada Januari hingga September 2026 mencapai US$132,13 miliar, terdiri dari ekspor Indonesia US$55,47 miliar dan impor US$76,67 miliar. Sepanjang 2025, total perdagangan kedua negara lebih besar lagi, yakni US$154,37 miliar, dengan ekspor US$66,96 miliar dan impor US$87,41 miliar. Ekspor Indonesia ke Tiongkok masih didominasi bahan mentah seperti paduan fero, mate nikel, batu bara, lignit, serta bijih tembaga, sementara impor dari Tiongkok sebagian besar berupa barang jadi bernilai tambah tinggi seperti ponsel pintar, komputer, mobil, komponen elektronik, dan alat berat seperti buldoser dan ekskavator.",
+   "Di sisi investasi, realisasi penanaman modal Tiongkok di Indonesia pada 2025 tercatat US$7,5 miliar, menjadikan Tiongkok sumber investasi asing terbesar ketiga bagi Indonesia. Usai pertemuan bilateral, Presiden Prabowo dan Mendag Busan juga menghadiri Forum Bisnis Indonesia-Tiongkok, di mana Presiden Prabowo menyatakan pemerintah akan menjaga kepercayaan dan melindungi investor serta mitra usaha asal Tiongkok yang berinvestasi di Indonesia. Mendag Busan menyebut pernyataan itu sebagai dasar untuk mendorong lebih banyak pelaku usaha Tiongkok menjajaki peluang dagang dan investasi di Indonesia, meski ia tidak merinci proyek atau nilai kesepakatan baru dari pertemuan tersebut.",
+   "Presiden Xi Jinping dalam pertemuan itu menyampaikan kesiapan Tiongkok memperkuat kerja sama strategis secara menyeluruh dengan Indonesia dan mendorong kontribusi kedua negara bagi pembangunan kawasan. Rombongan Presiden Prabowo dalam kunjungan ini antara lain Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, Menteri ESDM Bahlil Lahadalia, Menteri Investasi dan Hilirisasi Rosan Roeslani, Menteri Luar Negeri Arrmanatha Christiawan Nasir, Menteri Pendidikan Tinggi, Sains, dan Teknologi Brian Yuliarto, Utusan Khusus Presiden Bidang Iklim dan Energi Hashim Djojohadikusumo, Sekretaris Kabinet Teddy Indra Wijaya, serta Duta Besar RI untuk Tiongkok Djauhari Oratmangun."
+  ],
+  "fotoAdegan": "Workers inspecting stacked nickel ore at an industrial stockyard near a smelter, overcast tropical sky",
+  "fotoSumber": "https://www.kemendag.go.id/albums/u38fGh8zqMz6Takhx3TPVsDRfNQhNDvQkn1thQfA.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Pertemuan ini sendiri tidak menghasilkan angka kesepakatan baru, baik nilai investasi maupun nilai dagang. Yang konkret justru pola yang sudah berjalan: dari Januari sampai September 2026, Indonesia membeli barang dari Tiongkok senilai US$76,67 miliar, jauh lebih besar dari yang dijualnya ke sana, yaitu US$55,47 miliar. Barang yang dibeli kebanyakan produk jadi bernilai tinggi seperti ponsel dan mobil, sementara yang dijual Indonesia masih bahan mentah seperti nikel dan batu bara. Ada dua kemungkinan arah dari pertemuan semacam ini, apakah ajakan investasi Tiongkok benar berlanjut jadi proyek pengolahan bahan mentah di dalam negeri sehingga nilai ekspor Indonesia naik, atau pertemuan ini sekadar basa-basi diplomatik berulang tanpa proyek baru. Itu akan terlihat dari ada atau tidaknya pengumuman kesepakatan investasi konkret dari Forum Bisnis Indonesia-Tiongkok yang menyertai pertemuan ini, atau dari data realisasi investasi Tiongkok pada triwulan mendatang.",
+  "imageV": "mwpv9mk3"
+ },
+ {
+  "slug": "100-umkm-pangan-jabar-dilatih-ekspor-taiwan-jadi-target-baru",
+  "category": "UMKM",
+  "title": "100 UMKM Pangan Jabar Dilatih Ekspor, [Taiwan] Jadi Target Baru",
+  "deck": "Kemendag melatih 100 pelaku UMKM pangan olahan Jawa Barat agar siap ekspor, dengan Amerika Serikat, Filipina, Malaysia, dan kini Taiwan sebagai pasar yang disasar.",
+  "image": "assets/img/100-umkm-pangan-jabar-dilatih-ekspor-taiwan-jadi-target-baru.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T03:38:49.876Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-dorong-umkm-pangan-olahan-go-global-lewat-bimtek-citra-produk-ekspor",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "UMKM",
+   "Ekspor",
+   "Pangan Olahan",
+   "Taiwan"
+  ],
+  "body": [
+   "Kementerian Perdagangan melalui Direktorat Jenderal Perdagangan Luar Negeri bersama Dinas Perindustrian dan Perdagangan Jawa Barat menggelar bimbingan teknis bagi 100 pelaku UMKM pangan olahan di Bandung, Kamis (19/11), untuk menyiapkan produk mereka menembus pasar ekspor. Kegiatan ini merupakan penyelenggaraan ketiga setelah sebelumnya digelar di Solo dan Bali, menandakan pola pelatihan berjenjang di berbagai daerah bagi UMKM pangan olahan.",
+   "Direktur Jenderal Perdagangan Luar Negeri Tommy Andana menyebut Amerika Serikat, Filipina, dan Malaysia sebagai tiga pasar utama tujuan ekspor pangan olahan Indonesia, dengan Filipina dan Malaysia disebut sebagai pintu masuk bagi UMKM yang ingin menjajaki pasar ASEAN. Menurut data yang dipaparkan Kemendag, nilai ekspor pangan olahan Indonesia pada Januari-Agustus 2026 mencapai US$4,49 miliar, tumbuh 13,47 persen dibanding periode yang sama tahun sebelumnya.",
+   "Selain tiga pasar utama tersebut, Kepala Kantor Dagang dan Ekonomi Indonesia Taipei, Arif Sulistiyo, memaparkan peluang di Taiwan, pasar dengan sekitar 23 juta penduduk dan daya beli yang tinggi. Produk pangan olahan Indonesia yang paling diminati di sana meliputi sarang burung walet, boga bahari, makanan ringan sehat, saus dan bumbu premium, rempah-rempah, mi instan sehat, serta gula kelapa sagu. KDEI Taipei berencana melanjutkan promosi lewat business matching, misi dagang, dan kemitraan strategis dengan pemangku kepentingan di Taiwan.",
+   "Bimtek yang berlangsung secara hibrida ini turut menghadirkan narasumber dari Disperindag Jawa Barat dan Lembaga Pembiayaan Ekspor Impor Indonesia (LPEI) yang membahas soal pengemasan hingga pembiayaan ekspor. Salah satu peserta, pelaku usaha keripik tempe Femmi Muhammad Romadhoni, mengatakan pelatihan ini membantu UMKM memahami proses legalitas, sertifikasi, pengemasan, hingga pemasaran produk agar siap menembus pasar global."
+  ],
+  "fotoAdegan": "Small-scale food producers packing dried snacks and spice jars into cardboard export boxes inside a modest workshop under daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/W2ZVyrkxUPmhnlmcVlfXs3CI8ZjrHJu5zb17JIzj.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah bukan aturan atau insentif baru, melainkan cakupan pelatihan ekspor UMKM pangan olahan yang kini masuk gelaran ketiga setelah Solo dan Bali, dengan Taiwan mulai disebut sebagai pasar tambahan di luar tiga besar selama ini, yakni Amerika Serikat, Filipina, dan Malaysia. Yang terdampak langsung adalah 100 UMKM pangan olahan Jawa Barat peserta bimtek, terutama produsen produk yang disebut diminati Taiwan seperti sarang burung walet, boga bahari, dan mi instan sehat. Pola pelatihan berjenjang di berbagai provinsi ini mengarah pada strategi Kemendag membangun kesiapan ekspor UMKM secara bertahap lewat kapasitas dan jejaring dagang, bukan lewat insentif fiskal langsung. Yang akan menentukan apakah arah ini membawa hasil nyata adalah apakah business matching dan misi dagang yang dijanjikan KDEI Taipei benar terlaksana, serta apakah data ekspor pangan olahan periode setelah Agustus 2026 masih mempertahankan tren pertumbuhan di atas 13 persen.",
+  "imageV": "mwpv9nyi"
+ },
+ {
+  "slug": "harga-emas-antam-turun-lagi-jadi-rp2-495-000-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Turun] Lagi Jadi Rp2.495.000/Gram",
+  "deck": "Harga emas batangan Antam turun Rp5.000 menjadi Rp2.495.000 per gram, sementara harga buyback ikut turun ke Rp2.095.000 per gram.",
+  "image": "assets/img/harga-emas-antam-turun-lagi-jadi-rp2-495-000-gram.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T10:12:53+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479535-harga-emas-antam-hari-ini-21-november-2026-rp2495000-per-gram-lagi-lagi-turun",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "logam mulia",
+   "investasi emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam kembali turun pada Sabtu, 21 November 2026, menjadi Rp2.495.000 per gram. Pergerakan ini penting diperhatikan karena emas Antam menjadi salah satu acuan harga emas fisik yang paling banyak dipegang masyarakat Indonesia sebagai simpanan jangka panjang.",
+   "Berdasarkan laman Logam Mulia pukul 09.37 WIB, harga tersebut turun Rp5.000 dari posisi sebelumnya di Rp2.500.000 per gram. Penurunan ini melanjutkan tren hari-hari sebelumnya yang juga bergerak turun, meski besarannya relatif kecil dibanding harga emas secara keseluruhan.",
+   "Harga buyback, yakni harga yang dibayar Antam saat membeli kembali emas dari nasabah, juga turun ke Rp2.095.000 per gram. Dengan begitu, selisih antara harga jual dan harga beli kembali saat ini sekitar Rp400.000 per gram, angka yang perlu diperhitungkan konsumen sebelum memutuskan menjual emasnya kembali ke Antam.",
+   "Antam sendiri mengingatkan bahwa harga emas batangan ini bisa berubah sewaktu-waktu mengikuti kondisi pasar, sehingga angka yang tercatat pagi ini belum tentu sama dengan transaksi di jam-jam berikutnya pada hari yang sama."
+  ],
+  "fotoAdegan": "Gold bullion bars being weighed and arranged on a small scale at a precious metals trading counter, warm indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perubahan konkretnya adalah harga jual emas Antam turun Rp5.000 jadi Rp2.495.000 per gram, dan harga buyback, yaitu harga yang dibayar Antam saat emas itu dijual balik ke mereka, ikut turun ke Rp2.095.000 per gram. Yang langsung kena dampak adalah pemegang emas batangan sebagai simpanan, karena nilai emas mereka di atas kertas sedikit berkurang, sementara orang yang baru mau membeli justru dapat harga agak lebih murah dari hari sebelumnya. Berita ini belum cukup untuk menyimpulkan ke mana arah harga emas selanjutnya, sebab hanya memuat angka satu hari tanpa pembanding tren beberapa hari terakhir atau kaitannya dengan harga emas dunia yang biasanya menjadi acuan penyesuaian harga Antam. Yang perlu dipantau adalah apakah penurunan ini berlanjut pada update harga Antam di hari-hari berikutnya, karena itu baru akan menunjukkan apakah ini koreksi singkat atau awal tren yang lebih panjang.",
+  "imageV": "mwpv9o7g"
+ },
+ {
   "slug": "rating-dmy-obl-pefindo-tahan-idaa-stable-untuk-3-seri-obligasi",
   "category": "Aksi Korporasi",
   "title": "Rating DMY-OBL: PEFINDO [Tahan] idAA/Stable untuk 3 Seri Obligasi",
@@ -335,7 +446,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret adalah kepastian tanggal: IEU-CEPA diteken 21 November 2026, dan begitu berlaku akan menghapus bea masuk untuk 90,4 persen kategori barang ekspor Indonesia ke Uni Eropa secara langsung. Pihak yang paling terdampak adalah eksportir Indonesia yang produknya masuk daftar tarif nol itu, serta investor yang akan mendapat perlindungan lewat perjanjian investasi terpisah yang diteken bersamaan. Arah yang terlihat adalah upaya mempercepat manfaat perjanjian lewat skema penerapan sementara mulai awal 2027, yaitu sebagian aturan berjalan duluan sebelum proses ratifikasi penuh di parlemen kedua pihak rampung. Yang akan menentukan apakah target ini tercapai adalah kemajuan ratifikasi domestik Indonesia dan Uni Eropa menjelang awal 2027, karena penerapan sementara tetap bergantung pada selesainya prosedur hukum masing-masing pihak.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "rups-dmy-shm-18-november-direksi-yoga-gantikan-teguh-yang-mundur",

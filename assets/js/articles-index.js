@@ -5,6 +5,91 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-uni-eropa-resmi-teken-ieu-cepa",
+  "category": "Global",
+  "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
+  "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
+  "date": "21 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "perdagangan",
+   "investasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7238/indonesia-dan-uni-eropa-resmi-tanda-tangani-ieu-cepa-dan-ipa-perkuat-kerja-sama-perdagangan-dan-investasi-berkelanjutan",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ri-uni-eropa-tandatangani-cepa-98-tarif-dagang-dipangkas",
+  "category": "Global",
+  "title": "RI-Uni Eropa Tandatangani [CEPA], 98% Tarif Dagang Dipangkas",
+  "deck": "Setelah satu dekade perundingan, Indonesia dan Uni Eropa menandatangani perjanjian dagang yang memangkas hampir seluruh tarif ekspor Indonesia ke Eropa.",
+  "date": "21 November 2026",
+  "image": "assets/img/ri-uni-eropa-tandatangani-cepa-98-tarif-dagang-dipangkas.jpg",
+  "imageV": "mwqm1yc4",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "Ekspor",
+   "Tarif Dagang"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/eu-cepa-ditandatangani-mendag-busan-optimistis-pasar-uni-eropa-makin-terbuka",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pertamina-patra-niaga-diapresiasi-jaga-ketahanan-energi",
+  "category": "Energi",
+  "title": "Pertamina Patra Niaga Diapresiasi Jaga Ketahanan [Energi]",
+  "deck": "Pertamina Patra Niaga meraih penghargaan dari Detikcom Awards 2026 atas distribusi BBM dan LPG ke wilayah terpencil Indonesia.",
+  "date": "21 November 2026",
+  "image": "assets/img/pertamina-patra-niaga-diapresiasi-jaga-ketahanan-energi.jpg",
+  "imageV": "mwqm1z8s",
+  "tags": [
+   "pertamina",
+   "bbm",
+   "lpg",
+   "energi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479640-jaga-ketahanan-energi-pertamina-patra-niaga-raih-apresiasi-nasional"
+ },
+ {
+  "slug": "ashari-nakhodai-bidang-pertanian-hipmi-2026-2029",
+  "category": "Bisnis",
+  "title": "Ashari Nakhodai Bidang [Pertanian] HIPMI 2026-2029",
+  "deck": "Ashari Wahyu Budi Aji resmi memimpin Bidang Pertanian, Perkebunan, Peternakan, dan Ketahanan Pangan di BPP HIPMI periode 2026-2029.",
+  "date": "21 November 2026",
+  "image": "assets/img/ashari-nakhodai-bidang-pertanian-hipmi-2026-2029.jpg",
+  "imageV": "mwqm1zn2",
+  "tags": [
+   "hipmi",
+   "pertanian",
+   "ketahanan pangan",
+   "pengusaha muda"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479639-perkuat-ketahanan-pangan-ashari-wahyu-budi-aji-nakhodai-bidang-pertanian-hipmi"
+ },
+ {
+  "slug": "pnm-perluas-mekaar-bunga-8-persen-berlaku-nasional",
+  "category": "UMKM",
+  "title": "PNM Perluas Mekaar, Bunga [8 Persen] Berlaku Nasional",
+  "deck": "PNM memperluas Program Mekaar dengan bunga flat 8 persen per tahun bagi perempuan prasejahtera ke seluruh Indonesia, menyusul arahan Presiden Prabowo Subianto dan uji coba di Jakarta.",
+  "date": "21 November 2026",
+  "image": "assets/img/pnm-perluas-mekaar-bunga-8-persen-berlaku-nasional.jpg",
+  "imageV": "mwqm200s",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "perempuan prasejahtera"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479631-tindak-lanjut-arahan-presiden-pnm-perluas-program-mekaar-bunga-8-persen-flat"
+ },
+ {
   "slug": "indonesia-tiongkok-teken-35-kesepakatan-investasi-us-15-miliar",
   "category": "Energi",
   "title": "Indonesia-Tiongkok Teken [35] Kesepakatan Investasi US$15 Miliar",
@@ -402,7 +487,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -839,7 +924,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -2130,7 +2215,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -2873,7 +2958,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3152,7 +3237,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -4679,7 +4764,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
   "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
   "date": "14 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -4695,7 +4780,7 @@ var ARTICLES = [
   "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
   "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
   "date": "14 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "ICA-CEPA",
    "Indonesia-Kanada",
@@ -4761,7 +4846,7 @@ var ARTICLES = [
   "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
   "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
   "date": "14 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -4843,7 +4928,7 @@ var ARTICLES = [
   "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
   "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
   "date": "14 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "ASEAN",
    "DEFA",
@@ -5761,7 +5846,7 @@ var ARTICLES = [
   "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
   "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
   "date": "13 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [
    "ASEAN DEFA",
    "ekonomi digital",
@@ -6435,82 +6520,6 @@ var ARTICLES = [
    "laporan keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d094ae280_b8edfcbf82.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kadi-selidiki-ulang-impor-baja-hrc-dari-belarus-dan-kazakstan",
-  "category": "Industri",
-  "title": "KADI Selidiki Ulang Impor Baja HRC dari [Belarus] dan Kazakstan",
-  "deck": "KADI membuka penyelidikan peninjauan kembali bea antidumping atas impor baja HRC dari Belarus dan Kazakstan, setelah menemukan indikasi perubahan margin dumping.",
-  "date": "12 November 2026",
-  "image": "assets/img/jalur-perakitan.jpg",
-  "tags": [
-   "Antidumping",
-   "Baja HRC",
-   "KADI",
-   "Impor"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kadi-inisiasi-penyelidikan-antidumping-impor-hrc-asal-belarus-dan-kazakstan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bank-mandiri-gelar-lelang-properti-bunga-kpr-2-7-persen",
-  "category": "Perbankan",
-  "title": "Bank Mandiri Gelar [Lelang] Properti Bunga KPR 2,7 Persen",
-  "deck": "Mandiri Lelang 2026 menawarkan rumah, tanah, apartemen, dan ruko hingga akhir Desember, dilengkapi KPR Lelang berbunga tetap 2,7 persen periode Oktober-November.",
-  "date": "12 November 2026",
-  "image": "assets/img/bank-mandiri-gelar-lelang-properti-bunga-kpr-2-7-persen.jpg",
-  "imageV": "mwde4rb9",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478030-ingin-punya-rumah-dengan-harga-lebih-kompetitif-cek-penawaran-mandiri-lelang-2026"
- },
- {
-  "slug": "obligasi-bbia-rp650-miliar-jatuh-tempo-lunas-13-november",
-  "category": "Aksi Korporasi",
-  "title": "Obligasi BBIA Rp650 Miliar Jatuh Tempo, [Lunas] 13 November",
-  "deck": "Obligasi subordinasi Bank UOB Indonesia senilai Rp650 miliar jatuh tempo dan delisting dari BEI 13 November 2026; bank konfirmasi dana pelunasan sudah siap.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBIA",
-   "obligasi subordinasi",
-   "jatuh tempo",
-   "Bank UOB Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0b50ee15ac_422b6d686b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemantauan-khusus-ptdu-tambah-kriteria-pkpu-pailit-efektif-13-nov",
-  "category": "Aksi Korporasi",
-  "title": "Pemantauan Khusus PTDU Tambah Kriteria [PKPU/Pailit], Efektif 13 Nov",
-  "deck": "Bursa menambahkan kriteria PKPU/pailit ke status pemantauan khusus PTDU per 13 November 2026, menyusul kriteria ekuitas negatif yang sudah berlaku sebelumnya.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTDU",
-   "pemantauan khusus",
-   "PKPU",
-   "watchlist"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2b6323e92d_f933929f7a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "transaksi-afiliasi-atap-pinjaman-rp8-miliar-dari-pt-tp-bunga-6",
-  "category": "Aksi Korporasi",
-  "title": "Transaksi Afiliasi ATAP: [Pinjaman] Rp8 Miliar dari PT TP, Bunga 6%",
-  "deck": "ATAP meminjam Rp8 miliar dari PT Trimitra Prawara, perusahaan afiliasi, dengan bunga 6 persen per tahun dan tenor lima tahun.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATAP",
-   "transaksi afiliasi",
-   "pinjaman",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/395ec45f36_103d7b1173.pdf",
   "sourceLabel": "IDX"
  }
 ];

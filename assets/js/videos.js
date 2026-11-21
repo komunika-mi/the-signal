@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "X3NW_ouQ01Y",
+  "title": "Lima Negara Berminat Transaksi Karbon RI di COP31 Turki",
+  "category": "Global",
+  "program": "Kabar Utama",
+  "summary": "Calon pembeli dari lima negara menyatakan minat bertransaksi karbon dengan Indonesia dalam ajang COP31 di Antalya, Turki, dengan potensi penurunan emisi hingga 159.000 ton setara karbon dioksida.",
+  "takeaway": "Minat transaksi karbon dari lima negara menunjukkan posisi Indonesia yang makin diperhitungkan di pasar karbon global, sekaligus membuka peluang pendapatan baru dari komoditas emisi.",
+  "terbit": "2026-11-21T15:40:14+00:00"
+ },
+ {
   "id": "neAkiw1ZklA",
   "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT ASEAN dan APEC",
   "category": "Global",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "X3NW_ouQ01Y",
+  "title": "Lima Negara Berminat Transaksi Karbon RI di COP31 Turki",
+  "category": "Global",
+  "program": "Kabar Utama",
+  "summary": "Calon pembeli dari lima negara menyatakan minat bertransaksi karbon dengan Indonesia dalam ajang COP31 di Antalya, Turki, dengan potensi penurunan emisi hingga 159.000 ton setara karbon dioksida.",
+  "takeaway": "Minat transaksi karbon dari lima negara menunjukkan posisi Indonesia yang makin diperhitungkan di pasar karbon global, sekaligus membuka peluang pendapatan baru dari komoditas emisi."
+ },
+ {
   "id": "neAkiw1ZklA",
   "title": "Presiden Prabowo Tiba di Tanah Air Usai Hadiri KTT ASEAN dan APEC",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIS",
   "summary": "Kenaikan harga kedelai dan plastik kemasan menekan daya beli dan akses perajin tempe di Jombang terhadap bahan baku utama mereka.",
   "takeaway": "Kasus ini memperlihatkan bagaimana lonjakan harga bahan baku langsung memukul pelaku UMKM di sektor pangan."
- },
- {
-  "id": "dFlqBH8Ngds",
-  "title": "Kemenekraf Gelar Seminar Industri Gim di Batam",
-  "category": "Industri",
-  "program": "Kabar Merah Putih",
-  "summary": "Kementerian Ekonomi Kreatif menggelar tiga workshop industri gim di Politeknik Negeri Batam, menyasar mahasiswa, pemuda, dan pelaku ekonomi kreatif setempat.",
-  "takeaway": "Menggambarkan upaya pemerintah mendorong ekonomi kreatif sektor gim sebagai salah satu sumber pertumbuhan industri baru."
  }
 ];

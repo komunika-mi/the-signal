@@ -5,8 +5,8 @@ var ARTICLES = [
  {
   "slug": "potensi-delisting-dmy-shm-suspensi-genap-24-bulan-21-november",
   "category": "Aksi Korporasi",
-  "title": "Potensi Delisting DMY-SHM: [Suspensi] Genap 24 Bulan 21 November",
-  "deck": "Bursa menyatakan saham DMY-SHM berpotensi dihapus dari pencatatan setelah suspensi perdagangannya genap 24 bulan pada 21 November 2026, ambang yang diatur Peraturan Bursa I-I.",
+  "title": "Suspensi DMY-SHM Dibuka 21 November: [Perdagangan] Aktif Lagi",
+  "deck": "Bursa membuka kembali perdagangan saham DMY-SHM pada 21 November 2026, tepat saat suspensinya genap 24 bulan, ambang yang sebelumnya membuka opsi delisting.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T12:33:57",
@@ -15,26 +15,40 @@ var ARTICLES = [
   "emiten": "DMY-SHM",
   "tags": [
    "DMY-SHM",
+   "suspensi",
    "delisting",
-   "suspensi saham",
-   "Bursa Efek Indonesia"
+   "BEI"
   ],
   "body": [
-   "Bursa Efek Indonesia (BEI) mengumumkan bahwa saham DMY-SHM berpotensi dihapus dari pencatatan atau delisting, setelah masa suspensi perdagangannya genap 24 bulan pada 21 November 2026. Dalam pengumuman resminya, BEI menyebut saham tersebut sebelumnya telah disuspensi selama 18 bulan, dan masa suspensi itu mencapai ambang 24 bulan tepat pada tanggal tersebut.",
-   "BEI merujuk dua ketentuan dalam Peraturan Bursa Nomor I-I tentang Penghapusan Pencatatan dan Pencatatan Kembali Saham. Ketentuan III.3.1.1 memungkinkan delisting jika emiten mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usaha, baik secara finansial maupun hukum, tanpa indikasi pemulihan yang memadai. Ketentuan III.3.1.2 memungkinkan delisting jika saham yang disuspensi di Pasar Reguler dan Pasar Tunai hanya diperdagangkan di Pasar Negosiasi sekurang-kurangnya 24 bulan, kondisi yang kini dipenuhi DMY-SHM.",
-   "Potensi delisting ini muncul di tengah rangkaian masalah keuangan DMY-SHM yang sudah diberitakan sebelumnya, termasuk gugatan PKPU dengan nilai tagihan setara 100 persen dari total aset perusahaan dan status pemantauan khusus bursa yang memenuhi seluruh 11 kriteria. Dokumen ini tidak merinci data kepemilikan pemegang saham di atas 5 persen, direksi, komisaris, maupun pengendali, karena kolom tersebut dikosongkan dalam pengumuman resmi."
+   "Bursa Efek Indonesia (BEI) membuka kembali perdagangan saham DMY-SHM pada 21 November 2026, tepat di hari yang sama ketika suspensi saham itu genap mencapai 24 bulan, ambang yang sebelumnya membuat BEI mengumumkan potensi delisting. Dengan pembukaan ini, saham DMY-SHM kembali bisa diperdagangkan secara aktif di Pasar Reguler dan Tunai melalui mekanisme lelang berkelanjutan pada sesi I.",
+   "Sebelumnya, BEI mengumumkan bahwa suspensi saham DMY-SHM genap mencapai 24 bulan pada 21 November 2026, ambang yang menurut Peraturan Bursa Nomor I-I Ketentuan III.3.1.2 membuka opsi delisting karena saham hanya diperdagangkan di Pasar Negosiasi selama periode itu. BEI juga merujuk Ketentuan III.3.1.1 yang memungkinkan delisting jika emiten mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usaha tanpa indikasi pemulihan.",
+   "Rangkaian masalah keuangan DMY-SHM yang sudah diberitakan sebelumnya tetap berlaku: gugatan PKPU dengan nilai tagihan setara 100 persen dari total aset perusahaan, dan status pemantauan khusus bursa yang memenuhi seluruh 11 kriteria.",
+   "Dokumen pembukaan suspensi ini tidak merinci alasan di balik keputusan membuka kembali perdagangan, dan tidak menyebutkan apakah proses evaluasi delisting dihentikan atau tetap berjalan. Dokumen juga tidak mencantumkan data kepemilikan pemegang saham di atas 5 persen, direksi, komisaris, maupun pengendali."
   ],
   "fotoAdegan": "A quiet brokerage floor with rows of empty desks and dimmed monitors, soft afternoon light through blinds.",
-  "takeaway": "Catatan ini condong negatif bagi DMY-SHM, karena ambang suspensi 24 bulan sudah tercapai dan bursa secara eksplisit membuka opsi penghapusan status perusahaan terbuka, bukan sekadar peringatan administratif. Yang tersentuh adalah kelangsungan status Perusahaan Tercatat itu sendiri, bukan satu pos laporan keuangan tertentu, karena begitu delisting terjadi, pemegang saham publik kehilangan pasar resmi untuk menjual sahamnya dan harga wajar jadi sulit terbentuk. Ini sejalan dengan rangkaian sinyal distress yang sudah kami laporkan, termasuk gugatan PKPU senilai tagihan setara seluruh aset perusahaan dan status pemantauan khusus yang memenuhi semua 11 kriteria, yang sama-sama menunjukkan bursa menilai DMY-SHM belum menunjukkan indikasi pemulihan sesuai syarat Ketentuan III.3.1.1. Yang perlu dipantau berikutnya adalah apakah BEI benar-benar memproses delisting menyusul tercapainya ambang 24 bulan pada 21 November 2026, atau memberi DMY-SHM kesempatan menunjukkan pemulihan sebelum keputusan final diambil.",
-  "sentimen": "negatif",
+  "takeaway": "Catatan ini condong positif bagi pemegang saham DMY-SHM, karena bursa membuka kembali perdagangan sahamnya tepat pada hari suspensi genap 24 bulan, mengembalikan akses jual beli yang selama ini tertutup. Yang tersentuh adalah likuiditas saham, yaitu kemudahan pemegang saham mengubah sahamnya jadi uang tunai di pasar terbuka, bukan laporan keuangan atau laba perusahaan, karena dokumen ini tidak menyinggung kondisi usaha DMY-SHM sama sekali. Namun ini belum berarti ancaman delisting hilang, sebab dokumen tidak menyebut apakah proses evaluasi penghapusan pencatatan berdasar Peraturan Bursa I-I dihentikan, sementara gugatan PKPU senilai seluruh aset perusahaan dan status pemantauan khusus yang sudah memenuhi 11 kriteria tetap belum terjawab. Yang perlu dipantau berikutnya adalah apakah BEI tetap melanjutkan proses delisting DMY-SHM menyusul ambang 24 bulan yang sudah terlampau pada 21 November 2026, meski perdagangan sahamnya sudah dibuka kembali pada tanggal yang sama.",
+  "sentimen": "positif",
   "peristiwa": "suspensi",
   "judulIdx": "Potensi Delisting",
   "jadwal": [
    {
     "tanggal": "2026-11-21",
     "acara": "Suspensi saham DMY-SHM genap 24 bulan, ambang evaluasi delisting BEI"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "BEI membuka suspensi, saham DMY-SHM kembali aktif diperdagangkan"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T13:33:24",
+    "ringkas": "BEI membuka kembali perdagangan saham DMY-SHM pada 21 November 2026, tepat saat suspensinya genap 24 bulan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B007_4baf8ee1-28c4-417d-967b-eba266986edb-20261121133326.pdf",
+    "judulIdx": "Pembukaan Penghentian Sementara Perdagangan Efek"
+   }
+  ],
+  "diperbarui": "2026-11-21T13:33:24"
  },
  {
   "slug": "amortisasi-tes-obl3-19-nov-2027-rp100-m-pokok-obligasi-dipangkas",
@@ -218,8 +232,8 @@ var ARTICLES = [
  {
   "slug": "rups-dmy-shm-30-desember-transaksi-material-ditolak",
   "category": "Aksi Korporasi",
-  "title": "RUPS DMY-SHM 30 Desember: [Transaksi Material] Ditolak",
-  "deck": "Pemanggilan resmi RUPS DMY-SHM akan dikirim 8 Desember 2026 menjelang rapat 30 Desember; DPS 22 November. Hasil rapat: dividen dan PMTHMETD disetujui, transaksi material ditolak.",
+  "title": "RUPST DMY-SHM 18 Desember: Dividen Disetujui, DPS [Direvisi] 10 Des",
+  "deck": "DPS RUPST DMY-SHM direvisi jadi 10 Desember 2026, pemanggilan resmi dimajukan ke 25 November 2026; hasil rapat 18 Desember yang menyetujui dividen tetap berlaku.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T12:06:28",
@@ -228,39 +242,40 @@ var ARTICLES = [
   "emiten": "DMY-SHM",
   "tags": [
    "DMY-SHM",
-   "RUPS",
-   "PMTHMETD",
-   "Transaksi Material"
+   "RUPST",
+   "Dividen",
+   "PMTHMETD"
   ],
   "body": [
-   "Perseroan dengan kode saham DMY-SHM menetapkan 8 Desember 2026 sebagai tanggal pemanggilan resmi untuk Rapat Umum Pemegang Saham Tahunan, Luar Biasa, dan Independen yang akan digelar 30 Desember 2026 pukul 12.00 di Gedung Pengujian. Pemanggilan ini menyusul pengumuman rencana rapat yang telah menetapkan 22 November 2026 sebagai tanggal daftar pemegang saham (DPS), yaitu batas pencatatan siapa saja yang berhak hadir dan memberi suara dalam rapat. Rapat akan menggunakan sarana elektronik Easy KSEI dengan mekanisme e-proxy saja, tanpa opsi e-voting terpisah.",
-   "Hasil rapat yang telah berlangsung menunjukkan pemegang saham yang hadir mewakili 10.000.000 saham atau 100 persen dari seluruh saham berhak suara. RUPS Tahunan menyetujui penggunaan laba bersih tahun buku 2025 untuk dividen tunai serta penunjukan akuntan publik, keduanya disetujui bulat tanpa suara menolak atau abstain. RUPS Luar Biasa juga menyetujui penuh rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk tahun buku 2025. Namun agenda RUPS Independen untuk persetujuan transaksi material tahun buku 2026 tidak mencapai kuorum yang dipersyaratkan sehingga otomatis dinyatakan tidak disetujui, tanpa dokumen yang merinci nilai maupun pihak lawan transaksi tersebut.",
-   "RUPS yang sama menetapkan susunan baru direksi dan dewan komisaris. Arif Dummy Uji ditunjuk sebagai Direktur Utama, didampingi Rina Dummy Percobaan dan Yoga Dummy Percobaan sebagai direktur. Dewan komisaris dipimpin Hartono Dummy Uji sebagai Komisaris Utama yang juga merangkap komisaris independen, bersama Maya Uji Dummy dan Dr. Agus Percobaan Dummy sebagai komisaris. Masa jabatan seluruh pengurus baru ini berlaku mulai 30 November 2026 hingga 28 Februari 2027."
+   "Pengumuman resmi yang disampaikan DMY-SHM ke bursa pada 21 November 2026 merevisi dua tanggal penting dalam rangkaian Rapat Umum Pemegang Saham Tahunan yang akan digelar 18 Desember 2026. Tanggal daftar pemegang saham (DPS), yaitu batas pencatatan pemegang saham yang berhak hadir dan memberi suara, berubah dari sebelumnya 22 November 2026 menjadi 10 Desember 2026. Tanggal pemanggilan resmi kepada pemegang saham juga dimajukan dari sebelumnya 8 Desember 2026 menjadi 25 November 2026.",
+   "Rapat tetap dijadwalkan pada 18 Desember 2026 pukul 14.00 WIB di Hotel Mulia, menggunakan sarana elektronik Easy KSEI dengan mekanisme e-proxy dan e-voting, sesuai dengan risalah yang sebelumnya dilaporkan DMY-SHM.",
+   "Berdasarkan ringkasan risalah yang sebelumnya diumumkan, RUPS Tahunan ini telah menyetujui tiga agenda, yaitu pengesahan laporan tahunan dan laporan keuangan 2025, pembagian dividen tunai dari laba bersih 2025, serta penunjukan akuntan publik, masing-masing dengan 99 persen suara setuju dari pemegang saham yang hadir mewakili 990.000.000 saham. Masa jabatan direksi dan komisaris baru resmi berlaku 23 November 2026 hingga 23 November 2028, dengan seluruh anggota dewan komisaris berstatus bukan komisaris independen.",
+   "Dalam rangkaian RUPS yang sama, RUPS Luar Biasa sebelumnya telah menyetujui penuh rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk tahun buku 2025, sementara RUPS Independen untuk persetujuan transaksi material tahun buku 2026 gagal mencapai kuorum sehingga otomatis dinyatakan tidak disetujui."
   ],
   "fotoAdegan": "Empty formal boardroom with a long polished table and rows of chairs, tall windows letting in soft morning light.",
-  "takeaway": "Perkembangan ini tetap condong negatif bagi DMY-SHM, sebab pemanggilan resmi yang baru dijadwalkan dikirim 8 Desember 2026 ini hanya menegaskan proses menuju rapat yang hasilnya sudah menolak transaksi material akibat kuorum tidak tercapai, sementara penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) tetap disetujui penuh. PMTHMETD berarti perseroan bisa menerbitkan saham baru tanpa menawarkannya dulu ke pemegang saham lama, sehingga jumlah saham beredar bertambah dan laba per saham milik pemegang lama berpotensi terdilusi; gagalnya kuorum pada agenda transaksi material juga menandakan lemahnya dukungan pemegang saham independen terhadap rencana itu. Yang perlu dipantau berikutnya adalah pemanggilan resmi yang akan dikirim 8 Desember 2026, pelaksanaan RUPS pada 30 Desember 2026, serta apakah perseroan menjadwalkan ulang RUPS independen untuk transaksi material tersebut sebelum masa jabatan direksi dan komisaris baru berakhir pada 28 Februari 2027.",
+  "takeaway": "Rangkaian RUPST DMY-SHM sampai revisi tanggal DPS dan pemanggilan ini tetap negatif, sebab revisi tanggal itu sendiri hanya soal administratif, sementara penambahan modal tanpa hak memesan efek terlebih dahulu dari RUPS Luar Biasa tetap berjalan dan RUPS Independen untuk transaksi material tahun buku 2026 tetap gagal kuorum. Pos yang tersentuh ada dua: jumlah saham beredar berpotensi bertambah akibat penambahan modal tanpa hak memesan efek terlebih dahulu tersebut, dan laba per saham milik pemegang lama bisa terdilusi karena porsi kepemilikan mereka mengecil tanpa kesempatan menambah saham lebih dulu; kas dan ekuitas juga akan berkurang begitu dividen hasil RUPST ini dibayarkan. Yang perlu dipantau berikutnya adalah pemanggilan resmi yang kini dijadwalkan 25 November 2026, kesesuaian pelaksanaan rapat 18 Desember 2026 dengan tanggal daftar pemegang saham baru 10 Desember 2026, serta apakah perseroan akan menjadwalkan ulang RUPS Independen yang gagal kuorum tersebut.",
   "sentimen": "negatif",
   "peristiwa": "rups",
   "judulIdx": "Ringkasan Risalah RUPS",
   "jadwal": [
    {
-    "tanggal": "2026-11-22",
-    "acara": "Tanggal daftar pemegang saham (DPS) berhak hadir RUPS"
-   },
-   {
-    "tanggal": "2026-11-30",
+    "tanggal": "2026-11-23",
     "acara": "Mulai masa jabatan direksi dan komisaris baru"
    },
    {
-    "tanggal": "2026-12-08",
+    "tanggal": "2026-11-25",
     "acara": "Pemanggilan resmi RUPS dikirim ke pemegang saham"
    },
    {
-    "tanggal": "2026-12-30",
-    "acara": "Pelaksanaan RUPS Tahunan, Luar Biasa, dan Independen"
+    "tanggal": "2026-12-10",
+    "acara": "Tanggal daftar pemegang saham (DPS) berhak hadir RUPS"
    },
    {
-    "tanggal": "2027-02-28",
+    "tanggal": "2026-12-18",
+    "acara": "Pelaksanaan RUPS Tahunan"
+   },
+   {
+    "tanggal": "2028-11-23",
     "acara": "Akhir masa jabatan direksi dan komisaris baru"
    }
   ],
@@ -276,9 +291,21 @@ var ARTICLES = [
     "ringkas": "Pemanggilan resmi RUPS DMY-SHM ditetapkan dikirim 8 Desember 2026, menjelang rapat 30 Desember yang DPS-nya 22 November 2026.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E001_4692e3fe-5d69-4bcf-a767-778e75df28db-20261121114355.pdf",
     "judulIdx": "Pengumuman RUPS"
+   },
+   {
+    "tanggal": "2026-11-21T13:40:21",
+    "ringkas": "RUPST DMY-SHM digelar 18 Desember, dividen dan laporan tahunan disetujui 99%, masa jabatan direksi-komisaris baru resmi 23 Nov 2026-23 Nov 2028.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_799822c4-7c43-4e3c-a1b8-d9ead3bddf99-20261121134023.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   },
+   {
+    "tanggal": "2026-11-21T13:26:51",
+    "ringkas": "DPS RUPST DMY-SHM direvisi dari 22 November jadi 10 Desember 2026, pemanggilan resmi dimajukan ke 25 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E001_7b258664-c827-4a8c-abeb-d9b6edb0046f-20261121132653.pdf",
+    "judulIdx": "Pengumuman RUPS"
    }
   ],
-  "diperbarui": "2026-11-21T11:43:53"
+  "diperbarui": "2026-11-21T13:26:51"
  },
  {
   "slug": "private-placement-dmy-shm-30-des-90-000-saham-baru-dilusi-90",
@@ -315,6 +342,64 @@ var ARTICLES = [
    {
     "tanggal": "2026-12-30",
     "acara": "RUPS memutuskan private placement"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp960-per-saham-cair-21-november",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai DMY-SHM Rp960 per Saham, [Cair] 21 November",
+  "deck": "RUPST DMY-SHM menyetujui dividen tunai tahun buku 2026 Rp960 per saham, total Rp701, nyaris menyamai seluruh ekuitas perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:20:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_5e02f4c2-a928-4a74-9ac9-c5ebc7c0dcbd-20261121112045.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "dividen tunai",
+   "RUPST",
+   "ekuitas"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Tahunan (RUPST) DMY-SHM pada 21 November 2026 menyetujui pembagian dividen tunai untuk tahun buku 2026. Nilai yang pertama kali ditetapkan adalah Rp791 per saham dengan total Rp559, tetapi berdasarkan Daftar Pemegang Saham (DPS) yang dipakai untuk pembayaran, jumlah yang benar-benar dibayarkan berubah menjadi Rp960 per saham dengan total Rp701. RUPS, pencatatan DPS, serta tanggal cum dan ex dividen di pasar reguler maupun pasar tunai semuanya jatuh pada tanggal yang sama, 21 November 2026, sehingga seluruh proses pembagian dividen ini berlangsung dalam satu hari.",
+   "Perseroan menyebutkan data keuangan yang mendasari pembagian dividen ini: laba bersih yang bisa diatribusikan ke pemegang saham induk hanya Rp63, saldo laba ditahan yang tidak dibatasi penggunaannya Rp457, dan total ekuitas perusahaan Rp722. Dengan demikian, total dividen yang dibayarkan sebesar Rp701 setara hampir seluruh ekuitas perusahaan dan lebih dari sebelas kali lipat laba bersihnya.",
+   "Dokumen juga mencantumkan rekap total dividen untuk tahun buku 2026: dividen reguler tercatat Rp2.290.000 per saham dengan total Rp2.205.000, dividen interim Rp1.570.000 per saham dengan total Rp3.308.000, dan total dividen yang telah dibayarkan berdasarkan DPS untuk tahun buku ini mencapai Rp3.230.000 per saham dengan total Rp7.332.000."
+  ],
+  "fotoAdegan": "Workers inspecting packaged food products moving along a conveyor belt inside a bright processing plant, Indonesia",
+  "takeaway": "Laporan ini condong negatif bagi pemegang saham DMY-SHM, karena dividen yang dibayarkan nyaris menghabiskan seluruh ekuitas perusahaan padahal laba bersihnya jauh lebih kecil dari nilai dividen itu sendiri. Yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih perusahaan setelah utang dikurangkan, dan laba bersih, ukuran keuntungan setelah semua beban dibayar; ketika dividen yang keluar mendekati seluruh ekuitas sementara laba jauh lebih kecil, bantalan keuangan perusahaan untuk menyerap kerugian atau membiayai operasional ke depan ikut menipis. Pola ini juga melanjutkan rangkaian aksi korporasi DMY-SHM yang sebelumnya sudah ditandai negatif, mulai dari dividen lain yang melampaui ekuitas, dilusi 90 persen lewat private placement, hingga realisasi dana IPO yang jauh di bawah target. Yang perlu dipantau berikutnya adalah laporan keuangan periode mendatang untuk melihat seberapa jauh ekuitas perusahaan benar-benar tergerus setelah pembayaran dividen Rp701 ini terealisasi pada 21 November 2026.",
+  "sentimen": "negatif",
+  "peristiwa": "dividen",
+  "judulIdx": "Dividen Tunai",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "RUPST menyetujui pembagian dividen tunai tahun buku 2026"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Pencatatan daftar pemegang saham (DPS) yang berhak dividen"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Tanggal pembayaran dividen tunai"
    }
   ]
  },
@@ -36865,8 +36950,8 @@ var ARTICLES = [
  {
   "slug": "bsde-laba-bersih-turun-38-ke-rp844-miliar-di-kuartal-iii",
   "category": "Aksi Korporasi",
-  "title": "BSDE: Laba Bersih [Turun] 38% ke Rp844 Miliar di Kuartal III",
-  "deck": "Laba bersih BSDE anjlok 38 persen menjadi Rp844,7 miliar pada sembilan bulan pertama 2026, seiring pendapatan yang turun dan beban bunga yang membengkak.",
+  "title": "BSDE [Revisi] Kuartal III: Kas Jadi Rp8,46 Triliun, Laba -38%",
+  "deck": "BSDE merevisi laporan kuartal III 2026: kas naik jadi Rp8,46 triliun dari versi sebelumnya Rp6,91 triliun, sementara laba bersih tetap turun 38 persen ke Rp844,7 miliar.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "30 Oktober 2026",
   "isoDate": "2026-10-30T12:04:28",
@@ -36876,17 +36961,28 @@ var ARTICLES = [
   "tags": [
    "BSDE",
    "laporan keuangan",
-   "properti",
-   "laba bersih"
+   "revisi laporan",
+   "properti"
   ],
   "body": [
-   "PT Bumi Serpong Damai Tbk (BSDE) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026. Pendapatan usaha perseroan tercatat Rp7,54 triliun, turun 14 persen dari Rp8,76 triliun pada periode yang sama tahun lalu. Laba kotor ikut turun dari Rp5,55 triliun menjadi Rp5,02 triliun, dan laba usaha tergerus dari Rp2,13 triliun menjadi Rp1,71 triliun.",
-   "Laba bersih yang dapat diatribusikan kepada pemilik entitas induk tercatat Rp844,7 miliar, turun 38 persen dibandingkan Rp1,36 triliun pada periode yang sama tahun 2025. Akibatnya, laba per saham dasar turun dari Rp65,20 menjadi Rp40,39. Penurunan laba ini sejalan dengan naiknya beban bunga dan biaya keuangan lain dari Rp1,14 triliun menjadi Rp1,29 triliun, atau naik sekitar 13,7 persen.",
-   "Dari sisi posisi keuangan, jumlah aset BSDE naik 2,75 persen menjadi Rp81,45 triliun per 30 September 2026 dari Rp79,27 triliun di akhir 2025, didorong kenaikan nilai aset real estat tidak lancar dan tanah yang belum dikembangkan. Namun kas dan setara kas perusahaan menyusut tajam dari Rp10,28 triliun menjadi Rp6,91 triliun. Di sisi lain, utang bank jangka panjang justru naik dari Rp11,32 triliun menjadi Rp13,38 triliun, sehingga jumlah liabilitas naik 5,95 persen menjadi Rp28,18 triliun. Jumlah ekuitas, termasuk kepentingan nonpengendali, naik tipis menjadi Rp53,26 triliun dari Rp52,67 triliun. Laporan ini juga mencantumkan dua anak usaha utama, yaitu PT Duta Pertiwi Tbk dengan kepemilikan 92,38 persen dan aset Rp16,85 triliun, serta PT Suryamas Dutamakmur Tbk dengan kepemilikan 98,97 persen dan aset Rp3,69 triliun. Dokumen ditandatangani Direktur Hermawan Wijaya dan disampaikan ke OJK serta Bursa Efek Indonesia pada 30 Oktober 2026."
+   "PT Bumi Serpong Damai Tbk (BSDE) menyampaikan revisi laporan keuangan interim tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026, dengan surat pernyataan direksi bertanggal 13 November 2026 dan disampaikan ke Bursa Efek Indonesia pada 21 November 2026. Perubahan utama ada di posisi kas: kini tercatat Rp8,46 triliun, naik dibandingkan Rp6,91 triliun yang sempat dilaporkan dalam versi 30 Oktober 2026, meski tetap turun sekitar 17,8 persen dari Rp10,28 triliun di akhir 2025.",
+   "Jumlah aset per 30 September 2026 juga direvisi menjadi Rp81,94 triliun, naik 3,4 persen dari Rp79,27 triliun di akhir 2025, sedikit lebih tinggi dari angka Rp81,45 triliun yang dilaporkan sebelumnya. Jumlah liabilitas kini tercatat Rp28,79 triliun, naik 8,2 persen, lebih besar dari kenaikan 5,95 persen yang dilaporkan sebelumnya. Utang bank jangka panjang naik menjadi Rp13,81 triliun dari Rp11,32 triliun, atau sekitar 22 persen, lebih tajam dari kenaikan 18 persen yang sempat dilaporkan. Dengan ekuitas dihitung dari selisih aset dan liabilitas, posisinya naik tipis menjadi sekitar Rp53,15 triliun dari Rp52,67 triliun di akhir 2025.",
+   "Laporan ini juga mengonfirmasi bahwa Rp388,4 miliar obligasi dan sukuk BSDE jatuh tempo dalam setahun ke depan, terdiri dari Rp252,1 miliar obligasi dan Rp136,2 miliar sukuk yang kini diklasifikasikan sebagai liabilitas jangka pendek.",
+   "Dari sisi laba rugi, angka yang disampaikan BSDE pada 30 Oktober 2026 belum direvisi dalam dokumen ini. Pendapatan usaha tetap tercatat Rp7,54 triliun, turun 14 persen dari Rp8,76 triliun pada periode yang sama tahun lalu, sementara laba bersih yang dapat diatribusikan kepada pemilik entitas induk tetap Rp844,7 miliar, turun 38 persen dibandingkan Rp1,36 triliun pada 2025. Laba per saham dasar pun masih tercatat turun dari Rp65,20 menjadi Rp40,39, seiring beban bunga dan biaya keuangan lain yang naik ke Rp1,29 triliun."
   ],
   "fotoAdegan": "Construction workers on scaffolding at a large suburban housing development, unfinished rooftops and cranes nearby, soft afternoon light",
-  "takeaway": "Laporan ini condong negatif bagi BSDE, karena laba bersihnya susut 38 persen justru ketika utang bank jangka panjangnya naik 18 persen dalam sembilan bulan. Pos yang paling kena dampak adalah laba per saham, turun dari Rp65,20 menjadi Rp40,39, artinya setiap lembar saham kini menghasilkan keuntungan jauh lebih kecil bagi pemegangnya. Kas perusahaan juga menipis tajam dari Rp10,28 triliun menjadi Rp6,91 triliun, sementara beban bunga yang harus dibayar naik ke Rp1,29 triliun, kombinasi yang mempersempit ruang gerak keuangan perseroan meski jumlah aset dan ekuitasnya masih tumbuh. Yang perlu dipantau berikutnya adalah kemampuan BSDE melunasi obligasi dan sukuk senilai sekitar Rp388,6 miliar yang jatuh tempo dalam setahun ke depan, serta apakah tren penurunan laba ini masih berlanjut saat laporan tahunan auditan untuk tahun buku 2026 terbit.",
-  "sentimen": "negatif"
+  "takeaway": "Revisi ini condong negatif bagi BSDE, karena meski kasnya ternyata lebih besar dari yang sebelumnya dilaporkan, utang bank jangka panjangnya justru naik lebih tajam dari perkiraan semula, sekitar 22 persen dalam sembilan bulan, sementara laba bersihnya tetap tercatat turun 38 persen dibandingkan tahun lalu. Pos yang berubah akibat revisi ini adalah kas dan setara kas, kini Rp8,46 triliun bukan Rp6,91 triliun seperti versi sebelumnya, serta utang bank jangka panjang yang naik jadi Rp13,81 triliun; investor memperhatikan dua pos ini karena keduanya menggambarkan seberapa leluasa perusahaan membayar kewajiban dan membiayai proyek barunya. Ekuitas, dihitung dari selisih total aset dan total liabilitas, naik tipis menjadi sekitar Rp53,15 triliun. Yang perlu dipantau berikutnya adalah kemampuan BSDE melunasi obligasi dan sukuk senilai sekitar Rp388,4 miliar yang jatuh tempo dalam setahun ke depan, serta apakah laporan tahunan auditan untuk tahun buku 2026 nanti akan kembali merevisi angka-angka ini.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T14:24:46",
+    "ringkas": "Kas BSDE direvisi naik jadi Rp8,46 triliun dan utang bank jangka panjang naik lebih tajam jadi 22%, laba bersih tetap turun 38%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-c704d546-438f-45fd-b05e-7eb0772d337e-1/FinancialStatement-2026-III-BSDE.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan Interim yang Tidak Diaudit"
+   }
+  ],
+  "diperbarui": "2026-11-21T14:24:46",
+  "peristiwa": "lapkeu"
  },
  {
   "slug": "dyan-laba-bersih-pemegang-saham-turun-23-jadi-rp38-9-miliar",

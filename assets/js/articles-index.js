@@ -7,15 +7,15 @@ var ARTICLES = [
  {
   "slug": "potensi-delisting-dmy-shm-suspensi-genap-24-bulan-21-november",
   "category": "Aksi Korporasi",
-  "title": "Potensi Delisting DMY-SHM: [Suspensi] Genap 24 Bulan 21 November",
-  "deck": "Bursa menyatakan saham DMY-SHM berpotensi dihapus dari pencatatan setelah suspensi perdagangannya genap 24 bulan pada 21 November 2026, ambang yang diatur Peraturan Bursa I-I.",
+  "title": "Suspensi DMY-SHM Dibuka 21 November: [Perdagangan] Aktif Lagi",
+  "deck": "Bursa membuka kembali perdagangan saham DMY-SHM pada 21 November 2026, tepat saat suspensinya genap 24 bulan, ambang yang sebelumnya membuka opsi delisting.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
+   "suspensi",
    "delisting",
-   "suspensi saham",
-   "Bursa Efek Indonesia"
+   "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B009_94be8c27-f875-4947-8c99-308cdbed56c4-20261121123358.pdf",
   "sourceLabel": "IDX"
@@ -71,15 +71,15 @@ var ARTICLES = [
  {
   "slug": "rups-dmy-shm-30-desember-transaksi-material-ditolak",
   "category": "Aksi Korporasi",
-  "title": "RUPS DMY-SHM 30 Desember: [Transaksi Material] Ditolak",
-  "deck": "Pemanggilan resmi RUPS DMY-SHM akan dikirim 8 Desember 2026 menjelang rapat 30 Desember; DPS 22 November. Hasil rapat: dividen dan PMTHMETD disetujui, transaksi material ditolak.",
+  "title": "RUPST DMY-SHM 18 Desember: Dividen Disetujui, DPS [Direvisi] 10 Des",
+  "deck": "DPS RUPST DMY-SHM direvisi jadi 10 Desember 2026, pemanggilan resmi dimajukan ke 25 November 2026; hasil rapat 18 Desember yang menyetujui dividen tetap berlaku.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
-   "RUPS",
-   "PMTHMETD",
-   "Transaksi Material"
+   "RUPST",
+   "Dividen",
+   "PMTHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_6fdaaab2-576e-4e04-98ca-48ceec7cba30-20261121120630.pdf",
   "sourceLabel": "IDX"
@@ -98,6 +98,22 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X2_66b2bb73-6dd5-47e4-abbb-cb1b66477cf4-20261121115908.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp960-per-saham-cair-21-november",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai DMY-SHM Rp960 per Saham, [Cair] 21 November",
+  "deck": "RUPST DMY-SHM menyetujui dividen tunai tahun buku 2026 Rp960 per saham, total Rp701, nyaris menyamai seluruh ekuitas perusahaan.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "dividen tunai",
+   "RUPST",
+   "ekuitas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_5e02f4c2-a928-4a74-9ac9-c5ebc7c0dcbd-20261121112045.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6493,22 +6509,6 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/14d5d5753e_e0d8928b87.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-powr-rp31-28-per-saham-cair-11-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim POWR Rp31,28 per Saham, [Cair] 11 Desember 2026",
-  "deck": "Cikarang Listrindo (POWR) membagikan dividen interim Rp502,93 miliar atau Rp31,27592 per saham, dibayar 11 Desember 2026.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POWR",
-   "dividen interim",
-   "Cikarang Listrindo",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c9e7e9b43_34112b3ae5.pdf",
   "sourceLabel": "IDX"
  }
 ];

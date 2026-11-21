@@ -772,6 +772,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479478-tren-ai-di-indonesia-produktivitas-meningkat-pebisnis-masih-terbentur-dilema"
  },
  {
+  "slug": "pege-optimus-vision-global-tambah-376-300-saham-suara-6-72",
+  "category": "Aksi Korporasi",
+  "title": "PEGE: Optimus Vision Global [Tambah] 376.300 Saham, Suara 6,72%",
+  "deck": "Optimus Vision Global Pte Ltd menambah 376.300 saham PEGE pada 20 November 2026, menaikkan hak suara dari 6,71% menjadi 6,72%.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PEGE",
+   "Panca Global Kapital",
+   "kepemilikan saham",
+   "pemegang saham asing"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-4861-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-solution-garap-konektivitas-digital-hotel",
   "category": "Teknologi",
   "title": "[Telkom] Solution Garap Konektivitas Digital Hotel",
@@ -1063,6 +1079,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "totl-direksi-saleh-tambah-170-700-saham-hak-suara-0-191",
+  "category": "Aksi Korporasi",
+  "title": "TOTL: Direksi Saleh [Tambah] 170.700 Saham, Hak Suara 0,191%",
+  "deck": "Direksi TOTL Saleh membeli 170.700 saham pada 20 November 2026 seharga Rp1.260 per saham, hak suaranya naik dari 0,186 persen menjadi 0,191 persen.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTL",
+   "laporan kepemilikan",
+   "Direksi",
+   "Total Bangun Persada"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-6065-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "silo-david-utama-tambah-300-000-saham-hak-suara-jadi-0-015",
+  "category": "Aksi Korporasi",
+  "title": "SILO: David Utama [Tambah] 300.000 Saham, Hak Suara Jadi 0,015%",
+  "deck": "Direksi SILO David Utama menambah 300.000 saham lewat transaksi repurchase agreement pada 20 November 2026, hak suaranya naik jadi 0,015%.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SILO",
+   "laporan kepemilikan",
+   "direksi",
+   "saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-5674-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mbma-laba-9m-2026-us-313-7-juta-pendapatan-naik-ke-us-1-78-miliar",
   "category": "Aksi Korporasi",
   "title": "MBMA: Laba 9M-2026 US$313,7 Juta, [Pendapatan] Naik ke US$1,78 Miliar",
@@ -1159,6 +1207,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "arko-direksi-aldo-henry-artoko-tambah-3-15-juta-saham-suara-0-43",
+  "category": "Aksi Korporasi",
+  "title": "ARKO: Direksi Aldo Henry Artoko [Tambah] 3,15 Juta Saham, Suara 0,43%",
+  "deck": "Direksi ARKO Aldo Henry Artoko menambah 3,16 juta lembar saham lewat dua transaksi pembelian pada 18-19 November 2026, hak suaranya naik dari 0,32 jadi 0,43 persen.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ARKO",
+   "Arkora Hydro",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-1095-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-flmc-18-november-domisili-pindah-ke-kota-cimahi-disetujui",
   "category": "Aksi Korporasi",
   "title": "RUPSLB FLMC 18 November: [Domisili] Pindah ke Kota Cimahi Disetujui",
@@ -1175,6 +1239,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "auto-astra-international-tambah-238-4-juta-saham-suara-84-95",
+  "category": "Aksi Korporasi",
+  "title": "AUTO: Astra International [Tambah] 238,4 Juta Saham, Suara 84,95%",
+  "deck": "Astra International menambah 238,4 juta saham AUTO lewat tender offer sukarela seharga Rp3.600 per saham, hak suara naik dari 80% menjadi 84,95%.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AUTO",
+   "Astra International",
+   "tender offer",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-9416-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rgas-pinjamkan-rp45-m-ke-anak-usaha-transaksi-material-43-ekuitas",
   "category": "Aksi Korporasi",
   "title": "RGAS Pinjamkan Rp45 M ke Anak Usaha: [Transaksi Material] 43% Ekuitas",
@@ -1188,6 +1268,54 @@ var ARTICLES = [
    "POJK 17/2020"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56d24be5f5_c9e2a25db4.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btpn-direksi-yuki-terayama-tambah-1-500-saham-hak-suara-0",
+  "category": "Aksi Korporasi",
+  "title": "BTPN: Direksi Yuki Terayama [Tambah] 1.500 Saham, Hak Suara 0%",
+  "deck": "Direksi BTPN, Yuki Terayama, membeli 1.500 saham lewat program insentif Material Risk Taker, hak suaranya tetap di bawah 0,01 persen.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPN",
+   "Bank SMBC Indonesia",
+   "laporan kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-3995-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ctra-morgan-stanley-jual-1-1-miliar-saham-hak-suara-12-44",
+  "category": "Aksi Korporasi",
+  "title": "CTRA: Morgan Stanley [Jual] 1,1 Miliar Saham, Hak Suara 12,44%",
+  "deck": "Morgan Stanley and Co International Plc melepas 1,1 miliar saham CTRA pada 17 November lewat perjanjian repurchase, hak suaranya turun dari 18,37% jadi 12,44%.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CTRA",
+   "Ciputra Development",
+   "Morgan Stanley",
+   "kepemilikan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-6416-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btpn-direksi-michellina-tambah-1-500-saham-hak-suara-0",
+  "category": "Aksi Korporasi",
+  "title": "BTPN: Direksi Michellina [Tambah] 1.500 Saham, Hak Suara 0%",
+  "deck": "Direksi BTPN Michellina L Triwardhany menerima 1.500 saham lewat program insentif Material Risk Taker seharga Rp2.447 per saham, hak suara tetap 0 persen.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPN",
+   "kepemilikan saham",
+   "direksi",
+   "Material Risk Taker Program"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-1004-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -1235,6 +1363,22 @@ var ARTICLES = [
    "PT Pikatan Baru"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d2c853851f_b186fb8e3b.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "btpn-direksi-jun-saito-tambah-1-500-saham-hak-suara-tetap-0",
+  "category": "Aksi Korporasi",
+  "title": "BTPN: Direksi Jun Saito [Tambah] 1.500 Saham, Hak Suara Tetap 0%",
+  "deck": "Direksi BTPN asal Jepang, Jun Saito, menerima 1.500 saham lewat program insentif wajib bagi pengambil risiko utama, melengkapi dua laporan serupa sehari sebelumnya.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPN",
+   "Bank SMBC Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-9229-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -2164,15 +2308,15 @@ var ARTICLES = [
  {
   "slug": "dgik-perseroan-jual-400-2-juta-saham-treasury-suara-ke-0",
   "category": "Aksi Korporasi",
-  "title": "DGIK: Global Dinamika Kencana Tambah 400,2 Juta Saham, Suara ke 75,6%",
-  "deck": "Global Dinamika Kencana, pemegang saham mayoritas DGIK, membeli seluruh 400,2 juta saham treasuri yang dilepas DGIK pada 19 November 2026, hak suaranya naik dari 68,30% jadi 75,60%.",
+  "title": "DGIK: Global Dinamika Kencana Tambah 1,48 Juta Saham, Hak Suara 75,60%",
+  "deck": "Global Dinamika Kencana kembali membeli 1.475.200 saham DGIK pada 19 November 2026 senilai Rp151 per saham, namun porsinya hanya 0,035% dari kepemilikannya sehingga hak suaranya tetap 75,60%.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DGIK",
-   "saham treasuri",
-   "kepemilikan saham",
-   "Global Dinamika Kencana"
+   "Global Dinamika Kencana",
+   "Laporan Kepemilikan",
+   "Nusa Konstruksi Enjiniring"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-2538-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -2538,15 +2682,15 @@ var ARTICLES = [
  {
   "slug": "folk-komisaris-sutopo-widodo-tambah-15-8-juta-saham-suara-5-33",
   "category": "Aksi Korporasi",
-  "title": "FOLK: Sumber Garam Pratama Jual 62.999.372 Saham, Suara 15,65%",
-  "deck": "Sumber Garam Pratama melepas 62.999.372 saham FOLK dalam dua transaksi pada 13 dan 17 November 2026, menurunkan hak suaranya dari 17,19 persen menjadi 15,65 persen.",
+  "title": "FOLK: Sumber Garam Pratama Jual 98.116.961 Saham, Suara Jadi 13,25%",
+  "deck": "Sumber Garam Pratama melepas tambahan 98.116.961 saham FOLK pada 17-18 November 2026, menurunkan hak suaranya dari 15,65 persen menjadi 13,25 persen.",
   "date": "18 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "FOLK",
-   "Laporan Kepemilikan Saham",
    "Sumber Garam Pratama",
-   "Sutopo Widodo"
+   "Laporan Kepemilikan",
+   "Multi Garam Utama"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6564-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -2602,8 +2746,8 @@ var ARTICLES = [
  {
   "slug": "kdtn-putrasakti-mandiri-tambah-101-600-saham-hak-suara-32-08",
   "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Tambah 1.050.000 Saham, Hak Suara 32,08%",
-  "deck": "Dokumen baru mengungkap Putrasakti Mandiri juga membeli 948.400 saham KDTN pada 17 November 2026 di Rp176-Rp179, melengkapi total pembelian hari itu jadi 1,05 juta saham dan hak suara 32,084%.",
+  "title": "KDTN: Putrasakti Mandiri Tambah 51.600 Saham, Hak Suara Jadi 32,128%",
+  "deck": "Dokumen baru mengungkap pembelian tambahan 51.600 saham KDTN oleh Putrasakti Mandiri pada 18 November 2026, bagian dari rangkaian pembelian yang sudah membawa hak suaranya ke 32,128%.",
   "date": "18 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
@@ -3429,15 +3573,15 @@ var ARTICLES = [
  {
   "slug": "plan-direksi-jual-1-88-juta-saham-hak-suara-ke-2-64",
   "category": "Aksi Korporasi",
-  "title": "PLAN: Direksi [Jual] 1,88 Juta Saham, Hak Suara ke 2,64%",
-  "deck": "Direksi PLAN Antonyo Hartono Tanujaya melepas 1.883.100 saham lewat tiga transaksi repo pada 16 November, hak suara turun dari 2,85% ke 2,64%.",
+  "title": "PLAN: Direksi Antonyo Jual 2,03 Juta Saham Lagi, Hak Suara ke 2,41%",
+  "deck": "Direksi PLAN Antonyo Hartono Tanujaya menjual lagi 2.025.000 saham lewat tiga transaksi repo pada 19 November, hak suara turun dari 2,64% menjadi 2,41%, penjualan kedua dalam kurang dari seminggu.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "PLAN",
-   "kepemilikan saham",
+   "laporan kepemilikan",
    "direksi",
-   "divestasi"
+   "repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8358-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -5087,13 +5231,13 @@ var ARTICLES = [
  {
   "slug": "winr-pemenang-nusantara-jual-48-7-juta-saham-suara-41-81",
   "category": "Aksi Korporasi",
-  "title": "WINR: Pemenang Nusantara [Jual] 48,7 Juta Saham, Suara 41,81%",
-  "deck": "Pemegang saham Pemenang Nusantara Internasional melepas 48,7 juta saham WINR senilai sekitar Rp785,2 juta untuk menambah porsi saham beredar bebas.",
+  "title": "WINR: Pemenang Nusantara Jual 30 Juta Saham, Suara 41,24%",
+  "deck": "Pemenang Nusantara Internasional kembali melepas 30 juta saham WINR senilai sekitar Rp555 juta, menurunkan hak suaranya dari 41,81 persen menjadi 41,24 persen.",
   "date": "13 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "WINR",
-   "kepemilikan saham",
+   "laporan kepemilikan",
    "free float",
    "Pemenang Nusantara Internasional"
   ],
@@ -6375,151 +6519,6 @@ var ARTICLES = [
    "RUPST"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa9bc10ec7_df46cc73ef.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ihsg-meroket-2-66-persen-usai-gibran-mundur",
-  "category": "Pasar Modal",
-  "title": "IHSG [Meroket] 2,66 Persen Usai Gibran Mundur",
-  "deck": "IHSG ditutup menguat 2,66 persen ke 5.250,90 pada Kamis, didorong redanya tensi politik usai mundurnya Wapres Gibran Rakabuming Raka dan jaminan stok beras nasional.",
-  "date": "12 November 2026",
-  "image": "assets/img/ihsg-meroket-2-66-persen-usai-gibran-mundur.jpg",
-  "imageV": "mwdqzhk3",
-  "tags": [
-   "IHSG",
-   "Gibran Rakabuming Raka",
-   "Bursa Efek Indonesia",
-   "Pasar Modal"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478065-gibran-mundur-ihsg-sore-ini-meroket-266-persen"
- },
- {
-  "slug": "nice-tanggapi-bursa-permintaan-penjelasan-kredit-citibank-rp100-m",
-  "category": "Aksi Korporasi",
-  "title": "NICE Tanggapi Bursa [Permintaan Penjelasan]: Kredit Citibank Rp100 M",
-  "deck": "Menjawab permintaan penjelasan BEI, NICE memastikan saldo fasilitas kredit Rp100 miliar dari Citibank sudah nihil per akhir Oktober 2026, dengan bunga mengambang turun jadi INDONIA+1,25%.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NICE",
-   "Adhi Kartiko Pratama",
-   "Citibank",
-   "fasilitas kredit"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0120177083_d3eefcce21.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kemenko-perekonomian-temui-bei-dan-ojk-soal-reformasi-pasar-modal",
-  "category": "Pasar Modal",
-  "title": "Kemenko Perekonomian Temui BEI dan OJK soal [Reformasi] Pasar Modal",
-  "deck": "Pemerintah menggelar pertemuan dengan BEI, KPEI, KSEI, OJK, dan asosiasi emiten untuk menyusun langkah penguatan tata kelola, penegakan aturan, dan edukasi investor di pasar modal.",
-  "date": "12 November 2026",
-  "image": "assets/img/investor-ritel-ponsel.jpg",
-  "tags": [
-   "pasar modal",
-   "OJK",
-   "BEI",
-   "tata kelola emiten"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7214/jaga-kepercayaan-investor-dan-lindungi-aset-masyarakat-pemerintah-perkuat-reformasi-pasar-modal",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bi-resmikan-bank-kliring-yuan-untuk-dagang-ri-tiongkok",
-  "category": "Moneter",
-  "title": "BI Resmikan Bank Kliring [Yuan] untuk Dagang RI-Tiongkok",
-  "deck": "Bank Indonesia meluncurkan bank kliring Renminbi yang dikelola Bank of China Jakarta, didukung 12 bank nasional untuk mempermudah transaksi dagang Indonesia-Tiongkok memakai mata uang lokal.",
-  "date": "12 November 2026",
-  "image": "assets/img/pencakar-langit-jakarta.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "Renminbi",
-   "LCT",
-   "Tiongkok"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824726.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "public-expose-cfin-18-november-laba-9m26-naik-13-3-ke-rp154-m",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose CFIN 18 November: Coverage NPF Naik ke [55,64%]",
-  "deck": "CFIN laporkan hasil public expose 18 November: rasio pencadangan terhadap kredit bermasalah naik ke 55,64%, sementara ROE tahunan hanya 3,39%.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CFIN",
-   "Public Expose",
-   "NPF",
-   "ROE"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3a4e1bebfa_12de5f60e5.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kaii-obligasi-rp1-1-triliun-siap-dilunasi-13-desember",
-  "category": "Aksi Korporasi",
-  "title": "KAII: Obligasi Rp1,1 Triliun [Siap] Dilunasi 13 Desember",
-  "deck": "KAI menyatakan dana pelunasan pokok Obligasi II Seri B senilai Rp1,1 triliun yang jatuh tempo 13 Desember 2026 telah tersedia.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KAII",
-   "obligasi",
-   "Kereta Api Indonesia",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/45d1412109_c2ffd0fea8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-ketr-12-november-direktur-utama-diganti-ke-vidcy-octory",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB KETR 12 November: [Direktur Utama] Diganti ke Vidcy Octory",
-  "deck": "RUPSLB KETR pada 12 November 2026 mengganti direktur utama dan komisaris utama, serta menambah dua direktur baru.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "Perubahan Direksi",
-   "RUPSLB",
-   "Ketrosden Triasmitra"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6d349b5ba2_a60e9a032b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-ketr-12-november-presdir-diganti-direksi-tambah-2",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB KETR 12 November: [Presdir] Diganti, Direksi Tambah 2",
-  "deck": "RUPSLB KETR menetapkan Videy Octory sebagai Direktur Utama baru dan menambah dua direktur, sementara Komisaris Utama beralih ke Marlo Budiman.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KETR",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d0843fb1c3_0c7726095e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-msti-rp48-per-saham-cair-10-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim MSTI Rp48 per Saham: Cair 10 Desember 2026",
-  "deck": "MSTI menegaskan dividen interim Rp48 per saham cair 10 Desember 2026, sekaligus membuka data laba bersih Rp298,35 miliar dan ekuitas Rp2,26 triliun yang mendasarinya.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSTI",
-   "dividen interim",
-   "dividen tunai",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d094ae280_b8edfcbf82.pdf",
   "sourceLabel": "IDX"
  }
 ];

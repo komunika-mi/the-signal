@@ -5,6 +5,53 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rating-dmy-obl-pefindo-tahan-idaa-stable-untuk-3-seri-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Rating DMY-OBL: PEFINDO [Tahan] idAA/Stable untuk 3 Seri Obligasi",
+  "deck": "PEFINDO menegaskan peringkat idAA stabil untuk tiga seri obligasi senilai total Rp1,2 triliun milik emiten berkode DMY-OBL, satu seri dicatat berbeda dari periode sebelumnya.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-OBL",
+   "obligasi",
+   "pemeringkatan",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-OBL_E030_0156e3f5-0c55-4b08-a235-efb8238c74a6-20261121100147.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmy-shm-realisasi-dana-ipo-baru-44-6-target-molor-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "DMY-SHM: [Realisasi] Dana IPO Baru 44,6%, Target Molor ke 2027",
+  "deck": "Dari Rp118,2 miliar dana bersih IPO, DMY-SHM baru memakai Rp52,7 miliar. Ekspansi pabrik meleset 38% dari target dan molor ke akhir 2027.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "realisasi dana IPO",
+   "ekspansi pabrik",
+   "PKPU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E022_e8f613c8-96c4-4674-bd92-b534dddbb66a-20261121091949.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penggabungan-usaha-dmy-shm-serap-dummy-distribusi-pangan",
+  "category": "Aksi Korporasi",
+  "title": "Penggabungan Usaha DMY-SHM: [Serap] Dummy Distribusi Pangan",
+  "deck": "DMY-SHM mengajukan tambahan informasi rencana penggabungan usaha dengan PT Dummy Distribusi Pangan Uji, perusahaan tertutup, tanpa mengubah nama hasil penggabungan.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "penggabungan usaha",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E017A_8ea84cd4-6106-41df-9753-0760643af87d-20261121091729.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pkpu-dmy-shm-tagihan-rp805-material-setara-100-total-aset",
   "category": "Aksi Korporasi",
   "title": "PKPU DMY-SHM: Tagihan Rp805, [Material] Setara 100% Total Aset",
@@ -279,15 +326,15 @@ var ARTICLES = [
  {
   "slug": "dividen-tunai-dmy-shm-rp7-saham-cair-11-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "Dividen Saham DMY-SHM 27,5 Juta Lembar [Cair] 11 Desember 2026",
-  "deck": "RUPS Tahunan DMY-SHM 18 November menyetujui dividen saham Rp11 miliar (27,5 juta lembar) selain dividen tunai Rp7 per saham, keduanya dibagikan 11 Desember 2026.",
+  "title": "Jadwal Dividen Saham DMY-SHM [Mundur] ke 23 Desember 2026",
+  "deck": "Keterbukaan informasi baru menetapkan jadwal dividen saham DMY-SHM terpisah dari dividen tunai: dibagikan 23 Desember 2026, bukan 11 Desember seperti dilaporkan sebelumnya.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
    "dividen saham",
-   "dividen tunai",
-   "RUPS Tahunan"
+   "RUPS Tahunan",
+   "jadwal dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_0eb19001-fb5f-424c-8c16-e205938c1471-20261121004749.pdf",
   "sourceLabel": "IDX"
@@ -306,6 +353,38 @@ var ARTICLES = [
    "RUPS"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_941cad22-b7ec-4a06-9949-3bc0dbfaf766-20261121002752.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "stock-split-dmy-shm-4-desember-rasio-1-2-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "Stock Split DMY-SHM 4 Desember: Rasio 1:2 [Disetujui]",
+  "deck": "Pemecahan saham DMY-SHM rasio 1:2 disetujui, jumlah saham naik jadi 2,5 miliar lembar dan mulai berlaku 4 Desember 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "stock split",
+   "aksi korporasi",
+   "likuiditas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120_DMY-SHM_E0X3_e6655319-7a00-4b4f-9bc8-df204b6b0c65-20261121100342.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "right-issue-dmy-shm-10-1-hmetd-rp400-saham-dana-rp54-7-m",
+  "category": "Aksi Korporasi",
+  "title": "Right Issue DMY-SHM 10:1: [HMETD] Rp400/Saham, Dana Rp54,7 M",
+  "deck": "DMY-SHM menerbitkan hingga 140,25 juta saham baru lewat HMETD rasio 10:1 di harga Rp400 per saham, menghimpun dana bersih sekitar Rp54,7 miliar untuk ekspansi pabrik dan modal kerja.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "rights issue",
+   "HMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120_DMY-SHM_E0X3_2c177dd3-d6ff-40ff-a150-0739d44a0823-20261121100326.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6426,86 +6505,6 @@ var ARTICLES = [
    "Restrukturisasi Utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/075862d83b_bbd7e60b2d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupsu-sukuk-ptpp-tahap-iii-restrukturisasi-ditolak-setuju-71",
-  "category": "Aksi Korporasi",
-  "title": "RUPSu Sukuk PTPP Tahap III: [Restrukturisasi] Ditolak, Setuju 71%",
-  "deck": "Empat usulan restrukturisasi bagi hasil Sukuk Mudharabah Tahap III PTPP kandas karena tak mencapai syarat 75% suara setuju, walau tiga di antaranya didukung mayoritas pemegang sukuk.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "Sukuk",
-   "RUPSu",
-   "Restrukturisasi Utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc89a4b789_fe2e4d4b16.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "peringkat-sukuk-post-turun-ke-d-idn-gagal-bayar-ijarah",
-  "category": "Aksi Korporasi",
-  "title": "Peringkat Sukuk POST Turun ke D(idn): [Gagal Bayar] Ijarah",
-  "deck": "Fitch menurunkan peringkat Sukuk Ijarah Berkelanjutan I Pos Indonesia Tahap I milik emiten POST ke D(idn) dari C(idn) setelah gagal bayar imbalan ijarah jatuh tempo 8 Oktober 2026.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POST",
-   "Sukuk Ijarah",
-   "Fitch Ratings",
-   "Gagal Bayar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/87588d8eed_8840c8e4af.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupsi-bold-10-desember-agenda-menyusul-26-november",
-  "category": "Aksi Korporasi",
-  "title": "[RUPSI] BOLD 10 Desember: Agenda Menyusul 26 November",
-  "deck": "RUPSI pemegang Sukuk Ijarah I BUMA (BOLD) digelar 10 Desember 2026 atas permintaan Emiten; agenda baru terbit saat panggilan 26 November, menyusul dua RUPO obligasi serupa pekan ini.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOLD",
-   "BUMA",
-   "Sukuk Ijarah",
-   "RUPSI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6c107fefb4_dac69e06d8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fuji-pemeriksaan-bursa-ungkap-pemegang-saham-baru-5-61",
-  "category": "Aksi Korporasi",
-  "title": "FUJI: [Pemeriksaan] Bursa Ungkap Pemegang Saham Baru 5,61%",
-  "deck": "FUJI menjawab permintaan penjelasan Bursa terkait pemeriksaan transaksi saham, data menunjukkan pemegang saham baru muncul dengan porsi 5,61% per akhir Maret 2026.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FUJI",
-   "pemeriksaan bursa",
-   "pemegang saham",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8c923afa02_7e3cb399bb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppre-raih-kontrak-flyover-rp68-miliar-di-maluku-utara-kontrak",
-  "category": "Aksi Korporasi",
-  "title": "PPRE Raih Kontrak Flyover Rp68 Miliar di Maluku Utara [Kontrak]",
-  "deck": "PPRE menggarap pembangunan flyover jalan produksi tambang di Moronopo, Maluku Utara, senilai Rp68 miliar untuk klien PT Nusa Karya Arindo.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRE",
-   "kontrak baru",
-   "konstruksi",
-   "Maluku Utara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a628a06d34_4e04ce7ab4.pdf",
   "sourceLabel": "IDX"
  }
 ];

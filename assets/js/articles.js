@@ -3,6 +3,117 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rating-dmy-obl-pefindo-tahan-idaa-stable-untuk-3-seri-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Rating DMY-OBL: PEFINDO [Tahan] idAA/Stable untuk 3 Seri Obligasi",
+  "deck": "PEFINDO menegaskan peringkat idAA stabil untuk tiga seri obligasi senilai total Rp1,2 triliun milik emiten berkode DMY-OBL, satu seri dicatat berbeda dari periode sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T09:53:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-OBL_E030_0156e3f5-0c55-4b08-a235-efb8238c74a6-20261121100147.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-OBL",
+  "tags": [
+   "DMY-OBL",
+   "obligasi",
+   "pemeringkatan",
+   "PEFINDO"
+  ],
+  "body": [
+   "Lembaga pemeringkat PEFINDO menerbitkan hasil pemeringkatan baru atas tiga seri obligasi milik emiten berkode DMY-OBL pada 21 November 2026, menyusul adanya fakta material yang memicu proses pemeringkatan tersebut. Ketiga seri, yaitu DMYOB01A, DMYOB01B, dan DMYOB01C, sama-sama diberi peringkat idAA dengan outlook stabil, yang berarti PEFINDO menilai kemampuan emiten membayar utangnya tetap berada di level yang sama dan tidak diperkirakan berubah dalam waktu dekat.",
+   "Secara rinci, DMYOB01A memiliki nilai pokok Rp300 miliar dan jatuh tempo 19 November 2029, DMYOB01B senilai Rp500 miliar jatuh tempo 19 November 2031, serta DMYOB01C senilai Rp400 miliar jatuh tempo 19 November 2033. Total ketiga seri mencapai Rp1,2 triliun. Dokumen mencatat bahwa peringkat DMYOB01A untuk periode 21 November 2026 ditandai berbeda dari peringkat sebelumnya, sementara peringkat DMYOB01B dan DMYOB01C untuk periode 15 September 2026 hingga 1 September 2027 dinyatakan tidak berubah dari sebelumnya.",
+   "Laporan yang diterima perusahaan pada tanggal yang sama tidak memuat uraian rinci mengenai fakta material atau alasan spesifik di balik perubahan status pada seri DMYOB01A tersebut, sehingga informasi yang bisa dipastikan dari dokumen ini sebatas hasil akhir peringkat dan status perubahannya."
+  ],
+  "fotoAdegan": "Exterior view of a modern corporate office tower in a Jakarta business district at dusk, street level",
+  "takeaway": "Laporan ini cenderung netral bagi emiten karena PEFINDO mempertahankan peringkat idAA dengan outlook stabil untuk ketiga seri obligasi, tanpa ada penurunan grade yang biasanya menjadi sinyal memburuknya kemampuan bayar utang. Pos yang tersentuh di sini adalah beban bunga, yaitu biaya yang harus dibayar emiten kepada pemegang obligasi, karena peringkat kredit ikut menentukan seberapa mahal bunga yang diminta investor saat perusahaan menerbitkan utang baru atau memperpanjang yang lama; peringkat yang stabil berarti beban bunga ke depan kemungkinan tidak berubah signifikan akibat faktor ini. Yang perlu dipantau selanjutnya adalah berakhirnya periode rating seri DMYOB01B dan DMYOB01C pada 1 September 2027, saat PEFINDO akan melakukan tinjauan ulang, sementara jatuh tempo pembayaran pokok pertama dari ketiga seri jatuh pada DMYOB01A di 19 November 2029.",
+  "sentimen": "netral",
+  "judulIdx": "Pemeringkatan Karena Terdapat Fakta Material",
+  "jadwal": [
+   {
+    "tanggal": "2027-09-01",
+    "acara": "Akhir periode rating saat ini untuk DMYOB01B dan DMYOB01C"
+   },
+   {
+    "tanggal": "2029-11-19",
+    "acara": "Jatuh tempo obligasi DMYOB01A"
+   },
+   {
+    "tanggal": "2031-11-19",
+    "acara": "Jatuh tempo obligasi DMYOB01B"
+   },
+   {
+    "tanggal": "2033-11-19",
+    "acara": "Jatuh tempo obligasi DMYOB01C"
+   }
+  ]
+ },
+ {
+  "slug": "dmy-shm-realisasi-dana-ipo-baru-44-6-target-molor-ke-2027",
+  "category": "Aksi Korporasi",
+  "title": "DMY-SHM: [Realisasi] Dana IPO Baru 44,6%, Target Molor ke 2027",
+  "deck": "Dari Rp118,2 miliar dana bersih IPO, DMY-SHM baru memakai Rp52,7 miliar. Ekspansi pabrik meleset 38% dari target dan molor ke akhir 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T09:19:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E022_e8f613c8-96c4-4674-bd92-b534dddbb66a-20261121091949.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "realisasi dana IPO",
+   "ekspansi pabrik",
+   "PKPU"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) melaporkan realisasi penggunaan dana hasil penawaran umum saham (IPO) yang efektif sejak 20 November 2026. Dari total dana yang terkumpul Rp122,5 miliar, perseroan memotong biaya penawaran umum Rp4,29 miliar, terdiri dari biaya jasa penjaminan emisi (underwriting fee) Rp3,675 miliar dan biaya pendaftaran ke OJK, pencatatan di Bursa serta KSEI Rp612,5 juta. Dana bersih yang tersisa untuk dibelanjakan adalah Rp118,21 miliar. Sampai periode pelaporan, perseroan baru merealisasikan Rp52,73 miliar atau sekitar 44,6 persen dari dana bersih tersebut, sehingga masih ada Rp65,48 miliar yang belum terpakai.",
+   "Rincian per pos penggunaan dana menunjukkan kesenjangan antara rencana dan realisasi. Untuk ekspansi pabrik dan lini produksi baru, perseroan merencanakan Rp65,02 miliar atau 55 persen dari dana bersih, namun baru terealisasi Rp20 miliar atau 16,92 persen, dengan deviasi dari rencana sebesar 38,08 persen. Target penyelesaian pos ini mundur ke 31 Desember 2027, dengan sisa dana yang belum terpakai Rp45,02 miliar. Pos modal kerja untuk bahan baku dan distribusi juga belum sesuai rencana, baru Rp15 miliar terealisasi dari rencana Rp35,46 miliar, deviasi 17,31 persen, dengan target rampung 30 Juni 2027. Hanya pos pelunasan sebagian utang bank anak perusahaan yang sudah tuntas 100 persen sesuai rencana senilai Rp17,73 miliar tanpa deviasi.",
+   "Sisa dana yang belum digunakan, Rp65,48 miliar, untuk sementara ditempatkan dalam deposito berjangka tiga bulan di PT Bank Dummy Uji Tbk dengan bunga 5,25 persen per tahun, pihak yang tidak berelasi dengan perseroan. Perseroan menyatakan laporan ini bukan laporan realisasi penggunaan dana yang terakhir, artinya masih akan ada laporan susulan untuk periode berikutnya."
+  ],
+  "fotoAdegan": "Workers inspecting stainless steel food processing machinery on a factory production line, industrial lighting",
+  "takeaway": "Laporan ini condong negatif bagi DMY-SHM karena realisasi dana IPO jauh di bawah rencana, terutama untuk pos ekspansi pabrik yang baru terpakai 17 persen dari target dengan selisih 38 persen dari rencana awal, dan ini terjadi saat perseroan sedang menghadapi tekanan keuangan serius lewat proses PKPU anak usaha dan status pemantauan khusus dari bursa. Yang tersentuh di sini adalah arus kas dan rencana ekspansi aset tetap, yakni seberapa cepat dana segar hasil jual saham ke publik benar-benar diubah menjadi pabrik dan kapasitas produksi baru. Pelaku pasar mencermati pos ini karena dana yang mengendap di deposito berbunga 5,25 persen jauh lebih kecil hasilnya dibanding ekspektasi keuntungan dari ekspansi usaha yang dijanjikan ke investor saat IPO. Yang perlu dipantau berikutnya adalah laporan realisasi dana susulan karena perseroan menegaskan ini belum laporan terakhir, serta dua tenggat penyelesaian penggunaan dana yakni 30 Juni 2027 untuk modal kerja dan 31 Desember 2027 untuk ekspansi pabrik, yang akan menunjukkan apakah perseroan bisa mengejar target di tengah tekanan keuangan yang sedang dihadapi.",
+  "sentimen": "negatif",
+  "judulIdx": "Laporan Penggunaan Dana Hasil Penawaran Umum",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Tanggal efektif penawaran umum saham"
+   },
+   {
+    "tanggal": "2027-06-30",
+    "acara": "Target penyelesaian penggunaan dana modal kerja"
+   },
+   {
+    "tanggal": "2027-12-31",
+    "acara": "Target penyelesaian dana ekspansi pabrik"
+   }
+  ]
+ },
+ {
+  "slug": "penggabungan-usaha-dmy-shm-serap-dummy-distribusi-pangan",
+  "category": "Aksi Korporasi",
+  "title": "Penggabungan Usaha DMY-SHM: [Serap] Dummy Distribusi Pangan",
+  "deck": "DMY-SHM mengajukan tambahan informasi rencana penggabungan usaha dengan PT Dummy Distribusi Pangan Uji, perusahaan tertutup, tanpa mengubah nama hasil penggabungan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T09:17:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E017A_8ea84cd4-6106-41df-9753-0760643af87d-20261121091729.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "penggabungan usaha",
+   "korporasi"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk, dengan kode emiten DMY-SHM, menyampaikan perubahan dan tambahan informasi atas rencana penggabungan usaha yang merujuk pada surat direksi perseroan nomor DMY-SHM/DIR/XI/2026/021. Dalam rencana ini, DMY-SHM berperan sebagai pihak yang menerima penggabungan, sedangkan perusahaan yang digabungkan adalah PT Dummy Distribusi Pangan Uji, sebuah perusahaan tertutup yang sahamnya tidak diperdagangkan di bursa.",
+   "Setelah proses penggabungan selesai, nama perusahaan hasil penggabungan tetap PT Dummy Uji Pangan Sejahtera Tbk. Artinya, identitas hukum dan status sebagai perusahaan tercatat yang bertahan adalah DMY-SHM, sementara PT Dummy Distribusi Pangan Uji akan melebur dan berhenti beroperasi sebagai entitas tersendiri. Laporan yang disampaikan ke bursa kali ini berupa pembaruan ringkasan rencana penggabungan tersebut, tanpa memuat rincian rasio pertukaran saham, nilai aset yang digabungkan, maupun tanggal efektif pelaksanaannya."
+  ],
+  "fotoAdegan": "Workers loading sacks of packaged food products onto a delivery truck at a warehouse loading dock, daylight",
+  "takeaway": "Laporan ini netral bagi DMY-SHM karena isinya baru sebatas konfirmasi ulang rencana penggabungan dengan PT Dummy Distribusi Pangan Uji, tanpa rincian rasio saham, nilai aset, atau skema pembayaran yang bisa menunjukkan apakah langkah ini menguntungkan atau membebani pemegang saham lama. Penggabungan semacam ini biasanya menambah aset dan ekuitas perseroan karena kekayaan perusahaan yang diserap ikut masuk ke neracanya, tetapi karena nilai aset yang digabungkan tidak diungkap di sini, pelaku pasar belum bisa menghitung seberapa besar penambahannya atau apakah ada penerbitan saham baru yang bisa mengurangi laba per saham pemegang lama. Yang perlu dipantau berikutnya adalah rincian lanjutan dari surat direksi nomor DMY-SHM/DIR/XI/2026/021 yang menjadi rujukan laporan ini, termasuk rasio penggabungan dan tanggal efektifnya, karena dokumen yang beredar saat ini belum mencantumkan jadwal pelaksanaan.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan dan/atau Tambahan Informasi Penggabungan"
+ },
+ {
   "slug": "pkpu-dmy-shm-tagihan-rp805-material-setara-100-total-aset",
   "category": "Aksi Korporasi",
   "title": "PKPU DMY-SHM: Tagihan Rp805, [Material] Setara 100% Total Aset",
@@ -676,8 +787,8 @@ var ARTICLES = [
  {
   "slug": "dividen-tunai-dmy-shm-rp7-saham-cair-11-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "Dividen Saham DMY-SHM 27,5 Juta Lembar [Cair] 11 Desember 2026",
-  "deck": "RUPS Tahunan DMY-SHM 18 November menyetujui dividen saham Rp11 miliar (27,5 juta lembar) selain dividen tunai Rp7 per saham, keduanya dibagikan 11 Desember 2026.",
+  "title": "Jadwal Dividen Saham DMY-SHM [Mundur] ke 23 Desember 2026",
+  "deck": "Keterbukaan informasi baru menetapkan jadwal dividen saham DMY-SHM terpisah dari dividen tunai: dibagikan 23 Desember 2026, bukan 11 Desember seperti dilaporkan sebelumnya.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T00:47:48",
@@ -687,24 +798,24 @@ var ARTICLES = [
   "tags": [
    "DMY-SHM",
    "dividen saham",
-   "dividen tunai",
-   "RUPS Tahunan"
+   "RUPS Tahunan",
+   "jadwal dividen"
   ],
   "body": [
-   "Selain dividen tunai, RUPS Tahunan DMY-SHM pada 18 November 2026 juga menyetujui pembagian dividen saham untuk tahun buku 2025 senilai Rp11 miliar, setara 27.500.000 lembar saham baru. Harga pasar yang dipakai sebagai dasar perhitungan adalah Rp400 per saham, dan seluruh nilai dividen saham ini diambil dari saldo laba ditahan sebesar Rp11 miliar.",
-   "Jadwal pembagian dividen saham mengikuti jadwal yang sama dengan dividen tunai: cum dividen di pasar reguler dan negosiasi pada 26 November 2026, ex dividen pada 27 November 2026, cum dividen di pasar tunai pada 30 November 2026, dan ex dividen di pasar tunai pada 1 Desember 2026. Batas pencatatan pemegang saham (DPS) yang berhak atas dividen saham ditetapkan 30 November 2026 pukul 10.00 WIB, sedikit berbeda dari DPS dividen tunai yang berlaku pukul 16.00 WIB pada tanggal yang sama. Kedua jenis dividen ini sama-sama dibagikan pada 11 Desember 2026.",
-   "Sebelumnya diberitakan, RUPS yang sama menyetujui dividen tunai Rp7 per saham dengan total Rp8,75 miliar, dibayarkan pada tanggal yang sama, 11 Desember 2026. Dasar pembagian dividen tunai ini adalah laba bersih yang diatribusikan kepada entitas induk sebesar Rp28,6 miliar pada tahun buku 2025, dengan saldo laba ditahan tidak dibatasi Rp31 miliar dan total ekuitas Rp85 miliar sebelum pembagian dividen.",
-   "Dengan tambahan 27.500.000 saham baru dari dividen saham, jumlah saham beredar DMY-SHM bertambah sekitar 2,2 persen dari sekitar 1,25 miliar saham yang sudah ada, dihitung dari total dividen tunai Rp8,75 miliar dibagi Rp7 per saham. Artinya laba perusahaan ke depan akan dihitung atas basis saham yang lebih banyak."
+   "Keterbukaan informasi baru dari DMY-SHM merevisi jadwal pembagian dividen saham untuk tahun buku 2025 menjadi terpisah dari dividen tunai. Tanggal cum dividen saham di pasar reguler dan negosiasi kini 14 Desember 2026, ex dividen 15 Desember 2026, cum dividen di pasar tunai 16 Desember 2026, dan ex dividen di pasar tunai 17 Desember 2026. Batas pencatatan pemegang saham (DPS) yang berhak atas dividen saham ditetapkan 16 Desember 2026 pukul 16.00 WIB, dan saham baru itu baru akan dibagikan pada 23 Desember 2026, bukan 11 Desember 2026 seperti diberitakan sebelumnya.",
+   "Nilai dan jumlah dividen saham tidak berubah dari keputusan RUPS Tahunan 18 November 2026: Rp11 miliar yang setara 27.500.000 lembar saham baru, dihitung dari harga pasar dasar Rp400 per saham. Rasio pembagiannya adalah 50 saham lama untuk setiap 1 saham dividen baru. Seluruh nilai ini diambil dari saldo laba ditahan perusahaan yang tercatat Rp31 miliar, dan tanggal efektif dividen saham ini ditetapkan 20 November 2026.",
+   "Dividen tunai yang disetujui RUPS yang sama tidak terpengaruh oleh revisi ini. Dividen tunai Rp7 per saham dengan total Rp8,75 miliar tetap dijadwalkan cair pada 11 Desember 2026, dengan cum dividen di pasar reguler dan negosiasi 26 November 2026, ex dividen 27 November 2026, serta DPS pada 30 November 2026 pukul 16.00 WIB. Dasar pembagian dividen tunai ini adalah laba bersih yang diatribusikan kepada entitas induk sebesar Rp28,6 miliar pada tahun buku 2025, dengan total ekuitas Rp85 miliar sebelum pembagian dividen.",
+   "Dengan tambahan 27.500.000 saham baru dari dividen saham, jumlah saham beredar DMY-SHM akan bertambah sekitar 2,2 persen dari sekitar 1,25 miliar saham yang sudah ada. Artinya laba perusahaan ke depan akan dihitung atas basis saham yang lebih banyak begitu saham baru ini resmi dibagikan pada 23 Desember 2026."
   ],
   "fotoAdegan": "Workers in hairnets inspecting rows of instant noodle packets moving along a factory conveyor belt, industrial lighting",
-  "takeaway": "Laporan ini condong netral bagi DMY-SHM: dividen saham menambah imbal hasil ke pemegang saham tanpa menguras kas perusahaan, karena nilainya hanya memindahkan saldo laba ditahan menjadi saham baru, bukan mengeluarkan uang tunai. Tapi di sisi lain, pos jumlah saham beredar bertambah sekitar 2,2 persen sehingga laba per saham, yakni laba bersih dibagi jumlah saham, akan sedikit terdilusi meski labanya sendiri tidak berubah, dua efek yang saling menyeimbangkan. Arus kas, yaitu aliran uang tunai perusahaan, berbeda nasib antara keduanya: dividen saham tidak mengurangi kas, sedangkan dividen tunai Rp8,75 miliar akan mengurangi kas begitu dibayarkan. Yang perlu dipantau berikutnya adalah batas pencatatan pemegang saham (DPS) pada 30 November 2026, yang berbeda jam antara dividen tunai pukul 16.00 WIB dan dividen saham pukul 10.00 WIB, serta tanggal pembagian kedua dividen pada 11 Desember 2026.",
+  "takeaway": "Laporan ini tetap netral bagi DMY-SHM karena jadwal dividen saham yang direvisi ini hanya mengubah waktu, bukan substansi: nilai Rp11 miliar dan jumlah 27,5 juta lembar saham baru tidak berubah dari yang disetujui RUPS 18 November. Pos yang tersentuh adalah jumlah saham beredar, yang tetap akan bertambah sekitar 2,2 persen begitu saham baru ini resmi dibagikan, sehingga laba per saham, yaitu laba bersih dibagi jumlah saham, akan terdilusi sedikit lebih lambat dari perkiraan semula karena pembagiannya mundur ke 23 Desember 2026 dari sebelumnya diberitakan 11 Desember. Arus kas perusahaan, yaitu aliran uang tunai yang keluar masuk, tidak tersentuh oleh dividen saham ini karena yang dibagikan adalah saham baru, bukan uang tunai, berbeda dengan dividen tunai Rp8,75 miliar yang tetap mengurangi kas begitu dibayarkan 11 Desember 2026. Yang perlu dipantau berikutnya adalah batas pencatatan pemegang saham (DPS) untuk dividen saham pada 16 Desember 2026 pukul 16.00 WIB, karena pemegang saham yang tidak tercatat di tanggal itu tidak akan menerima saham baru hasil dividen ini.",
   "sentimen": "netral",
   "peristiwa": "dividen",
   "judulIdx": "Dividen Tunai",
   "jadwal": [
    {
     "tanggal": "2026-11-18",
-    "acara": "RUPS Tahunan menyetujui dividen tunai dan dividen saham tahun buku 2025"
+    "acara": "RUPS Tahunan menyetujui dividen tunai dan dividen saham"
    },
    {
     "tanggal": "2026-11-20",
@@ -712,23 +823,27 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-11-26",
-    "acara": "Cum dividen di pasar reguler dan negosiasi"
-   },
-   {
-    "tanggal": "2026-11-27",
-    "acara": "Ex dividen di pasar reguler dan negosiasi"
+    "acara": "Cum dividen tunai di pasar reguler dan negosiasi"
    },
    {
     "tanggal": "2026-11-30",
-    "acara": "Cum dividen pasar tunai; DPS dividen tunai 16:00 & dividen saham 10:00 WIB"
-   },
-   {
-    "tanggal": "2026-12-01",
-    "acara": "Ex dividen di pasar tunai"
+    "acara": "DPS dividen tunai pukul 16:00 WIB"
    },
    {
     "tanggal": "2026-12-11",
-    "acara": "Pembagian dividen tunai dan dividen saham"
+    "acara": "Pembagian dividen tunai"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Cum dividen saham di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "DPS dividen saham pukul 16:00 WIB"
+   },
+   {
+    "tanggal": "2026-12-23",
+    "acara": "Pembagian dividen saham"
    }
   ],
   "pembaruan": [
@@ -737,9 +852,15 @@ var ARTICLES = [
     "ringkas": "RUPS DMY-SHM juga menyetujui dividen saham Rp11 miliar (27,5 juta lembar) selain dividen tunai Rp7 per saham.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X2_e21a7db2-8ad5-4055-b479-b3f4743adf46-20261121004319.pdf",
     "judulIdx": "Aksi Korporasi - Rencana Dividen Saham"
+   },
+   {
+    "tanggal": "2026-11-21T00:11:20",
+    "ringkas": "Jadwal pembagian dividen saham DMY-SHM direvisi mundur ke 23 Desember 2026, terpisah dari dividen tunai yang tetap cair 11 Desember.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120_DMY-SHM_E0X3_3d4cd5f2-83e4-4a40-8c64-05d271283960-20261121100311.pdf",
+    "judulIdx": "Dividen Saham"
    }
   ],
-  "diperbarui": "2026-11-21T00:43:17"
+  "diperbarui": "2026-11-21T00:11:20"
  },
  {
   "slug": "reverse-stock-dmy-shm-5-1-saham-beredar-jadi-250-juta",
@@ -799,6 +920,106 @@ var ARTICLES = [
    }
   ],
   "diperbarui": "2026-11-21T00:24:35"
+ },
+ {
+  "slug": "stock-split-dmy-shm-4-desember-rasio-1-2-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "Stock Split DMY-SHM 4 Desember: Rasio 1:2 [Disetujui]",
+  "deck": "Pemecahan saham DMY-SHM rasio 1:2 disetujui, jumlah saham naik jadi 2,5 miliar lembar dan mulai berlaku 4 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T00:21:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120_DMY-SHM_E0X3_e6655319-7a00-4b4f-9bc8-df204b6b0c65-20261121100342.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "stock split",
+   "aksi korporasi",
+   "likuiditas saham"
+  ],
+  "body": [
+   "DMY-SHM melakukan pemecahan saham (stock split) dengan rasio 1:2. Nilai nominal saham turun dari Rp50 menjadi Rp25 per lembar, sementara jumlah saham tercatat naik dari 1.250.000.000 menjadi 2.500.000.000 lembar. Rencana ini disetujui dalam RUPS pada 18 November 2026, setelah sebelumnya mendapat persetujuan prinsip dari Bursa Efek Indonesia pada 23 Oktober 2026. Perdagangan saham dengan nominal lama berakhir 3 Desember 2026, dan saham dengan nominal baru mulai diperdagangkan di pasar reguler, negosiasi, serta pasar tunai sejak 4 Desember 2026.",
+   "Perseroan menyebut tujuan stock split ini untuk meningkatkan likuiditas perdagangan dan memperluas basis investor ritel lewat harga saham yang lebih terjangkau. Modal ditempatkan dan disetor tetap sebesar Rp62,5 miliar, dan persentase kepemilikan setiap pemegang saham tidak berubah, yang berubah hanya jumlah unit saham dan harga per lembarnya. Dalam ringkasan penilaian independen yang dilampirkan, penilai menyatakan hasil pendapat kewajaran atas rencana ini sebagai 'wajar'.",
+   "Perseroan menyatakan tidak berencana melakukan aksi korporasi lain yang mengubah jumlah saham dalam enam bulan setelah pelaksanaan stock split, yang diperkirakan berlangsung pada 4 Desember 2026."
+  ],
+  "fotoAdegan": "Clerks sorting paper stock certificates into labeled folders at a securities registrar back office, fluorescent light",
+  "takeaway": "Netral bagi DMY-SHM, sebab pemecahan saham ini tidak mengubah nilai kekayaan perusahaan maupun persentase kepemilikan pemegang saham, hanya menggandakan jumlah lembar saham sambil memotong separuh harga per lembarnya. Yang tersentuh adalah jumlah saham beredar, yang naik dari 1,25 miliar menjadi 2,5 miliar lembar, sehingga laba per saham otomatis terbagi ke lebih banyak unit tanpa mengubah total laba maupun modal disetor perusahaan yang tetap di angka Rp62,5 miliar. Pelaku pasar mencermati langkah ini karena harga saham yang lebih murah per lembar bisa membuatnya lebih terjangkau bagi investor ritel, meski itu sendiri tidak menambah nilai fundamental apa pun. Yang perlu dipantau adalah peralihan perdagangan: saham nominal lama berhenti diperdagangkan 3 Desember 2026 dan saham nominal baru mulai diperdagangkan 4 Desember 2026, yang juga menjadi perkiraan tanggal pelaksanaan resmi stock split ini. Perlu dicatat, upaya memperluas basis investor lewat stock split ini berjalan di tengah status PKPU dan pemantauan khusus yang sedang disandang DMY-SHM akibat tekanan keuangan di anak usahanya.",
+  "sentimen": "netral",
+  "peristiwa": "stock-split",
+  "judulIdx": "Stock Split",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Hari terakhir perdagangan saham dengan nominal lama"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Mulai perdagangan saham dengan nominal baru di pasar reguler, negosiasi, dan tunai"
+   }
+  ]
+ },
+ {
+  "slug": "right-issue-dmy-shm-10-1-hmetd-rp400-saham-dana-rp54-7-m",
+  "category": "Aksi Korporasi",
+  "title": "Right Issue DMY-SHM 10:1: [HMETD] Rp400/Saham, Dana Rp54,7 M",
+  "deck": "DMY-SHM menerbitkan hingga 140,25 juta saham baru lewat HMETD rasio 10:1 di harga Rp400 per saham, menghimpun dana bersih sekitar Rp54,7 miliar untuk ekspansi pabrik dan modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T00:14:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261120_DMY-SHM_E0X3_2c177dd3-d6ff-40ff-a150-0739d44a0823-20261121100326.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "rights issue",
+   "HMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "DMY-SHM mengumumkan hasil Rapat Umum Pemegang Saham tanggal 18 November 2026 yang menyetujui penambahan modal dengan Hak Memesan Efek Terlebih Dahulu (HMETD) atau rights issue. Perseroan akan menerbitkan sebanyak-banyaknya 140.250.000 saham baru dengan nilai nominal Rp50 per saham, dengan rasio 10:1, artinya setiap pemegang 10 saham lama berhak atas 10 HMETD, dan setiap 10 HMETD bisa ditukar untuk membeli 1 saham baru. Harga pelaksanaan ditetapkan Rp400 per saham. Saham lama yang berhak atas HMETD adalah yang tercatat dalam daftar pemegang saham per 19 Januari 2027 pukul 16.00 WIB.",
+   "Dari aksi ini, perseroan menargetkan dana bersih sekitar Rp54.697.500.000 setelah dipotong biaya emisi. Sebanyak 60 persen atau Rp32.818.500.000 akan dipakai untuk ekspansi kapasitas pabrik dan penambahan lini produksi makanan olahan, sementara 40 persen atau Rp21.879.000.000 untuk modal kerja pembelian bahan baku dan distribusi. Pecahan HMETD yang timbul dari pembagian rasio akan dijual oleh perseroan sesuai POJK 32/2015 Pasal 33, dan PT Pembeli Siaga Dummy bertindak sebagai pembeli siaga yang akan menyerap sisa saham yang tidak diserap pemegang saham. Rights issue ini tidak disertai penerbitan waran dan saham baru yang diterbitkan tidak bisa dikonversi.",
+   "Jadwal pelaksanaan dimulai dengan tanggal efektif pada 7 Januari 2027. Periode perdagangan dan pelaksanaan HMETD berlangsung 21 sampai 27 Januari 2027, dengan batas akhir pembayaran pesanan saham tambahan pada 29 Januari 2027 dan penjatahan pada 1 Februari 2027."
+  ],
+  "fotoAdegan": "Workers in hairnets inspecting packaged food products moving along a conveyor belt inside a processing plant",
+  "takeaway": "Laporan ini condong negatif bagi DMY-SHM karena rights issue ini muncul di tengah tekanan keuangan serius yang sudah terekam sebelumnya, yaitu gugatan PKPU dengan tagihan yang disebut setara 100 persen dari total aset perusahaan dan realisasi dana IPO terdahulu yang baru mencapai 44,6 persen dari target. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, karena penerbitan hingga 140,25 juta saham baru dengan rasio 10:1 menambah jumlah lembar saham sekitar 10 persen, sehingga keuntungan perusahaan per lembar saham bisa terdilusi bagi pemegang saham yang tidak menebus haknya. Dana segar Rp54,7 miliar juga tergolong kecil dibandingkan dengan besaran tagihan yang mengancam aset perusahaan dalam proses PKPU, sehingga kemampuannya menambal masalah keuangan perlu dicermati. Yang perlu dipantau berikutnya adalah tanggal pendaftaran pemegang saham pada 19 Januari 2027, periode pelaksanaan HMETD pada 21 sampai 27 Januari 2027, dan perkembangan proses PKPU yang berjalan berdampingan dengan penambahan modal ini.",
+  "sentimen": "negatif",
+  "peristiwa": "right-issue",
+  "judulIdx": "Penambahan Modal dengan HMETD",
+  "jadwal": [
+   {
+    "tanggal": "2027-01-07",
+    "acara": "Tanggal efektif HMETD"
+   },
+   {
+    "tanggal": "2027-01-15",
+    "acara": "Cum HMETD di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2027-01-18",
+    "acara": "Ex HMETD di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2027-01-19",
+    "acara": "Tanggal DPS yang berhak atas HMETD"
+   },
+   {
+    "tanggal": "2027-01-21",
+    "acara": "Mulai periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2027-01-27",
+    "acara": "Akhir periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2027-01-29",
+    "acara": "Batas akhir pembayaran pesanan saham tambahan"
+   },
+   {
+    "tanggal": "2027-02-01",
+    "acara": "Tanggal penjatahan saham tambahan"
+   }
+  ]
  },
  {
   "slug": "ccepc-beri-beasiswa-dan-sarana-belajar-ke-sd-di-cikarang",

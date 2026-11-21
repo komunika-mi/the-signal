@@ -3,6 +3,158 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pkpu-dmy-shm-tagihan-rp805-material-setara-100-total-aset",
+  "category": "Aksi Korporasi",
+  "title": "PKPU DMY-SHM: Tagihan Rp805, [Material] Setara 100% Total Aset",
+  "deck": "Gugatan PKPU dari PT Asuransi Kredit Indonesia terhadap DMY-SHM disebut perseroan setara 100 persen dari total aset, memicu usulan restrukturisasi senilai Rp119.436.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T05:56:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E018_93b239c4-f4fc-4729-9623-c26ac44d7bf0-20261121055617.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "PKPU",
+   "restrukturisasi utang",
+   "kepailitan"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) melaporkan kepada Bursa Efek Indonesia bahwa perseroan menghadapi gugatan Penundaan Kewajiban Pembayaran Utang (PKPU) dari PT Asuransi Kredit Indonesia, terkait tagihan dari pemasok senilai Rp805. Dalam keterbukaan informasi yang disampaikan 21 November 2026, perseroan menyatakan kewajiban yang digugat tersebut berdampak material dan nilainya setara 100 persen dari total aset perseroan berdasarkan laporan keuangan per tanggal yang sama.",
+   "Untuk menyelesaikan perkara ini, perseroan mengajukan usulan restrukturisasi kewajiban senilai Rp119.436 dalam rupiah ekuivalen kepada kreditur. Rinciannya terdiri dari penjadwalan ulang utang dengan ketentuan yang sama seperti utang asal senilai Rp2, penerbitan utang baru senilai Rp146.720.729, konversi utang menjadi saham senilai Rp720, pelunasan utang melalui penyerahan aset senilai Rp1.669.161, dan penghapusan sebagian kewajiban awal senilai Rp8.632. Salah satu kewajiban yang jangka waktunya diubah adalah pos bernama Siti Uji Coba, dengan nilai setelah restrukturisasi menjadi Rp6.176.000 dan jatuh tempo baru pada 21 November 2026.",
+   "Perseroan belum merinci secara substantif dalam dokumen ini mengenai alasan tidak terpenuhinya pembayaran kepada kreditur maupun penjelasan manajemen atas gugatan tersebut, sehingga publik untuk saat ini hanya mengetahui nilai tagihan dan usulan restrukturisasi yang diajukan."
+  ],
+  "fotoAdegan": "Workers moving stacked food cartons across a warehouse loading dock, forklift idling, late afternoon light",
+  "takeaway": "Laporan ini negatif bagi DMY-SHM, sebab perseroan sendiri menyebut tagihan yang digugat oleh PT Asuransi Kredit Indonesia setara 100 persen dari total aset perusahaan, artinya nyaris seluruh kekayaan perseroan menjadi taruhan dalam perkara PKPU ini. Pos yang langsung tersentuh adalah arus kas dan ekuitas pemegang saham, karena kalau perseroan gagal membayar atau merestrukturisasi utang ini, aset yang bisa dipakai menutupi kewajiban kepada pemegang saham nyaris tidak bersisa. Usulan restrukturisasi yang mencakup penerbitan utang baru dan konversi sebagian utang menjadi saham juga berarti jumlah saham beredar bisa bertambah, sehingga laba per saham ke depan bisa terdilusi kalau konversi itu benar dijalankan. Yang perlu dipantau berikutnya adalah bagaimana proses PKPU ini berlanjut dan apakah kreditur menyetujui usulan restrukturisasi senilai Rp119.436, karena dokumen ini belum menyebut tanggal sidang atau putusan pengadilan niaga secara eksplisit.",
+  "sentimen": "negatif",
+  "judulIdx": "Perkara PKPU",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Jatuh tempo kewajiban Siti Uji Coba setelah restrukturisasi"
+   }
+  ]
+ },
+ {
+  "slug": "tender-wajib-dmy-shm-21-november-pengendali-baru-pegang-9-22",
+  "category": "Aksi Korporasi",
+  "title": "Tender Wajib DMY-SHM 21 November: [Pengendali Baru] Pegang 9,22%",
+  "deck": "Pengendali baru DMY-SHM merampungkan penawaran tender wajib pada 21 November 2026 dengan membeli 621.938.106 saham, namun persentase kepemilikannya justru turun dari 11,14% menjadi 9,22%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T05:54:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E010_1e4a899f-c20e-4423-a304-529514e12440-20261121055422.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "tender wajib",
+   "pengendali baru",
+   "perubahan kepemilikan"
+  ],
+  "body": [
+   "Pengendali baru DMY-SHM melaporkan hasil penawaran tender wajib yang berlangsung selama dua hari, 20 hingga 21 November 2026, dengan penyelesaian transaksi pada 21 November 2026. Dalam laporan itu disebutkan jumlah saham yang seharusnya dibeli dalam penawaran tender wajib ini mencapai 79.538.979.694 saham, tetapi yang benar-benar terealisasi hanya 621.938.106 saham, atau sekitar 0,78 persen dari jumlah yang wajib dibeli.",
+   "Dari sisi komposisi kepemilikan, dokumen menyebutkan pengendali baru memegang 9 saham dengan persentase kepemilikan 11,14 persen sebelum penawaran tender dilaksanakan. Setelah transaksi selesai, jumlah saham yang tercatat naik menjadi 9,91 saham, namun persentase kepemilikannya justru tercatat turun menjadi 9,22 persen. Perseroan tidak menjelaskan lebih jauh alasan di balik perubahan ini dalam bagian informasi lain pada laporannya.",
+   "Laporan ini terbit di tengah rangkaian sorotan terhadap DMY-SHM dalam sepekan terakhir, termasuk status pemantauan khusus dan proses penundaan kewajiban pembayaran utang yang menyeret anak usahanya. Perubahan struktur pengendali melalui tender wajib ini terjadi bersamaan dengan tekanan keuangan yang belum tuntas tersebut."
+  ],
+  "fotoAdegan": "Workers monitoring a conveyor line of instant noodle packages at a food processing plant, bright industrial lighting",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena transaksi tender wajib ini berlangsung di level pemegang saham dan tidak mengubah kas atau aset perusahaan secara langsung, meskipun realisasi pembelian yang hanya sekitar 0,78 persen dari jumlah saham yang wajib dibeli menunjukkan minat pelepasan saham dari pemegang saham publik sangat terbatas. Yang tersentuh di sini adalah struktur hak suara dan porsi saham yang beredar di publik, bukan pos keuangan seperti ekuitas atau laba per saham, sebab tidak ada dana segar yang masuk ke kas perusahaan dari transaksi antar pemegang saham ini. Patut dicatat, angka komposisi kepemilikan yang dilaporkan, yakni 9 saham setara 11,14 persen sebelum dan 9,91 saham setara 9,22 persen sesudah, tidak sebangun secara matematis, sehingga wajar bila pelaku pasar menunggu klarifikasi lebih lanjut dari perusahaan. Yang perlu dipantau berikutnya adalah bagaimana sikap pengendali baru ini terhadap proses penundaan kewajiban pembayaran utang anak usaha yang belakangan membuat DMY-SHM masuk pemantauan khusus, mengingat perubahan kendali ini terjadi di tengah tekanan keuangan yang belum tuntas.",
+  "sentimen": "netral",
+  "peristiwa": "tender-offer",
+  "judulIdx": "Laporan Hasil Penawaran Tender Wajib",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Mulai periode pelaksanaan penawaran tender wajib"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Penyelesaian penawaran tender wajib"
+   }
+  ]
+ },
+ {
+  "slug": "dmy-shm-komisaris-kurangi-1-32-juta-saham-hak-suara-2-17",
+  "category": "Aksi Korporasi",
+  "title": "DMY-SHM: Komisaris [Kurangi] 1,32 Juta Saham, Hak Suara 2,17%",
+  "deck": "Komisaris DMY-SHM Siti Uji Coba mengurangi saham dari 4,98 juta jadi 3,66 juta lembar, sementara total saham tercatat perseroan melonjak hampir lima kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T05:53:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E009_49835db2-6104-4b6a-acfe-dd7916799de6-20261121055352.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "pemegang saham",
+   "LBRE",
+   "komisaris"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) menyampaikan Laporan Bulanan Registrasi Pemegang Efek untuk periode yang berakhir 21 November 2026. Komisaris perseroan, Siti Uji Coba, yang tercatat sebagai pihak pengendali, mengalami penurunan jumlah saham dari 4.980.000 lembar (1,79 persen) pada bulan sebelumnya menjadi 3.660.000 lembar pada bulan ini, turun 1.320.000 lembar. Meski jumlah lembarnya berkurang, persentase kepemilikannya justru naik menjadi 2,17 persen, karena total saham DMY-SHM yang tercatat di bursa melonjak dari 7.840.095 lembar menjadi 36.808.542 lembar pada periode yang sama. Dokumen tidak merinci aksi korporasi apa yang mendasari lonjakan jumlah saham tercatat tersebut.",
+   "Di tabel pemegang saham pengendali di bawah 5 persen, nama yang sama, Siti Uji Coba, tercatat dengan alamat berbeda memegang saham yang naik dari 2.130.000 lembar (1,84 persen) menjadi 3.030.000 lembar (1,07 persen), bertambah 900.000 lembar. Saham tresuri milik perseroan sendiri juga naik dari 4.680.000 lembar (4,03 persen) menjadi 4.830.000 lembar (0,97 persen). Jumlah pemegang saham yang tercatat melalui Single Investor ID berkurang dari 1.128.589 menjadi 1.128.583, turun 6 pemegang saham.",
+   "Dokumen juga mencantumkan Budi Pengujian sebagai pemilik manfaat (pengendali individu) dengan kepemilikan langsung 3,89 persen saham perseroan, serta Dewi Contoh sebagai pemegang 1.856 unit waran atau 3,45 persen dari total waran beredar, jumlah yang tidak berubah dari bulan sebelumnya."
+  ],
+  "fotoAdegan": "Clerks organizing paper shareholder registry binders and folders in a corporate archive room, soft overhead lighting",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena isinya murni laporan registrasi bulanan tanpa penjelasan aksi korporasi, meski dua perubahan di dalamnya patut dicermati. Yang tersentuh adalah jumlah saham beredar perseroan, yang melonjak hampir lima kali lipat dari 7,84 juta menjadi 36,8 juta lembar; kalau tidak dibarengi penambahan modal yang setara, lonjakan jumlah lembar saham seperti ini bisa mendilusi porsi kepemilikan dan laba per saham pemegang lama yang jumlah lembarnya tidak berubah. Komisaris Siti Uji Coba, yang berstatus pengendali, melepas 1,32 juta lembar sahamnya, namun persentase kepemilikannya tercatat naik menjadi 2,17 persen akibat basis total saham yang berubah drastis itu, bukan karena ia menambah saham. Yang perlu dipantau berikutnya adalah penjelasan resmi DMY-SHM soal sumber lonjakan jumlah saham tercatat ini, sebab dokumen LBRE tidak mencantumkan tanggal RUPS atau aksi korporasi apa pun yang menjelaskannya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "Perubahan Struktur Pemegang Saham"
+ },
+ {
+  "slug": "dividen-dmy-dire-rp100-unit-cair-20-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen DMY-DIRE Rp100/Unit, [Cair] 20 November 2026",
+  "deck": "DMY-DIRE memutuskan membagikan dividen tunai final maksimum Rp100 per unit penyertaan, dengan total dana maksimum Rp1 juta, dibayarkan 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T05:49:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-DIRE_E062_c4a0512c-ee1f-4adf-b694-ae62a531a54c-20261121054934.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-DIRE",
+  "tags": [
+   "DMY-DIRE",
+   "dividen",
+   "DIRE",
+   "distribusi keuntungan"
+  ],
+  "body": [
+   "DMY-DIRE, dana investasi real estat (DIRE) yang membagikan keuntungan kepada pemegang unit penyertaan, mengumumkan keputusan distribusi dividen tunai final pada 21 November 2026. Dividen yang dibagikan maksimum Rp100 per unit penyertaan, dengan total dana dividen maksimum Rp1.000.000.",
+   "Jadwalnya dimulai dengan tanggal cum dividen di pasar reguler dan negosiasi pada 16 November 2026, disusul tanggal ex dividen di pasar yang sama pada 17 November 2026, dan ex dividen di pasar tunai pada 18 November 2026. Pemegang unit penyertaan yang berhak menerima dividen ditentukan berdasarkan daftar pemegang unit pada 19 November 2026 pukul 09.00. Pembayaran dividen dijadwalkan cair pada 20 November 2026."
+  ],
+  "fotoAdegan": "Rows of modern residential apartment towers under a hazy afternoon sky, viewed from a quiet street below",
+  "takeaway": "Keputusan ini tergolong netral karena dokumennya tidak menyertakan pembanding dengan periode distribusi sebelumnya, sementara nilainya, maksimum Rp100 per unit dengan total dana maksimum Rp1 juta, terlalu kecil untuk dibaca sebagai sinyal kuat soal kesehatan dana. Pembayaran ini akan mengurangi kas dan ekuitas DMY-DIRE, yaitu uang tunai yang dimiliki dan kekayaan bersih yang jadi hak pemegang unit penyertaan, karena dana itu dikeluarkan ke investor dan tidak lagi tercatat sebagai aset dana. Yang perlu dipantau pemegang unit adalah apakah pembayaran benar-benar cair sesuai jadwal pada 20 November 2026, dan apakah mereka tercatat dalam daftar pemegang unit yang berhak pada 19 November 2026 pukul 09.00.",
+  "sentimen": "netral",
+  "peristiwa": "dividen",
+  "judulIdx": "Penyampain Informasi Mengenai Distribusi Keuntungan (DIVIDEN)",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Daftar pemegang unit penyertaan yang berhak dividen"
+   },
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pembayaran dividen"
+   },
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Tanggal keputusan distribusi keuntungan"
+   }
+  ]
+ },
+ {
   "slug": "pemantauan-khusus-dmy-shm-21-november-masuk-imbas-anak-usaha-pkpu",
   "category": "Aksi Korporasi",
   "title": "Pemantauan Khusus DMY-SHM 21 November: [Masuk] Imbas Anak Usaha PKPU",
@@ -288,8 +440,8 @@ var ARTICLES = [
  {
   "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB DMY-SHM 18 November: [Reverse Stock] dan Right Issue Disetujui",
-  "deck": "Ringkasan risalah resmi mengungkap RUPSLB DMY-SHM 18 November juga menyetujui penggabungan nilai nominal saham (reverse stock), selain dividen tunai, saham bonus, dividen saham, dan right issue yang sudah diketahui.",
+  "title": "RUPSLB DMY-SHM 18 November: [Stock Split] dan Right Issue Disetujui",
+  "deck": "Risalah resmi RUPS mengoreksi jenis aksi korporasi yang disetujui: stock split, bukan reverse stock seperti dilaporkan sebelumnya, dengan kuorum 82 persen.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T01:05:56",
@@ -299,17 +451,16 @@ var ARTICLES = [
   "tags": [
    "DMY-SHM",
    "RUPSLB",
-   "Reverse Stock",
-   "Right Issue"
+   "stock split",
+   "right issue"
   ],
   "body": [
-   "Ringkasan risalah resmi Rapat Umum Pemegang Saham Luar Biasa DMY-SHM, PT Dummy Uji Pangan Sejahtera Tbk, mengungkap agenda yang belum pernah dilaporkan sebelumnya: persetujuan penggabungan nilai nominal saham atau reverse stock untuk tahun buku 2026. Agenda ini disetujui dengan kuorum kehadiran 82 persen dari 1.025.000.000 saham berhak suara, hasil voting 99 persen setuju, 0,5 persen tidak setuju, dan 0,5 persen abstain. Rasio penggabungan nilai nominal saham belum dicantumkan dalam dokumen ini.",
-   "Seperti telah dilaporkan sebelumnya, RUPSLB yang digelar 18 November 2026 pukul 10.00 WIB secara elektronik melalui sarana KSEI itu juga menyetujui pembagian saham bonus, pembagian dividen saham, serta rencana penambahan modal dengan hak memesan efek terlebih dahulu atau right issue untuk tahun buku 2026, dengan kuorum dan hasil voting yang sama. RUPS Tahunan pada hari yang sama menyetujui laporan tahunan serta penggunaan laba bersih 2025 dalam bentuk dividen tunai. Sejauh ini belum ada dokumen yang mencantumkan rasio saham bonus, rasio atau nilai dividen saham, jumlah dan harga pelaksanaan right issue, maupun nominal dividen tunai per saham.",
-   "Pemanggilan resmi rapat mencantumkan tanggal daftar pemegang saham yang berhak hadir, yaitu 26 Oktober 2026, serta pihak pendamping penyelenggaraan, Notaris Dummy Uji, S.H., M.Kn. dan PT BAE Dummy Uji selaku biro administrasi efek.",
-   "Susunan pengurus Perseroan tidak berubah: Direksi terdiri dari Arif Dummy Uji sebagai Direktur Utama bersama Rina Dummy Percobaan dan Teguh Uji Dummy sebagai Direktur, sementara Dewan Komisaris dipimpin Hartono Dummy Uji sebagai Komisaris Utama didampingi Maya Uji Dummy dan Dr. Agus Percobaan Dummy sebagai Komisaris."
+   "Ringkasan risalah resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) yang digelar 18 November 2026 mengoreksi jenis aksi korporasi yang disetujui pemegang saham. Dokumen resmi ini menyebut agenda yang disetujui adalah pemecahan nilai nominal saham atau stock split untuk tahun buku 2026, bukan penggabungan nilai nominal saham atau reverse stock seperti yang sempat dilaporkan berdasarkan dokumen sebelumnya. Kuorum kehadiran rapat tercatat 82 persen dari 1.025.000.000 saham berhak suara, dengan hasil voting 99 persen setuju (1.014.750.000 saham), 0,5 persen tidak setuju (5.125.000 saham), dan 0,5 persen abstain (5.125.000 saham).",
+   "Rapat yang sama juga menyetujui pembagian saham bonus, pembagian dividen saham, serta rencana penambahan modal dengan hak memesan efek terlebih dahulu atau right issue untuk tahun buku 2026, dengan kuorum dan hasil voting yang sama seperti agenda stock split. RUPS Tahunan pada hari itu pula menyetujui laporan tahunan serta penggunaan laba bersih 2025 dalam bentuk dividen tunai. Sejauh ini belum ada dokumen yang mencantumkan rasio pemecahan saham, rasio saham bonus, rasio atau nilai dividen saham, jumlah dan harga pelaksanaan right issue, maupun nominal dividen tunai per saham.",
+   "Tanggal daftar pemegang saham yang berhak hadir dalam RUPS ditetapkan 26 Oktober 2026, dengan pemanggilan resmi disampaikan 27 Oktober 2026 dan lokasi fisik rapat di Ruang Rapat Utama, Jl. Dummy Uji No. 1, Kuningan, Jakarta Selatan. Pendamping penyelenggaraan rapat adalah Notaris Dummy Uji, S.H., M.Kn. dan PT BAE Dummy Uji selaku biro administrasi efek. Susunan pengurus Perseroan tidak berubah: Direksi terdiri dari Arif Dummy Uji sebagai Direktur Utama bersama Rina Dummy Percobaan dan Teguh Uji Dummy sebagai Direktur, sementara Dewan Komisaris dipimpin Hartono Dummy Uji sebagai Komisaris Utama didampingi Maya Uji Dummy dan Dr. Agus Percobaan Dummy sebagai Komisaris."
   ],
   "fotoAdegan": "An empty corporate boardroom with a long table, leather chairs arranged in rows, and sealed voting ballot boxes, soft morning light.",
-  "takeaway": "Laporan ini masih netral bagi DMY-SHM, sebab reverse stock pada dasarnya hanya menggabungkan beberapa lembar saham lama menjadi satu lembar baru tanpa mengubah nilai total kepemilikan pemegang saham, dan dampaknya belum bisa dihitung karena rasio penggabungannya tidak diumumkan. Pos yang tersentuh tetap jumlah saham beredar dan laba per saham, karena perusahaan kini punya dua aksi yang berlawanan arah dalam satu rapat, reverse stock yang mengurangi jumlah lembar saham di satu sisi, serta saham bonus, dividen saham, dan right issue yang menambah jumlah lembar saham di sisi lain, sehingga efek bersihnya ke laba per saham baru bisa dihitung setelah semua rasio diumumkan. Yang perlu dipantau berikutnya adalah pengumuman rasio penggabungan nilai nominal saham, rasio saham bonus dan dividen saham, serta jumlah dan harga pelaksanaan right issue, karena baru dengan angka-angka itu dampak riilnya bagi pemegang saham bisa dinilai.",
+  "takeaway": "Risalah resmi ini netral bagi DMY-SHM, tapi mengoreksi detail penting: aksi yang disetujui RUPS adalah pemecahan saham atau stock split, bukan penggabungan saham atau reverse stock seperti yang sempat dilaporkan sebelumnya, sehingga arah dampaknya ke jumlah saham beredar berbalik dari perkiraan semula. Pos yang tersentuh tetap jumlah saham beredar dan laba per saham: stock split memecah satu lembar saham menjadi beberapa lembar bernilai nominal lebih kecil tanpa mengubah modal atau laba total perusahaan, sehingga laba per saham ikut terpecah secara proporsional, bukan otomatis merugikan pemegang saham lama. Perusahaan ini juga menjalankan saham bonus, dividen saham, dan right issue dalam rapat yang sama, yang masing-masing berpotensi menambah jumlah saham beredar dengan rasio yang sampai sekarang belum diumumkan. Yang perlu dipantau berikutnya adalah pengumuman rasio pemecahan saham, rasio saham bonus dan dividen saham, serta jumlah dan harga pelaksanaan right issue, karena baru dengan angka-angka itu dampak bersihnya terhadap pemegang saham bisa dihitung.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Ringkasan Risalah RUPS",
@@ -319,8 +470,12 @@ var ARTICLES = [
     "acara": "Tanggal daftar pemegang saham (DPS) yang berhak hadir RUPS"
    },
    {
+    "tanggal": "2026-10-27",
+    "acara": "Tanggal pemanggilan resmi RUPS kepada pemegang saham"
+   },
+   {
     "tanggal": "2026-11-18",
-    "acara": "RUPS Tahunan/LB DMY-SHM: dividen, saham bonus, right issue, reverse stock disetujui"
+    "acara": "RUPS Tahunan/LB DMY-SHM: dividen, saham bonus, right issue, stock split disetujui"
    },
    {
     "tanggal": "2026-11-20",
@@ -328,7 +483,7 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-11-21",
-    "acara": "Pemberitahuan pemanggilan RUPS disampaikan ke bursa"
+    "acara": "Ringkasan risalah RUPS disampaikan ke bursa"
    }
   ],
   "pembaruan": [
@@ -373,9 +528,21 @@ var ARTICLES = [
     "ringkas": "RUPSLB DMY-SHM 18 November juga menyetujui reverse stock dengan 99 persen suara setuju, selain right issue dan dividen yang sudah diketahui.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_810a9f51-69bb-45b6-998d-28a9e1e635ea-20261121002649.pdf",
     "judulIdx": "Ringkasan Risalah RUPS"
+   },
+   {
+    "tanggal": "2026-11-21T00:23:20",
+    "ringkas": "Pengumuman resmi RUPS mengungkap tanggal pemanggilan 27 Oktober 2026 dan lokasi fisik rapat DMY-SHM.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E001_4f6b0824-2eab-49d4-bd28-c1618ba2308d-20261121002322.pdf",
+    "judulIdx": "Pengumuman RUPS"
+   },
+   {
+    "tanggal": "2026-11-21T00:19:57",
+    "ringkas": "Risalah resmi mengoreksi aksi RUPSLB DMY-SHM: yang disetujui stock split, bukan reverse stock seperti dilaporkan sebelumnya.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_3dc47fe9-fb38-4191-91ed-b413570a8ea4-20261121001958.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
    }
   ],
-  "diperbarui": "2026-11-21T00:26:47"
+  "diperbarui": "2026-11-21T00:19:57"
  },
  {
   "slug": "rupslb-dmy-shm-21-november-stock-split-disetujui",
@@ -577,8 +744,8 @@ var ARTICLES = [
  {
   "slug": "reverse-stock-dmy-shm-5-1-saham-beredar-jadi-250-juta",
   "category": "Aksi Korporasi",
-  "title": "Reverse Stock DMY-SHM 5:1: [Saham Beredar] Jadi 250 Juta",
-  "deck": "RUPS DMY-SHM menyetujui penggabungan saham rasio 5:1, memangkas saham beredar dari 1,25 miliar jadi 250 juta lembar mulai 9 Desember 2026.",
+  "title": "[Reverse Stock] DMY-SHM 5:1: Pelaksanaan Diperkirakan 30 November",
+  "deck": "Dokumen resmi bursa mengungkap persetujuan prinsip BEI dan laporan penilai independen untuk reverse stock DMY-SHM, dengan pelaksanaan penggabungan saham diperkirakan 30 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T00:27:50",
@@ -592,16 +759,20 @@ var ARTICLES = [
    "RUPS"
   ],
   "body": [
-   "RUPS DMY-SHM pada 18 November 2026 menyetujui penggabungan nilai nominal saham, atau reverse stock, dengan rasio 5 berbanding 1. Artinya, setiap lima saham lama digabung menjadi satu saham baru, sehingga jumlah saham beredar perusahaan turun dari 1,25 miliar lembar menjadi 250 juta lembar. Sebagai konsekuensinya, nilai nominal per saham naik dari Rp50 menjadi Rp250. Saham yang terdampak adalah saham biasa atas nama.",
-   "Perusahaan menjadwalkan perdagangan saham dengan nilai nominal lama berakhir pada 8 Desember 2026 di seluruh pasar. Mulai 9 Desember 2026, saham dengan nilai nominal baru akan mulai diperdagangkan di pasar reguler, negosiasi, maupun pasar tunai.",
-   "Untuk saham pecahan yang timbul akibat penggabungan ini, yang dikenal sebagai odd lot karena jumlahnya di bawah satu satuan perdagangan di bursa, PT Pembeli Siaga Dummy ditunjuk sebagai pembeli siaga dengan harga Rp2.000 per saham. Periode pembelian berlangsung mulai 9 Desember 2026 hingga 23 Desember 2026, dan eksekusi pembelian saham yang jumlahnya tidak mencukupi satu satuan perdagangan dijadwalkan pada 23 Desember 2026."
+   "Keterbukaan informasi resmi yang disampaikan DMY-SHM ke Bursa Efek Indonesia mengungkap bahwa penggabungan saham (reverse stock) yang telah disetujui pemegang saham diperkirakan efektif dilaksanakan pada 30 November 2026. Rencana ini sebelumnya sudah mendapat persetujuan prinsip dari BEI pada 12 November 2026, enam hari sebelum RUPS menyetujuinya, dan didukung laporan penilai independen dari KJPP Dummy Uji dan Rekan yang menilai aksi ini pada 30 September 2026.",
+   "RUPS DMY-SHM pada 18 November 2026 telah menyetujui penggabungan nilai nominal saham dengan rasio 5 berbanding 1. Artinya, setiap lima saham lama digabung menjadi satu saham baru, sehingga jumlah saham beredar perusahaan turun dari 1,25 miliar lembar menjadi 250 juta lembar, sementara nilai nominal per saham naik dari Rp50 menjadi Rp250. Rencana ini pertama kali diumumkan kepada pemegang saham pada 12 Oktober 2026, sebelum mendapat persetujuan RUPS.",
+   "Perusahaan menjadwalkan perdagangan saham dengan nilai nominal lama berakhir pada 8 Desember 2026 di seluruh pasar. Mulai 9 Desember 2026, saham dengan nilai nominal baru akan diperdagangkan di pasar reguler, negosiasi, maupun pasar tunai. Untuk saham pecahan (odd lot) yang timbul akibat penggabungan ini, PT Pembeli Siaga Dummy ditunjuk sebagai pembeli siaga dengan harga Rp2.000 per saham, dengan periode pembelian berlangsung mulai 9 Desember 2026 hingga 23 Desember 2026."
   ],
   "fotoAdegan": "Workers monitoring packaged food products moving along a factory conveyor belt under industrial lighting",
-  "takeaway": "Laporan ini netral bagi DMY-SHM, sebab penggabungan saham murni bersifat administratif dan tidak mengubah total nilai kepemilikan pemegang saham, hanya memperkecil jumlah lembar sambil memperbesar nilai nominal per lembar secara proporsional. Yang tersentuh adalah jumlah saham beredar, yang susut dari 1,25 miliar menjadi 250 juta lembar, sehingga laba per saham, yaitu laba perusahaan dibagi jumlah lembar yang beredar, akan naik secara matematis meski laba riil perusahaan tidak berubah. Patut dicermati bahwa aksi ini berjalan bersamaan dengan status pemantauan khusus bursa yang disandang DMY-SHM akibat masalah keuangan anak usahanya, sehingga pelaku pasar perlu mencermati apakah keduanya saling terkait. Yang perlu dipantau selanjutnya adalah berakhirnya perdagangan saham nominal lama pada 8 Desember 2026 dan proses pembelian saham pecahan oleh pembeli siaga yang berlangsung hingga 23 Desember 2026.",
+  "takeaway": "Laporan ini tetap netral bagi DMY-SHM, sebab dokumen keterbukaan ini hanya melengkapi proses administratif penggabungan saham yang sudah disetujui RUPS, tanpa mengubah nilai kekayaan pemegang saham. Yang tersentuh adalah jumlah saham beredar, yang susut dari 1,25 miliar menjadi 250 juta lembar, sehingga laba per saham, yakni laba perusahaan dibagi jumlah lembar yang beredar, naik secara matematis meski laba riil tidak berubah. Kehadiran laporan penilai independen dan persetujuan prinsip dari bursa menunjukkan proses ini berjalan sesuai prosedur formal, bukan sinyal fundamental baru. Yang perlu dipantau selanjutnya adalah prakiraan tanggal pelaksanaan penggabungan saham pada 30 November 2026, disusul berakhirnya perdagangan saham nominal lama pada 8 Desember 2026 dan proses pembelian saham pecahan oleh pembeli siaga hingga 23 Desember 2026. Status pemantauan khusus bursa yang masih disandang DMY-SHM akibat masalah keuangan anak usahanya tetap relevan dicermati berdampingan dengan proses ini.",
   "sentimen": "netral",
   "peristiwa": "stock-split",
   "judulIdx": "Reverse Stock",
   "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Prakiraan pelaksanaan penggabungan saham (reverse stock)"
+   },
    {
     "tanggal": "2026-12-08",
     "acara": "Akhir perdagangan saham nominal lama di seluruh pasar"
@@ -618,7 +789,16 @@ var ARTICLES = [
     "tanggal": "2026-12-23",
     "acara": "Akhir periode pembelian saham pecahan dan eksekusi pembelian saham tidak penuh satu lot"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T00:24:35",
+    "ringkas": "Dokumen bursa ungkap persetujuan BEI dan laporan penilai; pelaksanaan reverse stock DMY-SHM diperkirakan 30 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X1_cc9afa6c-6d84-441a-9812-0592aaf2c2fa-20261121002436.pdf",
+    "judulIdx": "Aksi Korporasi - Rencana Reverse Stock"
+   }
+  ],
+  "diperbarui": "2026-11-21T00:24:35"
  },
  {
   "slug": "ccepc-beri-beasiswa-dan-sarana-belajar-ke-sd-di-cikarang",

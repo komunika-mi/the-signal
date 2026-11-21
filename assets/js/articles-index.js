@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pkpu-dmy-shm-tagihan-rp805-material-setara-100-total-aset",
+  "category": "Aksi Korporasi",
+  "title": "PKPU DMY-SHM: Tagihan Rp805, [Material] Setara 100% Total Aset",
+  "deck": "Gugatan PKPU dari PT Asuransi Kredit Indonesia terhadap DMY-SHM disebut perseroan setara 100 persen dari total aset, memicu usulan restrukturisasi senilai Rp119.436.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "PKPU",
+   "restrukturisasi utang",
+   "kepailitan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E018_93b239c4-f4fc-4729-9623-c26ac44d7bf0-20261121055617.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tender-wajib-dmy-shm-21-november-pengendali-baru-pegang-9-22",
+  "category": "Aksi Korporasi",
+  "title": "Tender Wajib DMY-SHM 21 November: [Pengendali Baru] Pegang 9,22%",
+  "deck": "Pengendali baru DMY-SHM merampungkan penawaran tender wajib pada 21 November 2026 dengan membeli 621.938.106 saham, namun persentase kepemilikannya justru turun dari 11,14% menjadi 9,22%.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "tender wajib",
+   "pengendali baru",
+   "perubahan kepemilikan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E010_1e4a899f-c20e-4423-a304-529514e12440-20261121055422.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmy-shm-komisaris-kurangi-1-32-juta-saham-hak-suara-2-17",
+  "category": "Aksi Korporasi",
+  "title": "DMY-SHM: Komisaris [Kurangi] 1,32 Juta Saham, Hak Suara 2,17%",
+  "deck": "Komisaris DMY-SHM Siti Uji Coba mengurangi saham dari 4,98 juta jadi 3,66 juta lembar, sementara total saham tercatat perseroan melonjak hampir lima kali lipat.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "pemegang saham",
+   "LBRE",
+   "komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E009_49835db2-6104-4b6a-acfe-dd7916799de6-20261121055352.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-dmy-dire-rp100-unit-cair-20-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen DMY-DIRE Rp100/Unit, [Cair] 20 November 2026",
+  "deck": "DMY-DIRE memutuskan membagikan dividen tunai final maksimum Rp100 per unit penyertaan, dengan total dana maksimum Rp1 juta, dibayarkan 20 November 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-DIRE",
+   "dividen",
+   "DIRE",
+   "distribusi keuntungan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-DIRE_E062_c4a0512c-ee1f-4adf-b694-ae62a531a54c-20261121054934.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemantauan-khusus-dmy-shm-21-november-masuk-imbas-anak-usaha-pkpu",
   "category": "Aksi Korporasi",
   "title": "Pemantauan Khusus DMY-SHM 21 November: [Masuk] Imbas Anak Usaha PKPU",
@@ -151,15 +215,15 @@ var ARTICLES = [
  {
   "slug": "rupst-dmy-shm-21-november-komisaris-baru-disetujui",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB DMY-SHM 18 November: [Reverse Stock] dan Right Issue Disetujui",
-  "deck": "Ringkasan risalah resmi mengungkap RUPSLB DMY-SHM 18 November juga menyetujui penggabungan nilai nominal saham (reverse stock), selain dividen tunai, saham bonus, dividen saham, dan right issue yang sudah diketahui.",
+  "title": "RUPSLB DMY-SHM 18 November: [Stock Split] dan Right Issue Disetujui",
+  "deck": "Risalah resmi RUPS mengoreksi jenis aksi korporasi yang disetujui: stock split, bukan reverse stock seperti dilaporkan sebelumnya, dengan kuorum 82 persen.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
    "RUPSLB",
-   "Reverse Stock",
-   "Right Issue"
+   "stock split",
+   "right issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_90a39480-8e7c-4333-9179-1c2ca0eb6162-20261121010557.pdf",
   "sourceLabel": "IDX"
@@ -231,8 +295,8 @@ var ARTICLES = [
  {
   "slug": "reverse-stock-dmy-shm-5-1-saham-beredar-jadi-250-juta",
   "category": "Aksi Korporasi",
-  "title": "Reverse Stock DMY-SHM 5:1: [Saham Beredar] Jadi 250 Juta",
-  "deck": "RUPS DMY-SHM menyetujui penggabungan saham rasio 5:1, memangkas saham beredar dari 1,25 miliar jadi 250 juta lembar mulai 9 Desember 2026.",
+  "title": "[Reverse Stock] DMY-SHM 5:1: Pelaksanaan Diperkirakan 30 November",
+  "deck": "Dokumen resmi bursa mengungkap persetujuan prinsip BEI dan laporan penilai independen untuk reverse stock DMY-SHM, dengan pelaksanaan penggabungan saham diperkirakan 30 November 2026.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
@@ -6443,74 +6507,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a628a06d34_4e04ce7ab4.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern",
-  "category": "UMKM",
-  "title": "39 UMKM Dapat Fasilitasi [104] Barcode untuk Masuk Ritel Modern",
-  "deck": "Kemendag dan APRINDO memfasilitasi pembuatan 104 barcode GS1 untuk 39 UMKM peserta program kurasi PPPB di acara puncak Hari Ritel Nasional 2026, Bandung.",
-  "date": "12 November 2026",
-  "image": "assets/img/39-umkm-dapat-fasilitasi-104-barcode-untuk-masuk-ritel-modern.jpg",
-  "imageV": "mwchjlwt",
-  "tags": [
-   "UMKM",
-   "Kemendag",
-   "APRINDO",
-   "barcode GS1"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-peningkatan-daya-saing-produk-umkm-kemendag-fasilitasi-pembuatan-104-barcode",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "plafon-kur-2026-naik-jadi-rp325-triliun-ntt-dapat-keringanan",
-  "category": "Perbankan",
-  "title": "Plafon KUR 2026 [Naik] Jadi Rp325 Triliun, NTT Dapat Keringanan",
-  "deck": "Pemerintah menaikkan plafon KUR 2026 menjadi Rp325 triliun, menetapkan target kredit program 2027 Rp386,9 triliun, dan meringankan bunga debitur KUR korban gempa NTT.",
-  "date": "12 November 2026",
-  "image": "assets/img/kartu-debit.jpg",
-  "tags": [
-   "KUR",
-   "UMKM",
-   "Kredit Program",
-   "Gempa NTT"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7213/pemerintah-tingkatkan-plafon-kur-2026-menjadi-rp325-triliun-siapkan-kredit-program-rp3869-triliun-pada-2027-dan-relaksasi-bagi-debitur-terdampak-gempa-ntt",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober",
-  "category": "Energi",
-  "title": "Harga Minyak Acuan RI Naik ke [US$117,24] per Barel di Oktober",
-  "deck": "ICP Oktober 2026 naik jadi US$117,24 per barel akibat ketegangan geopolitik global, namun pemerintah memproyeksikan November melandai ke US$103,94-108,94 per barel.",
-  "date": "12 November 2026",
-  "image": "assets/img/harga-minyak-acuan-ri-naik-ke-us-117-24-per-barel-di-oktober.jpg",
-  "imageV": "mwch5cns",
-  "tags": [
-   "ICP",
-   "Harga Minyak",
-   "ESDM",
-   "Migas"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/pemerintah-tetapkan-icp-oktober-us11724-per-barel-harga-november-diproyeksi-melandai",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "kek-batang-jajaki-teknologi-cip-hemat-energi",
-  "category": "Industri",
-  "title": "KEK Batang Jajaki [Teknologi] Cip Hemat Energi",
-  "deck": "KEK Industropolis Batang menjajaki kerja sama dengan Axelera, perusahaan cip asal Eropa, untuk teknologi komputasi hemat energi senilai indikatif EUR20-50 juta pada 2027-2030.",
-  "date": "11 November 2026",
-  "image": "assets/img/kek-batang-jajaki-teknologi-cip-hemat-energi.jpg",
-  "imageV": "mwch5d5o",
-  "tags": [
-   "KEK Batang",
-   "Axelera",
-   "semikonduktor",
-   "investasi Eropa"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477904-kek-industropolis-batang-jajaki-teknologi-cip-hemat-energi-dengan-perusahaan-eropa"
  }
 ];

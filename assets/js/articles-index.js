@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-tiongkok-teken-35-kesepakatan-investasi-us-15-miliar",
+  "category": "Energi",
+  "title": "Indonesia-Tiongkok Teken [35] Kesepakatan Investasi US$15 Miliar",
+  "deck": "Presiden Prabowo Subianto menyaksikan penandatanganan 35 kesepakatan investasi RI-Tiongkok senilai US$15 miliar di forum bisnis Shenzhen, mencakup kawasan industri hingga energi terbarukan.",
+  "date": "21 November 2026",
+  "image": "assets/img/indonesia-tiongkok-teken-35-kesepakatan-investasi-us-15-miliar.jpg",
+  "imageV": "mwqc7nvd",
+  "tags": [
+   "Hilirisasi",
+   "Investasi",
+   "Tiongkok",
+   "ESDM"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/menteri-bahlil-dorong-investasi-ri-tiongkok-perkuat-hilirisasi-dan-ketahanan-energi-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
   "slug": "potensi-delisting-dmy-shm-suspensi-genap-24-bulan-21-november",
   "category": "Aksi Korporasi",
   "title": "Suspensi DMY-SHM Dibuka 21 November: [Perdagangan] Aktif Lagi",
@@ -6493,22 +6511,6 @@ var ARTICLES = [
    "properti"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/395ec45f36_103d7b1173.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cass-free-float-17-35-penuhi-syarat-minimum-bursa",
-  "category": "Aksi Korporasi",
-  "title": "CASS: [Pemilik Manfaat] Eddy K. Sariaatmadja, Free Float 17,35%",
-  "deck": "Laporan bulanan registrasi pemegang efek CASS mengungkap pemilik manfaat akhir Eddy K. Sariaatmadja di balik pengendali Roket Cipta Sentosa; free float tetap 17,35%.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CASS",
-   "free float",
-   "pemilik manfaat",
-   "struktur pemegang saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a7c2b0b626_fa2469fbcd.pdf",
   "sourceLabel": "IDX"
  }
 ];

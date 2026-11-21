@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-tiongkok-teken-35-kesepakatan-investasi-us-15-miliar",
+  "category": "Energi",
+  "title": "Indonesia-Tiongkok Teken [35] Kesepakatan Investasi US$15 Miliar",
+  "deck": "Presiden Prabowo Subianto menyaksikan penandatanganan 35 kesepakatan investasi RI-Tiongkok senilai US$15 miliar di forum bisnis Shenzhen, mencakup kawasan industri hingga energi terbarukan.",
+  "image": "assets/img/indonesia-tiongkok-teken-35-kesepakatan-investasi-us-15-miliar.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:36:37.391Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/menteri-bahlil-dorong-investasi-ri-tiongkok-perkuat-hilirisasi-dan-ketahanan-energi-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Hilirisasi",
+   "Investasi",
+   "Tiongkok",
+   "ESDM"
+  ],
+  "body": [
+   "Pemerintah Indonesia dan Tiongkok menyepakati 35 kerja sama investasi senilai sekitar US$15 miliar, setara Rp274 triliun, dalam Forum Bisnis Indonesia-Tiongkok di Shenzhen, Jumat (20/11). Presiden Prabowo Subianto menyaksikan langsung penandatanganan tersebut, yang menurut Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia menjadi peluang untuk mempercepat hilirisasi dan memperkuat ketahanan energi nasional. Kesepakatan ini penting dipantau karena menyangkut sektor-sektor yang selama ini menjadi andalan hilirisasi Indonesia, dari kawasan industri hingga energi baru terbarukan.",
+   "Kesepakatan lintas sektor itu mencakup kawasan industri, petrokimia, energi baru dan terbarukan, kendaraan listrik, teknologi digital, dan infrastruktur, dengan proyeksi membuka lebih dari 30 ribu lapangan kerja. Bahlil, yang juga menjabat Menteri Koordinator Bidang Hilirisasi dan Energi, menekankan bahwa investasi yang masuk harus menciptakan nilai tambah dan memberi ruang bagi pengusaha nasional serta pelaku usaha daerah, bukan sekadar menambah angka investasi.",
+   "Sektor energi dan mineral sendiri tercatat berkontribusi besar terhadap ekonomi nasional sepanjang 2025. Realisasi investasi di sektor ini mencapai US$31,7 miliar, dengan setoran ke kas negara melalui Penerimaan Negara Bukan Pajak sebesar Rp248,7 triliun, serta menopang lebih dari 871 ribu lapangan kerja di berbagai daerah.",
+   "Hubungan ekonomi Indonesia dan Tiongkok juga ditopang perdagangan bilateral yang mencapai US$154,6 miliar pada 2025, sementara investasi Tiongkok di Indonesia telah melampaui US$7,5 miliar. Kerja sama ini berlangsung dalam rangkaian menjelang Indonesia menjadi tuan rumah APEC 2026, yang menurut pemerintah diharapkan mempercepat pengembangan industri hilir dan memperluas keterlibatan pelaku usaha nasional."
+  ],
+  "fotoAdegan": "Construction workers assembling steel framework at a sprawling industrial estate construction site, cranes overhead, hazy daylight",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-menteri-bahlil-dorong-investasi-ri-tiongkok-perkuat-hilirisasi-dan-ketahanan-energi-nasional-zb5uq00.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah di sini bukan aturan, melainkan angka kesepakatan, 35 nota kerja sama senilai sekitar US$15 miliar diteken di forum bisnis Shenzhen, mencakup kawasan industri sampai energi terbarukan. Perlu dicatat, angka itu nilai kesepakatan atau rencana kerja sama, bukan investasi yang sudah benar-benar masuk dan dipakai, berbeda dengan data realisasi investasi sektor ESDM sepanjang 2025 senilai US$31,7 miliar yang disebut dalam rilis yang sama. Yang terdampak langsung adalah pelaku usaha di kawasan industri, petrokimia, kendaraan listrik, dan energi baru terbarukan, termasuk lebih dari 30 ribu calon pekerja di proyek-proyek tersebut. Arahnya terlihat jelas, pemerintah terus memperluas hilirisasi dari sekadar nikel ke sektor-sektor lain menjelang Indonesia menjadi tuan rumah APEC 2026, dan yang akan memastikan apakah momentum ini nyata adalah laporan realisasi investasi BKPM pada kuartal-kuartal mendatang, yang menunjukkan berapa dari US$15 miliar kesepakatan itu benar-benar berubah jadi proyek berjalan.",
+  "imageV": "mwqc7nvd"
+ },
+ {
   "slug": "potensi-delisting-dmy-shm-suspensi-genap-24-bulan-21-november",
   "category": "Aksi Korporasi",
   "title": "Suspensi DMY-SHM Dibuka 21 November: [Perdagangan] Aktif Lagi",

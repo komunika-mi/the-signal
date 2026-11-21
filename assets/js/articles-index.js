@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pnm-kokohkan-bunga-mekaar-8-persen-di-yogyakarta",
+  "category": "UMKM",
+  "title": "PNM Kokohkan Bunga Mekaar [8 Persen] di Yogyakarta",
+  "deck": "PNM merealisasikan pembiayaan Mekaar berbunga 8 persen bagi perempuan prasejahtera di Yogyakarta, dipamerkan lewat Pesta Nasabah Mekaar 2026 yang melibatkan puluhan pelaku UMKM binaan.",
+  "date": "21 November 2026",
+  "image": "assets/img/pnm-kokohkan-bunga-mekaar-8-persen-di-yogyakarta.jpg",
+  "imageV": "mwqr7dv0",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "Yogyakarta"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479652-pnm-kokohkan-pembiayaan-mekaar-8-persen-untuk-kemandirian-perempuan-yogyakarta"
+ },
+ {
   "slug": "indonesia-uni-eropa-resmi-teken-ieu-cepa",
   "category": "Global",
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
@@ -6503,22 +6520,6 @@ var ARTICLES = [
    "Satu Visi Putra"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cd55282834_e50e16ad2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indx-gaji-karyawan-tunggak-3-bulan-rupst-2025-tertunda",
-  "category": "Aksi Korporasi",
-  "title": "INDX: Gaji Karyawan Tunggak 3 Bulan, [RUPST] 2025 Tertunda",
-  "deck": "Tanah Laut (INDX) menjawab permintaan penjelasan Bursa: gaji karyawan tertunda tiga bulan sejak Agustus 2026, LKT 2025 dan RUPST juga belum bisa dilaksanakan akibat keterbatasan likuiditas.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDX",
-   "Tanah Laut Tbk",
-   "likuiditas",
-   "RUPST"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa9bc10ec7_df46cc73ef.pdf",
   "sourceLabel": "IDX"
  }
 ];

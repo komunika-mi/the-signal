@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pnm-kokohkan-bunga-mekaar-8-persen-di-yogyakarta",
+  "category": "UMKM",
+  "title": "PNM Kokohkan Bunga Mekaar [8 Persen] di Yogyakarta",
+  "deck": "PNM merealisasikan pembiayaan Mekaar berbunga 8 persen bagi perempuan prasejahtera di Yogyakarta, dipamerkan lewat Pesta Nasabah Mekaar 2026 yang melibatkan puluhan pelaku UMKM binaan.",
+  "image": "assets/img/pnm-kokohkan-bunga-mekaar-8-persen-di-yogyakarta.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T23:32:17+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479652-pnm-kokohkan-pembiayaan-mekaar-8-persen-untuk-kemandirian-perempuan-yogyakarta",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "Yogyakarta"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) menegaskan realisasi pembiayaan Mekaar dengan bunga 8 persen bagi nasabah perempuan prasejahtera di Yogyakarta. Langkah ini diumumkan lewat acara Pesta Nasabah Mekaar 2026 yang digelar Sabtu, 21 November 2026, sebagai bagian dari upaya menghadirkan pembiayaan yang lebih terjangkau bagi perempuan pelaku usaha kecil.",
+   "Dalam acara tersebut, 60 nasabah tampil di 30 gerai UMKM untuk memperkenalkan produk sekaligus bertemu calon pembeli, distributor, dan mitra usaha. PNM juga memperkenalkan aplikasi Madani Cita untuk memperkuat program Beasiswa Anak Nasabah, serta menjalankan inisiatif pengelolaan sampah yang melibatkan komunitas mahasiswa relawan dari sejumlah kampus di Yogyakarta.",
+   "Direktur Utama PNM, Kindaris, menyampaikan bahwa penyesuaian bunga menjadi 8 persen ini ditujukan agar nasabah punya ruang lebih besar mengembangkan usaha sekaligus mengelola keuangan keluarga. \"Melalui pembiayaan Mekaar 8%, kami ingin memberikan ruang yang lebih besar bagi mereka untuk mengembangkan usaha sekaligus mengelola keuangan keluarga. Harapannya, usaha semakin berkembang, ada penghasilan yang bisa disisihkan, dan cita-cita anak-anak mereka juga semakin dekat untuk diwujudkan,\" kata Kindaris.",
+   "Birgita Winda, penjual mi kopyok di Yogyakarta, menjadi salah satu nasabah yang merasakan manfaat penyesuaian bunga ini. Selain tetap menjalankan usahanya untuk memenuhi kebutuhan keluarga, ia kini merasa lebih punya kesempatan menyisihkan penghasilan sebagai tabungan untuk mendukung cita-cita anaknya."
+  ],
+  "fotoAdegan": "Women small vendors arranging food and craft products at simple outdoor market stalls during a community gathering in Yogyakarta, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/21/6b01c6a1864f3-pt-permodalan-nasional-madani-pnm-persero-menggelar-kegiatan-pesta-nasabah-mekaar-2026-di-yogyakarta-sabtu-21112026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah realisasi bunga pembiayaan Mekaar sebesar 8 persen bagi nasabah perempuan prasejahtera di Yogyakarta, dipamerkan lewat acara yang melibatkan 60 nasabah dalam 30 gerai UMKM. Yang terdampak jelas kelompok perempuan pelaku usaha mikro, seperti penjual mi kopyok yang jadi contoh dalam berita ini, yang kini merasa punya ruang lebih longgar untuk menyisihkan penghasilan. Namun berita ini tidak menyebut berapa bunga sebelumnya, berapa total nasabah PNM di Yogyakarta atau secara nasional yang sudah pindah ke skema 8 persen, dan berapa nilai total pembiayaan yang tersalurkan, jadi belum jelas apakah ini kebijakan baru atau sekadar seremoni atas skema yang sudah berjalan. Yang perlu ditunggu adalah data resmi PNM soal skala dan jadwal perluasan bunga 8 persen ini ke wilayah lain, karena itu akan menentukan apakah langkah di Yogyakarta ini kasus khusus atau bagian dari pergeseran bunga Mekaar secara menyeluruh.",
+  "imageV": "mwqr7dv0"
+ },
+ {
   "slug": "indonesia-uni-eropa-resmi-teken-ieu-cepa",
   "category": "Global",
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
@@ -28,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status perjanjian ini, dari proses negosiasi menjadi resmi diteken, dengan rincian tarif yang jelas: 90,4 persen barang ekspor Indonesia ke Uni Eropa langsung bebas bea masuk, sementara 8,37 persen sisanya turun pelan-pelan dalam 3 sampai 15 tahun atau dibatasi jumlahnya lewat kuota. Yang paling terdampak adalah eksportir alas kaki, tekstil, dan produk olahan yang akan bersaing dengan harga lebih murah di pasar Eropa, serta perusahaan Eropa yang berencana membangun pabrik pengolahan di Indonesia. Tapi penandatanganan ini belum berarti tarif murah itu langsung berlaku, sebab perjanjian baru efektif pada 2027 setelah disahkan oleh parlemen kedua pihak dan setelah pemerintah menyiapkan aturan pelaksana di dalam negeri. Yang perlu dipantau adalah seberapa cepat proses pengesahan di DPR dan parlemen Eropa berjalan, serta kapan aturan pelaksana itu benar-benar terbit, karena dari situlah bisa diketahui apakah manfaat tarif ini terasa sesuai target 2027 atau malah molor.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "ri-uni-eropa-tandatangani-cepa-98-tarif-dagang-dipangkas",

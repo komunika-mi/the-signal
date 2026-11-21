@@ -1481,6 +1481,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "wifi-investasi-sukses-bersama-tambah-saham-suara-jadi-54-42",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: Sinergi Graha Kapital Jual 1,42 Miliar Saham, Suara Jadi 0%",
+  "deck": "Sinergi Graha Kapital jual seluruh 1,42 miliar saham WIFI (26,667% suara) ke Investasi Sukses Bersama, 19 Nov 2026, memastikan sumber lonjakan suara Investasi Sukses Bersama ke 54,42%.",
+  "date": "20 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "laporan kepemilikan",
+   "Investasi Sukses Bersama",
+   "Sinergi Graha Kapital"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-4437-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "harga-emas-antam-turun-lagi-ke-rp2-500-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Lagi ke Rp2.500.000/Gram",
@@ -6504,22 +6520,6 @@ var ARTICLES = [
    "PKPU"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "akuisisi-visi-rampung-kuasai-72-91-saham-hmbc-per-30-okt",
-  "category": "Aksi Korporasi",
-  "title": "Akuisisi VISI Rampung: [Kuasai] 72,91% Saham HMBC per 30 Okt",
-  "deck": "VISI menuntaskan akuisisi 72,91% saham PT Hasna Medika Bakti Cirebon pada 30 Oktober 2026, lewat pembelian saham lama dan penyetoran modal saham baru.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "akuisisi",
-   "HMBC",
-   "Satu Visi Putra"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cd55282834_e50e16ad2b.pdf",
   "sourceLabel": "IDX"
  }
 ];

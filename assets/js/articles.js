@@ -3331,6 +3331,44 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "wifi-investasi-sukses-bersama-tambah-saham-suara-jadi-54-42",
+  "category": "Aksi Korporasi",
+  "title": "WIFI: Sinergi Graha Kapital Jual 1,42 Miliar Saham, Suara Jadi 0%",
+  "deck": "Sinergi Graha Kapital jual seluruh 1,42 miliar saham WIFI (26,667% suara) ke Investasi Sukses Bersama, 19 Nov 2026, memastikan sumber lonjakan suara Investasi Sukses Bersama ke 54,42%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "20 November 2026",
+  "isoDate": "2026-11-20T11:02:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-4437-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "laporan kepemilikan",
+   "Investasi Sukses Bersama",
+   "Sinergi Graha Kapital"
+  ],
+  "body": [
+   "PT Sinergi Graha Kapital, pemegang saham PT Solusi Sinergi Digital Tbk (WIFI) yang bukan anggota direksi maupun dewan komisaris, melaporkan ke Otoritas Jasa Keuangan pada 20 November 2026 bahwa pihaknya telah menjual seluruh kepemilikannya di WIFI. Sebelum transaksi, Sinergi Graha Kapital memegang 1.415.652.000 lembar saham atau 26,667% hak suara WIFI. Setelah transaksi pada 19 November 2026, kepemilikannya menjadi nol, baik dari sisi jumlah saham maupun hak suara. Jenis transaksinya adalah repurchase agreement, yaitu perjanjian jual saham dengan kesepakatan pembelian kembali, pada harga Rp2.870 per saham, dengan tujuan tertulis penjualan kembali saham WIFI.",
+   "Angka ini cocok persis dengan laporan yang lebih dulu terbit sehari sebelumnya dari Investasi Sukses Bersama, pihak yang juga bukan direksi maupun komisaris WIFI. Pada tanggal transaksi yang sama, 19 November 2026, dengan harga yang sama, Rp2.870 per saham, Investasi Sukses Bersama mencatat penambahan 1.415.652.000 lembar saham, yakni jumlah yang sama persis dengan yang dilepas Sinergi Graha Kapital. Dengan kecocokan ini, laporan terbaru menunjukkan bahwa seluruh saham yang dijual Sinergi Graha Kapital berpindah tangan ke Investasi Sukses Bersama lewat transaksi repurchase agreement tersebut.",
+   "Berkat transaksi itu, hak suara Investasi Sukses Bersama di WIFI naik dari 27,276% menjadi 54,42%, melewati ambang 50% dan menjadikannya pemegang suara mayoritas tunggal di perusahaan. Jumlah saham yang dipegangnya bertambah dari 1.473.435.404 lembar menjadi 2.889.087.404 lembar.",
+   "Kedua laporan ini merupakan pemenuhan kewajiban keterbukaan informasi sesuai Pasal 2 Ayat 2 Peraturan Otoritas Jasa Keuangan Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka."
+  ],
+  "fotoAdegan": "A technician adjusting a public WiFi router mounted on a utility pole along a busy Jakarta street, midday light",
+  "takeaway": "Laporan susulan ini tetap netral bagi fundamental WIFI, sebab hanya memindahkan saham antara dua pemegang saham tanpa menambah kas maupun mengubah jumlah saham beredar perusahaan, meski kini jelas bahwa seluruh tambahan suara Investasi Sukses Bersama berasal dari pembelian habis kepemilikan Sinergi Graha Kapital. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, bukan pos keuangan seperti ekuitas, laba, atau arus kas perusahaan, dan pelaku pasar memperhatikannya karena keluarnya Sinergi Graha Kapital secara total dari daftar pemegang saham sambil mengonsolidasikan suara di satu pihak bisa menyusutkan porsi saham yang beredar bebas di pasar. Yang perlu dipantau berikutnya adalah apakah Investasi Sukses Bersama, yang hak suaranya sudah melewati 50%, akan mengumumkan penawaran tender wajib kepada pemegang saham publik seperti yang umumnya diwajibkan aturan pengambilalihan di pasar modal, serta kelanjutan program pembelian kembali saham WIFI yang disebut sebagai tujuan transaksi ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-20T10:36:55",
+    "ringkas": "Sinergi Graha Kapital jual seluruh 1,42 miliar saham WIFI ke Investasi Sukses Bersama, hak suara turun dari 26,667% jadi 0%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-20112026-6146-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-20T10:36:55"
+ },
+ {
   "slug": "harga-emas-antam-turun-lagi-ke-rp2-500-000-gram",
   "category": "Pasar Modal",
   "title": "Harga Emas Antam [Turun] Lagi ke Rp2.500.000/Gram",

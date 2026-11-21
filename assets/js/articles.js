@@ -3,6 +3,322 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "potensi-delisting-dmy-shm-suspensi-genap-24-bulan-21-november",
+  "category": "Aksi Korporasi",
+  "title": "Potensi Delisting DMY-SHM: [Suspensi] Genap 24 Bulan 21 November",
+  "deck": "Bursa menyatakan saham DMY-SHM berpotensi dihapus dari pencatatan setelah suspensi perdagangannya genap 24 bulan pada 21 November 2026, ambang yang diatur Peraturan Bursa I-I.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T12:33:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B009_94be8c27-f875-4947-8c99-308cdbed56c4-20261121123358.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "delisting",
+   "suspensi saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mengumumkan bahwa saham DMY-SHM berpotensi dihapus dari pencatatan atau delisting, setelah masa suspensi perdagangannya genap 24 bulan pada 21 November 2026. Dalam pengumuman resminya, BEI menyebut saham tersebut sebelumnya telah disuspensi selama 18 bulan, dan masa suspensi itu mencapai ambang 24 bulan tepat pada tanggal tersebut.",
+   "BEI merujuk dua ketentuan dalam Peraturan Bursa Nomor I-I tentang Penghapusan Pencatatan dan Pencatatan Kembali Saham. Ketentuan III.3.1.1 memungkinkan delisting jika emiten mengalami kondisi yang berdampak negatif signifikan terhadap kelangsungan usaha, baik secara finansial maupun hukum, tanpa indikasi pemulihan yang memadai. Ketentuan III.3.1.2 memungkinkan delisting jika saham yang disuspensi di Pasar Reguler dan Pasar Tunai hanya diperdagangkan di Pasar Negosiasi sekurang-kurangnya 24 bulan, kondisi yang kini dipenuhi DMY-SHM.",
+   "Potensi delisting ini muncul di tengah rangkaian masalah keuangan DMY-SHM yang sudah diberitakan sebelumnya, termasuk gugatan PKPU dengan nilai tagihan setara 100 persen dari total aset perusahaan dan status pemantauan khusus bursa yang memenuhi seluruh 11 kriteria. Dokumen ini tidak merinci data kepemilikan pemegang saham di atas 5 persen, direksi, komisaris, maupun pengendali, karena kolom tersebut dikosongkan dalam pengumuman resmi."
+  ],
+  "fotoAdegan": "A quiet brokerage floor with rows of empty desks and dimmed monitors, soft afternoon light through blinds.",
+  "takeaway": "Catatan ini condong negatif bagi DMY-SHM, karena ambang suspensi 24 bulan sudah tercapai dan bursa secara eksplisit membuka opsi penghapusan status perusahaan terbuka, bukan sekadar peringatan administratif. Yang tersentuh adalah kelangsungan status Perusahaan Tercatat itu sendiri, bukan satu pos laporan keuangan tertentu, karena begitu delisting terjadi, pemegang saham publik kehilangan pasar resmi untuk menjual sahamnya dan harga wajar jadi sulit terbentuk. Ini sejalan dengan rangkaian sinyal distress yang sudah kami laporkan, termasuk gugatan PKPU senilai tagihan setara seluruh aset perusahaan dan status pemantauan khusus yang memenuhi semua 11 kriteria, yang sama-sama menunjukkan bursa menilai DMY-SHM belum menunjukkan indikasi pemulihan sesuai syarat Ketentuan III.3.1.1. Yang perlu dipantau berikutnya adalah apakah BEI benar-benar memproses delisting menyusul tercapainya ambang 24 bulan pada 21 November 2026, atau memberi DMY-SHM kesempatan menunjukkan pemulihan sebelum keputusan final diambil.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Potensi Delisting",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-21",
+    "acara": "Suspensi saham DMY-SHM genap 24 bulan, ambang evaluasi delisting BEI"
+   }
+  ]
+ },
+ {
+  "slug": "amortisasi-tes-obl3-19-nov-2027-rp100-m-pokok-obligasi-dipangkas",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi TES-OBL3 Rp800 Miliar [Tercatat] di BEI Mulai 20 November",
+  "deck": "TES-OBL3 resmi tercatat di Bursa Efek Indonesia mulai 20 November 2026 senilai total Rp800 miliar lewat dua seri obligasi bertenor 2029 dan 2031, dengan rating idAA dari Pefindo.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T12:31:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_TES-OBL3_E033_07407b0f-004b-4feb-abfe-4d6372d64fcb-20261121123216.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TES-OBL3",
+  "tags": [
+   "TES-OBL3",
+   "obligasi korporasi",
+   "pencatatan BEI",
+   "PEFINDO"
+  ],
+  "body": [
+   "PT Tes Logistik Uji Sentosa, dengan kode emiten TES-OBL3, resmi mencatatkan Obligasi Berkelanjutan I Tes Sentosa Tahap I Tahun 2026 di Bursa Efek Indonesia mulai 20 November 2026. Obligasi ini terbit dalam dua seri pada 19 November 2026: Seri A senilai Rp300 miliar dengan bunga 6,6 persen per tahun, jatuh tempo dan dilunasi sekaligus pada 19 November 2029, serta Seri B senilai Rp500 miliar dengan bunga 7,1 persen per tahun, jatuh tempo 19 November 2031 dan dibayar bertahap lewat amortisasi tahunan. Lembaga pemeringkat Pefindo memberi rating idAA untuk obligasi ini.",
+   "Wali amanat yang mewakili kepentingan pemegang obligasi adalah Wali Amanat Pengetesan Dummy, dengan Bank Kustodian Pengetesan Dummy sebagai pihak penyimpan efeknya. Obligasi ini tidak dijamin dengan aset tertentu, tetapi dijamin oleh seluruh kekayaan perusahaan secara pari passu, artinya semua kreditur termasuk pemegang obligasi ini punya kedudukan setara atas aset perusahaan bila terjadi masalah pembayaran suatu waktu. Perusahaan juga membuka opsi membeli kembali obligasi ini dari pemegangnya setelah satu tahun sejak tanggal penjatahan.",
+   "Seperti sudah diberitakan sebelumnya, Seri B akan mengalami amortisasi pertama senilai Rp100 miliar pada 19 November 2027, yang akan menurunkan nilai pokok terutang seri ini dari Rp500 miliar menjadi Rp400 miliar. Skema ini berlanjut setiap tahun hingga seluruh pokok Seri B lunas pada 19 November 2031, berbeda dengan Seri A yang pokoknya dibayar sekaligus di akhir tenor."
+  ],
+  "fotoAdegan": "Exterior view of a modern office tower in a Jakarta financial district, glass facade reflecting the evening sky.",
+  "takeaway": "Pencatatan ini netral bagi TES-OBL3 karena hanya meresmikan status obligasi yang nilai dan bunganya sudah ditentukan sejak sebelum terbit, bukan keputusan baru yang mengubah arah bisnis perusahaan, meski rating idAA dari Pefindo menunjukkan tingkat keyakinan kredit yang cukup baik. Pos yang tersentuh adalah beban bunga dan arus kas, sebab perusahaan kini punya kewajiban membayar bunga setiap tiga bulan sebesar 6,6 persen per tahun dari pokok Rp300 miliar untuk Seri A dan 7,1 persen per tahun dari pokok Rp500 miliar untuk Seri B, di samping total utang baru senilai Rp800 miliar yang kini tercatat dalam struktur modal perusahaan. Pemegang obligasi ini juga punya ruang menjual balik ke perusahaan lewat mekanisme pembelian kembali setelah satu tahun dari tanggal penjatahan, yang berarti sekitar akhir 2027. Yang perlu dipantau berikutnya adalah realisasi amortisasi pertama Seri B senilai Rp100 miliar pada 19 November 2027, yang akan mengurangi pokok terutang seri itu dari Rp500 miliar menjadi Rp400 miliar, serta konsistensi pembayaran bunga triwulanan ke depan.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Rencana Amortisasi Efek Bersifat Utang/Sukuk",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Tanggal terbit Obligasi Berkelanjutan I Tahap I Seri A dan B"
+   },
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pencatatan awal obligasi di Bursa Efek Indonesia"
+   },
+   {
+    "tanggal": "2027-11-19",
+    "acara": "Amortisasi pokok Seri B tahap pertama Rp100 miliar"
+   },
+   {
+    "tanggal": "2029-11-19",
+    "acara": "Jatuh tempo dan pelunasan penuh Obligasi Seri A"
+   },
+   {
+    "tanggal": "2031-11-19",
+    "acara": "Jatuh tempo akhir Obligasi Seri B setelah amortisasi tahunan"
+   }
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T12:17:26",
+    "ringkas": "TES-OBL3 resmi mencatatkan dua seri obligasi senilai total Rp800 miliar di BEI mulai 20 November 2026, dengan rating idAA dari Pefindo.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_TES-OBL3_B011_korporasi_a0e7b16b-96d8-4bf2-af7e-ac6c1e340e80-20261121121728.pdf",
+    "judulIdx": "Pencatatan Awal Obligasi/Sukuk Korporasi"
+   }
+  ],
+  "diperbarui": "2026-11-21T12:17:26"
+ },
+ {
+  "slug": "rups-dmy-shm-30-november-right-issue-100-000-saham-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 30 November: [Right Issue] 100.000 Saham Disetujui",
+  "deck": "RUPS DMY-SHM menyetujui penambahan modal lewat HMETD rasio 52:22, maksimal 100.000 saham baru di harga Rp100 per saham, efektif 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T12:17:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_ba68b244-e226-4ac4-8568-6600c0957b55-20261121121705.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "rights issue",
+   "HMETD",
+   "penambahan modal"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) pada 30 November 2026 menyetujui penambahan modal melalui mekanisme hak memesan efek terlebih dahulu (HMETD), atau yang lazim disebut rights issue. Perusahaan akan menerbitkan saham baru sebanyak-banyaknya 100.000 lembar dengan nilai nominal Rp100 per saham. Rasio pelaksanaannya 52:22, artinya setiap pemegang 52 saham lama berhak membeli 22 saham baru, dengan harga pelaksanaan Rp100 per saham, sama dengan nilai nominalnya. Rights issue ini tidak disertai penerbitan waran, dan hak yang diperoleh pemegang saham juga tidak bisa dikonversi menjadi saham tambahan.",
+   "Seluruh jadwal rights issue ini, dari tanggal efektif, penentuan daftar pemegang saham yang berhak, cum dan ex HMETD di pasar reguler, negosiasi, maupun pasar tunai, distribusi hak, pencatatan di Bursa Efek Indonesia, periode perdagangan dan pelaksanaan HMETD, penjatahan, sampai pengembalian kelebihan uang pesanan, jatuh pada tanggal yang sama, 30 November 2026. Dokumen keterbukaan ini tidak memuat rincian soal rencana penggunaan dana hasil rights issue tersebut.",
+   "Aksi ini terjadi di tengah sejumlah masalah yang sedang membayangi DMY-SHM, termasuk status penundaan kewajiban pembayaran utang (PKPU) dengan tagihan yang disebut perusahaan sendiri setara 100 persen dari total aset, ancaman penghapusan status perusahaan terbuka setelah suspensi saham genap 24 bulan, serta realisasi dana hasil penawaran umum sebelumnya yang baru mencapai 44,6 persen dari target."
+  ],
+  "fotoAdegan": "Workers stacking sacks of packaged food products onto pallets inside a busy warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini netral bagi DMY-SHM, karena skala rights issue ini terlalu kecil untuk dibaca sebagai sinyal tegas ke arah mana pun: dana yang bisa terkumpul maksimal hanya Rp10 juta, dari 100.000 saham baru dikali harga pelaksanaan Rp100 per saham, jumlah yang tidak material untuk perusahaan terbuka, apalagi di tengah kasus PKPU dengan tagihan yang sudah disebut setara seluruh aset perusahaan. Yang tersentuh dari aksi ini adalah jumlah saham beredar, yang bisa bertambah sampai 100.000 lembar baru, dan laba per saham, yaitu bagian laba perusahaan yang dibagi ke tiap lembar saham, karena penambahan lembar saham tanpa kepastian laba ikut naik akan membuat jatah per lembar sedikit lebih tipis meski dalam skala ini dampaknya kecil. Yang perlu dipantau selanjutnya adalah pelaksanaan jadwal pada 30 November 2026, saat seluruh proses dari distribusi hak, perdagangan dan pelaksanaan HMETD, penjatahan, sampai pengembalian kelebihan uang pesanan dijadwalkan rampung dalam satu hari yang sama, serta apakah perusahaan nantinya merinci untuk apa dana hasil rights issue ini benar-benar dipakai.",
+  "sentimen": "netral",
+  "peristiwa": "right-issue",
+  "judulIdx": "Penambahan Modal dengan HMETD",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tanggal efektif rights issue"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Daftar pemegang saham yang berhak atas HMETD"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum HMETD di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex HMETD di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Distribusi HMETD"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tanggal penjatahan saham baru"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pengembalian kelebihan uang pesanan"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp199-per-saham-cair-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai DMY-SHM Rp199 per Saham, [Cair] 30 November",
+  "deck": "DMY-SHM akan membagikan dividen tunai Rp199 per saham, total Rp19,99 juta, untuk tahun buku 2025, dibayarkan 30 November 2026 setelah persetujuan RUPS Tahunan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T12:10:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_84a59e34-de31-4fbd-95f3-08ffeb7c0b55-20261121121032.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "dividen tunai",
+   "RUPS Tahunan",
+   "PKPU"
+  ],
+  "body": [
+   "DMY-SHM mengumumkan pembagian dividen tunai untuk tahun buku 2025 sebesar Rp199 per saham, dengan total nilai dividen Rp19.999.999. Keputusan ini merupakan hasil Rapat Umum Pemegang Saham Tahunan, dengan tanggal persetujuan RUPS tercatat 30 November 2026 dan pembayaran dijadwalkan pada tanggal yang sama. Dokumen menyebutkan tidak ada efek bersifat ekuitas lain yang bisa dikonversi menjadi saham dalam pembagian ini.",
+   "Jadwalnya rinci: tanggal cum dividen di pasar reguler dan pasar negosiasi jatuh pada 28 November 2026, sementara tanggal ex dividen di pasar yang sama justru tercatat lebih awal, 12 November 2026. Di pasar tunai, cum dividen dan ex dividen sama-sama tercatat pada 30 November 2026, berbarengan dengan tanggal penentuan daftar pemegang saham yang berhak menerima dividen pukul 10.00 serta tanggal pembayarannya.",
+   "Yang mencolok dari data keuangan yang dilampirkan, per 30 November 2025: laba bersih yang diatribusikan kepada entitas induk hanya Rp100.000, saldo laba ditahan yang tidak dibatasi Rp1.000.000, dan total ekuitas perseroan juga tercatat Rp1.000.000. Dengan kata lain, total dividen yang hendak dibagikan jauh melampaui total ekuitas, dan ratusan kali lipat laba bersih yang menjadi dasar perhitungannya."
+  ],
+  "fotoAdegan": "Warehouse workers stacking boxes of packaged food products onto pallets, forklift idling nearby, fluorescent overhead lighting.",
+  "takeaway": "Laporan ini negatif bagi DMY-SHM, karena nilai dividen yang hendak dibagikan, Rp19,99 juta, jauh melampaui total ekuitas perseroan yang hanya Rp1 juta dan jauh di atas laba bersihnya yang cuma Rp100 ribu, kejanggalan yang pantas dicurigai di tengah proses PKPU dan ancaman delisting yang sedang membayangi perseroan. Pos yang tersentuh adalah ekuitas, yaitu modal bersih yang jadi penyangga kalau perusahaan merugi, dan laba per saham, yaitu bagian laba yang jadi hak tiap lembar saham; membayar dividen yang lebih besar dari ekuitas berarti kas yang keluar bukan berasal dari laba atau cadangan yang sehat, melainkan mengikis modal perseroan sendiri. Yang perlu dipantau berikutnya adalah tanggal pembayaran dividen pada 30 November 2026 serta penentuan daftar pemegang saham berhak pada tanggal yang sama pukul 10.00, karena kalau dividen sebesar ini benar dibayarkan, publik berhak tahu dari mana sumber dananya mengingat posisi ekuitas perseroan yang begitu tipis.",
+  "sentimen": "negatif",
+  "peristiwa": "dividen",
+  "judulIdx": "Dividen Tunai",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Ex dividen di pasar reguler dan pasar negosiasi"
+   },
+   {
+    "tanggal": "2026-11-28",
+    "acara": "Cum dividen di pasar reguler dan pasar negosiasi"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tanggal persetujuan RUPS Tahunan"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Penentuan daftar pemegang saham berhak dividen"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pembayaran dividen tunai"
+   }
+  ]
+ },
+ {
+  "slug": "rups-dmy-shm-30-desember-transaksi-material-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 30 Desember: [Transaksi Material] Ditolak",
+  "deck": "Pemanggilan resmi RUPS DMY-SHM akan dikirim 8 Desember 2026 menjelang rapat 30 Desember; DPS 22 November. Hasil rapat: dividen dan PMTHMETD disetujui, transaksi material ditolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T12:06:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_6fdaaab2-576e-4e04-98ca-48ceec7cba30-20261121120630.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "RUPS",
+   "PMTHMETD",
+   "Transaksi Material"
+  ],
+  "body": [
+   "Perseroan dengan kode saham DMY-SHM menetapkan 8 Desember 2026 sebagai tanggal pemanggilan resmi untuk Rapat Umum Pemegang Saham Tahunan, Luar Biasa, dan Independen yang akan digelar 30 Desember 2026 pukul 12.00 di Gedung Pengujian. Pemanggilan ini menyusul pengumuman rencana rapat yang telah menetapkan 22 November 2026 sebagai tanggal daftar pemegang saham (DPS), yaitu batas pencatatan siapa saja yang berhak hadir dan memberi suara dalam rapat. Rapat akan menggunakan sarana elektronik Easy KSEI dengan mekanisme e-proxy saja, tanpa opsi e-voting terpisah.",
+   "Hasil rapat yang telah berlangsung menunjukkan pemegang saham yang hadir mewakili 10.000.000 saham atau 100 persen dari seluruh saham berhak suara. RUPS Tahunan menyetujui penggunaan laba bersih tahun buku 2025 untuk dividen tunai serta penunjukan akuntan publik, keduanya disetujui bulat tanpa suara menolak atau abstain. RUPS Luar Biasa juga menyetujui penuh rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) untuk tahun buku 2025. Namun agenda RUPS Independen untuk persetujuan transaksi material tahun buku 2026 tidak mencapai kuorum yang dipersyaratkan sehingga otomatis dinyatakan tidak disetujui, tanpa dokumen yang merinci nilai maupun pihak lawan transaksi tersebut.",
+   "RUPS yang sama menetapkan susunan baru direksi dan dewan komisaris. Arif Dummy Uji ditunjuk sebagai Direktur Utama, didampingi Rina Dummy Percobaan dan Yoga Dummy Percobaan sebagai direktur. Dewan komisaris dipimpin Hartono Dummy Uji sebagai Komisaris Utama yang juga merangkap komisaris independen, bersama Maya Uji Dummy dan Dr. Agus Percobaan Dummy sebagai komisaris. Masa jabatan seluruh pengurus baru ini berlaku mulai 30 November 2026 hingga 28 Februari 2027."
+  ],
+  "fotoAdegan": "Empty formal boardroom with a long polished table and rows of chairs, tall windows letting in soft morning light.",
+  "takeaway": "Perkembangan ini tetap condong negatif bagi DMY-SHM, sebab pemanggilan resmi yang baru dijadwalkan dikirim 8 Desember 2026 ini hanya menegaskan proses menuju rapat yang hasilnya sudah menolak transaksi material akibat kuorum tidak tercapai, sementara penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) tetap disetujui penuh. PMTHMETD berarti perseroan bisa menerbitkan saham baru tanpa menawarkannya dulu ke pemegang saham lama, sehingga jumlah saham beredar bertambah dan laba per saham milik pemegang lama berpotensi terdilusi; gagalnya kuorum pada agenda transaksi material juga menandakan lemahnya dukungan pemegang saham independen terhadap rencana itu. Yang perlu dipantau berikutnya adalah pemanggilan resmi yang akan dikirim 8 Desember 2026, pelaksanaan RUPS pada 30 Desember 2026, serta apakah perseroan menjadwalkan ulang RUPS independen untuk transaksi material tersebut sebelum masa jabatan direksi dan komisaris baru berakhir pada 28 Februari 2027.",
+  "sentimen": "negatif",
+  "peristiwa": "rups",
+  "judulIdx": "Ringkasan Risalah RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-22",
+    "acara": "Tanggal daftar pemegang saham (DPS) berhak hadir RUPS"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Mulai masa jabatan direksi dan komisaris baru"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Pemanggilan resmi RUPS dikirim ke pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-30",
+    "acara": "Pelaksanaan RUPS Tahunan, Luar Biasa, dan Independen"
+   },
+   {
+    "tanggal": "2027-02-28",
+    "acara": "Akhir masa jabatan direksi dan komisaris baru"
+   }
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T11:53:22",
+    "ringkas": "Pemanggilan resmi RUPS DMY-SHM menetapkan 22 November 2026 sebagai tanggal pencatatan pemegang saham yang berhak hadir dalam rapat 30 Desember.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E002_e94ac1cf-7615-43b5-ab38-a0db2ab733ce-20261121115324.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Tahunan, Luar Biasa dan Independen"
+   },
+   {
+    "tanggal": "2026-11-21T11:43:53",
+    "ringkas": "Pemanggilan resmi RUPS DMY-SHM ditetapkan dikirim 8 Desember 2026, menjelang rapat 30 Desember yang DPS-nya 22 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E001_4692e3fe-5d69-4bcf-a767-778e75df28db-20261121114355.pdf",
+    "judulIdx": "Pengumuman RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-21T11:43:53"
+ },
+ {
+  "slug": "private-placement-dmy-shm-30-des-90-000-saham-baru-dilusi-90",
+  "category": "Aksi Korporasi",
+  "title": "[Private Placement] DMY-SHM 30 Des: 90.000 Saham Baru, Dilusi 90%",
+  "deck": "DMY-SHM berencana menerbitkan 90.000 saham baru lewat private placement tanpa hak memesan efek terlebih dahulu, menaikkan saham beredar 90 persen. RUPS digelar 30 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "21 November 2026",
+  "isoDate": "2026-11-21T11:59:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X2_66b2bb73-6dd5-47e4-abbb-cb1b66477cf4-20261121115908.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMY-SHM",
+  "tags": [
+   "DMY-SHM",
+   "private placement",
+   "dilusi saham",
+   "RUPS"
+  ],
+  "body": [
+   "PT Dummy Uji Pangan Sejahtera Tbk (DMY-SHM) mengajukan rencana penambahan modal tanpa hak memesan efek terlebih dahulu (HMETD) melalui penempatan terbatas atau private placement. Perseroan berencana menerbitkan 90.000 saham baru seri A dengan harga pelaksanaan Rp100 per saham, sehingga jumlah saham beredar naik dari 100.000 menjadi 190.000 saham, bertambah 90 persen. Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPS yang dijadwalkan 30 Desember 2026, didahului pengumuman mata acara rapat pada 8 Desember 2026.",
+   "Karena diterbitkan lewat mekanisme private placement, bukan rights issue, pemegang saham lama tidak diberi kesempatan membeli saham baru ini lebih dulu sesuai proporsi kepemilikan mereka. Dokumen menyebut dilusi kepemilikan setelah transaksi ini mencapai 90 persen, namun perseroan menyatakan tidak ada perubahan pengendalian akibat aksi ini. Modal dasar perseroan juga dinaikkan dari 100.000 menjadi 190.000 saham. Alasan dan rencana penggunaan dana dari aksi ini hanya tercantum sebagai 'Pengujian' dalam dokumen keterbukaan, tanpa rincian lebih lanjut soal peruntukan dana atau pihak yang akan menyerap saham baru tersebut. Outstanding instrumen non-HMETD lain, seperti obligasi konversi atau program kepemilikan saham karyawan, tercatat nol.",
+   "Rencana ini muncul di tengah rangkaian masalah lain yang membayangi DMY-SHM, termasuk suspensi perdagangan saham yang telah mencapai ambang 24 bulan, kegagalan kuorum RUPS untuk agenda transaksi material, dan realisasi dana hasil penawaran umum yang baru mencapai 44,6 persen dari target."
+  ],
+  "fotoAdegan": "Workers inspecting packaged food products moving along a conveyor belt inside a bright processing plant",
+  "takeaway": "Catatan ini condong negatif bagi pemegang saham DMY-SHM, karena penempatan terbatas ini mendilusi kepemilikan pemegang saham lama hingga 90 persen tanpa memberi mereka hak untuk ikut membeli saham baru secara proporsional, pada saat perseroan sudah menghadapi rangkaian masalah lain seperti ancaman delisting dan kegagalan RUPS transaksi material. Transaksi ini menambah jumlah saham beredar dari 100.000 menjadi 190.000 lembar, yang berarti laba bersih perseroan ke depan akan dibagi ke jumlah saham yang jauh lebih banyak sehingga laba per saham, yaitu porsi keuntungan yang jadi hak setiap lembar saham, berpotensi menyusut meski laba itu sendiri tidak berubah. Harga pelaksanaan Rp100 per saham sama dengan nilai nominalnya, sehingga dana segar yang masuk ke ekuitas perseroan relatif kecil dibanding besarnya penambahan jumlah saham. Yang perlu dipantau adalah hasil RUPS pada 30 Desember 2026, setelah pengumuman mata acara rapat pada 8 Desember 2026, karena di situlah pemegang saham independen menentukan apakah penempatan terbatas ini disetujui atau bernasib sama seperti agenda transaksi material perseroan sebelumnya yang ditolak karena gagal kuorum.",
+  "sentimen": "negatif",
+  "peristiwa": "right-issue",
+  "judulIdx": "Aksi Korporasi - Penambahan modal tanpa HMETD - Penempatan Terbatas (Private Placement)",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Pengumuman mata acara RUPS terkait private placement"
+   },
+   {
+    "tanggal": "2026-12-30",
+    "acara": "RUPS memutuskan private placement"
+   }
+  ]
+ },
+ {
   "slug": "ri-tiongkok-perkuat-kerja-sama-hilirisasi-mineral-dan-energi",
   "category": "Energi",
   "title": "RI-Tiongkok Perkuat Kerja Sama [Hilirisasi] Mineral dan Energi",

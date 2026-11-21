@@ -5,6 +5,102 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "potensi-delisting-dmy-shm-suspensi-genap-24-bulan-21-november",
+  "category": "Aksi Korporasi",
+  "title": "Potensi Delisting DMY-SHM: [Suspensi] Genap 24 Bulan 21 November",
+  "deck": "Bursa menyatakan saham DMY-SHM berpotensi dihapus dari pencatatan setelah suspensi perdagangannya genap 24 bulan pada 21 November 2026, ambang yang diatur Peraturan Bursa I-I.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "delisting",
+   "suspensi saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B009_94be8c27-f875-4947-8c99-308cdbed56c4-20261121123358.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "amortisasi-tes-obl3-19-nov-2027-rp100-m-pokok-obligasi-dipangkas",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi TES-OBL3 Rp800 Miliar [Tercatat] di BEI Mulai 20 November",
+  "deck": "TES-OBL3 resmi tercatat di Bursa Efek Indonesia mulai 20 November 2026 senilai total Rp800 miliar lewat dua seri obligasi bertenor 2029 dan 2031, dengan rating idAA dari Pefindo.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TES-OBL3",
+   "obligasi korporasi",
+   "pencatatan BEI",
+   "PEFINDO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_TES-OBL3_E033_07407b0f-004b-4feb-abfe-4d6372d64fcb-20261121123216.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rups-dmy-shm-30-november-right-issue-100-000-saham-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 30 November: [Right Issue] 100.000 Saham Disetujui",
+  "deck": "RUPS DMY-SHM menyetujui penambahan modal lewat HMETD rasio 52:22, maksimal 100.000 saham baru di harga Rp100 per saham, efektif 30 November 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "rights issue",
+   "HMETD",
+   "penambahan modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_ba68b244-e226-4ac4-8568-6600c0957b55-20261121121705.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-tunai-dmy-shm-rp199-per-saham-cair-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai DMY-SHM Rp199 per Saham, [Cair] 30 November",
+  "deck": "DMY-SHM akan membagikan dividen tunai Rp199 per saham, total Rp19,99 juta, untuk tahun buku 2025, dibayarkan 30 November 2026 setelah persetujuan RUPS Tahunan.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "dividen tunai",
+   "RUPS Tahunan",
+   "PKPU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X3_84a59e34-de31-4fbd-95f3-08ffeb7c0b55-20261121121032.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rups-dmy-shm-30-desember-transaksi-material-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "RUPS DMY-SHM 30 Desember: [Transaksi Material] Ditolak",
+  "deck": "Pemanggilan resmi RUPS DMY-SHM akan dikirim 8 Desember 2026 menjelang rapat 30 Desember; DPS 22 November. Hasil rapat: dividen dan PMTHMETD disetujui, transaksi material ditolak.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "RUPS",
+   "PMTHMETD",
+   "Transaksi Material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E013_6fdaaab2-576e-4e04-98ca-48ceec7cba30-20261121120630.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "private-placement-dmy-shm-30-des-90-000-saham-baru-dilusi-90",
+  "category": "Aksi Korporasi",
+  "title": "[Private Placement] DMY-SHM 30 Des: 90.000 Saham Baru, Dilusi 90%",
+  "deck": "DMY-SHM berencana menerbitkan 90.000 saham baru lewat private placement tanpa hak memesan efek terlebih dahulu, menaikkan saham beredar 90 persen. RUPS digelar 30 Desember 2026.",
+  "date": "21 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMY-SHM",
+   "private placement",
+   "dilusi saham",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_E0X2_66b2bb73-6dd5-47e4-abbb-cb1b66477cf4-20261121115908.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-tiongkok-perkuat-kerja-sama-hilirisasi-mineral-dan-energi",
   "category": "Energi",
   "title": "RI-Tiongkok Perkuat Kerja Sama [Hilirisasi] Mineral dan Energi",
@@ -6414,104 +6510,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c9e7e9b43_34112b3ae5.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "menko-pangan-dorong-produksi-gula-demi-kejar-swasembada",
-  "category": "Industri",
-  "title": "Menko Pangan Dorong Produksi Gula demi Kejar [Swasembada]",
-  "deck": "Menko Pangan Zulkifli Hasan mendorong penguatan produksi gula dan produktivitas tebu di Pabrik Gula Krebet, Malang, sebagai bagian upaya mengejar swasembada gula nasional.",
-  "date": "12 November 2026",
-  "image": "assets/img/menko-pangan-dorong-produksi-gula-demi-kejar-swasembada.jpg",
-  "imageV": "mwd8q6o9",
-  "tags": [
-   "gula",
-   "swasembada",
-   "pabrik gula",
-   "petani tebu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477985-zulkifli-hasan-dorong-peningkatan-produksi-gula-dalam-negeri-untuk-kejar-swasembada"
- },
- {
-  "slug": "kredit-umkm-bri-capai-rp1-250-triliun-porsi-75-9",
-  "category": "Perbankan",
-  "title": "Kredit UMKM BRI Capai Rp1.250 Triliun, Porsi [75,9%]",
-  "deck": "BRI menyalurkan kredit Rp1.250 triliun untuk UMKM hingga September 2026, setara 75,9 persen dari total kredit Rp1.647 triliun, meski porsinya menyusut dibanding tahun lalu.",
-  "date": "12 November 2026",
-  "image": "assets/img/kredit-umkm-bri-capai-rp1-250-triliun-porsi-75-9.jpg",
-  "imageV": "mwd8q730",
-  "tags": [
-   "BRI",
-   "UMKM",
-   "KUR",
-   "Kredit Perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477982-bri-dorong-pertumbuhan-umkm-indonesia-salurkan-kredit-rp1250-triliun"
- },
- {
-  "slug": "rupst-rigs-10-november-dividen-nihil-direksi-lama-dipilih-lagi",
-  "category": "Aksi Korporasi",
-  "title": "RUPST RIGS 10 November: [Dividen] Nihil, Direksi Lama Dipilih Lagi",
-  "deck": "RUPST RIGS menetapkan laba bersih tahun buku 2025/2026 dipakai menutup kerugian, tanpa dividen, dan menunjuk ulang seluruh direksi serta komisaris hingga 2031.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RIGS",
-   "RUPST",
-   "Dividen",
-   "Rig Tenders"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bf59a78268_e1bd6820d0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupst-wirg-10-november-dividen-nihil-komisaris-independen-lengser",
-  "category": "Aksi Korporasi",
-  "title": "RUPST WIRG 10 November: [Dividen] Nihil, Komisaris Independen Lengser",
-  "deck": "RUPST WIR ASIA menahan seluruh laba 2025 sebagai laba ditahan tanpa dividen, sekaligus memberhentikan Ferdinand Bennyanto dari kursi Komisaris Independen.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIRG",
-   "RUPST",
-   "Komisaris Independen",
-   "Laba Ditahan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75d5ab9f7f_f752ad64fe.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "blog-anak-usaha-ssa-tambah-fasilitas-kredit-bca-rp100-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BLOG: Anak Usaha SSA Tambah Fasilitas Kredit [BCA] Rp100 Miliar",
-  "deck": "Anak usaha BLOG, PT Simpan Sini Aja, menambah fasilitas kredit investasi Rp100 miliar dari BCA untuk membiayai gudang dan cold storage, total pinjaman naik jadi Rp210 miliar.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLOG",
-   "Trimitra Trans Persada",
-   "kredit bank",
-   "Simpan Sini Aja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbe62e5395_464314d0f3.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai",
-  "category": "Makroekonomi",
-  "title": "Ekonomi RI Tumbuh 5,47 Persen, Harga Minyak [Melandai]",
-  "deck": "Ekonomi Indonesia tumbuh 5,47 persen pada kuartal III 2026, ditopang harapan pelandaian harga minyak dunia di tengah suku bunga global yang masih tinggi.",
-  "date": "12 November 2026",
-  "image": "assets/img/ekonomi-ri-tumbuh-5-47-persen-harga-minyak-melandai.jpg",
-  "imageV": "mwd29m2n",
-  "tags": [
-   "harga minyak",
-   "pertumbuhan ekonomi",
-   "KSSK",
-   "ekonomi global"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/477961-ekonomi-indonesia-tumbuh-547-persen-penurunan-harga-minyak-jadi-harapan-di-tengah-tekanan-global"
  }
 ];

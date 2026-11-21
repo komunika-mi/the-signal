@@ -118,15 +118,15 @@ var ARTICLES = [
  {
   "slug": "pemantauan-khusus-dmy-shm-21-november-masuk-imbas-anak-usaha-pkpu",
   "category": "Aksi Korporasi",
-  "title": "Pemantauan Khusus DMY-SHM 21 November: [Masuk] Imbas Anak Usaha PKPU",
-  "deck": "Bursa memasukkan saham DMY-SHM ke papan pemantauan khusus efektif 21 November 2026, dipicu anak usaha yang pendapatannya material sedang PKPU.",
+  "title": "[Pemantauan Khusus] DMY-SHM 21 November: Penuhi Semua 11 Kriteria",
+  "deck": "Dokumen resmi BEI menunjukkan DMY-SHM ternyata memenuhi seluruh 11 kriteria pemantauan khusus, bukan hanya kriteria anak usaha PKPU seperti pemberitaan sebelumnya.",
   "date": "21 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DMY-SHM",
-   "Pemantauan Khusus",
+   "pemantauan khusus",
    "PKPU",
-   "Bursa Efek Indonesia"
+   "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B031_737e4579-2350-45bf-b539-0c5d84ec744e-20261121023843.pdf",
   "sourceLabel": "IDX"

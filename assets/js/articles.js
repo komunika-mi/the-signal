@@ -268,8 +268,8 @@ var ARTICLES = [
  {
   "slug": "pemantauan-khusus-dmy-shm-21-november-masuk-imbas-anak-usaha-pkpu",
   "category": "Aksi Korporasi",
-  "title": "Pemantauan Khusus DMY-SHM 21 November: [Masuk] Imbas Anak Usaha PKPU",
-  "deck": "Bursa memasukkan saham DMY-SHM ke papan pemantauan khusus efektif 21 November 2026, dipicu anak usaha yang pendapatannya material sedang PKPU.",
+  "title": "[Pemantauan Khusus] DMY-SHM 21 November: Penuhi Semua 11 Kriteria",
+  "deck": "Dokumen resmi BEI menunjukkan DMY-SHM ternyata memenuhi seluruh 11 kriteria pemantauan khusus, bukan hanya kriteria anak usaha PKPU seperti pemberitaan sebelumnya.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T02:38:41",
@@ -278,17 +278,18 @@ var ARTICLES = [
   "emiten": "DMY-SHM",
   "tags": [
    "DMY-SHM",
-   "Pemantauan Khusus",
+   "pemantauan khusus",
    "PKPU",
-   "Bursa Efek Indonesia"
+   "BEI"
   ],
   "body": [
-   "Bursa Efek Indonesia (BEI) resmi memasukkan saham berkode DMY-SHM ke dalam daftar Efek Bersifat Ekuitas dalam Pemantauan Khusus pada papan pencatatan Utama. Perubahan penempatan papan ini berlaku efektif 21 November 2026, berdasarkan pengumuman resmi bursa.",
-   "Dari 11 kriteria yang dipakai bursa untuk menetapkan status pemantauan khusus, saham DMY-SHM masuk karena memenuhi kriteria nomor 9, yaitu anak perusahaan yang kontribusi pendapatannya material terhadap perusahaan tercatat sedang dalam kondisi dimintakan Penundaan Kewajiban Pembayaran Utang (PKPU), pailit, atau pembatalan perdamaian. Pengumuman bursa tidak merinci nama anak usaha yang dimaksud, besaran kontribusi pendapatannya terhadap pendapatan konsolidasian, maupun pihak yang mengajukan permohonan PKPU tersebut.",
-   "Status ini muncul tidak lama setelah DMY-SHM menggelar dua agenda pemegang saham pekan ini, yaitu RUPST yang menyetujui pembagian dividen tunai dan RUPSLB yang menyetujui pemecahan saham (stock split), yang keduanya sebelumnya dinilai netral terhadap fundamental perusahaan. Masuknya status pemantauan khusus menunjukkan bahwa di sisi lain, bursa mendeteksi risiko dari anak usaha yang material bagi pendapatan konsolidasian perusahaan."
+   "Pengumuman resmi Bursa Efek Indonesia (BEI) yang menjadi dasar status pemantauan khusus saham DMY-SHM ternyata mencantumkan bahwa saham ini memenuhi seluruh 11 kriteria pemantauan khusus yang dipakai bursa, yaitu kriteria nomor 1 sampai 11. Sebelumnya hanya kriteria nomor 9, soal anak usaha yang pendapatannya material sedang PKPU, yang disebut sebagai pemicu.",
+   "Kesebelas kriteria itu secara umum mencakup harga saham yang terlalu rendah dan transaksi hariannya sepi, opini disclaimer dari auditor pada laporan keuangan terakhir, tidak ada pendapatan atau tidak ada perubahan pendapatan dibanding periode sebelumnya, ekuitas yang negatif, jumlah saham beredar di publik (free float) yang di bawah syarat minimum, perusahaan atau anak usahanya sedang dalam proses PKPU, pailit, atau pembatalan perdamaian, serta pernah disetop sementara perdagangannya lebih dari sehari karena aktivitas transaksi. Dokumen tidak merinci kriteria mana yang paling dominan di antara kesebelasnya, atau angka ekuitas dan pendapatan DMY-SHM secara spesifik.",
+   "Status pemantauan khusus pada papan Utama ini berlaku efektif sejak 21 November 2026. Munculnya status ini terjadi tidak lama setelah DMY-SHM menggelar RUPST yang menyetujui pembagian dividen tunai dan RUPSLB yang menyetujui pemecahan saham (stock split) pekan ini, dua agenda yang sebelumnya dinilai netral terhadap fundamental perusahaan.",
+   "Bursa dalam pengumumannya tidak merinci nama anak usaha yang dimaksud pada kriteria nomor 9, besaran kontribusi pendapatannya terhadap pendapatan konsolidasian, maupun pihak yang mengajukan permohonan PKPU tersebut."
   ],
   "fotoAdegan": "A warehouse worker checking an idle forklift beside stacked pallets in a dim, quiet storage aisle, overcast light",
-  "takeaway": "Laporan ini condong negatif bagi DMY-SHM, sebab pemicunya bukan hal administratif melainkan indikasi risiko keuangan nyata, yaitu anak usaha yang pendapatannya material tengah berada dalam proses hukum PKPU, pailit, atau pembatalan perdamaian. Pos yang tersentuh adalah pendapatan dan arus kas konsolidasian, karena jika anak usaha itu akhirnya dinyatakan pailit, kontribusinya ke laporan keuangan DMY-SHM bisa hilang. PKPU sendiri adalah proses di pengadilan niaga yang memberi perusahaan yang berutang kesempatan merundingkan dan menunda pembayaran utangnya, sebelum berpotensi berlanjut ke status pailit kalau perundingan itu gagal. Yang perlu dipantau berikutnya adalah perkembangan proses PKPU anak usaha tersebut dan apakah laporan keuangan DMY-SHM ke depan mulai menunjukkan dampaknya pada pendapatan, mengingat perubahan papan pencatatan ke status pemantauan khusus ini sudah berlaku efektif sejak 21 November 2026.",
+  "takeaway": "Laporan ini condong negatif bagi DMY-SHM, karena dokumen resmi bursa menunjukkan sahamnya memenuhi seluruh 11 kriteria pemantauan khusus sekaligus, bukan cuma satu soal anak usaha seperti yang sempat dikabarkan, artinya ada beberapa masalah fundamental yang terjadi bersamaan. Di antara kriteria itu ada ekuitas negatif, yakni kewajiban perusahaan sudah lebih besar dari asetnya, serta tidak ada pendapatan atau likuiditas saham yang sangat tipis, dua hal yang biasanya membuat pelaku pasar ragu pada kesehatan keuangan dan kemudahan jual beli sahamnya. Laporan keuangan dengan opini disclaimer dari auditor juga berarti auditor tidak bisa memastikan kewajaran angka-angka di laporan itu, sehingga sulit dipakai sebagai acuan. Yang perlu dipantau berikutnya adalah penjelasan resmi DMY-SHM ke bursa soal kriteria mana saja yang benar-benar terjadi dan sejak kapan, serta perkembangan proses PKPU anak usahanya, mengingat status pemantauan khusus ini sudah berlaku efektif sejak 21 November 2026.",
   "sentimen": "negatif",
   "peristiwa": "suspensi",
   "judulIdx": "Efek Bersifat Ekuitas Dalam Pemantauan Khusus",
@@ -297,7 +298,16 @@ var ARTICLES = [
     "tanggal": "2026-11-21",
     "acara": "Perubahan papan pencatatan ke pemantauan khusus efektif"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-21T10:10:32",
+    "ringkas": "Dokumen resmi bursa menunjukkan DMY-SHM memenuhi seluruh 11 kriteria pemantauan khusus, bukan hanya kriteria anak usaha PKPU.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261121_DMY-SHM_B031_27127006-083a-47d3-8771-0814b4e7e3f3-20261121101033.pdf",
+    "judulIdx": "Efek Bersifat Ekuitas Dalam Pemantauan Khusus"
+   }
+  ],
+  "diperbarui": "2026-11-21T10:10:32"
  },
  {
   "slug": "jelang-teken-ieu-cepa-ri-ue-bahas-implementasi",

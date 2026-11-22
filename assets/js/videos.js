@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "eiPZzaWLy_U",
+  "title": "Lawatan Presiden Prabowo ke China Hasilkan Kerja Sama Rp1.600 Triliun",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Kunjungan kenegaraan Presiden Prabowo Subianto ke China pada November ini menghasilkan sejumlah kesepakatan kerja sama ekonomi senilai total Rp1.600 triliun.",
+  "takeaway": "Nilai kerja sama yang besar ini berpotensi memengaruhi arah investasi dan perdagangan Indonesia dengan China ke depan.",
+  "terbit": "2026-11-22T06:00:05+00:00"
+ },
+ {
+  "id": "di8eCmT1cF8",
+  "title": "Harga Tepung Melonjak Hampir 30 Persen di Surabaya",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Harga tepung terigu kemasan di Surabaya naik hampir 30 persen, memaksa perajin mie dan kulit pangsit menaikkan harga jual produk mereka.",
+  "takeaway": "Lonjakan harga bahan baku ini menggambarkan tekanan biaya produksi yang dihadapi pelaku usaha kecil menengah.",
+  "terbit": "2026-11-22T05:39:53+00:00"
+ },
+ {
+  "id": "6jeBFFvVeWk",
+  "title": "Cuan dari Budidaya Kelengkeng ala Petani di Klaten",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Budidaya kelengkeng di Klaten, Jawa Tengah, membuka peluang usaha baru lewat konsep wisata petik buah langsung dari pohonnya.",
+  "takeaway": "Kisah ini menunjukkan bagaimana diversifikasi usaha pertanian bisa menjadi sumber pendapatan tambahan bagi petani di desa.",
+  "terbit": "2026-11-22T05:39:36+00:00"
+ },
+ {
+  "id": "nu6-E8p-O5w",
+  "title": "Indonesia dan Uni Eropa Teken Kerja Sama IEU CEPA dan IPA",
+  "category": "Global",
+  "program": "Kabar Siang",
+  "summary": "Indonesia dan Uni Eropa resmi menandatangani perjanjian kerja sama perdagangan dan investasi berkelanjutan, IEU CEPA dan IPA.",
+  "takeaway": "Perjanjian ini berpotensi membuka akses pasar yang lebih luas bagi produk Indonesia di Eropa.",
+  "terbit": "2026-11-22T05:38:31+00:00"
+ },
+ {
   "id": "nPXN2qdC6PU",
   "title": "IEU-CEPA Berlaku, 90,4% Pos Tarif Produk RI Bebas ke Eropa",
   "category": "Global",

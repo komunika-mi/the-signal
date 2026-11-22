@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "eiPZzaWLy_U",
+  "title": "Lawatan Presiden Prabowo ke China Hasilkan Kerja Sama Rp1.600 Triliun",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Kunjungan kenegaraan Presiden Prabowo Subianto ke China pada November ini menghasilkan sejumlah kesepakatan kerja sama ekonomi senilai total Rp1.600 triliun.",
+  "takeaway": "Nilai kerja sama yang besar ini berpotensi memengaruhi arah investasi dan perdagangan Indonesia dengan China ke depan."
+ },
+ {
+  "id": "di8eCmT1cF8",
+  "title": "Harga Tepung Melonjak Hampir 30 Persen di Surabaya",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Harga tepung terigu kemasan di Surabaya naik hampir 30 persen, memaksa perajin mie dan kulit pangsit menaikkan harga jual produk mereka.",
+  "takeaway": "Lonjakan harga bahan baku ini menggambarkan tekanan biaya produksi yang dihadapi pelaku usaha kecil menengah."
+ },
+ {
+  "id": "6jeBFFvVeWk",
+  "title": "Cuan dari Budidaya Kelengkeng ala Petani di Klaten",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Budidaya kelengkeng di Klaten, Jawa Tengah, membuka peluang usaha baru lewat konsep wisata petik buah langsung dari pohonnya.",
+  "takeaway": "Kisah ini menunjukkan bagaimana diversifikasi usaha pertanian bisa menjadi sumber pendapatan tambahan bagi petani di desa."
+ },
+ {
+  "id": "nu6-E8p-O5w",
+  "title": "Indonesia dan Uni Eropa Teken Kerja Sama IEU CEPA dan IPA",
+  "category": "Global",
+  "program": "Kabar Siang",
+  "summary": "Indonesia dan Uni Eropa resmi menandatangani perjanjian kerja sama perdagangan dan investasi berkelanjutan, IEU CEPA dan IPA.",
+  "takeaway": "Perjanjian ini berpotensi membuka akses pasar yang lebih luas bagi produk Indonesia di Eropa."
+ },
+ {
   "id": "nPXN2qdC6PU",
   "title": "IEU-CEPA Berlaku, 90,4% Pos Tarif Produk RI Bebas ke Eropa",
   "category": "Global",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "GAPKI menggelar Indonesian Palm Oil Conference (IPOC) 2026 di Bali mulai 12 November 2026, sekaligus membahas proyeksi harga sawit untuk 2027.",
   "takeaway": "Forum ini penting bagi pembaca ekonomi karena menjadi acuan pelaku industri sawit dalam memproyeksikan harga komoditas unggulan ekspor Indonesia."
- },
- {
-  "id": "buOcnG1FMOU",
-  "title": "Kadin Gelar Monthly Economic Diplomatic Breakfast",
-  "category": "Bisnis",
-  "program": "Kabar Utama",
-  "summary": "Kadin Indonesia menggelar forum rutin bulanan Monthly Economic Diplomatic Breakfast bersama sejumlah duta besar untuk membahas kerja sama ekonomi.",
-  "takeaway": "Forum ini relevan karena menjadi wadah dialog rutin pelaku usaha dengan perwakilan negara sahabat demi memperkuat peluang investasi dan perdagangan."
- },
- {
-  "id": "AtgNTuySIYQ",
-  "title": "Ekosistem Usaha Perikanan dari Nelayan ke Pasar di Ciwaru",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "KDMP Ciwaru di Sukabumi membangun ekosistem usaha perikanan yang menghubungkan nelayan, pengelolaan hasil tangkapan, hingga distribusinya ke pasar.",
-  "takeaway": "Model ekosistem usaha perikanan berbasis desa ini memberi gambaran konkret soal penguatan UMKM di sektor kelautan."
- },
- {
-  "id": "atQbc-E2nmk",
-  "title": "Jensen Huang Lepas Saham Nvidia, Kini Kuasai 3,5 Persen",
-  "category": "Pasar Modal",
-  "program": "OneNews Update",
-  "summary": "Pendiri Nvidia Jensen Huang kini tercatat memiliki 3,5 persen saham perusahaan tersebut, dengan kekayaan sekitar US$151,2 miliar atau setara Rp2.520 triliun menurut data Forbes.",
-  "takeaway": "Perubahan kepemilikan saham ini penting diikuti investor karena menyangkut struktur kendali salah satu perusahaan teknologi paling berpengaruh di dunia."
- },
- {
-  "id": "jIQoPQK50Bo",
-  "title": "Harga Cabai dan Bawang Naik Jelang Nataru",
-  "category": "Makroekonomi",
-  "program": "AKIS",
-  "summary": "Harga cabai, bawang merah, dan bawang putih naik akibat kemarau panjang dan tingginya permintaan menjelang Natal dan Tahun Baru.",
-  "takeaway": "Kenaikan harga pangan ini berpotensi menambah tekanan inflasi dan mengurangi daya beli masyarakat di akhir tahun."
  }
 ];

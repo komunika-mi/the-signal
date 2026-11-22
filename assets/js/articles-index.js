@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-ue-teken-ieu-cepa-tarif-ekspor-turun-ke-nol-persen",
+  "category": "Global",
+  "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
+  "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
+  "date": "22 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "tarif perdagangan",
+   "ratifikasi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7239/ieu-cepa-bebaskan-tarif-lebih-dari-90-komoditas-dagang-produk-padat-karya-nikmati-bea-masuk-0-ke-uni-eropa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi",
   "category": "Industri",
   "title": "Lada Motasa [Tertahan] di Taiwan, Bukan Lewat Ekspor Resmi",
@@ -78,7 +94,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -555,7 +571,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -1008,7 +1024,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -2443,7 +2459,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -3186,7 +3202,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3465,7 +3481,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -4284,7 +4300,7 @@ var ARTICLES = [
   "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
   "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
   "date": "16 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -6507,22 +6523,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478077-menperin-dorong-kedaulatan-industri-telekomunikasi-ini-respons-apnatel"
- },
- {
-  "slug": "qris-jadi-fitur-terfavorit-pengguna-dompet-digital",
-  "category": "Perbankan",
-  "title": "QRIS Jadi Fitur [Terfavorit] Pengguna Dompet Digital",
-  "deck": "Riset MarkPlus 2026 menunjukkan QRIS kini jadi fitur paling sering dipakai pengguna dompet digital di Indonesia, mengungguli transfer dan belanja daring.",
-  "date": "12 November 2026",
-  "image": "assets/img/qris-jadi-fitur-terfavorit-pengguna-dompet-digital.jpg",
-  "imageV": "mwdqzgx6",
-  "tags": [
-   "qris",
-   "dompet digital",
-   "pembayaran digital",
-   "e-wallet"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478075-qris-mengubah-cara-masyarakat-bertransaksi-dompet-digital-kini-jadi-cara-menghemat-pengeluaran"
  }
 ];

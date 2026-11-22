@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "nPXN2qdC6PU",
+  "title": "IEU-CEPA Berlaku, 90,4% Pos Tarif Produk RI Bebas ke Eropa",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Perjanjian Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) resmi berlaku, membuat 90,4 persen pos tarif produk Indonesia kini bebas tarif masuk ke pasar Uni Eropa.",
+  "takeaway": "Pemberlakuan IEU-CEPA berpotensi membuka peluang ekspor baru bagi pelaku usaha Indonesia ke pasar Eropa, sehingga penting dipantau pembaca ekonomi dan bisnis."
+ },
+ {
   "id": "X3NW_ouQ01Y",
   "title": "Lima Negara Berminat Transaksi Karbon RI di COP31 Turki",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "AKIS",
   "summary": "Harga cabai, bawang merah, dan bawang putih naik akibat kemarau panjang dan tingginya permintaan menjelang Natal dan Tahun Baru.",
   "takeaway": "Kenaikan harga pangan ini berpotensi menambah tekanan inflasi dan mengurangi daya beli masyarakat di akhir tahun."
- },
- {
-  "id": "wObqzKq4ofQ",
-  "title": "Harga Kedelai dan Plastik Naik, Perajin Tempe Kesulitan",
-  "category": "UMKM",
-  "program": "AKIS",
-  "summary": "Kenaikan harga kedelai dan plastik kemasan menekan daya beli dan akses perajin tempe di Jombang terhadap bahan baku utama mereka.",
-  "takeaway": "Kasus ini memperlihatkan bagaimana lonjakan harga bahan baku langsung memukul pelaku UMKM di sektor pangan."
  }
 ];

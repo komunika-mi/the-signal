@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "nPXN2qdC6PU",
+  "title": "IEU-CEPA Berlaku, 90,4% Pos Tarif Produk RI Bebas ke Eropa",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Perjanjian Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) resmi berlaku, membuat 90,4 persen pos tarif produk Indonesia kini bebas tarif masuk ke pasar Uni Eropa.",
+  "takeaway": "Pemberlakuan IEU-CEPA berpotensi membuka peluang ekspor baru bagi pelaku usaha Indonesia ke pasar Eropa, sehingga penting dipantau pembaca ekonomi dan bisnis.",
+  "terbit": "2026-11-22T03:40:29+00:00"
+ },
+ {
   "id": "X3NW_ouQ01Y",
   "title": "Lima Negara Berminat Transaksi Karbon RI di COP31 Turki",
   "category": "Global",

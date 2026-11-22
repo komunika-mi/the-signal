@@ -3,6 +3,87 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi",
+  "category": "Industri",
+  "title": "Lada Motasa [Tertahan] di Taiwan, Bukan Lewat Ekspor Resmi",
+  "deck": "PT Motasa Indonesia menjelaskan 24 kilogram produk Ladaku Merica Bubuk yang tertahan di Taiwan dikirim lewat trader, bukan jalur ekspor resmi perusahaan, sehingga tidak dilengkapi dokumen ekspor.",
+  "image": "assets/img/lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi.jpg",
+  "date": "22 November 2026",
+  "isoDate": "2026-11-22T10:12:35+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479704-produk-olahan-lada-tertahan-di-taiwan-motasa-jelaskan-persoalan-residu",
+  "tags": [
+   "ekspor lada",
+   "Taiwan",
+   "Motasa",
+   "keamanan pangan"
+  ],
+  "body": [
+   "PT Motasa Indonesia, produsen merica bubuk dengan merek Ladaku, buka suara soal tertahannya 24 kilogram atau 10 karton produknya di Taiwan. Perusahaan menegaskan pengiriman itu tidak melalui jalur ekspor resminya, melainkan dilakukan oleh pihak trader yang membeli produk lalu mengirimnya sendiri ke luar negeri. Kasus ini ikut memunculkan pertanyaan soal keamanan pangan, khususnya dugaan residu pestisida pada produk lada olahan tersebut.",
+   "Direktur Utama PT Motasa Indonesia, Muhammad Taib Sangaji, mengatakan dalam konferensi pers di Surabaya, Sabtu (21/11), bahwa pengiriman yang tertahan tidak dilengkapi dokumen pendukung ekspor yang biasa diterbitkan perusahaan untuk setiap pengiriman resmi ke luar negeri. Artinya, begitu produk dijual ke trader, perusahaan tidak lagi memiliki kendali atau catatan resmi atas bagaimana dan melalui jalur apa barang itu akhirnya tiba di Taiwan.",
+   "Untuk menjawab dugaan residu pestisida, Taib memaparkan rangkaian proses pengolahan lada di perusahaannya. Bahan baku dari petani binaan direndam dalam air mengalir sekitar 14 hari untuk mengelupas kulit lada, lalu dicuci, dibilas, dikeringkan, dan diperiksa ulang di gudang sebelum dikirim ke pabrik di Mojosari, Mojokerto. Di pabrik, lada dicuci kembali, disterilkan dengan uap panas bertekanan tinggi, dipanggang, digiling memakai sistem tertutup, lalu dikemas di ruangan yang dilengkapi penyaring udara HEPA Filter.",
+   "Taib menegaskan pengujian internal perusahaan selama ini tidak pernah menemukan kandungan residu pestisida pada produk Ladaku, dan pemeriksaan oleh pihak eksternal dilakukan terhadap produk yang memang dikirim melalui jalur ekspor resmi perusahaan. Dengan kata lain, Motasa memisahkan dua isu dalam kasus ini: soal kelengkapan dokumen ekspor yang menurutnya murni urusan trader, dan soal keamanan produk yang diklaim sudah melalui kendali mutu ketat di pabrik."
+  ],
+  "fotoAdegan": "Workers rinsing freshly harvested pepper berries in a flowing water channel at a rural Indonesian processing site, overcast daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/22/6b025c5ea421f-produk-merica-bubuk-tertahan-di-taiwan-motasa-bantah-ekspor-resmi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah dari penjelasan ini adalah titik pertanggungjawaban: produk yang tertahan di Taiwan disebut Motasa bukan berasal dari pengiriman ekspor resminya, melainkan dari trader yang membeli produk lalu mengirimnya sendiri tanpa dokumen pendukung yang biasa dilampirkan perusahaan. Yang terdampak langsung adalah reputasi merek Ladaku dan petani binaan pemasok lada, karena kasus ini ikut menyeret nama produk olahan lada Indonesia meski menurut perusahaan di luar kendalinya. Yang masih kurang untuk membaca ke mana arah kasus ini adalah hasil uji resmi dari otoritas keamanan pangan Taiwan atas dugaan residu pestisida, sebab sejauh ini yang terungkap hanya klaim pengujian internal Motasa, belum ada konfirmasi independen dari pihak yang menahan produk tersebut. Identitas dan jalur pengiriman trader yang dimaksud juga belum dijelaskan, padahal itu yang akan menentukan apakah persoalannya murni administratif atau menyentuh keamanan pangan yang sesungguhnya.",
+  "imageV": "mwrbntqh"
+ },
+ {
+  "slug": "ri-ue-kejar-target-penerapan-sementara-ieu-cepa-2027",
+  "category": "Global",
+  "title": "RI-UE Kejar Target [Penerapan Sementara] IEU-CEPA 2027",
+  "deck": "Menko Airlangga Hartarto bertemu Komisioner Dagang UE Maroš Šefčovič di Brussels untuk mengawal implementasi IEU-CEPA, termasuk target penerapan sementara awal 2027.",
+  "image": "assets/img/ri-ue-kejar-target-penerapan-sementara-ieu-cepa-2027.jpg",
+  "date": "22 November 2026",
+  "isoDate": "2026-11-22T08:46:18+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479689-menko-airlangga-dan-komisioner-uni-eropa-bahas-pengawalan-implementasi-ieu-cepa",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Airlangga Hartarto",
+   "perdagangan"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto bertemu Komisioner Perdagangan dan Keamanan Ekonomi Uni Eropa, Maroš Šefčovič, di Brussels, Belgia, pada 21 November 2026. Pertemuan empat mata itu membahas langkah-langkah untuk mengawal implementasi perjanjian kerja sama ekonomi komprehensif Indonesia-Uni Eropa atau IEU-CEPA agar berjalan sesuai target waktu yang disepakati.",
+   "Pertemuan ini merupakan kelanjutan dari penandatanganan resmi IEU-CEPA, perjanjian perlindungan investasi atau IPA, serta dokumen komitmen implementasi oleh Indonesia dan Uni Eropa. Melalui kesepakatan tersebut, Indonesia mendapat akses lebih luas ke pasar tunggal Uni Eropa yang berpenduduk sekitar 450 juta jiwa, dengan nilai perdagangan dua arah yang sudah mencapai sekitar US$30 miliar per tahun.",
+   "Salah satu fokus pembahasan adalah target penerapan sementara perjanjian pada awal 2027, agar akses ekspor Indonesia ke pasar Eropa tetap terjaga selagi proses ratifikasi di seluruh negara anggota Uni Eropa masih berjalan. IEU-CEPA sendiri mencakup liberalisasi lebih dari 98 persen perdagangan bilateral, dengan 90,4 persen pos tarif langsung mendapat fasilitas bea masuk nol persen sejak perjanjian berlaku.",
+   "Kedua pihak juga membahas penyelarasan setiap tahapan dari ratifikasi hingga implementasi di lapangan, termasuk mengaktifkan berbagai komite dan subkomite teknis yang sudah diatur dalam perjanjian. Mekanisme kelembagaan ini diharapkan memperkuat komunikasi Indonesia dan Uni Eropa serta membantu menyelesaikan kendala teknis maupun regulasi secara lebih cepat."
+  ],
+  "fotoAdegan": "Cargo containers stacked near a harbor crane with ships docked under an overcast European coastal sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/09/6af1a8798b7ce-menteri-koordinator-bidang-perekonomian-airlangga-hartarto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret dari pertemuan ini adalah soal waktu: Indonesia dan Uni Eropa mengejar 'penerapan sementara' IEU-CEPA pada awal 2027, artinya sebagian besar manfaat perjanjian bisa dipakai lebih dulu sebelum proses ratifikasi penuh di seluruh negara anggota Uni Eropa selesai, yang biasanya memakan waktu bertahun-tahun. Begitu berjalan, 90,4 persen dari seluruh jenis barang yang diperdagangkan antara Indonesia dan Uni Eropa akan langsung bebas bea masuk, sehingga eksportir Indonesia yang produknya masuk daftar itu bisa menjual lebih murah di pasar Eropa sejak hari pertama, sementara importir barang Eropa ke Indonesia mendapat keringanan serupa. Pilihan menempuh jalur penerapan sementara ketimbang menunggu ratifikasi tuntas menunjukkan kedua pihak ingin manfaat dagangnya segera terasa, bukan tersandera proses politik yang panjang di parlemen negara-negara anggota. Yang akan memastikan arah ini benar-benar terwujud adalah apakah target awal 2027 itu tercapai sesuai rencana, atau justru mundur seperti yang kerap terjadi pada perjanjian dagang serupa.",
+  "imageV": "mwrbnu45"
+ },
+ {
+  "slug": "ri-ue-teken-ieu-cepa-bea-masuk-ekspor-turun",
+  "category": "Global",
+  "title": "RI-UE Teken IEU-CEPA, Bea Masuk Ekspor [Turun]",
+  "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka bea masuk nol persen untuk 90,4 persen pos tarif ekspor RI ke pasar Eropa.",
+  "image": "assets/img/ri-ue-teken-ieu-cepa-bea-masuk-ekspor-turun.jpg",
+  "date": "22 November 2026",
+  "isoDate": "2026-11-22T08:34:45+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479686-indonesia-dan-uni-eropa-resmi-teken-ieu-cepa-dan-ipa-ekspor-ri-makin-terbuka",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "ekspor",
+   "investasi"
+  ],
+  "body": [
+   "Pemerintah Indonesia dan Uni Eropa resmi menandatangani dua perjanjian ekonomi sekaligus, yakni Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA) dan Investment Protection Agreement (IPA), di Brussels, Belgia, pada 21 November 2026. Langkah ini penting bagi pembaca karena menyangkut dua hal sekaligus, yaitu kemudahan produk Indonesia masuk pasar Eropa dan kepastian hukum bagi investasi yang mengalir di antara kedua pihak.",
+   "Penandatanganan dilakukan oleh Menteri Koordinator Bidang Perekonomian Airlangga Hartarto bersama Komisioner Perdagangan Uni Eropa Maroš Šefčovič. Prosesnya didahului panggilan video antara Presiden Prabowo Subianto dan Presiden Komisi Eropa Ursula von der Leyen pada hari yang sama, yang membahas percepatan implementasi IEU-CEPA. IPA mengatur perlindungan investasi dua arah, sementara IEU-CEPA mengatur pembukaan akses pasar barang antara Indonesia dan Uni Eropa.",
+   "Dari sisi tarif, sebanyak 90,4 persen pos tarif produk Indonesia yang masuk ke pasar Uni Eropa akan langsung mendapat bea masuk nol persen begitu perjanjian berlaku efektif. Sisanya, 8,37 persen pos tarif lain, akan turun secara bertahap dalam rentang tiga sampai 15 tahun, atau diatur lewat kuota tarif, yaitu mekanisme yang memberi tarif rendah untuk volume impor tertentu dan tarif normal di atas kuota itu.",
+   "Airlangga menyebut perjanjian ini membuka akses pasar Eropa bagi produk unggulan nasional sekaligus menarik investasi ke sektor-sektor strategis Indonesia. Ia menambahkan bahwa langkah berikutnya adalah memastikan proses ratifikasi dan aturan pelaksana berjalan tepat waktu agar manfaatnya segera terasa."
+  ],
+  "fotoAdegan": "Cargo containers being loaded by crane onto a ship at a busy Indonesian export port under an overcast sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/09/01/6a96f3b374526-ilustrasi-uni-eropa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah tarif, begitu perjanjian ini berlaku efektif, 90,4 persen pos tarif ekspor Indonesia ke Uni Eropa langsung bebas bea masuk, sementara 8,37 persen sisanya turun bertahap sampai 15 tahun. Pihak yang kena dampak paling langsung adalah eksportir produk unggulan Indonesia yang selama ini terbebani tarif saat masuk pasar Eropa, serta investor yang kini punya kepastian hukum lebih kuat untuk menanam modal di sektor strategis dalam negeri lewat perlindungan IPA. Tapi penandatanganan ini belum berarti tarif langsung turun dalam waktu dekat, sebab Airlangga sendiri menyebut langkah berikutnya adalah ratifikasi dan aturan pelaksana, sebuah proses yang di Uni Eropa biasanya melewati persetujuan parlemen Eropa dan masing-masing negara anggotanya. Arahnya mengarah ke pembukaan pasar yang bertahap dan baru efektif setelah proses hukum itu selesai, bukan perubahan yang langsung terasa minggu ini. Yang akan menentukan cepat atau lambatnya adalah jadwal ratifikasi di parlemen Indonesia dan Uni Eropa serta aturan pelaksana yang dijanjikan Airlangga akan menyusul.",
+  "imageV": "mwrbnuis"
+ },
+ {
   "slug": "pnm-kokohkan-bunga-mekaar-8-persen-di-yogyakarta",
   "category": "UMKM",
   "title": "PNM Kokohkan Bunga Mekaar [8 Persen] di Yogyakarta",

@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi",
+  "category": "Industri",
+  "title": "Lada Motasa [Tertahan] di Taiwan, Bukan Lewat Ekspor Resmi",
+  "deck": "PT Motasa Indonesia menjelaskan 24 kilogram produk Ladaku Merica Bubuk yang tertahan di Taiwan dikirim lewat trader, bukan jalur ekspor resmi perusahaan, sehingga tidak dilengkapi dokumen ekspor.",
+  "date": "22 November 2026",
+  "image": "assets/img/lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi.jpg",
+  "imageV": "mwrbntqh",
+  "tags": [
+   "ekspor lada",
+   "Taiwan",
+   "Motasa",
+   "keamanan pangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479704-produk-olahan-lada-tertahan-di-taiwan-motasa-jelaskan-persoalan-residu"
+ },
+ {
+  "slug": "ri-ue-kejar-target-penerapan-sementara-ieu-cepa-2027",
+  "category": "Global",
+  "title": "RI-UE Kejar Target [Penerapan Sementara] IEU-CEPA 2027",
+  "deck": "Menko Airlangga Hartarto bertemu Komisioner Dagang UE Maroš Šefčovič di Brussels untuk mengawal implementasi IEU-CEPA, termasuk target penerapan sementara awal 2027.",
+  "date": "22 November 2026",
+  "image": "assets/img/ri-ue-kejar-target-penerapan-sementara-ieu-cepa-2027.jpg",
+  "imageV": "mwrbnu45",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "Airlangga Hartarto",
+   "perdagangan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479689-menko-airlangga-dan-komisioner-uni-eropa-bahas-pengawalan-implementasi-ieu-cepa"
+ },
+ {
+  "slug": "ri-ue-teken-ieu-cepa-bea-masuk-ekspor-turun",
+  "category": "Global",
+  "title": "RI-UE Teken IEU-CEPA, Bea Masuk Ekspor [Turun]",
+  "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka bea masuk nol persen untuk 90,4 persen pos tarif ekspor RI ke pasar Eropa.",
+  "date": "22 November 2026",
+  "image": "assets/img/ri-ue-teken-ieu-cepa-bea-masuk-ekspor-turun.jpg",
+  "imageV": "mwrbnuis",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "ekspor",
+   "investasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479686-indonesia-dan-uni-eropa-resmi-teken-ieu-cepa-dan-ipa-ekspor-ri-makin-terbuka"
+ },
+ {
   "slug": "pnm-kokohkan-bunga-mekaar-8-persen-di-yogyakarta",
   "category": "UMKM",
   "title": "PNM Kokohkan Bunga Mekaar [8 Persen] di Yogyakarta",
@@ -6473,53 +6524,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478075-qris-mengubah-cara-masyarakat-bertransaksi-dompet-digital-kini-jadi-cara-menghemat-pengeluaran"
- },
- {
-  "slug": "rupo-adhi-11-desember-2026-obligasi-tahap-iii-2022-dibahas",
-  "category": "Aksi Korporasi",
-  "title": "[RUPO] ADHI 11 Desember 2026: Obligasi Tahap III 2022 Dibahas",
-  "deck": "ADHI mengumumkan rencana RUPO untuk Obligasi Berkelanjutan III Tahap III 2022 pada 11 Desember 2026, panggilan resmi terbit 27 November 2026.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADHI",
-   "RUPO",
-   "Obligasi",
-   "Bank Mega"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/011b74a80a_0937bea065.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-mdia-rugi-bersih-melebar-ke-rp32-3-miliar-di-6m2026",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose MDIA: [Proyeksi] Pendapatan 2026 Rp550-560 Miliar",
-  "deck": "MDIA melaporkan hasil public expose 17 November: manajemen memproyeksikan pendapatan 2026 di kisaran Rp550-560 miliar dan menyiapkan capex 2027 Rp10-15 miliar.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDIA",
-   "Public Expose",
-   "Intermedia Capital",
-   "ANTV"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/be1959a4d6_d10ee1712e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-viva-6m2026-laba-bersih-anjlok-95-jadi-rp60-miliar",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose VIVA 17 November: [Konversi Utang] Masih Direvisi",
-  "deck": "VIVA gelar Public Expose 17 November, dihadiri 47 peserta. Pendapatan sembilan bulan Rp651,9 miliar, dan konversi utang jadi saham untuk dua kreditur baru masih direvisi.",
-  "date": "12 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VIVA",
-   "Public Expose 2026",
-   "Konversi Utang",
-   "PKPU"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/28325c7881_cb859e3b43.pdf",
-  "sourceLabel": "IDX"
  }
 ];

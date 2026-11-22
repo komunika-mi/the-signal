@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan",
+  "category": "UMKM",
+  "title": "Bunga KPPS Turun ke 8%, Angsuran Mekaar Makin [Ringan]",
+  "deck": "Penurunan bunga pembiayaan KPPS ke 8 persen per tahun meringankan angsuran nasabah PNM Mekaar, termasuk perempuan pengusaha ultra mikro yang menabung untuk pendidikan anak.",
+  "date": "23 November 2026",
+  "image": "assets/img/bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan.jpg",
+  "imageV": "mws7p9dk",
+  "tags": [
+   "PNM Mekaar",
+   "KPPS",
+   "UMKM",
+   "kredit perempuan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479808-angsuran-lebih-ringan-nasabah-pnm-mekaar-sisihkan-penghasilan-untuk-pendidikan"
+ },
+ {
   "slug": "ekonom-nilai-dasco-punya-modal-jadi-wapres",
   "category": "Makroekonomi",
   "title": "Ekonom Nilai Dasco Punya [Modal] Jadi Wapres",
@@ -6506,22 +6523,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478087-sinergi-serikat-pekerja-dan-pemantau-migas-dorong-penguatan-kedaulatan-energi-melalui-penataan-regulasi"
- },
- {
-  "slug": "jasa-marga-jaga-skor-keterbukaan-informasi-di-kip-2026",
-  "category": "BUMN",
-  "title": "Jasa Marga Jaga Skor [Keterbukaan] Informasi di KIP 2026",
-  "deck": "Jasa Marga mengikuti uji publik evaluasi keterbukaan informasi 2026 oleh Komisi Informasi Pusat, menyusul skor 98,92 dan status Informatif yang diraih tahun lalu.",
-  "date": "12 November 2026",
-  "image": "assets/img/jasa-marga-jaga-skor-keterbukaan-informasi-di-kip-2026.jpg",
-  "imageV": "mwdwca89",
-  "tags": [
-   "jasa marga",
-   "informasi publik",
-   "monev kip",
-   "tol"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478082-jasa-marga-perkuat-transparansi-publik-melalui-uji-publik-monev-kip-2026"
  }
 ];

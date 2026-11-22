@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan",
+  "category": "UMKM",
+  "title": "Bunga KPPS Turun ke 8%, Angsuran Mekaar Makin [Ringan]",
+  "deck": "Penurunan bunga pembiayaan KPPS ke 8 persen per tahun meringankan angsuran nasabah PNM Mekaar, termasuk perempuan pengusaha ultra mikro yang menabung untuk pendidikan anak.",
+  "image": "assets/img/bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T00:31:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479808-angsuran-lebih-ringan-nasabah-pnm-mekaar-sisihkan-penghasilan-untuk-pendidikan",
+  "tags": [
+   "PNM Mekaar",
+   "KPPS",
+   "UMKM",
+   "kredit perempuan"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (PNM) meringankan beban angsuran nasabah program Mekaar lewat skema Kredit Perempuan Prasejahtera (KPPS), dengan bunga flat 8 persen per tahun, jauh lebih rendah dari kisaran 17 sampai 25 persen sebelumnya. Bagi nasabah seperti Evi Aprianti, pelaku usaha ultra mikro di Unit Rancabali, keringanan ini membuka ruang lebih lega untuk menyisihkan penghasilan usahanya sebagai tabungan pendidikan anak.",
+   "Penyesuaian bunga ini merupakan tindak lanjut arahan Presiden Prabowo Subianto pada 13 Mei 2026 kepada PNM Mekaar. Dampaknya bisa dilihat dari simulasi pinjaman Rp5,5 juta dengan pola angsuran dua mingguan: sebelumnya nasabah membayar Rp265 ribu per periode, kini turun menjadi Rp229 ribu, selisih Rp36 ribu setiap dua minggu yang bisa dialihkan untuk kebutuhan lain.",
+   "Bagi Evi, selisih sekecil itu tetap berarti besar. Ia mengaku selalu berusaha menyisihkan sebagian hasil usahanya untuk tabungan sekolah anak, meski jumlahnya tidak selalu banyak, dengan harapan anaknya bisa menempuh pendidikan setinggi mungkin dan memiliki kehidupan yang lebih baik.",
+   "Cerita Evi mewakili banyak nasabah perempuan PNM Mekaar yang menjalankan usaha ultra mikro, di mana setiap rupiah penghasilan harus dibagi antara menjaga usaha tetap berjalan, memenuhi kebutuhan keluarga, dan mempersiapkan masa depan anak."
+  ],
+  "fotoAdegan": "A woman arranging small handmade goods at a modest roadside stall in a West Java village, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/23/6b032427483ec-evi-aprianti-kiri-nasabah-pnm-mekaar-unit-rancabali_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah bunga pembiayaan KPPS untuk nasabah PNM Mekaar, turun dari kisaran 17-25 persen menjadi flat 8 persen per tahun, mengikuti arahan Presiden Prabowo Subianto pada Mei 2026. Dampaknya langsung terasa di arus kas nasabah, seperti contoh di berita ini: pinjaman Rp5,5 juta yang angsuran dua mingguannya turun dari Rp265 ribu menjadi Rp229 ribu, hemat Rp36 ribu setiap periode bayar, uang yang oleh nasabah justru dialihkan jadi tabungan sekolah anak. Yang kena dampak langsung adalah nasabah PNM Mekaar, mayoritas perempuan pelaku usaha ultra mikro seperti Evi di Rancabali. Yang belum terjawab dari cerita ini adalah seberapa luas skema bunga rendah ini sudah menjangkau seluruh nasabah Mekaar secara nasional, dan apakah penurunan ini permanen atau masih bisa berubah, sesuatu yang baru akan terlihat dari laporan kinerja atau data penyaluran PNM berikutnya.",
+  "imageV": "mws7p9dk"
+ },
+ {
   "slug": "ekonom-nilai-dasco-punya-modal-jadi-wapres",
   "category": "Makroekonomi",
   "title": "Ekonom Nilai Dasco Punya [Modal] Jadi Wapres",
@@ -55,7 +82,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan intinya ada di angka tarif: dari sekitar 7 sampai 12 persen jadi nol persen untuk produk padat karya seperti tekstil, alas kaki, pakaian jadi, dan minyak sawit mentah begitu masuk pasar Eropa, sementara Indonesia membalas dengan melepas separuh pos tarif kendaraan asal Eropa secara bertahap dalam lima tahun. Yang paling langsung kena dampak adalah eksportir produk padat karya tadi, sementara importir kendaraan Eropa baru merasakan efeknya bertahap selama lima tahun ke depan. Arah yang lebih menentukan sekarang bukan soal isi perjanjian, tapi soal kecepatan ratifikasi, karena fasilitas keringanan tarif GSP yang selama ini dipakai Indonesia habis akhir 2026, sedangkan IEU-CEPA baru ditargetkan berlaku 1 Januari 2027. Kalau salah satu pihak telat meratifikasi, bisa muncul celah waktu tanpa keringanan tarif sama sekali, itu sebabnya penandatanganan sengaja dikejar hari Sabtu agar dokumennya langsung masuk proses internal Uni Eropa hari Senin. Yang perlu dipantau adalah apakah Peraturan Presiden di Indonesia dan proses ratifikasi di pihak Eropa selesai sebelum akhir tahun, karena itu yang menentukan ada tidaknya jeda tarif tersebut.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi",

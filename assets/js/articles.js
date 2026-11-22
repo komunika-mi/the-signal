@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ekonom-nilai-dasco-punya-modal-jadi-wapres",
+  "category": "Makroekonomi",
+  "title": "Ekonom Nilai Dasco Punya [Modal] Jadi Wapres",
+  "deck": "Ekonom INDEF menilai Wakil Ketua DPR Sufmi Dasco Ahmad punya modal strategis sebagai Wakil Presiden mendampingi Presiden Prabowo Subianto, berdasar rekam jejaknya di sejumlah isu ekonomi.",
+  "image": "assets/img/ekonom-nilai-dasco-punya-modal-jadi-wapres.jpg",
+  "date": "22 November 2026",
+  "isoDate": "2026-11-22T18:45:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479766-ekonom-dasco-punya-modal-strategis-jadi-wapres-jaga-stabilitas-makroekonomi",
+  "tags": [
+   "Dasco",
+   "Wapres",
+   "DPR",
+   "INDEF"
+  ],
+  "body": [
+   "Kepala Pusat Ekonomi Makro dan Keuangan INDEF, M. Rizal Taufikurahman, menyebut Wakil Ketua DPR RI Sufmi Dasco Ahmad memiliki modal strategis untuk menjadi Wakil Presiden mendampingi Presiden Prabowo Subianto. Penilaian ini penting disimak karena menyangkut sosok yang disebut punya kemampuan menjembatani kepentingan politik sekaligus mengonsolidasikan kebijakan pemerintah lintas kementerian.",
+   "Rizal memaparkan sejumlah contoh konkret yang jadi dasar penilaiannya. Dasco disebut berperan saat polemik distribusi LPG 3 kilogram dengan mendorong gas bersubsidi itu kembali dijual di tingkat pengecer, serta dalam komunikasi kebijakan PPN 12 persen yang akhirnya hanya diberlakukan secara selektif untuk barang dan jasa mewah seperti rumah mewah, apartemen mewah, dan mobil mewah, baik produk dalam negeri maupun impor. Ia juga disebut terlibat mencari jalan keluar bagi persoalan pengemudi ojek daring serta merespons dinamika pasar keuangan belakangan ini.",
+   "Menurut Rizal, rangkaian peran tersebut mencerminkan kepekaan sosial dan kemampuan komunikasi politik yang dibutuhkan untuk menjaga stabilitas sosial, politik, dan ekonomi. Ia menyebutnya sebagai kapasitas koordinasi kebijakan dan kepemimpinan politik-ekonomi yang diperlukan untuk memperkecil jarak antara rancangan kebijakan dan pelaksanaannya di lapangan.",
+   "Di sisi lain, Rizal mengingatkan beban besar yang menanti seorang Wakil Presiden, yakni mengawal reformasi struktural, menjaga stabilitas makroekonomi beserta kredibilitas kebijakannya, dan memastikan kebijakan pemerintah berpihak pada kesejahteraan rakyat. Ia menilai Indonesia membutuhkan sosok Wapres yang tidak hanya cepat merespons masalah, tapi juga mampu mengantisipasi persoalan sebelum muncul akibat kelemahan kebijakan."
+  ],
+  "fotoAdegan": "A gas distributor arranging small LPG cylinders at a neighborhood kiosk while motorcycle riders wait nearby, late afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/10/06/6ac4c7c692917-wakil-ketua-dpr-ri-sufmi-dasco-ahmad-tangan-mengepal-menerima-aspirasi-buruh_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Perlu dicatat, ini adalah penilaian pribadi seorang ekonom INDEF, bukan pengumuman resmi dari pemerintah atau partai tentang pergantian Wakil Presiden. Berita ini tidak menyebutkan adanya proses formal apa pun, misalnya usulan di internal partai, pembahasan di DPR, atau mekanisme konstitusional untuk mengisi atau mengganti posisi Wapres saat ini. Contoh-contoh yang disebut, mulai dari penanganan distribusi gas melon, penyesuaian PPN barang mewah, hingga persoalan ojol, hanya menggambarkan rekam jejak Dasco sebagai Wakil Ketua DPR, bukan bukti bahwa proses penunjukan Wapres sedang berjalan. Yang masih kurang untuk memahami ke mana arah isu ini sebenarnya adalah konfirmasi dari Istana atau partai koalisi soal ada atau tidaknya rencana semacam itu, serta jadwal politik resmi bila memang ada agenda tersebut.",
+  "imageV": "mwrx0fsq"
+ },
+ {
   "slug": "indonesia-ue-teken-ieu-cepa-tarif-ekspor-turun-ke-nol-persen",
   "category": "Global",
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
@@ -28,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan intinya ada di angka tarif: dari sekitar 7 sampai 12 persen jadi nol persen untuk produk padat karya seperti tekstil, alas kaki, pakaian jadi, dan minyak sawit mentah begitu masuk pasar Eropa, sementara Indonesia membalas dengan melepas separuh pos tarif kendaraan asal Eropa secara bertahap dalam lima tahun. Yang paling langsung kena dampak adalah eksportir produk padat karya tadi, sementara importir kendaraan Eropa baru merasakan efeknya bertahap selama lima tahun ke depan. Arah yang lebih menentukan sekarang bukan soal isi perjanjian, tapi soal kecepatan ratifikasi, karena fasilitas keringanan tarif GSP yang selama ini dipakai Indonesia habis akhir 2026, sedangkan IEU-CEPA baru ditargetkan berlaku 1 Januari 2027. Kalau salah satu pihak telat meratifikasi, bisa muncul celah waktu tanpa keringanan tarif sama sekali, itu sebabnya penandatanganan sengaja dikejar hari Sabtu agar dokumennya langsung masuk proses internal Uni Eropa hari Senin. Yang perlu dipantau adalah apakah Peraturan Presiden di Indonesia dan proses ratifikasi di pihak Eropa selesai sebelum akhir tahun, karena itu yang menentukan ada tidaknya jeda tarif tersebut.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi",

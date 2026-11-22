@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonom-nilai-dasco-punya-modal-jadi-wapres",
+  "category": "Makroekonomi",
+  "title": "Ekonom Nilai Dasco Punya [Modal] Jadi Wapres",
+  "deck": "Ekonom INDEF menilai Wakil Ketua DPR Sufmi Dasco Ahmad punya modal strategis sebagai Wakil Presiden mendampingi Presiden Prabowo Subianto, berdasar rekam jejaknya di sejumlah isu ekonomi.",
+  "date": "22 November 2026",
+  "image": "assets/img/ekonom-nilai-dasco-punya-modal-jadi-wapres.jpg",
+  "imageV": "mwrx0fsq",
+  "tags": [
+   "Dasco",
+   "Wapres",
+   "DPR",
+   "INDEF"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479766-ekonom-dasco-punya-modal-strategis-jadi-wapres-jaga-stabilitas-makroekonomi"
+ },
+ {
   "slug": "indonesia-ue-teken-ieu-cepa-tarif-ekspor-turun-ke-nol-persen",
   "category": "Global",
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
@@ -6506,22 +6523,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478082-jasa-marga-perkuat-transparansi-publik-melalui-uji-publik-monev-kip-2026"
- },
- {
-  "slug": "menperin-dorong-kedaulatan-industri-telekomunikasi-nasional",
-  "category": "Industri",
-  "title": "Menperin Dorong [Kedaulatan] Industri Telekomunikasi Nasional",
-  "deck": "Menperin mengajak pelaku usaha telekomunikasi bersatu demi kedaulatan digital, bertepatan dengan terpilihnya Erikson Sianipar sebagai Ketua Umum Apnatel baru.",
-  "date": "12 November 2026",
-  "image": "assets/img/menperin-dorong-kedaulatan-industri-telekomunikasi-nasional.jpg",
-  "imageV": "mwdqzggt",
-  "tags": [
-   "telekomunikasi",
-   "Apnatel",
-   "kedaulatan digital",
-   "Kemenperin"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478077-menperin-dorong-kedaulatan-industri-telekomunikasi-ini-respons-apnatel"
  }
 ];

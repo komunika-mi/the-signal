@@ -55,7 +55,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status perjanjian ini, dari proses negosiasi menjadi resmi diteken, dengan rincian tarif yang jelas: 90,4 persen barang ekspor Indonesia ke Uni Eropa langsung bebas bea masuk, sementara 8,37 persen sisanya turun pelan-pelan dalam 3 sampai 15 tahun atau dibatasi jumlahnya lewat kuota. Yang paling terdampak adalah eksportir alas kaki, tekstil, dan produk olahan yang akan bersaing dengan harga lebih murah di pasar Eropa, serta perusahaan Eropa yang berencana membangun pabrik pengolahan di Indonesia. Tapi penandatanganan ini belum berarti tarif murah itu langsung berlaku, sebab perjanjian baru efektif pada 2027 setelah disahkan oleh parlemen kedua pihak dan setelah pemerintah menyiapkan aturan pelaksana di dalam negeri. Yang perlu dipantau adalah seberapa cepat proses pengesahan di DPR dan parlemen Eropa berjalan, serta kapan aturan pelaksana itu benar-benar terbit, karena dari situlah bisa diketahui apakah manfaat tarif ini terasa sesuai target 2027 atau malah molor.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "ri-uni-eropa-tandatangani-cepa-98-tarif-dagang-dipangkas",

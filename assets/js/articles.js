@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan intinya ada di angka tarif: dari sekitar 7 sampai 12 persen jadi nol persen untuk produk padat karya seperti tekstil, alas kaki, pakaian jadi, dan minyak sawit mentah begitu masuk pasar Eropa, sementara Indonesia membalas dengan melepas separuh pos tarif kendaraan asal Eropa secara bertahap dalam lima tahun. Yang paling langsung kena dampak adalah eksportir produk padat karya tadi, sementara importir kendaraan Eropa baru merasakan efeknya bertahap selama lima tahun ke depan. Arah yang lebih menentukan sekarang bukan soal isi perjanjian, tapi soal kecepatan ratifikasi, karena fasilitas keringanan tarif GSP yang selama ini dipakai Indonesia habis akhir 2026, sedangkan IEU-CEPA baru ditargetkan berlaku 1 Januari 2027. Kalau salah satu pihak telat meratifikasi, bisa muncul celah waktu tanpa keringanan tarif sama sekali, itu sebabnya penandatanganan sengaja dikejar hari Sabtu agar dokumennya langsung masuk proses internal Uni Eropa hari Senin. Yang perlu dipantau adalah apakah Peraturan Presiden di Indonesia dan proses ratifikasi di pihak Eropa selesai sebelum akhir tahun, karena itu yang menentukan ada tidaknya jeda tarif tersebut.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "lada-motasa-tertahan-di-taiwan-bukan-lewat-ekspor-resmi",

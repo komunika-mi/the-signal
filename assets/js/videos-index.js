@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "_vfrkwgVZ5s",
+  "title": "Indonesia dan Uni Eropa Perkuat Kerja Sama Perdagangan",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Indonesia dan Uni Eropa menandatangani dua perjanjian ekonomi, IEU-CEPA dan IPA, yang diharapkan memperluas ekspor Indonesia ke pasar Eropa.",
+  "takeaway": "Kesepakatan ini relevan bagi pembaca ekonomi karena membuka peluang akses pasar baru bagi eksportir dan investor Indonesia di Uni Eropa."
+ },
+ {
   "id": "eiPZzaWLy_U",
   "title": "Lawatan Presiden Prabowo ke China Hasilkan Kerja Sama Rp1.600 Triliun",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Menteri Keuangan Suahasil Nazara meminta dukungan masyarakat untuk mengamankan target penerimaan pajak tahun anggaran 2026, setelah realisasi pajak tercatat kurang Rp514 triliun dari target.",
   "takeaway": "Kekurangan penerimaan pajak sebesar itu menyangkut ruang fiskal pemerintah untuk belanja dan program tahun depan, sehingga penting dipantau pembaca ekonomi."
- },
- {
-  "id": "HLKO-HUZy5U",
-  "title": "GAPKI Gelar Konferensi Sawit Terbesar di Dunia di Bali",
-  "category": "Industri",
-  "program": "Kabar Utama",
-  "summary": "GAPKI menggelar Indonesian Palm Oil Conference (IPOC) 2026 di Bali mulai 12 November 2026, sekaligus membahas proyeksi harga sawit untuk 2027.",
-  "takeaway": "Forum ini penting bagi pembaca ekonomi karena menjadi acuan pelaku industri sawit dalam memproyeksikan harga komoditas unggulan ekspor Indonesia."
  }
 ];

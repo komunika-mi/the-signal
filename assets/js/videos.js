@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "_vfrkwgVZ5s",
+  "title": "Indonesia dan Uni Eropa Perkuat Kerja Sama Perdagangan",
+  "category": "Global",
+  "program": "Kabar Petang",
+  "summary": "Indonesia dan Uni Eropa menandatangani dua perjanjian ekonomi, IEU-CEPA dan IPA, yang diharapkan memperluas ekspor Indonesia ke pasar Eropa.",
+  "takeaway": "Kesepakatan ini relevan bagi pembaca ekonomi karena membuka peluang akses pasar baru bagi eksportir dan investor Indonesia di Uni Eropa.",
+  "terbit": "2026-11-22T11:21:06+00:00"
+ },
+ {
   "id": "eiPZzaWLy_U",
   "title": "Lawatan Presiden Prabowo ke China Hasilkan Kerja Sama Rp1.600 Triliun",
   "category": "Global",

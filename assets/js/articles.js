@@ -3,6 +3,139 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kppu-dalami-dugaan-persekongkolan-tender-pasar-ciparay",
+  "category": "Bisnis",
+  "title": "KPPU Dalami Dugaan [Persekongkolan] Tender Pasar Ciparay",
+  "deck": "KPPU memeriksa saksi dari pemerintah Kabupaten Bandung terkait dugaan persekongkolan dalam pemilihan mitra revitalisasi Pasar Ciparay, menyoroti dokumen perencanaan yang tak lengkap.",
+  "image": "assets/img/kppu-dalami-dugaan-persekongkolan-tender-pasar-ciparay.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:09:20.931Z",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-dalami-transparansi-pemilihan-mitra-revitalisasi-pasar-ciparay-soroti-dokumen-perencanaan-dan-skema-bgs",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha",
+  "tags": [],
+  "body": [
+   "Komisi Pengawas Persaingan Usaha (KPPU) menggelar sidang pemeriksaan lanjutan untuk menelusuri dugaan persekongkolan dalam proyek revitalisasi Pasar Desa Ciparay, Kabupaten Bandung. Pemeriksaan ini menjadi bagian dari perkara dugaan pelanggaran Pasal 22 Undang-Undang Nomor 5 Tahun 1999 tentang larangan praktik monopoli dan persaingan usaha tidak sehat, yang menyasar proses pemilihan mitra pembangunan pasar tersebut.",
+   "Sidang yang berlangsung Senin, 23 November 2026 di Kantor KPPU Jakarta itu dipimpin Anggota KPPU Budi Joyo Santoso bersama Aru Armando sebagai Majelis Komisi. Dua saksi investigator dihadirkan, yakni Kepala Bidang Administrasi Pemerintahan Desa Kabupaten Bandung Ari Zakaria dan Analis Kebijakan Ahli Muda Dinas Pemberdayaan Masyarakat dan Desa (DPMD) Kabupaten Bandung Ahmad Sodikin. Empat pihak berstatus Terlapor dalam perkara ini, yaitu PT Pradasa, PT Rajo Rekayasa Konstruksi, PT Inti Karunia Alam, dan Panitia Beauty Contest.",
+   "Dalam kesaksiannya, Ari Zakaria mengaku tidak pernah menerima atau melihat dokumen perencanaan proyek, seperti studi kelayakan, rancangan teknis bangunan, maupun kajian nilai kontribusi yang menjadi dasar kerja sama. Padahal dokumen itu semestinya menjadi syarat pengajuan izin pemanfaatan aset desa kepada bupati. Ari juga menyampaikan bahwa Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2016 tentang pengelolaan aset desa belum mengatur secara rinci mekanisme pemilihan mitra, berbeda dari aturan serupa untuk aset milik daerah yang mewajibkan tahapan lebih jelas.",
+   "Pemeriksaan terhadap Ahmad Sodikin difokuskan pada pelaksanaan beauty contest, yakni mekanisme pemilihan mitra tanpa lelang terbuka, yang digunakan dalam proyek ini. KPPU menjadwalkan sidang lanjutan pada Selasa, 24 November 2026, dengan agenda pemeriksaan saksi investigator dan saksi dari Terlapor I, PT Pradasa."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://kppu.go.id/uploads/news/1795426886_6b040a46f415a_3ed38902-cc68-41b3-874d-1c2d492be320.jpeg",
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "takeaway": "Yang terungkap dalam sidang ini bukan sekadar prosedur administrasi yang berantakan, melainkan celah aturan: regulasi pengelolaan aset desa, tidak seperti aturan untuk aset milik pemerintah daerah, memang tidak mewajibkan lelang terbuka saat memilih mitra swasta. Pihak yang terdampak langsung adalah tiga perusahaan konstruksi yang jadi Terlapor serta Panitia Beauty Contest, sementara dampak tidak langsungnya menyentuh pedagang Pasar Ciparay yang pasarnya sedang dibangun ulang. Dari bukti yang muncul sejauh ini, ada dua kemungkinan arah: pertama, KPPU menemukan unsur persekongkolan yang disengaja di balik ketidaklengkapan dokumen; kedua, proses ini ternyata sah secara teknis karena aturannya memang longgar, sehingga sulit dibuktikan sebagai pelanggaran. Sidang lanjutan Selasa, 24 November 2026, yang memeriksa saksi dari Terlapor I, akan jadi penentu arah mana yang lebih kuat buktinya.",
+  "imageV": "mwt42caz"
+ },
+ {
+  "slug": "35-kesepakatan-ri-tiongkok-diteken-di-shenzhen-rp274-triliun",
+  "category": "Bisnis",
+  "title": "35 Kesepakatan RI-Tiongkok Diteken di Shenzhen, [Rp274 Triliun]",
+  "deck": "Presiden Prabowo Subianto menyaksikan penandatanganan 35 kesepakatan bisnis Indonesia-Tiongkok di Shenzhen dengan rencana investasi US$15,76 miliar dan proyeksi 30.461 tenaga kerja.",
+  "image": "assets/img/35-kesepakatan-ri-tiongkok-diteken-di-shenzhen-rp274-triliun.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:07:43.707Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/35-kesepakatan-bisnis-indonesia-tiongkok-diteken-di-shenzhen-rencana-investasi-tembus-rp274-triliun",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "Investasi",
+   "Tiongkok",
+   "BKPM",
+   "Shenzhen"
+  ],
+  "body": [
+   "Pemerintah Indonesia dan sejumlah perusahaan Tiongkok menandatangani 35 kesepakatan bisnis di Shenzhen, disaksikan langsung oleh Presiden Prabowo Subianto dalam rangkaian kunjungannya menghadiri KTT Asia-Pacific Economic Cooperation (APEC) ke-33. Forum bisnis ini digelar oleh Kadin Indonesia bersama Kadin Indonesia Komite Tiongkok dan Kementerian Investasi dan Hilirisasi/BKPM. Total rencana investasi dari seluruh kesepakatan tercatat US$15,76 miliar, setara sekitar Rp274 triliun berdasarkan kurs 20 November 2026, dengan proyeksi menyerap 30.461 tenaga kerja.",
+   "Dari 35 kesepakatan tersebut, 30 di antaranya masih berbentuk nota kesepahaman (MoU) senilai US$12,5 miliar, terdiri dari 19 rencana investasi baru senilai US$9,83 miliar dan 11 rencana perluasan usaha senilai US$2,67 miliar. Lima kesepakatan sisanya, senilai US$3,26 miliar, merupakan proyek yang sudah memasuki tahap konstruksi, artinya pembangunan fisiknya sudah berjalan, bukan sekadar rencana di atas kertas.",
+   "Berdasarkan sektor, nilai investasi terbesar mengalir ke kawasan industri terintegrasi sebesar US$4,70 miliar atau 30 persen dari total, disusul sektor kimia dan petrokimia senilai US$4,30 miliar atau 27 persen, serta sektor energi yang mencakup gas alam cair, bahan bakar nabati, dan tenaga surya senilai US$2,05 miliar atau 13 persen. Sisa kesepakatan tersebar di sektor manufaktur, kesehatan dan farmasi, ekonomi dan keuangan digital, hilirisasi mineral dan baterai, pengolahan sampah menjadi energi, serta pangan dan agribisnis.",
+   "Kesepakatan dalam forum bisnis ini terpisah dari empat nota kesepahaman kerja sama strategis senilai US$71,8 miliar yang penandatanganannya juga disaksikan Presiden Prabowo Subianto di Shenzhen pada 18 November 2026. Kementerian Investasi dan Hilirisasi/BKPM menyatakan akan mengawal proses lanjutan kesepakatan ini, mulai dari pengurusan izin hingga realisasi di lapangan."
+  ],
+  "fotoAdegan": "Workers in hard hats inspecting steel pipelines at a sprawling petrochemical industrial complex under construction, overcast sky",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/WdUgfFsmG35XEYyqYm8w0hr7oCM7jT.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang konkret berubah adalah komposisi angkanya: dari 35 kesepakatan senilai US$15,76 miliar, baru 5 proyek senilai US$3,26 miliar yang sudah masuk tahap konstruksi, sementara 30 lainnya senilai US$12,5 miliar masih berupa nota kesepahaman, yaitu pernyataan niat kerja sama yang belum tentu berubah jadi investasi nyata. Pihak yang paling terdampak kalau rencana ini terealisasi adalah pekerja di kawasan industri terintegrasi dan sektor kimia-petrokimia, karena dua sektor itu menyerap porsi terbesar dari total rencana investasi. Arah yang terlihat adalah pemerintah terus mengumpulkan komitmen investasi besar dari Tiongkok dalam setiap kunjungan, termasuk US$71,8 miliar yang diteken terpisah sepekan sebelumnya, tapi pola nota kesepahaman semacam ini punya sejarah tidak semuanya terealisasi penuh. Yang akan memperjelas apakah komitmen Shenzhen ini benar-benar berubah jadi proyek berjalan adalah laporan realisasi investasi BKPM pada kuartal-kuartal mendatang, yang biasanya merinci berapa dari rencana investasi asing yang sudah terserap jadi kegiatan usaha.",
+  "imageV": "mwt42dm8"
+ },
+ {
+  "slug": "esdm-pastikan-tidak-ada-izin-tambang-di-ujung-kulon",
+  "category": "Energi",
+  "title": "ESDM Pastikan [Tidak] Ada Izin Tambang di Ujung Kulon",
+  "deck": "Menteri ESDM Bahlil Lahadalia menegaskan tidak akan ada izin pertambangan di Taman Nasional Ujung Kulon, menanggapi isu yang beredar di masyarakat.",
+  "image": "assets/img/esdm-pastikan-tidak-ada-izin-tambang-di-ujung-kulon.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:07:33.103Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/rumah-badak-jawa-tetap-terlindungi-bahlil-pastikan-tak-ada-izin-tambang-di-ujung-kulon",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "Ujung Kulon",
+   "ESDM",
+   "Pertambangan",
+   "Konservasi"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Hilirisasi dan Energi yang juga Menteri ESDM, Bahlil Lahadalia, menegaskan bahwa izin pertambangan tidak akan pernah diterbitkan di Taman Nasional Ujung Kulon, Banten, kawasan yang menjadi habitat terakhir badak jawa. Penegasan itu disampaikan dalam konferensi pers pertama Kementerian Koordinator Hilirisasi dan Energi, Senin (23/11), untuk meluruskan informasi yang beredar di masyarakat yang mengaitkan penetapan wilayah pertambangan dengan kawasan konservasi tersebut.",
+   "Bahlil menjelaskan bahwa sejak 2014 pemerintah telah memetakan daerah yang memiliki potensi cadangan mineral, dengan pembaruan pada 2017 dan 2022 berdasarkan usulan pemerintah daerah. Taman nasional, menurut dia, tidak termasuk dalam pemetaan wilayah pertambangan tersebut. Hingga saat ini, baik Wilayah Izin Usaha Pertambangan (WIUP) maupun Izin Usaha Pertambangan (IUP) belum pernah diterbitkan untuk kawasan Ujung Kulon.",
+   "Ia menegaskan bahwa penetapan wilayah pertambangan baru merupakan tahap awal pendataan cadangan oleh Badan Geologi, dan masih harus melalui dua tahap lagi, yakni penerbitan WIUP lalu IUP, sebelum kegiatan tambang bisa benar-benar berjalan. Ketentuan ini juga berlaku untuk Keputusan Menteri ESDM Nomor 65.K Tahun 2026 tentang Penetapan Wilayah Pertambangan Provinsi Banten, yang menurut Bahlil belum diikuti oleh satu pun penerbitan izin.",
+   "Penegasan ini merupakan klarifikasi kedua dari pemerintah terkait isu tersebut, setelah Kementerian ESDM sebelumnya telah mengeluarkan siaran pers serupa pada 17 November 2026."
+  ],
+  "fotoAdegan": "A ranger walking a narrow trail through dense coastal rainforest at the edge of a national park, humid morning haze over the canopy",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-rumah-badak-jawa-tetap-terlindungi-bahlil-pastikan-tak-ada-izin-tambang-di-ujung-kulon-8p3ozye.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang sebenarnya terjadi bukan larangan baru, melainkan penegasan ulang bahwa penetapan kawasan pertambangan di Provinsi Banten lewat Keputusan Menteri ESDM Nomor 65.K Tahun 2026 tidak otomatis berarti izin tambang akan keluar di Taman Nasional Ujung Kulon. Proses izin tambang sendiri berjalan tiga tahap, dari penentuan wilayah yang punya cadangan mineral, lalu izin wilayahnya, baru izin usaha pertambangannya, dan kawasan konservasi seperti Ujung Kulon memang tidak masuk dalam pemetaan sejak awal. Yang paling terdampak oleh isu ini adalah warga sekitar dan pegiat konservasi yang mengkhawatirkan habitat badak jawa, karena kekhawatiran itulah yang membuat pemerintah perlu mengklarifikasi hal yang sama dua kali, pada 17 dan 23 November. Yang belum jelas adalah mengapa klarifikasi ini perlu diulang begitu cepat, apakah karena ada usulan daerah baru yang memperluas Kepmen 65.K atau sekadar kekhawatiran publik yang belum reda. Yang akan menjawabnya adalah apakah pemerintah kemudian menerbitkan penegasan tertulis yang mengecualikan Ujung Kulon secara eksplisit dari kepmen tersebut, bukan sekadar pernyataan lisan di konferensi pers.",
+  "imageV": "mwt42f74"
+ },
+ {
+  "slug": "pemerintah-rumuskan-skema-70-persen-tambang-untuk-negara",
+  "category": "Energi",
+  "title": "Pemerintah Rumuskan Skema [70 Persen] Tambang untuk Negara",
+  "deck": "Pemerintah merumuskan skema agar 70 persen manfaat sektor tambang menjadi bagian negara, mengacu pada Pasal 33 UUD 1945 dan arahan Presiden Prabowo Subianto.",
+  "image": "assets/img/pemerintah-rumuskan-skema-70-persen-tambang-untuk-negara.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:07:32.283Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-tambang-untuk-sekolah-hingga-air-bersih-pemerintah-rumuskan-skema-70-persen-bagi-negara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "tambang",
+   "ESDM",
+   "Pasal 33 UUD 1945",
+   "Bahlil Lahadalia"
+  ],
+  "body": [
+   "Pemerintah sedang menyiapkan skema agar 70 persen manfaat dari sektor pertambangan menjadi bagian negara, sesuai arahan Presiden Prabowo Subianto. Jika benar diterapkan, skema ini bisa mengubah porsi keuntungan yang selama ini dinikmati perusahaan tambang menjadi lebih banyak mengalir ke kas negara, meski bentuk pastinya masih dirumuskan dan belum final.",
+   "Menteri Koordinator Bidang Hilirisasi dan Energi yang juga Menteri ESDM, Bahlil Lahadalia, menyampaikan hal ini seusai rapat koordinasi perdana Kemenko Hilirisasi dan Energi di Jakarta, Senin (23/11). Ia menyebut dasar hukumnya adalah Pasal 33 UUD 1945, yang mengamanatkan kekayaan alam dikuasai negara untuk sebesar-besarnya kemakmuran rakyat. Menurutnya, arahan Presiden itu baru sebatas perintah awal dan pemerintah masih memformulasikan pelaksanaannya.",
+   "Bahlil menjelaskan ada dua pendekatan berbeda. Untuk kegiatan tambang yang sudah berjalan, pemerintah mendorong agar 70 persen dari pendapatannya menjadi bagian negara, sambil tetap menghormati kontrak yang sudah disepakati sebelumnya demi menjaga kepastian berusaha. Untuk tambang yang akan datang, pemerintah masih menimbang dua opsi, yakni penguasaan 70 persen lewat kepemilikan saham di perusahaan tambang, atau lewat porsi pendapatannya saja.",
+   "Bahlil mengatakan dana dari sektor tambang dibutuhkan untuk membiayai pembangunan sekolah, infrastruktur, ekonomi daerah, air bersih, hingga kota-kota baru. Ia menambahkan bahwa cara pandang pemerintah terhadap sumber daya alam kini bergeser dari sekadar memastikan kegiatan tambang berjalan, menjadi mengoptimalkan manfaatnya bagi negara. Koordinasi dengan Presiden Prabowo Subianto akan terus berlanjut hingga skema ini rampung dirumuskan."
+  ],
+  "fotoAdegan": "Aerial view of an open-pit mine with heavy excavators and haul trucks on reddish terrain under a hazy tropical sky in Indonesia.",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-hasil-tambang-untuk-sekolah-hingga-air-bersih-pemerintah-rumuskan-skema-70-persen-bagi-negara-9jghd4q.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Dua opsi yang disebut Bahlil untuk tambang masa depan sebenarnya berbeda jauh dampaknya. Opsi kepemilikan saham berarti negara punya kursi langsung di perusahaan tambang dan ikut menentukan keputusan bisnisnya, sementara opsi pendapatan hanya menaikkan porsi setoran ke negara tanpa mengubah siapa yang mengendalikan perusahaan. Sinyal yang lebih kuat justru ada di tambang yang sudah berjalan, karena Bahlil menegaskan kontrak lama akan dihormati, yang mengarah ke opsi pendapatan ketimbang pengambilan saham untuk kasus itu. Pihak yang paling kena dampak adalah perusahaan tambang eksisting dan calon investor tambang baru, karena kepastian struktur kepemilikan memengaruhi hitungan bisnis mereka. Yang perlu dipantau adalah rumusan final dari Kemenko Hilirisasi dan Energi, yang menurut Bahlil belum punya tenggat waktu pasti.",
+  "imageV": "mwt42gxo"
+ },
+ {
+  "slug": "kemendes-dorong-pemuda-desa-garap-melon-hidroponik",
+  "category": "UMKM",
+  "title": "Kemendes Dorong Pemuda Desa Garap [Melon Hidroponik]",
+  "deck": "Staf ahli Kementerian Desa mendorong pemuda Probolinggo yang putus kuliah beralih ke budi daya melon hidroponik sebagai jalan ekonomi baru bagi desa.",
+  "image": "assets/img/kemendes-dorong-pemuda-desa-garap-melon-hidroponik.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T15:53:56+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479897-bantu-pemuda-desa-staf-ahli-kemendes-dukung-pertanian-modern-melon-hidroponik",
+  "tags": [
+   "melon hidroponik",
+   "Kementerian Desa",
+   "ekonomi desa",
+   "pertanian modern"
+  ],
+  "body": [
+   "Staf Ahli Kementerian Desa, Ahmad Abdul Qodir yang akrab disapa Gus Qodir, memberi perhatian khusus kepada Muhammad Safdanal Akfan, pemuda asal Probolinggo yang terpaksa berhenti kuliah karena tidak mampu membiayai pendidikannya. Alih-alih membiarkan latar belakang ilmu biologinya menganggur, Gus Qodir mendorong Safdanal mengarahkan keahlian itu ke usaha pertanian modern, yakni budi daya melon dengan sistem hidroponik. Kisah ini menyentuh isu yang lebih luas, yaitu bagaimana keterbatasan ekonomi di desa bisa diubah jadi peluang usaha baru lewat pendampingan yang tepat.",
+   "Gus Qodir menyebut melon hidroponik punya nilai ekonomi tinggi dengan pasar yang luas, bahkan berpotensi menembus luar negeri, meski belum merinci angka investasi atau target produksinya. Ia menilai sistem hidroponik memungkinkan hasil panen yang lebih terukur dan berkelanjutan dibanding pertanian konvensional. \"Saya prihatin melihat anak muda seperti Muhammad Safdanal Akfan yang putus kuliah karena faktor biaya. Saya coba dorong generasi muda memiliki potensi besar untuk ikut memperkuat ketahanan pangan sekaligus meningkatkan nilai ekonomi hasil pertanian,\" ujar Gus Qodir, Minggu (22/11/2026).",
+   "Gus Qodir berharap langkah Safdanal bisa jadi contoh bagi pemuda desa lain untuk berani berinovasi di sektor pertanian. Ia menegaskan bahwa ketahanan pangan bukan hanya tanggung jawab pemerintah, melainkan juga membutuhkan keterlibatan masyarakat dan generasi muda yang berani membangun usaha pertanian sendiri. Bagi Kementerian Desa, kisah ini menjadi bukti bahwa keterbatasan ekonomi tidak harus menghentikan seseorang untuk tetap produktif dan berkontribusi pada kemandirian pangan di tingkat lokal."
+  ],
+  "fotoAdegan": "Rows of melon vines growing on hydroponic racks inside a plastic greenhouse, a young farmer checking drip irrigation lines, soft daylight.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/23/6b03fe5d03340-staf-ahli-kementerian-desa-ahmad-abdul-qodir-gus-qodir-memberikan-perhatian-khusus-kepada-muhammad-safdanal-akfan-pemuda-asal-probolinggo-yang-berhenti-kuliah-karena-keterbatasan-biaya_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan kebijakan atau anggaran baru, melainkan dorongan personal dari seorang pejabat Kementerian Desa kepada satu pemuda putus kuliah di Probolinggo untuk beralih ke usaha melon hidroponik. Pihak yang jelas terdampak adalah Safdanal sendiri, dan secara tidak langsung pemuda desa lain yang disebut sebagai contoh untuk mengikuti jalan serupa. Berita ini belum menyebut hal konkret seperti berapa modal yang dibutuhkan, siapa yang menanggung biayanya, atau apakah ada skema pendampingan resmi dari Kementerian Desa, sehingga belum bisa dipastikan apakah ini bagian dari program yang akan diperluas atau sekadar dukungan untuk satu kasus yang disorot media. Yang perlu dipantau selanjutnya adalah apakah Kementerian Desa benar-benar menindaklanjuti dengan program pembiayaan atau pelatihan hidroponik yang menyasar lebih banyak pemuda desa, bukan hanya satu nama yang muncul di pemberitaan.",
+  "imageV": "mwt42hbl"
+ },
+ {
   "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
   "category": "Aksi Korporasi",
   "title": "BVIC: Chemical Asia [Jual] 283,18 Juta Saham, Suara Jadi 7,26%",
@@ -349,7 +482,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Data ini menunjukkan percepatan uang beredar Oktober bukan berasal dari kredit yang mengalir lebih kencang ke dunia usaha, melainkan dari aktiva luar negeri bersih yang berbalik dari kontraksi 6,9 persen menjadi tumbuh 2,0 persen, sementara kredit justru sedikit melambat dari 12,8 menjadi 12,7 persen. Artinya, meski total dana di sistem keuangan terlihat membesar, perbankan dan pelaku usaha yang mengandalkan pembiayaan belum tentu merasakan kondisi yang lebih longgar. Pihak yang paling terdampak adalah kalangan perbankan dan dunia usaha yang bergantung pada kredit, karena pertumbuhan dana di sistem belum otomatis berarti pasokan kredit baru yang lebih besar. Yang perlu dicermati adalah apakah pertumbuhan kredit mulai ikut terangkat atau tetap tertahan di kisaran 12 persen, dan itu akan terlihat dari rilis statistik uang beredar BI untuk November 2026.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "hrum-bara-sejahtera-abadi-borong-6-76-miliar-saham-suara-50-09",

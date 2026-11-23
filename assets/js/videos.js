@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "c9TOyeM9G30",
+  "title": "Tekanan Ekonomi AS Dinilai Lebih Berat bagi Iran Dibanding Serangan Rudal",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Presiden Iran Masoud Pezeshkian mengakui tekanan ekonomi Amerika Serikat terhadap Iran dirasa lebih berat dibandingkan ancaman serangan militer.",
+  "takeaway": "Dinamika sanksi dan tekanan ekonomi ini relevan bagi pembaca yang memantau risiko geopolitik terhadap pasar energi dan perdagangan internasional.",
+  "terbit": "2026-11-23T09:30:02+00:00"
+ },
+ {
+  "id": "xPXGjwQ8MpE",
+  "title": "Menaker: Nyawa Pekerja Tak Bisa Dinilai dengan Apapun",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Ketenagakerjaan membentuk tim investigasi untuk menelusuri penerapan sistem Keselamatan dan Kesehatan Kerja (K3) di perusahaan yang pabriknya terbakar di Cikande, Banten.",
+  "takeaway": "Investigasi K3 ini penting bagi pembaca karena menyangkut standar keselamatan kerja yang berdampak pada operasional dan reputasi industri manufaktur.",
+  "terbit": "2026-11-23T09:05:47+00:00"
+ },
+ {
+  "id": "OjQD90an3MU",
+  "title": "Perusahaan Permen Terbakar, Said Iqbal: Diduga Tak Penuhi K3",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Said Iqbal, Penasihat Khusus Presiden Bidang Ketenagakerjaan, mendesak aparat mengusut dugaan pelanggaran K3 di pabrik permen yang terbakar di Cikande, Banten.",
+  "takeaway": "Dugaan pelanggaran K3 ini relevan bagi pembaca ekonomi karena menyoroti risiko kepatuhan regulasi yang bisa mempengaruhi keberlangsungan bisnis industri manufaktur.",
+  "terbit": "2026-11-23T09:01:54+00:00"
+ },
+ {
   "id": "b2FoINu63ow",
   "title": "Harga Pakan Ayam Naik, Peternak Tertekan Biaya Produksi",
   "category": "Industri",

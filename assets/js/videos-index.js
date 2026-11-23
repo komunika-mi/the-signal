@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "c9TOyeM9G30",
+  "title": "Tekanan Ekonomi AS Dinilai Lebih Berat bagi Iran Dibanding Serangan Rudal",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Presiden Iran Masoud Pezeshkian mengakui tekanan ekonomi Amerika Serikat terhadap Iran dirasa lebih berat dibandingkan ancaman serangan militer.",
+  "takeaway": "Dinamika sanksi dan tekanan ekonomi ini relevan bagi pembaca yang memantau risiko geopolitik terhadap pasar energi dan perdagangan internasional."
+ },
+ {
+  "id": "xPXGjwQ8MpE",
+  "title": "Menaker: Nyawa Pekerja Tak Bisa Dinilai dengan Apapun",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Ketenagakerjaan membentuk tim investigasi untuk menelusuri penerapan sistem Keselamatan dan Kesehatan Kerja (K3) di perusahaan yang pabriknya terbakar di Cikande, Banten.",
+  "takeaway": "Investigasi K3 ini penting bagi pembaca karena menyangkut standar keselamatan kerja yang berdampak pada operasional dan reputasi industri manufaktur."
+ },
+ {
+  "id": "OjQD90an3MU",
+  "title": "Perusahaan Permen Terbakar, Said Iqbal: Diduga Tak Penuhi K3",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Merah Putih",
+  "summary": "Said Iqbal, Penasihat Khusus Presiden Bidang Ketenagakerjaan, mendesak aparat mengusut dugaan pelanggaran K3 di pabrik permen yang terbakar di Cikande, Banten.",
+  "takeaway": "Dugaan pelanggaran K3 ini relevan bagi pembaca ekonomi karena menyoroti risiko kepatuhan regulasi yang bisa mempengaruhi keberlangsungan bisnis industri manufaktur."
+ },
+ {
   "id": "b2FoINu63ow",
   "title": "Harga Pakan Ayam Naik, Peternak Tertekan Biaya Produksi",
   "category": "Industri",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Rendahnya literasi digital membuat masyarakat Indonesia rentan menjadi sasaran kejahatan siber, di tengah gelombang serangan yang kini menghantam sektor keuangan global.",
   "takeaway": "Relevan bagi pembaca karena literasi digital yang lemah berpotensi memperbesar risiko keamanan sistem keuangan nasional."
- },
- {
-  "id": "KQ1k68aYjqg",
-  "title": "Ekonom Senior: Tiga Hal Penting Cegah Serangan Siber Perbankan",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "Seorang ekonom senior memaparkan tiga langkah utama yang perlu disiapkan sektor perbankan untuk mengantisipasi gelombang serangan siber yang melanda sektor keuangan global.",
-  "takeaway": "Penting bagi pembaca karena membahas langkah mitigasi risiko yang berdampak langsung pada stabilitas sistem perbankan."
- },
- {
-  "id": "0cMVjV42Hks",
-  "title": "Serangan Siber Hantam Sektor Keuangan, Apa Langkah Negara?",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "Diskusi ini membahas langkah yang perlu diambil negara menghadapi lonjakan serangan siber yang menghantam sektor keuangan di berbagai negara, termasuk Indonesia.",
-  "takeaway": "Relevan karena menyoroti peran kebijakan negara dalam melindungi stabilitas sektor keuangan dari ancaman siber."
- },
- {
-  "id": "p0a1bcd2eBs",
-  "title": "5 Miliar Serangan Siber Sepanjang 2025, Pakar: Jangan Panik",
-  "category": "Teknologi",
-  "program": "Indonesia Business Forum",
-  "summary": "Pakar keamanan siber mengungkap lonjakan serangan siber global ke sektor keuangan sepanjang 2025 dan mengimbau publik tetap waspada tanpa panik.",
-  "takeaway": "Data skala serangan siber ini penting bagi pembaca untuk memahami besarnya risiko yang dihadapi sektor keuangan saat ini."
  }
 ];

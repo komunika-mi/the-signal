@@ -5,6 +5,90 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-dalami-dugaan-persekongkolan-tender-pasar-ciparay",
+  "category": "Bisnis",
+  "title": "KPPU Dalami Dugaan [Persekongkolan] Tender Pasar Ciparay",
+  "deck": "KPPU memeriksa saksi dari pemerintah Kabupaten Bandung terkait dugaan persekongkolan dalam pemilihan mitra revitalisasi Pasar Ciparay, menyoroti dokumen perencanaan yang tak lengkap.",
+  "date": "23 November 2026",
+  "image": "assets/img/kppu-dalami-dugaan-persekongkolan-tender-pasar-ciparay.jpg",
+  "imageV": "mwt42caz",
+  "tags": [],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-dalami-transparansi-pemilihan-mitra-revitalisasi-pasar-ciparay-soroti-dokumen-perencanaan-dan-skema-bgs",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "35-kesepakatan-ri-tiongkok-diteken-di-shenzhen-rp274-triliun",
+  "category": "Bisnis",
+  "title": "35 Kesepakatan RI-Tiongkok Diteken di Shenzhen, [Rp274 Triliun]",
+  "deck": "Presiden Prabowo Subianto menyaksikan penandatanganan 35 kesepakatan bisnis Indonesia-Tiongkok di Shenzhen dengan rencana investasi US$15,76 miliar dan proyeksi 30.461 tenaga kerja.",
+  "date": "23 November 2026",
+  "image": "assets/img/35-kesepakatan-ri-tiongkok-diteken-di-shenzhen-rp274-triliun.jpg",
+  "imageV": "mwt42dm8",
+  "tags": [
+   "Investasi",
+   "Tiongkok",
+   "BKPM",
+   "Shenzhen"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/35-kesepakatan-bisnis-indonesia-tiongkok-diteken-di-shenzhen-rencana-investasi-tembus-rp274-triliun",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "esdm-pastikan-tidak-ada-izin-tambang-di-ujung-kulon",
+  "category": "Energi",
+  "title": "ESDM Pastikan [Tidak] Ada Izin Tambang di Ujung Kulon",
+  "deck": "Menteri ESDM Bahlil Lahadalia menegaskan tidak akan ada izin pertambangan di Taman Nasional Ujung Kulon, menanggapi isu yang beredar di masyarakat.",
+  "date": "23 November 2026",
+  "image": "assets/img/esdm-pastikan-tidak-ada-izin-tambang-di-ujung-kulon.jpg",
+  "imageV": "mwt42f74",
+  "tags": [
+   "Ujung Kulon",
+   "ESDM",
+   "Pertambangan",
+   "Konservasi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/rumah-badak-jawa-tetap-terlindungi-bahlil-pastikan-tak-ada-izin-tambang-di-ujung-kulon",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "pemerintah-rumuskan-skema-70-persen-tambang-untuk-negara",
+  "category": "Energi",
+  "title": "Pemerintah Rumuskan Skema [70 Persen] Tambang untuk Negara",
+  "deck": "Pemerintah merumuskan skema agar 70 persen manfaat sektor tambang menjadi bagian negara, mengacu pada Pasal 33 UUD 1945 dan arahan Presiden Prabowo Subianto.",
+  "date": "23 November 2026",
+  "image": "assets/img/pemerintah-rumuskan-skema-70-persen-tambang-untuk-negara.jpg",
+  "imageV": "mwt42gxo",
+  "tags": [
+   "tambang",
+   "ESDM",
+   "Pasal 33 UUD 1945",
+   "Bahlil Lahadalia"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-tambang-untuk-sekolah-hingga-air-bersih-pemerintah-rumuskan-skema-70-persen-bagi-negara",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "kemendes-dorong-pemuda-desa-garap-melon-hidroponik",
+  "category": "UMKM",
+  "title": "Kemendes Dorong Pemuda Desa Garap [Melon Hidroponik]",
+  "deck": "Staf ahli Kementerian Desa mendorong pemuda Probolinggo yang putus kuliah beralih ke budi daya melon hidroponik sebagai jalan ekonomi baru bagi desa.",
+  "date": "23 November 2026",
+  "image": "assets/img/kemendes-dorong-pemuda-desa-garap-melon-hidroponik.jpg",
+  "imageV": "mwt42hbl",
+  "tags": [
+   "melon hidroponik",
+   "Kementerian Desa",
+   "ekonomi desa",
+   "pertanian modern"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479897-bantu-pemuda-desa-staf-ahli-kemendes-dukung-pertanian-modern-melon-hidroponik"
+ },
+ {
   "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
   "category": "Aksi Korporasi",
   "title": "BVIC: Chemical Asia [Jual] 283,18 Juta Saham, Suara Jadi 7,26%",
@@ -6443,88 +6527,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24cb3f298_029d47443d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "mdla-komisaris-stanley-tambah-15-000-saham-suara-tetap-0-003",
-  "category": "Aksi Korporasi",
-  "title": "MDLA: Komisaris Stanley [Tambah] 15.000 Saham, Suara Tetap 0,003%",
-  "deck": "Komisaris MDLA Stanley Ch. Budihardja menambah 15.000 saham lewat dua transaksi pembelian tidak langsung pada 11 November 2026, hak suaranya tetap 0,003%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MDLA",
-   "Laporan Kepemilikan Saham",
-   "Dewan Komisaris",
-   "Stanley Ch. Budihardja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-9755-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-oliv-7-desember-rombak-direksi-dan-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB OLIV 7 Desember: [Rombak] Direksi dan Komisaris",
-  "deck": "RUPSLB OLIV digelar 7 Desember 2026 untuk mengganti seluruh jajaran Direksi dan Dewan Komisaris dengan enam calon pengurus baru.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OLIV",
-   "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/65cb4f3358_a56d140418.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kualitas-kredit-bri-membaik-npl-turun-ke-2-85",
-  "category": "Perbankan",
-  "title": "Kualitas Kredit BRI [Membaik], NPL Turun ke 2,85%",
-  "deck": "BRI mencatat rasio kredit bermasalah turun ke 2,85 persen pada September 2026, didukung pengelolaan risiko yang lebih disiplin dan pencadangan yang makin kuat.",
-  "date": "13 November 2026",
-  "image": "assets/img/kualitas-kredit-bri-membaik-npl-turun-ke-2-85.jpg",
-  "imageV": "mwep0k38",
-  "tags": [
-   "BRI",
-   "NPL",
-   "Perbankan",
-   "Manajemen Risiko"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478153-bri-perkuat-pengelolaan-risiko-kualitas-kredit-dan-kinerja-terus-meningkat"
- },
- {
-  "slug": "sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026",
-  "category": "Makroekonomi",
-  "title": "Sanksi Pajak [Dihapus] 100 Persen, Tenggat 31 Desember 2026",
-  "deck": "Ditjen Pajak memberi tenggat penghapusan sanksi administrasi hingga 100 persen bagi wajib pajak yang melunasi pokok dan melapor sebelum 31 Desember 2026, lewat aturan PSA terbaru.",
-  "date": "13 November 2026",
-  "image": "assets/img/sanksi-pajak-dihapus-100-persen-tenggat-31-desember-2026.jpg",
-  "imageV": "mwem3bo7",
-  "tags": [
-   "Direktorat Jenderal Pajak",
-   "Sumatera Barat",
-   "sanksi pajak",
-   "PMK 71/2026"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/sanksi-pajak-bisa-dihapus-100-persen-tenggatnya-tinggal-tujuh-pekan",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "indonesia-teken-asean-defa-14-november-gantikan-uu-lama",
-  "category": "Global",
-  "title": "Indonesia Teken ASEAN DEFA 14 November, [Gantikan] UU Lama",
-  "deck": "Menko Airlangga dijadwalkan menandatangani ASEAN DEFA di Manila, 14 November 2026, perjanjian yang menggantikan aturan e-commerce ASEAN lama dan berlaku 180 hari kemudian.",
-  "date": "13 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
-  "tags": [
-   "ASEAN DEFA",
-   "ekonomi digital",
-   "UMKM",
-   "ASEAN"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7218/indonesia-siap-tandatangani-asean-defa-untuk-perkuat-integrasi-ekonomi-digital-kawasan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

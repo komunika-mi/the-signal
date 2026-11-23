@@ -3,6 +3,77 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-asha-19-nov-direksi-komisaris-diangkat-kembali-5-tahun",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ASHA 19 Nov: Direksi-Komisaris [Diangkat Kembali] 5 Tahun",
+  "deck": "RUPSLB ASHA menyetujui dispensasi keterlambatan dan pengangkatan kembali direksi-komisaris lama untuk 5 tahun, serta penyesuaian anggaran dasar soal klasifikasi usaha.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T21:30:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ASHA_E019_a20957d2-0eb6-47dd-a7cd-746ef52329c3-20261123213038.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASHA",
+  "tags": [
+   "ASHA",
+   "RUPSLB",
+   "pengangkatan kembali direksi",
+   "anggaran dasar"
+  ],
+  "body": [
+   "PT Cilacap Samudera Fishing Industry Tbk (ASHA) menggelar Rapat Umum Pemegang Saham Luar Biasa pada Kamis, 19 November 2026, pukul 10.33 hingga 10.48 WIB di Gedung PT Sutioso Bersaudara, Jl. Tuna II, Penjaringan, Jakarta Utara. Rapat dihadiri pemegang saham dan kuasanya sebanyak 3.355.350.800 saham, atau 67,11 persen dari total 5 miliar saham dengan hak suara yang beredar. Tiga agenda dibahas: dispensasi atas keterlambatan pengangkatan kembali direksi dan komisaris, pengangkatan kembali direksi dan komisaris, serta penyesuaian Pasal 3 anggaran dasar soal maksud dan tujuan usaha.",
+   "Agenda pertama dan kedua masing-masing disetujui 3.355.350.700 saham atau 99,99 persen suara yang hadir, dengan 100 saham atau 0,01 persen menolak. Pemegang saham menyetujui pemberian dispensasi atas keterlambatan masa jabatan direksi dan komisaris yang sudah berakhir, sekaligus mengesahkan seluruh tindakan kepengurusan dan pengawasan mereka selama ini. Susunan pengurus yang sama kemudian diangkat kembali untuk lima tahun ke depan, berlaku sampai penutupan RUPST tahun 2031, yaitu William Sutioso sebagai Direktur Utama dan Henry Sutioso sebagai Direktur, didampingi Asman sebagai Komisaris Utama dan Drs. A. Rahim Diar, MM sebagai Komisaris Independen.",
+   "Agenda ketiga, penyesuaian Pasal 3 anggaran dasar tentang maksud, tujuan, dan kegiatan usaha agar sesuai dengan Peraturan Badan Pusat Statistik Nomor 7 Tahun 2025 tentang Klasifikasi Baku Lapangan Usaha Indonesia, disetujui 3.355.350.500 saham atau 99,99 persen, dengan 100 saham menolak dan 200 saham abstain. Dalam rapat, tidak ada pemegang saham yang mengajukan pertanyaan atau pendapat, dan seluruh keputusan diambil secara musyawarah untuk mufakat."
+  ],
+  "fotoAdegan": "Workers in cold-weather gear stacking boxes of frozen fish inside an industrial cold storage warehouse, fluorescent lighting",
+  "takeaway": "Laporan ini condong netral bagi ASHA karena isinya murni urusan tata kelola rutin: direksi dan komisaris yang sama disahkan ulang, bukan pergantian pengurus atau suntikan modal baru, sehingga tidak ada dampak langsung ke bisnis. Yang patut dicatat, perseroan sampai perlu meminta dispensasi karena pengangkatan kembali direksi dan komisaris sempat terlambat dari jadwal, sinyal kecil bahwa agenda kepatuhan tata kelola tidak selalu berjalan tepat waktu. Laporan ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, nilainya justru pada kepastian hukum kepengurusan sehingga kontrak dan tindakan korporasi yang sudah diambil tetap sah. Yang perlu dipantau berikutnya adalah berjalannya masa jabatan baru direksi dan komisaris hingga penutupan RUPST tahun 2031, serta proses pengesahan perubahan Pasal 3 anggaran dasar ke instansi berwenang.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupslb-pgjo-digelar-30-desember-pemanggilan-8-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PGJO Digelar 30 Desember, [Pemanggilan] 8 Desember",
+  "deck": "PGJO menjadwalkan RUPSLB pada 30 Desember 2026, dengan pemanggilan resmi 8 Desember dan batas usul agenda pemegang saham 1 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T20:18:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PGJO_E001_7bc944b5-7208-4aa9-ba11-8e70540e790d-20261123201820.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PGJO",
+  "tags": [
+   "PGJO",
+   "RUPSLB",
+   "Bahtera Bumi Raya"
+  ],
+  "body": [
+   "PT Bahtera Bumi Raya Tbk (PGJO) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 30 Desember 2026 pukul 10.00 WIB. Rapat akan berlangsung di Ascott Kuningan Jakarta, Lantai 11, Ruang Meeting 2, Ciputra World 1, Jalan Prof. Dr. Satrio Kav. 3-5, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada Senin, 7 Desember 2026 pukul 16.00 WIB, sedangkan pemanggilan resmi berisi agenda rapat baru akan diumumkan melalui eASY.KSEI, situs Bursa Efek Indonesia, dan situs perseroan pada Selasa, 8 Desember 2026.",
+   "Perseroan membuka ruang bagi pemegang saham yang ingin mengusulkan mata acara rapat, dengan syarat usulan disampaikan paling lambat 1 Desember 2026 melalui email bbr.office@ptbbr.com. Usulan tersebut harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, berupa agenda yang memerlukan keputusan rapat, serta disertai alasan dan bahan pendukung sesuai Pasal 11 Anggaran Dasar Perseroan dan Pasal 16 POJK No.15/2020. RUPSLB ini akan diselenggarakan secara elektronik melalui sarana Easy KSEI dengan mekanisme e-Proxy dan e-Voting. Pengumuman ditandatangani oleh Direksi Perseroan dan Natalia selaku Sekretaris Perusahaan."
+  ],
+  "fotoAdegan": "Empty modern meeting room with rows of chairs arranged for a corporate shareholders meeting, soft morning light through windows",
+  "takeaway": "Pengumuman ini netral bagi investor karena isinya baru sebatas jadwal RUPSLB, tanpa menyebutkan agenda atau keputusan apa yang akan dibahas, sehingga belum ada dampak yang bisa dinilai terhadap kinerja perseroan. Belum ada pos kinerja seperti ekuitas, jumlah saham beredar, atau arus kas yang tersentuh pada tahap ini karena materi rapat yang sesungguhnya baru akan diumumkan belakangan. Yang perlu dipantau adalah pemanggilan resmi RUPSLB pada 8 Desember 2026, saat agenda lengkap rapat akan diungkapkan ke publik, serta hasil pelaksanaan RUPSLB itu sendiri pada 30 Desember 2026.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pengumuman RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Batas penyampaian usul agenda dari pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Tanggal daftar pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Pemanggilan resmi RUPSLB berisi agenda rapat"
+   },
+   {
+    "tanggal": "2026-12-30",
+    "acara": "Pelaksanaan RUPSLB"
+   }
+  ]
+ },
+ {
   "slug": "dgwg-jaminan-perusahaan-rp279-m-ke-bank-mandiri-untuk-anak-usaha",
   "category": "Aksi Korporasi",
   "title": "DGWG: [Jaminan Perusahaan] Rp279 M ke Bank Mandiri untuk Anak Usaha",
@@ -392,6 +463,183 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah dari laporan ini adalah akumulasi: BRI Peduli mencatat total 843 ambulans tersalur sejak 2022, dan tahun ini menambahkan pemeriksaan kesehatan gratis untuk lebih dari 20 ribu orang bertepatan dengan Hari Kesehatan Nasional. Pihak yang terdampak langsung adalah penerima bantuan seperti rumah sakit, yayasan, dan pondok pesantren, serta masyarakat yang mengikuti pemeriksaan gratis di berbagai daerah. Yang belum terlihat dari rilis ini adalah berapa ambulans atau anggaran yang disalurkan khusus tahun ini dibanding tahun-tahun sebelumnya, sehingga belum bisa disimpulkan apakah komitmen BRI di sektor kesehatan sedang membesar atau sekadar berjalan rutin tiap tahun. Yang akan menjawabnya adalah laporan keberlanjutan tahunan BRI, yang biasanya merinci total dana TJSL per sektor termasuk kesehatan.",
   "imageV": "mwt998y0"
+ },
+ {
+  "slug": "netv-direktur-utama-surya-hadiwinata-mundur-rups-dalam-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "NETV: Direktur Utama Surya Hadiwinata [Mundur], RUPS dalam 90 Hari",
+  "deck": "Direktur Utama NETV Surya Hadiwinata mengundurkan diri sejak 19 November 2026; RUPS penentu pengganti digelar paling lambat 90 hari sesuai POJK 33/2014.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T18:59:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_NETV_E019_d5cd3c8c-0bdb-46fe-8d95-ca7793ffd95d-20261123185912.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NETV",
+  "tags": [
+   "NETV",
+   "pengunduran diri direksi",
+   "direktur utama",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT MDTV Media Technologies Tbk (NETV) mengumumkan bahwa Direktur Utamanya, Surya Hadiwinata, mengundurkan diri dari jabatannya. Surat pengunduran diri itu diterima perseroan pada 19 November 2026, menurut keterbukaan informasi yang disampaikan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 23 November 2026.",
+   "Dalam suratnya, perseroan menegaskan bahwa pengunduran diri ini tidak berdampak pada kondisi keuangan maupun kelangsungan usaha NETV. Perseroan tidak menjelaskan alasan di balik pengunduran diri Surya Hadiwinata maupun siapa yang akan menggantikannya untuk sementara.",
+   "Sesuai Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten, NETV wajib menyelenggarakan Rapat Umum Pemegang Saham (RUPS) paling lambat 90 hari sejak tanggal pengunduran diri untuk, antara lain, menetapkan susunan direksi yang baru. Laporan ini ditandatangani oleh Panca Dirgantara Wijaya selaku perwakilan perseroan yang menangani urusan kesekretariatan korporasi."
+  ],
+  "fotoAdegan": "Technicians and camera operators working inside a busy television broadcast control room, dim ambient lighting",
+  "takeaway": "Pengunduran diri Direktur Utama ini condong netral bagi NETV, karena perseroan sendiri menyatakan tidak ada dampak terhadap kondisi keuangan maupun kelangsungan usaha, dan dokumen ini tidak menyebut adanya masalah hukum atau keuangan yang memicunya. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau arus kas, melainkan tata kelola di pucuk pimpinan, dan pelaku pasar biasanya mencermati kekosongan posisi Direktur Utama karena bisa memengaruhi kecepatan pengambilan keputusan strategis sampai pengganti resmi ditunjuk. Yang perlu dipantau selanjutnya adalah RUPS yang wajib digelar NETV paling lambat 90 hari sejak 19 November 2026, karena di forum itulah susunan direksi baru dan kejelasan kepemimpinan perseroan akan ditentukan.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran Diri Direksi dan/atau Komisaris"
+ },
+ {
+  "slug": "public-expose-meta-26-november-kepemilikan-mptis-capai-97-14",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose META 26 November: [Kepemilikan] MPTIS Capai 97,14%",
+  "deck": "Materi Public Expose Tahunan 2026 META mengungkap kepemilikan MPTIS naik ke 97,14% (99,32% termasuk treasury), sementara pemegang saham minoritas tersisa 5.685 pihak per September 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T18:30:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_META_E003_280b1409-6732-412c-93bd-fc27372a95ff-20261123183019.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "META",
+  "tags": [
+   "META",
+   "Nusantara Infrastructure",
+   "Public Expose",
+   "Kepemilikan Saham"
+  ],
+  "body": [
+   "PT Nusantara Infrastructure Tbk (META) menjadwalkan Paparan Publik Tahunan 2026 pada Kamis, 26 November 2026, pukul 14.00 WIB, melalui konferensi video Zoom Webinar. Pendaftaran peserta ditutup Rabu, 25 November 2026 pukul 16.00 WIB, dengan mencantumkan nama lengkap, alamat e-mail, dan nama perusahaan atau institusi. Bagi yang tidak kebagian slot Zoom karena kapasitas terbatas, Perseroan menyediakan siaran langsung melalui kanal YouTube resminya. Surat pemberitahuan ini ditandatangani Corporate Secretary META, Dahlia Evawani, dan ditujukan kepada Direktur Penilaian Perusahaan Bursa Efek Indonesia, I Gede Nyoman Yetna.",
+   "Materi yang dilampirkan memuat rekap penawaran tender sukarela (PTS) yang dilakukan pemegang saham pengendali, Margautama Nusantara (MPTIS), terhadap saham publik META sejak awal 2024. Dari kepemilikan 74,65% sebelum PTS, porsi MPTIS naik bertahap menjadi 95,52% pada PTS tahap 1 (Maret 2024), 96,07% pada tahap 2 (Mei 2024), dan 96,91% pada tahap 3 yang berakhir Maret 2025. Per cutoff materi ini pada September 2026, MPTIS tercatat menguasai 17.204.056.874 saham atau 97,14% tanpa menghitung saham treasury, dan naik menjadi 99,32% jika 385.455.000 saham treasury ikut dihitung. Akibatnya, jumlah pemegang saham minoritas yang tercatat terus menyusut, dari 6.110 pihak pada September 2024 menjadi 5.685 pihak pada September 2025. Materi itu juga mengingatkan bahwa pemegang saham yang tidak menjual sahamnya selama periode PTS, yaitu 6 Desember 2024 sampai 5 Maret 2025, tetap memegang saham META namun statusnya berubah menjadi saham perusahaan tertutup yang tidak lagi bisa diperdagangkan di bursa, dan penjualannya kelak tidak akan mendapat tarif pajak khusus untuk saham perusahaan terbuka.",
+   "Di luar data kepemilikan, materi paparan publik juga memuat sorotan tata kelola dan keberlanjutan Perseroan sepanjang 2025, antara lain RUPS Tahunan yang digelar 28 Mei 2025, kehadiran penuh Dewan Komisaris dalam enam rapat internal, serta penurunan emisi karbon dari aktivitas operasional sebesar 3,49% dibandingkan tahun sebelumnya."
+  ],
+  "fotoAdegan": "Elevated toll road busy with evening traffic, Jakarta skyline silhouette in the background, long exposure light trails",
+  "takeaway": "Laporan ini netral bagi fundamental META karena isinya adalah jadwal paparan publik tahunan, bukan aksi korporasi baru, meski data kepemilikan yang disertakan patut dicatat karena pengendali MPTIS kini menguasai 97,14% saham, atau 99,32% jika saham treasury dihitung. Yang tersentuh bukan laba atau arus kas, melainkan porsi saham yang benar-benar beredar bebas di pasar, karena semakin sedikit saham di luar genggaman MPTIS, semakin tipis pula likuiditas perdagangan saham META bagi investor publik. Pemegang saham minoritas pun tercatat menyusut dari 6.110 pihak pada September 2024 menjadi 5.685 pihak pada September 2025, menunjukkan sebagian investor publik sudah melepas saham mereka lewat skema penawaran tender sejak 2024. Yang perlu dipantau adalah pelaksanaan paparan publik pada 26 November 2026 pukul 14.00 WIB, termasuk apakah Perseroan memberi penjelasan lebih lanjut soal langkah ke depan terkait status saham publik yang kian menyempit.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Batas akhir registrasi peserta Public Expose"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Pelaksanaan Public Expose Tahunan 2026 via Zoom Webinar"
+   }
+  ]
+ },
+ {
+  "slug": "buyback-cbdk-agustus-november-beli-36-3-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "Buyback CBDK Agustus-November: [Beli] 36,3 Juta Saham Lagi",
+  "deck": "Realisasi buyback CBDK periode 20 Agustus-19 November 2026 capai 36,3 juta saham senilai Rp117,03 miliar, naikkan capaian ke 53,48% dari rencana total.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T18:29:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_CBDK_E019_8669992b-d0ae-42fb-aad8-f3eba209a7c0-20261123182950.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBDK",
+  "tags": [
+   "CBDK",
+   "buyback saham",
+   "PIK2",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bangun Kosambi Sukses Tbk (CBDK) melaporkan hasil pembelian kembali (buyback) sahamnya untuk periode 20 Agustus 2026 hingga 19 November 2026. Dalam rentang tiga bulan itu, perusahaan membeli 36.334.300 saham dengan harga rata-rata Rp3.221 per saham, setara nilai Rp117,03 miliar. Realisasi ini membuat sisa dana yang masih disediakan untuk buyback periode tersebut tinggal Rp132,97 miliar.",
+   "Pembelian ini merupakan perpanjangan ketiga dari program buyback yang sama, yang pertama kali diumumkan lewat keterbukaan informasi 19 Agustus 2026 dan merujuk pada aturan pembelian kembali saham dalam kondisi pasar yang berfluktuasi secara signifikan. Sejak periode pertama pada 3 Februari-2 Mei 2026, harga rata-rata pembelian terus menurun: dari Rp5.409 per saham pada periode pertama, menjadi Rp3.601 pada periode kedua (20 Mei-19 Agustus 2026), lalu Rp3.221 pada periode ketiga ini. Secara kumulatif, Perseroan sudah membeli 65.111.400 saham dengan harga rata-rata Rp3.713 per saham, senilai total Rp241,78 miliar, atau mencapai 53,48% dari total nilai saham yang direncanakan dibeli sesuai keterbukaan informasi yang pernah disampaikan.",
+   "Landasan hukum pelaksanaan buyback ini adalah Peraturan OJK No. 29 Tahun 2023 tentang Pembelian Kembali Saham yang Dikeluarkan oleh Perusahaan Terbuka, serta POJK No. 13 Tahun 2023 dan Surat OJK No. S-10/D.04/2026 tanggal 13 Maret 2026, yang mengatur kebijakan pembelian kembali saham dalam kondisi pasar yang berfluktuasi secara signifikan. Laporan ini ditandatangani oleh dua Direktur CBDK, Markus Kusumaputra dan Yohanes Edmond Budiman."
+  ],
+  "fotoAdegan": "Cranes and unfinished office towers rising over a coastal business district construction site under a hazy afternoon sky in Indonesia.",
+  "takeaway": "Laporan ini condong positif bagi CBDK karena perusahaan konsisten menjalankan program buyback meski harga belinya terus menurun dari periode ke periode, menandakan manajemen tetap mau menyerap saham sendiri di pasar saat harga melemah. Buyback mengurangi jumlah saham yang beredar di publik, sehingga laba per saham untuk pemegang saham yang tersisa berpotensi sedikit lebih besar, meski di sisi lain kas yang sudah terpakai untuk membeli saham sendiri kini mencapai Rp241,78 miliar sejak Februari 2026, dana yang tidak lagi tersedia untuk ekspansi atau keperluan operasional lain. Yang perlu dipantau selanjutnya adalah apakah Perseroan memperpanjang lagi program ini untuk periode berikutnya, mengingat sisa dana buyback sebesar Rp132,97 miliar masih belum terserap penuh per 19 November 2026, tanggal penutupan periode yang dilaporkan.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "akuisisi-atap-dbs-teken-ppjb-ambil-51-saham-dari-tp",
+  "category": "Aksi Korporasi",
+  "title": "Akuisisi ATAP: DBS Teken [PPJB] Ambil 51% Saham dari TP",
+  "deck": "DBS dan PT Trimitra Prawara menandatangani Perjanjian Pengikatan Jual Beli atas 637,5 juta saham ATAP, setara 51% modal disetor, pada 20 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T18:07:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ATAP_E019_14304a2f-a5a1-4d59-a2ab-c5f56ea1eea1-20261123180738.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATAP",
+  "tags": [
+   "ATAP",
+   "akuisisi",
+   "Dana Berguna Sejahtera",
+   "Trimitra Prawara"
+  ],
+  "body": [
+   "PT Trimitra Prawara Goldland Tbk (ATAP) menyampaikan keterbukaan informasi menyusul pengumuman perkembangan negosiasi yang diterbitkan PT Dana Berguna Sejahtera (DBS) pada 23 November 2026 melalui harian Neraca. Dalam dokumen itu, ATAP mengonfirmasi bahwa DBS berencana mengambil alih 637.500.000 saham ATAP, setara 51 persen dari modal disetor dan ditempatkan perusahaan, yang seluruhnya saat ini dimiliki oleh PT Trimitra Prawara (TP).",
+   "DBS dan TP telah menyepakati syarat dan ketentuan pengambilalihan tersebut, dan keduanya menandatangani Perjanjian Pengikatan Jual Beli (PPJB) pada 20 November 2026. Penandatanganan ini menandai kemajuan dari tahap negosiasi ke tahap perjanjian mengikat, meski dokumen ini tidak menyebutkan harga atau nilai transaksi pengambilalihan saham tersebut.",
+   "Manajemen ATAP menyatakan bahwa kejadian ini tidak berdampak signifikan terhadap kegiatan operasional maupun aspek hukum perusahaan untuk saat ini. Laporan ini disampaikan perseroan untuk memenuhi ketentuan Peraturan OJK No. 31/POJK.04/2015 tentang Keterbukaan atas Informasi atau Fakta Material, sebagaimana diubah melalui POJK No. 45/2024."
+  ],
+  "fotoAdegan": "Construction workers reviewing building plans at a residential housing development site in Jakarta, afternoon light",
+  "takeaway": "Laporan ini netral bagi ATAP, sebab yang terjadi hanyalah langkah administratif berupa penandatanganan perjanjian mengikat, tanpa ada harga atau nilai transaksi yang diumumkan sehingga belum bisa dinilai menguntungkan atau merugikan pemegang saham. Yang benar-benar bergeser di sini adalah hak suara mayoritas, sebab 637,5 juta saham atau 51 persen kepemilikan di ATAP akan berpindah dari PT Trimitra Prawara ke PT Dana Berguna Sejahtera jika transaksi ini tuntas, artinya kendali perusahaan dan arah kebijakannya ikut berpindah tangan meski laporan keuangan ATAP belum terpengaruh langsung. Manajemen ATAP sendiri menyebut perjanjian ini belum berdampak signifikan ke operasional maupun hukum perusahaan untuk saat ini. Yang perlu dipantau selanjutnya adalah penyelesaian transaksi ini, termasuk harga jual yang belum diumumkan dan kemungkinan penawaran tender wajib kepada pemegang saham publik begitu pengendalian benar-benar berpindah, karena dokumen ini belum menyebut tanggal penyelesaiannya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "public-expose-wows-2026-target-pendapatan-rp228-74-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose WOWS 2026: [Target] Pendapatan Rp228,74 Miliar",
+  "deck": "Materi Public Expose Tahunan PT Ginting Jaya Energi Tbk menargetkan pendapatan Rp228,74 miliar dan laba usaha Rp13,5 miliar pada 2026, naik dari realisasi 2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:59:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WOWS_E003_21fe562a-500b-4f46-839d-9883ec11bff9-20261123175908.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WOWS",
+  "tags": [
+   "WOWS",
+   "Public Expose",
+   "Ginting Jaya Energi",
+   "Jasa Migas"
+  ],
+  "body": [
+   "PT Ginting Jaya Energi Tbk (WOWS), perusahaan jasa perawatan sumur minyak dan gas yang beroperasi di Sumatera Selatan dan Jambi, menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 23 November 2026. Materi tersebut memuat kinerja keuangan, tantangan usaha, strategi, serta target 2026, menyusul surat rencana penyelenggaraan paparan publik yang telah dikirim lebih dulu pada 12 November 2026.",
+   "Berdasarkan materi itu, pendapatan usaha Perseroan pada 2025 tercatat Rp227,38 miliar, naik dari Rp181,66 miliar pada 2024. Hingga September 2026, pendapatan usaha sudah mencapai Rp193,80 miliar, juga naik dari Rp166,93 miliar pada periode yang sama tahun 2025. Laba usaha melonjak dari Rp3,02 miliar pada 2024 menjadi Rp13,34 miliar pada 2025, membuat margin laba usaha naik dari 1,66 persen menjadi 5,87 persen. Namun EBITDA pada kuartal III 2026 tercatat Rp28,53 miliar, lebih rendah dibandingkan Rp31,81 miliar pada kuartal III 2025.",
+   "Untuk tahun 2026, Perseroan menargetkan pendapatan usaha Rp228,74 miliar dan laba usaha Rp13,5 miliar, dengan margin laba usaha 5,90 persen. Target itu disertai rencana menurunkan rata rata unit rig yang dioperasikan dari 9 unit menjadi 8 unit. Manajemen menyebut tiga tantangan utama sepanjang 2025, yaitu biaya operasional dan perawatan rig yang meningkat, tuntutan standar keselamatan kerja yang makin tinggi, serta kendala akses jalan di area kerja. Sebagai strategi, Perseroan berfokus menaikkan tingkat utilisasi unit rig, mengevaluasi tarif kontrak secara bertahap, serta mengutamakan kontrak jangka panjang dengan rata rata durasi 2 tahun 6 bulan agar pendapatan lebih stabil.",
+   "Materi tersebut juga memuat profil Perseroan yang berdiri pada 11 Maret 2011 dan tercatat di Bursa Efek Indonesia sejak 9 November 2019, kini mengoperasikan 10 unit rig di wilayah kerja Pendopo, Adera, Prabumulih, dan Ramba di Sumatera Selatan, serta Jambi. Jajaran direksi yang disebutkan mencakup Jimmy Hidayat, Tommy Hidayat, Welly Sugharto, dan Linford Putra Cendana, didampingi dewan komisaris yang terdiri dari Satoto Agustono, Eddy Hidayat Lim, dan Tantowi Hidayat."
+  ],
+  "fotoAdegan": "Workover rig towers standing at a jungle-edge oil field in South Sumatra, technicians in safety gear near steel pipes, overcast afternoon light.",
+  "takeaway": "Materi ini condong positif karena menunjukkan tren perbaikan kinerja yang cukup konsisten, pendapatan usaha naik lebih dari 25 persen dari 2024 ke 2025 dan margin laba usaha ikut membesar dari 1,66 persen menjadi 5,87 persen, sementara target 2026 mematok pendapatan dan laba usaha yang lebih tinggi lagi. Pos yang tersentuh adalah laba usaha dan margin laba usaha, yakni perbandingan antara laba dari kegiatan inti bisnis dengan total pendapatan, yang mencerminkan seberapa efisien Perseroan mengelola biaya operasional rig dibanding pendapatan yang masuk. Catatan kehati-hatiannya, EBITDA atau laba sebelum bunga, pajak, dan penyusutan pada kuartal III 2026 justru turun menjadi Rp28,53 miliar dari Rp31,81 miliar setahun sebelumnya meski pendapatan periode itu naik, tanda biaya operasional ikut terkerek seperti yang disebut Perseroan sendiri sebagai tantangan. Yang perlu dipantau berikutnya adalah realisasi kinerja sepanjang 2026 dibandingkan target resminya, yakni pendapatan Rp228,74 miliar dan laba usaha Rp13,5 miliar, serta rencana penurunan jumlah rig yang dioperasikan dari 9 menjadi 8 unit yang bisa menjadi sinyal konsolidasi kapasitas.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+ },
+ {
+  "slug": "okas-9m26-laba-bersih-pulih-jadi-us-2-5-juta-ebitda-20",
+  "category": "Aksi Korporasi",
+  "title": "OKAS 9M26: Laba Bersih [Pulih] jadi US$2,5 Juta, EBITDA -20%",
+  "deck": "OKAS catat laba bersih US$2,5 juta pada 9M26, berbalik dari rugi, meski EBITDA turun 20 persen akibat margin tergerus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:55:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_OKAS_E019_12d67962-5647-4598-bc66-72e3c535d4d2-20261123175520.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OKAS",
+  "tags": [
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "kinerja keuangan",
+   "blasting services"
+  ],
+  "body": [
+   "PT Ancora Indonesia Resources Tbk (OKAS) menyampaikan materi analyst meeting pemaparan kinerja sembilan bulan 2026 (9M26) kepada Bursa Efek Indonesia pada 23 November 2026. Materi tersebut dipaparkan dalam sesi yang digelar Kamis, 19 November 2026, dengan dukungan Bahana Sekuritas, dan laporan ditandatangani oleh corporate secretary perusahaan, F Bernadeth Conny Ponto, sebagai pemenuhan ketentuan laporan insidentil Peraturan Bursa Nomor I-E.",
+   "Dari sisi angka, pendapatan 9M26 tercatat US$121,5 juta, nyaris sama dengan US$121,6 juta pada 9M25, turun tipis 0,1 persen. Laba kotor turun 11 persen menjadi US$30,9 juta karena marginnya menyusut dari 28,4 persen menjadi 25,5 persen, dan EBITDA turun 20 persen menjadi US$19,3 juta. Namun laba yang menjadi hak pemegang saham induk berbalik dari rugi US$5,0 juta pada 9M25 menjadi laba US$2,5 juta pada 9M26. Secara kuartalan, kinerja kuartal III 2026 justru menguat dibanding kuartal II 2026: EBITDA naik 27 persen, pendapatan naik 14 persen, dan laba kotor naik 8 persen, dengan laba bersih berbalik dari rugi US$1,1 juta pada kuartal II menjadi laba US$2,5 juta pada kuartal III.",
+   "Segmen jasa peledakan (blasting services) tumbuh jadi penopang utama, dengan pendapatan 9M26 sebesar US$41,0 juta, naik 10 persen dari tahun sebelumnya, dan porsinya terhadap total pendapatan naik dari 18 persen pada 2023 menjadi 34 persen pada 9M26. Tiga kontrak baru diamankan sepanjang 2026: peledakan permukaan dengan kontraktor tambang besar di tiga tambang teratas Indonesia senilai total US$49 juta, peledakan permukaan dengan perusahaan tambang internasional di Kalimantan Timur senilai US$11 juta, dan kontrak peledakan bawah tanah selama dua tahun di tambang non-batu bara senilai US$7 juta per tahun. Rasio utang berbunga terhadap ekuitas (net gearing) turun ke 0,47 kali dari 0,54 kali pada akhir 2025, dengan posisi kas US$7,7 juta, utang berbunga US$37,4 juta, dan ekuitas US$62,4 juta per 9M26. Per 30 Agustus 2026, Ancora Group masih menguasai 74,2 persen saham OKAS dan publik 25,8 persen.",
+   "Perusahaan juga menyebut rencana divestasi bisnis minyak dan gas untuk melepas unit non-inti dan menambah ruang ekspansi, sejalan dengan transaksi yang baru-baru ini dilaporkan OKAS, yakni pengalihan 60 persen saham Bormindo Nusantara kepada Sarida Utama untuk melunasi utang."
+  ],
+  "fotoAdegan": "Drill rig crew preparing blast holes at a dusty open-pit mining site under overcast daylight, safety vests visible.",
+  "takeaway": "Materi ini netral bagi OKAS: pendapatan sembilan bulan nyaris stagnan dan EBITDA turun 20 persen dibanding tahun lalu karena margin tergerus, tapi laba bersih justru berbalik dari rugi dan performa kuartal III jelas membaik dibanding kuartal II, jadi sinyalnya campur aduk, bukan mengarah tegas ke satu arah. Yang disentuh di sini adalah margin laba kotor, EBITDA (laba operasional sebelum bunga, pajak, dan penyusutan, ukuran yang dipakai pasar untuk menilai kesehatan bisnis inti tanpa gangguan biaya pembiayaan), dan rasio utang terhadap modal yang justru mengecil, artinya beban utang perusahaan terhadap modalnya makin ringan meski laba operasionalnya turun. Investor juga perlu mencermati bahwa segmen jasa peledakan kini menyumbang lebih dari sepertiga pendapatan, jadi kelangsungan kontrak-kontrak barunya yang berjalan hingga 2029-2030 akan menentukan arah pendapatan jangka panjang. Yang perlu dipantau berikutnya adalah apakah tren perbaikan kuartal III berlanjut saat laporan kinerja penuh tahun 2026 dipublikasikan, serta kelanjutan rencana divestasi bisnis migas yang disebut akan menambah ruang modal, mengingat perusahaan baru saja melepas mayoritas sahamnya di Bormindo Nusantara untuk melunasi utang.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "ijee-direktur-utama-hendrik-tee-mundur-rups-90-hari",
@@ -6102,8 +6350,8 @@ var ARTICLES = [
  {
   "slug": "laba-arci-semester-i-2026-melonjak-134-jadi-us-81-5-juta",
   "category": "Aksi Korporasi",
-  "title": "Laba ARCI Semester I 2026 [Melonjak] 134% jadi US$81,5 Juta",
-  "deck": "Laba bersih ARCI naik 134% menjadi US$81,5 juta pada semester I 2026, didorong kenaikan pendapatan emas 67 persen dibanding tahun sebelumnya.",
+  "title": "Laba ARCI 9 Bulan 2026 [Naik] 55% jadi US$110,4 Juta",
+  "deck": "Laba bersih ARCI sembilan bulan 2026 naik 55,2 persen menjadi US$110,35 juta, ditopang pendapatan yang tumbuh hampir 40 persen dari penjualan emas.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T17:39:24",
@@ -6112,20 +6360,30 @@ var ARTICLES = [
   "emiten": "ARCI",
   "tags": [
    "ARCI",
+   "laba bersih",
    "laporan keuangan",
-   "emas",
-   "obligasi"
+   "tambang emas"
   ],
   "body": [
-   "PT Archi Indonesia Tbk (ARCI) menyampaikan koreksi atas laporan keuangan konsolidasian interim untuk periode enam bulan yang berakhir 30 Juni 2026. Dalam laporan ini, perusahaan tambang emas tersebut membukukan pendapatan US$322,29 juta, naik 67 persen dari US$192,43 juta pada semester I 2025, terutama dari penjualan emas. Laba bersih periode berjalan melonjak jadi US$81,47 juta, naik 134 persen dari US$34,81 juta pada periode yang sama tahun lalu. Laba kotor naik dari US$77,74 juta menjadi US$146,01 juta, dan EBITDA naik dari US$85,51 juta menjadi US$160,48 juta. Laba per saham dasar turut naik lebih dari dua kali lipat, dari US$0,0014 menjadi US$0,0032.",
-   "Dari sisi posisi keuangan per 30 Juni 2026, total aset ARCI tercatat US$1,07 miliar, naik dari US$1,03 miliar pada akhir 2025. Ekuitas perusahaan bertambah menjadi US$413,64 juta dari US$362,93 juta, sementara total liabilitas justru turun sedikit menjadi US$660,97 juta dari US$663,84 juta. Modal disetor relatif stabil di sekitar US$20,59 juta, tidak banyak berubah dari posisi akhir 2025. Laporan keuangan ini diaudit oleh KAP Purwanto Susanti dan Surja, firma anggota Ernst & Young Global, dengan partner penandatangan Edward Dharmadi, dan memperoleh opini wajar tanpa modifikasian atau opini bersih tertanggal 21 Oktober 2026.",
-   "Laporan ini merupakan koreksi atas Laporan Auditor Independen sebelumnya yang terbit 28 September 2026. Menurut penjelasan auditor, laporan keuangan diterbitkan kembali dengan beberapa perubahan dan pengungkapan tambahan sehubungan dengan rencana ARCI menawarkan efek utang di Indonesia, yakni Penawaran Umum Berkelanjutan Obligasi dan Sukuk Wakalah Bi-Al Istitsmar Archi Indonesia I Tahun 2026, sesuai aturan Otoritas Jasa Keuangan."
+   "PT Archi Indonesia Tbk (ARCI) melaporkan laba bersih periode berjalan senilai US$110,35 juta untuk sembilan bulan pertama 2026 (Januari-September), naik 55,2 persen dibandingkan US$71,09 juta pada periode yang sama tahun lalu, berdasarkan laporan keuangan interim yang ditelaah secara terbatas dan disampaikan ke Bursa Efek Indonesia pada 23 November 2026. Pendapatan perusahaan tambang emas ini tercatat US$459,21 juta, tumbuh 39,7 persen dari US$328,70 juta, sementara laba kotor naik 42,1 persen menjadi US$202,91 juta.",
+   "Kenaikan ini melanjutkan tren yang sudah terlihat pada semester I 2026, saat laba bersih ARCI melonjak 134 persen menjadi US$81,47 juta didorong penjualan emas yang naik tajam. Dengan tambahan hasil kuartal ketiga, akumulasi laba sembilan bulan kini melampaui perolehan semester I, menandakan kinerja yang tetap kuat meski laju pertumbuhannya melambat dibanding paruh pertama tahun ini.",
+   "Dari sisi posisi keuangan per 30 September 2026, total aset ARCI naik menjadi US$1,17 miliar dari US$1,03 miliar pada akhir 2025. Ekuitas perusahaan bertambah dari US$362,93 juta menjadi US$442,52 juta, didorong laba yang terus terakumulasi dan belum dibagi sebagai dividen. Namun total liabilitas juga naik dari US$663,84 juta menjadi US$729,09 juta, terutama karena pinjaman bank jangka panjang bertambah dari US$432,04 juta menjadi US$470,97 juta, yang turut mendorong beban bunga naik dari US$26,39 juta menjadi US$29,02 juta. Di sisi lain, kas dan setara kas perusahaan melonjak dari US$24,88 juta menjadi US$61,69 juta. Jumlah saham beredar tidak berubah dari 25,235 miliar lembar, sehingga kenaikan laba tidak terdilusi oleh penambahan saham baru.",
+   "Laporan ini merupakan hasil reviu terbatas, bukan audit penuh, oleh KAP Purwanto Susanti dan Surja, firma anggota Ernst & Young Global, dengan partner penandatangan Edward Dharmadi, tertanggal 23 November 2026, dan memperoleh opini wajar tanpa modifikasian. Sebelumnya ARCI juga menerbitkan koreksi atas laporan keuangan semester I 2026 pada akhir September 2026 sehubungan dengan rencana penawaran umum berkelanjutan Obligasi dan Sukuk Wakalah Archi Indonesia I Tahun 2026, namun dokumen kali ini tidak menyebutkan kelanjutan proses penawaran tersebut."
   ],
   "fotoAdegan": "Miners and haul trucks moving ore at an open-pit gold mine, misty mountains in the background, early morning light",
-  "takeaway": "Laporan ini condong positif bagi ARCI, karena pendapatan dan laba bersihnya sama-sama melonjak tajam dalam enam bulan, didukung opini audit bersih dari auditor independen. Pos yang paling jelas berubah adalah ekuitas, yaitu total kekayaan bersih pemegang saham setelah dikurangi utang, yang naik dari US$362,93 juta menjadi US$413,64 juta karena laba besar yang belum dibagi sebagai dividen tetap mengendap di dalam perusahaan. Karena modal disetor atau jumlah saham beredar tidak banyak bertambah, kenaikan laba tersebut benar-benar tercermin pada laba per saham yang naik lebih dari dua kali lipat, bukan sekadar terdilusi oleh penambahan saham baru. Yang perlu dipantau selanjutnya adalah proses penawaran umum berkelanjutan obligasi dan sukuk Archi Indonesia I Tahun 2026 yang disebut dokumen ini sebagai alasan koreksi laporan, karena belum disebutkan kapan OJK menyatakan efektif maupun berapa besar dana yang akan dihimpun dari penerbitan utang tersebut.",
+  "takeaway": "Laporan kuartal ketiga ini condong positif bagi ARCI, karena pendapatan dan laba bersihnya sama-sama tumbuh dua digit dibanding periode yang sama tahun lalu, melanjutkan tren kuat yang sudah terlihat di semester I, dan auditor memberikan opini bersih atas hasil reviunya. Pos yang perlu diperhatikan adalah beban bunga yang naik dari US$26,39 juta menjadi US$29,02 juta, sejalan dengan pinjaman bank jangka panjang yang bertambah dari US$432,04 juta menjadi US$470,97 juta, karena utang yang lebih besar berarti kewajiban bunga yang lebih besar dan bisa menggerus laba jika terus membesar; di sisi lain ekuitas, yaitu kekayaan bersih pemegang saham, ikut naik dari US$362,93 juta menjadi US$442,52 juta tanpa penambahan jumlah saham beredar, sehingga laba tidak terdilusi. Yang perlu dipantau berikutnya adalah laporan keuangan tahunan yang diaudit penuh, karena laporan kali ini hanya hasil reviu terbatas yang cakupannya lebih sempit dari audit, serta kejelasan kelanjutan proses penawaran umum obligasi dan sukuk Archi Indonesia I yang belum disebutkan perkembangannya dalam dokumen ini.",
   "sentimen": "positif",
   "peristiwa": "lapkeu",
-  "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)"
+  "judulIdx": "Penyampaian Laporan Keuangan Interim (KOREKSI)",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T21:15:14",
+    "ringkas": "Laba bersih ARCI sembilan bulan 2026 naik 55,2 persen jadi US$110,35 juta, melanjutkan tren kuat semester I.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-0babd7cf-8315-4181-b6c1-edf8a47ea64a-1/FinancialStatement-2026-III-ARCI.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+   }
+  ],
+  "diperbarui": "2026-11-23T21:15:14"
  },
  {
   "slug": "pemerintah-pastikan-daya-beli-tumbuh-bukan-melemah",

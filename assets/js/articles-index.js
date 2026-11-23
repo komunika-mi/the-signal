@@ -5,6 +5,37 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupslb-asha-19-nov-direksi-komisaris-diangkat-kembali-5-tahun",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ASHA 19 Nov: Direksi-Komisaris [Diangkat Kembali] 5 Tahun",
+  "deck": "RUPSLB ASHA menyetujui dispensasi keterlambatan dan pengangkatan kembali direksi-komisaris lama untuk 5 tahun, serta penyesuaian anggaran dasar soal klasifikasi usaha.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASHA",
+   "RUPSLB",
+   "pengangkatan kembali direksi",
+   "anggaran dasar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ASHA_E019_a20957d2-0eb6-47dd-a7cd-746ef52329c3-20261123213038.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-pgjo-digelar-30-desember-pemanggilan-8-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PGJO Digelar 30 Desember, [Pemanggilan] 8 Desember",
+  "deck": "PGJO menjadwalkan RUPSLB pada 30 Desember 2026, dengan pemanggilan resmi 8 Desember dan batas usul agenda pemegang saham 1 Desember 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PGJO",
+   "RUPSLB",
+   "Bahtera Bumi Raya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PGJO_E001_7bc944b5-7208-4aa9-ba11-8e70540e790d-20261123201820.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dgwg-jaminan-perusahaan-rp279-m-ke-bank-mandiri-untuk-anak-usaha",
   "category": "Aksi Korporasi",
   "title": "DGWG: [Jaminan Perusahaan] Rp279 M ke Bank Mandiri untuk Anak Usaha",
@@ -212,6 +243,102 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479919-bri-peduli-salurkan-843-ambulans-dan-hadirkan-pemeriksaan-kesehatan-gratis"
+ },
+ {
+  "slug": "netv-direktur-utama-surya-hadiwinata-mundur-rups-dalam-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "NETV: Direktur Utama Surya Hadiwinata [Mundur], RUPS dalam 90 Hari",
+  "deck": "Direktur Utama NETV Surya Hadiwinata mengundurkan diri sejak 19 November 2026; RUPS penentu pengganti digelar paling lambat 90 hari sesuai POJK 33/2014.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NETV",
+   "pengunduran diri direksi",
+   "direktur utama",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_NETV_E019_d5cd3c8c-0bdb-46fe-8d95-ca7793ffd95d-20261123185912.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-meta-26-november-kepemilikan-mptis-capai-97-14",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose META 26 November: [Kepemilikan] MPTIS Capai 97,14%",
+  "deck": "Materi Public Expose Tahunan 2026 META mengungkap kepemilikan MPTIS naik ke 97,14% (99,32% termasuk treasury), sementara pemegang saham minoritas tersisa 5.685 pihak per September 2025.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "META",
+   "Nusantara Infrastructure",
+   "Public Expose",
+   "Kepemilikan Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_META_E003_280b1409-6732-412c-93bd-fc27372a95ff-20261123183019.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buyback-cbdk-agustus-november-beli-36-3-juta-saham-lagi",
+  "category": "Aksi Korporasi",
+  "title": "Buyback CBDK Agustus-November: [Beli] 36,3 Juta Saham Lagi",
+  "deck": "Realisasi buyback CBDK periode 20 Agustus-19 November 2026 capai 36,3 juta saham senilai Rp117,03 miliar, naikkan capaian ke 53,48% dari rencana total.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBDK",
+   "buyback saham",
+   "PIK2",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_CBDK_E019_8669992b-d0ae-42fb-aad8-f3eba209a7c0-20261123182950.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akuisisi-atap-dbs-teken-ppjb-ambil-51-saham-dari-tp",
+  "category": "Aksi Korporasi",
+  "title": "Akuisisi ATAP: DBS Teken [PPJB] Ambil 51% Saham dari TP",
+  "deck": "DBS dan PT Trimitra Prawara menandatangani Perjanjian Pengikatan Jual Beli atas 637,5 juta saham ATAP, setara 51% modal disetor, pada 20 November 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATAP",
+   "akuisisi",
+   "Dana Berguna Sejahtera",
+   "Trimitra Prawara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ATAP_E019_14304a2f-a5a1-4d59-a2ab-c5f56ea1eea1-20261123180738.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-wows-2026-target-pendapatan-rp228-74-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose WOWS 2026: [Target] Pendapatan Rp228,74 Miliar",
+  "deck": "Materi Public Expose Tahunan PT Ginting Jaya Energi Tbk menargetkan pendapatan Rp228,74 miliar dan laba usaha Rp13,5 miliar pada 2026, naik dari realisasi 2025.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WOWS",
+   "Public Expose",
+   "Ginting Jaya Energi",
+   "Jasa Migas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WOWS_E003_21fe562a-500b-4f46-839d-9883ec11bff9-20261123175908.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "okas-9m26-laba-bersih-pulih-jadi-us-2-5-juta-ebitda-20",
+  "category": "Aksi Korporasi",
+  "title": "OKAS 9M26: Laba Bersih [Pulih] jadi US$2,5 Juta, EBITDA -20%",
+  "deck": "OKAS catat laba bersih US$2,5 juta pada 9M26, berbalik dari rugi, meski EBITDA turun 20 persen akibat margin tergerus.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "kinerja keuangan",
+   "blasting services"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_OKAS_E019_12d67962-5647-4598-bc66-72e3c535d4d2-20261123175520.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ijee-direktur-utama-hendrik-tee-mundur-rups-90-hari",
@@ -2898,15 +3025,15 @@ var ARTICLES = [
  {
   "slug": "laba-arci-semester-i-2026-melonjak-134-jadi-us-81-5-juta",
   "category": "Aksi Korporasi",
-  "title": "Laba ARCI Semester I 2026 [Melonjak] 134% jadi US$81,5 Juta",
-  "deck": "Laba bersih ARCI naik 134% menjadi US$81,5 juta pada semester I 2026, didorong kenaikan pendapatan emas 67 persen dibanding tahun sebelumnya.",
+  "title": "Laba ARCI 9 Bulan 2026 [Naik] 55% jadi US$110,4 Juta",
+  "deck": "Laba bersih ARCI sembilan bulan 2026 naik 55,2 persen menjadi US$110,35 juta, ditopang pendapatan yang tumbuh hampir 40 persen dari penjualan emas.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ARCI",
+   "laba bersih",
    "laporan keuangan",
-   "emas",
-   "obligasi"
+   "tambang emas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119175115-65818-0/FinancialStatement-2026-II-ARCI.pdf",
   "sourceLabel": "IDX"
@@ -6387,134 +6514,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478216-petani-melon-bansari-perluas-akses-pasar-melalui-program-klasterku-hidupku-bri"
- },
- {
-  "slug": "sukuk-mudharabah-boga-rp400-miliar-refinancing-utang-bri-rp200-m",
-  "category": "Aksi Korporasi",
-  "title": "Sukuk Mudharabah BOGA Rp400 Miliar: [Refinancing] Utang BRI Rp200 M",
-  "deck": "Apollo Global Interactive (BOGA) menerbitkan sukuk mudharabah tahap I senilai Rp400 miliar, Rp200 miliar untuk melunasi utang bank ke BRI dan sisanya modal kerja.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOGA",
-   "sukuk mudharabah",
-   "surat utang syariah",
-   "Apollo Global Interactive"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/de1c08b78d_8f119a98d7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smsm-klarifikasi-ke-bei-kas-turun-rp137-m-piutang-naik-11",
-  "category": "Aksi Korporasi",
-  "title": "SMSM [Klarifikasi] ke BEI: Kas Turun Rp137 M, Piutang Naik 11%",
-  "deck": "SMSM menjelaskan ke BEI bahwa kas turun Rp136,86 miliar akibat pembayaran dividen, sementara piutang usaha naik 11,16 persen, lebih cepat dari penjualan.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMSM",
-   "Selamat Sempurna",
-   "piutang usaha",
-   "arus kas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8ceacd1dfb_f5868f2d2b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "hrme-lelang-hotel-hermitage-diklaim-dimenangkan-hmj",
-  "category": "Aksi Korporasi",
-  "title": "HRME: [Lelang] Hotel Hermitage Diklaim Dimenangkan HMJ",
-  "deck": "HRME mengonfirmasi PT Hotel Menteng Jakarta mengklaim memenangkan lelang atas tanah dan bangunan Hotel Hermitage, sementara sertifikatnya masih tercatat atas nama Perseroan.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HRME",
-   "Hotel Hermitage",
-   "Lelang Aset",
-   "PPJBS"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/391be5e2e2_9e2ded51b8.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-batu-bara-dan-minyak-nabati-wajib-lewat-portal-dsi-2027",
-  "category": "Makroekonomi",
-  "title": "Ekspor Batu Bara dan Minyak Nabati Wajib Lewat Portal [DSI] 2027",
-  "deck": "Pemerintah wajibkan ekspor batu bara, minyak nabati, dan ferroalloy lewat Portal DSI mulai 2027, seiring aturan baru devisa ekspor tambang dan data ekonomi kuartal III 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
-  "tags": [
-   "DHE SDA",
-   "Portal DSI",
-   "ekspor tambang",
-   "IEU-CEPA"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7220/dorong-kepercayaan-dan-peningkatan-investasi-menko-airlangga-optimistis-prospek-ekonomi-2027-tetap-kuat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "harga-patokan-ekspor-emas-turun-2-02-persen-di-november-2026",
-  "category": "Industri",
-  "title": "Harga Patokan Ekspor Emas [Turun] 2,02 Persen di November 2026",
-  "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas periode 15-30 November 2026, turun 2,02 persen akibat investor global beralih dari emas ke instrumen lain.",
-  "date": "13 November 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
-  "tags": [
-   "emas",
-   "HPE",
-   "bea keluar",
-   "Kemendag"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/hpe-dan-hr-emas-periode-ii-november-2026-masih-tunjukkan-perlemahan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "doid-9m26-rugi-susut-ke-us-43-juta-pendapatan-turun-18",
-  "category": "Aksi Korporasi",
-  "title": "DOID 9M26: [Rugi] Susut ke US$43 Juta, Pendapatan Turun 18%",
-  "deck": "Pendapatan DOID turun 18% secara tahunan jadi US$929 juta pada 9M26, namun rugi bersih menyusut 47% menjadi US$43 juta berkat dividen one-off US$40 juta dari Asiamet.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOID",
-   "BUMA International Group",
-   "batu bara",
-   "kinerja keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea558d37fb_787263f1dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "astra-sabet-dua-penghargaan-esg-asia-2026",
-  "category": "Bisnis",
-  "title": "Astra Sabet Dua [Penghargaan] ESG Asia 2026",
-  "deck": "Astra meraih Gold Winner dan Bronze Winner di Asia ESG Positive Impact Awards 2026 lewat program Desa Sejahtera Astra dan Astra Green Energy.",
-  "date": "13 November 2026",
-  "image": "assets/img/astra-sabet-dua-penghargaan-esg-asia-2026.jpg",
-  "imageV": "mwf0273d",
-  "tags": [
-   "astra",
-   "desa sejahtera astra",
-   "esg",
-   "astra green energy"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478194-astra-raih-dua-penghargaan-asia-esg-positive-impact-awards"
- },
- {
-  "slug": "jatuh-tempo-obligasi-fifa-16-november-rp250-78-miliar-delisting",
-  "category": "Aksi Korporasi",
-  "title": "Jatuh Tempo Obligasi FIFA 16 November: Rp250,78 Miliar [Delisting]",
-  "deck": "Obligasi Berkelanjutan VI FIFA Seri B senilai Rp250,78 miliar jatuh tempo 16 November 2026 dan resmi berhenti diperdagangkan di BEI.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIFA",
-   "obligasi",
-   "jatuh tempo",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/455f921d4a_36b66923c1.pdf",
-  "sourceLabel": "IDX"
  }
 ];

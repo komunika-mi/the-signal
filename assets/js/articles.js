@@ -3,6 +3,169 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ijee-direktur-utama-hendrik-tee-mundur-rups-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "IJEE: Direktur Utama Hendrik Tee [Mundur], RUPS 90 Hari",
+  "deck": "Direktur Utama IJEE Hendrik Tee mengajukan pengunduran diri lewat surat 20 November 2026. Perseroan wajib memutuskannya lewat RUPS atau keputusan sirkuler dalam 90 hari.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:25:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_IJEE_E019_7514f554-64ad-4b3f-812b-0f700aaeb132-20261123172506.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IJEE",
+  "tags": [
+   "IJEE",
+   "pengunduran diri direksi",
+   "RUPS",
+   "tata kelola perusahaan"
+  ],
+  "body": [
+   "PT Integrasi Jaringan Ekosistem (IJEE) menyampaikan bahwa Hendrik Tee mengundurkan diri dari jabatan Direktur Utama melalui surat tertanggal 20 November 2026, yang diterima perseroan pada tanggal yang sama. Dalam suratnya, Hendrik Tee meminta perseroan mengambil langkah korporasi dan administratif yang diperlukan, termasuk menyelenggarakan Rapat Umum Pemegang Saham (RUPS) atau Keputusan Sirkuler pengganti RUPS, serta memenuhi kewajiban pelaporan ke Otoritas Jasa Keuangan dan instansi berwenang lainnya.",
+   "Berdasarkan Pasal 8 ayat (3) juncto Pasal 27 POJK 33/2014 serta Anggaran Dasar perseroan, permohonan pengunduran diri ini baru akan diputuskan secara resmi lewat RUPS atau Keputusan Sirkuler dalam jangka waktu 90 hari sejak surat diterima, sehingga tanggal efektifnya belum ditentukan. Susunan direksi dan komisaris IJEE selanjutnya baru akan ditetapkan berdasarkan keputusan RUPS atau Keputusan Sirkuler tersebut.",
+   "Perseroan menegaskan bahwa pengunduran diri ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha. Kegiatan usaha IJEE dan entitas anak tetap berjalan seperti biasa, dengan fungsi pengurusan dan pengawasan untuk sementara dijalankan oleh anggota direksi dan dewan komisaris lainnya. Perseroan juga menyampaikan terima kasih atas kontribusi Hendrik Tee selama menjabat. Keterbukaan informasi ini ditandatangani oleh Rudy Chandra selaku Direktur."
+  ],
+  "fotoAdegan": "Technicians splicing fiber optic cables inside a dim telecommunications server room in Jakarta, close focus.",
+  "takeaway": "Laporan ini netral bagi IJEE karena pengunduran diri Direktur Utama tidak disertai indikasi konflik, sengketa, atau perubahan struktur kepemilikan, dan perseroan menegaskan operasional tetap berjalan normal selama masa transisi. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan kepemimpinan puncak, dan pelaku pasar biasa mencermati pergantian direktur utama karena posisi ini biasanya menentukan arah strategi dan hubungan dengan investor. Yang perlu dipantau selanjutnya adalah RUPS atau Keputusan Sirkuler yang wajib digelar dalam 90 hari sejak surat diterima pada 20 November 2026, termasuk siapa yang akan ditetapkan mengisi posisi Direktur Utama.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran Diri Direksi dan/atau Komisaris",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Surat pengunduran diri Direktur Utama diterima perseroan"
+   }
+  ]
+ },
+ {
+  "slug": "akuisisi-atap-dana-berguna-sejahtera-umumkan-progres-negosiasi",
+  "category": "Aksi Korporasi",
+  "title": "[Akuisisi] ATAP: Dana Berguna Sejahtera Umumkan Progres Negosiasi",
+  "deck": "PT Dana Berguna Sejahtera mengumumkan perkembangan negosiasi rencana pengambilalihan PT Trimitra Prawara Goldland Tbk (ATAP), namun rincian harga dan persentase saham belum diungkap.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:16:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ATAP_E019_6a44af48-abac-406a-b4b7-84db1d856428-20261123171636.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ATAP",
+  "tags": [
+   "ATAP",
+   "akuisisi",
+   "Trimitra Prawara Goldland",
+   "pengambilalihan saham"
+  ],
+  "body": [
+   "PT Trimitra Prawara Goldland Tbk (ATAP) melaporkan ke Bursa Efek Indonesia bahwa calon investor, PT Dana Berguna Sejahtera, telah mengumumkan perkembangan negosiasi terkait rencana pengambilalihan saham ATAP. Keterbukaan informasi ini bernomor surat 566/OBE-TPG/XI/2026, mencatat tanggal kejadian 20 November 2026, dan disampaikan ke bursa pada 23 November 2026 pukul 17.16 WIB dengan ditandatangani oleh Edo Noviardi atas nama perusahaan.",
+   "Dalam laporan tersebut, ATAP mengategorikan informasi ini sebagai Informasi atau Fakta Material lainnya yang berpotensi berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perusahaan. Namun, isi dokumen hanya menyebutkan bahwa pengumuman perkembangan negosiasi telah dilakukan oleh pihak calon pengambil alih, tanpa merinci berapa persen saham yang akan berpindah tangan, harga per saham, maupun skema pendanaan transaksi.",
+   "ATAP sendiri bergerak di bidang pengembang properti. Dengan status laporan ini yang masih berupa pembaruan proses negosiasi, belum ada kepastian apakah pengambilalihan akan berlanjut sampai penandatanganan perjanjian definitif atau RUPSLB untuk meminta persetujuan pemegang saham."
+  ],
+  "fotoAdegan": "Aerial view of a mid-rise residential apartment complex under construction with cranes, Jakarta skyline in soft afternoon haze",
+  "takeaway": "Laporan ini bersifat netral bagi ATAP, karena isinya hanya mengonfirmasi bahwa negosiasi pengambilalihan masih berjalan tanpa menyebut harga, persentase saham yang berpindah, atau sumber pendanaan, sehingga terlalu dini untuk disebut sinyal positif atau negatif. Jika pengambilalihan ini akhirnya terealisasi, yang berpotensi tersentuh adalah struktur pengendali perusahaan dan ekuitas, yakni modal sendiri perusahaan, karena pemilik baru bisa membawa suntikan dana segar atau justru mengubah arah bisnis ATAP. Dokumen ini tidak mencantumkan tanggal RUPSLB, tanggal efektif, atau tenggat pembayaran apa pun, sehingga pembaca perlu menunggu keterbukaan informasi lanjutan dari ATAP yang biasanya merinci harga per saham, persentase kepemilikan yang berpindah, dan identitas final pihak pengambil alih sebelum transaksi ini bisa dinilai lebih jauh.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupslb-ades-16-desember-2026-agenda-menyusul-24-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADES 16 Desember 2026: [Agenda] Menyusul 24 November",
+  "deck": "Akasha Wira International (ADES) menjadwalkan RUPSLB pada 16 Desember 2026 secara elektronik lewat eASY KSEI; agenda rapat baru terbit lewat pemanggilan resmi 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:15:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ADES_E001_dcc2d903-f145-4b2a-83e3-c0671cda2f10-20261123171510.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADES",
+  "tags": [
+   "ADES",
+   "RUPSLB",
+   "Akasha Wira International",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Akasha Wira International Tbk (ADES) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026 pukul 10.00 WIB. Rapat akan digelar di Plaza Oleos, Meeting Room Arjuna, Jalan Letnan Jenderal T.B. Simatupang, Kelurahan Kebagusan, Pasar Minggu, Jakarta Selatan, dengan memanfaatkan fasilitas Rapat Umum Elektronik eASY KSEI yang disediakan Kustodian Sentral Efek Indonesia, termasuk mekanisme e-proxy dan e-voting bagi pemegang saham yang tidak hadir fisik.",
+   "Pengumuman ini masih berupa tahap awal, bukan surat pemanggilan resmi. Perusahaan menyebutkan, pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam daftar pemegang saham perseroan pada Senin, 23 November 2026 pukul 16.00 WIB. Surat pemanggilan resmi, yang biasanya baru memuat agenda dan mata acara rapat secara rinci, akan diumumkan di situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs web perseroan pada Selasa, 24 November 2026.",
+   "Dokumen ini juga menyebut hak pemegang saham untuk mengusulkan mata acara rapat secara tertulis kepada Direksi, sesuai Pasal 16 POJK 15/2020 tentang Perencanaan dan Penyelenggaraan RUPS Perusahaan Terbuka, selambat-lambatnya tujuh hari kalender sebelum tanggal pemanggilan. Pengumuman ditandatangani Direksi PT Akasha Wira International Tbk di Jakarta pada 9 November 2026."
+  ],
+  "fotoAdegan": "Workers inspecting bottled drinking water moving along a conveyor belt inside a bright Indonesian beverage factory",
+  "takeaway": "Pengumuman ini sendiri netral bagi ADES: isinya baru soal jadwal dan tata cara rapat, belum ada agenda atau keputusan yang bisa dinilai dampaknya terhadap kinerja perusahaan. Begitu agenda terbit lewat pemanggilan resmi, baru bisa terlihat pos mana yang tersentuh, misalnya jika agendanya soal penambahan modal maka jumlah saham beredar dan laba per saham (keuntungan bersih dibagi jumlah saham) bisa berubah, atau jika soal pergantian direksi maka yang berubah adalah tata kelola, bukan angka keuangan. Yang perlu dipantau adalah surat pemanggilan resmi pada 24 November 2026 yang semestinya memuat mata acara rapat sesungguhnya, lalu pelaksanaan RUPSLB pada 16 Desember 2026. Perlu juga dicermati apakah agenda ini bersinggungan dengan proses penundaan pembayaran utang (PKPU) yang masih dijalani ADES, mengingat laporan ini belum menjelaskan kaitan keduanya.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pengumuman RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPS (DPS)"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Pemanggilan resmi RUPSLB diumumkan"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Pelaksanaan RUPSLB ADES"
+   }
+  ]
+ },
+ {
+  "slug": "bunga-obligasi-adhi-24-november-berpotensi-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "Bunga Obligasi ADHI 24 November: [Berpotensi Tertunda]",
+  "deck": "ADHI menyatakan berpotensi menunda bunga ke-18 obligasi Rp60,82 miliar jatuh tempo 24 November 2026, setelah dua RUPO sebelumnya menolak usulan penjadwalan ulang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:14:40",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ADHI_E019_16e78524-42bc-4004-9eef-f9379d935df3-20261123171442.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi korporasi",
+   "restrukturisasi utang",
+   "BUMN karya"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk (ADHI) menyatakan berpotensi menunda pembayaran bunga ke-18 Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022 Seri B dan C senilai Rp60,82 miliar yang jatuh tempo pada 24 November 2026. Keterbukaan informasi ini disampaikan menyusul surat PT Kustodian Sentral Efek Indonesia (KSEI) Nomor KSEI-27570/JKU/1126 yang meminta kesiapan dana bunga tersebut.",
+   "Perseroan menyebut sedang menghadapi tekanan keuangan yang bersifat struktural, yang memengaruhi kinerja konsolidasi serta likuiditas dan solvabilitas ADHI sebagai entitas induk. Kondisi itu membuat dana yang tersedia tidak cukup untuk membayar bunga obligasi tepat pada tanggal jatuh temponya. Untuk memperbaiki kondisi ini, ADHI tengah menjalankan restrukturisasi pinjaman perbankan lewat Master Restructuring Agreement (MRA) serta program transformasi bisnis, sembari menjaga operasional tetap berjalan.",
+   "Upaya penyelesaian ke pemegang obligasi sudah dua kali ditempuh lewat Rapat Umum Pemegang Obligasi (RUPO), namun keduanya gagal disetujui. Pada 6 Agustus 2026, ADHI mengusulkan perubahan dan penundaan jadwal pembayaran bunga ke-17, ke-18, dan ke-19, tapi pemegang obligasi menolak. Pada 30 Oktober 2026, usulan baru berupa pembayaran bunga ke-18 secara bertahap lewat cicilan juga tidak disetujui. ADHI mengatakan akan berkoordinasi dengan wali amanat, PT Bank Mega Tbk, untuk menempuh langkah penyelesaian sesuai perjanjian perwaliamanatan, termasuk kemungkinan menggelar RUPO lagi. Surat ini ditandatangani oleh Harimawan selaku Pelaksana Harian Direktur Utama yang juga menjabat Direktur Operasi I."
+  ],
+  "fotoAdegan": "Idle cranes and stacked rebar at a quiet highway overpass construction site under overcast afternoon light",
+  "takeaway": "Laporan ini condong negatif bagi ADHI, karena potensi penundaan bunga obligasi menandakan perseroan sulit memenuhi kewajiban jangka pendeknya, apalagi dua upaya RUPO sebelumnya sudah ditolak pemegang obligasi dan ini muncul tak lama setelah dua kreditur mengajukan permohonan PKPU ke pengadilan pekan lalu. Yang tersentuh adalah likuiditas, yaitu ketersediaan uang kas untuk membayar kewajiban yang jatuh tempo, dan solvabilitas, yaitu kemampuan perusahaan menutup seluruh utangnya dari aset yang dimiliki, dua pos yang disorot pasar karena gagal bayar bunga bisa memicu kreditur lain menagih lebih cepat atau menekan peringkat utang ADHI. Yang perlu dipantau berikutnya adalah apakah ADHI benar membayar bunga pada tanggal jatuh tempo 24 November 2026 atau resmi menundanya, serta kapan RUPO lanjutan yang disebut dalam surat ini akan digelar karena dokumen belum mencantumkan tanggalnya.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Jatuh tempo pembayaran bunga ke-18 obligasi ADHI"
+   }
+  ]
+ },
+ {
+  "slug": "ppro-marketing-sales-rp383-miliar-lampaui-realisasi-2025",
+  "category": "Aksi Korporasi",
+  "title": "PPRO: Marketing Sales Rp383 Miliar [Lampaui] Realisasi 2025",
+  "deck": "PPRO membukukan marketing sales Rp383 miliar hingga September 2026, melampaui realisasi sepanjang 2025, didukung divestasi lahan di Wiyung, Surabaya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:09:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PPRO_E019_6c3b1425-52cc-4d5d-80aa-547c161b53e5-20261123170944.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRO",
+  "tags": [
+   "PPRO",
+   "PP Properti",
+   "marketing sales",
+   "divestasi aset"
+  ],
+  "body": [
+   "PT PP Properti Tbk (PPRO) melaporkan marketing sales sebesar Rp383 miliar sepanjang Januari hingga September 2026, sudah melampaui total realisasi sepanjang tahun 2025. Perseroan juga membukukan pendapatan Rp251 miliar pada periode yang sama. Angka ini disampaikan dalam siaran pers terkait Public Expose Tahunan 2026 yang digelar secara daring pada 17 November, di mana Direktur Utama PPRO, Dyah Rahadyannie, memaparkan tiga pilar strategis perusahaan, yaitu Penguatan Arus Kas, Transformasi Operasional, dan Pengembangan Baru Berkelanjutan.",
+   "Pada pilar penguatan arus kas, PPRO sudah merealisasikan divestasi lahan milik anak perusahaannya yang berlokasi di Wiyung, Surabaya, sebagai bagian dari strategi asset recycling atau mengoptimalkan aset yang perputaran penjualannya lambat. Perseroan menyebut optimistis dapat merealisasikan rencana divestasi lanjutan atas dua lahan lain di Surabaya dan Malang. Nilai transaksi divestasi Wiyung maupun rencana penjualan dua lahan tambahan tidak disebutkan dalam dokumen ini.",
+   "Di pilar transformasi operasional, PPRO berfokus pada digitalisasi proses bisnis, penguatan sumber daya manusia, serta mempercepat penyelesaian legalitas kepemilikan unit apartemen bagi konsumen. Untuk pilar pengembangan baru, Perseroan menjajaki pembangunan rumah tapak dan hunian mahasiswa, termasuk rencana Louvin Apartment Tower 2 di Jatinangor, Sumedang, Jawa Barat, melalui kemitraan dengan investor, menyusul telah terjualnya seluruh unit Tower 1 Louvin Apartment. Setiap rencana pengembangan baru disebut wajib memenuhi kriteria kesiapan pasar, kapasitas pendanaan, dan mitigasi risiko."
+  ],
+  "fotoAdegan": "Workers inspecting exterior scaffolding on a mid-rise apartment tower construction site under bright daylight",
+  "takeaway": "Laporan ini condong positif bagi PPRO, karena marketing sales sembilan bulan pertama 2026 sudah melampaui total penjualan sepanjang tahun 2025, dan perusahaan sudah merealisasikan satu penjualan aset untuk memperkuat kasnya, bukan sekadar wacana. Pos kinerja yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar masuk ke kas perusahaan dari penjualan unit dan pelepasan aset, yang penting dipantau investor karena menentukan kemampuan PPRO membayar kewajiban dan membiayai proyek baru tanpa harus berutang lagi. Yang perlu digarisbawahi, dokumen ini tidak menyebut nilai transaksi divestasi lahan Wiyung maupun target nilai dari rencana divestasi lahan di Surabaya dan Malang, sehingga besarnya dampak ke kas belum bisa diukur pasti. Yang perlu dipantau selanjutnya adalah realisasi divestasi dua lahan tambahan di Surabaya dan Malang serta kelanjutan kemitraan pengembangan Louvin Apartment Tower 2 di Jatinangor, karena keduanya akan menentukan apakah strategi penguatan arus kas ini benar-benar membuahkan hasil atau masih sebatas rencana.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
   "slug": "kppu-dalami-dugaan-persekongkolan-tender-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU Dalami Dugaan [Persekongkolan] Tender Pasar Ciparay",
@@ -24,6 +187,47 @@ var ARTICLES = [
   "kreditFoto": "Komisi Pengawas Persaingan Usaha",
   "takeaway": "Yang terungkap dalam sidang ini bukan sekadar prosedur administrasi yang berantakan, melainkan celah aturan: regulasi pengelolaan aset desa, tidak seperti aturan untuk aset milik pemerintah daerah, memang tidak mewajibkan lelang terbuka saat memilih mitra swasta. Pihak yang terdampak langsung adalah tiga perusahaan konstruksi yang jadi Terlapor serta Panitia Beauty Contest, sementara dampak tidak langsungnya menyentuh pedagang Pasar Ciparay yang pasarnya sedang dibangun ulang. Dari bukti yang muncul sejauh ini, ada dua kemungkinan arah: pertama, KPPU menemukan unsur persekongkolan yang disengaja di balik ketidaklengkapan dokumen; kedua, proses ini ternyata sah secara teknis karena aturannya memang longgar, sehingga sulit dibuktikan sebagai pelanggaran. Sidang lanjutan Selasa, 24 November 2026, yang memeriksa saksi dari Terlapor I, akan jadi penentu arah mana yang lebih kuat buktinya.",
   "imageV": "mwt42caz"
+ },
+ {
+  "slug": "dematerialisasi-saham-smsm-tenggat-serahkan-sks-sebelum-6-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "Dematerialisasi Saham SMSM: [Tenggat] Serahkan SKS Sebelum 6 Mei 2030",
+  "deck": "Selamat Sempurna meminta pemegang saham warkat menyerahkan SKS ke BAE paling lambat 6 Mei 2030 sesuai POJK 9/2025, atau sahamnya terancam jadi aset tidak diklaim.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:08:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_SMSM_E019_91ccf1fb-568e-4d4f-a98b-f8902220dc2e-20261123170831.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "Selamat Sempurna",
+   "Dematerialisasi Saham",
+   "POJK 9/2025"
+  ],
+  "body": [
+   "PT Selamat Sempurna Tbk (SMSM) mengumumkan kepada seluruh pemegang saham yang masih memegang saham dalam bentuk warkat atau Surat Kolektif Saham (SKS) untuk segera melakukan dematerialisasi, yaitu mengubah bentuk saham fisik menjadi catatan elektronik. Pengumuman ini menjalankan Peraturan OJK No. 9 Tahun 2025, yang mewajibkan setiap perusahaan terbuka dan pemegang saham warkatnya menyelesaikan proses ini paling lambat 6 Mei 2030, yakni lima tahun sejak aturan tersebut berlaku pada 6 Mei 2025.",
+   "Pemegang saham yang sudah punya Sub Rekening Efek (SRE) di perusahaan efek atau bank kustodian bisa langsung mengonversi saham warkatnya lewat sistem C-BEST milik KSEI, dengan biaya konversi mengikuti jumlah saham yang dikonversi. Bagi yang belum punya SRE, sahamnya akan dicatat dalam Rekening Titipan atas nama pemiliknya, dengan menyerahkan SKS asli, KTP ber-NIK terbaru (atau paspor untuk WNA), NPWP, serta alamat email dan nomor telepon aktif kepada Biro Administrasi Efek (BAE) perseroan, PT Sinartama Gunita, di Menara Tekno, Jakarta Pusat. BAE akan menerbitkan Single Investor Identification (SID) dan keterangan keabsahan kepemilikan saham dalam dua hari kerja setelah dokumen diterima lengkap.",
+   "Jika tenggat 6 Mei 2030 terlewat, saham warkat tidak bisa lagi diperjualbelikan baik di bursa maupun di luar bursa sampai pemiliknya menuntaskan dematerialisasi. Pemegang saham masih diberi waktu lima tahun lagi untuk mengklaim kepemilikannya lewat BAE, sampai 6 Mei 2035. Setelah tenggat itu lewat, saham yang belum diklaim dinyatakan sebagai aset tidak diklaim, SKS aslinya dimusnahkan, dan sahamnya dipindahkan ke rekening titipan yang dikelola pihak yang ditunjuk OJK, dengan jendela klaim terakhir selama 30 tahun hingga 5 Mei 2065."
+  ],
+  "fotoAdegan": "Clerks sorting rows of paper folders in a quiet financial back-office archive, soft afternoon light through blinds",
+  "takeaway": "Laporan ini netral bagi fundamental SMSM karena tidak mengubah satu pun angka keuangan, melainkan sekadar menjalankan kewajiban administratif POJK 9/2025 yang berlaku untuk seluruh emiten di BEI. Yang tersentuh bukan pos seperti ekuitas, arus kas, atau laba per saham, melainkan cara saham dicatat, dari kertas fisik (SKS) menjadi elektronik di sistem C-BEST milik KSEI, sebuah perubahan administrasi yang tidak mengubah jumlah saham beredar maupun hak suara pemegangnya. Yang perlu dipantau pemegang saham SMSM yang masih punya SKS adalah tenggat 6 Mei 2030 untuk menyerahkan sertifikatnya ke BAE, karena setelah itu sahamnya tidak bisa diperdagangkan dan berisiko berstatus aset tidak diklaim jika dibiarkan sampai 6 Mei 2035.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2030-05-06",
+    "acara": "Tenggat penyerahan SKS untuk dematerialisasi saham warkat"
+   },
+   {
+    "tanggal": "2035-05-06",
+    "acara": "Akhir periode klaim sebelum saham berstatus aset tidak diklaim"
+   },
+   {
+    "tanggal": "2065-05-05",
+    "acara": "Akhir jendela klaim 30 tahun atas saham aset tidak diklaim"
+   }
+  ]
  },
  {
   "slug": "35-kesepakatan-ri-tiongkok-diteken-di-shenzhen-rp274-triliun",
@@ -108,6 +312,268 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "takeaway": "Dua opsi yang disebut Bahlil untuk tambang masa depan sebenarnya berbeda jauh dampaknya. Opsi kepemilikan saham berarti negara punya kursi langsung di perusahaan tambang dan ikut menentukan keputusan bisnisnya, sementara opsi pendapatan hanya menaikkan porsi setoran ke negara tanpa mengubah siapa yang mengendalikan perusahaan. Sinyal yang lebih kuat justru ada di tambang yang sudah berjalan, karena Bahlil menegaskan kontrak lama akan dihormati, yang mengarah ke opsi pendapatan ketimbang pengambilan saham untuk kasus itu. Pihak yang paling kena dampak adalah perusahaan tambang eksisting dan calon investor tambang baru, karena kepastian struktur kepemilikan memengaruhi hitungan bisnis mereka. Yang perlu dipantau adalah rumusan final dari Kemenko Hilirisasi dan Energi, yang menurut Bahlil belum punya tenggat waktu pasti.",
   "imageV": "mwt42gxo"
+ },
+ {
+  "slug": "bris-laba-bersih-9m2026-naik-10-jadi-rp6-13-triliun-car-turun",
+  "category": "Aksi Korporasi",
+  "title": "BRIS: Laba Bersih 9M2026 [Naik] 10% jadi Rp6,13 Triliun, CAR Turun",
+  "deck": "Laporan keuangan interim auditan Kuartal III 2026 BRIS mencatat laba bersih Rp6,13 triliun, naik dari Rp5,57 triliun, sementara rasio kecukupan modal turun ke 20,84 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:55:33",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-8cf3dc75-a89b-4d4f-9549-4284c3f65c40-1/FinancialStatement-2026-III-BRIS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "Bank Syariah Indonesia",
+   "laporan keuangan",
+   "CAR"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia Tbk (BRIS) membukukan laba bersih Rp6,13 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik dari Rp5,57 triliun pada periode yang sama tahun lalu, menurut laporan keuangan interim auditan yang disampaikan ke Bursa Efek Indonesia pada 23 November 2026. Laba per saham dasar perseroan naik dari Rp120,72 menjadi Rp132,83. Total aset BRIS tercatat Rp475,37 triliun per akhir September 2026, naik dari Rp456,19 triliun pada akhir 2025.",
+   "Dari sisi permodalan, rasio kecukupan modal (CAR) BRIS turun dari 22,00 persen pada akhir 2025 menjadi 20,84 persen pada akhir September 2026. Meski begitu, kualitas pembiayaan justru membaik, rasio pembiayaan bermasalah kotor atau NPF bruto turun dari 1,82 persen menjadi 1,79 persen, dan NPF bersih turun dari 0,47 persen menjadi 0,35 persen. Perseroan menambah cadangan kerugian penurunan nilai pada piutang murabahah dari Rp4,55 triliun menjadi Rp6,30 triliun, dan pada pembiayaan musyarakah dari Rp5,62 triliun menjadi Rp7,76 triliun. Kenaikan ini sejalan dengan hal audit utama yang digarisbawahi auditor, yaitu penyisihan kerugian atas aset keuangan yang mencapai Rp14,92 triliun dari total piutang, pinjaman qardh, dan pembiayaan senilai Rp344,72 triliun.",
+   "Total liabilitas BRIS melonjak dari Rp104,93 triliun menjadi Rp127,51 triliun, terutama didorong oleh pos liabilitas lainnya yang naik dari Rp8,10 triliun menjadi Rp26,25 triliun. Di sisi lain, dana syirkah temporer, yaitu simpanan nasabah berbasis bagi hasil mudharabah, turun dari Rp299,31 triliun menjadi Rp294,85 triliun. Ekuitas perseroan naik dari Rp51,95 triliun menjadi Rp53,01 triliun, dengan saldo laba bertambah dari Rp31,58 triliun menjadi Rp33,18 triliun, sementara modal disetor tetap di Rp23,06 triliun. Laporan ini diaudit oleh KAP Purwanto Susanti dan Surja dengan partner penandatangan Christophorus Alvin Kossim, dan auditor memberikan opini wajar tanpa modifikasian atau opini bersih."
+  ],
+  "fotoAdegan": "Bank customers queueing at teller counters inside a modern branch lobby, soft indoor lighting, no signage visible",
+  "takeaway": "Laporan ini netral bagi BRIS: kenaikan laba bersih 10 persen dan perbaikan rasio pembiayaan bermasalah menunjukkan kinerja inti yang membaik, tetapi penurunan rasio kecukupan modal dan lonjakan liabilitas lainnya yang hampir tiga kali lipat membuatnya bukan sinyal murni positif. Yang tersentuh di sini adalah rasio kecukupan modal atau CAR, bantalan modal bank dibanding aset berisikonya yang dipantau otoritas agar bank tidak kolaps kalau pembiayaannya macet. Turunnya CAR dari 22 persen ke 20,84 persen berarti bantalan itu menipis, meski masih jauh di atas batas minimum 8 persen yang disyaratkan OJK. Ekuitas dan laba per saham yang naik berarti nilai buku pemegang saham bertambah, sementara kenaikan cadangan kerugian pada piutang murabahah dan pembiayaan musyarakah menunjukkan manajemen semakin berjaga-jaga atas risiko kredit meski rasio NPF-nya sendiri membaik. Yang perlu dipantau berikutnya adalah laporan tahunan penuh 2026, untuk melihat apakah tren kenaikan liabilitas lainnya dan penurunan CAR ini berlanjut atau hanya fluktuasi sementara di kuartal ketiga.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim Auditan"
+ },
+ {
+  "slug": "dividen-interim-vici-rp7-7-per-saham-cair-16-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim VICI Rp7,7 per Saham, [Cair] 16 Desember 2026",
+  "deck": "VICI membagikan dividen interim Rp51,65 miliar atau Rp7,7 per saham, dibayar 16 Desember 2026, dengan batas pencatatan pemegang saham 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:51:01",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_VICI_E007_67390ca1-e9fd-409b-96f2-ebce5948036f-20261123165103.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "dividen interim",
+   "aksi korporasi",
+   "Victoria Care Indonesia"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) memutuskan membagikan dividen interim tahun buku 2026 senilai total Rp51,65 miliar, atau Rp7,7 per saham. Keputusan ini diambil Direksi dan disetujui Dewan Komisaris pada 19 November 2026, dengan dasar laporan keuangan kuartal III yang berakhir 30 September 2026. Berdasarkan laporan itu, laba bersih yang bisa diatribusikan ke pemegang saham induk mencapai Rp87,73 miliar, saldo laba ditahan yang tidak dibatasi penggunaannya Rp725,53 miliar, dan total ekuitas perusahaan Rp1,15 triliun.",
+   "Jadwal pembagiannya cukup rapat. Cum dividen di pasar reguler dan negosiasi jatuh pada 1 Desember 2026, disusul ex dividen sehari kemudian. Untuk pasar tunai, cum dividen berlaku 3 Desember 2026 dan ex dividen 4 Desember 2026. Daftar pemegang saham yang berhak menerima dividen (recording date) ditutup pada 3 Desember 2026 pukul 16.00 WIB, dan pembayaran dilakukan 16 Desember 2026.",
+   "Bagi pemegang saham yang sahamnya tercatat di penitipan kolektif KSEI, dividen akan ditransfer otomatis lewat rekening efek atau bank kustodian masing-masing. Pemegang saham yang masih memegang saham dalam bentuk warkat perlu melaporkan nomor rekening banknya ke Biro Administrasi Efek, PT Bima Registra, paling lambat 3 Desember 2026 pukul 16.00 WIB. Dokumen juga mengatur soal pajak: dividen bagi wajib pajak orang pribadi dalam negeri bebas PPh asalkan diinvestasikan kembali di Indonesia dalam jangka waktu tertentu, sementara wajib pajak luar negeri yang tidak menyerahkan Surat Keterangan Domisili akan dikenakan PPh Pasal 26 sebesar 20 persen."
+  ],
+  "fotoAdegan": "Workers inspecting small personal care product bottles moving along a factory conveyor belt under bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi pemegang saham, karena nilai dividen interim yang dibagikan, Rp51,65 miliar, setara hampir 59 persen dari laba bersih sembilan bulan pertama 2026 yang mencapai Rp87,73 miliar, jadi perusahaan membagi sebagian besar keuntungannya tanpa menunggu tutup tahun buku. Begitu dibayarkan pada 16 Desember 2026, dana ini keluar dari kas perusahaan sehingga arus kasnya berkurang, dan saldo laba ditahan, yaitu simpanan keuntungan tahun-tahun sebelumnya yang belum dibagikan, akan turun sebesar nilai dividen tersebut, yang pada akhirnya juga mengurangi total ekuitas atau modal sendiri perusahaan. Yang perlu dipantau berikutnya adalah batas Daftar Pemegang Saham pada 3 Desember 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran 16 Desember 2026 yang akan memastikan rencana ini benar-benar terlaksana sesuai jadwal.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Aksi Korporasi Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Persetujuan Dewan Komisaris dan keputusan Direksi soal dividen interim"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pengumuman jadwal pembagian dividen interim"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Cum dividen pasar tunai dan batas akhir DPS pukul 16.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "waran-bbca-milik-hd-disesuaikan-penyesuaian-efektif-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Waran BBCA Milik HD Disesuaikan: [Penyesuaian] Efektif 30 November",
+  "deck": "Tiga waran terstruktur BBCA yang diterbitkan KGI Sekuritas (HD) disesuaikan harga dan rasio pelaksanaannya akibat dividen tunai BBCA, efektif 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:47:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_HD_E019_c91aa92f-3a35-467a-be4c-22a1ad4d937e-20261123164736.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "BBCA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "KGI Sekuritas Indonesia (HD) mengumumkan penyesuaian harga pelaksanaan dan rasio pelaksanaan atas tiga waran terstruktur yang diterbitkannya dengan saham acuan BBCA, yaitu BBCAHDCQ7A, BBCAHDCJ7A, dan BBCAHDCG7A. Penyesuaian ini dipicu oleh aksi korporasi pembagian dividen tunai oleh BBCA. Rumus penyesuaiannya sudah diumumkan pada 20 November 2026, sementara angka hasil akhirnya baru akan diumumkan setelah penutupan pasar pada cum date 27 November 2026, dan berlaku efektif mulai 30 November 2026.",
+   "Sebelum disesuaikan, BBCAHDCQ7A memiliki harga pelaksanaan Rp11.621 dengan rasio 11,34085 waran untuk setiap 1 saham BBCA. BBCAHDCJ7A memiliki harga pelaksanaan Rp7.801 dengan rasio 19,92278 waran untuk 1 saham BBCA. BBCAHDCG7A memiliki harga pelaksanaan Rp7.180 dengan rasio 34,75375 waran untuk 1 saham BBCA. Angka setelah penyesuaian untuk ketiganya belum dicantumkan dalam dokumen ini karena baru dihitung berdasarkan harga penutupan BBCA pada cum date 27 November 2026.",
+   "Laporan ini ditandatangani oleh Jabintang Borneo Senja atas nama KGI Sekuritas Indonesia (HD). Pada kolom dampak terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perusahaan, dokumen ini mencantumkan tanda strip, yang berarti perusahaan sendiri menyatakan tidak ada dampak langsung dari penyesuaian tersebut."
+  ],
+  "fotoAdegan": "Traders working at computer terminals on a busy brokerage trading floor, screens blurred, afternoon light",
+  "takeaway": "Laporan ini netral bagi HD karena penyesuaian semacam ini adalah mekanisme standar yang wajib dilakukan setiap kali saham acuan membagikan dividen, bukan cerminan keputusan atau kinerja perusahaan itu sendiri. Tidak ada pos keuangan HD yang tersentuh di sini, karena yang disesuaikan adalah produk turunan: waran terstruktur adalah surat berharga yang memberi hak membeli sejumlah saham acuan, dalam hal ini BBCA, pada harga dan rasio tertentu, dan rasio pelaksanaan itulah yang menentukan berapa lembar waran yang dibutuhkan untuk menukar satu saham BBCA. Penyesuaian ini penting bagi pemegang waran supaya nilai haknya tidak berkurang begitu saja setelah BBCA membagikan dividen tunai. Yang perlu dipantau pemegang waran adalah pengumuman angka harga dan rasio pelaksanaan yang baru, yang baru keluar setelah penutupan pasar pada cum date 27 November 2026, serta mulai berlakunya angka itu pada tanggal efektif 30 November 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pengumuman rumus penyesuaian waran terstruktur"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Cum date, hasil penyesuaian diumumkan setelah penutupan pasar"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tanggal efektif penyesuaian harga dan rasio pelaksanaan"
+   }
+  ]
+ },
+ {
+  "slug": "bbtn-kuartal-iii-2026-laba-bersih-naik-22-6-jadi-rp2-82-t",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Kuartal III 2026: Laba Bersih [Naik] 22,6% jadi Rp2,82 T",
+  "deck": "Laba bersih BTN naik 22,6 persen jadi Rp2,82 triliun pada sembilan bulan pertama 2026, meski ROA, ROE, dan laba komprehensif justru menurun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:47:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-74ee5b0f-efbb-4c3c-b615-d147aa28025d-1/FinancialStatement-2026-III-BBTN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBTN",
+  "tags": [
+   "BBTN",
+   "Bank BTN",
+   "laba kuartal III",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk (BBTN) melaporkan laba bersih konsolidasian Rp2,82 triliun untuk periode sembilan bulan yang berakhir 30 September 2026, naik 22,6 persen dari Rp2,30 triliun pada periode yang sama tahun lalu. Kenaikan laba ini terjadi meski pendapatan bunga dan bagi hasil justru turun dari Rp26,59 triliun menjadi Rp25,70 triliun, karena beban bunga turun lebih dalam dari Rp13,98 triliun menjadi Rp13,28 triliun. Laba operasional tercatat Rp3,53 triliun, naik dari Rp2,74 triliun, dan laba per saham dasar naik dari Rp164 menjadi Rp201.",
+   "Dari sisi pendanaan, giro dan tabungan nasabah tumbuh signifikan, sementara deposito berjangka justru menyusut dari Rp201,12 triliun menjadi Rp193,81 triliun, sehingga total simpanan nasabah konsolidasian hanya naik tipis 1,7 persen menjadi Rp412,51 triliun. Pergeseran ke dana yang lebih murah ini ikut membantu menekan beban bunga bank. Total aset BTN per akhir September 2026 mencapai Rp566,62 triliun, naik 7,35 persen dari Rp527,79 triliun di akhir 2025, sementara total ekuitas naik 4,91 persen menjadi Rp37,99 triliun, dengan modal disetor yang tetap di Rp7,02 triliun.",
+   "Rasio profitabilitas BTN secara individu, yaitu ROA dan ROE, masing-masing turun dari 0,89 persen ke 0,80 persen dan dari 11,57 persen ke 10,18 persen dibandingkan posisi akhir 2025. Laba komprehensif, yang mencakup keuntungan dan kerugian yang belum terealisasi, juga anjlok dari Rp2,86 triliun menjadi Rp1,78 triliun. Laporan keuangan interim ini telah direviu secara terbatas oleh KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young, dengan opini wajar tanpa modifikasian tertanggal 20 November 2026. Anak usaha BTN, PT Bank Syariah Nasional, tercatat memiliki total aset Rp82,61 triliun dengan kepemilikan penuh 100 persen oleh BTN."
+  ],
+  "fotoAdegan": "A bank teller assisting a customer at a counter inside a busy branch, soft morning light through windows.",
+  "takeaway": "Laporan ini netral bagi BTN: laba bersih memang tumbuh dua digit, tapi kenaikan itu tidak diikuti perbaikan rasio profitabilitas, dan laba komprehensif malah susut tajam. ROA dan ROE, dua rasio yang biasa dipakai pelaku pasar untuk mengukur seberapa efisien bank mengubah aset dan modalnya jadi laba, justru turun dibanding akhir 2025, dari 0,89 persen ke 0,80 persen untuk ROA dan dari 11,57 persen ke 10,18 persen untuk ROE. Laba per saham naik dari Rp164 ke Rp201, tapi laba komprehensif, yang mencakup kerugian nilai pasar atas surat berharga yang belum dijual, turun dari Rp2,86 triliun jadi Rp1,78 triliun, tanda sebagian kekayaan bank di atas kertas tergerus kenaikan imbal hasil obligasi. Karena ini hanya hasil reviu terbatas, bukan audit tahunan penuh, pelaku pasar akan menunggu laporan keuangan audited untuk seluruh tahun buku 2026 guna memastikan apakah pelemahan ROA dan ROE ini berlanjut atau terkoreksi.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+ },
+ {
+  "slug": "pefindo-pangkas-peringkat-bold-ke-idb-restrukturisasi-9-des",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Pangkas Peringkat BOLD ke idB, [Restrukturisasi] 9 Des",
+  "deck": "PEFINDO menurunkan peringkat BOLD dari idBBB ke idB akibat tekanan likuiditas; rapat pemegang obligasi dan sukuk digelar 9-10 Desember 2026 untuk minta persetujuan restrukturisasi utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:46:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_BOLD_E019_4610af82-ede0-4574-be18-e8748d34fb45-20261123164608.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "PEFINDO",
+   "peringkat kredit",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "Lembaga pemeringkat PEFINDO pada 18 November 2026 menurunkan peringkat korporasi PT Bukit Makmur Mandiri Utama (BOLD) menjadi idB dari sebelumnya idBBB, dan menempatkan kedua peringkat itu dalam CreditWatch dengan implikasi negatif. Pada saat yang sama, PEFINDO juga menurunkan peringkat Obligasi I, Obligasi II, dan Obligasi III perusahaan menjadi idB, serta peringkat Sukuk Ijarah I menjadi idB(sy).",
+   "Menurut PEFINDO, penurunan peringkat ini mencerminkan tekanan likuiditas BOLD dalam memenuhi kewajiban keuangan jangka pendek yang jatuh tempo dalam 12 bulan ke depan. Tekanan tersebut terutama dipicu oleh terbatasnya aktivitas perusahaan pada salah satu pelanggan utamanya selama Agustus dan September 2026, yang memperburuk profil keuangan BOLD dan membatasi kemampuannya memperoleh pinjaman modal kerja baru untuk mendukung operasional. PEFINDO menambahkan, peringkat BOLD berisiko diturunkan lagi apabila usulan restrukturisasi utangnya tidak disetujui para pemegang obligasi dan sukuk.",
+   "Untuk mengatasi tekanan tersebut, BOLD berencana menggelar Rapat Umum Pemegang Obligasi dan Rapat Umum Pemegang Sukuk pada 9 dan 10 Desember 2026 guna memohon persetujuan atas usulan restrukturisasi instrumen utangnya. Perusahaan menyatakan, berdasarkan penilaiannya pada tanggal keterbukaan informasi ini, penurunan peringkat tersebut belum memicu peristiwa cidera janji (event of default) atau wanprestasi silang (cross-default) berdasarkan perjanjian material yang dimilikinya."
+  ],
+  "fotoAdegan": "Heavy mining haul trucks loading coal at a dusty open-pit site under an overcast sky, distant excavator",
+  "takeaway": "Ini sinyal negatif yang cukup tegas bagi BOLD: penurunan dari idBBB ke idB bukan cuma satu tingkat, melainkan lompatan beberapa anak tangga sekaligus, dan status CreditWatch negatif berarti PEFINDO masih membuka kemungkinan memangkasnya lagi. Yang disorot di sini adalah arus kas dan likuiditas, yaitu kemampuan perusahaan membayar utang jangka pendek yang jatuh tempo; pelaku pasar memperhatikan rating karena itu menentukan seberapa mahal bunga pinjaman baru dan memengaruhi harga obligasi yang sudah beredar di tangan investor. Penyebabnya juga konkret, bukan sekadar siklus industri: aktivitas BOLD pada satu pelanggan utamanya mengetat selama Agustus dan September 2026, dan itu yang menggerus kasnya. Yang perlu dipantau berikutnya adalah Rapat Umum Pemegang Obligasi dan Sukuk pada 9 dan 10 Desember 2026, karena hasilnya menentukan apakah restrukturisasi utang disetujui atau peringkat BOLD berisiko turun lebih jauh lagi.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Rapat Umum Pemegang Obligasi dan Sukuk, hari kedua"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-rupsi-post-7-desember-gagal-bayar-bunga-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "RUPO/RUPSI POST 7 Desember: [Gagal Bayar] Bunga Obligasi dan Sukuk",
+  "deck": "Pos Indonesia memanggil pemegang obligasi dan sukuknya untuk RUPO/RUPSI 7 Desember 2026, membahas gagal bayar bunga serta rencana pinjaman pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:43:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_POST_E019_b2db618b-ff77-4f40-bd52-ba6067789d8c-20261123164316.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "RUPO",
+   "RUPSI",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Bank Tabungan Negara (Persero) Tbk, selaku wali amanat, mengumumkan pemanggilan Rapat Umum Pemegang Obligasi (RUPO) untuk Obligasi I Pos Indonesia Tahun 2022, serta dua Rapat Umum Pemegang Sukuk Ijarah (RUPSI) untuk Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2024 dan Tahap II Tahun 2025. Ketiganya digelar pada Senin, 7 Desember 2026 di Culture Hall Pos Bloc Lantai 2, Jakarta Pusat, dengan jam berbeda: RUPO pukul 09.00-11.00 WIB, RUPSI Tahap II pukul 13.00-15.00 WIB, dan RUPSI Tahap I pukul 16.00-18.00 WIB.",
+   "Agenda utama ketiga rapat sama: PT Pos Indonesia (Persero) akan menjelaskan keterlambatan penyampaian laporan keuangan tahun buku 2025, serta kegagalan membayar bunga Obligasi I Seri B yang ke-15 dan cicilan imbalan ijarah sukuk Seri A, B, dan C, yakni yang ke-7 untuk Tahap I dan ke-5 untuk Tahap II. Perusahaan meminta persetujuan pemegang obligasi dan sukuk atas komitmen pemenuhan kewajiban yang telat dibayar itu, serta atas rencana restrukturisasi dan transformasi bisnis yang membutuhkan pendanaan lewat pinjaman pemegang saham (shareholder loan) dan perpanjangan periode standstill. Keputusan pemegang obligasi dan sukuk dalam rapat ini dibatasi hanya pada rencana pendanaan lewat shareholder loan tersebut.",
+   "Karena rapat ini diselenggarakan atas permintaan Pos Indonesia sendiri selaku emiten, kuorumnya mensyaratkan kehadiran atau perwakilan minimal tiga perempat dari jumlah obligasi atau sukuk yang belum dilunasi, dan keputusan sah jika disetujui minimal tiga perempat dari yang hadir. Hasil rapat nantinya akan dituangkan dalam perubahan atau addendum perjanjian perwaliamanatan, dengan wali amanat diberi kuasa untuk menandatangani dokumen terkait."
+  ],
+  "fotoAdegan": "Workers sorting cardboard parcels on a conveyor belt inside a busy postal distribution warehouse under fluorescent lighting",
+  "takeaway": "Laporan ini jelas negatif bagi Pos Indonesia karena menunjukkan perusahaan gagal membayar bunga obligasi dan cicilan imbalan dua seri sukuk tepat waktu, sekaligus terlambat menyerahkan laporan keuangan tahunan 2025, dua sinyal tekanan keuangan serius untuk BUMN sebesar ini. Yang tersentuh adalah arus kas, yaitu uang tunai yang masuk dan keluar perusahaan, karena kas yang melemah membuat Pos Indonesia sampai perlu meminta pinjaman baru dari pemegang sahamnya sendiri lewat skema shareholder loan, yang nantinya menambah beban bunga dan utang perusahaan di masa depan. Permintaan perpanjangan periode standstill, yaitu masa tenang ketika kreditor sementara menahan diri menuntut pelunasan, juga menegaskan bahwa perusahaan belum punya dana cukup begitu periode itu berakhir. Yang perlu dipantau adalah hasil RUPO dan dua RUPSI pada 7 Desember 2026, termasuk apakah pemegang obligasi dan sukuk menyetujui rencana restrukturisasi serta pendanaan lewat pinjaman pemegang saham, karena keputusan itu butuh persetujuan minimal tiga perempat suara yang hadir.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPO Obligasi I 2022 dan RUPSI Sukuk Ijarah Tahap I & II Pos Indonesia"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-rupsi-post-7-desember-default-3-instrumen-utang-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "RUPO/RUPSI POST 7 Desember: [Default] 3 Instrumen Utang Dibahas",
+  "deck": "Pos Indonesia memanggil pemegang obligasi 2022 dan dua tahap sukuk ijarah untuk rapat 7 Desember 2026 soal gagal bayar bunga dan permohonan pinjaman pemegang saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T16:43:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_POST_E019_2893c538-9b0d-4b11-bb1d-73728b3b2418-20261123164304.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POST",
+  "tags": [
+   "POST",
+   "RUPO",
+   "RUPSI",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Pos Indonesia (Persero) melalui wali amanat PT Bank Tabungan Negara (Persero) Tbk memanggil tiga rapat pemegang utang berbeda, semuanya pada Senin, 7 Desember 2026, di Culture Hall Pos Bloc Lantai 2, Jalan Pos Nomor 2, Jakarta Pusat. Ketiganya adalah Rapat Umum Pemegang Obligasi (RUPO) Obligasi I Pos Indonesia Tahun 2022 pukul 09.00 sampai 11.00 WIB yang membahas gagal bayar Bunga Seri B ke-15, Rapat Umum Pemegang Sukuk Ijarah (RUPSI) Sukuk Ijarah Berkelanjutan I Tahap II Tahun 2025 pukul 13.00 sampai 15.00 WIB yang membahas gagal bayar Cicilan Imbalan Ijarah Seri A, B, dan C ke-5, serta RUPSI Sukuk Ijarah Berkelanjutan I Tahap I Tahun 2024 pukul 16.00 sampai 18.00 WIB yang membahas gagal bayar Cicilan Imbalan Ijarah Seri A, B, dan C ke-7.",
+   "Agenda ketiga rapat seragam. Perusahaan akan menjelaskan kondisi keuangannya, termasuk sebab keterlambatan penyampaian laporan keuangan tahun buku 2025, lalu meminta persetujuan atas komitmen pemenuhan kewajiban yang sudah terlambat dibayar itu. Agenda berikutnya adalah permohonan persetujuan rencana restrukturisasi dan transformasi bisnis untuk penyehatan perusahaan, termasuk kebutuhan pendanaan lewat pinjaman pemegang saham atau shareholder loan (SHL) dan permintaan perpanjangan periode standstill, yaitu masa tenggang di mana kreditur sepakat tidak menagih penuh selama perusahaan menyusun ulang kewajibannya. Pemegang obligasi dan sukuk akan diminta mengambil sikap khusus atas rencana pendanaan SHL tersebut.",
+   "Pemanggilan ini juga menyebut akan ada perubahan atau addendum pada perjanjian perwaliamanatan terkait, dengan kuasa diberikan kepada BTN selaku wali amanat untuk menandatangani dokumen perubahannya. Rapat sah mengambil keputusan jika dihadiri pemegang paling sedikit tiga per empat dari jumlah obligasi atau sukuk yang belum dilunasi, dan keputusan mengikat bila disetujui oleh tiga per empat dari yang hadir. Pemegang obligasi dan sukuk yang berhak hadir adalah yang namanya tercatat di Kustodian Sentral Efek Indonesia (KSEI) empat hari kerja sebelum tanggal rapat masing-masing."
+  ],
+  "fotoAdegan": "Postal delivery trucks parked in a logistics yard at dusk, workers loading parcel crates, overcast sky",
+  "takeaway": "Laporan ini negatif bagi Pos Indonesia karena mengonfirmasi perusahaan gagal membayar bunga Obligasi I 2022 dan cicilan imbalan dua tahap sukuk ijarah sekaligus, sambil juga terlambat menyampaikan laporan keuangan tahun buku 2025. Pos yang tersentuh adalah arus kas dan beban bunga, arus kas adalah uang tunai yang benar-benar masuk dan keluar dari kas perusahaan, dan gagal bayar berarti uang tunai yang tersedia tidak cukup menutup kewajiban bunga yang jatuh tempo. Kebutuhan pendanaan lewat pinjaman pemegang saham menunjukkan perusahaan bergantung pada suntikan dana dari pemegang saham, dalam hal ini pemerintah selaku pemilik BUMN, bukan dari hasil usahanya sendiri, sinyal bahwa kemampuan bayar jangka pendeknya sedang tertekan. Yang perlu dipantau adalah hasil ketiga rapat pada 7 Desember 2026, terutama apakah pemegang obligasi dan sukuk menyetujui rencana pinjaman pemegang saham serta perpanjangan periode standstill, karena itu menentukan apakah Pos Indonesia mendapat ruang waktu tambahan untuk menyelesaikan kewajibannya.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPO Obligasi I Pos Indonesia 2022, pukul 09.00-11.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPSI Sukuk Ijarah Berkelanjutan I Tahap II 2025, pukul 13.00-15.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPSI Sukuk Ijarah Berkelanjutan I Tahap I 2024, pukul 16.00-18.00 WIB"
+   }
+  ]
  },
  {
   "slug": "kemendes-dorong-pemuda-desa-garap-melon-hidroponik",
@@ -24600,8 +25066,8 @@ var ARTICLES = [
  {
   "slug": "acst-jadwalkan-rupslb-15-desember-cut-off-20-november",
   "category": "Aksi Korporasi",
-  "title": "ACST Jadwalkan [RUPSLB] 15 Desember, Cut-off 20 November",
-  "deck": "Acset Indonusa mengumumkan rencana RUPSLB pada 15 Desember 2026, dengan pemegang saham per 20 November 2026 berhak hadir dan usul agenda dibuka hingga 16 November 2026.",
+  "title": "RUPSLB ACST 15 Desember: Agenda [Pengalihan Aset] >50%",
+  "deck": "Pemanggilan RUPSLB Acset Indonusa mengungkap agendanya: persetujuan pengalihan aset lebih dari separuh kekayaan bersih perseroan, seiring pengakuan ekuitas dan modal kerja bersih negatif.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T15:16:24",
@@ -24611,17 +25077,38 @@ var ARTICLES = [
   "tags": [
    "ACST",
    "RUPSLB",
-   "Acset Indonusa",
-   "korporasi"
+   "pengalihan aset",
+   "ekuitas negatif"
   ],
   "body": [
-   "PT Acset Indonusa Tbk (ACST) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026, pukul 13.30 WIB di United Tractors Grand Ballroom, Jalan Raya Bekasi Km 22, Cakung Barat, Jakarta Timur. Perseroan akan mengirimkan pemanggilan resmi berisi agenda rapat pada 23 November 2026 melalui situs web perusahaan, situs Bursa Efek Indonesia, dan penyedia e-RUPS. Pemegang saham yang berhak hadir dan memberi suara adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 20 November 2026 pukul 16.00 WIB.",
-   "Perseroan membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat. Usulan harus diajukan secara tertulis kepada Direksi oleh satu atau lebih pemegang saham yang bersama-sama mewakili sekurang-kurangnya 5 persen dari total saham dengan hak suara sah, dan diterima paling lambat 16 November 2026 pukul 16.00 WIB. Usulan itu juga harus diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, berupa mata acara yang membutuhkan keputusan rapat, dilengkapi alasan dan bahan pendukung, serta tidak bertentangan dengan anggaran dasar maupun peraturan yang berlaku.",
-   "Acset berencana menggelar rapat secara elektronik menggunakan fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, yang memungkinkan pemegang saham memberi kuasa lewat e-Proxy atau memberikan suara lewat e-Voting, sesuai POJK Nomor 14 Tahun 2025 tentang pelaksanaan rapat umum pemegang saham secara elektronik. Rincian mekanisme pemberian kuasa, tata cara voting, dan prosedur kehadiran akan disampaikan dalam pemanggilan resmi. Dokumen pengumuman ini belum memuat agenda atau materi yang akan dibahas dalam RUPSLB tersebut."
+   "PT Acset Indonusa Tbk (ACST) menerbitkan pemanggilan resmi untuk Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026, dengan satu mata acara: persetujuan atas rencana pengalihan kekayaan perseroan yang nilainya lebih dari 50 persen dari total kekayaan bersih perusahaan. Dokumen tidak merinci aset apa yang akan dialihkan, kepada siapa, atau berapa nilainya.",
+   "Perseroan menjelaskan bahwa persetujuan ini wajib diminta berdasarkan Pasal 102 Undang-Undang Perseroan Terbatas, yang mengharuskan pengalihan aset di atas 50 persen kekayaan bersih mendapat restu pemegang saham. Yang baru terungkap, berdasarkan laporan keuangan yang disahkan dalam RUPS Tahunan 4 Mei 2026, Acset mencatatkan ekuitas negatif dan modal kerja bersih negatif. Kondisi itu membuat perseroan dibebaskan dari kewajiban memakai jasa penilai independen untuk menaksir nilai wajar aset yang akan dialihkan, sesuai aturan pengecualian pada POJK Nomor 17/2020 tentang Transaksi Material.",
+   "Jadwal pelaksanaan RUPSLB tetap seperti pengumuman sebelumnya, yaitu pukul 13.30 WIB di United Tractors Grand Ballroom, Jalan Raya Bekasi Km 22, Cakung Barat, Jakarta Timur. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 20 November 2026. Rapat dapat diikuti secara fisik maupun elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dengan opsi memberi kuasa lewat e-Proxy kepada PT Sinartama Gunita selaku Biro Administrasi Efek, atau memberi suara langsung lewat e-Voting.",
+   "Bagi pemegang saham yang ingin memberi kuasa atau menitipkan suara lebih dulu, batas waktunya adalah 14 Desember 2026 pukul 16.00 WIB untuk penyerahan surat kuasa asli, sementara registrasi kehadiran elektronik di sistem eASY.KSEI ditutup pada 14 Desember 2026 pukul 12.00 WIB. Bahan mata acara rapat tersedia di kantor pusat perseroan dan situs web resmi Acset sejak tanggal pemanggilan ini hingga hari pelaksanaan rapat."
   ],
   "fotoAdegan": "Rows of empty chairs arranged facing a stage in a large hotel ballroom, chandeliers overhead, soft morning light, no visible text",
-  "takeaway": "Laporan ini netral bagi Acset Indonusa karena baru memuat jadwal dan syarat administratif RUPSLB, belum mengungkap agenda atau keputusan yang akan diambil, sehingga belum ada dampak finansial yang bisa dinilai. RUPSLB biasanya dipakai emiten untuk keputusan strategis seperti perubahan struktur modal atau pergantian pengurus, yang bisa menggeser jumlah saham beredar atau ekuitas perusahaan, karena itu pasar baru bisa menilai dampaknya begitu agenda resmi diumumkan. Pemegang saham yang namanya tercatat per 20 November 2026 pukul 16.00 WIB yang berhak hadir dan memberi suara dalam rapat. Yang perlu dipantau adalah pemanggilan resmi RUPSLB pada 23 November 2026, karena di situlah agenda rapat baru akan diumumkan, sebelum rapat itu sendiri digelar pada 15 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini condong negatif bagi Acset Indonusa, karena untuk pertama kalinya perseroan secara terbuka mengonfirmasi ekuitas negatif dan modal kerja bersih negatif, sembari meminta restu memindahkan aset senilai lebih dari separuh kekayaan bersihnya tanpa kewajiban memakai penilai independen. Ekuitas negatif berarti total utang perusahaan sudah melampaui seluruh asetnya, sehingga modal yang semestinya menjadi milik pemegang saham sudah terkuras habis bahkan menjadi minus. Modal kerja bersih negatif menambah sinyal itu, artinya aset lancar seperti kas dan persediaan lebih kecil dari utang yang harus dibayar dalam waktu dekat, sehingga tekanan likuiditas jangka pendek jadi perhatian. Karena kondisi ekuitas negatif itu pula aturan OJK membebaskan perseroan dari wajib memakai penilai independen, sehingga pemegang saham tidak mendapat angka pembanding nilai wajar atas aset yang akan dialihkan dan harus memutuskan hanya berdasarkan penjelasan singkat di pemanggilan ini. Yang perlu dipantau adalah jalannya RUPSLB pada 15 Desember 2026, termasuk apakah rincian aset dan nilai transaksi yang dialihkan akhirnya diungkap sebelum atau saat rapat, serta batas pemberian kuasa dan registrasi elektronik pada 14 Desember 2026.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T17:22:47",
+    "ringkas": "Pemanggilan RUPSLB ACST ungkap agenda pengalihan aset >50% kekayaan bersih, bersamaan pengakuan ekuitas dan modal kerja bersih negatif.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ACST_E002_926ef392-60b3-4c54-bc4e-a053d168e725-20261123172249.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-23T17:22:47",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Batas akhir pemberian kuasa dan registrasi elektronik eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "RUPSLB Acset Indonusa membahas pengalihan aset >50% kekayaan bersih"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "ayls-panggil-rupslb-ganti-direktur-utama-30-november",
@@ -65631,8 +66118,8 @@ var ARTICLES = [
  {
   "slug": "mark-jadwalkan-rupslb-pada-19-november-2026",
   "category": "Aksi Korporasi",
-  "title": "MARK Jadwalkan [RUPSLB] pada 19 November 2026",
-  "deck": "Mark Dynamics Indonesia (MARK) mengumumkan rencana RUPSLB pada 19 November 2026 di Deli Serdang, dengan daftar pemegang saham berhak hadir ditutup 27 Oktober 2026.",
+  "title": "RUPSLB MARK 19 November: [KBLI 2025] Anggaran Dasar Disetujui",
+  "deck": "RUPSLB Mark Dynamics Indonesia (MARK) pada 19 November 2026 menyetujui perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan klasifikasi usaha dengan KBLI 2025, disetujui 99,37 persen suara yang hadir.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "13 Oktober 2026",
   "isoDate": "2026-10-13T15:03:38",
@@ -65642,17 +66129,27 @@ var ARTICLES = [
   "tags": [
    "MARK",
    "RUPSLB",
-   "Mark Dynamics Indonesia",
-   "korporasi"
+   "Anggaran Dasar",
+   "KBLI 2025"
   ],
   "body": [
-   "PT Mark Dynamics Indonesia Tbk (MARK) menyampaikan pemberitahuan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) kepada Bursa Efek Indonesia, merujuk pada surat sebelumnya nomor 045/MDI-CORSEC/X/2026. RUPSLB dijadwalkan berlangsung Kamis, 19 November 2026 pukul 14.00 WIB, di Wing Hotel Kualanamu, Deli Serdang, Sumatera Utara. Surat pemberitahuan tertanggal 13 Oktober 2026 ini ditandatangani oleh Presiden Direktur Ridwan.",
-   "Perseroan menetapkan pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham pada Selasa, 27 Oktober 2026 pukul 16.00 WIB, atau pemilik saham di sub rekening efek KSEI pada penutupan perdagangan di BEI pada tanggal yang sama, sebagai pihak yang berhak hadir atau diwakili dalam rapat. Sesuai POJK Nomor 15/POJK.04/2020, surat pemanggilan resmi yang memuat mata acara RUPSLB akan diumumkan lewat situs web perseroan, situs BEI, dan situs penyedia e-RUPS KSEI. Pemegang saham yang mewakili paling sedikit 1/20 dari total saham dengan hak suara sah berhak mengusulkan mata acara tambahan, dengan mengirim surat tercatat kepada direksi disertai alasan, paling lambat 7 hari kalender sebelum tanggal pemanggilan rapat.",
-   "Untuk memudahkan partisipasi, perseroan mengarahkan pemegang saham memberikan suara dan kuasa secara elektronik melalui fasilitas eASY.KSEI kepada perwakilan independen yang ditunjuk perseroan. Fasilitas e-proxy ini tersedia mulai 28 Oktober 2026, bertepatan dengan tanggal pemanggilan rapat, hingga sehari sebelum RUPSLB yakni Rabu, 18 November 2026. Dokumen ini belum mengungkap agenda atau mata acara RUPSLB, karena agenda baru akan dimuat dalam surat pemanggilan resmi yang terbit menjelang pelaksanaan rapat."
+   "PT Mark Dynamics Indonesia Tbk (MARK) menyampaikan ringkasan risalah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Kamis, 19 November 2026, pukul 14.20 hingga 14.28 WIB, di Wing Hotel Kualanamu, Deli Serdang, Sumatera Utara. Rapat dihadiri pemegang saham dan kuasanya yang mewakili 3.189.440.017 saham, atau 83,93 persen dari total 3.800.000.310 saham dengan hak suara sah milik perseroan. Satu-satunya agenda rapat, yaitu persetujuan perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha perseroan untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, disetujui dengan 3.169.480.496 suara setuju (99,37 persen) berbanding 19.959.521 suara tidak setuju (0,63 persen), tanpa suara abstain. Tidak ada pemegang saham yang mengajukan pertanyaan atau pendapat dalam rapat tersebut.",
+   "Rapat ini merupakan kelanjutan dari pemberitahuan rencana RUPSLB yang disampaikan perseroan pada 13 Oktober 2026, dengan daftar pemegang saham berhak hadir yang ditutup pada 27 Oktober 2026. Saat pemberitahuan awal diumumkan, agenda rapat belum dibuka ke publik, dan ringkasan risalah ini mengonfirmasi bahwa agendanya hanya penyesuaian kode klasifikasi usaha, bukan agenda permodalan atau pergantian pengurus. Dengan persetujuan ini, Direksi perseroan diberi kuasa untuk menuangkan keputusan tersebut ke dalam akta notaris serta mengurus persetujuan dan pemberitahuannya kepada instansi berwenang.",
+   "Dokumen juga mengonfirmasi susunan pengurus perseroan tidak berubah dan tetap menjabat hingga 30 Juni 2027: Ridwan sebagai Presiden Direktur, Sutiyoso bin Risman, Riana, dan Chow Kun Jian sebagai Direktur, Cahaya Dewi Boru Surbakti sebagai Direktur Independen, Chin Kien Ping sebagai Presiden Komisaris, serta Dompak Pasaribu sebagai Komisaris Independen yang juga memimpin RUPSLB ini."
   ],
   "fotoAdegan": "Empty hotel conference ballroom with rows of chairs arranged for a corporate meeting, soft morning light through curtains",
-  "takeaway": "Catatan ini netral, sebab yang baru terbit hanyalah jadwal RUPSLB, belum ada agenda rapat yang diungkap sehingga belum bisa dinilai apakah ini kabar baik atau buruk bagi pemegang saham. RUPSLB biasa dipanggil untuk hal di luar agenda tahunan rutin, misalnya perubahan permodalan, penambahan jumlah saham beredar, atau pergantian pengurus, dan hal semacam itu bisa mempengaruhi ekuitas atau laba per saham perusahaan, itulah sebabnya pelaku pasar biasa mencermati undangan RUPSLB meski isinya belum terbuka. Yang perlu dipantau selanjutnya adalah surat pemanggilan resmi pada 28 Oktober 2026 yang wajib memuat mata acara rapat, serta pelaksanaan RUPSLB itu sendiri pada 19 November 2026, dengan batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 18 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Keputusan RUPSLB ini tergolong netral bagi pemegang saham MARK, karena yang disetujui hanyalah perubahan redaksi Pasal 3 Anggaran Dasar untuk menyamakan kode klasifikasi usaha perseroan dengan standar baru pemerintah, KBLI 2025, bukan perubahan struktur modal, lini bisnis, atau kepengurusan yang berarti. Perubahan semacam ini tidak menyentuh ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham perusahaan, sebab sifatnya administratif, sekadar menyesuaikan bunyi anggaran dasar dengan sistem klasifikasi lapangan usaha yang baru tanpa mengubah kegiatan usaha yang sebenarnya dijalankan perseroan. Susunan direksi dan komisaris yang dikonfirmasi dalam dokumen ini juga tidak berubah dari periode sebelumnya. Yang perlu dipantau berikutnya adalah proses penuangan keputusan ini ke dalam akta notaris serta pengajuan persetujuan dan pemberitahuannya kepada instansi berwenang, yang menurut dokumen akan dijalankan direksi tanpa tenggat waktu spesifik yang diumumkan ke publik.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T17:08:40",
+    "ringkas": "RUPSLB MARK 19 November menyetujui perubahan Pasal 3 Anggaran Dasar menyesuaikan KBLI 2025, disetujui 99,37 persen suara.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_MARK_E013_7b16d9b9-a347-4924-a2f8-d0571289e5ed-20261123170842.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-23T17:08:40",
+  "peristiwa": "rups"
  },
  {
   "slug": "jecx-direksi-johan-hutauruk-jual-10-000-saham",

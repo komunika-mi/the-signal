@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ijee-direktur-utama-hendrik-tee-mundur-rups-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "IJEE: Direktur Utama Hendrik Tee [Mundur], RUPS 90 Hari",
+  "deck": "Direktur Utama IJEE Hendrik Tee mengajukan pengunduran diri lewat surat 20 November 2026. Perseroan wajib memutuskannya lewat RUPS atau keputusan sirkuler dalam 90 hari.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IJEE",
+   "pengunduran diri direksi",
+   "RUPS",
+   "tata kelola perusahaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_IJEE_E019_7514f554-64ad-4b3f-812b-0f700aaeb132-20261123172506.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "akuisisi-atap-dana-berguna-sejahtera-umumkan-progres-negosiasi",
+  "category": "Aksi Korporasi",
+  "title": "[Akuisisi] ATAP: Dana Berguna Sejahtera Umumkan Progres Negosiasi",
+  "deck": "PT Dana Berguna Sejahtera mengumumkan perkembangan negosiasi rencana pengambilalihan PT Trimitra Prawara Goldland Tbk (ATAP), namun rincian harga dan persentase saham belum diungkap.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ATAP",
+   "akuisisi",
+   "Trimitra Prawara Goldland",
+   "pengambilalihan saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ATAP_E019_6a44af48-abac-406a-b4b7-84db1d856428-20261123171636.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-ades-16-desember-2026-agenda-menyusul-24-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADES 16 Desember 2026: [Agenda] Menyusul 24 November",
+  "deck": "Akasha Wira International (ADES) menjadwalkan RUPSLB pada 16 Desember 2026 secara elektronik lewat eASY KSEI; agenda rapat baru terbit lewat pemanggilan resmi 24 November 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "RUPSLB",
+   "Akasha Wira International",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ADES_E001_dcc2d903-f145-4b2a-83e3-c0671cda2f10-20261123171510.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bunga-obligasi-adhi-24-november-berpotensi-tertunda",
+  "category": "Aksi Korporasi",
+  "title": "Bunga Obligasi ADHI 24 November: [Berpotensi Tertunda]",
+  "deck": "ADHI menyatakan berpotensi menunda bunga ke-18 obligasi Rp60,82 miliar jatuh tempo 24 November 2026, setelah dua RUPO sebelumnya menolak usulan penjadwalan ulang.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "obligasi korporasi",
+   "restrukturisasi utang",
+   "BUMN karya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ADHI_E019_16e78524-42bc-4004-9eef-f9379d935df3-20261123171442.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppro-marketing-sales-rp383-miliar-lampaui-realisasi-2025",
+  "category": "Aksi Korporasi",
+  "title": "PPRO: Marketing Sales Rp383 Miliar [Lampaui] Realisasi 2025",
+  "deck": "PPRO membukukan marketing sales Rp383 miliar hingga September 2026, melampaui realisasi sepanjang 2025, didukung divestasi lahan di Wiyung, Surabaya.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRO",
+   "PP Properti",
+   "marketing sales",
+   "divestasi aset"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PPRO_E019_6c3b1425-52cc-4d5d-80aa-547c161b53e5-20261123170944.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-dalami-dugaan-persekongkolan-tender-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU Dalami Dugaan [Persekongkolan] Tender Pasar Ciparay",
@@ -16,6 +96,22 @@ var ARTICLES = [
   "kreditFoto": "Komisi Pengawas Persaingan Usaha",
   "sourceUrl": "https://kppu.go.id/berita/kppu-dalami-transparansi-pemilihan-mitra-revitalisasi-pasar-ciparay-soroti-dokumen-perencanaan-dan-skema-bgs",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "dematerialisasi-saham-smsm-tenggat-serahkan-sks-sebelum-6-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "Dematerialisasi Saham SMSM: [Tenggat] Serahkan SKS Sebelum 6 Mei 2030",
+  "deck": "Selamat Sempurna meminta pemegang saham warkat menyerahkan SKS ke BAE paling lambat 6 Mei 2030 sesuai POJK 9/2025, atau sahamnya terancam jadi aset tidak diklaim.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "Selamat Sempurna",
+   "Dematerialisasi Saham",
+   "POJK 9/2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_SMSM_E019_91ccf1fb-568e-4d4f-a98b-f8902220dc2e-20261123170831.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "35-kesepakatan-ri-tiongkok-diteken-di-shenzhen-rp274-triliun",
@@ -70,6 +166,118 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hasil-tambang-untuk-sekolah-hingga-air-bersih-pemerintah-rumuskan-skema-70-persen-bagi-negara",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "bris-laba-bersih-9m2026-naik-10-jadi-rp6-13-triliun-car-turun",
+  "category": "Aksi Korporasi",
+  "title": "BRIS: Laba Bersih 9M2026 [Naik] 10% jadi Rp6,13 Triliun, CAR Turun",
+  "deck": "Laporan keuangan interim auditan Kuartal III 2026 BRIS mencatat laba bersih Rp6,13 triliun, naik dari Rp5,57 triliun, sementara rasio kecukupan modal turun ke 20,84 persen.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "Bank Syariah Indonesia",
+   "laporan keuangan",
+   "CAR"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-8cf3dc75-a89b-4d4f-9549-4284c3f65c40-1/FinancialStatement-2026-III-BRIS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-vici-rp7-7-per-saham-cair-16-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim VICI Rp7,7 per Saham, [Cair] 16 Desember 2026",
+  "deck": "VICI membagikan dividen interim Rp51,65 miliar atau Rp7,7 per saham, dibayar 16 Desember 2026, dengan batas pencatatan pemegang saham 3 Desember 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "dividen interim",
+   "aksi korporasi",
+   "Victoria Care Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_VICI_E007_67390ca1-e9fd-409b-96f2-ebce5948036f-20261123165103.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-bbca-milik-hd-disesuaikan-penyesuaian-efektif-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Waran BBCA Milik HD Disesuaikan: [Penyesuaian] Efektif 30 November",
+  "deck": "Tiga waran terstruktur BBCA yang diterbitkan KGI Sekuritas (HD) disesuaikan harga dan rasio pelaksanaannya akibat dividen tunai BBCA, efektif 30 November 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "BBCA",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_HD_E019_c91aa92f-3a35-467a-be4c-22a1ad4d937e-20261123164736.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bbtn-kuartal-iii-2026-laba-bersih-naik-22-6-jadi-rp2-82-t",
+  "category": "Aksi Korporasi",
+  "title": "BBTN Kuartal III 2026: Laba Bersih [Naik] 22,6% jadi Rp2,82 T",
+  "deck": "Laba bersih BTN naik 22,6 persen jadi Rp2,82 triliun pada sembilan bulan pertama 2026, meski ROA, ROE, dan laba komprehensif justru menurun.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBTN",
+   "Bank BTN",
+   "laba kuartal III",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-74ee5b0f-efbb-4c3c-b615-d147aa28025d-1/FinancialStatement-2026-III-BBTN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pefindo-pangkas-peringkat-bold-ke-idb-restrukturisasi-9-des",
+  "category": "Aksi Korporasi",
+  "title": "PEFINDO Pangkas Peringkat BOLD ke idB, [Restrukturisasi] 9 Des",
+  "deck": "PEFINDO menurunkan peringkat BOLD dari idBBB ke idB akibat tekanan likuiditas; rapat pemegang obligasi dan sukuk digelar 9-10 Desember 2026 untuk minta persetujuan restrukturisasi utang.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "PEFINDO",
+   "peringkat kredit",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_BOLD_E019_4610af82-ede0-4574-be18-e8748d34fb45-20261123164608.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-rupsi-post-7-desember-gagal-bayar-bunga-obligasi-dan-sukuk",
+  "category": "Aksi Korporasi",
+  "title": "RUPO/RUPSI POST 7 Desember: [Gagal Bayar] Bunga Obligasi dan Sukuk",
+  "deck": "Pos Indonesia memanggil pemegang obligasi dan sukuknya untuk RUPO/RUPSI 7 Desember 2026, membahas gagal bayar bunga serta rencana pinjaman pemegang saham.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "RUPO",
+   "RUPSI",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_POST_E019_b2db618b-ff77-4f40-bd52-ba6067789d8c-20261123164316.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-rupsi-post-7-desember-default-3-instrumen-utang-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "RUPO/RUPSI POST 7 Desember: [Default] 3 Instrumen Utang Dibahas",
+  "deck": "Pos Indonesia memanggil pemegang obligasi 2022 dan dua tahap sukuk ijarah untuk rapat 7 Desember 2026 soal gagal bayar bunga dan permohonan pinjaman pemegang saham.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "RUPO",
+   "RUPSI",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_POST_E019_2893c538-9b0d-4b11-bb1d-73728b3b2418-20261123164304.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kemendes-dorong-pemuda-desa-garap-melon-hidroponik",
@@ -6317,215 +6525,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478191-bank-mandiri-hadirkan-beragam-aset-properti-melalui-mandiri-lelang-2026"
- },
- {
-  "slug": "rupslb-tama-7-desember-divestasi-aset-rp84-2-miliar-diajukan",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB TAMA 7 Desember: [Divestasi Aset] Rp84,2 Miliar Diajukan",
-  "deck": "RUPSLB TAMA pada 7 Desember 2026 akan membahas rencana divestasi aset senilai Rp84,2 miliar, perubahan direksi-komisaris, dan ekspansi usaha ke bisnis internet.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TAMA",
-   "RUPSLB",
-   "divestasi aset",
-   "ISP"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/92e51fe067_ea33aa6fa7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "telkom-raih-gold-winner-asia-esg-positive-impact-award-2026",
-  "category": "BUMN",
-  "title": "Telkom Raih [Gold Winner] Asia ESG Positive Impact Award 2026",
-  "deck": "Program pengembangan talenta digital TelkomGroup diganjar Gold Winner kategori Talent Management di Asia ESG Positive Impact Award 2026, dinilai panel internasional bersama EY.",
-  "date": "13 November 2026",
-  "image": "assets/img/telkom-raih-gold-winner-asia-esg-positive-impact-award-2026.jpg",
-  "imageV": "mweuu1ad",
-  "tags": [
-   "Telkom",
-   "ESG",
-   "BUMN",
-   "Pengembangan SDM"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478185-telkom-sabet-gold-winner-di-asia-esg-positive-impact-award-2026"
- },
- {
-  "slug": "amar-angkat-tjetjen-saputra-direktur-kepatuhan-per-2-november-2026",
-  "category": "Aksi Korporasi",
-  "title": "AMAR Angkat Tjetjen Saputra [Direktur Kepatuhan] per 2 November 2026",
-  "deck": "AMAR menunjuk Tjetjen Saputra sebagai Direktur Kepatuhan menggantikan Thio Sucy, efektif sejak OJK menyetujui uji kelayakannya pada 2 November 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AMAR",
-   "Bank Amar Indonesia",
-   "Direksi",
-   "Direktur Kepatuhan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/88e81894d7_7fa5e89acb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-brms-30-november-paparkan-kinerja-2025",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BRMS 20 November: [Laba Bersih] 9M2026 Turun 35%",
-  "deck": "BRMS merilis materi Public Expose, lebih cepat dari tenggat: laba bersih 9 bulan 2026 turun 35% jadi US$24,3 juta, namun kuartal III sudah pulih.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRMS",
-   "Public Expose",
-   "Kinerja Keuangan",
-   "Pertambangan Emas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75415c98aa_34a2a7e5aa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "testdwhshm-manajer-investasi-baru-jadi-indo-premier-13-nov",
-  "category": "Aksi Korporasi",
-  "title": "TESTDWHSHM: [Manajer Investasi] Baru Jadi Indo Premier, 13 Nov",
-  "deck": "Manajer investasi TESTDWHSHM berubah dari posisi yang sebelumnya kosong menjadi PT Indo Premier Investment Management, efektif 13 November 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTDWHSHM",
-   "Manajer Investasi",
-   "Indo Premier Investment Management",
-   "tata kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E016_3ab7ca7f-6344-4b48-be50-56447ddac32f-20261114134518.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "srtg-edwin-soeryadjaya-tambah-1-27-juta-saham-hak-suara-36-13",
-  "category": "Aksi Korporasi",
-  "title": "SRTG: Edwin Soeryadjaya [Tambah] 1,27 Juta Saham, Hak Suara 36,13%",
-  "deck": "Komisaris SRTG Edwin Soeryadjaya membeli 1.267.100 saham lewat dua transaksi tidak langsung pada 11-12 November 2026, menaikkan hak suaranya ke 36,1341%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRTG",
-   "Saratoga Investama Sedaya",
-   "Edwin Soeryadjaya",
-   "kepemilikan saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-8762-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "testdwhshm-perubahan-pengurus-direksi-dan-komisaris-berganti",
-  "category": "Aksi Korporasi",
-  "title": "TESTDWHSHM: [Perubahan Pengurus] Direksi dan Komisaris Berganti",
-  "deck": "RUPS TESTDWHSHM pada 27 Desember 2026 jadi dasar perubahan direksi dan komisaris yang berlaku efektif 13 November 2026: Dewi Contoh diangkat kembali, Budi Pengujian jadi komisaris independen.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTDWHSHM",
-   "perubahan pengurus",
-   "direksi",
-   "komisaris independen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E036_af753fa3-09d3-4106-b04a-65b3fc4b38d5-20261114134517.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wirg-direktur-utama-stephen-budiman-mundur-per-11-november",
-  "category": "Aksi Korporasi",
-  "title": "WIRG: Direktur Utama Stephen Budiman [Mundur] per 11 November",
-  "deck": "Direktur Utama WIR ASIA Tbk, Stephen Budiman, mengajukan pengunduran diri karena alasan kesehatan pada 11 November 2026. Susunan direksi belum berubah.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIRG",
-   "direksi",
-   "direktur utama",
-   "pengunduran diri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f9970a5a9_be63243b0e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kino-komisaris-yamashita-beli-87-000-saham-hak-suara-0-0061",
-  "category": "Aksi Korporasi",
-  "title": "KINO: Komisaris Yamashita [Beli] 87.000 Saham, Hak Suara 0,0061%",
-  "deck": "Komisaris KINO berstatus warga negara asing, Mitsuhiro Yamashita, membeli total 87.000 saham secara tidak langsung sepanjang Juli-Agustus 2026, hak suaranya naik ke 0,0061 persen.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KINO",
-   "Dewan Komisaris",
-   "kepemilikan saham",
-   "Mitsuhiro Yamashita"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-0240-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bbkp-jawab-bursa-divestasi-85-kbbf-rampung-rp339-97-miliar",
-  "category": "Aksi Korporasi",
-  "title": "BBKP Jawab Bursa: [Divestasi] 85% KBBF Rampung Rp339,97 Miliar",
-  "deck": "BBKP merespons permintaan penjelasan Bursa atas pelepasan 85% saham KBBF ke JB Woori Capital senilai Rp339,97 miliar, transaksi rampung 4 November 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BBKP",
-   "KBBF",
-   "JB Woori Capital",
-   "Sanksi OJK"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f13c138fe1_d31aac6ae0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smle-anjlok-34-ke-rp144-respons-uma-tak-ada-info-material",
-  "category": "Aksi Korporasi",
-  "title": "SMLE Anjlok 34% ke Rp144, Respons [UMA]: Tak Ada Info Material",
-  "deck": "BEI meminta penjelasan setelah saham SMLE turun 33,95 persen dalam sepekan ke Rp144; perseroan menyatakan tidak mengetahui informasi material di balik pergerakan itu.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMLE",
-   "volatilitas saham",
-   "keterbukaan informasi",
-   "UMA"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/63c09ad171_d3e419d7cc.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "belanja-negara-tembus-rp2-997-t-tumbuh-15-6-persen",
-  "category": "Makroekonomi",
-  "title": "Belanja Negara Tembus Rp2.997 T, Tumbuh [15,6] Persen",
-  "deck": "Realisasi belanja negara hingga akhir Oktober 2026 capai Rp2.997,2 triliun atau 78 persen dari pagu APBN, didorong lonjakan belanja kementerian dan program MBG.",
-  "date": "13 November 2026",
-  "image": "assets/img/belanja-negara-tembus-rp2-997-t-tumbuh-15-6-persen.jpg",
-  "imageV": "mweuu1p7",
-  "tags": [
-   "APBN",
-   "Belanja Negara",
-   "MBG",
-   "Kemenkeu"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478161-menkeu-pendapatan-negara-melonjak-239-persen"
- },
- {
-  "slug": "rupslb-womf-batal-digelar-agenda-perubahan-direksi-tertunda",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB WOMF Baru Dijadwalkan 22 Desember, [Pemanggilan] 30 Nov",
-  "deck": "WOMF menjadwalkan RUPSLB baru pada 22 Desember 2026, setelah rapat sebelumnya batal total. Pemanggilan resmi 30 November, recording date pemegang saham 27 November.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WOMF",
-   "RUPSLB",
-   "tata kelola",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d24cb3f298_029d47443d.pdf",
-  "sourceLabel": "IDX"
  }
 ];

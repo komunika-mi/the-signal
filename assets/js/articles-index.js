@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kkp-targetkan-40-000-kolam-budi-daya-ikan-hingga-2029",
+  "category": "Industri",
+  "title": "KKP Targetkan [40.000] Kolam Budi Daya Ikan hingga 2029",
+  "deck": "KKP membangun 1.500 kolam budi daya ikan tematik tahun ini menuju target 40.000 lokasi pada 2029, dengan progres di Pekalongan baru 36,99 persen.",
+  "date": "23 November 2026",
+  "image": "assets/img/kkp-targetkan-40-000-kolam-budi-daya-ikan-hingga-2029.jpg",
+  "imageV": "mwss64nl",
+  "tags": [
+   "KKP",
+   "budi daya ikan",
+   "ketahanan pangan",
+   "lapangan kerja"
+  ],
+  "kreditFoto": "Kementerian Kelautan dan Perikanan",
+  "sourceUrl": "https://kkp.go.id/news/news-detail/program-budi-daya-tematik-hadirkan-lapangan-kerja-hingga-jaga-ketahanan-pangan-7plw.html",
+  "sourceLabel": "Kementerian Kelautan dan Perikanan"
+ },
+ {
+  "slug": "uang-beredar-ri-tumbuh-9-3-persen-pada-oktober-2026",
+  "category": "Moneter",
+  "title": "Uang Beredar RI [Tumbuh] 9,3 Persen pada Oktober 2026",
+  "deck": "Bank Indonesia mencatat uang beredar luas (M2) tumbuh 9,3 persen secara tahunan pada Oktober 2026, naik dari 8,5 persen bulan sebelumnya, mencapai Rp10.698,0 triliun.",
+  "date": "23 November 2026",
+  "image": "assets/img/konpers-bank.jpg",
+  "tags": [
+   "uang beredar",
+   "M2",
+   "Bank Indonesia",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825626.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "infomedia-luncurkan-ai-learning-ecosystem-untuk-kampus",
+  "category": "Teknologi",
+  "title": "Infomedia Luncurkan [AI] Learning Ecosystem untuk Kampus",
+  "deck": "Anak usaha Telkom Indonesia ini memperkenalkan sistem AI tiga tingkat untuk kelas, kampus, dan evaluasi pendidikan tinggi secara nasional.",
+  "date": "23 November 2026",
+  "image": "assets/img/infomedia-luncurkan-ai-learning-ecosystem-untuk-kampus.jpg",
+  "imageV": "mwss65mq",
+  "tags": [
+   "Infomedia",
+   "Telkom Indonesia",
+   "AI",
+   "Pendidikan Tinggi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479855-infomedia-hadirkan-ai-learning-ecosystem-untuk-pendidikan-tinggi"
+ },
+ {
   "slug": "suspensi-btpn-23-november-delisting-perdagangan-dihentikan",
   "category": "Aksi Korporasi",
   "title": "Suspensi BTPN 23 November: [Delisting] Perdagangan Dihentikan",
@@ -4189,7 +4240,7 @@ var ARTICLES = [
   "title": "BI Perkuat [Aturan] Pelindungan Konsumen Digital",
   "deck": "BI memperketat penerapan aturan pelindungan konsumen pembayaran digital dan menggandeng OJK soal penyelesaian sengketa, saat indeks keberdayaan konsumen masih di bawah kategori tertinggi.",
   "date": "17 November 2026",
-  "image": "assets/img/konpers-bank.jpg",
+  "image": "assets/img/koridor-bank-sentral.jpg",
   "tags": [
    "Bank Indonesia",
    "OJK",
@@ -4693,7 +4744,7 @@ var ARTICLES = [
   "title": "Utang Luar Negeri RI [Naik] ke US$458,9 Miliar di Triwulan III",
   "deck": "Utang luar negeri Indonesia naik ke US$458,9 miliar pada triwulan III 2026, didorong kenaikan utang pemerintah sementara utang swasta justru menyusut.",
   "date": "16 November 2026",
-  "image": "assets/img/koridor-bank-sentral.jpg",
+  "image": "assets/img/gedung-bi.jpg",
   "tags": [
    "Utang Luar Negeri",
    "APBN",
@@ -6474,54 +6525,6 @@ var ARTICLES = [
    "repo"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-4569-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtla-direksi-andi-surya-kurnia-tambah-40-000-saham-suara-0",
-  "category": "Aksi Korporasi",
-  "title": "MTLA: Direksi Andi Surya Kurnia [Tambah] 40.000 Saham, Suara 0%",
-  "deck": "Direksi MTLA Andi Surya Kurnia menambah 40.000 saham lewat pembelian tidak langsung pada 11 November 2026, tapi hak suaranya tetap 0,00 persen.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTLA",
-   "Direksi",
-   "Kepemilikan Saham",
-   "Metropolitan Land"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-3585-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-medc-kurs-bi-rp18-154-dividen-rp22-03-saham",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim MEDC: [Kurs] BI Rp18.154, Dividen Rp22,03/Saham",
-  "deck": "Medco Energi menetapkan kurs tengah BI 12 November 2026 sebesar Rp18.154 per dolar AS untuk menghitung dividen interim, sehingga nilainya setara Rp22,03 per saham.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "dividen interim",
-   "kurs BI",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a60d2f2a86_4a6d1ca79d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tops-pailit-pn-jakarta-pusat-batalkan-perdamaian-5-november",
-  "category": "Aksi Korporasi",
-  "title": "TOPS [Pailit]: PN Jakarta Pusat Batalkan Perdamaian 5 November",
-  "deck": "PN Jakarta Pusat membatalkan perjanjian perdamaian TOPS dan menyatakan perseroan pailit pada 5 November 2026, menyusul gugatan kreditur Sutoyo.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOPS",
-   "pailit",
-   "kepailitan",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ccb8b5848_a3d9930dc8.pdf",
   "sourceLabel": "IDX"
  }
 ];

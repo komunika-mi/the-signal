@@ -58,6 +58,72 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "hrum-bara-sejahtera-abadi-borong-6-76-miliar-saham-suara-50-09",
+  "category": "Aksi Korporasi",
+  "title": "HRUM: Karunia Bara Perkasa Jual 6,76 Miliar Saham, Suara ke 29,79%",
+  "deck": "Karunia Bara Perkasa menjual 6,76 miliar saham HRUM pada 19 November 2026 seharga Rp660, jumlah dan tanggal yang sama dengan pembelian Bara Sejahtera Abadi, hak suaranya turun dari 79,79% ke 29,79%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T11:30:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-4089-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HRUM",
+  "tags": [
+   "HRUM",
+   "Harum Energy",
+   "Karunia Bara Perkasa",
+   "Bara Sejahtera Abadi"
+  ],
+  "body": [
+   "PT Karunia Bara Perkasa melaporkan kepada Otoritas Jasa Keuangan bahwa pihaknya menjual 6.759.000.000 lembar saham Harum Energy Tbk (HRUM) pada 19 November 2026 dengan harga Rp660 per saham, melalui skema repurchase agreement. Transaksi ini membuat kepemilikannya turun dari 10.786.374.000 lembar menjadi 4.027.374.000 lembar, dan hak suaranya merosot dari 79,792 persen menjadi 29,792 persen.",
+   "Jumlah saham, harga, tanggal transaksi, dan skema repurchase agreement dalam laporan ini persis sama dengan yang sebelumnya dilaporkan PT Bara Sejahtera Abadi sebagai pembelian pada hari yang sama. Dengan kata lain, laporan ini mengungkap pihak di balik lonjakan kepemilikan Bara Sejahtera Abadi yang sebelumnya dilaporkan tanpa identitas penjualnya: Karunia Bara Perkasa adalah pemegang saham yang melepas blok saham tersebut.",
+   "Sebagaimana dilaporkan sebelumnya, Bara Sejahtera Abadi membeli 6.759.000.000 lembar saham HRUM pada 19 November 2026, mengangkat kepemilikannya dari 12,5 juta lembar menjadi 6.771.500.000 lembar dan hak suaranya dari 0,092 persen menjadi 50,092 persen, menjadikannya pemegang saham mayoritas baru. Transaksi ini terjadi dua hari setelah HRUM resmi menghentikan program pembelian kembali sahamnya yang berakhir 17 November 2026.",
+   "Dengan laporan terbaru ini, gambaran perubahan kendali HRUM menjadi lebih lengkap. Karunia Bara Perkasa, yang sebelumnya menggenggam hak suara dominan di atas 79 persen, kini tersisa 29,792 persen, sementara Bara Sejahtera Abadi naik dari pemegang saham kecil menjadi pemegang suara mayoritas di atas 50 persen."
+  ],
+  "fotoAdegan": "A heavily loaded coal barge moving down a wide brown river past industrial docks under an overcast sky",
+  "takeaway": "Laporan ini tetap netral bagi fundamental Harum Energy karena transaksi hanya memindahkan kepemilikan dan hak suara antara dua pihak, tanpa mengubah jumlah saham beredar atau mendatangkan kas baru ke kas perusahaan. Dengan terungkapnya identitas penjual, kini jelas bahwa pengendalian HRUM berpindah dari Karunia Bara Perkasa, yang hak suaranya merosot dari 79,792 persen menjadi 29,792 persen, ke Bara Sejahtera Abadi yang naik menjadi 50,092 persen. Pos yang tersentuh adalah struktur kendali, bukan laporan keuangan: karena saham beredar tidak berubah, laba per saham, yaitu keuntungan yang dibagi rata ke setiap lembar saham, tidak terpengaruh langsung, meski konsentrasi hak suara menentukan siapa yang mengarahkan keputusan strategis perusahaan selanjutnya. Yang perlu dipantau adalah apakah kepemilikan Bara Sejahtera Abadi yang melewati 50 persen memicu kewajiban penawaran tender kepada pemegang saham publik sesuai aturan OJK, dan apakah skema repurchase agreement pada kedua laporan ini mengharuskan saham tersebut dijual kembali dalam jangka waktu tertentu, detail yang belum dijelaskan dalam dokumen manapun sejauh ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T11:27:58",
+    "ringkas": "Karunia Bara Perkasa terungkap sebagai penjual 6,76 miliar saham HRUM, hak suaranya turun dari 79,79% menjadi 29,79%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-6920-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-23T11:27:58"
+ },
+ {
+  "slug": "gmfi-direksi-tri-hartono-tambah-500-000-saham-suara-0-00",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Direksi Tri Hartono [Tambah] 500.000 Saham, Suara 0,00%",
+  "deck": "Direksi GMFI Tri Hartono membeli 500.000 saham di harga Rp39 per saham, menambah kepemilikannya dari 1,5 juta jadi 2 juta lembar untuk portofolio pribadi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T11:25:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-3796-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GMFI",
+  "tags": [
+   "GMFI",
+   "laporan kepemilikan",
+   "direksi",
+   "saham"
+  ],
+  "body": [
+   "Tri Hartono, anggota Direksi PT Garuda Maintenance Facility Aero Asia Tbk (GMFI), melaporkan penambahan kepemilikan sahamnya di perusahaan tempat ia menjabat. Berdasarkan laporan kepemilikan saham yang disampaikan ke Otoritas Jasa Keuangan pada 23 November 2026, jumlah sahamnya di GMFI bertambah dari 1.500.000 lembar menjadi 2.000.000 lembar, atau naik 500.000 lembar saham biasa.",
+   "Transaksi dilakukan secara tidak langsung melalui perjanjian pembelian kembali (repurchase agreement) pada 23 November 2026, dengan harga Rp39 per saham. Dengan harga itu, nilai transaksinya sekitar Rp19,5 juta, tergolong kecil secara nilai rupiah. Tri Hartono mencantumkan tujuan transaksi sebagai penambahan portofolio investasi pribadi. Hak suaranya di GMFI tercatat tetap 0,00% baik sebelum maupun sesudah transaksi, menandakan porsi kepemilikannya masih sangat kecil dibanding total saham GMFI yang beredar.",
+   "Penambahan kepemilikan ini terjadi di tengah proses penambahan modal dengan hak memesan efek terlebih dahulu (PMHMETD III atau rights issue) GMFI, yang akan dimintakan persetujuan pemegang saham dalam RUPSLB pada 8 Desember 2026. Rencana itu akan menerbitkan hingga 22 miliar saham baru, yang jika terlaksana akan memperbesar jumlah saham beredar GMFI secara signifikan."
+  ],
+  "fotoAdegan": "Aircraft technicians in overalls inspecting a jet engine inside a large maintenance hangar, daylight streaming through open doors",
+  "takeaway": "Laporan ini netral bagi fundamental GMFI. Meski pembelian saham oleh direksi biasanya dibaca sebagai sinyal percaya diri terhadap prospek perusahaan, nilainya di sini hanya sekitar Rp19,5 juta dan hak suaranya tetap tercatat 0,00%, terlalu kecil untuk dibaca sebagai pernyataan sikap yang berarti. Yang tersentuh cuma catatan kepemilikan pribadi direksi, bukan struktur modal perusahaan; hak suara sendiri adalah besarnya kekuatan memilih seseorang dalam rapat pemegang saham, dan di sini tetap nol karena porsi saham Tri Hartono jauh lebih kecil dari total saham GMFI yang beredar. Yang perlu dipantau selanjutnya adalah RUPSLB GMFI pada 8 Desember 2026, yang akan memutuskan rencana penambahan modal lewat rights issue sebanyak 22 miliar saham baru, aksi yang jauh lebih besar dampaknya terhadap jumlah saham beredar dan porsi kepemilikan seluruh pemegang saham, termasuk Tri Hartono sendiri.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "infomedia-luncurkan-ai-learning-ecosystem-untuk-kampus",
   "category": "Teknologi",
   "title": "Infomedia Luncurkan [AI] Learning Ecosystem untuk Kampus",
@@ -83,6 +149,142 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini adalah Infomedia memperkenalkan sistem AI berjenjang, dengan AI Smart Classroom di tingkat mikro yang sudah punya gambaran fungsi jelas, yakni memantau partisipasi mahasiswa di kelas, sementara tingkat makro dan mega untuk evaluasi kampus dan nasional belum dijelaskan mekanismenya. Pihak yang langsung kena dampak kalau sistem ini dipakai adalah dosen dan mahasiswa, karena merekalah yang aktivitasnya dipantau dan dianalisis oleh AI tersebut. Berita ini belum menyebut satu pun nama kampus yang sudah resmi memakai sistem ini atau kapan penerapannya dimulai, hanya mengutip pengalaman Infomedia mengelola rekrutmen nasional sebagai bekal teknis. Yang masih kurang untuk membaca arah ini adalah daftar kampus yang benar-benar mengadopsi AI Learning Ecosystem serta bagaimana data aktivitas mahasiswa itu disimpan dan dijaga keamanannya, dua hal yang baru akan jelas lewat pengumuman kerja sama konkret setelah forum KPPTI 2026 ini selesai.",
   "imageV": "mwss65mq"
+ },
+ {
+  "slug": "transaksi-material-enrg-beli-saham-preferen-highpeak-us-200-juta",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Material ENRG: [Beli] Saham Preferen HighPeak US$200 Juta",
+  "deck": "THP, anak usaha ENRG, membeli 200.000 saham preferen konversi HighPeak Energy senilai US$200 juta, transaksi material tanpa perlu persetujuan RUPS.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T11:03:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ENRG_E019_34ea6a11-85b1-4943-97e8-31b6d35b0811-20261123110341.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "Transaksi Material",
+   "HighPeak Energy",
+   "Investasi"
+  ],
+  "body": [
+   "PT Tunas Harapan Perkasa (THP), entitas anak Energi Mega Persada Tbk (ENRG), membeli 200.000 saham preferen konversi Seri A yang diterbitkan HighPeak Energy Inc, perusahaan eksplorasi dan produksi minyak dan gas di Permian Basin, Texas Barat, Amerika Serikat, yang sahamnya tercatat di Nasdaq dengan kode HPK. Harga pembelian US$1.000 per saham, sehingga total nilai investasi US$200 juta. Perjanjian jual beli saham (Securities Purchase Agreement) ditandatangani 6 Oktober 2026, dan transaksi rampung pada 20 November 2026. Karena nilainya melebihi 20 persen tapi tidak melebihi 50 persen dari total ekuitas ENRG per 30 Juni 2026, transaksi ini masuk kategori transaksi material menurut POJK 17/2020, namun tidak memerlukan persetujuan Rapat Umum Pemegang Saham.",
+   "Saham preferen yang dibeli THP bisa dikonversi menjadi saham biasa HighPeak dengan harga konversi US$9,50 per saham. Dividennya berjenjang: 6 persen per tahun jika dibayar tunai atau 7,5 persen jika dibayar sebagai dividen preferensi likuidasi selama dua tahun pertama, naik menjadi 7,5 persen tunai atau 9 persen nontunai sampai tahun kelima, lalu menjadi 10 persen per tahun setelah tahun kelima. HighPeak berhak menebus saham ini mulai tahun ketiga sejak transaksi selesai, sementara THP berhak meminta pembelian kembali setelah 5 tahun 6 bulan atau jika terjadi perubahan pengendalian tertentu di HighPeak. Harga penebusan atau pembelian kembali dihitung agar imbal hasil investasi (XIRR) mencapai 10 persen per tahun, dengan memperhitungkan dividen tunai yang sudah diterima. Sebagai bagian dari transaksi, THP juga memperoleh hak menunjuk satu anggota direksi HighPeak.",
+   "Perseroan telah mengantongi pendapat kewajaran dari Kantor Jasa Penilai Publik Kusnanto dan Rekan, tertanggal 16 November 2026, yang menyimpulkan transaksi ini wajar. ENRG menyebut alasan investasi ini sebagai bagian dari diversifikasi portofolio ke industri migas hulu di Amerika Utara, dengan harapan memperoleh imbal hasil investasi dan kontribusi positif terhadap kinerja keuangan ke depan. Berdasarkan struktur kepemilikan, THP dan HighPeak dinilai tidak memiliki hubungan afiliasi sesuai POJK 42/2020."
+  ],
+  "fotoAdegan": "Oil pumpjacks scattered across a dusty West Texas oilfield at dusk, pickup truck parked near a wellhead, wide open sky.",
+  "takeaway": "Laporan ini netral bagi ENRG: perusahaan menambah eksposur ke migas Amerika Serikat lewat instrumen yang membawa kepastian imbal hasil, tapi investasi senilai US$200 juta ini didanai dari pinjaman US$220 juta yang baru diteken pekan lalu, jadi bukan dana tunai berlebih yang menganggur. Yang tersentuh di sini adalah arus kas dan beban bunga ENRG, karena perusahaan kini menanggung utang baru sambil menunggu aliran dividen dari saham preferen HighPeak, instrumen semacam ini memberi hak dividen tetap dan opsi diubah jadi saham biasa, mirip gabungan antara pinjaman dan kepemilikan saham. Yang perlu dipantau berikutnya adalah realisasi pendapatan dividen dari HighPeak di laporan keuangan ENRG mendatang, serta dua tonggak kontraktual dalam dokumen ini: hak HighPeak menebus saham mulai tahun ketiga sejak 20 November 2026, dan hak ENRG meminta pembelian kembali setelah 5 tahun 6 bulan dari tanggal yang sama.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "enrg-rampungkan-investasi-us-200-juta-di-highpeak-energy-as",
+  "category": "Aksi Korporasi",
+  "title": "ENRG [Rampungkan] Investasi US$200 Juta di HighPeak Energy AS",
+  "deck": "EMP melalui anak usahanya merampungkan investasi US$200 juta di HighPeak Energy AS, menambah eksposur cadangan migas sekitar 47 juta barel setara minyak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T11:01:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ENRG_E019_84f2fcb0-71b8-4e31-9f96-9ad1e60fc596-20261123110123.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ENRG",
+  "tags": [
+   "ENRG",
+   "HighPeak Energy",
+   "investasi migas",
+   "ekspansi luar negeri"
+  ],
+  "body": [
+   "PT Energi Mega Persada Tbk (ENRG) mengumumkan bahwa anak usahanya, PT Tunas Harapan Perkasa, telah menyelesaikan investasi senilai US$200 juta di HighPeak Energy Inc, perusahaan minyak dan gas yang tercatat di bursa Nasdaq, Amerika Serikat. HighPeak berkantor pusat di Fort Worth, Texas, dan fokus mengembangkan serta mengeksplorasi hidrokarbon di Midland Basin, Texas Barat.",
+   "Berdasarkan penilaian mandiri oleh GaffneyCline & Associates per 1 April 2026, HighPeak memiliki cadangan terbukti dan terduga (2P) sebesar 288 juta barel setara minyak, ditambah sumber daya kontinjen sebesar 102 juta barel setara minyak, sehingga totalnya mencapai 390 juta barel setara minyak.",
+   "Dengan selesainya transaksi ini, ENRG kini mengoperasikan atau memiliki andil di 14 aset minyak dan gas yang tersebar di Indonesia, Mozambik, dan Amerika Serikat, terdiri dari 9 aset yang dioperasikan sendiri, 4 aset kerja sama, dan 1 investasi strategis berupa saham HighPeak. Per 30 Juni 2026, portofolio ENRG yang sudah ada tercatat sekitar 427 juta barel setara minyak, dan investasi di HighPeak berpotensi menambah eksposur ekonomi sekitar 47 juta barel setara minyak lagi setelah dilakukan konversi.",
+   "Surat keterbukaan ini ditandatangani oleh Direktur Utama Syailendra S. Bakrie dan Wakil Direktur Utama Edoardus Ardianto. Perseroan menyebut transaksi ini sebagai bagian dari strategi pertumbuhan organik dan anorganik, dengan harapan dapat merealisasikan sinergi operasional serta transfer teknologi antara portofolio ENRG dan aset-aset HighPeak."
+  ],
+  "fotoAdegan": "Offshore oil platform silhouetted at dusk with a support vessel nearby, calm sea and overcast sky",
+  "takeaway": "Laporan ini netral bagi ENRG: investasi ini menambah klaim cadangan migas perusahaan, tapi dananya berasal dari pinjaman dolar AS senilai US$220 juta yang sudah dilaporkan sebelumnya, sehingga belum ada kas baru masuk atau dampak langsung ke laba berjalan. Yang tersentuh adalah ukuran cadangan migas, yaitu jumlah minyak dan gas yang berhak diklaim perusahaan dan jadi acuan nilai aset di mata investor, yang kini berpotensi bertambah sekitar 47 juta barel setara minyak dari basis 427 juta barel yang sudah ada. Di sisi lain, beban bunga dari pinjaman yang mendanai investasi ini akan membebani laporan keuangan ENRG ke depan, sehingga penambahan cadangan ini belum otomatis berarti penambahan laba. Dokumen ini tidak menyebut tanggal konversi saham preferen HighPeak menjadi saham biasa maupun target waktu realisasi sinergi operasional yang disebutkan, sehingga investor perlu menunggu laporan keuangan kuartal mendatang untuk melihat dampak nyatanya pada arus kas dan laba ENRG.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "nick-indovest-central-jual-103-6-juta-saham-hak-suara-jadi-38",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Indovest Central [Jual] 103,6 Juta Saham, Hak Suara Jadi 38%",
+  "deck": "Indovest Central menjual 103,6 juta saham NICK pada 19-20 November 2026, memangkas hak suaranya dari 53,92% menjadi 38%, melepas status mayoritas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:52:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-8762-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NICK",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "Indovest Central"
+  ],
+  "body": [
+   "Indovest Central melaporkan penjualan saham PT Charnic Capital Tbk (NICK) melalui dua transaksi tidak langsung. Pada 19 November 2026, Indovest menjual 50.667.000 saham dengan harga Rp200 per saham, kemudian pada 20 November 2026 menjual lagi 52.948.400 saham pada harga yang sama. Total saham yang dilepas dalam dua hari itu mencapai 103.615.400 lembar, dengan tujuan transaksi yang tercatat sebagai investasi.",
+   "Sebelum penjualan ini, Indovest Central menggenggam 351.088.800 saham NICK yang setara 53,92% hak suara, posisi yang membuatnya pemegang saham mayoritas di perusahaan sekuritas tersebut. Setelah dua transaksi itu, kepemilikan Indovest turun menjadi 247.473.400 saham dengan hak suara 38 persen. Jumlah yang dilepas setara 29,51% dari total saham yang dipegang Indovest sebelum transaksi, dan membuat hak suaranya turun dari posisi mayoritas ke bawah ambang 50 persen.",
+   "Dengan harga jual Rp200 per saham untuk kedua transaksi, nilai total penjualan ini sekitar Rp20,72 miliar. Laporan ini disampaikan ke Otoritas Jasa Keuangan sebagai bagian dari kewajiban pelaporan kepemilikan dan perubahan kepemilikan saham perusahaan terbuka sesuai POJK Nomor 4/2024."
+  ],
+  "fotoAdegan": "Exterior of a modern glass-facade office tower in Jakarta's financial district, busy street traffic below, hazy daylight",
+  "takeaway": "Laporan ini condong negatif bagi persepsi tata kelola NICK, karena bukan sekadar pelepasan kecil melainkan hampir 30% dari seluruh kepemilikan Indovest Central yang membuat hak suaranya longsor dari 53,92% menjadi 38%, turun dari posisi mayoritas ke bawah ambang 50 persen. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara, yakni kekuatan pemegang saham untuk meloloskan keputusan sendirian di rapat umum pemegang saham. Begitu hak suara turun di bawah 50 persen, Indovest tidak lagi bisa memutuskan sendiri agenda strategis seperti pengangkatan direksi atau pembagian dividen tanpa dukungan pemegang saham lain. Dokumen ini tidak menyebut agenda RUPS atau tanggal lanjutan, sehingga yang perlu dipantau adalah apakah NICK mengumumkan keterbukaan informasi lanjutan soal siapa pembeli saham tersebut dan apakah susunan pengendali perusahaan berubah.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "jast-uob-kay-hian-jual-38-juta-saham-hak-suara-jadi-3-85",
+  "category": "Aksi Korporasi",
+  "title": "JAST: UOB Kay Hian Jual 38 Juta Saham, [Hak Suara] Jadi 3,85%",
+  "deck": "UOB Kay Hian Pte Ltd melepas 38 juta saham JAST, kepemilikan turun dari 4,08% menjadi 3,85% hak suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:44:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-3416-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAST",
+  "tags": [
+   "JAST",
+   "Jasnita Telekomindo",
+   "kepemilikan saham",
+   "UOB Kay Hian"
+  ],
+  "body": [
+   "UOB Kay Hian Pte Ltd, pemegang saham asing PT Jasnita Telekomindo Tbk (JAST), melaporkan kepada Otoritas Jasa Keuangan bahwa kepemilikannya di JAST berkurang dari 135.036.466 saham menjadi 97.036.466 saham. Artinya ada 38 juta saham yang dilepas, atau sekitar 28 persen dari posisi yang sebelumnya dipegang UOB Kay Hian. Akibatnya, hak suara lembaga ini di JAST turun dari 4,08 persen menjadi 3,85 persen. Laporan bernomor LK/23112026/0003/1 ini disampaikan pada 23 November 2026, dan UOB Kay Hian bukan merupakan direksi maupun komisaris JAST.",
+   "Dalam rincian transaksi yang dilaporkan, tercatat penjualan 2.500.000 saham biasa JAST dengan skema Repurchase Agreement, yaitu transaksi jual saham dengan perjanjian membeli kembali, yang dicatat secara tidak langsung pada 19 November 2026 dengan harga Rp83 per saham. Tujuan transaksi disebutkan sebagai penyesuaian portofolio investasi, tanpa keterangan tambahan mengenai pihak lawan dalam transaksi tersebut."
+  ],
+  "fotoAdegan": "Server racks glowing with status lights in a dim telecom data center, a technician checking cable connections",
+  "takeaway": "Laporan ini cenderung NEGATIF bagi JAST karena UOB Kay Hian melepas sekitar 28 persen dari posisi sahamnya dalam waktu singkat, porsi yang terlalu besar untuk disebut sekadar penyesuaian kecil, meski hak suaranya di perusahaan tetap tipis, dari 4,08 persen menjadi 3,85 persen. Transaksi ini tidak mengubah pos keuangan utama JAST seperti ekuitas, arus kas, beban bunga, atau laba per saham, sebab saham yang berpindah tangan adalah saham yang sudah beredar, bukan saham baru yang diterbitkan perusahaan. Yang bergeser adalah komposisi pemegang saham, dan pelaku pasar memperhatikannya karena berkurangnya porsi investor institusional asing bisa mencerminkan turunnya keyakinan salah satu pemegang saham terhadap prospek emiten, meski bukan pemegang saham pengendali. Yang perlu dipantau selanjutnya adalah apakah UOB Kay Hian kembali menyampaikan laporan pengurangan kepemilikan dalam waktu dekat, karena pelepasan sebesar ini bisa jadi bagian dari pengurangan posisi yang lebih besar secara bertahap.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "emtk-komisaris-independen-marianna-sutadi-meninggal-dunia",
+  "category": "Aksi Korporasi",
+  "title": "EMTK: Komisaris Independen Marianna Sutadi [Meninggal Dunia]",
+  "deck": "Marianna Sutadi, Komisaris Independen Elang Mahkota Teknologi (EMTK), wafat 20 November 2026. Perseroan sebut susunan direksi-komisaris masih sesuai aturan OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T10:33:16",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_EMTK_E019_ffce93cb-51cd-4709-bbcd-086e5b2ec21d-20261123103317.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EMTK",
+  "tags": [
+   "EMTK",
+   "Komisaris Independen",
+   "Tata Kelola Perusahaan",
+   "Elang Mahkota Teknologi"
+  ],
+  "body": [
+   "PT Elang Mahkota Teknologi Tbk (EMTK) melaporkan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa Marianna Sutadi, yang menjabat Komisaris Independen perseroan, meninggal dunia pada Jumat, 20 November 2026. Laporan bernomor 124/EMT-CORSEC/TM/XI/2026 itu disampaikan dan ditandatangani oleh Titi Maria Rusli selaku Corporate Secretary EMTK pada 23 November 2026.",
+   "Dalam laporan tersebut, manajemen EMTK menyatakan kejadian ini tidak membawa dampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perseroan juga menegaskan bahwa susunan Direksi dan Dewan Komisaris saat ini, termasuk posisi Komisaris Independen yang tersisa, masih memenuhi jumlah minimum anggota yang disyaratkan Peraturan Otoritas Jasa Keuangan Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, overcast sky, shot from street level.",
+  "takeaway": "Laporan ini netral bagi EMTK, karena perseroan sendiri menegaskan tidak ada dampak operasional atau keuangan, dan komposisi direksi-komisaris masih memenuhi batas minimum yang diwajibkan regulator. Yang tersentuh di sini bukan angka keuangan, melainkan tata kelola perusahaan, yakni jumlah dan fungsi Komisaris Independen yang bertugas mengawasi manajemen demi melindungi kepentingan pemegang saham minoritas; berkurangnya satu kursi di posisi ini biasa dipantau pasar karena menyangkut independensi pengawasan, meski dalam kasus ini perseroan menyatakan masih sesuai syarat minimum. Yang perlu dipantau selanjutnya adalah apakah dan kapan EMTK akan mengumumkan pengganti untuk posisi Komisaris Independen yang kosong, biasanya lewat RUPS, namun dokumen ini belum menyebutkan tanggal atau proses penggantiannya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "suspensi-btpn-23-november-delisting-perdagangan-dihentikan",
@@ -8657,8 +8859,8 @@ var ARTICLES = [
  {
   "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
   "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 8.800 Saham, Hak Suara 0,3124%",
-  "deck": "Komisaris AKPI Henry Liem melepas 8.800 saham lewat skema repurchase agreement pada 16 November 2026, hak suaranya turun dari 0,3139% ke 0,3124%.",
+  "title": "AKPI: Komisaris Henry Liem Tambah 262.600 Saham, Hak Suara 0,3553%",
+  "deck": "Komisaris AKPI Henry Liem membeli 300.000 saham pada 20 November 2026 setelah menjual 37.400 saham sehari sebelumnya, membalikkan tren jual bertahap dan menaikkan hak suaranya dari 0,3124% menjadi 0,3553%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T09:55:34",
@@ -8668,18 +8870,28 @@ var ARTICLES = [
   "tags": [
    "AKPI",
    "Henry Liem",
-   "Komisaris",
-   "Laporan Kepemilikan Saham"
+   "laporan kepemilikan",
+   "Argha Karya Prima"
   ],
   "body": [
-   "Pada 16 November 2026, komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, menjual 8.800 lembar saham AKPI melalui skema repurchase agreement dengan harga Rp645 per saham. Transaksi ini mengurangi kepemilikannya dari 1.921.659 lembar menjadi 1.912.859 lembar, atau setara 0,4579% dari total saham yang dipegangnya. Akibatnya, hak suara Henry Liem di AKPI turun dari 0,3139% menjadi 0,3124%. Saham yang dijual berstatus kepemilikan tidak langsung, dan laporan ini disampaikan ke OJK sesuai POJK Nomor 4/2024 tentang laporan kepemilikan saham perusahaan terbuka.",
-   "Laporan ini merupakan kelanjutan dari pola penjualan bertahap yang dilakukan Henry Liem. Sebelumnya pada 9 November 2026, ia melaporkan penjualan 200.000 saham yang membuat hak suaranya turun ke 0,3139%, angka yang menjadi titik awal transaksi 16 November ini. Jenis transaksi yang tercatat adalah repurchase agreement, yaitu skema jual saham dengan janji dibeli kembali pada harga dan waktu tertentu, yang umumnya dipakai sebagai sarana pendanaan pribadi dengan saham sebagai jaminan, bukan pelepasan permanen kepemilikan di perusahaan."
+   "Komisaris PT Argha Karya Prima Industry Tbk (AKPI), Henry Liem, melaporkan ke OJK pada 23 November 2026 bahwa ia menambah kepemilikan sahamnya secara neto sebanyak 262.600 lembar. Penambahan ini berasal dari dua transaksi lewat skema repurchase agreement: penjualan tidak langsung 37.400 lembar pada 19 November 2026 di harga Rp645 per saham, lalu pembelian tidak langsung 300.000 lembar pada 20 November 2026 di harga Rp595 per saham.",
+   "Dengan transaksi ini, jumlah saham Henry Liem naik dari 1.912.859 lembar menjadi 2.175.459 lembar, atau bertambah 13,73% dari kepemilikannya sebelum transaksi. Hak suaranya di AKPI ikut naik dari 0,3124% menjadi 0,3553%.",
+   "Kenaikan ini membalikkan arah laporan-laporan sebelumnya. Pada 9 November 2026, Henry Liem melaporkan penjualan 200.000 saham yang menurunkan hak suaranya menjadi 0,3139%, lalu pada 16 November 2026 ia kembali menjual 8.800 saham sehingga hak suaranya turun lagi ke 0,3124%. Seperti laporan-laporan sebelumnya, seluruh transaksi ini tercatat berstatus kepemilikan tidak langsung dan menggunakan skema repurchase agreement, yaitu jual saham dengan janji membeli kembali pada harga dan waktu tertentu, yang umumnya dipakai sebagai sarana pendanaan pribadi dengan saham sebagai jaminan."
   ],
   "fotoAdegan": "Workers monitoring rolls of plastic packaging film moving through an industrial production line, factory floor lighting",
-  "takeaway": "Laporan ini netral bagi AKPI, karena jumlah saham yang dilepas Henry Liem hanya 8.800 lembar, setara 0,4579% dari kepemilikannya sendiri, dan membuat hak suaranya nyaris tidak bergeser dari 0,3139% menjadi 0,3124%. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham, bukan ekuitas atau kas perusahaan, karena transaksi di pasar sekunder antar pemegang saham ini tidak mengubah jumlah saham beredar AKPI. Skema repurchase agreement yang dipakai membuat saham dijual dengan janji dibeli kembali pada harga dan waktu tertentu, sehingga lebih mencerminkan kebutuhan pendanaan pribadi Henry Liem daripada sinyal soal prospek perusahaan. Pola ini berulang sejak laporan 9 November 2026 yang melepas 200.000 saham, sehingga yang perlu dipantau adalah apakah penjualan bertahap lewat skema repo ini terus berlanjut, meski dokumen ini tidak menyebut tanggal jatuh tempo pembelian kembali sahamnya.",
+  "takeaway": "Laporan ini netral bagi AKPI, karena meski kenaikan kepemilikan Henry Liem tergolong besar untuk ukuran dirinya sendiri (naik 13,73% dari sahamnya sebelum transaksi), dampaknya terhadap total saham AKPI tetap tipis, hak suaranya hanya naik dari 0,3124% menjadi 0,3553% dari seluruh perusahaan. Yang tersentuh di sini adalah struktur kepemilikan dan hak suara pemegang saham, bukan ekuitas atau arus kas AKPI, sebab jual beli di skema repurchase agreement ini terjadi di pasar sekunder antar pihak dan tidak menambah atau mengurangi jumlah saham beredar perusahaan. Yang perlu dipantau berikutnya adalah apakah pola jual-beli bertahap lewat skema repo ini berlanjut dengan arah net beli seperti laporan kali ini, atau kembali ke pola net jual seperti dua laporan sebelumnya, karena dokumen ini tidak menyebutkan tanggal jatuh tempo atau batas akhir skema repurchase agreement tersebut.",
   "sentimen": "netral",
   "peristiwa": "kepemilikan",
-  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T10:31:24",
+    "ringkas": "Henry Liem membeli 300.000 saham AKPI pada 20 November, membalikkan tren jual bertahap dan menaikkan hak suaranya ke 0,3553%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-2849-00.pdf-0.pdf",
+    "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+   }
+  ],
+  "diperbarui": "2026-11-23T10:31:24"
  },
  {
   "slug": "bi-perkuat-aturan-pelindungan-konsumen-digital",
@@ -24815,8 +25027,8 @@ var ARTICLES = [
  {
   "slug": "tcid-jadwalkan-rupslb-15-desember-agenda-menyusul",
   "category": "Aksi Korporasi",
-  "title": "TCID Jadwalkan [RUPSLB] 15 Desember, Agenda Menyusul",
-  "deck": "Mandom Indonesia (TCID) akan menggelar RUPS Luar Biasa pada 15 Desember 2026. Pemegang saham per 20 November 2026 yang berhak hadir dan memberi suara.",
+  "title": "RUPSLB TCID 15 Desember: [Agenda] Ubah Domisili dan Susunan Direksi",
+  "deck": "Surat pemanggilan resmi RUPSLB Mandom Indonesia (TCID) terbit, memuat dua agenda: perubahan domisili dan alamat perseroan, serta pergantian anggota direksi dan komisaris.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T07:52:21",
@@ -24825,18 +25037,44 @@ var ARTICLES = [
   "emiten": "TCID",
   "tags": [
    "TCID",
-   "Mandom Indonesia",
    "RUPSLB",
-   "korporasi"
+   "Mandom Indonesia",
+   "Perubahan Direksi"
   ],
   "body": [
-   "PT Mandom Indonesia Tbk (TCID) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026 pukul 10.00 WIB, bertempat di Factory 1, Kawasan Industri MM2100, Jalan Irian Blok PP, Bekasi. Rapat akan berlangsung secara fisik sekaligus elektronik melalui platform eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia (KSEI). Perseroan membatasi jumlah pemegang saham yang bisa hadir fisik di lokasi berdasarkan mekanisme siapa cepat dia dapat, karena kapasitas ruangan terbatas.",
-   "Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang tercatat dalam Daftar Pemegang Saham Perseroan, atau yang memegang saldo saham di sub rekening efek KSEI, pada penutupan perdagangan di Bursa Efek Indonesia tanggal 20 November 2026. Surat pemanggilan resmi yang memuat agenda lengkap rapat baru akan diterbitkan pada 23 November 2026 melalui situs web Bursa Efek Indonesia, KSEI, dan Mandom Indonesia sendiri. Pemegang saham yang ingin mengusulkan mata acara tambahan harus mengirimkan usulannya melalui surat tercatat dan diterima perseroan paling lambat 16 November 2026, sesuai Anggaran Dasar Perseroan dan POJK Nomor 15/POJK.04/2020.",
-   "Bagi pemegang saham yang berhalangan hadir langsung, perseroan menyediakan opsi pemberian kuasa secara elektronik melalui eASY.KSEI, atau mengunduh formulir surat kuasa di situs web perusahaan dan menyerahkannya ke PT Raya Saham Registra selaku biro administrasi efek Mandom Indonesia. Pengumuman ini ditandatangani oleh Corporate Secretary Mandom Indonesia, Alia Risyamaya Dewi, pada 6 November 2026, merujuk pada surat sebelumnya bernomor 136/SEKR/ad/X/26."
+   "PT Mandom Indonesia Tbk (TCID) menerbitkan surat pemanggilan resmi untuk Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 23 November 2026, sekaligus mengungkap dua agenda yang sebelumnya belum diumumkan. Agenda pertama adalah persetujuan perubahan Anggaran Dasar Perseroan, dan agenda kedua adalah perubahan susunan anggota Direksi dan Dewan Komisaris.",
+   "Perubahan Anggaran Dasar berkaitan dengan Pasal 1 tentang tempat kedudukan perseroan, yang akan dipindahkan dari Jakarta Pusat ke Kabupaten Bekasi. Menyusul perubahan domisili itu, perseroan juga akan mengubah alamat resminya. Perubahan semacam ini memerlukan persetujuan RUPS sesuai Undang-Undang Perseroan Terbatas.",
+   "Agenda kedua menyangkut pengunduran diri sejumlah anggota Direksi dan Dewan Komisaris yang sebelumnya baru diangkat oleh RUPS Tahunan pada 19 Mei 2026. Sesuai aturan Otoritas Jasa Keuangan, perseroan wajib menggelar RUPS untuk memutuskan pengunduran diri tersebut paling lambat 90 hari setelah permohonan diterima, dan RUPSLB 15 Desember 2026 ini menjadi forum keputusannya. Dokumen tidak menyebut nama pejabat yang mengundurkan diri maupun calon penggantinya.",
+   "Jadwal dan mekanisme rapat yang sudah diumumkan sebelumnya tetap berlaku: RUPSLB digelar Selasa, 15 Desember 2026 pukul 10.00 WIB di Factory 1, Kawasan Industri MM2100, Bekasi, secara fisik maupun elektronik lewat eASY.KSEI. Pemegang saham yang berhak hadir adalah yang tercatat per penutupan perdagangan 20 November 2026.",
+   "Perseroan menghimbau pemegang saham mendaftarkan kehadiran, kuasa, atau pilihan suara lewat aplikasi eASY.KSEI paling lambat satu hari kerja sebelum rapat, yakni 14 Desember 2026 pukul 12.00 WIB. Kuasa tertulis bisa juga diserahkan ke biro administrasi efek PT Raya Saham Registra dengan tenggat yang sama."
   ],
   "fotoAdegan": "Quiet tree-lined access road leading toward a cosmetics manufacturing plant in an industrial park, early morning light",
-  "takeaway": "Pengumuman ini sendiri netral bagi pemegang saham karena isinya baru soal jadwal dan mekanisme rapat, belum ada mata acara atau keputusan korporasi yang diungkap sama sekali. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di dokumen ini, karena memang belum ada agenda yang diumumkan, jadi pelaku pasar belum punya dasar untuk menilai dampaknya ke keuangan perseroan. Yang membuat RUPSLB ini tetap perlu dicermati adalah sifatnya yang luar biasa, bukan rapat tahunan rutin, yang biasanya menandakan ada aksi korporasi tertentu yang akan dibahas. Yang perlu dipantau pemegang saham adalah surat pemanggilan resmi berisi agenda lengkap yang terbit 23 November 2026, serta tenggat pengajuan usulan mata acara pada 16 November 2026 kalau ada pemegang saham yang ingin menambahkan topik. Rapat itu sendiri akan digelar 15 Desember 2026, dan hasil keputusannya baru bisa dinilai dampaknya setelah agenda diketahui.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi pemegang saham karena isinya memastikan agenda yang sebelumnya masih kosong, tanpa ada angka keuangan atau transaksi yang mengubah penilaian atas kinerja perseroan. Yang tersentuh adalah struktur tata kelola: sejumlah anggota Direksi dan Dewan Komisaris yang baru diangkat RUPST Mei 2026 mengundurkan diri belum genap delapan bulan menjabat, pergantian yang lebih cepat dari siklus normal dan layak dicermati meski belum menyentuh ekuitas, arus kas, beban bunga, atau laba per saham secara langsung. Perubahan domisili ke Kabupaten Bekasi sendiri bersifat administratif, menyesuaikan Anggaran Dasar dengan lokasi pabrik perseroan. Yang perlu dipantau pemegang saham adalah hasil RUPSLB pada 15 Desember 2026, termasuk siapa pengganti direksi dan komisaris yang mengundurkan diri, serta batas akhir registrasi elektronik eASY.KSEI pukul 12.00 WIB pada 14 Desember 2026 bagi yang ingin hadir atau memberi suara.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T12:18:54",
+    "ringkas": "Pemanggilan resmi RUPSLB TCID terbit: agendanya ubah domisili ke Bekasi dan pergantian direksi serta komisaris yang mengundurkan diri.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TCID_E002_59266e1a-10a2-4735-9d8f-9e9d29c5ce48-20261123121856.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-23T12:18:54",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pencatatan pemegang saham (DPS) berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Batas registrasi elektronik eASY.KSEI untuk hadir atau beri kuasa"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "RUPSLB digelar, agenda ubah anggaran dasar dan susunan direksi/komisaris"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bexi-siapkan-dana-rp22-5-miliar-untuk-pelunasan-obligasi",
@@ -63410,8 +63648,8 @@ var ARTICLES = [
  {
   "slug": "msie-gelar-rupslb-20-november-bahas-penyesuaian-kbli",
   "category": "Aksi Korporasi",
-  "title": "MSIE Gelar RUPSLB 20 November, Bahas [Penyesuaian] KBLI",
-  "deck": "MSIE akan menggelar RUPSLB pada 20 November 2026 untuk menyetujui penyesuaian kode klasifikasi usaha dari KBLI 2020 ke KBLI 2025, tanpa mengubah kegiatan usaha.",
+  "title": "RUPSLB MSIE 20 November: [Penyesuaian KBLI] Disetujui",
+  "deck": "RUPSLB MSIE pada 20 November 2026 resmi menyetujui penyesuaian kode KBLI dari 2020 ke 2025 dengan dukungan bulat 86,22% pemegang saham.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "14 Oktober 2026",
   "isoDate": "2026-10-14T08:20:33",
@@ -63421,17 +63659,28 @@ var ARTICLES = [
   "tags": [
    "MSIE",
    "RUPSLB",
-   "Anggaran Dasar",
-   "KBLI"
+   "KBLI",
+   "Anggaran Dasar"
   ],
   "body": [
-   "PT Multisarana Intan Eduka Tbk (MSIE) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Tahun Buku 2025 pada Jumat, 20 November 2026 pukul 10.00 WIB. Rapat akan berlangsung di IPC Room, IPH Schools lantai 2, Jalan Raya Kedung Baruk 112-114 Surabaya, sekaligus diselenggarakan secara elektronik melalui aplikasi eASY.KSEI. Pemegang saham yang berhak hadir atau memberi kuasa dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham perseroan per penutupan perdagangan Bursa Efek Indonesia pada 28 Oktober 2026.",
-   "Satu-satunya mata acara RUPSLB adalah persetujuan perubahan Pasal 3 Anggaran Dasar perseroan mengenai maksud, tujuan, dan kegiatan usaha. Perubahan ini dilakukan untuk menyesuaikan kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) perseroan dari KBLI 2020 ke KBLI 2025. Perseroan menegaskan penyesuaian kode ini tidak mengubah kegiatan usaha yang sebenarnya dijalankan.",
-   "Surat pemanggilan resmi yang memuat teknis pelaksanaan rapat secara elektronik akan diterbitkan pada 29 Oktober 2026. Pemegang saham yang ingin mengusulkan tambahan mata acara rapat harus menyampaikan usulan beserta penjelasannya melalui surat tercatat kepada Direksi perseroan, paling lambat tujuh hari kerja sebelum tanggal pemanggilan tersebut, pada jam kerja kantor perseroan."
+   "PT Multisarana Intan Eduka Tbk (MSIE) telah menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 20 November 2026, dan seluruh pemegang saham yang hadir menyetujui perubahan Pasal 3 Anggaran Dasar perseroan terkait penyesuaian kode klasifikasi usaha, tanpa ada suara menolak atau abstain.",
+   "Rapat yang berlangsung di IPC Room, IPH Schools, Surabaya, itu dihadiri pemegang saham yang mewakili 1.258.756.300 saham, atau 86,22 persen dari total 1.460.007.754 saham perseroan yang beredar. Seluruh suara yang hadir, alias 100 persen, menyatakan setuju atas satu-satunya agenda rapat.",
+   "Agenda tersebut adalah penyesuaian kode Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) milik perseroan dari KBLI 2020 ke KBLI 2025. Perseroan menegaskan perubahan ini hanya menyesuaikan kode administratif dan tidak mengubah kegiatan usaha yang sebenarnya dijalankan. Rapat sebelumnya dijadwalkan sejak diumumkan pada 14 Oktober 2026, dengan hak hadir ditentukan berdasarkan Daftar Pemegang Saham per 28 Oktober 2026.",
+   "Rapat juga mencatat susunan pengurus perseroan tidak berubah. Direksi tetap dipimpin Tanu Widjaja sebagai Direktur Utama bersama Imanuel Herman Prawiromaruto sebagai Direktur, sementara Dewan Komisaris tetap diisi Agustina Felisia Willeam sebagai Komisaris Utama Independen dan Ian Griffin Prawiromaruto sebagai Komisaris."
   ],
   "fotoAdegan": "Exterior of a modern multi-story school building facade under morning light, quiet street in an Indonesian city, no people nearby",
-  "takeaway": "Agenda tunggal RUPSLB ini netral bagi fundamental MSIE, karena isinya cuma menyesuaikan kode klasifikasi usaha mengikuti aturan baru, tanpa mengubah lini bisnis, aset, atau struktur permodalan perusahaan. Karena sifatnya administratif, perubahan ini tidak menyentuh pos-pos yang biasa dipantau investor seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar, sehingga dampaknya ke kondisi keuangan perusahaan praktis tidak ada. Yang perlu diperhatikan pemegang saham justru soal partisipasi: hanya yang namanya tercatat di Daftar Pemegang Saham per 28 Oktober 2026 yang berhak hadir atau memberi kuasa dalam rapat. Surat pemanggilan resmi berisi detail teknis rapat elektronik lewat eASY.KSEI akan terbit 29 Oktober 2026, sebelum RUPSLB digelar dan agenda ini diputuskan pada 20 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi fundamental MSIE, karena keputusannya murni administratif, yaitu menyesuaikan kode klasifikasi usaha mengikuti standar baru pemerintah, tanpa mengubah lini bisnis yang dijalankan perseroan. Perubahan semacam ini tidak menyentuh pos-pos yang biasa dipantau investor seperti modal pemegang saham, kas perusahaan, beban bunga utang, atau jumlah saham yang beredar di pasar, sehingga tidak ada dampak langsung ke laporan keuangan. Dukungan pemegang saham pun bulat, seluruh saham yang hadir, sekitar 86,22 persen dari total saham perseroan, menyetujui tanpa ada yang menolak atau abstain. Yang perlu dipantau selanjutnya adalah proses administratif lanjutan, yakni pengajuan permohonan persetujuan perubahan Anggaran Dasar ini oleh Direksi kepada instansi berwenang, meski dokumen belum mencantumkan tenggat waktunya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T11:15:06",
+    "ringkas": "RUPSLB MSIE 20 November 2026 disetujui bulat dengan kuorum 86,22%, menyesuaikan kode KBLI dari 2020 ke 2025 tanpa mengubah kegiatan usaha.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_MSIE_E013_d122d929-c968-4631-9bb2-573180b9c335-20261123111507.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-23T11:15:06",
+  "peristiwa": "rups"
  },
  {
   "slug": "prtl-tawarkan-obligasi-rp741-miliar-bunga-7-55-7-65",

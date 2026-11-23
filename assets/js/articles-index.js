@@ -39,6 +39,38 @@ var ARTICLES = [
   "sourceLabel": "Bank Indonesia"
  },
  {
+  "slug": "hrum-bara-sejahtera-abadi-borong-6-76-miliar-saham-suara-50-09",
+  "category": "Aksi Korporasi",
+  "title": "HRUM: Karunia Bara Perkasa Jual 6,76 Miliar Saham, Suara ke 29,79%",
+  "deck": "Karunia Bara Perkasa menjual 6,76 miliar saham HRUM pada 19 November 2026 seharga Rp660, jumlah dan tanggal yang sama dengan pembelian Bara Sejahtera Abadi, hak suaranya turun dari 79,79% ke 29,79%.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HRUM",
+   "Harum Energy",
+   "Karunia Bara Perkasa",
+   "Bara Sejahtera Abadi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-4089-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "gmfi-direksi-tri-hartono-tambah-500-000-saham-suara-0-00",
+  "category": "Aksi Korporasi",
+  "title": "GMFI: Direksi Tri Hartono [Tambah] 500.000 Saham, Suara 0,00%",
+  "deck": "Direksi GMFI Tri Hartono membeli 500.000 saham di harga Rp39 per saham, menambah kepemilikannya dari 1,5 juta jadi 2 juta lembar untuk portofolio pribadi.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GMFI",
+   "laporan kepemilikan",
+   "direksi",
+   "saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-3796-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "infomedia-luncurkan-ai-learning-ecosystem-untuk-kampus",
   "category": "Teknologi",
   "title": "Infomedia Luncurkan [AI] Learning Ecosystem untuk Kampus",
@@ -54,6 +86,86 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479855-infomedia-hadirkan-ai-learning-ecosystem-untuk-pendidikan-tinggi"
+ },
+ {
+  "slug": "transaksi-material-enrg-beli-saham-preferen-highpeak-us-200-juta",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Material ENRG: [Beli] Saham Preferen HighPeak US$200 Juta",
+  "deck": "THP, anak usaha ENRG, membeli 200.000 saham preferen konversi HighPeak Energy senilai US$200 juta, transaksi material tanpa perlu persetujuan RUPS.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "Transaksi Material",
+   "HighPeak Energy",
+   "Investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ENRG_E019_34ea6a11-85b1-4943-97e8-31b6d35b0811-20261123110341.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "enrg-rampungkan-investasi-us-200-juta-di-highpeak-energy-as",
+  "category": "Aksi Korporasi",
+  "title": "ENRG [Rampungkan] Investasi US$200 Juta di HighPeak Energy AS",
+  "deck": "EMP melalui anak usahanya merampungkan investasi US$200 juta di HighPeak Energy AS, menambah eksposur cadangan migas sekitar 47 juta barel setara minyak.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ENRG",
+   "HighPeak Energy",
+   "investasi migas",
+   "ekspansi luar negeri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ENRG_E019_84f2fcb0-71b8-4e31-9f96-9ad1e60fc596-20261123110123.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nick-indovest-central-jual-103-6-juta-saham-hak-suara-jadi-38",
+  "category": "Aksi Korporasi",
+  "title": "NICK: Indovest Central [Jual] 103,6 Juta Saham, Hak Suara Jadi 38%",
+  "deck": "Indovest Central menjual 103,6 juta saham NICK pada 19-20 November 2026, memangkas hak suaranya dari 53,92% menjadi 38%, melepas status mayoritas.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NICK",
+   "Charnic Capital",
+   "kepemilikan saham",
+   "Indovest Central"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-8762-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jast-uob-kay-hian-jual-38-juta-saham-hak-suara-jadi-3-85",
+  "category": "Aksi Korporasi",
+  "title": "JAST: UOB Kay Hian Jual 38 Juta Saham, [Hak Suara] Jadi 3,85%",
+  "deck": "UOB Kay Hian Pte Ltd melepas 38 juta saham JAST, kepemilikan turun dari 4,08% menjadi 3,85% hak suara.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAST",
+   "Jasnita Telekomindo",
+   "kepemilikan saham",
+   "UOB Kay Hian"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-3416-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "emtk-komisaris-independen-marianna-sutadi-meninggal-dunia",
+  "category": "Aksi Korporasi",
+  "title": "EMTK: Komisaris Independen Marianna Sutadi [Meninggal Dunia]",
+  "deck": "Marianna Sutadi, Komisaris Independen Elang Mahkota Teknologi (EMTK), wafat 20 November 2026. Perseroan sebut susunan direksi-komisaris masih sesuai aturan OJK.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EMTK",
+   "Komisaris Independen",
+   "Tata Kelola Perusahaan",
+   "Elang Mahkota Teknologi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_EMTK_E019_ffce93cb-51cd-4709-bbcd-086e5b2ec21d-20261123103317.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "suspensi-btpn-23-november-delisting-perdagangan-dihentikan",
@@ -4221,15 +4333,15 @@ var ARTICLES = [
  {
   "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
   "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem [Jual] 8.800 Saham, Hak Suara 0,3124%",
-  "deck": "Komisaris AKPI Henry Liem melepas 8.800 saham lewat skema repurchase agreement pada 16 November 2026, hak suaranya turun dari 0,3139% ke 0,3124%.",
+  "title": "AKPI: Komisaris Henry Liem Tambah 262.600 Saham, Hak Suara 0,3553%",
+  "deck": "Komisaris AKPI Henry Liem membeli 300.000 saham pada 20 November 2026 setelah menjual 37.400 saham sehari sebelumnya, membalikkan tren jual bertahap dan menaikkan hak suaranya dari 0,3124% menjadi 0,3553%.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "AKPI",
    "Henry Liem",
-   "Komisaris",
-   "Laporan Kepemilikan Saham"
+   "laporan kepemilikan",
+   "Argha Karya Prima"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4990-00.pdf-0.pdf",
   "sourceLabel": "IDX"
@@ -6412,119 +6524,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7217/menko-airlangga-industri-kelapa-sawit-jadi-pilar-ketahanan-pangan-dan-energi-nasional",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kici-tanggapi-permintaan-bursa-penjualan-naik-22",
-  "category": "Aksi Korporasi",
-  "title": "KICI Tanggapi Permintaan Bursa: [Penjualan Naik 22%]",
-  "deck": "KICI menanggapi permintaan penjelasan Bursa Efek Indonesia: penjualan naik 22% dari tahun lalu, di tengah tekanan daya beli domestik dan persaingan produk China.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KICI",
-   "Kedaung Indah Can",
-   "Bursa Efek Indonesia",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4774200045_df395dcd02.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "infranexia-tambah-1-408-km-jaringan-fiber-optik-2026",
-  "category": "Teknologi",
-  "title": "InfraNexia [Tambah] 1.408 Km Jaringan Fiber Optik 2026",
-  "deck": "InfraNexia menambah 1.408 km jaringan fiber optik pada 2026, membawa total jaringannya ke 112.000 km sekaligus menyiapkan infrastruktur siap AI untuk kebutuhan data yang terus meningkat.",
-  "date": "13 November 2026",
-  "image": "assets/img/infranexia-tambah-1-408-km-jaringan-fiber-optik-2026.jpg",
-  "imageV": "mwefnrni",
-  "tags": [
-   "InfraNexia",
-   "Telkom",
-   "Fiber Optik",
-   "Infrastruktur Digital"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478124-infranexia-tambah-1408-km-jaringan-fiber-optik-pada-2026-siapkan-ai-ready-infrastructure"
- },
- {
-  "slug": "pmthmetd-gtra-dana-cair-semester-i-2027-rups-7-desember",
-  "category": "Aksi Korporasi",
-  "title": "PMTHMETD GTRA: [Dana Cair] Semester I 2027, RUPS 7 Desember",
-  "deck": "GTRA menjawab permintaan BEI soal private placement: dana ditargetkan cair semester I 2027, RUPS Independen digelar 7 Desember 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTRA",
-   "PMTHMETD",
-   "Private Placement",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ce87d8d8da_55cf7f49e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "true-keluar-dari-pemantauan-khusus-bei-efektif-16-november",
-  "category": "Aksi Korporasi",
-  "title": "TRUE [Keluar] dari Pemantauan Khusus BEI, Efektif 16 November",
-  "deck": "BEI mencabut saham PT Triniti Dinamik Tbk (TRUE) dari papan pemantauan khusus mulai 16 November 2026, setelah kriteria soal pendapatan tidak lagi terpenuhi.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRUE",
-   "pemantauan khusus",
-   "BEI",
-   "papan pencatatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3c890e8caa_997b17d859.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-gula-7-desember-agenda-ubah-susunan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB GULA 7 Desember: [Agenda] Ubah Susunan Direksi-Komisaris",
-  "deck": "RUPSLB PT Aman Agrindo Tbk (GULA) digelar 7 Desember 2026 untuk membahas perubahan susunan direksi dan komisaris perusahaan.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GULA",
-   "RUPSLB",
-   "Direksi",
-   "Komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6a2a6eafbe_799825c44b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-jadi-rp2-509-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Turun] Jadi Rp2.509.000 per Gram",
-  "deck": "Harga emas batangan Antam turun Rp9.000 menjadi Rp2.509.000 per gram, sementara harga buyback ikut turun ke Rp2.285.000 per gram.",
-  "date": "13 November 2026",
-  "image": "assets/img/harga-emas-antam-turun-jadi-rp2-509-000-per-gram.jpg",
-  "imageV": "mwefnrsr",
-  "tags": [
-   "emas",
-   "antam",
-   "harga emas",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478121-harga-emas-antam-hari-ini-13-november-2026-turun-jadi-rp2509000-per-gram-saatnya-beli"
- },
- {
-  "slug": "dgik-global-dinamika-kencana-tambah-189-5-juta-saham-suara-68-2",
-  "category": "Aksi Korporasi",
-  "title": "DGIK: Global Dinamika Kencana [Tambah] 189,5 Juta Saham, Suara 68,2%",
-  "deck": "Global Dinamika Kencana menambah 189,5 juta saham DGIK lewat transaksi repo seharga Rp150 per saham pada 12 November 2026, hak suaranya naik dari 64,80% menjadi 68,20%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGIK",
-   "Nusa Konstruksi Enjiniring",
-   "kepemilikan saham",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-4569-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

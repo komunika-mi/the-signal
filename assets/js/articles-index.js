@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "suspensi-btpn-23-november-delisting-perdagangan-dihentikan",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi BTPN 23 November: [Delisting] Perdagangan Dihentikan",
+  "deck": "BEI menghentikan sementara perdagangan saham BTPN di seluruh pasar sejak sesi pra-pembukaan Senin, 23 November 2026, menyusul rencana go private dan delisting sukarela bank itu.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BTPN",
+   "suspensi",
+   "go private",
+   "delisting"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_BTPN_B007_1e94fc58-e061-4c2e-9827-c81eb80e948e-20261123091645.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inco-direksi-abu-ashar-tambah-300-000-saham-hak-suara-0-00",
+  "category": "Aksi Korporasi",
+  "title": "INCO: Direksi Abu Ashar [Tambah] 300.000 Saham, Hak Suara 0,00%",
+  "deck": "Direksi INCO Abu Ashar membeli 300.000 saham tidak langsung pada 19 November 2026, kepemilikannya naik jadi 322.000 lembar, hak suara tetap 0,00%.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-1310-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penjualan-mobil-nasional-naik-19-7-persen-hingga-oktober",
   "category": "Industri",
   "title": "Penjualan Mobil Nasional [Naik] 19,7 Persen hingga Oktober",
@@ -39,6 +71,22 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/indonesia-uni-eropa-tandatangani-ieu-cepa-dan-ieu-ipa-perkuat-perlindungan-investasi-dan-perluas-akses-pasar",
   "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
+  "slug": "buyback-cdia-rp1-triliun-pembelian-maksimal-4-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "Buyback CDIA Rp1 Triliun: [Pembelian] Maksimal 4 Miliar Saham",
+  "deck": "CDIA berencana membeli kembali maksimal 4 miliar saham (3,2% dari total saham) senilai hingga Rp1 triliun dengan harga tertinggi Rp800 per saham, periode 23 November 2026 hingga 22 Februari 2027.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CDIA",
+   "buyback",
+   "Chandra Daya Investasi",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_CDIA_E019_2efa8ca5-4d55-4676-be95-c597c84f80f9-20261123080259.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan",
@@ -6475,56 +6523,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7ccb8b5848_a3d9930dc8.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rups-independen-gtra-7-desember-private-placement-189-4-juta-saham",
-  "category": "Aksi Korporasi",
-  "title": "RUPS Independen GTRA 7 Desember: [Private Placement] 189,4 Juta Saham",
-  "deck": "GTRA memanggil RUPS Independen 7 Desember 2026 untuk meminta persetujuan private placement hingga 189,4 juta saham baru, maksimal 10 persen modal disetor.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTRA",
-   "RUPS Independen",
-   "private placement",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/59aeeb6ed0_20034db336.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026",
-  "category": "UMKM",
-  "title": "Ekspor UMKM Binaan Kemendag [Tembus] US$360 Juta pada 2026",
-  "deck": "Nilai transaksi ekspor UMKM binaan Kemendag naik dari US$134,8 juta sepanjang 2025 menjadi US$360 juta hanya dalam sembilan bulan 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/ekspor-umkm-binaan-kemendag-tembus-us-360-juta-pada-2026.jpg",
-  "imageV": "mwdwc8un",
-  "tags": [
-   "UMKM",
-   "Ekspor",
-   "Kemendag",
-   "Keterbukaan Informasi"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/mendag-busan-pastikan-keterbukaan-informasi-publik-dalam-tiga-program-kemendag",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "airlangga-subsidi-bbm-aman-hingga-akhir-2026",
-  "category": "Energi",
-  "title": "Airlangga: Subsidi BBM [Aman] hingga Akhir 2026",
-  "deck": "Menko Airlangga Hartarto memastikan subsidi BBM tetap terjaga hingga akhir 2026, kendati rupiah melemah ke Rp18.239 per dolar AS dan harga minyak dunia di US$92-93 per barel.",
-  "date": "13 November 2026",
-  "image": "assets/img/airlangga-subsidi-bbm-aman-hingga-akhir-2026.jpg",
-  "imageV": "mwdwc9aw",
-  "tags": [
-   "BBM subsidi",
-   "rupiah",
-   "Airlangga Hartarto",
-   "APBN 2026"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478097-menko-airlangga-pastikan-subsidi-bbm-tetap-aman-hingga-akhir-2026"
  }
 ];

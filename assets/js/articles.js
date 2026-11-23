@@ -3,6 +3,68 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "suspensi-btpn-23-november-delisting-perdagangan-dihentikan",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi BTPN 23 November: [Delisting] Perdagangan Dihentikan",
+  "deck": "BEI menghentikan sementara perdagangan saham BTPN di seluruh pasar sejak sesi pra-pembukaan Senin, 23 November 2026, menyusul rencana go private dan delisting sukarela bank itu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T09:16:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_BTPN_B007_1e94fc58-e061-4c2e-9827-c81eb80e948e-20261123091645.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BTPN",
+  "tags": [
+   "BTPN",
+   "suspensi",
+   "go private",
+   "delisting"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan efek PT Bank SMBC Indonesia Tbk (BTPN) di seluruh pasar, berlaku mulai sesi pra-pembukaan hari Senin, 23 November 2026. Penghentian mencakup seluruh jenis perdagangan secara lelang berkelanjutan (continuous auction) dan berlaku sampai ada pengumuman lebih lanjut dari BEI, sehingga belum ada kepastian kapan saham BTPN bisa diperdagangkan lagi.",
+   "Suspensi ini merujuk pada surat BTPN Nomor S.102/CCS/XI/2026 tertanggal 20 November 2026 kepada BEI, perihal keterbukaan informasi mengenai aksi korporasi perseroan berupa rencana voluntary delisting dari BEI dan go private. Pengumuman suspensi ditandatangani oleh Teuku Fahmi Ariandar selaku Kepala Divisi Penilaian Perusahaan 1 dan Pande Made Kusuma Ari A. selaku Kepala Divisi Pengaturan dan Operasional Perdagangan.",
+   "BEI meminta semua pihak yang berkepentingan untuk terus mencermati keterbukaan informasi lanjutan yang disampaikan BTPN. Suspensi ini menyusul pengumuman rencana go private dan delisting yang sebelumnya disampaikan perseroan, dengan agenda tersebut rencananya dibahas dalam RUPSLB BTPN pada 30 November 2026."
+  ],
+  "fotoAdegan": "Exterior of a modern Indonesian bank branch with glass facade, pedestrians walking past on a Jakarta street in daylight",
+  "takeaway": "Laporan ini negatif bagi pemegang saham publik BTPN, karena sejak pagi ini saham mereka benar-benar tidak bisa diperjualbelikan di bursa sampai ada pengumuman lanjutan dari BEI. Yang tersentuh bukan laporan keuangan seperti laba atau utang, melainkan likuiditas saham, yaitu kemudahan mengubah saham menjadi uang tunai di pasar terbuka; begitu suspensi berlaku penuh, pemegang saham publik kehilangan jalur jual beli biasa dan harus menunggu mekanisme pembelian saham dari pemegang saham pengendali dalam proses go private. Yang perlu dipantau berikutnya adalah pengumuman lanjutan dari BEI soal nasib perdagangan saham ini, serta hasil RUPSLB BTPN pada 30 November 2026 yang akan menentukan apakah rencana go private dan delisting disetujui, termasuk skema harga yang nanti ditawarkan kepada pemegang saham publik untuk melepas sahamnya.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Penghentian Sementara Perdagangan Efek",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Mulai penghentian sementara perdagangan saham BTPN di seluruh pasar"
+   }
+  ]
+ },
+ {
+  "slug": "inco-direksi-abu-ashar-tambah-300-000-saham-hak-suara-0-00",
+  "category": "Aksi Korporasi",
+  "title": "INCO: Direksi Abu Ashar [Tambah] 300.000 Saham, Hak Suara 0,00%",
+  "deck": "Direksi INCO Abu Ashar membeli 300.000 saham tidak langsung pada 19 November 2026, kepemilikannya naik jadi 322.000 lembar, hak suara tetap 0,00%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T09:02:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-1310-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INCO",
+  "tags": [
+   "INCO",
+   "Vale Indonesia",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Abu Ashar, anggota Direksi PT Vale Indonesia Tbk (INCO), melaporkan kepada Otoritas Jasa Keuangan bahwa ia menambah kepemilikan sahamnya di perusahaan tersebut. Berdasarkan laporan bertanggal 23 November 2026, jumlah saham miliknya naik dari 22.000 lembar menjadi 322.000 lembar, atau bertambah 300.000 lembar saham biasa INCO.",
+   "Penambahan itu berasal dari empat transaksi pembelian saham secara tidak langsung yang seluruhnya dieksekusi pada 19 November 2026. Rinciannya, 100.000 lembar dibeli pada harga Rp3.310 per saham, 50.000 lembar pada Rp3.260, 50.000 lembar pada Rp3.270, dan 100.000 lembar pada Rp3.320. Seluruh transaksi dicatat dengan tujuan transaksi pembelian saham.",
+   "Meski jumlah lembar yang dipegangnya melonjak dibandingkan posisi sebelumnya, hak suara Abu Ashar di INCO tercatat tetap 0,00% baik sebelum maupun sesudah transaksi, yang menunjukkan porsi kepemilikannya terhadap total saham beredar INCO masih sangat kecil."
+  ],
+  "fotoAdegan": "Industrial nickel ore stockpiles and conveyor equipment at a Sulawesi mining site under overcast sky, workers in safety gear nearby.",
+  "takeaway": "Laporan ini netral bagi fundamental Vale Indonesia, karena meski seorang direksi menambah kepemilikan saham, porsinya terlalu kecil untuk dibaca sebagai sinyal keyakinan korporasi yang berarti. Yang tersentuh di sini cuma hak suara pribadi sang direksi, yaitu porsi suara yang dimilikinya dalam rapat pemegang saham berdasarkan jumlah saham yang dipegang, bukan ekuitas atau kas perusahaan. Pelaku pasar biasanya memantau transaksi insider semacam ini karena bisa mencerminkan keyakinan pengurus terhadap kinerja perusahaan, tapi 300.000 lembar yang membuat hak suaranya tetap tercatat 0,00% menunjukkan jumlah itu nyaris tidak berarti dibanding total saham beredar INCO. Yang perlu dipantau berikutnya adalah apakah direksi atau komisaris lain INCO melaporkan pembelian serupa dalam waktu dekat, karena pola pembelian oleh beberapa pengurus sekaligus baru akan lebih bermakna dibanding transaksi individual seperti ini.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
   "slug": "penjualan-mobil-nasional-naik-19-7-persen-hingga-oktober",
   "category": "Industri",
   "title": "Penjualan Mobil Nasional [Naik] 19,7 Persen hingga Oktober",
@@ -57,6 +119,43 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
   "takeaway": "Yang sebenarnya berubah hari ini adalah status hukum kerja sama ini, dari rencana menjadi perjanjian yang sudah ditandatangani, tapi belum berlaku. Begitu nanti disahkan di dalam negeri, lebih dari 98 persen barang yang diperdagangkan antara Indonesia dan Uni Eropa akan dikenakan pajak impor yang lebih rendah secara bertahap, dan investor dari kedua pihak mendapat jaminan tambahan seperti tidak akan diambil alih usahanya secara sepihak serta bebas memindahkan keuntungan ke luar negeri. Pihak yang paling kena dampak lebih dulu adalah investor Eropa di sektor kimia dan farmasi, yang sudah jadi tujuan investasi terbesar dengan pangsa 19 persen dari total US$1,93 miliar investasi Uni Eropa ke Indonesia sepanjang Januari-September 2026, ditambah sektor baru yang disebut pemerintah seperti kendaraan listrik dan energi terbarukan. Arahnya, hubungan dagang dan investasi Indonesia-Uni Eropa bergerak dari tahap negosiasi ke tahap pelaksanaan, tapi dampak nyatanya bagi pelaku usaha baru bisa dipastikan setelah proses pengesahan di dalam negeri selesai, karena pemerintah menargetkan perjanjian ini efektif berlaku 1 Januari 2027.",
   "imageV": "mwslqdd9"
+ },
+ {
+  "slug": "buyback-cdia-rp1-triliun-pembelian-maksimal-4-miliar-saham",
+  "category": "Aksi Korporasi",
+  "title": "Buyback CDIA Rp1 Triliun: [Pembelian] Maksimal 4 Miliar Saham",
+  "deck": "CDIA berencana membeli kembali maksimal 4 miliar saham (3,2% dari total saham) senilai hingga Rp1 triliun dengan harga tertinggi Rp800 per saham, periode 23 November 2026 hingga 22 Februari 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T08:02:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_CDIA_E019_2efa8ca5-4d55-4676-be95-c597c84f80f9-20261123080259.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CDIA",
+  "tags": [
+   "CDIA",
+   "buyback",
+   "Chandra Daya Investasi",
+   "OJK"
+  ],
+  "body": [
+   "PT Chandra Daya Investasi Tbk (CDIA) mengumumkan rencana pembelian kembali saham atau buyback dengan dana maksimal Rp1 triliun yang berasal dari kas internal perseroan secara bertahap. Saham yang dibeli kembali dibatasi paling banyak 4 miliar lembar atau 3,20 persen dari total saham yang telah diterbitkan perseroan, dengan harga pembelian setinggi-tingginya Rp800 per saham. Periode pembelian berlangsung sejak 23 November 2026 sampai 22 Februari 2027, dan perseroan menunjuk PT Trimegah Sekuritas Indonesia Tbk sebagai pelaksana transaksi melalui perdagangan di Bursa Efek Indonesia.",
+   "Buyback ini dilakukan berdasarkan aturan khusus Otoritas Jasa Keuangan untuk kondisi pasar yang berfluktuasi secara signifikan, yakni POJK Nomor 13 Tahun 2023 dan Surat Edaran OJK Nomor S-112/D.04/2026, yang memungkinkan emiten membeli kembali sahamnya tanpa harus menunggu persetujuan rapat umum pemegang saham. Perseroan menyertakan simulasi proforma dari laporan keuangan konsolidasian per 30 September 2026: jika seluruh dana buyback terpakai, total ekuitas diperkirakan turun dari 1.111.484.633 menjadi 1.055.922.904 (dalam ribuan dolar AS sesuai kurs per tanggal tersebut), atau susut sekitar 5 persen, dengan total aset turun dalam jumlah yang sama. Laba periode berjalan dan laba bersih per saham diperkirakan tidak berubah, tetap di angka 0,0002, karena simulasi ini hanya mencerminkan perpindahan kas menjadi saham treasuri, bukan perubahan laba usaha.",
+   "Selama periode buyback, anggota Dewan Komisaris, Direksi, pegawai, dan pemegang saham utama CDIA dilarang bertransaksi atas saham perseroan, begitu juga pihak yang karena posisi atau hubungan usahanya bisa memperoleh informasi orang dalam. Perseroan dapat menghentikan buyback lebih cepat jika dana sudah habis terpakai atau target pembelian sudah tercapai. Saham hasil pembelian akan disimpan sebagai saham treasuri, dan sesuai POJK Nomor 29 Tahun 2023, jika masih dikuasai tiga tahun setelah pembelian selesai, perseroan wajib mulai mengalihkannya dalam dua tahun berikutnya, dengan tambahan waktu paling lama satu tahun jika kewajiban itu belum tuntas. Pengalihan saham treasuri itu nantinya bisa dilakukan lewat perdagangan di bursa atau luar bursa, pengurangan modal, program kepemilikan saham untuk karyawan dan direksi, pembayaran atau penyelesaian transaksi tertentu, konversi efek bersifat ekuitas, atau distribusi proporsional kepada pemegang saham."
+  ],
+  "fotoAdegan": "Stock brokers in motion on a busy trading floor in Jakarta, rows of blurred computer monitors in the background, morning light",
+  "takeaway": "Buyback ini condong netral bagi fundamental CDIA, sebab seluruhnya dibiayai dari kas internal tanpa menambah utang, tetapi juga menyerap dana hingga Rp1 triliun tanpa jaminan manfaat langsung bagi kinerja usaha. Pos yang tersentuh adalah ekuitas, yakni modal sendiri perseroan, yang menurut simulasi bisa susut sekitar 5 persen begitu seluruh dana buyback terpakai karena kas berubah menjadi saham treasuri, sementara laba per saham, yaitu bagian keuntungan untuk setiap lembar saham, diperkirakan tetap karena laba usaha perseroan sendiri tidak tersentuh transaksi ini. Yang perlu dipantau berikutnya adalah realisasi pembelian sepanjang periode 23 November 2026 sampai 22 Februari 2027, apakah dana Rp1 triliun benar-benar terpakai penuh, serta keputusan perseroan atas saham treasuri setelah periode itu berakhir, misalnya dibagikan ke pemegang saham, dipakai untuk program kepemilikan karyawan dan direksi, atau justru mengurangi modal perseroan.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Mulai periode pembelian kembali saham dan lapor ke OJK/BEI"
+   },
+   {
+    "tanggal": "2027-02-22",
+    "acara": "Akhir periode pembelian kembali saham"
+   }
+  ]
  },
  {
   "slug": "bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan",
@@ -24496,8 +24595,8 @@ var ARTICLES = [
  {
   "slug": "roti-jadwalkan-rupslb-15-desember-catat-batas-pendaftaran",
   "category": "Aksi Korporasi",
-  "title": "ROTI Jadwalkan [RUPSLB] 15 Desember, Catat Batas Pendaftaran",
-  "deck": "Nippon Indosari Corpindo mengumumkan rencana RUPSLB pada 15 Desember 2026, pemegang saham yang berhak hadir tercatat per 20 November 2026.",
+  "title": "RUPSLB ROTI 15 Desember: [Agenda] Tarik 514 Juta Saham Treasuri",
+  "deck": "Pemanggilan resmi RUPSLB ROTI 15 Desember 2026 mengungkap agenda: penarikan 514.213.400 saham treasuri (8,31%) dan pergantian direksi usai mundurnya Arief Alfanto.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T08:42:14",
@@ -24507,17 +24606,50 @@ var ARTICLES = [
   "tags": [
    "ROTI",
    "RUPSLB",
-   "Nippon Indosari Corpindo",
-   "pasar modal"
+   "saham treasuri",
+   "pergantian direksi"
   ],
   "body": [
-   "PT Nippon Indosari Corpindo Tbk (ROTI) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026 pukul 10.00 WIB, bertempat di Peony Tulip Room, Lantai 5, Hotel Mulia, Jalan Asia-Afrika, Senayan, Jakarta. Pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham hingga Jumat, 20 November 2026 pukul 16.00 WIB adalah yang berhak hadir dan memberikan suara dalam rapat ini. Pengumuman ini merupakan kelanjutan dari surat sebelumnya bernomor 059/FCS/L/X/2026.",
-   "Perseroan menyebutkan bahwa pemanggilan resmi berisi agenda rapat baru akan diterbitkan pada Senin, 23 November 2026, melalui situs perseroan, situs Bursa Efek Indonesia, dan situs penyedia e-RUPS, sesuai Anggaran Dasar Pasal 14 ayat (3) dan POJK 15/2020. Usulan mata acara dari pemegang saham akan dimasukkan ke agenda rapat jika diterima Direksi paling lambat tujuh hari sebelum tanggal pemanggilan tersebut, yakni sekitar 16 November 2026.",
-   "Karena rapat dibatasi secara fisik, perseroan mengimbau pemegang saham untuk hadir dan memberikan suara secara elektronik melalui fasilitas eASY.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia, atau memberikan kuasa elektronik kepada PT Raya Saham Registra, biro administrasi efek perseroan yang ditunjuk sebagai pihak independen untuk mewakili pemegang saham dalam rapat."
+   "PT Nippon Indosari Corpindo Tbk (ROTI) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 23 November 2026, dengan dua agenda utama. Agenda pertama adalah persetujuan penarikan saham treasuri sebanyak-banyaknya 514.213.400 lembar, setara 8,31 persen dari modal ditempatkan dan disetor perseroan, melalui pengurangan modal sekaligus mengubah pasal 4 ayat 2 Anggaran Dasar. Agenda kedua adalah persetujuan perubahan susunan direksi, menyusul pengunduran diri Arief Alfanto sebagai Direktur yang sudah diumumkan sejak 28 Oktober 2026.",
+   "RUPSLB akan digelar pada Selasa, 15 Desember 2026 pukul 10.00 WIB di Peony Tulip Room, Lantai 5, Hotel Mulia, Jalan Asia-Afrika, Senayan, Jakarta. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham hingga Jumat, 20 November 2026 pukul 16.00 WIB, sesuai jadwal yang sudah diumumkan perseroan sebelumnya.",
+   "Perseroan mengimbau pemegang saham berpartisipasi secara elektronik melalui fasilitas eASY.KSEI atau memberikan kuasa kepada PT Raya Saham Registra selaku biro administrasi efek yang ditunjuk. Pendaftaran daring untuk hadir fisik dibuka mulai 24 November 2026 sampai 15 Desember 2026, surat kuasa fisik harus diterima BAE paling lambat Selasa, 8 Desember 2026, sementara penyampaian e-Proxy melalui eASY.KSEI dapat dilakukan hingga Senin, 14 Desember 2026 pukul 12.00 WIB.",
+   "Agenda penarikan saham treasuri ini merupakan kelanjutan dari program pembelian kembali saham yang sudah diungkapkan perseroan dalam keterbukaan informasi pada 6 November 2026. RUPSLB ini sebelumnya baru diumumkan sebatas jadwal dan belum memuat agenda, di tengah laporan laba bersih ROTI yang anjlok 59 persen pada kuartal III 2026."
   ],
   "fotoAdegan": "Workers packaging fresh bread loaves on a conveyor belt inside a bright industrial bakery facility",
-  "takeaway": "Pengumuman ini dinilai netral bagi ROTI, karena isinya baru sebatas undangan logistik rapat dan belum memuat agenda atau keputusan apa pun yang berdampak langsung ke kinerja perseroan. Dokumen ini belum menyentuh pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham, sebab mata acara rapat memang belum diumumkan dan baru akan terbuka saat pemanggilan resmi terbit. Yang perlu dipantau pemegang saham adalah pemanggilan resmi pada Senin, 23 November 2026, yang akan memuat agenda rapat sekaligus kemungkinan menjelaskan latar belakang RUPSLB ini, terutama setelah laba bersih ROTI dilaporkan anjlok 59 persen pada kuartal III 2026. Pemegang saham yang ingin mengajukan usulan mata acara juga harus mengirimkannya ke Direksi paling lambat sekitar 16 November 2026, yakni tujuh hari sebelum tanggal pemanggilan.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini condong positif bagi ROTI, karena agenda utamanya adalah menghapus permanen saham treasuri sebanyak-banyaknya 514.213.400 lembar, setara 8,31 persen dari modal ditempatkan dan disetor, lewat pengurangan modal. Saham treasuri adalah saham yang sebelumnya dibeli balik oleh perseroan dari pasar dan disimpan tanpa diperdagangkan; jika ditarik permanen seperti ini, jumlah saham beredar mengecil sehingga laba bersih yang sama akan dibagi ke saham yang lebih sedikit, yang secara matematis mendongkrak laba per saham. Agenda kedua, persetujuan pergantian direksi menyusul mundurnya Arief Alfanto, sifatnya administratif karena sudah diumumkan sejak 28 Oktober 2026 dan nama kandidat penggantinya belum disebut dalam dokumen ini. Yang perlu dipantau pemegang saham adalah keputusan resmi dalam RUPSLB pada 15 Desember 2026, serta tenggat kuasa elektronik (e-Proxy) pada 14 Desember 2026 pukul 12.00 WIB dan kuasa fisik ke PT Raya Saham Registra pada 8 Desember 2026, karena baru di rapat itu seluruh agenda ini disahkan atau tidak.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T10:03:08",
+    "ringkas": "Pemanggilan resmi RUPSLB ROTI mengungkap agenda penarikan 514,2 juta saham treasuri (8,31%) dan pergantian direksi, digelar 15 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ROTI_E002_0cf0061a-6e45-420e-b079-079aa375787c-20261123100310.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-23T10:03:08",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Batas Daftar Pemegang Saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Mulai pendaftaran daring untuk hadir fisik di RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Tenggat surat kuasa fisik diterima BAE PT Raya Saham Registra"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Tenggat penyampaian e-Proxy via eASY.KSEI pukul 12.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "RUPSLB digelar, voting agenda penarikan saham treasuri dan pergantian direksi"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "oppm-tawarkan-obligasi-rp3-33-triliun-dan-us-25-juta",

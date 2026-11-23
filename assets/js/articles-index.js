@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dgwg-jaminan-perusahaan-rp279-m-ke-bank-mandiri-untuk-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "DGWG: [Jaminan Perusahaan] Rp279 M ke Bank Mandiri untuk Anak Usaha",
+  "deck": "DGWG memberi jaminan perusahaan maksimum Rp279,315 miliar ke Bank Mandiri untuk fasilitas modal kerja dua anak usahanya, DGW dan FIT, setara 25,6% dari ekuitas Perseroan.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "transaksi material",
+   "corporate guarantee",
+   "Bank Mandiri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DGWG_E025B_a343e29e-34c0-4d04-a874-e5cd617e10df-20261123195725.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "jaminan-perusahaan-dgwg-rp60-m-ke-bank-danamon-untuk-anak-usaha-fit",
+  "category": "Aksi Korporasi",
+  "title": "Jaminan Perusahaan DGWG Rp60 M ke [Bank Danamon] untuk Anak Usaha FIT",
+  "deck": "DGWG memberi jaminan perusahaan hingga Rp60 miliar ke Bank Danamon untuk mendukung fasilitas modal kerja anak usahanya, PT Fertilizer Inti Technology.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGWG",
+   "jaminan perusahaan",
+   "transaksi afiliasi",
+   "Bank Danamon"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DGWG_E025B_0f397381-f7fd-4aa4-a3e2-e192ecfd14d9-20261123195612.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "nano-public-expose-26-november-pendapatan-430-laba-rp3-25-m",
+  "category": "Aksi Korporasi",
+  "title": "NANO Public Expose 26 November: Pendapatan +430%, [Laba Rp3,25 M]",
+  "deck": "Dalam materi Public Expose 26 November 2026, NANO melaporkan pendapatan Januari-Oktober melonjak ke Rp356,96 miliar dan laba neto Rp3,25 miliar, berbalik dari rugi tahun lalu.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NANO",
+   "Public Expose",
+   "kinerja keuangan",
+   "Nanotech Indonesia Global"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_NANO_E003_5387254d-825c-4dd9-bfb2-940d69d6278f-20261123195014.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-sementara-2027",
   "category": "Global",
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
@@ -19,6 +67,134 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7242/menko-airlangga-bertemu-komisioner-perdagangan-komisi-eropa-matangkan-penandatanganan-dan-implementasi-ieu-cepa",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "obligasi-mbma-tahap-vi-rampung-terbit-rp600-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi MBMA Tahap VI Rampung: [Terbit] Rp600,9 Miliar",
+  "deck": "Penawaran Obligasi Berkelanjutan I Tahap VI MBMA resmi ditutup dengan total Rp600,905 miliar diterbitkan dalam tiga seri berbunga 9-10,75 persen.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MBMA",
+   "Obligasi",
+   "Merdeka Battery Materials",
+   "Pasar Modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_MBMA_E019_f28b96f8-25fe-409b-b3c1-a856e91be251-20261123193543.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgik-realisasi-400-2-juta-saham-treasuri-dialihkan-ke-gdk",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: [Realisasi] 400,2 Juta Saham Treasuri Dialihkan ke GDK",
+  "deck": "DGIK merampungkan penjualan 400.214.500 saham treasuri kepada pengendali GDK pada 19 November 2026, menuntaskan rencana yang diumumkan 4 November.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGIK",
+   "saham treasuri",
+   "Global Dinamika Kencana",
+   "struktur permodalan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DGIK_E019_d40ae391-454e-4ee5-82f4-f2c0bbb27767-20261123193206.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-toba-19-november-perubahan-kovenan-rasio-keuangan-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPO TOBA 19 November: [Perubahan] Kovenan Rasio Keuangan Disetujui",
+  "deck": "RUPO pemegang obligasi TOBA menyetujui perubahan kovenan rasio keuangan dan penggunaan dana, didukung 99,79 persen suara pada 19 November 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "RUPO",
+   "obligasi",
+   "TBS Energi Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_22868d16-744c-4c91-94ac-91d65f07c03b-20261123191506.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-toba-19-november-perubahan-penggunaan-dana-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPO TOBA 19 November: [Perubahan] Penggunaan Dana Disetujui",
+  "deck": "RUPO TOBA menyetujui perubahan penggunaan dana obligasi Rp125 miliar: Rp89 miliar untuk modal kerja dan Rp24,07 miliar untuk pelunasan sebagian obligasi 2023 Seri A yang jatuh tempo 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "TBS Energi Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_b71eeae2-ced5-43fa-ac50-b571c46ada80-20261123191233.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-toba-27-november-ebitda-naik-39-rugi-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose TOBA 27 November: [EBITDA] Naik 39%, Rugi Menyusut",
+  "deck": "TBS Energi Utama memaparkan kinerja: pendapatan turun 10,7% menjadi US$257,3 juta, namun EBITDA disesuaikan naik 39,3% dan rugi bersih menyusut 72,3% di tengah divestasi bisnis batu bara.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "TBS Energi Utama",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E003_2c2eb5de-4220-4e3b-a7aa-386358f8513f-20261123191124.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tbig-akuisisi-edotco-indonesia-pjb-100-saham-diteken",
+  "category": "Aksi Korporasi",
+  "title": "TBIG Akuisisi EDOTCO Indonesia: [PJB] 100% Saham Diteken",
+  "deck": "TBIG menandatangani Perjanjian Jual Beli dengan Axiata Group Berhad dan EDOTCO Group untuk mengambil alih 100% saham PT EDOTCO Infrastruktur Indonesia, 23 November 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TBIG",
+   "akuisisi",
+   "EDOTCO",
+   "menara telekomunikasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TBIG_E019_5e608351-6ef0-4339-89e6-67e220382136-20261123190524.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-toba-tahap-iii-19-nov-kovenan-rasio-keuangan-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPO TOBA Tahap III 19 Nov: [Kovenan Rasio Keuangan] Disetujui",
+  "deck": "Pemegang obligasi TOBA Tahap III senilai Rp175 miliar menyetujui 100 persen perubahan syarat rasio keuangan dalam RUPO 19 November 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "kovenan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_ee4e0034-371b-485b-8f5b-9269efd9a0c5-20261123190325.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-i-toba-19-nov-kovenan-rasio-keuangan-disetujui-100",
+  "category": "Aksi Korporasi",
+  "title": "RUPO I TOBA 19 Nov: [Kovenan Rasio Keuangan] Disetujui 100%",
+  "deck": "Pemegang Obligasi I TBS Energi Utama Tahun 2023 menyetujui bulat perubahan syarat rasio keuangan dalam RUPO 19 November, tanpa satu pun suara menolak.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "RUPO",
+   "obligasi",
+   "kovenan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_438fc7a4-e1e0-49d6-a497-4fb461814d9d-20261123185944.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bri-sudah-salurkan-843-ambulans-sejak-2022",
@@ -6339,190 +6515,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/455f921d4a_36b66923c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tender-wajib-testdwhshm-terserap-47-78-dari-80-17-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "Tender Wajib TESTDWHSHM: [Terserap] 47,78 dari 80,17 Miliar Saham",
-  "deck": "Pengendali baru TESTDWHSHM membeli 47,78 miliar saham dalam penawaran tender wajib yang selesai 13 November 2026, setara 59,6% dari 80,17 miliar saham yang wajib dibeli.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTDWHSHM",
-   "tender wajib",
-   "pengendali baru",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSHM_E010_d21ddadf-f297-4a82-8e86-fc2d0dfd4128-20261114133911.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sanf-hamdani-dzulkarnaen-efektif-jadi-presiden-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "SANF: Hamdani Dzulkarnaen Efektif Jadi [Presiden Komisaris]",
-  "deck": "SANF menyatakan pengangkatan Hamdani Dzulkarnaen S. sebagai Presiden Komisaris resmi efektif setelah lulus fit and proper test OJK, sementara dua pengurus lain masih menunggu tes serupa.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SANF",
-   "Perubahan Pengurus",
-   "Fit and Proper Test",
-   "Astra Financial"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b81d39e781_5634b9f74b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bnii-bayar-rp1-27-miliar-ke-afiliasi-untuk-keamanan-siber-regional",
-  "category": "Aksi Korporasi",
-  "title": "BNII Bayar Rp1,27 Miliar ke Afiliasi untuk [Keamanan Siber] Regional",
-  "deck": "Bank Maybank Indonesia (BNII) membayar Rp1,27 miliar ke afiliasinya di Malaysia untuk biaya layanan keamanan siber regional periode Mei-Agustus 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BNII",
-   "transaksi afiliasi",
-   "Maybank Indonesia",
-   "keamanan siber"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e6da0d4a0c_5f9baec8e7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-hajj-target-laba-bersih-rp15-miliar-di-2026",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose HAJJ 18 November: [Target 2026] Diyakini Tercapai",
-  "deck": "Public expose tahunan HAJJ terlaksana 18 November 2026; manajemen optimistis target laba bersih Rp15 miliar tahun ini masih bisa dikejar di kuartal IV, meski kinerja sembilan bulan pertama melambat.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HAJJ",
-   "public expose",
-   "kinerja keuangan",
-   "umrah haji"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/93b09b99b8_bab37e1f4a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal",
-  "category": "Energi",
-  "title": "Pupuk Indonesia Bidik Batam Jadi Pusat Bahan Bakar [Amonia] Kapal",
-  "deck": "Pupuk Indonesia menyiapkan rencana fasilitas pengisian amonia untuk kapal di Batam, Lhokseumawe, dan Bontang, bermodal kapasitas produksi amonia nasional 7,1 juta ton per tahun.",
-  "date": "13 November 2026",
-  "image": "assets/img/pupuk-indonesia-bidik-batam-jadi-pusat-bahan-bakar-amonia-kapal.jpg",
-  "imageV": "mweuturi",
-  "tags": [
-   "amonia",
-   "Pupuk Indonesia",
-   "energi hijau",
-   "Batam"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/910/pupuk-indonesia-siap-dukung-indonesia-jadi-pusat-ammonia-hub-di-asia-pasifik",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "stok-pupuk-nasional-capai-1-9-juta-ton-jelang-musim-tanam",
-  "category": "BUMN",
-  "title": "Stok Pupuk Nasional Capai [1,9 Juta Ton] Jelang Musim Tanam",
-  "deck": "PT Pupuk Indonesia menyiapkan 1,9 juta ton stok pupuk per 10 November 2026, sementara penyaluran pupuk bersubsidi naik 14 persen dibanding tahun lalu.",
-  "date": "13 November 2026",
-  "image": "assets/img/stok-pupuk-nasional-capai-1-9-juta-ton-jelang-musim-tanam.jpg",
-  "imageV": "mweutw1o",
-  "tags": [
-   "Pupuk Indonesia",
-   "Pupuk Bersubsidi",
-   "Musim Tanam",
-   "Kementerian Pertanian"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/911/serapan-tinggi-pupuk-indonesia-siapkan-19-juta-ton-stok-pupuk-untuk-musim-tanam",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "kemendag-revisi-aturan-ekspor-karet-alam-permudah-ke-tiongkok",
-  "category": "Industri",
-  "title": "Kemendag [Revisi] Aturan Ekspor Karet Alam, Permudah ke Tiongkok",
-  "deck": "Permendag baru mengatur penggunaan ulang kode identitas produsen karet, surat keterangan ekspor ke Tiongkok, dan batas ekspor untuk sampel serta pameran.",
-  "date": "13 November 2026",
-  "image": "assets/img/kemendag-revisi-aturan-ekspor-karet-alam-permudah-ke-tiongkok.jpg",
-  "imageV": "mweuty1z",
-  "tags": [
-   "karet alam",
-   "ekspor",
-   "Kemendag",
-   "Tiongkok"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kemendag-perkuat-penerapan-standar-teknis-karet-alam-melalui-permendag-26-tahun-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "gula-aren-sukabumi-mulai-diekspor-ke-300-gerai-kopi-malaysia",
-  "category": "UMKM",
-  "title": "Gula Aren Sukabumi Mulai Diekspor ke [300] Gerai Kopi Malaysia",
-  "deck": "Mahorahora, produsen gula aren Sukabumi, mengekspor perdana Rp250,9 juta gula aren cair ke jaringan 300 gerai Kopi Saigon di Malaysia, dengan pesanan sekontainer penuh menyusul Januari 2027.",
-  "date": "13 November 2026",
-  "image": "assets/img/gula-aren-sukabumi-mulai-diekspor-ke-300-gerai-kopi-malaysia.jpg",
-  "imageV": "mweutzwl",
-  "tags": [
-   "gula aren",
-   "ekspor",
-   "Malaysia",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/srasa-di-tei-berbuah-manis-gula-aren-indonesia-didistribusikan-ke-300-gerai-kopi-malaysia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "bi-dan-3-bank-sentral-asean-perluas-kerja-sama-mata-uang-lokal",
-  "category": "Moneter",
-  "title": "BI dan 3 Bank Sentral ASEAN [Perluas] Kerja Sama Mata Uang Lokal",
-  "deck": "Bank Indonesia bersama bank sentral Malaysia, Thailand, dan Filipina menandatangani nota kesepahaman baru yang memperluas kerja sama transaksi mata uang lokal, menggantikan kesepakatan 2023.",
-  "date": "13 November 2026",
-  "image": "assets/img/mesin-hitung-uang.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "ASEAN",
-   "mata uang lokal",
-   "kerja sama bank sentral"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2824926.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "mknt-revisi-laporan-penilaian-cbs-rum-molor-penilai-meninggal",
-  "category": "Aksi Korporasi",
-  "title": "MKNT: Revisi Laporan Penilaian CBS-RUM Molor, [Penilai Meninggal]",
-  "deck": "MKNT jelaskan ke Bursa: revisi laporan penilaian CBS-RUM molor karena penilainya meninggal, dan RUM ternyata beli saham dua perusahaan lain tanpa diungkap lebih dulu.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "Remitra Global International",
-   "pemilik manfaat",
-   "akuisisi RUM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c07881b017_76a1b25905.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "paparan-publik-hmsp-18-november-laba-bersih-naik-44-4-jadi-rp6-5-t",
-  "category": "Aksi Korporasi",
-  "title": "Paparan Publik HMSP 18 November: [Laba Bersih] Naik 44,4% Jadi Rp6,5 T",
-  "deck": "HM Sampoerna memaparkan kinerja Januari-September 2026 di Paparan Publik Tahunan Surabaya, 18 November: laba bersih Rp6,5 triliun, naik 44,4 persen.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HMSP",
-   "Sampoerna",
-   "Paparan Publik",
-   "Laba Bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/70fcebb9d3_7793cef2e6.pdf",
   "sourceLabel": "IDX"
  }
 ];

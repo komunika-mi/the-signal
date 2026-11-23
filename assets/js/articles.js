@@ -3,6 +3,97 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dgwg-jaminan-perusahaan-rp279-m-ke-bank-mandiri-untuk-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "DGWG: [Jaminan Perusahaan] Rp279 M ke Bank Mandiri untuk Anak Usaha",
+  "deck": "DGWG memberi jaminan perusahaan maksimum Rp279,315 miliar ke Bank Mandiri untuk fasilitas modal kerja dua anak usahanya, DGW dan FIT, setara 25,6% dari ekuitas Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:57:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DGWG_E025B_a343e29e-34c0-4d04-a874-e5cd617e10df-20261123195725.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "transaksi material",
+   "corporate guarantee",
+   "Bank Mandiri"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) melaporkan transaksi material yang dikecualikan dari persetujuan RUPS, berupa pemberian jaminan perusahaan (corporate guarantee) kepada PT Bank Mandiri (Persero) Tbk. Jaminan ini menjamin fasilitas kredit modal kerja yang diterima dua anak usahanya, PT Dharma Guna Wibawa (DGW) dan PT Fertilizer Inti Technology (FIT), dengan nilai maksimum Rp279,315 miliar. Angka itu setara 25,6 persen dari ekuitas Perseroan per laporan keuangan 31 Desember 2025. Transaksi diteken 28 Oktober 2026 dan diumumkan di situs resmi perusahaan pada 30 Oktober 2026.",
+   "Dokumen yang ditandatangani Direktur Danny Jo Putra menyebut fasilitas dari Bank Mandiri dipakai DGW dan FIT untuk modal kerja, yakni membeli bahan baku, bahan pembantu, dan barang modal kerja lain dari pemasok yang sudah diaksep Bank Mandiri. DGWG menguasai sekitar 99,5 persen modal disetor DGW dan 94,95 persen modal disetor FIT, sehingga keduanya berstatus perusahaan terkendali.",
+   "Perseroan menyatakan transaksi ini tergolong transaksi afiliasi karena Direktur Utama Perseroan merangkap jabatan Komisaris di DGW sekaligus memegang saham pribadi di DGW maupun FIT. Karena jaminan diberikan kepada bank, perusahaan mengklaim pengecualian dari kewajiban memakai penilai independen (KJPP) berdasarkan Pasal 6 ayat 1 huruf e POJK Nomor 42/2020, dan menyatakan transaksi tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Warehouse workers stacking fertilizer sacks onto pallets inside a large industrial storage facility, forklift nearby, daylight",
+  "takeaway": "Laporan ini netral bagi DGWG, karena jaminan bukan pengeluaran kas langsung dan ditujukan untuk mendukung pembiayaan modal kerja dua anak usaha yang sudah dikuasai penuh Perseroan, bukan pengalihan nilai ke pihak luar. Yang tersentuh adalah posisi ekuitas sebagai acuan batas transaksi material, sebab nilai jaminan Rp279,315 miliar setara 25,6 persen dari ekuitas per akhir 2025, artinya kalau DGW atau FIT gagal membayar Bank Mandiri, DGWG sebagai penjamin yang harus menanggung kewajiban itu meski belum tercatat sebagai utang hari ini. Perangkapan jabatan Direktur Utama Perseroan sebagai Komisaris DGW dan pemegang saham di DGW maupun FIT membuat transaksi ini berstatus afiliasi, meski perusahaan menyatakan tidak ada benturan kepentingan. Karena jaminan ke bank dikecualikan dari kewajiban RUPS dan penilaian independen, tidak ada agenda pemegang saham yang perlu ditunggu dari transaksi ini. Yang perlu dicermati selanjutnya adalah apakah DGW dan FIT benar-benar merealisasikan fasilitas tersebut untuk membeli bahan baku dan mampu memenuhi kewajibannya ke Bank Mandiri, karena risiko jaminan ini baru terasa jika salah satu anak usaha gagal bayar.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Material Tanpa Persetujuan RUPS"
+ },
+ {
+  "slug": "jaminan-perusahaan-dgwg-rp60-m-ke-bank-danamon-untuk-anak-usaha-fit",
+  "category": "Aksi Korporasi",
+  "title": "Jaminan Perusahaan DGWG Rp60 M ke [Bank Danamon] untuk Anak Usaha FIT",
+  "deck": "DGWG memberi jaminan perusahaan hingga Rp60 miliar ke Bank Danamon untuk mendukung fasilitas modal kerja anak usahanya, PT Fertilizer Inti Technology.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:56:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DGWG_E025B_0f397381-f7fd-4aa4-a3e2-e192ecfd14d9-20261123195612.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGWG",
+  "tags": [
+   "DGWG",
+   "jaminan perusahaan",
+   "transaksi afiliasi",
+   "Bank Danamon"
+  ],
+  "body": [
+   "PT Delta Giri Wacana Tbk (DGWG) menandatangani perjanjian jaminan perusahaan (corporate guarantee) pada 18 November 2026, berupa jaminan senilai maksimum Rp60 miliar yang setara 5,5 persen dari ekuitas Perseroan berdasarkan laporan keuangan per 31 Desember 2025. Dalam skema ini, DGWG bertindak sebagai penjamin, PT Bank Danamon Indonesia Tbk sebagai pemberi pinjaman, dan PT Fertilizer Inti Technology (FIT), anak usaha DGWG, sebagai pihak yang dijamin.",
+   "Jaminan ini menjadi syarat agar Bank Danamon mencairkan fasilitas senilai total Rp60 miliar kepada FIT, yang akan dipakai sebagai modal kerja untuk membayar pemasok. Transaksi ini tergolong transaksi afiliasi karena Direktur Utama DGWG memiliki saham di FIT, selain karena FIT merupakan entitas anak yang dikendalikan langsung oleh DGWG. Karena jaminan diberikan kepada bank, Perseroan menyebut transaksi ini dikecualikan dari kewajiban memakai penilai independen sesuai Pasal 6 Ayat 1 huruf e POJK 42/2020, dan menyatakan tidak ada benturan kepentingan dalam transaksi tersebut.",
+   "Direktur DGWG, Danny Jo Putra, menandatangani laporan yang disampaikan ke Otoritas Jasa Keuangan pada 23 November 2026, setelah informasi transaksi lebih dulu diumumkan di situs resmi Perseroan pada 20 November 2026."
+  ],
+  "fotoAdegan": "Workers loading sacks of fertilizer onto a truck at a warehouse loading dock, overcast daylight",
+  "takeaway": "Laporan ini netral bagi DGWG: jaminan Rp60 miliar bukan pengeluaran kas langsung, melainkan kewajiban bersyarat yang baru berlaku kalau FIT gagal bayar, dan nilainya hanya 5,5 persen dari ekuitas Perseroan per akhir 2025. Yang tersentuh adalah pos kewajiban kontinjensi dan potensi arus kas di masa depan, bukan laba rugi saat ini, karena DGWG baru menanggung beban kalau anak usahanya benar-benar menunggak cicilan ke Bank Danamon. Perlu dicatat, ini jaminan kedua yang diumumkan DGWG pekan ini, setelah jaminan Rp279 miliar ke Bank Mandiri untuk dua anak usaha lain, sehingga total kewajiban bersyarat baru Perseroan mencapai sekitar Rp339 miliar dalam waktu singkat. Yang perlu dipantau selanjutnya adalah kemampuan FIT membayar fasilitas modal kerja dari Bank Danamon tersebut, karena dokumen ini tidak menyebutkan tanggal jatuh tempo fasilitasnya.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Transaksi Material Tanpa Persetujuan RUPS"
+ },
+ {
+  "slug": "nano-public-expose-26-november-pendapatan-430-laba-rp3-25-m",
+  "category": "Aksi Korporasi",
+  "title": "NANO Public Expose 26 November: Pendapatan +430%, [Laba Rp3,25 M]",
+  "deck": "Dalam materi Public Expose 26 November 2026, NANO melaporkan pendapatan Januari-Oktober melonjak ke Rp356,96 miliar dan laba neto Rp3,25 miliar, berbalik dari rugi tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:50:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_NANO_E003_5387254d-825c-4dd9-bfb2-940d69d6278f-20261123195014.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NANO",
+  "tags": [
+   "NANO",
+   "Public Expose",
+   "kinerja keuangan",
+   "Nanotech Indonesia Global"
+  ],
+  "body": [
+   "PT Nanotech Indonesia Global Tbk (NANO) menjadwalkan Public Expose Tahunan 2026 di Tangerang Selatan pada 26 November 2026, sesuai materi yang disampaikan ke Bursa Efek Indonesia. Paparan akan dibawakan Direktur Utama Suryandaru soal arah usaha dan komersialisasi teknologi, Direktur Operasional Umar Alfaruqi Abdurrahman soal kinerja keuangan, serta Direktur Bisnis Mochamad Arief Iskandar soal perkembangan usaha dan proyek, dengan Sekretaris Perusahaan Ahmad Fathoni sebagai moderator sesi tanya jawab. Susunan pengurus Perseroan per hasil RUPST 22 Juni 2026 terdiri atas Nurul Taufiqu Rochman sebagai Komisaris Utama, Cahyana Ahmad Jayadi sebagai Komisaris, dan Fauka Noor Farid sebagai Komisaris Independen merangkap Ketua Komite Audit, dengan pemegang saham tercatat PT Nanotech Investama Sedaya dan PT Softbank Ventura Indonesia selain publik.",
+   "Materi paparan menunjukkan pendapatan konsolidasian Januari-Oktober 2026 melonjak ke Rp356,96 miliar, naik 430 persen dibanding periode sama 2025 yang Rp67,35 miliar. Namun laba bruto hanya naik tipis 4,6 persen menjadi Rp12,94 miliar, sehingga margin laba kotor turun dari 18,37 persen menjadi 3,63 persen dari pendapatan. Setelah beban usaha turun 8,4 persen menjadi Rp11,31 miliar, Perseroan membukukan laba usaha Rp1,63 miliar dan laba neto Rp3,25 miliar, berbalik dari rugi Rp1,68 miliar pada periode sama tahun lalu. NANO menyebut realisasi ini sudah melampaui target awal 2026 dalam Laporan Tahunan 2025 yang mematok pendapatan Rp86,60 miliar dan laba bersih Rp2,60 miliar.",
+   "Dari sisi neraca per 31 Oktober 2026, total aset naik 4,9 persen menjadi Rp219,02 miliar dan ekuitas naik 1,6 persen menjadi Rp174,77 miliar dibanding akhir 2025. Kas dan setara kas melonjak 176,7 persen menjadi Rp6,84 miliar dari Rp2,47 miliar, dengan rasio lancar 2,75 kali, dan total liabilitas naik menjadi Rp44,25 miliar. Materi juga mencantumkan data kuartal III 2026 dengan pendapatan Rp117,61 miliar dan laba neto Rp5,00 miliar, tetapi NANO mencatat bahwa angka pendapatan dan laba bruto Januari-September 2025 sebagai pembanding berbeda Rp9,50 miliar dari materi Pubex 2025 sebelumnya dan masih perlu direkonsiliasi sebelum dipublikasikan.",
+   "Secara segmen, bisnis ritel lewat agen MAUPAY yang menjual pulsa, paket data, token listrik dan pembayaran tagihan menyumbang Rp196,20 miliar atau 89,94 persen dari pendapatan semester I 2026. Segmen metallurgical trading mengirim 704,66 ton material dalam 33 pengiriman sepanjang 4 Oktober-21 November 2026 dengan nilai transaksi Rp5,24 miliar sebelum PPN ke lima pabrik atau mitra, meski satu pabrik menyumbang 90,99 persen penjualan. Produksi Oxywater lewat PT Nano Oxywater Internasional mulai berjalan Agustus 2026, sementara NANO masih menjajaki sejumlah kerja sama lanjutan: kontrak dispenser Oxywater senilai Rp800 miliar untuk tiga tahun, kontrak jasa nanoteknologi dengan Mandaya Hospital Group hingga Rp50 miliar dengan sasaran 500.000 vial seharga Rp100.000 per vial, investasi bersama PT Zareen Global Prima senilai Rp100 miliar, serta penjajakan awal di Malaysia, Jerman, Arab Saudi, Singapura dan Brunei yang semuanya masih tahap pembahasan."
+  ],
+  "fotoAdegan": "Workers inspecting rows of oxygen-infused water dispensers on a factory assembly line, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi NANO karena Perseroan berhasil membalik rugi Rp1,68 miliar menjadi laba Rp3,25 miliar dan kas tunai melonjak hampir tiga kali lipat, sinyal bahwa lini usaha baru seperti ritel MAUPAY dan metallurgical trading mulai mendatangkan uang tunai nyata. Namun pertumbuhan pendapatan 430 persen ini diiringi pengikisan margin laba kotor dari 18,37 persen menjadi 3,63 persen, artinya dari setiap penjualan yang tersisa sebagai laba kotor sebelum biaya operasional kini jauh lebih tipis karena bisnis baru yang mendominasi omzet memang bermargin rendah. Yang perlu dipantau pemegang saham adalah apakah laba bersih bisa terus tumbuh sejalan pendapatan atau justru tergerus kalau margin tipis ini berlanjut, mengingat ekuitas hanya naik 1,6 persen meski pendapatan melesat berkali lipat. Perseroan sendiri mengakui ada selisih Rp9,50 miliar pada data pembanding Januari-September 2025 yang masih perlu direkonsiliasi, sehingga angka kuartal III sebaiknya dibaca sebagai sementara. Sesi tanya jawab dalam Public Expose Tahunan pada 26 November 2026 jadi kesempatan investor meminta kepastian soal margin dan rekonsiliasi data tersebut.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Insidentil",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Public Expose Tahunan dan sesi tanya jawab NANO"
+   }
+  ]
+ },
+ {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-sementara-2027",
   "category": "Global",
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
@@ -29,6 +120,251 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Penandatanganan di Brussels ini baru gerbang pertama, bukan garis finis. Yang benar-benar membuka akses pasar adalah 'penerapan sementara', istilah untuk masa ketika perjanjian sudah bisa dipakai pengusaha meski proses pengesahan resmi di parlemen kedua pihak belum rampung, dan pemerintah menargetkan itu mulai awal 2027. Kalau DPR RI dan proses pengesahan di parlemen Eropa serta negara-negara anggotanya selesai tepat waktu, eksportir Indonesia bisa mulai menikmati tarif nol persen untuk 90,4 persen produk sejak awal tahun depan. Tapi kalau ratifikasi di salah satu pihak molor, seperti yang kerap terjadi pada perjanjian dagang semacam ini, jadwal itu bisa mundur. Yang perlu dipantau adalah perkembangan pengesahan di DPR serta rencana kunjungan Komisioner Šefčovič ke Indonesia dan Business Forum bersama EuroCham-KADIN pada 2027, karena itu jadi penanda seberapa serius kedua pihak mengejar tenggat tersebut.",
   "fotoGagal": 2
+ },
+ {
+  "slug": "obligasi-mbma-tahap-vi-rampung-terbit-rp600-9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi MBMA Tahap VI Rampung: [Terbit] Rp600,9 Miliar",
+  "deck": "Penawaran Obligasi Berkelanjutan I Tahap VI MBMA resmi ditutup dengan total Rp600,905 miliar diterbitkan dalam tiga seri berbunga 9-10,75 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:35:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_MBMA_E019_f28b96f8-25fe-409b-b3c1-a856e91be251-20261123193543.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MBMA",
+  "tags": [
+   "MBMA",
+   "Obligasi",
+   "Merdeka Battery Materials",
+   "Pasar Modal"
+  ],
+  "body": [
+   "PT Merdeka Battery Materials Tbk (MBMA) menyampaikan hasil penutupan Penawaran Umum Obligasi Berkelanjutan I Tahap VI Tahun 2026, dengan total Pokok Obligasi yang diterbitkan pada Tanggal Emisi sebesar Rp600.905.000.000 atau Rp600,9 miliar. Obligasi ini terbit dalam tiga seri: Seri A senilai Rp256,26 miliar dengan bunga tetap 9 persen per tahun berjangka waktu 367 hari kalender sejak Tanggal Emisi, Seri B senilai Rp298,275 miliar dengan bunga 10,25 persen per tahun berjangka waktu tiga tahun, dan Seri C senilai Rp46,37 miliar dengan bunga 10,75 persen per tahun berjangka waktu lima tahun.",
+   "Bunga obligasi dibayarkan setiap tiga bulan, dengan pembayaran bunga pertama pada 25 Februari 2027. Pelunasan pokok sekaligus pembayaran bunga terakhir dilakukan penuh atau bullet payment pada saat jatuh tempo masing-masing seri: Seri A pada 2 Desember 2027, Seri B pada 25 November 2029, dan Seri C pada 25 November 2031. Wali amanat dalam penerbitan obligasi ini adalah PT Bank Rakyat Indonesia (Persero) Tbk.",
+   "Penjaminan emisi obligasi ini dibagi di antara delapan perusahaan sekuritas, dengan porsi total masing-masing: PT Indo Premier Sekuritas Rp210,42 miliar (35,02 persen), PT Trimegah Sekuritas Indonesia Tbk Rp79,48 miliar (13,23 persen), PT CIMB Niaga Sekuritas Rp66 miliar (10,98 persen), PT Sinarmas Sekuritas Rp75,78 miliar (12,61 persen), PT Mandiri Sekuritas Rp40,72 miliar (6,77 persen), PT Sucor Sekuritas Rp40,4 miliar (6,72 persen), PT Aldiracita Sekuritas Indonesia Rp56,05 miliar (9,33 persen), dan PT Bahana Sekuritas Rp32,07 miliar (5,34 persen)."
+  ],
+  "fotoAdegan": "Workers inspecting nickel ore stockpiles at an industrial processing site, heavy machinery, overcast daylight",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya hanya realisasi dari rencana penerbitan obligasi yang memang sudah diumumkan sebelumnya, tanpa kejutan baru pada besaran atau bunga yang ditawarkan. Yang tersentuh adalah beban bunga, yaitu biaya yang wajib dibayar MBMA setiap tiga bulan kepada pemegang obligasi, mulai dari 9 persen untuk seri bertenor satu tahun hingga 10,75 persen untuk seri bertenor lima tahun, sehingga makin besar porsi utang jangka panjang yang terserap, makin besar pula beban bunga tahunan yang harus ditanggung perusahaan ke depan. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 25 Februari 2027 dan jatuh tempo Seri A pada 2 Desember 2027, saat pokok senilai Rp256,26 miliar harus dilunasi sekaligus.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2027-02-25",
+    "acara": "Pembayaran bunga pertama seluruh seri obligasi"
+   },
+   {
+    "tanggal": "2027-12-02",
+    "acara": "Jatuh tempo dan pelunasan Obligasi Seri A"
+   },
+   {
+    "tanggal": "2029-11-25",
+    "acara": "Jatuh tempo dan pelunasan Obligasi Seri B"
+   },
+   {
+    "tanggal": "2031-11-25",
+    "acara": "Jatuh tempo dan pelunasan Obligasi Seri C"
+   }
+  ]
+ },
+ {
+  "slug": "dgik-realisasi-400-2-juta-saham-treasuri-dialihkan-ke-gdk",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: [Realisasi] 400,2 Juta Saham Treasuri Dialihkan ke GDK",
+  "deck": "DGIK merampungkan penjualan 400.214.500 saham treasuri kepada pengendali GDK pada 19 November 2026, menuntaskan rencana yang diumumkan 4 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:32:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DGIK_E019_d40ae391-454e-4ee5-82f4-f2c0bbb27767-20261123193206.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "saham treasuri",
+   "Global Dinamika Kencana",
+   "struktur permodalan"
+  ],
+  "body": [
+   "PT Nusa Konstruksi Enjiniring Tbk (DGIK) menyampaikan kepada Bursa Efek Indonesia bahwa pada 19 November 2026 perseroan telah menjual seluruh saham hasil pembelian kembali atau saham treasuri yang dimilikinya, sebanyak 400.214.500 lembar, kepada PT Global Dinamika Kencana (GDK), pemegang saham pengendali perseroan. Transaksi ini merupakan realisasi dari rencana pengalihan saham treasuri yang sudah diumumkan DGIK sejak 4 November 2026.",
+   "Dengan transaksi ini, seluruh saham treasuri yang sebelumnya dipegang oleh perseroan sendiri kini berpindah tangan sepenuhnya ke GDK. Perseroan menegaskan jumlah total saham yang diterbitkan tidak berubah akibat transaksi ini, karena saham treasuri memang sudah termasuk dalam saham yang diterbitkan, hanya saja sebelumnya tidak dipegang pihak mana pun dan tidak memiliki hak suara. Nilai penjualan dari transaksi ini akan dicatat dalam laporan keuangan perseroan sesuai standar akuntansi yang berlaku, namun dokumen ini tidak mencantumkan harga atau nilai transaksinya.",
+   "Surat keterbukaan informasi ini ditandatangani oleh Almanda Pohan selaku Corporate Secretary DGIK. Perseroan menyatakan transaksi tersebut tidak berdampak langsung pada kegiatan operasional maupun kelangsungan usaha, dan akan tetap memenuhi kewajiban pelaporan serta keterbukaan informasi sesuai ketentuan pasar modal."
+  ],
+  "fotoAdegan": "Construction cranes and a partially built high-rise tower in Jakarta's business district under an overcast sky",
+  "takeaway": "Laporan ini netral bagi DGIK, karena jumlah total saham yang diterbitkan tidak berubah dan perseroan sendiri menyatakan tidak ada dampak langsung ke operasional, sementara harga jualnya tidak diungkap sehingga belum bisa dinilai apakah transaksi ini menguntungkan perseroan secara finansial. Yang tersentuh di sini adalah ekuitas dan hak suara: saham treasuri biasanya tercatat sebagai pengurang modal sehingga penjualannya lazim menambah kas dan ekuitas perseroan, sedangkan dari sisi hak suara, 400,2 juta lembar yang tadinya tidak bersuara karena dipegang perseroan sendiri kini aktif bersuara di tangan GDK selaku pengendali, sehingga memperkuat posisi kendali GDK tanpa menambah jumlah saham beredar bagi pemegang saham lain. Dokumen ini tidak memuat harga transaksi maupun tanggal lanjutan apa pun, sehingga yang perlu dipantau selanjutnya adalah laporan kepemilikan saham terbaru dari GDK dan laporan keuangan DGIK berikutnya untuk melihat berapa nilai kas yang masuk dari penjualan saham treasuri ini.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupo-toba-19-november-perubahan-kovenan-rasio-keuangan-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPO TOBA 19 November: [Perubahan] Kovenan Rasio Keuangan Disetujui",
+  "deck": "RUPO pemegang obligasi TOBA menyetujui perubahan kovenan rasio keuangan dan penggunaan dana, didukung 99,79 persen suara pada 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:15:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_22868d16-744c-4c91-94ac-91d65f07c03b-20261123191506.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "RUPO",
+   "obligasi",
+   "TBS Energi Utama"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Obligasi (RUPO) I Tahap II Tahun 2026 PT TBS Energi Utama Tbk (TOBA) digelar pada Kamis, 19 November 2026, di JS Luwansa Hotel, Jakarta Selatan. Rapat dihadiri pemegang obligasi yang mewakili Rp483,18 miliar dari total Rp499,8 miliar obligasi yang masih beredar di luar yang dimiliki afiliasi emiten, atau kuorum kehadiran 96,67 persen. Kedua agenda rapat, yaitu perubahan rencana penggunaan dana hasil obligasi dan perubahan kovenan rasio keuangan, disetujui dengan suara setuju 482,18 miliar atau 99,79 persen, suara menolak hanya 1 miliar atau 0,207 persen, dan tidak ada suara abstain.",
+   "Perubahan pertama mengesahkan ulang penggunaan dana obligasi senilai total Rp500 miliar yang diterbitkan dalam tiga seri: Seri A Rp100 miliar berbunga tetap 7,25 persen per tahun bertenor 3 tahun, Seri B Rp175 miliar berbunga 8,00 persen bertenor 5 tahun, dan Seri C Rp225 miliar berbunga 8,65 persen bertenor 7 tahun. Berdasarkan laporan realisasi yang sudah disampaikan TOBA kepada wali amanat PT Bank Mega Tbk pada 15 Juli 2026, perusahaan telah memakai Rp400,93 miliar dari dana obligasi ini untuk melunasi sebagian pokok Obligasi I TBS Energi Utama Tahun 2023 Seri A, dan sekitar Rp46,64 miliar lagi untuk modal kerja seperti gaji, sewa kantor, dan belanja modal.",
+   "Agenda kedua menyetujui perubahan ketentuan rasio keuangan (financial ratio covenant) dalam Pasal 7 ayat 7.3 huruf b perjanjian perwaliamanatan, meski risalah ini tidak merinci angka rasio lama maupun yang baru. Rapat juga memberi kuasa kepada Bank Mega selaku wali amanat untuk menandatangani akta Addendum I atas perjanjian perwaliamanatan tersebut, dengan seluruh biaya penyelenggaraan RUPO ditanggung TOBA. Perusahaan diwakili oleh Direktur Juli Oktarina, SVP Corporate Finance Mirza Rinaldy Hippy, dan SVP Corporate Strategy Nafi Achmad Sentausa dalam rapat tersebut."
+  ],
+  "fotoAdegan": "Rows of empty formal conference chairs facing a podium in a hotel meeting room, tall windows, soft morning light",
+  "takeaway": "Laporan ini netral bagi TOBA: isinya formalitas RUPO yang nyaris bulat disetujui, 99,79 persen suara setuju dan cuma 0,207 persen menolak, jadi tidak ada friksi berarti dengan kreditor obligasi. Yang tersentuh adalah struktur utang perusahaan lewat kovenan rasio keuangan, yaitu syarat batas rasio tertentu yang kalau dilanggar bisa membuat emiten dianggap gagal bayar ke pemegang obligasi, tapi risalah ini tidak menyebut angka rasio lama maupun barunya sehingga arah perubahannya, lebih longgar atau lebih ketat, belum bisa dinilai dari dokumen ini saja. Bagian penggunaan dana sebenarnya cuma mengesahkan ulang sesuatu yang sudah terjadi sejak Juli 2026, yaitu Rp400,93 miliar dipakai melunasi sebagian obligasi lama 2023, yang berarti penukaran utang lama dengan utang baru, bukan tambahan beban bunga baru. Yang perlu dipantau berikutnya adalah penandatanganan akta Addendum I Perjanjian Perwaliamanatan, karena di situlah angka rasio keuangan yang baru akan tertulis rinci dan bisa dinilai dampaknya terhadap kelonggaran utang TOBA.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupo-toba-19-november-perubahan-penggunaan-dana-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPO TOBA 19 November: [Perubahan] Penggunaan Dana Disetujui",
+  "deck": "RUPO TOBA menyetujui perubahan penggunaan dana obligasi Rp125 miliar: Rp89 miliar untuk modal kerja dan Rp24,07 miliar untuk pelunasan sebagian obligasi 2023 Seri A yang jatuh tempo 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:12:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_b71eeae2-ced5-43fa-ac50-b571c46ada80-20261123191233.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "TBS Energi Utama"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Obligasi (RUPO) I Tahap I Tahun 2025 PT TBS Energi Utama Tbk (TOBA) digelar Kamis, 19 November 2026 di JS Luwansa Hotel, Jakarta Selatan, dan dihadiri pemegang obligasi yang mewakili Rp96,78 miliar dari total Rp124,5 miliar obligasi yang belum dilunasi, atau 77,73 persen, sehingga kuorum terpenuhi. Emiten diwakili oleh Direktur Juli Oktarina bersama SVP Corporate Finance Mirza Rinaldy Hippy dan SVP Corporate Strategy Nafi Achmad Sentausa, sementara PT Bank Mega Tbk bertindak sebagai Wali Amanat. Seluruh 96,78 miliar suara yang hadir menyetujui 100 persen usulan perubahan Pasal 2 ayat 2.1 Perjanjian Perwaliamanatan, tanpa suara menolak atau abstain.",
+   "Perubahan ini mengatur ulang rencana penggunaan dana hasil penerbitan Obligasi Berkelanjutan I TBS Energi Utama Tahap I Tahun 2025 senilai total Rp125 miliar, yang terdiri dari Seri A Rp20 miliar berbunga 8,50 persen bertenor 3 tahun dan Seri B Rp105 miliar berbunga 9,00 persen bertenor 5 tahun. Setelah dikurangi biaya emisi, sebesar Rp89 miliar dialokasikan untuk modal kerja perusahaan, termasuk gaji, sewa kantor, belanja modal, dan keperluan umum korporasi. Sisanya, Rp24,07 miliar, ternyata sudah dipakai TOBA untuk melunasi sebagian pokok Obligasi I TBS Energi Utama Tahun 2023 Seri A yang jatuh tempo pada 2026, sebagaimana telah dilaporkan Emiten ke Wali Amanat lewat surat tertanggal 15 Juli 2026.",
+   "RUPO ini juga memiliki agenda kedua berupa persetujuan perubahan ketentuan rasio keuangan pada Pasal 7 ayat 7.3 huruf b Perjanjian Perwaliamanatan. Para pemegang obligasi memberi kuasa kepada PT Bank Mega Tbk selaku Wali Amanat untuk menandatangani Addendum IV atas perjanjian perwaliamanatan guna memformalkan seluruh perubahan ini, sekaligus membebaskan Wali Amanat dari tuntutan hukum sehubungan dengan pelaksanaan keputusan rapat."
+  ],
+  "fotoAdegan": "Coal haul trucks loading extracted coal onto conveyor belts at an open-pit mine under overcast daylight",
+  "takeaway": "Laporan ini netral bagi TOBA karena intinya adalah restu bondholder yang hampir bulat, dan dana obligasi baru dipakai memang untuk menutup kewajiban utang yang sudah jatuh tempo, bukan tanda baru soal kesulitan keuangan. Yang tersentuh adalah struktur utang dan arus kas perusahaan: dari dana obligasi baru Rp125 miliar, Rp24,07 miliar sudah dipakai melunasi sebagian pokok obligasi lama Seri A 2023 yang jatuh tempo tahun ini, sementara Rp89 miliar dialokasikan untuk modal kerja seperti gaji, sewa kantor, dan belanja modal. Pemegang obligasi menyetujui perubahan ini 100 persen tanpa suara menolak atau abstain, menandakan tidak ada keberatan dari kreditur atas cara TOBA mengelola dananya. Yang perlu dipantau berikutnya adalah penandatanganan Addendum IV atas perjanjian perwaliamanatan yang akan memformalkan perubahan ini, serta pelunasan sisa pokok Obligasi Seri A 2023 yang masih jatuh tempo sepanjang 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "public-expose-toba-27-november-ebitda-naik-39-rugi-menyusut",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose TOBA 27 November: [EBITDA] Naik 39%, Rugi Menyusut",
+  "deck": "TBS Energi Utama memaparkan kinerja: pendapatan turun 10,7% menjadi US$257,3 juta, namun EBITDA disesuaikan naik 39,3% dan rugi bersih menyusut 72,3% di tengah divestasi bisnis batu bara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:11:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E003_2c2eb5de-4220-4e3b-a7aa-386358f8513f-20261123191124.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "TBS Energi Utama",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menyerahkan materi Public Expose Tahunan 2026 ke Bursa Efek Indonesia menjelang acara yang akan digelar Jumat, 27 November 2026, pukul 10.30 WIB. Acara berlangsung secara hibrida, yakni tatap muka di Financial Hall, Graha CIMB Niaga lantai 2, Jakarta, dan daring lewat Zoom Webinar. Pendaftaran untuk pemegang saham, investor, analis, dan media dibuka hingga hari yang sama pukul 09.00 WIB melalui tautan yang disediakan perusahaan, dengan tiga panelis yaitu Mirza Hippy selaku SVP Corporate Finance and Investor Relations, Nafi Sentausa selaku SVP Corporate Strategy, dan Juli Oktarina selaku Direktur.",
+   "Materi yang dibagikan memuat kinerja keuangan kuartal III 2026. Pendapatan perusahaan tercatat US$257,3 juta, turun 10,7 persen dibanding periode sama tahun lalu sebesar US$288,2 juta, terutama akibat pelepasan bertahap bisnis batu bara. Di sisi lain, laba bruto melonjak 105,2 persen menjadi US$45,2 juta setelah beban pokok pendapatan ditekan 20,3 persen, dan EBITDA disesuaikan naik 39,3 persen menjadi US$44,4 juta. Rugi bersih perusahaan menyusut 72,3 persen menjadi US$35,4 juta, jauh lebih kecil dibanding rugi US$127,9 juta tahun lalu yang saat itu turut dibebani rugi divestasi anak usaha senilai US$96,9 juta.",
+   "Di neraca, kas perusahaan turun 12,4 persen menjadi US$89,6 juta, sementara pinjaman bank jangka panjang naik 19,9 persen menjadi US$278,8 juta dan utang obligasi serta sukuk rupiah melonjak 66,6 persen menjadi US$96,8 juta. Total ekuitas turun 20,1 persen menjadi US$172 juta, sedangkan total aset menyusut 5,2 persen menjadi US$751,7 juta. Perusahaan menyebut pergeseran pendanaan ke tenor yang lebih panjang ini ditujukan untuk menekan risiko pembiayaan kembali sekaligus mendukung ekspansi di bisnis baru.",
+   "Materi juga memaparkan perkembangan tiga lini bisnis baru. Di pengelolaan limbah, anak usaha ARAH Environmental di Indonesia mengumpulkan 3.129 ton limbah dengan ketersediaan fasilitas 88 persen, sementara Asia Medical Enviro Services di Singapura mengumpulkan 9.261 ton limbah dengan ketersediaan fasilitas 94 persen dan menguasai sekitar 45 persen pangsa pasar limbah medis di negara itu. Di energi terbarukan, pembangkit mini hidro Adimitra Energi Hidro berkapasitas 6 MW sudah beroperasi dengan produksi 20,8 GWh, sedangkan pembangkit listrik tenaga surya terapung Nusantara Tembesi Baru Energi berkapasitas 46 MWp masih dalam konstruksi dengan progres 73 persen dan target beroperasi komersial pada kuartal IV 2026. Di ekosistem kendaraan listrik Electrum, jumlah unit motor listrik yang beroperasi naik 115 persen menjadi 14.020 unit dan stasiun tukar baterai naik 85 persen menjadi 701 unit per September 2026 dibanding setahun sebelumnya."
+  ],
+  "fotoAdegan": "Workers installing floating solar panel arrays on a reservoir, small boats nearby, overcast tropical sky",
+  "takeaway": "Laporan ini netral bagi TOBA: perbaikan profitabilitas di bisnis baru belum cukup mengimbangi pengikisan modal pemegang saham akibat biaya transisi dari batu bara. EBITDA disesuaikan, ukuran laba operasional sebelum bunga, pajak, dan penyusutan yang mencerminkan kemampuan bisnis inti menghasilkan kas, naik 39,3 persen, dan rugi bersih menyusut tajam. Namun ekuitas, yakni kekayaan bersih yang jadi hak pemegang saham, turun 20,1 persen menjadi US$172 juta, sementara pinjaman jangka panjang dan utang obligasi naik signifikan sehingga beban bunga ke depan berpotensi membesar. Yang perlu dipantau adalah materi dan tanya jawab dalam Public Expose pada 27 November 2026, serta progres pembangkit listrik tenaga surya terapung NTBE menuju target operasi komersial pada kuartal IV 2026.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Public Expose Tahunan TOBA di Jakarta dan daring"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Batas akhir pendaftaran Public Expose pukul 09.00 WIB"
+   }
+  ]
+ },
+ {
+  "slug": "tbig-akuisisi-edotco-indonesia-pjb-100-saham-diteken",
+  "category": "Aksi Korporasi",
+  "title": "TBIG Akuisisi EDOTCO Indonesia: [PJB] 100% Saham Diteken",
+  "deck": "TBIG menandatangani Perjanjian Jual Beli dengan Axiata Group Berhad dan EDOTCO Group untuk mengambil alih 100% saham PT EDOTCO Infrastruktur Indonesia, 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:05:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TBIG_E019_5e608351-6ef0-4339-89e6-67e220382136-20261123190524.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TBIG",
+  "tags": [
+   "TBIG",
+   "akuisisi",
+   "EDOTCO",
+   "menara telekomunikasi"
+  ],
+  "body": [
+   "PT Tower Bersama Infrastructure Tbk (TBIG) menandatangani Perjanjian Jual Beli (PJB) pada 23 November 2026 dengan Axiata Group Berhad, EDOTCO Group Sdn Bhd, dan EDOTCO Malaysia Sdn Bhd. Lewat perjanjian ini, TBIG akan mengakuisisi seluruh atau 100 persen saham PT EDOTCO Infrastruktur Indonesia, perusahaan penyedia infrastruktur menara telekomunikasi yang selama ini berada di bawah grup Axiata dan EDOTCO. Dokumen keterbukaan informasi ini ditandatangani oleh Direktur TBIG, Helmy Yusman Santoso.",
+   "Dokumen tidak mencantumkan nilai transaksi, skema pembayaran, maupun tanggal penyelesaian akuisisi. Perseroan hanya menyebutkan bahwa penyelesaian transaksi masih bergantung pada pemenuhan sejumlah syarat pendahuluan yang diatur dalam PJB, tanpa merinci apa saja syarat tersebut. Dalam formulir resminya ke OJK, TBIG menyatakan bahwa penandatanganan ini belum berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan, karena transaksi memang belum rampung."
+  ],
+  "fotoAdegan": "Telecommunication tower technicians inspecting antenna cables atop a steel tower in a rural Indonesian landscape",
+  "takeaway": "Laporan ini condong positif bagi TBIG karena menandai langkah ekspansi ke pengambilalihan penuh perusahaan menara telekomunikasi lain, yang berarti potensi tambahan aset dan pelanggan sewa menara, meski besar dampaknya belum bisa dipastikan sebab nilai transaksi dan cara pembayarannya tidak diungkapkan dalam dokumen ini. Akuisisi semacam ini biasa menyentuh arus kas perusahaan, yaitu aliran uang masuk dan keluar dari kas, karena pembelian saham perusahaan lain umumnya butuh dana tunai atau pinjaman baru yang bisa menambah beban utang TBIG ke depan. Yang perlu dipantau selanjutnya adalah pengumuman lanjutan soal pemenuhan syarat-syarat pendahuluan yang disebut dalam Perjanjian Jual Beli, termasuk kapan transaksi ini resmi rampung (closing) dan apakah nilai transaksinya akan diungkapkan pada laporan berikutnya, karena dokumen ini tidak mencantumkan tenggat waktu pastinya.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupo-toba-tahap-iii-19-nov-kovenan-rasio-keuangan-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPO TOBA Tahap III 19 Nov: [Kovenan Rasio Keuangan] Disetujui",
+  "deck": "Pemegang obligasi TOBA Tahap III senilai Rp175 miliar menyetujui 100 persen perubahan syarat rasio keuangan dalam RUPO 19 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T19:03:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_ee4e0034-371b-485b-8f5b-9269efd9a0c5-20261123190325.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "obligasi",
+   "RUPO",
+   "kovenan keuangan"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menggelar Rapat Umum Pemegang Obligasi (RUPO) I Tahap III Tahun 2026 pada 19 November 2026 di JS Luwansa Hotel, Jakarta Selatan, untuk meminta persetujuan perubahan Pasal 7 ayat 7.3 huruf b Perjanjian Perwaliamanatan terkait kewajiban rasio keuangan. Seluruh 175.000.000.000 suara yang hadir, mewakili 100 persen obligasi senilai Rp175 miliar yang belum dilunasi, menyetujui perubahan tersebut tanpa satu pun suara menolak atau abstain. Obligasi ini berbunga 9 persen per tahun dengan tenor 7 tahun sejak tanggal emisi.",
+   "Ketentuan baru tetap mewajibkan TOBA menjaga current ratio minimal 1:1, Debt Service Coverage Ratio (DSCR) minimal 1,2:1, dan interest coverage ratio minimal 1 kali, berdasarkan laporan keuangan tahunan teraudit. Yang berubah adalah rumus Adjusted EBITDA untuk menghitung interest coverage ratio, yang kini secara eksplisit menambahkan realisasi piutang yang belum ditagih dari PLN untuk pembangkit listrik yang sudah beroperasi komersial, di samping laba bersih, beban bunga, beban pajak, serta depresiasi dan amortisasi.",
+   "RUPO dipimpin oleh PT Bank Mega Tbk selaku wali amanat, dengan TOBA diwakili Juli Oktarina selaku Direktur, Mirza Rinaldy Hippy selaku SVP Corporate Finance, dan Nafi Achmad Sentausa selaku SVP Corporate Strategy. Rapat juga memberi kuasa kepada Bank Mega untuk menandatangani Akta Addendum I Perjanjian Perwaliamanatan guna menuangkan perubahan ini secara resmi, dengan seluruh biaya penyelenggaraan rapat dan notaris ditanggung TOBA selaku emiten."
+  ],
+  "fotoAdegan": "Wide shot of a coal conveyor terminal at a mining port, workers in safety vests, overcast sky, loading machinery in motion",
+  "takeaway": "Laporan ini netral bagi TOBA: perubahan kovenan disetujui bulat tanpa penolakan dari pemegang obligasi, jadi tidak ada friksi dengan kreditur, tapi dokumen ini tidak memuat rumusan lama sehingga belum bisa dipastikan apakah syaratnya jadi lebih longgar atau lebih ketat. Yang tersentuh adalah rasio keuangan yang dipakai kreditur mengukur risiko gagal bayar, yaitu kemampuan aset lancar menutup utang jangka pendek, kemampuan kas operasional membayar cicilan utang, dan kemampuan laba usaha menutup beban bunga. Satu detail penting, perhitungan laba usaha yang dipakai untuk rasio bunga kini boleh memasukkan piutang PLN yang belum ditagih, yang membuat angka rasionya lebih mudah terpenuhi tanpa harus ada perbaikan kinerja riil, patut dicermati bersama laporan paparan publik TOBA yang menyebut perusahaan masih merugi meski EBITDA naik. Yang perlu dipantau selanjutnya adalah penandatanganan Akta Addendum I oleh Bank Mega selaku wali amanat yang akan mengunci perubahan ini secara hukum.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupo-i-toba-19-nov-kovenan-rasio-keuangan-disetujui-100",
+  "category": "Aksi Korporasi",
+  "title": "RUPO I TOBA 19 Nov: [Kovenan Rasio Keuangan] Disetujui 100%",
+  "deck": "Pemegang Obligasi I TBS Energi Utama Tahun 2023 menyetujui bulat perubahan syarat rasio keuangan dalam RUPO 19 November, tanpa satu pun suara menolak.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T18:59:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_TOBA_E019_438fc7a4-e1e0-49d6-a497-4fb461814d9d-20261123185944.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "RUPO",
+   "obligasi",
+   "kovenan keuangan"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) menggelar Rapat Umum Pemegang Obligasi (RUPO) I Tahun 2023 pada Kamis, 19 November 2026 di JS Luwansa Hotel, Jakarta Selatan. Rapat dihadiri pemegang obligasi dan kuasanya yang mewakili Rp63 miliar hak suara, atau 85,25 persen dari total obligasi yang masih beredar di luar kepemilikan afiliasi Emiten sebesar Rp73,9 miliar. Obligasi ini tersisa Rp75 miliar setelah Seri A senilai Rp425 miliar dilunasi pada 3 Maret 2026, dari total penerbitan awal Rp500 miliar. Seluruh 63 miliar suara yang hadir menyetujui agenda tunggal rapat, yaitu mengubah Pasal 7 ayat 7.3 huruf b Perjanjian Perwaliamanatan, tanpa ada suara menolak atau abstain.",
+   "Isi perubahan yang disetujui menetapkan tiga syarat rasio keuangan baru yang wajib dijaga TOBA berdasarkan laporan keuangan tahunan teraudit yang diserahkan ke wali amanat, PT Bank Mega Tbk. Rasio lancar minimal 1 banding 1, rasio kemampuan membayar utang dari arus kas operasional (debt service coverage ratio) minimal 1,2 banding 1, dan rasio kemampuan membayar bunga dari laba operasional (interest coverage ratio) minimal 1 kali. Pemegang obligasi juga memberi kuasa kepada PT Bank Mega Tbk untuk menandatangani addendum perjanjian yang memformalkan perubahan ini, sekaligus membebaskan wali amanat dari tuntutan hukum terkait pelaksanaan keputusan tersebut.",
+   "TOBA dalam rapat ini diwakili oleh Direktur Juli Oktarina, SVP Corporate Finance Mirza Rinaldy Hippy, dan SVP Corporate Strategy Nafi Achmad Sentausa, yang keduanya mendapat kuasa dari direksi. Notaris Humberg Lie mencatat jalannya rapat. Seluruh biaya penyelenggaraan RUPO, termasuk biaya notaris, ditanggung oleh TOBA selaku emiten."
+  ],
+  "fotoAdegan": "Rows of empty conference chairs facing a podium in a hotel meeting room, soft morning light through windows",
+  "takeaway": "Laporan ini netral bagi TOBA: perubahan kovenan disetujui bulat tanpa satu pun suara menolak, jadi tidak ada friksi dengan kreditur obligasi, tapi dokumen tidak memuat angka rasio lama sehingga belum bisa dipastikan apakah syarat ini diperlonggar atau diperketat. Yang tersentuh di sini adalah syarat utang TOBA, rasio lancar mengukur kas dan aset jangka pendek dibanding utang jangka pendek, DSCR mengukur apakah arus kas operasional cukup membayar cicilan utang dan bunga, dan interest coverage ratio mengukur apakah laba usaha cukup menutup beban bunga saja. Ketiganya dipantau pasar karena pelanggaran rasio semacam ini biasanya memicu status gagal bayar teknis pada obligasi. Yang perlu dipantau berikutnya adalah penandatanganan Addendum V perjanjian perwaliamanatan yang memformalkan perubahan ini, serta laporan keuangan tahunan teraudit TOBA berikutnya, karena di situlah rasio baru ini pertama kali diuji.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "bri-sudah-salurkan-843-ambulans-sejak-2022",

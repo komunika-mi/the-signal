@@ -331,7 +331,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Penandatanganan di Brussels ini baru gerbang pertama, bukan garis finis. Yang benar-benar membuka akses pasar adalah 'penerapan sementara', istilah untuk masa ketika perjanjian sudah bisa dipakai pengusaha meski proses pengesahan resmi di parlemen kedua pihak belum rampung, dan pemerintah menargetkan itu mulai awal 2027. Kalau DPR RI dan proses pengesahan di parlemen Eropa serta negara-negara anggotanya selesai tepat waktu, eksportir Indonesia bisa mulai menikmati tarif nol persen untuk 90,4 persen produk sejak awal tahun depan. Tapi kalau ratifikasi di salah satu pihak molor, seperti yang kerap terjadi pada perjanjian dagang semacam ini, jadwal itu bisa mundur. Yang perlu dipantau adalah perkembangan pengesahan di DPR serta rencana kunjungan Komisioner Šefčovič ke Indonesia dan Business Forum bersama EuroCham-KADIN pada 2027, karena itu jadi penanda seberapa serius kedua pihak mengejar tenggat tersebut.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "obligasi-mbma-tahap-vi-rampung-terbit-rp600-9-miliar",

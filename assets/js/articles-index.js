@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "jensen-huang-kembali-pimpin-nvidia-beri-apresiasi-ke-jajaran",
+  "category": "Teknologi",
+  "title": "Jensen Huang [Kembali] Pimpin Nvidia, Beri Apresiasi ke Jajaran",
+  "deck": "Jensen Huang resmi kembali menjabat CEO dan Presiden Nvidia, lalu berterima kasih kepada dewan direksi, Harvey Jones, Colette Kress, karyawan, dan keluarganya.",
+  "date": "24 November 2026",
+  "image": "assets/img/jensen-huang-kembali-pimpin-nvidia-beri-apresiasi-ke-jajaran.jpg",
+  "imageV": "mwtwy3r9",
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "CEO Nvidia",
+   "Pergantian Pemimpin"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479966-kembali-menjadi-ceo-nvidia-jensen-huang-berterima-kasih-kepada-orang-ini"
+ },
+ {
   "slug": "xmes-2-etf-danareksa-terancam-bubar-nab-di-bawah-rp10-m",
   "category": "Aksi Korporasi",
   "title": "XMES: 2 ETF Danareksa Terancam [Bubar], NAB di Bawah Rp10 M",
@@ -6489,22 +6506,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478376-membangun-kalimantan-dari-dua-sisi-pemulihan-hutan-dan-pendidikan-berkelanjutan"
- },
- {
-  "slug": "akademisi-program-nelayan-kkp-bisa-atasi-kemiskinan-pesisir",
-  "category": "UMKM",
-  "title": "Akademisi: Program Nelayan KKP Bisa Atasi [Kemiskinan] Pesisir",
-  "deck": "Pengamat sosial ekonomi menilai program Kampung Nelayan Merah Putih KKP berpotensi mengurai ketergantungan nelayan pada tengkulak dan memperbaiki kesejahteraan pesisir.",
-  "date": "14 November 2026",
-  "image": "assets/img/akademisi-program-nelayan-kkp-bisa-atasi-kemiskinan-pesisir.jpg",
-  "imageV": "mwgkv934",
-  "tags": [
-   "KKP",
-   "nelayan",
-   "pesisir",
-   "koperasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478374-gebrakan-kkp-dinilai-tingkatkan-kesejahteraan-nelayan-atasi-kemiskinan-pesisir"
  }
 ];

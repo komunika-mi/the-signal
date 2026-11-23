@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "jensen-huang-kembali-pimpin-nvidia-beri-apresiasi-ke-jajaran",
+  "category": "Teknologi",
+  "title": "Jensen Huang [Kembali] Pimpin Nvidia, Beri Apresiasi ke Jajaran",
+  "deck": "Jensen Huang resmi kembali menjabat CEO dan Presiden Nvidia, lalu berterima kasih kepada dewan direksi, Harvey Jones, Colette Kress, karyawan, dan keluarganya.",
+  "image": "assets/img/jensen-huang-kembali-pimpin-nvidia-beri-apresiasi-ke-jajaran.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T04:51:13+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/479966-kembali-menjadi-ceo-nvidia-jensen-huang-berterima-kasih-kepada-orang-ini",
+  "tags": [
+   "Nvidia",
+   "Jensen Huang",
+   "CEO Nvidia",
+   "Pergantian Pemimpin"
+  ],
+  "body": [
+   "Jensen Huang resmi kembali menjabat sebagai CEO sekaligus Presiden Nvidia, perusahaan teknologi raksasa asal Amerika Serikat yang dikenal sebagai perancang utama chip grafis (GPU) dan infrastruktur kecerdasan buatan. Dalam pernyataan pertamanya melalui Nvidia Newsroom pada Senin (23/11/2026), Huang menyampaikan terima kasih kepada berbagai pihak yang mendukung kepemimpinannya kembali ke perusahaan yang ia dirikan sendiri pada 1993. Kembalinya Huang layak diperhatikan karena Nvidia merupakan salah satu pemain utama dalam rantai pasok chip AI global yang kinerjanya ikut memengaruhi arah industri teknologi dunia.",
+   "Huang menegaskan bahwa keputusannya kembali memimpin Nvidia didasari kerendahan hati serta komitmen yang telah diperbarui, setelah sebelumnya ia memilih mundur dari kursi CEO. Ia berterima kasih kepada dewan direksi Nvidia atas kepercayaan dan pertimbangan matang yang diberikan selama proses peralihan kepemimpinan tersebut.",
+   "Secara khusus, Huang memberikan penghargaan kepada Harvey Jones yang mengisi posisi Ketua Dewan Direksi sementara sejak dirinya mundur, setelah sebelumnya Jones menjadi anggota dewan direksi Nvidia sejak 1993. Huang juga mengapresiasi Colette Kress, Wakil Presiden Eksekutif sekaligus Direktur Keuangan Nvidia, yang sempat menjabat sebagai CEO sementara perusahaan selama masa transisi berlangsung.",
+   "Selain jajaran direksi dan eksekutif, Huang juga berterima kasih kepada karyawan, pemegang saham, pemimpin industri, dan mitra bisnis Nvidia di berbagai negara yang dinilai berkontribusi penting selama masa transisi ini. Ucapan terima kasih paling personal ia sampaikan kepada keluarganya, atas kasih sayang dan dukungan yang terus diberikan."
+  ],
+  "fotoAdegan": "Rows of high-performance server racks with glowing blue indicator lights inside a dim modern data center",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b04b416a46fe-siluet-sosok-jensen-huang-ceo-nvidia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah kursi puncak Nvidia kembali dipegang Jensen Huang, setelah sempat diisi pelaksana tugas, yaitu Harvey Jones sebagai Ketua Dewan Direksi sementara dan Colette Kress sebagai CEO sementara. Pihak yang langsung terkena dampak adalah jajaran direksi, eksekutif, dan karyawan Nvidia yang menjalani masa transisi ini, serta pemegang saham yang nasib investasinya terkait erat dengan arah kepemimpinan perusahaan chip AI sebesar Nvidia. Pernyataan yang dikutip di sini hanya berisi ucapan terima kasih, tanpa menyebut alasan Huang sempat mundur maupun berapa lama proses transisi itu berjalan, sehingga belum bisa disimpulkan apakah ini sekadar formalitas atau ada pergeseran tata kelola yang lebih besar di baliknya. Yang perlu dipantau adalah pernyataan resmi lanjutan dari dewan direksi Nvidia atau keterbukaan informasi perusahaan yang bisa menjelaskan latar belakang penuh peralihan kepemimpinan ini.",
+  "imageV": "mwtwy3r9"
+ },
+ {
   "slug": "xmes-2-etf-danareksa-terancam-bubar-nab-di-bawah-rp10-m",
   "category": "Aksi Korporasi",
   "title": "XMES: 2 ETF Danareksa Terancam [Bubar], NAB di Bawah Rp10 M",

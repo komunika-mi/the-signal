@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "xmes-2-etf-danareksa-terancam-bubar-nab-di-bawah-rp10-m",
+  "category": "Aksi Korporasi",
+  "title": "XMES: 2 ETF Danareksa Terancam [Bubar], NAB di Bawah Rp10 M",
+  "deck": "Dua ETF kelolaan Danareksa Investment Management, Mandiri ETF LQ45 dan BRI MI Gold ETF Syariah, memiliki NAB di bawah Rp10 miliar per 30 Oktober 2026, ambang wajib bubar OJK.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMES",
+   "Danareksa Investment Management",
+   "Reksa Dana ETF",
+   "NAB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_XMES_E023A_2f55597b-701f-43ef-ab99-23374618e35e-20261124045019.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "xmlf-nab-di-bawah-rp10-m-bubar-mengancam-jika-120-hari-bursa",
   "category": "Aksi Korporasi",
   "title": "XMLF: NAB di Bawah Rp10 M, [Bubar] Mengancam jika 120 Hari Bursa",
@@ -969,6 +985,38 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupslb-prda-23-november-stock-split-1-5-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PRDA 23 November: [Stock Split] 1:5 Disetujui",
+  "deck": "RUPSLB Prodia menyetujui stock split 1:5, menambah saham beredar dari 937,5 juta jadi 4,69 miliar lembar, efektif 18 Desember 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRDA",
+   "Stock Split",
+   "RUPSLB",
+   "Prodia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PRDA_E019_4082e5d8-f271-475a-ab39-947744d8b4f1-20261123152842.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "golf-tanggapi-permintaan-bei-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "GOLF Tanggapi Permintaan BEI: [Tak Ada] Informasi Material",
+  "deck": "BEI meminta penjelasan GOLF atas volatilitas transaksi sahamnya; perseroan menyatakan tidak ada informasi material tersembunyi dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GOLF",
+   "Volatilitas Saham",
+   "BEI",
+   "Intra GolfLink Resorts"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_GOLF_E023A_18ce1e4d-574a-4559-8969-4dfa2f01bb97-20261123151035.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
   "category": "Aksi Korporasi",
   "title": "BVIC: Chemical Asia [Jual] 283,18 Juta Saham, Suara Jadi 7,26%",
@@ -1019,15 +1067,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-east-15-desember-pemanggilan-resmi-dps-20-november",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB EAST 15 Desember: [Pemanggilan] Resmi, DPS 20 November",
-  "deck": "Eastparc Hotel menjadwalkan RUPSLB 15 Desember 2026, pemanggilan dikirim 23 November, pemegang saham per 20 November yang berhak memberi suara.",
+  "title": "RUPSLB EAST 15 Desember: [Dividen Interim] Jadi Mata Acara",
+  "deck": "Pemanggilan resmi RUPSLB Eastparc Hotel mengungkap agendanya: persetujuan pembagian dividen interim tahun buku 2026, rapat digelar 15 Desember 2026.",
   "date": "23 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "EAST",
    "RUPSLB",
-   "Eastparc Hotel",
-   "jadwal RUPS"
+   "Dividen Interim",
+   "Eastparc Hotel"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_EAST_E001_7143e533-c8ff-4d6b-8eb6-7a4e20e4ece0-20261123144237.pdf",
   "sourceLabel": "IDX"
@@ -6458,53 +6506,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478374-gebrakan-kkp-dinilai-tingkatkan-kesejahteraan-nelayan-atasi-kemiskinan-pesisir"
- },
- {
-  "slug": "presiden-prabowo-ekonomi-tumbuh-5-47-kaji-hemat-energi",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo: Ekonomi Tumbuh [5,47]%, Kaji Hemat Energi",
-  "deck": "Ratas di Istana Bogor membahas indikator ekonomi terbaru, rencana efisiensi BBM dan listrik, serta percepatan pabrik pakan dan peternakan ayam.",
-  "date": "14 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
-  "tags": [
-   "inflasi pangan",
-   "pertumbuhan ekonomi",
-   "efisiensi energi",
-   "pakan ternak"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7224/cermati-perkembangan-ekonomi-nasional-pemerintah-dorong-efisiensi-energi-dan-penguatan-sektor-pertanian-peternakan",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "asean-teken-pakta-digital-target-us-2-triliun-di-2030",
-  "category": "Global",
-  "title": "ASEAN Teken Pakta Digital, Target [US$2 Triliun] di 2030",
-  "deck": "Indonesia dan sembilan negara ASEAN lain menandatangani ASEAN DEFA di Manila, kerangka kerja sama digital yang menargetkan ekonomi digital kawasan tumbuh jadi US$2 triliun pada 2030.",
-  "date": "14 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
-  "tags": [
-   "ASEAN",
-   "DEFA",
-   "ekonomi digital",
-   "UMKM"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7223/negara-negara-anggota-asean-resmi-tandatangani-asean-defa-digital-economy-framework-agreement-yang-diprakarsai-indonesia",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "utang-bi-pemerintah-era-krisis-1998-lunas",
-  "category": "Moneter",
-  "title": "Utang BI-Pemerintah Era Krisis 1998 [Lunas]",
-  "deck": "Obligasi BI terkait dukungan likuiditas krisis 1997-1998 resmi lunas Agustus 2026, seiring BI dan pemerintah menyiapkan skema debt switching untuk surat utang negara.",
-  "date": "14 November 2026",
-  "image": "assets/img/brankas-uang-sentral.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "Kementerian Keuangan",
-   "Obligasi Negara",
-   "Debt Switching"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825026.aspx",
-  "sourceLabel": "Bank Indonesia"
  }
 ];

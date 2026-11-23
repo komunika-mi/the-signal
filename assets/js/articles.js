@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "xmes-2-etf-danareksa-terancam-bubar-nab-di-bawah-rp10-m",
+  "category": "Aksi Korporasi",
+  "title": "XMES: 2 ETF Danareksa Terancam [Bubar], NAB di Bawah Rp10 M",
+  "deck": "Dua ETF kelolaan Danareksa Investment Management, Mandiri ETF LQ45 dan BRI MI Gold ETF Syariah, memiliki NAB di bawah Rp10 miliar per 30 Oktober 2026, ambang wajib bubar OJK.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T04:50:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_XMES_E023A_2f55597b-701f-43ef-ab99-23374618e35e-20261124045019.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMES",
+  "tags": [
+   "XMES",
+   "Danareksa Investment Management",
+   "Reksa Dana ETF",
+   "NAB"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia, pengelola Reksa Dana Syariah Mandiri ETF Emas (XMES), menyampaikan tanggapan kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI Nomor S-14278/BEI.PPU/11-2026 tanggal 19 November 2026. Surat tanggapan bernomor S-512/DI-DIR.SP/PDM/XI/2026 itu diteken pada 23 November 2026 oleh Hardiyanto Pilia, Direktur Keuangan dan Operasi yang juga merangkap Pelaksana Tugas Direktur Utama. Bursa meminta penjelasan soal dampak penggabungan manajer investasi, yang sebelumnya bernama PT Mandiri Manajemen Investasi, terhadap pengelolaan seluruh produk ETF yang diterbitkannya, termasuk XMES.",
+   "Perusahaan menegaskan penggabungan dan perubahan nama manajer investasi tidak menghentikan pengelolaan produk ETF. Dalam jawabannya, perusahaan melampirkan daftar lima reksa dana ETF yang kini dikelola, yaitu Reksa Dana BRI ETF Indonesia Top 40, Reksa Dana Indeks Mandiri ETF LQ45, Reksa Dana Indeks Mandiri ETF SRI-Kehati, Reksa Dana Syariah BRI MI Gold ETF Syariah, dan Reksa Dana Syariah Mandiri ETF Emas (XMES) sendiri, yang kelimanya berstatus aktif. Namun perusahaan mengungkapkan bahwa per data 30 Oktober 2026, dua di antaranya, yaitu Reksa Dana Indeks Mandiri ETF LQ45 dan Reksa Dana Syariah BRI MI Gold ETF Syariah, memiliki Nilai Aktiva Bersih (NAB) di bawah Rp10 miliar, yaitu nilai total kekayaan dana dikurangi kewajibannya, semacam ukuran besar kecilnya dana itu. Berdasarkan Pasal 45 huruf d POJK Nomor 23/POJK.04/2016, reksa dana wajib dibubarkan apabila NAB-nya bertahan di bawah Rp10 miliar selama 120 hari bursa berturut-turut. Perusahaan menyatakan akan memantau perkembangan NAB ETF LQ45 dan mengikuti kewajiban pembubaran bila ambang itu terpenuhi, sementara untuk ETF Emas Syariah BRI MI Gold akan ditempuh upaya menaikkan NAB lewat sosialisasi dan penjajakan ke investor potensial.",
+   "Soal kemungkinan penggabungan dua ETF berbasis emas yang kini berada di bawah satu manajer investasi, yaitu XDES dan XMES, perusahaan menyatakan belum memiliki rencana konsolidasi atau penggabungan. Kedua produk akan tetap dikelola terpisah sesuai Kontrak Investasi Kolektif dan prospektus masing-masing. Perusahaan juga memastikan penggabungan manajer investasi tidak mengubah perjanjian kerja sama dengan Dealer Partisipan di setiap produk ETF, karena seluruh hak dan kewajiban beralih secara hukum ke PT Danareksa Investment Management Indonesia selaku entitas hasil penggabungan, dengan penyesuaian yang sifatnya administratif seperti perubahan nama.",
+   "Penggabungan itu juga mengubah susunan direksi dan komisaris manajer investasi. Direksi saat ini terdiri dari Hardiyanto Pilia (Direktur Keuangan dan Operasi serta Plt. Direktur Utama), Arief Budiman (Direktur Pemasaran dan Produk), Ari Adil (Direktur Investasi), dan Ade S. Djajanegara (Direktur Manajemen Risiko dan Kepatuhan). Dewan Komisaris terdiri dari Frankie E.L. Tinangon sebagai Komisaris Utama dan Komisaris Independen, Sumariyandono dan Riyanto Prabowo sebagai Komisaris, serta Tjut Andjani Yuzar sebagai Komisaris Independen. Jabatan Frankie Tinangon sebagai Komisaris Utama baru berlaku efektif setelah mendapat persetujuan fit and proper test dari Otoritas Jasa Keuangan."
+  ],
+  "fotoAdegan": "Rows of gold bars stacked on shelves inside a bank vault, dim security lighting reflecting off the metal surfaces.",
+  "takeaway": "Bagi XMES sendiri laporan ini cenderung netral, karena produknya dipastikan tetap berjalan mandiri tanpa digabung dengan ETF emas sejenis XDES dan tanpa gangguan pada kerja sama Dealer Partisipannya, meski laporan yang sama membawa sinyal kurang menggembirakan bagi dua reksa dana lain dalam satu keluarga pengelola. Yang disorot adalah Nilai Aktiva Bersih atau NAB, ukuran total dana kelolaan yang bagi reksa dana berfungsi seperti ekuitas bagi perusahaan: kalau nilainya bertahan di bawah Rp10 miliar selama 120 hari bursa, aturan OJK mewajibkan reksa dana itu dibubarkan, dan ETF LQ45 serta ETF Emas Syariah BRI MI Gold sudah berada di posisi itu per akhir Oktober 2026. Yang perlu dipantau selanjutnya adalah apakah NAB kedua reksa dana itu bisa naik kembali di atas ambang Rp10 miliar sebelum genap 120 hari bursa berturut-turut di bawah batas tersebut, serta proses persetujuan fit and proper test OJK untuk Frankie Tinangon sebagai Komisaris Utama baru manajer investasi.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
   "slug": "xmlf-nab-di-bawah-rp10-m-bubar-mengancam-jika-120-hari-bursa",
   "category": "Aksi Korporasi",
   "title": "XMLF: NAB di Bawah Rp10 M, [Bubar] Mengancam jika 120 Hari Bursa",
@@ -1941,6 +1969,74 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "rupslb-prda-23-november-stock-split-1-5-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PRDA 23 November: [Stock Split] 1:5 Disetujui",
+  "deck": "RUPSLB Prodia menyetujui stock split 1:5, menambah saham beredar dari 937,5 juta jadi 4,69 miliar lembar, efektif 18 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T15:28:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PRDA_E019_4082e5d8-f271-475a-ab39-947744d8b4f1-20261123152842.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRDA",
+  "tags": [
+   "PRDA",
+   "Stock Split",
+   "RUPSLB",
+   "Prodia"
+  ],
+  "body": [
+   "PT Prodia Widyahusada Tbk (PRDA) mendapat persetujuan pemegang saham dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 23 November 2026 untuk melaksanakan pemecahan nilai nominal saham atau stock split dengan rasio 1:5. Nilai nominal saham perseroan akan turun dari Rp100 menjadi Rp20 per saham, sementara jumlah saham yang ditempatkan dan disetor akan naik dari 937.500.000 lembar menjadi 4.687.500.000 lembar. Perseroan menegaskan aksi ini tidak mengubah hak suara maupun nilai ekonomi kepemilikan pemegang saham, karena penyesuaian dilakukan secara proporsional sesuai rasio.",
+   "Perseroan menetapkan jadwal pelaksanaan: keterbukaan informasi mengenai pelaksanaan stock split akan disampaikan pada 14 Desember 2026, hari terakhir perdagangan saham dengan nilai nominal lama di Pasar Reguler dan Pasar Negosiasi jatuh pada 17 Desember 2026, dan perdagangan dengan nilai nominal baru ditargetkan mulai 18 Desember 2026. Direktur Utama Liana Kuswandi menyampaikan bahwa stock split ditujukan membuat harga saham PRDA lebih terjangkau agar menarik lebih banyak investor ritel, sementara Direktur Keuangan dan Keberlanjutan Marina Eka Amalia menyebut langkah ini juga merespons kendala likuiditas perdagangan saham perseroan selama ini.",
+   "Siaran pers yang menyertai pengumuman ini juga memuat kinerja keuangan perseroan hingga kuartal III 2026. Prodia mencatatkan pendapatan Rp1,71 triliun, tumbuh 8,3 persen dibanding periode yang sama tahun sebelumnya dan menjadi pendapatan sembilan bulan tertinggi dalam lima tahun terakhir. Laba bersih tercatat Rp125,9 miliar, tumbuh 10 persen dibanding tahun sebelumnya, sementara EBITDA mencapai Rp340,2 miliar atau tumbuh 9,7 persen. Volume pemeriksaan laboratorium naik 12,8 persen menjadi lebih dari 15 juta tes. Perseroan juga mengungkapkan total saham hasil program buyback yang disimpan sebagai saham treasuri kini mencapai 83.863.000 lembar, atau sekitar 8,95 persen dari modal disetor."
+  ],
+  "fotoAdegan": "Laboratory technicians loading blood sample tubes into an automated analyzer in a busy clinical lab",
+  "takeaway": "Laporan ini condong positif bagi Prodia, bukan karena stock split itu sendiri yang sifatnya kosmetik, melainkan karena data kinerja yang menyertainya: pendapatan, laba bersih, dan EBITDA kuartal III 2026 semuanya tumbuh di kisaran 8 sampai 10 persen dibanding tahun sebelumnya. Yang tersentuh langsung oleh stock split adalah jumlah saham beredar, yang naik lima kali lipat dari 937,5 juta menjadi 4,69 miliar lembar. Jumlah saham ini jadi pembagi saat menghitung laba per saham, sehingga laba per saham nominal otomatis mengecil lima kali lipat meski labanya sendiri tidak berkurang, jadi investor jangan salah membaca penurunan angka itu sebagai tanda kinerja memburuk. Yang perlu dipantau berikutnya adalah keterbukaan informasi lanjutan soal pelaksanaan stock split pada 14 Desember 2026, serta peralihan resmi ke saham nilai nominal baru yang dimulai 18 Desember 2026 setelah hari terakhir perdagangan nominal lama pada 17 Desember 2026.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Keterbukaan informasi pelaksanaan stock split"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "Akhir perdagangan saham nilai nominal lama"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "Mulai perdagangan saham nilai nominal baru"
+   }
+  ]
+ },
+ {
+  "slug": "golf-tanggapi-permintaan-bei-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "GOLF Tanggapi Permintaan BEI: [Tak Ada] Informasi Material",
+  "deck": "BEI meminta penjelasan GOLF atas volatilitas transaksi sahamnya; perseroan menyatakan tidak ada informasi material tersembunyi dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T15:10:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_GOLF_E023A_18ce1e4d-574a-4559-8969-4dfa2f01bb97-20261123151035.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "GOLF",
+  "tags": [
+   "GOLF",
+   "Volatilitas Saham",
+   "BEI",
+   "Intra GolfLink Resorts"
+  ],
+  "body": [
+   "PT Intra GolfLink Resorts Tbk (GOLF) merespons surat Bursa Efek Indonesia No. S-14402/BEI.PP2/11-2026 tanggal 23 November 2026 yang meminta penjelasan atas volatilitas transaksi saham perseroan. Dalam surat balasan bernomor 133/GOLF/11/2026 yang ditandatangani Corporate Secretary S. Hari Cahyanto, GOLF menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, baik yang diatur dalam POJK No. 31/POJK.04/2015 tentang keterbukaan informasi maupun Peraturan I-E Bursa Efek Indonesia.",
+   "Perseroan juga menegaskan belum memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang berdampak pada pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang. Terkait kemungkinan pergerakan dari pemegang saham utama, GOLF menyebut sudah berkomunikasi langsung dengan pemegang saham tersebut dan mendapat konfirmasi bahwa tidak ada rencana mengubah kepemilikan sahamnya dalam waktu dekat. Perseroan berjanji akan menyampaikan keterbukaan informasi apabila rencana itu berubah di kemudian hari.",
+   "Surat itu turut ditembuskan kepada Komisaris Utama Darma Mangkuluhur Hutomo dan Komisaris Independen Royani. GOLF memastikan tidak mengetahui adanya aktivitas pemegang saham tertentu yang melanggar ketentuan POJK No. 4 Tahun 2024 tentang laporan kepemilikan maupun aktivitas penjaminan saham, serta tidak memiliki informasi lain yang dapat memengaruhi pergerakan sahamnya."
+  ],
+  "fotoAdegan": "Groundskeepers mowing a wide tropical golf course fairway at dawn, light mist over the greens, resort trees in background",
+  "takeaway": "Laporan ini netral bagi fundamental GOLF, sebab isinya cuma menegaskan tidak ada informasi tersembunyi dan tidak ada aksi korporasi baru, bukan keputusan nyata yang mengubah angka keuangan perusahaan. Tidak ada pos laporan keuangan seperti ekuitas, arus kas, atau laba per saham yang tersentuh langsung dari jawaban ini; yang disinggung justru soal kepemilikan pemegang saham utama, karena jika pemegang saham besar ini melepas sahamnya, hak suara dan arah pengendalian perusahaan bisa berubah, dan pergerakan semacam itu yang biasanya memicu lonjakan harga tak wajar seperti yang ditanyakan Bursa. Yang perlu dipantau selanjutnya adalah apakah Bursa menerima jawaban ini atau justru menaikkan status pemantauan atas saham GOLF, serta apakah pemegang saham utama benar-benar tidak bergerak seperti yang dijanjikan, mengingat dokumen ini tidak menyebut tenggat waktu baru.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
   "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
   "category": "Aksi Korporasi",
   "title": "BVIC: Chemical Asia [Jual] 283,18 Juta Saham, Suara Jadi 7,26%",
@@ -2032,8 +2128,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-east-15-desember-pemanggilan-resmi-dps-20-november",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB EAST 15 Desember: [Pemanggilan] Resmi, DPS 20 November",
-  "deck": "Eastparc Hotel menjadwalkan RUPSLB 15 Desember 2026, pemanggilan dikirim 23 November, pemegang saham per 20 November yang berhak memberi suara.",
+  "title": "RUPSLB EAST 15 Desember: [Dividen Interim] Jadi Mata Acara",
+  "deck": "Pemanggilan resmi RUPSLB Eastparc Hotel mengungkap agendanya: persetujuan pembagian dividen interim tahun buku 2026, rapat digelar 15 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "23 November 2026",
   "isoDate": "2026-11-23T14:42:35",
@@ -2043,17 +2139,17 @@ var ARTICLES = [
   "tags": [
    "EAST",
    "RUPSLB",
-   "Eastparc Hotel",
-   "jadwal RUPS"
+   "Dividen Interim",
+   "Eastparc Hotel"
   ],
   "body": [
-   "PT Eastparc Hotel Tbk (EAST) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026 pukul 15.00 WIB di Eastparc Hotel Yogyakarta, Jl. Kapas No. 1, Ngentak, Caturtunggal, Depok, Sleman. Pemanggilan resmi rapat dikirim perusahaan pada Senin, 23 November 2026, melalui situs perusahaan, situs Bursa Efek Indonesia, dan fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Yang berhak hadir dan memberi suara adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Jumat, 20 November 2026 pukul 16.00 WIB. Dokumen ini sendiri merupakan penyampaian ulang dari pengumuman yang pertama kali dikirim 6 November 2026, karena ada reset alur pelaporan akibat migrasi sistem SPE IDXnet milik bursa, bukan perubahan substansi rapat.",
-   "Perusahaan mendorong pemegang saham memberi kuasa dan hadir secara daring lewat eASY.KSEI, mengingat kehadiran fisik di lokasi dibatasi maksimal 30 peserta melalui mekanisme pendaftaran yang rinciannya akan disampaikan menyusul. Perusahaan juga menyatakan tidak akan menyediakan suvenir bagi peserta rapat. Bagi pemegang saham yang ingin memberi kuasa elektronik, fasilitas e-Proxy di eASY.KSEI tersedia sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, yakni Senin, 14 Desember 2026 pukul 12.00 WIB. Dokumen yang dipublikasikan tidak memuat mata acara atau agenda RUPSLB.",
-   "Usulan mata acara dari pemegang saham dapat dimasukkan ke rapat jika disampaikan ke Direksi melalui surat tercatat, dilengkapi alasan, paling lambat 7 hari kalender sebelum tanggal pemanggilan sesuai POJK 15/2020. Surat pemanggilan ke Otoritas Jasa Keuangan ditandatangani oleh Khalid Bin Omar Abdat selaku Direktur Utama, sementara pengumuman versi sistem baru ditandatangani oleh Muhammad Anis selaku Corporate Secretary perusahaan."
+   "PT Eastparc Hotel Tbk (EAST) merilis pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 15 Desember 2026 pukul 15.00 WIB di Eastparc Hotel Yogyakarta, dan kali ini agendanya sudah terbuka: satu-satunya mata acara adalah persetujuan pembagian dividen interim untuk tahun buku 2026. Besaran dividen belum disebutkan dalam dokumen ini, tetapi jumlah dan jadwal pembayarannya akan ditentukan dalam rapat tersebut.",
+   "Seperti diberitakan sebelumnya, yang berhak hadir dan memberi suara dalam rapat ini adalah pemegang saham yang tercatat dalam Daftar Pemegang Saham (DPS) pada Jumat, 20 November 2026 pukul 16.00 WIB, sehingga pembelian saham EAST setelah tanggal itu tidak memberi hak suara di RUPSLB ini. Perseroan membatasi kehadiran fisik di lokasi maksimal 30 peserta dengan konfirmasi lebih dulu lewat surel ke corp.secretary@eastparchotel.com paling lambat 14 Desember 2026, dan pendaftaran ulang di lokasi ditutup pukul 14.30 WIB pada hari rapat karena meja registrasi tutup 30 menit sebelum acara dimulai. Pemegang saham yang tidak ingin datang langsung bisa memberi kuasa elektronik lewat fasilitas e-Proxy di eASY.KSEI, paling lambat Senin, 14 Desember 2026 pukul 12.00 WIB. Perseroan juga menegaskan tidak menyediakan suvenir bagi peserta rapat.",
+   "Pemanggilan ini merujuk pada surat pemberitahuan rencana RUPSLB bernomor 0108/PT.EPH-Tbk/SK-INF/XI/2026 yang pertama kali dikirim 6 November 2026, dan merupakan penyampaian ulang akibat migrasi sistem pelaporan elektronik bursa, SPE IDXnet. Rapat dibantu oleh notaris Dr. Tabitha Sri Jeany, S.H., M.Kn., sementara PT Adimitra Jasa Korpora bertindak sebagai Biro Administrasi Efek. Surat pemanggilan ke Otoritas Jasa Keuangan ditandatangani Direktur Utama Khalid Bin Omar Abdat, sedangkan dokumen di sistem baru ditandatangani Corporate Secretary Muhammad Anis."
   ],
   "fotoAdegan": "Hotel staff arranging rows of chairs inside a quiet conference hall before a meeting, soft morning light",
-  "takeaway": "Pengumuman ini netral karena baru sebatas menjadwalkan rapat dan belum memuat agenda atau keputusan apa pun yang langsung mengubah kinerja atau struktur modal Eastparc Hotel. Yang tersentuh di sini adalah hak suara pemegang saham: siapa yang tercatat di Daftar Pemegang Saham pada 20 November 2026 itulah yang berhak hadir dan memberi suara nanti, sehingga pembeli saham setelah tanggal itu tidak otomatis mendapat hak suara di rapat ini. Yang perlu dipantau selanjutnya adalah agenda resmi RUPSLB yang biasanya diumumkan menjelang hari H, pelaksanaan rapat pada 15 Desember 2026, dan batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 14 Desember 2026 pukul 12.00 WIB.",
-  "sentimen": "netral",
+  "takeaway": "Pemanggilan ini condong positif bagi Eastparc Hotel karena agenda tunggal RUPSLB resmi mengonfirmasi niat membagikan dividen interim untuk tahun buku 2026, sinyal bahwa manajemen menilai kas perusahaan cukup sehat untuk dibagikan ke pemegang saham, meski besarannya belum diumumkan. Yang tersentuh adalah arus kas dan ekuitas: pembayaran dividen berarti uang tunai keluar dari kas perusahaan dan mengurangi laba ditahan yang menjadi bagian ekuitas, sehingga pelaku pasar akan mencermati apakah pembagian ini sejalan dengan kemampuan kas Eastparc Hotel tanpa mengganggu operasional hotel. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 15 Desember 2026 yang akan menetapkan besaran dan jadwal pembayaran dividen interim, serta batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 14 Desember 2026 pukul 12.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "positif",
   "peristiwa": "rups",
   "judulIdx": "Pengumuman RUPS",
   "jadwal": [
@@ -2063,17 +2159,30 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-11-23",
-    "acara": "Pemanggilan resmi RUPSLB dikirim"
+    "acara": "Pemanggilan resmi RUPSLB dikirim, agenda dividen interim diumumkan"
    },
    {
     "tanggal": "2026-12-14",
     "acara": "Batas akhir pemberian kuasa elektronik via eASY.KSEI"
    },
    {
+    "tanggal": "2026-12-14",
+    "acara": "Batas konfirmasi kehadiran fisik ke Perseroan"
+   },
+   {
     "tanggal": "2026-12-15",
-    "acara": "Pelaksanaan RUPSLB"
+    "acara": "Pelaksanaan RUPSLB dengan agenda dividen interim 2026"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T15:22:06",
+    "ringkas": "Pemanggilan resmi RUPSLB EAST 15 Desember mengungkap agendanya: persetujuan dividen interim tahun buku 2026, sinkron dengan DPS 20 November.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_EAST_E002_b4829f18-639f-4c09-9739-adbdc00ec845-20261123152208.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-23T15:22:06"
  },
  {
   "slug": "dprd-sulsel-minta-maxim-hentikan-program-fokus-berbayar",

@@ -517,6 +517,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupsu-sukuk-i-wika-15-desember-ralat-mundur-dari-9-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSU Sukuk I WIKA 15 Desember: [Ralat] Mundur dari 9 Desember",
+  "deck": "RUPSU pemegang Sukuk Mudharabah WIKA Tahap I 2020 diundur dari 9 ke 15 Desember 2026, membahas kelalaian pembayaran bagi hasil seri B dan C.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_e1c4fbfa-b977-4829-b81c-2beea955f56b-20261123173422.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupsu-sukuk-iii-wika-15-desember-ralat-mundur-dari-9-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSU Sukuk III WIKA 15 Desember: [Ralat] Mundur dari 9 Desember",
+  "deck": "RUPSU pemegang Sukuk Mudharabah III WIKA Tahap I 2022 diundur dari 9 ke 15 Desember 2026, membahas gagal bayar bagi hasil dua periode berturut-turut di tiga seri sukuk.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk mudharabah",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_5bfd8880-6e42-4e63-ae49-1b932f1b24c5-20261123173350.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupsu-sukuk-ii-wika-14-desember-mundur-dari-8-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPSU Sukuk II WIKA 14 Desember: [Mundur] dari 8 Desember",
+  "deck": "RUPSU pemegang Sukuk Mudharabah Berkelanjutan II WIKA Tahap II Tahun 2022 diundur dari 8 ke 14 Desember 2026 untuk membahas gagal bayar bagi hasil di tiga seri sukuk.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "sukuk mudharabah",
+   "gagal bayar",
+   "RUPSU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_fd8fbb29-ec66-4b7d-86ea-d47004b05095-20261123173247.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ijee-direktur-utama-hendrik-tee-mundur-rups-90-hari",
   "category": "Aksi Korporasi",
   "title": "IJEE: Direktur Utama Hendrik Tee [Mundur], RUPS 90 Hari",
@@ -792,6 +840,86 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "rupo-rupsi-post-7-desember-standstill-dan-shl-dimintakan",
+  "category": "Aksi Korporasi",
+  "title": "RUPO/RUPSI POST 7 Desember: [Standstill] dan SHL Dimintakan",
+  "deck": "Pos Indonesia memanggil pemegang obligasi dan sukuk ke RUPO/RUPSI 7 Desember 2026, minta persetujuan standstill dan pinjaman pemegang saham setelah gagal bayar kupon tiga instrumen utang.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "RUPO",
+   "RUPSI",
+   "gagal bayar obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_POST_E019_8e934e43-d12b-49f8-860a-644166bf55ad-20261123164246.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-zp-disesuaikan-imbas-dividen-bfin-rp35-efektif-1-desember",
+  "category": "Aksi Korporasi",
+  "title": "Waran ZP [Disesuaikan] Imbas Dividen BFIN Rp35, Efektif 1 Desember",
+  "deck": "Maybank Sekuritas menyesuaikan harga pelaksanaan dan rasio konversi waran BFINZPCM7A dan BFINZPCQ7A menyusul dividen interim BFI Finance Rp35 per saham, efektif 1 Desember 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "BFIN",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ZP_E019_1fe69d44-0b1d-436b-a798-ce63647f27a8-20261123163549.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-yelo-26-november-pendapatan-9m26-turun-41-1",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose YELO 26 November: Pendapatan 9M26 [Turun] 41,1%",
+  "deck": "Materi Public Expose Tahunan YELO menunjukkan pendapatan Passpod cs turun 41,1% jadi Rp31,70 miliar dan rugi bersih melebar jadi Rp643,2 juta pada sembilan bulan 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YELO",
+   "Public Expose",
+   "Passpod",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_YELO_E003_13c3d167-4dcb-4df6-a3c9-4eadfab137d1-20261123163454.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "paparan-publik-jspt-laba-bersih-9m-2026-naik-73-ke-rp399-m",
+  "category": "Aksi Korporasi",
+  "title": "Paparan Publik JSPT: [Laba Bersih] 9M-2026 Naik 73% ke Rp399 M",
+  "deck": "Materi paparan publik tahunan JSPT yang digelar 26 November 2026 di Bali memuat kinerja keuangan Januari-September 2026 dan rencana ekspansi proyek baru.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSPT",
+   "paparan publik",
+   "kinerja keuangan",
+   "properti"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_JSPT_E003_32f7073c-7bb4-4bdf-850e-d63d94178e05-20261123162133.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-nobu-27-november-laba-bersih-naik-52-88-ke-rp550-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose NOBU 27 November: [Laba Bersih] Naik 52,88% ke Rp550 M",
+  "deck": "Materi Public Expose Tahunan NOBU untuk acara 27 November 2026 memuat laba bersih sembilan bulan 2026 Rp550,18 miliar, naik 52,88 persen, dan aset tumbuh ke Rp44,97 triliun.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NOBU",
+   "Bank Nationalnobu",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_NOBU_E003_fe37a78d-370c-4a52-b44d-f71a4e448376-20261123160449.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendes-dorong-pemuda-desa-garap-melon-hidroponik",
   "category": "UMKM",
   "title": "Kemendes Dorong Pemuda Desa Garap [Melon Hidroponik]",
@@ -807,6 +935,38 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479897-bantu-pemuda-desa-staf-ahli-kemendes-dukung-pertanian-modern-melon-hidroponik"
+ },
+ {
+  "slug": "dividen-final-xcis-rp0-005-per-unit-cair-18-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Final XCIS Rp0,005 per Unit, [Cair] 18 Desember",
+  "deck": "DIRE Ciptadana Properti Perhotelan Padjajaran (XCIS) membagikan dividen tunai final sebanyak-banyaknya Rp5.250.000, dibayar 18 Desember 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XCIS",
+   "dividen",
+   "DIRE",
+   "REIT"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XCIS_E062_e1588538-d30c-43c1-9771-641d81b70b1f-20261123155346.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "paparan-publik-spma-26-november-laba-9-bulan-turun-7-4",
+  "category": "Aksi Korporasi",
+  "title": "Paparan Publik SPMA 26 November: Laba 9 Bulan [Turun] 7,4%",
+  "deck": "Suparma (SPMA) gelar paparan publik 26 November 2026. Laba 9 bulan 2026 turun 7,4% jadi Rp63,4 miliar akibat rugi kurs, saham beredar melonjak 30%.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SPMA",
+   "Suparma Tbk",
+   "Paparan Publik",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_SPMA_E003_25b19e11-1d6d-4897-9bbe-22e014c3e418-20261123155314.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
@@ -6346,167 +6506,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825026.aspx",
   "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "test-shm3-potensi-delisting-suspensi-saham-sudah-18-bulan",
-  "category": "Aksi Korporasi",
-  "title": "TEST-SHM3 [Potensi Delisting]: Suspensi Saham Sudah 18 Bulan",
-  "deck": "BEI membuka opsi delisting saham TEST-SHM3 setelah suspensi berkepanjangan; masa suspensi disebut mencapai 6 bulan pada 14 November 2026.",
-  "date": "14 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TEST-SHM3",
-   "delisting",
-   "suspensi saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261114_TEST-SHM3_B009_ba9f1547-401f-41bd-bc54-c94f787213c4-20261114153723.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat",
-  "category": "Perbankan",
-  "title": "BNI Ajarkan [Literasi Keuangan] ke Siswa Sekolah Rakyat",
-  "deck": "BNI mengenalkan pengelolaan uang, kebiasaan menabung, dan produk perbankan kepada siswa Sekolah Rakyat lewat pilar Cerdas Belajar.",
-  "date": "14 November 2026",
-  "image": "assets/img/bni-ajarkan-literasi-keuangan-ke-siswa-sekolah-rakyat.jpg",
-  "imageV": "mwg5ri2k",
-  "tags": [
-   "literasi keuangan",
-   "Sekolah Rakyat",
-   "BNI",
-   "edukasi keuangan anak"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478327-bni-perkuat-literasi-keuangan-siswa-sekolah-rakyat-sejak-dini"
- },
- {
-  "slug": "laba-bersih-bank-bjb-tumbuh-37-3-per-september-2026",
-  "category": "Perbankan",
-  "title": "Laba Bersih bank bjb [Tumbuh] 37,3% per September 2026",
-  "deck": "bank bjb mencatat laba bersih Rp1,1 triliun hingga September 2026, naik 37,3 persen dibanding tahun sebelumnya, didorong efisiensi biaya dan kredit yang disalurkan lebih selektif.",
-  "date": "14 November 2026",
-  "image": "assets/img/laba-bersih-bank-bjb-tumbuh-37-3-per-september-2026.jpg",
-  "imageV": "mwg5rigi",
-  "tags": [
-   "bank bjb",
-   "laba bersih",
-   "perbankan daerah",
-   "kredit"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478313-laba-bersih-bank-bjb-tumbuh-373-hingga-september-2026"
- },
- {
-  "slug": "asean-sepakati-kerangka-ekonomi-digital-kawasan",
-  "category": "Global",
-  "title": "ASEAN [Sepakati] Kerangka Ekonomi Digital Kawasan",
-  "deck": "Sepuluh negara ASEAN menandatangani kerangka kesepakatan ekonomi digital DEFA di Manila, menuntaskan negosiasi tiga tahun yang dimulai saat Indonesia menjadi Ketua ASEAN.",
-  "date": "14 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
-  "tags": [
-   "ASEAN",
-   "DEFA",
-   "ekonomi digital",
-   "UMKM"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7221/indonesia-dorong-penguatan-transformasi-digital-kawasan-inklusif-melalui-implementasi-asean-defa",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bank-bjb-pasarkan-sukuk-tabungan-st017-mulai-rp1-juta",
-  "category": "Pasar Modal",
-  "title": "bank bjb Pasarkan [Sukuk Tabungan] ST017, Mulai Rp1 Juta",
-  "deck": "bank bjb menjadi agen penjual Sukuk Tabungan ST017, surat utang syariah pemerintah dengan dua pilihan tenor dan imbal hasil bulanan, ditawarkan sampai 2 Desember 2026.",
-  "date": "14 November 2026",
-  "image": "assets/img/bank-bjb-pasarkan-sukuk-tabungan-st017-mulai-rp1-juta.jpg",
-  "imageV": "mwg0il1a",
-  "tags": [
-   "Sukuk Tabungan ST017",
-   "bank bjb",
-   "SBN Syariah",
-   "Investasi Ritel"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478306-bank-bjb-tawarkan-sukuk-tabungan-st017-jadi-peluang-investasi"
- },
- {
-  "slug": "bank-bjb-raih-penghargaan-pengembangan-ekonomi-daerah",
-  "category": "Perbankan",
-  "title": "bank bjb Raih [Penghargaan] Pengembangan Ekonomi Daerah",
-  "deck": "bank bjb meraih kategori Outstanding Regional Economic Development Award dalam ajang Road to CNBC Indonesia Award 2026, atas dukungannya terhadap UMKM dan sektor ekonomi daerah di Jawa Barat.",
-  "date": "14 November 2026",
-  "image": "assets/img/bank-bjb-raih-penghargaan-pengembangan-ekonomi-daerah.jpg",
-  "imageV": "mwg0ili1",
-  "tags": [
-   "bank bjb",
-   "CNBC Indonesia Award",
-   "UMKM",
-   "bank pembangunan daerah"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478303-bank-bjb-raih-outstanding-regional-economic-development-award-dari-cnbc"
- },
- {
-  "slug": "bank-bjb-raih-penghargaan-cnn-indonesia-awards-2026",
-  "category": "Perbankan",
-  "title": "bank bjb Raih [Penghargaan] CNN Indonesia Awards 2026",
-  "deck": "bank bjb diapresiasi CNN Indonesia Awards 2026 atas peran menyalurkan Rp984 miliar dana bedah rumah ke 49.449 keluarga di Jawa Barat.",
-  "date": "14 November 2026",
-  "image": "assets/img/bank-bjb-raih-penghargaan-cnn-indonesia-awards-2026.jpg",
-  "imageV": "mwg0ilwc",
-  "tags": [
-   "bank bjb",
-   "CNN Indonesia Awards 2026",
-   "BSPS",
-   "Jawa Barat"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478302-perkuat-ekonomi-daerah-bank-bjb-raih-penghargaan-cnn-indonesia-awards-2026"
- },
- {
-  "slug": "bank-bjb-masuk-kategori-high-dividend-indeks-tempo-2026",
-  "category": "Pasar Modal",
-  "title": "bank bjb Masuk Kategori [High Dividend] Indeks Tempo 2026",
-  "deck": "bank bjb mendapat predikat High Dividend dalam Indeks Tempo-IDNFinancials 52 Tahun 2026, pengakuan atas konsistensi pembagian dividen kepada pemegang saham.",
-  "date": "14 November 2026",
-  "image": "assets/img/bank-bjb-masuk-kategori-high-dividend-indeks-tempo-2026.jpg",
-  "imageV": "mwg0imbe",
-  "tags": [
-   "bank bjb",
-   "dividen",
-   "pasar modal",
-   "emiten"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478301-bank-bjb-raih-engakuan-high-dividend-bukti-fundamental-perusahaan-tetap-solid"
- },
- {
-  "slug": "ekspor-kulit-dan-alas-kaki-ri-tembus-us-7-22-miliar",
-  "category": "Industri",
-  "title": "Ekspor Kulit dan Alas Kaki RI [Tembus] US$7,22 Miliar",
-  "deck": "Ekspor kulit dan alas kaki Indonesia naik 4,36 persen pada Januari-September 2026, ditopang alas kaki khusus dan produk kreatif kulit yang tumbuh lebih cepat dari rata-rata sektor.",
-  "date": "14 November 2026",
-  "image": "assets/img/pabrik-gula.jpg",
-  "tags": [],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-kulit-dan-alas-kaki-tembus-usd-722-miliar-cerminan-daya-saing-produk-manufaktur-indonesia",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "harga-emas-antam-naik-tipis-ke-rp2-517-000-per-gram",
-  "category": "Bisnis",
-  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.517.000 per Gram",
-  "deck": "Harga emas batangan Antam naik tipis Rp8.000 menjadi Rp2.517.000 per gram hari ini, sementara harga beli kembali ikut naik ke Rp2.293.000 per gram.",
-  "date": "14 November 2026",
-  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-517-000-per-gram.jpg",
-  "imageV": "mwfub279",
-  "tags": [
-   "emas",
-   "harga emas antam",
-   "antam",
-   "logam mulia"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478281-harga-emas-antam-hari-ini-14-november-2026-naik-tipis-jadi-rp2517000-per-gram"
  }
 ];

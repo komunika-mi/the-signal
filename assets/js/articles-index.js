@@ -5,6 +5,42 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penjualan-mobil-nasional-naik-19-7-persen-hingga-oktober",
+  "category": "Industri",
+  "title": "Penjualan Mobil Nasional [Naik] 19,7 Persen hingga Oktober",
+  "deck": "Penjualan mobil dari pabrik ke diler tembus 760.476 unit sepanjang Januari-Oktober 2026, naik 19,7 persen dari tahun sebelumnya, menurut data GAIKINDO.",
+  "date": "23 November 2026",
+  "image": "assets/img/penjualan-mobil-nasional-naik-19-7-persen-hingga-oktober.jpg",
+  "imageV": "mwslqbru",
+  "tags": [
+   "GAIKINDO",
+   "Penjualan Mobil",
+   "Industri Otomotif",
+   "GAW 2026"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/ketua-gaikindo-penjualan-mobil-nasional-tembus-760-ribu-unit-hingga-oktober-2026/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "indonesia-uni-eropa-teken-perjanjian-dagang-dan-investasi",
+  "category": "Global",
+  "title": "Indonesia-Uni Eropa [Teken] Perjanjian Dagang dan Investasi",
+  "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IEU-IPA, perjanjian dagang dan investasi yang ditargetkan berlaku efektif 1 Januari 2027.",
+  "date": "23 November 2026",
+  "image": "assets/img/indonesia-uni-eropa-teken-perjanjian-dagang-dan-investasi.jpg",
+  "imageV": "mwslqdd9",
+  "tags": [
+   "IEU-CEPA",
+   "IEU-IPA",
+   "investasi Uni Eropa",
+   "BKPM"
+  ],
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/indonesia-uni-eropa-tandatangani-ieu-cepa-dan-ieu-ipa-perkuat-perlindungan-investasi-dan-perluas-akses-pasar",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM"
+ },
+ {
   "slug": "bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan",
   "category": "UMKM",
   "title": "Bunga KPPS Turun ke 8%, Angsuran Mekaar Makin [Ringan]",
@@ -6490,38 +6526,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478097-menko-airlangga-pastikan-subsidi-bbm-tetap-aman-hingga-akhir-2026"
- },
- {
-  "slug": "mmix-pt-pukul-rata-kanan-tambah-11-4-juta-saham-jadi-4-57",
-  "category": "Aksi Korporasi",
-  "title": "MMIX: PT Pukul Rata Kanan [Tambah] 11,4 Juta Saham, Jadi 4,57%",
-  "deck": "PT Pukul Rata Kanan menambah 11,4 juta saham MMIX pada 12 November 2026, kepemilikannya naik dari 4,34% menjadi 4,57%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "kepemilikan saham",
-   "PT Pukul Rata Kanan",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/acba39552f_547417999c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fsppb-desak-ruu-migas-rampung-pertamina-jadi-noc",
-  "category": "Energi",
-  "title": "FSPPB Desak RUU Migas Rampung, Pertamina Jadi [NOC]",
-  "deck": "FSPPB dan PIPBB-MIGAS mendesak pemerintah dan DPR mempercepat revisi UU Migas agar Pertamina ditetapkan sebagai NOC terintegrasi hulu-hilir demi kedaulatan energi nasional.",
-  "date": "12 November 2026",
-  "image": "assets/img/fsppb-desak-ruu-migas-rampung-pertamina-jadi-noc.jpg",
-  "imageV": "mwdwc9rz",
-  "tags": [
-   "migas",
-   "Pertamina",
-   "RUU Migas",
-   "kedaulatan energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478087-sinergi-serikat-pekerja-dan-pemantau-migas-dorong-penguatan-kedaulatan-energi-melalui-penataan-regulasi"
  }
 ];

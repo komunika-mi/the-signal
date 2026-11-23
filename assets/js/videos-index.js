@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "b2FoINu63ow",
+  "title": "Harga Pakan Ayam Naik, Peternak Tertekan Biaya Produksi",
+  "category": "Industri",
+  "program": "Kabar Pagi",
+  "summary": "Harga pakan ayam naik dari Rp8.300-Rp8.600 menjadi Rp9.500-Rp10.000 per kilogram pada Agustus-November 2026, menekan biaya produksi peternak di berbagai daerah.",
+  "takeaway": "Kenaikan harga pakan menjadi indikator tekanan biaya di sektor peternakan yang bisa merembet ke harga pangan di tingkat konsumen."
+ },
+ {
+  "id": "haTiY8D7Fnw",
+  "title": "ISTMI Dorong Transformasi Produktivitas Industri",
+  "category": "Industri",
+  "program": "Kabar Pagi",
+  "summary": "Ikatan Sarjana Teknik Industri dan Manajemen Industri Indonesia mendorong transformasi produktivitas industri nasional lewat kolaborasi dengan pemerintah dan pelaku usaha.",
+  "takeaway": "Upaya mendorong produktivitas industri relevan bagi pembaca yang mengikuti isu daya saing manufaktur nasional."
+ },
+ {
   "id": "_vfrkwgVZ5s",
   "title": "Indonesia dan Uni Eropa Perkuat Kerja Sama Perdagangan",
   "category": "Global",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Pakar keamanan siber mengungkap lonjakan serangan siber global ke sektor keuangan sepanjang 2025 dan mengimbau publik tetap waspada tanpa panik.",
   "takeaway": "Data skala serangan siber ini penting bagi pembaca untuk memahami besarnya risiko yang dihadapi sektor keuangan saat ini."
- },
- {
-  "id": "oDaZvKyxYGQ",
-  "title": "Guru Honorer di Sumsel Belum Gajian Selama 11 Bulan",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Petang",
-  "summary": "Sebanyak 23 guru honorer di Sekolah Satu Atap Talang Betung, Kabupaten PALI, Sumatera Selatan, mengaku belum menerima gaji selama 11 bulan, memunculkan sorotan soal kesejahteraan tenaga pendidik honorer.",
-  "takeaway": "Kasus ini menggambarkan persoalan ketenagakerjaan di sektor pendidikan, khususnya ketimpangan pembayaran upah pekerja honorer yang masih sering terjadi di daerah."
- },
- {
-  "id": "0fEiZPL62U8",
-  "title": "Target Pajak Kurang Rp514 Triliun, Menkeu Minta Dukungan Masyarakat",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Menteri Keuangan Suahasil Nazara meminta dukungan masyarakat untuk mengamankan target penerimaan pajak tahun anggaran 2026, setelah realisasi pajak tercatat kurang Rp514 triliun dari target.",
-  "takeaway": "Kekurangan penerimaan pajak sebesar itu menyangkut ruang fiskal pemerintah untuk belanja dan program tahun depan, sehingga penting dipantau pembaca ekonomi."
  }
 ];

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "b2FoINu63ow",
+  "title": "Harga Pakan Ayam Naik, Peternak Tertekan Biaya Produksi",
+  "category": "Industri",
+  "program": "Kabar Pagi",
+  "summary": "Harga pakan ayam naik dari Rp8.300-Rp8.600 menjadi Rp9.500-Rp10.000 per kilogram pada Agustus-November 2026, menekan biaya produksi peternak di berbagai daerah.",
+  "takeaway": "Kenaikan harga pakan menjadi indikator tekanan biaya di sektor peternakan yang bisa merembet ke harga pangan di tingkat konsumen.",
+  "terbit": "2026-11-23T01:33:08+00:00"
+ },
+ {
+  "id": "haTiY8D7Fnw",
+  "title": "ISTMI Dorong Transformasi Produktivitas Industri",
+  "category": "Industri",
+  "program": "Kabar Pagi",
+  "summary": "Ikatan Sarjana Teknik Industri dan Manajemen Industri Indonesia mendorong transformasi produktivitas industri nasional lewat kolaborasi dengan pemerintah dan pelaku usaha.",
+  "takeaway": "Upaya mendorong produktivitas industri relevan bagi pembaca yang mengikuti isu daya saing manufaktur nasional.",
+  "terbit": "2026-11-23T01:24:34+00:00"
+ },
+ {
   "id": "_vfrkwgVZ5s",
   "title": "Indonesia dan Uni Eropa Perkuat Kerja Sama Perdagangan",
   "category": "Global",

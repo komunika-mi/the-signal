@@ -3,6 +3,62 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "penjualan-mobil-nasional-naik-19-7-persen-hingga-oktober",
+  "category": "Industri",
+  "title": "Penjualan Mobil Nasional [Naik] 19,7 Persen hingga Oktober",
+  "deck": "Penjualan mobil dari pabrik ke diler tembus 760.476 unit sepanjang Januari-Oktober 2026, naik 19,7 persen dari tahun sebelumnya, menurut data GAIKINDO.",
+  "image": "assets/img/penjualan-mobil-nasional-naik-19-7-persen-hingga-oktober.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T01:40:26.912Z",
+  "sourceUrl": "https://www.gaikindo.or.id/ketua-gaikindo-penjualan-mobil-nasional-tembus-760-ribu-unit-hingga-oktober-2026/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "tags": [
+   "GAIKINDO",
+   "Penjualan Mobil",
+   "Industri Otomotif",
+   "GAW 2026"
+  ],
+  "body": [
+   "Penjualan mobil baru dari pabrik ke diler (wholesale) di Indonesia mencapai 760.476 unit sepanjang Januari hingga Oktober 2026, naik 19,7 persen dibandingkan periode yang sama tahun lalu sebanyak 635.456 unit. Data ini disampaikan Ketua Umum Gabungan Industri Kendaraan Bermotor Indonesia (GAIKINDO) Putu Juli Ardika saat membuka pameran GAIKINDO Auto Week (GAW) 2026 di ICE BSD, Tangerang, Jumat (20/11/2026). Kenaikan penjualan kendaraan roda empat ini menjadi salah satu indikator aktivitas ekonomi domestik menjelang akhir tahun.",
+   "Selain pengiriman dari pabrik ke diler, penjualan dari diler ke konsumen langsung (ritel) juga tumbuh, mencapai 758.653 unit pada periode yang sama, naik 14,9 persen dari 660.511 unit pada tahun sebelumnya. Bedanya, angka wholesale menghitung unit yang dikirim pabrik ke diler, sementara angka ritel menghitung unit yang benar-benar dibeli konsumen di diler.",
+   "Menurut GAIKINDO, industri otomotif menjadi salah satu penopang penting perekonomian nasional, bukan hanya lewat aktivitas manufaktur dan perdagangan, tetapi juga pengembangan teknologi, investasi, dan rantai pasok yang luas. GAIKINDO mengklaim sektor ini menyerap lebih dari 1,5 juta tenaga kerja.",
+   "Sebagai bagian dari upaya mendorong penjualan, GAIKINDO menggelar pameran GAW 2026 serentak di 10 kota, yaitu Jakarta, Bali, Balikpapan, Bandung, Makassar, Medan, Palembang, Semarang, Solo, dan Surabaya. Di ICE BSD, pameran berlangsung pada 20-29 November 2026 dengan diikuti 65 merek, terdiri atas 36 merek kendaraan penumpang dan lebih dari 30 merek industri pendukung otomotif, termasuk lebih dari 10 peluncuran kendaraan baru dan lebih dari 200 unit kendaraan dari 34 merek yang disediakan untuk uji coba berkendara."
+  ],
+  "fotoAdegan": "Visitors walking between rows of new cars inside a brightly lit indoor automotive exhibition hall in Indonesia",
+  "fotoSumber": "https://www.gaikindo.or.id/wp-content/uploads/2026/11/mobil.avif",
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "takeaway": "Yang menarik dari data ini bukan cuma soal keduanya naik, tapi soal perbandingan dua angka tersebut. Tahun lalu, penjualan ritel (660.511 unit) justru lebih besar dari jumlah yang dikirim pabrik ke diler (635.456 unit), tanda diler waktu itu menjual stok lama yang sudah menumpuk. Tahun ini posisinya berbalik tipis, kiriman pabrik ke diler (760.476 unit) sedikit melampaui penjualan ritel (758.653 unit), tanda diler mulai menambah stok lagi. Pihak yang langsung terdampak pola ini adalah diler dan pabrikan yang mengatur tingkat persediaan, serta pekerja di sektor otomotif yang jumlahnya diklaim GAIKINDO lebih dari 1,5 juta orang. Sinyal ini mengarah ke penambahan stok diler menjelang akhir tahun, kemungkinan untuk menyambut pameran GAW yang digelar serentak di 10 kota hingga akhir November, dan arah ini akan makin jelas dari data penjualan November-Desember 2026 yang menunjukkan apakah stok tambahan itu benar-benar terjual atau malah menumpuk di diler.",
+  "imageV": "mwslqbru"
+ },
+ {
+  "slug": "indonesia-uni-eropa-teken-perjanjian-dagang-dan-investasi",
+  "category": "Global",
+  "title": "Indonesia-Uni Eropa [Teken] Perjanjian Dagang dan Investasi",
+  "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IEU-IPA, perjanjian dagang dan investasi yang ditargetkan berlaku efektif 1 Januari 2027.",
+  "image": "assets/img/indonesia-uni-eropa-teken-perjanjian-dagang-dan-investasi.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T01:37:15.473Z",
+  "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/indonesia-uni-eropa-tandatangani-ieu-cepa-dan-ieu-ipa-perkuat-perlindungan-investasi-dan-perluas-akses-pasar",
+  "sourceLabel": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "tags": [
+   "IEU-CEPA",
+   "IEU-IPA",
+   "investasi Uni Eropa",
+   "BKPM"
+  ],
+  "body": [
+   "Indonesia dan Uni Eropa resmi menandatangani dua perjanjian ekonomi, yakni Indonesia-Uni Eropa Comprehensive Economic Partnership Agreement (IEU-CEPA) dan Indonesia-Uni Eropa Investment Protection Agreement (IEU-IPA). Penandatanganan ini disaksikan oleh Wakil Menteri Investasi dan Hilirisasi/Wakil Kepala BKPM Todotua Pasaribu bersama delegasi dari Kementerian Koordinator Bidang Perekonomian, Kementerian Perdagangan, Kementerian Perindustrian, dan Kementerian Luar Negeri. Kedua perjanjian ini penting karena menggabungkan pembukaan akses pasar dengan jaminan hukum bagi investor, dua hal yang sering menjadi pertimbangan utama perusahaan asing sebelum menanamkan modal di Indonesia.",
+   "IEU-CEPA berfungsi membuka akses pasar yang lebih luas antara Indonesia dan Uni Eropa, termasuk rencana penurunan lebih dari 98 persen pos tarif dagang secara bertahap. Sementara itu, IEU-IPA mengatur perlindungan investasi, antara lain jaminan perlakuan yang adil dan setara, larangan pengambilalihan usaha secara sepihak tanpa dasar hukum, serta kebebasan memindahkan modal dan keuntungan investasi ke luar negeri. Perlindungan ini berlaku bagi investor Indonesia yang berinvestasi di Uni Eropa maupun investor Uni Eropa yang berinvestasi di Indonesia, sepanjang investasinya sesuai aturan hukum negara tujuan. Perjanjian ini tetap memberi ruang bagi pemerintah untuk membuat kebijakan di bidang kesehatan publik, lingkungan hidup, dan pembangunan berkelanjutan, sehingga kewenangan mengatur investasi tidak hilang meski perlindungan bagi investor diperkuat.",
+   "Berdasarkan data Kementerian Investasi dan Hilirisasi/BKPM, realisasi investasi dari 27 negara anggota Uni Eropa di Indonesia mencapai US$1,93 miliar pada Januari-September 2026, dengan Belanda, Prancis, dan Jerman sebagai tiga investor terbesar. Industri kimia dan farmasi menjadi sektor tujuan utama dengan pangsa 19 persen dari total investasi tersebut. Wamen Todotua menyebut perjanjian ini membuka peluang investasi baru di sektor ekosistem kendaraan listrik dan baterai, energi terbarukan, manufaktur berteknologi tinggi, serta pengolahan hasil pertanian dan perkebunan. Ia juga menyinggung potensi energi terbarukan Indonesia sebesar 3.600 gigawatt dari tenaga surya, air, dan angin sebagai salah satu peluang kerja sama dengan Uni Eropa.",
+   "Setelah penandatanganan ini, Indonesia dan Uni Eropa akan menempuh proses pengesahan hukum di masing-masing pihak, dengan target kedua perjanjian berlaku efektif mulai 1 Januari 2027. Wamen Todotua menyatakan optimistis bahwa perjanjian ini akan mendorong kenaikan realisasi investasi Uni Eropa di Indonesia, meski hal tersebut masih berupa harapan pemerintah yang baru akan teruji setelah perjanjian benar-benar berjalan."
+  ],
+  "fotoAdegan": "Shipping containers being loaded onto a cargo vessel at a busy Indonesian seaport, cranes against a clear sky, workers in safety vests nearby",
+  "fotoSumber": "https://bkpm.go.id/storage/image/origin/webp/xjE9woCrpwD4jziDG9LHwxbIMnchVO.webp",
+  "kreditFoto": "Kementerian Investasi dan Hilirisasi/BKPM",
+  "takeaway": "Yang sebenarnya berubah hari ini adalah status hukum kerja sama ini, dari rencana menjadi perjanjian yang sudah ditandatangani, tapi belum berlaku. Begitu nanti disahkan di dalam negeri, lebih dari 98 persen barang yang diperdagangkan antara Indonesia dan Uni Eropa akan dikenakan pajak impor yang lebih rendah secara bertahap, dan investor dari kedua pihak mendapat jaminan tambahan seperti tidak akan diambil alih usahanya secara sepihak serta bebas memindahkan keuntungan ke luar negeri. Pihak yang paling kena dampak lebih dulu adalah investor Eropa di sektor kimia dan farmasi, yang sudah jadi tujuan investasi terbesar dengan pangsa 19 persen dari total US$1,93 miliar investasi Uni Eropa ke Indonesia sepanjang Januari-September 2026, ditambah sektor baru yang disebut pemerintah seperti kendaraan listrik dan energi terbarukan. Arahnya, hubungan dagang dan investasi Indonesia-Uni Eropa bergerak dari tahap negosiasi ke tahap pelaksanaan, tapi dampak nyatanya bagi pelaku usaha baru bisa dipastikan setelah proses pengesahan di dalam negeri selesai, karena pemerintah menargetkan perjanjian ini efektif berlaku 1 Januari 2027.",
+  "imageV": "mwslqdd9"
+ },
+ {
   "slug": "bunga-kpps-turun-ke-8-angsuran-mekaar-makin-ringan",
   "category": "UMKM",
   "title": "Bunga KPPS Turun ke 8%, Angsuran Mekaar Makin [Ringan]",

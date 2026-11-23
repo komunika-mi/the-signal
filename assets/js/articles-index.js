@@ -5,6 +5,86 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "xmlf-nab-di-bawah-rp10-m-bubar-mengancam-jika-120-hari-bursa",
+  "category": "Aksi Korporasi",
+  "title": "XMLF: NAB di Bawah Rp10 M, [Bubar] Mengancam jika 120 Hari Bursa",
+  "deck": "Danareksa Investment Management menjawab permintaan penjelasan Bursa: NAB ETF LQ45 dan Gold ETF Syariah di bawah Rp10 miliar per 30 Oktober 2026, berisiko wajib bubar.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMLF",
+   "Danareksa Investment Management",
+   "ETF",
+   "NAB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMLF_E023A_31ffd676-1726-4fc4-8b31-d93b99964e47-20261123231709.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmsk-2-etf-grup-danareksa-im-nav-di-bawah-rp10-m-risiko-bubar",
+  "category": "Aksi Korporasi",
+  "title": "XMSK: 2 ETF Grup Danareksa IM NAV di Bawah Rp10 M [Risiko Bubar]",
+  "deck": "Danareksa Investment Management melaporkan dua ETF di grupnya, LQ45 dan Gold ETF Syariah BRI MI, NAB-nya di bawah Rp10 miliar per akhir Oktober, berisiko dibubarkan jika berlanjut 120 hari bursa.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMSK",
+   "Danareksa Investment Management",
+   "ETF",
+   "merger manajer investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMSK_E023A_0246b571-a294-4762-9ebf-64f2d8950ade-20261123230554.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmlf-danareksa-pastikan-5-etf-lanjut-pasca-merger-direksi-berubah",
+  "category": "Aksi Korporasi",
+  "title": "XMLF: Danareksa Pastikan 5 ETF Lanjut Pasca Merger, [Direksi] Berubah",
+  "deck": "Danareksa Investment Management menjelaskan ke Bursa bahwa penggabungan manajer investasi tidak mengganggu lima produk ETF, meski NAB dua produk masih di bawah Rp10 miliar dan susunan direksi berubah.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMLF",
+   "ETF",
+   "Danareksa Investment Management",
+   "merger manajer investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMLF_E023A_911a8e47-f768-4876-bc7a-10999e737f74-20261123230231.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdif-danareksa-im-jelaskan-merger-nab-2-etf-berisiko-bubar",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: Danareksa IM Jelaskan Merger, [NAB] 2 ETF Berisiko Bubar",
+  "deck": "Danareksa IM menjelaskan ke Bursa bahwa merger manajer investasi tak mengganggu 5 ETF yang dikelola, tapi NAB ETF LQ45 Mandiri dan Gold Syariah BRI MI sudah di bawah Rp10 miliar.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDIF",
+   "Danareksa Investment Management",
+   "ETF",
+   "merger manajer investasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XDIF_E023A_2c43571d-61db-4251-83dd-8e864a58a87f-20261123224513.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xdes-nab-di-bawah-rp10-m-per-30-okt-risiko-bubar-jika-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "XDES: NAB di Bawah Rp10 M per 30 Okt, [Risiko] Bubar jika Berlanjut",
+  "deck": "Manajer investasi menyatakan NAB reksa dana ETF emas syariah XDES sudah di bawah Rp10 miliar per 30 Oktober 2026, memicu risiko pembubaran wajib jika berlanjut 120 hari bursa.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XDES",
+   "ETF Emas Syariah",
+   "Danareksa Investment Management",
+   "NAB Reksa Dana"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XDES_E023A_566ec473-2d47-4f83-bf0f-88f0741ed305-20261123223437.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "rupslb-asha-19-nov-direksi-komisaris-diangkat-kembali-5-tahun",
   "category": "Aksi Korporasi",
   "title": "RUPSLB ASHA 19 Nov: Direksi-Komisaris [Diangkat Kembali] 5 Tahun",
@@ -325,6 +405,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "okas-soal-volatilitas-saham-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "OKAS Soal Volatilitas Saham: [Tak Ada] Informasi Material",
+  "deck": "Bursa Efek Indonesia meminta penjelasan OKAS soal volatilitas transaksi sahamnya. Perseroan menyatakan tidak mengetahui informasi material maupun rencana pemegang saham utama.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_OKAS_E023A_5e8e1c24-19c1-46d4-9b5b-8f31f0876ac4-20261123175630.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "okas-9m26-laba-bersih-pulih-jadi-us-2-5-juta-ebitda-20",
   "category": "Aksi Korporasi",
   "title": "OKAS 9M26: Laba Bersih [Pulih] jadi US$2,5 Juta, EBITDA -20%",
@@ -338,6 +434,86 @@ var ARTICLES = [
    "blasting services"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_OKAS_E019_12d67962-5647-4598-bc66-72e3c535d4d2-20261123175520.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmgb-unit-penyertaan-berkurang-5-juta-jadi-49-juta",
+  "category": "Aksi Korporasi",
+  "title": "XMGB: Unit Penyertaan [Berkurang] 5 Juta Jadi 49 Juta",
+  "deck": "Unit penyertaan Reksa Dana Majoris Government Bonds ETF Indonesia (XMGB) turun dari 54 juta menjadi 49 juta unit pada 23 November 2026 setelah penarikan 5 juta unit.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMGB",
+   "ETF",
+   "reksa dana",
+   "obligasi pemerintah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMGB_E019_e2cd0d89-ada6-42e8-8181-9e1b493a4e6d-20261123174758.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ccsi-dirikan-anak-usaha-telekomunikasi-modal-disetor-rp9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CCSI Dirikan [Anak Usaha] Telekomunikasi, Modal Disetor Rp9 Miliar",
+  "deck": "CCSI membentuk anak usaha PT Varuna Konektivitas Digital di bidang infrastruktur telekomunikasi, modal disetor Rp9 miliar, 99,99 persen dimiliki CCSI.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CCSI",
+   "anak usaha",
+   "telekomunikasi",
+   "korporasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_CCSI_E019_b1379a91-7f29-48c8-8c53-25acfeca7e07-20261123174620.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-lion-26-nov-revisi-penjualan-2026-turun-44-5",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose LION 26 Nov: [Revisi] Penjualan 2026 Turun 44,5%",
+  "deck": "Lion Metal Works (LION) memangkas target penjualan 2026 dari Rp468 miliar jadi Rp259,6 miliar dan kini memproyeksikan rugi tahun berjalan, bukan laba seperti target awal.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LION",
+   "Lion Metal Works",
+   "Public Expose",
+   "Revisi Target Usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_LION_E003_5d8e38e4-4790-41a8-b976-d29be27d71d1-20261123173924.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-rupsu-wika-mundur-ke-14-16-desember-bahas-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "RUPO-RUPSU WIKA Mundur ke 14-16 Desember, Bahas [Gagal Bayar]",
+  "deck": "WIKA menjadwalkan ulang rapat pemegang obligasi dan sukuk ke 14-16 Desember 2026 untuk membahas gagal bayar bunga dan bagi hasil di beberapa seri surat utang.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "sukuk mudharabah",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_59c4055c-0619-416a-86f8-e9c3800c3a6a-20261123173601.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-wika-obligasi-ii-tahap-i-ralat-mundur-ke-16-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPO WIKA Obligasi II Tahap I [Ralat]: Mundur ke 16 Desember",
+  "deck": "WIKA mengubah jadwal RUPO pemegang Obligasi Berkelanjutan II Tahap I 2021 dari 7 menjadi 16 Desember 2026, membahas kelalaian bayar bunga dan pokok Seri B dan C.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "gagal bayar",
+   "RUPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_60169934-ece7-4783-b7a2-de878bbcb1e0-20261123173446.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6332,187 +6508,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478281-harga-emas-antam-hari-ini-14-november-2026-naik-tipis-jadi-rp2517000-per-gram"
- },
- {
-  "slug": "presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia",
-  "category": "Teknologi",
-  "title": "Presiden AS Dukung Tim Cook Gantikan Huang di [Nvidia]",
-  "deck": "Presiden Amerika Serikat Donald Trump menyebut Tim Cook pantas menggantikan Jensen Huang yang mundur dari kursi CEO Nvidia setelah 33 tahun memimpin perusahaan itu.",
-  "date": "14 November 2026",
-  "image": "assets/img/presiden-as-dukung-tim-cook-gantikan-huang-di-nvidia.jpg",
-  "imageV": "mwfpot4w",
-  "tags": [
-   "Nvidia",
-   "Jensen Huang",
-   "Tim Cook",
-   "Donald Trump"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478267-sosok-pengganti-diinginkan-trump-setelah-jensen-huang-mundur-dari-nvidia-siapa"
- },
- {
-  "slug": "indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham",
-  "category": "Pasar Modal",
-  "title": "Indo Premier Luncurkan [INAI], Asisten AI untuk Trading Saham",
-  "deck": "Indo Premier Sekuritas meluncurkan INAI, asisten investasi berbasis AI yang memungkinkan investor mencari saham dan bertransaksi lewat chat, didukung IPOT X Studio dengan 80 alat analisis.",
-  "date": "14 November 2026",
-  "image": "assets/img/indo-premier-luncurkan-inai-asisten-ai-untuk-trading-saham.jpg",
-  "imageV": "mwfewnpn",
-  "tags": [
-   "AI investasi",
-   "trading saham",
-   "Indo Premier",
-   "fintech"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478250-bisakah-trading-saham-cukup-lewat-chat-ai-intip-teknologi-terbaru-inai"
- },
- {
-  "slug": "beer-maju-minuman-minahasa-jual-24-5-juta-saham-hak-suara-75-58",
-  "category": "Aksi Korporasi",
-  "title": "BEER: Maju Minuman Minahasa [Jual] 24,5 Juta Saham, Hak Suara 75,58%",
-  "deck": "Direksi BEER, PT Maju Minuman Minahasa, melepas 24,5 juta saham tidak langsung pada 11 November 2026 di harga Rp52 untuk divestasi, hak suara turun ke 75,58%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BEER",
-   "kepemilikan saham",
-   "divestasi",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-5114-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "winr-pemenang-nusantara-jual-48-7-juta-saham-suara-41-81",
-  "category": "Aksi Korporasi",
-  "title": "WINR: Pemenang Nusantara Jual 30 Juta Saham, Suara 41,24%",
-  "deck": "Pemenang Nusantara Internasional kembali melepas 30 juta saham WINR senilai sekitar Rp555 juta, menurunkan hak suaranya dari 41,81 persen menjadi 41,24 persen.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINR",
-   "laporan kepemilikan",
-   "free float",
-   "Pemenang Nusantara Internasional"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2960-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bananania-umkm-pisang-binaan-pertamina-tembus-ekspor",
-  "category": "UMKM",
-  "title": "Bananania, UMKM Pisang Binaan Pertamina, Tembus [Ekspor]",
-  "deck": "UMKM olahan pisang Bananania dari Yogyakarta, binaan Pertamina sejak 2021, kini merambah pasar ekspor ke Kanada, Malaysia, dan Singapura dengan 12 varian produk.",
-  "date": "13 November 2026",
-  "image": "assets/img/bananania-umkm-pisang-binaan-pertamina-tembus-ekspor.jpg",
-  "imageV": "mwf8qfbk",
-  "tags": [
-   "UMKM",
-   "Pertamina",
-   "ekspor",
-   "pisang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478240-dari-yogyakarta-ke-kanada-cerita-umkm-binaan-pertamina-raup-pasar-global"
- },
- {
-  "slug": "transaksi-afiliasi-inpp-12-november-jual-saham-igm-rp185-7-m",
-  "category": "Aksi Korporasi",
-  "title": "Transaksi Afiliasi INPP 12 November: [Jual] Saham IGM Rp185,7 M",
-  "deck": "INPP menjual seluruh saham di anak usahanya, IGM, kepada PDS senilai Rp185,7 miliar sebagai bagian restrukturisasi kepemilikan dalam grup usaha.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INPP",
-   "Transaksi Afiliasi",
-   "Restrukturisasi Grup Usaha",
-   "Indonesia Gemilang Mahasentosa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cc6d6ba0c2_2dfe9c616b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ikai-direksi-desra-firza-ghazfan-tambah-100-000-saham-suara-0-08",
-  "category": "Aksi Korporasi",
-  "title": "IKAI: Direksi Desra Tambah 200.000 Saham, Suara Tetap 0,08%",
-  "deck": "Direksi IKAI, Desra Firza Ghazfan, melaporkan pembelian tambahan 100.000 saham pada 11 November 2026 seharga Rp19 per saham, melengkapi transaksi serupa di hari yang sama.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IKAI",
-   "laporan kepemilikan",
-   "direksi",
-   "saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-1383-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah",
-  "category": "UMKM",
-  "title": "PNM [Perluas] Pembiayaan Mekaar Bunga 8% ke 1,7 Juta Nasabah",
-  "deck": "PNM memperluas pembiayaan Mekaar berbunga 8 persen lewat program KPPS bersama pemerintah, menargetkan 1,7 juta nasabah perempuan pelaku usaha ultra mikro hingga akhir 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/pnm-perluas-pembiayaan-mekaar-bunga-8-ke-1-7-juta-nasabah.jpg",
-  "imageV": "mwf5fcws",
-  "tags": [
-   "PNM Mekaar",
-   "UMKM",
-   "Pembiayaan Ultra Mikro",
-   "Batam"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478220-pnm-perluas-pembiayaan-mekaar-bunga-8-targetkan-17-juta-nasabah"
- },
- {
-  "slug": "film-samuel-sekuritas-indonesia-tambah-757-500-saham-suara-11-27",
-  "category": "Aksi Korporasi",
-  "title": "FILM: Samuel Sekuritas Indonesia Jual 214,13 Juta Saham, Suara 9,30%",
-  "deck": "Direksi Samuel Sekuritas Indonesia melepas 214.134.600 saham FILM lewat pencairan repo pada 16 November 2026, hak suara turun dari 11,27% menjadi 9,30%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FILM",
-   "MD Entertainment",
-   "Samuel Sekuritas Indonesia",
-   "Laporan Kepemilikan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-7900-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "25-driver-ojol-menang-motor-dari-program-boom-pertamina",
-  "category": "Energi",
-  "title": "25 Driver Ojol Menang [Motor] dari Program BOOM Pertamina",
-  "deck": "Pertamina menyerahkan 25 motor Honda Vario kepada pemenang program loyalitas BOOM Periode 2 bagi pengemudi ojol pengguna BBM non-subsidi dan MyPertamina.",
-  "date": "13 November 2026",
-  "image": "assets/img/25-driver-ojol-menang-motor-dari-program-boom-pertamina.jpg",
-  "imageV": "mwf5fdc8",
-  "tags": [
-   "Pertamina",
-   "ojol",
-   "BBM non-subsidi",
-   "MyPertamina"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478218-dapat-motor-baru-dari-pertamina-puluhan-driver-ojol-makin-semangat-cari-orderan"
- },
- {
-  "slug": "melon-bansari-tembus-pasar-nasional-via-program-bri",
-  "category": "UMKM",
-  "title": "Melon Bansari [Tembus] Pasar Nasional via Program BRI",
-  "deck": "Petani melon premium Bansari, Temanggung, kini menjangkau pembeli nasional lewat program Klasterku Hidupku BRI, setelah sebelumnya pasar mereka terbatas di Temanggung.",
-  "date": "13 November 2026",
-  "image": "assets/img/melon-bansari-tembus-pasar-nasional-via-program-bri.jpg",
-  "imageV": "mwf5fdr5",
-  "tags": [
-   "BRI",
-   "Klasterku Hidupku",
-   "melon premium",
-   "Temanggung"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478216-petani-melon-bansari-perluas-akses-pasar-melalui-program-klasterku-hidupku-bri"
  }
 ];

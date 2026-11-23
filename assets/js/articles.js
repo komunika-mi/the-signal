@@ -3,6 +3,147 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "xmlf-nab-di-bawah-rp10-m-bubar-mengancam-jika-120-hari-bursa",
+  "category": "Aksi Korporasi",
+  "title": "XMLF: NAB di Bawah Rp10 M, [Bubar] Mengancam jika 120 Hari Bursa",
+  "deck": "Danareksa Investment Management menjawab permintaan penjelasan Bursa: NAB ETF LQ45 dan Gold ETF Syariah di bawah Rp10 miliar per 30 Oktober 2026, berisiko wajib bubar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T23:17:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMLF_E023A_31ffd676-1726-4fc4-8b31-d93b99964e47-20261123231709.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMLF",
+  "tags": [
+   "XMLF",
+   "Danareksa Investment Management",
+   "ETF",
+   "NAB"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia, manajer investasi hasil penggabungan, menjawab surat permintaan penjelasan Bursa Efek Indonesia Nomor S-14278/BEI.PPU/11-2026 tanggal 19 November 2026. Bursa menanyakan dampak penggabungan dan perubahan identitas manajer investasi terhadap pengelolaan produk Exchange Traded Fund (ETF) yang sebelumnya diterbitkan oleh masing-masing manajer investasi yang bergabung. Perseroan menegaskan penggabungan tidak menghentikan atau mengganggu pengelolaan produk ETF, dan seluruh produk tetap dikelola sesuai Kontrak Investasi Kolektif serta prospektus masing-masing. Lima produk ETF yang saat ini dikelola, yaitu BRI ETF Indonesia Top 40, Mandiri ETF LQ45, Mandiri ETF SRI-Kehati, Syariah BRI MI Gold ETF, dan Syariah Mandiri ETF Emas, seluruhnya berstatus aktif.",
+   "Namun perseroan mengungkapkan bahwa berdasarkan data per 30 Oktober 2026, Reksa Dana Indeks Mandiri ETF LQ45 dan Reksa Dana Syariah BRI MI Gold ETF Syariah memiliki Nilai Aktiva Bersih (NAB) di bawah Rp10 miliar. Berdasarkan Pasal 45 huruf d Peraturan OJK Nomor 23/POJK.04/2016, sebuah reksa dana wajib dibubarkan jika NAB-nya bertahan di bawah Rp10 miliar selama 120 hari bursa berturut-turut. Untuk ETF LQ45, perseroan menyatakan akan memantau perkembangan NAB dan mengambil tindak lanjut sesuai ketentuan, termasuk kewajiban pembubaran bila syarat itu terpenuhi. Untuk Gold ETF Syariah, perseroan menyebut akan melakukan sosialisasi dan penjajakan ke investor potensial guna menaikkan NAB.",
+   "Perseroan juga menjawab bahwa dua ETF berbasis emas, XDES dan XMES, akan tetap dikelola sebagai produk terpisah tanpa rencana konsolidasi atau penggabungan ulang. Seluruh perjanjian kerja sama dengan Dealer Partisipan pada masing-masing produk ETF beralih secara hukum ke PT Danareksa Investment Management Indonesia selaku entitas penerima penggabungan, tanpa mengubah penunjukan pihak yang sudah berjalan. Perseroan juga mengungkapkan susunan Direksi terkini, Hardiyanto Pilia sebagai Direktur Keuangan dan Operasi sekaligus Pelaksana Tugas Direktur Utama, Arief Budiman, Ari Adil, dan Ade S. Djajanegara sebagai direktur lainnya, serta Dewan Komisaris yang diketuai Frankie E.L. Tinangon, dengan jabatannya baru efektif setelah mendapat persetujuan uji kemampuan dan kepatutan dari OJK."
+  ],
+  "fotoAdegan": "Wide shot of Jakarta's Sudirman financial district skyscrapers at sunrise, light traffic on the avenue below",
+  "takeaway": "Laporan ini condong negatif untuk dua produk ETF yang disebut, karena ada risiko konkret pembubaran wajib, bukan sekadar kemungkinan teoretis. Pos yang tersentuh adalah nilai aktiva bersih atau NAB, yaitu total dana yang dipercayakan investor ke sebuah reksa dana atau ETF; semakin kecil NAB berarti semakin sedikit peminat atau semakin banyak investor yang menarik uangnya, dan kalau sudah di bawah Rp10 miliar selama 120 hari bursa berturut-turut, aturan OJK mewajibkan dana itu dibubarkan serta uang investor dikembalikan. Penggabungan manajer investasi sendiri dijelaskan tidak mengganggu kelangsungan produk lain, jadi sisi itu relatif netral. Yang perlu dipantau selanjutnya adalah perkembangan NAB ETF LQ45 dan Gold ETF Syariah pada laporan bulan-bulan berikutnya, karena dokumen ini tidak menyebut tanggal pasti kapan hitungan 120 hari bursa tersebut akan jatuh tempo.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish) (KOREKSI)"
+ },
+ {
+  "slug": "xmsk-2-etf-grup-danareksa-im-nav-di-bawah-rp10-m-risiko-bubar",
+  "category": "Aksi Korporasi",
+  "title": "XMSK: 2 ETF Grup Danareksa IM NAV di Bawah Rp10 M [Risiko Bubar]",
+  "deck": "Danareksa Investment Management melaporkan dua ETF di grupnya, LQ45 dan Gold ETF Syariah BRI MI, NAB-nya di bawah Rp10 miliar per akhir Oktober, berisiko dibubarkan jika berlanjut 120 hari bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T23:05:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMSK_E023A_0246b571-a294-4762-9ebf-64f2d8950ade-20261123230554.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMSK",
+  "tags": [
+   "XMSK",
+   "Danareksa Investment Management",
+   "ETF",
+   "merger manajer investasi"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia, manajer investasi yang mengelola Reksa Dana Indeks Mandiri ETF SRI-Kehati (XMSK), menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas surat permintaan penjelasan Nomor S-14278/BEI.PPU/11-2026. Surat tanggapan bernomor S-512/DI-DIR.SP/PDM/XI/2026 tertanggal 23 November 2026 itu ditandatangani Hardiyanto Pilia, Direktur Keuangan dan Operasi yang juga menjabat Pelaksana Tugas Direktur Utama. Dalam suratnya, perusahaan menjelaskan bahwa surat yang sama sebelumnya sudah diajukan lewat sistem IDXnet lama pada 19 November 2026, namun harus disampaikan ulang lewat sistem baru yang berlaku efektif 23 November 2026, dengan nomor surat dan tenggat tanggapan yang sama.",
+   "Danareksa Investment Management Indonesia, hasil penggabungan dengan PT Mandiri Manajemen Investasi, memastikan penggabungan tersebut tidak menghentikan pengelolaan produk ETF yang sudah berjalan. Perusahaan melampirkan daftar lima produk ETF yang dikelolanya pasca penggabungan, yaitu BRI ETF Indonesia Top 40, Indeks Mandiri ETF LQ45, Indeks Mandiri ETF SRI-Kehati (XMSK), Syariah BRI MI Gold ETF Syariah, dan Syariah Mandiri ETF Emas, yang semuanya berstatus aktif. Namun perusahaan mengungkapkan bahwa per 30 Oktober 2026, nilai aktiva bersih Reksa Dana Indeks Mandiri ETF LQ45 dan Reksa Dana Syariah BRI MI Gold ETF Syariah sudah di bawah Rp10 miliar. Berdasarkan Pasal 45 huruf d POJK Nomor 23/2016, reksa dana wajib dibubarkan jika nilai aktiva bersihnya tetap di bawah angka itu selama 120 hari bursa berturut-turut. Untuk Gold ETF Syariah BRI MI, perusahaan berencana meningkatkan dana kelolaan lewat sosialisasi dan penjajakan ke investor potensial, sementara untuk LQ45 akan terus memantau perkembangannya.",
+   "Perusahaan juga menegaskan tidak ada rencana menggabungkan dua ETF berbasis emas, XDES dan XMES, karena keduanya tetap dikelola sebagai produk terpisah. Perjanjian kerja sama dengan para Dealer Partisipan di setiap produk ETF juga tetap berlaku, karena hak dan kewajibannya beralih secara hukum ke Danareksa Investment Management Indonesia sebagai entitas hasil penggabungan, tanpa mengubah penunjukan pihak-pihak tersebut. Selain itu, surat ini mengungkapkan susunan baru Direksi, yakni Hardiyanto Pilia, Arief Budiman sebagai Direktur Pemasaran dan Produk, Ari Adil sebagai Direktur Investasi, dan Ade S. Djajanegara sebagai Direktur Manajemen Risiko dan Kepatuhan. Dewan Komisaris diisi Frankie E.L. Tinangon sebagai Komisaris Utama dan Komisaris Independen yang jabatannya baru efektif setelah lolos uji kemampuan dan kepatutan OJK, bersama Sumariyandono, Riyanto Prabowo, dan Tjut Andjani Yuzar sebagai Komisaris Independen."
+  ],
+  "fotoAdegan": "Glass-faced financial district office towers in Jakarta reflecting a soft morning sky, light street traffic below",
+  "takeaway": "Bagi pemegang unit XMSK sendiri, laporan ini netral karena nilai dana kelolaan SRI-Kehati tidak disebut bermasalah, meski dokumen ini membuka risiko di dua produk sejenis dalam satu manajer investasi. Yang disorot adalah nilai aktiva bersih, yakni total dana investor yang dikelola di reksa dana LQ45 dan Gold ETF Syariah BRI MI, yang per akhir Oktober sudah di bawah Rp10 miliar. Aturan OJK mewajibkan reksa dana dibubarkan kalau nilai itu tetap di bawah ambang tersebut selama 120 hari bursa berturut-turut, sehingga investor di dua produk itu perlu memantau apakah dananya terus menyusut atau berhasil naik lagi. Hal lain yang perlu dipantau adalah proses uji kemampuan dan kepatutan OJK untuk calon Komisaris Utama baru, Frankie E.L. Tinangon, karena jabatannya baru efektif setelah mendapat persetujuan itu.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "xmlf-danareksa-pastikan-5-etf-lanjut-pasca-merger-direksi-berubah",
+  "category": "Aksi Korporasi",
+  "title": "XMLF: Danareksa Pastikan 5 ETF Lanjut Pasca Merger, [Direksi] Berubah",
+  "deck": "Danareksa Investment Management menjelaskan ke Bursa bahwa penggabungan manajer investasi tidak mengganggu lima produk ETF, meski NAB dua produk masih di bawah Rp10 miliar dan susunan direksi berubah.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T23:02:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMLF_E023A_911a8e47-f768-4876-bc7a-10999e737f74-20261123230231.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMLF",
+  "tags": [
+   "XMLF",
+   "ETF",
+   "Danareksa Investment Management",
+   "merger manajer investasi"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia, pengelola produk dengan kode XMLF, menjawab permintaan penjelasan Bursa Efek Indonesia soal dampak penggabungan manajer investasi terhadap pengelolaan produk Exchange Traded Fund (ETF). Dalam surat tertanggal 23 November 2026, perusahaan memastikan penggabungan itu, yang menjadikan Danareksa Investment Management Indonesia (dahulu PT Mandiri Manajemen Investasi) sebagai entitas penerima, tidak menghentikan atau mengganggu pengelolaan lima produk ETF yang saat ini seluruhnya berstatus aktif: Reksa Dana BRI ETF Indonesia Top 40, Reksa Dana Indeks Mandiri ETF LQ45, Reksa Dana Indeks Mandiri ETF SRI-Kehati, Reksa Dana Syariah BRI MI Gold ETF Syariah, dan Reksa Dana Syariah Mandiri ETF Emas.",
+   "Perusahaan juga mengungkapkan bahwa berdasarkan data per 30 Oktober 2026, dua dari lima produk itu, yaitu Reksa Dana Indeks Mandiri ETF LQ45 dan Reksa Dana Syariah BRI MI Gold ETF Syariah, memiliki nilai aktiva bersih di bawah Rp10 miliar. Sesuai Pasal 45 huruf d POJK Nomor 23/POJK.04/2016, reksa dana wajib dibubarkan jika nilai itu tetap di bawah ambang tersebut selama 120 hari bursa berturut-turut. Danareksa menyatakan akan memantau perkembangan ETF LQ45, sementara untuk ETF Gold Syariah akan melakukan sosialisasi dan penjajakan ke investor potensial agar dananya bertambah. Dua ETF berbasis emas lainnya, XDES dan XMES, dipastikan tetap dikelola terpisah tanpa rencana konsolidasi, dan seluruh perjanjian dengan Dealer Partisipan tetap berlaku karena hak dan kewajibannya beralih secara hukum ke entitas hasil penggabungan.",
+   "Sebagai bagian dari proses penggabungan, susunan direksi dan dewan komisaris juga berubah. Direksi saat ini terdiri dari Hardiyanto Pilia sebagai Direktur Keuangan dan Operasi sekaligus Pelaksana Tugas Direktur Utama, Arief Budiman sebagai Direktur Pemasaran dan Produk, Ari Adil sebagai Direktur Investasi, dan Ade S. Djajanegara sebagai Direktur Manajemen Risiko dan Kepatuhan. Dewan komisaris terdiri dari Frankie E.L. Tinangon sebagai Komisaris Utama dan Komisaris Independen yang efektif setelah lolos uji kemampuan dan kepatutan Otoritas Jasa Keuangan, Sumariyandono dan Riyanto Prabowo sebagai Komisaris, serta Tjut Andjani Yuzar sebagai Komisaris Independen."
+  ],
+  "fotoAdegan": "Stacked gold bars inside a bank vault, a gloved worker checking inventory under soft overhead lighting.",
+  "takeaway": "Laporan ini condong netral bagi XMLF karena isinya seimbang: kelangsungan pengelolaan lima produk ETF dipastikan aman pasca merger, tapi risiko yang sudah diketahui sebelumnya tetap ada. Pos yang tersentuh adalah nilai aktiva bersih, yaitu total dana yang dikelola di balik setiap reksa dana, karena aturan OJK mewajibkan pembubaran kalau nilai itu tertahan di bawah Rp10 miliar selama 120 hari bursa berturut-turut, sehingga investor di dua produk kecil itu perlu tahu dananya berisiko ditarik otomatis. Yang perlu dipantau berikutnya adalah tren bulanan nilai aktiva bersih Reksa Dana Indeks Mandiri ETF LQ45 dan Reksa Dana Syariah BRI MI Gold ETF Syariah, serta kapan Frankie E.L. Tinangon resmi menjabat Komisaris Utama setelah uji kepatutan OJK selesai.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "xdif-danareksa-im-jelaskan-merger-nab-2-etf-berisiko-bubar",
+  "category": "Aksi Korporasi",
+  "title": "XDIF: Danareksa IM Jelaskan Merger, [NAB] 2 ETF Berisiko Bubar",
+  "deck": "Danareksa IM menjelaskan ke Bursa bahwa merger manajer investasi tak mengganggu 5 ETF yang dikelola, tapi NAB ETF LQ45 Mandiri dan Gold Syariah BRI MI sudah di bawah Rp10 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T22:45:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XDIF_E023A_2c43571d-61db-4251-83dd-8e864a58a87f-20261123224513.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDIF",
+  "tags": [
+   "XDIF",
+   "Danareksa Investment Management",
+   "ETF",
+   "merger manajer investasi"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia, selaku entitas penerima penggabungan (dahulu PT Mandiri Manajemen Investasi), menjawab permintaan penjelasan Bursa Efek Indonesia nomor S-14278/BEI.PPU/11-2026 tanggal 19 November 2026 lewat surat nomor S-512/DI-DIR.SP/PDM/XI/2026 tanggal 23 November 2026. Perusahaan menegaskan penggabungan dan perubahan identitas manajer investasi tidak menghentikan atau mengganggu pengelolaan produk ETF yang sebelumnya diterbitkan oleh masing-masing manajer investasi. Kontrak Investasi Kolektif (KIK) dan prospektus tiap produk hanya akan disesuaikan lewat adendum terkait nama dan identitas manajer investasi, tanpa mengubah kebijakan maupun tujuan investasinya.",
+   "Pasca-penggabungan, PT Danareksa Investment Management Indonesia mengelola lima produk ETF, yakni Reksa Dana BRI ETF Indonesia TOP 40 (XDIF), Reksa Dana Indeks Mandiri ETF LQ45, Reksa Dana Indeks Mandiri ETF SRI-KEHATI, Reksa Dana Syariah BRI MI Gold ETF Syariah, dan Reksa Dana Syariah Mandiri ETF Emas, yang semuanya berstatus aktif. Namun berdasarkan data per 30 Oktober 2026, Nilai Aktiva Bersih (NAB) Reksa Dana Indeks Mandiri ETF LQ45 dan Reksa Dana Syariah BRI MI Gold ETF Syariah sudah di bawah Rp10 miliar. Berdasarkan Pasal 45 huruf d POJK Nomor 23/POJK.04/2016, sebuah reksa dana wajib dibubarkan jika NAB-nya tetap di bawah Rp10 miliar selama 120 hari bursa berturut-turut. Perusahaan menyatakan akan memantau perkembangan NAB LQ45 dan mematuhi kewajiban pembubaran jika kondisi itu terpenuhi, sementara untuk Gold Syariah akan terus melakukan sosialisasi dan penjajakan ke investor potensial agar NAB-nya naik.",
+   "Terkait dua produk ETF berbasis emas, XDES dan XMES, Danareksa menyatakan belum punya rencana konsolidasi atau penggabungan ulang dan keduanya akan tetap dikelola terpisah. Perjanjian kerja sama dengan Dealer Partisipan untuk setiap produk ETF juga tidak berakhir akibat penggabungan, karena hak dan kewajibannya beralih karena hukum kepada PT Danareksa Investment Management Indonesia sebagai entitas penerima penggabungan. Penyesuaian perjanjian, jika diperlukan, hanya bersifat administratif terkait perubahan nama manajer investasi. Perusahaan juga mengungkapkan susunan direksi baru yakni Hardiyanto Pilia sebagai Direktur Keuangan & Operasi dan Pelaksana Tugas Direktur Utama, Arief Budiman sebagai Direktur Pemasaran & Produk, Ari Adil sebagai Direktur Investasi, dan Ade S. Djajanegara sebagai Direktur Manajemen Risiko & Kepatuhan, serta dewan komisaris yang terdiri dari Frankie E.L. Tinangon sebagai Komisaris Utama & Komisaris Independen, Sumariyandono, Riyanto Prabowo, dan Tjut Andjani Yuzar sebagai Komisaris Independen. Posisi Tinangon baru efektif setelah mendapat persetujuan uji kemampuan dan kepatutan dari OJK."
+  ],
+  "fotoAdegan": "Stacked gold bars arranged in neat rows inside a bank vault, dim lighting reflecting off their polished surfaces, close focus.",
+  "takeaway": "Laporan ini netral bagi XDIF karena isinya menegaskan kelangsungan pengelolaan BRI ETF Indonesia TOP 40 tanpa perubahan kebijakan investasi, sementara risiko yang diungkap menyasar dua produk saudara, bukan XDIF sendiri. Yang disorot adalah Nilai Aktiva Bersih (NAB), yaitu total dana kelola dibagi jumlah unit yang mencerminkan besar kecilnya sebuah reksa dana; aturan OJK mewajibkan pembubaran kalau NAB sebuah reksa dana tetap di bawah Rp10 miliar selama 120 hari bursa berturut-turut, dan Reksa Dana Indeks Mandiri ETF LQ45 serta Reksa Dana Syariah BRI MI Gold ETF Syariah sudah masuk kondisi itu per akhir Oktober 2026. Pelaku pasar perlu memantau apakah Danareksa berhasil menaikkan NAB Gold Syariah lewat sosialisasi yang disebutkan, atau kedua produk itu justru bergerak ke arah pembubaran paksa bila ambang 120 hari bursa benar-benar terpenuhi. Susunan direksi dan komisaris baru akibat penggabungan juga masih menunggu persetujuan fit and proper test OJK untuk posisi Komisaris Utama, sehingga belum final.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "xdes-nab-di-bawah-rp10-m-per-30-okt-risiko-bubar-jika-berlanjut",
+  "category": "Aksi Korporasi",
+  "title": "XDES: NAB di Bawah Rp10 M per 30 Okt, [Risiko] Bubar jika Berlanjut",
+  "deck": "Manajer investasi menyatakan NAB reksa dana ETF emas syariah XDES sudah di bawah Rp10 miliar per 30 Oktober 2026, memicu risiko pembubaran wajib jika berlanjut 120 hari bursa.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T22:34:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XDES_E023A_566ec473-2d47-4f83-bf0f-88f0741ed305-20261123223437.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XDES",
+  "tags": [
+   "XDES",
+   "ETF Emas Syariah",
+   "Danareksa Investment Management",
+   "NAB Reksa Dana"
+  ],
+  "body": [
+   "PT Danareksa Investment Management Indonesia, manajer investasi pengelola reksa dana ETF XDES, menyampaikan kepada Bursa Efek Indonesia bahwa Nilai Aktiva Bersih (NAB) reksa dana ini sudah berada di bawah Rp10 miliar berdasarkan data per 30 Oktober 2026. Berdasarkan Pasal 45 huruf d Peraturan OJK Nomor 23/POJK.04/2016, reksa dana wajib dibubarkan apabila NAB-nya tetap di bawah Rp10 miliar selama 120 hari bursa berturut-turut. Manajer investasi menyatakan akan terus memantau perkembangan NAB XDES dan melakukan upaya pengembangan produk, termasuk sosialisasi dan penjajakan ke investor potensial, sambil tetap mengikuti ketentuan yang berlaku bila ambang batas itu terlampaui. Reksa Dana Indeks Mandiri ETF LQ45, produk lain yang dikelola manajer investasi ini, juga tercatat memiliki NAB di bawah Rp10 miliar pada tanggal yang sama.",
+   "Surat ini merupakan tanggapan atas permintaan penjelasan Bursa Nomor S-14278/BEI.PPU/11-2026 yang terbit menyusul penggabungan manajer investasi yang menghasilkan PT Danareksa Investment Management Indonesia, yang sebelumnya bernama PT Mandiri Manajemen Investasi, sebagai entitas penerima penggabungan. Danareksa IM menegaskan penggabungan ini tidak menghentikan atau mengganggu pengelolaan lima produk ETF yang kini di bawah naungannya, yaitu Reksa Dana BRI ETF Indonesia Top 40, Reksa Dana Indeks Mandiri ETF LQ45, Reksa Dana Indeks Mandiri ETF SRI-Kehati, Reksa Dana Syariah BRI MI Gold ETF Syariah (XDES), dan Reksa Dana Syariah Mandiri ETF Emas, yang semuanya berstatus aktif. Perjanjian kerja sama dengan para Dealer Partisipan juga tetap berlaku karena hak dan kewajibannya beralih secara hukum ke entitas hasil penggabungan, tanpa mengubah penunjukan pihak yang sudah ada. Meski XDES dan XMES sama-sama ETF berbasis emas, manajer investasi menyatakan belum punya rencana mengonsolidasikan atau menggabungkan kedua produk tersebut dan akan tetap mengelolanya secara terpisah.",
+   "Terkait susunan pengurus, Danareksa IM mengungkapkan adanya perubahan pada jajaran Direksi dan Dewan Komisaris sebagai bagian dari proses penggabungan. Direksi saat ini terdiri dari Hardiyanto Pilia sebagai Direktur Keuangan dan Operasi sekaligus Pelaksana Tugas Direktur Utama, Arief Budiman sebagai Direktur Pemasaran dan Produk, Ari Adil sebagai Direktur Investasi, serta Ade S. Djajanegara sebagai Direktur Manajemen Risiko dan Kepatuhan. Dewan Komisaris diisi oleh Frankie E.L. Tinangon sebagai Komisaris Utama dan Komisaris Independen yang baru efektif setelah lolos uji kemampuan dan kepatutan OJK, Sumariyandono dan Riyanto Prabowo sebagai Komisaris, serta Tjut Andjani Yuzar sebagai Komisaris Independen. Surat ditandatangani secara elektronik oleh Hardiyanto Pilia."
+  ],
+  "fotoAdegan": "Small gold bars stacked inside a bank vault, soft overhead lighting, a clerk's gloved hands nearby, no visible text.",
+  "takeaway": "Laporan ini condong negatif bagi pemegang unit XDES, karena NAB-nya sudah di bawah ambang Rp10 miliar yang menjadi batas wajib pembubaran menurut aturan OJK, bukan sekadar catatan administratif. NAB adalah nilai total aset reksa dana dikurangi kewajibannya, semacam ukuran seberapa besar dana yang dikelola; kalau nilainya terlalu kecil, biaya pengelolaan jadi tidak lagi sepadan dan OJK mewajibkan pembubaran demi melindungi investor dari produk yang tidak ekonomis. Yang perlu dipantau adalah apakah NAB XDES bisa naik kembali ke atas Rp10 miliar sebelum genap 120 hari bursa sejak posisi 30 Oktober 2026, karena kalau tidak, pembubaran reksa dana ini menjadi wajib dilakukan. Produk sejenis, Reksa Dana Indeks Mandiri ETF LQ45, menghadapi risiko serupa dan layak diikuti bersamaan. Efektifnya pengangkatan komisaris baru setelah lolos uji OJK juga masih menanti kepastian, meski dampaknya tidak langsung ke kinerja dana.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-30",
+    "acara": "Data NAB XDES tercatat di bawah Rp10 miliar"
+   }
+  ]
+ },
+ {
   "slug": "rupslb-asha-19-nov-direksi-komisaris-diangkat-kembali-5-tahun",
   "category": "Aksi Korporasi",
   "title": "RUPSLB ASHA 19 Nov: Direksi-Komisaris [Diangkat Kembali] 5 Tahun",
@@ -614,6 +755,33 @@ var ARTICLES = [
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
  },
  {
+  "slug": "okas-soal-volatilitas-saham-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "OKAS Soal Volatilitas Saham: [Tak Ada] Informasi Material",
+  "deck": "Bursa Efek Indonesia meminta penjelasan OKAS soal volatilitas transaksi sahamnya. Perseroan menyatakan tidak mengetahui informasi material maupun rencana pemegang saham utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:56:28",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_OKAS_E023A_5e8e1c24-19c1-46d4-9b5b-8f31f0876ac4-20261123175630.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OKAS",
+  "tags": [
+   "OKAS",
+   "Ancora Indonesia Resources",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Ancora Indonesia Resources Tbk (OKAS) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat Nomor S-14413/BEI.PP2/11-2026 terkait volatilitas transaksi sahamnya. Jawaban resmi disampaikan pada 23 November 2026 dan ditandatangani oleh F Bernadeth Conny Ponto selaku perwakilan perusahaan.",
+   "Dalam suratnya, Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi harga sahamnya, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, maupun Peraturan I-E Bursa. Perseroan juga mengaku tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham.",
+   "Terkait rencana ke depan, Perseroan menegaskan belum memiliki rencana tindakan korporasi yang disetujui dalam tiga bulan mendatang yang akan berdampak pada pencatatan sahamnya di Bursa. Pemegang saham utama perusahaan juga disebut tidak memiliki rencana apa pun terkait kepemilikan sahamnya hingga tanggal surat ini diterbitkan."
+  ],
+  "fotoAdegan": "Exterior of a modern stock exchange tower in Jakarta's business district, pedestrians walking past glass facade at midday",
+  "takeaway": "Penjelasan ini netral bagi OKAS: isinya murni bantahan formal tanpa fakta baru, jadi tidak ada dasar untuk membaca sinyal positif atau negatif terhadap fundamental perusahaan. Surat semacam ini terbit karena Bursa mendeteksi pergerakan harga atau volume transaksi saham yang di luar kebiasaan, yang disebut volatilitas tidak wajar, dan meminta emiten mengonfirmasi apakah ada informasi tersembunyi di baliknya, karena pasar perlu tahu apakah lonjakan harga didasari fakta nyata atau sekadar spekulasi. Dokumen ini tidak menyentuh pos kinerja keuangan apa pun, baik ekuitas, arus kas, maupun laba per saham, karena sifatnya memang kepatuhan terhadap aturan keterbukaan, bukan transaksi korporasi. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham OKAS mereda setelah penjelasan ini, atau apakah Bursa kembali mengirim permintaan serupa jika volatilitas berlanjut, mengingat belakangan OKAS juga baru merilis kinerja sembilan bulan dan menyelesaikan pengalihan saham Bormindo yang bisa jadi menarik perhatian pasar.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
   "slug": "okas-9m26-laba-bersih-pulih-jadi-us-2-5-juta-ebitda-20",
   "category": "Aksi Korporasi",
   "title": "OKAS 9M26: Laba Bersih [Pulih] jadi US$2,5 Juta, EBITDA -20%",
@@ -640,6 +808,168 @@ var ARTICLES = [
   "takeaway": "Materi ini netral bagi OKAS: pendapatan sembilan bulan nyaris stagnan dan EBITDA turun 20 persen dibanding tahun lalu karena margin tergerus, tapi laba bersih justru berbalik dari rugi dan performa kuartal III jelas membaik dibanding kuartal II, jadi sinyalnya campur aduk, bukan mengarah tegas ke satu arah. Yang disentuh di sini adalah margin laba kotor, EBITDA (laba operasional sebelum bunga, pajak, dan penyusutan, ukuran yang dipakai pasar untuk menilai kesehatan bisnis inti tanpa gangguan biaya pembiayaan), dan rasio utang terhadap modal yang justru mengecil, artinya beban utang perusahaan terhadap modalnya makin ringan meski laba operasionalnya turun. Investor juga perlu mencermati bahwa segmen jasa peledakan kini menyumbang lebih dari sepertiga pendapatan, jadi kelangsungan kontrak-kontrak barunya yang berjalan hingga 2029-2030 akan menentukan arah pendapatan jangka panjang. Yang perlu dipantau berikutnya adalah apakah tren perbaikan kuartal III berlanjut saat laporan kinerja penuh tahun 2026 dipublikasikan, serta kelanjutan rencana divestasi bisnis migas yang disebut akan menambah ruang modal, mengingat perusahaan baru saja melepas mayoritas sahamnya di Bormindo Nusantara untuk melunasi utang.",
   "sentimen": "netral",
   "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "xmgb-unit-penyertaan-berkurang-5-juta-jadi-49-juta",
+  "category": "Aksi Korporasi",
+  "title": "XMGB: Unit Penyertaan [Berkurang] 5 Juta Jadi 49 Juta",
+  "deck": "Unit penyertaan Reksa Dana Majoris Government Bonds ETF Indonesia (XMGB) turun dari 54 juta menjadi 49 juta unit pada 23 November 2026 setelah penarikan 5 juta unit.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:47:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XMGB_E019_e2cd0d89-ada6-42e8-8181-9e1b493a4e6d-20261123174758.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMGB",
+  "tags": [
+   "XMGB",
+   "ETF",
+   "reksa dana",
+   "obligasi pemerintah"
+  ],
+  "body": [
+   "Reksa Dana Majoris Government Bonds ETF Indonesia dengan kode XMGB melaporkan keterbukaan informasi fakta material bahwa jumlah unit penyertaan yang beredar berkurang dari 54.000.000 unit menjadi 49.000.000 unit per 23 November 2026. Penurunan terjadi karena ada pengurangan atau pencairan (redemption) sebanyak 5.000.000 unit, sementara tidak ada penambahan unit baru pada periode yang sama.",
+   "Laporan yang ditandatangani secara elektronik oleh Adrian Roza ini tidak merinci pihak yang melakukan penarikan unit maupun alasan di baliknya. Kolom mengenai dampak kejadian terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha dibiarkan kosong dalam dokumen, sehingga manajer investasi tidak memberikan penjelasan tambahan atas perubahan ini."
+  ],
+  "fotoAdegan": "Fixed income traders working quietly at a trading desk with blurred monitors, soft morning light in a Jakarta office",
+  "takeaway": "Penilaian saya condong netral, karena penyusutan unit penyertaan ini adalah mekanisme rutin pencairan pada produk ETF, bukan cerminan buruknya kinerja obligasi pemerintah yang menjadi dasar portofolionya, meski besarannya, sekitar 9,3 persen dari total unit sebelumnya, cukup signifikan untuk dicermati. Yang tersentuh di sini adalah jumlah unit beredar, semacam jumlah saham beredar pada ETF, yang berkaitan langsung dengan ukuran dana kelolaan alias total aset yang dipegang manajer investasi atas nama seluruh pemegang unit. Ketika unit ditarik keluar, aset yang dikelola otomatis mengecil karena manajer investasi harus mencairkan sebagian portofolio obligasi untuk membayar penarikan tersebut. Dokumen ini tidak mencantumkan tanggal atau agenda lanjutan apa pun, sehingga yang perlu dipantau adalah apakah laporan serupa muncul lagi dalam waktu dekat, yang akan menunjukkan apakah tren penarikan unit ini berlanjut atau berhenti.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "ccsi-dirikan-anak-usaha-telekomunikasi-modal-disetor-rp9-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CCSI Dirikan [Anak Usaha] Telekomunikasi, Modal Disetor Rp9 Miliar",
+  "deck": "CCSI membentuk anak usaha PT Varuna Konektivitas Digital di bidang infrastruktur telekomunikasi, modal disetor Rp9 miliar, 99,99 persen dimiliki CCSI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:46:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_CCSI_E019_b1379a91-7f29-48c8-8c53-25acfeca7e07-20261123174620.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CCSI",
+  "tags": [
+   "CCSI",
+   "anak usaha",
+   "telekomunikasi",
+   "korporasi"
+  ],
+  "body": [
+   "PT Communication Cable Systems Indonesia Tbk (CCSI) mendirikan anak usaha baru bernama PT Varuna Konektivitas Digital berdasarkan Akta Pendirian No. 200 yang dibuat di hadapan notaris Christina Dwi Utami di Jakarta Barat, dengan tanggal kejadian 19 November 2026. Perusahaan baru ini berkedudukan di Jakarta Selatan dan bergerak di bidang konstruksi sentral telekomunikasi, pemasangan jaringan telekomunikasi, aktivitas telekomunikasi berbasis kabel, jasa gerbang akses internet atau Network Access Point, serta aktivitas sebagai perusahaan holding.",
+   "Modal dasar PT Varuna Konektivitas Digital ditetapkan Rp36 miliar atau 3,6 juta lembar saham, dengan modal disetor dan ditempatkan sebesar Rp9 miliar atau 900 ribu lembar saham dengan nilai nominal Rp10.000 per lembar. Dari jumlah itu, CCSI memegang 899.900 lembar saham senilai Rp8,999 miliar, setara 99,99 persen kepemilikan, sementara sisanya 100 lembar saham senilai Rp1 juta dipegang oleh Peter Djatmiko. CCSI menyebut alasan pembentukan anak usaha ini adalah untuk menunjang kegiatan usaha perseroan.",
+   "Dalam surat keterbukaan yang ditandatangani Corporate Secretary Giovano Matindas Sumakul, CCSI menyatakan pembentukan anak usaha ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ini disampaikan ke OJK sebagai pemenuhan POJK 31/2015 tentang Keterbukaan Informasi atas Fakta Material dan Peraturan I-E Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables along utility poles in a quiet urban street, overcast afternoon light.",
+  "takeaway": "Laporan ini netral bagi CCSI: perusahaan sendiri menyebut pembentukan anak usaha tidak berdampak material, dan modal disetor Rp9 miliar tergolong kecil dibanding skala aksi korporasi yang biasanya menggerakkan harga saham. Dana Rp8,999 miliar yang disuntikkan CCSI ke anak usaha ini keluar dari kas perseroan sebagai penyertaan modal, jadi yang tersentuh adalah arus kas investasi dan ekuitas perusahaan induk, bukan jumlah saham beredar CCSI di publik maupun laba per sahamnya. Bidang usaha anak baru ini, konstruksi jaringan telekomunikasi dan gerbang akses internet, sejalan dengan bisnis utama CCSI di kabel serat optik, jadi langkah ini lebih terlihat sebagai perluasan ke jasa pemasangan jaringan ketimbang diversifikasi ke bisnis baru. Dokumen ini tidak menyebut tanggal operasional anak usaha dimulai atau target kontribusi pendapatan, sehingga yang perlu dipantau berikutnya adalah kapan PT Varuna Konektivitas Digital mulai beroperasi dan apakah kontribusinya muncul di laporan keuangan konsolidasi CCSI pada periode mendatang.",
+  "sentimen": "netral",
+  "peristiwa": "akuisisi",
+  "judulIdx": "Penggabungan usaha, pemisahan usaha, peleburan usaha, atau pembentukan usaha patungan"
+ },
+ {
+  "slug": "public-expose-lion-26-nov-revisi-penjualan-2026-turun-44-5",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose LION 26 Nov: [Revisi] Penjualan 2026 Turun 44,5%",
+  "deck": "Lion Metal Works (LION) memangkas target penjualan 2026 dari Rp468 miliar jadi Rp259,6 miliar dan kini memproyeksikan rugi tahun berjalan, bukan laba seperti target awal.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:39:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_LION_E003_5d8e38e4-4790-41a8-b976-d29be27d71d1-20261123173924.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LION",
+  "tags": [
+   "LION",
+   "Lion Metal Works",
+   "Public Expose",
+   "Revisi Target Usaha"
+  ],
+  "body": [
+   "PT Lion Metal Works Tbk (LION) merevisi target penjualan tahun 2026 dalam materi Public Expose Tahunan yang disampaikan ke Bursa Efek Indonesia, menjelang acara public expose yang digelar 26 November 2026. Manajemen memangkas target penjualan penuh tahun dari Rp468 miliar menjadi Rp259,6 miliar, turun Rp208,4 miliar atau sekitar 44,5 persen. Target laba tahun berjalan yang semula dipatok Rp20,8 miliar juga direvisi menjadi proyeksi rugi Rp32 miliar, selisih Rp52,8 miliar dari rencana awal.",
+   "Revisi ini dilakukan setelah realisasi sembilan bulan pertama 2026 jauh di bawah rencana. Hingga akhir September 2026, penjualan Lion Metal Works baru mencapai Rp178,8 miliar, sementara perusahaan sudah membukukan rugi usaha Rp36,45 miliar dan rugi tahun berjalan Rp31,6 miliar. Akibatnya, ekuitas perusahaan turun dari Rp472,1 miliar pada akhir Desember 2025 menjadi Rp440,5 miliar pada akhir September 2026, sejalan dengan total aset yang menyusut dari Rp624,8 miliar menjadi Rp595,5 miliar pada periode yang sama.",
+   "Manajemen menyebut sejumlah faktor di balik pelemahan ini: banjir produk impor baja murah yang mencapai 7 juta ton hingga Agustus 2026 akibat kelebihan kapasitas baja dunia, utilisasi pabrik baja nasional yang tertahan di kisaran 43 sampai 57 persen, pelemahan sektor properti yang menekan permintaan pintu tahan api (fire door), serta perlambatan proyek kilang dan pembangkit listrik yang menekan penjualan produk cable ladder. Perusahaan menyiapkan Project Recovery Program untuk proyek yang tertunda serta strategi harga dan efisiensi biaya untuk merespons kondisi ini. Dalam proyeksi bulanan, manajemen memperkirakan kinerja operasional mulai positif pada November dan Desember 2026, setelah masih merugi Rp851 juta di Oktober."
+  ],
+  "fotoAdegan": "Workers assembling steel filing cabinets and lockers on an industrial factory floor under bright overhead lights",
+  "takeaway": "Laporan ini condong negatif bagi fundamental Lion Metal Works, karena perusahaan sendiri mengakui target awal 2026 tidak mungkin tercapai dan memangkas proyeksi penjualan hampir separuh sambil mengubah target laba jadi rugi. Pos yang paling tersentuh adalah ekuitas, yakni kekayaan bersih milik pemegang saham, yang susut Rp31,6 miliar dalam sembilan bulan karena langsung terpotong oleh rugi yang dibukukan perusahaan. Investor juga perlu mencermati arus kas operasional, sebab permintaan yang melambat dan proyek yang tertunda bisa memperlambat uang kas masuk dari penjualan. Yang perlu dipantau berikutnya adalah paparan publik tanggal 26 November 2026, di mana manajemen kemungkinan menjelaskan lebih rinci rencana pemulihan, serta realisasi kinerja Oktober hingga Desember 2026 dibandingkan target yang sudah direvisi.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Pelaksanaan Public Expose Tahunan 2026"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-rupsu-wika-mundur-ke-14-16-desember-bahas-gagal-bayar",
+  "category": "Aksi Korporasi",
+  "title": "RUPO-RUPSU WIKA Mundur ke 14-16 Desember, Bahas [Gagal Bayar]",
+  "deck": "WIKA menjadwalkan ulang rapat pemegang obligasi dan sukuk ke 14-16 Desember 2026 untuk membahas gagal bayar bunga dan bagi hasil di beberapa seri surat utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:36:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_59c4055c-0619-416a-86f8-e9c3800c3a6a-20261123173601.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "sukuk mudharabah",
+   "gagal bayar"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk menyampaikan bukti iklan ralat pengumuman dan panggilan Rapat Umum Pemegang Obligasi (RUPO) serta Rapat Umum Pemegang Sukuk Mudharabah (RUPSU) kepada Otoritas Jasa Keuangan pada 23 November 2026. Wali amanat PT Bank Mega Tbk mengubah jadwal tiga rapat yang semula ditetapkan pada 7 dan 9 Desember 2026 menjadi 14, 15, dan 16 Desember 2026, seluruhnya bertempat di WIKA Tower 2, Jakarta Timur, dan diselenggarakan atas permintaan wali amanat sendiri.",
+   "RUPSU Sukuk Mudharabah Berkelanjutan II Tahap I Tahun 2021 pindah ke Senin, 14 Desember 2026 pukul 09.00 WIB dari semula 7 Desember. Agendanya meminta penjelasan WIKA soal kelalaian membayar Pendapatan Bagi Hasil ke-20 untuk Seri B dan Seri C, serta kelalaian mengembalikan dana sukuk Seri B. RUPO Obligasi Berkelanjutan II Tahap I Tahun 2021 pindah ke Rabu, 16 Desember 2026 pukul 09.00 WIB dari semula Senin 7 Desember, dengan agenda penjelasan gagal bayar Bunga ke-20 Seri B dan C serta gagal lunasi Pokok Obligasi Seri B. Sementara RUPSU Sukuk Mudharabah Berkelanjutan I Tahap I Tahun 2020 pindah ke Selasa, 15 Desember 2026 pukul 14.00 WIB dari semula Rabu 9 Desember, membahas gagal bayar Pendapatan Bagi Hasil ke-22 Seri B dan ke-23 Seri C.",
+   "Dalam ketiga rapat itu, pemegang obligasi dan sukuk juga akan menentukan sikap atas usulan WIKA terkait kelalaian pembayaran tersebut. Rapat sah apabila dihadiri pemegang surat utang yang mewakili minimal tiga perempat dari jumlah obligasi atau sukuk yang belum dilunasi, dan keputusan mengikat bila disetujui minimal tiga perempat dari yang hadir. Surat yang sama juga menyebut dua seri sukuk dan satu seri obligasi lain, yakni Sukuk Mudharabah Berkelanjutan II Tahap II 2022, Sukuk Mudharabah Berkelanjutan III Tahap I 2022, dan Obligasi Berkelanjutan II Tahap II 2022, yang rapatnya juga digelar pada rentang 14 sampai 16 Desember 2026, tanpa rincian agenda dalam dokumen ini."
+  ],
+  "fotoAdegan": "Construction workers walking across a steel bridge framework at a highway overpass project, cranes in hazy afternoon sky.",
+  "takeaway": "Laporan ini negatif bagi WIKA karena menegaskan kelalaian pembayaran menjalar ke beberapa seri obligasi dan sukuk sekaligus, bukan satu instrumen tunggal, dan jadwal penyelesaiannya justru mundur lebih dari sepekan dari rencana awal. Yang tersentuh adalah arus kas, yaitu uang yang masuk dan keluar dari kas perusahaan untuk membayar bunga dan bagi hasil tepat waktu, karena kegagalan berulang membayar pos ini biasanya jadi sinyal perusahaan sedang kesulitan likuiditas sehingga pemegang surat utang perlu memutuskan apakah menerima usulan penyelesaian dari perusahaan atau menuntut jalur lain. Yang perlu dipantau berikutnya adalah hasil RUPSU 14 Desember 2026, RUPO 16 Desember 2026, dan RUPSU 15 Desember 2026, karena di situlah pemegang obligasi dan sukuk akan memutuskan sikap mereka atas kelalaian WIKA ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-14",
+    "acara": "RUPSU Sukuk Mudharabah Berkelanjutan II Tahap I 2021 bahas gagal bayar"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "RUPSU Sukuk Mudharabah Berkelanjutan I Tahap I 2020 bahas gagal bayar"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPO Obligasi Berkelanjutan II Tahap I 2021 bahas gagal bayar"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-wika-obligasi-ii-tahap-i-ralat-mundur-ke-16-desember",
+  "category": "Aksi Korporasi",
+  "title": "RUPO WIKA Obligasi II Tahap I [Ralat]: Mundur ke 16 Desember",
+  "deck": "WIKA mengubah jadwal RUPO pemegang Obligasi Berkelanjutan II Tahap I 2021 dari 7 menjadi 16 Desember 2026, membahas kelalaian bayar bunga dan pokok Seri B dan C.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T17:34:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_WIKA_E019_60169934-ece7-4783-b7a2-de878bbcb1e0-20261123173446.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIKA",
+  "tags": [
+   "WIKA",
+   "obligasi",
+   "gagal bayar",
+   "RUPO"
+  ],
+  "body": [
+   "PT Wijaya Karya (Persero) Tbk (WIKA) menerbitkan ralat atas pengumuman kepada pemegang Obligasi Berkelanjutan II WIKA Tahap I Tahun 2021 yang sebelumnya dimuat di harian Terbit pada 9 November 2026. Wali amanat, PT Bank Mega Tbk, mengubah tanggal Rapat Umum Pemegang Obligasi (RUPO) dari semula Senin, 7 Desember 2026, menjadi Rabu, 16 Desember 2026, pukul 09.00 WIB di WIKA Tower 2, Jl. D.I. Panjaitan Kavling 9-10, Jakarta Timur.",
+   "Agenda RUPO ini adalah penjelasan WIKA terkait kelalaian atas dua kewajiban: pembayaran bunga ke-20 Obligasi Berkelanjutan II Tahap I 2021 Seri B dan Seri C, serta pelunasan pokok obligasi Seri B. WIKA juga akan mengajukan usulan penyelesaian atas kelalaian tersebut, dan pemegang obligasi akan menentukan sikap mereka menerima atau menolak usulan itu dalam rapat yang sama. RUPO ini digelar atas permintaan PT Bank Mega Tbk selaku wali amanat, bukan inisiatif WIKA sendiri.",
+   "Hak hadir dan hak suara dalam RUPO ditentukan berdasarkan Daftar Pemegang Rekening yang diterbitkan KSEI empat hari kerja sebelum rapat. Rapat dinyatakan sah bila dihadiri pemegang obligasi yang mewakili minimal tiga per empat dari jumlah obligasi yang belum dilunasi, dan keputusan sah bila disetujui minimal tiga per empat dari obligasi yang hadir. Obligasi yang dimiliki WIKA sendiri atau afiliasinya tidak memiliki hak suara, kecuali afiliasi itu terjadi karena kepemilikan pemerintah."
+  ],
+  "fotoAdegan": "Exterior of an office tower construction site in Jakarta with scaffolding and cranes under overcast afternoon sky",
+  "takeaway": "Laporan ini negatif bagi WIKA karena RUPO ini lahir dari permintaan wali amanat akibat perseroan tidak membayar bunga ke-20 dan gagal melunasi pokok salah satu seri obligasinya, bukan sekadar jadwal ulang rapat biasa. Yang tersentuh adalah arus kas perusahaan, yakni kemampuan WIKA menyediakan uang tunai tepat waktu untuk membayar kewajiban utangnya, serta beban bunga yang terus berjalan selama kelalaian ini belum diselesaikan. Pemegang obligasi dalam RUPO ini akan menentukan sikap atas usulan penyelesaian yang diajukan WIKA, sehingga syarat kuorum kehadiran minimal tiga per empat dari obligasi yang belum lunas menjadi penentu apakah keputusan bisa diambil sama sekali. Yang perlu dipantau berikutnya adalah hasil RUPO pada 16 Desember 2026, karena di sanalah pemegang obligasi memutuskan apakah usulan penyelesaian WIKA diterima atau ditolak.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPO Obligasi Berkelanjutan II WIKA Tahap I 2021, bahas gagal bayar bunga-pokok"
+   }
+  ]
  },
  {
   "slug": "ijee-direktur-utama-hendrik-tee-mundur-rups-90-hari",
@@ -26919,8 +27249,8 @@ var ARTICLES = [
  {
   "slug": "futr-jadwalkan-rupslb-14-desember-agenda-belum-diumumkan",
   "category": "Aksi Korporasi",
-  "title": "FUTR Jadwalkan [RUPSLB] 14 Desember, Agenda Belum Diumumkan",
-  "deck": "FUTR menjadwalkan RUPSLB elektronik pada 14 Desember 2026. Pemegang saham yang tercatat per 19 November berhak hadir, sementara agenda rapat belum diumumkan.",
+  "title": "RUPSLB FUTR 14 Desember: [Agenda] Tambah Usaha dan Ganti Direksi",
+  "deck": "FUTR mengumumkan agenda resmi RUPSLB 14 Desember 2026: persetujuan penambahan kegiatan usaha sesuai KBLI 2025 dan perubahan susunan direksi. Pemanggilan resmi diterbitkan 20 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "5 November 2026",
   "isoDate": "2026-11-05T21:55:40",
@@ -26930,17 +27260,41 @@ var ARTICLES = [
   "tags": [
    "FUTR",
    "RUPSLB",
-   "tata kelola",
-   "pasar modal"
+   "Direksi",
+   "KBLI 2025"
   ],
   "body": [
-   "PT Futura Energi Global Tbk (FUTR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 14 Desember 2026 pukul 11:00 WIB. Rapat akan diadakan secara elektronik lewat Electronic General Meeting System milik PT Kustodian Sentral Efek Indonesia (eASY.KSEI), sesuai aturan OJK soal pelaksanaan RUPS perusahaan terbuka secara elektronik. Pemegang saham bisa hadir dan memberikan suara langsung secara daring atau melalui kuasa elektronik.",
-   "Perseroan menetapkan Kamis, 19 November 2026 pukul 16:00 WIB sebagai batas waktu pencatatan pemegang saham yang berhak hadir atau diwakili dalam rapat. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan pada Jumat, 20 November 2026, lewat situs e-RUPS, situs Bursa Efek Indonesia, dan situs perusahaan. Dokumen ini sendiri belum menyebut satu pun agenda atau keputusan yang akan dibahas dalam RUPSLB tersebut.",
-   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara, dengan syarat usulan itu memenuhi Pasal 16 POJK No. 15/POJK.04/2020 dan disampaikan ke Direksi paling lambat tujuh hari sebelum tanggal pemanggilan resmi, yakni sekitar 13 November 2026. Surat pemberitahuan ini merujuk pada surat sebelumnya bernomor 091/FUTR-OJK/RUPS/X/2026, namun isi surat rujukan tersebut tidak disertakan dalam dokumen yang diterbitkan hari ini."
+   "PT Futura Energi Global Tbk (FUTR) akhirnya mengumumkan agenda resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 14 Desember 2026 pukul 11:00 WIB. Lewat pemanggilan resmi yang diterbitkan 20 November 2026, perseroan menyebut dua mata acara: persetujuan penambahan kegiatan usaha termasuk perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, serta perubahan susunan Direksi Perseroan.",
+   "Rapat akan berlangsung di Gedung GrahaParama, Jalan KH Achmad Dahlan No. 69 A-B, Kramat Pela, Kebayoran Baru, Jakarta Selatan, dengan pilihan hadir secara fisik atau elektronik lewat Electronic General Meeting System milik PT Kustodian Sentral Efek Indonesia (eASY.KSEI). Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per penutupan perdagangan 19 November 2026.",
+   "RUPSLB ini sebelumnya hanya diumumkan sebatas jadwal pada awal November, tanpa agenda, sehingga pasar belum bisa menilai dampaknya. Rencana ini muncul tidak lama setelah FUTR melaporkan rugi bersih Rp7,75 miliar dengan pendapatan yang susut 64 persen, sehingga penambahan lini usaha dan pergantian direksi bisa dibaca sebagai bagian dari upaya perseroan menata ulang arah bisnis."
   ],
   "fotoAdegan": "Empty corporate boardroom in a Jakarta office tower with a video conferencing camera on the table and city skyline through large windows, soft morning light",
-  "takeaway": "Pengumuman ini netral bagi FUTR karena isinya baru soal jadwal dan mekanisme rapat, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya terhadap fundamental perusahaan. Karena mata acara belum dibuka, belum bisa dipastikan pos kinerja mana yang akan tersentuh, misalnya apakah nanti menyangkut penambahan jumlah saham beredar yang bisa mengecilkan laba per saham, atau justru soal permodalan yang menambah ekuitas; itu baru akan jelas begitu agendanya diumumkan. RUPSLB ini juga datang tidak lama setelah FUTR melaporkan rugi bersih Rp7,75 miliar dengan pendapatan yang susut 64 persen, sehingga pasar kemungkinan akan menyimak apakah agenda rapat nanti berkaitan dengan respons atas kinerja tersebut. Yang perlu dipantau selanjutnya adalah pemanggilan resmi berisi mata acara pada Jumat, 20 November 2026, serta batas pencatatan pemegang saham pada Kamis, 19 November 2026 pukul 16:00 WIB sebelum rapat digelar pada 14 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi FUTR karena agenda yang dibuka, yaitu penambahan izin usaha dan pergantian direksi, belum menyertakan satu angka pun yang bisa dihitung dampaknya ke kantong pemegang saham. Tidak ada pos ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang langsung tersentuh dari dua agenda ini, karena keduanya soal izin usaha dan susunan pengurus, bukan soal modal atau utang. Penambahan lini usaha baru memang bisa membuka sumber pendapatan tambahan kalau benar dieksekusi, sementara pergantian direksi bisa mengubah arah strategi perseroan tergantung siapa yang masuk menggantikan siapa, tapi dokumen ini belum menyebut nama. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 14 Desember 2026 pukul 11:00 WIB, terutama nama direksi baru dan rincian lini usaha yang disetujui, karena di situlah baru bisa dinilai apakah langkah ini benar mengubah fundamental perseroan yang belakangan mencatat rugi bersih Rp7,75 miliar.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T23:44:35",
+    "ringkas": "FUTR mengumumkan agenda RUPSLB 14 Desember: penambahan usaha sesuai KBLI 2025 dan pergantian direksi.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_FUTR_E002_9e9eb77d-ce1e-466a-aa4d-878d43a32fbc-20261123234436.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-23T23:44:35",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-19",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Pemanggilan resmi RUPSLB diterbitkan"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "RUPSLB membahas penambahan usaha dan pergantian direksi"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "ahy-proyek-air-limbah-pluit-tekan-ekstraksi-air-tanah",
@@ -27024,8 +27378,8 @@ var ARTICLES = [
  {
   "slug": "pgjo-dirikan-anak-usaha-energi-lestari-cemerlang",
   "category": "Aksi Korporasi",
-  "title": "PGJO Dirikan [Anak Usaha] Energi Lestari Cemerlang",
-  "deck": "PT Bahtera Bumi Raya Tbk mendirikan anak usaha baru, PT Energi Lestari Cemerlang, untuk masuk ke bisnis pengisian daya kendaraan listrik dan sewa alat berat senilai Rp500 juta.",
+  "title": "RUPSLB PGJO 30 Desember: [Pinjaman Afiliasi] Rp200 Miliar Dibahas",
+  "deck": "PGJO akan meminta restu pemegang saham untuk pinjaman Rp200 miliar dari pengendali, sebagian disalurkan ke anak usaha ELC untuk bisnis pengisian daya kendaraan listrik.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "5 November 2026",
   "isoDate": "2026-11-05T20:20:15",
@@ -27034,18 +27388,43 @@ var ARTICLES = [
   "emiten": "PGJO",
   "tags": [
    "PGJO",
-   "anak usaha",
-   "transaksi afiliasi",
-   "kendaraan listrik"
+   "RUPSLB",
+   "Transaksi Afiliasi",
+   "ELC"
   ],
   "body": [
-   "PT Bahtera Bumi Raya Tbk (PGJO) resmi mendirikan anak usaha baru bernama PT Energi Lestari Cemerlang (ELC) yang berkedudukan di Jakarta Selatan. Pendirian ini dituangkan dalam Akta Pendirian No. 05 tanggal 3 November 2026 di hadapan Notaris Arief Yulianto, dan telah disahkan Menteri Hukum Republik Indonesia melalui Surat Keputusan No. AHU-0088791.AH.01.01 Tahun 2026 tertanggal 4 November 2026.",
-   "Modal dasar ELC ditetapkan Rp2 miliar yang terbagi atas 200.000 lembar saham, dengan modal ditempatkan dan disetor penuh sebesar Rp500 juta atau 50.000 lembar saham. Dari jumlah itu, PGJO menguasai 49.999 saham atau 99,998 persen, sementara 1 lembar saham sisanya atau 0,002 persen dipegang oleh individu bernama Willius Wijaya. Susunan pengurus ELC terdiri dari Wang Zhongbang sebagai Komisaris dan Hong Yi sebagai Direktur. Bidang usaha ELC mencakup empat lini: pengoperasian fasilitas atau stasiun pengisian daya kendaraan dan peralatan listrik, penyewaan mesin dan peralatan umum, penyewaan mesin dan peralatan pertambangan serta penggalian, dan pemasangan jaringan listrik.",
-   "Perseroan menjelaskan bahwa penyertaan modal senilai Rp500 juta ini bukan Transaksi Material menurut POJK No. 17/POJK.04/2020 karena nilainya tidak mencapai 20 persen dari total ekuitas Perseroan berdasarkan laporan keuangan per 30 Juni 2026. Namun transaksi ini tetap tergolong Transaksi Afiliasi sesuai POJK No. 42/POJK.04/2020 karena dilakukan antara PGJO dengan perusahaan terkendali yang sahamnya dimiliki hampir seluruhnya oleh PGJO. Karena kepemilikan saham sudah di atas 99 persen, transaksi ini tidak memerlukan persetujuan RUPS maupun jasa penilai independen."
+   "PT Bahtera Bumi Raya Tbk (PGJO) berencana menarik pinjaman senilai Rp200 miliar dari pemegang saham pengendalinya, PT Batu Investasi Indonesia (PT BII). Dana ini akan dipakai untuk investasi dan modal kerja Perseroan serta entitas anaknya. Sebagian dana investasi akan disalurkan lewat PT Energi Lestari Cemerlang (ELC), anak usaha yang baru didirikan PGJO awal November 2026, untuk membiayai bisnis fasilitas pengisian daya kendaraan listrik.",
+   "Karena nilainya setara 7.266,76 persen dari ekuitas Perseroan per 30 Juni 2026, yakni lebih dari 72 kali modal sendiri PGJO yang saat itu hanya Rp2,75 miliar, rencana ini masuk kategori Transaksi Material yang wajib mendapat persetujuan pemegang saham independen dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang dijadwalkan 30 Desember 2026. Transaksi ini juga tergolong Transaksi Afiliasi karena PT BII adalah pihak pengendali PGJO. Penilai independen KJPP Kusnanto & Rekan, lewat penilai Willy D. Kusnanto, menyatakan transaksi pinjaman ini wajar berdasarkan kajian per 20 November 2026. Rencana pencairan pinjaman ditetapkan pada 1 Januari 2027.",
+   "Sebelumnya, pada awal November 2026, PGJO telah mendirikan ELC dengan penyertaan modal awal Rp500 juta untuk masuk ke bisnis pengisian daya kendaraan listrik dan sewa alat berat. Nilai Rp500 juta itu jauh lebih kecil dan ketika itu tidak memerlukan persetujuan RUPS. Rencana pinjaman Rp200 miliar yang baru diumumkan ini merupakan tahap lanjutan yang jauh lebih besar untuk membiayai ekspansi ELC sekaligus menambah modal kerja seluruh grup usaha PGJO.",
+   "Berdasarkan laporan keuangan per 30 Juni 2026, total liabilitas jangka panjang PGJO sudah melonjak menjadi Rp91 miliar dari sebelumnya hanya sekitar Rp1,07 miliar pada akhir 2025, sementara ekuitas Perseroan baru positif Rp2,75 miliar setelah sebelumnya negatif Rp2 miliar. Pendapatan bersih periode itu tercatat Rp144,7 miliar dengan laba bersih Rp4,69 miliar, berbalik dari rugi Rp1,93 miliar pada semester pertama 2025."
   ],
   "fotoAdegan": "Technicians installing an electric vehicle charging post at a new roadside station in a South Jakarta business district, late afternoon light",
-  "takeaway": "Penilaian redaksi atas laporan ini netral: nilai penyertaan modal hanya Rp500 juta dan jauh dari ambang batas material terhadap ekuitas Perseroan, jadi langkah ini belum bisa dibaca sebagai sinyal besar bagi keuangan PGJO, meski membuka lini usaha baru di sektor pengisian daya kendaraan listrik yang sedang berkembang di Indonesia. Pos yang tersentuh adalah ekuitas Perseroan, karena dana Rp500 juta itu berpindah dari kas menjadi penyertaan di anak usaha, sementara arus kas dan laba belum tersentuh karena ELC baru berdiri dan belum punya kegiatan operasional maupun pendapatan. Yang perlu dipantau selanjutnya adalah apakah ELC benar-benar mulai mengoperasikan stasiun pengisian daya atau mendapat kontrak sewa alat berat dalam waktu dekat, sebab dokumen ini hanya mencatat pendirian badan hukumnya per 4 November 2026 tanpa rincian target operasional atau target pendapatan ke depan.",
-  "sentimen": "netral"
+  "takeaway": "Penilaian redaksi atas rencana ini condong negatif: nilai pinjaman Rp200 miliar jauh melampaui ekuitas Perseroan yang hanya Rp2,75 miliar per akhir Juni 2026, sehingga utang baru ini setara lebih dari 72 kali modal sendiri PGJO, sebuah lonjakan beban utang yang besar meski penilai independen menyatakan transaksinya wajar. Pos yang tersentuh adalah rasio utang terhadap ekuitas, yang akan melonjak tajam begitu pinjaman ini cair, dan beban bunga, karena pinjaman biasanya membawa bunga yang mengurangi laba bersih pada periode mendatang; jumlah saham beredar dan laba per saham tidak berubah karena ini murni pinjaman, bukan penerbitan saham baru. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 30 Desember 2026 yang menentukan apakah pemegang saham independen menyetujui pinjaman ini, serta apakah pencairan dana pada 1 Januari 2027 benar terjadi sesuai rencana dan bagaimana ELC merealisasikan investasinya di bisnis pengisian daya kendaraan listrik.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T22:36:26",
+    "ringkas": "PGJO rencanakan pinjaman Rp200 miliar dari pengendali untuk modal kerja dan investasi ELC, RUPSLB digelar 30 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PGJO_E0X1_dd365c11-328d-4bac-9b18-330b7d478e69-20261123223628.pdf",
+    "judulIdx": "Aksi Korporasi - Rencana Transaksi Material Dengan Persetujuan RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-23T22:36:26",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pengumuman RUPSLB kepada pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-30",
+    "acara": "RUPSLB persetujuan pinjaman afiliasi Rp200 miliar"
+   },
+   {
+    "tanggal": "2027-01-01",
+    "acara": "Rencana tanggal pencairan transaksi pinjaman"
+   }
+  ],
+  "peristiwa": "transaksi"
  },
  {
   "slug": "ekonomi-ri-triwulan-iii-tumbuh-5-47-persen",

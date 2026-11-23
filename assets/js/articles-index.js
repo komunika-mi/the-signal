@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dprd-sulsel-minta-maxim-hentikan-program-fokus-berbayar",
+  "category": "Ketenagakerjaan",
+  "title": "DPRD Sulsel Minta Maxim Hentikan Program [Fokus] Berbayar",
+  "deck": "Komisi D DPRD Sulsel keluarkan lima rekomendasi untuk Maxim, termasuk setop program Fokus berbayar dan serahkan dokumen kemitraan ke KPPU, usai RDP soal BPJS pengemudi.",
+  "date": "23 November 2026",
+  "image": "assets/img/bursa-kerja.jpg",
+  "tags": [
+   "KPPU",
+   "Maxim",
+   "mitra pengemudi",
+   "BPJS Ketenagakerjaan"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-makassar-dalami-isu-kemitraan-maxim-dan-pengemudi-online",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "kppu-soroti-usulan-moratorium-pbm-baru-di-tanjung-perak",
+  "category": "Industri",
+  "title": "KPPU [Soroti] Usulan Moratorium PBM Baru di Tanjung Perak",
+  "deck": "KPPU Surabaya mendalami usulan moratorium penerimaan perusahaan bongkar muat baru di Jawa Timur, sembari mengingatkan bahwa pembatasan pasar berisiko mengurangi persaingan usaha.",
+  "date": "23 November 2026",
+  "image": "assets/img/buruh-pabrik.jpg",
+  "tags": [
+   "KPPU",
+   "APBMI",
+   "Tanjung Perak",
+   "bongkar muat"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-surabaya-cermati-usulan-moratorium-pbm-baru-di-jawa-timur",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "ri-uni-eropa-tandatangani-cepa-setelah-10-tahun-berunding",
+  "category": "Global",
+  "title": "RI-Uni Eropa [Tandatangani] CEPA Setelah 10 Tahun Berunding",
+  "deck": "Indonesia dan Uni Eropa resmi menandatangani perjanjian dagang I-EU CEPA di Brussels, membuka tarif nol persen untuk 90,4 persen pos tarif ekspor Indonesia ke Eropa.",
+  "date": "23 November 2026",
+  "image": "assets/img/ri-uni-eropa-tandatangani-cepa-setelah-10-tahun-berunding.jpg",
+  "imageV": "mwsyps43",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "Kementerian Perdagangan",
+   "ekspor"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/i-eu-cepa-ditandatangani-mendag-busan-optimistis-pasar-uni-eropa-makin-terbuka",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "kkp-targetkan-40-000-kolam-budi-daya-ikan-hingga-2029",
   "category": "Industri",
   "title": "KKP Targetkan [40.000] Kolam Budi Daya Ikan hingga 2029",
@@ -5537,7 +5587,7 @@ var ARTICLES = [
   "title": "Ekspor Kulit dan Alas Kaki RI [Tembus] US$7,22 Miliar",
   "deck": "Ekspor kulit dan alas kaki Indonesia naik 4,36 persen pada Januari-September 2026, ditopang alas kaki khusus dan produk kreatif kulit yang tumbuh lebih cepat dari rata-rata sektor.",
   "date": "14 November 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-kulit-dan-alas-kaki-tembus-usd-722-miliar-cerminan-daya-saing-produk-manufaktur-indonesia",
   "sourceLabel": "Kementerian Perdagangan"
@@ -5811,7 +5861,7 @@ var ARTICLES = [
   "title": "Harga Patokan Ekspor Emas [Turun] 2,02 Persen di November 2026",
   "deck": "Kemendag menurunkan Harga Patokan Ekspor dan Harga Referensi emas periode 15-30 November 2026, turun 2,02 persen akibat investor global beralih dari emas ke instrumen lain.",
   "date": "13 November 2026",
-  "image": "assets/img/pabrik-gula.jpg",
+  "image": "assets/img/gudang-bahan-baku.jpg",
   "tags": [
    "emas",
    "HPE",
@@ -6476,53 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f3e4e4d1e_c70c1937e0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "suspensi-testdwhsh3-13-november-going-concern-perdagangan-disetop",
-  "category": "Aksi Korporasi",
-  "title": "Suspensi TESTDWHSH3 13 November: [Going Concern] Perdagangan Disetop",
-  "deck": "Bursa menghentikan sementara perdagangan saham TESTDWHSH3 mulai 13 November 2026 dengan alasan kelangsungan usaha (going concern).",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TESTDWHSH3",
-   "suspensi",
-   "going concern",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261113_TESTDWHSH3_B007_a0b83468-3bbd-4f2d-9762-73b7c2990c06-20261114134532.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sektor-ritel-dan-manufaktur-lama-tergeser-teknologi-dan-e-commerce",
-  "category": "Makroekonomi",
-  "title": "Sektor Ritel dan Manufaktur Lama [Tergeser] Teknologi dan E-Commerce",
-  "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut sektor ritel dan manufaktur padat karya makin tergerus teknologi dan belanja online, sementara pemerintah memperluas bantuan sosial sebagai penyangga sementara.",
-  "date": "13 November 2026",
-  "image": "assets/img/jalan-raya-padat.jpg",
-  "tags": [
-   "transformasi ekonomi",
-   "pertumbuhan ekonomi",
-   "bantuan subsidi upah",
-   "ketenagakerjaan"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7216/transformasi-ekonomi-jadi-kunci-perkuat-daya-saing-dan-perluas-manfaat-pertumbuhan-bagi-masyarakat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ekspor-sawit-naik-16-ke-us-28-84-miliar-hingga-oktober",
-  "category": "Industri",
-  "title": "Ekspor Sawit Naik [16%] ke US$28,84 Miliar hingga Oktober",
-  "deck": "Ekspor sawit Indonesia tembus US$28,84 miliar pada Januari-Oktober 2026, naik 16 persen, sementara kebijakan biodiesel B50 menyerap lebih banyak pasokan domestik.",
-  "date": "13 November 2026",
-  "image": "assets/img/gudang-bahan-baku.jpg",
-  "tags": [
-   "kelapa sawit",
-   "ekspor CPO",
-   "biodiesel B50",
-   "ISPO"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7217/menko-airlangga-industri-kelapa-sawit-jadi-pilar-ketahanan-pangan-dan-energi-nasional",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

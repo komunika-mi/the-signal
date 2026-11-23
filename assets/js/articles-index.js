@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
+  "category": "Aksi Korporasi",
+  "title": "BVIC: Chemical Asia [Jual] 283,18 Juta Saham, Suara Jadi 7,26%",
+  "deck": "Chemical Asia Corporation, direktur asing Bank Victoria International, melepas 283,18 juta saham pada 20 November 2026, hak suaranya turun dari 8,80% menjadi 7,26%.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BVIC",
+   "Bank Victoria",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-8851-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pola-kmi-cioud-indonesia-tambah-124-55-juta-saham-suara-5-66",
+  "category": "Aksi Korporasi",
+  "title": "POLA: KMI Cioud Indonesia [Tambah] 124,55 Juta Saham, Suara 5,66%",
+  "deck": "KMI Cioud Indonesia menambah kepemilikan di POLA lewat transaksi repurchase agreement, dari 1,94% jadi 5,66% hak suara, usai membeli 125 juta saham seharga Rp80 per saham pada 21 Oktober 2026.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POLA",
+   "laporan kepemilikan",
+   "hak suara",
+   "repurchase agreement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-9041-00.pdf-0.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-mgro-26-november-laba-bersih-naik-184-42",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose MGRO 26 November: [Laba Bersih] Naik 184,42%",
+  "deck": "MGRO menggelar Public Expose tahunan secara daring pada 26 November 2026, memaparkan laba bersih Rp45,66 miliar hingga September 2026, berbalik dari rugi Rp54,09 miliar setahun sebelumnya.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MGRO",
+   "Public Expose",
+   "kelapa sawit",
+   "laporan keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_MGRO_E003_c7bf6b03-ee0a-4194-9b62-c011f15043b7-20261123145016.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-east-15-desember-pemanggilan-resmi-dps-20-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB EAST 15 Desember: [Pemanggilan] Resmi, DPS 20 November",
+  "deck": "Eastparc Hotel menjadwalkan RUPSLB 15 Desember 2026, pemanggilan dikirim 23 November, pemegang saham per 20 November yang berhak memberi suara.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "EAST",
+   "RUPSLB",
+   "Eastparc Hotel",
+   "jadwal RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_EAST_E001_7143e533-c8ff-4d6b-8eb6-7a4e20e4ece0-20261123144237.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dprd-sulsel-minta-maxim-hentikan-program-fokus-berbayar",
   "category": "Ketenagakerjaan",
   "title": "DPRD Sulsel Minta Maxim Hentikan Program [Fokus] Berbayar",
@@ -53,6 +117,38 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/i-eu-cepa-ditandatangani-mendag-busan-optimistis-pasar-uni-eropa-makin-terbuka",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ppre-kontrak-baru-rp1-7-triliun-hingga-triwulan-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPRE Kontrak Baru [Rp1,7 Triliun] hingga Triwulan III 2026",
+  "deck": "Kontrak baru konsolidasian PPRE mencapai Rp1,7 triliun hingga triwulan III 2026, sementara pendapatan naik 20,1 persen menjadi Rp3,33 triliun.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPRE",
+   "kontrak baru",
+   "pendapatan",
+   "konstruksi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PPRE_E019_dafc5a63-e571-4aec-bb0a-ec699f6482b7-20261123141618.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-asjt-16-desember-2026-e-proxy-via-easy-ksei",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ASJT 16 Desember 2026: [e-Proxy] via eASY.KSEI",
+  "deck": "Asuransi Jasa Tania menjadwalkan RUPSLB pada 16 Desember 2026, dengan pemberian kuasa elektronik dibuka lewat sistem eASY.KSEI hingga 15 Desember.",
+  "date": "23 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASJT",
+   "RUPSLB",
+   "Asuransi Jasa Tania",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ASJT_E001_529aa6f8-68a2-4b3a-a0da-29d82a517d0c-20261123132807.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kkp-targetkan-40-000-kolam-budi-daya-ikan-hingga-2029",
@@ -4823,15 +4919,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-drma-19-november-laba-bersih-9m26-naik-13-9",
   "category": "Aksi Korporasi",
-  "title": "Public Expose DRMA 19 November: [Laba Bersih] 9M26 Naik 13,9%",
-  "deck": "Materi public expose tahunan DRMA memuat laba bersih 9M26 Rp487,6 miliar, tumbuh 13,9%, serta rencana capex Rp400 miliar untuk 2026.",
+  "title": "Public Expose DRMA 19 Nov: Laba 9M26 [Tertekan] Kurs dan Bahan Baku",
+  "deck": "Hasil Public Expose DRMA 19 November: laba bersih 9M26 tertekan kurs dolar AS dan harga bahan baku, meski ekspor dan pasokan komponen EV ke BYD terus tumbuh.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DRMA",
    "Public Expose",
    "Dharma Polimetal",
-   "Akuisisi"
+   "Kinerja Keuangan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c100041e6b_034b88ad82.pdf",
   "sourceLabel": "IDX"
@@ -6430,101 +6526,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7218/indonesia-siap-tandatangani-asean-defa-untuk-perkuat-integrasi-ekonomi-digital-kawasan",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "wika-jawab-bursa-soal-pkpu-wikon-ekuitas-anak-usaha-minus-rp1-24-t",
-  "category": "Aksi Korporasi",
-  "title": "WIKA Jawab Bursa soal PKPU WIKON: [Ekuitas] Anak Usaha Minus Rp1,24 T",
-  "deck": "WIKA menyebut gugatan PKPU Rp1,3 miliar terhadap anak usahanya WIKON tidak material, tetapi ekuitas WIKON tercatat minus Rp1,24 triliun per akhir September 2026. Sidang lanjutan digelar 17 November 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WIKA",
-   "WIKON",
-   "PKPU",
-   "gugatan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/db1e2f35dd_a706ffe988.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-kmds-rp16-per-saham-cair-11-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim KMDS Rp16 per Saham, [Cair] 11 Desember",
-  "deck": "KMDS membagikan dividen interim tunai Rp16 per saham senilai total Rp12,8 miliar untuk tahun buku 2026, dibayar 11 Desember 2026.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KMDS",
-   "dividen interim",
-   "pasar modal",
-   "emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d3e60194e7_253d58afcb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpk-direksi-haryanto-sofian-tambah-33-800-saham-suara-0-24",
-  "category": "Aksi Korporasi",
-  "title": "PKPK: Direksi Haryanto Sofian [Tambah] 33.800 Saham, Suara 0,24%",
-  "deck": "Direktur PKPK Haryanto Sofian membeli 33.800 saham pada 12 November 2026, menambah kepemilikannya menjadi 2.857.700 lembar, namun hak suaranya tetap di 0,24 persen.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PKPK",
-   "Paragon Karya Perkasa",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2092-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-pnbs-18-november-laba-naik-69-78-ke-rp73-4-m",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose PNBS 18 Nov: [Free Float] Pengendali Bisa Lepas Saham",
-  "deck": "Resume hasil Public Expose 18 November mengungkap manajemen PNBS mempertimbangkan pelepasan saham pengendali ke publik untuk penuhi syarat free float 15% paling lambat 31 Maret 2028.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PNBS",
-   "Public Expose",
-   "Free Float",
-   "Bank Syariah"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a85b831a9f_31fbbe63c1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "drma-komisaris-jual-2-juta-saham-hak-suara-jadi-1-96",
-  "category": "Aksi Korporasi",
-  "title": "DRMA: Komisaris [Jual] 2 Juta Saham, Hak Suara Jadi 1,96%",
-  "deck": "Komisaris Dharma Polimetal, Noel Aelyo Laras Kusuma Negara, melepas 2 juta saham pada 28 Oktober 2026 seharga Rp850 per saham, hak suaranya turun dari 2,00% menjadi 1,96%.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Dharma Polimetal",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-13112026-2999-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupst-jmas-22-desember-pencatatan-pemegang-saham-27-november",
-  "category": "Aksi Korporasi",
-  "title": "RUPST JMAS 22 Desember: [Pencatatan] Pemegang Saham 27 November",
-  "deck": "JMAS akan menggelar RUPST untuk tahun buku 2025 pada 22 Desember 2026; pemegang saham yang tercatat per 27 November 2026 berhak hadir.",
-  "date": "13 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JMAS",
-   "RUPST",
-   "Asuransi Jiwa Syariah",
-   "Jasa Mitra Abadi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9f3e4e4d1e_c70c1937e0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

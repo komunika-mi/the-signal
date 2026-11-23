@@ -3,6 +3,141 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "bvic-chemical-asia-jual-283-18-juta-saham-suara-jadi-7-26",
+  "category": "Aksi Korporasi",
+  "title": "BVIC: Chemical Asia [Jual] 283,18 Juta Saham, Suara Jadi 7,26%",
+  "deck": "Chemical Asia Corporation, direktur asing Bank Victoria International, melepas 283,18 juta saham pada 20 November 2026, hak suaranya turun dari 8,80% menjadi 7,26%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T14:53:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-8851-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BVIC",
+  "tags": [
+   "BVIC",
+   "Bank Victoria",
+   "kepemilikan saham",
+   "direksi"
+  ],
+  "body": [
+   "Chemical Asia Corporation Pte. Ltd., anggota direksi PT Bank Victoria International Tbk (BVIC) yang berstatus warga negara asing, melaporkan ke Otoritas Jasa Keuangan bahwa pihaknya telah menjual secara tidak langsung 283.183.100 saham BVIC pada 20 November 2026 dengan harga Rp80 per saham. Jenis transaksi yang dicatat adalah repurchase agreement, yakni skema jual saham dengan kesepakatan untuk dibeli kembali di kemudian hari, dengan tujuan transaksi disebutkan sebagai pengaturan ulang portofolio.",
+   "Sebelum transaksi, Chemical Asia memegang 1.621.200.000 saham BVIC atau setara 8,80 persen hak suara perseroan. Setelah transaksi, kepemilikannya berkurang menjadi 1.338.016.900 saham, sehingga hak suaranya turun menjadi 7,26 persen. Jumlah yang dilepas setara 17,47 persen dari total saham yang sebelumnya dipegang Chemical Asia sendiri, bukan jumlah yang kecil dibandingkan posisi kepemilikannya."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern glass bank headquarters building in a Jakarta financial district, clear midday sky",
+  "takeaway": "Laporan ini condong negatif bagi persepsi pasar terhadap BVIC, karena seorang direksi melepas porsi yang cukup besar dari kepemilikannya sendiri, sekitar 17,5 persen dari total saham yang dipegangnya, sampai hak suaranya turun dari 8,80 persen ke 7,26 persen. Yang tersentuh di sini bukan laporan keuangan perseroan, melainkan struktur kepemilikan dan hak suara pihak dalam, yang biasa dipantau pasar sebagai cermin keyakinan direksi terhadap perusahaan yang dipimpinnya. Perlu dicatat, transaksi ini berjenis repurchase agreement, yaitu kesepakatan jual saham dengan opsi dibeli kembali, sehingga ada kemungkinan saham ini balik ke tangan Chemical Asia di kemudian hari. Yang perlu dipantau selanjutnya adalah apakah muncul laporan kepemilikan susulan dari Chemical Asia atau pihak terkait Bank Victoria lainnya, yang akan menunjukkan apakah pelepasan ini bersifat sementara sesuai skema repo atau berlanjut menjadi pengurangan kepemilikan permanen.",
+  "sentimen": "negatif",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "pola-kmi-cioud-indonesia-tambah-124-55-juta-saham-suara-5-66",
+  "category": "Aksi Korporasi",
+  "title": "POLA: KMI Cioud Indonesia [Tambah] 124,55 Juta Saham, Suara 5,66%",
+  "deck": "KMI Cioud Indonesia menambah kepemilikan di POLA lewat transaksi repurchase agreement, dari 1,94% jadi 5,66% hak suara, usai membeli 125 juta saham seharga Rp80 per saham pada 21 Oktober 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T14:53:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23112026-9041-00.pdf-0.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "POLA",
+  "tags": [
+   "POLA",
+   "laporan kepemilikan",
+   "hak suara",
+   "repurchase agreement"
+  ],
+  "body": [
+   "KMI Cioud Indonesia melaporkan penambahan kepemilikan sahamnya di PT Pool Advista Finance Tbk (POLA) kepada Otoritas Jasa Keuangan pada 23 November 2026. Pelapor, yang bukan anggota direksi atau dewan komisaris POLA, sebelumnya memegang 65.169.600 saham atau setara 1,9441% hak suara. Setelah transaksi, kepemilikannya naik menjadi 189.719.600 saham atau 5,6615% hak suara, sehingga ada penambahan 124.550.000 saham.",
+   "Penambahan ini berasal dari transaksi pembelian 125.000.000 saham biasa POLA pada 21 Oktober 2026 dengan harga Rp80 per saham, atau senilai sekitar Rp10 miliar. Dalam dokumennya, transaksi ini dicatat sebagai pembelian dalam rangka Repurchase Agreement (Repo) sesuai perjanjian yang berlaku, artinya saham tersebut dibeli dengan kewajiban dijual kembali sesuai skema repo itu.",
+   "Laporan ini wajib disampaikan karena kepemilikan pelapor melewati ambang batas yang diatur dalam POJK Nomor 4/2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Dokumen tidak mencantumkan batas akhir periode pelaksanaan lanjutan untuk transaksi repo ini."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise office building in Jakarta's financial district at dusk, lit windows, traffic below",
+  "takeaway": "Kenaikan kepemilikan KMI Cioud Indonesia di POLA ini netral bagi fundamental perusahaan, karena transaksinya terjadi di pasar sekunder lewat skema repo dan tidak melibatkan penerbitan saham baru oleh POLA. Jumlah saham beredar, ekuitas, dan laba per saham POLA karenanya tidak berubah, sebab sahamnya dibeli dari pemegang lama, bukan diterbitkan perusahaan. Yang bergeser hanyalah hak suara, dari 1,94% menjadi 5,66%, lompatan cukup besar bagi satu pihak sehingga pelaku pasar perlu mencatat siapa yang kini punya pengaruh lebih besar di rapat pemegang saham POLA. Yang perlu dipantau adalah apakah KMI Cioud Indonesia akan terus menambah porsinya, mengingat skema repo biasanya bersifat sementara dan sahamnya wajib dikembalikan sesuai perjanjian, sementara dokumen ini sendiri tidak mencantumkan batas akhir periode pelaksanaannya.",
+  "sentimen": "netral",
+  "peristiwa": "kepemilikan",
+  "judulIdx": "LAPORAN KEPEMILIKAN ATAU SETIAP PERUBAHAN KEPEMILIKAN SAHAM PERUSAHAAN TERBUKA"
+ },
+ {
+  "slug": "public-expose-mgro-26-november-laba-bersih-naik-184-42",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose MGRO 26 November: [Laba Bersih] Naik 184,42%",
+  "deck": "MGRO menggelar Public Expose tahunan secara daring pada 26 November 2026, memaparkan laba bersih Rp45,66 miliar hingga September 2026, berbalik dari rugi Rp54,09 miliar setahun sebelumnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T14:50:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_MGRO_E003_c7bf6b03-ee0a-4194-9b62-c011f15043b7-20261123145016.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MGRO",
+  "tags": [
+   "MGRO",
+   "Public Expose",
+   "kelapa sawit",
+   "laporan keuangan"
+  ],
+  "body": [
+   "PT Mahkota Group Tbk (MGRO) akan menggelar Public Expose tahunan 2026 pada Kamis, 26 November 2026, pukul 10.00 WIB, secara daring melalui aplikasi Zoom Meeting. Agenda utama acara ini adalah pemaparan kinerja operasional dan keuangan perseroan. Surat pengantar kepada Bursa Efek Indonesia ditandatangani oleh Direktur Utama Usli, merujuk pada rencana yang sebelumnya disampaikan lewat surat tertanggal 12 November 2026.",
+   "Materi presentasi yang dilampirkan menunjukkan pendapatan perseroan hingga 30 September 2026 mencapai Rp6,56 triliun, naik dari Rp4,93 triliun pada periode yang sama tahun 2025. Total aset tercatat Rp3,28 triliun dan total liabilitas Rp2,83 triliun, dibandingkan Rp2,73 triliun dan Rp2,32 triliun pada September 2025. Ekuitas perseroan naik dari Rp408,6 miliar menjadi Rp455,8 miliar. Perubahan paling mencolok ada di laba bersih, MGRO mencatat laba Rp45,66 miliar hingga September 2026, berbalik dari rugi Rp54,09 miliar pada periode sama tahun sebelumnya, yang menurut manajemen setara kenaikan 184,42 persen akibat efisiensi biaya operasional. Volume penjualan CPO dan turunannya naik dari 299.481 ton menjadi 338.848 ton, sementara penjualan palm kernel dan turunannya melonjak dari 31.823 ton menjadi 63.945 ton. Pasar domestik masih menyerap 94,54 persen dari total penjualan, sisanya ekspor.",
+   "Untuk seluruh tahun 2026, manajemen menargetkan pendapatan Rp9 triliun dan laba bersih Rp75 miliar, dengan strategi mencakup efisiensi operasional, peningkatan produksi, dan hilirisasi produk kelapa sawit. Hingga akhir September 2026, produksi CPO perseroan baru mencapai 143.031 ton dari target 206.191 ton sampai Desember 2026, sementara produksi palm kernel mencapai 43.275 ton dari target 62.298 ton."
+  ],
+  "fotoAdegan": "Workers checking palm oil fruit bunches on a conveyor belt inside a crude palm oil processing mill, humid morning light.",
+  "takeaway": "Laporan ini condong positif bagi MGRO karena perseroan berhasil membalik posisi dari rugi Rp54,09 miliar menjadi laba Rp45,66 miliar dalam setahun, didorong kenaikan pendapatan dan volume penjualan CPO maupun palm kernel. Yang perlu dicermati, laba yang membaik ini berbarengan dengan liabilitas yang tumbuh lebih cepat, naik sekitar 22 persen, dibanding ekuitas yang hanya naik 11,6 persen, sehingga porsi utang terhadap modal sendiri sedikit membesar meski belum di level mengkhawatirkan. Pos yang disorot pelaku pasar di sini adalah laba bersih dan ekuitas, sebab laba yang kembali positif menandakan pemulihan margin usaha, sementara utang yang naik lebih cepat dari modal berarti perseroan makin bergantung pada pinjaman untuk membiayai operasinya. Yang perlu dipantau berikutnya adalah paparan publik pada 26 November 2026, saat manajemen akan menjelaskan langsung kepada investor apakah target pendapatan Rp9 triliun dan laba bersih Rp75 miliar sampai akhir tahun masih realistis, mengingat realisasi produksi CPO per September baru sekitar 69 persen dari target tahunan.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Public Expose tahunan MGRO secara daring via Zoom, pukul 10.00 WIB"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-east-15-desember-pemanggilan-resmi-dps-20-november",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB EAST 15 Desember: [Pemanggilan] Resmi, DPS 20 November",
+  "deck": "Eastparc Hotel menjadwalkan RUPSLB 15 Desember 2026, pemanggilan dikirim 23 November, pemegang saham per 20 November yang berhak memberi suara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T14:42:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_EAST_E001_7143e533-c8ff-4d6b-8eb6-7a4e20e4ece0-20261123144237.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "EAST",
+  "tags": [
+   "EAST",
+   "RUPSLB",
+   "Eastparc Hotel",
+   "jadwal RUPS"
+  ],
+  "body": [
+   "PT Eastparc Hotel Tbk (EAST) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 15 Desember 2026 pukul 15.00 WIB di Eastparc Hotel Yogyakarta, Jl. Kapas No. 1, Ngentak, Caturtunggal, Depok, Sleman. Pemanggilan resmi rapat dikirim perusahaan pada Senin, 23 November 2026, melalui situs perusahaan, situs Bursa Efek Indonesia, dan fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Yang berhak hadir dan memberi suara adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Jumat, 20 November 2026 pukul 16.00 WIB. Dokumen ini sendiri merupakan penyampaian ulang dari pengumuman yang pertama kali dikirim 6 November 2026, karena ada reset alur pelaporan akibat migrasi sistem SPE IDXnet milik bursa, bukan perubahan substansi rapat.",
+   "Perusahaan mendorong pemegang saham memberi kuasa dan hadir secara daring lewat eASY.KSEI, mengingat kehadiran fisik di lokasi dibatasi maksimal 30 peserta melalui mekanisme pendaftaran yang rinciannya akan disampaikan menyusul. Perusahaan juga menyatakan tidak akan menyediakan suvenir bagi peserta rapat. Bagi pemegang saham yang ingin memberi kuasa elektronik, fasilitas e-Proxy di eASY.KSEI tersedia sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, yakni Senin, 14 Desember 2026 pukul 12.00 WIB. Dokumen yang dipublikasikan tidak memuat mata acara atau agenda RUPSLB.",
+   "Usulan mata acara dari pemegang saham dapat dimasukkan ke rapat jika disampaikan ke Direksi melalui surat tercatat, dilengkapi alasan, paling lambat 7 hari kalender sebelum tanggal pemanggilan sesuai POJK 15/2020. Surat pemanggilan ke Otoritas Jasa Keuangan ditandatangani oleh Khalid Bin Omar Abdat selaku Direktur Utama, sementara pengumuman versi sistem baru ditandatangani oleh Muhammad Anis selaku Corporate Secretary perusahaan."
+  ],
+  "fotoAdegan": "Hotel staff arranging rows of chairs inside a quiet conference hall before a meeting, soft morning light",
+  "takeaway": "Pengumuman ini netral karena baru sebatas menjadwalkan rapat dan belum memuat agenda atau keputusan apa pun yang langsung mengubah kinerja atau struktur modal Eastparc Hotel. Yang tersentuh di sini adalah hak suara pemegang saham: siapa yang tercatat di Daftar Pemegang Saham pada 20 November 2026 itulah yang berhak hadir dan memberi suara nanti, sehingga pembeli saham setelah tanggal itu tidak otomatis mendapat hak suara di rapat ini. Yang perlu dipantau selanjutnya adalah agenda resmi RUPSLB yang biasanya diumumkan menjelang hari H, pelaksanaan rapat pada 15 Desember 2026, dan batas akhir pemberian kuasa elektronik lewat eASY.KSEI pada 14 Desember 2026 pukul 12.00 WIB.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pengumuman RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Batas Daftar Pemegang Saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pemanggilan resmi RUPSLB dikirim"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Batas akhir pemberian kuasa elektronik via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Pelaksanaan RUPSLB"
+   }
+  ]
+ },
+ {
   "slug": "dprd-sulsel-minta-maxim-hentikan-program-fokus-berbayar",
   "category": "Ketenagakerjaan",
   "title": "DPRD Sulsel Minta Maxim Hentikan Program [Fokus] Berbayar",
@@ -83,6 +218,83 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang berubah hari ini baru status politik perjanjian, bukan penerapannya di lapangan: pemotongan tarif menjadi nol persen untuk 90,4 persen produk ekspor Indonesia ke Eropa, seperti sawit, karet, alas kaki, dan tekstil, baru berlaku setelah perjanjian ini diratifikasi, bukan sejak diteken hari ini. Yang langsung berkepentingan adalah eksportir di sektor-sektor itu serta UMKM berorientasi ekspor ke Eropa, karena merekalah yang menunggu tarif preferensial itu benar-benar cair. Berdasarkan pola perjanjian dagang Uni Eropa dengan negara lain sebelumnya, proses ratifikasi semacam ini biasa memakan waktu satu sampai beberapa tahun karena harus disetujui parlemen di kedua pihak. Yang perlu dipantau adalah jadwal pembahasan ratifikasi I-EU CEPA di DPR dan di lembaga-lembaga Uni Eropa, karena dari situ baru bisa diperkirakan kapan tarif nol persen itu mulai benar-benar dinikmati pelaku usaha.",
   "imageV": "mwsyps43"
+ },
+ {
+  "slug": "ppre-kontrak-baru-rp1-7-triliun-hingga-triwulan-iii-2026",
+  "category": "Aksi Korporasi",
+  "title": "PPRE Kontrak Baru [Rp1,7 Triliun] hingga Triwulan III 2026",
+  "deck": "Kontrak baru konsolidasian PPRE mencapai Rp1,7 triliun hingga triwulan III 2026, sementara pendapatan naik 20,1 persen menjadi Rp3,33 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T14:16:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_PPRE_E019_dafc5a63-e571-4aec-bb0a-ec699f6482b7-20261123141618.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPRE",
+  "tags": [
+   "PPRE",
+   "kontrak baru",
+   "pendapatan",
+   "konstruksi"
+  ],
+  "body": [
+   "PT PP Presisi Tbk (PPRE) melaporkan perolehan kontrak baru konsolidasian senilai Rp1,7 triliun hingga triwulan III 2026. Sebesar 98 persen dari total kontrak itu berasal dari segmen jasa pertambangan dan konstruksi, sejalan dengan fokus pengembangan bisnis perusahaan. Dari sisi pendapatan, PPRE membukukan Rp3,33 triliun hingga 30 September 2026, naik 20,1 persen dibandingkan periode yang sama tahun sebelumnya yang sebesar Rp2,77 triliun.",
+   "Direktur Utama PPRE, Rizki Dianugrah, menyatakan bahwa di tengah dinamika kondisi makroekonomi dan tantangan industri, perusahaan tetap mampu mencatatkan pertumbuhan bisnis disertai perbaikan kinerja. Perusahaan menyebut adanya perkembangan positif dari sisi profitabilitas, yang dikaitkan dengan upaya meningkatkan efektivitas operasional dan mengoptimalkan pemanfaatan sumber daya, meski rilis ini tidak merinci angka laba bersihnya.",
+   "Vice President Corporate Secretary PPRE, Mei Elsa Kembaren, menambahkan bahwa penguatan fundamental perusahaan didukung oleh portofolio jasa pertambangan dan konstruksi serta penerapan tata kelola perusahaan yang baik. Ke depan, PPRE akan memprioritaskan pengembangan bisnis pada segmen jasa pertambangan dan konstruksi, dengan tetap menjajaki peluang kemitraan strategis untuk memperluas cakupan layanan dan mendukung perolehan proyek berikutnya."
+  ],
+  "fotoAdegan": "Heavy excavators and dump trucks operating at an open-pit mining site in Indonesia under an overcast sky.",
+  "takeaway": "Laporan ini condong positif karena PPRE mencatat pertumbuhan ganda, kontrak baru Rp1,7 triliun dan pendapatan yang naik 20,1 persen menjadi Rp3,33 triliun, tanpa ada angka yang merugikan pemegang saham dalam dokumen ini. Yang tersentuh di sini adalah pendapatan dan laba dari aktivitas usaha, pos yang jadi acuan investor untuk menilai apakah bisnis perusahaan benar-benar tumbuh atau cuma naik di atas kertas, meski perusahaan tidak merinci angka laba bersihnya di rilis ini. Perolehan kontrak baru juga penting dipantau karena itu jadi indikator pendapatan di periode-periode mendatang, bukan pendapatan yang sudah terbukukan saat ini. Dokumen ini tidak menyebut tanggal RUPS atau agenda korporasi lain, sehingga yang perlu ditunggu pembaca adalah laporan keuangan tahunan 2026 untuk melihat apakah tren pertumbuhan pendapatan dan kontrak baru ini berlanjut hingga akhir tahun.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupslb-asjt-16-desember-2026-e-proxy-via-easy-ksei",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ASJT 16 Desember 2026: [e-Proxy] via eASY.KSEI",
+  "deck": "Asuransi Jasa Tania menjadwalkan RUPSLB pada 16 Desember 2026, dengan pemberian kuasa elektronik dibuka lewat sistem eASY.KSEI hingga 15 Desember.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "23 November 2026",
+  "isoDate": "2026-11-23T13:28:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ASJT_E001_529aa6f8-68a2-4b3a-a0da-29d82a517d0c-20261123132807.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASJT",
+  "tags": [
+   "ASJT",
+   "RUPSLB",
+   "Asuransi Jasa Tania",
+   "RUPS"
+  ],
+  "body": [
+   "PT Asuransi Jasa Tania Tbk (ASJT) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026 pukul 14.00 WIB, di Kantor Pusat Perseroan, Gedung Agro Plaza Lantai 9, Jalan H.R. Rasuna Said, Jakarta Selatan. Pemegang saham yang berhak hadir adalah mereka yang tercatat dalam Daftar Pemegang Saham atau rekening efek di Penitipan Kolektif KSEI per penutupan perdagangan Senin, 23 November 2026. Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan sehari setelahnya, yaitu Selasa, 24 November 2026, lewat situs e-RUPS, situs Bursa Efek Indonesia, dan situs Perseroan.",
+   "Dokumen ini belum mencantumkan agenda atau mata acara RUPSLB, karena itu baru akan dimuat dalam surat pemanggilan resmi. Perseroan menyebutkan, sesuai Pasal 10 ayat (6) Anggaran Dasar dan Pasal 16 POJK 15/2020, pemegang saham yang mewakili minimal 1/20 dari total saham berhak suara bisa mengusulkan agenda rapat secara tertulis kepada Direksi paling lambat tujuh hari sebelum tanggal pemanggilan, yakni Selasa, 17 November 2026.",
+   "Rapat akan digelar secara fisik maupun elektronik. Perseroan menghimbau pemegang saham memberikan kuasa melalui fasilitas Electronic General Meeting System KSEI (eASY.KSEI) sebagai mekanisme e-Proxy, yang tersedia sejak tanggal pemanggilan hingga satu hari kerja sebelum rapat, yaitu Selasa, 15 Desember 2026. Pengumuman ditandatangani oleh Direksi Perseroan, Dani Rediansyah, di Jakarta pada 9 November 2026."
+  ],
+  "fotoAdegan": "Empty modern boardroom with rows of chairs facing a podium, soft morning light through glass windows",
+  "takeaway": "Pengumuman ini netral bagi Perseroan karena isinya baru soal jadwal dan tata cara RUPSLB, belum memuat agenda atau keputusan apa pun yang bisa dinilai dampaknya terhadap bisnis ASJT. Jika nanti agendanya menyangkut hal seperti perubahan modal, pengurus, atau pembagian dividen, baru pos-pos seperti ekuitas atau laba per saham perlu dicermati, karena itu yang biasanya langsung memengaruhi nilai kepemilikan pemegang saham. Yang perlu dipantau sekarang adalah surat pemanggilan resmi pada 24 November 2026 yang akan membuka agenda sebenarnya, lalu hasil keputusan RUPSLB pada 16 Desember 2026 itu sendiri.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pengumuman RUPS",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Batas akhir usul agenda RUPS oleh pemegang saham 1/20 suara"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pencatatan pemegang saham berhak hadir (DPS)"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Pemanggilan resmi RUPSLB berisi agenda diumumkan"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Batas akhir e-Proxy via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Pelaksanaan RUPSLB"
+   }
+  ]
  },
  {
   "slug": "kkp-targetkan-40-000-kolam-budi-daya-ikan-hingga-2029",
@@ -9852,8 +10064,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-drma-19-november-laba-bersih-9m26-naik-13-9",
   "category": "Aksi Korporasi",
-  "title": "Public Expose DRMA 19 November: [Laba Bersih] 9M26 Naik 13,9%",
-  "deck": "Materi public expose tahunan DRMA memuat laba bersih 9M26 Rp487,6 miliar, tumbuh 13,9%, serta rencana capex Rp400 miliar untuk 2026.",
+  "title": "Public Expose DRMA 19 Nov: Laba 9M26 [Tertekan] Kurs dan Bahan Baku",
+  "deck": "Hasil Public Expose DRMA 19 November: laba bersih 9M26 tertekan kurs dolar AS dan harga bahan baku, meski ekspor dan pasokan komponen EV ke BYD terus tumbuh.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T16:46:26",
@@ -9864,17 +10076,18 @@ var ARTICLES = [
    "DRMA",
    "Public Expose",
    "Dharma Polimetal",
-   "Akuisisi"
+   "Kinerja Keuangan"
   ],
   "body": [
-   "PT Dharma Polimetal Tbk (DRMA) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 16 November 2026, menjelang paparan publik yang dijadwalkan berlangsung 19 November 2026. Materi tersebut memuat kinerja keuangan sembilan bulan pertama 2026 (9M26): pendapatan tercatat Rp5,097 triliun, naik 16 persen dibanding periode yang sama tahun lalu sebesar Rp4,393 triliun. Laba bersih periode tersebut mencapai Rp487,6 miliar, tumbuh 13,9 persen secara tahunan. Segmen roda dua menyumbang 59 persen dari total pendapatan, segmen roda empat 25 persen, dan sisanya dari lini usaha lain.",
-   "Untuk tahun penuh 2026, manajemen menargetkan pertumbuhan pendapatan dan laba bersih masing-masing sekitar 10 persen, target yang sebenarnya sudah terlampaui pada realisasi sembilan bulan pertama. Perseroan juga mengalokasikan belanja modal atau capex sebesar Rp400 miliar pada 2026 untuk pengembangan produk baru serta mendukung investasi pada perusahaan patungan PT Dharma Minth Indonesia (DMI).",
-   "Materi tersebut turut merinci sejumlah aksi korporasi yang telah dijalankan Perseroan sepanjang tahun ini. DRMA mendirikan DMI pada September 2026 bersama Minth Group untuk memperluas kapabilitas produksi komponen kendaraan listrik. Perseroan juga mengakuisisi 82 persen saham PT Mah Sing Indonesia, yang kini berganti nama menjadi PT Dharma Multiplast Solutions Indonesia, guna memperkuat portofolio komponen plastik untuk kendaraan roda empat. Selain itu, DRMA membeli lahan di Jababeka Industrial Estate dan Kawasan Industri MM2100 Cibitung untuk menambah kapasitas produksi.",
-   "Materi ini juga menampilkan rekam jejak dividen Perseroan selama lima tahun terakhir. Dividen tunai per saham naik dari Rp14,97 pada 2022 menjadi Rp70 pada 2026, dengan rasio pembagian dividen atau payout ratio mencapai 50,5 persen pada 2026, tertinggi dalam periode tersebut. Total dividen tunai yang dibagikan pada 2026 tercatat Rp329,4 miliar."
+   "PT Dharma Polimetal Tbk (DRMA) melaporkan hasil Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 23 November 2026, menyusul pelaksanaan paparan publik secara virtual lewat Zoom pada Kamis, 19 November 2026 pukul 14.00-14.46 WIB. Acara ini diikuti oleh 28 peserta di luar jajaran manajemen dan karyawan Perseroan, terdiri dari investor, media, dan publik. Dalam sesi tanya jawab, manajemen mengungkap bahwa pertumbuhan laba bersih sembilan bulan pertama 2026 (9M26) sebesar 13,9 persen lebih rendah dibanding pertumbuhan pendapatan yang mencapai 16 persen, terutama karena tekanan kurs rupiah terhadap dolar AS yang melemah dari kisaran Rp16.500 menjadi lebih dari Rp18.000 per dolar AS, atau naik sekitar 7 persen sejak awal tahun.",
+   "Tekanan juga datang dari kenaikan harga bahan baku. Manajemen menjelaskan bahwa sejak Februari 2026, gejolak geopolitik di kawasan Timur Tengah, khususnya di Selat Hormuz, mendorong kenaikan harga minyak yang merambat ke biaya transportasi dan logistik. Harga plastik dan tembaga, dua bahan baku utama produksi komponen otomotif DRMA, masing-masing naik sekitar 40 persen sejak awal tahun. Pasokan aluminium pun terganggu akibat kerusakan salah satu fasilitas produksi Emirates Global Aluminium di Uni Emirat Arab. Perseroan menyebut tengah memitigasi dampak ini lewat efisiensi penggunaan bahan baku dan perbaikan proses produksi, serta berpeluang menaikkan harga jual ke pelanggan, meski proses itu butuh waktu karena harus dinegosiasikan satu per satu dengan setiap pelanggan. Dalam kontrak jangka panjang dengan produsen kendaraan atau OEM, DRMA mengaku sudah memasukkan asumsi kurs dan harga bahan baku sejak awal perjanjian, meski pergerakan pasar di luar asumsi tetap menjadi risiko.",
+   "Di sisi ekspor, penjualan wiring harness DRMA ke Amerika Serikat melalui anak usaha PT Dharma Kyungshin Indonesia terus bertumbuh, dari sekitar 80 kontainer pada 2024 menjadi 130 kontainer pada 2025. Untuk 2026, Perseroan menargetkan kenaikan 50 persen menjadi sekitar 180 kontainer, dan realisasi hingga September 2026 sudah mendekati target tersebut. Perseroan juga mengonfirmasi telah menjadi salah satu pemasok komponen untuk pabrik BYD di Subang sejak Mei 2026, meski kontribusinya ke pendapatan masih kecil karena pabrik itu masih pada tahap uji coba. Peluang pertumbuhan dari lokalisasi komponen kendaraan listrik diperkirakan baru terbuka lebih luas pada kuartal II hingga kuartal III 2027, dan DRMA menyebut sedang menjajaki kerja sama dengan sejumlah merek otomotif lain, termasuk dari Vietnam.",
+   "Secara keseluruhan, kinerja sembilan bulan pertama 2026 DRMA masih tumbuh: pendapatan tercatat Rp5,097 triliun, naik 16 persen dibanding periode sama tahun lalu, dan laba bersih Rp487,6 miliar, naik 13,9 persen. Segmen roda dua menyumbang 59 persen dari pendapatan dan roda empat 25 persen. Realisasi ini sudah melampaui target pertumbuhan tahun penuh 2026 sebesar sekitar 10 persen yang dipatok manajemen. Perseroan mengalokasikan capex atau belanja modal Rp400 miliar pada 2026 untuk pengembangan produk baru dan investasi di perusahaan patungan PT Dharma Minth Indonesia yang didirikan bersama Minth Group pada September 2026, selain mengakuisisi 82 persen saham PT Mah Sing Indonesia yang kini menjadi PT Dharma Multiplast Solutions Indonesia, serta membeli lahan di Jababeka Industrial Estate dan Kawasan Industri MM2100 Cibitung untuk menambah kapasitas produksi.",
+   "Soal dividen, manajemen DRMA menyebut keputusan rasio pembagian dividen atau payout ratio untuk tahun buku 2026 baru akan disampaikan pada Rapat Umum Pemegang Saham tahun depan, dengan mempertimbangkan kinerja keuangan dan kebutuhan pengembangan usaha. Sebagai gambaran, dividen tunai per saham DRMA naik dari Rp14,97 pada 2022 menjadi Rp70 pada 2026, dengan payout ratio 50,5 persen pada 2026, tertinggi dalam lima tahun terakhir, dan total dividen tunai yang dibagikan tahun ini Rp329,4 miliar."
   ],
   "fotoAdegan": "Factory workers assembling wiring harness and metal chassis components on an automotive parts production line in Indonesia",
-  "takeaway": "Materi ini condong positif bagi Dharma Polimetal karena hampir semua indikator inti, pendapatan, laba bersih, dan dividen, tumbuh dua digit sekaligus didukung ekspansi nyata lewat akuisisi dan joint venture baru. Yang tersentuh adalah laba bersih, yaitu keuntungan setelah semua biaya dan pajak, yang naik 13,9 persen jadi Rp487,6 miliar, serta rencana belanja modal atau capex, yaitu dana yang dikeluarkan perusahaan untuk membangun aset baru seperti pabrik atau mesin, sebesar Rp400 miliar yang akan menyedot arus kas tahun ini meski untuk tujuan ekspansi. Pelaku pasar biasanya mencermati rasio pembagian dividen atau payout ratio, yakni porsi laba yang dibagikan ke pemegang saham, yang di sini naik ke 50,5 persen, level tertinggi dalam catatan lima tahun terakhir. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose pada 19 November 2026, saat manajemen biasanya memberi penjelasan lebih rinci soal target pertumbuhan 10 persen untuk sisa tahun 2026 serta progres integrasi Dharma Multiplast Solutions Indonesia dan joint venture Dharma Minth Indonesia.",
-  "sentimen": "positif",
+  "takeaway": "Hasil public expose ini bersifat netral bagi Dharma Polimetal: bisnisnya tetap tumbuh, tetapi dokumen ini juga mengonfirmasi bahwa marginnya tertekan oleh faktor di luar kendali manajemen, yakni pelemahan rupiah dan kenaikan harga bahan baku. Pos yang tersentuh adalah margin kotor, yaitu selisih antara harga jual dan biaya produksi sebelum dikurangi biaya lain, yang menyempit karena rupiah melemah sekitar 7 persen dan harga plastik serta tembaga naik hingga 40 persen sejak awal tahun, sementara rasio pembagian dividen atau payout ratio untuk tahun buku 2026 belum dipastikan dan baru akan diputuskan di RUPS tahun depan. Yang perlu dipantau berikutnya adalah realisasi ekspor wiring harness yang ditargetkan menembus 180 kontainer pada akhir 2026, kelanjutan uji coba pasokan komponen ke pabrik BYD di Subang, serta keputusan rasio dividen tahun buku 2026 pada RUPS tahun depan.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
@@ -9882,7 +10095,16 @@ var ARTICLES = [
     "tanggal": "2026-11-19",
     "acara": "Pelaksanaan Public Expose Tahunan DRMA"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-23T13:47:17",
+    "ringkas": "Hasil public expose 19 November mengungkap laba bersih 9M26 tertekan kenaikan kurs dolar AS dan harga bahan baku, meski ekspor dan diversifikasi EV tumbuh.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_DRMA_E003_956ea93d-a999-4b25-ad1c-aacdc8a7d693-20261123134719.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-23T13:47:17"
  },
  {
   "slug": "public-expose-pzza-9m-2026-laba-bersih-naik-ke-rp17-1-miliar",

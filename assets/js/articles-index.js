@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "suspensi-inps-dicabut-24-november-perdagangan-dibuka-lagi",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi INPS Dicabut 24 November, [Perdagangan] Dibuka Lagi",
+  "deck": "Bursa mencabut suspensi saham INPS mulai sesi I Call Auction, Selasa 24 November 2026, setelah syarat Papan Pemantauan Khusus dipenuhi.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INPS",
+   "suspensi saham",
+   "BEI",
+   "private placement"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_INPS_B007_c039d07c-68c4-4038-a0cd-3fd2b5276b6e-20261124085932.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ppgl-negosiasi-ekspansi-usaha-dengan-dua-mitra-gagal",
+  "category": "Aksi Korporasi",
+  "title": "PPGL: Negosiasi Ekspansi Usaha dengan Dua Mitra [Gagal]",
+  "deck": "Negosiasi pengembangan usaha PPGL dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek gagal disepakati 23 November 2026, perseroan fokus kembali ke freight forwarding.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PPGL",
+   "freight forwarding",
+   "negosiasi bisnis",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_PPGL_E019_8825634d-9280-4af1-9a7f-8b03280208a2-20261124084853.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "jensen-huang-kembali-pimpin-nvidia-beri-apresiasi-ke-jajaran",
   "category": "Teknologi",
   "title": "Jensen Huang [Kembali] Pimpin Nvidia, Beri Apresiasi ke Jajaran",
@@ -6473,38 +6505,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7225/asean-defa-mesin-baru-pertumbuhan-ekonomi-indonesia-dorong-potensi-ekonomi-digital-asean-capai-usd2-triliun-pada-2030",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "ica-cepa-ri-kanada-mulai-berlaku-1-desember-2026",
-  "category": "Global",
-  "title": "ICA-CEPA RI-Kanada Mulai Berlaku [1 Desember] 2026",
-  "deck": "Indonesia dan Kanada menandai implementasi ICA-CEPA yang menghapus tarif 3.100 pos mulai 1 Desember 2026, dibahas Menko Airlangga di sela ASEAN Summit Manila.",
-  "date": "14 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
-  "tags": [
-   "ICA-CEPA",
-   "Indonesia-Kanada",
-   "Airlangga Hartarto",
-   "ASEAN Summit"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7226/menko-airlangga-optimis-ica-cepa-bisa-dongkrak-perdagangan-ri-kanada-hingga-dua-kali-lipat",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "pertamina-tambah-beasiswa-dan-mangrove-di-kalimantan",
-  "category": "BUMN",
-  "title": "Pertamina Tambah [Beasiswa] dan Mangrove di Kalimantan",
-  "deck": "Pertamina Foundation dan PHI menandai lima tahun program mangrove Hutan Lestari Mahakam sekaligus mengukuhkan 12 penerima beasiswa baru untuk mahasiswa Kalimantan.",
-  "date": "14 November 2026",
-  "image": "assets/img/pertamina-tambah-beasiswa-dan-mangrove-di-kalimantan.jpg",
-  "imageV": "mwgkv8p6",
-  "tags": [
-   "Pertamina Foundation",
-   "Mangrove Mahakam",
-   "Beasiswa Kalimantan",
-   "CSR BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478376-membangun-kalimantan-dari-dua-sisi-pemulihan-hutan-dan-pendidikan-berkelanjutan"
  }
 ];

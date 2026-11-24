@@ -3,6 +3,67 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "suspensi-inps-dicabut-24-november-perdagangan-dibuka-lagi",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi INPS Dicabut 24 November, [Perdagangan] Dibuka Lagi",
+  "deck": "Bursa mencabut suspensi saham INPS mulai sesi I Call Auction, Selasa 24 November 2026, setelah syarat Papan Pemantauan Khusus dipenuhi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T08:59:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_INPS_B007_c039d07c-68c4-4038-a0cd-3fd2b5276b6e-20261124085932.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INPS",
+  "tags": [
+   "INPS",
+   "suspensi saham",
+   "BEI",
+   "private placement"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) mencabut suspensi perdagangan saham PT Indah Prakasa Sentosa Tbk (INPS) di seluruh pasar, berlaku mulai Sesi I Periodic Call Auction pada Selasa, 24 November 2026, hingga ada pengumuman lebih lanjut. Dengan pencabutan ini, status perdagangan saham INPS kembali aktif, meski saham tetap tercatat di Papan Pemantauan Khusus.",
+   "Suspensi ini sebelumnya dipasang BEI sejak 17 September 2026 melalui pengumuman nomor Peng-SPT-00008/BEI.PP1/09-2026. Pada 2 Oktober 2026, BEI menerbitkan surat edaran nomor SE-00011/BEI/10-2026 yang menjelaskan syarat pencabutan suspensi bagi perusahaan tercatat di Papan Pemantauan Khusus. Perseroan kemudian mengirim surat kepada OJK dan BEI pada 4 November 2026 perihal rencana penambahan modal tanpa hak memesan efek terlebih dahulu melalui penempatan terbatas atau private placement, sebelum mengajukan permohonan resmi pencabutan suspensi pada 19 November 2026. BEI menyatakan seluruh persyaratan sesuai surat edaran tersebut telah dipenuhi perseroan.",
+   "Pengumuman pencabutan suspensi ditandatangani oleh Teuku Fahmi Ariandar selaku Kepala Divisi Penilaian Perusahaan 1 dan Pande Made Kusuma Ari A. selaku Kepala Divisi Pengaturan dan Operasional Perdagangan. BEI meminta seluruh pihak yang berkepentingan untuk terus memperhatikan keterbukaan informasi yang disampaikan perseroan ke depan."
+  ],
+  "fotoAdegan": "Pedestrians and office workers crossing a busy street beneath modern financial district towers in Jakarta at midday",
+  "takeaway": "Pencabutan suspensi ini netral bagi fundamental INPS, karena hanya menandakan syarat administratif bursa sudah dipenuhi, bukan bukti perbaikan kinerja usaha. Yang perlu diperhatikan adalah rencana penambahan modal tanpa hak memesan efek terlebih dahulu melalui private placement yang disebut dalam surat perseroan 4 November 2026, karena skema ini menerbitkan saham baru dan berpotensi menambah jumlah saham beredar sehingga laba per saham bisa terdilusi kalau porsinya besar, meski dokumen ini belum merinci jumlah saham atau harganya. Saham INPS juga tetap tercatat di Papan Pemantauan Khusus, artinya persoalan yang membuatnya disuspensi sejak 17 September 2026 belum tentu sepenuhnya tuntas. Pembaca perlu memantau pengumuman lanjutan soal realisasi private placement tersebut serta perkembangan perdagangan begitu mekanisme call auction sesi I berjalan mulai 24 November 2026.",
+  "sentimen": "netral",
+  "peristiwa": "suspensi",
+  "judulIdx": "Pembukaan Penghentian Sementara Perdagangan Efek",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Pembukaan kembali perdagangan saham INPS via Call Auction Sesi I"
+   }
+  ]
+ },
+ {
+  "slug": "ppgl-negosiasi-ekspansi-usaha-dengan-dua-mitra-gagal",
+  "category": "Aksi Korporasi",
+  "title": "PPGL: Negosiasi Ekspansi Usaha dengan Dua Mitra [Gagal]",
+  "deck": "Negosiasi pengembangan usaha PPGL dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek gagal disepakati 23 November 2026, perseroan fokus kembali ke freight forwarding.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T08:48:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_PPGL_E019_8825634d-9280-4af1-9a7f-8b03280208a2-20261124084853.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PPGL",
+  "tags": [
+   "PPGL",
+   "freight forwarding",
+   "negosiasi bisnis",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Prima Globalindo Logistik Tbk (PPGL) mengumumkan bahwa negosiasi pengembangan usaha dengan PT Natadana Solusi Pratama dan PT Wani Piro Rek tidak mencapai kesepakatan per 23 November 2026. Informasi ini merupakan tindak lanjut dari paparan publik insidentil yang digelar perseroan pada 18 November 2026, sekaligus pemenuhan kewajiban keterbukaan informasi material sesuai Pasal 52 POJK Nomor 45 Tahun 2024 dan Peraturan Bursa Efek Indonesia Nomor I-E.",
+   "Dengan gagalnya negosiasi tersebut, manajemen menyatakan akan memprioritaskan penguatan bisnis utama perseroan di bidang jasa pengurusan transportasi atau freight forwarding. Strategi ini akan difokuskan pada pengembangan layanan dan hubungan dengan pelanggan dengan memanfaatkan pengalaman operasional yang sudah dimiliki perseroan selama ini.",
+   "Surat keterbukaan informasi ini ditandatangani oleh Darmawan Suryadi, Direktur Utama PPGL, yang juga menegaskan bahwa kejadian ini tidak berdampak negatif terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Perseroan berkomitmen melanjutkan penyampaian perkembangan sesuai ketentuan keterbukaan informasi yang berlaku kepada otoritas bursa."
+  ],
+  "fotoAdegan": "Workers loading cardboard boxes onto a delivery truck inside a busy logistics warehouse, forklift nearby, daylight through open doors",
+  "takeaway": "Laporan ini condong negatif bagi PPGL, karena rencana ekspansi usaha yang baru dipaparkan ke investor dalam public expose insidentil 18 November 2026 ternyata gagal disepakati hanya lima hari kemudian, menandakan rapuhnya proses negosiasi tersebut meski perusahaan menyebut tidak ada dampak negatif. Tidak ada pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar yang berubah dari laporan ini, sebab yang hilang bukan aset atau dana yang sudah masuk, melainkan potensi pendapatan baru dari kerja sama dengan dua calon mitra yang batal terwujud. Yang perlu dipantau selanjutnya adalah apakah perseroan membuka negosiasi dengan mitra lain atau cukup mengandalkan bisnis freight forwarding yang sudah berjalan, serta apakah ada keterbukaan informasi lanjutan seperti yang dijanjikan dalam surat ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
   "slug": "jensen-huang-kembali-pimpin-nvidia-beri-apresiasi-ke-jajaran",
   "category": "Teknologi",
   "title": "Jensen Huang [Kembali] Pimpin Nvidia, Beri Apresiasi ke Jajaran",

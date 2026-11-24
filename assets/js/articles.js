@@ -1033,6 +1033,39 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "bali-siapkan-dana-rp414-85-miliar-sukuk-jatuh-tempo-15-des-2026",
+  "category": "Aksi Korporasi",
+  "title": "BALI Siapkan Dana Rp414,85 Miliar, Sukuk [Jatuh Tempo] 15 Des 2026",
+  "deck": "BALI menyatakan kesiapan dana Rp414,85 miliar untuk melunasi pokok Sukuk Ijarah Seri A yang jatuh tempo 15 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T15:56:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BALI_E019_05f19eb0-bbac-4cac-8c94-592449f1a708-20261124155644.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BALI",
+  "tags": [
+   "BALI",
+   "sukuk",
+   "pelunasan utang",
+   "obligasi"
+  ],
+  "body": [
+   "PT Bali Towerindo Sentra Tbk (BALI) menyampaikan keterbukaan informasi bahwa perseroan telah siap dengan dana untuk melunasi pokok Sukuk Ijarah Berkelanjutan I Bali Towerindo Sentra Tahap III Tahun 2025 Seri A senilai Rp414,85 miliar. Sukuk ini jatuh tempo pada 15 Desember 2026. Pengumuman disampaikan melalui surat bernomor 291/BTS-CORSEC/XI/2026 yang ditandatangani Lily Hidayat, Wakil Direktur Utama sekaligus Corporate Secretary perseroan.",
+   "Dalam surat yang ditujukan ke Bursa Efek Indonesia itu, BALI menyatakan akan menyetor dana pelunasan ke rekening PT Kustodian Sentral Efek Indonesia sesuai jadwal yang telah ditentukan. Kewajiban pelaporan ini mengacu pada Peraturan Bursa IV.2.11 tentang Kewajiban Penyampaian Informasi dan POJK 31/POJK.04/2015 tentang Keterbukaan Informasi atau Fakta Material. Perseroan juga berjanji akan menerbitkan keterbukaan informasi susulan begitu sukuk tersebut benar-benar lunas. Wali amanat sukuk ini adalah PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk.",
+   "Dalam laporan tersebut, perseroan menyatakan tidak ada dampak dari rencana pelunasan ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Telecommunications tower maintenance workers checking equipment on a tall steel tower under a tropical sky in Bali",
+  "takeaway": "Laporan ini condong positif bagi BALI karena perseroan menegaskan punya dana tunai untuk melunasi utang sukuk Rp414,85 miliar tepat waktu, tanpa menyebut rencana menerbitkan utang baru untuk menutupnya. Yang tersentuh adalah arus kas, yaitu uang yang keluar masuk perusahaan, karena perseroan harus menyediakan dana sebesar itu sekaligus, dan beban bunga, yaitu biaya rutin yang dibayarkan ke pemegang sukuk, yang akan hilang setelah pokoknya lunas sehingga meringankan laporan keuangan ke depan. Pelunasan penuh juga berarti total utang perseroan berkurang signifikan setelah 15 Desember 2026. Yang perlu dipantau adalah apakah dana itu benar disetor dan sukuk benar-benar lunas pada tanggal jatuh temponya, 15 Desember 2026, karena perseroan sendiri berjanji akan menerbitkan keterbukaan informasi susulan begitu pelunasan terjadi.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Jatuh tempo pelunasan pokok Sukuk Ijarah Seri A"
+   }
+  ]
+ },
+ {
   "slug": "pkpu-adhi-24-november-sidang-pertama-klaim-0-06-ekuitas",
   "category": "Aksi Korporasi",
   "title": "PKPU ADHI 24 November: Sidang Pertama, Klaim [0,06%] Ekuitas",
@@ -1280,6 +1313,44 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "public-expose-fasw-27-nov-laba-9m-2026-rp230-miliar-balik-untung",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose FASW 27 Nov: [Laba] 9M-2026 Rp230 Miliar, Balik Untung",
+  "deck": "FASW menyampaikan materi Public Expose Tahunan untuk acara 27 November 2026, memuat laporan keuangan 9M-2026 yang berbalik untung dari rugi tahun lalu.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T13:08:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_FASW_E003_1a77e247-2334-4fa9-ab85-b5fdef2705c6-20261124130821.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FASW",
+  "tags": [
+   "FASW",
+   "Fajar Surya Wisesa",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "body": [
+   "Fajar Surya Wisesa Tbk (FASW) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia melalui surat bernomor 104/FSW/CS/XI/2026 yang ditandatangani Corporate Secretary Marco Hardy. Acara paparan publik akan digelar 27 November 2026 dan dihadiri oleh Direktur Perseroan. Pendaftaran peserta dibuka melalui tautan yang dicantumkan dalam surat, dengan batas waktu Kamis, 26 November 2026 pukul 15.00 WIB.",
+   "Materi yang disertakan memuat ikhtisar keuangan tidak diaudit per September 2026. Penjualan bersih sembilan bulan pertama 2026 tercatat Rp6.852 miliar, naik 15,6 persen dibanding Rp5.925 miliar pada periode sama 2025, dengan penjualan domestik naik 14,6 persen menjadi Rp5.847 miliar dan penjualan ekspor naik 21,8 persen menjadi Rp1.005 miliar. Perusahaan membukukan laba kotor Rp826 miliar, berbalik dari rugi kotor Rp34 miliar pada 9M-2025, sementara laba bersih tercatat Rp230 miliar, dibandingkan rugi bersih Rp732 miliar pada periode yang sama tahun lalu. Beban bunga pada periode ini turun menjadi Rp219 miliar dari Rp338 miliar.",
+   "Dari sisi neraca per akhir September 2026, jumlah aset FASW tercatat Rp12.458 miliar dan jumlah liabilitas Rp6.489 miliar, sehingga ekuitas perusahaan berada di Rp5.969 miliar. Utang bank jangka pendek naik menjadi Rp1.818 miliar dari Rp1.347 miliar pada 9M-2025, sedangkan utang bank jangka panjang turun menjadi Rp2.186 miliar dari Rp2.499 miliar. Posisi kas perusahaan berkurang menjadi Rp72 miliar dari Rp197 miliar pada periode yang sama tahun lalu."
+  ],
+  "fotoAdegan": "Workers in uniform monitoring large rolls of recycled kraft paper moving through an industrial paper mill conveyor line",
+  "takeaway": "Laporan ini condong positif bagi FASW, karena materi paparan publiknya menunjukkan perusahaan berhasil keluar dari posisi rugi dan membukukan laba bersih Rp230 miliar pada sembilan bulan pertama 2026, berbalik dari rugi Rp732 miliar pada periode sama tahun lalu. Perbaikan ini terlihat dari laba kotor yang berbalik dari minus menjadi positif seiring penjualan tumbuh dua digit, serta beban bunga utang yang turun dari Rp338 miliar menjadi Rp219 miliar, artinya beban cicilan bunga pinjaman FASW mengecil dan menyisakan lebih banyak hasil usaha untuk ditahan sebagai laba. Meski begitu, kas perusahaan justru menyusut dari Rp197 miliar menjadi Rp72 miliar sementara utang bank jangka pendek naik dari Rp1,35 triliun menjadi Rp1,82 triliun, jadi perbaikan laba di atas kertas belum sepenuhnya tercermin pada likuiditas kas perusahaan. Yang perlu dipantau selanjutnya adalah pelaksanaan Public Expose pada 27 November 2026, dengan pendaftaran peserta ditutup 26 November 2026 pukul 15.00 WIB, karena di forum itu manajemen biasanya memberi penjelasan lebih rinci soal strategi dan proyeksi kinerja ke depan.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Batas akhir pendaftaran Public Expose pukul 15.00 WIB"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Pelaksanaan Public Expose Tahunan FASW"
+   }
+  ]
+ },
+ {
   "slug": "indonesia-inggris-jajaki-perjanjian-dagang-komprehensif",
   "category": "Global",
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
@@ -1361,6 +1432,32 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Fatwa ini lahir karena ada permintaan konkret dari Perkumpulan Pedagang Emas Digital Indonesia, tanda bahwa pelaku usaha sendiri yang mendorong aturan ini supaya produk mereka bisa dipasarkan sebagai sesuai syariah dan menjangkau konsumen yang selama ini ragu. Yang paling terdampak adalah platform emas digital yang menyasar pasar muslim serta konsumennya, karena sekarang ada rujukan agama yang jelas selain aturan teknis Bappebti yang sudah ada sejak 2025. Syarat paling konkret yang perlu diingat pembaca adalah kewajiban pedagang menyimpan emas fisik minimal sebanding, satu berbanding satu, dengan emas yang sudah dijual ke pelanggan, jadi platform tidak boleh menjual emas digital melebihi stok fisik yang benar-benar mereka pegang. Arahnya tampak menuju formalisasi pasar emas digital bersyariah yang lebih besar, dan yang akan membuktikan apakah aturan ini benar-benar dijalankan di lapangan, bukan cuma di atas kertas, adalah apakah Bappebti nantinya merilis daftar resmi pedagang emas digital yang sudah disetujui dan diaudit kepatuhan rasio satu banding satu itu."
+ },
+ {
+  "slug": "komisaris-independen-brrc-mundur-per-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Komisaris Independen BRRC [Mundur] per 23 November 2026",
+  "deck": "Leo Herlambang mengundurkan diri sebagai Komisaris Independen PT Raja Roti Cemerlang Tbk per 23 November 2026, perusahaan sebut tidak ada dampak material.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T12:39:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BRRC_E019_906b5078-7413-4758-a238-ccaa6197e1b7-20261124123951.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRRC",
+  "tags": [
+   "BRRC",
+   "Komisaris Independen",
+   "Tata Kelola Perusahaan",
+   "Pengunduran Diri"
+  ],
+  "body": [
+   "PT Raja Roti Cemerlang Tbk (BRRC) menyampaikan keterbukaan informasi bahwa pada 23 November 2026 perusahaan menerima surat pengunduran diri dari Leo Herlambang dari jabatan Komisaris Independen. Pelaporan ini merujuk pada Peraturan OJK Nomor 33/POJK.04/2014 dan Nomor 31/POJK.04/2015 tentang Direksi dan Dewan Komisaris Emiten, serta Peraturan I-E Bursa Efek Indonesia tentang kewajiban penyampaian informasi. Surat kepada OJK ditandatangani oleh Direktur perusahaan, Nurjihan Khairunisa.",
+   "Dalam laporannya, manajemen menyatakan tidak terdapat dampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan akibat pengunduran diri ini. Dokumen tidak menyebutkan alasan di balik keputusan Leo Herlambang, dan belum ada nama pengganti yang diumumkan untuk mengisi posisi Komisaris Independen tersebut."
+  ],
+  "fotoAdegan": "Workers inspecting trays of golden breadcrumbs on a food factory production line, bright industrial lighting",
+  "takeaway": "Pengunduran diri satu komisaris independen tanpa alasan dan tanpa nama pengganti dalam dokumen ini condong netral, karena tidak langsung mengubah kondisi keuangan perusahaan, tetapi tetap perlu diawasi karena fungsi pengawasan independen perusahaan untuk sementara berkurang. Perubahan ini tidak menyentuh pos keuangan seperti ekuitas, arus kas, atau laba per saham, sebab komisaris independen bertugas mengawasi manajemen dan menjaga kepentingan pemegang saham minoritas, bukan mengurus operasional atau pembukuan perusahaan. Regulasi mewajibkan emiten menjaga proporsi komisaris independen dalam susunan dewan, jadi berkurangnya satu kursi ini membuat komposisi dewan komisaris BRRC perlu diperhatikan sampai ada penunjukan pengganti. Yang perlu dipantau berikutnya adalah kapan dan melalui mekanisme apa, biasanya RUPS, perusahaan mengisi kembali posisi Komisaris Independen ini, karena dokumen belum menyebutkan jadwal maupun kandidatnya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "suspensi-adhi-lanjut-24-november-gagal-bayar-kupon-obligasi",
@@ -14173,8 +14270,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-srsn-8-desember-pergantian-direksi-dan-ubah-anggaran-dasar",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB SRSN 8 Desember: [Pergantian Direksi] dan Ubah Anggaran Dasar",
-  "deck": "Indo Acidatama (SRSN) menggelar RUPSLB 8 Desember 2026 membahas pergantian direksi usai pengunduran diri satu direktur, dan revisi anggaran dasar pasal kegiatan usaha sesuai KBLI 2025.",
+  "title": "RUPSLB SRSN 8 Desember: [Direksi] Sharad Ugrankar Resmi Mundur",
+  "deck": "Dokumen bahan RUPSLB SRSN ungkap nama direktur independen yang mundur: Sharad Ganesh Ugrankar, efektif 30 September 2026. RUPSLB tetap 8 Desember.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T14:42:23",
@@ -14185,16 +14282,16 @@ var ARTICLES = [
    "SRSN",
    "RUPSLB",
    "Indo Acidatama",
-   "pergantian direksi"
+   "Direksi"
   ],
   "body": [
-   "Indo Acidatama Tbk (SRSN) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Selasa, 8 Desember 2026, pukul 14.00 WIB, di Vienna Room, Lantai 7 Albergo Tower, The Bellezza Suites, Jalan Soepeno Nomor 34, Permata Hijau, Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 13 November 2026 pukul 16.00 WIB.",
-   "Agenda pertama rapat adalah perubahan susunan direksi, menyusul pengunduran diri salah satu anggota direksi perseroan. Sesuai Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, setiap pengunduran diri, pengangkatan, pemberhentian, atau penggantian anggota direksi maupun dewan komisaris harus mendapat persetujuan RUPS. Dokumen pemanggilan belum menyebutkan nama direktur yang mengundurkan diri maupun calon penggantinya.",
-   "Agenda kedua adalah persetujuan perubahan Pasal 3 Anggaran Dasar perseroan terkait maksud, tujuan, dan kegiatan usaha, untuk disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025). Perseroan menegaskan penyesuaian ini tidak mengubah kegiatan usaha yang sudah berjalan selama ini.",
-   "Rapat digelar secara elektronik melalui sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang ingin memberi kuasa secara elektronik dapat melakukannya sejak tanggal pemanggilan hingga 7 Desember 2026 pukul 12.00 WIB, yaitu satu hari kerja sebelum rapat. Anggota direksi, dewan komisaris, dan karyawan perseroan dilarang bertindak sebagai kuasa pemegang saham dalam mekanisme elektronik ini, meski dapat menjadi kuasa dalam mekanisme non-elektronik dengan catatan suaranya tidak dihitung dalam pemungutan suara."
+   "Materi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Indo Acidatama Tbk (SRSN) yang beredar menyebut nama direktur yang mengundurkan diri: Sharad Ganesh Ugrankar, yang menjabat Direktur Independen, berhenti efektif 30 September 2026. Sebelumnya perseroan hanya menyebut adanya pengunduran diri tanpa nama.",
+   "RUPSLB tetap dijadwalkan Selasa, 8 Desember 2026 pukul 14.00 WIB di Vienna Room, Lantai 7 Albergo Tower, The Bellezza Suites, Jalan Soepeno Nomor 34, Permata Hijau, Jakarta Selatan. Agenda pertama adalah persetujuan pergantian direksi menyusul pengunduran diri Sharad Ganesh Ugrankar, sesuai Peraturan OJK Nomor 33/POJK.04/2014 yang mewajibkan setiap pergantian direksi mendapat persetujuan RUPS. Dokumen belum menyebutkan nama calon pengganti.",
+   "Agenda kedua tetap persetujuan perubahan Pasal 3 Anggaran Dasar perseroan soal maksud, tujuan, dan kegiatan usaha, disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia 2025 (KBLI 2025). Perseroan menegaskan penyesuaian ini tidak mengubah kegiatan usaha yang sudah berjalan.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 13 November 2026 pukul 16.00 WIB. Rapat digelar elektronik melalui eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dan pemegang saham dapat memberi kuasa elektronik sejak pemanggilan hingga 7 Desember 2026 pukul 12.00 WIB. Direksi, komisaris, dan karyawan perseroan dilarang menjadi kuasa dalam mekanisme elektronik, meski bisa menjadi kuasa non-elektronik dengan suara tidak dihitung."
   ],
   "fotoAdegan": "Workers inspecting stainless steel distillation tanks at a chemical processing plant in Central Java, morning light",
-  "takeaway": "Laporan ini netral bagi fundamental Indo Acidatama: RUPSLB dipicu oleh pengunduran diri seorang direktur, bukan oleh masalah kinerja, dan revisi anggaran dasar hanya menyesuaikan kode klasifikasi usaha ke KBLI 2025 tanpa mengubah kegiatan usaha perseroan. Yang tersentuh adalah tata kelola dan susunan direksi, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga pelaku pasar biasanya hanya mencermati siapa pengganti direktur dan apakah ada pergeseran strategi di baliknya. Yang perlu dipantau adalah hasil RUPSLB pada 8 Desember 2026, termasuk nama direktur pengganti yang disetujui dan apakah perubahan anggaran dasar disahkan, serta batas waktu pemberian kuasa elektronik pada 7 Desember 2026 pukul 12.00 WIB bagi pemegang saham yang tidak hadir langsung.",
+  "takeaway": "Laporan ini netral bagi Indo Acidatama: terungkapnya nama direktur independen yang mundur, Sharad Ganesh Ugrankar, hanya melengkapi informasi tata kelola, bukan sinyal soal kinerja keuangan perseroan. Yang tersentuh adalah susunan direksi dan independensi dewan, bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, sehingga pelaku pasar biasanya menunggu siapa pengganti dan apakah ada pergeseran arah strategi di baliknya. Perlu dipantau hasil RUPSLB pada 8 Desember 2026, termasuk nama direktur pengganti yang disetujui dan apakah revisi anggaran dasar disahkan, serta batas akhir pemberian kuasa elektronik pada 7 Desember 2026 pukul 12.00 WIB.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
@@ -14211,7 +14308,16 @@ var ARTICLES = [
     "tanggal": "2026-12-08",
     "acara": "Pelaksanaan RUPSLB SRSN"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T15:43:14",
+    "ringkas": "Dokumen baru mengungkap nama direktur independen yang mundur: Sharad Ganesh Ugrankar, efektif 30 September 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_SRSN_E002_3650a990-663f-4134-bdde-4726036fb972-20261124154316.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-24T15:43:14"
  },
  {
   "slug": "rupslb-trin-8-desember-pergantian-susunan-direksi-komisaris",
@@ -24648,8 +24754,8 @@ var ARTICLES = [
  {
   "slug": "srtg-jadwalkan-rupslb-virtual-pada-16-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "SRTG Jadwalkan [RUPSLB] Virtual pada 16 Desember 2026",
-  "deck": "Saratoga Investama Sedaya akan menggelar RUPSLB secara virtual lewat eASY.KSEI pada 16 Desember 2026, dengan batas pencatatan pemegang saham 23 November 2026.",
+  "title": "RUPSLB SRTG 16 Desember: [Dividen] Tambahan Final dan Ubah Pasal AD",
+  "deck": "Pemanggilan resmi RUPSLB SRTG mengungkap agendanya: perubahan Pasal 17 Anggaran Dasar soal wewenang direksi dan tambahan dividen tunai final dari laba 2025, rapat virtual 16 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T16:50:36",
@@ -24659,17 +24765,38 @@ var ARTICLES = [
   "tags": [
    "SRTG",
    "RUPSLB",
-   "Saratoga Investama Sedaya",
-   "KSEI"
+   "dividen",
+   "anggaran dasar"
   ],
   "body": [
-   "PT Saratoga Investama Sedaya Tbk. (SRTG) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026 pukul 15:00. Rapat akan digelar secara elektronik melalui fasilitas Electronic General Meeting System milik PT Kustodian Sentral Efek Indonesia (KSEI), yang dikenal sebagai eASY.KSEI. Tempat penyelenggaraan serta mata acara rapat belum dibuka dalam pengumuman ini dan baru akan disampaikan melalui pemanggilan resmi pada Selasa, 24 November 2026, lewat situs web Bursa Efek Indonesia, situs resmi perusahaan, dan platform eASY.KSEI.",
-   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per Senin, 23 November 2026, atau pemilik saldo rekening efek di Penitipan Kolektif KSEI pada penutupan perdagangan hari itu. Tanggal ini menjadi batas pencatatan yang menentukan siapa yang punya hak suara dalam rapat tersebut.",
-   "Perseroan juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara tambahan. Usulan harus diajukan secara tertulis oleh satu atau lebih pemegang saham yang bersama-sama memegang minimal 1/20 atau lima persen dari seluruh saham berhak suara, dan sudah harus diterima Direksi paling lambat Selasa, 17 November 2026, yakni tujuh hari sebelum tanggal pemanggilan. Usulan itu disyaratkan diajukan dengan itikad baik, mempertimbangkan kepentingan perseroan, menyertakan alasan dan bahan pendukung, serta tidak melanggar aturan perundang-undangan maupun anggaran dasar perusahaan."
+   "PT Saratoga Investama Sedaya Tbk. (SRTG) menerbitkan pemanggilan resmi untuk Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 16 Desember 2026 pukul 15.00 WIB. Pemanggilan ini sekaligus membuka dua agenda yang sebelumnya belum diumumkan: perubahan Pasal 17 ayat (1) Anggaran Dasar perseroan soal tugas dan wewenang Direksi, serta persetujuan tambahan dividen tunai final dari laba bersih tahun buku 2025. Rapat tetap digelar secara elektronik lewat fasilitas eASY.KSEI milik PT Kustodian Sentral Efek Indonesia, dengan koordinasi pimpinan rapat, notaris, dan pihak penunjang dilakukan dari Menara Karya Lantai 12, Jalan HR Rasuna Said, Jakarta Selatan.",
+   "Agenda kedua adalah mengubah keputusan penggunaan sebagian laba bersih 2025 yang sebelumnya sudah disetujui dalam Rapat Umum Pemegang Saham Tahunan pada 18 Mei 2026. Perseroan kini mengusulkan agar sebagian laba itu dialihkan menjadi tambahan dividen tunai final bagi pemegang saham. Dasarnya adalah Laporan Keuangan Konsolidasian Perseroan dan Entitas Anak untuk tahun berakhir 31 Desember 2025, yang diaudit oleh Kantor Akuntan Publik Siddharta Widjaja & Rekan, anggota jaringan global KPMG, melalui laporan bernomor 00060/2.1005/AU.1/05/1546-1/1/III/2026 tertanggal 11 Maret 2026. Pemanggilan ini belum menyebutkan berapa nilai tambahan dividen yang diusulkan; angka itu baru akan diputuskan dalam rapat.",
+   "Agenda pertama menyangkut perubahan Pasal 17 ayat (1) Anggaran Dasar yang mengatur tugas dan wewenang Direksi perseroan. Penjelasan resmi perseroan tidak merinci lebih jauh isi perubahan pasal tersebut selain menyebut kaitannya dengan kewenangan Direksi.",
+   "Fakta yang sudah diumumkan sebelumnya tetap berlaku: pemegang saham yang berhak hadir atau memberi suara adalah mereka yang tercatat dalam Daftar Pemegang Saham perseroan atau sebagai pemilik rekening efek di KSEI per 23 November 2026. Bagi pemegang saham yang ingin diwakilkan, surat kuasa konvensional yang sudah ditandatangani di atas meterai, atau dokumen pendukung bagi pemegang saham berbentuk badan hukum, harus diterima Biro Administrasi Efek PT Datindo Entrycom paling lambat 15 Desember 2026 pukul 16.00 WIB. Alternatifnya, pemegang saham bisa memberi kuasa elektronik lewat fasilitas e-Proxy di eASY.KSEI. Notaris Jose Dima Satria dibantu Datindo akan memeriksa dan menghitung suara untuk setiap agenda rapat."
   ],
   "fotoAdegan": "Empty modern corporate boardroom with rows of chairs facing a blank podium, soft afternoon light through tall windows",
-  "takeaway": "Laporan ini netral bagi SRTG karena isinya baru pemberitahuan jadwal rapat, bukan rincian agenda yang akan diputuskan, sehingga dampaknya pada kinerja perusahaan belum bisa dinilai. Belum ada pos seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh langsung oleh pengumuman ini, sebab mata acara rapat belum dibuka ke publik. Pelaku pasar biasanya mencermati RUPSLB karena dari rapat semacam ini kerap muncul keputusan yang mengubah pos-pos tersebut, misalnya penerbitan saham baru yang menambah jumlah saham beredar dan bisa mengecilkan laba per saham, atau pembagian dividen yang memengaruhi arus kas perusahaan. Yang perlu dipantau berikutnya adalah pemanggilan resmi berisi agenda lengkap yang akan diumumkan pada 24 November 2026, serta tenggat 17 November 2026 bagi pemegang saham yang ingin mengusulkan mata acara tambahan. RUPSLB sendiri dijadwalkan berlangsung secara virtual pada 16 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi SRTG untuk saat ini, sebab dua agendanya belum punya angka yang bisa diukur dampaknya: nilai tambahan dividen tunai final belum disebutkan, dan perubahan pasal anggaran dasar soal wewenang Direksi sifatnya administratif. Pos yang perlu dicermati adalah arus kas, yaitu uang tunai yang keluar dari kas perusahaan, karena pembayaran dividen tunai akan mengurangi kas itu begitu nilainya diputuskan dan dicairkan. Berbeda dengan penerbitan saham baru, agenda ini tidak langsung menambah jumlah saham beredar atau mengubah laba per saham. Yang perlu dipantau berikutnya adalah keputusan RUPSLB pada 16 Desember 2026, yang akan menentukan berapa besar tambahan dividen tunai final itu, serta batas waktu 15 Desember 2026 pukul 16.00 WIB bagi pemegang saham yang ingin memberi kuasa kepada wakilnya.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T16:00:33",
+    "ringkas": "RUPSLB SRTG ungkap agenda: ubah Pasal 17 AD dan tambahan dividen final dari laba 2025, rapat 16 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_SRTG_E002_b86c6864-08ed-4e3e-85e2-538f0b9512c8-20261124160035.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-24T16:00:33",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Batas penyerahan surat kuasa ke BAE Datindo"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPSLB digelar virtual via eASY.KSEI"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bcic-komisaris-independen-mundur-disiapkan-jadi-dirut",

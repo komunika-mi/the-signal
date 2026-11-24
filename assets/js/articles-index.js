@@ -557,6 +557,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "bali-siapkan-dana-rp414-85-miliar-sukuk-jatuh-tempo-15-des-2026",
+  "category": "Aksi Korporasi",
+  "title": "BALI Siapkan Dana Rp414,85 Miliar, Sukuk [Jatuh Tempo] 15 Des 2026",
+  "deck": "BALI menyatakan kesiapan dana Rp414,85 miliar untuk melunasi pokok Sukuk Ijarah Seri A yang jatuh tempo 15 Desember 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BALI",
+   "sukuk",
+   "pelunasan utang",
+   "obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BALI_E019_05f19eb0-bbac-4cac-8c94-592449f1a708-20261124155644.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pkpu-adhi-24-november-sidang-pertama-klaim-0-06-ekuitas",
   "category": "Aksi Korporasi",
   "title": "PKPU ADHI 24 November: Sidang Pertama, Klaim [0,06%] Ekuitas",
@@ -669,6 +685,22 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "public-expose-fasw-27-nov-laba-9m-2026-rp230-miliar-balik-untung",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose FASW 27 Nov: [Laba] 9M-2026 Rp230 Miliar, Balik Untung",
+  "deck": "FASW menyampaikan materi Public Expose Tahunan untuk acara 27 November 2026, memuat laporan keuangan 9M-2026 yang berbalik untung dari rugi tahun lalu.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FASW",
+   "Fajar Surya Wisesa",
+   "Public Expose",
+   "kinerja keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_FASW_E003_1a77e247-2334-4fa9-ab85-b5fdef2705c6-20261124130821.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-inggris-jajaki-perjanjian-dagang-komprehensif",
   "category": "Global",
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
@@ -715,6 +747,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perdagangan-emas-fisik-secara-digital-diperbolehkan-sepanjang-penuhi-ketentuan-dan-batasan",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "komisaris-independen-brrc-mundur-per-23-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Komisaris Independen BRRC [Mundur] per 23 November 2026",
+  "deck": "Leo Herlambang mengundurkan diri sebagai Komisaris Independen PT Raja Roti Cemerlang Tbk per 23 November 2026, perusahaan sebut tidak ada dampak material.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRRC",
+   "Komisaris Independen",
+   "Tata Kelola Perusahaan",
+   "Pengunduran Diri"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BRRC_E019_906b5078-7413-4758-a238-ccaa6197e1b7-20261124123951.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "suspensi-adhi-lanjut-24-november-gagal-bayar-kupon-obligasi",
@@ -6443,54 +6491,6 @@ var ARTICLES = [
    "PMTHMETD"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/85c2d38433_2a249426c7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-indy-19-nov-laba-bersih-9m26-naik-ke-us-20-2-juta",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose INDY: Awak Mas 76,4%, [First Gold] Target Q2 2027",
-  "deck": "Hasil Public Expose INDY 19 November mengungkap progres Awak Mas naik ke 76,4%, first gold ditarget kuartal II 2027, dan pendanaan proyek lewat pinjaman sindikasi serta fasilitas DBS US$155 juta.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDY",
-   "Public Expose",
-   "Awak Mas",
-   "Indika Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbc2a1569d_af6519b4cf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-flmc-18-november-penambahan-kbli-jadi-perusahaan-induk",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB FLMC 18 November: [Penambahan KBLI] Jadi Perusahaan Induk",
-  "deck": "FLMC berencana menambah KBLI Aktivitas Perusahaan Induk untuk menaungi anak usaha distribusi baru, modal awal sekitar Rp4 miliar, diputuskan lewat RUPSLB 18 November 2026.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "RUPSLB",
-   "KBLI",
-   "perubahan kegiatan usaha"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/152ee22e6c_ca33bf049c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indy-jawab-bursa-sengketa-lahan-masmindo-tak-material",
-  "category": "Aksi Korporasi",
-  "title": "INDY Jawab Bursa: Sengketa Lahan Masmindo [Tak Material]",
-  "deck": "INDY sebut sengketa lahan Masmindo di Luwu belum material, nilai kompensasi lahan yang disengketakan kurang dari 1 persen aset konsolidasian perusahaan.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INDY",
-   "Masmindo Dwi Area",
-   "sengketa lahan",
-   "Awak Mas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feca24d19b_3dcb12a583.pdf",
   "sourceLabel": "IDX"
  }
 ];

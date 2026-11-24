@@ -5,6 +5,56 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-kejar-keanggotaan-oecd-sekjen-cormann-ke-jakarta",
+  "category": "Global",
+  "title": "RI Kejar Keanggotaan [OECD], Sekjen Cormann ke Jakarta",
+  "deck": "Sekretaris Jenderal OECD Mathias Cormann berkunjung ke Jakarta 25-26 November untuk mengecek proses aksesi Indonesia yang kini memasuki pembahasan teknis di 25 bidang.",
+  "date": "24 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "OECD",
+   "Aksesi OECD",
+   "Kemenko Perekonomian",
+   "Mathias Cormann"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7246/percepat-keanggotaan-penuh-oecd-sekjen-oecd-kunjungi-indonesia",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "ihsg-ditutup-menguat-0-49-persen-ke-5-241-59",
+  "category": "Pasar Modal",
+  "title": "IHSG Ditutup [Menguat] 0,49 Persen ke 5.241,59",
+  "deck": "IHSG naik 0,49 persen ke 5.241,59 ditopang sentimen sektor AI global, sementara MSCI menegaskan proses downgrade status pasar saham Indonesia belum berubah.",
+  "date": "24 November 2026",
+  "image": "assets/img/ihsg-ditutup-menguat-0-49-persen-ke-5-241-59.jpg",
+  "imageV": "mwul721t",
+  "tags": [
+   "IHSG",
+   "MSCI",
+   "saham AI",
+   "bursa Asia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480087-ihsg-sore-ini-ditutup-menguat-049-persen-ke-level-524159-terdorong-sektor-ai"
+ },
+ {
+  "slug": "kemenko-polkam-dan-telkom-garap-keamanan-kuantum",
+  "category": "Teknologi",
+  "title": "Kemenko Polkam dan Telkom Garap Keamanan [Kuantum]",
+  "deck": "Kemenko Polkam, BSSN, Komdigi, OJK, dan lembaga lain menandatangani komitmen bersama Telkom untuk menyiapkan kriptografi tahan kuantum guna melindungi data pemerintah dan keuangan.",
+  "date": "24 November 2026",
+  "image": "assets/img/kemenko-polkam-dan-telkom-garap-keamanan-kuantum.jpg",
+  "imageV": "mwul72fz",
+  "tags": [
+   "keamanan digital",
+   "komputasi kuantum",
+   "Telkom Indonesia",
+   "BSSN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480085-kemenko-polkam-dan-telkom-perkuat-kesiapan-keamanan-digital-hadapi-era-kuantum"
+ },
+ {
   "slug": "kppu-tolak-saksi-terlapor-i-dalam-sidang-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
@@ -138,7 +188,7 @@ var ARTICLES = [
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
   "deck": "Indonesia mendorong perjanjian dagang komprehensif dengan Inggris menjelang berakhirnya fasilitas tarif preferensi UK-DCTS pada 2027.",
   "date": "24 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Perdagangan",
@@ -542,7 +592,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan perjanjian investasi di Brussels, membuka tarif nol persen untuk 90,4 persen produk Indonesia ke pasar 450 juta penduduk Eropa.",
   "date": "23 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -1806,7 +1856,7 @@ var ARTICLES = [
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
   "date": "22 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -1890,7 +1940,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2367,7 +2417,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2820,7 +2870,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -4255,7 +4305,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -4998,7 +5048,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -5277,7 +5327,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -6446,53 +6496,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hba-periode-kedua-november-2026-naik-415-persen-jadi-usd-13081-per-ton",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "raam-ram-jethmal-punjabi-tambah-1-1-juta-saham-suara-68-87",
-  "category": "Aksi Korporasi",
-  "title": "RAAM: Ram Jethmal Punjabi [Tambah] 1,1 Juta Saham, Suara 68,87%",
-  "deck": "Direksi RAAM, Ram Jethmal Punjabi, membeli 1,1 juta saham pada 12 November 2026 seharga Rp113 sampai Rp125 per saham, menaikkan hak suaranya menjadi 68,87 persen.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RAAM",
-   "Tripar Multivision Plus",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-8597-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "nsss-direksi-kurniadi-patriawan-lepas-441-juta-saham-suara-0-21",
-  "category": "Aksi Korporasi",
-  "title": "NSSS: Direksi Kurniadi Patriawan [Lepas] 441 Juta Saham, Suara 0,21%",
-  "deck": "Direksi NSSS Kurniadi Patriawan melepas 441 juta saham atau 90,2 persen kepemilikannya pada 12 November 2026, hak suara turun dari 2,06 persen menjadi 0,21 persen.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "NSSS",
-   "kepemilikan saham",
-   "direksi",
-   "pinjaman saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-6081-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mtla-yulie-sekuritas-jual-13-05-juta-saham-suara-ke-4-94",
-  "category": "Aksi Korporasi",
-  "title": "MTLA: Yulie Sekuritas [Jual] 13,05 Juta Saham, Suara ke 4,94%",
-  "deck": "Yulie Sekuritas menjual 13,05 juta saham MTLA pada 13 November 2026 di harga Rp690, memangkas hak suara dari 5,12% menjadi 4,94%, turun di bawah ambang 5%.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTLA",
-   "Yulie Sekuritas",
-   "kepemilikan saham",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-0581-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "plts-pertamina-di-kariangau-hemat-rp400-ribu-bulan",
+  "category": "Energi",
+  "title": "PLTS Pertamina di Kariangau [Hemat] Rp400 Ribu/Bulan",
+  "deck": "Program solar panel Desa Energi Berdikari Pertamina di Kariangau memasuki tahun kedua, memangkas biaya listrik warga dan menambah penghasilan dari budidaya ikan serta hidroponik.",
+  "date": "25 November 2026",
+  "image": "assets/img/plts-pertamina-di-kariangau-hemat-rp400-ribu-bulan.jpg",
+  "imageV": "mwv1l2yo",
+  "tags": [
+   "pertamina",
+   "energi surya",
+   "desa energi berdikari",
+   "kariangau"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480183-lewat-energi-surya-pertamina-bantu-warga-kariangau-hemat-biaya-dan-tambah-cuan"
+ },
+ {
   "slug": "esdm-cek-langsung-ujung-kulon-tak-ada-tambang",
   "category": "Energi",
   "title": "ESDM Cek Langsung Ujung Kulon, [Tak] Ada Tambang",
@@ -6475,22 +6492,6 @@ var ARTICLES = [
    "pendanaan utang"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a4069bb2fe_deb2820e06.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "private-placement-mbma-free-float-turun-ke-24-06",
-  "category": "Aksi Korporasi",
-  "title": "Private Placement MBMA: [Free Float] Turun ke 24,06%",
-  "deck": "MBMA menjawab permintaan penjelasan Bursa soal private placement hingga 10,8 miliar saham: harga dan calon investor belum ditentukan, free float diperkirakan turun dari 26,47% ke 24,06%.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "private placement",
-   "free float",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/85c2d38433_2a249426c7.pdf",
   "sourceLabel": "IDX"
  }
 ];

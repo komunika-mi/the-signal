@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "plts-pertamina-di-kariangau-hemat-rp400-ribu-bulan",
+  "category": "Energi",
+  "title": "PLTS Pertamina di Kariangau [Hemat] Rp400 Ribu/Bulan",
+  "deck": "Program solar panel Desa Energi Berdikari Pertamina di Kariangau memasuki tahun kedua, memangkas biaya listrik warga dan menambah penghasilan dari budidaya ikan serta hidroponik.",
+  "image": "assets/img/plts-pertamina-di-kariangau-hemat-rp400-ribu-bulan.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T01:25:12+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480183-lewat-energi-surya-pertamina-bantu-warga-kariangau-hemat-biaya-dan-tambah-cuan",
+  "tags": [
+   "pertamina",
+   "energi surya",
+   "desa energi berdikari",
+   "kariangau"
+  ],
+  "body": [
+   "PT Pertamina Trans Kontinental (PTK) melanjutkan program Desa Energi Berdikari (DEB) di Kariangau, kali ini dengan menggelar monitoring dan edukasi tahap ketiga bagi warga pengelola panel surya. Program yang berjalan sejak 2024 ini bertujuan menjaga agar manfaat energi matahari yang diberikan tidak berhenti begitu saja setelah fasilitas terpasang, melainkan terus dikelola warga secara mandiri. Bagi warga Kariangau, ini berarti sumber listrik alternatif yang sekaligus menopang kegiatan ekonomi rumah tangga.",
+   "Sejak diluncurkan, PLTS di Kariangau tercatat menekan emisi karbon sekitar 55 kilogram CO2 setiap bulan, angka yang menunjukkan panel surya tersebut benar dipakai menggantikan listrik dari sumber lain, bukan sekadar terpasang tanpa dimanfaatkan. Sesi monitoring tahap III ini difokuskan pada pendampingan kelompok perempuan pengelola DEB agar listrik dari panel surya bisa dioptimalkan untuk mendukung budidaya ikan dan pertanian hidroponik.",
+   "VP Legal & Relation PTK Amran Reza mengatakan keberhasilan program pemberdayaan tidak cukup diukur dari tersedianya fasilitas, tetapi juga dari keberlanjutan manfaat dan kemampuan warga mengelolanya sendiri. Karena itu, PTK rutin menggelar kegiatan monitoring dan edukasi semacam ini. Ia menambahkan, pemanfaatan energi surya turut mendukung efisiensi kegiatan sehari-hari warga sekaligus berkontribusi pada pengurangan emisi gas rumah kaca.",
+   "Manfaat itu dirasakan langsung oleh Mirawati, pengelola kelompok DEB Kariangau. Ia mengungkapkan penggunaan energi surya menghemat pengeluaran hingga Rp400 ribu per bulan, sementara fasilitas yang sama menopang kegiatan produktif seperti budidaya ikan dan tanaman hidroponik yang mendatangkan tambahan penghasilan kelompok sekitar Rp3,8 juta per bulan."
+  ],
+  "fotoAdegan": "Women tending floating fish ponds and hydroponic vegetable racks beneath rooftop solar panels in a rural Indonesian village.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/25/6b05d5ced58c2-lewat-energi-surya-pertamina-bantu-warga-kariangau-hemat-biaya-dan-tambah-cuan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan teknologi baru, melainkan buktinya program PLTS yang dipasang Pertamina Trans Kontinental di Kariangau sejak 2024 masih dipantau sampai tahap ketiga, tanda perusahaan tidak melepas begitu saja fasilitas setelah dipasang. Yang merasakan dampak langsung adalah kelompok perempuan pengelola Desa Energi Berdikari, dengan penghematan listrik sekitar Rp400 ribu per bulan dan tambahan pendapatan kelompok sekitar Rp3,8 juta per bulan dari hasil budidaya ikan dan hidroponik yang ditenagai panel surya. Pola pendampingan berjenjang seperti ini lazim dipakai perusahaan energi untuk desa binaan, tetapi berita ini hanya menyajikan satu titik, Kariangau, tanpa menyebut berapa banyak Desa Energi Berdikari lain yang dikelola Pertamina atau apakah hasil serupa bakal direplikasi ke desa lain. Yang perlu ditunggu adalah laporan tahap berikutnya atau data resmi jumlah DEB Pertamina secara nasional, agar jelas apakah ini kasus tunggal atau bagian dari program yang terus diperluas.",
+  "imageV": "mwv1l2yo"
+ },
+ {
   "slug": "esdm-cek-langsung-ujung-kulon-tak-ada-tambang",
   "category": "Energi",
   "title": "ESDM Cek Langsung Ujung Kulon, [Tak] Ada Tambang",
@@ -483,7 +510,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah status proses aksesi: pembahasan teknis soal keselarasan aturan Indonesia dengan standar OECD sudah berjalan di 25 bidang sejak September 2025, dan kunjungan Cormann dipakai untuk mengecek kemajuannya langsung di level menteri. Pihak yang kena dampak nantinya adalah instansi pemerintah yang aturannya harus disesuaikan, termasuk sektor jasa keuangan yang diawasi OJK, dunia usaha yang diwakili Kadin dan Apindo, serta industri semikonduktor yang jadi fokus salah satu laporan baru. Siaran pers ini tidak menyebut berapa dari 25 bidang itu yang sudah tuntas direview atau kapan target aksesi selesai, jadi seberapa cepat prosesnya belum bisa dipastikan dari sini. Yang perlu dicermati adalah isi Indonesia Economic Survey OECD yang terbit 26 November, karena laporan semacam itu biasanya memuat rekomendasi kebijakan yang bisa menunjukkan bidang mana yang masih jadi ganjalan.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "itic-refinancing-rp146-24-miliar-ke-bca-lunasi-woori-saudara",

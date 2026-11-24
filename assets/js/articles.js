@@ -3,6 +3,136 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "esdm-cek-langsung-ujung-kulon-tak-ada-tambang",
+  "category": "Energi",
+  "title": "ESDM Cek Langsung Ujung Kulon, [Tak] Ada Tambang",
+  "deck": "Tim ESDM menyusuri Taman Nasional Ujung Kulon dengan kapal dan drone untuk mengecek kabar tambang di kawasan habitat badak jawa, dan tidak menemukan aktivitas pertambangan.",
+  "image": "assets/img/esdm-cek-langsung-ujung-kulon-tak-ada-tambang.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:10:52.054Z",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/susuri-ujung-kulon-dengan-kapal-dan-drone-kementerian-esdm-pastikan-tak-ada-tambang-di-taman-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral",
+  "tags": [
+   "ESDM",
+   "Ujung Kulon",
+   "Tambang",
+   "Konservasi"
+  ],
+  "body": [
+   "Tim inspektur tambang Kementerian Energi dan Sumber Daya Mineral (ESDM) menyusuri Taman Nasional Ujung Kulon (TNUK) di Kabupaten Pandeglang, Banten, pada Minggu, 22 November 2026, menggunakan kapal dan drone. Pemeriksaan ini menindaklanjuti kabar yang beredar di masyarakat tentang dugaan aktivitas tambang di dalam kawasan konservasi yang menjadi habitat badak jawa tersebut. Tim yang didampingi polisi kehutanan Balai TNUK tidak menemukan satu pun aktivitas pertambangan di dalam kawasan.",
+   "Perjalanan verifikasi dimulai dari Pulau Peucang, lalu tim mengambil data udara di perairan Cimayang sebelum memeriksa beberapa titik di Desa Mangkualam dan Desa Ranca Pinang, Kecamatan Cimanggu. Gambar udara dari drone merekam kondisi tutupan hutan, ada tidaknya lahan yang dibuka, dan aktivitas di sekitar kawasan. Hasil pengamatan langsung maupun dokumentasi udara itu dikuatkan keterangan polisi kehutanan yang mendampingi tim selama pemeriksaan, yakni tidak ada jejak kegiatan tambang di dalam taman nasional.",
+   "Hasil verifikasi ini sejalan dengan penegasan Menteri Koordinator Bidang Hilirisasi dan Energi yang juga menjabat Menteri ESDM, Bahlil Lahadalia, di Jakarta, Senin, 23 November 2026. Ia menyebut wilayah pertambangan tidak termasuk wilayah taman nasional. Menurut Bahlil, pemetaan wilayah potensi mineral memang sudah dilakukan sejak 2014 dan diperbarui pada 2017 serta 2022 berdasarkan usulan daerah, tetapi penetapan itu hanya pendataan potensi mineral, bukan pemberian izin menambang. Untuk bisa benar-benar menambang, sebuah wilayah harus melalui penetapan Wilayah Izin Usaha Pertambangan (WIUP) lebih dulu, baru kemudian Izin Usaha Pertambangan (IUP) bisa diterbitkan, dan keduanya tidak pernah ada di Ujung Kulon.",
+   "\"Jangankan IUP ya, WIUP-nya aja belum ada yang dikeluarkan,\" kata Bahlil. Ia memastikan proses itu tidak akan pernah berlanjut di kawasan konservasi dan menegaskan tidak akan pernah ada izin tambang yang diterbitkan di wilayah-wilayah seperti itu. Kementerian ESDM menyatakan akan terus memperkuat pengawasan bersama Balai TNUK dan instansi terkait agar fungsi perlindungan Taman Nasional Ujung Kulon tetap terjaga."
+  ],
+  "fotoAdegan": "A small patrol boat navigating a narrow forest-lined river inside a tropical national park, dense green canopy on both banks",
+  "fotoSumber": "https://www.esdm.go.id/assets/imagecache/thumbnailMeta/arsip-berita-susuri-ujung-kulon-dengan-kapal-dan-drone-kementerian-esdm-pastikan-tak-ada-tambang-di-taman-nasional-k36mxiw.jpeg",
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "takeaway": "Yang berubah dari peristiwa ini bukan aturan baru, melainkan konfirmasi bahwa izin tambang, baik yang berupa penetapan wilayah izin usaha pertambangan maupun izin usaha pertambangan itu sendiri, memang belum pernah diterbitkan untuk kawasan Ujung Kulon, meski area ini sudah masuk peta potensi mineral sejak 2014 dan diperbarui pada 2017 dan 2022. Yang terdampak langsung adalah warga di sekitar kawasan konservasi seperti Desa Mangkualam dan Ranca Pinang, serta upaya pelestarian habitat badak jawa yang membuat isu ini sampai perlu dicek langsung ke lapangan. Arahnya, pemerintah memilih jalan membantah lewat verifikasi lapangan dan janji tidak akan pernah menerbitkan izin di kawasan konservasi, bukan dengan mengubah batas peta potensi mineral yang sejak awal tumpang tindih dengan taman nasional. Yang perlu dipantau adalah apakah pemetaan potensi mineral berikutnya akan benar-benar mengeluarkan kawasan taman nasional dari daftar itu, atau isu serupa justru akan muncul lagi di kawasan konservasi lain yang masih tercatat punya potensi mineral di atas peta.",
+  "imageV": "mwuwbmwp"
+ },
+ {
+  "slug": "hipmi-perkuat-kaderisasi-pengusaha-muda-lewat-bidang-okk",
+  "category": "Bisnis",
+  "title": "HIPMI Perkuat [Kaderisasi] Pengusaha Muda Lewat Bidang OKK",
+  "deck": "Satrio Rama Widyowicaksono memimpin bidang Organisasi, Kaderisasi, dan Keanggotaan di kepengurusan HIPMI 2026-2029 untuk menata ulang regenerasi pengusaha muda.",
+  "image": "assets/img/hipmi-perkuat-kaderisasi-pengusaha-muda-lewat-bidang-okk.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T22:23:11+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480158-hipmi-perkuat-regenerasi-pengusaha-muda-satrio-rama-pimpin-bidang-okk",
+  "tags": [
+   "HIPMI",
+   "kaderisasi",
+   "pengusaha muda",
+   "organisasi bisnis"
+  ],
+  "body": [
+   "Himpunan Pengusaha Muda Indonesia (HIPMI) menata ulang cara mencetak pemimpin baru untuk periode 2026-2029. Organisasi ini menegaskan bahwa menambah jumlah anggota saja tidak cukup, karena kader yang naik ke posisi pengurus juga perlu punya kemampuan memimpin, memahami tata kelola organisasi, dan bisa bekerja sama dengan pengurus di daerah lain.",
+   "Untuk urusan itu, HIPMI mengandalkan bidang Organisasi, Kaderisasi, dan Keanggotaan atau OKK, yang kini dipimpin Satrio Rama Widyowicaksono di bawah susunan Badan Pengurus Pusat (BPP) HIPMI yang diketuai Ade Jona Prasetyo. Bidang ini bertanggung jawab menjaga hubungan kerja antara pengurus pusat, pengurus daerah (BPD), dan pengurus cabang (BPC) yang tersebar di berbagai wilayah, sekaligus memastikan sistem keanggotaan dan jalur kaderisasi berjalan tertata, bukan sekadar mengikuti pergantian pengurus setiap periode.",
+   "Satrio menyebut posisinya bukan sekadar jabatan organisasi, melainkan tanggung jawab membangun HIPMI yang lebih kuat dan bermanfaat bagi anggotanya. Ia mengaitkan kekuatan organisasi dengan kualitas kader dan solidaritas anggota dari tingkat daerah hingga nasional, sembari menyebut dukungannya terhadap program Presiden Prabowo Subianto serta kepemimpinan Ade Jona Prasetyo bersama Sekretaris Jenderal Anthony Leong dan Bendahara Umum Reynaldo Bryan."
+  ],
+  "fotoAdegan": "Young Indonesian entrepreneurs seated around a table in a bright co-working space, discussing documents together",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b05ab3f8ddb6-hipmi-perkuat-regenerasi-pengusaha-muda-satrio-rama-pimpin-bidang-okk_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah pergantian pengurus, bukan kebijakan ekonomi: Satrio Rama resmi memegang bidang kaderisasi dan keanggotaan di HIPMI untuk periode 2026-2029. Yang langsung terdampak adalah jaringan internal HIPMI sendiri, yaitu pengurus daerah dan cabang di berbagai wilayah yang proses pencetakan kadernya akan diatur dari bidang ini, bukan pengusaha muda di luar organisasi secara umum. Berita ini belum menyebutkan program kerja konkret, target jumlah kader, atau jadwal pelatihan yang akan dijalankan, sehingga belum bisa dibaca apakah pergantian pengurus ini akan benar-benar mengubah cara HIPMI merekrut dan menyiapkan pemimpin baru. Yang perlu ditunggu adalah program kerja resmi bidang OKK atau pertemuan koordinasi dengan BPD dan BPC yang biasanya menyusul pelantikan pengurus baru, karena di situ arah kaderisasi yang dijalankan baru akan terlihat jelas.",
+  "imageV": "mwuwbnct"
+ },
+ {
+  "slug": "pertamina-dampingi-umk-dari-ambon-hingga-ntt",
+  "category": "UMKM",
+  "title": "Pertamina Dampingi UMK dari [Ambon] hingga NTT",
+  "deck": "Pertamina membina pelaku usaha kecil di Ambon dan NTT lewat pelatihan pengelolaan bisnis serta membukakan akses pasar melalui pameran SMEXPO.",
+  "image": "assets/img/pertamina-dampingi-umk-dari-ambon-hingga-ntt.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T21:48:55+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480151-memberdayakan-umk-pertamina-perkuat-bisnis-lokal-dari-ambon-hingga-ntt",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "ambon",
+   "ntt"
+  ],
+  "body": [
+   "Pertamina memperluas pembinaan usaha mikro dan kecil ke wilayah timur Indonesia lewat program Pertamina UMK Academy 2026, menyasar pelaku usaha di Ambon hingga Nusa Tenggara Timur. Program ini penting karena wilayah timur selama ini kerap kesulitan menjual produk lokalnya ke pasar yang lebih luas, sehingga pendampingan manajerial dan bukaan akses pasar bisa jadi penentu apakah usaha kecil di sana bisa bertahan atau berkembang.",
+   "Salah satu yang mendapat pendampingan adalah Winda Tania Untung, pemilik usaha minuman buah dan sayur segar tanpa pengawet bernama Pure Ambuena di Ambon. Menurut Winda, program ini membantunya membenahi hal yang sering diabaikan pelaku usaha kecil, yaitu pencatatan keuangan yang rapi dan operasional yang konsisten, bukan sekadar menghasilkan produk yang enak.",
+   "Di Labuan Bajo, NTT, Rosalina membawa usaha tenun Asrotenunku yang melestarikan wastra khas daerah tersebut. Ia menyebut penjualan yang rutin langsung berdampak pada perajin, karena dana dari hasil jualan dipakai untuk memesan kain baru dari para penenun di desanya, sehingga roda usaha para perajin itu ikut berjalan selama produknya laku.",
+   "Vice President Corporate Communication Pertamina, Muhammad Baron, menjelaskan bahwa pendampingan ini berjalan lewat Small and Medium Enterprise Partnership Program (SMEPP), dengan akses pasar yang difasilitasi antara lain lewat ajang pameran Pertamina SMEXPO. Baron menyebut manfaat program ini menjalar ke perajin, petani, dan pemasok yang terlibat dalam rantai usaha tersebut. Pertamina sendiri telah menjalankan program pembinaan UMK ini sejak 2020 sebagai bagian dari Tanggung Jawab Sosial dan Lingkungan perusahaan."
+  ],
+  "fotoAdegan": "Women weaving traditional ikat textiles by hand on wooden looms in a village courtyard, eastern Indonesia, daylight",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b05a3510c44e-potensi-ekonomi-indonesia-timur-kini-semakin-bergeliat-berkat-kreativitas-pelaku-usaha-mikro-dan-kecil-umk-yang-didukung-oleh-program-pembinaan-pt-pertamina-persero_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini adalah perluasan pembinaan Pertamina ke pelaku usaha kecil di Ambon dan NTT, berupa pelatihan mengelola keuangan dan operasional, ditambah jalur jualan lewat pameran SMEXPO. Yang terkena dampak bukan cuma pemilik usaha seperti Winda dan Rosalina, tapi juga perajin tenun dan pemasok buah segar yang order mereka ikut naik turun sesuai laku tidaknya produk itu di pasar. Berita ini belum menyebut berapa banyak UMK yang sudah ikut program ini di dua daerah tersebut, berapa dana yang dikeluarkan Pertamina lewat program tanggung jawab sosialnya, atau seberapa besar kenaikan penjualan setelah dibina. Tanpa angka itu, belum bisa dipastikan apakah program ini benar mengubah skala usaha mereka atau baru sebatas pelatihan dan testimoni. Yang perlu dicek berikutnya adalah laporan TJSL Pertamina atau data peserta SMEXPO yang biasanya dirilis setiap tahun.",
+  "imageV": "mwuwbnsx"
+ },
+ {
+  "slug": "pnm-kantongi-rating-aaa-tertinggi-dari-fitch-ratings",
+  "category": "BUMN",
+  "title": "PNM Kantongi Rating [AAA] Tertinggi dari Fitch Ratings",
+  "deck": "Fitch Ratings Indonesia memberi PNM peringkat nasional AAA(idn) dengan outlook stabil, melengkapi rating setara yang sebelumnya diberikan PEFINDO.",
+  "image": "assets/img/pnm-kantongi-rating-aaa-tertinggi-dari-fitch-ratings.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T20:48:37+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480142-raih-peringkat-tertinggi-fitch-rating-pnm-perkuat-pemberdayaan-nasabah",
+  "tags": [
+   "PNM",
+   "Fitch Ratings",
+   "BUMN",
+   "PNM Mekaar"
+  ],
+  "body": [
+   "PT Permodalan Nasional Madani (Persero) atau PNM mengumumkan perolehan peringkat nasional jangka panjang AAA(idn) dengan outlook stabil dari Fitch Ratings Indonesia. Peringkat ini adalah level tertinggi dalam skala nasional Fitch, yang berarti PNM dinilai memiliki risiko gagal bayar utang paling kecil dibanding penerbit lain di dalam negeri. Bagi perusahaan pembiayaan mikro milik negara ini, penilaian tersebut menjadi penanda kesehatan keuangan sekaligus modal kepercayaan di pasar.",
+   "Outlook stabil yang menyertai peringkat tersebut menunjukkan Fitch memperkirakan posisi PNM tidak akan berubah signifikan dalam waktu dekat. Pencapaian ini juga bukan yang pertama, sebab sebelumnya PEFINDO sudah memberi rating setara kepada PNM, sehingga kini perusahaan mengantongi pengakuan sejenis dari dua lembaga pemeringkat berbeda.",
+   "Direktur Utama PNM, Kindaris, menyebut pencapaian ini sebagai bentuk kepercayaan yang harus dijaga dengan kedisiplinan mengelola kualitas pembiayaan, manajemen risiko, dan tata kelola perusahaan. Ia menegaskan kekuatan perusahaan harus terasa manfaatnya hingga ke nasabah, terutama lewat program PNM Mekaar yang menyediakan pembiayaan sekaligus pendampingan usaha, pelatihan, dan penguatan kapasitas bagi perempuan prasejahtera di berbagai daerah.",
+   "Kindaris menambahkan bahwa pendampingan kepada nasabah, yang mayoritas ibu-ibu pelaku usaha kecil, akan terus diperkuat seiring upaya menjaga kesehatan perusahaan. PNM menyatakan akan melanjutkan pengelolaan bisnis yang bertanggung jawab, tata kelola yang baik, dan manajemen risiko yang terukur sebagai fondasi keberlanjutan layanan tersebut."
+  ],
+  "fotoAdegan": "Group of women arranging small handmade goods at a modest home-based stall in an Indonesian village market",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b0593ae07237-raih-peringkat-tertinggi-fitch-rating-pnm-jaga-keberlanjutan-pemberdayaan-nasabah_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah adalah status kepercayaan PNM di mata lembaga pemeringkat: Fitch Ratings Indonesia memberi nilai AAA(idn), nilai tertinggi yang bisa didapat perusahaan di pasar utang dalam negeri, dengan outlook stabil yang berarti nilai itu diperkirakan tidak berubah dalam waktu dekat. Nilai ini melengkapi rating setara yang sebelumnya sudah diberikan PEFINDO, jadi PNM kini punya dua pengakuan sejenis dari dua lembaga berbeda. Yang terdampak langsung adalah PNM sendiri sebagai BUMN pembiayaan, karena rating tinggi biasanya membuat perusahaan lebih mudah dan lebih murah mencari dana lewat obligasi atau pinjaman bank, dan secara tidak langsung nasabah Mekaar, yakni perempuan pelaku usaha kecil yang bergantung pada kelancaran aliran pembiayaan itu. Yang belum terlihat dari pengumuman ini adalah apakah PNM benar memakai rating tersebut untuk menerbitkan instrumen utang baru atau memperbesar penyaluran Mekaar, sehingga itu yang perlu dicek pada laporan pendanaan atau penyaluran PNM berikutnya.",
+  "imageV": "mwuwbo84"
+ },
+ {
+  "slug": "sekjen-oecd-kunjungi-indonesia-genjot-proses-aksesi",
+  "category": "Global",
+  "title": "Sekjen OECD Kunjungi Indonesia, Genjot Proses [Aksesi]",
+  "deck": "Sekjen OECD Mathias Cormann ke Jakarta 25-26 November, saat tinjauan teknis aksesi Indonesia sudah mencakup 25 bidang kebijakan.",
+  "image": "assets/img/sekjen-oecd-kunjungi-indonesia-genjot-proses-aksesi.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T20:43:06+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480139-percepat-aksesi-oecd-sekjen-mathias-cormann-kunjungi-indonesia",
+  "tags": [],
+  "body": [
+   "Sekretaris Jenderal Organisation for Economic Co-operation and Development (OECD), Mathias Cormann, dijadwalkan mengunjungi Jakarta pada 25 dan 26 November 2026. Kunjungan ini terkait langsung dengan upaya Indonesia menjadi anggota penuh organisasi yang beranggotakan negara-negara berekonomi maju tersebut. Bergabung dengan OECD berarti Indonesia harus menyesuaikan sebagian aturan dan praktik kebijakannya dengan standar yang dipakai negara-negara anggota, sehingga kunjungan ini jadi penanda sejauh mana proses itu sudah berjalan.",
+   "Sejak September 2025, pemerintah menjalani tahap yang disebut tinjauan teknis, yakni proses mencocokkan aturan dan kebijakan nasional dengan standar OECD bidang per bidang. Hingga November 2026, tahap ini sudah menjangkau 25 bidang kebijakan. Menko Perekonomian Airlangga Hartarto, sebagai Ketua Tim Nasional Percepatan Aksesi OECD, akan memimpin pertemuan tingkat menteri bersama sejumlah kementerian dan lembaga, termasuk Otoritas Jasa Keuangan dan Komisi Pemberantasan Korupsi, untuk membahas penyelarasan ini.",
+   "Dalam kunjungan ketiganya ke Indonesia, Cormann juga akan melakukan kunjungan kehormatan kepada Presiden Prabowo Subianto serta berdialog dengan pimpinan DPR RI, sebagai bagian dari upaya melibatkan lembaga legislatif dalam proses penyesuaian aturan. Kunjungan ini sekaligus dirangkaikan dengan peluncuran dua laporan OECD untuk Indonesia, yaitu kajian tentang penguatan industri semikonduktor nasional dan Indonesia Economic Survey edisi kesembilan yang memuat rekomendasi kebijakan ekonomi.",
+   "Pemerintah menegaskan proses aksesi tidak hanya melibatkan jalur birokrasi antar lembaga negara. Cormann dijadwalkan berdialog dengan Kadin dan Apindo membahas iklim investasi, serta bertemu akademisi, serikat pekerja, dan organisasi masyarakat sipil. Sesmenko Susiwijono menyebut forum-forum ini digelar agar implementasi rekomendasi OECD bisa mengakomodasi berbagai aspirasi masyarakat, bukan hanya kepentingan pemerintah dan dunia usaha."
+  ],
+  "fotoAdegan": "",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b0593bf7dd27-lawatan-sekjen-oecd-ke-indonesia-bahas-kerja-sama-dan-pembangunan-ekonomi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan cuma kunjungan diplomatik, tapi lingkup proses aksesi yang melebar dari sekadar urusan teknis antar kementerian menjadi melibatkan DPR, dunia usaha lewat Kadin dan Apindo, sampai serikat pekerja dan akademisi. Itu biasanya tanda proses sudah mendekati tahap yang butuh dukungan politik dan sosial yang lebih luas, bukan sekadar kecocokan aturan di atas kertas. Pihak yang paling langsung kena dampak adalah pelaku usaha dan regulator seperti OJK, karena standar OECD pada akhirnya akan menyentuh aturan main investasi dan pengawasan keuangan di dalam negeri. Yang masih belum jelas dari berita ini adalah berapa total bidang yang harus dicek dalam tinjauan teknis, sehingga sulit menilai seberapa dekat Indonesia sudah ke tahap akhir aksesi. Isi Indonesia Economic Survey kesembilan yang diluncurkan dalam kunjungan ini, karena biasanya memuat rekomendasi reformasi yang spesifik, kemungkinan akan jadi penanda paling konkret soal bidang mana yang masih perlu dibenahi sebelum keanggotaan penuh bisa terwujud.",
+  "imageV": "mwuwbomx"
+ },
+ {
   "slug": "indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7",
   "category": "Global",
   "title": "Indonesia-Uni Eropa Teken [CEPA], Ekspor Diproyeksi Naik 30,7%",
@@ -29,6 +159,33 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "takeaway": "Yang benar-benar baru di sini baru proyeksi di atas kertas: pemerintah menargetkan bea masuk ke Uni Eropa untuk produk seperti sawit, karet, tekstil, dan alas kaki turun jadi nol persen mulai 1 Januari 2027, hanya sekitar enam minggu setelah perjanjian ditandatangani. Jeda itu sangat singkat untuk ukuran perjanjian dagang, yang biasanya masih perlu disahkan parlemen Uni Eropa dan terkadang parlemen tiap negara anggotanya, proses yang lazimnya makan waktu berbulan-bulan. Ada dua kemungkinan arah dari sini, kalau ratifikasi rampung sesuai target, eksportir sawit, karet, tekstil, dan alas kaki mulai menikmati bea nol persen awal 2027 seperti diproyeksikan Kemendag, tapi kalau molor, lonjakan ekspor 30,7 persen yang disebutkan baru terasa belakangan. Kabar proses ratifikasi dari parlemen Uni Eropa dalam beberapa minggu mendatang akan jadi penentu arah mana yang terjadi. Terlepas dari proyeksi itu, data dagang terkini justru menunjukkan surplus Indonesia ke Uni Eropa menyusut karena pembelian migas dari Eropa melonjak akibat gangguan pasokan di Selat Hormuz, jadi upaya membuka pasar ekspor baru ini berjalan beriringan dengan Indonesia yang juga mencari sumber energi pengganti di luar jalur Hormuz.",
   "imageV": "mwuqxsvy"
+ },
+ {
+  "slug": "pialang-berjangka-valbury-luncurkan-asisten-ai-gpt",
+  "category": "Pasar Modal",
+  "title": "Pialang Berjangka Valbury Luncurkan Asisten [AI] GPT",
+  "deck": "Valbury tutup roadshow nasional dengan nasabah naik 70 persen jadi 180.000 lebih dan asisten AI berbasis GPT pertama di industri berjangka Indonesia.",
+  "image": "assets/img/pialang-berjangka-valbury-luncurkan-asisten-ai-gpt.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T20:36:07+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480136-perkuat-ekosistem-industri-perdagangan-berjangka-siap-hadapi-tantangan-2027",
+  "tags": [
+   "perdagangan berjangka",
+   "Valbury",
+   "Bappebti",
+   "AI trading"
+  ],
+  "body": [
+   "PT Valbury Asia Futures menutup rangkaian roadshow nasionalnya sepanjang 2026 lewat forum bertajuk Inside The Market di Jakarta, Kamis (19/11). Acara ini menjadi penutup edukasi yang telah digelar di sembilan kota dan menjangkau lebih dari 400 peserta, dengan fokus membahas arah industri perdagangan berjangka menjelang 2027. Forum dibuka oleh Kepala Bappebti Tirta Karma Senjaya, yang menekankan pentingnya pelaku industri beradaptasi dengan teknologi dan regulasi di tengah ketidakpastian ekonomi global.",
+   "Direktur Utama Jakarta Futures Exchange (JFX) Yazid Kanca Surya menyatakan bursa akan terus memperkuat ekosistem perdagangan dan mengembangkan produk yang lebih mudah diakses sesuai kebutuhan pasar. Di sisi perusahaan, Valbury mencatat pencapaian berupa rating A+++ dari Bappebti untuk periode Juli hingga September 2026, peringkat tertinggi yang diberikan regulator kepada pialang berjangka.",
+   "Dalam forum itu, Presiden Direktur Valbury Nino Limantara memperkenalkan asisten AI berbasis teknologi GPT di platform Valbury Web, menjadikan Valbury sebagai pialang berjangka pertama di Indonesia yang memakai AI jenis ini untuk membantu nasabah mulai dari membaca pergerakan pasar sampai mengeksekusi transaksi. Perusahaan juga memperkenalkan fitur sinkronisasi antara aplikasi desktop dan mobile, sehingga nasabah bisa melanjutkan analisis pasar yang sama meski berpindah perangkat.",
+   "Sepanjang 2026, jumlah nasabah Valbury tumbuh 70 persen menjadi lebih dari 180.000 orang, dengan volume transaksi menembus 1,2 juta lot, satuan kontrak yang lazim dipakai dalam perdagangan berjangka. Ke depan, Valbury berencana melengkapi layanannya dengan reksa dana pasar uang, produk investasi berisiko rendah yang mirip tabungan namun berpotensi memberi imbal hasil lebih tinggi, serta fitur komunitas untuk berbagi wawasan pasar antarnasabah. 'Roadshow ini memberi kami kesempatan untuk mendengar langsung kebutuhan trader dan calon investor di berbagai daerah,' ujar Nino."
+  ],
+  "fotoAdegan": "Audience of professionals in business attire listening attentively during a financial seminar in a modern Jakarta conference hall",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b059212b447b-pt-valbury-asia-futures-resmi-menutup-rangkaian-roadshow-nasional-2026-melalui-forum-inside-the-market-di-jakarta-kamis-1911_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah: Valbury mengantongi rating tertinggi A+++ dari Bappebti untuk kuartal Juli-September 2026, nasabahnya naik 70 persen jadi lebih dari 180.000 orang dengan volume transaksi 1,2 juta lot sepanjang tahun ini, dan perusahaan baru meluncurkan asisten AI berbasis GPT pertama di industri berjangka Indonesia. Yang terdampak jelas nasabah trader yang kini punya alat bantu analisis otomatis, serta pialang berjangka lain yang kini punya tekanan untuk mengikuti langkah integrasi AI serupa agar tidak tertinggal. Arahnya terlihat ke diversifikasi, Valbury tidak lagi membatasi diri pada kontrak berjangka saja, melainkan merambah ke reksa dana pasar uang dan fitur komunitas, sejalan dengan arahan Kepala Bappebti soal perlunya adaptasi teknologi menjelang 2027. Yang akan menentukan apakah ini jadi tren satu industri atau cuma strategi satu pemain adalah apakah pialang lain mengikuti langkah serupa, dan apakah rencana reksa dana pasar uang serta fitur komunitas itu benar terealisasi karena perusahaan belum menyebut tanggal pastinya.",
+  "imageV": "mwuwbp14"
  },
  {
   "slug": "public-expose-kota-2026-balik-laba-ke-rp51-7-miliar",
@@ -326,7 +483,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah status proses aksesi: pembahasan teknis soal keselarasan aturan Indonesia dengan standar OECD sudah berjalan di 25 bidang sejak September 2025, dan kunjungan Cormann dipakai untuk mengecek kemajuannya langsung di level menteri. Pihak yang kena dampak nantinya adalah instansi pemerintah yang aturannya harus disesuaikan, termasuk sektor jasa keuangan yang diawasi OJK, dunia usaha yang diwakili Kadin dan Apindo, serta industri semikonduktor yang jadi fokus salah satu laporan baru. Siaran pers ini tidak menyebut berapa dari 25 bidang itu yang sudah tuntas direview atau kapan target aksesi selesai, jadi seberapa cepat prosesnya belum bisa dipastikan dari sini. Yang perlu dicermati adalah isi Indonesia Economic Survey OECD yang terbit 26 November, karena laporan semacam itu biasanya memuat rekomendasi kebijakan yang bisa menunjukkan bidang mana yang masih jadi ganjalan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "itic-refinancing-rp146-24-miliar-ke-bca-lunasi-woori-saudara",
@@ -1148,7 +1305,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan transaksi baru, melainkan tenggat yang mendekat: fasilitas tarif rendah yang selama ini diberikan Inggris untuk barang dari negara berkembang, termasuk Indonesia, berakhir 1 Januari 2027. Kalau tidak ada pengganti, produk ekspor Indonesia ke Inggris bisa kena tarif masuk lebih tinggi, dan pelaku usaha eksportir yang memanfaatkan fasilitas ini akan jadi pihak yang paling merasakan dampaknya. Desakan Indonesia soal perjanjian dagang komprehensif terlihat sebagai upaya mengunci akses pasar itu secara lebih permanen dan mengikat, ketimbang hanya mengandalkan kerja sama longgar seperti EGP. Yang akan menentukan arah ini adalah apakah Inggris bersedia memberi masa transisi sebelum tenggat Januari 2027, dan apakah pembicaraan soal perjanjian dagang ini berlanjut jadi negosiasi formal dalam waktu dekat.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "bursa-berjangka-komoditi-tumbuh-54-pajak-final-disiapkan",

@@ -5,6 +5,87 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "esdm-cek-langsung-ujung-kulon-tak-ada-tambang",
+  "category": "Energi",
+  "title": "ESDM Cek Langsung Ujung Kulon, [Tak] Ada Tambang",
+  "deck": "Tim ESDM menyusuri Taman Nasional Ujung Kulon dengan kapal dan drone untuk mengecek kabar tambang di kawasan habitat badak jawa, dan tidak menemukan aktivitas pertambangan.",
+  "date": "24 November 2026",
+  "image": "assets/img/esdm-cek-langsung-ujung-kulon-tak-ada-tambang.jpg",
+  "imageV": "mwuwbmwp",
+  "tags": [
+   "ESDM",
+   "Ujung Kulon",
+   "Tambang",
+   "Konservasi"
+  ],
+  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
+  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/susuri-ujung-kulon-dengan-kapal-dan-drone-kementerian-esdm-pastikan-tak-ada-tambang-di-taman-nasional",
+  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
+ },
+ {
+  "slug": "hipmi-perkuat-kaderisasi-pengusaha-muda-lewat-bidang-okk",
+  "category": "Bisnis",
+  "title": "HIPMI Perkuat [Kaderisasi] Pengusaha Muda Lewat Bidang OKK",
+  "deck": "Satrio Rama Widyowicaksono memimpin bidang Organisasi, Kaderisasi, dan Keanggotaan di kepengurusan HIPMI 2026-2029 untuk menata ulang regenerasi pengusaha muda.",
+  "date": "24 November 2026",
+  "image": "assets/img/hipmi-perkuat-kaderisasi-pengusaha-muda-lewat-bidang-okk.jpg",
+  "imageV": "mwuwbnct",
+  "tags": [
+   "HIPMI",
+   "kaderisasi",
+   "pengusaha muda",
+   "organisasi bisnis"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480158-hipmi-perkuat-regenerasi-pengusaha-muda-satrio-rama-pimpin-bidang-okk"
+ },
+ {
+  "slug": "pertamina-dampingi-umk-dari-ambon-hingga-ntt",
+  "category": "UMKM",
+  "title": "Pertamina Dampingi UMK dari [Ambon] hingga NTT",
+  "deck": "Pertamina membina pelaku usaha kecil di Ambon dan NTT lewat pelatihan pengelolaan bisnis serta membukakan akses pasar melalui pameran SMEXPO.",
+  "date": "24 November 2026",
+  "image": "assets/img/pertamina-dampingi-umk-dari-ambon-hingga-ntt.jpg",
+  "imageV": "mwuwbnsx",
+  "tags": [
+   "pertamina",
+   "umkm",
+   "ambon",
+   "ntt"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480151-memberdayakan-umk-pertamina-perkuat-bisnis-lokal-dari-ambon-hingga-ntt"
+ },
+ {
+  "slug": "pnm-kantongi-rating-aaa-tertinggi-dari-fitch-ratings",
+  "category": "BUMN",
+  "title": "PNM Kantongi Rating [AAA] Tertinggi dari Fitch Ratings",
+  "deck": "Fitch Ratings Indonesia memberi PNM peringkat nasional AAA(idn) dengan outlook stabil, melengkapi rating setara yang sebelumnya diberikan PEFINDO.",
+  "date": "24 November 2026",
+  "image": "assets/img/pnm-kantongi-rating-aaa-tertinggi-dari-fitch-ratings.jpg",
+  "imageV": "mwuwbo84",
+  "tags": [
+   "PNM",
+   "Fitch Ratings",
+   "BUMN",
+   "PNM Mekaar"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480142-raih-peringkat-tertinggi-fitch-rating-pnm-perkuat-pemberdayaan-nasabah"
+ },
+ {
+  "slug": "sekjen-oecd-kunjungi-indonesia-genjot-proses-aksesi",
+  "category": "Global",
+  "title": "Sekjen OECD Kunjungi Indonesia, Genjot Proses [Aksesi]",
+  "deck": "Sekjen OECD Mathias Cormann ke Jakarta 25-26 November, saat tinjauan teknis aksesi Indonesia sudah mencakup 25 bidang kebijakan.",
+  "date": "24 November 2026",
+  "image": "assets/img/sekjen-oecd-kunjungi-indonesia-genjot-proses-aksesi.jpg",
+  "imageV": "mwuwbomx",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480139-percepat-aksesi-oecd-sekjen-mathias-cormann-kunjungi-indonesia"
+ },
+ {
   "slug": "indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7",
   "category": "Global",
   "title": "Indonesia-Uni Eropa Teken [CEPA], Ekspor Diproyeksi Naik 30,7%",
@@ -21,6 +102,23 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-ke-uni-eropa-diproyeksi-bertambah-usd-3-5-miliar-setahun",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pialang-berjangka-valbury-luncurkan-asisten-ai-gpt",
+  "category": "Pasar Modal",
+  "title": "Pialang Berjangka Valbury Luncurkan Asisten [AI] GPT",
+  "deck": "Valbury tutup roadshow nasional dengan nasabah naik 70 persen jadi 180.000 lebih dan asisten AI berbasis GPT pertama di industri berjangka Indonesia.",
+  "date": "24 November 2026",
+  "image": "assets/img/pialang-berjangka-valbury-luncurkan-asisten-ai-gpt.jpg",
+  "imageV": "mwuwbp14",
+  "tags": [
+   "perdagangan berjangka",
+   "Valbury",
+   "Bappebti",
+   "AI trading"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480136-perkuat-ekosistem-industri-perdagangan-berjangka-siap-hadapi-tantangan-2027"
  },
  {
   "slug": "public-expose-kota-2026-balik-laba-ke-rp51-7-miliar",
@@ -6393,104 +6491,6 @@ var ARTICLES = [
    "Awak Mas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/feca24d19b_3dcb12a583.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "axio-targetkan-pendapatan-2026-rp2-18-triliun-tumbuh-34",
-  "category": "Aksi Korporasi",
-  "title": "Paparan Publik AXIO 19 November: [Risiko] Agres-Asaba Disorot",
-  "deck": "Laporan hasil paparan publik tahunan AXIO merinci sesi tanya jawab: direksi mengakui risiko konsentrasi pelanggan pada Agres dan Asaba, serta menyatakan target pendapatan 2027 belum ditetapkan.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AXIO",
-   "Paparan Publik",
-   "Tera Data Indonusa",
-   "Risiko Konsentrasi Pelanggan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67f8e79979_6d63bf7b69.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-pgas-19-november-laba-9m-2026-naik-ke-us-293-juta",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose PGAS 19 November: [Volume Gas] 827 BBTUD, 94%",
-  "deck": "Public expose tahunan PGN 19 November dihadiri 125 peserta; realisasi volume niaga gas 827 BBTUD atau 94% dari target, kasus Gunvor belum ada provisi tambahan.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PGAS",
-   "Public Expose",
-   "Gunvor",
-   "Dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40b6ce9a78_0050ccf280.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-mbma-8-desember-private-placement-10-8-miliar-saham",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB MBMA 8 Desember: [Private Placement] 10,8 Miliar Saham",
-  "deck": "MBMA gelar RUPS Independen 8 Desember 2026 untuk minta restu private placement hingga 10,8 miliar saham, setara 10 persen modal disetor, tanpa hak memesan efek lebih dulu.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MBMA",
-   "RUPSLB",
-   "Private Placement",
-   "PMTHMETD"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2be800c419_ee686009eb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha",
-  "category": "Bisnis",
-  "title": "Pemerintah Ajukan [Revisi] UU Kadin ke DPR, Perkuat Satu Wadah Usaha",
-  "deck": "Pemerintah menyerahkan daftar masukan untuk RUU Kadin ke DPR, mengusulkan enam perubahan mendasar atas UU Kadin yang berlaku sejak 1987.",
-  "date": "16 November 2026",
-  "image": "assets/img/pemerintah-ajukan-revisi-uu-kadin-ke-dpr-perkuat-satu-wadah-usaha.jpg",
-  "imageV": "mwjaaom4",
-  "tags": [
-   "RUU Kadin",
-   "Kementerian Perdagangan",
-   "DPR",
-   "Kadin"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perkuat-peran-kadin-melalui-ruu-kadin-pemerintah-serahkan-daftar-inventarisasi-masalah",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BIPI 19 November: [Proyeksi] Pendapatan US$140 Juta",
-  "deck": "Dalam sesi public expose 19 November 2026, manajemen BIPI memproyeksikan pendapatan 2026 capai US$140 juta dan menjelaskan kilang mini LNG mundur ke Juni 2027.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIPI",
-   "Public Expose",
-   "Divestasi SBG",
-   "LNG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f68bdbb238_42a42bec12.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "tmpo-jelaskan-ke-bursa-rugi-berlanjut-covenant-bank-terpenuhi",
-  "category": "Aksi Korporasi",
-  "title": "TMPO Jelaskan ke Bursa: Rugi Berlanjut, [Covenant] Bank Terpenuhi",
-  "deck": "Tempo Inti Media menjawab permintaan penjelasan BEI atas piutang macet, aset tetap, dan pendapatan yang turun di semua segmen usaha, sembari memastikan seluruh syarat utang bank masih terpenuhi.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TMPO",
-   "Tempo Inti Media",
-   "piutang usaha",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2888658a0b_c78280b726.pdf",
   "sourceLabel": "IDX"
  }
 ];

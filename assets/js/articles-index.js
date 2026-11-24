@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pkpu-adhi-24-november-sidang-pertama-klaim-0-06-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "PKPU ADHI 24 November: Sidang Pertama, Klaim [0,06%] Ekuitas",
+  "deck": "Sidang pertama digelar 24 November setelah dua vendor ajukan PKPU senilai Rp2,1 miliar, ADHI sebut nilainya cuma 0,06 persen dari ekuitas perseroan.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "PKPU",
+   "Adhi Karya",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADHI_E023A_9656909b-85c8-44c6-b551-6b0f0e72b8fc-20261124152029.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "totl-divestasi-saham-anak-usaha-di-lkp-rp3-85-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TOTL [Divestasi] Saham Anak Usaha di LKP Rp3,85 Miliar",
+  "deck": "Anak usaha TOTL, PT Total Persada Development, menjual seluruh 2.450 saham di PT Lestari Kirana Persada ke PT Anugrah Cahaya Solusindo senilai Rp3,85 miliar untuk fokus ke bisnis konstruksi inti.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOTL",
+   "Total Bangun Persada",
+   "divestasi",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_TOTL_E019_8905694d-7ac9-46c3-8609-1e29da9e24a2-20261124151231.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-bess-17-desember-perubahan-pasal-3-ad-ikuti-kbli-2025",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BESS 17 Desember: [Perubahan] Pasal 3 AD Ikuti KBLI 2025",
+  "deck": "RUPSLB BESS dijadwalkan 17 Desember 2026 untuk menyetujui perubahan Pasal 3 Anggaran Dasar demi menyesuaikan kode klasifikasi usaha dengan KBLI 2025.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BESS",
+   "RUPSLB",
+   "Anggaran Dasar",
+   "KBLI 2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BESS_E002_8f17d499-040e-4fa4-bd9f-5150369e7053-20261124151222.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tcid-liandhajani-jadi-komisaris-independen-baru-19-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "TCID: Liandhajani Jadi [Komisaris Independen] Baru, 19 November 2026",
+  "deck": "RUPS Mandom Indonesia menyetujui Liandhajani sebagai komisaris independen baru, efektif 19 November 2026, menambah jumlah komisaris independen jadi tiga dari dua sebelumnya.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCID",
+   "Mandom Indonesia",
+   "komisaris independen",
+   "perubahan pengurus"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_TCID_E036_77a88aae-d248-4cbe-b07f-b46d3ba181bf-20261124150553.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bpfi-direktur-jasin-hermawan-mundur-tunggu-rupslb",
+  "category": "Aksi Korporasi",
+  "title": "BPFI: Direktur Jasin Hermawan [Mundur], Tunggu RUPSLB",
+  "deck": "Direktur PT Woori Finance Indonesia Tbk (BPFI), Jasin Hermawan, mengajukan pengunduran diri pada 24 November 2026, efektif setelah disahkan RUPSLB.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BPFI",
+   "Woori Finance Indonesia",
+   "pergantian direksi",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BPFI_E019_fb04623c-0123-4afa-a7a8-f6ec4fdce2bf-20261124145941.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buyback-gpra-rp40-miliar-beli-maksimal-333-3-juta-saham",
+  "category": "Aksi Korporasi",
+  "title": "Buyback GPRA Rp40 Miliar: [Beli] Maksimal 333,3 Juta Saham",
+  "deck": "GPRA berencana membeli kembali maksimal 333,33 juta saham atau 7,79% saham beredar senilai hingga Rp40 miliar, periode 23 November 2026 sampai 23 Februari 2027.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "GPRA",
+   "buyback saham",
+   "Perdana Gapura Prima",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_GPRA_E006_bdc70493-5f8f-4a90-ad78-7fc078a35300-20261124142543.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ades-presiden-komisaris-mundur-efektif-usai-rupslb-16-des",
+  "category": "Aksi Korporasi",
+  "title": "ADES: Presiden Komisaris Mundur, [Efektif] Usai RUPSLB 16 Des",
+  "deck": "Hanjaya Limanto mundur dari jabatan Presiden Komisaris ADES per 20 November 2026, efektif setelah disetujui RUPSLB 16 Desember 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "pengunduran diri komisaris",
+   "RUPSLB",
+   "tata kelola"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADES_E019_fd3f6952-6af3-4509-adff-7200c6754714-20261124141948.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "indonesia-inggris-jajaki-perjanjian-dagang-komprehensif",
   "category": "Global",
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
@@ -1378,15 +1490,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-asjt-16-desember-2026-e-proxy-via-easy-ksei",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ASJT 16 Desember 2026: [e-Proxy] via eASY.KSEI",
-  "deck": "Asuransi Jasa Tania menjadwalkan RUPSLB pada 16 Desember 2026, dengan pemberian kuasa elektronik dibuka lewat sistem eASY.KSEI hingga 15 Desember.",
+  "title": "RUPSLB ASJT 16 Desember: [Agenda] Ubah AD dan Pengurus",
+  "deck": "Pemanggilan resmi RUPSLB ASJT 16 Desember 2026 membuka agendanya: perubahan anggaran dasar menyesuaikan klasifikasi usaha dan pergantian susunan direksi-komisaris.",
   "date": "23 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ASJT",
    "RUPSLB",
-   "Asuransi Jasa Tania",
-   "RUPS"
+   "Perubahan Anggaran Dasar",
+   "Pergantian Pengurus"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ASJT_E001_529aa6f8-68a2-4b3a-a0da-29d82a517d0c-20261123132807.pdf",
   "sourceLabel": "IDX"
@@ -6128,15 +6240,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-daaz-sukuk-rp378-m-cair-ke-indo-lautan-energi",
   "category": "Aksi Korporasi",
-  "title": "Public Expose DAAZ: [Koreksi] Data Nikel dan Batubara Tertukar",
-  "deck": "DAAZ koreksi data Public Expose: bijih nikel naik 41,8% jadi Rp4,82 triliun, batubara anjlok 71,8% jadi Rp350 miliar, membalik angka sebelumnya.",
+  "title": "Public Expose DAAZ: Kuota Impor BBM [Baru] Dukung Ekspansi Trading",
+  "deck": "Hasil Public Expose Tahunan DAAZ 19 November: manajemen akui kuota impor BBM baru dan pesanan kapal tambahan topang ekspansi, target laba 2026 masih menunggu RKAB semester II.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "DAAZ",
+   "Public Expose Tahunan",
    "Sukuk Wakalah",
-   "Public Expose",
-   "Koreksi Laporan"
+   "Pertambangan Nikel"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b528d62a50_b463f6db5b.pdf",
   "sourceLabel": "IDX"
@@ -6224,15 +6336,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-cuan-19-november-laba-bersih-9m26-naik-ke-us-70-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose CUAN 19 November: [Laba Bersih] 9M26 Naik ke US$70 Juta",
-  "deck": "CUAN akan menggelar Paparan Publik Tahunan pada 19 November 2026, memaparkan kinerja hingga September 2026: laba bersih melonjak 279 persen menjadi US$70 juta dari pendapatan US$1,11 miliar.",
+  "title": "Public Expose CUAN 19 November: [Progres] Proyek 680 MW 20%",
+  "deck": "Public Expose Tahunan CUAN pada 19 November dihadiri 25 peserta. Manajemen mengungkap progres konstruksi pembangkit 680 MW di Maluku Utara sudah 20 persen dan pendanaan sindikasi telah diperoleh.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "CUAN",
    "Public Expose",
-   "Petrindo Jaya Kreasi",
-   "Laba Bersih"
+   "Pembangkit Listrik",
+   "Petrindo Jaya Kreasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/927ed4cadc_9020e19971.pdf",
   "sourceLabel": "IDX"
@@ -6383,127 +6495,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478567-apakah-jadi-penerus-tahta-nvidia-ini-sosok-madison-spencer-anak-jensen-huang"
- },
- {
-  "slug": "asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila",
-  "category": "Energi",
-  "title": "ASEAN Sepakati Deklarasi [Mineral] Kritis di KTT Manila",
-  "deck": "KTT ke-49 ASEAN di Manila menyepakati deklarasi mineral kritis sebagai dasar kerja sama rantai nilai, dari eksplorasi hingga daur ulang, di kawasan Asia Tenggara.",
-  "date": "15 November 2026",
-  "image": "assets/img/asean-sepakati-deklarasi-mineral-kritis-di-ktt-manila.jpg",
-  "imageV": "mwi189k4",
-  "tags": [
-   "ASEAN",
-   "mineral kritis",
-   "hilirisasi",
-   "KTT ASEAN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478524-indonesia-ambil-peran-strategis-dalam-deklarasi-mineral-kritis-asean"
- },
- {
-  "slug": "20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir",
-  "category": "UMKM",
-  "title": "20 Produk UMKM Kurasi Kemendag Masuk Jaringan [Indogrosir]",
-  "deck": "Kemendag menempatkan 20 produk UMKM hasil kurasi Pilihan Busan ke rak Indogrosir, menyusul sekitar 800 produk UMKM lain yang sudah tersedia di jaringan itu.",
-  "date": "15 November 2026",
-  "image": "assets/img/20-produk-umkm-kurasi-kemendag-masuk-jaringan-indogrosir.jpg",
-  "imageV": "mwhvyepx",
-  "tags": [
-   "UMKM",
-   "Indogrosir",
-   "Kemendag",
-   "ritel modern"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sinergi-program-pilihan-busan-kemendag-boyong-20-produk-umkm-potensial-ke-jaringan-indogrosir",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "petani-stroberi-ciwidey-rasakan-bunga-mekaar-8",
-  "category": "UMKM",
-  "title": "Petani Stroberi Ciwidey Rasakan Bunga [Mekaar] 8%",
-  "deck": "Leni, petani stroberi di Ciwidey, mengandalkan pembiayaan PNM Mekaar berbiaya 8 persen untuk menjaga modal usahanya tetap stabil.",
-  "date": "15 November 2026",
-  "image": "assets/img/petani-stroberi-ciwidey-rasakan-bunga-mekaar-8.jpg",
-  "imageV": "mwhvyf3b",
-  "tags": [
-   "PNM Mekaar",
-   "UMKM",
-   "petani stroberi",
-   "pembiayaan mikro"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478518-kisah-leni-petani-stroberi-di-rancabali-yang-rasakan-manisnya-mekaar-8-persen"
- },
- {
-  "slug": "mind-id-klaim-tambang-ri-topang-energi-terbarukan",
-  "category": "Energi",
-  "title": "MIND ID Klaim Tambang RI Topang Energi [Terbarukan]",
-  "deck": "MIND ID menyebut nikel, tembaga, dan aluminium jadi bahan utama energi terbarukan, sembari mengklaim sudah mereklamasi lebih dari 8.000 hektare lahan tambang hingga 2025.",
-  "date": "15 November 2026",
-  "image": "assets/img/mind-id-klaim-tambang-ri-topang-energi-terbarukan.jpg",
-  "imageV": "mwhvyfhb",
-  "tags": [
-   "MIND ID",
-   "nikel",
-   "energi terbarukan",
-   "reklamasi tambang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478513-transformasi-industri-pertambangan-indonesia-dalam-mendukung-energi-terbarukan"
- },
- {
-  "slug": "asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila",
-  "category": "Energi",
-  "title": "ASEAN Adopsi [Deklarasi] Mineral Kritis di KTT Manila",
-  "deck": "Para pemimpin ASEAN mengadopsi deklarasi mineral kritis di KTT ke-49 Manila, menyepakati definisi dan daftar bersama serta strategi rantai pasok kawasan, dengan kerja sama bersifat sukarela.",
-  "date": "15 November 2026",
-  "image": "assets/img/asean-adopsi-deklarasi-mineral-kritis-di-ktt-manila.jpg",
-  "imageV": "mwhq4fp2",
-  "tags": [
-   "ASEAN",
-   "Mineral Kritis",
-   "KTT ASEAN",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/asean-adopsi-deklarasi-mineral-kritis-indonesia-dorong-penguatan-rantai-pasok-kawasan",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "brilink-agen-di-medan-jadi-sumber-penghidupan-warga",
-  "category": "Perbankan",
-  "title": "BRILink Agen di Medan Jadi Sumber [Penghidupan] Warga",
-  "deck": "Satu agen BRILink di Medan Perjuangan kini meraup omzet belasan juta rupiah sebulan, melayani transfer, tagihan, hingga penyaluran bantuan pangan bagi warga sekitar.",
-  "date": "15 November 2026",
-  "image": "assets/img/brilink-agen-di-medan-jadi-sumber-penghidupan-warga.jpg",
-  "imageV": "mwhq4g65",
-  "tags": [
-   "BRILink",
-   "BRI",
-   "Medan",
-   "agen bank"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478507-brilink-agen-berkah-nasution-di-medan-bantu-tingkatkan-penghidupan-warga"
- },
- {
-  "slug": "ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid",
-  "category": "Energi",
-  "title": "RI Tekankan Prinsip [Saling Menguntungkan] di ASEAN Power Grid",
-  "deck": "Dalam KTT ASEAN ke-49 di Manila, Indonesia mendorong agar interkoneksi listrik kawasan tetap menghormati regulasi dan kepentingan nasional tiap negara anggota.",
-  "date": "15 November 2026",
-  "image": "assets/img/ri-tekankan-prinsip-saling-menguntungkan-di-asean-power-grid.jpg",
-  "imageV": "mwhoe848",
-  "tags": [
-   "ASEAN Power Grid",
-   "Bahlil Lahadalia",
-   "KTT ASEAN",
-   "Mineral Kritis"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dampingi-presiden-di-ktt-asean-ke-49-bahlil-kawal-kepentingan-nasional-dalam-asean-power-grid",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

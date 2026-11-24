@@ -510,7 +510,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah status proses aksesi: pembahasan teknis soal keselarasan aturan Indonesia dengan standar OECD sudah berjalan di 25 bidang sejak September 2025, dan kunjungan Cormann dipakai untuk mengecek kemajuannya langsung di level menteri. Pihak yang kena dampak nantinya adalah instansi pemerintah yang aturannya harus disesuaikan, termasuk sektor jasa keuangan yang diawasi OJK, dunia usaha yang diwakili Kadin dan Apindo, serta industri semikonduktor yang jadi fokus salah satu laporan baru. Siaran pers ini tidak menyebut berapa dari 25 bidang itu yang sudah tuntas direview atau kapan target aksesi selesai, jadi seberapa cepat prosesnya belum bisa dipastikan dari sini. Yang perlu dicermati adalah isi Indonesia Economic Survey OECD yang terbit 26 November, karena laporan semacam itu biasanya memuat rekomendasi kebijakan yang bisa menunjukkan bidang mana yang masih jadi ganjalan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "itic-refinancing-rp146-24-miliar-ke-bca-lunasi-woori-saudara",

@@ -23,6 +23,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "public-expose-kota-2026-balik-laba-ke-rp51-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose KOTA 2026: [Balik Laba] ke Rp51,7 Miliar",
+  "deck": "Materi public expose KOTA ungkap laba bersih Rp51,7 miliar per September 2026, membalik rugi tahun sebelumnya, sambil memaparkan investasi Rp218 miliar untuk proyek golf di Kemayoran.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "Public Expose",
+   "Properti",
+   "Hotel"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_KOTA_E003_0fb6446a-1fb1-4655-a9d4-b68f7b5f8524-20261124200352.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "bni-raih-penghargaan-transformasi-perbankan-di-usia-80-tahun",
   "category": "Perbankan",
   "title": "BNI Raih Penghargaan [Transformasi] Perbankan di Usia 80 Tahun",
@@ -40,6 +56,54 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/480120-80-tahun-mengabdi-bni-raih-penghargaan-transformasi-perbankan"
  },
  {
+  "slug": "mdka-siapkan-dana-pelunasan-obligasi-jatuh-tempo-15-des-2026",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Siapkan Dana [Pelunasan] Obligasi, Jatuh Tempo 15 Des 2026",
+  "deck": "MDKA memastikan dana pelunasan pokok dan bunga kedua belas Obligasi IV Tahap IV 2023 Seri B sudah siap sebelum jatuh tempo 15 Desember 2026, bunga tetap 9,50% per tahun.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "Merdeka Copper Gold",
+   "pelunasan obligasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_MDKA_E019_f9240f2c-782f-4bbf-83ed-8f986e2d3d25-20261124194339.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pnse-terima-dividen-interim-rp49-5-miliar-dari-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "PNSE Terima [Dividen Interim] Rp49,5 Miliar dari Anak Usaha",
+  "deck": "Anak usaha PNSE, PT Bali Realtindo Benoa, membagikan dividen interim Rp50 miliar untuk tahun buku 2026; bagian PNSE sebesar Rp49,5 miliar dibayar paling lambat 23 November 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PNSE",
+   "dividen interim",
+   "Bali Realtindo Benoa",
+   "transaksi afiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_PNSE_E019_b8e682c1-1f39-442c-874b-9a7707f3a321-20261124194316.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buva-lunasi-kredit-mandiri-rp420-4-miliar-dipercepat",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Lunasi Kredit Mandiri Rp420,4 Miliar: [Dipercepat]",
+  "deck": "BUVA melunasi dipercepat seluruh kredit investasi Rp420,4 miliar ke Bank Mandiri pada 20 November 2026, dibiayai dari dana rights issue II.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BUVA",
+   "Bank Mandiri",
+   "rights issue",
+   "pelunasan kredit"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BUVA_E019_9a42b7b4-d1e4-46d2-bb61-999a35b3b97d-20261124193733.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telkom-raih-platinum-award-lacp-2025-untuk-laporan-tahunan",
   "category": "BUMN",
   "title": "Telkom Raih [Platinum Award] LACP 2025 untuk Laporan Tahunan",
@@ -55,6 +119,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/480116-telkom-kembali-raih-platinum-award-lacp-2025-untuk-annual-report"
+ },
+ {
+  "slug": "sengketa-cmnp-bhit-kasasi-bunga-6-dan-rp50-m-ganti-rugi-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "Sengketa CMNP-BHIT [Kasasi]: Bunga 6% dan Rp50 M Ganti Rugi Ditolak",
+  "deck": "BHIT ajukan kasasi atas putusan banding yang menolak kewajiban bunga 6 persen sejak 2002 dan ganti rugi Rp50 miliar dalam perkara melawan CMNP.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BHIT",
+   "CMNP",
+   "Hukum",
+   "Kasasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BHIT_E019_70ed2b54-b303-456b-94d6-1e9ebbad5ed0-20261124180547.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "nest-klarifikasi-uma-tak-ada-informasi-material-baru",
@@ -216,6 +296,22 @@ var ARTICLES = [
    "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_POST_E036_811703be-ce9b-4aaa-9e29-08b2956b536c-20261124165253.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "tama-ekuitas-negatif-rupslb-7-desember-agenda-divestasi-ke-pnm",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: Ekuitas Negatif, RUPSLB 7 Desember [Agenda] Divestasi ke PNM",
+  "deck": "TAMA menjelaskan ke BEI: ekuitas negatif Rp62,54 miliar, utang pemegang saham naik ke Rp142,23 miliar, RUPSLB 7 Desember putuskan divestasi Rp84,22 miliar ke PNM.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAMA",
+   "RUPSLB",
+   "divestasi aset",
+   "utang pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_TAMA_E023A_fb372ce7-d49b-45a5-a028-5e612bbeac96-20261124165048.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6126,15 +6222,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-indy-19-nov-laba-bersih-9m26-naik-ke-us-20-2-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose INDY 19 Nov: [Laba Bersih] 9M26 Naik ke US$20,2 Juta",
-  "deck": "Materi Public Expose Tahunan INDY menunjukkan laba bersih 9M26 melonjak ke US$20,2 juta dari US$0,5 juta, ditopang harga batu bara dan bisnis non-batubara.",
+  "title": "Public Expose INDY: Awak Mas 76,4%, [First Gold] Target Q2 2027",
+  "deck": "Hasil Public Expose INDY 19 November mengungkap progres Awak Mas naik ke 76,4%, first gold ditarget kuartal II 2027, dan pendanaan proyek lewat pinjaman sindikasi serta fasilitas DBS US$155 juta.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "INDY",
    "Public Expose",
-   "Kinerja Keuangan",
-   "Awak Mas"
+   "Awak Mas",
+   "Indika Energy"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bbc2a1569d_af6519b4cf.pdf",
   "sourceLabel": "IDX"
@@ -6240,14 +6336,14 @@ var ARTICLES = [
  {
   "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BIPI: [Divestasi] SBG Rp1,79 T, Dana ke LNG",
-  "deck": "BIPI memaparkan materi public expose 2026: divestasi anak usaha batu bara SBG senilai Rp1,79 triliun, dana Rp1,7 triliun dialihkan ke LNG, panas bumi, pusat data, dan pengolahan sampah.",
+  "title": "Public Expose BIPI 19 November: [Proyeksi] Pendapatan US$140 Juta",
+  "deck": "Dalam sesi public expose 19 November 2026, manajemen BIPI memproyeksikan pendapatan 2026 capai US$140 juta dan menjelaskan kilang mini LNG mundur ke Juni 2027.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "BIPI",
-   "divestasi",
-   "public expose",
+   "Public Expose",
+   "Divestasi SBG",
    "LNG"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f68bdbb238_42a42bec12.pdf",
@@ -6400,103 +6496,6 @@ var ARTICLES = [
    "Kasikorn Group"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec0474d7aa_05ce16e171.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "right-issue-bmas-rp1-01-triliun-harga-pelaksanaan-rp350",
-  "category": "Aksi Korporasi",
-  "title": "Right Issue BMAS Rp1,01 Triliun: [Harga Pelaksanaan] Rp350",
-  "deck": "BMAS menerbitkan 2,87 miliar saham baru harga Rp350 per saham lewat right issue IV senilai Rp1,01 triliun, dijamin penuh oleh pengendali KVF.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "right issue",
-   "HMETD",
-   "bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48f2c489f4_8b5fd19472.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-itma-pendapatan-9m26-melonjak-90-8",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose ITMA 19 November: [Laba Bruto] Turun, Pendapatan +90,8%",
-  "deck": "Hasil public expose ITMA 19 November mengungkap laba bruto turun meski pendapatan 9M26 naik 90,8%, dipicu biaya one-off dan denda PLN, serta modal kerja proyek mini LNG yang masih minus.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ITMA",
-   "Public Expose",
-   "Mini LNG",
-   "Sumber Energi Andalan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b106259fc_24aeb3ef51.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bpdp-satukan-program-peremajaan-sawit-dan-biodiesel",
-  "category": "Industri",
-  "title": "BPDP Satukan Program [Peremajaan] Sawit dan Biodiesel",
-  "deck": "BPDP menyebut peremajaan sawit rakyat dan program biodiesel saling menopang untuk menjaga pasokan sawit bagi kebutuhan pangan dan energi nasional.",
-  "date": "16 November 2026",
-  "image": "assets/img/bpdp-satukan-program-peremajaan-sawit-dan-biodiesel.jpg",
-  "imageV": "mwj5ueaw",
-  "tags": [
-   "sawit",
-   "biodiesel",
-   "BPDP",
-   "PSR"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478657-perkuat-industri-sawit-bpdp-integrasikan-program-psr-dan-biodiesel"
- },
- {
-  "slug": "public-expose-brpt-19-november-laba-inti-9m26-naik-90-kali",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BRPT 19 November: [Laba Inti] 9M26 Naik 90 Kali",
-  "deck": "Materi public expose BRPT 19 November 2026 menunjukkan pendapatan 9M26 naik 56,3% jadi US$8,69 miliar dan laba inti melonjak 90 kali dari tahun lalu.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BRPT",
-   "Barito Pacific",
-   "Public Expose",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d284f55d33_6a03495834.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-daaz-sukuk-rp378-m-cair-ke-indo-lautan-energi",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose DAAZ: Kuota Impor BBM [Baru] Dukung Ekspansi Trading",
-  "deck": "Hasil Public Expose Tahunan DAAZ 19 November: manajemen akui kuota impor BBM baru dan pesanan kapal tambahan topang ekspansi, target laba 2026 masih menunggu RKAB semester II.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DAAZ",
-   "Public Expose Tahunan",
-   "Sukuk Wakalah",
-   "Pertambangan Nikel"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b528d62a50_b463f6db5b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "enrg-teken-pinjaman-us-220-juta-danai-penyertaan-modal-di-as",
-  "category": "Aksi Korporasi",
-  "title": "ENRG Teken Pinjaman US$220 Juta: Danai [Penyertaan Modal] di AS",
-  "deck": "ENRG menandatangani fasilitas pinjaman hingga US$220 juta dengan Deutsche Bank cabang Singapura pada 13 November 2026, dananya untuk penyertaan modal anak usaha ke HighPeak Energy Inc di Amerika Serikat.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ENRG",
-   "Energi Mega Persada",
-   "transaksi material",
-   "pinjaman"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/119287e022_17162b6a72.pdf",
   "sourceLabel": "IDX"
  }
 ];

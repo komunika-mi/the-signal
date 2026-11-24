@@ -31,6 +31,40 @@ var ARTICLES = [
   "imageV": "mwuqxsvy"
  },
  {
+  "slug": "public-expose-kota-2026-balik-laba-ke-rp51-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose KOTA 2026: [Balik Laba] ke Rp51,7 Miliar",
+  "deck": "Materi public expose KOTA ungkap laba bersih Rp51,7 miliar per September 2026, membalik rugi tahun sebelumnya, sambil memaparkan investasi Rp218 miliar untuk proyek golf di Kemayoran.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T20:03:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_KOTA_E003_0fb6446a-1fb1-4655-a9d4-b68f7b5f8524-20261124200352.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "Public Expose",
+   "Properti",
+   "Hotel"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, menjelang pelaksanaan paparan publik yang dijadwalkan 27 November 2026. Dalam materi tersebut, perusahaan mengungkapkan pendapatan konsolidasian periode Januari hingga September 2026 melonjak menjadi Rp125,05 miliar, naik dari Rp28,8 miliar pada periode yang sama tahun sebelumnya. Kenaikan pendapatan ini membawa perusahaan membalik posisi rugi bersih Rp21,5 miliar pada September 2025 menjadi laba bersih Rp51,7 miliar pada September 2026.",
+   "Dari sisi keuangan, ekuitas perusahaan naik dari Rp1,24 triliun pada akhir Desember 2025 menjadi Rp1,29 triliun pada September 2026, sementara total liabilitas turun dari Rp736,9 miliar menjadi Rp662 miliar pada periode yang sama. Namun liabilitas jangka pendek justru naik dari Rp95,4 miliar menjadi Rp192,7 miliar. Di segmen hotel, pendapatan gabungan empat hotel yang dikelola anak usaha, yaitu Indies Heritage Hotel Yogyakarta, Indies Style Hotel Malioboro, Indies Style Hotel Bandung, dan The Leaf Indies Jimbaran, tumbuh 60 persen menjadi Rp46,22 miliar dibanding periode Januari-September 2025 yang tercatat Rp28,8 miliar. Pertumbuhan tertinggi dicatat Indies Style Hotel Bandung yang pendapatannya melonjak 125 persen menjadi Rp9,98 miliar, disusul The Leaf Indies Jimbaran yang naik 91 persen menjadi Rp20,08 miliar.",
+   "Di luar bisnis properti dan hotel yang sudah berjalan, perusahaan juga memaparkan sejumlah rencana ekspansi. Melalui anak usaha PT Accola Hotel Indonesia, perusahaan menggarap proyek Kemayoran Indah Golf di Jakarta Pusat bersama PPK Kemayoran dengan masa kerja sama 15 tahun di atas lahan sekitar 466.600 meter persegi dan bangunan 3.600 meter persegi, dengan nilai investasi sekitar Rp218 miliar. Proyek ini mencakup revitalisasi lapangan golf, pembaruan club house, serta pembangunan hotel baru, dengan target grand opening pada akhir 2027. Perusahaan juga menyebut rencana pengembangan Urbanova Edu Hub seluas lebih dari 23 hektare di Surabaya yang mulai diteken Mei 2026, proyek kawasan Smart Green Maja City dengan masterplan 550,63 hektare, serta rest area jalan tol Cimanggis-Cibitung di KM 63."
+  ],
+  "fotoAdegan": "Workers tending the green at a golf course under renovation, construction equipment parked nearby, overcast afternoon light",
+  "takeaway": "Materi ini condong positif bagi KOTA karena laporan keuangan menunjukkan perusahaan berhasil membalik kerugian jadi laba sambil terus menambah proyek ekspansi baru. Pos yang tersentuh adalah laba bersih, ekuitas, dan utang: ekuitas naik dari Rp1,24 triliun menjadi Rp1,29 triliun sementara total utang turun dari Rp736,9 miliar menjadi Rp662 miliar, dan pelaku pasar memperhatikan kombinasi ini karena berarti perusahaan punya bantalan keuangan lebih kuat untuk membiayai ekspansi tanpa terlalu mengandalkan pinjaman baru. Yang perlu diwaspadai, liabilitas jangka pendek alias kewajiban yang harus dibayar dalam waktu dekat justru melonjak dari Rp95,4 miliar menjadi Rp192,7 miliar. Yang perlu dipantau berikutnya adalah pelaksanaan Public Expose Tahunan pada 27 November 2026, tempat manajemen biasanya menjelaskan lebih rinci capaian ini ke investor, serta apakah proyek Kemayoran Indah Golf senilai Rp218 miliar tetap sesuai target grand opening sekitar akhir 2027.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Pelaksanaan Public Expose Tahunan 2026"
+   }
+  ]
+ },
+ {
   "slug": "bni-raih-penghargaan-transformasi-perbankan-di-usia-80-tahun",
   "category": "Perbankan",
   "title": "BNI Raih Penghargaan [Transformasi] Perbankan di Usia 80 Tahun",
@@ -57,6 +91,102 @@ var ARTICLES = [
   "imageV": "mwuqxtaf"
  },
  {
+  "slug": "mdka-siapkan-dana-pelunasan-obligasi-jatuh-tempo-15-des-2026",
+  "category": "Aksi Korporasi",
+  "title": "MDKA Siapkan Dana [Pelunasan] Obligasi, Jatuh Tempo 15 Des 2026",
+  "deck": "MDKA memastikan dana pelunasan pokok dan bunga kedua belas Obligasi IV Tahap IV 2023 Seri B sudah siap sebelum jatuh tempo 15 Desember 2026, bunga tetap 9,50% per tahun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T19:43:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_MDKA_E019_f9240f2c-782f-4bbf-83ed-8f986e2d3d25-20261124194339.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKA",
+  "tags": [
+   "MDKA",
+   "obligasi",
+   "Merdeka Copper Gold",
+   "pelunasan obligasi"
+  ],
+  "body": [
+   "PT Merdeka Copper Gold Tbk (MDKA) menyampaikan keterbukaan informasi bahwa perusahaan telah menyediakan dana untuk melunasi pokok sekaligus membayar bunga kedua belas atas Obligasi Berkelanjutan IV Merdeka Copper Gold Tahap IV Tahun 2023 Seri B. Obligasi ini jatuh tempo pada 15 Desember 2026 dengan bunga tetap 9,50 persen per tahun. Dana tersebut akan disetorkan kepada PT Kustodian Sentral Efek Indonesia sebelum tanggal jatuh tempo tersebut.",
+   "Laporan ini disampaikan untuk memenuhi ketentuan Peraturan Nomor I-E tentang Kewajiban Penyampaian Informasi dari Bursa Efek Indonesia, yang mewajibkan emiten mengonfirmasi kesiapan dana pelunasan obligasi menjelang tanggal jatuh temponya. Dalam suratnya, perseroan menyatakan tidak ada dampak material dari pelunasan pokok dan pembayaran bunga ini terhadap kegiatan operasional, kondisi hukum dan keuangan, maupun kelangsungan usaha perusahaan. Surat ditandatangani oleh Jessica J. mewakili fungsi Corporate Secretary perseroan."
+  ],
+  "fotoAdegan": "Heavy mining trucks hauling ore along a dusty haul road at an open-pit copper and gold mine, overcast sky",
+  "takeaway": "Laporan ini positif bagi MDKA karena menegaskan perusahaan sudah punya uang tunai yang cukup untuk membayar utangnya tepat waktu, tanpa perlu mencari pinjaman baru atau menjual aset secara mendadak. Yang tersentuh di sini adalah arus kas dan beban bunga, yakni uang yang keluar untuk melunasi utang dan bunganya; pelaku pasar memperhatikan ini karena kemampuan bayar tepat waktu menentukan apakah obligasi perusahaan masih dianggap aman untuk dipegang investor. Perseroan sendiri menyebut tidak ada dampak material dari pelunasan ini terhadap operasional maupun kondisi keuangannya. Yang perlu dipantau berikutnya adalah penyetoran dana ke Kustodian Sentral Efek Indonesia sebelum obligasi ini jatuh tempo pada 15 Desember 2026, sebagai konfirmasi akhir bahwa pembayaran benar-benar terlaksana.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Jatuh tempo pelunasan pokok dan bunga kedua belas Obligasi IV Seri B"
+   }
+  ]
+ },
+ {
+  "slug": "pnse-terima-dividen-interim-rp49-5-miliar-dari-anak-usaha",
+  "category": "Aksi Korporasi",
+  "title": "PNSE Terima [Dividen Interim] Rp49,5 Miliar dari Anak Usaha",
+  "deck": "Anak usaha PNSE, PT Bali Realtindo Benoa, membagikan dividen interim Rp50 miliar untuk tahun buku 2026; bagian PNSE sebesar Rp49,5 miliar dibayar paling lambat 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T19:43:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_PNSE_E019_b8e682c1-1f39-442c-874b-9a7707f3a321-20261124194316.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PNSE",
+  "tags": [
+   "PNSE",
+   "dividen interim",
+   "Bali Realtindo Benoa",
+   "transaksi afiliasi"
+  ],
+  "body": [
+   "Direksi PT Bali Realtindo Benoa (BRB), anak usaha terkendali Pudjiadi & Sons Tbk (PNSE), pada 16 November 2026 memutuskan membagikan dividen interim tunai untuk tahun buku 2026 dengan nilai total Rp50 miliar. Keputusan itu disetujui Dewan Komisaris BRB. PNSE memegang 99,998 persen saham BRB secara langsung, setara 44.999 lembar saham, sehingga bagian dividen yang akan diterima PNSE sebesar Rp49.498.900.000, atau sekitar Rp49,5 miliar. Pembayaran dijadwalkan paling lambat 23 November 2026.",
+   "Manajemen PNSE menyatakan penerimaan dana ini memperkuat posisi kas dan likuiditas perseroan secara individual (standalone) dan tidak berdampak negatif terhadap kegiatan operasional, aspek hukum, kondisi keuangan konsolidasian, maupun kelangsungan usaha perseroan. Transaksi ini tergolong transaksi afiliasi karena terjadi antara PNSE dan perusahaan yang dikendalikannya, namun dikecualikan dari kewajiban menggunakan jasa penilai independen dan memperoleh persetujuan RUPS, sesuai Pasal 6 ayat 1 huruf b POJK Nomor 42/POJK.04/2020, karena kepemilikan PNSE di BRB melebihi batas 99 persen dari modal disetor. Laporan keterbukaan ini ditandatangani oleh Corporate Secretary PNSE."
+  ],
+  "fotoAdegan": "A seaside resort hotel in Bali with palm trees, swimming pool and sun loungers, soft morning light, no visible signage",
+  "takeaway": "Laporan ini condong positif bagi PNSE karena perseroan menerima suntikan kas tunai sekitar Rp49,5 miliar dari anak usahanya tanpa menambah utang atau menerbitkan saham baru. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang benar-benar masuk ke rekening perseroan, bukan sekadar keuntungan di atas kertas, sehingga pelaku pasar memperhatikannya karena menambah bantalan likuiditas PNSE secara mandiri, terlepas dari performa konsolidasi grup. Karena ini transaksi antara induk dan anak usaha yang sahamnya dimiliki hampir seluruhnya oleh PNSE, aturan OJK membebaskannya dari kewajiban penilai independen dan persetujuan RUPS, sehingga prosesnya relatif cepat dan rutin bagi kepemilikan sebesar itu. Yang perlu dipantau adalah realisasi pembayaran sesuai tenggat 23 November 2026, serta apakah tambahan kas ini nantinya tercermin pada kebijakan dividen PNSE sendiri kepada pemegang sahamnya di laporan keuangan berikutnya.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Pembagian dividen interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-16",
+    "acara": "Keputusan Direksi BRB membagikan dividen interim Rp50 miliar"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Batas akhir pembayaran dividen interim BRB ke PNSE"
+   }
+  ]
+ },
+ {
+  "slug": "buva-lunasi-kredit-mandiri-rp420-4-miliar-dipercepat",
+  "category": "Aksi Korporasi",
+  "title": "BUVA Lunasi Kredit Mandiri Rp420,4 Miliar: [Dipercepat]",
+  "deck": "BUVA melunasi dipercepat seluruh kredit investasi Rp420,4 miliar ke Bank Mandiri pada 20 November 2026, dibiayai dari dana rights issue II.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T19:37:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BUVA_E019_9a42b7b4-d1e4-46d2-bb61-999a35b3b97d-20261124193733.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BUVA",
+  "tags": [
+   "BUVA",
+   "Bank Mandiri",
+   "rights issue",
+   "pelunasan kredit"
+  ],
+  "body": [
+   "PT Bukit Uluwatu Villa Tbk (BUVA) melunasi lebih cepat seluruh sisa kredit investasinya di Bank Mandiri pada 20 November 2026. Total yang dibayarkan mencapai Rp420.391.594.666,66, terdiri dari pelunasan utang pokok sebesar Rp417.792.000.000 dan pembayaran bunga Rp2.599.594.666,66. Dana untuk melunasi utang pokok berasal dari hasil Penambahan Modal Dengan Hak Memesan Efek Terlebih Dahulu (rights issue) II Perseroan, sementara pembayaran bunga menggunakan kas internal perusahaan.",
+   "Fasilitas yang dilunasi berasal dari dua perjanjian kredit investasi dengan Bank Mandiri, yakni perjanjian tanggal 27 Oktober 2023 senilai Rp260 miliar dan perjanjian tanggal 21 Desember 2023 senilai Rp240 miliar, sehingga total plafon kedua fasilitas itu sebesar Rp500 miliar. Manajemen BUVA menyatakan pelunasan ini tidak berdampak pada kegiatan operasional perusahaan.",
+   "Dari sisi keuangan, perusahaan menyebut pelunasan ini akan menurunkan total liabilitas dan total aset tanpa memengaruhi ekuitas, sekaligus mengurangi beban bunga yang selama ini ditanggung perusahaan, yang diharapkan berdampak positif terhadap profitabilitas. Laporan keterbukaan informasi ini ditandatangani oleh Corporate Secretary BUVA, Rian Fachmi."
+  ],
+  "fotoAdegan": "Rows of empty beachfront resort villas with pools, palm trees swaying, soft morning light in Bali",
+  "takeaway": "Laporan ini condong positif bagi BUVA karena pelunasan dipercepat ini menghapus utang berbunga tanpa mengurangi modal pemegang saham, langkah yang biasanya disambut baik karena menurunkan risiko keuangan perusahaan. Pos yang tersentuh adalah utang (liabilitas) dan beban bunga: dengan lenyapnya pinjaman Rp500 miliar dari Bank Mandiri, beban bunga tahunan yang harus dibayar perusahaan berkurang sehingga ada peluang laba bersih membaik, sementara ekuitas tidak berubah karena dana pelunasan berasal dari kas hasil rights issue, bukan dari laba usaha. Yang perlu dipantau berikutnya adalah laporan keuangan BUVA pada periode mendatang, untuk melihat apakah penurunan beban bunga ini benar-benar tercermin dalam perbaikan laba, sebab dokumen ini sendiri tidak menyebut tanggal pelaporan lanjutan.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
   "slug": "telkom-raih-platinum-award-lacp-2025-untuk-laporan-tahunan",
   "category": "BUMN",
   "title": "Telkom Raih [Platinum Award] LACP 2025 untuk Laporan Tahunan",
@@ -81,6 +211,33 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah di sini hanya status pengakuan, yaitu laporan tahunan Telkom mendapat Platinum Award kategori telekomunikasi dan masuk Top 100 Reports Worldwide versi LACP. Penilaiannya menyasar kualitas penulisan, narasi, dan desain laporan, bukan kinerja keuangan atau operasional perusahaan. Pihak yang langsung terdampak adalah reputasi tim komunikasi korporat Telkom, sementara pemegang saham publik TLKM baru mendapat manfaat tidak langsung lewat standar pelaporan yang diklaim lebih transparan. Berita ini tidak memuat data kinerja Telkom sendiri, jadi belum bisa dibaca apakah penghargaan untuk kualitas penyajian ini juga sejalan dengan isi kinerja keuangan yang akan disampaikan perusahaan, dan itu baru akan terlihat saat Telkom merilis laporan keuangan atau laporan tahunan berikutnya.",
   "imageV": "mwuqxtpy"
+ },
+ {
+  "slug": "sengketa-cmnp-bhit-kasasi-bunga-6-dan-rp50-m-ganti-rugi-ditolak",
+  "category": "Aksi Korporasi",
+  "title": "Sengketa CMNP-BHIT [Kasasi]: Bunga 6% dan Rp50 M Ganti Rugi Ditolak",
+  "deck": "BHIT ajukan kasasi atas putusan banding yang menolak kewajiban bunga 6 persen sejak 2002 dan ganti rugi Rp50 miliar dalam perkara melawan CMNP.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T18:05:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BHIT_E019_70ed2b54-b303-456b-94d6-1e9ebbad5ed0-20261124180547.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BHIT",
+  "tags": [
+   "BHIT",
+   "CMNP",
+   "Hukum",
+   "Kasasi"
+  ],
+  "body": [
+   "PT MNC Asia Holding Tbk (BHIT) mengajukan kasasi ke Mahkamah Agung atas putusan Pengadilan Tinggi DKI Jakarta No. 436/PDT/2026/PT DKI tertanggal 11 Agustus 2026, dalam perkara hukum melawan PT Citra Marga Nusaphala Persada Tbk (CMNP). Putusan banding tersebut sejatinya telah mengoreksi putusan pengadilan tingkat pertama dengan menolak dua tuntutan terhadap BHIT, yaitu kewajiban membayar bunga 6 persen yang dihitung sejak 9 Mei 2002 hingga pelunasan, dan ganti rugi imateriil sebesar Rp50 miliar.",
+   "Dalam suratnya ke Bursa Efek Indonesia, BHIT menjelaskan bahwa sampai dengan penerbitan laporan keuangan per 30 September 2026, perkara ini belum memperoleh putusan berkekuatan hukum tetap, sehingga perusahaan menilai belum ada dasar memadai untuk menetapkan besaran kewajiban finansial yang mungkin timbul. Manajemen menyatakan yakin perkara ini tidak akan berdampak negatif material terhadap kelangsungan usaha maupun operasional perusahaan.",
+   "Keyakinan itu didasarkan pada argumen bahwa gugatan diajukan tanpa landasan hukum yang kuat, karena menurut BHIT ada dua fakta hukum yang tidak diungkap penggugat: PT Bank Unibank Tbk seharusnya turut digugat karena berperan sebagai pihak yang menerima pembayaran sekaligus penerbit NCD (Negotiable Certificate of Deposit) yang menjadi obyek perkara, serta adanya korespondensi selama 2,5 tahun sebelum Bank Unibank dibekukan oleh otoritas (BBKU) yang menurut BHIT menegaskan keabsahan NCD tersebut. Surat ini merupakan tanggapan BHIT atas permintaan keterbukaan informasi dari BEI bernomor S-14209/BEI.PP2/11-2026 tanggal 17 November 2026."
+  ],
+  "fotoAdegan": "Wide exterior shot of a modern Jakarta courthouse facade with people walking up wide steps, overcast midday light",
+  "takeaway": "Laporan ini cenderung netral bagi BHIT: putusan banding sejauh ini sudah menghapus dua tuntutan finansial, yakni bunga 6 persen sejak 2002 dan ganti rugi imateriil Rp50 miliar, tapi perkara belum final karena BHIT sendiri mengajukan kasasi sehingga kepastian kewajiban keuangannya masih menggantung. Yang tersentuh di sini adalah liabilitas kontinjensi, yaitu potensi utang yang baru benar-benar dibukukan sebagai beban dan mengurangi ekuitas kalau BHIT kalah di tingkat kasasi; sampai ada putusan final, perusahaan tidak wajib mencatatnya di laporan keuangan. Yang perlu dipantau selanjutnya adalah putusan kasasi Mahkamah Agung atas perkara ini, karena hasilnya menentukan apakah BHIT harus membayar bunga dan ganti rugi yang sempat ditolak pengadilan tinggi, meski dokumen ini tidak menyebut kapan putusan kasasi tersebut diperkirakan keluar.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "nest-klarifikasi-uma-tak-ada-informasi-material-baru",
@@ -382,6 +539,48 @@ var ARTICLES = [
   "takeaway": "Rangkaian pergantian Direktur Utama dua kali hanya dalam waktu kurang dari lima bulan ini condong negatif bagi Pos Indonesia, karena terjadi persis di periode yang sama ketika perusahaan ternyata gagal membayar bunga obligasi dan dua sukuknya, sehingga kepemimpinan yang belum stabil berisiko memperlambat proses negosiasi utang. Yang paling relevan dipantau investor obligasi adalah siapa yang mengisi kursi Direktur Utama dan Direktur Keuangan, sebab merekalah yang akan memimpin pembicaraan dengan kreditur serta menentukan arus kas yang dipakai membayar kembali utang perusahaan, sehingga pergantian berulang di kedua posisi ini menambah ketidakjelasan soal siapa yang benar-benar memegang kendali saat restrukturisasi berjalan. Yang perlu dipantau berikutnya adalah RUPSLB/RUPO yang menurut laporan Pos Indonesia sebelumnya dijadwalkan 7 Desember 2026 untuk membahas gagal bayar tiga instrumen utang, karena hasil pertemuan itu akan menunjukkan apakah jajaran direksi baru ini mampu meyakinkan kreditur menyetujui skema standstill dan utang baru yang diminta.",
   "sentimen": "negatif",
   "judulIdx": "Perubahan Pengurus"
+ },
+ {
+  "slug": "tama-ekuitas-negatif-rupslb-7-desember-agenda-divestasi-ke-pnm",
+  "category": "Aksi Korporasi",
+  "title": "TAMA: Ekuitas Negatif, RUPSLB 7 Desember [Agenda] Divestasi ke PNM",
+  "deck": "TAMA menjelaskan ke BEI: ekuitas negatif Rp62,54 miliar, utang pemegang saham naik ke Rp142,23 miliar, RUPSLB 7 Desember putuskan divestasi Rp84,22 miliar ke PNM.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:50:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_TAMA_E023A_fb372ce7-d49b-45a5-a028-5e612bbeac96-20261124165048.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAMA",
+  "tags": [
+   "TAMA",
+   "RUPSLB",
+   "divestasi aset",
+   "utang pemegang saham"
+  ],
+  "body": [
+   "PT Lancartama Sejati Tbk (TAMA) menjawab surat permintaan penjelasan Bursa Efek Indonesia terkait rencana pengambilalihan sahamnya oleh PT Dana Berguna Sejahtera (DBS) yang sempat tidak disebutkan lagi dalam keterbukaan informasi 29 Oktober 2026. Perseroan menegaskan rencana itu belum dibatalkan maupun ditunda, melainkan masih dalam tahap pembahasan, dan Kesepakatan Awal 6 Mei 2026 antara PT Lancartama Tirta Anggara (LTA) dengan DBS tetap menjadi dasar negosiasi. Rencana divestasi aset ke PT Permana Namma Mulia (PNM) yang sebelumnya disebut sebagai syarat pengambilalihan oleh DBS, kini dinyatakan bukan lagi menjadi condition precedent.",
+   "Soal divestasi aset ke PNM sendiri, nilai transaksi dalam perjanjian jual beli 8 September 2026 tercatat sekitar Rp84,22 miliar, naik sekitar 28,8 persen dari rencana Mei 2026 yang hanya sekitar Rp65,4 miliar. Kenaikan ini terjadi setelah penilai independen KJPP Kusno Raharjo dan Rekan mengubah metode penilaian dari pendekatan pasar menjadi pendekatan pendapatan (DCF) untuk dua aset properti di Jalan Sultan Hasanuddin No. 51-52 dan Jalan Pakubuwono VI No. 99 A-B, Kebayoran Baru. KJPP Syarif, Endang dan Rekan dalam pendapat kewajaran 23 September 2026 menyimpulkan transaksi tetap wajar karena selisih nilai transaksi dengan nilai pasar hasil penilaian hanya sekitar 0,0024 persen, masih di bawah ambang toleransi 7,5 persen yang diatur aturan OJK.",
+   "Dari sisi keuangan, laporan interim per 30 September 2026 mencatat defisiensi ekuitas sekitar Rp62,54 miliar dengan total aset sekitar Rp81,38 miliar, lebih rendah dari nilai transaksi divestasi itu sendiri. Perseroan juga mengonfirmasi utang kepada pemegang saham naik dari sekitar Rp140 miliar menjadi sekitar Rp142,23 miliar, berasal dari pinjaman LTA senilai sekitar Rp140 miliar dengan bunga 6 persen per tahun dan jatuh tempo paling lambat 26 Mei 2027. TAMA mengakui pinjaman ini seharusnya diungkapkan sebagai transaksi pihak berelasi tersendiri dan berjanji akan memperbaiki pengungkapan tersebut pada periode berikutnya. Dana hasil divestasi ke PNM rencananya akan dipakai untuk melunasi pinjaman pemegang saham ini.",
+   "Perseroan juga mengonfirmasi bahwa pemegang saham Verah Wahyudi S. Wong, yang menguasai sekitar 10,06 persen saham TAMA, adalah istri dari Budi Aditya Erna Mulyanto yang disebut sebagai pemilik manfaat akhir (UBO) DBS. Meski begitu, TAMA menyatakan PNM tidak memiliki hubungan afiliasi dengan perseroan maupun pihak-pihak tersebut. RUPSLB yang dijadwalkan 7 Desember 2026 akan tetap memperhitungkan suara Verah bersama kelompok pengendali LTA, Kathrin Widjaja, dan Alex Widjaja berdasarkan daftar pemegang saham tertanggal 12 November 2026, dan perseroan memastikan akta jual beli aset baru akan diteken setelah RUPSLB menyetujui transaksi."
+  ],
+  "fotoAdegan": "A quiet tree-lined street in a Jakarta business district with mid-rise office buildings and parked cars at midday.",
+  "takeaway": "Laporan ini condong negatif bagi Lancartama Sejati, karena membongkar ekuitas negatif Rp62,54 miliar, utang pemegang saham yang membesar jadi Rp142,23 miliar tanpa pengungkapan terpisah yang memadai, serta kenaikan nilai transaksi divestasi 28,8 persen yang dibarengi perubahan metode penilaian properti dari pendekatan pasar ke pendekatan pendapatan. Ekuitas negatif berarti total utang perusahaan sudah melebihi total asetnya, sehingga pelaku pasar biasanya mencermati dari mana dana operasional berasal selain pinjaman pemegang saham yang justru terus bertambah dan berbunga 6 persen per tahun. Perubahan metode penilaian aset juga layak diawasi karena ikut menentukan harga jual properti kepada pihak yang berkaitan dengan rencana pengambilalihan oleh DBS. Yang perlu dipantau berikutnya adalah RUPSLB pada 7 Desember 2026, saat pemegang saham memutuskan apakah divestasi aset Rp84,22 miliar ke PNM disetujui, serta apakah Lancartama benar memperbaiki pengungkapan utang pemegang sahamnya pada laporan keuangan periode berikutnya seperti yang dijanjikan.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-12",
+    "acara": "Daftar pemegang saham penentu hak suara RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "RUPSLB memutuskan divestasi aset ke PNM senilai Rp84,22 miliar"
+   },
+   {
+    "tanggal": "2027-05-26",
+    "acara": "Jatuh tempo pinjaman pemegang saham dari LTA Rp140 miliar"
+   }
+  ]
  },
  {
   "slug": "kppu-tolak-saksi-terlapor-i-dalam-sidang-pasar-ciparay",
@@ -12438,8 +12637,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-indy-19-nov-laba-bersih-9m26-naik-ke-us-20-2-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose INDY 19 Nov: [Laba Bersih] 9M26 Naik ke US$20,2 Juta",
-  "deck": "Materi Public Expose Tahunan INDY menunjukkan laba bersih 9M26 melonjak ke US$20,2 juta dari US$0,5 juta, ditopang harga batu bara dan bisnis non-batubara.",
+  "title": "Public Expose INDY: Awak Mas 76,4%, [First Gold] Target Q2 2027",
+  "deck": "Hasil Public Expose INDY 19 November mengungkap progres Awak Mas naik ke 76,4%, first gold ditarget kuartal II 2027, dan pendanaan proyek lewat pinjaman sindikasi serta fasilitas DBS US$155 juta.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T22:22:28",
@@ -12449,16 +12648,18 @@ var ARTICLES = [
   "tags": [
    "INDY",
    "Public Expose",
-   "Kinerja Keuangan",
-   "Awak Mas"
+   "Awak Mas",
+   "Indika Energy"
   ],
   "body": [
-   "PT Indika Energy Tbk menyampaikan materi Public Expose Tahunan ke Bursa Efek Indonesia pada 16 November 2026, menjelang acara paparan publik yang dijadwalkan 19 November 2026. Materi itu memuat kinerja sembilan bulan 2026 (9M26): pendapatan naik 27,7 persen menjadi US$1.842,3 juta dari US$1.443,0 juta pada periode sama tahun lalu, laba kotor naik 44,6 persen menjadi US$280,1 juta, dan laba bersih yang diatribusikan ke pemilik induk melonjak menjadi US$20,2 juta dari hanya US$0,5 juta. Laba usaha naik 92,6 persen menjadi US$155,9 juta karena beban penjualan, umum, dan administrasi hanya tumbuh 10,1 persen, jauh di bawah laju pendapatan.",
-   "Kideco, anak usaha tambang batu bara, tetap jadi penyumbang utama dengan pendapatan US$1.345,6 juta (naik 16,8 persen), ditopang harga jual rata-rata FOB yang naik 14,0 persen menjadi US$56,3 per ton dan EBITDA yang naik 68,8 persen menjadi US$201,7 juta. Volume produksi batu bara Kideco naik 5,9 persen menjadi 23,5 juta ton. Di luar Kideco, Tripatra (jasa EPC) mencatat pendapatan US$289,7 juta (naik 64,4 persen) dan Interport (logistik BBM dan pelabuhan) US$137,2 juta (naik 47,4 persen), dengan volume penjualan BBM Interport naik 4,1 kali lipat menjadi 60,0 ribu kiloliter. Kontribusi pendapatan non-batubara terhadap total naik menjadi 23,1 persen dari 19,2 persen pada 9M25.",
-   "Dari sisi keuangan, total aset naik 11,8 persen menjadi US$3.279,3 juta per September 2026, sementara total liabilitas naik 19,7 persen, termasuk tambahan penerbitan obligasi (tap issuance) senilai US$100 juta. Total kas konsolidasi tercatat US$664,9 juta dan total utang konsolidasi US$1.250 juta. Belanja modal 9M26 mencapai US$146,7 juta dari anggaran tahunan US$380,4 juta, dengan porsi terbesar US$127,6 juta mengalir ke proyek tambang emas Awak Mas di Luwu, Sulawesi Selatan, yang dikerjakan lewat anak usaha Masmindo Dwi Area. Konstruksi Awak Mas sudah mencapai 72,8 persen dengan realisasi biaya proyek US$398 juta dari total US$568 juta, menyasar produksi komersial pada semester satu 2027, seiring harga emas yang mencapai US$4.358 per ons pada September 2026."
+   "PT Indika Energy Tbk melaporkan kepada Bursa Efek Indonesia bahwa Public Expose Tahunan 2026 telah dilaksanakan pada Kamis, 19 November 2026, secara daring lewat Microsoft Teams pukul 10.00 hingga 11.16 WIB. Acara ini dihadiri 44 peserta di luar jajaran direksi dan karyawan perusahaan, terdiri dari media, analis, dan investor perorangan, serta berlangsung lancar dengan seluruh pertanyaan dijawab langsung oleh direksi.",
+   "Dalam sesi tanya jawab, manajemen mengungkap sejumlah angka baru soal proyek tambang emas Awak Mas di Luwu, Sulawesi Selatan. Hingga Oktober 2026, progres konstruksi sudah mencapai 76,4 persen, naik dari 72,8 persen yang dilaporkan per September 2026, dengan realisasi biaya proyek sekitar US$437 juta dari total US$568 juta, atau sekitar 77 persen. Produksi pertama (first gold) ditargetkan tercapai pada kuartal II 2027, dengan produksi tahun 2027 diperkirakan 50.000 hingga 70.000 ons emas sebelum naik ke sekitar 100.000 ons per tahun pada 2028 begitu kapasitas penuh tercapai. Total cadangan emas Awak Mas tercatat 1,93 juta ons dengan kapasitas pengolahan bijih 2,5 juta ton per tahun.",
+   "Soal pendanaan, manajemen menegaskan proyek senilai US$568 juta itu sudah didukung pinjaman sindikasi yang diteken pada 2025 dan fasilitas bank dari DBS senilai US$155 juta yang khusus dialokasikan untuk Awak Mas. Kenaikan utang perusahaan sepanjang 2026 terutama dipakai membiayai konstruksi tersebut, yang belum menyumbang laba usaha karena belum berproduksi. Manajemen menyebut posisi kas konsolidasi masih terjaga di US$664,9 juta dan akan terus menjaga rasio keuangan sesuai ketentuan kreditur bank dan pemegang obligasi.",
+   "Manajemen juga menjelaskan selisih antara laba usaha 9M26 sebesar US$155,9 juta dan laba bersih US$20,2 juta, yang terutama berasal dari beban bunga pinjaman dan obligasi sebesar US$51,6 juta, beban pajak US$47,7 juta yang mayoritas disetor Kideco seiring labanya yang naik, rugi selisih kurs US$9,8 juta akibat pelemahan rupiah, dan bagian laba milik pemegang saham minoritas di anak usaha. Laba bersih 9M26 itu sendiri melonjak dari hanya US$0,5 juta pada periode sama tahun lalu, ditopang pendapatan yang naik 27,7 persen menjadi US$1.842,3 juta serta kontribusi bisnis non-batubara yang naik ke 23,1 persen dari 19,2 persen, dengan target naik ke 50 persen pada 2028 begitu Awak Mas mulai berproduksi.",
+   "Terkait rencana ekspansi lain, manajemen menegaskan Indika Energy tidak memiliki bisnis nikel dan fokus mineral tetap di emas serta bauksit. Soal kemungkinan penawaran umum perdana bagi Masmindo, anak usaha yang menggarap Awak Mas, manajemen mengatakan fokus saat ini masih menyelesaikan konstruksi dan mencapai produksi komersial, namun tetap terbuka terhadap opsi yang dapat menambah nilai bagi pemegang saham dan akan mengumumkannya lewat keterbukaan informasi jika terjadi."
   ],
   "fotoAdegan": "Workers inspecting heavy mining equipment at an open-pit coal mine, dusty haul road, overcast sky, wide shot",
-  "takeaway": "Laporan paparan publik ini condong positif bagi INDY, karena laba bersih sembilan bulan 2026 melonjak ke US$20,2 juta dari hanya US$0,5 juta setahun sebelumnya, ditopang kenaikan harga jual batu bara Kideco dan pertumbuhan bisnis non-batubara. Pos yang bergerak adalah margin laba usaha, yang naik ke 8,5 persen dari 5,6 persen karena beban operasional tumbuh lebih lambat dari pendapatan, serta jumlah utang perusahaan yang naik 19,7 persen, termasuk tambahan obligasi US$100 juta untuk membiayai ekspansi seperti proyek emas Awak Mas. Yang perlu dipantau adalah pelaksanaan Public Expose pada 19 November 2026, tempat manajemen akan menjawab langsung pertanyaan investor, serta kelanjutan sengketa lahan di Masmindo Dwi Area, anak usaha yang sama yang kini membangun proyek Awak Mas senilai US$568 juta, karena sengketa itu berpotensi mengganggu target produksi komersial pada semester satu 2027.",
+  "takeaway": "Laporan hasil Public Expose ini condong positif bagi INDY, karena mengonfirmasi progres pembangunan tambang emas Awak Mas tetap sesuai jadwal dan pendanaannya sudah terjamin lewat pinjaman sindikasi serta fasilitas bank DBS senilai US$155 juta, tanpa ada kabar buruk baru soal proyek senilai US$568 juta itu. Pos yang tersentuh adalah beban bunga, karena manajemen menjelaskan kenaikan utang 19,7 persen pada kuartal sebelumnya terutama dipakai membiayai Awak Mas yang belum menyumbang laba karena belum berproduksi, serta kontribusi pendapatan non-batubara yang ditargetkan naik dari 23,1 persen menjadi 50 persen pada 2028 begitu tambang ini jalan. Yang perlu dipantau berikutnya adalah penyelesaian konstruksi Awak Mas pada kuartal IV 2026, pencapaian first gold yang ditargetkan kuartal II 2027, dan dimulainya produksi komersial pada semester I 2027, karena tiga tonggak itu menentukan kapan proyek ini mulai menghasilkan uang bagi perusahaan.",
   "sentimen": "positif",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -12467,7 +12668,16 @@ var ARTICLES = [
     "tanggal": "2026-11-19",
     "acara": "Pelaksanaan Public Expose Tahunan INDY"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T19:29:05",
+    "ringkas": "Hasil Public Expose INDY: progres Awak Mas capai 76,4%, first gold ditarget kuartal II 2027, pendanaan didukung fasilitas DBS US$155 juta.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_INDY_E003_1d65e41f-c733-4c6e-8175-1eeb48b7bf2f-20261124192907.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-24T19:29:05"
  },
  {
   "slug": "rupslb-flmc-18-november-penambahan-kbli-jadi-perusahaan-induk",
@@ -12693,8 +12903,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-bipi-divestasi-sbg-rp1-79-t-dana-ke-lng",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BIPI: [Divestasi] SBG Rp1,79 T, Dana ke LNG",
-  "deck": "BIPI memaparkan materi public expose 2026: divestasi anak usaha batu bara SBG senilai Rp1,79 triliun, dana Rp1,7 triliun dialihkan ke LNG, panas bumi, pusat data, dan pengolahan sampah.",
+  "title": "Public Expose BIPI 19 November: [Proyeksi] Pendapatan US$140 Juta",
+  "deck": "Dalam sesi public expose 19 November 2026, manajemen BIPI memproyeksikan pendapatan 2026 capai US$140 juta dan menjelaskan kilang mini LNG mundur ke Juni 2027.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T19:16:19",
@@ -12703,20 +12913,30 @@ var ARTICLES = [
   "emiten": "BIPI",
   "tags": [
    "BIPI",
-   "divestasi",
-   "public expose",
+   "Public Expose",
+   "Divestasi SBG",
    "LNG"
   ],
   "body": [
-   "PT Astrindo Nusantara Infrastruktur Tbk (BIPI) menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia, menyusul surat pemberitahuan rencana acara yang sudah dikirim pada 4 November 2026. Materi tersebut memuat pembaruan rencana divestasi anak usaha tambang batu bara, PT Sintesa Bara Gemilang (SBG), kepada PT Indo Panca Borneo (IPB) senilai Rp1,79 triliun. Transaksi ini sudah disetujui pemegang saham dalam RUPSLB 30 Juni 2026, dengan target penyelesaian Desember 2026. SBG, yang menaungi Sakari Resources Ltd dan entitas anak lainnya, menyumbang sekitar 84 persen pendapatan konsolidasi perseroan hingga kuartal III 2025, tetapi juga menanggung utang bank US$287 juta dengan bunga 11,5 persen per tahun.",
-   "Perseroan berencana mengalokasikan kembali dana hasil divestasi hingga Rp1,7 triliun untuk merger dan akuisisi strategis serta pertumbuhan organik dalam 12 sampai 24 bulan ke depan, termasuk proyek yang sudah berjalan senilai sekitar Rp0,4 triliun. Dana ini diarahkan ke empat platform baru di luar batu bara: distribusi LNG, gas hulu, panas bumi, pusat data, dan pengolahan sampah menjadi energi. Salah satu proyek yang sedang berjalan adalah kilang mini LNG berkapasitas 2,5 MMSCFD di Wunut, Jawa Timur, dengan rencana ekspansi hingga 22,5 MMSCFD dan target rampung semester I 2027.",
-   "Dari sisi kinerja, materi itu memuat laporan keuangan sembilan bulan 2025: pendapatan turun 34,2 persen menjadi US$128,1 juta dari US$194,8 juta pada periode sama tahun sebelumnya, dan EBITDA turun 41 persen menjadi US$31,2 juta. Di sisi lain, jumlah liabilitas turun menjadi US$901,4 juta dari US$1.005,8 juta, dan rasio liabilitas terhadap ekuitas membaik ke 1,50 kali dari 1,69 kali, dibantu beban keuangan yang turun 20 persen menjadi US$42,7 juta seiring pelunasan pinjaman. Di sisi operasional, produksi batu bara kuartal I 2026 tercatat 294 ribu ton sebelum dihentikan total sejak April 2026 karena menunggu persetujuan RKAB 2026, sehingga perseroan harus membeli batu bara dari pihak ketiga untuk memenuhi kontrak penjualan yang sudah ada."
+   "Manajemen PT Astrindo Nusantara Infrastruktur Tbk (BIPI) memaparkan hasil sesi public expose tahunan 2026 yang digelar secara daring pada 19 November 2026, dihadiri 23 pemegang saham, investor, analis, dan media selain jajaran direksi dan komisaris. Direktur Michael Wong menyampaikan bahwa perseroan memproyeksikan pendapatan sepanjang 2026 mencapai US$140 juta, dengan laba bersih tetap positif seperti yang sudah tercapai sejauh ini.",
+   "Soal kilang mini LNG di Wunut, Jawa Timur, manajemen mengakui jadwal komisioning yang semula ditargetkan tahun ini mundur ke Juni 2027. Direktur Utama Ray Anthony Gerungan menjelaskan penyebabnya adalah proses kepabeanan untuk peralatan yang dikirim dari Batam serta kendala transportasi darat setelah tiba di Surabaya, yang menambah waktu sekitar empat bulan. Progres proyek berkapasitas 2,5 MMSCFD ini per 30 September 2026 sudah mencapai sekitar 60 persen. Perseroan juga sudah menandatangani nota kesepahaman dengan PT Indogas Kriya Dwiguna dan PT Energi Mega Persada Tbk sebagai langkah awal penjajakan pasokan gas, dengan target distribusi awal ke Jawa Tengah dan Jawa Timur sebelum diperluas ke Jawa Barat dan Bali.",
+   "Mengenai rencana alokasi dana hasil divestasi anak usaha batu bara PT Sintesa Bara Gemilang (SBG) senilai Rp1,79 triliun kepada PT Indo Panca Borneo, manajemen memastikan dana itu akan dipakai menurunkan beban utang, menambah posisi kas, memperbaiki likuiditas dan struktur permodalan, serta mendukung transformasi ke bisnis energi berkelanjutan seperti LNG, panas bumi, pusat data, dan pengolahan sampah menjadi energi. Setelah transaksi efektif, kewajiban SBG kepada PT Bank Mandiri (Persero) Tbk tidak lagi menjadi bagian dari pembukuan perseroan. Transaksi ini sudah disetujui pemegang saham dalam RUPSLB 30 Juni 2026, dengan target penyelesaian Desember 2026. Perseroan menyatakan belum ada rencana merger atau akuisisi yang diputuskan, meski terus mengevaluasi peluang investasi sejalan dengan strategi usaha tersebut.",
+   "Soal rencana pusat data, manajemen menyebut idenya berawal dari proyek panas bumi di Ponorogo, yang lokasinya relatif jauh dari pasar sehingga pembangunan jaringan transmisi listrik jadi tantangan tersendiri, mendorong perseroan mempertimbangkan pembeli kedua selain PLN lewat pusat data. Proyek ini diperkirakan membutuhkan waktu 12 sampai 24 bulan dengan investasi yang bisa mencapai jutaan dolar AS. Produksi batu bara perseroan sendiri masih terhenti total sejak April 2026 karena menunggu persetujuan RKAB 2026, sehingga perseroan harus membeli batu bara dari pihak ketiga untuk memenuhi kontrak penjualan yang sudah ada."
   ],
   "fotoAdegan": "Workers inspecting cryogenic storage tanks at a small-scale LNG terminal under construction, industrial pipework, overcast sky",
-  "takeaway": "Paparan ini kami nilai netral dengan sedikit kecenderungan positif bagi fundamental BIPI: produksi batu bara yang terhenti total sejak April 2026 dan pendapatan yang turun 34 persen adalah sinyal lemah, tetapi rencana melepas SBG senilai Rp1,79 triliun sekaligus memangkas eksposur ke utang berbunga tinggi US$287 juta justru memperbaiki struktur modal perseroan. Pos yang tersentuh adalah ekuitas dan beban bunga, yaitu kekayaan bersih pemegang saham setelah dikurangi utang dan biaya pinjaman yang harus dibayar perseroan setiap tahun; keduanya membaik di sini, tercermin dari rasio utang terhadap ekuitas yang turun ke 1,50 kali dari 1,69 kali. Yang perlu dipantau berikutnya adalah penyelesaian transaksi divestasi SBG yang ditargetkan tuntas Desember 2026, serta nasib persetujuan RKAB 2026 yang sejak April 2026 membuat seluruh produksi batu bara perseroan berhenti.",
+  "takeaway": "Laporan hasil public expose ini kami nilai netral dengan kecenderungan positif tipis: manajemen untuk pertama kalinya memberi proyeksi pendapatan setahun penuh senilai US$140 juta dan memastikan utang SBG ke Bank Mandiri akan lepas dari pembukuan begitu divestasi efektif, tapi di sisi lain mengakui kilang mini LNG yang jadi andalan diversifikasi mundur ke Juni 2027 akibat proses impor dan bea cukai yang lebih lama dari perkiraan. Pos yang tersentuh adalah pendapatan, arus kas, dan beban bunga, yaitu uang yang masuk dari penjualan, dana tunai yang bisa dipakai perseroan sehari-hari, dan biaya pinjaman tahunan yang harus dibayar; ketiganya berpotensi membaik kalau dana divestasi benar dipakai melunasi utang seperti dijanjikan manajemen. Yang perlu dipantau berikutnya adalah apakah realisasi pendapatan akhir 2026 mendekati proyeksi US$140 juta, penyelesaian transaksi divestasi SBG yang ditargetkan tuntas Desember 2026, dan progres komisioning kilang mini LNG yang kini dipatok Juni 2027.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
-  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T19:50:47",
+    "ringkas": "Manajemen BIPI memproyeksikan pendapatan 2026 capai US$140 juta dan mengakui kilang mini LNG mundur ke Juni 2027 akibat kendala impor.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BIPI_E003_c6633dff-bae4-435d-8c1d-2f6a9b92db8c-20261124195048.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-24T19:50:47"
  },
  {
   "slug": "tmpo-jelaskan-ke-bursa-rugi-berlanjut-covenant-bank-terpenuhi",
@@ -23559,8 +23779,8 @@ var ARTICLES = [
  {
   "slug": "hits-jadwalkan-rupst-rupslb-16-desember-bahas-modal-dasar",
   "category": "Aksi Korporasi",
-  "title": "HITS Jadwalkan RUPST-RUPSLB 16 Desember, Bahas [Modal Dasar]",
-  "deck": "HITS akan gelar RUPST dan RUPSLB pada 16 Desember 2026, dengan satu agenda RUPSLB soal rencana menaikkan modal dasar perseroan.",
+  "title": "RUPSLB HITS 16 Desember: [Agenda] Penegasan Pemegang Saham",
+  "deck": "Pemanggilan resmi RUPST-RUPSLB HITS terbit: agenda RUPSLB berubah dari rencana modal dasar jadi penegasan susunan pemegang saham imbas tender offer sukarela, rapat tetap 16 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T18:30:54",
@@ -23569,18 +23789,51 @@ var ARTICLES = [
   "emiten": "HITS",
   "tags": [
    "HITS",
-   "RUPST",
    "RUPSLB",
-   "modal dasar"
+   "RUPST",
+   "Tender Offer"
   ],
   "body": [
-   "PT Humpuss Intermoda Transportasi Tbk (HITS) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026, di Mangkuluhur City Tower One, Meeting Room Lantai 26, Jalan Jenderal Gatot Subroto, Jakarta. RUPST dijadwalkan pukul 10.00 WIB, dilanjutkan RUPSLB sekitar pukul 11.45 hingga 13.00 WIB. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 23 November 2026 pukul 16.00 WIB, sementara pemanggilan resmi berisi mata acara lengkap baru akan diumumkan pada Selasa, 24 November 2026.",
-   "Untuk RUPST, ada empat agenda yang akan dibahas: persetujuan laporan tahunan dan pengesahan laporan keuangan konsolidasi teraudit untuk tahun buku 2025, penetapan penggunaan laba bersih perseroan tahun buku 2025, penunjukan akuntan publik untuk tahun buku 2026, serta penetapan gaji dan tunjangan bagi Direksi dan Dewan Komisaris.",
-   "Sementara itu, RUPSLB hanya memuat satu agenda, yaitu peningkatan modal dasar perseroan. Berdasarkan data sistem eASY.KSEI, jumlah saham beredar HITS sekitar 7,1 miliar lembar, dengan kuorum minimum yang disyaratkan sekitar 3,55 miliar saham untuk agenda RUPST dan sekitar 4,73 miliar saham untuk agenda RUPSLB soal modal dasar tersebut. Perseroan juga mengimbau pemegang saham memberi kuasa secara elektronik melalui fasilitas e-Proxy eASY.KSEI yang disediakan KSEI. Surat pemberitahuan ke Otoritas Jasa Keuangan ditandatangani Direktur Utama Djoko Wiseno, sedangkan pengumuman kepada pemegang saham ditandatangani Corporate Secretary Setiawan T. Widjojo."
+   "PT Humpuss Intermoda Transportasi Tbk (HITS) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 24 November 2026. Rapat tetap digelar Rabu, 16 Desember 2026, di Mangkuluhur City Tower One, Meeting Room Lantai 26, Jakarta. Namun agenda RUPSLB berubah dari yang sebelumnya diberitakan: bukan lagi soal rencana menaikkan modal dasar perseroan, melainkan agenda tunggal berjudul Penegasan Susunan Pemegang Saham Perseroan, yang diajukan karena adanya pelaksanaan Penawaran Tender Sukarela (voluntary tender offer).",
+   "Untuk RUPST, empat agenda yang sebelumnya diumumkan tetap berlaku: persetujuan laporan tahunan dan pengesahan laporan keuangan konsolidasi teraudit tahun buku 2025, penetapan penggunaan laba bersih (termasuk kemungkinan dividen tunai) tahun buku 2025, penunjukan akuntan publik untuk tahun buku 2026, serta penetapan gaji dan tunjangan bagi Direksi dan Dewan Komisaris untuk tahun buku 2026.",
+   "Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham per Senin, 23 November 2026 pukul 16.00 WIB, sesuai jadwal yang sudah diumumkan sebelumnya. Kuorum rapat mensyaratkan kehadiran atau perwakilan lebih dari separuh total saham dengan hak suara, berlaku untuk RUPST maupun RUPSLB. Pemegang saham bisa memberi kuasa elektronik lewat aplikasi eASY.KSEI paling lambat Selasa, 15 Desember 2026 pukul 16.00 WIB, atau menyerahkan surat kuasa fisik ke Biro Administrasi Efek PT EDI Indonesia paling lambat Senin, 14 Desember 2026 pukul 17.00 WIB.",
+   "Sebelumnya pada 9 November 2026, perseroan hanya mengumumkan rencana penyelenggaraan RUPST-RUPSLB dengan agenda RUPSLB disebut sebagai rencana peningkatan modal dasar. Pemanggilan resmi ini menggantikan keterangan agenda tersebut; dokumen yang sama ditandatangani Direktur Utama Djoko Wiseno."
   ],
   "fotoAdegan": "Tugboats and cargo ships moored at a busy Jakarta port terminal, cranes in the background, soft morning light",
-  "takeaway": "Laporan ini netral bagi fundamental HITS karena baru memuat rencana rapat, bukan keputusan final soal penambahan modal. Yang perlu dicermati adalah agenda RUPSLB soal peningkatan modal dasar, yaitu batas maksimum saham yang boleh diterbitkan perseroan ke depan; kalau batas itu dinaikkan dan kelak benar dipakai untuk menerbitkan saham baru, jumlah saham beredar bertambah dan laba per saham milik pemegang saham lama berisiko terdilusi karena keuntungan yang sama harus dibagi ke lebih banyak lembar saham. Sejauh ini dokumen belum menyebut berapa saham baru yang akan diterbitkan atau untuk tujuan apa, sehingga dampaknya masih potensial, bukan pasti. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPST/RUPSLB pada 24 November 2026 yang akan memuat detail usulan modal dasar, serta hasil keputusan RUPSLB itu sendiri pada 16 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi fundamental HITS, bahkan mengurangi kekhawatiran yang sempat muncul dari rencana sebelumnya: agenda RUPSLB tidak lagi soal menaikkan modal dasar, melainkan sekadar menegaskan ulang siapa saja pemegang saham perseroan setelah penawaran tender sukarela, yaitu pembelian saham publik secara sukarela oleh pihak tertentu, berlangsung. Pos yang sebelumnya berisiko tersentuh, yaitu jumlah saham beredar dan laba per saham milik pemegang saham lama, kini tidak terancam karena dokumen ini tidak menyebut penerbitan saham baru atau dana yang akan diserap. Yang perlu dipantau berikutnya adalah hasil keputusan RUPST-RUPSLB pada 16 Desember 2026, terutama soal pembagian laba bersih tahun buku 2025 dan susunan pemegang saham final yang disahkan rapat, serta batas akhir pemberian kuasa elektronik pada 15 Desember 2026 pukul 16.00 WIB bagi pemegang saham yang berhalangan hadir.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T19:01:42",
+    "ringkas": "Agenda RUPSLB HITS berubah dari rencana modal dasar jadi penegasan susunan pemegang saham imbas tender offer sukarela.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_HITS_E002_e0d548a7-9b5d-4e4e-8b8d-2564b8824708-20261124190144.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Tahunan dan Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-24T19:01:42",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Batas Daftar Pemegang Saham berhak hadir RUPS"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Pemanggilan resmi RUPST-RUPSLB diumumkan"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Batas penyerahan surat kuasa fisik ke BAE pukul 17.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Batas pemberian kuasa elektronik eASY.KSEI pukul 16.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPST pukul 10.00 WIB dan RUPSLB pukul 11.45-13.00 WIB"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "buva-nusantara-utama-investama-tambah-3-47-miliar-saham-rp868-m",
@@ -24461,8 +24714,8 @@ var ARTICLES = [
  {
   "slug": "cbre-rights-issue-konversi-utang-rp858-6-miliar-ke-saham",
   "category": "Aksi Korporasi",
-  "title": "CBRE [Rights Issue] Konversi Utang Rp858,6 Miliar ke Saham",
-  "deck": "CBRE berencana menerbitkan maksimal 48 miliar saham baru lewat HMETD, sebagian untuk mengonversi utang promissory note Rp858,6 miliar kepada empat kreditur.",
+  "title": "[Right Issue] CBRE 48 Miliar Saham: Ekuitas Jadi Rp713,7 Miliar",
+  "deck": "Keterbukaan baru CBRE: ekuitas kini negatif Rp144,86 miliar, diproyeksikan jadi positif Rp713,73 miliar usai konversi utang, rights issue 18-24 Februari 2027.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T14:59:23",
@@ -24471,19 +24724,50 @@ var ARTICLES = [
   "emiten": "CBRE",
   "tags": [
    "CBRE",
-   "rights issue",
-   "konversi utang",
-   "RUPSLB"
+   "Right Issue",
+   "RUPSLB",
+   "Konversi Utang"
   ],
   "body": [
-   "PT Cakra Buana Resources Energi Tbk (CBRE) mengumumkan rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD atau rights issue) dengan jumlah saham baru maksimal 48.000.000.000 lembar, bernilai nominal Rp25 per saham sama seperti saham CBRE yang sudah beredar. Rencana ini akan dimintakan persetujuan dalam Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 16 Desember 2026. Dana hasil rights issue, setelah dipotong biaya emisi, akan dipakai untuk dua hal: mengonversi utang Perseroan menjadi saham, dan sisanya untuk modal kerja. Harga pelaksanaan dan jumlah final saham yang benar-benar diterbitkan baru akan diumumkan dalam prospektus PMHMETD.",
-   "Bagian konversi utang ini bernilai total Rp858.595.500.000, setara US$48,5 juta dengan kurs Rp17.703 per dolar sesuai kurs JISDOR 28 Agustus 2026. Utang ini berasal dari perjanjian promissory note tertanggal 31 Oktober 2025 yang akan dikonversi menjadi modal disetor untuk empat pihak: PT Garuda Nusantara Mineral senilai US$20 juta (sekitar Rp354,06 miliar), Hilong Shipping Holding Limited senilai US$5 juta (sekitar Rp88,515 miliar), Yafin Tandiono Tan senilai US$11 juta (sekitar Rp194,733 miliar), dan PT Saga Investama Sedaya senilai US$12,5 juta (sekitar Rp221,2875 miliar). Sebagian hak tagih yang kini dipegang Garuda Nusantara Mineral sebelumnya berasal dari Hilong Shipping, yang dialihkan lewat perjanjian cessie pada 8 Juli 2026.",
-   "CBRE juga menyebut bahwa PT Superkrane Mitra Utama Tbk (SKRN), yang sebelumnya diumumkan pada 10 November 2025 berencana mengonversi hak tagihnya senilai US$6,5 juta, telah sepakat membatalkan rencana konversi tersebut lewat kesepakatan pembatalan tertanggal 30 Juni 2026. Akibatnya, utang kepada SKRN tidak masuk dalam skema rights issue ini dan akan tetap dilunasi CBRE menggunakan arus kas internal atau sumber pembiayaan lain.",
-   "Soal jadwal, pengumuman RUPSLB dilakukan 9 November 2026, pemanggilan resmi menyusul pada 24 November 2026, dengan daftar pemegang saham yang berhak hadir dihitung dari posisi penutupan perdagangan di BEI pada 23 November 2026. Setelah RUPSLB menyetujui rencana ini, pernyataan pendaftaran ke OJK harus menjadi efektif paling lambat 12 bulan dari tanggal RUPSLB."
+   "PT Cakra Buana Resources Energi Tbk (CBRE) merilis Keterbukaan Informasi tambahan pada 24 November 2026 yang untuk pertama kalinya mengungkap dampak keuangan dari rencana konversi utang Rp858,6 miliar menjadi saham. Berdasarkan laporan keuangan interim per 30 September 2026, ekuitas Perseroan, yaitu modal pemegang saham, saat ini tercatat minus Rp144,86 miliar. Jika konversi utang ini sudah berjalan pada tanggal yang sama, ekuitas Perseroan diproyeksikan berbalik menjadi plus Rp713,73 miliar. Dokumen ini juga menyebutkan perkiraan periode pelaksanaan rights issue pada 18 sampai 24 Februari 2027, serta rincian penggunaan dana hasil rights issue: 67,38 persen untuk konversi utang, 0,22 persen untuk biaya penerbitan saham, dan 32,41 persen sisanya untuk modal kerja.",
+   "Seperti diberitakan sebelumnya, CBRE berencana menerbitkan saham baru sebanyak-banyaknya 48 miliar lembar lewat mekanisme hak memesan efek terlebih dahulu (HMETD atau rights issue), dengan nilai nominal Rp25 per saham. Sebagian dana hasil rights issue dipakai untuk mengonversi utang promissory note tertanggal 31 Oktober 2025 senilai total Rp858.595.500.000, setara US$48,5 juta, kepada empat kreditur: PT Garuda Nusantara Mineral senilai US$20 juta (sekitar Rp354,06 miliar), Hilong Shipping Holding Limited senilai US$5 juta (sekitar Rp88,52 miliar), Yafin Tandiono Tan senilai US$11 juta (sekitar Rp194,73 miliar), dan PT Saga Investama Sedaya senilai US$12,5 juta (sekitar Rp221,29 miliar). PT Superkrane Mitra Utama Tbk (SKRN), yang sebelumnya berencana ikut mengonversi hak tagihnya senilai US$6,5 juta, sudah batal ikut dalam skema ini sejak kesepakatan pembatalan 30 Juni 2026, sehingga utang itu tetap dilunasi CBRE lewat kas internal atau sumber pembiayaan lain.",
+   "Rencana ini akan dimintakan persetujuan pemegang saham dalam RUPSLB pada 16 Desember 2026. Pengumuman rencana RUPSLB sudah dilakukan 9 November 2026, pemanggilan resminya dilakukan 24 November 2026, dengan daftar pemegang saham yang berhak hadir dihitung dari posisi penutupan perdagangan di Bursa Efek Indonesia pada 23 November 2026. Setelah disetujui RUPSLB, Perseroan masih harus mengajukan pernyataan pendaftaran ke OJK dan menunggu pernyataan efektif, yang menurut aturan paling lambat 12 bulan sejak tanggal RUPSLB, sebelum harga pelaksanaan dan jumlah final saham baru diumumkan lewat Prospektus PMHMETD."
   ],
   "fotoAdegan": "Cargo ship docked at a busy Indonesian port, workers checking mooring lines near container cranes, late afternoon light",
-  "takeaway": "Laporan ini netral karena dua sisi besarnya saling mengimbangi: utang Rp858,6 miliar kepada empat kreditur hilang dari buku Perseroan, tapi gantinya adalah penerbitan saham baru sampai 48 miliar lembar yang harga dan jumlah pastinya belum diumumkan. Konversi utang ini menambah modal pemegang saham (ekuitas) dan mengurangi beban bunga yang selama ini dibayar CBRE ke empat kreditur tersebut, tapi di sisi lain jumlah saham beredar yang membengkak bisa menggerus laba per saham kalau labanya tidak ikut naik sebanding. Batalnya rencana konversi utang US$6,5 juta dari PT Superkrane Mitra Utama Tbk juga berarti sebagian utang itu tetap harus dibayar tunai oleh CBRE, jadi bukan otomatis mengurangi seluruh beban kas Perseroan. Yang perlu dipantau adalah hasil RUPSLB pada 16 Desember 2026 yang akan mengesahkan rencana ini, serta Prospektus PMHMETD yang baru akan mengumumkan harga pelaksanaan dan jumlah final saham yang diterbitkan.",
-  "sentimen": "netral"
+  "takeaway": "Laporan tambahan ini condong POSITIF bagi CBRE, karena untuk pertama kalinya Perseroan membuka angka yang menunjukkan modal pemegang saham (ekuitas) sedang minus Rp144,86 miliar sebelum konversi utang, dan proyeksinya berubah menjadi plus Rp713,73 miliar begitu utang promissory note dikonversi jadi saham. Pos yang tersentuh adalah ekuitas, rasio utang terhadap modal (DER) yang diproyeksikan berubah dari minus 14,46 kali menjadi 1,73 kali, rasio utang terhadap total aset (DAR) dari 107,43 persen menjadi sekitar 63,41 persen, dan rasio aset lancar terhadap utang jangka pendek (current ratio) dari 0,29 kali menjadi 10,29 kali, semua sinyal bahwa Perseroan yang sebelumnya berisiko tak sanggup menutup utangnya akan punya bantalan modal yang jauh lebih sehat, asalkan rencana ini benar terlaksana. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 16 Desember 2026 yang akan mengesahkan rencana ini, perkiraan periode pelaksanaan rights issue pada 18 sampai 24 Februari 2027, dan Prospektus PMHMETD yang baru akan mengumumkan harga pelaksanaan serta jumlah final saham yang diterbitkan, termasuk potensi dilusi bagi pemegang saham yang tidak menebus haknya.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T20:51:35",
+    "ringkas": "Dokumen baru mengungkap ekuitas CBRE kini negatif Rp144,86 miliar, diproyeksikan jadi positif Rp713,73 miliar usai konversi utang, rights issue 18-24 Feb 2027.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_CBRE_E0X2_8c24eb1a-ede9-4a6c-acb0-a497c13a02b8-20261124205137.pdf",
+    "judulIdx": "Aksi Korporasi - Rencana Penambahan Modal dengan HMETD"
+   }
+  ],
+  "diperbarui": "2026-11-24T20:51:35",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Cut-off daftar pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Pemanggilan resmi RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPSLB memutuskan rencana rights issue"
+   },
+   {
+    "tanggal": "2027-02-18",
+    "acara": "Perkiraan mulai periode pelaksanaan rights issue"
+   },
+   {
+    "tanggal": "2027-02-24",
+    "acara": "Perkiraan akhir periode pelaksanaan rights issue"
+   }
+  ],
+  "peristiwa": "right-issue"
  },
  {
   "slug": "issp-pemegang-saham-mayoritas-tambah-1-8-juta-saham",
@@ -25055,8 +25339,8 @@ var ARTICLES = [
  {
   "slug": "vtny-panggil-rupslb-agendakan-perubahan-direksi-komisaris",
   "category": "Aksi Korporasi",
-  "title": "VTNY Panggil RUPSLB, Agendakan [Perubahan] Direksi-Komisaris",
-  "deck": "VTNY mengoreksi panggilan RUPSLB 23 November 2026 yang mengagendakan persetujuan perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+  "title": "RUPSLB VTNY 23 November: [Pergantian Direksi-Komisaris] Disahkan",
+  "deck": "RUPSLB VTNY pada 23 November 2026 menyetujui pergantian Direktur Utama dan Komisaris Utama, dengan dukungan 73,7 persen suara berbanding 26,3 persen menolak.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T11:39:27",
@@ -25067,16 +25351,27 @@ var ARTICLES = [
    "VTNY",
    "RUPSLB",
    "Direksi",
-   "Dewan Komisaris"
+   "Komisaris"
   ],
   "body": [
-   "PT Venteny Fortuna International Tbk (VTNY) mengoreksi surat panggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya diterbitkan pada 30 Oktober 2026. Melalui surat bernomor 060/VFI/CRSC/XI/2026 tertanggal 9 November 2026, Corporate Secretary VTNY Grand Yustitia Wirawan menegaskan bahwa RUPSLB tetap akan digelar pada Senin, 23 November 2026 pukul 10.00 WIB di Venteny Building, Jalan Sultan Agung Nomor 20, Guntur, Setiabudi, Jakarta Selatan. Agenda rapat ada dua, yaitu persetujuan atas pengangkatan kembali atau perubahan susunan Direksi, dan persetujuan atas pengangkatan kembali atau perubahan susunan Dewan Komisaris Perseroan.",
-   "Pemegang saham yang berhak hadir atau memberi suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 29 Oktober 2026 pukul 16.00 WIB. Perseroan menggelar rapat secara hibrida, pemegang saham bisa datang langsung atau mengikuti dan memberi kuasa secara elektronik melalui aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia (KSEI). Batas waktu deklarasi kehadiran dan pemungutan suara elektronik ditetapkan 20 November 2026 pukul 12.00 WIB, sementara surat kuasa tertulis bagi yang memilih memberi kuasa manual harus disampaikan ke Biro Administrasi Efek, PT Adimitra Jasa Korpora, paling lambat pada tanggal yang sama pukul 15.00 WIB.",
-   "Dokumen keterbukaan ini belum menyebut nama calon anggota Direksi atau Dewan Komisaris yang akan diajukan. Perseroan hanya menyatakan bahwa profil dan biodata kandidat dapat diakses lebih lanjut melalui situs web resmi perusahaan sebelum tanggal pelaksanaan rapat. Rencana penyelenggaraan RUPSLB ini sendiri sudah diumumkan sejak surat bernomor 054/VFI/CRSC/X/2026 tanggal 15 Oktober 2026, dan surat terbaru ini hanya mengoreksi pengumuman panggilan sebelumnya tanpa mengubah tanggal, agenda, maupun tempat penyelenggaraan."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Venteny Fortuna International Tbk (VTNY) yang digelar Senin, 23 November 2026, menyetujui pergantian susunan Direktur Utama dan Komisaris Utama Perseroan. Kedua agenda rapat disetujui dengan 4.157.233.254 suara atau 73,7368 persen mendukung, berbanding 1.480.705.420 suara atau 26,2632 persen menolak, dari total 5.637.938.674 saham atau 89,99 persen dari seluruh saham berhak suara yang hadir dalam rapat.",
+   "Di jajaran Direksi, Perseroan menerima pengunduran diri Junichiro Waide dari jabatan Direktur Utama dan Hosea Sanjaya dari jabatan Wakil Direktur Utama. Tri Ismardiko Widyawan, yang sebelumnya menjabat Direktur, diberhentikan dengan hormat dari posisi itu dan langsung diangkat sebagai Direktur Utama baru. Alvin Dersen diangkat sebagai Direktur baru. Dengan susunan ini, Direksi VTNY kini terdiri dari Tri Ismardiko Widyawan sebagai Direktur Utama, serta Kaleb Solaiman dan Alvin Dersen sebagai Direktur.",
+   "Di jajaran Dewan Komisaris, Katsuya Kitano mengundurkan diri dari jabatan Komisaris Utama. Hosea Sanjaya, yang baru saja melepas jabatan Wakil Direktur Utama, diangkat sebagai Komisaris Utama baru. Augus Hendra Simatupang diangkat sebagai Komisaris baru, melengkapi Adler Haymans Manurung yang tetap menjabat sebagai Komisaris Independen. Seluruh jabatan baru di Direksi dan Dewan Komisaris berlaku efektif sejak penutupan rapat hingga penutupan RUPS Tahunan Perseroan pada 2027.",
+   "RUPSLB ini merupakan kelanjutan dari panggilan rapat yang pertama kali diumumkan VTNY pada 15 Oktober 2026 dan dikoreksi pada 9 November 2026, yang saat itu hanya mengagendakan persetujuan perubahan susunan Direksi dan Dewan Komisaris tanpa menyebut nama calon. Hasil pemungutan suara di atas menjawab nama-nama yang akhirnya disahkan menggantikan posisi pucuk pimpinan Perseroan."
   ],
   "fotoAdegan": "Rows of empty chairs arranged in a modern corporate meeting hall, soft morning light through large windows, Jakarta office interior",
-  "takeaway": "Laporan ini bersifat netral bagi VTNY karena isinya baru sebatas undangan rapat, bukan keputusan, dan dokumen belum menyebut nama calon anggota Direksi maupun Dewan Komisaris yang akan diganti atau diangkat kembali. Yang disentuh di sini adalah susunan pengurus perseroan, yakni Direksi yang menjalankan operasional sehari hari dan Dewan Komisaris yang mengawasi kerja Direksi, sehingga pelaku pasar biasanya mencermati pergantian ini karena pengurus baru bisa membawa perubahan arah strategi atau pengawasan, termasuk terhadap transaksi besar yang belum lama ini diakui perseroan belum diungkap ke publik. Dampak nyata terhadap kinerja VTNY baru bisa dinilai setelah nama dan rencana kerja pengurus baru benar benar disahkan, bukan dari sekadar undangan rapatnya. Yang perlu dipantau berikutnya adalah pelaksanaan RUPSLB pada 23 November 2026 pukul 10.00 WIB, termasuk siapa saja yang akhirnya disetujui mengisi kursi Direksi dan Komisaris, serta batas waktu deklarasi kehadiran elektronik pada 20 November 2026 pukul 12.00 WIB bagi pemegang saham yang ingin memberikan suara.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi VTNY karena pergantian Direktur Utama dan Komisaris Utama adalah keputusan tata kelola internal, bukan transaksi yang langsung mengubah neraca atau kas perusahaan, meski suara tidak setuju yang mencapai 26,26 persen dari pemegang saham yang hadir menunjukkan ada kelompok pemegang saham yang tidak sepenuhnya sepakat dengan rotasi ini. Yang tersentuh di sini adalah arah pengawasan dan strategi perusahaan, karena Komisaris Utama baru bertugas mengawasi kinerja Direksi sementara Direktur Utama baru memegang kendali operasional sehari hari, dan pelaku pasar biasanya mencermati pergantian pucuk pimpinan semacam ini karena bisa mengubah sikap manajemen terhadap transaksi besar yang menurut pengumuman sebelumnya belum sepenuhnya diungkap ke publik. Yang perlu dipantau berikutnya adalah bagaimana pengurus baru menuangkan keputusan RUPS ini ke akta notaris dan menyampaikannya ke Menteri Hukum sesuai kewenangan yang diberikan rapat, serta sikap Direksi dan Komisaris baru terhadap keterbukaan informasi sepanjang masa jabatan mereka hingga penutupan RUPS Tahunan 2027.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T20:58:03",
+    "ringkas": "RUPSLB VTNY 23 November menyetujui pergantian Direktur Utama dan Komisaris Utama dengan dukungan 73,7% suara pemegang saham yang hadir.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_VTNY_E013_349a8d55-6302-406e-a3d3-2a7fe534bcdf-20261124205805.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-24T20:58:03",
+  "peristiwa": "rups"
  },
  {
   "slug": "scco-koreksi-komite-audit-dua-kursi-berganti",

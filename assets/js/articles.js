@@ -583,6 +583,103 @@ var ARTICLES = [
   ]
  },
  {
+  "slug": "jast-klarifikasi-tak-ada-info-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "JAST [Klarifikasi]: Tak Ada Info Material di Balik Volatilitas",
+  "deck": "JAST menjawab permintaan penjelasan Bursa soal lonjakan transaksi sahamnya, menyatakan tak ada info material dan pemegang saham utama belum berencana mengubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:49:12",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_JAST_E023A_a60f0aea-c256-46c1-b666-2949eb6aba94-20261124164913.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JAST",
+  "tags": [
+   "JAST",
+   "Jasnita Telekomindo",
+   "UMA Bursa",
+   "volatilitas saham"
+  ],
+  "body": [
+   "PT Jasnita Telekomindo Tbk. (JAST) menjawab surat Bursa Efek Indonesia Nomor S-14412/BEI.PP2/11-2026 tanggal 23 November 2026 yang meminta penjelasan atas fluktuasi harga dan aktivitas transaksi sahamnya. Dalam surat balasan Nomor 1962/BOD-JT/CORSEC/XI/2026 tanggal 24 November 2026 yang ditandatangani Direktur Utama Yentoro, JAST menyatakan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi harga saham atau keputusan investor, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi dan Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan sesuai POJK Nomor 11/POJK.04/2017 tentang Laporan Kepemilikan Saham, serta belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang bisa berdampak pada status pencatatan sahamnya di Bursa. Sesuai permintaan Bursa, corporate secretary JAST, Nathania Olinda, mengonfirmasi langsung kepada pemegang saham utama perseroan, dan hasilnya sampai surat ini terbit pemegang saham utama belum punya rencana mengubah kepemilikan sahamnya di JAST.",
+   "Permintaan penjelasan ini muncul sehari setelah UOB Kay Hian melaporkan penjualan 38 juta saham JAST, sekitar 28 persen dari posisi yang dipegangnya, yang membuat hak suaranya di perseroan turun menjadi 3,85 persen. Transaksi besar dalam waktu singkat itu diperkirakan menjadi salah satu pemicu lonjakan aktivitas perdagangan yang membuat Bursa mengirim surat permintaan penjelasan kepada JAST."
+  ],
+  "fotoAdegan": "Telecommunications technicians inspecting fiber optic cable trays inside a network data center, soft overhead lighting.",
+  "takeaway": "Catatan redaksi ini bersifat netral bagi JAST, karena surat ini sekadar konfirmasi rutin bahwa tidak ada fakta tersembunyi di balik lonjakan transaksi saham, bukan sinyal baru soal arah bisnis atau keuangan perseroan. Dokumen ini tidak menyentuh pos-pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham; nilainya murni soal transparansi pasar modal, yakni memastikan investor tidak bertransaksi berdasarkan informasi yang tidak merata antara pihak dalam dan luar perseroan. Yang perlu dipantau selanjutnya adalah apakah JAST benar-benar tidak mengajukan tindakan korporasi dalam tiga bulan ke depan seperti yang dinyatakan, dan apakah sikap pemegang saham utama yang sudah dikonfirmasi tidak berencana mengubah kepemilikannya itu konsisten dengan langkah UOB Kay Hian yang baru saja melepas sebagian besar posisinya sehari sebelum surat ini terbit.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "rupslb-ades-16-desember-stock-split-rasio-1-10-diusulkan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADES 16 Desember: [Stock Split] Rasio 1:10 Diusulkan",
+  "deck": "Direksi ADES memanggil RUPSLB 16 Desember 2026 dengan agenda stock split 1:10 dan perubahan komisaris; saham beredar bakal naik dari 589,9 juta jadi 5,9 miliar lembar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:43:57",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADES_E019_69d3abf9-2745-407e-9564-bf2816952ac4-20261124164358.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADES",
+  "tags": [
+   "ADES",
+   "RUPSLB",
+   "stock split",
+   "Akasha Wira International"
+  ],
+  "body": [
+   "Akasha Wira International Tbk (ADES) resmi mengundang pemegang sahamnya menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026 pukul 10.00 WIB. Rapat digelar secara fisik di Meeting Room Arjuna, Plaza Oleos, Jalan TB Simatupang, Jakarta Selatan, serta secara elektronik melalui platform eASY.KSEI. Dua agenda yang diajukan adalah persetujuan perubahan susunan Dewan Komisaris dan persetujuan rencana pemecahan nilai nominal saham atau stock split.",
+   "Untuk agenda stock split, Perseroan mengusulkan rasio 1:10, artinya setiap satu saham akan dipecah menjadi sepuluh saham. Nilai nominal per saham akan turun dari Rp1.000 menjadi Rp100, sementara jumlah saham ditempatkan dan disetor akan naik dari 589.896.800 lembar menjadi 5.898.968.000 lembar. Perseroan menegaskan proporsi kepemilikan masing-masing pemegang saham maupun total modal dalam Rupiah tidak berubah. Rencana ini disebut untuk mendukung pemenuhan syarat minimum saham publik (free float), memperluas basis investor, dan meningkatkan likuiditas perdagangan saham ADES. Bursa Efek Indonesia sudah memberi persetujuan prinsip atas rencana ini melalui surat Nomor S-13265/BEI.PP3/10-2026 tertanggal 20 Oktober 2026.",
+   "Perseroan menetapkan pemegang saham yang tercatat dalam Daftar Pemegang Saham per Senin, 23 November 2026 pukul 16.00 WIB sebagai pihak yang berhak hadir atau memberi kuasa dalam rapat. Bagi yang ingin memberi kuasa elektronik (e-Proxy) atau mengirim pilihan suara lebih dahulu melalui eASY.KSEI, batas waktunya Selasa, 15 Desember 2026 pukul 12.00 WIB. Bahan rapat sudah tersedia di situs web Perseroan dan eASY.KSEI sejak tanggal pemanggilan ini."
+  ],
+  "fotoAdegan": "Workers inspecting bottled drinking water on a conveyor belt inside a beverage factory, bright industrial lighting",
+  "takeaway": "Laporan ini kami nilai netral bagi ADES: stock split hanya memecah satuan saham tanpa menambah modal baru atau mengubah proporsi kepemilikan, jadi tidak mengubah fundamental perusahaan. Yang tersentuh adalah jumlah saham beredar, yang naik sepuluh kali lipat dari 589,9 juta menjadi 5,9 miliar lembar, sehingga laba per saham otomatis terbagi lebih kecil meski laba total perusahaan tidak berubah, dan harga per lembar di pasar juga ikut mengecil secara proporsional tanpa mengurangi nilai total kepemilikan investor. Yang perlu dipantau berikutnya adalah hasil pemungutan suara pada RUPSLB 16 Desember 2026, karena agenda ini baru usulan yang masih perlu disetujui pemegang saham, serta batas akhir pemberian kuasa elektronik pada 15 Desember 2026 pukul 12.00 WIB bagi yang tidak hadir langsung.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPSLB (recording date)"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Batas akhir pemberian e-Proxy dan pilihan suara via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPSLB ADES, agenda stock split dan perubahan komisaris"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-dlta-19-nov-laba-naik-5-9-ekuitas-4-7",
+  "category": "Aksi Korporasi",
+  "title": "[Public Expose] DLTA 19 Nov: Laba Naik 5,9%, Ekuitas -4,7%",
+  "deck": "Public Expose DLTA 19 November mengungkap penjualan naik 16,6% jadi Rp564,6 miliar, laba bersih naik 5,9%, tapi ekuitas turun 4,7%.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:39:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_DLTA_E003_215c890c-ddfb-45e2-a0f8-d59128795996-20261124163952.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DLTA",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Delta Djakarta Tbk (DLTA) menggelar Public Expose Tahunan 2026 secara daring melalui webinar pada 19 November 2026, pukul 14.00 hingga 15.06 WIB. Acara ini menghadirkan Ma. Joe De Castro Perucho selaku Direktur Keuangan dan Corporate Secretary, Rony Titiheruw selaku Direktur Penjualan, serta Afrijanto selaku Asisten Corporate Secretary yang juga menjadi moderator. Perseroan mencatat 18 peserta yang hadir di luar jajaran manajemen dan karyawan, dengan acara terbagi dalam sesi paparan dan sesi tanya jawab.",
+   "Dalam paparan kinerja keuangan hingga kuartal III 2026, penjualan bersih DLTA tercatat Rp564,6 miliar, naik Rp80,4 miliar atau 16,6 persen dari Rp484,2 miliar pada periode yang sama tahun lalu. Laba kotor naik 12,5 persen menjadi Rp377,4 miliar, sementara laba bersih naik lebih lambat, yaitu 5,9 persen, dari Rp101,3 miliar menjadi Rp107,2 miliar. Secara kuartalan, ketiga pos itu mencapai level tertinggi tahun ini di kuartal III, dengan penjualan Rp213,5 miliar dan laba bersih Rp44,4 miliar, dibandingkan Rp169 miliar dan Rp35 miliar di kuartal I serta Rp182,1 miliar dan Rp27,9 miliar di kuartal II.",
+   "Dari sisi posisi keuangan per 30 September 2026, total aset Perseroan naik 2,2 persen menjadi Rp1.151,2 miliar dibandingkan akhir 2025. Total liabilitas justru naik lebih tajam, 16,3 persen, menjadi Rp430,5 miliar, sementara total ekuitas turun 4,7 persen dari Rp756,5 miliar menjadi Rp720,7 miliar. Manajemen menyebut kapitalisasi pasar DLTA pada akhir kuartal III 2026 sebesar Rp1,421 triliun, dengan struktur pemegang saham terdiri dari San Miguel Malaysia (L) Private Limited sebagai pengendali dengan 58,33 persen, Pemerintah Provinsi DKI Jakarta 26,25 persen, dan publik 15,42 persen.",
+   "Dari sisi operasional, DLTA melakukan pengiriman ekspor perdana bir Red Horse ke Uni Emirat Arab pada 16 September 2026, yang dihadiri perwakilan Kementerian Perindustrian serta Bea Cukai. Dalam sesi tanya jawab, sejumlah investor dan analis menyoroti kesenjangan antara pertumbuhan penjualan dan laba bersih, serta penurunan ekuitas di tengah perusahaan yang tetap mencetak laba, termasuk pertanyaan soal pengawasan transaksi dengan grup San Miguel seperti royalti dan pembelian agar tetap wajar bagi pemegang saham minoritas. Manajemen menyatakan optimistis kinerja hingga akhir 2026 akan melampaui pencapaian 2025, didukung program pemasaran di lini Anker, Kuda Putih, San Miguel, San Mig Light, dan Carlsberg."
+  ],
+  "fotoAdegan": "Workers guiding crates of bottled beer onto a cargo truck at a brewery loading dock in early morning light.",
+  "takeaway": "Laporan ini cenderung netral bagi DLTA, karena penjualan tumbuh 16,6 persen pada Januari-September 2026 tetapi laba bersih hanya tumbuh 5,9 persen, dan modal pemegang saham malah menyusut meski perusahaan tetap mencetak laba. Yang tersentuh di sini adalah margin laba, yaitu berapa persen dari penjualan yang berubah jadi keuntungan bersih, dan ekuitas, yaitu total kekayaan bersih yang jadi hak pemegang saham setelah dikurangi semua utang; margin yang menipis biasanya berarti biaya naik lebih cepat dari pendapatan, sementara ekuitas turun padahal laba positif sering terjadi kalau dividen yang dibagikan lebih besar dari laba yang ditahan, seperti disinggung salah satu investor dalam sesi tanya jawab soal rasio pembagian dividen yang tinggi. Pelaku pasar perlu menunggu jawaban tertulis manajemen soal sebab utama tekanan margin serta dampak kebijakan cukai pemerintah terhadap target 2027, dan memantau apakah tren laba tertinggi di kuartal III ini berlanjut pada laporan keuangan audit akhir tahun.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+ },
+ {
   "slug": "kppu-tolak-saksi-terlapor-i-dalam-sidang-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
@@ -608,6 +705,175 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah dalam sidang ini adalah penolakan Majelis Komisi atas satu saksi dari pihak terlapor, karena orang itu bekerja untuk perusahaan yang diperiksa dan pernah mendampinginya saat diselidiki, sehingga dianggap tidak bisa memberi keterangan yang bebas dari kepentingan. Yang langsung terdampak adalah Terlapor I beserta perusahaan terkait proyek revitalisasi Pasar Ciparay, karena argumen pembelaan lewat saksi ini batal didengar Majelis. Pola menjaga independensi saksi ini, ditambah pendalaman soal kewenangan Bupati dalam skema Bangun Guna Serah, yaitu kerja sama di mana pihak swasta membangun aset lalu menyerahkannya ke pemerintah setelah masa tertentu, menunjukkan KPPU bergerak ke arah pembuktian yang lebih ketat soal siapa sebenarnya berwenang menentukan mitra proyek pasar desa ini. Yang akan memperjelas arah kasus ini adalah sidang 26 November 2026, saat giliran saksi Terlapor II diperiksa, karena dari situ akan terlihat apakah standar penolakan saksi berafiliasi ini konsisten diterapkan dan bagaimana posisi Terlapor II dalam dugaan pengaturan pemilihan mitra tersebut."
+ },
+ {
+  "slug": "tnca-jawab-permintaan-bursa-pengendali-tambah-investasi-saham",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Jawab Permintaan Bursa: Pengendali [Tambah] Investasi Saham",
+  "deck": "TNCA menegaskan tak ada informasi material yang disembunyikan terkait volatilitas transaksi sahamnya, tapi menyebut pemegang saham pengendali berencana menambah investasi saham di perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:36:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_TNCA_E023A_2233699f-34c1-4bf8-ade6-9f2f683186a9-20261124163657.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TNCA",
+  "tags": [
+   "TNCA",
+   "UMA",
+   "pemegang saham pengendali",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Trimuda Nuansa Citra Tbk (TNCA) menyampaikan jawaban resmi atas surat permintaan penjelasan dari Bursa Efek Indonesia Nomor S-14403/BEI.PP2/11-2026 tertanggal 23 November 2026 perihal volatilitas transaksi efek perseroan. Jawaban dikirim sehari setelahnya, 24 November 2026, melalui surat Nomor 070/GED-CORSEC/SD/XI/2026 yang ditujukan kepada Kepala Divisi Penilaian Perusahaan 2 BEI, Adi Pratomo Aryanto.",
+   "Dalam surat itu, TNCA menyatakan sampai saat surat diterbitkan perseroan tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek maupun keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 maupun Peraturan BEI Nomor I-E. Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu sebagaimana diatur POJK Nomor 11/POJK.04/2017 tentang Laporan Kepemilikan Saham, serta tidak memiliki rencana tindakan korporasi dalam tiga bulan mendatang yang berdampak pada pencatatan sahamnya di bursa.",
+   "Satu poin yang berbeda dari jawaban standar ada di poin keenam: TNCA menyebut memiliki informasi bahwa pemegang saham pengendali perseroan berencana menambah investasi saham di TNCA. Surat tidak merinci jumlah saham, harga, maupun jadwal pelaksanaan rencana tersebut. Surat ditandatangani oleh Felicia Fanny selaku pengirim di sistem pelaporan elektronik bursa, sementara dokumen aslinya ditandatangani oleh Presiden Direktur perseroan yang namanya tidak terbaca jelas pada hasil pindaian."
+  ],
+  "fotoAdegan": "Glass-fronted modern office building in Jakarta's business district, pedestrians passing beneath under midday light.",
+  "takeaway": "Penjelasan ini condong positif bagi TNCA, karena perseroan menegaskan tidak ada informasi buruk yang disembunyikan dan secara terbuka mengungkap bahwa pemegang saham pengendalinya berniat menambah kepemilikan saham, yang biasanya dibaca pasar sebagai sinyal kepercayaan dari pihak yang paling memahami kondisi internal perusahaan. Yang perlu digarisbawahi, rencana itu menyentuh soal hak suara dan konsentrasi kepemilikan, bukan langsung menambah ekuitas perseroan, karena pembelian tambahan oleh pengendali umumnya terjadi di pasar sekunder antar pemegang saham, bukan dana segar yang masuk ke kas perusahaan, kecuali nantinya dilakukan lewat penerbitan saham baru. Dokumen ini juga tidak menyebut berapa besar porsi saham yang akan ditambah maupun kapan rencana itu dieksekusi, sehingga sinyalnya baru sebatas niat. Yang perlu dipantau berikutnya adalah laporan kepemilikan saham resmi dari pemegang saham pengendali TNCA, yang menurut aturan OJK wajib disampaikan begitu transaksi benar-benar terjadi dan baru di situlah jumlah, harga, serta perubahan hak suaranya akan terlihat jelas.",
+  "sentimen": "positif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "bfin-djemi-suhenda-resmi-jadi-komisaris-independen-baru",
+  "category": "Aksi Korporasi",
+  "title": "BFIN: Djemi Suhenda Resmi Jadi [Komisaris Independen] Baru",
+  "deck": "OJK menyetujui Djemi Suhenda sebagai Komisaris Independen BFIN, efektif menggantikan Johanes Sutrisno sesuai keputusan RUPSLB 20 Mei 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:32:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BFIN_E019_a4f44510-b321-4add-b203-74def29f632e-20261124163257.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BFIN",
+  "tags": [
+   "BFIN",
+   "komisaris independen",
+   "tata kelola",
+   "OJK"
+  ],
+  "body": [
+   "BFI Finance Indonesia Tbk (BFIN) mengumumkan telah menerima Surat Keputusan Otoritas Jasa Keuangan Nomor KEP-247/PL.02/2026 tanggal 20 November 2026, yang menyatakan Djemi Suhenda lolos penilaian kemampuan dan kepatutan sebagai calon Komisaris Independen perseroan. Berdasarkan keputusan itu, pengangkatannya dinyatakan efektif sesuai hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) BFIN tanggal 20 Mei 2026. Sejak tanggal efektif tersebut, masa jabatan Johanes Sutrisno sebagai Komisaris Independen berakhir.",
+   "Proses pengajuan Djemi Suhenda bermula dari surat Direksi BFIN Nomor Corp/Sjn/L/VII/26-0139 tanggal 17 Juli 2026, dengan kelengkapan dokumen terakhir disampaikan ke OJK pada 10 November 2026. Setelah penilaian, OJK menyimpulkan Djemi Suhenda memenuhi syarat sebagai Pihak Utama lembaga jasa keuangan sesuai Peraturan OJK Nomor 27/POJK.03/2016. Keputusan itu juga mencantumkan klausul bahwa OJK dapat meninjau ulang persetujuan ini jika di kemudian hari ditemukan kekeliruan.",
+   "Dengan perubahan ini, susunan Dewan Komisaris BFIN yang menjabat sampai penutupan RUPS Tahunan berikutnya adalah: Presiden Komisaris Francis Lay Sioe Ho (masa jabatan 2025-2028), Komisaris Kusmayanto Kadiman (2025-2028), Komisaris Saurabh Narayan Agarwal (2023-2028), Komisaris Independen Djemi Suhenda (2026-2029), dan Komisaris Independen Abdul Haris Muhammad Rum (2026-2029)."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in a Jakarta business district, afternoon light, pedestrians near the entrance",
+  "takeaway": "Laporan ini netral bagi BFIN, karena ini murni pergantian komisaris independen yang sudah disetujui regulator, bukan perubahan yang langsung mengubah angka keuangan perseroan. Pos kinerja seperti ekuitas, arus kas, beban bunga, atau laba per saham sama sekali tidak tersentuh oleh perubahan ini, meski independensi dewan komisaris tetap relevan karena fungsinya mengawasi kebijakan permodalan dan manajemen risiko perusahaan pembiayaan seperti BFIN. Yang perlu dipantau berikutnya adalah apakah BFIN akan mengumumkan perubahan susunan komite di bawah dewan komisaris, misalnya komite audit atau komite nominasi dan remunerasi, yang biasanya menyertai pergantian komisaris independen. Dokumen ini tidak mencantumkan tanggal RUPS Tahunan mendatang yang akan menjadi batas masa jabatan susunan komisaris saat ini, sehingga belum ada tenggat baru yang bisa dipastikan.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupslb-kota-27-nov-right-issue-100-miliar-saham-akuisisi-rp4-4-t",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KOTA 27 Nov: [Right Issue] 100 Miliar Saham, Akuisisi Rp4,4 T",
+  "deck": "KOTA berencana menerbitkan maksimal 100 miliar saham baru lewat HMETD untuk membiayai akuisisi dua perusahaan senilai Rp4,4 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:09:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_KOTA_E0X1_e6d55a15-a708-4b4c-9d6b-4c7fe171a51e-20261124160957.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KOTA",
+  "tags": [
+   "KOTA",
+   "rights issue",
+   "HMETD",
+   "akuisisi"
+  ],
+  "body": [
+   "PT DMS Propertindo Tbk (KOTA) akan menggelar rapat umum pemegang saham luar biasa (RUPSLB) pada 27 November 2026 untuk meminta persetujuan atas rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD), atau yang biasa disebut rights issue. Perseroan berencana menerbitkan saham baru seri B sebanyak-banyaknya 100 miliar lembar dengan nilai nominal Rp25 per saham, setara sebesar-besarnya 90,31 persen dari modal yang akan beredar setelah aksi ini selesai. Pemegang saham lama yang tidak ikut menyerap haknya bisa kehilangan porsi kepemilikan sebesar itu. Periode pelaksanaan HMETD diperkirakan berlangsung pada 14 sampai 18 Desember 2026.",
+   "Target dana yang ingin diraih dari rights issue ini sebesar Rp4,95 triliun, atau bersih Rp4,88 triliun setelah dipotong biaya emisi sekitar Rp66,8 miliar. Sebanyak 88 persen dari dana itu, atau Rp4,4 triliun, akan dipakai untuk mengambil alih dua perusahaan: PT Art Design Indonesia (ADI) senilai Rp1,2 triliun untuk 1.206.272 lembar saham yang setara 99,99 persen kepemilikan, dan PT Mandirinusa Graha Perkasa (MGP) senilai Rp3,2 triliun untuk 6.413.296 lembar saham yang juga setara 99,99 persen kepemilikan. Kedua blok saham itu dibeli dari PT Michel Energi (ME) berdasarkan perjanjian pengikatan jual beli tertanggal 24 Agustus 2026. Sisa dana sebesar 12 persen akan dipakai untuk modal kerja dan pengembangan usaha. Nilai transaksi akuisisi ADI setara 95,73 persen dari ekuitas Perseroan, sementara akuisisi MGP setara 255,27 persen dari ekuitas Perseroan, sehingga keduanya tergolong transaksi material yang wajib mendapat persetujuan RUPS dan penilaian dari penilai independen.",
+   "Secara proforma, bila transaksi dianggap selesai per 30 Juni 2026, total aset Perseroan melonjak dari Rp1,91 triliun menjadi Rp6,80 triliun, dan ekuitas bertambah dari Rp1,25 triliun menjadi Rp6,14 triliun. Perseroan menegaskan rencana ini tidak mengubah pemegang saham pengendali, karena DMSI tetap menjadi pengendali baik setelah akuisisi maupun setelah pelaksanaan HMETD. Sejumlah prasyarat masih harus dipenuhi sebelum akuisisi benar-benar berjalan, antara lain pernyataan efektif dari OJK atas proses HMETD dan persetujuan RUPS."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise hotel and office building under construction with cranes in an Indonesian city, late afternoon",
+  "takeaway": "Rencana ini netral bagi KOTA: dana rights issue yang sangat besar dipakai untuk ekspansi lewat akuisisi dua perusahaan, tapi pemegang saham yang tidak ikut menyerap haknya bisa kehilangan hingga 90 persen porsi kepemilikannya, dan nilai akuisisi MGP saja sudah dua setengah kali lipat ekuitas Perseroan saat ini, skala yang terlalu besar untuk dipastikan untungnya sebelum transaksi selesai. Yang tersentuh adalah ekuitas, yaitu modal sendiri perusahaan, yang bakal melonjak dari Rp1,25 triliun jadi Rp6,14 triliun begitu dana rights issue masuk, serta jumlah saham beredar yang bisa bertambah sampai 100 miliar lembar baru, sehingga porsi laba yang jatuh ke setiap saham lama berpotensi mengecil, apalagi ADI dan MGP yang diakuisisi sama-sama masih mencatat rugi, bukan laba. Penentu arah selanjutnya adalah RUPSLB pada 27 November 2026 yang memutuskan apakah rencana ini disetujui, lalu periode penyerapan HMETD pada 14 sampai 18 Desember 2026 yang menunjukkan apakah pemegang saham lama ikut menambah modal atau membiarkan porsinya terdilusi, dan pernyataan efektif dari OJK yang menjadi syarat sebelum akuisisi ADI dan MGP bisa benar-benar dieksekusi.",
+  "sentimen": "netral",
+  "peristiwa": "right-issue",
+  "judulIdx": "Aksi Korporasi - Rencana Penambahan Modal dengan HMETD",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "RUPSLB persetujuan rencana HMETD dan akuisisi ADI serta MGP"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Mulai periode pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "Akhir periode pelaksanaan HMETD"
+   }
+  ]
+ },
+ {
+  "slug": "pelunasan-obligasi-inkp-23-november-rampung-rp1-04-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Pelunasan Obligasi INKP 23 November: [Rampung] Rp1,04 Triliun",
+  "deck": "INKP melunasi pokok obligasi, sukuk mudharabah, dan obligasi dolar AS senilai total sekitar Rp1,04 triliun plus US$900 ribu pada 23 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:06:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_INKP_E019_725d5f7e-06bb-45b1-b6b7-a4bd9f29b579-20261124160623.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INKP",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk mudharabah",
+   "pelunasan utang"
+  ],
+  "body": [
+   "Indah Kiat Pulp & Paper Tbk (INKP) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa perseroan, melalui PT Kustodian Sentral Efek Indonesia (KSEI), telah melunasi pokok tiga instrumen utang pada 23 November 2026. Rinciannya adalah Obligasi Berkelanjutan IV Tahap III Tahun 2023 Seri B senilai Rp739,72 miliar, Sukuk Mudharabah Berkelanjutan III Tahap III Tahun 2023 Seri B senilai Rp303,56 miliar, dan Obligasi USD Berkelanjutan I Tahap II Tahun 2023 Seri B senilai US$900.000. Pembayaran diserahkan kepada pemegang obligasi, pemegang sukuk, dan pemegang obligasi dolar AS tersebut.",
+   "Laporan ditandatangani secara elektronik oleh Heri Santoso selaku Direktur dan Corporate Secretary INKP, dan ditembuskan ke Direktorat Pengawasan Emiten OJK, jajaran Direksi Bursa Efek Indonesia, serta PT Bank KB Indonesia Tbk yang bertindak sebagai wali amanat atas obligasi dan sukuk tersebut. Dokumen ini tidak menyebutkan dampak khusus terhadap kegiatan operasional, hukum, atau keuangan perseroan di luar pelunasan itu sendiri.",
+   "Nilai pelunasan rupiah pada laporan ini, yakni Rp739,72 miliar ditambah Rp303,56 miliar atau sekitar Rp1,04 triliun, sejalan dengan jatuh tempo obligasi dan sukuk INKP periode 21-22 November yang sebelumnya sudah diberitakan. Yang baru dari laporan ini adalah konfirmasi bahwa pembayaran sudah benar-benar rampung per 23 November, serta tambahan rincian obligasi dolar AS senilai US$900.000 yang belum pernah disebutkan sebelumnya."
+  ],
+  "fotoAdegan": "Forklift moving large stacked paper rolls across a pulp and paper mill warehouse floor, industrial lighting",
+  "takeaway": "Laporan ini netral bagi INKP karena hanya mengonfirmasi pembayaran utang yang sudah dijadwalkan sejak obligasi dan sukuk ini diterbitkan pada 2023, bukan percepatan pembayaran atau tanda masalah keuangan baru. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang keluar dari kas perusahaan untuk membayar pokok utang, dan beban bunga, karena begitu pokok sebuah seri obligasi lunas, kewajiban bunga untuk seri itu otomatis berhenti ke depannya sehingga sedikit meringankan biaya keuangan INKP. Pembayaran yang tepat waktu juga berarti tidak ada gagal bayar, yang biasa dilihat pasar sebagai sinyal bahwa perusahaan masih sehat memenuhi kewajibannya. Dokumen ini tidak menyebutkan tenggat atau agenda baru setelah tanggal pelunasan 23 November 2026, sehingga langkah berikutnya yang bisa dipantau investor adalah laporan keuangan kuartalan INKP untuk melihat penurunan saldo utang obligasi akibat pelunasan ini.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupslb-sage-16-desember-agenda-ubah-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB SAGE 16 Desember: [Agenda] Ubah Susunan Direksi-Komisaris",
+  "deck": "Direksi SAGE memanggil RUPSLB pada 16 Desember 2026 dengan agenda tunggal mengubah susunan Direksi dan Dewan Komisaris Perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T16:02:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_SAGE_E002_ea4b547c-3105-4c29-8872-e088df48c96b-20261124160243.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SAGE",
+  "tags": [
+   "SAGE",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "body": [
+   "Direksi PT Saptausaha Gemilangindah Tbk (SAGE) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 16 Desember 2026, pukul 14.00 WIB, di Jl. Kramat Raya No. 38, Senen, Jakarta Pusat. Agenda rapat ini hanya satu: mengubah susunan anggota Direksi dan Dewan Komisaris Perseroan. Pemegang saham yang berhak hadir atau mengirim kuasa adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham per Senin, 23 November 2026, pukul 16.00 WIB.",
+   "Dalam penjelasan agenda, Perseroan merujuk Pasal 11 dan Pasal 14 Anggaran Dasar Perseroan, Pasal 94 ayat 1 dan Pasal 111 ayat 1 Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas, serta Pasal 3 dan Pasal 23 Peraturan OJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik. Pasal-pasal itu pada dasarnya menegaskan bahwa pengangkatan dan pemberhentian anggota Direksi serta Dewan Komisaris memang menjadi kewenangan RUPS. Dokumen pemanggilan ini belum menyebutkan nama calon yang akan masuk atau keluar dari jajaran pengurus, sehingga susunan barunya baru akan terlihat setelah rapat berlangsung.",
+   "Rapat dapat diikuti secara elektronik lewat aplikasi eASY.KSEI milik PT Kustodian Sentral Efek Indonesia atau dihadiri secara fisik di lokasi rapat. Pemegang saham yang ingin memberi kuasa secara elektronik harus menetapkan kuasa dan pilihan suaranya paling lambat 15 Desember 2026 pukul 12.00 WIB, sementara kuasa tertulis dalam bentuk surat harus sudah diterima Biro Administrasi Efek, PT Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara, paling lambat Jumat, 11 Desember 2026 pukul 16.00 WIB. Surat pemberitahuan pemanggilan rapat ini ke Bursa Efek Indonesia ditandatangani oleh Cindy Veronica Jong."
+  ],
+  "fotoAdegan": "Exterior of a modern mid-rise office building facade in central Jakarta, glass windows reflecting late afternoon light",
+  "takeaway": "Laporan ini netral bagi SAGE: isinya baru undangan rapat untuk mengganti susunan Direksi dan Dewan Komisaris, dan dokumen belum menyebut nama calon pengganti atau alasan di balik perombakan sehingga belum ada dasar untuk menilainya menguntungkan atau merugikan pemegang saham. Perubahan pengurus seperti ini tidak langsung mengubah angka di laporan keuangan seperti ekuitas atau arus kas perusahaan, tetapi menentukan siapa yang mengambil keputusan strategis dan mengawasi manajemen ke depan, sehingga pelaku pasar tetap memperhatikan siapa yang masuk dan siapa yang keluar dari jajaran pengurus. Yang perlu dipantau adalah hasil RUPSLB pada 16 Desember 2026, yaitu nama-nama yang resmi ditetapkan sebagai Direksi dan Komisaris baru, serta keterbukaan informasi susulan yang biasanya wajib disampaikan Perseroan ke bursa begitu rapat selesai.",
+  "sentimen": "netral",
+  "peristiwa": "rups",
+  "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Batas pencatatan pemegang saham berhak hadir (DPS)"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Batas penyerahan surat kuasa tertulis ke BAE"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Batas deklarasi kehadiran dan pilihan suara elektronik eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Pelaksanaan RUPSLB SAGE"
+   }
+  ]
  },
  {
   "slug": "pkpu-adhi-24-november-sidang-pertama-klaim-0-06-ekuitas",
@@ -2452,8 +2718,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-ades-16-desember-2026-agenda-menyusul-24-november",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ADES 16 Desember 2026: [Agenda] Menyusul 24 November",
-  "deck": "Akasha Wira International (ADES) menjadwalkan RUPSLB pada 16 Desember 2026 secara elektronik lewat eASY KSEI; agenda rapat baru terbit lewat pemanggilan resmi 24 November 2026.",
+  "title": "RUPSLB ADES 16 Desember: [Stock Split] 1:10 dan Pergantian Komisaris",
+  "deck": "Surat pemanggilan resmi RUPSLB ADES 24 November 2026 mengungkap agenda: pergantian susunan Dewan Komisaris dan stock split saham rasio 1:10, menjelang rapat 16 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "23 November 2026",
   "isoDate": "2026-11-23T17:15:09",
@@ -2463,16 +2729,17 @@ var ARTICLES = [
   "tags": [
    "ADES",
    "RUPSLB",
-   "Akasha Wira International",
-   "pasar modal"
+   "Stock Split",
+   "Dewan Komisaris"
   ],
   "body": [
-   "PT Akasha Wira International Tbk (ADES) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 16 Desember 2026 pukul 10.00 WIB. Rapat akan digelar di Plaza Oleos, Meeting Room Arjuna, Jalan Letnan Jenderal T.B. Simatupang, Kelurahan Kebagusan, Pasar Minggu, Jakarta Selatan, dengan memanfaatkan fasilitas Rapat Umum Elektronik eASY KSEI yang disediakan Kustodian Sentral Efek Indonesia, termasuk mekanisme e-proxy dan e-voting bagi pemegang saham yang tidak hadir fisik.",
-   "Pengumuman ini masih berupa tahap awal, bukan surat pemanggilan resmi. Perusahaan menyebutkan, pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam daftar pemegang saham perseroan pada Senin, 23 November 2026 pukul 16.00 WIB. Surat pemanggilan resmi, yang biasanya baru memuat agenda dan mata acara rapat secara rinci, akan diumumkan di situs penyedia e-RUPS, situs Bursa Efek Indonesia, dan situs web perseroan pada Selasa, 24 November 2026.",
-   "Dokumen ini juga menyebut hak pemegang saham untuk mengusulkan mata acara rapat secara tertulis kepada Direksi, sesuai Pasal 16 POJK 15/2020 tentang Perencanaan dan Penyelenggaraan RUPS Perusahaan Terbuka, selambat-lambatnya tujuh hari kalender sebelum tanggal pemanggilan. Pengumuman ditandatangani Direksi PT Akasha Wira International Tbk di Jakarta pada 9 November 2026."
+   "PT Akasha Wira International Tbk (ADES) menerbitkan surat pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Selasa, 24 November 2026, yang sekaligus mengungkap dua agenda rapat: persetujuan perubahan susunan Dewan Komisaris dan persetujuan rencana pemecahan nilai nominal saham (stock split) dengan rasio 1:10.",
+   "Dalam rencana stock split tersebut, nilai nominal saham ADES akan berubah dari Rp1.000 menjadi Rp100 per saham, sehingga jumlah saham ditempatkan dan disetor bertambah dari 589.896.800 saham menjadi 5.898.968.000 saham. Perseroan menegaskan perubahan ini tidak mengubah jumlah modal dasar, ditempatkan, dan disetor dalam rupiah, maupun proporsi kepemilikan masing-masing pemegang saham. Rencana ini ditujukan untuk memenuhi syarat minimum jumlah saham publik (free float), memperluas basis investor, dan meningkatkan likuiditas perdagangan saham ADES. Bursa Efek Indonesia telah memberi persetujuan prinsip lewat surat Nomor S-13265/BEI.PP3/10-2026 tanggal 20 Oktober 2026, dengan rincian yang sudah lebih dulu diumumkan dalam Keterbukaan Informasi 9 November 2026.",
+   "RUPSLB akan digelar Rabu, 16 Desember 2026 pukul 10.00 WIB di Plaza Oleos, Meeting Room Arjuna, Jalan Letnan Jenderal T.B. Simatupang, Jakarta Selatan, secara fisik maupun elektronik lewat fasilitas eASY.KSEI. Pemegang saham yang berhak hadir atau diwakili adalah yang namanya tercatat dalam Daftar Pemegang Saham pada Senin, 23 November 2026 pukul 16.00 WIB.",
+   "Perseroan membuka pemberian kuasa elektronik (e-Proxy) dan pengisian pilihan suara lewat eASY.KSEI paling lambat Selasa, 15 Desember 2026 pukul 12.00 WIB. Bahan mata acara rapat dapat diakses pemegang saham sejak tanggal pemanggilan ini, 24 November 2026, melalui situs web perseroan maupun eASY.KSEI hingga hari pelaksanaan rapat."
   ],
   "fotoAdegan": "Workers inspecting bottled drinking water moving along a conveyor belt inside a bright Indonesian beverage factory",
-  "takeaway": "Pengumuman ini sendiri netral bagi ADES: isinya baru soal jadwal dan tata cara rapat, belum ada agenda atau keputusan yang bisa dinilai dampaknya terhadap kinerja perusahaan. Begitu agenda terbit lewat pemanggilan resmi, baru bisa terlihat pos mana yang tersentuh, misalnya jika agendanya soal penambahan modal maka jumlah saham beredar dan laba per saham (keuntungan bersih dibagi jumlah saham) bisa berubah, atau jika soal pergantian direksi maka yang berubah adalah tata kelola, bukan angka keuangan. Yang perlu dipantau adalah surat pemanggilan resmi pada 24 November 2026 yang semestinya memuat mata acara rapat sesungguhnya, lalu pelaksanaan RUPSLB pada 16 Desember 2026. Perlu juga dicermati apakah agenda ini bersinggungan dengan proses penundaan pembayaran utang (PKPU) yang masih dijalani ADES, mengingat laporan ini belum menjelaskan kaitan keduanya.",
+  "takeaway": "Pemanggilan resmi RUPSLB ADES ini cenderung netral karena agenda stock split hanya memecah nilai nominal saham tanpa menambah modal atau mengubah proporsi kepemilikan, sementara agenda pergantian komisaris belum menyebut nama calon sehingga dampaknya terhadap tata kelola belum bisa dinilai. Pos yang tersentuh adalah jumlah saham beredar, yang akan melonjak sepuluh kali lipat dari 589.896.800 menjadi 5.898.968.000 saham, sehingga laba per saham (laba bersih dibagi jumlah saham) otomatis mengecil secara nominal, bukan karena kinerja memburuk, melainkan karena kuenya dipotong jadi lebih banyak bagian. Yang perlu dipantau berikutnya adalah batas akhir pemberian kuasa dan suara elektronik lewat eASY.KSEI pada 15 Desember 2026 pukul 12.00 WIB, serta hasil pemungutan suara di RUPSLB pada 16 Desember 2026, karena di titik itu baru bisa dipastikan apakah stock split dan pergantian komisaris benar disetujui pemegang saham.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Pengumuman RUPS",
@@ -2483,13 +2750,26 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-11-24",
-    "acara": "Pemanggilan resmi RUPSLB diumumkan"
+    "acara": "Pemanggilan resmi RUPSLB diumumkan, agenda stock split dan komisaris terbit"
+   },
+   {
+    "tanggal": "2026-12-15",
+    "acara": "Batas akhir e-Proxy dan voting elektronik lewat eASY.KSEI pukul 12.00 WIB"
    },
    {
     "tanggal": "2026-12-16",
-    "acara": "Pelaksanaan RUPSLB ADES"
+    "acara": "Pelaksanaan RUPSLB ADES, agenda stock split dan pergantian komisaris"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T16:17:11",
+    "ringkas": "Surat pemanggilan resmi RUPSLB ADES mengungkap agenda: pergantian komisaris dan stock split saham rasio 1:10.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADES_E002_469849be-ebe9-4c73-ab17-9d0d3a9bca64-20261124161713.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-24T16:17:11"
  },
  {
   "slug": "bunga-obligasi-adhi-24-november-berpotensi-tertunda",
@@ -12790,8 +13070,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-pgas-19-november-laba-9m-2026-naik-ke-us-293-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PGAS 19 November [Diundur]: Jam 10.30-11.30 WIB",
-  "deck": "PGN mengubah jam public expose tahunan dari 10.00 menjadi 10.30-11.30 WIB pada 19 November 2026, agenda dan materi laba 9M-2026 tetap sama.",
+  "title": "Public Expose PGAS 19 November: [Volume Gas] 827 BBTUD, 94%",
+  "deck": "Public expose tahunan PGN 19 November dihadiri 125 peserta; realisasi volume niaga gas 827 BBTUD atau 94% dari target, kasus Gunvor belum ada provisi tambahan.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "16 November 2026",
   "isoDate": "2026-11-16T21:14:34",
@@ -12800,17 +13080,18 @@ var ARTICLES = [
   "emiten": "PGAS",
   "tags": [
    "PGAS",
-   "public expose",
-   "PGN",
-   "jadwal korporasi"
+   "Public Expose",
+   "Gunvor",
+   "Dividen"
   ],
   "body": [
-   "PT Perusahaan Gas Negara Tbk (PGN) mengumumkan perubahan jam penyelenggaraan public expose tahunan 2026 kepada Bursa Efek Indonesia pada 18 November 2026. Acara yang semula dijadwalkan pukul 10.00-11.00 WIB diundur menjadi pukul 10.30-11.30 WIB. Tanggal acara tetap 19 November 2026, agenda tetap laporan kinerja kuartal III 2026, pemateri tetap manajemen perseroan, dan tautan pendaftaran Zoom Webinar tidak berubah.",
-   "Materi yang akan dipaparkan tetap sama seperti yang disampaikan PGN sebelumnya, yakni kinerja keuangan sembilan bulan pertama 2026. Pendapatan konsolidasian tercatat US$3,019 miliar, naik dari US$2,923 miliar pada periode yang sama tahun lalu, dengan laba bersih US$293 juta dan EBITDA US$785 juta. Rasio utang berbunga terhadap ekuitas turun dari 33 persen menjadi 27 persen, sementara rasio EBITDA terhadap beban bunga melonjak dari 17 kali menjadi 23 kali.",
-   "Dari sisi neraca per akhir September 2026, total aset PGN tercatat US$6,016 miliar, turun dari US$6,232 miliar pada akhir Desember 2025, sementara total ekuitas naik tipis menjadi US$3,633 miliar. Arus kas dari kegiatan operasi naik dari US$439 juta menjadi US$518 juta. Untuk tahun 2026, PGN mengalokasikan belanja modal US$353 juta, dengan realisasi hingga September baru mencapai US$151 juta, termasuk proyek pipa minyak Cikampek-Plumpang dan tangki LNG di Teluk Lamong yang masih berjalan."
+   "PT Perusahaan Gas Negara Tbk (PGN) melaporkan kepada Bursa Efek Indonesia bahwa public expose tahunan 2026 telah berlangsung pada Kamis, 19 November 2026 secara virtual melalui Zoom Webinar, dihadiri 125 peserta dari kalangan investor, masyarakat umum, dan media. Paparan disampaikan oleh Direktur Utama Arief Kurnia Risdianto, Direktur Keuangan Catur Dermawan, dan Direktur Strategi & Pengembangan Bisnis Mirza Mahendra. Dalam sesi tanya jawab, manajemen mengungkap realisasi volume niaga gas hingga September 2026 baru mencapai 827 BBTUD, atau sekitar 94 persen dari target tahunan 877 BBTUD, akibat ketidakseimbangan antara pasokan dari pemasok hulu dan kebutuhan pelanggan. Soal kasus arbitrase dengan Gunvor, manajemen menyatakan belum ada perubahan nilai provisi karena putusan masih bersifat parsial dan sedang ditelaah secara menyeluruh. Soal dividen, manajemen mengungkap bahwa rasio pembayaran dividen (dividend payout ratio) PGN tiga tahun terakhir berkisar 70-80 persen, dengan besaran dividen tahun buku 2026 akan ditetapkan dalam RUPS Tahunan.",
+   "Fakta kinerja keuangan sembilan bulan pertama 2026 yang sebelumnya diumumkan tetap berlaku: pendapatan konsolidasian US$3,019 miliar, naik dari US$2,923 miliar pada periode yang sama tahun lalu, dengan laba bersih US$293 juta dan EBITDA US$785 juta. Rasio utang berbunga terhadap ekuitas turun dari 33 persen menjadi 27 persen, sementara rasio EBITDA terhadap beban bunga melonjak dari 17 kali menjadi 23 kali.",
+   "Dari sisi neraca per akhir September 2026, total aset PGN tercatat US$6,016 miliar, turun dari US$6,232 miliar pada akhir Desember 2025, sementara total ekuitas naik tipis menjadi US$3,633 miliar. Arus kas dari kegiatan operasi naik dari US$439 juta menjadi US$518 juta. Dari alokasi belanja modal 2026 sebesar US$353 juta, realisasi hingga September baru US$151 juta.",
+   "Dalam paparan proyek, manajemen menyebut progres pembangunan pipa minyak Cikampek-Plumpang sudah 64,6 persen dengan target commissioning kuartal III 2027, fasilitas biomethane Pagardewa di Sumatera Selatan sudah 76,6 persen dengan target kuartal I 2027, LNG Tank Terminal Teluk Lamong ditargetkan commissioning kuartal II 2028, dan proyek New West Java Regasification ditargetkan beroperasi kuartal III 2028. PGN juga menyebut telah menandatangani tujuh kesepakatan komersial pasokan gas bumi domestik pada Oktober 2026, mencakup tiga perjanjian jual beli gas, satu amandemen perjanjian, dan tiga perjanjian jual beli LNG, termasuk dari South Hub, North Hub, dan Abadi Masela."
   ],
   "fotoAdegan": "Workers in overalls inspecting a long buried gas pipeline trench at an industrial construction site, overcast daylight",
-  "takeaway": "Pengumuman ini netral bagi fundamental PGN, karena isinya cuma menggeser jam acara sebanyak 30 menit, bukan mengubah substansi laporan keuangan. PGN sendiri menyatakan dalam dokumen ini bahwa perubahan jadwal tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha, jadi pos-pos seperti ekuitas, arus kas, atau laba per saham tidak tersentuh oleh dokumen ini. Yang perlu dipantau tetap sama seperti sebelumnya, yaitu paparan publik PGN pada 19 November 2026, kini pukul 10.30 sampai 11.30 WIB, yang akan memberi detail lebih lanjut soal kinerja sembilan bulan pertama 2026 dan realisasi belanja modal kepada investor.",
+  "takeaway": "Laporan hasil public expose ini netral bagi PGN: tidak ada keputusan korporasi baru di dalamnya, dan sebagian besar jawaban manajemen menegaskan ulang data yang sudah pernah diumumkan, termasuk belum adanya provisi tambahan untuk kasus Gunvor. Yang perlu dicermati adalah realisasi volume niaga gas yang baru 827 BBTUD atau 94 persen dari target tahunan 877 BBTUD, karena volume niaga gas inilah pendorong utama pendapatan PGN, sehingga kekurangan pasokan dari hulu bisa menahan laju pendapatan di sisa tahun ini. Di sisi lain, arus kas dari kegiatan operasi, yaitu uang tunai yang benar-benar masuk dari bisnis sehari-hari, justru naik dari US$439 juta menjadi US$518 juta, tanda bahwa kesehatan kas perusahaan belum terganggu meski target volume belum tercapai. Sengketa arbitrase dengan Gunvor tetap menjadi risiko yang belum tuntas karena putusannya masih bersifat parsial dan sedang ditelaah, sehingga kewajiban keuangan tambahan masih mungkin muncul kapan saja meski belum dicadangkan sekarang. Yang perlu dipantau berikutnya adalah keputusan RUPS Tahunan soal besaran dividen tahun buku 2026, serta kelanjutan proses hukum arbitrase Gunvor yang bisa mengubah kewajiban keuangan PGN ke depan.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -12826,9 +13107,15 @@ var ARTICLES = [
     "ringkas": "PGN mengundur jam public expose tahunan 19 November 2026 dari 10.00 menjadi 10.30-11.30 WIB, agenda dan tautan tetap sama.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4eef39a0c3_ff7c1926a1.pdf",
     "judulIdx": "Perubahan Waktu Penyelenggaraan Public Expose Tahunan PT Perusahaan Gas Negara (Persero) Tbk Tahun 2026"
+   },
+   {
+    "tanggal": "2026-11-24T21:07:06",
+    "ringkas": "Public expose PGN 19 November dihadiri 125 peserta; volume niaga gas baru 827 BBTUD (94% target), kasus Gunvor belum ada provisi tambahan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_PGAS_E003_45c7bb7b-f140-438c-b718-589bb6c1a7a9-20261124210708.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
    }
   ],
-  "diperbarui": "2026-11-18T09:06:53"
+  "diperbarui": "2026-11-24T21:07:06"
  },
  {
   "slug": "rupslb-mbma-8-desember-private-placement-10-8-miliar-saham",
@@ -29767,8 +30054,8 @@ var ARTICLES = [
  {
   "slug": "jmas-laba-bersih-anjlok-86-jadi-rp398-juta-di-2025",
   "category": "Aksi Korporasi",
-  "title": "JMAS: Laba Bersih [Anjlok] 86% Jadi Rp398 Juta di 2025",
-  "deck": "Laba bersih JMAS turun drastis dari Rp2,83 miliar menjadi Rp398 juta pada 2025, sementara liabilitas ke pemegang polis melonjak 160 persen.",
+  "title": "JMAS: Rugi Rp590,7 Juta di Kuartal I 2026, Ekuitas Menyusut",
+  "deck": "Laporan kuartal I 2026 JMAS menunjukkan perusahaan merugi Rp590,7 juta, berbalik dari laba Rp1,42 miliar setahun sebelumnya, seiring pendapatan turun 20,6 persen dan ekuitas menyusut lagi.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "5 November 2026",
   "isoDate": "2026-11-05T17:55:06",
@@ -29777,18 +30064,29 @@ var ARTICLES = [
   "emiten": "JMAS",
   "tags": [
    "JMAS",
-   "asuransi syariah",
    "laporan keuangan",
-   "laba bersih"
+   "asuransi jiwa syariah",
+   "kuartal I 2026"
   ],
   "body": [
-   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) menyampaikan laporan keuangan tahunan teraudit untuk tahun buku yang berakhir 31 Desember 2025 kepada Bursa Efek Indonesia pada 5 November 2026. Laporan yang diaudit oleh Kantor Akuntan Publik Hendrawinata Hanny Erwin & Sumargo dengan partner penanggung jawab Zulbadri ini memperoleh opini wajar tanpa pengecualian. Pendapatan perusahaan tercatat Rp73,77 miliar pada 2025, turun dari Rp79,47 miliar pada 2024, sementara laba bersih periode berjalan merosot tajam dari Rp2,83 miliar menjadi hanya Rp398,42 juta. Laba komprehensif ikut turun dari Rp2,29 miliar menjadi Rp921,88 juta, dan laba per saham dasar anjlok dari Rp2,87 menjadi Rp0,40.",
-   "Dari sisi aset, total aset perusahaan naik 21,4 persen menjadi Rp371,56 miliar pada akhir 2025 dari Rp306,18 miliar setahun sebelumnya. Kenaikan ini terutama didorong oleh aset tidak lancar yang melonjak 58,6 persen menjadi Rp91,58 miliar, dengan aset reasuransi sebagai penyumbang utama karena naik 116 persen akibat meningkatnya kontribusi dari produk pembiayaan. Di sisi liabilitas, total kewajiban perusahaan naik lebih tinggi lagi, yakni 30,7 persen menjadi Rp302,64 miliar dari Rp231,47 miliar, dipicu oleh liabilitas jangka panjang yang melonjak 85,1 persen. Perusahaan menjelaskan ke bursa bahwa lonjakan itu berasal dari kenaikan 160 persen pada liabilitas manfaat polis masa depan dan kenaikan 34 persen pada penyisihan ujrah, sejalan dengan bertambahnya kontribusi dari produk pembiayaan.",
-   "Modal sendiri atau ekuitas perusahaan hanya bertambah tipis, dari Rp122,50 miliar menjadi Rp123,42 miliar. Rasio imbal hasil terhadap aset turun dari 0,93 persen menjadi 0,12 persen, dan imbal hasil terhadap ekuitas turun dari 2,33 persen menjadi 0,32 persen. Rasio EBITDA terhadap pendapatan juga menyusut dari 6,09 persen menjadi 2,93 persen. Laporan ini ditandatangani secara elektronik oleh Direktur Utama Basuki Agus dan disampaikan ke bursa oleh Corporate Secretary Mawar Arsiarni Djunaid."
+   "PT Asuransi Jiwa Syariah Jasa Mitra Abadi Tbk (JMAS) menyampaikan laporan keuangan kuartal I 2026 yang tidak diaudit kepada Bursa Efek Indonesia pada 24 November 2026. Perusahaan mencatat rugi Rp590,70 juta untuk periode yang berakhir 31 Maret 2026, berbalik dari laba Rp1,42 miliar pada periode yang sama tahun 2025. Pendapatan usaha ikut turun 20,6 persen, dari Rp15,45 miliar menjadi Rp12,27 miliar, sementara rugi per saham dasar tercatat Rp0,59, dibandingkan laba per saham Rp1,42 setahun sebelumnya.",
+   "Modal sendiri atau ekuitas perusahaan ikut menyusut, dari Rp123,42 miliar pada akhir 2025 menjadi Rp121,84 miliar pada akhir Maret 2026. Total aset turun 3,2 persen menjadi Rp359,69 miliar, dan total liabilitas turun 4,8 persen menjadi Rp288,18 miliar dibandingkan akhir 2025. Namun di sisi liabilitas kepada pemegang polis, pos liabilitas manfaat polis masa depan, yaitu perkiraan nilai klaim yang harus dibayar perusahaan kepada pemegang polis di masa depan, justru naik 15,2 persen menjadi Rp87,46 miliar dari Rp75,91 miliar.",
+   "Laporan terbaru ini menyusul laporan keuangan tahunan teraudit untuk tahun buku 2025 yang disampaikan perusahaan pada 5 November 2026. Dalam laporan itu, laba bersih JMAS sepanjang 2025 tercatat ambrol 86 persen menjadi Rp398,42 juta dari Rp2,83 miliar pada 2024, meski pendapatan tahunan hanya turun tipis menjadi Rp73,77 miliar. Laporan tahunan itu memperoleh opini wajar tanpa pengecualian dari Kantor Akuntan Publik Hendrawinata Hanny Erwin & Sumargo. Laporan kuartal I 2026 kali ini berstatus tidak diaudit, sebagaimana lazimnya laporan triwulan di luar akhir tahun buku.",
+   "Laporan disampaikan ke bursa oleh Corporate Secretary Mawar Arsiarni Djunaid dan ditandatangani Direktur Utama Basuki Agus."
   ],
   "fotoAdegan": "Insurance office clerks sorting stacks of paper policy files and using calculators at cluttered desks, afternoon light through office windows",
-  "takeaway": "Laporan ini condong negatif bagi JMAS karena laba bersihnya ambrol 86 persen dari Rp2,83 miliar menjadi Rp398 juta pada 2025, padahal pendapatan cuma turun tipis 7,2 persen, tanda ada tekanan besar di biaya atau kewajiban yang menggerus untung. Yang tersentuh adalah efisiensi modal sendiri: rasio laba terhadap ekuitas jatuh dari 2,33 persen jadi hanya 0,32 persen, dan laba per saham turun dari Rp2,87 jadi Rp0,40, dua ukuran yang biasa dipakai investor untuk menilai seberapa produktif modal pemegang saham dipakai mencari untung. Pelaku pasar juga perlu mencermati melonjaknya kewajiban ke pemegang polis sebesar 160 persen, karena ini berarti perusahaan punya tanggungan membayar klaim di masa depan yang jauh lebih besar dibanding tahun sebelumnya. Yang perlu dipantau berikutnya adalah laporan tahunan resmi yang menurut auditor baru tersedia setelah tanggal laporan audit ini, serta apakah kenaikan aset reasuransi 116 persen cukup menutupi lonjakan liabilitas tersebut pada laporan kuartal mendatang.",
-  "sentimen": "negatif"
+  "takeaway": "Laporan kuartal I 2026 ini condong negatif bagi JMAS, karena perusahaan berbalik dari laba Rp1,42 miliar menjadi rugi Rp590,7 juta hanya dalam tiga bulan, dipicu pendapatan yang anjlok 20,6 persen sementara beban usaha tidak turun secepat itu. Pos yang tersentuh adalah ekuitas, yang terus menyusut jadi Rp121,84 miliar, dan laba per saham yang kini negatif Rp0,59, dua ukuran yang jadi acuan investor untuk melihat seberapa produktif modal pemegang saham dipakai mencari untung. Yang juga perlu dicermati adalah liabilitas manfaat polis masa depan, yaitu perkiraan tanggungan klaim pemegang polis di masa depan, yang naik 15,2 persen menjadi Rp87,46 miliar meski total liabilitas perusahaan secara keseluruhan justru turun. Karena laporan ini tidak diaudit, yang perlu dipantau berikutnya adalah laporan keuangan paruh tahun dan laporan audit tahunan berikutnya, untuk melihat apakah kerugian kuartal I ini berlanjut atau terkoreksi sepanjang 2026.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T16:25:15",
+    "ringkas": "JMAS berbalik merugi Rp590,7 juta pada kuartal I 2026, dari laba Rp1,42 miliar setahun sebelumnya, seiring pendapatan turun 20,6 persen.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_JMAS_E019_99f649fc-3b78-426c-b9a5-1bb8fa7aa13e-20261124162517.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan"
+   }
+  ],
+  "diperbarui": "2026-11-24T16:25:15",
+  "peristiwa": "lapkeu"
  },
  {
   "slug": "kdtn-rencana-pengambilalihan-ruby-mining-dibatalkan",
@@ -58523,8 +58821,8 @@ var ARTICLES = [
  {
   "slug": "bmbl-panggil-rupslb-november-agenda-perubahan-susunan-direksi",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB BMBL 11 November: [Kuorum] Tak Terpenuhi, Agenda Direksi Batal",
-  "deck": "RUPSLB BMBL pada 11 November 2026 tidak memenuhi kuorum, hanya dihadiri 43,82% pemegang saham, sehingga agenda perubahan susunan direksi gagal diputuskan dan rapat ditutup dalam 23 menit.",
+  "title": "RUPSLB BMBL 1 Desember: [Direksi] Dipanggil Ulang",
+  "deck": "BMBL memanggil RUPSLB kedua pada 1 Desember 2026 dengan agenda yang sama, perubahan susunan direksi, setelah rapat pertama 11 November gagal kuorum.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "20 Oktober 2026",
   "isoDate": "2026-10-20T13:35:30",
@@ -58535,26 +58833,51 @@ var ARTICLES = [
    "BMBL",
    "RUPSLB",
    "Direksi",
-   "Kuorum"
+   "Pasar Modal"
   ],
   "body": [
-   "PT Lavender Bina Cendikia Tbk (BMBL) membatalkan agenda perubahan susunan direksi setelah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Rabu, 11 November 2026, di Depok tidak memenuhi syarat kuorum. Rapat hanya dihadiri pemegang saham yang mewakili 451.410.900 saham atau 43,82% dari seluruh saham dengan hak suara yang sah, di bawah batas minimum yang disyaratkan anggaran dasar perseroan dan Undang-Undang Nomor 40 Tahun 2007 tentang Perseroan Terbatas. Karena itu, rapat dinyatakan tidak sah dan tidak bisa mengambil keputusan apa pun, lalu dibuka dan langsung ditutup pukul 09.23 WIB.",
-   "Rapat ini sebelumnya dipanggil melalui surat tanggal 20 Oktober 2026, dengan agenda tunggal persetujuan perubahan susunan direksi perseroan, tanpa merinci nama direktur yang akan diganti atau diangkat. Pemegang saham yang berhak hadir dalam rapat adalah yang tercatat dalam daftar pemegang saham per 19 Oktober 2026 sebagai recording date.",
-   "Karena rapat tidak sah, susunan direksi dan dewan komisaris BMBL tidak berubah. Direktur Utama tetap dijabat Galih Pandekar, didampingi Direktur Dewi Ariyanti, Muhammad Arif Saadilah, dan Elita Swasti Nandiko. Dewan komisaris tetap diisi Komisaris Utama Sri Harjanto, Komisaris Wildan Fauzan, dan Komisaris Independen Tini Ismiyani."
+   "PT Lavender Bina Cendikia Tbk (BMBL) kembali memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk agenda perubahan susunan direksi, kali ini dijadwalkan Selasa, 1 Desember 2026 pukul 09.00 WIB di Daima Suites Margonda, Depok, sekaligus secara elektronik melalui aplikasi eASY.KSEI. Pemanggilan ini disampaikan melalui surat tertanggal 24 November 2026, dengan pemegang saham yang berhak hadir adalah yang tercatat dalam daftar pemegang saham per 23 November 2026.",
+   "Rapat ini merupakan pemanggilan ulang setelah RUPSLB pertama pada 11 November 2026 gagal memenuhi kuorum, karena hanya dihadiri pemegang saham yang mewakili 43,82% dari total saham berhak suara, di bawah batas minimum yang disyaratkan anggaran dasar dan Undang-Undang Perseroan Terbatas. Rapat pertama itu dibuka dan ditutup dalam 23 menit tanpa mengambil keputusan apa pun.",
+   "Karena belum ada keputusan yang diambil, susunan direksi dan dewan komisaris BMBL tetap belum berubah. Direktur Utama masih dijabat Galih Pandekar, didampingi Dewi Ariyanti, Muhammad Arif Saadilah, dan Elita Swasti Nandiko, dengan dewan komisaris yang diketuai Sri Harjanto bersama Wildan Fauzan dan komisaris independen Tini Ismiyani.",
+   "Perseroan menetapkan batas akhir penyerahan surat kuasa fisik ke biro administrasi efek pada Kamis, 26 November 2026, serta batas registrasi di aplikasi eASY.KSEI untuk menyaksikan tayangan rapat pada 30 November 2026 pukul 12.00 WIB, bagi pemegang saham yang berhalangan hadir langsung."
   ],
   "fotoAdegan": "Empty hotel ballroom set with rows of chairs facing a stage, soft morning light, prepared for a formal shareholders meeting in Depok, Indonesia.",
-  "takeaway": "Laporan ini negatif bagi BMBL karena rencana perubahan susunan direksi yang sudah dipanggil sejak 20 Oktober 2026 gagal diputuskan akibat kuorum rapat yang hanya terisi 43,82%, jauh dari batas minimum yang disyaratkan anggaran dasar dan Undang-Undang Perseroan Terbatas. Perubahan direksi sendiri tidak langsung mengubah angka di laporan keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pasar tetap memperhatikannya karena kepastian susunan pimpinan memengaruhi keputusan strategis perseroan ke depan, dan kegagalan kuorum ini menunjukkan rendahnya partisipasi pemegang saham dalam menentukan arah kepemimpinan. Yang perlu dipantau selanjutnya adalah apakah dan kapan BMBL memanggil RUPSLB kedua untuk mengagendakan ulang perubahan direksi tersebut, karena dokumen ini tidak menyebutkan jadwal rapat lanjutan.",
-  "sentimen": "negatif",
+  "takeaway": "Pemanggilan ulang ini netral bagi BMBL, karena sifatnya prosedural, sekadar mengulang agenda yang sama sesuai ketentuan hukum setelah kuorum RUPSLB pertama gagal terpenuhi, tanpa ada keputusan direksi baru yang diumumkan. Perubahan susunan direksi tidak langsung mengubah angka di laporan keuangan seperti ekuitas, arus kas, atau laba per saham, tapi pasar tetap memantaunya karena kepastian pimpinan perusahaan memengaruhi arah keputusan strategis ke depan. Yang perlu dipantau berikutnya adalah apakah RUPSLB kedua pada 1 Desember 2026 ini berhasil memenuhi kuorum dan benar-benar memutuskan perubahan direksi, mengingat rapat sebelumnya gagal karena partisipasi pemegang saham yang rendah.",
+  "sentimen": "netral",
   "pembaruan": [
    {
     "tanggal": "2026-11-11T16:03:56",
     "ringkas": "RUPSLB BMBL 11 November gagal kuorum (43,82%), agenda perubahan susunan direksi batal diputuskan.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6ce6df18ad_e1e66e42a3.pdf",
     "judulIdx": "Ringkasan Risalah Rapat Umum Para Pemegang Saham Luar Biasa"
+   },
+   {
+    "tanggal": "2026-11-24T22:01:13",
+    "ringkas": "BMBL memanggil RUPSLB kedua pada 1 Desember 2026 untuk mengagendakan ulang perubahan susunan direksi setelah rapat pertama gagal kuorum.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BMBL_E002_b4689dce-774a-461c-8a74-e7470febd701-20261124220114.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
    }
   ],
-  "diperbarui": "2026-11-11T16:03:56",
-  "peristiwa": "rups"
+  "diperbarui": "2026-11-24T22:01:13",
+  "peristiwa": "rups",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Recording date pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Batas penyerahan surat kuasa fisik ke biro administrasi efek"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Batas registrasi eASY.KSEI untuk tayangan rapat"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "RUPSLB kedua BMBL, agenda perubahan susunan direksi"
+   }
+  ]
  },
  {
   "slug": "ihsg-melonjak-4-16-persen-bei-rombak-komposisi-indeks",

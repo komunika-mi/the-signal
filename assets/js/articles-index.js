@@ -315,6 +315,54 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "jast-klarifikasi-tak-ada-info-material-di-balik-volatilitas",
+  "category": "Aksi Korporasi",
+  "title": "JAST [Klarifikasi]: Tak Ada Info Material di Balik Volatilitas",
+  "deck": "JAST menjawab permintaan penjelasan Bursa soal lonjakan transaksi sahamnya, menyatakan tak ada info material dan pemegang saham utama belum berencana mengubah kepemilikan.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JAST",
+   "Jasnita Telekomindo",
+   "UMA Bursa",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_JAST_E023A_a60f0aea-c256-46c1-b666-2949eb6aba94-20261124164913.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-ades-16-desember-stock-split-rasio-1-10-diusulkan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADES 16 Desember: [Stock Split] Rasio 1:10 Diusulkan",
+  "deck": "Direksi ADES memanggil RUPSLB 16 Desember 2026 dengan agenda stock split 1:10 dan perubahan komisaris; saham beredar bakal naik dari 589,9 juta jadi 5,9 miliar lembar.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "RUPSLB",
+   "stock split",
+   "Akasha Wira International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADES_E019_69d3abf9-2745-407e-9564-bf2816952ac4-20261124164358.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-dlta-19-nov-laba-naik-5-9-ekuitas-4-7",
+  "category": "Aksi Korporasi",
+  "title": "[Public Expose] DLTA 19 Nov: Laba Naik 5,9%, Ekuitas -4,7%",
+  "deck": "Public Expose DLTA 19 November mengungkap penjualan naik 16,6% jadi Rp564,6 miliar, laba bersih naik 5,9%, tapi ekuitas turun 4,7%.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DLTA",
+   "Delta Djakarta",
+   "Public Expose",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_DLTA_E003_215c890c-ddfb-45e2-a0f8-d59128795996-20261124163952.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-tolak-saksi-terlapor-i-dalam-sidang-pasar-ciparay",
   "category": "Bisnis",
   "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
@@ -329,6 +377,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kppu.go.id/berita/majelis-kppu-tolak-saksi-terlapor-i-dalam-sidang-perkara-beauty-contest-pasar-ciparay",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "tnca-jawab-permintaan-bursa-pengendali-tambah-investasi-saham",
+  "category": "Aksi Korporasi",
+  "title": "TNCA Jawab Permintaan Bursa: Pengendali [Tambah] Investasi Saham",
+  "deck": "TNCA menegaskan tak ada informasi material yang disembunyikan terkait volatilitas transaksi sahamnya, tapi menyebut pemegang saham pengendali berencana menambah investasi saham di perseroan.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TNCA",
+   "UMA",
+   "pemegang saham pengendali",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_TNCA_E023A_2233699f-34c1-4bf8-ade6-9f2f683186a9-20261124163657.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bfin-djemi-suhenda-resmi-jadi-komisaris-independen-baru",
+  "category": "Aksi Korporasi",
+  "title": "BFIN: Djemi Suhenda Resmi Jadi [Komisaris Independen] Baru",
+  "deck": "OJK menyetujui Djemi Suhenda sebagai Komisaris Independen BFIN, efektif menggantikan Johanes Sutrisno sesuai keputusan RUPSLB 20 Mei 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BFIN",
+   "komisaris independen",
+   "tata kelola",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BFIN_E019_a4f44510-b321-4add-b203-74def29f632e-20261124163257.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-kota-27-nov-right-issue-100-miliar-saham-akuisisi-rp4-4-t",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB KOTA 27 Nov: [Right Issue] 100 Miliar Saham, Akuisisi Rp4,4 T",
+  "deck": "KOTA berencana menerbitkan maksimal 100 miliar saham baru lewat HMETD untuk membiayai akuisisi dua perusahaan senilai Rp4,4 triliun.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KOTA",
+   "rights issue",
+   "HMETD",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_KOTA_E0X1_e6d55a15-a708-4b4c-9d6b-4c7fe171a51e-20261124160957.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pelunasan-obligasi-inkp-23-november-rampung-rp1-04-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Pelunasan Obligasi INKP 23 November: [Rampung] Rp1,04 Triliun",
+  "deck": "INKP melunasi pokok obligasi, sukuk mudharabah, dan obligasi dolar AS senilai total sekitar Rp1,04 triliun plus US$900 ribu pada 23 November 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INKP",
+   "obligasi",
+   "sukuk mudharabah",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_INKP_E019_725d5f7e-06bb-45b1-b6b7-a4bd9f29b579-20261124160623.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-sage-16-desember-agenda-ubah-susunan-direksi-komisaris",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB SAGE 16 Desember: [Agenda] Ubah Susunan Direksi-Komisaris",
+  "deck": "Direksi SAGE memanggil RUPSLB pada 16 Desember 2026 dengan agenda tunggal mengubah susunan Direksi dan Dewan Komisaris Perseroan.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SAGE",
+   "RUPSLB",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_SAGE_E002_ea4b547c-3105-4c29-8872-e088df48c96b-20261124160243.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "pkpu-adhi-24-november-sidang-pertama-klaim-0-06-ekuitas",
@@ -1282,15 +1410,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-ades-16-desember-2026-agenda-menyusul-24-november",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ADES 16 Desember 2026: [Agenda] Menyusul 24 November",
-  "deck": "Akasha Wira International (ADES) menjadwalkan RUPSLB pada 16 Desember 2026 secara elektronik lewat eASY KSEI; agenda rapat baru terbit lewat pemanggilan resmi 24 November 2026.",
+  "title": "RUPSLB ADES 16 Desember: [Stock Split] 1:10 dan Pergantian Komisaris",
+  "deck": "Surat pemanggilan resmi RUPSLB ADES 24 November 2026 mengungkap agenda: pergantian susunan Dewan Komisaris dan stock split saham rasio 1:10, menjelang rapat 16 Desember 2026.",
   "date": "23 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ADES",
    "RUPSLB",
-   "Akasha Wira International",
-   "pasar modal"
+   "Stock Split",
+   "Dewan Komisaris"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_ADES_E001_dcc2d903-f145-4b2a-83e3-c0671cda2f10-20261123171510.pdf",
   "sourceLabel": "IDX"
@@ -6286,15 +6414,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-pgas-19-november-laba-9m-2026-naik-ke-us-293-juta",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PGAS 19 November [Diundur]: Jam 10.30-11.30 WIB",
-  "deck": "PGN mengubah jam public expose tahunan dari 10.00 menjadi 10.30-11.30 WIB pada 19 November 2026, agenda dan materi laba 9M-2026 tetap sama.",
+  "title": "Public Expose PGAS 19 November: [Volume Gas] 827 BBTUD, 94%",
+  "deck": "Public expose tahunan PGN 19 November dihadiri 125 peserta; realisasi volume niaga gas 827 BBTUD atau 94% dari target, kasus Gunvor belum ada provisi tambahan.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "PGAS",
-   "public expose",
-   "PGN",
-   "jadwal korporasi"
+   "Public Expose",
+   "Gunvor",
+   "Dividen"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/40b6ce9a78_0050ccf280.pdf",
   "sourceLabel": "IDX"
@@ -6363,139 +6491,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/2888658a0b_c78280b726.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pt-bsu-gandeng-empat-bpr-biayai-vila-premium-yogyakarta",
-  "category": "Perbankan",
-  "title": "PT BSU Gandeng [Empat] BPR Biayai Vila Premium Yogyakarta",
-  "deck": "PT Bakrie Swasakti Utama menggandeng empat BPR daerah untuk membiayai proyek vila premium Nirwana Villas Malioboro di kawasan Golden Triangle Yogyakarta.",
-  "date": "16 November 2026",
-  "image": "assets/img/pt-bsu-gandeng-empat-bpr-biayai-vila-premium-yogyakarta.jpg",
-  "imageV": "mwjaap2c",
-  "tags": [
-   "Bakrieland",
-   "BPR",
-   "Yogyakarta",
-   "Properti"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478667-pt-bakrie-swasakti-utama-gandeng-empat-bpr-kembangkan-properti-di-yogyakarta"
- },
- {
-  "slug": "pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak",
-  "category": "Industri",
-  "title": "Pupuk Indonesia Rancang Pabrik Amonia [Rendah Karbon] di Fakfak",
-  "deck": "Pupuk Indonesia menggandeng Topsoe dari Denmark untuk merancang pabrik amonia-urea baru di Fakfak, Papua Barat, dengan teknologi rendah emisi.",
-  "date": "16 November 2026",
-  "image": "assets/img/pupuk-indonesia-rancang-pabrik-amonia-rendah-karbon-di-fakfak.jpg",
-  "imageV": "mwj5uc12",
-  "tags": [
-   "Pupuk Indonesia",
-   "Fakfak",
-   "Amonia Rendah Karbon",
-   "Topsoe"
-  ],
-  "kreditFoto": "PT Pupuk Indonesia (Persero)",
-  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/912/pupuk-indonesia-dan-topsoe-kembangkan-proyek-amonia-rendah-karbon-untuk-memperkuat-ambisi-indonesia-di-industri-petrokimia-global",
-  "sourceLabel": "PT Pupuk Indonesia (Persero)"
- },
- {
-  "slug": "saksi-tender-pengelola-pasar-ciparay-tak-diumumkan",
-  "category": "Bisnis",
-  "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
-  "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
-  "date": "16 November 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
-  "tags": [
-   "KPPU",
-   "Pasar Ciparay",
-   "Persaingan Usaha",
-   "Kabupaten Bandung"
-  ],
-  "sourceUrl": "https://kppu.go.id/berita/sidang-kppu-dalami-transparansi-pemilihan-pengelola-revitalisasi-pasar-ciparay",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "visi-david-dwiputra-tambah-525-700-saham-hak-suara-0-0288",
-  "category": "Aksi Korporasi",
-  "title": "VISI: David Dwiputra [Tambah] 525.700 Saham, Hak Suara 0,0288%",
-  "deck": "Direksi VISI, David Dwiputra, membeli 525.700 saham tidak langsung pada 11 November 2026, menambah kepemilikannya jadi 921.700 lembar.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VISI",
-   "Satu Visi Putra",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-4442-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "aturan-baru-djp-hapus-sanksi-administratif-wajib-pajak",
-  "category": "Makroekonomi",
-  "title": "Aturan Baru DJP [Hapus] Sanksi Administratif Wajib Pajak",
-  "deck": "Ditjen Pajak menerbitkan PMK-71/2026 yang membuka fasilitas penghapusan sanksi administratif bagi wajib pajak, disosialisasikan lewat Kanwil DJP Sumatera Utara I.",
-  "date": "16 November 2026",
-  "image": "assets/img/aturan-baru-djp-hapus-sanksi-administratif-wajib-pajak.jpg",
-  "imageV": "mwj5udvz",
-  "tags": [
-   "Pajak",
-   "DJP",
-   "Sanksi Administratif",
-   "Sumatera Utara"
-  ],
-  "kreditFoto": "Direktorat Jenderal Pajak",
-  "sourceUrl": "https://pajak.go.id/id/siaran-pers/kanwil-djp-sumut-i-perkuat-sinergi-dengan-media-dan-sosialisasikan-pmk-712026-tentang",
-  "sourceLabel": "Direktorat Jenderal Pajak"
- },
- {
-  "slug": "dividen-interim-toto-rp10-per-saham-cair-15-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim TOTO Rp10 per Saham, [Cair] 15 Desember",
-  "deck": "TOTO membagikan dividen tunai interim tahun buku 2026 sebesar Rp10 per saham, total Rp103,2 miliar, dibayarkan 15 Desember 2026.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TOTO",
-   "dividen interim",
-   "Surya Toto Indonesia",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/0f8e46b6d1_494670c43e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "biif-siapkan-rp101-4-miliar-untuk-pelunasan-obligasi-6-desember",
-  "category": "Aksi Korporasi",
-  "title": "BIIF Siapkan Rp101,4 Miliar untuk [Pelunasan] Obligasi 6 Desember",
-  "deck": "Maybank Indonesia Finance (BIIF) menyatakan telah menyiapkan Rp101,4 miliar untuk melunasi pokok dan bunga obligasi yang jatuh tempo 6 Desember 2026.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIIF",
-   "Maybank Finance",
-   "obligasi",
-   "pelunasan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d0b0b81909_7d3d0c221d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmas-transaksi-afiliasi-kontrak-ti-ke-kbank-group-us-2-06-juta",
-  "category": "Aksi Korporasi",
-  "title": "BMAS [Transaksi Afiliasi]: Kontrak TI ke KBank Group US$2,06 Juta",
-  "deck": "BMAS membayar US$2,06 juta kepada tiga perusahaan afiliasi Kasikorn Group untuk jasa IT proyek sistem perbankan inti baru, dengan kontrak berlaku hingga 2036.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMAS",
-   "Transaksi Afiliasi",
-   "Core Banking System",
-   "Kasikorn Group"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ec0474d7aa_05ce16e171.pdf",
   "sourceLabel": "IDX"
  }
 ];

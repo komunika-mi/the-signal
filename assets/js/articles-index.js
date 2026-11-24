@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "nest-klarifikasi-uma-tak-ada-informasi-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "NEST Klarifikasi [UMA]: Tak Ada Informasi Material Baru",
+  "deck": "PT Esta Indonesia Tbk (NEST) menyatakan tidak ada fakta material baru yang memicu volatilitas sahamnya, menyusul surat permintaan penjelasan BEI tanggal 20 November 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NEST",
+   "UMA",
+   "BEI",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_NEST_E023A_383f3b6f-9ca1-4ccb-8443-a6dcbe157330-20261124180055.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-ades-16-desember-komisaris-utama-baru-diusulkan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB ADES 16 Desember: [Komisaris Utama] Baru Diusulkan",
+  "deck": "ADES mengajukan dua calon Komisaris baru untuk RUPSLB 16 Desember 2026, Julianto diusulkan naik jadi Presiden Komisaris merangkap Komisaris Independen.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADES",
+   "RUPSLB",
+   "Dewan Komisaris",
+   "Akasha Wira International"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADES_E019_1afc65b0-911f-442b-a739-4a6c97101324-20261124175907.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-kejar-keanggotaan-oecd-sekjen-cormann-ke-jakarta",
   "category": "Global",
   "title": "RI Kejar Keanggotaan [OECD], Sekjen Cormann ke Jakarta",
@@ -19,6 +51,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7246/percepat-keanggotaan-penuh-oecd-sekjen-oecd-kunjungi-indonesia",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "itic-refinancing-rp146-24-miliar-ke-bca-lunasi-woori-saudara",
+  "category": "Aksi Korporasi",
+  "title": "ITIC Refinancing Rp146,24 Miliar ke BCA, [Lunasi] Woori Saudara",
+  "deck": "ITIC teken perjanjian kredit baru Rp146,24 miliar dengan BCA, sebagian besar untuk melunasi utang ke Bank Woori Saudara dan sisanya modal kerja.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ITIC",
+   "refinancing",
+   "kredit bank",
+   "transaksi material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ITIC_E019_a08beba9-9e10-493b-ae9e-2f1700cd413a-20261124173952.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "xmgb-unit-penyertaan-berkurang-4-juta-jadi-45-juta-redemption",
+  "category": "Aksi Korporasi",
+  "title": "XMGB: Unit Penyertaan Berkurang 4 Juta Jadi 45 Juta [Redemption]",
+  "deck": "Reksa Dana Majoris Government Bonds ETF Indonesia melaporkan unit beredarnya turun dari 49 juta jadi 45 juta per 24 November 2026, hari kedua berturut-turut unitnya menyusut.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMGB",
+   "ETF",
+   "Reksa Dana Majoris Government Bonds",
+   "unit penyertaan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_XMGB_E019_1976d1cd-9d6b-46f8-bf61-a8077954a673-20261124173520.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupst-rupslb-elty-gagal-kuorum-kehadiran-cuma-4-9",
+  "category": "Aksi Korporasi",
+  "title": "RUPST & RUPSLB ELTY Gagal Kuorum, [Kehadiran] Cuma 4,9%",
+  "deck": "Dua rapat pemegang saham ELTY pada 17 Juni 2026 batal mengambil keputusan karena kehadiran pemegang saham cuma sekitar 4,9%, jauh di bawah syarat kuorum.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ELTY",
+   "RUPST",
+   "RUPSLB",
+   "Bakrieland Development"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ELTY_E013_704a75ec-f267-435c-a48f-1ca2a99594cf-20261124172446.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "ihsg-ditutup-menguat-0-49-persen-ke-5-241-59",
@@ -38,6 +118,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/480087-ihsg-sore-ini-ditutup-menguat-049-persen-ke-level-524159-terdorong-sektor-ai"
  },
  {
+  "slug": "dividen-interim-baik-rp1-1-per-saham-cair-22-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim BAIK Rp1,1 per Saham, [Cair] 22 Desember",
+  "deck": "BAIK membagikan dividen interim Rp1,24 miliar atau Rp1,1 per saham dari laba sembilan bulan 2026, dibayar 22 Desember.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAIK",
+   "dividen interim",
+   "aksi korporasi",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_BAIK_E007_ab90bfb5-db27-4a97-aaf8-1fcd1351ffec-20261124172327.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemenko-polkam-dan-telkom-garap-keamanan-kuantum",
   "category": "Teknologi",
   "title": "Kemenko Polkam dan Telkom Garap Keamanan [Kuantum]",
@@ -53,6 +149,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/480085-kemenko-polkam-dan-telkom-perkuat-kesiapan-keamanan-digital-hadapi-era-kuantum"
+ },
+ {
+  "slug": "post-direktur-utama-kini-m-iskandar-kunaefi-gantikan-daud-joseph",
+  "category": "Aksi Korporasi",
+  "title": "POST: [Direktur Utama] Kini M. Iskandar Kunaefi Gantikan Daud Joseph",
+  "deck": "Pos Indonesia merombak direksi dan komisaris sepanjang 2026: Daud Joseph mundur dari Direktur Utama pada Juni, digantikan M. Iskandar Kunaefi sejak 15 Juli 2026.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "POST",
+   "Pos Indonesia",
+   "Direksi",
+   "Dewan Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_POST_E036_811703be-ce9b-4aaa-9e29-08b2956b536c-20261124165253.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "kppu-tolak-saksi-terlapor-i-dalam-sidang-pasar-ciparay",
@@ -3752,15 +3864,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-inov-28-desember-dps-pemegang-saham-dicatat-3-desember",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB INOV 28 Desember: [DPS] Pemegang Saham Dicatat 3 Desember",
-  "deck": "Inocycle Technology Group (INOV) menjadwalkan RUPSLB pada 28 Desember 2026, dengan pemegang saham yang berhak hadir dicatat per 3 Desember 2026.",
+  "title": "RUPSLB INOV 28 Desember: [Divestasi] Urecel Dinilai Rp258,16 Miliar",
+  "deck": "Penilai independen menaksir pelepasan 45,8 persen saham anak usaha Urecel ke CIP Capital senilai Rp258,16 miliar dan menyatakan transaksi itu wajar, menjelang RUPSLB 28 Desember 2026.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "INOV",
    "RUPSLB",
-   "Inocycle Technology Group",
-   "pasar modal"
+   "Divestasi Urecel",
+   "Transaksi Material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d509c5935_6a086cd55e.pdf",
   "sourceLabel": "IDX"
@@ -6010,15 +6122,15 @@ var ARTICLES = [
  {
   "slug": "axio-targetkan-pendapatan-2026-rp2-18-triliun-tumbuh-34",
   "category": "Aksi Korporasi",
-  "title": "AXIO Targetkan Pendapatan 2026 Rp2,18 Triliun, [Tumbuh] 34%",
-  "deck": "Paparan publik tahunan AXIO memuat target pendapatan 2026 Rp2,18 triliun, naik 34 persen dari realisasi 2025, didukung lonjakan laba bersih sembilan bulan 2026 sebesar 74 persen.",
+  "title": "Paparan Publik AXIO 19 November: [Risiko] Agres-Asaba Disorot",
+  "deck": "Laporan hasil paparan publik tahunan AXIO merinci sesi tanya jawab: direksi mengakui risiko konsentrasi pelanggan pada Agres dan Asaba, serta menyatakan target pendapatan 2027 belum ditetapkan.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "AXIO",
-   "paparan publik",
-   "kinerja keuangan",
-   "Tera Data Indonusa"
+   "Paparan Publik",
+   "Tera Data Indonusa",
+   "Risiko Konsentrasi Pelanggan"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/67f8e79979_6d63bf7b69.pdf",
   "sourceLabel": "IDX"
@@ -6354,15 +6466,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-pzza-9m-2026-laba-bersih-naik-ke-rp17-1-miliar",
   "category": "Aksi Korporasi",
-  "title": "Public Expose PZZA 9M-2026: [Laba Bersih] Naik ke Rp17,1 Miliar",
-  "deck": "Laba bersih Sarimelati Kencana (PZZA) naik 7,6 persen jadi Rp17,1 miliar pada sembilan bulan pertama 2026, meski penjualan turun tipis dan jumlah gerai Pizza Hut menyusut jadi 576.",
+  "title": "Public Expose PZZA 19 November: [Target] 580 Gerai Desember 2026",
+  "deck": "Dalam laporan hasil paparan publik yang dihadiri 22 peserta pada 19 November 2026, manajemen Sarimelati Kencana (PZZA) memaparkan rencana menambah gerai menjadi 580 unit pada akhir Desember 2026 dan 15 gerai baru pada 2027.",
   "date": "16 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "PZZA",
-   "Sarimelati Kencana",
+   "Public Expose",
    "Pizza Hut",
-   "Public Expose"
+   "Sarimelati Kencana"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6b38af52d8_d54f73e526.pdf",
   "sourceLabel": "IDX"
@@ -6382,119 +6494,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7e08131d45_982b81a037.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "irsx-koreksi-laporan-keuangan-maret-2026-piutang-saa-rp111-8-m",
-  "category": "Aksi Korporasi",
-  "title": "IRSX Koreksi Laporan Keuangan Maret 2026: [Piutang] SAA Rp111,8 M",
-  "deck": "IRSX menjelaskan ke BEI koreksi laporan keuangan Maret 2026: piutang Rp9,58 miliar salah dicatat sebagai utang pemegang saham, piutang Rp111,8 miliar ke pihak terkait dipertanyakan.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRSX",
-   "laporan keuangan",
-   "piutang pihak berelasi",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11cf2f7826_238b6bbba7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-cuan-19-november-laba-bersih-9m26-naik-ke-us-70-juta",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose CUAN 19 November: [Progres] Proyek 680 MW 20%",
-  "deck": "Public Expose Tahunan CUAN pada 19 November dihadiri 25 peserta. Manajemen mengungkap progres konstruksi pembangkit 680 MW di Maluku Utara sudah 20 persen dan pendanaan sindikasi telah diperoleh.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CUAN",
-   "Public Expose",
-   "Pembangkit Listrik",
-   "Petrindo Jaya Kreasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/927ed4cadc_9020e19971.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "utang-luar-negeri-ri-naik-ke-us-458-9-miliar-di-triwulan-iii",
-  "category": "Moneter",
-  "title": "Utang Luar Negeri RI [Naik] ke US$458,9 Miliar di Triwulan III",
-  "deck": "Utang luar negeri Indonesia naik ke US$458,9 miliar pada triwulan III 2026, didorong kenaikan utang pemerintah sementara utang swasta justru menyusut.",
-  "date": "16 November 2026",
-  "image": "assets/img/gedung-bi.jpg",
-  "tags": [
-   "Utang Luar Negeri",
-   "APBN",
-   "Surat Utang Negara",
-   "Bank Indonesia"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825126.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "heal-yulisar-khiat-tambah-2-5-juta-saham-suara-6-56",
-  "category": "Aksi Korporasi",
-  "title": "HEAL: Yulisar Khiat [Tambah] 2,5 Juta Saham, Suara 6,56%",
-  "deck": "Direksi Medikaloka Hermina membeli 2,5 juta saham HEAL pada 12 November 2026, menaikkan hak suaranya dari 6,54% menjadi 6,56%.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HEAL",
-   "Medikaloka Hermina",
-   "kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-3951-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-srsn-8-desember-pergantian-direksi-dan-ubah-anggaran-dasar",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB SRSN 8 Desember: [Pergantian Direksi] dan Ubah Anggaran Dasar",
-  "deck": "Indo Acidatama (SRSN) menggelar RUPSLB 8 Desember 2026 membahas pergantian direksi usai pengunduran diri satu direktur, dan revisi anggaran dasar pasal kegiatan usaha sesuai KBLI 2025.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SRSN",
-   "RUPSLB",
-   "Indo Acidatama",
-   "pergantian direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6a01e48579_39e21004f1.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-trin-8-desember-pergantian-susunan-direksi-komisaris",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB TRIN 8 Desember: [Pergantian] Susunan Direksi-Komisaris",
-  "deck": "TRIN memanggil RUPSLB pada 8 Desember 2026 untuk membahas pergantian direksi/komisaris dan penyesuaian anggaran dasar ke KBLI 2025.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIN",
-   "RUPSLB",
-   "Direksi Komisaris",
-   "KBLI 2025"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e62ba353f_ec3ab34f0b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton",
-  "category": "Energi",
-  "title": "Harga Batu Bara Acuan [Naik] Lagi ke US$130,81 per Ton",
-  "deck": "Kementerian ESDM menetapkan HBA periode 15-30 November 2026 sebesar US$130,81 per ton, naik 4,15 persen dari periode sebelumnya dan 28 persen dari tahun lalu.",
-  "date": "16 November 2026",
-  "image": "assets/img/harga-batu-bara-acuan-naik-lagi-ke-us-130-81-per-ton.jpg",
-  "imageV": "mwiv8j1i",
-  "tags": [
-   "HBA",
-   "Batu Bara",
-   "ESDM",
-   "Royalti Tambang"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hba-periode-kedua-november-2026-naik-415-persen-jadi-usd-13081-per-ton",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

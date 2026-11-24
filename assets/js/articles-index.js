@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "suspensi-adhi-lanjut-24-november-gagal-bayar-kupon-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi ADHI Lanjut 24 November: [Gagal Bayar] Kupon Obligasi",
+  "deck": "ADHI menunda pembayaran bunga ke-18 obligasi Seri B dan C yang jatuh tempo 24 November 2026, BEI lanjutkan suspensi saham di seluruh pasar.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "suspensi saham",
+   "obligasi",
+   "gagal bayar"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADHI_B007_82ce797e-9e1b-4013-a309-6a9259ba5e8a-20261124121827.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mpmf-angkat-direktur-baru-sewaka-ramadhani-c-efektif-23-nov",
+  "category": "Aksi Korporasi",
+  "title": "MPMF Angkat [Direktur Baru] Sewaka Ramadhani C., Efektif 23 Nov",
+  "deck": "MPMF mengangkat Sewaka Ramadhani C. sebagai direktur baru untuk masa jabatan tiga tahun, efektif 23 November 2026, menambah susunan direksi menjadi empat orang.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPMF",
+   "Direksi",
+   "Multifinance",
+   "Keterbukaan Informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_MPMF_E019_4e06fd96-f107-454c-878d-0725ec568bb6-20261124113804.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "yoii-komisaris-independen-banua-p-sianturi-meninggal-dunia",
+  "category": "Aksi Korporasi",
+  "title": "YOII: Komisaris Independen Banua P Sianturi [Meninggal Dunia]",
+  "deck": "Komisaris Independen YOII, Banua P Sianturi, meninggal dunia pada 24 November 2026; perseroan menyatakan tidak ada dampak operasional maupun keuangan.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "YOII",
+   "Komisaris Independen",
+   "Tata Kelola Perusahaan",
+   "Asuransi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_YOII_E019_e7d67dca-1b16-439e-922c-88f57c6c2ff9-20261124113207.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obligasi-apic-tahap-i-rp1-triliun-ditawarkan-mulai-30-nov",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi APIC Tahap I: [Rp1 Triliun] Ditawarkan Mulai 30 Nov",
+  "deck": "Pacific Strategic Financial (APIC) membuka masa penawaran awal Obligasi Berkelanjutan I Tahap I senilai maksimal Rp1 triliun pada 30 November, bagian dari program senilai Rp2 triliun.",
+  "date": "24 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "APIC",
+   "obligasi",
+   "Pacific Strategic Financial",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_APIC_E019_5b2797c4-8019-42d5-a7e9-6aed9de099ed-20261124110201.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "penjualan-mobil-diproyeksi-lampaui-target-850-ribu-unit",
   "category": "Industri",
   "title": "Penjualan Mobil Diproyeksi [Lampaui] Target 850 Ribu Unit",
@@ -6440,70 +6504,6 @@ var ARTICLES = [
    "Rugi Kurs"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5cea0014e_d77a2efa60.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-jawab-bursa-lanjutan-iii-akuisisi-mti-rp0-tanggung-rp15-m",
-  "category": "Aksi Korporasi",
-  "title": "BIKE Jawab Bursa Lanjutan III: [Akuisisi] MTI Rp0, Tanggung Rp15 M",
-  "deck": "BIKE menanggapi permintaan penjelasan ketiga Bursa: akuisisi 99% saham MTI dibeli Rp0 karena liabilitasnya Rp15 miliar, serta koreksi pinjaman PMJ Rp125 miliar.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "Bursa Efek Indonesia",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cf4536c0c5_d3c9a375c6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-blta-laba-berjalan-naik-ke-us-5-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BLTA: [Laba] Berjalan Naik ke US$5,5 Juta",
-  "deck": "Dalam public expose tahunan 12 November, BLTA melaporkan laba berjalan naik jadi US$5,5 juta dari US$2,6 juta sampai kuartal III 2026, meski laba kotor justru turun.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLTA",
-   "public expose",
-   "laba bersih",
-   "rasio lancar"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/50541393ec_fd4d55f41e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smra-bentuk-usaha-patungan-mdcg-smip-kuasai-60-saham",
-  "category": "Aksi Korporasi",
-  "title": "SMRA Bentuk [Usaha Patungan] MDCG, SMIP Kuasai 60% Saham",
-  "deck": "SMIP, anak usaha SMRA, mendirikan PT Mahakarya Duta CitraGemilang bersama PT Duta Putra Mahkota dengan modal awal Rp1,5 miliar dan kepemilikan 60 persen.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRA",
-   "usaha patungan",
-   "SMIP",
-   "properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/402eef1e33_2d72df847a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "coin-teken-perjanjian-rp200-miliar-akuisisi-10-saham-mig",
-  "category": "Aksi Korporasi",
-  "title": "COIN Teken Perjanjian Rp200 Miliar: [Akuisisi] 10% Saham MIG",
-  "deck": "COIN menandatangani perjanjian pengambilan saham bersyarat senilai Rp200 miliar untuk menguasai 10 persen saham PT Mitra Informatika Gemilang.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "COIN",
-   "akuisisi",
-   "investasi",
-   "MIG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea615d3e32_3d51f4103d.pdf",
   "sourceLabel": "IDX"
  }
 ];

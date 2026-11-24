@@ -3,6 +3,163 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "suspensi-adhi-lanjut-24-november-gagal-bayar-kupon-obligasi",
+  "category": "Aksi Korporasi",
+  "title": "Suspensi ADHI Lanjut 24 November: [Gagal Bayar] Kupon Obligasi",
+  "deck": "ADHI menunda pembayaran bunga ke-18 obligasi Seri B dan C yang jatuh tempo 24 November 2026, BEI lanjutkan suspensi saham di seluruh pasar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T12:18:25",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ADHI_B007_82ce797e-9e1b-4013-a309-6a9259ba5e8a-20261124121827.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "suspensi saham",
+   "obligasi",
+   "gagal bayar"
+  ],
+  "body": [
+   "Bursa Efek Indonesia melanjutkan penghentian sementara perdagangan saham PT Adhi Karya (Persero) Tbk (ADHI) di seluruh pasar mulai sesi I perdagangan continuous auction, 24 November 2026. Suspensi ini merupakan kelanjutan dari status suspensi sebelumnya, bukan suspensi baru.",
+   "Pemicunya adalah penundaan pembayaran bunga ke-18 atas dua seri Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022, yaitu Seri B (ADHI03BCN3) dan Seri C (ADHI03CCN3), yang semestinya dibayarkan pada 24 November 2026. BEI mendasarkan keputusannya pada surat ADHI nomor SD-048/DIR/XI/2026 tertanggal 23 November 2026 soal kesiapan dana pembayaran bunga, serta surat PT Kustodian Sentral Efek Indonesia nomor KSEI-8591/DIR/1126 tertanggal 23 November 2026 yang mengonfirmasi penundaan pembayaran tersebut. Dalam pengumumannya, BEI secara eksplisit menyatakan penundaan ini mengindikasikan adanya permasalahan pada kelangsungan usaha perseroan, dan suspensi akan berlaku hingga ada pengumuman lebih lanjut dari bursa.",
+   "Kejadian ini menyusul laporan sebelumnya pada 23 November 2026 yang menyebut potensi penundaan bunga obligasi ini, serta gugatan penundaan kewajiban pembayaran utang (PKPU) dari dua kreditur ke Pengadilan Negeri Jakarta Pusat pada 17 November 2026. Dengan penundaan bunga yang kini terkonfirmasi benar terjadi, rangkaian tekanan keuangan terhadap ADHI bertambah satu bukti konkret."
+  ],
+  "fotoAdegan": "Idle construction crane and stalled building site with scaffolding, overcast sky, no workers visible",
+  "takeaway": "Laporan ini condong negatif bagi ADHI, sebab yang terjadi bukan lagi sekadar potensi seperti diberitakan sehari sebelumnya, melainkan gagal bayar bunga obligasi yang sudah terkonfirmasi lewat surat resmi KSEI. Yang tersentuh adalah arus kas, yaitu kemampuan perusahaan menyediakan uang tunai tepat waktu untuk kewajibannya, dan beban bunga pada dua seri obligasi sekaligus, yang kalau terus tertunda bisa memicu kewajiban membayar denda atau mempercepat jatuh tempo pokok utang. Pelaku pasar memperhatikan ini karena gagal bayar bunga sering jadi indikator awal perusahaan kesulitan membayar utang yang lebih besar. Yang perlu dipantau berikutnya adalah kelanjutan proses PKPU di Pengadilan Negeri Jakarta Pusat yang sudah berjalan sejak gugatan 17 November 2026, serta pengumuman BEI lanjutan yang menentukan kapan atau apakah suspensi saham ADHI bisa dicabut.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Penghentian Sementara Perdagangan Efek",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Kelanjutan suspensi perdagangan saham ADHI seluruh pasar"
+   }
+  ]
+ },
+ {
+  "slug": "mpmf-angkat-direktur-baru-sewaka-ramadhani-c-efektif-23-nov",
+  "category": "Aksi Korporasi",
+  "title": "MPMF Angkat [Direktur Baru] Sewaka Ramadhani C., Efektif 23 Nov",
+  "deck": "MPMF mengangkat Sewaka Ramadhani C. sebagai direktur baru untuk masa jabatan tiga tahun, efektif 23 November 2026, menambah susunan direksi menjadi empat orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T11:38:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_MPMF_E019_4e06fd96-f107-454c-878d-0725ec568bb6-20261124113804.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPMF",
+  "tags": [
+   "MPMF",
+   "Direksi",
+   "Multifinance",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "PT JACCS Mitra Pinasthika Mustika Finance Indonesia (MPMF) mengangkat Sewaka Ramadhani C. sebagai direktur baru perseroan untuk masa jabatan tiga tahun, efektif sejak 23 November 2026. Pengangkatan ini didasarkan pada keputusan sirkuler pemegang saham sebagai pengganti rapat umum pemegang saham luar biasa tertanggal 11 November 2026, yang dituangkan dalam akta pernyataan keputusan pemegang saham nomor 91 tanggal 17 November 2026 di hadapan notaris Hanum Megasari di Jakarta Selatan. Perubahan ini juga telah mendapat tanda terima dari Kementerian Hukum dan Hak Asasi Manusia dengan nomor AHU-AH.01.09-0437208 tertanggal 23 November 2026.",
+   "Dengan penambahan ini, susunan direksi MPMF berubah dari tiga menjadi empat orang. Sebelumnya direksi hanya terdiri dari Kazuhiro Inoue sebagai Direktur Utama, Hajimu Yukimoto sebagai Direktur Keuangan, dan Handoko sebagai Direktur. Setelah perubahan, ketiga nama itu tetap menduduki posisi masing-masing, ditambah Sewaka Ramadhani C. yang menjabat sebagai Direktur. Tidak ada perubahan pada posisi Direktur Utama maupun Direktur Keuangan.",
+   "Perseroan menyatakan bahwa kegiatan usaha dan operasional tetap berjalan seperti biasa pascaperubahan ini. MPMF bergerak di bidang pembiayaan investasi, pembiayaan modal kerja, pembiayaan multiguna, dan kegiatan pembiayaan lain berdasarkan izin dari Otoritas Jasa Keuangan. Dokumen keterbukaan ini tidak menyebut rencana perubahan strategi bisnis atau dampak keuangan apa pun dari pergantian susunan direksi tersebut."
+  ],
+  "fotoAdegan": "Interior lobby of a modern Jakarta office tower, professionals in business attire walking past glass partitions, soft daylight.",
+  "takeaway": "Laporan ini netral bagi MPMF karena isinya murni penambahan satu direktur baru, tanpa perubahan pengendali, tanpa transaksi, dan tanpa angka keuangan yang berubah. Perubahan direksi seperti ini biasanya tidak langsung menyentuh pos-pos seperti ekuitas, arus kas, beban bunga, atau laba per saham perusahaan, karena sifatnya administratif dan menyangkut tata kelola, bukan keputusan bisnis atau korporasi yang mengubah neraca. Meski begitu, pelaku pasar tetap mencatat pergantian direksi karena rekam jejak dan latar belakang direktur baru bisa memengaruhi arah kebijakan pembiayaan perusahaan ke depan. Yang perlu dipantau berikutnya adalah kinerja MPMF pada laporan keuangan kuartal mendatang, untuk melihat apakah penambahan direksi ini diikuti perubahan strategi atau kebijakan pembiayaan, mengingat dokumen ini sendiri tidak mencantumkan agenda lanjutan setelah tanggal efektif 23 November 2026.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-17",
+    "acara": "Penandatanganan akta keputusan pemegang saham No. 91"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pengangkatan direktur baru efektif"
+   }
+  ]
+ },
+ {
+  "slug": "yoii-komisaris-independen-banua-p-sianturi-meninggal-dunia",
+  "category": "Aksi Korporasi",
+  "title": "YOII: Komisaris Independen Banua P Sianturi [Meninggal Dunia]",
+  "deck": "Komisaris Independen YOII, Banua P Sianturi, meninggal dunia pada 24 November 2026; perseroan menyatakan tidak ada dampak operasional maupun keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T11:32:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_YOII_E019_e7d67dca-1b16-439e-922c-88f57c6c2ff9-20261124113207.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "YOII",
+  "tags": [
+   "YOII",
+   "Komisaris Independen",
+   "Tata Kelola Perusahaan",
+   "Asuransi"
+  ],
+  "body": [
+   "PT Asuransi Digital Bersama Tbk (YOII) menyampaikan keterbukaan informasi bahwa Komisaris Independen perseroan, Banua P Sianturi, meninggal dunia pada Selasa, 24 November 2026. Laporan diteken secara elektronik oleh Randy Tandra atas nama perseroan dan disampaikan ke Otoritas Jasa Keuangan pada hari yang sama, sesuai kewajiban keterbukaan informasi material berdasarkan POJK Nomor 31/POJK.04/2015.",
+   "Dalam surat yang ditandatangani Direktur Utama Adi Wibowo Adisaputro, perseroan menyatakan bahwa kejadian ini tidak berdampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ini masuk kategori perubahan anggota Direksi dan/atau Dewan Komisaris sebagaimana diatur POJK Nomor 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, yang mewajibkan setiap perubahan komposisi organ pengawas dilaporkan ke regulator.",
+   "Dokumen yang diterima tidak menyebutkan jadwal atau nama calon pengganti untuk mengisi kekosongan kursi Komisaris Independen tersebut. Perseroan juga belum mencantumkan keterangan lain di luar pemberitahuan wafatnya Banua P Sianturi."
+  ],
+  "fotoAdegan": "Empty boardroom chairs around a polished conference table in a modern Jakarta office tower, soft morning light through windows.",
+  "takeaway": "Peristiwa ini netral bagi fundamental YOII, karena perseroan sendiri menegaskan tidak ada dampak terhadap operasional maupun kondisi keuangan, dan kematian seorang komisaris adalah kejadian di luar kendali manajemen, bukan keputusan korporasi yang disengaja. Yang tersentuh bukan pos keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan komposisi pengawasan independen di Dewan Komisaris, padahal aturan OJK mewajibkan emiten menjaga porsi minimum komisaris independen agar fungsi pengawasan terhadap manajemen tetap berjalan. Yang perlu dipantau selanjutnya adalah apakah dan kapan perseroan mengumumkan pengganti Komisaris Independen tersebut, karena dokumen ini belum mencantumkan jadwal RUPS atau proses pengisian jabatan yang kosong.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris"
+ },
+ {
+  "slug": "obligasi-apic-tahap-i-rp1-triliun-ditawarkan-mulai-30-nov",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi APIC Tahap I: [Rp1 Triliun] Ditawarkan Mulai 30 Nov",
+  "deck": "Pacific Strategic Financial (APIC) membuka masa penawaran awal Obligasi Berkelanjutan I Tahap I senilai maksimal Rp1 triliun pada 30 November, bagian dari program senilai Rp2 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T11:02:00",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_APIC_E019_5b2797c4-8019-42d5-a7e9-6aed9de099ed-20261124110201.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "APIC",
+  "tags": [
+   "APIC",
+   "obligasi",
+   "Pacific Strategic Financial",
+   "pasar modal"
+  ],
+  "body": [
+   "Pacific Strategic Financial Tbk (APIC) menyampaikan keterbukaan informasi mengenai rencana Penawaran Umum Berkelanjutan kepada pemodal profesional lewat Obligasi Berkelanjutan I Pacific Strategic Financial, dengan target dana yang dihimpun sebesar Rp2 triliun. Sebagai tahap pertama, perseroan akan menerbitkan Obligasi Berkelanjutan I Tahap I Tahun 2026 dengan jumlah pokok sebanyak-banyaknya Rp1 triliun, terbagi dalam dua seri. Seri A bertenor 370 hari dan Seri B bertenor tiga tahun, keduanya membayar pokok secara penuh (bullet payment) saat jatuh tempo, sementara bunga dibayarkan setiap tiga bulan dengan pembayaran bunga pertama dijadwalkan 7 April 2027 dan jatuh tempo Seri A pada 17 Januari 2028 serta Seri B pada 7 Januari 2030.",
+   "Obligasi ini telah memperoleh peringkat idA (irA) dengan outlook stabil dari PT Kredit Rating Indonesia. Penjamin pelaksana emisi obligasi adalah PT Pilarmas Investindo Sekuritas, sedangkan wali amanat yang mewakili kepentingan pemegang obligasi adalah PT Bank KB Indonesia Tbk. Obligasi tidak dijamin dengan agunan khusus, tetapi dijamin dengan seluruh harta kekayaan perseroan sesuai Pasal 1131 dan 1132 KUH Perdata, dengan kedudukan pari passu tanpa hak preferen terhadap kreditur lain. Satuan perdagangan minimum di bursa ditetapkan Rp5 juta per pemesanan, dan perseroan berhak membeli kembali sebagian atau seluruh obligasi satu tahun setelah tanggal penjatahan.",
+   "Berdasarkan perkiraan jadwal dalam prospektus ringkas, masa penawaran awal berlangsung 30 November sampai 7 Desember 2026, dengan perkiraan tanggal efektif dari Otoritas Jasa Keuangan pada 23 Desember 2026. Masa penawaran umum dijadwalkan 28 Desember 2026 hingga 4 Januari 2027, diikuti penjatahan pada 5 Januari 2027, distribusi obligasi secara elektronik pada 7 Januari 2027, dan pencatatan di Bursa Efek Indonesia pada 8 Januari 2027."
+  ],
+  "fotoAdegan": "Modern glass office towers along a busy Jakarta business district avenue, traffic passing in early evening light.",
+  "takeaway": "Laporan ini netral bagi fundamental APIC, karena penerbitan obligasi adalah penambahan utang baru dengan kewajiban mengikat, bukan tanda masalah maupun perbaikan kinerja, dan besaran kupon pastinya pun belum diumumkan. Yang tersentuh adalah struktur utang dan beban bunga perseroan, obligasi hingga Rp1 triliun ini mewajibkan APIC membayar bunga setiap tiga bulan dan melunasi pokok penuh saat jatuh tempo, sehingga arus kas ke depan harus disiapkan untuk kewajiban tersebut, sementara peringkat idA dengan outlook stabil dari lembaga pemeringkat menunjukkan risiko gagal bayar dinilai masih dalam batas wajar. Penggunaan dana hasil obligasi belum dirinci dalam dokumen ini, sehingga dampaknya terhadap kinerja baru bisa dinilai setelah prospektus lengkap terbit. Yang perlu dipantau berikutnya adalah penetapan kupon dan jumlah pasti tiap seri setelah masa penawaran awal berakhir 7 Desember 2026, serta tanggal efektif dari OJK yang diperkirakan terbit 23 Desember 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Masa penawaran awal obligasi berakhir"
+   },
+   {
+    "tanggal": "2026-12-23",
+    "acara": "Perkiraan tanggal efektif dari OJK"
+   },
+   {
+    "tanggal": "2026-12-28",
+    "acara": "Masa penawaran umum obligasi dimulai"
+   },
+   {
+    "tanggal": "2027-01-04",
+    "acara": "Masa penawaran umum obligasi berakhir"
+   },
+   {
+    "tanggal": "2027-01-05",
+    "acara": "Perkiraan tanggal penjatahan obligasi"
+   },
+   {
+    "tanggal": "2027-01-07",
+    "acara": "Distribusi obligasi secara elektronik"
+   },
+   {
+    "tanggal": "2027-01-08",
+    "acara": "Perkiraan pencatatan obligasi di BEI"
+   }
+  ]
+ },
+ {
   "slug": "penjualan-mobil-diproyeksi-lampaui-target-850-ribu-unit",
   "category": "Industri",
   "title": "Penjualan Mobil Diproyeksi [Lampaui] Target 850 Ribu Unit",
@@ -64664,8 +64821,8 @@ var ARTICLES = [
  {
   "slug": "ptro-jadwalkan-rupslb-23-november-dps-29-oktober",
   "category": "Aksi Korporasi",
-  "title": "PTRO Jadwalkan RUPSLB 23 November, [DPS] 29 Oktober",
-  "deck": "Petrosea mengumumkan rencana RUPSLB pada 23 November 2026, lengkap dengan tanggal pencatatan pemegang saham dan mekanisme e-Proxy.",
+  "title": "RUPSLB PTRO 23 November: Agenda [Right Issue] 170 Juta Saham",
+  "deck": "Pemanggilan resmi RUPSLB Petrosea 23 November 2026 mengonfirmasi agenda rights issue hingga 170 juta saham baru dan persetujuan jaminan aset di atas 50 persen kekayaan bersih.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "15 Oktober 2026",
   "isoDate": "2026-10-15T11:03:21",
@@ -64675,17 +64832,46 @@ var ARTICLES = [
   "tags": [
    "PTRO",
    "RUPSLB",
-   "Petrosea",
-   "Pasar Modal"
+   "rights issue",
+   "Petrosea"
   ],
   "body": [
-   "Petrosea Tbk (PTRO) menyampaikan pemberitahuan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 23 November 2026 pukul 10.00 WIB. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) pada Kamis, 29 Oktober 2026 pukul 16.15 WIB. Pemanggilan resmi yang memuat mata acara rapat baru akan diumumkan belakangan, yaitu Jumat, 30 Oktober 2026, melalui situs Bursa Efek Indonesia, situs KSEI, dan situs www.petrosea.com. Rapat akan digelar secara fisik di Wisma Barito Pacific, Jakarta Barat, sekaligus secara elektronik lewat sistem eASY.KSEI.",
-   "Perseroan juga menjelaskan bahwa pemegang saham yang mewakili minimal 1/20 atau 5 persen dari total saham dengan hak suara dapat mengusulkan tambahan mata acara rapat. Usulan itu harus diterima direksi secara tertulis paling lambat 7 hari sebelum tanggal pemanggilan, dengan syarat diajukan beriktikad baik, mempertimbangkan kepentingan perseroan, membutuhkan persetujuan rapat, disertai alasan dan bahan usulan, serta tidak melanggar aturan atau anggaran dasar.",
-   "Untuk mekanisme kuasa, perseroan menyediakan fasilitas e-Proxy melalui eASY.KSEI yang bisa dipakai sejak tanggal pemanggilan rapat sampai satu hari sebelum pelaksanaan, yaitu Jumat, 20 November 2026 pukul 12.00 WIB. Sebagai alternatif, pemegang saham juga bisa mengunduh formulir surat kuasa dari situs perseroan dan menyerahkannya ke PT Datindo Entrycom, biro administrasi efek yang ditunjuk Petrosea. Surat pemberitahuan ini ditandatangani oleh Anto Broto, Sekretaris Perusahaan Petrosea Tbk."
+   "Petrosea Tbk (PTRO) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Senin, 23 November 2026 pukul 10.00 WIB di Wisma Barito Pacific, Jakarta Barat. Pemanggilan ini untuk pertama kalinya mengungkap dua mata acara rapat. Pertama, persetujuan rencana penambahan modal dengan memberikan hak memesan efek terlebih dahulu, yakni rights issue lewat penawaran umum terbatas, dengan rencana penerbitan sebanyak-banyaknya 170 juta saham baru bernilai nominal Rp5 per saham serta perubahan anggaran dasar terkait modal ditempatkan dan disetor perseroan. Kedua, persetujuan untuk menjaminkan aset perseroan senilai lebih dari 50 persen total kekayaan bersih, baik lewat satu transaksi maupun lebih, terkait fasilitas pendanaan perbankan yang sudah maupun akan diperoleh perseroan.",
+   "Pemegang saham yang berhak hadir atau diwakili dalam RUPSLB ini adalah yang namanya tercatat dalam Daftar Pemegang Saham pada Kamis, 29 Oktober 2026 pukul 16.15 WIB, sesuai jadwal yang sudah diumumkan sebelumnya. Rapat dapat diikuti secara fisik di lokasi, secara elektronik lewat sistem eASY.KSEI bagi pemegang saham individu lokal yang sahamnya disimpan di penitipan kolektif KSEI, atau lewat pemberian kuasa.",
+   "Dokumen pemanggilan ini juga mencantumkan batas waktu yang belum terungkap dalam pemberitaan sebelumnya, yakni penyerahan surat kuasa fisik asli kepada PT Datindo Entrycom, biro administrasi efek perseroan, paling lambat Rabu, 18 November 2026. Sementara pemberian atau perubahan kuasa elektronik lewat eASY.KSEI tetap berlaku sampai Jumat, 20 November 2026 pukul 12.00 WIB, sehari sebelum rapat digelar.",
+   "Perseroan menjelaskan bahwa pemanggilan dengan isi yang sama sebenarnya sudah disampaikan lewat sistem pelaporan lama pada 30 Oktober 2026, dan dikirim ulang karena ada reset alur pelaporan akibat migrasi sistem IDXnet. Dengan kata lain, agenda rapat ini bukan informasi yang berubah, melainkan konfirmasi resmi atas rencana rights issue dan jaminan aset yang sebelumnya baru berupa rencana tanpa rincian agenda."
   ],
   "fotoAdegan": "Wide shot of large mining haul trucks and excavators working in an open-pit site, dusty morning light, hills in background",
-  "takeaway": "Pengumuman ini sendiri netral bagi pemegang saham karena baru memuat tanggal dan tata cara rapat, belum ada mata acara resmi yang diumumkan sehingga dampaknya ke keuangan perseroan belum bisa dinilai. Yang perlu diperhatikan, RUPSLB ini terbit di hari yang sama dengan rencana penambahan 170 juta saham baru (rights issue) yang sudah diberitakan dengan dilusi sekitar 1,66 persen dari saham beredar. Kalau RUPSLB ini nantinya memang dipakai untuk meminta persetujuan rights issue tersebut, pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab tambahan saham baru membuat laba perseroan terbagi ke lebih banyak lembar saham. Yang dipantau berikutnya adalah pemanggilan resmi RUPSLB pada Jumat, 30 Oktober 2026, karena di situ baru akan terlihat agenda sebenarnya, selain batas waktu pemberian kuasa elektronik pada Jumat, 20 November 2026 pukul 12.00 WIB sebelum rapat digelar 23 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini sendiri netral bagi pemegang saham karena baru memastikan agenda rapat, bukan hasil keputusannya, sehingga belum ada perubahan nyata pada keuangan perseroan. Yang tersentuh kalau agenda rights issue disetujui adalah jumlah saham beredar dan laba per saham, sebab tambahan hingga 170 juta saham baru membuat laba perseroan terbagi ke lebih banyak lembar sehingga bagian laba tiap lembar saham berpotensi mengecil, sementara agenda jaminan aset menyangkut pos utang perseroan karena aset dijadikan agunan untuk fasilitas pinjaman bank. Yang perlu dipantau berikutnya adalah ringkasan risalah RUPSLB yang biasanya menyusul usai rapat, mengingat pertemuan sudah digelar 23 November 2026 namun hasil pemungutan suara belum termuat dalam dokumen pemanggilan ini.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T11:42:24",
+    "ringkas": "Pemanggilan resmi RUPSLB PTRO mengonfirmasi agenda rights issue hingga 170 juta saham dan persetujuan jaminan aset di atas 50 persen kekayaan bersih.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_PTRO_E002_c66f0855-ccb3-475d-8278-26472d6a7536-20261124114226.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-24T11:42:24",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-29",
+    "acara": "Batas pencatatan pemegang saham berhak hadir (DPS)"
+   },
+   {
+    "tanggal": "2026-11-18",
+    "acara": "Batas penyerahan surat kuasa fisik ke Datindo Entrycom"
+   },
+   {
+    "tanggal": "2026-11-20",
+    "acara": "Batas akhir kuasa elektronik lewat eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pelaksanaan RUPSLB"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "pertamina-patra-niaga-genjot-pemulihan-bbm-di-bali",
@@ -66164,8 +66350,8 @@ var ARTICLES = [
  {
   "slug": "asgr-jadwalkan-rupslb-pada-20-november-2026",
   "category": "Aksi Korporasi",
-  "title": "ASGR Jadwalkan [RUPSLB] pada 20 November 2026",
-  "deck": "Astra Graphia (ASGR) akan menggelar RUPSLB pada 20 November 2026 di Jakarta, dengan tenggat pengajuan usul agenda oleh pemegang saham pada 22 Oktober 2026.",
+  "title": "RUPSLB ASGR 20 November: [Dividen] Rp297 per Saham Disetujui",
+  "deck": "RUPSLB Astra Graphia (ASGR) menyetujui dividen tunai Rp297 per saham, total Rp400,59 miliar dari laba ditahan, dibayarkan 11 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "14 Oktober 2026",
   "isoDate": "2026-10-14T10:32:23",
@@ -66175,17 +66361,50 @@ var ARTICLES = [
   "tags": [
    "ASGR",
    "RUPSLB",
-   "Astra Graphia",
-   "Bursa Efek Indonesia"
+   "dividen",
+   "Astra Graphia"
   ],
   "body": [
-   "Astra Graphia Tbk (ASGR) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 20 November 2026 pukul 09.30 WIB, di Mandarin Oriental Hotel, Jakarta. Pemegang saham yang berhak hadir adalah yang tercatat dalam Daftar Pemegang Saham (DPS) per Rabu, 28 Oktober 2026 pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat akan diumumkan lewat situs web perseroan, Bursa Efek Indonesia, dan PT Kustodian Sentral Efek Indonesia (KSEI) pada Kamis, 29 Oktober 2026.",
-   "Dalam pengumuman ini, perseroan belum mengungkap agenda RUPSLB. Namun disebutkan bahwa pemegang saham yang mewakili minimal 5 persen dari total saham dengan hak suara sah dapat mengusulkan mata acara rapat secara tertulis melalui surat tercatat. Usulan itu beserta alasan dan bahan pendukungnya harus sudah diterima direksi paling lambat Kamis, 22 Oktober 2026 pukul 16.00 WIB, yakni tujuh hari kalender sebelum pemanggilan resmi dikeluarkan.",
-   "Rapat direncanakan digelar secara fisik maupun elektronik. Pemegang saham dapat hadir dan memberikan suara lewat sistem eASY.KSEI milik KSEI, atau memberikan kuasa elektronik kepada PT Raya Saham Registra, biro administrasi efek yang ditunjuk perseroan, untuk mewakili kehadiran dan pemungutan suara mereka. Pengumuman ini ditandatangani Corporate Secretary ASGR, Trivena Nalsalita, pada 14 Oktober 2026."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Astra Graphia Tbk (ASGR) yang digelar Jumat, 20 November 2026 di Hotel Mandarin Oriental, Jakarta, menyetujui penggunaan sebagian laba ditahan perseroan per 31 Desember 2025 sebesar Rp400,59 miliar untuk dibagikan sebagai dividen tunai. Nilainya setara Rp297 per saham. Keputusan ini disetujui 99,99999104 persen suara yang hadir, dengan hanya 100 saham atau 0,00000896 persen yang abstain dan tidak ada yang menolak.",
+   "Dividen akan dibayarkan pada 11 Desember 2026 kepada pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham per 2 Desember 2026 pukul 16.00 WIB. Untuk transaksi di pasar reguler dan negosiasi, saham ASGR masih mengandung hak atas dividen (cum dividen) sampai 30 November 2026, lalu berstatus tanpa hak dividen (ex dividen) mulai 1 Desember 2026. Untuk transaksi di pasar tunai, status cum dividen berlaku sampai 2 Desember 2026 dan ex dividen mulai 3 Desember 2026.",
+   "RUPSLB ini dihadiri pemegang saham yang mewakili 1.115.747.191 saham atau 82,72 persen dari seluruh saham dengan hak suara sah. Direksi diberi wewenang untuk melaksanakan pembagian dividen tersebut dengan memperhatikan ketentuan pajak dan peraturan pasar modal yang berlaku.",
+   "Rencana penyelenggaraan RUPSLB ini pertama diumumkan ASGR pada 14 Oktober 2026, saat itu perseroan baru mengumumkan jadwal rapat tanpa mengungkap agendanya. Agenda yang akhirnya dibahas dan disetujui dalam rapat adalah penetapan penggunaan sebagian laba ditahan untuk dibagikan sebagai dividen tunai ini."
   ],
   "fotoAdegan": "Hotel ballroom staff arranging rows of chairs and a stage before a corporate event, soft morning light through tall windows",
-  "takeaway": "Pengumuman ini netral bagi kinerja ASGR karena baru memberitahukan rencana dan jadwal RUPSLB, belum membuka agenda rapat yang sebenarnya menentukan dampaknya ke bisnis. Begitu agenda terungkap nanti, pos kinerja yang tersentuh tergantung keputusan rapat, misalnya jumlah saham beredar kalau agendanya soal aksi korporasi terkait modal, atau arus kas kalau agendanya soal pembagian dividen. Pemegang saham yang menguasai minimal 5 persen saham berhak mengusulkan topik rapat, tapi usulan itu wajib sampai ke direksi paling lambat 22 Oktober 2026 pukul 16.00 WIB. Yang perlu dipantau selanjutnya adalah pemanggilan resmi RUPSLB pada 29 Oktober 2026, karena di situlah agenda lengkap baru akan diumumkan, sebelum rapat berlangsung pada 20 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Keputusan RUPSLB ini condong positif bagi pemegang saham ASGR karena perseroan membagikan dividen tunai Rp400,59 miliar, setara Rp297 per saham, yang berarti ada aliran uang nyata yang akan masuk ke rekening pemegang saham dari laba yang selama ini ditahan perseroan. Pos kinerja yang tersentuh adalah ekuitas dan arus kas: laba ditahan yang menjadi bagian dari modal perseroan akan berkurang sebesar nilai dividen begitu dibayarkan, sementara kas keluar dalam jumlah yang sama pada tanggal pembayaran. Dukungan hampir bulat pemegang saham dalam pemungutan suara, 99,99999104 persen setuju, menunjukkan tidak ada keberatan berarti atas penggunaan dana ini. Yang perlu dipantau selanjutnya adalah batas Daftar Pemegang Saham pada 2 Desember 2026 pukul 16.00 WIB yang menentukan siapa berhak menerima dividen, serta tanggal pembayaran sesungguhnya pada 11 Desember 2026.",
+  "sentimen": "positif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-24T11:06:49",
+    "ringkas": "RUPSLB ASGR menyetujui dividen tunai Rp297 per saham, total Rp400,59 miliar, dibayarkan 11 Desember 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ASGR_E013_aeb7fcd8-753b-4290-afcd-93ed58192da2-20261124110650.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-24T11:06:49",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Cum dividen di pasar tunai dan recording date dividen"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Pembayaran dividen tunai"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bni-bukukan-penjualan-agunan-rp510-77-miliar",

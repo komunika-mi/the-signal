@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "Jp9tnTeRkUA",
+  "title": "Peluang dan Tantangan Ekonomi RI 2027",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Pertumbuhan ekonomi Indonesia 2027 diproyeksikan 5,1 persen hingga di atas 6 persen, meski tertekan nilai tukar rupiah, suku bunga global, dan kebutuhan perbaikan iklim investasi.",
+  "takeaway": "Proyeksi ini relevan bagi pembaca karena menggambarkan arah kebijakan fiskal dan moneter pemerintah dalam menghadapi tekanan eksternal tahun depan.",
+  "terbit": "2026-11-06T14:57:07+00:00"
+ },
+ {
   "id": "MuAOIrcTjSY",
   "title": "Petani Tebu Gelar Aksi Unjuk Rasa di Kantor Kejati Lampung",
   "category": "Industri",

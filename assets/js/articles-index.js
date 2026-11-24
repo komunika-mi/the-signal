@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "penjualan-mobil-diproyeksi-lampaui-target-850-ribu-unit",
+  "category": "Industri",
+  "title": "Penjualan Mobil Diproyeksi [Lampaui] Target 850 Ribu Unit",
+  "deck": "GAIKINDO memproyeksikan penjualan mobil nasional 2026 melampaui target 850 ribu unit, didorong pertumbuhan penjualan domestik dua digit sepanjang Januari-Oktober.",
+  "date": "24 November 2026",
+  "image": "assets/img/penjualan-mobil-diproyeksi-lampaui-target-850-ribu-unit.jpg",
+  "imageV": "mwu5jhat",
+  "tags": [
+   "otomotif",
+   "GAIKINDO",
+   "penjualan mobil",
+   "ekspor otomotif"
+  ],
+  "kreditFoto": "Gabungan Industri Kendaraan Bermotor Indonesia",
+  "sourceUrl": "https://www.gaikindo.or.id/permata-bank-gaikindo-auto-week-2026-kebut-penjualan-mobil-di-akhir-tahun/",
+  "sourceLabel": "Gabungan Industri Kendaraan Bermotor Indonesia"
+ },
+ {
+  "slug": "kppu-sulsel-awasi-tarif-transportasi-jelang-nataru",
+  "category": "Bisnis",
+  "title": "KPPU Sulsel Awasi Tarif Transportasi Jelang [Nataru]",
+  "deck": "KPPU Makassar berkoordinasi dengan Dishub Sulsel dan sejumlah instansi transportasi untuk mencegah pengaturan tarif saat lonjakan permintaan Natal dan Tahun Baru.",
+  "date": "24 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "KPPU",
+   "Transportasi",
+   "Nataru",
+   "Sulawesi Selatan"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-makassar-kawal-persaingan-sehat-di-sektor-transportasi-jelang-nataru",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "bank-bjb-juara-umum-fkijk-jabar-2026",
+  "category": "Perbankan",
+  "title": "bank bjb [Juara Umum] FKIJK Jabar 2026",
+  "deck": "bank bjb memborong tujuh penghargaan dan menyabet gelar juara umum FOBS FKIJK Jawa Barat 2026, hasil kontingen 90 pegawai di cabang olahraga, seni, dan budaya.",
+  "date": "24 November 2026",
+  "image": "assets/img/bank-bjb-juara-umum-fkijk-jabar-2026.jpg",
+  "imageV": "mwu5jhpp",
+  "tags": [
+   "bank bjb",
+   "FKIJK Jabar 2026",
+   "OJK Jawa Barat",
+   "perbankan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480002-borong-7-penghargaan-bank-bjb-raih-juara-umum-fkijk-jabar-2026"
+ },
+ {
   "slug": "suspensi-inps-dicabut-24-november-perdagangan-dibuka-lagi",
   "category": "Aksi Korporasi",
   "title": "Suspensi INPS Dicabut 24 November, [Perdagangan] Dibuka Lagi",
@@ -3429,7 +3480,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -3642,7 +3693,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -4690,7 +4741,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4969,7 +5020,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -6454,56 +6505,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ea615d3e32_3d51f4103d.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru",
-  "category": "Bisnis",
-  "title": "KPPU Yogyakarta [Awasi] Rantai Pangan Jelang Nataru",
-  "deck": "KPPU Yogyakarta memperkuat koordinasi dengan Disperindag DIY untuk mengawasi rantai distribusi pangan dan mencegah praktik usaha tidak sehat menjelang Natal dan Tahun Baru 2027.",
-  "date": "15 November 2026",
-  "image": "assets/img/kppu-yogyakarta-awasi-rantai-pangan-jelang-nataru.jpg",
-  "imageV": "mwgo6fxn",
-  "tags": [
-   "KPPU",
-   "Pangan",
-   "Yogyakarta",
-   "Nataru"
-  ],
-  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
-  "sourceUrl": "https://kppu.go.id/berita/kppu-yogyakarta-perkuat-pengawasan-persaingan-jaga-stabilitas-pangan-jelang-nataru",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "petrokimia-gresik-pamer-dekarbonisasi-pupuk-di-cop31",
-  "category": "BUMN",
-  "title": "Petrokimia Gresik Pamer [Dekarbonisasi] Pupuk di COP31",
-  "deck": "Petrokimia Gresik memaparkan strategi dekarbonisasi dari pabrik hingga lahan petani di forum iklim COP31 Turkiye, termasuk potensi pemangkasan emisi lewat pemupukan berimbang.",
-  "date": "14 November 2026",
-  "image": "assets/img/petrokimia-gresik-pamer-dekarbonisasi-pupuk-di-cop31.jpg",
-  "imageV": "mwgo6gci",
-  "tags": [
-   "dekarbonisasi",
-   "petrokimia gresik",
-   "cop31 turkiye",
-   "pupuk berimbang"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478397-tampil-di-cop31-petrokimia-gresik-perluas-dekarbonisasi-hingga-ke-lahan-petani"
- },
- {
-  "slug": "indonesia-teken-asean-defa-tunggu-ratifikasi-untuk-berlaku",
-  "category": "Global",
-  "title": "Indonesia Teken ASEAN DEFA, Tunggu [Ratifikasi] untuk Berlaku",
-  "deck": "Seluruh negara ASEAN menandatangani ASEAN DEFA di Manila. Indonesia kini menyiapkan ratifikasi dan regulasi domestik sebelum perjanjian ekonomi digital kawasan ini berlaku penuh.",
-  "date": "14 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
-  "tags": [
-   "ASEAN DEFA",
-   "ekonomi digital",
-   "QRIS",
-   "UMKM"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7225/asean-defa-mesin-baru-pertumbuhan-ekonomi-indonesia-dorong-potensi-ekonomi-digital-asean-capai-usd2-triliun-pada-2030",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

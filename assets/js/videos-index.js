@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "Jp9tnTeRkUA",
+  "title": "Peluang dan Tantangan Ekonomi RI 2027",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Pertumbuhan ekonomi Indonesia 2027 diproyeksikan 5,1 persen hingga di atas 6 persen, meski tertekan nilai tukar rupiah, suku bunga global, dan kebutuhan perbaikan iklim investasi.",
+  "takeaway": "Proyeksi ini relevan bagi pembaca karena menggambarkan arah kebijakan fiskal dan moneter pemerintah dalam menghadapi tekanan eksternal tahun depan."
+ },
+ {
   "id": "MuAOIrcTjSY",
   "title": "Petani Tebu Gelar Aksi Unjuk Rasa di Kantor Kejati Lampung",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Gelombang serangan siber global menghantam sektor keuangan di berbagai negara, dari Prancis hingga Taiwan, sementara data Fortinet mencatat lonjakan aktivitas serangan siber di Indonesia.",
   "takeaway": "Isu ini penting bagi pembaca ekonomi karena menyangkut risiko keamanan sistem keuangan yang bisa berdampak pada stabilitas sektor perbankan dan kepercayaan pasar."
- },
- {
-  "id": "VerUaedTk1I",
-  "title": "BSSN: Serangan Siber Rutin Terjadi, Keamanan Perbankan Tetap Aman",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "Juru bicara BSSN menjelaskan bahwa serangan siber terhadap sektor keuangan memang kerap terjadi, namun hal itu tidak berarti sistem keamanan perbankan Indonesia rentan.",
-  "takeaway": "Penjelasan otoritas siber ini relevan bagi pembaca ekonomi untuk menilai sejauh mana risiko nyata serangan siber terhadap industri perbankan nasional."
  }
 ];

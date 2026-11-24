@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-24T08:52:37.835+07:00",
+ "diperbarui": "2026-11-25T06:39:30.179+07:00",
  "entri": [
+  {
+   "id": "2026-11-24-3",
+   "edisi": "2026-11-24",
+   "benang": "Mesin Ekspor Bergeser dari Barang Jadi ke Komponen",
+   "klaim": "Konsumsi domestik dan rantai pasok komponen menggantikan ekspor barang jadi sebagai mesin utama pertumbuhan, menggeser pendorong ekspor dari barang jadi ke komponen.",
+   "penanda": "Data ekspor Oktober dari BPS, khususnya rincian ekspor kendaraan versus komponen",
+   "tenggat": "2026-12-10",
+   "tenggatLabel": "data ekspor Oktober dari BPS yang terbit awal Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-24-2",
+   "edisi": "2026-11-24",
+   "benang": "Tiga Jalur Dagang Global Menuju Tenggat 2027",
+   "klaim": "Tiga jalur dagang global ini menunjuk ke arah yang sama, yaitu tumpukan tenggat integrasi ekonomi global yang jatuh hampir bersamaan di awal 2027.",
+   "penanda": "Jadwal ratifikasi CEPA di parlemen Eropa dan hasil konkret kunjungan Sekjen OECD Mathias Cormann ke Jakarta",
+   "tenggat": "2026-11-26",
+   "tenggatLabel": "hasil konkret kunjungan Cormann pekan ini (25-26 November)",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-24-1",
+   "edisi": "2026-11-24",
+   "benang": "Utang Emiten Terbelah: Gagal Bayar vs Lunas Dini",
+   "klaim": "Arah tekanan utang emiten bukan krisis yang merata, melainkan jurang yang melebar antara emiten dengan arus kas sehat dan yang kian tersudut.",
+   "penanda": "Apakah ADHI mengajukan proposal restrukturisasi formal atau menyusul ke PKPU sebelum kupon berikutnya jatuh tempo",
+   "tenggat": null,
+   "tenggatLabel": "sebelum kupon berikutnya jatuh tempo",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-23-3",
    "edisi": "2026-11-23",
@@ -1595,8 +1628,13 @@ var RAPOR = {
    "penanda": "Realisasi konkret seperti revisi aturan Pertek atau hasil kunjungan Presiden Komisi Eropa Ursula von der Leyen",
    "tenggat": "2026-11-01",
    "tenggatLabel": "akhir Oktober hingga awal November",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7",
+    "judul": "Indonesia-Uni Eropa Teken CEPA, Ekspor Diproyeksi Naik 30,7%",
+    "tanggal": "24 November 2026",
+    "alasan": "Artikel ini mengonfirmasi realisasi konkret perluasan akses pasar ekspor lewat IEU-CEPA karena perjanjian sudah diteken dengan target bea masuk ke Uni Eropa untuk tekstil dan produk lain turun ke nol persen."
+   }
   },
   {
    "id": "2026-09-22-2",

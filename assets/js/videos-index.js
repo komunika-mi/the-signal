@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "MuAOIrcTjSY",
+  "title": "Petani Tebu Gelar Aksi Unjuk Rasa di Kantor Kejati Lampung",
+  "category": "Industri",
+  "program": "Kabar Pagi",
+  "summary": "Ribuan petani tebu yang bermitra dengan PT Pemuka Sakti Manis Indah (PSMI) berunjuk rasa di depan Kantor Kejaksaan Tinggi Lampung, mendesak penegak hukum menindaklanjuti sengketa dengan perusahaan tersebut.",
+  "takeaway": "Aksi ini mencerminkan ketegangan antara petani tebu dan mitra industrinya, yang berpotensi mempengaruhi pasokan bahan baku gula di daerah tersebut."
+ },
+ {
   "id": "c9TOyeM9G30",
   "title": "Tekanan Ekonomi AS Dinilai Lebih Berat bagi Iran Dibanding Serangan Rudal",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Juru bicara BSSN menjelaskan bahwa serangan siber terhadap sektor keuangan memang kerap terjadi, namun hal itu tidak berarti sistem keamanan perbankan Indonesia rentan.",
   "takeaway": "Penjelasan otoritas siber ini relevan bagi pembaca ekonomi untuk menilai sejauh mana risiko nyata serangan siber terhadap industri perbankan nasional."
- },
- {
-  "id": "C-EAC4dw8gQ",
-  "title": "Literasi Digital Rendah, Masyarakat Jadi Sasaran Kejahatan Siber",
-  "category": "Teknologi",
-  "program": "Indonesia Business Forum",
-  "summary": "Rendahnya literasi digital membuat masyarakat Indonesia rentan menjadi sasaran kejahatan siber, di tengah gelombang serangan yang kini menghantam sektor keuangan global.",
-  "takeaway": "Relevan bagi pembaca karena literasi digital yang lemah berpotensi memperbesar risiko keamanan sistem keuangan nasional."
  }
 ];

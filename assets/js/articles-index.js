@@ -5,6 +5,58 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7",
+  "category": "Global",
+  "title": "Indonesia-Uni Eropa Teken [CEPA], Ekspor Diproyeksi Naik 30,7%",
+  "deck": "Kemendag memproyeksikan ekspor ke Uni Eropa naik hingga US$5,78 miliar per tahun setelah I-EU CEPA diteken, dengan implementasi ditargetkan mulai 1 Januari 2027.",
+  "date": "24 November 2026",
+  "image": "assets/img/indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7.jpg",
+  "imageV": "mwuqxsvy",
+  "tags": [
+   "I-EU CEPA",
+   "Ekspor",
+   "Uni Eropa",
+   "Kementerian Perdagangan"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-ke-uni-eropa-diproyeksi-bertambah-usd-3-5-miliar-setahun",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bni-raih-penghargaan-transformasi-perbankan-di-usia-80-tahun",
+  "category": "Perbankan",
+  "title": "BNI Raih Penghargaan [Transformasi] Perbankan di Usia 80 Tahun",
+  "deck": "BNI menerima penghargaan Transformasi Perbankan dari detikcom Awards 2026, bertepatan dengan usianya yang menginjak 80 tahun.",
+  "date": "24 November 2026",
+  "image": "assets/img/bni-raih-penghargaan-transformasi-perbankan-di-usia-80-tahun.jpg",
+  "imageV": "mwuqxtaf",
+  "tags": [
+   "BNI",
+   "transformasi digital",
+   "wondr by BNI",
+   "BNIdirect"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480120-80-tahun-mengabdi-bni-raih-penghargaan-transformasi-perbankan"
+ },
+ {
+  "slug": "telkom-raih-platinum-award-lacp-2025-untuk-laporan-tahunan",
+  "category": "BUMN",
+  "title": "Telkom Raih [Platinum Award] LACP 2025 untuk Laporan Tahunan",
+  "deck": "Annual Report Telkom 2025 meraih Platinum Award kategori telekomunikasi dan masuk Top 100 Reports Worldwide di ajang LACP 2025 Vision Awards.",
+  "date": "24 November 2026",
+  "image": "assets/img/telkom-raih-platinum-award-lacp-2025-untuk-laporan-tahunan.jpg",
+  "imageV": "mwuqxtpy",
+  "tags": [
+   "telkom",
+   "telkom indonesia",
+   "LACP 2025",
+   "laporan tahunan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480116-telkom-kembali-raih-platinum-award-lacp-2025-untuk-annual-report"
+ },
+ {
   "slug": "nest-klarifikasi-uma-tak-ada-informasi-material-baru",
   "category": "Aksi Korporasi",
   "title": "NEST Klarifikasi [UMA]: Tak Ada Informasi Material Baru",
@@ -6445,54 +6497,6 @@ var ARTICLES = [
    "pinjaman"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/119287e022_17162b6a72.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-drma-19-november-laba-bersih-9m26-naik-13-9",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose DRMA 19 Nov: Laba 9M26 [Tertekan] Kurs dan Bahan Baku",
-  "deck": "Hasil Public Expose DRMA 19 November: laba bersih 9M26 tertekan kurs dolar AS dan harga bahan baku, meski ekspor dan pasokan komponen EV ke BYD terus tumbuh.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DRMA",
-   "Public Expose",
-   "Dharma Polimetal",
-   "Kinerja Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c100041e6b_034b88ad82.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-pzza-9m-2026-laba-bersih-naik-ke-rp17-1-miliar",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose PZZA 19 November: [Target] 580 Gerai Desember 2026",
-  "deck": "Dalam laporan hasil paparan publik yang dihadiri 22 peserta pada 19 November 2026, manajemen Sarimelati Kencana (PZZA) memaparkan rencana menambah gerai menjadi 580 unit pada akhir Desember 2026 dan 15 gerai baru pada 2027.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PZZA",
-   "Public Expose",
-   "Pizza Hut",
-   "Sarimelati Kencana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6b38af52d8_d54f73e526.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-wins-rp5-per-saham-cair-11-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim WINS Rp5 per Saham, [Cair] 11 Desember",
-  "deck": "WINS menjadwalkan dividen tunai interim Rp5 per saham, total Rp22,3 miliar, dibayar 11 Desember 2026.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WINS",
-   "dividen interim",
-   "Wintermar Offshore Marine",
-   "jadwal dividen"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7e08131d45_982b81a037.pdf",
   "sourceLabel": "IDX"
  }
 ];

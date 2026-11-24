@@ -3,6 +3,86 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7",
+  "category": "Global",
+  "title": "Indonesia-Uni Eropa Teken [CEPA], Ekspor Diproyeksi Naik 30,7%",
+  "deck": "Kemendag memproyeksikan ekspor ke Uni Eropa naik hingga US$5,78 miliar per tahun setelah I-EU CEPA diteken, dengan implementasi ditargetkan mulai 1 Januari 2027.",
+  "image": "assets/img/indonesia-uni-eropa-teken-cepa-ekspor-diproyeksi-naik-30-7.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T13:39:06.062Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-ke-uni-eropa-diproyeksi-bertambah-usd-3-5-miliar-setahun",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "I-EU CEPA",
+   "Ekspor",
+   "Uni Eropa",
+   "Kementerian Perdagangan"
+  ],
+  "body": [
+   "Kementerian Perdagangan memproyeksikan ekspor Indonesia ke Uni Eropa bisa bertambah US$3,82 miliar hingga US$5,78 miliar per tahun selama lima tahun ke depan, seiring implementasi Persetujuan Kemitraan Ekonomi Komprehensif Indonesia-Uni Eropa (I-EU CEPA). Proyeksi ini disampaikan Menteri Perdagangan Budi Santoso dalam acara sosialisasi I-EU CEPA di Jakarta, Selasa (24/11), tiga hari setelah perjanjian tersebut diteken di Brussels, Belgia, pada Sabtu (21/11). Pemerintah menargetkan I-EU CEPA mulai berlaku 1 Januari 2027, dan pada tahun pertama penerapannya ekspor ke Uni Eropa diperkirakan melonjak 30,70 persen menjadi US$25,39 miliar, lebih tinggi dibandingkan proyeksi tanpa perjanjian ini yang sebesar US$19,61 miliar.",
+   "Begitu berlaku, 90,42 persen pos tarif ekspor Indonesia ke Uni Eropa langsung dibebaskan menjadi nol persen, mencakup 96,31 persen dari total nilai ekspor Indonesia ke kawasan itu. Produk yang langsung menikmati bea nol persen antara lain minyak kelapa sawit dan turunannya, karet, tekstil dan pakaian jadi, serta alas kaki, disusul mayoritas produk kopi, kakao, perikanan, komponen elektronik, besi baja, serta kayu dan furnitur. Sisanya, 7,92 persen pos tarif, dihapuskan secara bertahap dalam rentang 3 sampai 15 tahun setelah perjanjian berlaku, sehingga total pos tarif yang dibebaskan mencapai 98,35 persen, dengan 44 pos tarif di antaranya memperoleh tarif preferensi dalam batas kuota tertentu.",
+   "Di luar proyeksi tersebut, data perdagangan terbaru menunjukkan surplus Indonesia terhadap Uni Eropa pada Januari-September 2026 sebesar US$3,06 miliar, turun 46,61 persen dibandingkan periode yang sama tahun 2025 yang mencapai US$5,73 miliar. Penurunan ini dipicu oleh impor minyak dan gas dari Uni Eropa yang melonjak 521,53 persen serta impor nonmigas yang naik 28,37 persen, sementara nilai ekspor Indonesia ke kawasan itu hanya tumbuh 0,17 persen. Mendag Busan menyebut lonjakan impor migas ini terkait gangguan pasokan akibat situasi di Selat Hormuz, yang mendorong Indonesia mencari sumber pasokan migas alternatif, termasuk dari Uni Eropa.",
+   "Pada 2025, sekitar 57 persen ekspor Indonesia ke Uni Eropa masih terkonsentrasi di tiga negara, yakni Belanda, Italia, dan Jerman, sementara pasar di 24 negara anggota lain seperti Polandia, Swedia, Denmark, Republik Ceko, Austria, Irlandia, Rumania, dan Finlandia dinilai masih terbuka untuk digarap. Untuk mendukung pemanfaatan perjanjian ini, Kemendag mengandalkan jaringan 46 perwakilan dagang di 33 negara, termasuk 7 atase perdagangan dan 4 Indonesia Trade Promotion Center di Uni Eropa, serta memperluas otomatisasi penerbitan Surat Keterangan Asal elektronik (e-SKA) yang menentukan tarif preferensi secara otomatis. Sebagai gambaran hasil otomatisasi ini di pasar lain, porsi penerbitan SKA preferensi untuk ekspor ke Uni Emirat Arab naik dari 44 persen menjadi 95 persen dan ke Hong Kong dari 5 persen menjadi 31 persen, sementara jumlah dokumen SKA ke Tiongkok naik dari 22.798 menjadi 104.002, ke Jepang dari 14.537 menjadi 66.991, dan ke Korea Selatan dari 11.437 menjadi 51.775 dokumen."
+  ],
+  "fotoAdegan": "Workers stacking palm oil and rubber export pallets near a cargo ship at a busy Indonesian seaport, cranes overhead, daylight",
+  "fotoSumber": "https://www.kemendag.go.id/albums/gDf328SAkzCiL6U92Uscl4i2nxOBCoAGExdh60Fr.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang benar-benar baru di sini baru proyeksi di atas kertas: pemerintah menargetkan bea masuk ke Uni Eropa untuk produk seperti sawit, karet, tekstil, dan alas kaki turun jadi nol persen mulai 1 Januari 2027, hanya sekitar enam minggu setelah perjanjian ditandatangani. Jeda itu sangat singkat untuk ukuran perjanjian dagang, yang biasanya masih perlu disahkan parlemen Uni Eropa dan terkadang parlemen tiap negara anggotanya, proses yang lazimnya makan waktu berbulan-bulan. Ada dua kemungkinan arah dari sini, kalau ratifikasi rampung sesuai target, eksportir sawit, karet, tekstil, dan alas kaki mulai menikmati bea nol persen awal 2027 seperti diproyeksikan Kemendag, tapi kalau molor, lonjakan ekspor 30,7 persen yang disebutkan baru terasa belakangan. Kabar proses ratifikasi dari parlemen Uni Eropa dalam beberapa minggu mendatang akan jadi penentu arah mana yang terjadi. Terlepas dari proyeksi itu, data dagang terkini justru menunjukkan surplus Indonesia ke Uni Eropa menyusut karena pembelian migas dari Eropa melonjak akibat gangguan pasokan di Selat Hormuz, jadi upaya membuka pasar ekspor baru ini berjalan beriringan dengan Indonesia yang juga mencari sumber energi pengganti di luar jalur Hormuz.",
+  "imageV": "mwuqxsvy"
+ },
+ {
+  "slug": "bni-raih-penghargaan-transformasi-perbankan-di-usia-80-tahun",
+  "category": "Perbankan",
+  "title": "BNI Raih Penghargaan [Transformasi] Perbankan di Usia 80 Tahun",
+  "deck": "BNI menerima penghargaan Transformasi Perbankan dari detikcom Awards 2026, bertepatan dengan usianya yang menginjak 80 tahun.",
+  "image": "assets/img/bni-raih-penghargaan-transformasi-perbankan-di-usia-80-tahun.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T19:43:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480120-80-tahun-mengabdi-bni-raih-penghargaan-transformasi-perbankan",
+  "tags": [
+   "BNI",
+   "transformasi digital",
+   "wondr by BNI",
+   "BNIdirect"
+  ],
+  "body": [
+   "PT Bank Negara Indonesia (Persero) Tbk menerima penghargaan bertajuk Keunggulan Transformasi Perbankan untuk Kemajuan Negeri dalam ajang detikcom Awards 2026 yang berlangsung di The Westin Jakarta, Kamis, 19 November 2026. Penghargaan ini diserahkan kepada Corporate Secretary BNI, Okki Rushartomo, sebagai pengakuan atas upaya bank pelat merah tersebut mengembangkan layanan keuangan dan menyesuaikan strategi bisnis dengan kebutuhan masyarakat maupun dunia usaha.",
+   "Momentum ini jatuh bersamaan dengan usia BNI yang menginjak 80 tahun. Dalam implementasinya, BNI membangun dua jalur layanan digital yang berbeda sasaran: wondr by BNI untuk kebutuhan finansial nasabah perorangan, dan BNIdirect untuk transaksi serta pengelolaan keuangan nasabah korporasi. Pengembangan kedua layanan ini disertai penguatan tata kelola perusahaan dan manajemen risiko, yakni aturan dan pengawasan internal yang menjaga agar operasional bank tetap aman dan hati-hati di tengah ekspansi digital.",
+   "Okki Rushartomo menyampaikan bahwa penghargaan tersebut menjadi apresiasi atas perjalanan transformasi BNI sekaligus pendorong untuk terus merespons perkembangan industri keuangan. \"Penghargaan ini menjadi apresiasi atas perjalanan dan upaya transformasi BNI dalam menghadirkan layanan perbankan yang semakin relevan dengan kebutuhan masyarakat. Bagi kami, transformasi bukan semata tentang pemanfaatan teknologi, tetapi juga bagaimana memastikan setiap inovasi mampu memberikan manfaat nyata, memperkuat kepercayaan, serta mendukung perekonomian nasional,\" ujar Okki dalam keterangan tertulis."
+  ],
+  "fotoAdegan": "Wide shot of a contemporary bank lobby in Jakarta with customers tapping smartphones near service counters, teller staff in uniform, bright natural light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b05861512cb3-80-tahun-mengabdi-bni-raih-penghargaan-transformasi-perbankan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini bukan aturan atau kebijakan, melainkan penegasan strategi BNI menjelang usia 80 tahun: bank ini memisahkan layanan digitalnya menjadi dua jalur, wondr by BNI untuk nasabah perorangan dan BNIdirect untuk urusan keuangan perusahaan, sambil memperkuat tata kelola dan manajemen risikonya. Pihak yang paling terkait adalah nasabah ritel pengguna wondr dan nasabah korporasi pengguna BNIdirect, karena merekalah yang akan merasakan langsung apakah transformasi ini benar memudahkan transaksi mereka atau sekadar nama baru untuk layanan lama. Berita ini sendiri adalah pengumuman penghargaan, bukan laporan kinerja, sehingga belum ada angka jumlah pengguna, nilai transaksi, atau kontribusi dua layanan digital itu terhadap pendapatan BNI yang bisa dipakai membaca arah bisnisnya. Yang perlu dicermati adalah laporan keuangan BNI pada periode mendatang, karena di sanalah akan terlihat apakah wondr dan BNIdirect benar mendongkrak jumlah nasabah dan transaksi, atau baru sebatas klaim transformasi.",
+  "imageV": "mwuqxtaf"
+ },
+ {
+  "slug": "telkom-raih-platinum-award-lacp-2025-untuk-laporan-tahunan",
+  "category": "BUMN",
+  "title": "Telkom Raih [Platinum Award] LACP 2025 untuk Laporan Tahunan",
+  "deck": "Annual Report Telkom 2025 meraih Platinum Award kategori telekomunikasi dan masuk Top 100 Reports Worldwide di ajang LACP 2025 Vision Awards.",
+  "image": "assets/img/telkom-raih-platinum-award-lacp-2025-untuk-laporan-tahunan.jpg",
+  "date": "24 November 2026",
+  "isoDate": "2026-11-24T19:33:43+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480116-telkom-kembali-raih-platinum-award-lacp-2025-untuk-annual-report",
+  "tags": [
+   "telkom",
+   "telkom indonesia",
+   "LACP 2025",
+   "laporan tahunan"
+  ],
+  "body": [
+   "PT Telkom Indonesia (Persero) Tbk kembali menerima pengakuan internasional atas laporan tahunannya. Kali ini lewat Platinum Award untuk kategori telekomunikasi dalam League of American Communications Professionals (LACP) 2025 Vision Awards Annual Report Competition. Laporan tahunan Telkom juga masuk dalam jajaran Top 100 Reports Worldwide, sebuah pencapaian yang relevan bagi publik karena Telkom adalah salah satu BUMN terbuka terbesar di Bursa Efek Indonesia, dan kualitas laporan tahunannya menjadi salah satu rujukan bagi investor untuk menilai transparansi perusahaan.",
+   "LACP Vision Awards adalah kompetisi laporan tahunan yang melibatkan perusahaan dan organisasi dari berbagai negara dan sektor industri. Penilaiannya mencakup pesan utama, narasi, desain, penyajian informasi, hingga kualitas komunikasi secara keseluruhan. Annual Report Telkom 2025 sendiri mengusung tema 'Reinventing the Core to Shape Indonesia's Digital Future', yang menggambarkan arah perusahaan memperkuat bisnis inti sambil mendorong transformasi digital.",
+   "Dalam laporan tersebut, Telkom memaparkan kinerja perusahaan, strategi bisnis, perjalanan transformasi, penerapan tata kelola, serta kontribusinya pada ekosistem digital nasional. Senior Vice President Corporate Secretary Telkom, E. Kurniawan, menyebut penghargaan ini sebagai hasil kolaborasi berbagai pihak dalam menyusun laporan yang informatif, transparan, dan mampu merepresentasikan kinerja serta arah strategis perusahaan. 'Ke depan, kami akan terus meningkatkan kualitas pelaporan korporat sebagai bagian dari upaya menjaga kepercayaan dan menciptakan nilai jangka panjang bagi seluruh pemangku kepentingan,' ujar Kurniawan."
+  ],
+  "fotoAdegan": "Technicians inspecting fiber optic server racks in a modern telecommunications data center, soft blue ambient lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/24/6b0582dedad49-telkom-indonesia_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini hanya status pengakuan, yaitu laporan tahunan Telkom mendapat Platinum Award kategori telekomunikasi dan masuk Top 100 Reports Worldwide versi LACP. Penilaiannya menyasar kualitas penulisan, narasi, dan desain laporan, bukan kinerja keuangan atau operasional perusahaan. Pihak yang langsung terdampak adalah reputasi tim komunikasi korporat Telkom, sementara pemegang saham publik TLKM baru mendapat manfaat tidak langsung lewat standar pelaporan yang diklaim lebih transparan. Berita ini tidak memuat data kinerja Telkom sendiri, jadi belum bisa dibaca apakah penghargaan untuk kualitas penyajian ini juga sejalan dengan isi kinerja keuangan yang akan disampaikan perusahaan, dan itu baru akan terlihat saat Telkom merilis laporan keuangan atau laporan tahunan berikutnya.",
+  "imageV": "mwuqxtpy"
+ },
+ {
   "slug": "nest-klarifikasi-uma-tak-ada-informasi-material-baru",
   "category": "Aksi Korporasi",
   "title": "NEST Klarifikasi [UMA]: Tak Ada Informasi Material Baru",
@@ -89,7 +169,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah status proses aksesi: pembahasan teknis soal keselarasan aturan Indonesia dengan standar OECD sudah berjalan di 25 bidang sejak September 2025, dan kunjungan Cormann dipakai untuk mengecek kemajuannya langsung di level menteri. Pihak yang kena dampak nantinya adalah instansi pemerintah yang aturannya harus disesuaikan, termasuk sektor jasa keuangan yang diawasi OJK, dunia usaha yang diwakili Kadin dan Apindo, serta industri semikonduktor yang jadi fokus salah satu laporan baru. Siaran pers ini tidak menyebut berapa dari 25 bidang itu yang sudah tuntas direview atau kapan target aksesi selesai, jadi seberapa cepat prosesnya belum bisa dipastikan dari sini. Yang perlu dicermati adalah isi Indonesia Economic Survey OECD yang terbit 26 November, karena laporan semacam itu biasanya memuat rekomendasi kebijakan yang bisa menunjukkan bidang mana yang masih jadi ganjalan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "itic-refinancing-rp146-24-miliar-ke-bca-lunasi-woori-saudara",
@@ -603,7 +683,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah bukan transaksi baru, melainkan tenggat yang mendekat: fasilitas tarif rendah yang selama ini diberikan Inggris untuk barang dari negara berkembang, termasuk Indonesia, berakhir 1 Januari 2027. Kalau tidak ada pengganti, produk ekspor Indonesia ke Inggris bisa kena tarif masuk lebih tinggi, dan pelaku usaha eksportir yang memanfaatkan fasilitas ini akan jadi pihak yang paling merasakan dampaknya. Desakan Indonesia soal perjanjian dagang komprehensif terlihat sebagai upaya mengunci akses pasar itu secara lebih permanen dan mengikat, ketimbang hanya mengandalkan kerja sama longgar seperti EGP. Yang akan menentukan arah ini adalah apakah Inggris bersedia memberi masa transisi sebelum tenggat Januari 2027, dan apakah pembicaraan soal perjanjian dagang ini berlanjut jadi negosiasi formal dalam waktu dekat.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "bursa-berjangka-komoditi-tumbuh-54-pajak-final-disiapkan",

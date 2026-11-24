@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-21T04:59:06.071+07:00",
+ "diperbarui": "2026-11-24T08:52:37.835+07:00",
  "entri": [
+  {
+   "id": "2026-11-23-3",
+   "edisi": "2026-11-23",
+   "benang": "Pertumbuhan Makro Kuat, Pendorongnya Bergeser",
+   "klaim": "Pertumbuhan agregat uang beredar dan penjualan mobil terlihat kuat, tapi pendorongnya bukan dari ekspansi kredit domestik atau permintaan ritel murni, melainkan dari sisi eksternal dan pengisian stok diler.",
+   "penanda": "Data penjualan ritel mobil GAIKINDO bulan November dan data pertumbuhan kredit Bank Indonesia periode yang sama",
+   "tenggat": null,
+   "tenggatLabel": "data penjualan ritel mobil GAIKINDO bulan November dan data pertumbuhan kredit Bank Indonesia periode yang sama",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-23-2",
+   "edisi": "2026-11-23",
+   "benang": "Dua Kesepakatan Dagang Diteken, Implementasi Menanti",
+   "klaim": "Penandatanganan IEU-CEPA dan 35 kesepakatan Indonesia-Tiongkok hari ini baru mengubah status hukum kedua kerja sama ini, bukan dampak langsung ke lapangan.",
+   "penanda": "Proses ratifikasi IEU-CEPA di parlemen kedua pihak menjelang awal 2027 dan progres 30 proyek Tiongkok dari nota kesepahaman ke tahap konstruksi",
+   "tenggat": "2027-02-28",
+   "tenggatLabel": "menjelang awal 2027, saat IEU-CEPA ditargetkan berlaku efektif",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-23-1",
+   "edisi": "2026-11-23",
+   "benang": "Gagal Bayar Meluas ke WIKA, Pos Indonesia, ADHI, BOLD",
+   "klaim": "Tekanan gagal bayar ini meluas ke lebih banyak entitas dalam waktu bersamaan, bukan mereda ke satu kasus yang terisolasi.",
+   "penanda": "Hasil rapat RUPO WIKA 14-16 Desember dan RUPO/RUPSI Pos Indonesia 7 Desember, apakah kreditor menyetujui restrukturisasi atau menolak seperti pada ADHI",
+   "tenggat": "2026-12-16",
+   "tenggatLabel": "RUPO WIKA 14-16 Desember dan RUPO/RUPSI Pos Indonesia 7 Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-19-3",
    "edisi": "2026-11-19",
@@ -818,8 +851,13 @@ var RAPOR = {
    "penanda": "Hasil rapat pemegang obligasi dan sukuk Pos Indonesia (rapat kreditur) pada 17 November",
    "tenggat": "2026-11-17",
    "tenggatLabel": "rapat pemegang obligasi dan sukuk pada 17 November",
-   "status": "menunggu",
-   "bukti": null
+   "status": "terkonfirmasi",
+   "bukti": {
+    "slug": "rupo-rupsi-post-7-desember-standstill-dan-shl-dimintakan",
+    "judul": "RUPO/RUPSI POST 7 Desember: Standstill dan SHL Dimintakan",
+    "tanggal": "23 November 2026",
+    "alasan": "Artikel ini menunjukkan Pos Indonesia masih gagal bayar tiga instrumen utang dan meminta standstill, dengan rapat kreditur baru mundur ke 7 Desember, membuktikan masalah keuangan dibiarkan berlarut tanpa penyelesaian cepat."
+   }
   },
   {
    "id": "2026-10-20-2",
@@ -1918,7 +1956,7 @@ var RAPOR = {
    "penanda": "Rilis data uang beredar serta penyaluran kredit Agustus oleh Bank Indonesia",
    "tenggat": "2026-10-07",
    "tenggatLabel": "begitu Bank Indonesia merilis data uang beredar serta penyaluran kredit Agustus, yang biasanya terbit awal bulan berikutnya",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

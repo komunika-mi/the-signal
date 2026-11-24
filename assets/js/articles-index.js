@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-tolak-saksi-terlapor-i-dalam-sidang-pasar-ciparay",
+  "category": "Bisnis",
+  "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
+  "deck": "KPPU menolak saksi yang diajukan Terlapor I dalam sidang dugaan persekongkolan pemilihan mitra revitalisasi Pasar Desa Ciparay, karena dianggap tidak independen.",
+  "date": "24 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "KPPU",
+   "Pasar Ciparay",
+   "Persaingan Usaha",
+   "Bandung"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/majelis-kppu-tolak-saksi-terlapor-i-dalam-sidang-perkara-beauty-contest-pasar-ciparay",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
   "slug": "pkpu-adhi-24-november-sidang-pertama-klaim-0-06-ekuitas",
   "category": "Aksi Korporasi",
   "title": "PKPU ADHI 24 November: Sidang Pertama, Klaim [0,06%] Ekuitas",
@@ -154,7 +170,7 @@ var ARTICLES = [
   "title": "Fatwa Baru Akui Jual Beli Emas Digital [Sah] Secara Syariah",
   "deck": "DSN-MUI menerbitkan fatwa yang mengatur syarat jual beli emas fisik secara digital, melengkapi aturan teknis Bappebti yang sudah berlaku sejak 2025.",
   "date": "24 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "emas digital",
    "Bappebti",
@@ -269,7 +285,7 @@ var ARTICLES = [
   "title": "KPPU Sulsel Awasi Tarif Transportasi Jelang [Nataru]",
   "deck": "KPPU Makassar berkoordinasi dengan Dishub Sulsel dan sejumlah instansi transportasi untuk mencegah pengaturan tarif saat lonjakan permintaan Natal dan Tahun Baru.",
   "date": "24 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "KPPU",
    "Transportasi",
@@ -3721,7 +3737,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -3934,7 +3950,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -6080,7 +6096,7 @@ var ARTICLES = [
   "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
   "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
   "date": "16 November 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -6478,22 +6494,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-16112026-0581-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan",
-  "category": "Teknologi",
-  "title": "NVIDIA: Jensen Huang [Mundur], Dua Anak Jadi Sorotan",
-  "deck": "Jensen Huang disebut mundur dari kursi CEO dan direksi NVIDIA, sementara dua anaknya, Madison dan Spencer Huang, makin disorot sebagai calon penerus.",
-  "date": "16 November 2026",
-  "image": "assets/img/nvidia-jensen-huang-mundur-dua-anak-jadi-sorotan.jpg",
-  "imageV": "mwig82on",
-  "tags": [
-   "NVIDIA",
-   "Jensen Huang",
-   "Madison Huang",
-   "Suksesi CEO"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478567-apakah-jadi-penerus-tahta-nvidia-ini-sosok-madison-spencer-anak-jensen-huang"
  }
 ];

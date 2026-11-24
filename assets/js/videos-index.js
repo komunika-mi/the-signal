@@ -4,6 +4,38 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "IQGCBiJBNoU",
+  "title": "Anindya Bakrie Hadiri Pelantikan Pengurus IWAPI",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Ketua Umum Kadin Indonesia, Anindya Novyan Bakrie, menghadiri pelantikan pengurus baru Ikatan Wanita Pengusaha Indonesia (IWAPI).",
+  "takeaway": "Kehadiran pucuk pimpinan Kadin menegaskan perhatian dunia usaha terhadap penguatan peran pengusaha perempuan dalam ekonomi nasional."
+ },
+ {
+  "id": "xKBwC5PzOAw",
+  "title": "Strategi Pemerintah Kejar Target Ekonomi 6 Persen di 2027",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah menargetkan pertumbuhan ekonomi 6 persen pada 2027 melalui penguatan investasi, stabilitas ekonomi, serta dorongan konsumsi dan ekspor.",
+  "takeaway": "Target pertumbuhan ini menjadi indikator penting arah kebijakan fiskal dan investasi pemerintah ke depan."
+ },
+ {
+  "id": "P-G3Lq9K39E",
+  "title": "Wamenkop Resmikan Showroom Kendaraan Listrik di Tangerang",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Wakil Menteri Koperasi meresmikan showroom kendaraan listrik roda tiga di Tangerang sebagai bagian dari pengembangan ekosistem otomotif hijau.",
+  "takeaway": "Peresmian ini mencerminkan perluasan ekosistem kendaraan listrik yang bersinggungan dengan sektor industri dan UMKM otomotif."
+ },
+ {
+  "id": "BxX-KXt9BbU",
+  "title": "Pemerintah Targetkan Cadangan BBM Nasional Naik Jadi 60 Hari",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Koordinator Bidang Hilirisasi dan Energi menargetkan peningkatan cadangan BBM nasional untuk memperkuat ketahanan energi.",
+  "takeaway": "Penguatan cadangan BBM berkaitan langsung dengan stabilitas harga energi dan ketahanan pasokan nasional."
+ },
+ {
   "id": "UYiMx2rsPKI",
   "title": "Menkeu Bicara Peluang dan Tantangan Ekonomi RI 2027",
   "category": "Makroekonomi",
@@ -450,37 +482,5 @@ var VIDEOS = [
   "program": "Fakta tvOne",
   "summary": "Pemerintah menerbitkan Peraturan Menteri ESDM Nomor 14 Tahun 2025 yang membuka peluang pengelolaan sumur minyak rakyat untuk mendorong produksi minyak nasional dan memperkuat ketahanan energi.",
   "takeaway": "Regulasi ini berpotensi mengubah tata kelola sumur minyak tua di tingkat masyarakat sekaligus memengaruhi target produksi migas nasional."
- },
- {
-  "id": "VjM3hBh-SDQ",
-  "title": "Harga Kebutuhan Pokok di Pasar Surabaya Melonjak",
-  "category": "Makroekonomi",
-  "program": "Apa Kabar Indonesia Siang",
-  "summary": "Harga beras premium di Pasar Soponyono, Surabaya, naik sekitar Rp1.000 per kilogram dalam sepekan menjadi Rp16.000 hingga Rp17.000, membuat omzet pedagang turun hingga 50 persen.",
-  "takeaway": "Kenaikan harga beras ini menjadi sinyal tekanan inflasi pangan yang langsung memukul daya beli konsumen dan pendapatan pedagang kecil."
- },
- {
-  "id": "pV60yvEHltk",
-  "title": "Harga Cabai Melonjak dalam Sepekan Terakhir",
-  "category": "Makroekonomi",
-  "program": "Apa Kabar Indonesia Siang",
-  "summary": "Berbagai jenis cabai mengalami kenaikan harga signifikan per 16 November 2026, menambah daftar komoditas pangan yang bergejolak.",
-  "takeaway": "Fluktuasi harga cabai kerap menjadi indikator sensitif inflasi pangan yang memengaruhi belanja rumah tangga sehari hari."
- },
- {
-  "id": "RpW3X7SznLM",
-  "title": "Menaker Ungkap Alasan BSU Pekerja Belum Cair",
-  "category": "Ketenagakerjaan",
-  "program": "OneNews Update",
-  "summary": "Menteri Ketenagakerjaan Yassierli menjelaskan penyebab tertundanya pencairan Bantuan Subsidi Upah yang masih menjalani peninjauan administratif.",
-  "takeaway": "Keterlambatan pencairan BSU berdampak langsung pada daya beli pekerja berpenghasilan rendah yang menunggu bantuan pemerintah."
- },
- {
-  "id": "k8tq6DuMP8Q",
-  "title": "Harga Komoditas Pangan di Tegal Mahal, Pedagang Merugi",
-  "category": "Bisnis",
-  "program": "Kabar Petang",
-  "summary": "Lonjakan harga sejumlah komoditas pangan di pasar tradisional Tegal membuat warga menekan pengeluaran, sementara pedagang mengalami penurunan keuntungan akibat sepinya pembeli.",
-  "takeaway": "Kenaikan harga pangan di tingkat pasar tradisional relevan sebagai indikator tekanan inflasi yang memengaruhi daya beli masyarakat dan pelaku usaha kecil."
  }
 ];

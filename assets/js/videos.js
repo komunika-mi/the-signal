@@ -2,6 +2,42 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "IQGCBiJBNoU",
+  "title": "Anindya Bakrie Hadiri Pelantikan Pengurus IWAPI",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Ketua Umum Kadin Indonesia, Anindya Novyan Bakrie, menghadiri pelantikan pengurus baru Ikatan Wanita Pengusaha Indonesia (IWAPI).",
+  "takeaway": "Kehadiran pucuk pimpinan Kadin menegaskan perhatian dunia usaha terhadap penguatan peran pengusaha perempuan dalam ekonomi nasional.",
+  "terbit": "2026-11-24T09:14:13+00:00"
+ },
+ {
+  "id": "xKBwC5PzOAw",
+  "title": "Strategi Pemerintah Kejar Target Ekonomi 6 Persen di 2027",
+  "category": "Makroekonomi",
+  "program": "Kabar Merah Putih",
+  "summary": "Pemerintah menargetkan pertumbuhan ekonomi 6 persen pada 2027 melalui penguatan investasi, stabilitas ekonomi, serta dorongan konsumsi dan ekspor.",
+  "takeaway": "Target pertumbuhan ini menjadi indikator penting arah kebijakan fiskal dan investasi pemerintah ke depan.",
+  "terbit": "2026-11-24T08:59:37+00:00"
+ },
+ {
+  "id": "P-G3Lq9K39E",
+  "title": "Wamenkop Resmikan Showroom Kendaraan Listrik di Tangerang",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Wakil Menteri Koperasi meresmikan showroom kendaraan listrik roda tiga di Tangerang sebagai bagian dari pengembangan ekosistem otomotif hijau.",
+  "takeaway": "Peresmian ini mencerminkan perluasan ekosistem kendaraan listrik yang bersinggungan dengan sektor industri dan UMKM otomotif.",
+  "terbit": "2026-11-24T08:58:16+00:00"
+ },
+ {
+  "id": "BxX-KXt9BbU",
+  "title": "Pemerintah Targetkan Cadangan BBM Nasional Naik Jadi 60 Hari",
+  "category": "Energi",
+  "program": "Kabar Merah Putih",
+  "summary": "Kementerian Koordinator Bidang Hilirisasi dan Energi menargetkan peningkatan cadangan BBM nasional untuk memperkuat ketahanan energi.",
+  "takeaway": "Penguatan cadangan BBM berkaitan langsung dengan stabilitas harga energi dan ketahanan pasokan nasional.",
+  "terbit": "2026-11-24T08:50:28+00:00"
+ },
+ {
   "id": "UYiMx2rsPKI",
   "title": "Menkeu Bicara Peluang dan Tantangan Ekonomi RI 2027",
   "category": "Makroekonomi",

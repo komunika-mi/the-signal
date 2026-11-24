@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UYiMx2rsPKI",
+  "title": "Menkeu Bicara Peluang dan Tantangan Ekonomi RI 2027",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Menteri Keuangan Suahasil Nazara menargetkan pertumbuhan ekonomi Indonesia naik ke 6 persen pada 2027, dari proyeksi 5,5-5,6 persen pada 2026, dengan investasi sebagai pendorong utama.",
+  "takeaway": "Target dan asumsi pertumbuhan dari Menteri Keuangan jadi acuan penting bagi pelaku usaha dan investor dalam menyusun rencana tahun depan."
+ },
+ {
   "id": "Jp9tnTeRkUA",
   "title": "Peluang dan Tantangan Ekonomi RI 2027",
   "category": "Makroekonomi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Lonjakan harga sejumlah komoditas pangan di pasar tradisional Tegal membuat warga menekan pengeluaran, sementara pedagang mengalami penurunan keuntungan akibat sepinya pembeli.",
   "takeaway": "Kenaikan harga pangan di tingkat pasar tradisional relevan sebagai indikator tekanan inflasi yang memengaruhi daya beli masyarakat dan pelaku usaha kecil."
- },
- {
-  "id": "DBc8LjMdbJE",
-  "title": "Serangan Siber Global Ancam Sektor Keuangan, Negara Harus Apa?",
-  "category": "Perbankan",
-  "program": "Indonesia Business Forum",
-  "summary": "Gelombang serangan siber global menghantam sektor keuangan di berbagai negara, dari Prancis hingga Taiwan, sementara data Fortinet mencatat lonjakan aktivitas serangan siber di Indonesia.",
-  "takeaway": "Isu ini penting bagi pembaca ekonomi karena menyangkut risiko keamanan sistem keuangan yang bisa berdampak pada stabilitas sektor perbankan dan kepercayaan pasar."
  }
 ];

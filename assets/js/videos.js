@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UYiMx2rsPKI",
+  "title": "Menkeu Bicara Peluang dan Tantangan Ekonomi RI 2027",
+  "category": "Makroekonomi",
+  "program": "Breaking News",
+  "summary": "Menteri Keuangan Suahasil Nazara menargetkan pertumbuhan ekonomi Indonesia naik ke 6 persen pada 2027, dari proyeksi 5,5-5,6 persen pada 2026, dengan investasi sebagai pendorong utama.",
+  "takeaway": "Target dan asumsi pertumbuhan dari Menteri Keuangan jadi acuan penting bagi pelaku usaha dan investor dalam menyusun rencana tahun depan.",
+  "terbit": "2026-11-24T04:14:07+00:00"
+ },
+ {
   "id": "Jp9tnTeRkUA",
   "title": "Peluang dan Tantangan Ekonomi RI 2027",
   "category": "Makroekonomi",

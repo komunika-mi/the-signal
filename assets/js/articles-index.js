@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "indonesia-inggris-jajaki-perjanjian-dagang-komprehensif",
+  "category": "Global",
+  "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
+  "deck": "Indonesia mendorong perjanjian dagang komprehensif dengan Inggris menjelang berakhirnya fasilitas tarif preferensi UK-DCTS pada 2027.",
+  "date": "24 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Indonesia-Inggris",
+   "Perdagangan",
+   "Airlangga Hartarto",
+   "UK-DCTS"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7245/menko-airlangga-tegaskan-komitmen-indonesia-untuk-memperkuat-kemitraan-ekonomi-dengan-inggris",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "bursa-berjangka-komoditi-tumbuh-54-pajak-final-disiapkan",
+  "category": "Pasar Modal",
+  "title": "Bursa Berjangka Komoditi Tumbuh 54%, Pajak [Final] Disiapkan",
+  "deck": "Transaksi bursa berjangka komoditi melonjak 54,28 persen dalam 10 bulan 2026, sementara pemerintah menyiapkan skema pajak final baru bagi industri ini.",
+  "date": "24 November 2026",
+  "image": "assets/img/bursa-layar.jpg",
+  "tags": [
+   "Bappebti",
+   "PPh Final",
+   "Perdagangan Berjangka Komoditi",
+   "Aspebtindo"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/bappebti-perkuat-perlindungan-masyarakat-dan-dorong-penerapan-pph-final",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "fatwa-baru-akui-jual-beli-emas-digital-sah-secara-syariah",
+  "category": "Bisnis",
+  "title": "Fatwa Baru Akui Jual Beli Emas Digital [Sah] Secara Syariah",
+  "deck": "DSN-MUI menerbitkan fatwa yang mengatur syarat jual beli emas fisik secara digital, melengkapi aturan teknis Bappebti yang sudah berlaku sejak 2025.",
+  "date": "24 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "emas digital",
+   "Bappebti",
+   "fatwa DSN-MUI",
+   "syariah"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/perdagangan-emas-fisik-secara-digital-diperbolehkan-sepanjang-penuhi-ketentuan-dan-batasan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "suspensi-adhi-lanjut-24-november-gagal-bayar-kupon-obligasi",
   "category": "Aksi Korporasi",
   "title": "Suspensi ADHI Lanjut 24 November: [Gagal Bayar] Kupon Obligasi",
@@ -53,6 +101,23 @@ var ARTICLES = [
   "sourceLabel": "IDX"
  },
  {
+  "slug": "harga-emas-antam-naik-tipis-ke-rp2-507-000-per-gram-hari-ini",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam [Naik] Tipis ke Rp2.507.000 per Gram Hari Ini",
+  "deck": "Harga emas Antam naik tipis Rp2.000 menjadi Rp2.507.000 per gram pada 24 November 2026, sementara harga buyback naik ke Rp2.150.000 per gram.",
+  "date": "24 November 2026",
+  "image": "assets/img/harga-emas-antam-naik-tipis-ke-rp2-507-000-per-gram-hari-ini.jpg",
+  "imageV": "mwuav80n",
+  "tags": [
+   "emas",
+   "harga emas antam",
+   "antam",
+   "logam mulia"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480016-naik-tipis-harga-emas-antam-hari-ini-24-november-2026-jadi-rp2507000-per-gram"
+ },
+ {
   "slug": "obligasi-apic-tahap-i-rp1-triliun-ditawarkan-mulai-30-nov",
   "category": "Aksi Korporasi",
   "title": "Obligasi APIC Tahap I: [Rp1 Triliun] Ditawarkan Mulai 30 Nov",
@@ -92,7 +157,7 @@ var ARTICLES = [
   "title": "KPPU Sulsel Awasi Tarif Transportasi Jelang [Nataru]",
   "deck": "KPPU Makassar berkoordinasi dengan Dishub Sulsel dan sejumlah instansi transportasi untuk mencegah pengaturan tarif saat lonjakan permintaan Natal dan Tahun Baru.",
   "date": "24 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KPPU",
    "Transportasi",
@@ -349,7 +414,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan perjanjian investasi di Brussels, membuka tarif nol persen untuk 90,4 persen produk Indonesia ke pasar 450 juta penduduk Eropa.",
   "date": "23 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -1613,7 +1678,7 @@ var ARTICLES = [
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
   "date": "22 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -1697,7 +1762,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/pasar-modal.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2174,7 +2239,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2627,7 +2692,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -3544,7 +3609,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -3757,7 +3822,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -4062,7 +4127,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -4805,7 +4870,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -5084,7 +5149,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -5903,7 +5968,7 @@ var ARTICLES = [
   "title": "Saksi: Tender Pengelola Pasar Ciparay Tak [Diumumkan]",
   "deck": "KPPU memeriksa saksi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Ciparay, Kabupaten Bandung; saksi sebut tak ada pengumuman pemenang beauty contest.",
   "date": "16 November 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -6440,70 +6505,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dampingi-presiden-di-ktt-asean-ke-49-bahlil-kawal-kepentingan-nasional-dalam-asean-power-grid",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "smexpo-2026-usai-40-umkm-binaan-pertamina-tutup-panggung",
-  "category": "UMKM",
-  "title": "SMEXPO 2026 Usai, [40] UMKM Binaan Pertamina Tutup Panggung",
-  "deck": "Hari terakhir Pertamina SMEXPO 2026 di Mall Kota Kasablanka Jakarta diisi talkshow, workshop tenun, dan panggung hiburan sebelum seremoni penutupan.",
-  "date": "15 November 2026",
-  "image": "assets/img/smexpo-2026-usai-40-umkm-binaan-pertamina-tutup-panggung.jpg",
-  "imageV": "mwhoe8nu",
-  "tags": [
-   "pertamina",
-   "smexpo",
-   "umkm",
-   "jakarta"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478486-ulik-tren-bisnis-hingga-workshop-tenun-di-hari-terakhir-pertamina-smexpo-2026"
- },
- {
-  "slug": "merger-smbr-bmu-rasio-konversi-belum-final-target-efektif-2027",
-  "category": "Aksi Korporasi",
-  "title": "Merger SMBR-BMU: [Rasio Konversi] Belum Final, Target Efektif 2027",
-  "deck": "SMBR menjawab permintaan penjelasan BEI soal merger dengan BMU: rasio konversi saham dan potensi dilusi belum ditetapkan, target efektif Semester I 2027.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMBR",
-   "merger",
-   "Semen Baturaja",
-   "BUMN"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3b558c9b5a_dad85ec97f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-spto-rp35-per-saham-cair-10-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim SPTO Rp35 per Saham, [Cair] 10 Desember",
-  "deck": "Surya Pertiwi membagikan dividen interim tunai Rp94,5 miliar untuk tahun buku 2026, dibayar 10 Desember setelah recording date 26 November.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SPTO",
-   "dividen interim",
-   "Surya Pertiwi",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/eec805de86_d2a4a37f7c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-chem-laba-bersih-turun-64-akibat-rugi-kurs",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose CHEM: Laba Bersih [Turun] 64% Akibat Rugi Kurs",
-  "deck": "Dalam public expose 12 November, manajemen CHEM mengungkap laba bersih turun 64% meski laba kotor naik, akibat kerugian kurs dari pelemahan rupiah.",
-  "date": "15 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CHEM",
-   "Public Expose",
-   "Laba Bersih",
-   "Rugi Kurs"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b5cea0014e_d77a2efa60.pdf",
-  "sourceLabel": "IDX"
  }
 ];

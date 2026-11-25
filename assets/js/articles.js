@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kereta-trans-kalimantan-digarap-swasta-tanpa-apbn",
+  "category": "Bisnis",
+  "title": "Kereta Trans-Kalimantan Digarap Swasta, Tanpa [APBN]",
+  "deck": "Menhub Dudy Purwagandhi mendukung proyek kereta Trans-Kalimantan yang digarap PT Nusa Investama Utama bersama perusahaan China CREC tanpa menggunakan dana APBN.",
+  "image": "assets/img/kereta-trans-kalimantan-digarap-swasta-tanpa-apbn.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T23:19:40+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480369-menhub-dudy-sambut-proyek-kereta-trans-kalimantan-tanpa-apbn",
+  "tags": [
+   "kereta",
+   "trans-kalimantan",
+   "apbn",
+   "prabowo"
+  ],
+  "body": [
+   "Menteri Perhubungan Dudy Purwagandhi menyatakan dukungan penuh atas dimulainya proyek jalur kereta Trans-Kalimantan, setelah PT Nusa Investama Utama menandatangani kerangka kerja sama (framework agreement) dengan perusahaan konstruksi kereta asal China, China Railway Engineering Corporation (CREC), di Jakarta pada Rabu, 25 November 2026. Proyek ini penting karena menjadi contoh pembangunan jalur kereta di luar Pulau Jawa yang dibiayai sepenuhnya oleh perusahaan swasta, tanpa menyentuh anggaran negara atau APBN.",
+   "Dudy menyebut penguatan jaringan rel di luar Jawa ini lahir dari arahan dan inisiasi Presiden Prabowo Subianto untuk mendongkrak konektivitas antarwilayah. Skema yang dipakai adalah business-to-business, yaitu transaksi murni antara dua perusahaan swasta tanpa melibatkan dana pemerintah. Karena proyek ini masuk kategori Proyek Strategis Nasional, pemerintah akan terus berkoordinasi agar pembangunannya berjalan lancar.",
+   "Dudy berharap jalur kereta ini tidak berhenti di Kalimantan Timur, tetapi bisa tersambung hingga Kalimantan Tengah dan Kalimantan Selatan. Ia memproyeksikan kereta ini akan menjadi jalur utama distribusi logistik, mempercepat pengiriman komoditas, dan mengurangi beban perbaikan jalan raya yang biasanya tergerus truk-truk pengangkut barang.",
+   "Selain untuk logistik, Menhub menargetkan proyek ini bisa menghadirkan transportasi massal antarkota yang lebih nyaman bagi masyarakat, membuka lapangan kerja bagi warga lokal, serta mendorong alih teknologi perkeretaapian dari mitra asing. Dudy menyebut proyek ini sejalan dengan visi Presiden Prabowo untuk memperluas jaringan kereta di pulau-pulau besar Indonesia guna menekan biaya logistik nasional."
+  ],
+  "fotoAdegan": "Surveyors and engineers marking a cleared railway corridor through dense Kalimantan rainforest, heavy machinery nearby, overcast tropical sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/25/6b070a0648924-kementerian-perhubungan-memberikan-dukungan-penuh-terhadap-dimulainya-proyek-pembangunan-jalur-kereta-api-trans-kalimantan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang baru terjadi adalah penandatanganan kerangka kerja sama, bukan kontrak pembangunan final, antara PT Nusa Investama Utama dan CREC untuk jalur kereta Trans-Kalimantan yang dibiayai penuh oleh swasta tanpa memakai anggaran negara. Pihak yang berpotensi terkena dampak adalah warga dan pelaku usaha logistik di Kalimantan Timur, dengan kemungkinan meluas ke Kalimantan Tengah dan Kalimantan Selatan jika rencana perpanjangan jalur terwujud. Berita ini belum menyebut nilai investasi, pembagian risiko antara kedua perusahaan, atau target waktu pembangunan, sehingga belum bisa dipastikan apakah proyek ini akan segera bergerak ke tahap konstruksi fisik atau masih memerlukan negosiasi panjang. Yang perlu ditunggu adalah kontrak definitif antara PT Nusa Investama Utama dan CREC, yang biasanya baru memuat angka investasi dan jadwal kerja yang pasti.",
+  "imageV": "mwwfzdc7"
+ },
+ {
   "slug": "toba-rencanakan-transaksi-material-sgd555-juta-rupslb-27-november",
   "category": "Aksi Korporasi",
   "title": "TOBA Rencanakan Transaksi Material SGD555 Juta, [RUPSLB] 27 November",
@@ -150,7 +177,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah pemerintah memasang target pertumbuhan ekonomi 6 persen untuk 2027, naik dari realisasi 5,47 persen pada triwulan III 2026, dengan empat strategi yang salah satunya tetap menahan belanja negara karena defisit anggaran dijaga di bawah 1,5 persen dari ukuran ekonomi nasional. Pihak yang paling terdampak adalah pelaku usaha dan calon pekerja di 18 Kawasan Ekonomi Khusus di luar Jawa, sebab kawasan ini diklaim pemerintah jauh lebih hemat modal, hanya butuh investasi setara 4 persen dari nilai output untuk menghasilkan tambahan pertumbuhan, dibanding rata-rata nasional yang butuh 6 persen. Pola ini menunjukkan pemerintah mengejar kenaikan pertumbuhan lewat efisiensi kawasan investasi dan hilirisasi ekspor, bukan lewat tambahan belanja negara. Yang akan menentukan apakah arah ini berjalan sesuai rencana adalah angka pertumbuhan triwulan IV 2026 yang akan dirilis awal tahun depan, serta realisasi investasi KEK pada akhir 2026 sebagai titik awal menuju target 2027.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "indonesia-korea-bangun-sistem-uji-charger-ev-senilai-us-8-juta",
@@ -616,7 +643,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang benar-benar baru di sini adalah laporan asesmennya, bukan aturan atau anggaran baru. Isinya masih berupa rekomendasi arah, memperkuat ekosistem, meningkatkan kemampuan industri, dan memperluas peran Indonesia di jaringan produksi chip dunia, tanpa angka investasi atau insentif yang sudah dipatok. Pihak yang langsung tersentuh adalah pelaku industri perakitan, pengujian, dan pengemasan semikonduktor yang sudah berjalan di Batam dan Jawa Barat, karena merekalah modal awal yang disebut laporan ini sebagai titik pijak. Pemerintah mengatakan akan memasukkan rekomendasi itu ke agenda reformasi ekonomi sebelum dibahas di komite OECD, tapi belum ada tanggal pasti kapan pembahasan itu terjadi atau rekomendasi mana yang bakal diadopsi jadi kebijakan nyata. Yang perlu dipantau adalah dokumen reformasi ekonomi Indonesia untuk OECD selanjutnya, karena di situ baru akan terlihat rekomendasi mana yang benar-benar diambil pemerintah.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "xmgb-unit-beredar-susut-jadi-41-juta-redemption-hari-ketiga",

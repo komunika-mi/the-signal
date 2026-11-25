@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kereta-trans-kalimantan-digarap-swasta-tanpa-apbn",
+  "category": "Bisnis",
+  "title": "Kereta Trans-Kalimantan Digarap Swasta, Tanpa [APBN]",
+  "deck": "Menhub Dudy Purwagandhi mendukung proyek kereta Trans-Kalimantan yang digarap PT Nusa Investama Utama bersama perusahaan China CREC tanpa menggunakan dana APBN.",
+  "date": "25 November 2026",
+  "image": "assets/img/kereta-trans-kalimantan-digarap-swasta-tanpa-apbn.jpg",
+  "imageV": "mwwfzdc7",
+  "tags": [
+   "kereta",
+   "trans-kalimantan",
+   "apbn",
+   "prabowo"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480369-menhub-dudy-sambut-proyek-kereta-trans-kalimantan-tanpa-apbn"
+ },
+ {
   "slug": "toba-rencanakan-transaksi-material-sgd555-juta-rupslb-27-november",
   "category": "Aksi Korporasi",
   "title": "TOBA Rencanakan Transaksi Material SGD555 Juta, [RUPSLB] 27 November",
@@ -6471,23 +6488,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478906-bni-dan-bpjs-kesehatan-teken-tujuh-pks-perkuat-layanan-jkn"
- },
- {
-  "slug": "harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik",
-  "category": "Energi",
-  "title": "Harga Patokan Nikel [Naik] ke USD15.596 per Ton, Royalti Ikut Naik",
-  "deck": "Kementerian ESDM menetapkan harga acuan nikel periode 15-30 November 2026 naik 0,76 persen jadi USD15.596,88 per ton, sementara tembaga dan emas terkoreksi tipis.",
-  "date": "17 November 2026",
-  "image": "assets/img/harga-patokan-nikel-naik-ke-usd15-596-per-ton-royalti-ikut-naik.jpg",
-  "imageV": "mwksjw8d",
-  "tags": [
-   "nikel",
-   "ESDM",
-   "royalti tambang",
-   "harga mineral"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

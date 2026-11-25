@@ -4,6 +4,54 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "AWHVSTqANV0",
+  "title": "Film Nasional Bangkit, Konser Mancanegara Hit",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Forum membahas kebangkitan industri film nasional dengan lonjakan penonton yang mengungguli film Hollywood, serta tren konser musik internasional di Indonesia.",
+  "takeaway": "Menyoroti pertumbuhan industri kreatif sebagai sektor ekonomi baru yang berkembang pesat."
+ },
+ {
+  "id": "yobeyghGNHA",
+  "title": "Bappenas: Film Jadi Ujung Tombak Pertumbuhan Ekonomi Kreatif",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Bappenas menyebut industri film sebagai penggerak utama pertumbuhan ekonomi kreatif, didukung lonjakan penonton dan produksi film nasional.",
+  "takeaway": "Perspektif pemerintah soal kontribusi sektor film terhadap ekonomi kreatif penting bagi pembaca yang mengikuti kebijakan industri."
+ },
+ {
+  "id": "NWyGs2YEkCo",
+  "title": "Kemenpar Rilis Data Dampak Ekonomi Konser Musik",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Pariwisata memaparkan data dampak ekonomi konser musik internasional, memicu diskusi soal akurasinya dibanding kondisi di lapangan.",
+  "takeaway": "Data dampak ekonomi acara pariwisata relevan untuk menilai kontribusi sektor hiburan terhadap ekonomi daerah."
+ },
+ {
+  "id": "_fcLyJ_3_iY",
+  "title": "Peneliti LPEM UI Soroti Pemerataan Dampak Ekonomi Konser",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Peneliti LPEM UI menilai antusiasme konser musik tinggi, namun pemerataan manfaat ekonominya ke berbagai daerah masih menjadi masalah.",
+  "takeaway": "Analisis lembaga riset ekonomi UI memberi konteks akademis soal pemerataan manfaat ekonomi industri konser."
+ },
+ {
+  "id": "I21x6-11Ozc",
+  "title": "Promotor Musik dan Kemenpar Beda Pandangan Soal Dukungan Konser",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Promotor musik dan juru bicara Kementerian Pariwisata berbeda pandangan soal bentuk dukungan pemerintah bagi penyelenggaraan konser musik internasional.",
+  "takeaway": "Perdebatan ini menggambarkan dinamika kebijakan pemerintah dalam mendukung industri ekonomi kreatif berbasis konser."
+ },
+ {
+  "id": "LsYjBhmERpY",
+  "title": "Promotor Musik Kritik Kesiapan Kemenpar Kelola Industri Konser",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Promotor musik menilai Kementerian Pariwisata belum optimal mengurus sektor perhotelan, apalagi mengelola industri konser musik internasional.",
+  "takeaway": "Kritik pelaku usaha terhadap tata kelola sektor pariwisata penting bagi pembaca yang mengamati iklim bisnis industri kreatif."
+ },
+ {
   "id": "qWUFuVqn0XM",
   "title": "Kemandirian Energi Prioritas Pemerintahan Presiden Prabowo",
   "category": "Energi",
@@ -434,53 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Program Koperasi Desa Merah Putih didorong menjadi penggerak ekonomi lokal dengan mengajak masyarakat desa mengembangkan potensi ekonomi secara mandiri dan berkelanjutan.",
   "takeaway": "Program ini relevan bagi pembaca yang mengikuti upaya pemerataan ekonomi dari tingkat desa."
- },
- {
-  "id": "Gb-JSrOImdI",
-  "title": "PT Advansia Indotani Rayakan HUT ke-15, Dukung Petani",
-  "category": "Industri",
-  "program": "Kabar Siang",
-  "summary": "PT Advansia Indotani merayakan hari jadi ke-15 dengan tema Advansia Maju, Petani Makmur, menegaskan komitmen perusahaan mendukung kesejahteraan petani melalui produk agrikultur.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyoroti peran industri agrikultur dalam mendukung produktivitas dan kesejahteraan petani."
- },
- {
-  "id": "f_g7rJQuzHw",
-  "title": "Serikat Pekerja Sampaikan Keluhan ke Pimpinan DPR",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Siang",
-  "summary": "Perwakilan serikat pekerja menyampaikan sejumlah keluhan dalam audiensi dengan Wakil Ketua DPR Sufmi Dasco Ahmad dan pimpinan Komisi VI DPR RI di Kompleks Parlemen, Jakarta.",
-  "takeaway": "Penting bagi pembaca ekonomi karena menyangkut aspirasi pekerja yang berpotensi memengaruhi kebijakan ketenagakerjaan dan hubungan industrial."
- },
- {
-  "id": "waJgz_UyA-M",
-  "title": "Pertamina Gelar Simulasi Tanggap Darurat Energi Nasional",
-  "category": "Energi",
-  "program": "Kabar Pagi",
-  "summary": "PT Pertamina menggelar simulasi tanggap darurat skala besar untuk memperkuat kesiapsiagaan operasional dan menjaga keandalan pasokan energi nasional.",
-  "takeaway": "Kesiapsiagaan BUMN energi ini relevan bagi pembaca karena menyangkut keamanan pasokan energi yang menjadi tulang punggung aktivitas ekonomi nasional."
- },
- {
-  "id": "f9f16eXBmE4",
-  "title": "KP2MI dan Kadin Seleksi 2.700 Calon Pekerja Migran ke Turki",
-  "category": "Ketenagakerjaan",
-  "program": "Kabar Pagi",
-  "summary": "Kementerian P2MI bersama Kadin Indonesia menyeleksi sekitar 2.700 calon pekerja migran Indonesia untuk ditempatkan bekerja di Turki.",
-  "takeaway": "Pembukaan jalur penempatan pekerja migran baru ini penting bagi pembaca ekonomi karena berpotensi memperluas lapangan kerja dan menambah aliran remitansi."
- },
- {
-  "id": "hqfJQwvWzmg",
-  "title": "Viva Media Asia Gelar RUPS Tahunan 2025",
-  "category": "Pasar Modal",
-  "program": "Kabar Utama",
-  "summary": "PT Visi Media Asia Tbk (VIVA) menggelar Rapat Umum Pemegang Saham Tahunan untuk tahun buku 2025 pada Selasa, 17 November 2026 di Jakarta, dengan agenda pengesahan laporan tahunan.",
-  "takeaway": "Relevan bagi investor pasar modal karena RUPST merupakan forum resmi pengesahan laporan keuangan dan kinerja tahunan emiten."
- },
- {
-  "id": "n_CTphKzcP0",
-  "title": "ASEAN Diajak Simpan Cadangan Minyak di Jepang",
-  "category": "Energi",
-  "program": "OneNews Update",
-  "summary": "Jepang menawarkan fasilitas penyimpanan minyak mentahnya kepada negara-negara ASEAN sebagai tempat cadangan energi untuk mengantisipasi potensi krisis pasokan.",
-  "takeaway": "Kerja sama cadangan energi ini penting bagi pembaca karena menyangkut ketahanan pasokan minyak dan stabilitas harga energi di kawasan ASEAN."
  }
 ];

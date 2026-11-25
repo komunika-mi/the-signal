@@ -2,6 +2,60 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "AWHVSTqANV0",
+  "title": "Film Nasional Bangkit, Konser Mancanegara Hit",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Forum membahas kebangkitan industri film nasional dengan lonjakan penonton yang mengungguli film Hollywood, serta tren konser musik internasional di Indonesia.",
+  "takeaway": "Menyoroti pertumbuhan industri kreatif sebagai sektor ekonomi baru yang berkembang pesat.",
+  "terbit": "2026-11-25T16:40:59+00:00"
+ },
+ {
+  "id": "yobeyghGNHA",
+  "title": "Bappenas: Film Jadi Ujung Tombak Pertumbuhan Ekonomi Kreatif",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Bappenas menyebut industri film sebagai penggerak utama pertumbuhan ekonomi kreatif, didukung lonjakan penonton dan produksi film nasional.",
+  "takeaway": "Perspektif pemerintah soal kontribusi sektor film terhadap ekonomi kreatif penting bagi pembaca yang mengikuti kebijakan industri.",
+  "terbit": "2026-11-25T16:00:34+00:00"
+ },
+ {
+  "id": "NWyGs2YEkCo",
+  "title": "Kemenpar Rilis Data Dampak Ekonomi Konser Musik",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Kementerian Pariwisata memaparkan data dampak ekonomi konser musik internasional, memicu diskusi soal akurasinya dibanding kondisi di lapangan.",
+  "takeaway": "Data dampak ekonomi acara pariwisata relevan untuk menilai kontribusi sektor hiburan terhadap ekonomi daerah.",
+  "terbit": "2026-11-25T15:15:42+00:00"
+ },
+ {
+  "id": "_fcLyJ_3_iY",
+  "title": "Peneliti LPEM UI Soroti Pemerataan Dampak Ekonomi Konser",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Peneliti LPEM UI menilai antusiasme konser musik tinggi, namun pemerataan manfaat ekonominya ke berbagai daerah masih menjadi masalah.",
+  "takeaway": "Analisis lembaga riset ekonomi UI memberi konteks akademis soal pemerataan manfaat ekonomi industri konser.",
+  "terbit": "2026-11-25T15:50:11+00:00"
+ },
+ {
+  "id": "I21x6-11Ozc",
+  "title": "Promotor Musik dan Kemenpar Beda Pandangan Soal Dukungan Konser",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Promotor musik dan juru bicara Kementerian Pariwisata berbeda pandangan soal bentuk dukungan pemerintah bagi penyelenggaraan konser musik internasional.",
+  "takeaway": "Perdebatan ini menggambarkan dinamika kebijakan pemerintah dalam mendukung industri ekonomi kreatif berbasis konser.",
+  "terbit": "2026-11-25T16:54:29+00:00"
+ },
+ {
+  "id": "LsYjBhmERpY",
+  "title": "Promotor Musik Kritik Kesiapan Kemenpar Kelola Industri Konser",
+  "category": "Bisnis",
+  "program": "Indonesia Business Forum",
+  "summary": "Promotor musik menilai Kementerian Pariwisata belum optimal mengurus sektor perhotelan, apalagi mengelola industri konser musik internasional.",
+  "takeaway": "Kritik pelaku usaha terhadap tata kelola sektor pariwisata penting bagi pembaca yang mengamati iklim bisnis industri kreatif.",
+  "terbit": "2026-11-25T15:50:46+00:00"
+ },
+ {
   "id": "qWUFuVqn0XM",
   "title": "Kemandirian Energi Prioritas Pemerintahan Presiden Prabowo",
   "category": "Energi",

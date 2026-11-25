@@ -1,9 +1,9 @@
 // Data pasar harian. Dibuat otomatis - jangan diedit manual.
 var MARKET = {
- "diperbarui": "2026-11-25T08:35:52.391Z",
+ "diperbarui": "2026-11-25T09:35:52.781Z",
  "ihsg": {
-  "nilai": "5.191,59",
-  "delta": "▼0,95%",
+  "nilai": "5.197,61",
+  "delta": "▼0,84%",
   "naik": false
  },
  "usdidr": {
@@ -13,15 +13,15 @@ var MARKET = {
  },
  "usdidrRaw": 18310,
  "emas": {
-  "nilai": "Rp2.079rb",
-  "delta": "▼0,29%",
-  "naik": false
+  "nilai": "Rp2.074rb",
+  "delta": "▲0,51%",
+  "naik": true
  },
- "emasRaw": 2079071.189237597,
+ "emasRaw": 2073861.3120453467,
  "btc": {
-  "nilai": "Rp1,09 M",
-  "delta": "▼0,67%",
+  "nilai": "Rp1,08 M",
+  "delta": "▼1,13%",
   "naik": false
  },
- "tanggalWIB": "Rabu, 25 November 2026 &middot; 15.35 WIB"
+ "tanggalWIB": "Rabu, 25 November 2026 &middot; 16.35 WIB"
 };

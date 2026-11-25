@@ -3,6 +3,225 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rupslb-byan-23-november-direksi-diganti-usai-akuisisi-jhonlin",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BYAN 23 November: [Direksi] Diganti Usai Akuisisi Jhonlin",
+  "deck": "Bayan Resources mengganti hampir seluruh direksi dan komisaris lewat RUPSLB 23 November 2026 setelah PT Jhonlin Baratama membeli saham perseroan, tapi pengendali tetap Dato' Low Tuck Kwong.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T18:27:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BYAN_E023A_5fcba8c1-8061-4197-8316-70502c1676bc-20261125182729.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "pergantian direksi",
+   "Jhonlin Baratama"
+  ],
+  "body": [
+   "Bayan Resources Tbk (BYAN) menjelaskan kepada Bursa Efek Indonesia bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 23 November 2026 mengubah hampir seluruh susunan direksi dan komisaris perseroan. Sebelum RUPSLB, direksi dipimpin Dato' Low Tuck Kwong sebagai Direktur Utama, didampingi Lim Chai Hock, Jenny Quantero, Alastair G.C. Mcleod, Alexander Ery Wibowo, Low Yi Ngo, Ulina Fitriani, dan Siyoung Park, dengan Hendarman sebagai Komisaris Utama Independen bersama Lifransyah Gumay, Moermahadi Soerja Djanegara, serta komisaris independen Budiman dan Timur Pradopo. Setelah RUPSLB, posisi Direktur Utama beralih ke Ary Bastari, didampingi Liana Saputri, Daud Kala' Bombang, Taufik Hidayat Kesatria, dan Siyoung Park yang tetap bertahan. Jajaran komisaris baru dipimpin Budi Waseso sebagai Komisaris Utama Independen, bersama Indra Surya, Tony Tribagus Spontana, Lifransyah Gumay yang tetap bertahan, serta komisaris independen M. Hatta Rajasa dan Nurfaizi.",
+   "Penjelasan ini merupakan jawaban atas surat permintaan klarifikasi Bursa terkait pemberitaan media mengenai pengambilalihan saham BYAN oleh PT Jhonlin Baratama. Bayan menegaskan transaksi pembelian saham oleh Jhonlin Baratama tidak mengakibatkan perubahan pengendali perseroan, yang tetap berada di tangan Dato' Low Tuck Kwong. Perseroan menyebut pergantian jabatan Low Tuck Kwong dari Direktur Utama mempertimbangkan faktor usia, dan meski tidak lagi menjabat direksi, ia tetap berpartisipasi dalam keputusan strategis yang memerlukan persetujuan pemegang saham. Bayan juga menyatakan belum ada keputusan perubahan strategi bisnis maupun rencana pengembangan usaha akibat pergantian susunan pengurus ini, dan perseroan tetap berfokus pada peningkatan produksi batu bara serta optimalisasi infrastruktur yang sudah dimiliki.",
+   "Soal hubungan afiliasi, Bayan mengonfirmasi dua direksi baru memiliki keterkaitan dengan pemegang saham baru PT Jhonlin Baratama: Liana Saputri adalah putri dari pemegang saham Jhonlin Baratama, dan Daud Kala' Bombang adalah Direktur Utama Jhonlin Baratama. Perseroan menyatakan keduanya maupun anggota direksi dan komisaris lain tidak memiliki hubungan afiliasi dengan pihak pengendali Bayan. Profil lengkap latar belakang pendidikan dan pengalaman seluruh direksi dan komisaris baru telah diunggah di situs resmi perseroan sejak 30 Oktober hingga 23 November 2026 sebagai bagian materi RUPSLB. Bayan juga menyatakan tidak ada informasi material lain yang belum diungkapkan ke publik selain yang sudah disampaikan melalui keterbukaan informasi ini."
+  ],
+  "fotoAdegan": "Haul trucks loading coal at a wide open-pit mine in Kalimantan, dust haze, early morning light, excavator in background",
+  "takeaway": "Laporan ini netral bagi fundamental Bayan Resources karena perusahaan menegaskan transaksi pembelian saham oleh PT Jhonlin Baratama tidak mengubah pihak pengendali, yang tetap Dato' Low Tuck Kwong, dan belum ada keputusan perubahan strategi bisnis. Yang bergeser di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan struktur tata kelola: siapa yang duduk di direksi dan komisaris menentukan arah pengawasan dan pengambilan keputusan perusahaan sehari-hari, dan pelaku pasar wajar mencermati bahwa dua direksi baru, Liana Saputri dan Daud Kala' Bombang, punya hubungan afiliasi langsung dengan Jhonlin Baratama selaku pemegang saham baru, yang membuka potensi benturan kepentingan meski Bayan menyatakan prinsip independensi tetap dijaga. Dokumen ini tidak menyebut agenda RUPS atau tenggat keterbukaan lanjutan, sehingga yang perlu dipantau berikutnya adalah apakah direksi baru nantinya benar-benar mengubah strategi bisnis atau rencana pengembangan usaha, yang menurut jawaban Bayan belum diputuskan sampai tanggal surat ini, 25 November 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "rupslb-byan-23-nov-direksi-komisaris-diganti-total",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BYAN 23 Nov: [Direksi] & Komisaris Diganti Total",
+  "deck": "RUPSLB Bayan Resources 23 November mengganti seluruh direksi dan empat dari lima komisaris. Ary Bastari jadi Direktur Utama baru, Budi Waseso pimpin Dewan Komisaris.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T18:26:23",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BYAN_E019_0732c568-be53-486a-827a-adebc03801b5-20261125182625.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "body": [
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Bayan Resources Tbk yang berlangsung di Jade Room, Fairmont Hotel Jakarta, pada Senin, 23 November 2026 pukul 14.16 sampai 14.48 WIB, memutuskan pergantian total susunan direksi. Rapat dihadiri pemegang saham yang mewakili 33.132.157.840 saham atau 99,3965 persen dari total 33.333.335.000 saham perseroan. Dengan persetujuan 99,98992882 persen suara yang hadir, perseroan memberhentikan Dato Low Tuck Kwong dari jabatan Direktur Utama, bersama enam direktur lain yaitu Lim Chai Hock, Alastair Gordon Christopher McLeod, Low Yi Ngo, Alexander Ery Wibowo, Jenny Quantero, dan Ulina Fitriani. Sebagai pengganti, rapat mengangkat Ary Bastari sebagai Direktur Utama baru, bersama Liana Saputri, Daud Kala' Bombang, dan Taufik Hidayat Kesatria sebagai direktur, mendampingi Siyoung Park yang tetap menjabat. Susunan baru ini berlaku efektif sejak penutupan rapat hingga RUPS Tahunan 2029.",
+   "Pada mata acara kedua dengan persentase suara setuju yang sama, RUPSLB juga mengganti sebagian besar Dewan Komisaris. Hendarman yang sebelumnya Komisaris Utama Independen, serta Moermahadi Soerja Djanegara, Timur Pradopo, dan Budiman diberhentikan dari jabatan komisaris. Pengganti yang diangkat adalah Budi Waseso sebagai Komisaris Utama Independen, Indra Surya dan Tony Tribagus Spontana sebagai komisaris, serta Muhammad Hatta Rajasa dan Nurfaizi sebagai komisaris independen, mendampingi Lifransyah Gumay yang tetap menjabat sebagai komisaris. Susunan komisaris baru ini berlaku sejak penutupan rapat sampai RUPS Tahunan 2027. Dalam kedua agenda, suara abstain tercatat di bawah 0,001 persen dan suara tidak setuju di bawah 0,01 persen, sehingga keputusan praktis disepakati bulat.",
+   "Dokumen keterbukaan ini tidak menyebutkan dampak keuangan dari pergantian pengurus tersebut terhadap operasional atau kondisi keuangan perseroan. Pergantian menyeluruh ini menyusul transaksi pembelian saham Bayan Resources oleh PT Jhonlin Baratama yang sebelumnya sudah diumumkan perseroan tanpa mengubah pihak pengendali utama."
+  ],
+  "fotoAdegan": "Wide shot of an open-pit coal mine with haul trucks and excavators working under an overcast tropical sky.",
+  "takeaway": "Kami menilai laporan ini netral bagi fundamental Bayan Resources karena pergantian direksi dan komisaris ini adalah kelanjutan dari proses masuknya Jhonlin Baratama yang sudah lebih dulu diumumkan tidak mengubah pemegang saham pengendali, bukan sinyal baru soal kondisi keuangan perusahaan. Tidak ada pos keuangan seperti ekuitas, arus kas, atau jumlah saham beredar yang tersentuh langsung oleh keputusan ini, tetapi pelaku pasar tetap memperhatikan pergantian pengurus sebesar ini karena arah kebijakan operasional, hubungan dengan mitra tambang, dan negosiasi kontrak biasanya melekat pada individu direksi, sehingga wajah baru di jajaran pimpinan bisa mengubah cara perusahaan dikelola meski neracanya belum tentu berubah. Yang perlu dipantau selanjutnya adalah kebijakan awal yang diambil Direktur Utama baru Ary Bastari dan ketahanan susunan pengurus ini hingga RUPS Tahunan 2027 untuk komisaris dan 2029 untuk direksi, saat masa jabatan mereka dievaluasi ulang.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "rupslb-vtny-23-nov-direktur-utama-baru-tri-ismardiko-widyawan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB VTNY 23 Nov: [Direktur Utama] Baru Tri Ismardiko Widyawan",
+  "deck": "RUPSLB VTNY 23 November mengangkat Tri Ismardiko Widyawan sebagai Direktur Utama baru menggantikan Junichiro Waide, sementara Hosea Sanjaya jadi Komisaris Utama baru.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T18:18:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_VTNY_E036_2fbe5c56-d836-4408-aaf0-79b6aa310ba2-20261125181850.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VTNY",
+  "tags": [
+   "VTNY",
+   "Venteny Fortuna International",
+   "perubahan pengurus",
+   "RUPSLB"
+  ],
+  "body": [
+   "PT Venteny Fortuna International Tbk (VTNY) melaporkan kepada OJK dan Bursa Efek Indonesia bahwa Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Senin, 23 November 2026, menyetujui perubahan susunan direksi dan dewan komisaris perusahaan. Berdasarkan Akta Berita Acara RUPSLB Nomor 13 dan Cover Note Nomor 038/NOT/CN/XI/2026 yang dibuat Notaris Dr. Putra Hutomo, susunan pengurus baru berlaku efektif sejak penutupan RUPSLB tanggal 23 November 2026 hingga penutupan RUPST yang akan diselenggarakan pada 2027, dengan akhir periode jabatan tercatat 30 Juni 2027.",
+   "Di jajaran direksi, Tri Ismardiko Widyawan, yang sebelumnya menjabat Direktur, diangkat menjadi Direktur Utama menggantikan Junichiro Waide. Kursi Direktur yang ditinggalkannya diisi oleh Alvin Dersen, S.E., M.B.A. sebagai direktur baru, sementara Kaleb Solaiman diangkat kembali sebagai Direktur tanpa perubahan posisi.",
+   "Di jajaran komisaris, Hosea Sanjaya yang sebelumnya menjabat Wakil Direktur Utama kini pindah menjadi Komisaris Utama, menggantikan Katsuya Kitano. Augus Hendra Simatupang diangkat sebagai komisaris baru, sedangkan Prof. Dr. Adler Haymans Manurung, S.H. diangkat kembali sebagai Komisaris Independen tanpa perubahan posisi."
+  ],
+  "fotoAdegan": "Exterior of a modern glass office tower in Jakarta's business district, employees crossing the plaza at midday.",
+  "takeaway": "Perubahan pengurus ini netral bagi fundamental VTNY, karena pergantian direksi dan komisaris adalah urusan tata kelola internal yang tidak langsung mengubah neraca atau kas perusahaan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, atau jumlah saham beredar yang tersentuh di laporan ini, tetapi pelaku pasar lazim mencermati pergantian Direktur Utama karena arah strategi perusahaan bisa berubah di tangan pemimpin baru. Yang perlu dipantau berikutnya adalah kinerja VTNY di bawah susunan pengurus baru ini sampai masa jabatannya berakhir pada 30 Juni 2027 atau penutupan RUPST 2027, serta apakah Tri Ismardiko Widyawan selaku Direktur Utama baru mengumumkan perubahan arah strategi.",
+  "sentimen": "netral",
+  "judulIdx": "Perubahan Pengurus",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Efektif susunan direksi dan komisaris baru pasca RUPSLB"
+   },
+   {
+    "tanggal": "2027-06-30",
+    "acara": "Akhir periode jabatan direksi dan komisaris baru"
+   }
+  ]
+ },
+ {
+  "slug": "perubahan-anggaran-dasar-vici-wakil-direksi-jadi-2-orang",
+  "category": "Aksi Korporasi",
+  "title": "Perubahan Anggaran Dasar VICI: [Wakil Direksi] Jadi 2 Orang",
+  "deck": "VICI mengubah anggaran dasar lewat akta 29 Oktober 2026: direksi dapat wewenang baru melepas merek atau paten, dan jumlah direksi yang mewakili perusahaan naik dari satu jadi dua orang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T18:07:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_VICI_E019_ac36a885-dce7-4f76-883b-8480591017a4-20261125180726.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VICI",
+  "tags": [
+   "VICI",
+   "anggaran dasar",
+   "corporate governance",
+   "Victoria Care Indonesia"
+  ],
+  "body": [
+   "PT Victoria Care Indonesia Tbk (VICI) mengubah anggaran dasarnya melalui Akta No. 84 tanggal 29 Oktober 2026 yang dibuat di hadapan Notaris Rudy Siswanto, S.H. Perubahan ini sudah disetujui Kementerian Hukum Republik Indonesia lewat Surat Keputusan Nomor AHU-0136998.AH.01.02.TAHUN 2026 dan Penerimaan Pemberitahuan Nomor AHU-AH.01.03-0278102, keduanya bertanggal 24 November 2026. Perubahan paling konkret ada di Pasal 10: direksi mendapat kewenangan baru untuk melepas atau mengalihkan merek dan paten milik perusahaan, dengan syarat ada persetujuan tertulis dari dewan komisaris. Pasal yang sama juga mengubah jumlah direksi yang berhak mewakili perusahaan dalam tindakan hukum, dari sebelumnya cukup satu orang menjadi wajib dua orang direksi.",
+   "Selain itu, Pasal 3 anggaran dasar tentang klasifikasi bidang usaha diperbarui mengikuti standar baru, Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Kegiatan usaha utama VICI tetap di seputar industri bahan dan produk pembersih (KBLI 20231), kosmetik untuk manusia dan cairan lensa kontak (20232), perekat gigi (20234), parfum sesuai pesanan (20235), serta perdagangan besar sediaan farmasi (46441) dan alat kesehatan atau laboratorium untuk manusia (46791). Kegiatan usaha penunjangnya mencakup jasa pengurusan transportasi, pergudangan dan penyimpanan, sewa kekayaan intelektual, industri produk farmasi untuk manusia, industri kemasan kertas dan karton, serta industri kertas tisu.",
+   "Dalam surat resminya ke Bursa Efek Indonesia, perusahaan menyatakan perubahan anggaran dasar ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha. Keterbukaan informasi ini ditandatangani oleh Corporate Secretary VICI, Alfonsa Sheila Widyatna, dan disampaikan ke bursa pada 25 November 2026."
+  ],
+  "fotoAdegan": "Workers inspecting rows of cosmetic bottles on a conveyor belt inside a bright personal care factory in Indonesia.",
+  "takeaway": "Laporan ini netral bagi fundamental VICI karena perubahan yang terjadi murni soal struktur governance dan klasifikasi usaha, bukan soal uang yang masuk atau keluar dari kas perusahaan. Yang tersentuh hanya mekanisme representasi hukum, dari sebelumnya satu direktur cukup menandatangani kontrak atas nama perusahaan, sekarang wajib dua direktur, sehingga ada lapis pengecekan tambahan sebelum perusahaan terikat kontrak atau melepas aset tak berwujud seperti merek dan paten. Tidak ada angka ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang berubah lewat dokumen ini, dan perusahaan sendiri menegaskan tidak ada dampak ke operasional atau keuangan. Yang perlu dipantau selanjutnya adalah apakah wewenang baru melepas atau mengalihkan merek dan paten ini benar dipakai, misalnya bila suatu saat VICI mengumumkan transaksi penjualan atau lisensi merek dengan persetujuan komisaris, karena dokumen ini baru membentuk kerangka hukumnya, belum transaksinya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Tanggal efektif persetujuan perubahan anggaran dasar oleh Kemenkumham"
+   }
+  ]
+ },
+ {
+  "slug": "dmmx-direktur-supardi-tan-mundur-keputusan-di-rups-terdekat",
+  "category": "Aksi Korporasi",
+  "title": "DMMX: Direktur Supardi Tan Mundur, [Keputusan] di RUPS Terdekat",
+  "deck": "Direktur Supardi Tan mengundurkan diri pada 25 November 2026, keputusan final menunggu RUPS terdekat DMMX.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T17:55:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_DMMX_E019_71cc6568-a501-427c-9b7d-7d924354836d-20261125175600.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMMX",
+  "tags": [
+   "DMMX",
+   "pengunduran diri direksi",
+   "tata kelola perusahaan",
+   "Digital Mediatama Maxima"
+  ],
+  "body": [
+   "PT Digital Mediatama Maxima Tbk (DMMX) menyampaikan keterbukaan informasi bahwa Direktur Supardi Tan mengundurkan diri dari jabatannya. Perseroan menerima informasi pengunduran diri tersebut pada 25 November 2026, dan pelaporan ini dilakukan untuk memenuhi Peraturan OJK No. 33/POJK.04/2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik.",
+   "Perseroan menyatakan proses selanjutnya akan mengikuti Anggaran Dasar Perseroan, dan permohonan pengunduran diri Supardi Tan baru akan diputuskan secara resmi dalam Rapat Umum Pemegang Saham (RUPS) terdekat. Dalam suratnya, DMMX menyebut tidak ada dampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha akibat kejadian ini, dan tidak ada fakta material lain yang belum diungkapkan kepada publik.",
+   "Laporan ini terbit pada hari yang sama dengan laporan serupa mengenai pengunduran diri Direktur Niko Navea Aquino dari DMMX. Dengan begitu, dalam satu hari perseroan mencatat dua pengunduran diri direktur sekaligus, yang keduanya sama-sama menunggu keputusan di RUPS terdekat."
+  ],
+  "fotoAdegan": "Rows of empty ergonomic chairs around a glass-walled boardroom table in a modern office tower, soft morning light",
+  "takeaway": "Laporan ini condong negatif bagi DMMX, karena bukan satu melainkan dua direktur yang mengundurkan diri pada hari yang sama, pola yang lebih patut dicermati ketimbang satu pengunduran diri tunggal meski perseroan menegaskan tidak ada dampak operasional atau keuangan langsung. Pergantian direksi semacam ini tidak langsung mengubah pos keuangan seperti ekuitas, arus kas, atau laba per saham, tetapi pelaku pasar tetap memperhatikannya karena stabilitas jajaran pengurus memengaruhi kepercayaan investor terhadap kesinambungan strategi dan operasional perusahaan. Yang perlu dipantau berikutnya adalah RUPS terdekat DMMX, yang akan memutuskan secara resmi permohonan pengunduran diri Supardi Tan sekaligus Niko Navea Aquino, meski dokumen ini belum mencantumkan tanggal pastinya.",
+  "sentimen": "negatif",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran Diri Direksi dan/atau Komisaris"
+ },
+ {
+  "slug": "public-expose-agrs-30-november-laba-bersih-naik-21-25",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose AGRS 30 November: [Laba Bersih] Naik 21,25%",
+  "deck": "Bank IBK Indonesia (AGRS) memaparkan laba bersih sembilan bulan 2026 naik 21,25 persen menjadi Rp194 miliar dalam materi Public Expose 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T17:45:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_AGRS_E003_879ebfa0-7460-48e5-b983-e834ea575e50-20261125174516.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGRS",
+  "tags": [
+   "AGRS",
+   "Public Expose",
+   "Bank IBK Indonesia",
+   "Laporan Keuangan Q3 2026"
+  ],
+  "body": [
+   "PT Bank IBK Indonesia Tbk (AGRS) menyampaikan materi Public Expose dan Investor Relations Tahunan 2026 kepada Bursa Efek Indonesia melalui surat nomor 055/DIR/XI/26 tertanggal 25 November 2026, ditandatangani Direktur Lee Seongyoon dan Direktur Kepatuhan Alexander Frans Rori. Perusahaan menyebut acara tersebut akan berlangsung pada Senin, 30 November 2026, merujuk pada rencana yang sebelumnya diumumkan lewat surat 16 November 2026 dan surat koreksi waktu pelaksanaan pada 25 November 2026.",
+   "Materi presentasi memuat kinerja keuangan kuartal ketiga 2026. Total aset bank tercatat Rp24,86 triliun, naik Rp2,35 triliun dari Rp22,51 triliun pada periode yang sama tahun lalu. Laba bersih sembilan bulan pertama 2026 mencapai Rp194 miliar, naik 21,25 persen dari Rp160 miliar pada periode yang sama 2025, dengan ROE naik dari 3,84 persen menjadi 4,49 persen dan ROA naik dari 1,26 persen menjadi 1,35 persen. Penyaluran pinjaman tumbuh 11,6 persen secara tahunan menjadi Rp15,16 triliun, sementara simpanan nasabah naik ke Rp12,44 triliun. Di sisi lain, rasio kredit macet bruto naik dari 2,20 persen pada kuartal ketiga 2025 menjadi 2,78 persen, dan rasio kecukupan modal (CAR) turun dari 34,86 persen di akhir 2025 menjadi 33,36 persen, meski masih jauh di atas batas minimum regulator.",
+   "Dalam materi yang sama, manajemen memaparkan rencana bisnis jangka panjang hingga 2030: total aset ditargetkan tumbuh dengan laju tahunan 12 persen menjadi Rp40 triliun, pinjaman tumbuh 18 persen per tahun menjadi Rp30 triliun, dan simpanan tumbuh 20 persen per tahun menjadi Rp25 triliun, dengan porsi dana murah (CASA, rekening giro dan tabungan berbunga rendah) ditargetkan naik dari 20 persen menjadi lebih dari 30 persen dari total simpanan. Laba bersih ditargetkan tumbuh dengan laju tahunan 26 persen menjadi Rp600 miliar pada 2030. Manajemen juga menyebut modal inti bank yang kini Rp5,8 triliun tinggal terpaut sekitar Rp100 miliar dari ambang Rp6 triliun untuk naik kelas dari kategori bank modal inti kecil (KBMI 1) ke kategori menengah (KBMI 2), yang akan membuka kapasitas penyaluran pinjaman yang lebih besar."
+  ],
+  "fotoAdegan": "Bank employees assisting customers at a busy modern branch counter in a Jakarta office tower, soft morning light.",
+  "takeaway": "Laporan ini condong positif karena laba bersih sembilan bulan 2026 naik 21,25 persen menjadi Rp194 miliar, didukung pertumbuhan pinjaman dan simpanan sekitar 11-12 persen serta modal yang kian mendekati ambang kelas bank yang lebih tinggi. Yang perlu diperhatikan adalah rasio kredit macet bruto naik dari 1,92 persen di akhir 2025 menjadi 2,78 persen pada kuartal ketiga 2026, sementara margin bunga bersih, selisih antara bunga yang diterima dari kredit dan bunga yang dibayarkan ke nasabah penyimpan dibagi aset produktif, justru menyusut dari 2,95 persen menjadi 2,54 persen secara tahunan, dua sinyal bahwa kualitas aset dan profitabilitas inti sedang tertekan di tengah pertumbuhan bisnis. Modal inti bank tercatat Rp5,8 triliun, hanya terpaut sekitar Rp100 miliar dari ambang Rp6 triliun yang akan membawanya naik kelas ke kategori bank modal inti menengah (KBMI 2) dan membuka kapasitas pinjaman yang lebih besar. Yang perlu dipantau berikutnya adalah realisasi proyeksi manajemen bahwa rasio kredit macet akan turun pada akhir 2026 lewat penjualan aset bermasalah, serta kecepatan modal inti menembus Rp6 triliun agar resmi pindah kelas ke KBMI 2.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Public Expose dan Investor Relations Tahunan 2026"
+   }
+  ]
+ },
+ {
+  "slug": "rups-smcb-27-november-aktivasi-bisnis-dagang-bahan-konstruksi",
+  "category": "Aksi Korporasi",
+  "title": "RUPS SMCB 27 November: [Aktivasi] Bisnis Dagang Bahan Konstruksi",
+  "deck": "SMCB minta persetujuan RUPS 27 November 2026 untuk mengaktifkan izin dagang bahan konstruksi (KBLI 46733), menyusul anak usahanya SBB dimerger ke VUB milik Semen Indonesia.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T17:33:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_SMCB_E019_cff9ca87-0beb-4690-827d-961cc33894fc-20261125173346.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMCB",
+  "tags": [
+   "SMCB",
+   "RUPS",
+   "KBLI 46733",
+   "Semen Indonesia"
+  ],
+  "body": [
+   "PT Solusi Bangun Indonesia Tbk (SMCB) akan meminta persetujuan Rapat Umum Pemegang Saham (RUPS) pada 27 November 2026 untuk mengaktifkan kembali izin usaha perdagangan besar bahan konstruksi dari tanah liat, kapur, semen, atau kaca, yang dikenal dengan kode klasifikasi usaha KBLI 46733. Izin ini sebenarnya sudah tercantum di anggaran dasar perusahaan sejak lama sehingga pengaktifannya tidak memerlukan perubahan anggaran dasar. Keterbukaan ini merupakan tambahan informasi atas pengumuman rencana perubahan kegiatan usaha yang sudah disampaikan SMCB pada 21 Oktober 2026, sebagai pemenuhan aturan OJK Nomor 17/2020 tentang transaksi material dan perubahan kegiatan usaha.",
+   "Langkah ini berawal dari perjanjian penggabungan bersyarat yang diteken pada 21 Agustus 2026 oleh induk usaha PT Semen Indonesia (Persero) Tbk, SMCB, PT Semen Indonesia Beton, PT Varia Usaha Beton (VUB), anak usaha SMCB yaitu PT Solusi Bangun Beton (SBB), dan PT Readymix Concrete Indonesia. Dalam perjanjian itu, SBB, PT Semen Indonesia Beton, dan PT Readymix Concrete Indonesia akan digabung ke dalam VUB, dengan VUB sebagai perusahaan yang tetap berdiri. Begitu penggabungan itu efektif, seluruh aset, kewajiban, fasilitas produksi, kontrak pelanggan, dan izin usaha SBB beralih ke VUB, yang berarti SMCB kehilangan jalur bisnis dagang agregat dan beton yang selama ini dijalankan lewat SBB. Agar tetap bisa melayani pasar produk turunan semen, SMCB berencana menjalankan sendiri bisnis dagang beton itu melalui entitasnya sendiri, dengan produk yang diperdagangkan diperoleh lewat skema kerja sama produksi dengan pihak ketiga (maklon) yang penyedianya belum ditentukan. Perseroan menyatakan tidak perlu izin dari kreditur sindikasi, termasuk PT Bank Negara Indonesia selaku agen fasilitas dan delapan bank lain pemberi pinjaman sindikasi, untuk menjalankan rencana ini.",
+   "Kantor jasa penilai independen, Ferdinand, Danar, Ichsan dan Rekan, menyimpulkan rencana aktivasi ini layak secara bisnis dalam laporan studi kelayakan bertanggal 10 November 2026, revisi dari laporan sebelumnya setelah OJK meminta tambahan data pada 4 November 2026. Proyeksi keuangan yang dipakai memperkirakan bisnis ini mulai mencetak laba usaha positif pada semester kedua 2026 dan terus bertumbuh hingga 2031, dengan nilai kini bersih proyek tercatat positif, tingkat pengembalian internal sebesar 44,05 persen, dan masa pengembalian investasi sekitar 3 tahun 1 bulan. Indeks profitabilitas proyek, yaitu perbandingan antara manfaat dan biaya investasi, tercatat 2,58 kali, yang berarti setiap rupiah yang ditanamkan diperkirakan menghasilkan manfaat 2,58 kali lipat nilainya menurut hitungan penilai."
+  ],
+  "fotoAdegan": "Workers in hard hats loading sacks of cement onto a flatbed truck at a concrete batching plant, overcast sky",
+  "takeaway": "Laporan ini condong positif bagi SMCB, karena menunjukkan perusahaan bergerak cepat mengamankan sumber pendapatan dari bisnis beton yang sebelumnya dijalankan anak usahanya SBB, sebelum anak usaha itu lepas lewat penggabungan ke VUB milik Grup Semen Indonesia, dan penilai independen menyimpulkan bisnis pengganti ini menguntungkan dengan tingkat pengembalian 44 persen dan balik modal dalam tiga tahun. Yang tersentuh di sini adalah arus kas dan laba usaha SMCB ke depan, bukan jumlah saham beredar atau beban utang, sebab aktivasi KBLI ini tidak melibatkan penerbitan saham baru maupun pinjaman tambahan, hanya menjalankan kembali izin dagang yang sudah ada di anggaran dasar. Pelaku pasar biasanya mencermati proyeksi arus kas semacam ini karena menggambarkan kemampuan perusahaan menjaga pendapatan setelah satu lini bisnisnya berpindah tangan lewat restrukturisasi internal grup. Yang perlu dipantau berikutnya adalah hasil RUPS Perseroan pada 27 November 2026, yang menjadi syarat wajib sebelum aktivasi kegiatan usaha ini bisa berjalan, serta kepastian tanggal efektif penggabungan SBB, PT Semen Indonesia Beton, dan PT Readymix Concrete Indonesia ke VUB yang akan menentukan kapan bisnis beton benar-benar beralih dari SMCB.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "RUPS persetujuan aktivasi kegiatan usaha KBLI 46733"
+   }
+  ]
+ },
+ {
   "slug": "pupuk-indonesia-mulai-desain-pabrik-amurea-fakfak",
   "category": "BUMN",
   "title": "Pupuk Indonesia Mulai Desain Pabrik Amurea [Fakfak]",
@@ -12300,8 +12519,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-kija-pendapatan-q3-naik-16-laba-turun-38",
   "category": "Aksi Korporasi",
-  "title": "Public Expose KIJA: Pendapatan Q3 Naik 16%, Laba [Turun] 38%",
-  "deck": "Pendapatan KIJA kuartal III 2026 naik 16 persen jadi Rp4,25 triliun, tapi laba bersih turun 38 persen akibat biaya refinancing sekali waktu.",
+  "title": "Public Expose KIJA 20 November: [One-Off] Rp180 M Tak Berulang 2027",
+  "deck": "Risalah public expose KIJA 20 November mengungkap beban one-off Rp180 miliar dari pelunasan dipercepat Senior Notes, dipastikan tak berulang pada 2027.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T21:48:07",
@@ -12310,20 +12529,30 @@ var ARTICLES = [
   "emiten": "KIJA",
   "tags": [
    "KIJA",
-   "Kawasan Industri Jababeka",
    "Public Expose",
-   "Kinerja Keuangan"
+   "Kendal Industrial Park",
+   "Senior Notes"
   ],
   "body": [
-   "Kawasan Industri Jababeka Tbk (KIJA) menyampaikan materi public expose tahunan kepada Bursa Efek Indonesia pada 17 November 2026, merujuk pada surat pengumuman rencana public expose tahunan sebelumnya tertanggal 5 November 2026. Materi ditandatangani oleh Corporate Secretary T. Budianto Liman dan memuat kinerja keuangan kuartal III 2026 beserta gambaran operasional perusahaan.",
-   "Pendapatan konsolidasian KIJA pada kuartal III 2026 tercatat Rp4.254,9 miliar, tumbuh 16 persen dari Rp3.675 miliar pada periode sama tahun sebelumnya. Namun laba bersih turun 38 persen menjadi Rp391,7 miliar dari Rp635 miliar, yang menurut materi ini disebabkan oleh biaya satu kali dari refinancing utang pada kuartal II 2026. Laba kotor naik 7 persen menjadi Rp1.577,8 miliar, tapi marjin laba kotor turun dari 40 persen menjadi 37 persen. Segmen infrastruktur menyumbang Rp2.242,5 miliar atau 53 persen dari total pendapatan, tumbuh 15 persen, sementara segmen pengembangan lahan dan properti menyumbang Rp1.914,8 miliar, termasuk Rp939,9 miliar yang dibukukan khusus pada kuartal III. EBITDA tumbuh 4 persen menjadi Rp1.362,4 miliar.",
-   "Dari sisi neraca, total aset KIJA naik menjadi Rp15.151 miliar per akhir September 2026 dari Rp15.056 miliar pada akhir 2025, dengan posisi kas Rp3.153,7 miliar. Total pinjaman naik menjadi Rp4.859 miliar dari Rp4.602 miliar, sementara total ekuitas relatif stagnan di Rp8.105 miliar dari Rp8.144 miliar, membuat rasio utang terhadap ekuitas naik dari 0,57 menjadi 0,60. Penjualan marketing sembilan bulan 2026 mencapai Rp1.524,4 miliar, dibandingkan realisasi penuh tahun 2025 sebesar Rp3.601 miliar yang saat itu mencapai 103 persen dari target. Persediaan lahan (land bank) perusahaan tercatat 5.089 hektare per 30 September 2026, tersebar di Kota Jababeka Cikarang 1.288 hektare, Kendal Industrial Park 427 hektare, Tanjung Lesung 1.481 hektare, dan Morotai 1.893 hektare."
+   "Kawasan Industri Jababeka Tbk (KIJA) melaporkan hasil pelaksanaan public expose tahunan 2025 yang digelar Jumat, 20 November 2026, di President Lounge, Menara Batavia, Jakarta Pusat, dihadiri 16 peserta eksternal dari kalangan investor dan media. Dalam sesi tanya jawab, manajemen menjelaskan bahwa beban satu kali (one-off) yang menekan laba kuartal III 2026 berasal dari pelunasan dipercepat Senior Notes yang semula baru jatuh tempo 2027, terdiri dari percepatan amortisasi sekitar Rp25 miliar dan kerugian penghentian kontrak derivatif sekitar Rp155 miliar, totalnya sekitar Rp180 miliar. Manajemen memastikan beban ini tidak akan muncul lagi pada 2027 karena pelunasan sudah selesai.",
+   "Manajemen juga memaparkan kontribusi Kawasan Industri Kendal, usaha patungan dengan Sembcorp dari Singapura dengan porsi kepemilikan 51 persen KIJA dan 49 persen Sembcorp. Kendal menyumbang sekitar 70 persen atau Rp1,079 triliun dari total penjualan marketing sembilan bulan 2026 sebesar Rp1,52 triliun, dan sekitar 35 persen dari total pendapatan Perseroan. Kendal juga membagikan dividen kepada kedua pemegang saham sebesar Rp700,5 miliar pada 2026, naik dari Rp514 miliar pada 2025, dengan 51 persen menjadi bagian KIJA. Pendapatan PT United Power, anak usaha KIJA yang mengelola infrastruktur di Kendal, naik menjadi sekitar Rp860 miliar dari Rp586 miliar pada 2025.",
+   "Untuk tahun 2027, manajemen menyebut target pertumbuhan pendapatan dan penjualan marketing secara rinci masih dalam proses penyusunan anggaran, namun menyatakan prospek segmen infrastruktur tetap positif seiring bertambahnya tenant yang mulai beroperasi di Kendal dan Cikarang. Perseroan juga tengah mengembangkan kawasan baru bernama Seafer sebagai sumber pertumbuhan jangka menengah tiga sampai lima tahun ke depan, serta melanjutkan pengembangan bertahap Kawasan Ekonomi Khusus Morotai seluas 1.893 hektare yang sejauh ini baru diisi fasilitas dasar seperti hotel dan pendidikan.",
+   "Kinerja keuangan yang sebelumnya dipaparkan dalam materi public expose masih berlaku: pendapatan konsolidasian kuartal III 2026 tumbuh 16 persen menjadi Rp4.254,9 miliar, sementara laba bersih turun 38 persen menjadi Rp391,7 miliar akibat beban one-off tersebut. Total aset KIJA tercatat Rp15.151 miliar per akhir September 2026, dengan rasio utang terhadap ekuitas naik dari 0,57 menjadi 0,60, dan land bank mencapai 5.089 hektare tersebar di Cikarang, Kendal, Tanjung Lesung, dan Morotai."
   ],
   "fotoAdegan": "Wide view of an industrial estate access road lined with factory warehouses and loading docks under clear afternoon light",
-  "takeaway": "Laporan ini NETRAL bagi KIJA: pendapatan dan EBITDA tumbuh dua digit, tapi laba bersih justru turun 38 persen, dan penyebabnya adalah beban satu kali dari refinancing utang, bukan pelemahan bisnis inti, sehingga belum bisa disebut sepenuhnya positif atau negatif. Yang perlu diperhatikan adalah marjin laba kotor yang menyusut dari 40 persen menjadi 37 persen, artinya biaya yang dikeluarkan perusahaan untuk menghasilkan pendapatan relatif membesar, dan rasio utang terhadap modal sendiri yang naik tipis dari 0,57 menjadi 0,60, tanda porsi utang dibanding modal sendiri sedikit membesar meski kemampuan membayar bunga dari EBITDA masih longgar, sekitar 4,9 kali beban bunga. Dokumen ini disampaikan menjelang sesi public expose tahunan yang sudah diumumkan lewat surat 5 November 2026, tapi tanggal pasti sesi tersebut tidak tercantum di sini, sehingga investor perlu menunggu paparan publik itu untuk mendengar langsung penjelasan manajemen soal dampak refinancing terhadap laba ke depan.",
-  "sentimen": "netral",
+  "takeaway": "Risalah public expose ini condong POSITIF bagi KIJA, karena manajemen memastikan beban yang menggerus laba kuartal III tahun ini tidak akan terulang pada 2027, sementara kontribusi dari usaha patungan di Kendal justru tumbuh. Pos yang tersentuh adalah beban bunga, karena beban sekitar Rp180 miliar itu berasal dari pelunasan dipercepat obligasi global (Senior Notes) yang tadinya baru jatuh tempo 2027, ditambah arus kas dari segmen infrastruktur yang mendapat suntikan dividen Rp700,5 miliar dari Kendal, naik dari Rp514 miliar tahun sebelumnya. Yang perlu dipantau berikutnya adalah laporan keuangan penuh tahun 2026 untuk memastikan beban one-off itu benar-benar tidak muncul lagi, serta finalisasi anggaran dan target pertumbuhan 2027 yang menurut manajemen masih dalam proses penyusunan.",
+  "sentimen": "positif",
   "peristiwa": "public-expose",
-  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T17:41:35",
+    "ringkas": "Risalah public expose 20 November mengungkap beban one-off Rp180 miliar dari pelunasan Senior Notes, dipastikan tak berulang pada 2027.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_KIJA_E003_43e539f7-fc62-4201-af3e-54daae6cc05d-20261125174136.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-25T17:41:35"
  },
  {
   "slug": "bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn",
@@ -22497,8 +22726,8 @@ var ARTICLES = [
  {
   "slug": "bcic-jadwalkan-rupslb-pada-17-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "BCIC Jadwalkan [RUPSLB] pada 17 Desember 2026",
-  "deck": "Bank JTrust Indonesia (BCIC) akan menggelar RUPSLB pada 17 Desember 2026, dengan pemegang saham tercatat per 24 November 2026 yang berhak hadir.",
+  "title": "RUPSLB BCIC 17 Desember: [Agenda] Rombak Direksi dan Komisaris",
+  "deck": "Panggilan resmi RUPSLB BCIC terbit, memuat agenda penggantian Direktur Utama dan jajaran komisaris, termasuk batalnya pengangkatan satu direktur yang sudah disetujui RUPST sebelumnya.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T16:38:36",
@@ -22508,17 +22737,51 @@ var ARTICLES = [
   "tags": [
    "BCIC",
    "RUPSLB",
-   "Bank JTrust Indonesia",
-   "tata kelola"
+   "Direksi dan Komisaris",
+   "Bank JTrust Indonesia"
   ],
   "body": [
-   "PT Bank JTrust Indonesia Tbk (BCIC) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026, pukul 14.00 WIB, bertempat di Sahid Sudirman Center Lantai 35, Main Hall, Jalan Jenderal Sudirman No. 86, Jakarta. Pemegang saham yang berhak hadir atau diwakili adalah yang tercatat dalam Daftar Pemegang Saham (DPS) per 24 November 2026, termasuk pemilik saham dalam sub rekening efek di KSEI pada tanggal yang sama hingga penutupan perdagangan di bursa. Panggilan resmi RUPSLB, yang biasanya baru memuat mata acara rapat secara rinci, akan diumumkan pada Rabu, 25 November 2026 melalui situs web Bursa Efek Indonesia, eASY.KSEI, dan situs web perseroan.",
-   "Sesuai POJK No. 15/POJK.04/2020 dan Anggaran Dasar Perseroan, pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili sedikitnya 1/20 dari total saham berhak suara, dan usulan tertulis itu wajib disampaikan ke direksi paling lambat 7 hari sebelum tanggal panggilan, yakni sebelum 18 November 2026. Perseroan juga menyediakan fasilitas kuasa elektronik lewat eASY.KSEI atau formulir surat kuasa manual bagi pemegang saham yang tidak bisa hadir langsung, yang bisa dipakai sejak tanggal panggilan 25 November 2026 hingga 16 Desember 2026 pukul 12.00 WIB, sehari sebelum rapat berlangsung.",
-   "Pengumuman ini terbit di tengah rangkaian pergantian pucuk pimpinan BCIC. Dalam sepekan terakhir, Direktur Utama Ritsuo Fukadai dan seorang komisaris independen masing-masing menyatakan mundur, dan keduanya masih menunggu proses persetujuan RUPS serta restu Otoritas Jasa Keuangan. Dokumen pemberitahuan RUPSLB ini sendiri belum mencantumkan mata acara rapat, sehingga belum bisa dipastikan apakah persetujuan atas pergantian direksi dan komisaris tersebut akan dibahas dalam RUPSLB 17 Desember ini."
+   "PT Bank JTrust Indonesia Tbk (BCIC) menerbitkan panggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 25 November 2026, dan untuk pertama kalinya mengungkap agenda rapat yang sebelumnya belum diumumkan. Agenda tunggal rapat ini adalah perubahan susunan direksi dan komisaris.",
+   "Dalam agenda itu, perseroan mengusulkan persetujuan pengunduran diri Ritsuo Fukadai sebagai Direktur Utama dan pengakhiran jabatan Cho Won June sebagai Direktur, keduanya efektif sejak rapat ditutup. Dua Komisaris Independen, Benny Siswanto dan Abdullah Firman Wibowo, juga mengundurkan diri efektif sejak penutupan rapat yang sama.",
+   "Sebagai pengganti, perseroan mengusulkan Abdullah Firman Wibowo naik menjadi Direktur Utama dan Hari Satriyono sebagai Direktur baru, keduanya baru efektif menjabat setelah lulus uji kelayakan dan kepatutan (fit and proper test) dari Otoritas Jasa Keuangan (OJK), dengan masa jabatan sampai RUPST pertama setelah pengangkatan. Edi Setijawan dan Robby Mondong diusulkan sebagai Komisaris Independen baru dengan mekanisme serupa, menjabat sampai RUPST keempat. Perseroan juga mengusulkan perubahan jabatan Masayoshi Kobayashi dari Wakil Presiden Direktur menjadi Direktur.",
+   "Dokumen ini juga melaporkan bahwa perseroan membatalkan rencana pengangkatan Raja Pardede sebagai Direktur, yang sebelumnya sudah disetujui RUPST 30 Juni 2026 dengan syarat lulus uji kelayakan dan kepatutan OJK. Perseroan menyatakan pembatalan ini murni soal efisiensi struktur organisasi karena formasi direksi enam orang saat ini dinilai sudah optimal, bukan soal kapasitas atau kinerja Raja Pardede, yang akan tetap menjabat Senior Executive Vice President urusan tinjauan risiko kredit dan pemulihan aset.",
+   "RUPSLB tetap dijadwalkan pada Kamis, 17 Desember 2026 pukul 14.00 WIB di Sahid Sudirman Center Lantai 35, Jakarta, dengan pemegang saham yang tercatat per 24 November 2026 yang berhak hadir atau memberi kuasa. Pemegang saham bisa menitipkan suara lewat e-proxy eASY.KSEI paling lambat 16 Desember 2026 pukul 12.00 WIB, atau lewat surat kuasa konvensional ke Biro Administrasi Efek PT Sinartama Gunita paling lambat 14 Desember 2026 pukul 16.00 WIB."
   ],
   "fotoAdegan": "Rows of empty chairs arranged for a corporate shareholders meeting in a large conference hall, soft morning light through tall windows",
-  "takeaway": "Laporan ini netral karena isinya sebatas jadwal dan mekanisme RUPSLB, tanpa mata acara yang bisa langsung dinilai berdampak ke kinerja keuangan BCIC. Pemberitahuan ini tidak menyentuh pos seperti ekuitas atau laba per saham, tapi penting dari sisi tata kelola karena RUPSLB adalah forum resmi tempat pemegang saham memberi suara, termasuk kalau nanti diminta menyetujui pergantian direksi atau komisaris yang sedang berproses di BCIC. Yang perlu dipantau adalah panggilan resmi RUPSLB pada 25 November 2026, karena di situlah mata acara rapat baru akan diumumkan secara rinci. Tenggat pengajuan usul mata acara oleh pemegang saham jatuh pada 18 November 2026, sementara RUPSLB sendiri digelar 17 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini netral karena agendanya soal tata kelola dan susunan manajemen, bukan transaksi yang langsung mengubah uang kas atau utang bank, meski ada perubahan arah yang patut dicatat: rencana pengangkatan Raja Pardede yang sudah disetujui RUPST Juni lalu dibatalkan, pertanda formasi direksi masih bisa berubah meski sudah diputuskan pemegang saham. Yang tersentuh di sini adalah komposisi direksi dan komisaris, bukan pos keuangan seperti ekuitas atau laba per saham, tapi pelaku pasar tetap memperhatikannya karena pergantian Direktur Utama bisa mengubah arah strategi bisnis dan cara bank menjalankan kepatuhannya ke OJK. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 17 Desember 2026, serta proses uji kelayakan dan kepatutan OJK yang harus dilalui Abdullah Firman Wibowo, Hari Satriyono, Edi Setijawan, dan Robby Mondong sebelum resmi menjabat.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T18:14:19",
+    "ringkas": "Panggilan resmi RUPSLB BCIC 17 Desember 2026 terbit, memuat agenda pergantian Dirut dan komisaris serta batalnya pengangkatan Raja Pardede sebagai Direktur.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BCIC_E002_3158e23d-fe06-486d-92b5-77264dd7a385-20261125181421.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-25T18:14:19",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Tanggal pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Panggilan resmi RUPSLB diumumkan"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Tenggat pengiriman surat kuasa konvensional ke BAE"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Tenggat pemberian e-proxy lewat eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "RUPSLB BCIC digelar di Jakarta"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "arab-saudi-percepat-tenggat-kontrak-dan-visa-haji-2027",
@@ -26217,8 +26480,8 @@ var ARTICLES = [
  {
   "slug": "cani-gelar-rupst-dan-rupslb-16-desember",
   "category": "Aksi Korporasi",
-  "title": "CANI Gelar RUPST dan RUPSLB [16 Desember]",
-  "deck": "PT Capitol Nusantara Indonesia Tbk (CANI) menjadwalkan RUPST dan RUPSLB pada 16 Desember 2026, dengan tanggal pencatatan pemegang saham 23 November 2026.",
+  "title": "RUPSLB CANI 16 Desember: [Modal Dasar] Jadi Agenda Utama",
+  "deck": "Pemanggilan resmi RUPST-RUPSLB CANI terbit dengan agenda peningkatan modal dasar dan perubahan anggaran dasar. Rapat digelar 16 Desember 2026 di kantor Kedoya, Jakarta Barat.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T14:13:11",
@@ -26227,18 +26490,39 @@ var ARTICLES = [
   "emiten": "CANI",
   "tags": [
    "CANI",
-   "RUPST",
    "RUPSLB",
-   "Capitol Nusantara Indonesia"
+   "RUPST",
+   "Modal Dasar"
   ],
   "body": [
-   "PT Capitol Nusantara Indonesia Tbk (CANI) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) untuk tahun buku yang berakhir 30 Juni 2026, sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB). Kedua rapat digelar bersamaan pada Rabu, 16 Desember 2026, pukul 13.30 WIB. Lokasi rapat belum diumumkan dan akan disampaikan menyusul. Rencana ini disampaikan sesuai pasal 21 ayat 4 Anggaran Dasar Perseroan juncto POJK Nomor 15/POJK.04/2020 tentang Rencana dan Penyelenggaraan RUPS Perusahaan Terbuka, dan ditandatangani Direktur Yanuar C. Wijaya di Jakarta pada 9 November 2026.",
-   "Pemanggilan resmi yang memuat agenda lengkap rapat akan diterbitkan melalui satu surat kabar harian berbahasa Indonesia berperedaran nasional pada 24 November 2026, serta dipublikasikan di situs web Bursa Efek Indonesia, situs KSEI (eASY.KSEI), dan situs perusahaan. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada 23 November 2026 sampai pukul 16.00 WIB.",
-   "Perseroan juga membuka kesempatan bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat sesuai pasal 21 ayat 7 Anggaran Dasar Perseroan juncto pasal 16 POJK 15/2020. Usulan tersebut harus diterima Direksi paling lambat 7 hari sebelum tanggal pemanggilan rapat, yaitu sekitar 17 November 2026."
+   "PT Capitol Nusantara Indonesia Tbk (CANI) menerbitkan pemanggilan resmi untuk Rapat Umum Pemegang Saham Tahunan (RUPST) dan Luar Biasa (RUPSLB) yang akan digelar bersamaan pada Rabu, 16 Desember 2026, pukul 13.30 WIB, di Kantor Sekretariat Perseroan, Kedoya Elok Plaza Blok DB No. 19, Kedoya Selatan, Kebon Jeruk, Jakarta Barat, dengan opsi hadir online lewat aplikasi eASY.KSEI.",
+   "Pemanggilan ini memuat agenda lengkap yang sebelumnya belum diumumkan. Untuk RUPST, ada tiga mata acara: persetujuan laporan tahunan dan laporan keuangan untuk tahun buku yang berakhir 30 Juni 2026 sekaligus pembebasan tanggung jawab direksi dan komisaris atas tahun buku tersebut, penunjukan akuntan publik untuk mengaudit tahun buku yang berakhir 30 Juni 2027, serta penetapan gaji, honorarium, dan tunjangan bagi direksi dan komisaris.",
+   "Untuk RUPSLB, ada tiga mata acara: peningkatan modal dasar perseroan, perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan klasifikasi lapangan usaha mengikuti Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, dan perubahan Pasal 12 ayat 6 Anggaran Dasar mengenai tugas dan wewenang direksi. Dokumen ini tidak menyebutkan besaran kenaikan modal dasar yang diusulkan.",
+   "Pemegang saham yang berhak hadir atau diwakili adalah yang tercatat dalam Daftar Pemegang Saham sampai 23 November 2026 pukul 16.00 WIB, sesuai jadwal yang sudah diumumkan sebelumnya. Perseroan menyediakan mekanisme kuasa elektronik lewat eASY.KSEI maupun surat kuasa fisik melalui biro administrasi efek PT Adimitra Jasa Korpora bagi pemegang saham yang tidak hadir langsung."
   ],
   "fotoAdegan": "A tugboat towing a loaded barge along a calm strait near a Batam port, workers on deck checking ropes, early morning light",
-  "takeaway": "Laporan ini netral bagi CANI karena isinya baru soal jadwal dan tata cara RUPST dan RUPSLB, belum ada keputusan atau agenda yang berdampak langsung ke kinerja keuangan. Yang perlu diperhatikan, RUPST dan RUPSLB biasanya memutuskan hal yang menyentuh pos keuangan penting, misalnya pembagian dividen yang mengurangi kas dan ekuitas perusahaan, atau perubahan susunan direksi dan aksi korporasi yang bisa mengubah jumlah saham beredar sehingga laba per saham ikut bergeser. Karena agenda rincinya belum diumumkan di dokumen ini, dampaknya belum bisa dinilai. Yang perlu dipantau selanjutnya adalah pemanggilan resmi berisi agenda lengkap yang dijadwalkan terbit 24 November 2026, serta pelaksanaan rapat itu sendiri pada 16 Desember 2026, saat substansi keputusannya baru akan terlihat.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi CANI karena baru memuat agenda rapat, bukan keputusan final, dan besaran kenaikan modal dasar yang diusulkan belum disebutkan dalam dokumen ini. Yang tersentuh adalah jumlah saham beredar dan ekuitas, sebab peningkatan modal dasar biasanya membuka jalan bagi penerbitan saham baru lewat right issue atau private placement yang, bila nanti direalisasikan, bisa menambah jumlah saham beredar dan membuat laba per saham pemegang lama tergerus; agenda penetapan gaji direksi dan komisaris juga menyentuh beban operasional meski besarannya belum diumumkan. Yang perlu dipantau adalah pelaksanaan RUPST dan RUPSLB pada 16 Desember 2026, saat besaran kenaikan modal dasar dan hasil pemungutan suara setiap agenda baru akan diketahui.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T17:18:31",
+    "ringkas": "Pemanggilan resmi RUPST-RUPSLB CANI terbit dengan agenda peningkatan modal dasar dan dua perubahan anggaran dasar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_CANI_E002_18929a55-2ff4-48a2-89ac-3355d8b40964-20261125171832.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Tahunan dan Luar Biasa (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-25T17:18:31",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPS"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "RUPST dan RUPSLB CANI digelar"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bbni-tutup-layanan-bni-mobile-banking-pindah-ke-wondr",

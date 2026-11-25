@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rupslb-byan-23-november-direksi-diganti-usai-akuisisi-jhonlin",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BYAN 23 November: [Direksi] Diganti Usai Akuisisi Jhonlin",
+  "deck": "Bayan Resources mengganti hampir seluruh direksi dan komisaris lewat RUPSLB 23 November 2026 setelah PT Jhonlin Baratama membeli saham perseroan, tapi pengendali tetap Dato' Low Tuck Kwong.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "pergantian direksi",
+   "Jhonlin Baratama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BYAN_E023A_5fcba8c1-8061-4197-8316-70502c1676bc-20261125182729.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-byan-23-nov-direksi-komisaris-diganti-total",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB BYAN 23 Nov: [Direksi] & Komisaris Diganti Total",
+  "deck": "RUPSLB Bayan Resources 23 November mengganti seluruh direksi dan empat dari lima komisaris. Ary Bastari jadi Direktur Utama baru, Budi Waseso pimpin Dewan Komisaris.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "RUPSLB",
+   "Direksi",
+   "Komisaris"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BYAN_E019_0732c568-be53-486a-827a-adebc03801b5-20261125182625.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-vtny-23-nov-direktur-utama-baru-tri-ismardiko-widyawan",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB VTNY 23 Nov: [Direktur Utama] Baru Tri Ismardiko Widyawan",
+  "deck": "RUPSLB VTNY 23 November mengangkat Tri Ismardiko Widyawan sebagai Direktur Utama baru menggantikan Junichiro Waide, sementara Hosea Sanjaya jadi Komisaris Utama baru.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VTNY",
+   "Venteny Fortuna International",
+   "perubahan pengurus",
+   "RUPSLB"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_VTNY_E036_2fbe5c56-d836-4408-aaf0-79b6aa310ba2-20261125181850.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "perubahan-anggaran-dasar-vici-wakil-direksi-jadi-2-orang",
+  "category": "Aksi Korporasi",
+  "title": "Perubahan Anggaran Dasar VICI: [Wakil Direksi] Jadi 2 Orang",
+  "deck": "VICI mengubah anggaran dasar lewat akta 29 Oktober 2026: direksi dapat wewenang baru melepas merek atau paten, dan jumlah direksi yang mewakili perusahaan naik dari satu jadi dua orang.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VICI",
+   "anggaran dasar",
+   "corporate governance",
+   "Victoria Care Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_VICI_E019_ac36a885-dce7-4f76-883b-8480591017a4-20261125180726.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmmx-direktur-supardi-tan-mundur-keputusan-di-rups-terdekat",
+  "category": "Aksi Korporasi",
+  "title": "DMMX: Direktur Supardi Tan Mundur, [Keputusan] di RUPS Terdekat",
+  "deck": "Direktur Supardi Tan mengundurkan diri pada 25 November 2026, keputusan final menunggu RUPS terdekat DMMX.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMMX",
+   "pengunduran diri direksi",
+   "tata kelola perusahaan",
+   "Digital Mediatama Maxima"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_DMMX_E019_71cc6568-a501-427c-9b7d-7d924354836d-20261125175600.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-agrs-30-november-laba-bersih-naik-21-25",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose AGRS 30 November: [Laba Bersih] Naik 21,25%",
+  "deck": "Bank IBK Indonesia (AGRS) memaparkan laba bersih sembilan bulan 2026 naik 21,25 persen menjadi Rp194 miliar dalam materi Public Expose 30 November 2026.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGRS",
+   "Public Expose",
+   "Bank IBK Indonesia",
+   "Laporan Keuangan Q3 2026"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_AGRS_E003_879ebfa0-7460-48e5-b983-e834ea575e50-20261125174516.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rups-smcb-27-november-aktivasi-bisnis-dagang-bahan-konstruksi",
+  "category": "Aksi Korporasi",
+  "title": "RUPS SMCB 27 November: [Aktivasi] Bisnis Dagang Bahan Konstruksi",
+  "deck": "SMCB minta persetujuan RUPS 27 November 2026 untuk mengaktifkan izin dagang bahan konstruksi (KBLI 46733), menyusul anak usahanya SBB dimerger ke VUB milik Semen Indonesia.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMCB",
+   "RUPS",
+   "KBLI 46733",
+   "Semen Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_SMCB_E019_cff9ca87-0beb-4690-827d-961cc33894fc-20261125173346.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pupuk-indonesia-mulai-desain-pabrik-amurea-fakfak",
   "category": "BUMN",
   "title": "Pupuk Indonesia Mulai Desain Pabrik Amurea [Fakfak]",
@@ -6053,15 +6165,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-kija-pendapatan-q3-naik-16-laba-turun-38",
   "category": "Aksi Korporasi",
-  "title": "Public Expose KIJA: Pendapatan Q3 Naik 16%, Laba [Turun] 38%",
-  "deck": "Pendapatan KIJA kuartal III 2026 naik 16 persen jadi Rp4,25 triliun, tapi laba bersih turun 38 persen akibat biaya refinancing sekali waktu.",
+  "title": "Public Expose KIJA 20 November: [One-Off] Rp180 M Tak Berulang 2027",
+  "deck": "Risalah public expose KIJA 20 November mengungkap beban one-off Rp180 miliar dari pelunasan dipercepat Senior Notes, dipastikan tak berulang pada 2027.",
   "date": "17 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "KIJA",
-   "Kawasan Industri Jababeka",
    "Public Expose",
-   "Kinerja Keuangan"
+   "Kendal Industrial Park",
+   "Senior Notes"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/680c96fe47_7413619589.pdf",
   "sourceLabel": "IDX"
@@ -6377,118 +6489,6 @@ var ARTICLES = [
    "hak suara"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0866-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "plan-direksi-jual-1-88-juta-saham-hak-suara-ke-2-64",
-  "category": "Aksi Korporasi",
-  "title": "PLAN: Direksi Antonyo Jual 2,03 Juta Saham Lagi, Hak Suara ke 2,41%",
-  "deck": "Direksi PLAN Antonyo Hartono Tanujaya menjual lagi 2.025.000 saham lewat tiga transaksi repo pada 19 November, hak suara turun dari 2,64% menjadi 2,41%, penjualan kedua dalam kurang dari seminggu.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PLAN",
-   "laporan kepemilikan",
-   "direksi",
-   "repo"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8358-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "adcp-belum-tegaskan-dana-siap-obligasi-rp15-7-m-jatuh-tempo-8-des",
-  "category": "Aksi Korporasi",
-  "title": "ADCP Belum Tegaskan Dana Siap, [Obligasi] Rp15,7 M Jatuh Tempo 8 Des",
-  "deck": "ADCP melaporkan kesiapan dana pelunasan obligasi Rp15,7 miliar yang jatuh tempo 8 Desember 2026, tapi hanya menyebut koordinasi dengan penjamin CGIF, tanpa memastikan dana sudah tersedia.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADCP",
-   "obligasi",
-   "Adhi Commuter Properti",
-   "CGIF"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/53592b96f0_65989d05e2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sema-prospek-2027-pendapatan-dan-laba-diproyeksi-naik-signifikan",
-  "category": "Aksi Korporasi",
-  "title": "SEMA Prospek 2027: [Pendapatan] dan Laba Diproyeksi Naik Signifikan",
-  "deck": "Semacom Integrated (SEMA) ungkap pandangan awal manajemen yang sangat positif atas penjualan dan laba 2027, didorong proyek data center swasta, tanpa target angka resmi.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SEMA",
-   "data center",
-   "prospek kinerja",
-   "panel listrik"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/52dc682339_e26aa0e65b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-dgwg-rp19-5-per-saham-cair-17-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim DGWG Rp19,5 per Saham, [Cair] 17 Desember",
-  "deck": "Direksi DGWG menetapkan dividen interim Rp19,5 per saham, total Rp114,7 miliar, dibayar 17 Desember 2026 setelah recording date 27 November.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGWG",
-   "dividen interim",
-   "pasar modal",
-   "emiten"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bd28e40824_bc1094f396.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "iikp-asuransi-jiwa-ifg-tambah-740-5-juta-saham-suara-ke-9-49",
-  "category": "Aksi Korporasi",
-  "title": "IIKP: Asuransi Jiwa IFG Tambah 1,37 Miliar Saham, Suara ke 13,60%",
-  "deck": "PT Asuransi Jiwa IFG menambah 1,37 miliar saham IIKP pada 7 Agustus 2026, hak suaranya naik dari 9,51% menjadi 13,60%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IIKP",
-   "Asuransi Jiwa IFG",
-   "kepemilikan saham",
-   "Jiwasraya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8726-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "atla-komisaris-rudi-sutantra-jual-20-juta-saham-suara-jadi-38-88",
-  "category": "Aksi Korporasi",
-  "title": "ATLA: Komisaris Rudi Sutantra [Jual] 20 Juta Saham, Suara Jadi 38,88%",
-  "deck": "Komisaris ATLA Rudi R Sutantra melepas 20 juta saham lewat mekanisme repurchase agreement pada 16 November 2026, hak suara turun jadi 38,88%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ATLA",
-   "kepemilikan saham",
-   "komisaris",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8540-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupst-rupslb-tgra-28-desember-2026-jadwal-dps-1-desember",
-  "category": "Aksi Korporasi",
-  "title": "RUPST & RUPSLB TGRA 28 Desember 2026: [Jadwal] DPS 1 Desember",
-  "deck": "TGRA menjadwalkan RUPST tahun buku 2025 dan RUPSLB pada Senin, 28 Desember 2026, dengan pemegang saham per 1 Desember 2026 yang berhak hadir dan memberi suara.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "RUPST",
-   "RUPSLB",
-   "Terregra Asia Energy"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc25a748ed_a98f279e92.pdf",
   "sourceLabel": "IDX"
  }
 ];

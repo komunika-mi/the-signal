@@ -3,6 +3,40 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "true-revisi-lk-kuartal-iii-rugi-bertambah-jadi-rp33-54-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TRUE [Revisi] LK Kuartal III: Rugi Bertambah Jadi Rp33,54 Miliar",
+  "deck": "Triniti Dinamik merevisi laporan keuangan interim, rugi neto sembilan bulan 2026 naik jadi Rp33,54 miliar, sementara dua pinjaman pemegang saham melampaui plafon.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T20:20:02",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TRUE_E023A_128de09c-d8b3-4edb-b02f-f4c22c66d827-20261125202004.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRUE",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "laporan keuangan",
+   "going concern"
+  ],
+  "body": [
+   "PT Triniti Dinamik Tbk (TRUE) menyampaikan tanggapan lanjutan kepada Bursa Efek Indonesia menyusul kunjungan lapangan dan permintaan penjelasan atas surat BEI Nomor S-14442/BEI.PP1/11-2026 yang diterima perusahaan pada 23 November 2026. Dalam dokumen yang ditandatangani Direktur Utama Yohanes E. Christianto, perusahaan mengonfirmasi bahwa laporan keuangan interim per 30 September 2026 yang disetujui Direksi pada 10 November 2026 mengubah 23 dari 26 pos dalam laporan posisi keuangan. Penjualan sembilan bulan direvisi naik dari Rp20,75 miliar menjadi Rp43,75 miliar, rugi neto justru membesar dari Rp28,21 miliar menjadi Rp33,54 miliar, dan total aset turun dari Rp732,33 miliar menjadi Rp661,85 miliar. Perusahaan menyebut penyebabnya kesalahan manusia yang dipicu seringnya pergantian staf di departemen keuangan sepanjang 2025-2026, termasuk kekosongan posisi Supervisor Accounting selama delapan bulan, serta implementasi sistem ERP baru yang berdampak pada proses penyusunan laporan.",
+   "Dokumen itu juga mengungkap bahwa pinjaman perusahaan dari dua pemegang saham, PT Agung Perkasa Investindo dan PT Panca Agung Gemilang, sudah melampaui plafon yang disepakati. Saldo pinjaman dari Agung Perkasa Investindo tercatat Rp72,55 miliar padahal plafonnya Rp60 miliar, sementara pinjaman dari Panca Agung Gemilang Rp14,87 miliar padahal plafonnya hanya Rp4 miliar. Arus kas dari kegiatan operasi selama sembilan bulan 2026 juga negatif Rp30,35 miliar. Soal dasar penarikan pinjaman di atas plafon, beban bunganya, dan ada tidaknya surat komitmen dukungan dana dari pemegang saham pengendali, Triniti Dinamik baru berjanji menyampaikan jawabannya pada 30 November 2026.",
+   "Perusahaan juga menjelaskan sisa dana hasil penawaran umum sebesar Rp65,90 miliar yang masih tertahan di PT Sarijaya Batamsantoso, mitra dalam rencana pembelian tanah di Batam yang dibatalkan lewat akta tanggal 30 Oktober 2024. Selisih dengan angka Rp76,40 miliar yang tercatat di catatan laporan keuangan, menurut perusahaan, terjadi karena dari total dana awal Rp91,50 miliar yang sudah dibayarkan untuk tanah tersebut, Rp15,10 miliar sudah dikembalikan oleh Sarijaya dan langsung dialihkan untuk proyek District East, sehingga sisa piutang menjadi Rp76,40 miliar. Batas waktu pengembalian sesuai akta pembatalan sudah lewat, dan Triniti Dinamik mengaku sudah meminta Sarijaya menyelesaikan pengembalian dana itu paling lambat 2027. Perusahaan menegaskan tidak ada hubungan afiliasi antara Sarijaya dan perusahaan, pemegang saham pengendali, direksi, maupun komisaris.",
+   "Untuk proyek District East di Karawang, Triniti Dinamik mengakui Persetujuan Bangunan Gedung (PBG) belum terbit, sehingga ruko contoh dan ruko Ion Terrace Blok E yang sudah dibangun berstatus bangunan non permanen untuk sarana pemasaran, bukan bangunan permanen. Perusahaan memperkirakan AMDAL baru selesai Desember 2026, site plan disahkan Januari-Februari 2027, dan PBG terbit Maret 2027, meski menyebut estimasi itu bisa berubah karena bergantung pada instansi pemerintah. Uang muka penjualan proyek ini naik dari Rp18,46 miliar menjadi Rp24,19 miliar, tapi hingga saat ini belum ada satu pun Perjanjian Pengikatan Jual Beli (PPJB) yang diteken dengan konsumen, baru formulir dan surat pemesanan."
+  ],
+  "fotoAdegan": "Unfinished sample shophouses with bare concrete columns and scaffolding on a dusty suburban construction site, overcast light",
+  "takeaway": "Rangkaian tanggapan ini condong negatif bagi Triniti Dinamik, karena revisi laporan keuangan justru memperbesar rugi, dua pinjaman dari pemegang saham melampaui plafon yang disepakati, dan arus kas dari operasi masih minus di tengah pertanyaan going concern yang dilontarkan bursa lewat kunjungan lapangan. Yang tersentuh adalah ekuitas, yakni modal bersih pemilik saham yang ikut tergerus karena rugi membesar, dan arus kas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan usaha sehari-hari, yang kalau negatif berarti bisnis inti belum menghasilkan kas sendiri dan masih mengandalkan utang ke pemegang saham. Dana hasil penawaran umum yang sudah tertahan di Sarijaya sejak akta pembatalan 2024 juga menunjukkan ada uang milik perusahaan yang belum kembali ke kas selama lebih dari setahun. Yang perlu dipantau berikutnya adalah tenggat 30 November 2026, saat perusahaan berjanji melengkapi jawaban soal dasar pinjaman di atas plafon, bukti komitmen dana dari pemegang saham pengendali, dan posisi kas per 31 Oktober 2026, karena jawaban itu akan menentukan apakah kekhawatiran going concern bursa terjawab atau justru bertambah.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tenggat Triniti Dinamik melengkapi info tambahan ke bursa"
+   }
+  ]
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-pemerintah-incar-6-di-2027",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh 5,47%, Pemerintah Incar [6%] di 2027",
@@ -918,6 +952,117 @@ var ARTICLES = [
   "takeaway": "Jawaban ini netral bagi fundamental TALF karena isinya murni bantahan dan konfirmasi, tanpa ada data baru yang mengubah modal, kas, utang, atau laba perseroan. Surat semacam ini biasanya muncul setelah bursa mencurigai pergerakan harga saham yang tidak biasa dan ingin memastikan tidak ada kabar penting yang sudah bocor ke sebagian pihak sebelum diumumkan resmi ke publik, jadi isinya lebih soal menjamin kewajaran pasar ketimbang mengubah kinerja perusahaan. Karena TALF memastikan tidak ada rencana aksi korporasi maupun pergerakan pemegang saham utama dalam tiga bulan mendatang, hal yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia menaikkan status permintaan ini menjadi pengumuman resmi soal pergerakan saham tak wajar, atau menerima penjelasan ini dan menutup kasusnya.",
   "sentimen": "netral",
   "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "transaksi-afiliasi-opms-beli-ruko-komisaris-rp3-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi OPMS: [Beli] Ruko Komisaris Rp3,7 Miliar",
+  "deck": "OPMS membeli ruko di Surabaya milik Komisaris Utama Sumardi Wijaya senilai Rp3,7 miliar, sesuai harga wajar penilaian independen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T13:21:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_OPMS_E025A_fab68654-e243-4fe0-a332-0d6c27e260a1-20261125132139.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "OPMS",
+  "tags": [
+   "OPMS",
+   "transaksi afiliasi",
+   "Sumardi Wijaya",
+   "ruko Surabaya"
+  ],
+  "body": [
+   "PT Optima Prima Metal Sinergi Tbk (OPMS) akan membeli sebuah ruko empat lantai seluas 227 meter persegi di atas tanah 66 meter persegi di Komplek Ruko RMI Blok A No. 28, Kelurahan Baratajaya, Kecamatan Gubeng, Surabaya. Transaksi dijadwalkan berlangsung pada 26 November 2026 dengan nilai Rp3,7 miliar. Penjualnya adalah Sumardi Wijaya, yang menjabat Komisaris Utama OPMS, sehingga transaksi ini tergolong transaksi afiliasi karena melibatkan anggota dewan komisaris perseroan sendiri.",
+   "Untuk memastikan harga wajar, OPMS menunjuk dua kantor jasa penilai publik independen. KJPP Ova Mustopa Soleh dan Rekan menilai aset tersebut dan menyimpulkan nilai pasarnya sebesar Rp3,755 miliar per 30 Juni 2026, sedikit di atas harga yang disepakati sebesar Rp3,7 miliar. Sementara itu, KJPP Guntur Eki Arief dan Rekan memberikan pendapat kewajaran dan menyatakan transaksi ini wajar, sehingga tidak dikategorikan sebagai transaksi dengan benturan kepentingan dan tidak memerlukan persetujuan Rapat Umum Pemegang Saham sesuai Peraturan OJK No. 42/POJK.04/2020.",
+   "OPMS saat ini dikendalikan oleh PT Asian Perkasa Indosteel yang memegang 59,79 persen saham, sementara Direktur Operasional Sukianto Widjaja memegang 0,21 persen dan sisanya 40 persen dimiliki publik. Sumardi Wijaya duduk di jajaran dewan komisaris sejak keputusan RUPS Tahunan 18 Juni 2026, bersama Komisaris Independen Adhiguna Abdhipradhana Herwindha, serta Direktur Utama Meilyna Widjaja dan Direktur Rubbyanto Ping Hauw Handaja Kusuma."
+  ],
+  "fotoAdegan": "Rows of multi-story shophouses along a quiet commercial street in Surabaya, morning light, motorbikes parked along the curb",
+  "takeaway": "Transaksi ini netral bagi fundamental OPMS, karena harga yang disepakati sebesar Rp3,7 miliar justru berada di bawah nilai pasar hasil penilaian independen sebesar Rp3,755 miliar, dan kedua kantor penilai menyatakan transaksi ini wajar tanpa indikasi kerugian bagi perseroan. Yang tersentuh di sini adalah arus kas perseroan, karena OPMS mengeluarkan dana tunai untuk membeli aset properti, bukan ekuitas atau jumlah saham beredar, sehingga laba per saham tidak ikut terdilusi. Nilai transaksi juga relatif kecil, sekitar 3,7 persen dari modal disetor perseroan yang sebesar Rp100 miliar, sehingga dampaknya terhadap kondisi keuangan OPMS secara keseluruhan tidak besar. Yang perlu dipantau berikutnya adalah realisasi transaksi pada 26 November 2026 seperti tertulis dalam dokumen, serta penandatanganan perjanjian jual beli final menyusul draf perjanjian yang sudah disiapkan perseroan.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Keterbukaan Informasi Transaksi Afiliasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Realisasi transaksi pembelian ruko dari Komisaris Utama"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-interim-vast-rp1-64-per-saham-cair-21-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim VAST Rp1,64 per Saham, [Cair] 21 Desember",
+  "deck": "VAST akan membagikan dividen interim Rp1,64 per saham atau total Rp5 miliar dari laba kuartal III 2026, dibayar 21 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T13:20:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_VAST_E007_9dc99495-03e6-4fa0-ab40-b39f6c3ca86d-20261125132054.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "VAST",
+  "tags": [
+   "VAST",
+   "dividen interim",
+   "Vastland Indonesia",
+   "BEI"
+  ],
+  "body": [
+   "PT Vastland Indonesia Tbk (VAST) akan membagikan dividen interim tahun buku 2026 sebesar Rp1,64 per saham, dengan total nilai Rp5 miliar. Keputusan ini diambil Direksi Perseroan pada 20 November 2026 dan disetujui Dewan Komisaris pada 23 November 2026, mengacu pada laporan keuangan kuartal III yang berakhir 30 September 2026.",
+   "Investor yang ingin mendapatkan hak dividen ini harus memiliki saham VAST sebelum tanggal cum dividen, yaitu 3 Desember 2026 di pasar reguler dan negosiasi, atau 7 Desember 2026 di pasar tunai. Setelah lewat tanggal ex dividen, yakni 4 Desember di pasar reguler dan negosiasi serta 8 Desember di pasar tunai, pembeli saham baru tidak lagi berhak atas dividen ini. Daftar pemegang saham yang berhak menerima dividen dikunci pada 7 Desember 2026 pukul 16.00 WIB, dan pembayarannya dijadwalkan 21 Desember 2026.",
+   "Dasar pembagian dividen ini adalah laba bersih VAST yang diatribusikan ke pemegang saham induk sebesar Rp13,37 miliar sepanjang sembilan bulan pertama 2026. Dengan total dividen Rp5 miliar, Perseroan membagikan sekitar 37 persen dari laba bersih tersebut kepada pemegang saham. Saldo laba ditahan yang belum dibatasi penggunaannya tercatat Rp214,74 miliar, sementara total ekuitas Perseroan mencapai Rp409,9 miliar."
+  ],
+  "fotoAdegan": "Wide shot of modern industrial warehouses with loading docks and parked trucks, overcast afternoon light in Indonesia",
+  "takeaway": "Pembagian dividen interim ini condong positif bagi pemegang saham VAST, karena menunjukkan perusahaan punya laba dan kas yang cukup sehat untuk membagikan keuntungan tanpa menambah utang atau menerbitkan saham baru. Dividen ini akan mengurangi kas dan ekuitas Perseroan sebesar Rp5 miliar begitu dibayarkan, sementara porsinya terhadap laba bersih kuartal III, sekitar 37 persen, tergolong wajar dan tidak menguras saldo laba ditahan yang masih tersisa Rp214,74 miliar. Pelaku pasar biasanya mencermati rasio pembagian laba semacam ini sebagai indikator kemampuan perusahaan menghasilkan arus kas secara konsisten. Yang perlu dipantau selanjutnya adalah tanggal pencatatan pemegang saham pada 7 Desember 2026 dan realisasi pembayaran pada 21 Desember 2026, untuk memastikan jadwal ini berjalan sesuai rencana.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Aksi Korporasi Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Cum dividen di pasar tunai dan recording date pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-21",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "smsm-terima-dividen-rp34-125-miliar-dari-anak-usaha-pjm",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Terima [Dividen] Rp34,125 Miliar dari Anak Usaha PJM",
+  "deck": "Selamat Sempurna mencatat pendapatan dividen interim ketiga tahun buku 2026 senilai Rp34,125 miliar dari anak usahanya, PT Panata Jaya Mandiri.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T13:18:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_SMSM_E019_a1a3c5d8-1ced-4320-adf4-90128515e2c7-20261125131841.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMSM",
+  "tags": [
+   "SMSM",
+   "dividen",
+   "Panata Jaya Mandiri",
+   "entitas anak"
+  ],
+  "body": [
+   "PT Selamat Sempurna Tbk (SMSM) melaporkan penerimaan dividen interim ketiga tahun buku 2026 dari entitas anaknya, PT Panata Jaya Mandiri (PJM), senilai Rp34.125.000.000 atau Rp34,125 miliar. Kejadian ini tercatat pada 25 November 2026 dan disampaikan sebagai keterbukaan informasi fakta material kepada OJK dan Bursa Efek Indonesia sesuai POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi oleh Emiten atau Perusahaan Publik.",
+   "Dalam surat yang ditandatangani Ang Andri Pribadi, Wakil Direktur Utama SMSM, perseroan menyatakan bahwa penerimaan dividen ini tidak berdampak pada kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Tidak ada keterangan tambahan lain yang disampaikan dalam laporan tersebut.",
+   "Penyebutan dividen ini sebagai dividen interim 'ketiga' untuk tahun buku 2026 menunjukkan bahwa PJM sudah membagikan dividen interim ke SMSM sebanyak tiga kali sepanjang tahun ini, meski dokumen tidak merinci nilai dua pembagian sebelumnya."
+  ],
+  "fotoAdegan": "Workers inspecting automotive filter components on a factory assembly line, industrial lighting, Jakarta manufacturing plant",
+  "takeaway": "Laporan ini saya nilai netral bagi fundamental SMSM, bukan positif maupun negatif, karena sifatnya cuma pemindahan kas dari anak usaha ke induk dalam satu grup yang sama. Pos yang tersentuh adalah arus kas dan kas entitas induk secara individual, bukan laba konsolidasi, sebab dalam laporan keuangan gabungan dividen antar perusahaan satu grup akan saling meniadakan sehingga tidak menambah laba grup secara keseluruhan. Yang membuat angka ini tetap relevan bagi pemegang saham publik adalah bahwa kas di level induk inilah yang nantinya jadi sumber pembayaran dividen SMSM sendiri, bukan kas di level anak usaha. Yang perlu dipantau berikutnya adalah apakah PJM akan membagikan dividen interim keempat untuk menutup tahun buku 2026, serta bagaimana akumulasi pendapatan dividen antar-anak usaha ini tercermin pada laporan keuangan tahunan SMSM yang biasanya terbit awal tahun berikutnya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-2027",
@@ -14125,8 +14270,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-ketiga-hade-24-november-usai-kuorum-gagal-dua-kali",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB Ketiga HADE 24 November, usai [Kuorum] Gagal Dua Kali",
-  "deck": "RUPSLB ketiga HADE digelar 24 November 2026 setelah dua rapat sebelumnya gagal kuorum, dengan agenda tunggal persetujuan penyesuaian KBLI 2025.",
+  "title": "RUPSLB Ketiga HADE 24 November: [KBLI] Disetujui, Kuorum Tercapai",
+  "deck": "RUPSLB ketiga HADE akhirnya mencapai kuorum 52,93% pada 24 November 2026, setelah dua rapat sebelumnya gagal, dan menyetujui penyesuaian KBLI dengan 99,99% suara setuju.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "17 November 2026",
   "isoDate": "2026-11-17T10:39:17",
@@ -14136,16 +14281,17 @@ var ARTICLES = [
   "tags": [
    "HADE",
    "RUPSLB",
-   "Himalaya Energi Perkasa",
-   "KBLI"
+   "KBLI",
+   "Himalaya Energi Perkasa"
   ],
   "body": [
-   "PT Himalaya Energi Perkasa Tbk (HADE), dulu bernama PT HD Capital Tbk, akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk ketiga kalinya pada Selasa, 24 November 2026 pukul 15.00 hingga 16.00 WIB. Lokasinya di Event Space, RuangKami Coworking Space, Plaza Menteng, Jl. HOS Cokroaminoto 79, Jakarta Pusat. Rapat ini diadakan karena RUPSLB pertama pada 10 Juni 2026 dan RUPSLB kedua pada 25 Juni 2026 sama-sama gagal mencapai kuorum kehadiran yang disyaratkan, sehingga keputusan belum bisa diambil pada dua kesempatan sebelumnya.",
-   "Agenda RUPSLB ketiga ini hanya satu, yaitu persetujuan penyesuaian Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025, semacam kode standar yang menunjukkan jenis kegiatan usaha perusahaan di mata pemerintah. Pemegang saham yang berhak hadir atau memberi kuasa adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 16 November 2026 pukul 16.00 WIB. Perseroan tidak mengirim undangan terpisah, sehingga pengumuman ini sekaligus berfungsi sebagai undangan resmi.",
-   "Pemegang saham yang tidak bisa hadir langsung dapat memberi kuasa melalui sistem elektronik e-RUPS atau surat kuasa tertulis yang harus diterima direksi paling lambat tiga hari kerja sebelum rapat. Anggota direksi, komisaris, dan karyawan perusahaan boleh menjadi penerima kuasa, tetapi suara mereka tidak ikut dihitung dalam pemungutan suara. Pengumuman ditandatangani oleh Direktur Martha Ester Lumenta pada 17 November 2026."
+   "Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) ketiga PT Himalaya Energi Perkasa Tbk (HADE) yang digelar Selasa, 24 November 2026, akhirnya mencapai kuorum. Rapat yang berlangsung singkat, hanya pukul 15.16 hingga 15.27 WIB, dihadiri pemegang saham yang mewakili 1.122.091.700 saham atau 52,93% dari total 2.120.000.000 saham berhak suara, melampaui syarat minimal 50% yang ditetapkan Otoritas Jasa Keuangan (OJK) khusus untuk rapat ketiga ini.",
+   "Agenda tunggal rapat, yaitu persetujuan penyesuaian Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) tahun 2025 pada Pasal 3 Anggaran Dasar perseroan, disetujui dengan hampir seluruh suara yang hadir. Sebanyak 1.122.091.600 saham atau 99,99% suara menyatakan setuju, sementara masing-masing 100 saham atau 0,01% tercatat tidak setuju dan abstain. Pemegang saham juga memberi kuasa kepada direksi untuk mengurus segala tindakan lanjutan terkait perubahan pasal tersebut.",
+   "Rapat ini merupakan percobaan ketiga setelah RUPSLB pertama pada 10 Juni 2026 dan RUPSLB kedua pada 25 Juni 2026 sama-sama gagal mencapai kuorum kehadiran yang disyaratkan. OJK kemudian menurunkan syarat kuorum minimal menjadi 50% khusus untuk rapat ketiga ini melalui surat penetapan nomor S-110/PM.2/2026 tanggal 2 November 2026, yang akhirnya membuat rapat bisa mengambil keputusan.",
+   "Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 16 November 2026. Rapat dihadiri Direktur Utama Martha Ester Lumenta, Komisaris Utama Ismayati Solihat, dan Komisaris Independen Basa Sidabutar. Ringkasan risalah rapat ditandatangani direksi pada 25 November 2026."
   ],
   "fotoAdegan": "Rows of empty chairs facing a small stage in a modern coworking event space, soft morning light through large windows.",
-  "takeaway": "Laporan ini netral bagi fundamental Himalaya Energi Perkasa, karena satu-satunya agenda rapat hanya penyesuaian kode klasifikasi usaha (KBLI), bukan keputusan yang langsung mengubah modal, utang, atau kas perusahaan. Agenda semacam ini tidak menyentuh pos-pos yang biasa dipantau pelaku pasar seperti ekuitas (modal sendiri perusahaan), arus kas, atau laba per saham, karena KBLI hanya soal pencatatan jenis usaha untuk keperluan administrasi dan izin, bukan transaksi keuangan. Yang justru menarik perhatian adalah fakta dua RUPSLB sebelumnya gagal mencapai kuorum, yang biasanya berarti porsi pemegang saham yang hadir atau mewakilkan suaranya terlalu kecil dari yang disyaratkan, sehingga bisa menandakan rendahnya partisipasi pemegang saham publik perusahaan ini. Yang perlu dipantau adalah apakah RUPSLB ketiga pada 24 November 2026 akhirnya mencapai kuorum dan menyetujui agenda tersebut, mengingat aturan bursa biasanya memberi kelonggaran syarat kuorum pada percobaan rapat berikutnya.",
+  "takeaway": "Ringkasan risalah ini netral bagi fundamental Himalaya Energi Perkasa, karena satu-satunya agenda yang disetujui hanya penyesuaian kode klasifikasi usaha (KBLI), bukan keputusan yang mengubah modal, utang, atau arus kas perusahaan, dan hampir seluruh pemegang saham yang hadir (99,99%) menyetujuinya tanpa penolakan berarti. Pos yang biasa dipantau pelaku pasar seperti ekuitas atau modal sendiri perusahaan, arus kas, beban bunga, jumlah saham beredar, dan laba per saham sama sekali tidak tersentuh keputusan ini, sebab KBLI hanya mengubah pencatatan jenis usaha di Anggaran Dasar untuk keperluan administrasi dan izin, bukan transaksi keuangan. Yang patut dicatat, rapat ini akhirnya mencapai kuorum 52,93% setelah dua percobaan sebelumnya gagal, berkat kelonggaran syarat kuorum minimal menjadi 50% yang diberikan OJK khusus untuk rapat ketiga lewat surat S-110/PM.2/2026 tanggal 2 November 2026. Dengan persetujuan ini, rangkaian RUPSLB tiga babak HADE sudah tuntas, dan yang perlu dipantau berikutnya adalah realisasi perubahan Pasal 3 Anggaran Dasar tersebut lewat akta notaris dan pelaporannya ke instansi berwenang, karena dokumen ini tidak mencantumkan tenggat waktu pastinya.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Pemanggilan Rapat Umum Pemegang Saham Luar Biasa",
@@ -14158,7 +14304,16 @@ var ARTICLES = [
     "tanggal": "2026-11-24",
     "acara": "RUPSLB ketiga HADE digelar"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T20:04:22",
+    "ringkas": "RUPSLB ketiga HADE akhirnya mencapai kuorum 52,93% dan menyetujui penyesuaian KBLI dengan 99,99% suara setuju.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_HADE_E013_8d982836-4446-4191-b28b-858eee627454-20261125200424.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-25T20:04:22"
  },
  {
   "slug": "rupst-arti-9-desember-perubahan-pengurus-masuk-agenda",

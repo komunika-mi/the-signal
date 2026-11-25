@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "true-revisi-lk-kuartal-iii-rugi-bertambah-jadi-rp33-54-miliar",
+  "category": "Aksi Korporasi",
+  "title": "TRUE [Revisi] LK Kuartal III: Rugi Bertambah Jadi Rp33,54 Miliar",
+  "deck": "Triniti Dinamik merevisi laporan keuangan interim, rugi neto sembilan bulan 2026 naik jadi Rp33,54 miliar, sementara dua pinjaman pemegang saham melampaui plafon.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRUE",
+   "Triniti Dinamik",
+   "laporan keuangan",
+   "going concern"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TRUE_E023A_128de09c-d8b3-4edb-b02f-f4c22c66d827-20261125202004.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekonomi-ri-tumbuh-5-47-pemerintah-incar-6-di-2027",
   "category": "Makroekonomi",
   "title": "Ekonomi RI Tumbuh 5,47%, Pemerintah Incar [6%] di 2027",
@@ -476,6 +492,54 @@ var ARTICLES = [
    "keterbukaan informasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TALF_E023A_513b6109-296c-4565-971f-2a206759b70c-20261125143026.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "transaksi-afiliasi-opms-beli-ruko-komisaris-rp3-7-miliar",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi OPMS: [Beli] Ruko Komisaris Rp3,7 Miliar",
+  "deck": "OPMS membeli ruko di Surabaya milik Komisaris Utama Sumardi Wijaya senilai Rp3,7 miliar, sesuai harga wajar penilaian independen.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "OPMS",
+   "transaksi afiliasi",
+   "Sumardi Wijaya",
+   "ruko Surabaya"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_OPMS_E025A_fab68654-e243-4fe0-a332-0d6c27e260a1-20261125132139.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-vast-rp1-64-per-saham-cair-21-desember",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim VAST Rp1,64 per Saham, [Cair] 21 Desember",
+  "deck": "VAST akan membagikan dividen interim Rp1,64 per saham atau total Rp5 miliar dari laba kuartal III 2026, dibayar 21 Desember 2026.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "VAST",
+   "dividen interim",
+   "Vastland Indonesia",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_VAST_E007_9dc99495-03e6-4fa0-ab40-b39f6c3ca86d-20261125132054.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "smsm-terima-dividen-rp34-125-miliar-dari-anak-usaha-pjm",
+  "category": "Aksi Korporasi",
+  "title": "SMSM Terima [Dividen] Rp34,125 Miliar dari Anak Usaha PJM",
+  "deck": "Selamat Sempurna mencatat pendapatan dividen interim ketiga tahun buku 2026 senilai Rp34,125 miliar dari anak usahanya, PT Panata Jaya Mandiri.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMSM",
+   "dividen",
+   "Panata Jaya Mandiri",
+   "entitas anak"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_SMSM_E019_a1a3c5d8-1ced-4320-adf4-90128515e2c7-20261125131841.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6425,72 +6489,6 @@ var ARTICLES = [
    "Global Mediacom"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4accb01e75_9de5e26e42.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kppu-hitung-risiko-persaingan-sejak-rencanakan-merger",
-  "category": "Bisnis",
-  "title": "KPPU: Hitung Risiko [Persaingan] Sejak Rencanakan Merger",
-  "deck": "KPPU mengingatkan perusahaan menghitung risiko persaingan usaha sejak awal rencana merger dan akuisisi, bukan hanya nilai transaksi.",
-  "date": "17 November 2026",
-  "image": "assets/img/kppu-hitung-risiko-persaingan-sejak-rencanakan-merger.jpg",
-  "imageV": "mwkoqgwj",
-  "tags": [
-   "KPPU",
-   "merger dan akuisisi",
-   "persaingan usaha",
-   "due diligence"
-  ],
-  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
-  "sourceUrl": "https://kppu.go.id/berita/kppu-ingatkan-perusahaan-perhitungkan-risiko-persaingan-sejak-merencanakan-merger-dan-akuisisi",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "realisasi-psn-capai-rp2-396-triliun-serap-10-7-juta-kerja",
-  "category": "Makroekonomi",
-  "title": "Realisasi PSN Capai [Rp2.396] Triliun, Serap 10,7 Juta Kerja",
-  "deck": "Kemenko Perekonomian merinci realisasi Proyek Strategis Nasional dan Kawasan Ekonomi Khusus hingga September 2026, disertai data pertumbuhan ekonomi dan investasi nasional terbaru.",
-  "date": "17 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
-  "tags": [
-   "PSN",
-   "KEK",
-   "Investasi",
-   "Pertumbuhan Ekonomi"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7229/kemenko-perekonomian-perluas-wawasan-mahasiswa-unair-mengenai-strategi-pembangunan-ekonomi-dan-tantangan-global",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "soda-abu-indonesia-bebas-kuota-impor-india",
-  "category": "Global",
-  "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
-  "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
-  "date": "17 November 2026",
-  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
-  "tags": [
-   "soda abu",
-   "ekspor",
-   "India",
-   "Kementerian Perdagangan"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/soda-abu-indonesia-terbebas-dari-aturan-kuota-impor-india-mendag-busan-ajak-tingkatkan-ekspor",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "smar-david-fernando-audy-jadi-komisaris-utama-gantikan-franky",
-  "category": "Aksi Korporasi",
-  "title": "SMAR: David Fernando Audy Jadi [Komisaris Utama], Gantikan Franky",
-  "deck": "Komisaris Utama SMAR berganti dari Franky Oesman Widjaja ke David Fernando Audy per 17 November 2026, direksi tidak berubah.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMAR",
-   "Komisaris Utama",
-   "Pergantian Pengurus",
-   "Sinar Mas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34b3c4a3cb_df91d79f21.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pembina-umkm-naik-kelas-raih-icc100-award-dari-bpkn",
+  "category": "UMKM",
+  "title": "Pembina UMKM Naik Kelas Raih [ICC100] Award dari BPKN",
+  "deck": "Willy Lesmana Putra, Ketua Dewan Pembina UMKM Naik Kelas, menerima penghargaan ICC100 Award 2026 dari BPKN-RI atas perannya mendampingi pelaku usaha kecil secara hukum dan bisnis.",
+  "date": "26 November 2026",
+  "image": "assets/img/pembina-umkm-naik-kelas-raih-icc100-award-dari-bpkn.jpg",
+  "imageV": "mwwl9f10",
+  "tags": [
+   "UMKM",
+   "BPKN RI",
+   "Kadin Indonesia",
+   "Pendampingan Hukum"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480377-unggul-dalam-pendampingan-umkm-naik-kelas-terima-penghargaan-dari-bpkn-ri"
+ },
+ {
   "slug": "kereta-trans-kalimantan-digarap-swasta-tanpa-apbn",
   "category": "Bisnis",
   "title": "Kereta Trans-Kalimantan Digarap Swasta, Tanpa [APBN]",
@@ -6470,22 +6487,6 @@ var ARTICLES = [
    "Keterbukaan Informasi BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61c7698a1c_46890e0da9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-kija-pendapatan-q3-naik-16-laba-turun-38",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose KIJA 20 November: [One-Off] Rp180 M Tak Berulang 2027",
-  "deck": "Risalah public expose KIJA 20 November mengungkap beban one-off Rp180 miliar dari pelunasan dipercepat Senior Notes, dipastikan tak berulang pada 2027.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KIJA",
-   "Public Expose",
-   "Kendal Industrial Park",
-   "Senior Notes"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/680c96fe47_7413619589.pdf",
   "sourceLabel": "IDX"
  }
 ];

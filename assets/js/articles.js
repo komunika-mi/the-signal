@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "pembina-umkm-naik-kelas-raih-icc100-award-dari-bpkn",
+  "category": "UMKM",
+  "title": "Pembina UMKM Naik Kelas Raih [ICC100] Award dari BPKN",
+  "deck": "Willy Lesmana Putra, Ketua Dewan Pembina UMKM Naik Kelas, menerima penghargaan ICC100 Award 2026 dari BPKN-RI atas perannya mendampingi pelaku usaha kecil secara hukum dan bisnis.",
+  "image": "assets/img/pembina-umkm-naik-kelas-raih-icc100-award-dari-bpkn.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T01:17:32+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480377-unggul-dalam-pendampingan-umkm-naik-kelas-terima-penghargaan-dari-bpkn-ri",
+  "tags": [
+   "UMKM",
+   "BPKN RI",
+   "Kadin Indonesia",
+   "Pendampingan Hukum"
+  ],
+  "body": [
+   "Ketua Dewan Pembina UMKM Naik Kelas, Willy Lesmana Putra, menerima penghargaan Indonesia Customer Care 100 Brands (ICC100) Award 2026 pada Sabtu, 21 November 2026. Penghargaan ini diinisiasi Badan Perlindungan Konsumen Nasional (BPKN-RI) dan didukung Kadin Indonesia, sebagai bentuk pengakuan atas upaya mendampingi pelaku usaha kecil memperbaiki kualitas produk dan layanan ke konsumen.",
+   "Ketua BPKN-RI, Prof. Mufti Mubarok, menyebut UMKM Naik Kelas dinilai menonjol dalam mendampingi pelaku usaha kecil meningkatkan kualitas produk dan pelayanan konsumen. Ia berharap penghargaan ini mendorong sinergi antara pemerintah dan pelaku usaha agar layanan ke konsumen makin baik, sehingga dunia usaha bisa tumbuh secara berkelanjutan.",
+   "Di luar perannya di UMKM Naik Kelas, Willy juga menjabat Direktur Eksekutif Kantor Hukum Poetra Nusantara (PNLO), yang aktif memberi pendampingan hukum dan advokasi bagi pelaku UMKM serta koperasi di berbagai daerah. Lewat PNLO, ia berperan sebagai mitra pemerintah dalam menjalankan amanat UU Cipta Kerja dan PP Nomor 7 Tahun 2021 tentang kemudahan dan pemberdayaan UMKM, dengan memberi edukasi agar pelaku usaha terhindar dari masalah hukum sekaligus mendampingi yang sudah tersangkut masalah hukum.",
+   "Melalui lembaga UMKM Naik Kelas, Willy menjalankan program peningkatan kapasitas usaha, perluasan jaringan pasar, hingga edukasi agar pelaku UMKM lebih mudah memenuhi syarat untuk mendapat pembiayaan dari bank (bankable). Kombinasi pendampingan hukum dan pembinaan bisnis ini diarahkan untuk membantu UMKM tumbuh lebih kompetitif."
+  ],
+  "fotoAdegan": "A small shop owner arranging handmade craft products on wooden shelves inside a modest street-side store, soft morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/26/6b07259182058-ketua-dewan-pembina-umkm-naik-kelas-willy-lesmana-putra-dianugerahi-penghargaan-indonesia-customer-care-100-brands-icc100-award-2026-pada-sabtu-21112026_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang terjadi di sini adalah pengakuan atas peran pendampingan, bukan perubahan aturan baru. UMKM Naik Kelas dan Kantor Hukum Poetra Nusantara disebut menjalankan amanat UU Cipta Kerja dan PP Nomor 7 Tahun 2021 soal kemudahan dan pemberdayaan UMKM, yaitu memberi edukasi hukum dan pendampingan bagi pelaku usaha kecil serta koperasi. Pihak yang kena dampak langsung adalah UMKM dan koperasi yang didampingi, terutama soal legalitas usaha dan upaya agar bisa memenuhi syarat pinjaman bank. Berita ini tidak menyebut berapa banyak UMKM yang sudah didampingi, berapa yang berhasil memenuhi syarat pinjaman bank, atau daerah mana yang jadi fokus program, sehingga belum bisa dinilai seberapa luas dampaknya. Yang perlu dicermati selanjutnya adalah data cakupan program UMKM Naik Kelas, misalnya jumlah UMKM dampingan atau realisasi akses kredit, untuk melihat seberapa jauh model pendampingan semacam ini benar-benar berdampak di lapangan.",
+  "imageV": "mwwl9f10"
+ },
+ {
   "slug": "kereta-trans-kalimantan-digarap-swasta-tanpa-apbn",
   "category": "Bisnis",
   "title": "Kereta Trans-Kalimantan Digarap Swasta, Tanpa [APBN]",
@@ -238,7 +265,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah pemerintah memasang target pertumbuhan ekonomi 6 persen untuk 2027, naik dari realisasi 5,47 persen pada triwulan III 2026, dengan empat strategi yang salah satunya tetap menahan belanja negara karena defisit anggaran dijaga di bawah 1,5 persen dari ukuran ekonomi nasional. Pihak yang paling terdampak adalah pelaku usaha dan calon pekerja di 18 Kawasan Ekonomi Khusus di luar Jawa, sebab kawasan ini diklaim pemerintah jauh lebih hemat modal, hanya butuh investasi setara 4 persen dari nilai output untuk menghasilkan tambahan pertumbuhan, dibanding rata-rata nasional yang butuh 6 persen. Pola ini menunjukkan pemerintah mengejar kenaikan pertumbuhan lewat efisiensi kawasan investasi dan hilirisasi ekspor, bukan lewat tambahan belanja negara. Yang akan menentukan apakah arah ini berjalan sesuai rencana adalah angka pertumbuhan triwulan IV 2026 yang akan dirilis awal tahun depan, serta realisasi investasi KEK pada akhir 2026 sebagai titik awal menuju target 2027.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "indonesia-korea-bangun-sistem-uji-charger-ev-senilai-us-8-juta",
@@ -704,7 +731,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang benar-benar baru di sini adalah laporan asesmennya, bukan aturan atau anggaran baru. Isinya masih berupa rekomendasi arah, memperkuat ekosistem, meningkatkan kemampuan industri, dan memperluas peran Indonesia di jaringan produksi chip dunia, tanpa angka investasi atau insentif yang sudah dipatok. Pihak yang langsung tersentuh adalah pelaku industri perakitan, pengujian, dan pengemasan semikonduktor yang sudah berjalan di Batam dan Jawa Barat, karena merekalah modal awal yang disebut laporan ini sebagai titik pijak. Pemerintah mengatakan akan memasukkan rekomendasi itu ke agenda reformasi ekonomi sebelum dibahas di komite OECD, tapi belum ada tanggal pasti kapan pembahasan itu terjadi atau rekomendasi mana yang bakal diadopsi jadi kebijakan nyata. Yang perlu dipantau adalah dokumen reformasi ekonomi Indonesia untuk OECD selanjutnya, karena di situ baru akan terlihat rekomendasi mana yang benar-benar diambil pemerintah.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "xmgb-unit-beredar-susut-jadi-41-juta-redemption-hari-ketiga",

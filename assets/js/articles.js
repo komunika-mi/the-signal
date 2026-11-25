@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang benar-benar baru dari paparan ini bukan angka pertumbuhan yang memang rutin dirilis, melainkan satu kepastian baru: IEU-CEPA sudah diteken di Brussels pada 21 November 2026 dan ditargetkan berlaku 1 Januari 2027, dengan hampir seluruh produk dari kedua pihak, 98,35 persen produk Uni Eropa dan 98,49 persen produk Indonesia, bebas atau berkurang tarifnya. Pihak yang langsung terdampak adalah eksportir dan importir yang berdagang dengan negara-negara Uni Eropa, terutama sektor manufaktur dan perkebunan yang selama ini menghadapi tarif tinggi di pasar Eropa. Jarak antara penandatanganan dan target berlakunya hanya sekitar satu bulan, padahal perjanjian dagang semacam ini biasanya masih perlu diratifikasi parlemen di masing-masing pihak, sementara empat perjanjian dagang lain yang disebut dalam paparan ini sampai sekarang masih menunggu ratifikasi. Yang akan memastikan apakah target Januari 2027 itu realistis adalah pengumuman resmi soal status pembahasan ratifikasi IEU-CEPA di DPR dalam beberapa pekan mendatang.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "wifi-jawab-bursa-isb-sgk-terafiliasi-transaksi-bukan-repo",

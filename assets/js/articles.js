@@ -3,6 +3,39 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "toba-rencanakan-transaksi-material-sgd555-juta-rupslb-27-november",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Rencanakan Transaksi Material SGD555 Juta, [RUPSLB] 27 November",
+  "deck": "Anak usaha TOBA di Singapura, SBTH, akan menerbitkan saham preferen dan waran sintetis senilai hingga SGD555 juta ke investor global, RUPSLB 27 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T22:44:27",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TOBA_E019_1a444f1b-5879-4b7f-881a-93d340d1cb11-20261125224429.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TOBA",
+  "tags": [
+   "TOBA",
+   "transaksi material",
+   "RUPSLB",
+   "SBTH"
+  ],
+  "body": [
+   "PT TBS Energi Utama Tbk (TOBA) mengumumkan perubahan dan tambahan atas keterbukaan informasi terkait rencana transaksi material yang akan dilakukan anak usahanya di Singapura, SBTH Asia Holdings Pte. Ltd. (SBTH). SBTH akan menerbitkan redeemable preference shares (RPS) dan waran sintetis kepada empat investor institusi global, yaitu SIP VI Onshore Lux Sàrl, SIP VI Offshore Lux Sàrl, SIP VI AP Lux Sàrl, dan HCAP Lux Sàrl, dengan komitmen investasi maksimal SGD555 juta. Dokumen ini merupakan pembaruan dari keterbukaan informasi yang pertama kali diumumkan 21 Oktober 2026, menyusul penandatanganan perjanjian subscription (SSA) dan perjanjian pemegang saham (SHA) pada 19 Oktober 2026.",
+   "Dana tersebut dicairkan bertahap: SGD125 juta sebagai aggregate subscription yang dibayar saat transaksi selesai, lalu primary tranche hingga SGD130 juta, dan incremental primary tranche hingga SGD300 juta yang bisa ditarik SBTH sesuai kebutuhan tanpa perlu perjanjian baru. Dana tahap pertama akan dipakai antara lain untuk distribusi, modal pertumbuhan, akuisisi, modal kerja, belanja modal, dan kebutuhan korporasi umum, sementara dua tahap berikutnya dikhususkan untuk membiayai investasi yang diizinkan dalam perjanjian. Seluruh dana ini ditujukan untuk memperbesar bisnis pengelolaan limbah kelompok usaha TOBA di Singapura dan Indonesia, yang mencakup pengelolaan limbah medis, pengolahan limbah menjadi energi, dan jasa pengumpulan limbah, menjadi platform pengelolaan lingkungan regional.",
+   "Nilai transaksi ini setara 227,06 persen dari ekuitas TOBA per 30 Juni 2026 yang tercatat US$188,92 juta berdasarkan laporan keuangan yang direviu terbatas oleh KAP Purwanto, Susanti dan Surja, firma anggota jaringan EY. Karena melampaui ambang 50 persen dari ekuitas, transaksi ini wajib mendapat persetujuan pemegang saham lewat RUPSLB yang dijadwalkan 27 November 2026, serta opini kewajaran dari penilai independen KJPP Kusnanto & Rekan. RPS yang diterbitkan SBTH tidak memiliki hak suara dalam rapat pemegang saham SBTH, sehingga TOBA tetap memegang seluruh saham biasa SBTH secara tidak langsung melalui SBTI dan SBTH tetap menjadi perusahaan terkendali TOBA."
+  ],
+  "fotoAdegan": "Workers in protective gear sorting collected waste at an industrial recycling facility, machinery in the background, daylight",
+  "takeaway": "Laporan ini condong positif bagi TOBA karena membawa komitmen dana segar hingga SGD555 juta dari investor institusi global untuk membiayai ekspansi bisnis pengelolaan limbah, sementara TOBA tetap memegang kendali penuh karena saham preferen yang diterbitkan tidak memberi hak suara kepada investor. Pos yang tersentuh adalah arus kas dan ekuitas konsolidasi: saham preferen yang disebut redeemable berarti suatu saat bisa ditarik kembali oleh penerbitnya, jadi sifatnya mirip utang yang menghadirkan kas sekarang tetapi menyimpan kewajiban pembayaran di masa depan, sementara waran sintetis memberi investor hak ekonomi tambahan yang nilainya bergantung pada performa bisnis limbah ini. Besaran transaksi yang mencapai lebih dari dua kali ekuitas TOBA menunjukkan skala pendanaan ini signifikan bagi kelompok usaha, meski rincian bunga atau imbal hasil RPS belum diungkap dalam dokumen ini. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 27 November 2026 serta terbitnya opini kewajaran dari KJPP Kusnanto & Rekan yang akan menilai apakah harga transaksi ini wajar bagi pemegang saham TOBA.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "RUPSLB menyetujui transaksi material penerbitan RPS dan waran sintetis SBTH"
+   }
+  ]
+ },
+ {
   "slug": "delegasi-animasi-indonesia-ke-siggraph-asia-2026-malaysia",
   "category": "Industri",
   "title": "Delegasi Animasi Indonesia ke [SIGGRAPH] Asia 2026 Malaysia",
@@ -28,6 +61,34 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini bukan aturan baru, melainkan langkah promosi dagang: Kemendag memfasilitasi enam perwakilan studio animasi dan asosiasi industri untuk tampil bersama di satu stan pada pameran teknologi kreatif di Kuala Lumpur. Yang terdampak langsung adalah pelaku industri animasi dan gim Indonesia, terutama studio kecil yang selama ini sulit menembus pasar luar negeri sendirian karena kini dibantu membuka jejaring lewat stan bersama. Data yang disertakan menunjukkan dua subsektor ini sebenarnya sudah tumbuh sebelum ada pameran ini, yakni jasa pembuatan gim untuk klien luar negeri naik rata-rata 8,69 persen per tahun sejak 2019 dan jasa animasi untuk klien luar negeri naik 4,46 persen per tahun pada periode yang sama. Artinya partisipasi di Malaysia ini lebih tepat dibaca sebagai usaha menjaga tren ekspor yang sudah berjalan, bukan sebagai ukuran keberhasilan baru. Yang akan menentukan apakah langkah ini membawa hasil nyata adalah ada atau tidaknya kerja sama bisnis konkret, seperti kontrak atau kolaborasi antara studio Indonesia dan mitra Malaysia, yang muncul setelah pameran berakhir pada 5 Desember 2026."
+ },
+ {
+  "slug": "asdm-laba-naik-13-1-meski-underwriting-negatif-rp0-8-m",
+  "category": "Aksi Korporasi",
+  "title": "ASDM: Laba Naik 13,1% meski [Underwriting] Negatif Rp0,8 M",
+  "deck": "Laba Asuransi Dayin Mitra naik 13,1% jadi Rp15,59 miliar, tapi bisnis inti asuransinya negatif Rp0,80 miliar dan laba ditopang penuh hasil investasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T22:05:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ASDM_E023A_c3f3b8b8-3f90-4ad2-b3e5-2028f5589353-20261125220537.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASDM",
+  "tags": [
+   "ASDM",
+   "Asuransi Dayin Mitra",
+   "reasuransi",
+   "BEI"
+  ],
+  "body": [
+   "PT Asuransi Dayin Mitra Tbk (ASDM) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait laporan keuangan periode yang berakhir 30 September 2026. Perseroan menjelaskan bahwa hasil jasa asuransi turun 6,76 persen menjadi Rp90,02 miliar, meskipun pendapatan jasa asuransi naik 20 persen dan beban jasa asuransi turun 23,76 persen. Penyebabnya adalah penyesuaian liabilitas klaim sebesar Rp87,12 miliar, jauh lebih besar dari Rp5,28 miliar pada periode yang sama tahun lalu, yang terutama berasal dari lini usaha rangka kapal dan kebakaran serta perubahan klaim yang sudah terjadi namun belum dilaporkan. Di sisi lain, jumlah klaim yang bisa ditagih kembali ke perusahaan reasuransi turun 84,33 persen menjadi Rp12,09 miliar.",
+   "Perseroan juga mengungkapkan bahwa hasil jasa asuransi setelah dikurangi beban operasional sebenarnya negatif Rp0,80 miliar, sementara hasil investasi menyumbang 104,6 persen terhadap laba sebelum pajak. Alhasil, laba periode berjalan tetap naik 13,10 persen menjadi Rp15,59 miliar, didorong terutama oleh pendapatan dividen dan bunga serta penurunan beban pajak tangguhan. Terkait eksposur ke reasuransi, aset kontrak reasuransi membengkak 39,68 persen menjadi Rp504,19 miliar, setara 48,1 persen dari total aset dan 137,8 persen dari ekuitas Perseroan, dengan rasio penyerahan premi ke reasuradur sebesar 82,5 persen. Lima reasuradur terbesar, yaitu PT Tugu Reasuransi Indonesia (A+, Rp31,28 miliar), R+V Versicherung AG asal Jerman (AA, Rp17,77 miliar), PT Indoperkasa Suksesjaya Reasuransi (A-, Rp16,40 miliar), PT Reasuransi Nasional Indonesia (BBB+, Rp15,57 miliar), dan Swiss Reinsurance Company Ltd cabang Singapura (AA-, Rp5,92 miliar), secara gabungan hanya menguasai 17,25 persen dari total aset kontrak reasuransi tersebut. Perseroan juga mencatat bahwa klaim yang berhasil ditagih dari reasuradur hanya 53,4 persen dari total klaim yang sudah dibayarkan ke nasabah, turun dari 60,8 persen pada periode sebelumnya, sehingga klaim neto yang ditanggung lewat kas Perseroan sendiri naik 47,3 persen.",
+   "Dari sisi portofolio investasi, Perseroan mengurangi penempatan di reksadana sebesar 80,64 persen, sambil menambah deposito 28,61 persen dan obligasi 33,79 persen. Deposito terkonsentrasi di tiga bank, yaitu Bank Pembangunan Daerah Banten Rp40 miliar, Bank Jtrust Indonesia Rp29 miliar, dan Bank Panin Dubai Syariah Rp18,5 miliar, yang menurut Perseroan masih berada di bawah batas maksimal 20 persen dari total investasi per bank sesuai aturan OJK. Perseroan juga mengakui properti investasi senilai Rp96,48 miliar hanya menghasilkan pendapatan sewa Rp0,40 miliar selama sembilan bulan pertama 2026, setara imbal hasil sekitar 0,55 persen per tahun, dan berencana menjual atau menyewakannya lewat pihak ketiga agar dananya bisa dialihkan ke instrumen investasi lain. Penyertaan saham di PT Equity Life Indonesia senilai Rp79,02 miliar tetap dipertahankan sebagai investasi jangka panjang.",
+   "Perseroan menegaskan tidak ada perkara hukum, kontrak baru, pendanaan baru, atau informasi material lain yang belum diungkapkan ke publik sejak laporan keuangan terakhir. Tanggapan ini ditandatangani oleh Efran Sinaga dari Asuransi Dayin Mitra dan disampaikan menyusul surat permintaan penjelasan Bursa bernomor S-14456/BEI.PP2/2026 tertanggal 23 November 2026."
+  ],
+  "fotoAdegan": "A marine surveyor examining a cargo ship's hull at a busy Indonesian port, cloudy afternoon light, workers nearby",
+  "takeaway": "Laporan ini condong negatif secara fundamental, karena pertumbuhan laba 13,1 persen ternyata ditopang penuh oleh hasil investasi, sementara bisnis inti asuransinya sendiri merugi Rp0,80 miliar setelah dikurangi beban operasional. Yang tersentuh adalah kesehatan modal perusahaan: nilai klaim yang mestinya ditagih balik ke perusahaan reasuransi membengkak jadi Rp504,19 miliar, setara 137,8 persen dari seluruh modal sendiri Dayin Mitra, sehingga kemampuan bayar para reasuradur itu kini jadi faktor yang sangat menentukan kesehatan keuangan perusahaan. Arus kasnya juga tertekan karena uang klaim yang berhasil ditagih balik dari reasuradur cuma 53,4 persen dari yang sudah dibayarkan ke nasabah, turun dari 60,8 persen tahun lalu, sehingga Dayin Mitra harus menanggung lebih banyak klaim dengan kas sendiri, naik 47,3 persen. Perseroan menyebut dampaknya terhadap laba tidak signifikan dan penyesuaian cadangan klaim bersifat wajar, tapi klaim ini baru bisa diuji di laporan keuangan periode berikutnya yang akan menunjukkan apakah tren penagihan ke reasuradur membaik atau terus melambat.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
  },
  {
   "slug": "true-revisi-lk-kuartal-iii-rugi-bertambah-jadi-rp33-54-miliar",
@@ -25139,8 +25200,8 @@ var ARTICLES = [
  {
   "slug": "mbma-terbitkan-obligasi-tahap-vi-rp2-5-triliun-bunga-9-10-75",
   "category": "Aksi Korporasi",
-  "title": "Obligasi MBMA Tahap VI 20 November: Masa Penawaran [Dipangkas] Sehari",
-  "deck": "MBMA mengoreksi masa penawaran obligasi Tahap VI Rp2,5 triliun dari dua hari jadi hanya 20 November 2026, serta merinci rencana dana untuk melunasi utang dolar Fasilitas B.",
+  "title": "Obligasi MBMA Tahap VI Rp600,9 Miliar: [Tercatat] di BEI 26 November",
+  "deck": "Obligasi Tahap VI MBMA resmi tercatat di BEI 26 November 2026 senilai Rp600,91 miliar, melebihi porsi dijamin penuh Rp508,26 miliar, sehingga seluruh sisa utang Fasilitas B dolar bisa dilunasi.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T22:16:30",
@@ -25149,56 +25210,66 @@ var ARTICLES = [
   "emiten": "MBMA",
   "tags": [
    "MBMA",
-   "obligasi",
-   "Fasilitas B",
-   "obligasi berkelanjutan"
+   "Obligasi Berkelanjutan",
+   "Pencatatan BEI",
+   "Fasilitas B"
   ],
   "body": [
-   "PT Merdeka Battery Materials Tbk (MBMA) menerbitkan dokumen tambahan informasi dan perbaikan atas informasi tambahan ringkas Obligasi Berkelanjutan I Tahap VI Tahun 2026 pada 20 November 2026. Perbaikan utamanya adalah masa penawaran umum obligasi, yang sebelumnya diumumkan berlangsung dua hari pada 19 sampai 20 November 2026, dikoreksi menjadi hanya satu hari, yaitu 20 November 2026 pukul 09.00 sampai 16.00 WIB. Jadwal setelahnya tidak berubah: tanggal penjatahan tetap 23 November 2026, dana pemesanan yang tidak terserap dikembalikan dan distribusi elektronik dilakukan 25 November 2026, serta pencatatan di Bursa Efek Indonesia pada 26 November 2026.",
-   "Dokumen ini juga merinci rencana penggunaan dana yang sebelumnya belum dijelaskan secara spesifik. Jika dana yang terkumpul sebesar porsi yang dijamin penuh, yakni Rp508,26 miliar, seluruhnya akan dipakai untuk membayar lebih awal sebagian pokok utang Fasilitas B dalam perjanjian fasilitas kredit berjangka dan bergulir senilai sampai US$250 juta yang diteken 3 Oktober 2025, setara Rp504,8 miliar atau US$27,8 juta, sehingga saldo utang Fasilitas B itu akan menyusut menjadi sekitar US$85,2 juta atau setara Rp1.545,1 miliar. Jika dana yang terkumpul lebih besar karena porsi kesanggupan terbaik ikut terjual, seluruh sisa utang Fasilitas B akan dilunasi lebih dulu, dan kelebihan dana dipakai untuk modal kerja seperti biaya karyawan, jasa profesional, pajak, dan biaya keuangan.",
-   "Obligasi Tahap VI ini tetap ditawarkan dengan jumlah pokok sebanyak-banyaknya Rp2,5 triliun, terbagi tiga seri: Seri A Rp217,94 miliar berbunga 9 persen per tahun bertenor 367 hari, Seri B Rp272,38 miliar berbunga 10,25 persen bertenor tiga tahun, dan Seri C Rp17,95 miliar berbunga 10,75 persen bertenor lima tahun. Dari jumlah itu, Rp508,26 miliar dijamin penuh oleh penjamin emisi, sedangkan sisanya Rp1,99 triliun hanya dijamin dengan basis upaya terbaik, yang berarti jika tidak terjual seluruhnya MBMA tidak wajib menerbitkan sisanya. Penerbitan ini merupakan tahap keenam dari total program obligasi berkelanjutan senilai Rp16 triliun, setelah sebelumnya MBMA menerbitkan Rp13,5 triliun pada tahap-tahap sebelumnya.",
-   "Pefindo memberi peringkat idA atau Single A untuk obligasi ini. Penjamin pelaksana emisinya adalah PT Indo Premier Sekuritas, PT Trimegah Sekuritas Indonesia Tbk, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Bahana Sekuritas, PT CIMB Niaga Sekuritas, PT Mandiri Sekuritas, dan PT Sinarmas Sekuritas, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat. MBMA menyatakan risiko utamanya adalah statusnya sebagai perusahaan induk yang bergantung pada dividen dari anak usaha untuk membayar bunga dan pokok obligasi ini."
+   "PT Merdeka Battery Materials Tbk (MBMA) resmi mencatatkan Obligasi Berkelanjutan I Tahap VI Tahun 2026 di Bursa Efek Indonesia mulai 26 November 2026, menurut pengumuman BEI yang terbit 25 November 2026 malam. Total obligasi yang akhirnya diterbitkan mencapai Rp600,91 miliar, terdiri dari Seri A Rp256,26 miliar berbunga 9 persen per tahun jatuh tempo 2 Desember 2027, Seri B Rp298,28 miliar berbunga 10,25 persen jatuh tempo 25 November 2029, dan Seri C Rp46,37 miliar berbunga 10,75 persen jatuh tempo 25 November 2031. Nilai ini lebih besar dari porsi yang sebelumnya dijamin penuh oleh penjamin emisi senilai Rp508,26 miliar, tanda sebagian porsi kesanggupan terbaik yang sebenarnya tidak wajib terjual ternyata ikut terserap pasar.",
+   "Karena dana yang terkumpul melampaui porsi dijamin penuh, skenario yang berlaku adalah seluruh sisa utang Fasilitas B, pinjaman dolar berjangka dan bergulir senilai sampai US$250 juta yang diteken 3 Oktober 2025, dilunasi lebih dulu, dan kelebihan dananya dipakai untuk modal kerja seperti biaya karyawan, jasa profesional, pajak, dan biaya keuangan. Ini berbeda dari skenario dasar yang hanya melunasi sebagian pokok Fasilitas B senilai US$27,8 juta atau sekitar Rp504,8 miliar, dengan sisa saldo utang sekitar US$85,2 juta tetap berjalan.",
+   "Obligasi ini mendapat peringkat idA atau Single A dari Pefindo, dengan PT Bank Rakyat Indonesia (Persero) Tbk sebagai wali amanat dan penitipan kolektif di PT Kustodian Sentral Efek Indonesia. Penjamin pelaksana emisinya adalah PT Indo Premier Sekuritas, PT Trimegah Sekuritas Indonesia Tbk, PT Sucor Sekuritas, PT Aldiracita Sekuritas Indonesia, PT Bahana Sekuritas, PT CIMB Niaga Sekuritas, PT Mandiri Sekuritas, dan PT Sinarmas Sekuritas. BEI juga menyebut MBMA berhak membeli kembali sebagian atau seluruh obligasi ini satu tahun setelah tanggal penjatahan, tanpa agunan khusus karena obligasi dijamin dengan seluruh harta kekayaan perseroan sesuai Pasal 1131 dan 1132 KUH Perdata.",
+   "Penerbitan Tahap VI ini melanjutkan program Obligasi Berkelanjutan I MBMA yang menargetkan total dana Rp16 triliun. Sebelum tahap ini, MBMA telah menerbitkan Rp13,5 triliun pada tahap-tahap sebelumnya, sehingga dengan tambahan Rp600,91 miliar dari Tahap VI, total obligasi yang sudah diterbitkan dalam program ini menjadi sekitar Rp14,1 triliun."
   ],
   "fotoAdegan": "Industrial nickel processing plant with workers in hard hats monitoring glowing molten metal flow, steam rising under grey sky",
-  "takeaway": "Tambahan informasi ini netral bagi MBMA karena sifatnya administratif, mengoreksi jangka waktu penawaran dan merinci rencana pakai dana, tanpa mengubah besaran pokok maupun bunga obligasi yang sudah ditetapkan sebelumnya. Yang tersentuh adalah utang dan arus kas: dana obligasi akan dipakai melunasi lebih dulu sebagian pokok utang dolar Fasilitas B, pinjaman berjangka senilai sampai US$250 juta, sehingga saldo utang itu bisa menyusut jadi sekitar US$85,2 juta, namun beban bunga obligasi baru tetap membebani laba karena harus dibayar setiap tiga bulan terlepas dari pelunasan utang lama itu. Jika dana yang terkumpul lebih besar karena porsi kesanggupan terbaik ikut terjual, seluruh sisa utang Fasilitas B bisa langsung lunas dan kelebihannya dipakai untuk modal kerja. Yang perlu dipantau berikutnya adalah hasil penawaran pada 20 November 2026 ini sendiri dan tanggal penjatahan pada 23 November 2026, karena dari situ baru terlihat berapa dana riil yang terkumpul dan seberapa besar utang Fasilitas B yang benar-benar bisa dilunasi MBMA.",
-  "sentimen": "netral",
+  "takeaway": "Pencatatan ini condong positif bagi MBMA karena pasar menyerap obligasi melebihi porsi yang dijamin penuh, sehingga perseroan bisa melunasi seluruh sisa utang Fasilitas B sekaligus, bukan hanya sebagian seperti rencana awal. Pos yang tersentuh adalah utang dan beban bunga: pelunasan penuh utang dolar berjangka ini menghapus kewajiban cicilan utang lama, meski muncul beban bunga baru dari obligasi yang harus dibayar setiap tiga bulan, sehingga efek bersihnya pada kas perseroan tergantung selisih bunga antara utang lama dan obligasi baru ini. Arus kas jangka pendek juga perlu dicermati karena dana obligasi langsung dipakai melunasi utang, bukan disimpan sebagai kas bebas perseroan. Yang perlu dipantau berikutnya adalah pembayaran bunga pertama pada 25 Februari 2027 untuk melihat konsistensi pembayaran kewajiban baru ini, serta jatuh tempo Seri A pada 2 Desember 2027 sebagai ujian pelunasan pokok pertama dari obligasi Tahap VI.",
+  "sentimen": "positif",
   "pembaruan": [
    {
     "tanggal": "2026-11-20T16:11:49",
     "ringkas": "MBMA memperbaiki jadwal: masa penawaran obligasi Tahap VI dipersingkat jadi sehari pada 20 November, dan merinci rencana pelunasan utang Fasilitas B.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/d276c10b71_c8362b1d87.pdf",
     "judulIdx": "Tambahan Informasi dan/atau Perbaikan atas Informasi Tambahan Ringkas PUB Obligasi Berkelanjutan I Merdeka Battery Materials Tahap VI Tahun 2026"
+   },
+   {
+    "tanggal": "2026-11-25T23:41:50",
+    "ringkas": "Obligasi MBMA Tahap VI resmi tercatat di BEI 26 November 2026 senilai Rp600,91 miliar, lebih besar dari porsi dijamin penuh Rp508,26 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_MBMA_B011_korporasi_cd90a2be-648f-449f-bd41-dae0b51756e3-20261125234153.pdf",
+    "judulIdx": "Pencatatan Awal Obligasi/Sukuk Korporasi"
    }
   ],
-  "diperbarui": "2026-11-20T16:11:49",
+  "diperbarui": "2026-11-25T23:41:50",
   "jadwal": [
    {
     "tanggal": "2025-06-30",
     "acara": "Tanggal efektif program Obligasi Berkelanjutan I"
    },
    {
-    "tanggal": "2026-11-20",
-    "acara": "Masa penawaran umum (dipersingkat jadi satu hari)"
-   },
-   {
     "tanggal": "2026-11-23",
-    "acara": "Tanggal penjatahan"
-   },
-   {
-    "tanggal": "2026-11-24",
-    "acara": "Batas dana in good funds diterima penjamin emisi"
+    "acara": "Tanggal penjatahan Obligasi Tahap VI"
    },
    {
     "tanggal": "2026-11-25",
-    "acara": "Distribusi elektronik dan pengembalian uang pemesanan"
+    "acara": "Distribusi elektronik obligasi"
    },
    {
     "tanggal": "2026-11-26",
     "acara": "Pencatatan obligasi di Bursa Efek Indonesia"
    },
    {
+    "tanggal": "2027-02-25",
+    "acara": "Pembayaran bunga pertama obligasi"
+   },
+   {
     "tanggal": "2027-12-02",
     "acara": "Jatuh tempo dan pelunasan Obligasi Seri A"
+   },
+   {
+    "tanggal": "2029-11-25",
+    "acara": "Jatuh tempo dan pelunasan Obligasi Seri B"
+   },
+   {
+    "tanggal": "2031-11-25",
+    "acara": "Jatuh tempo dan pelunasan Obligasi Seri C"
    }
   ],
   "peristiwa": "obligasi"

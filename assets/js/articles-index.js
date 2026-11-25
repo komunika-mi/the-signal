@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "toba-rencanakan-transaksi-material-sgd555-juta-rupslb-27-november",
+  "category": "Aksi Korporasi",
+  "title": "TOBA Rencanakan Transaksi Material SGD555 Juta, [RUPSLB] 27 November",
+  "deck": "Anak usaha TOBA di Singapura, SBTH, akan menerbitkan saham preferen dan waran sintetis senilai hingga SGD555 juta ke investor global, RUPSLB 27 November 2026.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TOBA",
+   "transaksi material",
+   "RUPSLB",
+   "SBTH"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TOBA_E019_1a444f1b-5879-4b7f-881a-93d340d1cb11-20261125224429.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "delegasi-animasi-indonesia-ke-siggraph-asia-2026-malaysia",
   "category": "Industri",
   "title": "Delegasi Animasi Indonesia ke [SIGGRAPH] Asia 2026 Malaysia",
@@ -19,6 +35,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/industri-kreatif-indonesia-unjuk-karya-di-negeri-jiran-melalui-siggraph-asia-2026",
   "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "asdm-laba-naik-13-1-meski-underwriting-negatif-rp0-8-m",
+  "category": "Aksi Korporasi",
+  "title": "ASDM: Laba Naik 13,1% meski [Underwriting] Negatif Rp0,8 M",
+  "deck": "Laba Asuransi Dayin Mitra naik 13,1% jadi Rp15,59 miliar, tapi bisnis inti asuransinya negatif Rp0,80 miliar dan laba ditopang penuh hasil investasi.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASDM",
+   "Asuransi Dayin Mitra",
+   "reasuransi",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ASDM_E023A_c3f3b8b8-3f90-4ad2-b3e5-2028f5589353-20261125220537.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "true-revisi-lk-kuartal-iii-rugi-bertambah-jadi-rp33-54-miliar",
@@ -6457,38 +6489,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/hma-nikel-naik-jadi-usd1559688-per-ton-pada-paruh-kedua-november-2026",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "bri-dan-playtopia-luncurkan-kartu-debit-tabungan-anak",
-  "category": "Perbankan",
-  "title": "BRI dan Playtopia [Luncurkan] Kartu Debit Tabungan Anak",
-  "deck": "BRI menggandeng Playtopia meluncurkan kartu debit co-branding BRI Junio untuk mendorong anak-anak menabung sambil bermain.",
-  "date": "17 November 2026",
-  "image": "assets/img/bri-dan-playtopia-luncurkan-kartu-debit-tabungan-anak.jpg",
-  "imageV": "mwkyc5qx",
-  "tags": [
-   "BRI",
-   "BBRI",
-   "Playtopia",
-   "BRI Junio"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478891-bri-dan-playtopia-group-luncurkan-kartu-debit-co-branding-bri-junio-x-playtopia"
- },
- {
-  "slug": "irra-revisi-laporan-keuangan-semester-i-2026-koreksi-11-pos-akun",
-  "category": "Aksi Korporasi",
-  "title": "IRRA Revisi Laporan Keuangan Semester I 2026: [Koreksi] 11 Pos Akun",
-  "deck": "IRRA merevisi laporan keuangan semester I 2026, mengoreksi 11 pos termasuk utang bank dan piutang pajak, tanpa mengubah total aset maupun laba.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IRRA",
-   "laporan keuangan",
-   "koreksi laporan",
-   "utang bank"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117205418-65809-0/FinancialStatement-2026-II-IRRA.pdf",
-  "sourceLabel": "IDX"
  }
 ];

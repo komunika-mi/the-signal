@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "MS1d21A-1nA",
+  "title": "Industri Film Nasional Bangkit, Saingi Dominasi Hollywood",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Industri film Indonesia disebut tumbuh pesat, dengan jumlah penonton yang bersaing bahkan mengungguli film Hollywood serta produksi tahunan mencapai ratusan judul.",
+  "takeaway": "Pertumbuhan industri film menunjukkan perkembangan ekonomi kreatif yang relevan untuk dipantau pembaca ekonomi."
+ },
+ {
   "id": "G6P2DFZv3rc",
   "title": "Danantara Catat Laba Bersih Rp259,6 Triliun pada 2025",
   "category": "BUMN",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Asosiasi Personal Vaporizer Indonesia meminta pemerintah melibatkan pelaku usaha dalam mengkaji kebijakan rokok elektrik, menyusul polemik penggunaan vape yang dinilai berdampak pada industri ini.",
   "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah regulasi yang bisa mempengaruhi keberlangsungan pelaku usaha di industri rokok elektrik."
- },
- {
-  "id": "u5lQjJU5mrQ",
-  "title": "Trump Ajak ASEAN Gabung Aliansi Teknologi Pax Silica",
-  "category": "Teknologi",
-  "program": "OneNews Update",
-  "summary": "Presiden AS Donald Trump dikabarkan mengajak Indonesia dan negara ASEAN lain bergabung dalam inisiatif Pax Silica, program kerja sama teknologi yang digagas Amerika Serikat.",
-  "takeaway": "Kerja sama teknologi semacam ini berpotensi memengaruhi arah investasi dan rantai pasok industri di kawasan, termasuk Indonesia."
  }
 ];

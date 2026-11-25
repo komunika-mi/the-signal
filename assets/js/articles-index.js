@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekonomi-ri-tumbuh-5-47-pemerintah-incar-6-di-2027",
+  "category": "Makroekonomi",
+  "title": "Ekonomi RI Tumbuh 5,47%, Pemerintah Incar [6%] di 2027",
+  "deck": "Kemenko Perekonomian melaporkan pertumbuhan ekonomi triwulan III 2026 capai 5,47 persen, sembari memasang target 6 persen pada 2027 lewat empat strategi.",
+  "date": "25 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "pertumbuhan ekonomi",
+   "Kemenko Perekonomian",
+   "Kawasan Ekonomi Khusus",
+   "target 2027"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7250/pemerintah-perkuat-komunikasi-berbasis-data-dan-optimisme-pasar-menuju-pertumbuhan-60-di-2027",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "indonesia-korea-bangun-sistem-uji-charger-ev-senilai-us-8-juta",
+  "category": "Industri",
+  "title": "Indonesia-Korea Bangun Sistem Uji Charger EV Senilai [US$8 Juta]",
+  "deck": "Kemendag dan Korea Selatan memperkuat sistem pengujian dan sertifikasi alat pengisi daya kendaraan listrik lewat hibah US$8 juta dari KOICA untuk periode 2025-2029.",
+  "date": "25 November 2026",
+  "image": "assets/img/indonesia-korea-bangun-sistem-uji-charger-ev-senilai-us-8-juta.jpg",
+  "imageV": "mww48pqv",
+  "tags": [
+   "Kendaraan Listrik",
+   "Metrologi Legal",
+   "Kemendag",
+   "KOICA"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-korea-selatan-perkuat-kerja-sama-sistem-metrologi-legal-evse-1795601582",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "ri-korea-siapkan-aturan-tera-alat-pengisi-daya-mobil-listrik",
+  "category": "Energi",
+  "title": "RI-Korea Siapkan Aturan [Tera] Alat Pengisi Daya Mobil Listrik",
+  "deck": "Kemendag dan Korea Selatan membangun sistem pengujian dan tera alat pengisi daya kendaraan listrik, didukung hibah US$8 juta dari KOICA untuk periode 2025-2029.",
+  "date": "25 November 2026",
+  "image": "assets/img/ri-korea-siapkan-aturan-tera-alat-pengisi-daya-mobil-listrik.jpg",
+  "imageV": "mww48zqs",
+  "tags": [
+   "metrologi legal",
+   "EVSE",
+   "kendaraan listrik",
+   "KOICA"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-korea-selatan-perkuat-kerja-sama-sistem-metrologi-legal-evse",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pnm-raih-annual-report-award-2025-dari-knkg",
+  "category": "BUMN",
+  "title": "PNM Raih [Annual Report Award] 2025 dari KNKG",
+  "deck": "PNM meraih Annual Report Award 2025 dari KNKG untuk kategori BUMN non-listed sektor keuangan, sebagai pengakuan atas transparansi laporan dan tata kelola perusahaan.",
+  "date": "25 November 2026",
+  "image": "assets/img/pnm-raih-annual-report-award-2025-dari-knkg.jpg",
+  "imageV": "mww4905n",
+  "tags": [
+   "PNM",
+   "BUMN",
+   "KNKG",
+   "Tata Kelola Perusahaan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480330-raih-annual-report-award-2025-pnm-konsisten-jaga-transparansi-dan-akuntabilitas"
+ },
+ {
   "slug": "rupslb-byan-23-november-direksi-diganti-usai-akuisisi-jhonlin",
   "category": "Aksi Korporasi",
   "title": "RUPSLB BYAN 23 November: [Direksi] Diganti Usai Akuisisi Jhonlin",
@@ -415,7 +484,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken IEU-CEPA, Berlaku [2027]",
   "deck": "Wamenko Dradjad membekali calon duta besar dengan data ekonomi terbaru dan progres IEU-CEPA yang diteken di Brussels, menjelang berlaku Januari 2027.",
   "date": "25 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "IEU-CEPA",
    "diplomasi ekonomi",
@@ -4906,7 +4975,7 @@ var ARTICLES = [
   "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
   "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
   "date": "19 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "daya beli",
    "konsumsi rumah tangga",
@@ -6382,7 +6451,7 @@ var ARTICLES = [
   "title": "Realisasi PSN Capai [Rp2.396] Triliun, Serap 10,7 Juta Kerja",
   "deck": "Kemenko Perekonomian merinci realisasi Proyek Strategis Nasional dan Kawasan Ekonomi Khusus hingga September 2026, disertai data pertumbuhan ekonomi dan investasi nasional terbaru.",
   "date": "17 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "PSN",
    "KEK",
@@ -6422,71 +6491,6 @@ var ARTICLES = [
    "Sinar Mas"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/34b3c4a3cb_df91d79f21.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wege-digugat-pkpu-oleh-dua-perusahaan-terdaftar-13-november",
-  "category": "Aksi Korporasi",
-  "title": "WEGE Digugat [PKPU] oleh Dua Perusahaan, Terdaftar 13 November",
-  "deck": "Dua perusahaan, PT Jaya Hamparan Alam dan PT Dutakreasi Bersama Realtindo, mengajukan permohonan PKPU terhadap WEGE ke Pengadilan Niaga Jakarta Pusat, terdaftar 13 November 2026.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WEGE",
-   "PKPU",
-   "Pengadilan Niaga",
-   "Konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/54bf587656_2715ae053d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpu-wege-dari-pratama-widya-dicabut-kasus-resmi-selesai",
-  "category": "Aksi Korporasi",
-  "title": "PKPU WEGE dari Pratama Widya [Dicabut], Kasus Resmi Selesai",
-  "deck": "Pengadilan Niaga Jakarta Pusat mencatat PT Pratama Widya Tbk mencabut gugatan PKPU terhadap WEGE pada 12 November 2026, perkara dinyatakan selesai.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WEGE",
-   "PKPU",
-   "Pengadilan Niaga",
-   "Pratama Widya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/066673e033_ddab072b8f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smexpo-2026-ditutup-potensi-bisnis-umkm-tembus-rp34-miliar",
-  "category": "UMKM",
-  "title": "SMEXPO 2026 Ditutup, Potensi Bisnis UMKM Tembus [Rp34 Miliar]",
-  "deck": "Pertamina merangkum SMEXPO 2026 dengan 354 UMKM binaan di enam kota, penjualan ritel lebih dari Rp2 miliar, dan potensi kerja sama bisnis Rp34 miliar.",
-  "date": "17 November 2026",
-  "image": "assets/img/smexpo-2026-ditutup-potensi-bisnis-umkm-tembus-rp34-miliar.jpg",
-  "imageV": "mwkoqi3x",
-  "tags": [
-   "pertamina",
-   "umkm",
-   "smexpo",
-   "bisnis"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478861-pertamina-tutup-rangkaian-smexpo-2026-potensi-bisnis-tembus-rp34-miliar"
- },
- {
-  "slug": "uma-tfas-13-november-manajemen-tak-tahu-pemicu-volatilitas",
-  "category": "Aksi Korporasi",
-  "title": "[UMA] TFAS 13 November: Manajemen Tak Tahu Pemicu Volatilitas",
-  "deck": "TFAS menjawab permintaan BEI soal volatilitas transaksi sahamnya: manajemen menyatakan tidak ada informasi material apa pun di balik pergerakan itu.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TFAS",
-   "UMA",
-   "Bursa Efek Indonesia",
-   "volatilitas saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51b1714ddc_cd5bf7cb81.pdf",
   "sourceLabel": "IDX"
  }
 ];

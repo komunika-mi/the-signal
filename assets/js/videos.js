@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "MS1d21A-1nA",
+  "title": "Industri Film Nasional Bangkit, Saingi Dominasi Hollywood",
+  "category": "Industri",
+  "program": "Indonesia Business Forum",
+  "summary": "Industri film Indonesia disebut tumbuh pesat, dengan jumlah penonton yang bersaing bahkan mengungguli film Hollywood serta produksi tahunan mencapai ratusan judul.",
+  "takeaway": "Pertumbuhan industri film menunjukkan perkembangan ekonomi kreatif yang relevan untuk dipantau pembaca ekonomi.",
+  "terbit": "2026-11-25T11:48:47+00:00"
+ },
+ {
   "id": "G6P2DFZv3rc",
   "title": "Danantara Catat Laba Bersih Rp259,6 Triliun pada 2025",
   "category": "BUMN",

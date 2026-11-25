@@ -5,6 +5,57 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-syaratkan-akuisisi-schroder-oleh-manulife",
+  "category": "Pasar Modal",
+  "title": "KPPU [Syaratkan] Akuisisi Schroder oleh Manulife",
+  "deck": "KPPU menggelar sidang penilaian menyeluruh atas pengambilalihan 99 persen saham Schroder Investment Management Indonesia oleh Manulife, setelah ditemukan potensi kenaikan biaya di pasar KPD dan Tapera.",
+  "date": "25 November 2026",
+  "image": "assets/img/pasar-modal.jpg",
+  "tags": [
+   "KPPU",
+   "Manulife",
+   "Schroder",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-gelar-sidang-perdana-penilaian-menyeluruh-akuisisi-manulife-atas-schroder",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "ri-uni-eropa-teken-cepa-tarif-ekspor-turun-nol-persen",
+  "category": "Global",
+  "title": "RI-Uni Eropa Teken CEPA, Tarif Ekspor Turun [Nol Persen]",
+  "deck": "Indonesia dan Uni Eropa resmi menandatangani I-EU CEPA pada 21 November 2026, membuka akses pasar 449 juta penduduk di 27 negara dengan sebagian besar pos tarif turun jadi nol persen mulai 2027.",
+  "date": "25 November 2026",
+  "image": "assets/img/ri-uni-eropa-teken-cepa-tarif-ekspor-turun-nol-persen.jpg",
+  "imageV": "mwviur5q",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "Ekspor",
+   "Tarif Preferensi"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/i-eu-cepa-buka-pasar-449-juta-jiwa-di-uni-eropa",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bni-pertahankan-peringkat-ketiga-di-ara-2025",
+  "category": "Perbankan",
+  "title": "BNI [Pertahankan] Peringkat Ketiga di ARA 2025",
+  "deck": "BNI mempertahankan peringkat ketiga Annual Report Award 2025 kategori BUMN sektor keuangan berpendapatan di atas Rp18 triliun.",
+  "date": "25 November 2026",
+  "image": "assets/img/bni-pertahankan-peringkat-ketiga-di-ara-2025.jpg",
+  "imageV": "mwviurnn",
+  "tags": [
+   "BNI",
+   "ARA 2025",
+   "tata kelola",
+   "BUMN"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480232-bni-pertahankan-prestasi-raih-penghargaan-annual-report-award-2025"
+ },
+ {
   "slug": "plts-pertamina-di-kariangau-hemat-rp400-ribu-bulan",
   "category": "Energi",
   "title": "PLTS Pertamina di Kariangau [Hemat] Rp400 Ribu/Bulan",
@@ -2407,7 +2458,7 @@ var ARTICLES = [
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
   "date": "22 November 2026",
-  "image": "assets/img/pasar-modal.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2491,7 +2542,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/industri-tekstil.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -2968,7 +3019,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3421,7 +3472,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -4856,7 +4907,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -5599,7 +5650,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -5878,7 +5929,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -6445,53 +6496,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478773-terpantau-turun-harga-emas-antam-hari-ini-17-november-2026-rp2515000-per-gram"
- },
- {
-  "slug": "akpi-komisaris-henry-liem-jual-8-800-saham-hak-suara-0-3124",
-  "category": "Aksi Korporasi",
-  "title": "AKPI: Komisaris Henry Liem Tambah 262.600 Saham, Hak Suara 0,3553%",
-  "deck": "Komisaris AKPI Henry Liem membeli 300.000 saham pada 20 November 2026 setelah menjual 37.400 saham sehari sebelumnya, membalikkan tren jual bertahap dan menaikkan hak suaranya dari 0,3124% menjadi 0,3553%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "AKPI",
-   "Henry Liem",
-   "laporan kepemilikan",
-   "Argha Karya Prima"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4990-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bi-perkuat-aturan-pelindungan-konsumen-digital",
-  "category": "Moneter",
-  "title": "BI Perkuat [Aturan] Pelindungan Konsumen Digital",
-  "deck": "BI memperketat penerapan aturan pelindungan konsumen pembayaran digital dan menggandeng OJK soal penyelesaian sengketa, saat indeks keberdayaan konsumen masih di bawah kategori tertinggi.",
-  "date": "17 November 2026",
-  "image": "assets/img/koridor-bank-sentral.jpg",
-  "tags": [
-   "Bank Indonesia",
-   "OJK",
-   "pelindungan konsumen",
-   "pembayaran digital"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825326.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "emas-jelaskan-ke-bei-arus-kas-operasi-negatif-us-25-58-juta",
-  "category": "Aksi Korporasi",
-  "title": "EMAS Jelaskan ke BEI: [Arus Kas Operasi] Negatif US$25,58 Juta",
-  "deck": "Merdeka Gold Resources menjawab permintaan penjelasan BEI: kas dari operasi minus US$25,58 juta semester I 2026, seluruh penjualan emas masih bergantung pada satu pembeli, ANTM.",
-  "date": "16 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "EMAS",
-   "arus kas operasi",
-   "konsentrasi pembeli ANTM",
-   "pendanaan utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a4069bb2fe_deb2820e06.pdf",
-  "sourceLabel": "IDX"
  }
 ];

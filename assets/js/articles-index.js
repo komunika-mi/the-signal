@@ -153,6 +153,22 @@ var ARTICLES = [
   "sourceLabel": "PT Pupuk Indonesia (Persero)"
  },
  {
+  "slug": "waran-terstruktur-dr-disesuaikan-usai-aadi-bagi-dividen-us-500-juta",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR [Disesuaikan] usai AADI Bagi Dividen US$500 Juta",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur DR setelah AADI mengumumkan dividen tunai US$500 juta, efektif 25 November 2026.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "AADI",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_DR_E019_8b3230da-f006-4ea3-92a8-812131261745-20261125171105.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-pantau-harga-pangan-makassar-jelang-nataru-2027",
   "category": "Bisnis",
   "title": "KPPU [Pantau] Harga Pangan Makassar Jelang Nataru 2027",
@@ -183,6 +199,70 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7249/indonesia-dan-oecd-luncurkan-laporan-penguatan-ekosistem-semikonduktor-nasional",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "xmgb-unit-beredar-susut-jadi-41-juta-redemption-hari-ketiga",
+  "category": "Aksi Korporasi",
+  "title": "XMGB: Unit Beredar Susut Jadi 41 Juta, [Redemption] Hari Ketiga",
+  "deck": "Unit penyertaan ETF XMGB turun 4 juta jadi 41 juta pada 25 November, penyusutan harian ketiga beruntun sejak 23 November.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "XMGB",
+   "ETF",
+   "reksa dana",
+   "obligasi pemerintah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_XMGB_E019_325b401e-f490-4f25-9607-bce563486ff4-20261125164725.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-cmnp-30-nov-ekspansi-tol-rp74-65-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CMNP 30 Nov: [Ekspansi] Tol Rp74,65 Triliun",
+  "deck": "Materi Public Expose Tahunan CMNP memuat rencana investasi lima proyek tol baru senilai Rp74,65 triliun hingga 2035, didanai Rp28,74 triliun ekuitas dan Rp45,92 triliun utang.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CMNP",
+   "Public Expose",
+   "Jalan Tol",
+   "Capex"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_CMNP_E003_937635a0-b2fa-4f6f-9fe7-3f04e3b816c1-20261125163422.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-interim-aadi-us-500-juta-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim AADI US$500 Juta: [Cair] 11 Desember 2026",
+  "deck": "AADI akan membagikan dividen tunai interim senilai US$500 juta dari laba sembilan bulan 2026, dibayar 11 Desember 2026 setelah tanggal pencatatan 7 Desember.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AADI",
+   "dividen interim",
+   "Adaro Andalan Indonesia",
+   "dividen tunai"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_AADI_E007_1f170c87-6c6f-4843-8b2f-8745130f9c4a-20261125162326.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "andi-ubo-berganti-dari-anne-patricia-sutanto-ke-erik-setiawan",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: [UBO] Berganti dari Anne Patricia Sutanto ke Erik Setiawan",
+  "deck": "Pencatatan pemilik manfaat akhir (UBO) Andira Agro beralih dari Anne Patricia Sutanto ke Ir. Erik Setiawan per 23 November 2026, tanpa dampak operasional menurut perusahaan.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ANDI",
+   "UBO",
+   "Pemegang Saham",
+   "Andira Agro"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ANDI_E019_e747722c-90fa-491f-8c13-9ca4b5167132-20261125161619.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "public-expose-mdki-30-november-pangsa-pasar-tergerus-impor",
@@ -311,6 +391,22 @@ var ARTICLES = [
    "Obligasi I BUMA 2023"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BOLD_E019_cc8bcc9c-4218-4f1d-bd0c-37209025920b-20261125144052.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "talf-jawab-permintaan-bursa-soal-volatilitas-saham-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "TALF Jawab Permintaan Bursa soal Volatilitas Saham: [Tak Ada] Info Material",
+  "deck": "TALF menegaskan tidak ada informasi material di balik volatilitas perdagangan sahamnya, menanggapi permintaan penjelasan BEI tertanggal 24 November 2026.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TALF",
+   "Tunas Alfin",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TALF_E023A_513b6109-296c-4565-971f-2a206759b70c-20261125143026.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -4858,15 +4954,15 @@ var ARTICLES = [
  {
   "slug": "meja-rencana-right-issue-akuisisi-45-trimata-coal-rp1-11-triliun",
   "category": "Aksi Korporasi",
-  "title": "MEJA Rencana [Right Issue] Akuisisi 45% Trimata Coal Rp1,11 Triliun",
-  "deck": "MEJA memaparkan rencana rights issue untuk akuisisi 45% saham tambang batu bara Trimata Coal Perkasa senilai Rp1,11 triliun, RUPSLB dijadwalkan Februari 2027.",
+  "title": "Right Issue MEJA: [Harga] Rp450-550, TCP Rp1,1-1,6 Triliun",
+  "deck": "Laporan hasil Public Expose MEJA membuka kisaran harga rights issue Rp450-550 per saham dan valuasi akuisisi 45% Trimata Coal Rp1,1-1,6 triliun, RUPSLB tetap dijadwalkan Februari 2027.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "MEJA",
-   "rights issue",
-   "akuisisi tambang batu bara",
-   "Trimata Coal Perkasa"
+   "right issue",
+   "Trimata Coal",
+   "public expose"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4117e7a52_2f14228049.pdf",
   "sourceLabel": "IDX"
@@ -4890,15 +4986,15 @@ var ARTICLES = [
  {
   "slug": "rupslb-roti-15-desember-tarik-treasury-shares-ganti-direksi",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ROTI 15 Desember: [Tarik] Treasury Shares & Ganti Direksi",
-  "deck": "ROTI akan gelar RUPSLB pada 15 Desember 2026 untuk menyetujui penarikan treasury shares lewat penurunan modal dan perubahan direksi, bersamaan laba kuartal III melonjak ke Rp51,3 miliar.",
+  "title": "Public Expose ROTI: Capex 2026 Rp100-120 Miliar, [RUPSLB] 15 Desember",
+  "deck": "Public Expose 24 November mengungkap rencana capex Rp100-120 miliar tahun ini dan target free float 15 persen sebelum 2029, sementara RUPSLB penarikan treasury shares tetap digelar 15 Desember.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ROTI",
+   "Public Expose",
    "RUPSLB",
-   "Treasury Shares",
-   "Nippon Indosari Corpindo"
+   "Free Float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e1fbe89506_5d41aeea6c.pdf",
   "sourceLabel": "IDX"
@@ -6391,104 +6487,6 @@ var ARTICLES = [
    "volatilitas saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/51b1714ddc_cd5bf7cb81.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "private-placement-tgra-21-miliar-saham-ams-jadi-pengendali-baru",
-  "category": "Aksi Korporasi",
-  "title": "Private Placement TGRA 21 Miliar Saham: Defisit Rp293 M [Terungkap]",
-  "deck": "Koreksi keterbukaan TGRA ungkap rugi bersih Rp25,29 miliar dan defisit Rp293,10 miliar per September 2026, sementara rencana private placement 21 miliar saham ke AMS tetap tak berubah.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TGRA",
-   "private placement",
-   "dilusi saham",
-   "going concern"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/69b68a027c_cf21575c17.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "umkm-ekspor-catat-us-361-juta-79-masih-potensi",
-  "category": "UMKM",
-  "title": "UMKM Ekspor Catat US$361 Juta, [79%] Masih Potensi",
-  "deck": "Nilai transaksi business matching ekspor UMKM Januari-Oktober 2026 mencapai US$361,61 juta, tapi 79 persennya masih berupa potensi, bukan pesanan pembelian pasti.",
-  "date": "17 November 2026",
-  "image": "assets/img/batik-umkm.jpg",
-  "tags": [
-   "UMKM",
-   "ekspor",
-   "Kemendag",
-   "business matching"
-  ],
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/business-matching-kemendag-januari-oktober-2026-catat-transaksi-usd-36161-juta-dan-libatkan-1433-pelaku-usaha",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "ri-bidik-potensi-transaksi-us-8-97-juta-di-expo-haji-jeddah",
-  "category": "Bisnis",
-  "title": "RI Bidik Potensi Transaksi [US$8,97 Juta] di Expo Haji Jeddah",
-  "deck": "Delapan perusahaan Indonesia menjajaki bisnis di Hajj Conference & Expo 2026 Jeddah, PT Family Food Indonesia meneken MoU dan mencatat potensi transaksi terbesar.",
-  "date": "17 November 2026",
-  "image": "assets/img/ri-bidik-potensi-transaksi-us-8-97-juta-di-expo-haji-jeddah.jpg",
-  "imageV": "mwkjdmuc",
-  "tags": [
-   "ekspor",
-   "Arab Saudi",
-   "haji dan umrah",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/indonesia-hasilkan-mou-dan-transaksi-signifikan-dalam-hajj-conference-expo-2026",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "rupslb-gema-komisaris-agustinus-mundur-dedy-rochimat-komut",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB GEMA: [Komisaris] Agustinus Mundur, Dedy Rochimat Komut",
-  "deck": "RUPSLB Gema Grahasarana (GEMA) pada 17 November 2026 menyetujui pengunduran diri Komisaris Agustinus Purna Irawan, dan menetapkan Dedy Rochimat sebagai Komisaris Utama baru hingga 2029.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GEMA",
-   "Komisaris",
-   "RUPSLB",
-   "Gema Grahasarana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4119a04ae1_f4b34fcb7e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-hapsoro-jual-333-juta-saham-hak-suara-jadi-1-05",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Hapsoro Beli 600 Juta, Jual 333 Juta Saham, Suara ke 1,05%",
-  "deck": "Dokumen baru menunjukkan Hapsoro membeli 600 juta saham BUVA pada 12 November sebelum menjual 333 juta di antaranya, sehingga hak suaranya net naik dari 0,18% menjadi 1,05%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "Hapsoro",
-   "Laporan Kepemilikan Saham",
-   "Free Float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0768-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "buva-nusantara-utama-investama-jual-600-juta-saham-suara-ke-58-2",
-  "category": "Aksi Korporasi",
-  "title": "BUVA: Nusantara Utama Investama [Jual] 600 Juta Saham, Suara ke 58,2%",
-  "deck": "Nusantara Utama Investama melepas 600 juta saham BUVA secara tidak langsung pada 12 November 2026, hak suara turun dari 60,15% menjadi 58,20%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BUVA",
-   "kepemilikan saham",
-   "Nusantara Utama Investama",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0866-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

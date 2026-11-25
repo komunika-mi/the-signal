@@ -278,6 +278,59 @@ var ARTICLES = [
   "imageV": "mwvyyiid"
  },
  {
+  "slug": "waran-terstruktur-dr-disesuaikan-usai-aadi-bagi-dividen-us-500-juta",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR [Disesuaikan] usai AADI Bagi Dividen US$500 Juta",
+  "deck": "RHB Sekuritas menyesuaikan rasio dan harga pelaksanaan waran terstruktur DR setelah AADI mengumumkan dividen tunai US$500 juta, efektif 25 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T17:11:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_DR_E019_8b3230da-f006-4ea3-92a8-812131261745-20261125171105.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "AADI",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia (DR) mengumumkan penyesuaian syarat dan ketentuan waran terstruktur dengan saham acuan PT Adaro Andalan Indonesia Tbk (AADI), menyusul keterbukaan informasi AADI pada 25 November 2026 tentang pembagian dividen tunai untuk tahun buku 2026. Sesuai keputusan Direksi yang telah disetujui Dewan Komisaris AADI pada tanggal yang sama, total nilai dividen yang akan dibagikan sudah ditentukan sebesar US$500 juta, meski besaran dividen per saham belum dicantumkan dalam dokumen ini. Penyesuaian berlaku efektif sejak 25 November 2026.",
+   "Jadwal pembagian dividen AADI yang menjadi acuan penyesuaian adalah sebagai berikut: cum dividen di pasar reguler dan pasar negosiasi pada 3 Desember 2026, ex dividen di kedua pasar itu pada 4 Desember 2026, cum dividen di pasar tunai pada 7 Desember 2026, dan ex dividen di pasar tunai pada 8 Desember 2026. Daftar pemegang saham (DPS) AADI yang berhak atas dividen ditetapkan pada 7 Desember 2026 pukul 16.00 WIB, dengan dividen dibayarkan paling lambat pada 11 Desember 2026.",
+   "Rasio pelaksanaan dan harga pelaksanaan waran terstruktur akan dihitung ulang memakai rumus baku yang mengacu pada harga penutupan saham AADI pada hari bursa terakhir saat saham itu masih diperdagangkan dengan hak dividen (cum-entitlement), dikurangi besaran dividen per saham. RHB Sekuritas Indonesia selaku penerbit waran menyatakan bahwa penyesuaian ini bisa saja tidak dilakukan jika berdasarkan kebijakannya sendiri dianggap tidak diperlukan, tanpa kewajiban apa pun kepada pemegang waran terstruktur."
+  ],
+  "fotoAdegan": "A loaded coal barge moving down a wide brown river under overcast sky, tugboat alongside, distant coastline",
+  "takeaway": "Penyesuaian ini netral bagi RHB Sekuritas Indonesia selaku emiten DR, karena sifatnya mekanis dan otomatis, berlaku setiap kali saham acuan sebuah waran terstruktur membagi dividen, dan tidak mencerminkan kondisi keuangan RHB sendiri. Yang berubah adalah rasio pelaksanaan dan harga pelaksanaan waran, dua angka yang menentukan berapa banyak saham AADI yang bisa ditebus pemegang waran dan di harga berapa; penyesuaian ini perlu dilakukan karena pembagian dividen membuat harga saham AADI biasanya turun sebesar nilai dividen pada hari ex-dividen, sehingga tanpa penyesuaian nilai waran bisa tergerus begitu saja. Yang perlu dipantau berikutnya adalah tanggal daftar pemegang saham AADI pada 7 Desember 2026 pukul 16.00 WIB dan tanggal pembayaran dividen pada 11 Desember 2026, mengingat RHB tetap berhak memutuskan sendiri apakah penyesuaian ini akhirnya diterapkan atau tidak.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Tanggal efektif penyesuaian waran terstruktur"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Cum dividen AADI di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Ex dividen AADI di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Cum dividen pasar tunai dan batas daftar pemegang saham berhak dividen"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Ex dividen AADI di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Batas akhir pembayaran dividen tunai AADI"
+   }
+  ]
+ },
+ {
   "slug": "kppu-pantau-harga-pangan-makassar-jelang-nataru-2027",
   "category": "Bisnis",
   "title": "KPPU [Pantau] Harga Pangan Makassar Jelang Nataru 2027",
@@ -332,6 +385,147 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang benar-benar baru di sini adalah laporan asesmennya, bukan aturan atau anggaran baru. Isinya masih berupa rekomendasi arah, memperkuat ekosistem, meningkatkan kemampuan industri, dan memperluas peran Indonesia di jaringan produksi chip dunia, tanpa angka investasi atau insentif yang sudah dipatok. Pihak yang langsung tersentuh adalah pelaku industri perakitan, pengujian, dan pengemasan semikonduktor yang sudah berjalan di Batam dan Jawa Barat, karena merekalah modal awal yang disebut laporan ini sebagai titik pijak. Pemerintah mengatakan akan memasukkan rekomendasi itu ke agenda reformasi ekonomi sebelum dibahas di komite OECD, tapi belum ada tanggal pasti kapan pembahasan itu terjadi atau rekomendasi mana yang bakal diadopsi jadi kebijakan nyata. Yang perlu dipantau adalah dokumen reformasi ekonomi Indonesia untuk OECD selanjutnya, karena di situ baru akan terlihat rekomendasi mana yang benar-benar diambil pemerintah.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "xmgb-unit-beredar-susut-jadi-41-juta-redemption-hari-ketiga",
+  "category": "Aksi Korporasi",
+  "title": "XMGB: Unit Beredar Susut Jadi 41 Juta, [Redemption] Hari Ketiga",
+  "deck": "Unit penyertaan ETF XMGB turun 4 juta jadi 41 juta pada 25 November, penyusutan harian ketiga beruntun sejak 23 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T16:47:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_XMGB_E019_325b401e-f490-4f25-9607-bce563486ff4-20261125164725.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "XMGB",
+  "tags": [
+   "XMGB",
+   "ETF",
+   "reksa dana",
+   "obligasi pemerintah"
+  ],
+  "body": [
+   "Reksa Dana Majoris Government Bonds ETF Indonesia (XMGB) melaporkan jumlah unit penyertaan yang beredar berkurang 4.000.000 unit pada 25 November 2026, dari 45.000.000 unit menjadi 41.000.000 unit. Tidak ada unit baru yang diterbitkan pada hari itu. Laporan keterbukaan informasi ini ditandatangani secara elektronik oleh Adrian Roza.",
+   "Ini adalah hari ketiga berturut-turut XMGB mencatat penyusutan unit penyertaan. Pada 23 November, unit beredar turun 5 juta dari 54 juta menjadi 49 juta. Pada 24 November turun lagi 4 juta menjadi 45 juta. Dengan penyusutan 4 juta hari ini, total unit yang hilang dalam tiga hari mencapai 13 juta unit, atau sekitar 24 persen dari posisi 54 juta unit sebelum 23 November."
+  ],
+  "fotoAdegan": "A bank teller counting stacks of Indonesian rupiah banknotes at a teller window, focused hands, warm indoor lighting",
+  "takeaway": "Penilaian saya condong negatif, karena ini sudah hari ketiga beruntun unit XMGB menyusut dan secara kumulatif penyusutannya mencapai sekitar 24 persen dari basis sebelumnya, bukan lagi fluktuasi kecil yang bisa diabaikan. Penyusutan unit penyertaan seperti ini berarti investor menukar unitnya menjadi uang tunai, yang disebut redemption, dan setiap redemption memperkecil total dana kelolaan ETF sehingga portofolio obligasi pemerintah yang dikelolanya pun ikut menyusut. Yang perlu dipantau adalah apakah tren pencairan tiga hari beruntun ini masih berlanjut pada laporan berikutnya, karena dokumen ini hanya mencatat kejadian pada 25 November 2026 itu sendiri tanpa menyebut tanggal lain ke depan.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "public-expose-cmnp-30-nov-ekspansi-tol-rp74-65-triliun",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose CMNP 30 Nov: [Ekspansi] Tol Rp74,65 Triliun",
+  "deck": "Materi Public Expose Tahunan CMNP memuat rencana investasi lima proyek tol baru senilai Rp74,65 triliun hingga 2035, didanai Rp28,74 triliun ekuitas dan Rp45,92 triliun utang.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T16:34:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_CMNP_E003_937635a0-b2fa-4f6f-9fe7-3f04e3b816c1-20261125163422.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CMNP",
+  "tags": [
+   "CMNP",
+   "Public Expose",
+   "Jalan Tol",
+   "Capex"
+  ],
+  "body": [
+   "PT Citra Marga Nusaphala Persada Tbk (CMNP) akan menggelar Public Expose Tahunan 2026 pada 30 November 2026. Materi presentasi yang dikirim ke Bursa Efek Indonesia pada 25 November 2026 memuat rencana investasi lima proyek jalan tol baru dengan total nilai Rp74,656 triliun, yang akan dibiayai dari Rp28,737 triliun modal sendiri (ekuitas) dan Rp45,919 triliun pinjaman.",
+   "Proyek terbesar adalah HBR II, ruas layang Ancol Timur-Pluit sepanjang 9,69 kilometer yang menjadi bagian jaringan Jakarta Intra Urban Toll Road (JIUT), senilai Rp15,851 triliun. Konstruksinya berjalan sejak April 2021 dan ditargetkan selesai Februari 2028, dengan operasi komersial pada September 2028. Dua ruas Desari juga disiapkan, yaitu Seksi 3 sepanjang 9,50 km senilai Rp1,015 triliun (konstruksi Januari 2027-April 2028, operasi Mei 2028) dan Seksi 4 sepanjang 6,40 km senilai Rp1,601 triliun (konstruksi Juli 2027-Mei 2029, operasi Juni 2029). Dua proyek jangka lebih panjang, Pluit-Bandara senilai Rp15,663 triliun (konstruksi 2029-2031, operasi Januari 2032) dan Tomang-Pluit-Karawaci senilai Rp40,526 triliun yang masih berstatus proses inisiasi (konstruksi 2032-2034, operasi Januari 2035), melengkapi daftar ekspansi.",
+   "Dari sisi keuangan, materi tersebut memproyeksikan total aset CMNP naik dari Rp26,692 triliun pada 2025 menjadi Rp29,822 triliun pada 2026 dan Rp39,579 triliun pada 2027, seiring ekuitas yang diperkirakan naik dari Rp10,158 triliun menjadi Rp16,953 triliun pada periode yang sama. Namun rasio utang terhadap ekuitas (debt to equity ratio/DER) ikut naik dari 0,42 kali pada 2025 menjadi 0,48 kali pada 2026 dan 0,66 kali pada 2027. Laba bersih tercatat Rp1,056 triliun pada 2023, turun menjadi Rp972 miliar pada 2024 dan Rp934 miliar pada 2025, sebelum diproyeksikan naik lagi menjadi Rp994 miliar pada 2026 dan Rp1,133 triliun pada 2027. Margin EBITDA jalan tol relatif stabil di kisaran 76-81 persen sepanjang 2021-2027.",
+   "Saat ini CMNP mengelola enam konsesi jalan tol dengan total panjang 234,01 kilometer di Jabodetabek, Bandung, dan Surabaya, termasuk JIUT, Bogor Ring Road, Antasari-Salabenda, Soroja, Cileunyi-Sumedang-Dawuan, dan Waru-Juanda. Berdasarkan data per 20 November 2026, saham CMNP dikuasai BP2S SG/BNP Paribas sebesar 53,53 persen dan sisanya 46,47 persen oleh publik. Perseroan juga memiliki saham mayoritas di sejumlah anak usaha ruas tol, antara lain Waru Juanda Toll 96,83 persen, Desari Toll 79,79 persen, Soroja Toll 82,39 persen, dan Cisumdawu Toll 68,15 persen."
+  ],
+  "fotoAdegan": "Construction workers and cranes building an elevated highway viaduct over a busy urban road in Jakarta, overcast afternoon light",
+  "takeaway": "Materi ini tergolong netral bagi pemegang saham CMNP: rencana ekspansi tol senilai Rp74,65 triliun berpotensi mendongkrak pendapatan jangka panjang, tapi dibiayai dengan porsi utang yang lebih besar dibanding modal sendiri sehingga menambah beban finansial dalam beberapa tahun ke depan. Yang tersentuh adalah rasio utang terhadap ekuitas atau DER, yakni perbandingan antara utang perusahaan dan modal yang disetor pemegang saham; menurut proyeksi CMNP sendiri, rasio ini naik dari 0,42 kali pada 2025 menjadi 0,66 kali pada 2027, artinya perusahaan makin bergantung pada pinjaman untuk membangun proyek-proyek barunya. Laba bersih CMNP pun belum sepenuhnya pulih, dari Rp1,056 triliun pada 2023 turun jadi sekitar Rp934 miliar pada 2025, sebelum diproyeksikan naik lagi menjadi Rp1,133 triliun pada 2027 seiring proyek-proyek baru mulai beroperasi. Yang perlu dipantau pemegang saham adalah paparan langsung manajemen dalam Public Expose Tahunan pada 30 November 2026, termasuk penjelasan lebih rinci soal skema pendanaan Rp45,919 triliun utang dan progres konstruksi ruas HBR II yang ditargetkan rampung awal 2028.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pelaksanaan Public Expose Tahunan 2026 CMNP"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-interim-aadi-us-500-juta-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim AADI US$500 Juta: [Cair] 11 Desember 2026",
+  "deck": "AADI akan membagikan dividen tunai interim senilai US$500 juta dari laba sembilan bulan 2026, dibayar 11 Desember 2026 setelah tanggal pencatatan 7 Desember.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T16:23:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_AADI_E007_1f170c87-6c6f-4843-8b2f-8745130f9c4a-20261125162326.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AADI",
+  "tags": [
+   "AADI",
+   "dividen interim",
+   "Adaro Andalan Indonesia",
+   "dividen tunai"
+  ],
+  "body": [
+   "PT Adaro Andalan Indonesia Tbk (AADI) akan membagikan dividen tunai interim senilai US$500 juta untuk tahun buku 2026. Keputusan ini diambil Direksi dan disetujui Dewan Komisaris pada 25 November 2026, dengan dasar laporan keuangan triwulan ketiga yang berakhir 30 September 2026. Besaran dividen per saham belum ditetapkan karena pembayarannya akan dikonversi ke rupiah menggunakan kurs tengah Bank Indonesia yang baru diumumkan pada 7 Desember 2026.",
+   "Jadwal pembagian dimulai dengan cum dividen di pasar reguler dan negosiasi pada 3 Desember 2026, disusul ex dividen pada 4 Desember 2026. Di pasar tunai, cum dividen jatuh pada 7 Desember 2026, bersamaan dengan tanggal pencatatan pemegang saham (DPS) yang berhak menerima dividen, dan ex dividen berlaku sehari setelahnya pada 8 Desember 2026. Dividen interim ini akan dibayarkan pada 11 Desember 2026, disalurkan melalui rekening pemegang saham di Kustodian Sentral Efek Indonesia (KSEI) bagi saham dalam penitipan kolektif, atau melalui transfer langsung oleh Biro Administrasi Efek Perseroan, PT Datindo Entrycom, bagi saham di luar penitipan kolektif.",
+   "Pembagian dividen ini bersumber dari laba bersih yang diatribusikan kepada entitas induk sebesar US$683,34 juta untuk periode sembilan bulan yang berakhir September 2026, dari total saldo laba ditahan yang tidak dibatasi penggunaannya sebesar US$1,23 miliar. Total ekuitas Perseroan per akhir September 2026 tercatat US$4,17 miliar. Perseroan juga mengatur pemotongan pajak penghasilan bagi pemegang saham asing, yakni tarif 20 persen dari dividen bruto bagi negara tanpa perjanjian penghindaran pajak berganda dengan Indonesia, kecuali dokumen keringanan pajak seperti Formulir DGT atau Surat Keterangan Domisili diserahkan paling lambat 7 Desember 2026 pukul 16.00 WIB."
+  ],
+  "fotoAdegan": "A heavily loaded coal barge being pushed by a tugboat along a wide brown river under an overcast grey sky.",
+  "takeaway": "Dividen interim senilai US$500 juta ini tergolong sinyal positif karena setara sekitar 73 persen dari laba sembilan bulan yang hanya sebesar US$683,3 juta, menunjukkan manajemen cukup percaya diri dengan arus kas perusahaan untuk membagikan hampir seluruh keuntungan tahun ini ke pemegang saham. Dampaknya terasa di dua pos utama: saldo laba ditahan yang tersisa dari US$1,23 miliar akan berkurang signifikan begitu dana ini keluar sebagai kas, dan total ekuitas sebesar US$4,17 miliar ikut menyusut, sebab dividen pada dasarnya memindahkan dana milik perusahaan ke kantong pemegang saham. Besaran rupiah per saham belum bisa dipastikan karena perhitungannya menunggu kurs tengah Bank Indonesia yang baru diumumkan 7 Desember 2026, hari yang sama dengan tanggal pencatatan pemegang saham yang berhak menerima dividen. Yang perlu dipantau selanjutnya adalah pengumuman kurs konversi itu dan realisasi pembayaran pada 11 Desember 2026, karena di situlah baru terlihat berapa rupiah yang akhirnya diterima per lembar saham.",
+  "sentimen": "positif",
+  "peristiwa": "dividen",
+  "judulIdx": "Jadwal Aksi Korporasi Dividen Tunai Interim",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Cum dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Ex dividen di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Cum dividen pasar tunai dan tanggal pencatatan pemegang saham (DPS)"
+   },
+   {
+    "tanggal": "2026-12-07",
+    "acara": "Pengumuman kurs konversi dividen di situs BEI dan Perseroan"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Ex dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Pembayaran dividen interim"
+   }
+  ]
+ },
+ {
+  "slug": "andi-ubo-berganti-dari-anne-patricia-sutanto-ke-erik-setiawan",
+  "category": "Aksi Korporasi",
+  "title": "ANDI: [UBO] Berganti dari Anne Patricia Sutanto ke Erik Setiawan",
+  "deck": "Pencatatan pemilik manfaat akhir (UBO) Andira Agro beralih dari Anne Patricia Sutanto ke Ir. Erik Setiawan per 23 November 2026, tanpa dampak operasional menurut perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T16:16:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ANDI_E019_e747722c-90fa-491f-8c13-9ca4b5167132-20261125161619.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ANDI",
+  "tags": [
+   "ANDI",
+   "UBO",
+   "Pemegang Saham",
+   "Andira Agro"
+  ],
+  "body": [
+   "PT Andira Agro Tbk (ANDI) melaporkan kepada Otoritas Jasa Keuangan bahwa pencatatan Ultimate Beneficial Owner (UBO) atau pemilik manfaat akhir perusahaan berubah per 23 November 2026. Dalam sistem UBO milik Direktorat Jenderal Administrasi Hukum Umum (AHU) Kementerian Hukum, status UBO Andira Agro yang sebelumnya tercatat atas nama Anne Patricia Sutanto kini beralih ke Ir. Erik Setiawan. Perubahan ini dilaporkan Direktur Utama Andira Agro, Francis Indarto, dengan rujukan Peraturan Presiden Nomor 13 Tahun 2018 tentang Penerapan Prinsip Mengenali Pemilik Manfaat juncto Peraturan Menteri Hukum dan HAM Nomor 21 Tahun 2019.",
+   "Dalam laporan tersebut, Erik Setiawan dicatat berkedudukan sebagai pemegang saham pengendali tidak langsung Perseroan, status yang sebelumnya dipegang oleh Anne Patricia Sutanto. UBO merujuk pada individu yang pada akhirnya memiliki atau mengendalikan suatu perusahaan, meski namanya tidak selalu tercantum langsung di daftar pemegang saham formal. Andira Agro menyatakan perubahan pencatatan ini tidak membawa dampak terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan."
+  ],
+  "fotoAdegan": "Oil palm plantation workers loading freshly harvested fruit bunches onto a truck, tropical morning light, no signage visible",
+  "takeaway": "Laporan ini bersifat netral bagi Andira Agro, karena yang berubah hanya status pencatatan siapa yang diakui sebagai pengendali tidak langsung perusahaan di sistem resmi pemerintah, bukan jumlah saham, harga, atau transaksi jual beli. Tidak ada pos kinerja keuangan yang tersentuh di sini, ekuitas, arus kas, beban bunga, jumlah saham beredar, maupun laba per saham perusahaan tetap sama, sebab UBO hanya mencatat siapa pemilik manfaat akhir di belakang struktur pemegang saham, bukan mengubah struktur permodalan itu sendiri. Yang perlu dicermati selanjutnya adalah apakah pergantian pemilik manfaat akhir ini diikuti laporan kepemilikan saham yang mengubah susunan pemegang saham pengendali langsung Andira Agro, karena perubahan UBO semacam ini biasanya terjadi setelah ada transaksi atau restrukturisasi di balik layar yang belum tentu diumumkan secara terpisah.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "public-expose-mdki-30-november-pangsa-pasar-tergerus-impor",
@@ -588,6 +782,32 @@ var ARTICLES = [
     "acara": "RUPO Obligasi I BUMA Tahun 2023"
    }
   ]
+ },
+ {
+  "slug": "talf-jawab-permintaan-bursa-soal-volatilitas-saham-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "TALF Jawab Permintaan Bursa soal Volatilitas Saham: [Tak Ada] Info Material",
+  "deck": "TALF menegaskan tidak ada informasi material di balik volatilitas perdagangan sahamnya, menanggapi permintaan penjelasan BEI tertanggal 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T14:30:24",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_TALF_E023A_513b6109-296c-4565-971f-2a206759b70c-20261125143026.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TALF",
+  "tags": [
+   "TALF",
+   "Tunas Alfin",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Tunas Alfin Tbk (TALF) menjawab permintaan penjelasan dari Bursa Efek Indonesia melalui surat No. 799/TA/XI/2026 tertanggal 25 November 2026. Surat ini merespons permintaan BEI No. S-14539/BEI.PP3/11-2026 tanggal 24 November 2026 yang menyoal volatilitas transaksi saham perseroan. Dalam jawaban yang ditandatangani Bernardus Budiman, perseroan menyatakan tidak memiliki informasi atau fakta material yang belum diungkapkan kepada publik, baik yang diatur dalam POJK 31/2015 tentang Keterbukaan Informasi maupun Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi. Perseroan juga menyatakan tidak ada fakta atau kejadian penting lain yang dapat memengaruhi harga saham maupun kelangsungan usahanya yang belum terbuka untuk publik.",
+   "Terkait kemungkinan ada pihak tertentu yang bergerak di balik fluktuasi harga, perseroan menyatakan tidak mengetahui adanya aktivitas dari pemegang saham tertentu sebagaimana diatur dalam POJK 11/2017 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham Perusahaan Terbuka. Manajemen juga memastikan tidak memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang akan berdampak pada pencatatan saham TALF di bursa, setidaknya untuk tiga bulan ke depan. Corporate secretary perseroan turut mengonfirmasi kepada pemegang saham utama, yang menyatakan tidak memiliki rencana apa pun terkait kepemilikan sahamnya di TALF."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of flexible plastic packaging film moving through an industrial printing line, bright factory hall",
+  "takeaway": "Jawaban ini netral bagi fundamental TALF karena isinya murni bantahan dan konfirmasi, tanpa ada data baru yang mengubah modal, kas, utang, atau laba perseroan. Surat semacam ini biasanya muncul setelah bursa mencurigai pergerakan harga saham yang tidak biasa dan ingin memastikan tidak ada kabar penting yang sudah bocor ke sebagian pihak sebelum diumumkan resmi ke publik, jadi isinya lebih soal menjamin kewajaran pasar ketimbang mengubah kinerja perusahaan. Karena TALF memastikan tidak ada rencana aksi korporasi maupun pergerakan pemegang saham utama dalam tiga bulan mendatang, hal yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia menaikkan status permintaan ini menjadi pengumuman resmi soal pergerakan saham tak wajar, atau menerima penjelasan ini dan menutup kasusnya.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
  },
  {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-2027",
@@ -9960,8 +10180,8 @@ var ARTICLES = [
  {
   "slug": "meja-rencana-right-issue-akuisisi-45-trimata-coal-rp1-11-triliun",
   "category": "Aksi Korporasi",
-  "title": "MEJA Rencana [Right Issue] Akuisisi 45% Trimata Coal Rp1,11 Triliun",
-  "deck": "MEJA memaparkan rencana rights issue untuk akuisisi 45% saham tambang batu bara Trimata Coal Perkasa senilai Rp1,11 triliun, RUPSLB dijadwalkan Februari 2027.",
+  "title": "Right Issue MEJA: [Harga] Rp450-550, TCP Rp1,1-1,6 Triliun",
+  "deck": "Laporan hasil Public Expose MEJA membuka kisaran harga rights issue Rp450-550 per saham dan valuasi akuisisi 45% Trimata Coal Rp1,1-1,6 triliun, RUPSLB tetap dijadwalkan Februari 2027.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T17:10:30",
@@ -9970,18 +10190,18 @@ var ARTICLES = [
   "emiten": "MEJA",
   "tags": [
    "MEJA",
-   "rights issue",
-   "akuisisi tambang batu bara",
-   "Trimata Coal Perkasa"
+   "right issue",
+   "Trimata Coal",
+   "public expose"
   ],
   "body": [
-   "PT Harta Djaya Karya Tbk (MEJA), perusahaan solusi interior dengan merek Interra, menggelar Public Expose Tahunan 2026 pada Selasa, 24 November 2026 pukul 13.00 WIB secara hybrid di kantor Perseroan di Jl. Bintaro Raya No. 8A, Jakarta Selatan, dan melalui Zoom. Dalam materi yang disampaikan ke Bursa Efek Indonesia, Perseroan memaparkan kinerja keuangan semester I 2026 yang memburuk: penjualan bersih turun dari Rp31,07 miliar pada semester I 2025 menjadi Rp6,37 miliar, laba kotor Rp7,79 miliar berubah menjadi rugi kotor Rp2,56 miliar, dan Perseroan mencatat rugi periode berjalan Rp8,88 miliar, berbalik dari laba Rp0,99 miliar pada periode yang sama tahun sebelumnya. Rugi per saham tercatat Rp3,41, dibandingkan laba per saham Rp0,52 setahun sebelumnya. Perseroan menyebut penurunan pendapatan ini sebagai fase transisi portofolio proyek, sementara beban usaha berhasil ditekan 11,2% menjadi Rp4,41 miliar.",
-   "Di sisi permodalan, posisi keuangan per 30 Juni 2026 menunjukkan total aset naik 33,2% menjadi Rp118,2 miliar dari Rp88,7 miliar per akhir 2025. Total ekuitas melonjak 42,7% menjadi Rp90,7 miliar, didorong eksekusi waran yang menambah modal disetor Rp22,8 miliar, sementara total liabilitas naik tipis menjadi Rp27,4 miliar sehingga rasio liabilitas terhadap ekuitas tetap rendah di 0,30 kali. Pada RUPSLB 21 Agustus 2026, pemegang saham menyetujui kenaikan modal dasar menjadi Rp208,6 miliar dan pembagian 372,6 juta saham bonus. Langkah ini berjalan seiring perjanjian swap saham yang ditandatangani pengendali Perseroan, PT Triple Berkah Bersama, pada 22 Desember 2025, untuk mengambil alih 45% saham PT Trimata Coal Perkasa (TCP) melalui Perseroan, dengan uang muka investasi Rp11,5 miliar yang sudah dibayarkan sebagai komitmen awal.",
-   "Agenda utama Public Expose ini adalah rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (PMHMETD atau rights issue) untuk dua tujuan: pertama, mengakuisisi 45% saham TCP melalui mekanisme share swap, di mana pemegang saham TCP menyetorkan saham mereka sebagai pembayaran atas saham baru MEJA tanpa Perseroan mengeluarkan kas; kedua, dana tunai dari pelaksanaan HMETD untuk modal kerja usaha interior yang berjalan. TCP merupakan perusahaan tambang batu bara di Sumatera Selatan dengan wilayah konsesi sekitar 11.640 hektare, sumber daya batu bara sekitar 693,7 juta ton, dan cadangan tertambang sekitar 400 juta ton, dengan kapasitas produksi yang direncanakan naik bertahap dari 1,5 juta ton menjadi 6 juta ton per tahun. Berdasarkan valuasi discounted cash flow internal per 6 Oktober 2026, nilai 100% saham TCP ditaksir Rp2,47 triliun, sehingga 45% saham yang akan diambil MEJA senilai Rp1,11 triliun, angka yang disebut Perseroan dapat mendongkrak ekuitasnya hingga sekitar 13 kali lipat menjadi Rp1.200,4 miliar secara proforma. Perseroan menegaskan valuasi ini masih bersifat internal dan akan dikonfirmasi oleh Kantor Jasa Penilai Publik independen, sementara rencana besar ini bergantung pada persetujuan RUPSLB yang dijadwalkan Februari 2027, pernyataan efektif OJK, dan persetujuan Menteri ESDM, dengan opsi uang muka investasi dapat dikembalikan apabila rencana ini batal.",
-   "Perseroan memproyeksikan kontribusi TCP terhadap pendapatan konsolidasi meningkat dari US$23,4 juta pada 2027 menjadi US$29,3 juta pada 2028 dan US$35,1 juta pada 2029, dihitung dari porsi 45% atas total pendapatan TCP yang diproyeksikan US$52 juta hingga US$78 juta sepanjang periode itu, dengan asumsi produksi naik dari 2 juta menjadi 3 juta ton per tahun. Sebagai pembanding, pendapatan usaha Perseroan sepanjang 2025 tercatat Rp28,1 miliar, jauh lebih kecil dari potensi kontribusi TCP tersebut. Untuk menjalankan rencana ini, Perseroan telah menunjuk profesi penunjang pasar modal, termasuk kantor akuntan publik, kantor jasa penilai publik, konsultan hukum pasar modal dan pertambangan, notaris, serta Competent Person Indonesia, dengan jadwal indikatif dari tahap persiapan pada November 2026 hingga pelaksanaan HMETD setelah RUPSLB."
+   "PT Harta Djaya Karya Tbk (MEJA) menyampaikan laporan hasil Public Expose Tahunan 2026 yang digelar 24 November lalu dan dihadiri 141 investor dan masyarakat umum. Dalam sesi tanya jawab, manajemen mengungkap dua angka indikatif baru soal rencana rights issue untuk mengakuisisi 45% saham tambang batu bara Trimata Coal Perkasa (TCP): kisaran harga pelaksanaan rights issue Rp450 hingga Rp550 per saham, dan kisaran nilai transaksi akuisisi Rp1,1 triliun hingga Rp1,6 triliun, melebarkan dari perkiraan tunggal Rp1,11 triliun yang disebutkan Perseroan sebelumnya. Perseroan menegaskan kedua kisaran itu masih acuan awal dari hitungan internal dan bisa berubah setelah penilai independen menyelesaikan kerjanya.",
+   "Soal operasional TCP, manajemen menjelaskan bahwa TCP sudah mengajukan Rencana Kerja dan Anggaran Biaya (RKAB) 2027 dengan usulan volume produksi 1,5 juta hingga 2 juta ton batu bara, dan berharap persetujuan dari instansi berwenang bisa diperoleh pada kuartal I 2027. Produksi ditargetkan mulai berjalan tahun 2027 setelah RKAB disetujui. Batu bara TCP direncanakan dijual melalui Adani Group sebagai pembeli tetap (offtaker), dengan tujuan ekspor ke India, Pakistan, dan Bangladesh, mengikuti jalur penjualan yang sebelumnya sudah ditempuh perusahaan sejenis dalam kelompok usaha TCP.",
+   "Mengenai mekanisme pertukaran saham, manajemen mengonfirmasi bahwa Subagyo, pemegang saham TCP, adalah pihak yang akan menerima saham baru MEJA sebagai imbalan atas penyerahan saham TCP miliknya. Siapa yang akan berperan sebagai pembeli siaga, jika ada, baru akan ditentukan setelah struktur final rights issue selesai. Pemegang saham MEJA, termasuk pemegang saham utama dan publik, tetap akan memperoleh hak untuk ikut membeli saham baru lewat mekanisme Hak Memesan Efek Terlebih Dahulu (HMETD) sesuai porsi kepemilikan masing-masing.",
+   "Rencana besar ini tetap bergantung pada persetujuan RUPSLB yang dijadwalkan Februari 2027, pernyataan efektif dari OJK, dan izin Menteri ESDM, dengan opsi uang muka investasi Rp11,5 miliar yang sudah dibayarkan Perseroan bisa dikembalikan bila rencana ini batal. Sebagai latar, kinerja inti usaha interior MEJA sempat memburuk tajam pada semester I 2026, dengan pendapatan anjlok dari Rp31,07 miliar menjadi Rp6,37 miliar dan rugi periode berjalan Rp8,88 miliar, meski manajemen menyebut pendapatan kuartal III 2026 sudah kembali ke sekitar Rp20 miliar. Di sisi lain, ekuitas Perseroan per Juni 2026 melonjak 42,7% menjadi Rp90,7 miliar, terutama didorong eksekusi waran, bukan dari rencana akuisisi TCP yang belum terealisasi."
   ],
   "fotoAdegan": "Wide open-pit coal mine with heavy excavators loading haul trucks under an overcast tropical sky, dust rising",
-  "takeaway": "Laporan ini campuran: kinerja inti usaha interior MEJA memburuk tajam dengan pendapatan anjlok dan berbalik rugi, tapi di sisi lain Perseroan sedang menyiapkan aksi korporasi besar lewat rights issue untuk masuk ke bisnis tambang batu bara, sehingga sentimennya netral karena dampak akhirnya sangat bergantung pada apakah rencana ini benar-benar terealisasi. Yang tersentuh adalah ekuitas, yaitu modal bersih perusahaan setelah dikurangi utang, yang sudah naik signifikan dari eksekusi waran (hak beli saham) dan bisa melonjak drastis lagi jika akuisisi tambang terwujud, serta laba per saham yang sudah negatif di semester I 2026 dan berisiko makin terdilusi karena rights issue akan menambah jumlah saham beredar. Pelaku pasar perlu mencermati bahwa valuasi Rp1,11 triliun untuk 45% saham TCP itu masih hitungan internal Perseroan, belum dari penilai independen, sehingga angka finalnya bisa berbeda. Yang perlu dipantau selanjutnya adalah RUPSLB yang dijadwalkan Februari 2027 untuk meminta persetujuan pemegang saham atas rencana akuisisi ini, serta Keterbukaan Informasi dan Prospektus yang menurut Perseroan akan terbit sekitar Januari 2027 dan memuat harga pelaksanaan rights issue serta struktur final transaksi.",
+  "takeaway": "Laporan ini netral bagi MEJA: Perseroan mulai membuka angka konkret soal harga rights issue dan valuasi akuisisi TCP, tapi keduanya masih berupa kisaran indikatif internal yang bisa bergeser setelah penilai independen bekerja, sehingga belum bisa dibaca sebagai kepastian untung bagi pemegang saham. Yang tersentuh adalah jumlah saham beredar dan laba per saham, karena rights issue dengan harga pelaksanaan Rp450-550 per saham akan menambah banyak saham baru, sementara laba per saham MEJA sudah negatif pada semester I 2026 sehingga risiko terdilusi makin nyata; ekuitas juga berpotensi melonjak jauh lebih besar jika akuisisi senilai Rp1,1-1,6 triliun benar terealisasi. Pelaku pasar perlu mencermati bahwa rasio dan harga final HMETD baru akan diumumkan lewat keterbukaan informasi dan prospektus, bukan di dokumen ini. Yang perlu dipantau selanjutnya adalah persetujuan RKAB 2027 TCP yang ditargetkan terbit kuartal I 2027, serta RUPSLB yang dijadwalkan Februari 2027 untuk meminta restu pemegang saham atas seluruh rencana akuisisi ini.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -9990,7 +10210,16 @@ var ARTICLES = [
     "tanggal": "2026-11-24",
     "acara": "Public Expose Tahunan 2026 secara hybrid di kantor Perseroan dan Zoom"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T14:20:22",
+    "ringkas": "Public expose MEJA ungkap kisaran harga rights issue Rp450-550 per saham dan valuasi akuisisi TCP Rp1,1-1,6 triliun.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_MEJA_E003_5f3f6d6e-6b23-4846-adc2-ec3ff582ed81-20261125142023.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-25T14:20:22"
  },
  {
   "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
@@ -10022,8 +10251,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-roti-15-desember-tarik-treasury-shares-ganti-direksi",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ROTI 15 Desember: [Tarik] Treasury Shares & Ganti Direksi",
-  "deck": "ROTI akan gelar RUPSLB pada 15 Desember 2026 untuk menyetujui penarikan treasury shares lewat penurunan modal dan perubahan direksi, bersamaan laba kuartal III melonjak ke Rp51,3 miliar.",
+  "title": "Public Expose ROTI: Capex 2026 Rp100-120 Miliar, [RUPSLB] 15 Desember",
+  "deck": "Public Expose 24 November mengungkap rencana capex Rp100-120 miliar tahun ini dan target free float 15 persen sebelum 2029, sementara RUPSLB penarikan treasury shares tetap digelar 15 Desember.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T16:30:27",
@@ -10032,30 +10261,45 @@ var ARTICLES = [
   "emiten": "ROTI",
   "tags": [
    "ROTI",
+   "Public Expose",
    "RUPSLB",
-   "Treasury Shares",
-   "Nippon Indosari Corpindo"
+   "Free Float"
   ],
   "body": [
-   "PT Nippon Indosari Corpindo Tbk (ROTI), produsen Sari Roti, menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia pada 19 November 2026, menjelang paparan publik yang dijadwalkan di Jakarta pada 24 November 2026. Dalam materi itu, Perseroan mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 15 Desember 2026 dengan dua agenda utama: penarikan kembali treasury shares melalui penurunan modal, dan perubahan susunan direksi serta komisaris Perseroan.",
-   "Materi tersebut juga memuat kinerja keuangan kuartal III 2026. Penjualan bersih tercatat Rp967,1 miliar, naik 7,3 persen dari Rp901,2 miliar pada kuartal sebelumnya, didorong musim belanja kembali ke sekolah serta kontribusi produk baru Sari Roti POP dan lini kustom untuk Bean!SPOT. Penjualan dari luar Jawa mencapai Rp488,8 miliar, naik 8,3 persen, seiring ekspansi kapasitas produksi dan distribusi di wilayah timur dan barat Indonesia. Margin kotor naik ke 52,0 persen, sementara rasio pengembalian produk atau return rate turun tajam ke 12,8 persen dari 22,7 persen pada kuartal sebelumnya, hasil dari fokus pada produk-produk terlaris dan disiplin alokasi persediaan. Laba bersih melonjak menjadi Rp51,3 miliar, 29 kali lipat dibandingkan Rp1,8 miliar pada kuartal II 2026, dengan margin EBITDA naik ke 14,5 persen dan margin bersih ke 5,3 persen.",
-   "Untuk kuartal IV 2026, Perseroan memproyeksikan permintaan roti dan kue tetap terjaga seiring musim libur akhir tahun dan belanja pemerintah yang biasanya meningkat pada periode itu, sembari tetap menjaga disiplin biaya produksi dan return rate. Agenda RUPSLB 15 Desember 2026 belum merinci siapa anggota direksi atau komisaris yang akan diganti, maupun jumlah pasti saham treasury yang akan ditarik. Jajaran direksi saat ini dipimpin Presiden Direktur dan CEO Wendy Yap, didampingi Presiden Komisaris Benny Setiawan."
+   "PT Nippon Indosari Corpindo Tbk (ROTI) melaporkan ke Bursa Efek Indonesia bahwa paparan publik tahunan 2026 telah digelar secara virtual lewat Zoom pada Selasa, 24 November 2026, pukul 09.00 hingga 10.04 WIB, dihadiri 21 peserta dari perusahaan sekuritas, investor ritel, manajer investasi, media, dan publik. Direktur Arlina Sofia hadir mewakili manajemen, dengan paparan kinerja disampaikan oleh Head of Investor Relations and Public Relations Hadi Susilo.",
+   "Dalam sesi tanya jawab, manajemen mengungkap rencana belanja modal atau capex tahun ini hanya berkisar Rp100 miliar hingga Rp120 miliar, dialokasikan untuk perbaikan dan pemeliharaan rutin 15 pabrik yang dimiliki Perseroan. Kapasitas produksi total mencapai sekitar 5,4 juta potong roti per hari, namun utilisasinya baru 50 sampai 60 persen, sehingga menurut manajemen kapasitas yang ada masih cukup menampung pertumbuhan penjualan beberapa tahun ke depan tanpa investasi pabrik baru. Produk ROTI kini dijual lewat lebih dari 100.000 gerai di seluruh Indonesia, termasuk kanal digital dan kerja sama dengan mitra seperti Bean Spot.",
+   "Manajemen juga menjelaskan rasio pengembalian produk atau return rate yang sempat naik ke 20,8 persen pada kuartal pertama dan 22,7 persen pada kuartal kedua 2026, akibat masa pengenalan produk baru dan pelemahan daya beli masyarakat, sebelum berhasil ditekan ke 12,8 persen pada kuartal ketiga lewat fokus pada produk-produk terlaris. Perseroan menargetkan rasio ini bertahan di kisaran 12 sampai 13 persen ke depan. Soal syarat kepemilikan saham publik atau free float minimal 15 persen yang diwajibkan bursa, manajemen menyatakan masih punya waktu sampai batas 31 Maret 2029 untuk memenuhinya, melalui perbaikan kinerja operasional dan kegiatan hubungan investor yang lebih aktif menjangkau investor ritel.",
+   "Paparan publik ini melengkapi informasi yang sebelumnya disampaikan Perseroan pada 19 November 2026, yakni rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 15 Desember 2026 untuk menyetujui dua agenda: penarikan kembali treasury shares lewat penurunan modal, dan perubahan susunan direksi serta komisaris. Dokumen RUPSLB belum merinci siapa anggota direksi atau komisaris yang akan diganti, maupun jumlah pasti saham treasury yang ditarik.",
+   "Dari sisi kinerja, penjualan bersih ROTI pada kuartal III 2026 tercatat Rp967,1 miliar, naik 7,3 persen dibandingkan kuartal sebelumnya, dengan laba bersih melonjak menjadi Rp51,3 miliar, dibandingkan Rp1,8 miliar pada kuartal II 2026. Margin kotor Perseroan naik ke 52,0 persen pada periode tersebut."
   ],
   "fotoAdegan": "Workers in blue uniforms monitoring rows of bread loaves moving along a conveyor belt inside a bright industrial bakery",
-  "takeaway": "Laporan ini cenderung positif bagi ROTI karena dua sinyal datang bersamaan: laba bersih kuartal III 2026 melonjak 29 kali menjadi Rp51,3 miliar, dan Perseroan berencana menarik kembali treasury shares lewat penurunan modal, yang berarti mengurangi jumlah saham yang beredar di pasar. Treasury shares adalah saham yang dulu dibeli kembali oleh ROTI dan disimpan, bukan diedarkan ke publik. Kalau saham itu resmi dihapus lewat penurunan modal, jumlah saham yang membagi laba Perseroan jadi lebih kecil, sehingga laba per saham cenderung naik meski laba totalnya sama, salah satu alasan pelaku pasar memperhatikan aksi semacam ini. Agenda RUPSLB juga mencakup perubahan susunan direksi dan komisaris, meski dokumen belum merinci siapa yang akan berganti. Yang perlu dipantau adalah hasil RUPSLB pada 15 Desember 2026, karena penarikan treasury shares dan susunan pengurus baru baru resmi berlaku setelah disetujui pemegang saham di rapat itu.",
-  "sentimen": "positif",
+  "takeaway": "Laporan hasil public expose ini netral bagi ROTI, sebab tidak ada angka baru yang mengubah ekuitas, utang, atau jumlah saham beredar, hanya penjelasan tambahan dari manajemen yang justru menunjukkan disiplin biaya terjaga lewat belanja modal kecil dan kapasitas produksi yang masih longgar. Pos yang tersentuh di sini adalah rencana arus kas keluar untuk investasi, yakni belanja modal Rp100-120 miliar tahun ini yang hanya dipakai untuk merawat 15 pabrik yang utilisasinya baru 50-60 persen dari kapasitas, bukan untuk membangun pabrik baru, hal yang diperhatikan pelaku pasar karena belanja modal rendah berarti lebih banyak kas yang bisa disimpan atau dibagikan ke pemegang saham. Yang juga disinggung manajemen adalah syarat saham beredar publik minimal 15 persen dari bursa, yang baru akan dipenuhi Perseroan sebelum 31 Maret 2029, kewajiban yang masih lama tenggatnya tapi tetap mengikat. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 15 Desember 2026, yang akan menentukan apakah penarikan treasury shares lewat penurunan modal dan pergantian direksi serta komisaris benar-benar disahkan pemegang saham.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
    {
     "tanggal": "2026-11-24",
-    "acara": "Pelaksanaan Public Expose Tahunan ROTI di Jakarta"
+    "acara": "Public Expose Live ROTI dilaksanakan secara virtual via Zoom"
    },
    {
     "tanggal": "2026-12-15",
     "acara": "RUPSLB: penarikan treasury shares dan perubahan pengurus"
+   },
+   {
+    "tanggal": "2029-03-31",
+    "acara": "Batas pemenuhan syarat free float minimum 15 persen"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T16:33:45",
+    "ringkas": "Public expose ungkap capex 2026 Rp100-120 miliar dan tenggat free float 15% sebelum 2029, RUPSLB 15 Desember tetap berjalan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ROTI_E003_2ccc4134-92a3-43fa-ad79-3484c577e42a-20261125163346.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-25T16:33:45"
  },
  {
   "slug": "laba-anak-usaha-bri-melonjak-43-5-ditopang-emas-dan-umi",
@@ -24048,8 +24292,8 @@ var ARTICLES = [
  {
   "slug": "mbto-jadwalkan-rupslb-agendakan-pergantian-direksi-komisaris",
   "category": "Aksi Korporasi",
-  "title": "MBTO Jadwalkan RUPSLB, Agendakan [Pergantian] Direksi-Komisaris",
-  "deck": "Martina Berto (MBTO) akan menggelar RUPSLB pada 17 Desember 2026 untuk menyetujui perubahan susunan Direksi dan Dewan Komisaris Perseroan.",
+  "title": "RUPSLB MBTO 17 Desember: [Komisaris Utama] Kilala Tilaar Diusulkan",
+  "deck": "Panggilan resmi RUPSLB Martina Berto (MBTO) terbit, mengusulkan Dr. Kilala Tilaar sebagai calon Komisaris Utama baru yang punya hubungan keluarga dengan pemegang saham pengendali perusahaan.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T08:12:02",
@@ -24059,17 +24303,49 @@ var ARTICLES = [
   "tags": [
    "MBTO",
    "RUPSLB",
-   "Direksi",
-   "Dewan Komisaris"
+   "Komisaris Utama",
+   "Martina Berto"
   ],
   "body": [
-   "Martina Berto Tbk (MBTO) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026 pukul 10.00 WIB, di Griya Cipta Wanita, kantor perusahaan di Jalan Pulo Kambing II No. 1, Kawasan Industri JIEP, Pulogadung, Jakarta Timur. Agenda yang diusulkan adalah persetujuan perubahan susunan anggota Direksi dan Dewan Komisaris Perseroan. Pengumuman ini diteken Direktur Utama Bryan David Emil pada 10 November 2026, namun belum menyebut nama calon pengurus yang akan masuk atau keluar.",
-   "Perseroan menetapkan 24 November 2026, saat penutupan perdagangan di Bursa Efek Indonesia, sebagai tanggal pencatatan pemegang saham yang berhak hadir di RUPSLB. Panggilan resmi rapat baru akan diterbitkan pada Rabu, 25 November 2026, melalui situs e-RUPS, situs BEI, dan situs perusahaan. Pemegang saham yang sendirian atau bersama-sama menguasai minimal 1/20 atau 5 persen dari total saham berhak suara dapat mengusulkan agenda tambahan secara tertulis sesuai Pasal 16 POJK Nomor 15/POJK.04/2020, dengan syarat usulan itu diterima perusahaan paling lambat 18 November 2026.",
-   "Rapat direncanakan berlangsung secara fisik sekaligus elektronik melalui fasilitas eASY.KSEI. Tata cara kehadiran, pemberian kuasa, dan pelaksanaan rapat akan dijelaskan lebih rinci dalam panggilan resmi yang terbit 25 November 2026."
+   "Martina Berto Tbk (MBTO) menerbitkan panggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 25 November 2026, dan untuk pertama kalinya menyebut nama calon pengurus baru. Dr. Kilala Tilaar diusulkan menjadi Komisaris Utama, setelah sebelumnya menjabat Direktur Perseroan sejak 2 Oktober 2020. Dalam dokumen pencalonan, perusahaan mengungkapkan bahwa Kilala Tilaar punya hubungan keluarga dengan anggota Dewan Komisaris lain, sesama anggota Direksi, dan pemegang saham pengendali Perseroan, serta memiliki 0,01 persen saham Martina Berto.",
+   "RUPSLB akan digelar Kamis, 17 Desember 2026, pukul 10.00 WIB, di Griya Cipta Wanita, kantor Perseroan di Jalan Pulo Kambing II No. 1, Pulogadung, Jakarta Timur, baik secara fisik maupun elektronik lewat sistem eASY.KSEI milik Kustodian Sentral Efek Indonesia. Agenda tunggal rapat adalah persetujuan perubahan susunan Direksi dan Dewan Komisaris Perseroan. Pemegang saham yang berhak hadir adalah yang tercatat dalam daftar pemegang saham per Selasa, 24 November 2026.",
+   "Bagi pemegang saham yang ingin memberi kuasa dengan formulir konvensional, dokumennya harus diterima biro administrasi efek Perseroan, PT Adimitra Jasa Korpora, paling lambat Senin, 14 Desember 2026. Bagi yang memilih memberi suara lebih dulu lewat aplikasi eASY.KSEI, batas waktunya pukul 12.00 WIB pada Rabu, 16 Desember 2026, sehari sebelum rapat. Setiap saham memberi hak satu suara, dan rapat baru sah digelar jika lebih dari separuh total saham berhak suara hadir atau terwakili."
   ],
   "fotoAdegan": "Empty formal meeting hall with rows of chairs facing a podium, soft morning light through large windows in an office building",
-  "takeaway": "Pengumuman ini netral bagi fundamental Martina Berto karena sejauh ini hanya berupa rencana rapat, belum ada nama calon direksi atau komisaris yang disebut, sehingga pasar belum punya dasar untuk menilai apakah pergantian ini menguntungkan atau merugikan. Yang tersentuh adalah struktur kepengurusan perusahaan, bukan angka keuangan seperti ekuitas atau laba per saham secara langsung, tetapi pelaku pasar tetap mencermatinya karena pergantian direksi dan komisaris bisa mengubah arah strategi bisnis yang pada akhirnya memengaruhi kinerja perusahaan. Yang perlu dipantau berikutnya adalah panggilan resmi RUPSLB pada 25 November 2026, yang biasanya baru memuat nama-nama calon pengurus yang diusulkan, serta batas waktu 18 November 2026 bagi pemegang saham dengan 5 persen suara untuk mengusulkan agenda tambahan sebelum rapat berlangsung pada 17 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Panggilan ini tetap netral bagi kondisi keuangan Martina Berto karena tidak menyentuh modal, utang, atau laba perusahaan, tapi catatan afiliasi pada calon Komisaris Utama pantas diperhatikan. Yang tersentuh di sini adalah struktur pengawasan perusahaan, bukan pos keuangan seperti ekuitas atau laba per saham, namun pelaku pasar tetap mencermatinya karena komisaris yang punya hubungan keluarga dengan direksi dan pemegang saham pengendali berarti fungsi pengawasan independen terhadap manajemen jadi lebih lemah, sesuatu yang biasa jadi perhatian investor minoritas di perusahaan keluarga. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPSLB pada 17 Desember 2026, serta dua tenggat administratif sebelumnya, yaitu penyerahan kuasa konvensional pada 14 Desember 2026 dan batas suara elektronik lanjutan pada 16 Desember 2026.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T13:57:51",
+    "ringkas": "Panggilan resmi RUPSLB terbit, calon Komisaris Utama Dr. Kilala Tilaar diusulkan meski punya hubungan keluarga dengan pemegang saham pengendali.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_MBTO_E002_5ad34678-2756-42c7-b1dd-0dcc8a690b82-20261125135753.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-25T13:57:51",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Daftar pemegang saham berhak hadir RUPSLB ditutup"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Panggilan resmi RUPSLB diterbitkan"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Batas penyerahan kuasa konvensional ke BAE"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Batas akhir suara elektronik lanjutan via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "RUPSLB Martina Berto digelar"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "saham-tdpm-resmi-di-delisting-bei-per-10-november-2026",
@@ -58365,8 +58641,8 @@ var ARTICLES = [
  {
   "slug": "lapd-jadwalkan-ulang-rupslb-agendakan-rights-issue-2-miliar-saham",
   "category": "Aksi Korporasi",
-  "title": "LAPD Jadwalkan Ulang RUPSLB, Agendakan [Rights Issue] 2 Miliar Saham",
-  "deck": "RUPSLB LAPD diundur ke 29 Oktober 2026, mengagendakan rights issue hingga 50,42% saham baru, penetapan PT JSI Sinergi Mas sebagai pengendali, serta pergantian nama dan alamat perusahaan.",
+  "title": "RUPSLB LAPD 29 Oktober: [Rights Issue] 2 Miliar Saham Disetujui",
+  "deck": "RUPSLB LAPD pada 29 Oktober 2026 resmi menyetujui rights issue hingga 2 miliar saham, PT JSI Sinergi Mas sebagai pengendali baru, dan ganti nama menjadi JSI Sinergi Internasional Tbk.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "21 Oktober 2026",
   "isoDate": "2026-10-21T14:50:27",
@@ -58376,18 +58652,34 @@ var ARTICLES = [
   "tags": [
    "LAPD",
    "RUPSLB",
-   "rights issue",
-   "pemegang saham pengendali"
+   "Rights Issue",
+   "Pengendali Baru"
   ],
   "body": [
-   "Leyand International Tbk (LAPD) menerbitkan ralat pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), mengubah jadwal rapat dari sebelumnya Selasa, 20 Oktober 2026 pukul 10.00 WIB menjadi Kamis, 29 Oktober 2026 pukul 13.00 WIB. Lokasi rapat tetap di Meeting Room Hotel Maia, Jalan HBR Motik, Tanah Abang, Jakarta Pusat, dan digelar secara hibrida lewat aplikasi eASY.KSEI. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham per 25 September 2026 pukul 16.00 WIB.",
-   "Agenda utama rapat adalah persetujuan Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu kedua (PMHMETD II). Perseroan berencana menerbitkan sebanyak-banyaknya 2 miliar saham Seri B dengan nilai nominal Rp25 per saham, setara sekitar 50,42 persen dari jumlah saham yang sudah diterbitkan sebelum rencana ini dijalankan. Pemegang saham juga diminta menyetujui perubahan Pasal 4 Anggaran Dasar terkait penerbitan saham Seri B itu, sekaligus memberi kuasa kepada Direksi untuk menentukan rasio hak memesan efek, harga pelaksanaan, jadwal, dan penggunaan dana hasil rights issue tersebut.",
-   "Rapat juga akan menetapkan PT JSI Sinergi Mas sebagai pemegang saham pengendali baru Perseroan, sesuai Pasal 45 POJK No. 45/2024. Agenda lain mencakup perubahan susunan direksi sehubungan dengan rencana pengunduran diri Bambang Rahardja Burhan dari jabatan Direktur, serta perubahan nama Perseroan dari PT Leyand International Tbk menjadi PT JSI Sinergi Internasional Tbk dan perubahan domisili dari Jakarta Pusat ke Jakarta Selatan.",
-   "Selain itu, pemegang saham diminta menyetujui perubahan alamat kantor Perseroan, dari Panin Tower Senayan City Lantai 11, Jalan Asia Afrika, Jakarta Pusat, menjadi Gedung Recapital Lantai 3, Jalan Adityawarman No. 55, Kebayoran Baru, Jakarta Selatan."
+   "Leyand International Tbk, yang kini resmi berganti nama menjadi PT JSI Sinergi Internasional Tbk (LAPD), mengumumkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar 29 Oktober 2026. Rapat dihadiri pemegang saham yang mewakili 68,459 persen dari seluruh saham dengan hak suara, dan seluruh enam agenda disetujui hampir bulat, dengan hanya 1.000 saham abstain dari total lebih dari 2,7 miliar saham yang hadir.",
+   "Agenda utama yang disetujui adalah rencana Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu kedua (rights issue atau PMHMETD II), yakni penerbitan sebanyak-banyaknya 2 miliar saham Seri B bernilai nominal Rp25 per saham, setara sekitar 50,42 persen dari saham yang sudah ada. Pemegang saham turut menyetujui kenaikan modal dasar perusahaan dari Rp1,5 triliun menjadi Rp1,6 triliun, serta memberi kuasa kepada Direksi untuk menentukan sendiri rasio right, harga pelaksanaan, jadwal, dan penggunaan dana hasil penerbitan saham baru itu.",
+   "RUPS juga resmi menetapkan PT JSI Sinergi Mas sebagai pemegang saham pengendali baru perseroan, sesuai aturan Otoritas Jasa Keuangan soal keterbukaan pengendali emiten. Perubahan nama perusahaan dari PT Leyand International Tbk menjadi PT JSI Sinergi Internasional Tbk, pindah domisili dari Jakarta Pusat ke Jakarta Selatan, serta pindah kantor ke Gedung Recapital di Jalan Adityawarman, Kebayoran Baru, juga disahkan dalam rapat ini.",
+   "Di jajaran direksi, RUPS menerima pengunduran diri Bambang Rahardja Burhan dari posisi Direktur. Susunan pengurus baru perseroan adalah Jamal Abdul Nasir Bamadhaj sebagai Direktur Utama, dengan Kiran Raj, Hong Shieh Yung Travis, dan Achmad Rifky sebagai Direktur. Dewan Komisaris diisi oleh Sayid Muhammad Riyadh sebagai Presiden Komisaris, Tan Siok Sing sebagai Komisaris, dan Thauriq Anwar sebagai Komisaris Independen."
   ],
   "fotoAdegan": "Rows of empty chairs facing a podium in a hotel conference room set up for a corporate meeting, soft morning light",
-  "takeaway": "Rangkaian ini condong negatif bagi pemegang saham lama LAPD, karena rencana penerbitan sampai 2 miliar saham baru yang setara 50,42 persen dari saham yang sudah ada akan diikuti dengan pengalihan kendali perusahaan ke PT JSI Sinergi Mas, yang bahkan namanya akan dipakai sebagai nama baru perseroan. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru sebanyak itu terbit, keuntungan perusahaan harus dibagi ke basis saham yang jauh lebih besar sehingga laba per saham milik pemegang lama bisa terdilusi signifikan, dan hak suara mereka dalam rapat ikut mengecil secara proporsional. Perubahan pemegang saham pengendali juga berarti arah bisnis dan manajemen berpotensi berubah besar karena pemilik baru bisa menata ulang kebijakan strategis perusahaan. Yang perlu dipantau adalah hasil RUPSLB pada 29 Oktober 2026, karena rincian penting seperti harga pelaksanaan rights issue dan penggunaan dananya baru akan diputuskan di rapat itu, ditambah kelanjutan proses klarifikasi OJK yang sebelumnya membuat rapat ini tertunda.",
-  "sentimen": "negatif"
+  "takeaway": "Rangkaian ini tetap condong negatif bagi pemegang saham lama, karena RUPS kini benar-benar mengesahkan penerbitan hingga 2 miliar saham baru sekaligus memindahkan kendali perusahaan ke PT JSI Sinergi Mas, bukan sekadar rencana lagi. Pos yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab modal dasar yang naik dari Rp1,5 triliun menjadi Rp1,6 triliun membuka ruang penerbitan saham dalam jumlah besar, yang begitu benar-benar terbit akan membagi laba perusahaan ke basis saham yang jauh lebih banyak sehingga bagian laba tiap pemegang saham lama mengecil, sementara hak suara mereka juga ikut terdilusi. Yang perlu dipantau berikutnya adalah penentuan harga pelaksanaan rights issue dan jadwal penawarannya, karena RUPS hanya memberi kuasa kepada Direksi untuk memutuskan rincian itu tanpa menyebut tanggalnya di dokumen ini.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T16:13:59",
+    "ringkas": "RUPSLB LAPD resmi menyetujui rights issue 2 miliar saham, pengendali baru JSI Sinergi Mas, dan ganti nama perusahaan.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_LAPD_E013_d80449ae-cff8-4ce2-b55f-c1ebf389d72b-20261125161401.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-25T16:13:59",
+  "jadwal": [
+   {
+    "tanggal": "2026-10-29",
+    "acara": "RUPSLB menyetujui rights issue 2 miliar saham dan pengendali baru"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "inps-revisi-rencana-rp125-m-saham-baru-dilusi-192",

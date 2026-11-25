@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "qWUFuVqn0XM",
+  "title": "Kemandirian Energi Prioritas Pemerintahan Presiden Prabowo",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Kepala Badan Komunikasi Pemerintah, Syahganda Nainggolan, menegaskan kemandirian energi menjadi salah satu prioritas utama pemerintahan Presiden Prabowo dalam Forum Energi Nasional 2026 di Jakarta.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan energi nasional yang berdampak pada investasi dan ketahanan pasokan dalam negeri."
+ },
+ {
   "id": "MS1d21A-1nA",
   "title": "Industri Film Nasional Bangkit, Saingi Dominasi Hollywood",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Jepang menawarkan fasilitas penyimpanan minyak mentahnya kepada negara-negara ASEAN sebagai tempat cadangan energi untuk mengantisipasi potensi krisis pasokan.",
   "takeaway": "Kerja sama cadangan energi ini penting bagi pembaca karena menyangkut ketahanan pasokan minyak dan stabilitas harga energi di kawasan ASEAN."
- },
- {
-  "id": "fcwH-45lpT4",
-  "title": "APVI Minta Pemerintah Libatkan Pelaku Usaha Kaji Kebijakan Rokok Elektrik",
-  "category": "Industri",
-  "program": "OneNews Update",
-  "summary": "Asosiasi Personal Vaporizer Indonesia meminta pemerintah melibatkan pelaku usaha dalam mengkaji kebijakan rokok elektrik, menyusul polemik penggunaan vape yang dinilai berdampak pada industri ini.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah regulasi yang bisa mempengaruhi keberlangsungan pelaku usaha di industri rokok elektrik."
  }
 ];

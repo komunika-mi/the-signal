@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "delegasi-animasi-indonesia-ke-siggraph-asia-2026-malaysia",
+  "category": "Industri",
+  "title": "Delegasi Animasi Indonesia ke [SIGGRAPH] Asia 2026 Malaysia",
+  "deck": "Kemendag memfasilitasi enam pelaku industri animasi tampil di SIGGRAPH Asia 2026 di Kuala Lumpur, 1-5 Desember, sembari menyorot ekspor jasa gim dan animasi RI yang terus tumbuh sejak 2019.",
+  "date": "25 November 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "SIGGRAPH Asia 2026",
+   "ekspor animasi",
+   "industri kreatif",
+   "AINAKI"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/industri-kreatif-indonesia-unjuk-karya-di-negeri-jiran-melalui-siggraph-asia-2026",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "true-revisi-lk-kuartal-iii-rugi-bertambah-jadi-rp33-54-miliar",
   "category": "Aksi Korporasi",
   "title": "TRUE [Revisi] LK Kuartal III: Rugi Bertambah Jadi Rp33,54 Miliar",
@@ -275,7 +291,7 @@ var ARTICLES = [
   "title": "Indonesia dan OECD Rilis Laporan Industri [Semikonduktor]",
   "deck": "Kemenko Perekonomian dan OECD meluncurkan laporan asesmen ekosistem semikonduktor Indonesia, berisi rekomendasi kebijakan menjelang proses aksesi RI ke organisasi tersebut.",
   "date": "25 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/buruh-pabrik.jpg",
   "tags": [
    "semikonduktor",
    "OECD",
@@ -2713,7 +2729,7 @@ var ARTICLES = [
   "title": "KPPU [Soroti] Usulan Moratorium PBM Baru di Tanjung Perak",
   "deck": "KPPU Surabaya mendalami usulan moratorium penerimaan perusahaan bongkar muat baru di Jawa Timur, sembari mengingatkan bahwa pembatasan pasar berisiko mengurangi persaingan usaha.",
   "date": "23 November 2026",
-  "image": "assets/img/buruh-pabrik.jpg",
+  "image": "assets/img/pabrik-gula.jpg",
   "tags": [
    "KPPU",
    "APBMI",
@@ -6473,22 +6489,6 @@ var ARTICLES = [
    "utang bank"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117205418-65809-0/FinancialStatement-2026-II-IRRA.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bmtr-dana-obligasi-sukuk-rp793-5-m-lunasi-utang-lama-sisa-rp0",
-  "category": "Aksi Korporasi",
-  "title": "BMTR: Dana Obligasi-Sukuk Rp793,5 M [Lunasi] Utang Lama, Sisa Rp0",
-  "deck": "Global Mediacom melaporkan realisasi dana hasil Obligasi dan Sukuk Ijarah Berkelanjutan V Tahap II 2026 senilai Rp793,5 miliar, seluruhnya sudah terpakai untuk melunasi obligasi lama dan modal kerja.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMTR",
-   "obligasi",
-   "sukuk ijarah",
-   "Global Mediacom"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4accb01e75_9de5e26e42.pdf",
   "sourceLabel": "IDX"
  }
 ];

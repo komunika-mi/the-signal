@@ -22,6 +22,22 @@ var ARTICLES = [
   "sourceUrl": "https://www.tvonenews.com/ekonomi/480369-menhub-dudy-sambut-proyek-kereta-trans-kalimantan-tanpa-apbn"
  },
  {
+  "slug": "rights-issue-ii-bris-hmetd-6-8-miliar-saham-dilusi-maks-12-85",
+  "category": "Aksi Korporasi",
+  "title": "Rights Issue II BRIS: [HMETD] 6,8 Miliar Saham, Dilusi Maks 12,85%",
+  "deck": "BSI (BRIS) akan menerbitkan sebanyak-banyaknya 6,8 miliar saham baru Seri B lewat PMHMETD II, setara 12,85% modal setelah rights issue, untuk mendanai penyaluran pembiayaan.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "HMETD",
+   "Bank Syariah Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BRIS_E019_aefefa5e-5f6c-4068-a1e0-8be014dd3696-20261125225433.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "toba-rencanakan-transaksi-material-sgd555-juta-rupslb-27-november",
   "category": "Aksi Korporasi",
   "title": "TOBA Rencanakan Transaksi Material SGD555 Juta, [RUPSLB] 27 November",
@@ -6471,22 +6487,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/680c96fe47_7413619589.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn",
-  "category": "Perbankan",
-  "title": "BNI-BPJS Kesehatan Teken [Tujuh] Kerja Sama JKN",
-  "deck": "BNI dan BPJS Kesehatan menambah tujuh perjanjian kerja sama untuk pengelolaan iuran, autodebit, dan dana JKN yang melayani hampir 284 juta peserta.",
-  "date": "17 November 2026",
-  "image": "assets/img/bni-bpjs-kesehatan-teken-tujuh-kerja-sama-jkn.jpg",
-  "imageV": "mwkyc58u",
-  "tags": [
-   "BNI",
-   "BPJS Kesehatan",
-   "JKN",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478906-bni-dan-bpjs-kesehatan-teken-tujuh-pks-perkuat-layanan-jkn"
  }
 ];

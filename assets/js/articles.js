@@ -30,6 +30,67 @@ var ARTICLES = [
   "imageV": "mwwfzdc7"
  },
  {
+  "slug": "rights-issue-ii-bris-hmetd-6-8-miliar-saham-dilusi-maks-12-85",
+  "category": "Aksi Korporasi",
+  "title": "Rights Issue II BRIS: [HMETD] 6,8 Miliar Saham, Dilusi Maks 12,85%",
+  "deck": "BSI (BRIS) akan menerbitkan sebanyak-banyaknya 6,8 miliar saham baru Seri B lewat PMHMETD II, setara 12,85% modal setelah rights issue, untuk mendanai penyaluran pembiayaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T22:54:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BRIS_E019_aefefa5e-5f6c-4068-a1e0-8be014dd3696-20261125225433.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRIS",
+  "tags": [
+   "BRIS",
+   "rights issue",
+   "HMETD",
+   "Bank Syariah Indonesia"
+  ],
+  "body": [
+   "PT Bank Syariah Indonesia (Persero) Tbk (BRIS) menerbitkan keterbukaan informasi terkait Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu II (PMHMETD II), menyusul persetujuan Rapat Umum Pemegang Saham Luar Biasa pada 6 November 2026. Perseroan akan menerbitkan sebanyak-banyaknya 6.800.000.000 saham baru Seri B dengan nilai nominal Rp500 per saham, setara 12,85 persen dari modal ditempatkan dan disetor penuh setelah aksi ini. Harga pelaksanaan dan total dana yang akan diperoleh masih kosong di dokumen resmi (ditandai placeholder), karena prospektus ini masih versi awal yang pernyataan pendaftarannya ke OJK belum efektif.",
+   "Setiap pemegang saham lama Seri B yang tercatat dalam Daftar Pemegang Saham pada 16 Februari 2027 pukul 16.00 WIB berhak mendapat Hak Memesan Efek Terlebih Dahulu (HMETD), yang bisa diperdagangkan dan dilaksanakan selama lima hari kerja mulai 18 hingga 24 Februari 2027. HMETD yang tidak dilaksanakan sampai tanggal itu dinyatakan tidak berlaku lagi. Perseroan tidak memiliki pembeli siaga, sehingga jika ada saham yang tidak terserap pemegang HMETD, sisanya tidak akan diterbitkan dan tetap tersimpan sebagai saham portepel. Seluruh dana hasil PMHMETD II direncanakan dipakai untuk penyaluran pembiayaan guna mendukung pertumbuhan usaha Perseroan.",
+   "Berdasarkan Daftar Pemegang Saham per 31 Oktober 2026, tiga bank BUMN memegang mayoritas saham BRIS: PT Bank Mandiri (Persero) Tbk 51,47 persen, PT Bank Negara Indonesia (Persero) Tbk 23,24 persen, dan PT Bank Rakyat Indonesia (Persero) Tbk 15,38 persen, sementara jajaran direksi dan komisaris memegang 7.329.201 saham. Dokumen ini memuat dua simulasi: jika seluruh pemegang saham melaksanakan haknya secara proporsional, persentase kepemilikan ketiga bank BUMN itu tidak berubah. Namun jika ketiganya sama sekali tidak melaksanakan HMETD dan seluruhnya dialihkan ke pihak lain, kepemilikan Bank Mandiri turun ke 44,85 persen, BNI ke 20,25 persen, dan BRI ke 13,40 persen, sementara porsi pemegang saham publik dengan kepemilikan di bawah 5 persen naik dari 9,24 persen menjadi 20,81 persen."
+  ],
+  "fotoAdegan": "Bank customers lining up at teller counters inside a modern branch office in Jakarta, soft morning light",
+  "takeaway": "Laporan ini netral bagi BRIS: tambahan modal lewat rights issue bisa memperkuat permodalan bank, tetapi harga pelaksanaan dan jumlah dana yang bakal masuk belum ditentukan sehingga dampaknya terhadap kinerja belum bisa dipastikan positif atau negatif. Dana segar ini berpotensi mendongkrak rasio kecukupan modal, yaitu bantalan modal bank terhadap risiko kerugian yang sempat melemah di laporan kuartal III 2026, sekaligus menambah kapasitas bank menyalurkan pembiayaan. Di sisi lain, tambahan sebanyak-banyaknya 6,8 miliar saham baru memperbesar jumlah saham beredar, yang bisa menggerus laba per saham kalau pertumbuhan laba tidak mengimbangi tambahan saham itu. Yang perlu dipantau berikutnya adalah tanggal efektif pernyataan pendaftaran dari OJK pada 3 Februari 2027, sebab harga pelaksanaan HMETD dan besaran dana yang terkumpul baru akan diumumkan menjelang tanggal tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-06",
+    "acara": "RUPSLB menyetujui rencana PMHMETD II"
+   },
+   {
+    "tanggal": "2027-02-03",
+    "acara": "Target efektif pernyataan pendaftaran HMETD dari OJK"
+   },
+   {
+    "tanggal": "2027-02-12",
+    "acara": "Hari terakhir perdagangan saham cum-right di pasar reguler"
+   },
+   {
+    "tanggal": "2027-02-16",
+    "acara": "Recording date pemegang saham berhak atas HMETD"
+   },
+   {
+    "tanggal": "2027-02-17",
+    "acara": "Distribusi HMETD ke pemegang saham"
+   },
+   {
+    "tanggal": "2027-02-18",
+    "acara": "Mulai periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2027-02-24",
+    "acara": "Akhir periode perdagangan dan pelaksanaan HMETD"
+   },
+   {
+    "tanggal": "2027-03-01",
+    "acara": "Penjatahan pemesanan saham tambahan"
+   }
+  ]
+ },
+ {
   "slug": "toba-rencanakan-transaksi-material-sgd555-juta-rupslb-27-november",
   "category": "Aksi Korporasi",
   "title": "TOBA Rencanakan Transaksi Material SGD555 Juta, [RUPSLB] 27 November",

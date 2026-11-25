@@ -265,7 +265,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah pemerintah memasang target pertumbuhan ekonomi 6 persen untuk 2027, naik dari realisasi 5,47 persen pada triwulan III 2026, dengan empat strategi yang salah satunya tetap menahan belanja negara karena defisit anggaran dijaga di bawah 1,5 persen dari ukuran ekonomi nasional. Pihak yang paling terdampak adalah pelaku usaha dan calon pekerja di 18 Kawasan Ekonomi Khusus di luar Jawa, sebab kawasan ini diklaim pemerintah jauh lebih hemat modal, hanya butuh investasi setara 4 persen dari nilai output untuk menghasilkan tambahan pertumbuhan, dibanding rata-rata nasional yang butuh 6 persen. Pola ini menunjukkan pemerintah mengejar kenaikan pertumbuhan lewat efisiensi kawasan investasi dan hilirisasi ekspor, bukan lewat tambahan belanja negara. Yang akan menentukan apakah arah ini berjalan sesuai rencana adalah angka pertumbuhan triwulan IV 2026 yang akan dirilis awal tahun depan, serta realisasi investasi KEK pada akhir 2026 sebagai titik awal menuju target 2027.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "indonesia-korea-bangun-sistem-uji-charger-ev-senilai-us-8-juta",

@@ -385,8 +385,8 @@ var ARTICLES = [
  {
   "slug": "rupst-rupslb-elty-gagal-kuorum-kehadiran-cuma-4-9",
   "category": "Aksi Korporasi",
-  "title": "RUPST & RUPSLB ELTY Gagal Kuorum, [Kehadiran] Cuma 4,9%",
-  "deck": "Dua rapat pemegang saham ELTY pada 17 Juni 2026 batal mengambil keputusan karena kehadiran pemegang saham cuma sekitar 4,9%, jauh di bawah syarat kuorum.",
+  "title": "RUPST Kedua ELTY 29 Juni: [Disahkan], RUPSLB Gagal Kuorum Lagi",
+  "deck": "RUPST kedua ELTY akhirnya disahkan dengan kuorum 33,46%, tapi RUPSLB kedua soal perubahan anggaran dasar gagal lagi karena kehadiran cuma 33,53% dari syarat 60%.",
   "date": "24 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [

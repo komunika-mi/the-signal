@@ -652,8 +652,8 @@ var ARTICLES = [
  {
   "slug": "rupst-rupslb-elty-gagal-kuorum-kehadiran-cuma-4-9",
   "category": "Aksi Korporasi",
-  "title": "RUPST & RUPSLB ELTY Gagal Kuorum, [Kehadiran] Cuma 4,9%",
-  "deck": "Dua rapat pemegang saham ELTY pada 17 Juni 2026 batal mengambil keputusan karena kehadiran pemegang saham cuma sekitar 4,9%, jauh di bawah syarat kuorum.",
+  "title": "RUPST Kedua ELTY 29 Juni: [Disahkan], RUPSLB Gagal Kuorum Lagi",
+  "deck": "RUPST kedua ELTY akhirnya disahkan dengan kuorum 33,46%, tapi RUPSLB kedua soal perubahan anggaran dasar gagal lagi karena kehadiran cuma 33,53% dari syarat 60%.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "24 November 2026",
   "isoDate": "2026-11-24T17:24:43",
@@ -667,15 +667,32 @@ var ARTICLES = [
    "Bakrieland Development"
   ],
   "body": [
-   "Rapat Umum Pemegang Saham Tahunan (RUPST) dan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Bakrieland Development Tbk (ELTY) yang digelar di Jakarta pada 17 Juni 2026 sama-sama gagal memenuhi syarat kuorum sehingga tidak bisa mengambil keputusan apa pun. RUPST yang berlangsung pukul 10.31 hingga 10.41 WIB hanya dihadiri pemegang saham yang mewakili 2.132.334.950 saham, atau 4,8994513% dari total 43.521.913.019 saham yang diterbitkan Perseroan, jauh di bawah syarat kehadiran lebih dari separuh saham sesuai Pasal 87 ayat 2 UU Perseroan Terbatas dan anggaran dasar Perseroan. RUPSLB yang digelar setelahnya, pukul 10.41 hingga 10.48 WIB, kehadirannya sedikit lebih kecil yaitu 2.128.871.750 saham atau 4,891494%, padahal syaratnya lebih berat yakni lebih dari dua pertiga saham karena agendanya menyangkut perubahan anggaran dasar.",
-   "Empat agenda RUPST yang batal diputuskan adalah persetujuan laporan pertanggungjawaban Direksi untuk tahun buku 2025, pengesahan laporan posisi keuangan dan laporan laba rugi 2025, penunjukan kantor akuntan publik untuk mengaudit tahun buku 2026, serta perubahan susunan komisaris independen. Satu-satunya agenda RUPSLB, yaitu perubahan Pasal 3 anggaran dasar Perseroan untuk disesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia Tahun 2025, juga tidak bisa disahkan. Kedua rapat dipimpin oleh jajaran yang sama, yakni Presiden Direktur Resza Adikreshna, Direktur Melky Aliandri dan Sisilia, serta Presiden Komisaris Bambang Irawan Hendradi dan Komisaris Armansyah Yamin.",
-   "Karena kuorum tidak tercapai di kedua rapat, Bakrieland menyatakan akan memanggil rapat kedua, dengan waktu dan mekanisme pemanggilan yang akan ditentukan kemudian sesuai anggaran dasar Perseroan, UU Perseroan Terbatas, dan Peraturan OJK Nomor 15 Tahun 2020. Risalah resmi dari kedua rapat ini sebenarnya sudah dilaporkan ke bursa pada 19 Juni 2026, dan laporan yang muncul pada 24 November 2026 ini adalah penyampaian ulang yang dilakukan Bakrieland untuk menyesuaikan dengan sistem pelaporan SPE IDXnet yang baru, bukan laporan atas peristiwa baru."
+   "Rapat kedua atas Rapat Umum Pemegang Saham Tahunan (RUPST) dan Luar Biasa (RUPSLB) PT Bakrieland Development Tbk (ELTY) yang digelar 29 Juni 2026 membawa hasil berbeda untuk dua agenda yang sebelumnya macet. RUPST kedua akhirnya memenuhi syarat kuorum dengan kehadiran 14.564.853.671 saham atau 33,46% dari total saham, cukup untuk rapat kedua yang syaratnya di atas sepertiga. Rapat ini menyetujui empat agenda sekaligus: mengesahkan laporan pertanggungjawaban Direksi dan laporan keuangan tahun buku 2025, memberi wewenang kepada Dewan Komisaris untuk menunjuk akuntan publik yang akan mengaudit tahun buku 2026, serta mengganti komisaris independen dari Kanaka Puradiredja ke Dr. Syah Amondaris, SE., MM. Seluruh keputusan disetujui dengan dukungan sekitar 85,9% pemegang saham yang hadir, dan sisanya dianggap setuju sesuai anggaran dasar Perseroan, sehingga total persetujuan efektif mencapai 89,7%.",
+   "RUPSLB kedua yang membahas perubahan Pasal 3 anggaran dasar untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia 2025, sebaliknya, kembali gagal kuorum. Kehadirannya naik sedikit menjadi 14.594.373.171 saham atau 33,53%, tetapi agenda ini mensyaratkan kehadiran minimal tiga perlima atau 60% dari seluruh saham karena menyangkut perubahan anggaran dasar, sehingga keputusan tetap tidak bisa diambil. Bakrieland menyatakan akan memanggil rapat ketiga, dengan waktu dan mekanisme pemanggilan yang akan ditentukan kemudian sesuai anggaran dasar Perseroan, UU Perseroan Terbatas, dan Peraturan OJK Nomor 15 Tahun 2020.",
+   "Hasil ini menyusul rapat pertama pada 17 Juni 2026 yang gagal total karena kehadiran pemegang saham cuma sekitar 4,9%, jauh di bawah syarat kuorum baik untuk RUPST maupun RUPSLB, seperti sudah diberitakan sebelumnya.",
+   "Laporan ringkasan risalah rapat kedua ini sebenarnya sudah disampaikan ke bursa pada 2 Juli 2026. Penyampaian pada 25 November 2026 adalah pelaporan ulang yang dilakukan Bakrieland untuk menyesuaikan dengan sistem pelaporan SPE IDXnet yang baru, bukan laporan atas peristiwa baru.",
+   "Dengan keputusan ini, susunan Dewan Komisaris Bakrieland kini terdiri dari Bambang Irawan Hendradi sebagai Presiden Komisaris, Armansyah Yamin sebagai Komisaris, dan Dr. Syah Amondaris sebagai Komisaris Independen, sementara jajaran Direksi tidak berubah dengan Resza Adikreshna sebagai Presiden Direktur, didampingi Melky Aliandri dan Sisilia."
   ],
   "fotoAdegan": "Empty rows of chairs facing a podium in a hotel ballroom set up for a corporate shareholders meeting, soft morning light",
-  "takeaway": "Kegagalan kuorum RUPST dan RUPSLB ELTY secara berturut-turut ini condong negatif, karena menunjukkan pemegang saham dalam porsi besar, yang biasanya berarti pemegang saham pengendali, tidak hadir pada forum yang seharusnya mengesahkan agenda-agenda penting perusahaan. Kuorum sendiri adalah syarat jumlah saham minimal yang harus hadir agar keputusan rapat sah secara hukum, dan di sini kehadirannya cuma sekitar 4,9 persen, jauh di bawah ambang lebih dari 50 persen untuk RUPST dan lebih dari dua pertiga untuk RUPSLB. Akibatnya, laporan keuangan tahun buku 2025 Perseroan belum disahkan pemegang saham, dan penunjukan akuntan publik untuk mengaudit tahun buku 2026 juga belum bisa dilakukan, padahal tahun itu sudah hampir berakhir, sehingga proses audit tahunan berisiko molor. Yang perlu dipantau selanjutnya adalah rapat kedua yang disebut dalam dokumen akan digelar menyusul, tetapi Bakrieland belum mengumumkan tanggal pastinya.",
-  "sentimen": "negatif",
+  "takeaway": "Laporan ini condong positif, karena rapat kedua akhirnya berhasil mengesahkan laporan keuangan tahun buku 2025 dan memberi wewenang penunjukan akuntan publik untuk audit 2026, setelah rapat pertama gagal total akibat kuorum yang terlalu rendah. Pos yang tersentuh adalah pembebasan tanggung jawab direksi dan komisaris atas tahun buku 2025 serta susunan dewan komisaris, yang kini mencantumkan Dr. Syah Amondaris sebagai komisaris independen baru menggantikan Kanaka Puradiredja, perubahan yang memengaruhi independensi pengawasan perusahaan. Yang masih mengganjal adalah RUPSLB soal perubahan anggaran dasar untuk menyesuaikan klasifikasi lapangan usaha, yang pada percobaan kedua ini pun gagal kuorum karena kehadirannya hanya 33,53% dari syarat minimal tiga perlima atau 60%. Yang perlu dipantau berikutnya adalah pemanggilan rapat ketiga untuk RUPSLB tersebut, yang tanggalnya belum diumumkan Bakrieland.",
+  "sentimen": "positif",
   "peristiwa": "rups",
-  "judulIdx": "Ringkasan Risalah RUPS"
+  "judulIdx": "Ringkasan Risalah RUPS",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T10:04:34",
+    "ringkas": "RUPST kedua ELTY akhirnya disahkan (kuorum 33,46%), tapi RUPSLB kedua gagal kuorum lagi di 33,53% dari syarat 60%.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ELTY_E013_66f607d3-3636-4697-88d0-adb14daa0f21-20261125100437.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-25T10:04:34",
+  "jadwal": [
+   {
+    "tanggal": "2026-06-29",
+    "acara": "RUPST dan RUPSLB kedua ELTY digelar"
+   }
+  ]
  },
  {
   "slug": "ihsg-ditutup-menguat-0-49-persen-ke-5-241-59",

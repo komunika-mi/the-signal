@@ -3,6 +3,236 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "public-expose-mdki-30-november-pangsa-pasar-tergerus-impor",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose MDKI 30 November: [Pangsa Pasar] Tergerus Impor",
+  "deck": "MDKI menjadwalkan Public Expose Tahunan 2026 pada 30 November di Gresik, memaparkan pendapatan yang terus menyusut sejak 2023 dan pangsa pasar domestik yang tergerus impor ke 30 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T15:42:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_MDKI_E003_729e0ddc-8846-4438-91bd-ea8f254c30a4-20261125154222.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDKI",
+  "tags": [
+   "MDKI",
+   "Public Expose",
+   "Karbit",
+   "Emdeki Utama"
+  ],
+  "body": [
+   "PT Emdeki Utama Tbk (MDKI) akan menggelar Public Expose Tahunan 2026 di Gresik pada 30 November 2026. Dalam materi yang disampaikan ke Bursa Efek Indonesia, perseroan memaparkan bahwa pendapatan konsolidasiannya terus menyusut dalam tiga tahun terakhir, dari Rp470,7 miliar pada 2023 menjadi Rp344,46 miliar pada 2024 dan Rp319,174 miliar pada 2025. Hingga September 2026, pendapatan tercatat Rp239,763 miliar.",
+   "Laba bersih perseroan juga menyusut tidak merata, dari Rp48,407 miliar pada 2023 menjadi Rp28,687 miliar pada 2024, naik ke Rp35,489 miliar pada 2025, dan tercatat Rp18,792 miliar untuk sembilan bulan pertama 2026. Di sisi lain, total liabilitas turun signifikan dari Rp99,638 miliar pada 2023 menjadi Rp71,916 miliar pada kuartal III 2026, sementara ekuitas relatif stabil di kisaran Rp964,9 miliar hingga Rp990,7 miliar pada periode yang sama. Perseroan juga mencatat pangsa pasar karbit kalsium di dalam negeri tergerus importir, dari 7,37 persen pada 2023 menjadi 30 persen pada kuartal III 2026, sementara pangsa pasar Emdeki sendiri turun dari 92,63 persen menjadi 70 persen pada periode yang sama.",
+   "Perseroan menyebut sejumlah kendala pada 2026, antara lain pelemahan ekonomi global dan domestik, penurunan permintaan karbit nasional, kompetisi dengan karbit impor, pelemahan rupiah yang membuat bahan baku impor lebih mahal, serta biaya pengiriman ekspor yang masih tinggi. Sebagai upaya diversifikasi, proyek pallet plastik melalui anak usaha PT Emde Plast Utama mulai berproduksi komersial penuh pada Januari 2026 dengan tingkat utilisasi pabrik mencapai 30 persen dari kapasitas terpasang hingga September 2026, dan perseroan menargetkan utilisasi naik ke 80 persen serta pertumbuhan pendapatan 30 sampai 50 persen pada tahun kedua. Proyek pabrik Ferro Silicon berkapasitas 7.000 ton per tahun di Driyorejo dan tahap kedua proyek Carbide Desulphuriser di Cilegon masih ditunda menunggu perkembangan kondisi industri. Terkait dividen, perseroan menyatakan akan membayarkan dividen dengan memperhatikan kesehatan keuangan, tanpa mengurangi hak RUPS untuk menentukan lain."
+  ],
+  "fotoAdegan": "Industrial workers inspecting large metal furnace equipment at a calcium carbide manufacturing plant, steam and metal sparks, East Java factory floor.",
+  "takeaway": "Paparan ini kami nilai netral bagi fundamental Emdeki: pendapatan dan laba bersihnya menyusut dalam tiga tahun terakhir akibat gempuran karbit impor, tapi di sisi lain utang perseroan turun tajam dan bisnis pallet plastik mulai menghasilkan pendapatan baru. Yang perlu diperhatikan investor adalah ekuitas, yaitu selisih antara total aset dan utang yang menjadi hak pemegang saham, yang di sini masih stabil di atas Rp960 miliar meski laba melemah, artinya belum ada kekayaan pemegang saham yang tergerus walau kinerja menurun. Penurunan pangsa pasar domestik dari 92,63 persen jadi 70 persen dalam tiga tahun juga layak dicermati karena menunjukkan tekanan kompetisi yang nyata, bukan sekadar fluktuasi musiman. Yang perlu dipantau selanjutnya adalah hasil Public Expose pada 30 November 2026 itu sendiri, terutama apakah target utilisasi pabrik pallet plastik bisa benar-benar naik ke 80 persen dan pendapatan tumbuh 30 sampai 50 persen pada tahun kedua seperti yang ditargetkan perseroan.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Public Expose Tahunan 2026 PT Emdeki Utama Tbk di Gresik"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-bsim-1-desember-laba-9m26-turun-14-9",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BSIM 1 Desember: [Laba] 9M26 Turun 14,9%",
+  "deck": "Materi Public Expose Tahunan Bank Sinarmas memuat kinerja 9 bulan 2026: laba sebelum pajak turun 14,92% jadi Rp320 miliar akibat tekanan margin bunga, meski kualitas kredit membaik.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T15:41:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BSIM_E003_0283858d-19f4-4b51-b1c4-84658eeb2c57-20261125154144.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BSIM",
+  "tags": [
+   "BSIM",
+   "Bank Sinarmas",
+   "Public Expose",
+   "Laba Bank"
+  ],
+  "body": [
+   "PT Bank Sinarmas Tbk (BSIM) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia, dengan presentasi yang dijadwalkan dipaparkan di Jakarta pada 1 Desember 2026. Materi tersebut memuat kinerja konsolidasi per September 2026 (9M26), di mana laba sebelum pajak tercatat Rp320 miliar, turun 14,92 persen secara tahunan, yang menurut materi itu dipengaruhi kompresi margin bunga bersih dan penurunan pendapatan non-bunga.",
+   "Total aset konsolidasi BSIM tercatat Rp59,48 triliun, naik 6,70 persen dari setahun sebelumnya dan 2,12 persen dari akhir 2025, didorong ekspansi kredit serta penempatan pada surat berharga dan repo. Baki debet kredit naik menjadi Rp13,51 triliun. Sebaliknya, dana pihak ketiga turun ke Rp44,48 triliun, turun 5,41 persen dari akhir 2025, karena bank menyesuaikan portofolio deposito berjangka untuk menekan biaya dana. Pendapatan bunga bersih turun 12,88 persen jadi Rp1.332 miliar, sebab pendapatan bunga turun 1,13 persen sementara beban bunga justru naik 22,14 persen. Pendapatan non-bunga ikut terkoreksi 4,59 persen menjadi Rp1.220 miliar, terutama karena berkurangnya penerimaan dari kredit yang sudah dihapusbukukan. Di sisi beban, biaya operasional berhasil ditekan 5,09 persen menjadi Rp2.413 miliar, ditopang penurunan beban premi asuransi kredit.",
+   "Dari sisi rasio keuangan, margin bunga bersih (NIM) turun dari 4,33 persen pada akhir 2025 menjadi 3,46 persen pada September 2026. Rasio kecukupan modal (CAR) turun dari 33,55 persen menjadi 29,74 persen namun masih jauh di atas batas minimum regulator. Kredit bermasalah (NPL) gross justru membaik ke 1,41 persen dari 1,47 persen, dan rasio kredit terhadap dana pihak ketiga (LDR) naik ke 30,27 persen. Total ekuitas tercatat Rp8,476 triliun dengan kapitalisasi pasar Rp18,152 triliun. Materi itu juga memuat jaringan 316 kantor, 777 unit ATM, 6.461 karyawan, serta lebih dari 1,6 juta nasabah. Komposisi pemegang saham tetap didominasi PT Sinar Mas Multiartha Tbk dengan 59,99 persen, sisanya 40,01 persen milik publik. Anak usaha, PT Bank Nano Syariah, mencatat total aset Rp9,785 triliun dan laba sebelum pajak Rp92 miliar."
+  ],
+  "fotoAdegan": "Interior of a modern Indonesian bank branch with tellers assisting customers at counters, soft morning light through windows",
+  "takeaway": "Laporan ini condong negatif bagi BSIM karena laba sebelum pajak turun 14,92 persen secara tahunan menjadi Rp320 miliar, dan penurunan itu berasal dari pos inti perbankan, bukan sekadar beban satu kali. Yang tersentuh adalah margin bunga bersih, yaitu selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah penyimpan dana, yang menipis dari 4,33 persen jadi 3,46 persen dalam sembilan bulan, sinyal bahwa biaya dana naik lebih cepat dari pendapatan bunga. Di sisi lain kualitas kredit justru membaik, tercermin dari rasio kredit bermasalah yang turun ke 1,41 persen, dan modal bank masih jauh di atas batas minimum otoritas meski ikut turun dari 33,55 persen ke 29,74 persen. Pelaku pasar perlu menimbang dua arah ini bersamaan, penurunan laba yang nyata namun bukan karena kualitas aset memburuk. Yang perlu dipantau berikutnya adalah sesi pemaparan publik yang dijadwalkan 1 Desember 2026 beserta laporan kinerja kuartal keempat, untuk melihat apakah tekanan margin bunga ini berlanjut atau mulai mereda.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Paparan Public Expose Tahunan 2026 Bank Sinarmas"
+   }
+  ]
+ },
+ {
+  "slug": "public-expose-bbkp-30-november-rugi-rp197-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BBKP 30 November: [Rugi] Rp197 Miliar di 9M26",
+  "deck": "Materi public expose BBKP untuk periode Januari-September 2026 menunjukkan rugi bersih Rp197 miliar, berbalik dari laba periode sama tahun lalu, meski pendapatan bunga bersih tumbuh 28,9 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T15:27:47",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BBKP_E003_c94a1536-cd1f-4132-8716-9b2889cf5088-20261125152749.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBKP",
+  "tags": [
+   "BBKP",
+   "KB Bank",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "body": [
+   "PT Bank KB Indonesia Tbk (BBKP) menyampaikan materi public expose tahunan 2026 yang akan digelar Senin, 30 November 2026, membahas kinerja bank only untuk periode Januari sampai September 2026. Materi itu mengungkap bank mencatat rugi bersih Rp197 miliar pada sembilan bulan 2026, berbalik dari posisi laba sekitar Rp300 miliar pada periode yang sama tahun 2025. Manajemen menyebut rugi ini sebagian disebabkan oleh perbedaan waktu pencatatan pendapatan operasional lain yang baru akan masuk pada kuartal keempat, dan tetap menyatakan optimistis bisa mencetak laba penuh untuk keseluruhan tahun 2026.",
+   "Di sisi penyaluran kredit, total pinjaman BBKP mencapai Rp45,7 triliun per September 2026, naik 3,1 persen dibanding setahun sebelumnya, didorong pertumbuhan segmen wholesale atau korporasi besar sebesar 11 persen. Sekitar 80 persen dari portofolio kredit tergolong lancar tanpa tanda-tanda gagal bayar. Rasio kredit berisiko atau loan at risk tercatat 21,7 persen, masih di bawah ambang batas internal 22 persen yang ditetapkan perseroan.",
+   "Dari sisi pendanaan, pendapatan bunga bersih (net interest income) tumbuh 28,9 persen menjadi Rp926 miliar, setara 93 persen dari total pendapatan bunga bersih sepanjang tahun 2025, dengan margin bunga bersih naik ke 1,7 persen. Rasio dana murah atau CASA tercatat 29,2 persen, turun dibanding periode sama tahun lalu meski masih lebih tinggi dibanding level saat masa transformasi 2021-2023. Biaya dana (cost of fund) turun ke 4,6 persen dan rasio kredit terhadap dana pihak ketiga (LDR) berada di 99,3 persen, tetap di bawah 100 persen. Beban umum dan administrasi tercatat Rp1,2 triliun, yang menurut manajemen menunjukkan disiplin biaya tetap terjaga."
+  ],
+  "fotoAdegan": "Exterior of a modern bank branch building in a Jakarta business district, glass facade, midday light, pedestrians passing by",
+  "takeaway": "Laporan ini condong negatif karena ukuran yang paling diperhatikan pemegang saham, yaitu laba atau rugi bersih, berbalik dari untung sekitar Rp300 miliar pada 9M2025 menjadi rugi Rp197 miliar pada 9M2026, walau ada sisi baik dari pendapatan bunga yang tumbuh pesat. Yang tersentuh di sini adalah margin bunga bersih (NIM), yaitu selisih antara bunga yang diterima bank dari kredit dan bunga yang dibayarkan ke nasabah, yang naik ke 1,7 persen, serta biaya dana yang justru menurun ke 4,6 persen, dua sinyal bahwa mesin bisnis inti bank sebenarnya membaik meski laba akhir masih negatif. Perlu dicermati juga rasio dana murah (CASA) yang turun dari level tahun lalu, karena dana murah dari tabungan dan giro biasanya lebih stabil dan lebih hemat biaya dibanding deposito berbunga tinggi. Yang perlu dipantau berikutnya adalah paparan langsung manajemen pada public expose tahunan Senin, 30 November 2026, yang akan menjelaskan apakah rugi ini benar-benar hanya soal waktu pencatatan pendapatan di kuartal keempat seperti yang diklaim, atau mencerminkan tantangan yang lebih dalam menuju target laba penuh tahun 2026.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Pelaksanaan Public Expose Tahunan 2026 BBKP"
+   }
+  ]
+ },
+ {
+  "slug": "dmmx-direktur-niko-navea-aquino-mundur-keputusan-di-rups",
+  "category": "Aksi Korporasi",
+  "title": "DMMX: Direktur Niko Navea Aquino [Mundur], Keputusan di RUPS",
+  "deck": "Direktur PT Digital Mediatama Maxima Tbk, Niko Navea Aquino, mengajukan pengunduran diri efektif 20 November 2026. Keputusan final menunggu RUPS terdekat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T15:26:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_DMMX_E019_ff0a84d3-5516-4dc1-abb4-6d76ad5795b9-20261125152615.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DMMX",
+  "tags": [
+   "DMMX",
+   "pengunduran diri direksi",
+   "Digital Mediatama Maxima",
+   "RUPS"
+  ],
+  "body": [
+   "PT Digital Mediatama Maxima Tbk (DMMX) menyampaikan keterbukaan informasi bahwa pada 20 November 2026 perseroan menerima pengunduran diri Niko Navea Aquino dari posisinya sebagai Direktur Perseroan. Dalam laporan yang disampaikan ke Otoritas Jasa Keuangan, perseroan menyatakan proses lebih lanjut akan dijalankan sesuai Anggaran Dasar Perseroan dan peraturan OJK tentang Direksi dan Dewan Komisaris, dengan keputusan final atas permohonan pengunduran diri tersebut akan diambil dalam Rapat Umum Pemegang Saham Perseroan terdekat.",
+   "Dalam laporan yang ditandatangani Risa Pramesti itu, perseroan menegaskan pengunduran diri ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha. Perusahaan juga menyatakan tidak ada informasi atau fakta material lain yang belum diungkapkan selain pengunduran diri Niko Navea Aquino dari jajaran direksi."
+  ],
+  "fotoAdegan": "Empty modern corporate boardroom with leather chairs around a glass table, soft morning light through windows",
+  "takeaway": "Laporan ini netral bagi DMMX karena hanya mengabarkan pengunduran diri satu direktur tanpa indikasi gejolak internal, dan perusahaan sendiri menyatakan tidak ada dampak operasional atau keuangan yang ditimbulkan. Perubahan ini menyentuh susunan direksi, bukan pos kinerja keuangan seperti ekuitas atau arus kas, karena pengunduran diri belum tentu mengubah strategi bisnis selama belum ada pengganti yang ditunjuk. Yang perlu dipantau adalah Rapat Umum Pemegang Saham terdekat yang akan memutuskan secara resmi permohonan pengunduran diri Niko Navea Aquino, termasuk kemungkinan pengumuman calon direktur pengganti.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran Diri Direksi dan/atau Komisaris"
+ },
+ {
+  "slug": "public-expose-smma-laba-9-bulan-rp2-33-triliun-roe-10-81",
+  "category": "Aksi Korporasi",
+  "title": "[Public Expose] SMMA: Laba 9 Bulan Rp2,33 Triliun, ROE 10,81%",
+  "deck": "Materi Public Expose Tahunan 2026 SMMA menunjukkan laba sembilan bulan ke SMMA naik jadi Rp2,33 triliun, dengan ROE melonjak dari 2,44 persen ke 10,81 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T15:25:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_SMMA_E003_cb31c214-7bd4-402c-8411-337de804ba11-20261125152515.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMMA",
+  "tags": [
+   "SMMA",
+   "Public Expose",
+   "Sinar Mas Multiartha",
+   "Laporan Keuangan"
+  ],
+  "body": [
+   "PT Sinar Mas Multiartha Tbk (SMMA) menyampaikan materi Public Expose Tahunan 2026 kepada Bursa Efek Indonesia pada 25 November 2026, menjelang acara paparan publik yang dijadwalkan 1 Desember 2026. Dalam materi tersebut, perusahaan induk jasa keuangan Sinar Mas ini melaporkan total aset Rp129,5 triliun per 30 September 2026, dengan laba yang menjadi bagian SMMA dari seluruh anak usahanya tercatat Rp2,33 triliun untuk periode sembilan bulan tersebut.",
+   "Rasio keuangan dalam materi itu menunjukkan perbaikan tajam dibanding periode yang sama tahun lalu. Rasio laba terhadap aset (ROA) naik dari 0,54 persen menjadi 2,53 persen, rasio laba terhadap ekuitas (ROE) naik dari 2,44 persen menjadi 10,81 persen, dan margin laba bersih terhadap pendapatan (NPM) naik dari 3,21 persen menjadi 10,40 persen. Rasio beban operasional terhadap pendapatan operasional (BOPO), yang makin rendah berarti makin efisien, turun dari 96,43 persen menjadi 86,38 persen. Di sisi lain, laba per saham periode Januari-September justru turun dari Rp477 pada 2025 menjadi Rp363 pada 2026, sementara rasio harga saham terhadap laba (PER) tahunan naik dari 20,44 kali menjadi 42,41 kali, dan harga saham sempat menyentuh level Rp20.525 pada 2026 dibanding Rp13.000 pada 2025.",
+   "Materi itu juga merinci sejumlah aksi korporasi sepanjang 2026. SMMA menjual seluruh 7.600 lembar sahamnya di PT Dana Pinjaman Inklusif senilai Rp7,6 miliar kepada Sino Ronhui New Material Co., Limited yang berkedudukan di Hong Kong, serta membeli 221 lembar saham PT Asuransi Jiwa Generali Indonesia dari PT Puncak Nusantara senilai Rp22,1 miliar atau setara 2 persen kepemilikan. Perusahaan juga menambah penyertaan modal di Simas Bank, S.A. di Dili, Timor-Leste, sebesar US$2,4 juta dan US$3,6 juta sehingga total tambahan modal ke bank itu mencapai US$6 juta sepanjang tahun, dengan kepemilikan saham 60 persen. Selain itu, SMMA menyuntik modal Rp5 miliar ke PT Dana Saham Bersama dan Rp9,934 miliar ke PT Summit Oto Finance untuk menjaga kepemilikan 15 persen sesuai ketentuan kepemilikan saham lokal minimal dalam POJK No. 47/POJK.05/2020, menyusul penggabungan PT Oto Multiartha dan PT Summit Oto Finance."
+  ],
+  "fotoAdegan": "Customers queuing calmly at a modern bank branch counter in Jakarta, tellers assisting transactions, soft morning light",
+  "takeaway": "Laporan ini condong positif bagi SMMA karena hampir seluruh rasio profitabilitas dan efisiensi biayanya membaik tajam dibanding periode yang sama tahun lalu, sementara total asetnya juga bertambah jadi Rp129,5 triliun. Pos yang tersentuh di sini adalah laba terhadap aset dan laba terhadap modal sendiri, yang menunjukkan seberapa efektif perusahaan memutar hartanya dan uang pemegang saham jadi untung, serta beban operasional yang mengecil dibanding pendapatan, tanda perusahaan makin hemat menjalankan usahanya. Satu hal yang perlu dicermati adalah laba per saham yang justru turun dari Rp477 menjadi Rp363 meski laba dan rasio profitabilitas membaik, yang biasanya terjadi kalau jumlah saham beredar bertambah sehingga bagian laba untuk tiap lembar saham mengecil. Investor bisa memantau sesi Public Expose Tahunan 2026 yang digelar manajemen SMMA pada 1 Desember 2026, saat perusahaan biasanya menjelaskan proyeksi ke depan dan menjawab pertanyaan pemegang saham secara langsung.",
+  "sentimen": "positif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Pelaksanaan Public Expose Tahunan 2026 SMMA"
+   }
+  ]
+ },
+ {
+  "slug": "inet-akun-jual-29-87-saham-ke-cni-pengendali-tak-berubah",
+  "category": "Aksi Korporasi",
+  "title": "INET: AKUN Jual 29,87% Saham ke CNI, [Pengendali] Tak Berubah",
+  "deck": "AKUN melepas 29,87 persen saham INET ke CNI senilai Rp2,01 triliun, namun status pengendali tak berubah karena selisih kepemilikan hanya 0,02 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T15:05:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_INET_E023A_573c6595-d382-40b1-8dde-94cf1599352c-20261125150546.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "INET",
+  "tags": [
+   "INET",
+   "AKUN",
+   "CNI",
+   "pemegang saham"
+  ],
+  "body": [
+   "PT Sinergi Inti Andalan Prima Tbk (INET) menjelaskan kepada Bursa Efek Indonesia bahwa pengalihan 6.685.000.000 saham atau sekitar 29,87 persen kepemilikannya dari PT Abadi Kreasi Unggul Nusantara (AKUN) kepada PT Cakrawala Nexus Investama (CNI) telah selesai pada 16 November 2026. Perjanjian pengikatan jual beli saham antara AKUN dan CNI diteken pada 1 September 2026 dengan harga Rp300 per saham, sehingga total nilai transaksi mencapai Rp2,0055 triliun. Perseroan menegaskan transaksi ini berlangsung antara AKUN dan CNI selaku pemegang saham, sehingga INET sendiri tidak menjadi pihak dalam jual beli tersebut dan tidak menanggung kewajiban pembayaran apa pun dari transaksi itu.",
+   "Setelah transaksi, kepemilikan AKUN di INET tersisa 6.688.689.331 saham atau 29,89 persen, hanya berselisih 3.689.331 saham atau 0,02 persen dari kepemilikan CNI sebesar 29,87 persen. Perseroan menyatakan AKUN tetap menjadi pemegang saham pengendali karena kepemilikannya masih lebih besar, dan CNI tidak memperoleh hak khusus untuk menunjuk anggota direksi atau komisaris INET. Perseroan juga menyebut Muhammad Arif, yang menjabat Direktur Utama INET, tercatat sebagai Komisaris AKUN dengan kepemilikan 26,15 persen saham AKUN. CNI sendiri merupakan anak usaha PT Era Media Sejahtera Tbk (DOOH) dengan kepemilikan 99,99 persen, dan menurut Perseroan tidak ada kesepakatan pengendalian bersama antara AKUN dan CNI maupun hubungan afiliasi di antara keduanya.",
+   "Karena status pengendali AKUN tidak berubah, Perseroan menyatakan transaksi ini tidak memicu kewajiban meminta persetujuan kreditur atau wali amanat terkait perubahan pengendali, dan tidak menimbulkan wanprestasi atas utang bank, obligasi, maupun sukuk ijarah INET. Jaminan giro dan deposito milik AKUN atas sekitar Rp654,1 miliar utang bank Perseroan juga dinyatakan tetap berlaku. Sampai saat surat ini disampaikan, Perseroan menyebut belum ada rencana lebih lanjut dari CNI untuk menambah kepemilikan sahamnya di INET.",
+   "Dalam surat yang sama, Perseroan memaparkan kondisi keuangan per 30 September 2026 dengan aset Rp6,50 triliun, ekuitas Rp3,95 triliun, dan kas serta setara kas Rp3,96 triliun, sementara arus kas operasi sembilan bulan pertama 2026 tercatat Rp68,94 miliar. Perseroan menghadapi jatuh tempo Obligasi Seri A Rp201,50 miliar dan Sukuk Ijarah Seri A Rp205,00 miliar pada Februari 2027, yang rencananya dilunasi dari hasil penerbitan obligasi dan sukuk berkelanjutan tahap pertama. Perseroan juga mengakui bahwa dari piutang usaha bruto Rp359,4 miliar, sebesar Rp68,9 miliar sudah lewat jatuh tempo namun belum diturunkan nilainya, termasuk Rp14,5 miliar yang menunggak lebih dari 360 hari, sementara cadangan penurunan nilai piutang tetap Rp9,5 miliar sejak Juni 2026."
+  ],
+  "fotoAdegan": "A cable-laying vessel anchored off an Indonesian coastline, crew handling large spools of undersea fiber optic cable, overcast sky.",
+  "takeaway": "Penjelasan ini netral bagi fundamental INET karena pengalihan saham berlangsung antara AKUN dan CNI sebagai pemegang saham, tanpa ada dana segar yang masuk ke kas Perseroan atau perubahan pengendali yang memicu kewajiban baru. Yang perlu disimak dari sisi laporan keuangan adalah cadangan kerugian piutang yang tetap Rp9,5 miliar meski ada Rp68,9 miliar piutang yang sudah lewat jatuh tempo, termasuk Rp14,5 miliar yang menunggak lebih dari setahun. Cadangan ini penting karena menentukan seberapa besar laba yang harus dikurangi kalau sebagian piutang itu akhirnya tidak tertagih, sehingga kalau cadangannya kurang, laba mendatang bisa tergerus lebih dalam saat perusahaan akhirnya mengakui kerugiannya. Hal lain yang disebut Perseroan adalah rencana pelunasan obligasi dan sukuk senilai total Rp406,50 miliar pada Februari 2027 yang masih mengandalkan penerbitan surat utang baru, bukan kas yang sudah tersedia sekarang. Yang pantas dipantau selanjutnya adalah realisasi penerbitan obligasi dan sukuk berkelanjutan tahap pertama sebelum jatuh tempo Februari 2027, serta kemungkinan penilaian tambahan atas piutang bermasalah pada laporan keuangan 31 Desember 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-31",
+    "acara": "Potensi tambahan cadangan kerugian piutang pada laporan keuangan"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-bold-9-desember-restrukturisasi-obligasi-diajukan-emiten",
+  "category": "Aksi Korporasi",
+  "title": "RUPO BOLD 9 Desember: [Restrukturisasi] Obligasi Diajukan Emiten",
+  "deck": "BUMA mengundang pemegang Obligasi I BUMA 2023 ke RUPO 9 Desember untuk menyetujui perpanjangan jatuh tempo, perubahan bunga, dan pengesampingan rasio keuangan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T14:40:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BOLD_E019_cc8bcc9c-4218-4f1d-bd0c-37209025920b-20261125144052.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "RUPO",
+   "Restrukturisasi Obligasi",
+   "Obligasi I BUMA 2023"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BUMA, kode saham BOLD) melalui wali amanat PT Bank Rakyat Indonesia (Persero) Tbk mengundang para pemegang Obligasi I BUMA Tahun 2023 untuk menghadiri Rapat Umum Pemegang Obligasi (RUPO) pada Rabu, 9 Desember 2026, pukul 10.00 WIB, di Financial Hall, Lantai 2, Graha CIMB Niaga, Jalan Jenderal Sudirman Kavling 58, Jakarta Selatan. Rapat ini diselenggarakan atas usulan BUMA sendiri selaku emiten, dengan tiga agenda utama: persetujuan perpanjangan jadwal pelunasan pokok obligasi, persetujuan perubahan tingkat bunga obligasi, serta persetujuan pengesampingan ketentuan rasio keuangan (financial covenant) untuk tahun buku yang berakhir 31 Desember 2026 dan 31 Desember 2027.",
+   "RUPO baru sah dilangsungkan jika dihadiri atau diwakili pemegang obligasi yang menguasai paling sedikit tiga perempat dari jumlah obligasi yang masih belum dilunasi, dan keputusan baru mengikat jika disetujui paling sedikit tiga perempat dari obligasi yang hadir dalam rapat. Pemegang obligasi yang berhak hadir dan punya hak suara adalah yang namanya tercatat dalam Daftar Pemegang Obligasi yang dikeluarkan KSEI, empat hari kerja sebelum tanggal RUPO. Obligasi yang dimiliki BUMA sendiri atau pihak afiliasinya tidak punya hak suara dan tidak dihitung dalam kuorum. Peserta rapat wajib membawa Konfirmasi Tertulis dari KSEI, surat kuasa asli bila diwakilkan, surat pernyataan hubungan afiliasi, dan fotokopi identitas yang masih berlaku.",
+   "Panggilan RUPO ini terbit dua hari setelah PEFINDO memangkas peringkat BOLD dari idBBB ke idB disertai status CreditWatch negatif, dengan proses restrukturisasi yang juga dijadwalkan pada tanggal yang sama, 9 Desember 2026. Agenda permintaan perpanjangan jatuh tempo pokok, perubahan bunga, dan pengesampingan rasio keuangan untuk dua tahun buku berturut dalam RUPO ini konsisten dengan proses restrukturisasi utang yang sebelumnya sudah diberitakan terkait emiten ini."
+  ],
+  "fotoAdegan": "Large yellow mining haul trucks moving along a dusty road inside an open-pit coal mine, overcast sky",
+  "takeaway": "Laporan ini condong negatif bagi BUMA, karena permintaan perpanjangan jatuh tempo pokok, perubahan bunga, dan terutama pengesampingan rasio keuangan untuk dua tahun buku berturut menunjukkan perusahaan memperkirakan tidak akan mampu memenuhi syarat utangnya, sejalan dengan pemangkasan peringkat PEFINDO ke idB yang sudah diberitakan sebelumnya. Yang tersentuh adalah arus kas, yaitu uang yang masuk dan keluar dari kas perusahaan untuk membayar utang, karena jadwal pelunasan yang mundur berarti beban utang ditanggung lebih lama, dan juga beban bunga, yakni biaya yang harus dibayar perusahaan atas pinjamannya, yang bisa berubah naik atau turun tergantung hasil negosiasi dengan pemegang obligasi. Rasio keuangan atau financial covenant sendiri adalah syarat sehat keuangan yang disepakati saat obligasi diterbitkan, dan kalau dilanggar biasanya memicu status gagal bayar lebih cepat, sehingga permintaan pengesampingan ini jadi sinyal tekanan keuangan yang nyata. Yang perlu dipantau berikutnya adalah hasil RUPO pada 9 Desember 2026, yaitu apakah pemegang obligasi yang menguasai minimal tiga perempat dari total obligasi yang belum dilunasi hadir dan menyetujui proposal restrukturisasi ini.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-09",
+    "acara": "RUPO Obligasi I BUMA Tahun 2023"
+   }
+  ]
+ },
+ {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-2027",
   "category": "Makroekonomi",
   "title": "RI-Uni Eropa Teken IEU-CEPA, Berlaku [2027]",
@@ -21794,8 +22024,8 @@ var ARTICLES = [
  {
   "slug": "bmhs-jadwalkan-rupslb-pada-17-desember-2026",
   "category": "Aksi Korporasi",
-  "title": "BMHS Jadwalkan [RUPSLB] pada 17 Desember 2026",
-  "deck": "Bundamedik (BMHS) mengumumkan rencana RUPSLB 17 Desember 2026, dengan batas pencatatan pemegang saham pada 24 November.",
+  "title": "RUPSLB BMHS 17 Desember: [Agenda] Rombak Susunan Pengurus",
+  "deck": "Pemanggilan resmi RUPSLB BMHS terbit 25 November 2026, mengungkap agenda tunggal rapat 17 Desember: persetujuan perubahan susunan direksi dan komisaris.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T18:18:31",
@@ -21806,16 +22036,37 @@ var ARTICLES = [
    "BMHS",
    "RUPSLB",
    "Bundamedik",
-   "pasar modal"
+   "Pengurus"
   ],
   "body": [
-   "PT Bundamedik Tbk (BMHS) mengumumkan rencana menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026 pukul 10.00 WIB di Auditorium BMHS-Diagnos Tower. Agenda lengkap rapat belum diumumkan dalam surat ini. Perseroan menyebut pemanggilan resmi yang memuat mata acara rapat baru akan diterbitkan pada 25 November 2026 melalui situs Bursa Efek Indonesia, situs perseroan sendiri, dan situs Kustodian Sentral Efek Indonesia (KSEI) atau aplikasi eASY.KSEI.",
-   "Pemegang saham yang berhak hadir dan memberi suara dalam RUPSLB adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau pemegang saham dalam penitipan kolektif di KSEI sampai dengan 24 November 2026 pukul 16.00 WIB. Bagi pemegang saham yang ingin mengusulkan mata acara rapat, usulan tertulis harus disampaikan kepada Direksi paling lambat tujuh hari sebelum tanggal pemanggilan, yakni sekitar 18 November 2026, dan harus memenuhi syarat kepemilikan yang diatur dalam Anggaran Dasar Perseroan serta POJK No. 15/2020.",
-   "Rapat akan digelar secara fisik dengan kapasitas terbatas sekaligus secara elektronik. Perseroan menganjurkan pemegang saham hadir dan memberi suara lewat Electronic General Meeting System atau eASY.KSEI, atau memberikan kuasa elektronik (e-proxy) melalui eASY.KSEI kepada PT Datindo Entrycom selaku Biro Administrasi Efek yang juga ditunjuk sebagai penerima kuasa independen. Surat pemberitahuan ini ditandatangani oleh Corporate Secretary BMHS, Josephine Tobing, pada 10 November 2026."
+   "PT Bundamedik Tbk (BMHS) menerbitkan pemanggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 25 November 2026. Pemanggilan ini sekaligus membuka agenda yang sebelumnya belum diumumkan: satu-satunya mata acara RUPSLB adalah persetujuan perubahan susunan pengurus perseroan, tanpa menyebut nama direksi atau komisaris yang akan masuk atau keluar.",
+   "RUPSLB akan digelar Kamis, 17 Desember 2026 pukul 10.00 WIB di Auditorium BMHS-Diagnos Tower. Pemegang saham yang berhak hadir dan memberi suara adalah yang namanya tercatat di Daftar Pemegang Saham Perseroan atau dalam penitipan kolektif KSEI sampai dengan 24 November 2026 pukul 16.00 WIB, sesuai dengan batas pencatatan yang sudah diumumkan sejak surat pemberitahuan rencana rapat pada 10 November 2026.",
+   "Rapat dibantu oleh notaris Jose Dima Satria, S.H., M.Kn dan Biro Administrasi Efek PT Datindo Entrycom. Perseroan menganjurkan pemegang saham memberi suara lewat eASY.KSEI, baik hadir elektronik maupun memberikan kuasa elektronik (e-Proxy) kepada Datindo Entrycom sebagai penerima kuasa independen, atau menggunakan surat kuasa konvensional yang formulirnya tersedia di situs perseroan.",
+   "Bahan mata acara rapat dapat diakses di situs resmi BMHS dan situs Akses KSEI sejak tanggal pemanggilan ini hingga hari pelaksanaan rapat. Perseroan menegaskan tidak mengirim undangan tersendiri kepada pemegang saham, sehingga iklan pemanggilan ini berlaku sebagai undangan resmi bagi seluruh pemegang saham."
   ],
   "fotoAdegan": "Exterior view of a modern multi-story hospital building in Jakarta, parked cars in the foreground, soft midday sunlight.",
-  "takeaway": "Laporan ini netral bagi BMHS karena isinya baru pemberitahuan rencana RUPSLB, sementara mata acara yang sebenarnya akan dibahas belum diumumkan sehingga belum ada dasar untuk menilai arahnya. Karena agenda resmi belum terbuka, pasar juga belum bisa menilai pos kinerja mana yang akan tersentuh, misalnya jumlah saham beredar kalau nanti agendanya soal penerbitan saham baru, atau arus kas kalau agendanya soal dividen atau pendanaan, semua itu baru terlihat setelah pemanggilan resmi keluar. Yang perlu dipantau pemegang saham adalah pemanggilan resmi pada 25 November 2026 yang akan memuat agenda lengkap, tenggat pengajuan usul mata acara oleh pemegang saham sekitar 18 November 2026, dan batas pencatatan pemegang saham pada 24 November 2026 pukul 16.00 WIB bagi yang ingin punya hak suara di rapat 17 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini netral bagi BMHS: agendanya memang mengungkap bahwa RUPSLB 17 Desember akan membahas perubahan susunan pengurus, tapi dokumen tidak menyebut nama yang akan masuk atau keluar sehingga dampaknya terhadap arah bisnis belum bisa dinilai. Perubahan pengurus menyentuh sisi tata kelola dan kepemimpinan strategis perusahaan, bukan langsung pos keuangan seperti ekuitas atau arus kas, tapi pelaku pasar tetap memperhatikannya karena pergantian direksi atau komisaris bisa mengubah arah strategi dan kebijakan perusahaan ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 17 Desember 2026, saat nama-nama yang diusulkan masuk atau keluar dari jajaran direksi dan komisaris akan diumumkan dan disahkan secara resmi.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T15:58:58",
+    "ringkas": "Pemanggilan resmi RUPSLB BMHS terbit, agendanya tunggal yakni persetujuan perubahan susunan direksi dan komisaris.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BMHS_E002_6a5423f1-ed29-4275-88e3-f2bdb2dc1abc-20261125155900.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-25T15:58:58",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Batas pencatatan pemegang saham berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "RUPSLB BMHS, agenda perubahan susunan pengurus"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "iiff-catatkan-obligasi-rp1-7-triliun-di-bei-mulai-11-november",
@@ -67128,8 +67379,8 @@ var ARTICLES = [
  {
   "slug": "jecx-jadwalkan-rupslb-pada-23-november-2026",
   "category": "Aksi Korporasi",
-  "title": "JECX Jadwalkan [RUPSLB] pada 23 November 2026",
-  "deck": "PT Nitrasanata Dharma Tbk akan menggelar RUPSLB pada 23 November 2026, dengan pemegang saham per 29 Oktober berhak hadir.",
+  "title": "RUPSLB JECX 23 November: [Direksi dan Komisaris] Berganti",
+  "deck": "RUPSLB PT Nitrasanata Dharma Tbk (JECX) pada 23 November 2026 menyetujui pergantian direksi dan komisaris serta menunjuk KAP baru, seluruhnya disetujui 100 persen oleh pemegang saham yang hadir.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "15 Oktober 2026",
   "isoDate": "2026-10-15T09:09:22",
@@ -67139,17 +67390,29 @@ var ARTICLES = [
   "tags": [
    "JECX",
    "RUPSLB",
-   "Nitrasanata Dharma",
-   "Rapat Umum Pemegang Saham"
+   "Pergantian Direksi",
+   "Pergantian Komisaris"
   ],
   "body": [
-   "PT Nitrasanata Dharma Tbk (JECX) mengumumkan rencana Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 23 November 2026, pukul 09.00 WIB, bertempat di Auditorium Istiantoro Lantai 8, RS Mata JEC Kedoya, Jalan Terusan Arjuna Utara No. 1, Jakarta Barat. Pemegang saham yang berhak hadir atau diwakili dalam rapat adalah yang namanya tercatat dalam Daftar Pemegang Saham (DPS) per Kamis, 29 Oktober 2026 pukul 16.00 WIB. Surat pemanggilan resmi yang memuat agenda lengkap rapat baru akan diterbitkan lewat situs web KSEI, Bursa Efek Indonesia, dan situs perusahaan pada Jumat, 30 Oktober 2026, sehingga isi agenda RUPSLB belum diketahui publik saat pengumuman ini terbit.",
-   "Perusahaan membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat. Usulan harus diajukan secara tertulis kepada direksi paling lambat tujuh hari sebelum tanggal pemanggilan resmi, yaitu Jumat, 23 Oktober 2026. Syaratnya, usulan harus didukung oleh satu atau lebih pemegang saham yang bersama-sama memegang minimal 1/20 atau setara 5 persen dari total saham dengan hak suara, diajukan dengan itikad baik, disertai alasan dan bahan usulan, serta tidak bertentangan dengan peraturan dan anggaran dasar perusahaan.",
-   "Perusahaan juga mendorong pemegang saham memberikan kuasa secara elektronik melalui fasilitas eASY.KSEI, yang tersedia mulai tanggal pemanggilan rapat hingga satu hari kerja sebelum RUPSLB berlangsung, yaitu Jumat, 20 November 2026. Pengumuman ini diterbitkan pada 15 Oktober 2026 atas nama direksi perusahaan, dengan Muharyanto selaku Corporate Secretary PT Nitrasanata Dharma Tbk sebagai pengirim laporan ke bursa."
+   "PT Nitrasanata Dharma Tbk (JECX) resmi mengganti satu direktur dan satu komisaris serta menunjuk kantor akuntan publik baru, setelah Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Senin, 23 November 2026, menyetujui seluruh usulan tersebut. Rapat yang berlangsung di Auditorium Istiantoro Lantai 9, RS Mata JEC Kedoya, Jakarta Barat, itu dihadiri pemegang saham yang mewakili 2.181.411.697 saham atau 67,05 persen dari total 3.253.222.300 saham berhak suara, dan ketiga mata acara disetujui bulat 100 persen tanpa suara menolak atau abstain.",
+   "Pada mata acara pertama, RUPSLB menerima pengunduran diri Budi Djatmiko Musaffa dari jabatan Direktur Perseroan, dan mengangkat Pricilla Rosita sebagai Direktur yang membidangi keuangan, efektif sejak penutupan rapat hingga penutupan RUPS Tahunan 2031. Dengan perubahan ini, susunan Direksi JECX kini terdiri dari Presiden Direktur Johan A.M.M. Hutauruk, Direktur Tjahjono Darminto Gondhowiardjo, Direktur Titin Prihatiningsih, Direktur Ngo Adrian, dan Direktur Pricilla Rosita.",
+   "Pada mata acara kedua, RUPSLB memberhentikan dengan hormat Agus Hermawan Istiantoro dari jabatan Komisaris, efektif sejak penutupan rapat. Susunan Dewan Komisaris yang baru terdiri dari Presiden Komisaris Darwan Madja Purba, Komisaris Admar Anwar, Komisaris Jusup Halimi, Komisaris Independen Yustina Peniyanti Jap, dan Komisaris Independen Heri Sunaryadi, dengan masa jabatan hingga RUPS Tahunan 2031.",
+   "Pada mata acara ketiga, pemegang saham menunjuk Kantor Akuntan Publik Purwanto Susanti dan Surja beserta akuntan publik Damestar Hutagalung untuk mengaudit laporan keuangan konsolidasian JECX untuk tahun buku yang berakhir 31 Desember 2026. Dewan Komisaris diberi kuasa menetapkan honorarium serta menunjuk auditor pengganti jika KAP yang ditunjuk tidak dapat menyelesaikan audit tersebut.",
+   "RUPSLB ini merupakan kelanjutan dari pengumuman rencana rapat yang diterbitkan JECX pada 15 Oktober 2026, saat agenda rapat belum diumumkan. Perusahaan sempat menerima usulan penambahan mata acara dari PT Sarana Meditama Metropolitan Tbk dan PT Magna Selaras Lestari pada 23 Oktober 2026 mengenai perubahan susunan Dewan Komisaris, yang kemudian dimasukkan ke surat pemanggilan resmi yang terbit 30 Oktober 2026. Risalah lengkap rapat saat ini masih dituangkan dalam akta notaris yang disusun Aulia Taufani, S.H., dan salinannya masih dalam proses penyelesaian."
   ],
   "fotoAdegan": "Waiting area of a modern ophthalmology clinic in Jakarta, patients seated under soft ambient lighting, wide angle shot",
-  "takeaway": "Laporan ini netral bagi JECX, karena baru memberitahukan rencana RUPSLB tanpa mengungkap agenda rapatnya, sehingga belum ada informasi yang bisa dinilai berdampak pada kinerja perusahaan. Pos kinerja yang tersentuh baru akan jelas setelah surat pemanggilan resmi terbit, kalau agendanya menyangkut penambahan modal seperti rights issue, jumlah saham beredar bisa bertambah dan itu berpotensi menggerus laba per saham karena keuntungan perusahaan terbagi ke lebih banyak lembar saham, sementara kalau agendanya hanya soal pergantian pengurus, dampaknya ke laporan keuangan nyaris tidak ada. Yang perlu dipantau pemegang saham adalah dua tanggal konkret, tenggat pengajuan usulan mata acara rapat pada Jumat, 23 Oktober 2026, dan terbitnya surat pemanggilan resmi berisi agenda lengkap pada Jumat, 30 Oktober 2026, sebelum RUPSLB sendiri digelar Senin, 23 November 2026.",
-  "sentimen": "netral"
+  "takeaway": "Laporan hasil RUPSLB ini netral bagi JECX, karena seluruh keputusan hanya mengganti satu direktur dan satu komisaris serta menunjuk auditor baru, bukan aksi korporasi yang langsung mengubah neraca atau arus kas perusahaan. Pos kinerja yang nyaris tak tersentuh adalah jumlah saham beredar dan ekuitas, sebab pergantian pengurus tidak menambah satu pun lembar dari total 3.253.222.300 saham JECX, sehingga laba per saham pemegang saham lama tidak berubah akibat keputusan ini. Yang justru layak dicermati adalah posisi direktur keuangan yang sekarang dipegang Pricilla Rosita sejak 23 November 2026, karena dialah yang akan ikut bertanggung jawab atas laporan keuangan berikutnya. Yang perlu dipantau pemegang saham selanjutnya adalah hasil audit Kantor Akuntan Publik Purwanto Susanti dan Surja atas laporan keuangan konsolidasian JECX untuk tahun buku yang berakhir 31 Desember 2026, karena itu laporan keuangan pertama di bawah susunan direksi dan komisaris yang baru.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T15:23:17",
+    "ringkas": "RUPSLB JECX menyetujui pergantian satu direktur dan satu komisaris serta menunjuk KAP baru, seluruhnya disetujui 100 persen.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_JECX_E013_a83631dc-a8d2-4087-a619-3caccd67a00a-20261125152319.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-25T15:23:17",
+  "peristiwa": "rups"
  },
  {
   "slug": "dsng-tak-ada-dampak-karhutla-ke-operasional-sawit",

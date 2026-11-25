@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "public-expose-mdki-30-november-pangsa-pasar-tergerus-impor",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose MDKI 30 November: [Pangsa Pasar] Tergerus Impor",
+  "deck": "MDKI menjadwalkan Public Expose Tahunan 2026 pada 30 November di Gresik, memaparkan pendapatan yang terus menyusut sejak 2023 dan pangsa pasar domestik yang tergerus impor ke 30 persen.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDKI",
+   "Public Expose",
+   "Karbit",
+   "Emdeki Utama"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_MDKI_E003_729e0ddc-8846-4438-91bd-ea8f254c30a4-20261125154222.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-bsim-1-desember-laba-9m26-turun-14-9",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BSIM 1 Desember: [Laba] 9M26 Turun 14,9%",
+  "deck": "Materi Public Expose Tahunan Bank Sinarmas memuat kinerja 9 bulan 2026: laba sebelum pajak turun 14,92% jadi Rp320 miliar akibat tekanan margin bunga, meski kualitas kredit membaik.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BSIM",
+   "Bank Sinarmas",
+   "Public Expose",
+   "Laba Bank"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BSIM_E003_0283858d-19f4-4b51-b1c4-84658eeb2c57-20261125154144.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-bbkp-30-november-rugi-rp197-miliar-di-9m26",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose BBKP 30 November: [Rugi] Rp197 Miliar di 9M26",
+  "deck": "Materi public expose BBKP untuk periode Januari-September 2026 menunjukkan rugi bersih Rp197 miliar, berbalik dari laba periode sama tahun lalu, meski pendapatan bunga bersih tumbuh 28,9 persen.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBKP",
+   "KB Bank",
+   "Public Expose",
+   "Kinerja Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BBKP_E003_c94a1536-cd1f-4132-8716-9b2889cf5088-20261125152749.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dmmx-direktur-niko-navea-aquino-mundur-keputusan-di-rups",
+  "category": "Aksi Korporasi",
+  "title": "DMMX: Direktur Niko Navea Aquino [Mundur], Keputusan di RUPS",
+  "deck": "Direktur PT Digital Mediatama Maxima Tbk, Niko Navea Aquino, mengajukan pengunduran diri efektif 20 November 2026. Keputusan final menunggu RUPS terdekat.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DMMX",
+   "pengunduran diri direksi",
+   "Digital Mediatama Maxima",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_DMMX_E019_ff0a84d3-5516-4dc1-abb4-6d76ad5795b9-20261125152615.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "public-expose-smma-laba-9-bulan-rp2-33-triliun-roe-10-81",
+  "category": "Aksi Korporasi",
+  "title": "[Public Expose] SMMA: Laba 9 Bulan Rp2,33 Triliun, ROE 10,81%",
+  "deck": "Materi Public Expose Tahunan 2026 SMMA menunjukkan laba sembilan bulan ke SMMA naik jadi Rp2,33 triliun, dengan ROE melonjak dari 2,44 persen ke 10,81 persen.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMMA",
+   "Public Expose",
+   "Sinar Mas Multiartha",
+   "Laporan Keuangan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_SMMA_E003_cb31c214-7bd4-402c-8411-337de804ba11-20261125152515.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "inet-akun-jual-29-87-saham-ke-cni-pengendali-tak-berubah",
+  "category": "Aksi Korporasi",
+  "title": "INET: AKUN Jual 29,87% Saham ke CNI, [Pengendali] Tak Berubah",
+  "deck": "AKUN melepas 29,87 persen saham INET ke CNI senilai Rp2,01 triliun, namun status pengendali tak berubah karena selisih kepemilikan hanya 0,02 persen.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "INET",
+   "AKUN",
+   "CNI",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_INET_E023A_573c6595-d382-40b1-8dde-94cf1599352c-20261125150546.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-bold-9-desember-restrukturisasi-obligasi-diajukan-emiten",
+  "category": "Aksi Korporasi",
+  "title": "RUPO BOLD 9 Desember: [Restrukturisasi] Obligasi Diajukan Emiten",
+  "deck": "BUMA mengundang pemegang Obligasi I BUMA 2023 ke RUPO 9 Desember untuk menyetujui perpanjangan jatuh tempo, perubahan bunga, dan pengesampingan rasio keuangan.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "RUPO",
+   "Restrukturisasi Obligasi",
+   "Obligasi I BUMA 2023"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_BOLD_E019_cc8bcc9c-4218-4f1d-bd0c-37209025920b-20261125144052.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-2027",
   "category": "Makroekonomi",
   "title": "RI-Uni Eropa Teken IEU-CEPA, Berlaku [2027]",
@@ -6375,125 +6487,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-3207-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-gtbo-18-november-rkab-disetujui-kuota-817-900-ton",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose GTBO: [Capex] Didanai Bank Singapura, Uang Muka Pembeli",
-  "deck": "Hasil Public Expose GTBO 18 November: capex didanai pinjaman bank Singapura dan uang muka pembeli, serta diversifikasi produk bersih masih dikaji.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "GTBO",
-   "Public Expose",
-   "RKAB",
-   "Batu Bara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b912035ab7_3387f78b00.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii",
-  "category": "BUMN",
-  "title": "InfraNexia Cetak Laba [Rp1,04] Triliun hingga Kuartal III",
-  "deck": "Anak usaha operasional Telkom ini membukukan pendapatan Rp10,5 triliun dan laba bersih Rp1,04 triliun hingga kuartal III 2026, ditopang kenaikan pelanggan di luar TelkomGroup.",
-  "date": "17 November 2026",
-  "image": "assets/img/infranexia-cetak-laba-rp1-04-triliun-hingga-kuartal-iii.jpg",
-  "imageV": "mwkcyg03",
-  "tags": [
-   "InfraNexia",
-   "Telkom Indonesia",
-   "TelkomGroup",
-   "infrastruktur telekomunikasi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478802-infranexia-raup-pendapatan-rp105-triliun-laba-bersih-tembus-rp1-triliun"
- },
- {
-  "slug": "inet-cakrawala-nexus-akuisisi-6-68-miliar-saham-suara-29-87",
-  "category": "Aksi Korporasi",
-  "title": "INET: Abadi Kreasi [Jual] 6,685 Miliar Saham, Suara Susut ke 29,89%",
-  "deck": "PT Abadi Kreasi Unggul Nusantara, yang sebelumnya menguasai 59,76% suara INET, melepas 6,685 miliar saham lewat perjanjian repo Rp300 per saham, hak suaranya kini 29,89%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INET",
-   "laporan kepemilikan",
-   "Abadi Kreasi Unggul Nusantara",
-   "Cakrawala Nexus Investama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-4304-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "wacana-larang-vape-pengamat-ingatkan-dampak-investasi",
-  "category": "Industri",
-  "title": "Wacana Larang Vape, Pengamat Ingatkan Dampak [Investasi]",
-  "deck": "Pengamat kebijakan publik meminta pemerintah mengkaji menyeluruh wacana pelarangan vape, mengingat industri ini menyumbang cukai Rp2,84 triliun dan menyerap 150 ribu tenaga kerja.",
-  "date": "17 November 2026",
-  "image": "assets/img/wacana-larang-vape-pengamat-ingatkan-dampak-investasi.jpg",
-  "imageV": "mwkcygc8",
-  "tags": [
-   "vape",
-   "rokok elektrik",
-   "cukai",
-   "industri"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478796-soal-wacana-pelarangan-vape-pengamat-ingatkan-dampak-investasi-dan-tenaga-kerja"
- },
- {
-  "slug": "pemerintah-targetkan-elektrifikasi-100-persen-pada-2029",
-  "category": "Energi",
-  "title": "Pemerintah Targetkan Elektrifikasi [100] Persen pada 2029",
-  "deck": "Harga Pertalite, Biosolar, dan LPG 3 kg bersubsidi ditahan hingga September 2026, sambil memperluas bantuan listrik gratis bagi keluarga prasejahtera.",
-  "date": "17 November 2026",
-  "image": "assets/img/pemerintah-targetkan-elektrifikasi-100-persen-pada-2029.jpg",
-  "imageV": "mwk63j1h",
-  "tags": [
-   "elektrifikasi",
-   "subsidi energi",
-   "BPBL",
-   "ESDM"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-meja-ktt-asean-tiongkok-ke-rumah-warga-energi-jadi-penggerak-kesejahteraan",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "presiden-prabowo-tawarkan-mineral-kritis-ke-semikonduktor-korea",
-  "category": "Energi",
-  "title": "Presiden Prabowo Tawarkan Mineral Kritis ke [Semikonduktor] Korea",
-  "deck": "Presiden Prabowo mengajak Korea Selatan menjadikan hilirisasi mineral kritis bagian dari rantai pasok industri semikonduktor, dalam KTT ASEAN-Korea Selatan di Manila.",
-  "date": "17 November 2026",
-  "image": "assets/img/presiden-prabowo-tawarkan-mineral-kritis-ke-semikonduktor-korea.jpg",
-  "imageV": "mwk63kn0",
-  "tags": [
-   "Hilirisasi",
-   "Mineral Kritis",
-   "Semikonduktor",
-   "Korea Selatan"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-tambang-ke-chip-indonesia-tawarkan-hilirisasi-mineral-kritis-untuk-industri-semikonduktor-korea",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "paviliun-bumbu-ri-di-tokyo-catat-potensi-transaksi-rp5-4-m",
-  "category": "UMKM",
-  "title": "Paviliun Bumbu RI di Tokyo Catat [Potensi] Transaksi Rp5,4 M",
-  "deck": "Paviliun S'RASA Kemendag membukukan potensi transaksi US$303.730 di pameran JFEX Winter 2026 Tokyo, didukung satu MoU ekspor gula aren senilai US$5.700.",
-  "date": "17 November 2026",
-  "image": "assets/img/paviliun-bumbu-ri-di-tokyo-catat-potensi-transaksi-rp5-4-m.jpg",
-  "imageV": "mwk63phu",
-  "tags": [
-   "Ekspor",
-   "UMKM",
-   "Jepang",
-   "Kemendag"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-srasa-hadir-di-jfex-2026-jepang-bumbu-nusantara-bukukan-potensi-transaksi-rp54-m",
-  "sourceLabel": "Kementerian Perdagangan"
  }
 ];

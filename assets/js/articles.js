@@ -31,6 +31,93 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "wifi-jawab-bursa-isb-sgk-terafiliasi-transaksi-bukan-repo",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Jawab Bursa: ISB-SGK Terafiliasi, Transaksi Bukan [Repo]",
+  "deck": "Solusi Sinergi Digital menjelaskan ke BEI bahwa jual beli 1,42 miliar saham WIFI oleh ISB dan SGK pada harga sama bukan skema repo atau perjanjian beli kembali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T11:06:54",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_WIFI_E023A_c3c227cc-0e48-4765-988e-129173ed7803-20261125110656.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WIFI",
+  "tags": [
+   "WIFI",
+   "Solusi Sinergi Digital",
+   "BEI",
+   "pemegang saham terafiliasi"
+  ],
+  "body": [
+   "PT Solusi Sinergi Digital Tbk (WIFI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia menyusul surat permintaan penjelasan BEI bernomor S-14519/BEI.PP3/11-2026 tanggal 23 November 2026, terkait transaksi jual beli saham antara PT Investasi Sukses Bersama (ISB) dan PT Sinergi Graha Kapital (SGK). Berdasarkan kronologi yang disampaikan perseroan, pada 19 Oktober 2026 ISB mengalihkan 1.415.652.000 saham WIFI kepada SGK pada harga Rp2.870 per saham. Sebulan kemudian, tepatnya 19 November 2026, SGK mengalihkan kembali seluruh saham tersebut kepada ISB dalam jumlah dan harga yang sama, sehingga struktur kepemilikan kembali seperti sebelum Oktober 2026.",
+   "Perseroan menegaskan dirinya bukan pihak dalam kedua transaksi tersebut, tidak terlibat dalam negosiasi, dan tidak ada dana, aset, atau saham baru perseroan yang terpakai. Perusahaan menjelaskan bahwa transaksi Oktober merupakan penataan ulang struktur kepemilikan di dalam kelompok usaha pemegang saham, sementara transaksi November adalah pembalikan dari transaksi itu, sehingga harga dan jumlah saham sengaja dibuat identik dan tidak menimbulkan untung atau rugi bagi kedua pihak. Perseroan juga mengonfirmasi bahwa ISB dan SGK adalah pihak terafiliasi sesuai UU Pasar Modal, namun menegaskan tidak ada opsi jual, opsi beli, hak beli kembali, commitment letter, side agreement, maupun skema repurchase agreement (repo) atau fasilitas pendanaan apa pun yang mengikat pengalihan kembali saham tersebut ke ISB.",
+   "Karena kedua transaksi dilakukan di luar perseroan dan antar pemegang saham, perusahaan menyatakan transaksi ini tidak tergolong transaksi afiliasi atau transaksi yang mengandung benturan kepentingan menurut POJK 42/2020, dan juga bukan transaksi material menurut POJK 17/2020. Surat tanggapan ditandatangani oleh Direktur Utama Shannedy Ong dan disampaikan melalui sistem e-Reporting BEI pada 25 November 2026."
+  ],
+  "fotoAdegan": "Technicians installing fiber optic cables on a utility pole along a busy Jakarta residential street at midday",
+  "takeaway": "Penilaian saya netral, karena seluruh perputaran 1,42 miliar saham ini terjadi di luar perseroan, tanpa dana, aset, atau penerbitan saham baru dari WIFI, sehingga jumlah saham beredar dan laba per saham perusahaan tidak berubah sama sekali. Yang tersentuh di sini bukan pos keuangan perseroan, melainkan struktur pengendalian di level pemegang saham, karena ISB dan SGK yang terafiliasi, sehingga publik perlu tahu siapa sebenarnya yang mengendalikan saham mayoritas WIFI meski namanya bergeser sementara. Pola jual lalu beli balik dalam waktu sebulan dengan harga identik memang wajar memicu kecurigaan sebagai praktik semacam gadai atau pinjam-meminjam saham berkedok jual beli, dan itulah yang membuat Bursa mengirim surat permintaan penjelasan ini. Perseroan membantah ada perjanjian tertulis atau lisan yang mengikat pembelian kembali tersebut, tetapi pengakuan bahwa ISB dan SGK terafiliasi serta bahwa harga Rp2.870 per saham hanya mengikuti transaksi awal tanpa penilaian baru tetap layak dipantau. Yang perlu diikuti selanjutnya adalah apakah Bursa menerima penjelasan ini sebagai final atau akan meminta klarifikasi lanjutan, mengingat pola transaksi semacam ini kerap jadi perhatian otoritas pasar modal.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "esti-jelaskan-volatilitas-saham-ke-bei-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "ESTI Jelaskan Volatilitas Saham ke BEI: [Tak Ada] Informasi Material",
+  "deck": "BEI minta klarifikasi atas pergerakan harga saham ESTI; perseroan menyatakan tak ada informasi material, rencana aksi korporasi, maupun perubahan pemegang saham utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T11:01:46",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ESTI_E023A_c268f6a0-6035-4bb4-bd4d-e807082aa664-20261125110148.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ESTI",
+  "tags": [
+   "ESTI",
+   "Ever Shine Textile",
+   "UMA",
+   "volatilitas saham"
+  ],
+  "body": [
+   "Ever Shine Textile Industry Tbk (ESTI) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia melalui surat Nomor 116/EST/XI/26 tertanggal 25 November 2026, menjawab permintaan penjelasan BEI Nomor S-14447/BEI.PP3/11-2026 tanggal 23 November 2026 terkait volatilitas transaksi efek ESTI. Dalam suratnya, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efeknya, baik menurut Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi maupun Peraturan BEI Nomor I-E tentang kewajiban penyampaian informasi. Perseroan menyebut operasinya berjalan seperti biasa tanpa kejadian luar biasa yang berdampak signifikan terhadap harga saham.",
+   "Terkait kemungkinan ada pemegang saham tertentu yang bertransaksi dalam jumlah signifikan, perseroan menyatakan tidak memiliki informasi semacam itu, namun akan melaporkannya sesuai POJK Nomor 11/POJK.04/2017 tentang laporan kepemilikan apabila ambang batas yang diatur terlampaui. ESTI juga menegaskan belum ada rencana aksi korporasi yang berpotensi memengaruhi status pencatatan sahamnya di Bursa setidaknya dalam tiga bulan mendatang. Khusus soal rencana pemegang saham utama, Corporate Secretary ESTI, Erlien Lindawati, menyatakan telah berkomunikasi langsung dengan pemegang saham utama dan belum ada rencana perubahan kepemilikan saham utama dalam waktu dekat.",
+   "Surat ini merupakan jenis keterbukaan yang lazim diminta BEI ketika harga atau volume perdagangan suatu saham bergerak di luar kebiasaan, dikenal sebagai permintaan penjelasan atas Unusual Market Activity (UMA). Dengan jawaban yang seluruhnya menyatakan tidak ada informasi material, ESTI secara formal menutup kemungkinan bahwa pergerakan transaksi sahamnya didasari peristiwa fundamental yang belum terungkap ke publik."
+  ],
+  "fotoAdegan": "Rows of workers operating industrial sewing machines in a garment factory hall, fabric rolls stacked nearby, fluorescent light",
+  "takeaway": "Penilaian saya netral, karena isi surat ini murni klarifikasi rutin tanpa angka atau keputusan baru yang mengubah kondisi keuangan ESTI. Pos yang disentuh sebenarnya bukan laporan keuangan, melainkan struktur kepemilikan dan rencana aksi korporasi, dua hal yang pelaku pasar pantau karena bisa menambah jumlah saham beredar atau mengubah siapa yang mengendalikan perusahaan jika suatu saat terjadi. Yang perlu dipantau berikutnya adalah apakah dalam tiga bulan ke depan, sesuai pernyataan perseroan sendiri, benar tidak muncul aksi korporasi apa pun, dan apakah ada perubahan kepemilikan pemegang saham utama yang nantinya wajib diumumkan sesuai POJK 11/2017. Investor sebaiknya mencatat bahwa pergerakan harga saham yang memicu surat BEI ini, menurut perseroan, tidak didukung oleh informasi fundamental apa pun yang mereka ketahui.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "agii-pelunasan-dana-rp63-3-miliar-untuk-obligasi-sukuk-22-des",
+  "category": "Aksi Korporasi",
+  "title": "AGII: [Pelunasan] Dana Rp63,3 Miliar untuk Obligasi-Sukuk 22 Des",
+  "deck": "PT Samator Indo Gas Tbk (AGII) menyatakan dana sudah siap untuk melunasi obligasi dan sukuk ijarah senilai total Rp63,3 miliar yang jatuh tempo 22 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "25 November 2026",
+  "isoDate": "2026-11-25T10:36:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_AGII_E019_826e8413-3c82-4f15-b89e-0d86a89b2fee-20261125103605.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AGII",
+  "tags": [
+   "AGII",
+   "obligasi",
+   "sukuk ijarah",
+   "pelunasan utang"
+  ],
+  "body": [
+   "PT Samator Indo Gas Tbk (AGII) melaporkan ke Bursa Efek Indonesia bahwa perusahaan telah menyiapkan dana untuk melunasi dua instrumen utang yang jatuh tempo pada 22 Desember 2026. Pertama, Obligasi Berkelanjutan II Aneka Gas Industri Tahap IV Tahun 2021 Seri B dengan kode AGII02BCN4 senilai Rp46,3 miliar. Kedua, Sukuk Ijarah Berkelanjutan II Aneka Gas Industri Tahap IV Tahun 2021 Seri B dengan kode SIAGII02BCN4 senilai Rp17 miliar. Total dana yang disiapkan mencapai Rp63,3 miliar.",
+   "Perusahaan menyatakan dana tersebut sudah tersedia di rekening bank miliknya dan siap disetorkan ke rekening PT Kustodian Sentral Efek Indonesia sesuai jadwal yang ditentukan. Laporan ini disampaikan untuk memenuhi Peraturan BEI Nomor I-E poin IV.2.11, yang mewajibkan perusahaan tercatat melaporkan kesiapan dana pelunasan efek paling lambat 15 hari bursa sebelum tanggal jatuh tempo. Surat ditandatangani oleh Imelda Mulyani Harsono selaku Wakil Direktur Utama dan Corporate Secretary AGII.",
+   "Dalam laporannya, perusahaan menyatakan tidak ada dampak dari langkah ini terhadap kegiatan operasional, aspek hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Steel industrial gas cylinders and pipelines at a gas production plant, workers in safety vests checking valves, daylight",
+  "takeaway": "Laporan ini condong positif karena menunjukkan AGII memiliki likuiditas yang cukup untuk melunasi utang jatuh tempo tanpa perlu mencari pembiayaan baru, sehingga risiko gagal bayar ke pemegang obligasi dan sukuk praktis tidak ada. Pos yang tersentuh adalah beban utang perusahaan: begitu Rp63,3 miliar ini dibayarkan, total obligasi dan sukuk AGII yang masih berjalan berkurang, dan beban bunga yang harus dibayar setiap tahun pun ikut turun, yang pada akhirnya memberi sedikit ruang lebih besar untuk laba bersih. Yang perlu dipantau selanjutnya adalah realisasi penyetoran dana ke rekening KSEI (lembaga yang menyimpan dan mencatat transaksi efek) tepat pada tanggal jatuh tempo, 22 Desember 2026, sebagai konfirmasi bahwa pelunasan benar-benar berjalan sesuai rencana.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-22",
+    "acara": "Jatuh tempo obligasi dan sukuk ijarah AGII senilai Rp63,3 miliar"
+   }
+  ]
+ },
+ {
   "slug": "kppu-syaratkan-akuisisi-schroder-oleh-manulife",
   "category": "Pasar Modal",
   "title": "KPPU [Syaratkan] Akuisisi Schroder oleh Manulife",
@@ -680,8 +767,8 @@ var ARTICLES = [
  {
   "slug": "rupst-rupslb-elty-gagal-kuorum-kehadiran-cuma-4-9",
   "category": "Aksi Korporasi",
-  "title": "RUPST Kedua ELTY 29 Juni: [Disahkan], RUPSLB Gagal Kuorum Lagi",
-  "deck": "RUPST kedua ELTY akhirnya disahkan dengan kuorum 33,46%, tapi RUPSLB kedua soal perubahan anggaran dasar gagal lagi karena kehadiran cuma 33,53% dari syarat 60%.",
+  "title": "RUPSLB Ketiga ELTY 26 Oktober: [Perubahan Anggaran Dasar] Disetujui",
+  "deck": "Setelah dua kali gagal kuorum, RUPSLB ketiga ELTY pada 26 Oktober 2026 memenuhi kuorum yang ditetapkan OJK dan menyetujui perubahan Pasal 3 anggaran dasar soal klasifikasi usaha.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "24 November 2026",
   "isoDate": "2026-11-24T17:24:43",
@@ -690,19 +777,18 @@ var ARTICLES = [
   "emiten": "ELTY",
   "tags": [
    "ELTY",
-   "RUPST",
    "RUPSLB",
-   "Bakrieland Development"
+   "Anggaran Dasar",
+   "Bakrieland"
   ],
   "body": [
-   "Rapat kedua atas Rapat Umum Pemegang Saham Tahunan (RUPST) dan Luar Biasa (RUPSLB) PT Bakrieland Development Tbk (ELTY) yang digelar 29 Juni 2026 membawa hasil berbeda untuk dua agenda yang sebelumnya macet. RUPST kedua akhirnya memenuhi syarat kuorum dengan kehadiran 14.564.853.671 saham atau 33,46% dari total saham, cukup untuk rapat kedua yang syaratnya di atas sepertiga. Rapat ini menyetujui empat agenda sekaligus: mengesahkan laporan pertanggungjawaban Direksi dan laporan keuangan tahun buku 2025, memberi wewenang kepada Dewan Komisaris untuk menunjuk akuntan publik yang akan mengaudit tahun buku 2026, serta mengganti komisaris independen dari Kanaka Puradiredja ke Dr. Syah Amondaris, SE., MM. Seluruh keputusan disetujui dengan dukungan sekitar 85,9% pemegang saham yang hadir, dan sisanya dianggap setuju sesuai anggaran dasar Perseroan, sehingga total persetujuan efektif mencapai 89,7%.",
-   "RUPSLB kedua yang membahas perubahan Pasal 3 anggaran dasar untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia 2025, sebaliknya, kembali gagal kuorum. Kehadirannya naik sedikit menjadi 14.594.373.171 saham atau 33,53%, tetapi agenda ini mensyaratkan kehadiran minimal tiga perlima atau 60% dari seluruh saham karena menyangkut perubahan anggaran dasar, sehingga keputusan tetap tidak bisa diambil. Bakrieland menyatakan akan memanggil rapat ketiga, dengan waktu dan mekanisme pemanggilan yang akan ditentukan kemudian sesuai anggaran dasar Perseroan, UU Perseroan Terbatas, dan Peraturan OJK Nomor 15 Tahun 2020.",
-   "Hasil ini menyusul rapat pertama pada 17 Juni 2026 yang gagal total karena kehadiran pemegang saham cuma sekitar 4,9%, jauh di bawah syarat kuorum baik untuk RUPST maupun RUPSLB, seperti sudah diberitakan sebelumnya.",
-   "Laporan ringkasan risalah rapat kedua ini sebenarnya sudah disampaikan ke bursa pada 2 Juli 2026. Penyampaian pada 25 November 2026 adalah pelaporan ulang yang dilakukan Bakrieland untuk menyesuaikan dengan sistem pelaporan SPE IDXnet yang baru, bukan laporan atas peristiwa baru.",
-   "Dengan keputusan ini, susunan Dewan Komisaris Bakrieland kini terdiri dari Bambang Irawan Hendradi sebagai Presiden Komisaris, Armansyah Yamin sebagai Komisaris, dan Dr. Syah Amondaris sebagai Komisaris Independen, sementara jajaran Direksi tidak berubah dengan Resza Adikreshna sebagai Presiden Direktur, didampingi Melky Aliandri dan Sisilia."
+   "Rapat ketiga atas Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) PT Bakrieland Development Tbk (ELTY) yang digelar Senin, 26 Oktober 2026, akhirnya berhasil mengambil keputusan. Rapat dihadiri pemegang saham yang mewakili 9.192.899.139 saham atau 21,12% dari total 43.521.913.019 saham yang telah ditempatkan dan disetor penuh. Berbeda dari rapat kedua yang mensyaratkan kehadiran minimal 60% karena menyangkut perubahan anggaran dasar, kuorum rapat ketiga ini ditetapkan oleh OJK melalui surat penetapan khusus sesuai Peraturan OJK Nomor 15 Tahun 2020, dan ambang itu terpenuhi.",
+   "Dalam pemungutan suara, 7.198.627.939 saham (78,31%) menyatakan setuju, 1.499.132.600 saham (16,31%) tidak setuju, dan 495.138.600 saham (5,39%) abstain. Sesuai Pasal 11 ayat 17 anggaran dasar Perseroan, suara abstain dianggap mengikuti suara mayoritas yang menyatakan sikap, sehingga total dukungan efektif mencapai 7.693.766.539 saham atau 83,69%. Dengan hasil ini, RUPSLB menyetujui perubahan Pasal 3 anggaran dasar Perseroan tentang maksud dan tujuan serta kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025 sesuai Peraturan BPS Nomor 7 Tahun 2025. Direksi juga diberi kuasa untuk menuangkan keputusan ini ke dalam akta notaris dan mengurus pendaftarannya ke instansi berwenang.",
+   "Keputusan ini menuntaskan rangkaian agenda yang sebelumnya dua kali terganjal kuorum: rapat pertama pada 17 Juni 2026 gagal total karena kehadiran hanya sekitar 4,9%, dan rapat kedua pada 29 Juni 2026 kembali gagal dengan kehadiran 33,53%, masih di bawah syarat 60% untuk perubahan anggaran dasar. Agenda RUPST yang disahkan pada rapat kedua, termasuk pergantian komisaris independen dari Kanaka Puradiredja ke Dr. Syah Amondaris, tidak berubah oleh keputusan rapat ketiga ini karena menyangkut mata acara yang berbeda.",
+   "Akta notaris atas keputusan rapat ketiga ini tertanggal 26 Oktober 2026 dengan Nomor 152, dibuat oleh notaris Aulia Taufani, S.H., namun salinannya masih dalam proses penyelesaian di kantor notaris saat resume ini disampaikan. Laporan ringkasan risalah rapat ketiga ini sebelumnya sudah disampaikan ke OJK dan bursa pada 28 Oktober 2026 melalui sistem SPE IDXnet lama. Penyampaian pada 25 November 2026 adalah pelaporan ulang untuk menyesuaikan dengan sistem SPE IDXnet baru pascamigrasi, bukan peristiwa baru, tetapi hasil RUPSLB ketiga ini sendiri belum pernah diberitakan sebelumnya."
   ],
   "fotoAdegan": "Empty rows of chairs facing a podium in a hotel ballroom set up for a corporate shareholders meeting, soft morning light",
-  "takeaway": "Laporan ini condong positif, karena rapat kedua akhirnya berhasil mengesahkan laporan keuangan tahun buku 2025 dan memberi wewenang penunjukan akuntan publik untuk audit 2026, setelah rapat pertama gagal total akibat kuorum yang terlalu rendah. Pos yang tersentuh adalah pembebasan tanggung jawab direksi dan komisaris atas tahun buku 2025 serta susunan dewan komisaris, yang kini mencantumkan Dr. Syah Amondaris sebagai komisaris independen baru menggantikan Kanaka Puradiredja, perubahan yang memengaruhi independensi pengawasan perusahaan. Yang masih mengganjal adalah RUPSLB soal perubahan anggaran dasar untuk menyesuaikan klasifikasi lapangan usaha, yang pada percobaan kedua ini pun gagal kuorum karena kehadirannya hanya 33,53% dari syarat minimal tiga perlima atau 60%. Yang perlu dipantau berikutnya adalah pemanggilan rapat ketiga untuk RUPSLB tersebut, yang tanggalnya belum diumumkan Bakrieland.",
+  "takeaway": "Laporan ini condong positif, karena RUPSLB ketiga akhirnya menuntaskan agenda perubahan anggaran dasar yang dua kali gagal kuorum, sehingga Bakrieland tidak perlu lagi memanggil rapat tambahan untuk urusan ini. Pos yang tersentuh bukan ekuitas, arus kas, atau laba per saham, melainkan kepatuhan administratif, penyesuaian pasal maksud dan tujuan usaha dengan klasifikasi lapangan usaha baru dari BPS, yang kalau dibiarkan menggantung bisa menimbulkan ketidaksesuaian legal berkelanjutan dengan ketentuan OJK dan bursa. Pelaku pasar memperhatikan rangkaian RUPS ini karena kegagalan kuorum berulang biasanya mencerminkan rendahnya partisipasi pemegang saham minoritas dan dominasi pemegang saham tertentu dalam pengambilan keputusan. Yang perlu dipantau berikutnya adalah penyelesaian salinan akta notaris Nomor 152 tertanggal 26 Oktober 2026 dan pendaftaran resmi perubahan anggaran dasar ke instansi berwenang, yang akan menuntaskan proses hukum perubahan ini.",
   "sentimen": "positif",
   "peristiwa": "rups",
   "judulIdx": "Ringkasan Risalah RUPS",
@@ -712,13 +798,23 @@ var ARTICLES = [
     "ringkas": "RUPST kedua ELTY akhirnya disahkan (kuorum 33,46%), tapi RUPSLB kedua gagal kuorum lagi di 33,53% dari syarat 60%.",
     "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ELTY_E013_66f607d3-3636-4697-88d0-adb14daa0f21-20261125100437.pdf",
     "judulIdx": "Ringkasan Risalah RUPS"
+   },
+   {
+    "tanggal": "2026-11-25T12:06:19",
+    "ringkas": "RUPSLB ketiga ELTY 26 Oktober 2026 memenuhi kuorum yang ditetapkan OJK dan menyetujui perubahan Pasal 3 anggaran dasar soal klasifikasi usaha.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ELTY_E013_9cd62597-ea1b-4d59-8d82-362d5abb7e23-20261125120621.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
    }
   ],
-  "diperbarui": "2026-11-25T10:04:34",
+  "diperbarui": "2026-11-25T12:06:19",
   "jadwal": [
    {
     "tanggal": "2026-06-29",
     "acara": "RUPST dan RUPSLB kedua ELTY digelar"
+   },
+   {
+    "tanggal": "2026-10-26",
+    "acara": "RUPSLB ketiga ELTY digelar, agenda perubahan anggaran dasar disetujui"
    }
   ]
  },
@@ -22726,8 +22822,8 @@ var ARTICLES = [
  {
   "slug": "heli-gelar-rupslb-17-desember-agenda-perlu-suara-independen",
   "category": "Aksi Korporasi",
-  "title": "HELI Gelar RUPSLB 17 Desember, Agenda Perlu Suara [Independen]",
-  "deck": "PT Jaya Trishindo Tbk (HELI) akan menggelar RUPSLB pada 17 Desember 2026, dengan satu agenda yang membutuhkan persetujuan Pemegang Saham Independen.",
+  "title": "RUPSLB HELI 17 Desember: [PMTHMETD] 83,3 Juta Saham & Akuisisi PEAR",
+  "deck": "PT Jaya Trishindo Tbk (HELI) resmi mengirim pemanggilan RUPSLB 17 Desember 2026, dengan agenda PMTHMETD maksimal 83,3 juta saham (10%) dan akuisisi 60% saham PT Putra Elang Angkasaraya (PEAR).",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T13:57:23",
@@ -22737,17 +22833,47 @@ var ARTICLES = [
   "tags": [
    "HELI",
    "RUPSLB",
-   "Jaya Trishindo",
-   "pemegang saham independen"
+   "PMTHMETD",
+   "Akuisisi PEAR"
   ],
   "body": [
-   "PT Jaya Trishindo Tbk (HELI) mengumumkan akan menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Kamis, 17 Desember 2026, pukul 10.00 WIB, di Rukan Grand Aries Niaga, Jalan Taman Aries Blok E1 No. 1A, Kelurahan Meruya Utara, Kecamatan Kembangan, Jakarta Barat. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan atau pemilik saham di rekening efek KSEI per Selasa, 24 November 2026, sampai penutupan perdagangan saham HELI di Bursa Efek Indonesia pada hari itu. Surat pemberitahuan ini ditandatangani Direktur Utama HELI, Edwin Widjaja, pada 10 November 2026.",
-   "Perseroan menyebut salah satu mata acara rapat memerlukan persetujuan dari Pemegang Saham Independen, yakni pemegang saham yang tidak punya kepentingan ekonomis pribadi atas transaksi yang dibahas dan bukan bagian dari direksi, komisaris, pemegang saham utama, atau pengendali maupun pihak yang berafiliasi dengan mereka. Agenda tersebut baru sah dibahas jika dihadiri pemegang saham independen yang mewakili lebih dari separuh total saham berhak suara milik kelompok itu, dan keputusan baru sah jika disetujui oleh lebih dari separuh suara yang hadir. Jika kuorum itu tidak tercapai pada rapat pertama, Perseroan dapat menggelar rapat kedua dan ketiga dengan syarat kuorum yang berangsur lebih longgar sesuai aturan Otoritas Jasa Keuangan.",
-   "Perseroan akan mengirimkan pemanggilan resmi RUPSLB pada Rabu, 25 November 2026, melalui situs web Bursa Efek Indonesia, situs web Perseroan, dan situs web KSEI. Usulan mata acara tambahan dari pemegang saham harus diterima Direksi paling lambat 18 November 2026, dengan syarat diajukan dengan itikad baik serta menyertakan alasan dan bahan usulan. Pemegang saham yang tidak bisa hadir langsung tetap bisa memberikan kuasa lewat formulir di situs Perseroan atau memberikan suara secara elektronik melalui sistem eASY.KSEI milik KSEI."
+   "PT Jaya Trishindo Tbk (HELI) resmi mengirimkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 25 November 2026, dan untuk pertama kalinya mengungkap dua agenda rapat secara rinci. Pertama, persetujuan penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebanyak-banyaknya 83.286.238 saham baru, atau maksimal 10 persen dari total saham yang sudah diterbitkan perseroan. Kedua, persetujuan rencana HELI mengambil alih 12.960 saham, atau 60 persen kepemilikan, di PT Putra Elang Angkasaraya (PEAR) dari PT Multi Angkasa Indonesia, untuk mendukung ekspansi perseroan.",
+   "RUPSLB akan digelar Kamis, 17 Desember 2026, pukul 10.00 WIB, secara fisik di Rukan Grand Aries Niaga, Jalan Taman Aries Blok E1 No. 1A, Kelurahan Meruya Utara, Kecamatan Kembangan, Jakarta Barat, dan juga secara elektronik lewat sistem eASY.KSEI milik PT Kustodian Sentral Efek Indonesia. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham atau pemilik saham di rekening efek KSEI per penutupan perdagangan 24 November 2026.",
+   "Sesuai aturan Otoritas Jasa Keuangan, agenda pertama soal PMTHMETD memerlukan persetujuan khusus dari Pemegang Saham Independen, yakni pemegang saham yang tidak punya kepentingan ekonomis pribadi atas transaksi tersebut dan bukan bagian dari direksi, komisaris, pemegang saham utama, atau pengendali maupun pihak yang berafiliasi dengan mereka. Pemegang Saham Independen itu wajib menandatangani formulir pernyataan bermeterai yang disediakan perseroan sebelum rapat berlangsung.",
+   "Bagi pemegang saham yang tidak hadir langsung, kuasa elektronik lewat eASY.KSEI paling lambat diberikan Rabu, 16 Desember 2026 pukul 12.00 WIB, sementara surat kuasa tertulis harus diserahkan ke biro administrasi efek perseroan, PT Adimitra Jasa Korpora, paling lambat Senin, 14 Desember 2026 pukul 16.00 WIB. Direksi, komisaris, dan karyawan perseroan tidak bisa menjadi penerima kuasa dalam rapat ini.",
+   "Pemanggilan ini melanjutkan pengumuman HELI pada 10 November 2026 yang baru menyebut jadwal RUPSLB tanpa merinci agendanya. Kini jelas bahwa rapat ini adalah forum yang dimintai restu untuk pendanaan sekaligus eksekusi rencana akuisisi PEAR yang sebelumnya baru disinggung sebagai rencana penerbitan saham baru."
   ],
   "fotoAdegan": "Rows of empty chairs arranged for a corporate meeting in a modern conference hall, soft morning light, Jakarta office interior.",
-  "takeaway": "Laporan ini netral bagi HELI karena isinya baru soal jadwal dan tata cara rapat, belum ada keputusan atau angka finansial yang terungkap. Yang patut dicermati adalah syarat persetujuan dari Pemegang Saham Independen untuk salah satu agenda, mekanisme yang membuat suara direksi, komisaris, pemegang saham utama, dan pengendali tidak dihitung, biasanya dipakai ketika agenda menyangkut transaksi dengan pihak yang punya hubungan khusus dengan perseroan, supaya keputusan tidak dipengaruhi konflik kepentingan. Pekan ini HELI juga baru melaporkan rencana penerbitan 83,3 juta saham baru tanpa hak memesan efek terlebih dahulu untuk mendanai akuisisi PEAR, sehingga ada kemungkinan RUPSLB inilah forum yang akan memintakan restu pemegang saham untuk transaksi itu, meski pengumuman ini sendiri belum menyebut agenda secara spesifik. Yang perlu dipantau berikutnya adalah pemanggilan resmi RUPSLB pada 25 November 2026, yang baru akan memuat mata acara rapat secara rinci, serta hasil rapat pada 17 Desember 2026 yang menentukan apakah agenda tersebut disetujui.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan resmi ini sendiri netral bagi HELI, karena baru menegaskan dua agenda yang sudah diketahui sebelumnya, belum ada keputusan atau nilai transaksi akuisisi yang terungkap. Yang tersentuh adalah jumlah saham beredar, karena PMTHMETD bisa menambah saham baru sampai 10 persen dari yang sudah ada tanpa menawarkannya dulu ke pemegang saham lama, sehingga porsi kepemilikan pemegang saham yang tidak ikut serta bisa terdilusi. Di sisi lain, dana dari penambahan modal itu rencananya dipakai membeli 60 persen saham PT Putra Elang Angkasaraya, yang berarti ada aset usaha baru masuk ke perseroan jika disetujui. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 17 Desember 2026, terutama suara Pemegang Saham Independen untuk agenda PMTHMETD, serta batas akhir pemberian kuasa pada 14 Desember (tertulis) dan 16 Desember 2026 (elektronik) bagi pemegang saham yang tidak hadir langsung.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-25T11:02:54",
+    "ringkas": "Pemanggilan resmi RUPSLB HELI mengungkap agenda: PMTHMETD maksimal 83,3 juta saham dan akuisisi 60% saham PEAR.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_HELI_E002_472fe338-1209-43cd-aa7d-9c24bf43886a-20261125110256.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-25T11:02:54",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Tanggal DPS, batas pencatatan pemegang saham berhak hadir"
+   },
+   {
+    "tanggal": "2026-12-14",
+    "acara": "Batas penyerahan surat kuasa tertulis ke BAE"
+   },
+   {
+    "tanggal": "2026-12-16",
+    "acara": "Batas pemberian kuasa elektronik via eASY.KSEI"
+   },
+   {
+    "tanggal": "2026-12-17",
+    "acara": "RUPSLB HELI, voting PMTHMETD dan akuisisi PEAR"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "kkp-salurkan-1-5-juta-benih-ikan-dan-udang-ke-pembudidaya",

@@ -21,6 +21,54 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "wifi-jawab-bursa-isb-sgk-terafiliasi-transaksi-bukan-repo",
+  "category": "Aksi Korporasi",
+  "title": "WIFI Jawab Bursa: ISB-SGK Terafiliasi, Transaksi Bukan [Repo]",
+  "deck": "Solusi Sinergi Digital menjelaskan ke BEI bahwa jual beli 1,42 miliar saham WIFI oleh ISB dan SGK pada harga sama bukan skema repo atau perjanjian beli kembali.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WIFI",
+   "Solusi Sinergi Digital",
+   "BEI",
+   "pemegang saham terafiliasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_WIFI_E023A_c3c227cc-0e48-4765-988e-129173ed7803-20261125110656.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "esti-jelaskan-volatilitas-saham-ke-bei-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "ESTI Jelaskan Volatilitas Saham ke BEI: [Tak Ada] Informasi Material",
+  "deck": "BEI minta klarifikasi atas pergerakan harga saham ESTI; perseroan menyatakan tak ada informasi material, rencana aksi korporasi, maupun perubahan pemegang saham utama.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ESTI",
+   "Ever Shine Textile",
+   "UMA",
+   "volatilitas saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_ESTI_E023A_c268f6a0-6035-4bb4-bd4d-e807082aa664-20261125110148.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "agii-pelunasan-dana-rp63-3-miliar-untuk-obligasi-sukuk-22-des",
+  "category": "Aksi Korporasi",
+  "title": "AGII: [Pelunasan] Dana Rp63,3 Miliar untuk Obligasi-Sukuk 22 Des",
+  "deck": "PT Samator Indo Gas Tbk (AGII) menyatakan dana sudah siap untuk melunasi obligasi dan sukuk ijarah senilai total Rp63,3 miliar yang jatuh tempo 22 Desember 2026.",
+  "date": "25 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AGII",
+   "obligasi",
+   "sukuk ijarah",
+   "pelunasan utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_AGII_E019_826e8413-3c82-4f15-b89e-0d86a89b2fee-20261125103605.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-syaratkan-akuisisi-schroder-oleh-manulife",
   "category": "Pasar Modal",
   "title": "KPPU [Syaratkan] Akuisisi Schroder oleh Manulife",
@@ -401,15 +449,15 @@ var ARTICLES = [
  {
   "slug": "rupst-rupslb-elty-gagal-kuorum-kehadiran-cuma-4-9",
   "category": "Aksi Korporasi",
-  "title": "RUPST Kedua ELTY 29 Juni: [Disahkan], RUPSLB Gagal Kuorum Lagi",
-  "deck": "RUPST kedua ELTY akhirnya disahkan dengan kuorum 33,46%, tapi RUPSLB kedua soal perubahan anggaran dasar gagal lagi karena kehadiran cuma 33,53% dari syarat 60%.",
+  "title": "RUPSLB Ketiga ELTY 26 Oktober: [Perubahan Anggaran Dasar] Disetujui",
+  "deck": "Setelah dua kali gagal kuorum, RUPSLB ketiga ELTY pada 26 Oktober 2026 memenuhi kuorum yang ditetapkan OJK dan menyetujui perubahan Pasal 3 anggaran dasar soal klasifikasi usaha.",
   "date": "24 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "ELTY",
-   "RUPST",
    "RUPSLB",
-   "Bakrieland Development"
+   "Anggaran Dasar",
+   "Bakrieland"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261124_ELTY_E013_704a75ec-f267-435c-a48f-1ca2a99594cf-20261124172446.pdf",
   "sourceLabel": "IDX"
@@ -6447,53 +6495,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Perdagangan",
   "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/paviliun-srasa-hadir-di-jfex-2026-jepang-bumbu-nusantara-bukukan-potensi-transaksi-rp54-m",
   "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "rupslb-ketiga-hade-24-november-usai-kuorum-gagal-dua-kali",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB Ketiga HADE 24 November, usai [Kuorum] Gagal Dua Kali",
-  "deck": "RUPSLB ketiga HADE digelar 24 November 2026 setelah dua rapat sebelumnya gagal kuorum, dengan agenda tunggal persetujuan penyesuaian KBLI 2025.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HADE",
-   "RUPSLB",
-   "Himalaya Energi Perkasa",
-   "KBLI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/44504164f2_8c32a03b7c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupst-arti-9-desember-perubahan-pengurus-masuk-agenda",
-  "category": "Aksi Korporasi",
-  "title": "RUPST ARTI 9 Desember: [Perubahan Pengurus] Masuk Agenda",
-  "deck": "ARTI menjadwalkan RUPST 9 Desember 2026, membahas laporan tahunan 2025, penunjukan akuntan publik, perubahan susunan pengurus, dan honorarium direksi-komisaris.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARTI",
-   "RUPST",
-   "Ratu Prabu Energi",
-   "Perubahan Pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/837d777f11_b81dbc693e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "asri-manunggal-prime-jual-356-2-juta-saham-suara-jadi-21",
-  "category": "Aksi Korporasi",
-  "title": "ASRI: Manunggal Prime [Jual] 356,2 Juta Saham, Suara Jadi 21%",
-  "deck": "Manunggal Prime Development, entitas direksi ASRI, melepas 356,2 juta saham lewat fasilitas repurchase agreement, hak suara turun dari 23% jadi 21%.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASRI",
-   "Alam Sutera Realty",
-   "Manunggal Prime Development",
-   "repurchase agreement"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8731-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-25T06:39:30.179+07:00",
+ "diperbarui": "2026-11-26T06:19:34.800+07:00",
  "entri": [
+  {
+   "id": "2026-11-25-3",
+   "edisi": "2026-11-25",
+   "benang": "Margin Bunga Bank Menengah Mulai Tergerus",
+   "klaim": "Tekanan margin bunga mulai meluas ke bank-bank menengah dan kecil, bukan sekadar soal spesifik per bank, menyusul laba Bank Sinarmas turun 14,92 persen dan Bank Bukopin berbalik rugi Rp197 miliar akibat tekanan margin bunga.",
+   "penanda": "apakah bank-bank besar juga melaporkan margin bunga tergerus pada periode yang sama dalam laporan keuangan kuartal IV 2026",
+   "tenggat": "2027-02-10",
+   "tenggatLabel": "laporan keuangan kuartal IV 2026 yang biasanya terbit akhir Januari hingga awal Februari 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-25-2",
+   "edisi": "2026-11-25",
+   "benang": "Jalur Dagang ke Tenggat 2027 Makin Konkret",
+   "klaim": "Jalur dagang Indonesia menuju pembukaan pasar awal 2027, dimulai dari IEU-CEPA yang ditandatangani 21 November 2026 dengan target berlaku 1 Januari 2027.",
+   "penanda": "proses ratifikasi IEU-CEPA di parlemen Indonesia dan Uni Eropa sebelum tanggal berlaku tiba",
+   "tenggat": "2027-01-01",
+   "tenggatLabel": "target berlaku 1 Januari 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-25-1",
+   "edisi": "2026-11-25",
+   "benang": "Target Pertumbuhan 6% Ditopang Dana di Luar APBN",
+   "klaim": "Pemerintah mengandalkan pembiayaan swasta dan asing, bukan APBN, untuk mengejar target pertumbuhan 6 persen sambil menahan defisit anggaran di bawah 1,5 persen PDB.",
+   "penanda": "RUPSLB TOBA pada 27 November apakah meloloskan pencairan dana penerbitan saham preferen dan waran senilai hingga SGD555 juta",
+   "tenggat": "2026-11-27",
+   "tenggatLabel": "RUPSLB 27 November",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-24-3",
    "edisi": "2026-11-24",

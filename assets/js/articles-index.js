@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-2027",
+  "category": "Makroekonomi",
+  "title": "RI-Uni Eropa Teken IEU-CEPA, Berlaku [2027]",
+  "deck": "Wamenko Dradjad membekali calon duta besar dengan data ekonomi terbaru dan progres IEU-CEPA yang diteken di Brussels, menjelang berlaku Januari 2027.",
+  "date": "25 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "diplomasi ekonomi",
+   "investasi",
+   "pertumbuhan ekonomi"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7247/wamenko-dradjad-dorong-penguatan-diplomasi-ekonomi-untuk-memperluas-peluang-kerja-sama-indonesia",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "kppu-syaratkan-akuisisi-schroder-oleh-manulife",
   "category": "Pasar Modal",
   "title": "KPPU [Syaratkan] Akuisisi Schroder oleh Manulife",
@@ -4437,7 +4453,7 @@ var ARTICLES = [
   "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
   "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
   "date": "19 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "daya beli",
    "konsumsi rumah tangga",
@@ -5913,7 +5929,7 @@ var ARTICLES = [
   "title": "Realisasi PSN Capai [Rp2.396] Triliun, Serap 10,7 Juta Kerja",
   "deck": "Kemenko Perekonomian merinci realisasi Proyek Strategis Nasional dan Kawasan Ekonomi Khusus hingga September 2026, disertai data pertumbuhan ekonomi dan investasi nasional terbaru.",
   "date": "17 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "PSN",
    "KEK",
@@ -6479,22 +6495,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-8731-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Rp7.000 Jadi Rp2.515.000/Gram",
-  "deck": "Harga emas batangan Antam turun Rp7.000 menjadi Rp2.515.000 per gram, sementara harga buyback juga melemah ke Rp2.278.000 per gram, Selasa (17/11/2026).",
-  "date": "17 November 2026",
-  "image": "assets/img/harga-emas-antam-turun-rp7-000-jadi-rp2-515-000-gram.jpg",
-  "imageV": "mwk63pth",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "buyback emas",
-   "investasi emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478773-terpantau-turun-harga-emas-antam-hari-ini-17-november-2026-rp2515000-per-gram"
  }
 ];

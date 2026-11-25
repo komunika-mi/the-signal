@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "G6P2DFZv3rc",
+  "title": "Danantara Catat Laba Bersih Rp259,6 Triliun pada 2025",
+  "category": "BUMN",
+  "program": "tvOneNews",
+  "summary": "Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) membukukan laba bersih Rp259,6 triliun sepanjang 2025, seperti dipaparkan CEO Danantara Rosan Roeslani dalam laporan kinerja tahunan.",
+  "takeaway": "Kinerja keuangan Danantara penting dipantau karena lembaga ini mengelola investasi strategis milik negara."
+ },
+ {
+  "id": "DSl2HwPjMU4",
+  "title": "Said Iqbal Tinjau Keberlanjutan Industri Semen",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Penasihat Khusus Presiden Bidang Ketenagakerjaan dan Kesejahteraan Buruh, Said Iqbal, melakukan inspeksi mendadak ke industri semen untuk mengecek keberlanjutan operasionalnya.",
+  "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menyangkut kelangsungan industri semen dan nasib tenaga kerjanya."
+ },
+ {
+  "id": "Vi9vGI-2osc",
+  "title": "Menperin Resmikan Pabrik Sepatu di Pemalang",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perindustrian meresmikan pabrik sepatu PT Golden Victory Manufacturies di Pemalang, Jawa Tengah, yang telah menyerap 2.674 tenaga kerja dan berpotensi menambah hingga 12.000 pekerja.",
+  "takeaway": "Pembukaan pabrik baru ini menunjukkan arah investasi manufaktur dan penyerapan tenaga kerja di Jawa Tengah."
+ },
+ {
   "id": "IQGCBiJBNoU",
   "title": "Anindya Bakrie Hadiri Pelantikan Pengurus IWAPI",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Presiden AS Donald Trump dikabarkan mengajak Indonesia dan negara ASEAN lain bergabung dalam inisiatif Pax Silica, program kerja sama teknologi yang digagas Amerika Serikat.",
   "takeaway": "Kerja sama teknologi semacam ini berpotensi memengaruhi arah investasi dan rantai pasok industri di kawasan, termasuk Indonesia."
- },
- {
-  "id": "rhHowOfT8RA",
-  "title": "Menkeu: Defisit APBN Oktober Capai Rp379,3 Triliun",
-  "category": "Makroekonomi",
-  "program": "Kabar Merah Putih",
-  "summary": "Menteri Keuangan Suahasil Nazara mengungkap defisit APBN per Oktober 2026 mencapai Rp379,3 triliun, setara 1,47 persen dari PDB, dan disebut masih sesuai target pemerintah.",
-  "takeaway": "Angka defisit fiskal ini penting bagi pembaca ekonomi untuk menilai kesehatan APBN dan ruang fiskal pemerintah menjelang akhir tahun."
- },
- {
-  "id": "UEl73Rju3Zg",
-  "title": "KLH Segera Terbitkan Aturan Produsen Wajib Kelola Sampah",
-  "category": "Industri",
-  "program": "Kabar Siang",
-  "summary": "Kementerian Lingkungan Hidup akan menerbitkan peraturan yang mewajibkan produsen bertanggung jawab atas pengelolaan sampah dari produknya sendiri.",
-  "takeaway": "Aturan ini relevan bagi pelaku industri karena berpotensi menambah kewajiban dan biaya kepatuhan baru dalam proses produksi."
- },
- {
-  "id": "JuRC_HF7HKY",
-  "title": "Perebutan Untung dari Pengelolaan Sumur Minyak Rakyat",
-  "category": "Energi",
-  "program": "Fakta tvOne",
-  "summary": "Pemerintah menerbitkan Peraturan Menteri ESDM Nomor 14 Tahun 2025 yang membuka peluang pengelolaan sumur minyak rakyat untuk mendorong produksi minyak nasional dan memperkuat ketahanan energi.",
-  "takeaway": "Regulasi ini berpotensi mengubah tata kelola sumur minyak tua di tingkat masyarakat sekaligus memengaruhi target produksi migas nasional."
  }
 ];

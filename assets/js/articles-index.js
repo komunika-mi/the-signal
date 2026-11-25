@@ -5,6 +5,74 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pupuk-indonesia-mulai-desain-pabrik-amurea-fakfak",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Mulai Desain Pabrik Amurea [Fakfak]",
+  "deck": "Pupuk Indonesia menggandeng Topsoe dan Toyo Engineering merancang pabrik amonia-urea di Fakfak, Papua Barat, dengan target kapasitas 825 ribu ton amonia dan 1,15 juta ton urea per tahun.",
+  "date": "25 November 2026",
+  "image": "assets/img/pupuk-indonesia-mulai-desain-pabrik-amurea-fakfak.jpg",
+  "imageV": "mwvyyh4o",
+  "tags": [
+   "Pupuk Indonesia",
+   "Pupuk Kaltim",
+   "Fakfak",
+   "Amurea"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/923/babak-baru-industrialisasi-indonesia-timur-pupuk-indonesia-gandeng-mitra-global-kembangkan-pabrik-amurea-fakfak",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "pupuk-indonesia-klaim-inovasi-internal-untung-rp625-miliar",
+  "category": "BUMN",
+  "title": "Pupuk Indonesia Klaim Inovasi Internal Untung [Rp625] Miliar",
+  "deck": "Pupuk Indonesia Grup mengklaim program inovasi karyawan hasilkan nilai tambah Rp625 miliar pada 2026, dengan 33 inovasi akan direplikasi ke anak usaha lain pada 2027.",
+  "date": "25 November 2026",
+  "image": "assets/img/pupuk-indonesia-klaim-inovasi-internal-untung-rp625-miliar.jpg",
+  "imageV": "mwvyyiid",
+  "tags": [
+   "Pupuk Indonesia",
+   "BUMN",
+   "Inovasi",
+   "PIQI"
+  ],
+  "kreditFoto": "PT Pupuk Indonesia (Persero)",
+  "sourceUrl": "https://www.pupuk-indonesia.com/media-info/detail/924/inovasi-pupuk-indonesia-grup-hasilkan-nilai-tambah-rp625-miliar-pada-tahun-2026",
+  "sourceLabel": "PT Pupuk Indonesia (Persero)"
+ },
+ {
+  "slug": "kppu-pantau-harga-pangan-makassar-jelang-nataru-2027",
+  "category": "Bisnis",
+  "title": "KPPU [Pantau] Harga Pangan Makassar Jelang Nataru 2027",
+  "deck": "KPPU Makassar memantau harga cabai, bawang, beras, minyak goreng, gula, hingga daging di dua pasar tradisional menjelang Natal 2026 dan Tahun Baru 2027.",
+  "date": "25 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "KPPU",
+   "Harga Pangan",
+   "Nataru",
+   "Makassar"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-makassar-pantau-harga-pangan-jelang-nataru-2027",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "indonesia-dan-oecd-rilis-laporan-industri-semikonduktor",
+  "category": "Industri",
+  "title": "Indonesia dan OECD Rilis Laporan Industri [Semikonduktor]",
+  "deck": "Kemenko Perekonomian dan OECD meluncurkan laporan asesmen ekosistem semikonduktor Indonesia, berisi rekomendasi kebijakan menjelang proses aksesi RI ke organisasi tersebut.",
+  "date": "25 November 2026",
+  "image": "assets/img/industri-tekstil.jpg",
+  "tags": [
+   "semikonduktor",
+   "OECD",
+   "industri",
+   "aksesi OECD"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7249/indonesia-dan-oecd-luncurkan-laporan-penguatan-ekosistem-semikonduktor-nasional",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "public-expose-mdki-30-november-pangsa-pasar-tergerus-impor",
   "category": "Aksi Korporasi",
   "title": "Public Expose MDKI 30 November: [Pangsa Pasar] Tergerus Impor",
@@ -99,6 +167,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261125_INET_E023A_573c6595-d382-40b1-8dde-94cf1599352c-20261125150546.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "telkom-brin-garap-riset-ai-satelit-dan-komputasi-kuantum",
+  "category": "Teknologi",
+  "title": "Telkom-BRIN Garap Riset [AI], Satelit, dan Komputasi Kuantum",
+  "deck": "Telkom dan BRIN menandatangani intensi kolaborasi riset satelit, AI, dan komputasi kuantum untuk mendorong kedaulatan digital Indonesia.",
+  "date": "25 November 2026",
+  "image": "assets/img/telkom-brin-garap-riset-ai-satelit-dan-komputasi-kuantum.jpg",
+  "imageV": "mwvyyjru",
+  "tags": [
+   "Telkom",
+   "BRIN",
+   "Kecerdasan Artifisial",
+   "Satelit"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480295-telkom-brin-kolaborasi-kembangkan-ai-dan-satelit-untuk-kedaulatan-digital"
  },
  {
   "slug": "rupo-bold-9-desember-restrukturisasi-obligasi-diajukan-emiten",
@@ -710,7 +795,7 @@ var ARTICLES = [
   "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
   "deck": "KPPU menolak saksi yang diajukan Terlapor I dalam sidang dugaan persekongkolan pemilihan mitra revitalisasi Pasar Desa Ciparay, karena dianggap tidak independen.",
   "date": "24 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -982,7 +1067,7 @@ var ARTICLES = [
   "title": "Fatwa Baru Akui Jual Beli Emas Digital [Sah] Secara Syariah",
   "deck": "DSN-MUI menerbitkan fatwa yang mengatur syarat jual beli emas fisik secara digital, melengkapi aturan teknis Bappebti yang sudah berlaku sejak 2025.",
   "date": "24 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "emas digital",
    "Bappebti",
@@ -1113,7 +1198,7 @@ var ARTICLES = [
   "title": "KPPU Sulsel Awasi Tarif Transportasi Jelang [Nataru]",
   "deck": "KPPU Makassar berkoordinasi dengan Dishub Sulsel dan sejumlah instansi transportasi untuk mencegah pengaturan tarif saat lonjakan permintaan Natal dan Tahun Baru.",
   "date": "24 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "KPPU",
    "Transportasi",
@@ -2718,7 +2803,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/industri-tekstil.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3195,7 +3280,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -3648,7 +3733,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -4565,7 +4650,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -4778,7 +4863,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -5083,7 +5168,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -5826,7 +5911,7 @@ var ARTICLES = [
   "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
   "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
   "date": "18 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -6105,7 +6190,7 @@ var ARTICLES = [
   "title": "Soda Abu Indonesia [Bebas] Kuota Impor India",
   "deck": "India resmi membebaskan soda abu asal Indonesia dari pembatasan kuota impor lewat putusan safeguard DGTR tertanggal 4 November 2026, membuka peluang ekspor lebih besar ke pasar tersebut.",
   "date": "17 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
+  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
   "tags": [
    "soda abu",
    "ekspor",
@@ -6404,88 +6489,6 @@ var ARTICLES = [
    "Terregra Asia Energy"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fc25a748ed_a98f279e92.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "shid-semester-i-2026-rugi-menyempit-ke-rp15-07-miliar",
-  "category": "Aksi Korporasi",
-  "title": "SHID Semester I 2026: [Rugi] Menyempit ke Rp15,07 Miliar",
-  "deck": "Rugi bersih Hotel Sahid Jaya turun hampir separuh dibanding semester I 2025, tapi kas perusahaan menyusut tajam setelah membayar cicilan utang bank.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SHID",
-   "Hotel Sahid Jaya",
-   "laporan keuangan",
-   "rugi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261117144104-65791-0/FinancialStatement-2026-II-SHID.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo",
-  "category": "UMKM",
-  "title": "KPPU Soroti [Konsentrasi] Pasokan di Program MBG Sidoarjo",
-  "deck": "KPPU memantau program MBG dan koperasi desa di Sidoarjo, menyoroti dominasi pasokan oleh mitra dapur dan masuknya Agrinas ke koperasi tanpa koordinasi jelas.",
-  "date": "17 November 2026",
-  "image": "assets/img/kppu-soroti-konsentrasi-pasokan-di-program-mbg-sidoarjo.jpg",
-  "imageV": "mwkcydwp",
-  "tags": [
-   "KPPU",
-   "MBG",
-   "Koperasi Merah Putih",
-   "Persaingan Usaha"
-  ],
-  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
-  "sourceUrl": "https://kppu.go.id/berita/kppu-pantau-persaingan-usaha-dalam-pelaksanaan-program-mbg-dan-kdkmp",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "indonesia-pacu-target-100-gw-surya-di-forum-azec-manila",
-  "category": "Energi",
-  "title": "Indonesia Pacu Target [100 GW] Surya di Forum AZEC Manila",
-  "deck": "Menko Airlangga mewakili Presiden Prabowo Subianto dalam pertemuan AZEC 2.0 di Manila, memaparkan sejumlah proyek dan target energi bersih berikut tenggatnya.",
-  "date": "17 November 2026",
-  "image": "assets/img/panel-surya-atap.jpg",
-  "tags": [
-   "AZEC",
-   "Transisi Energi",
-   "Energi Surya",
-   "Biodiesel"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7228/indonesia-dorong-penguatan-kerja-sama-transisi-energi-kawasan-melalui-azec-20-di-pertemuan-4th-azec-leaders-meeting",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "lcgp-asuransi-jiwa-ifg-jual-seluruh-saham-suara-ke-0-delisting",
-  "category": "Aksi Korporasi",
-  "title": "LCGP: Asuransi Jiwa IFG [Hibah] 228,4 Juta Saham, Hak Suara 8,74%",
-  "deck": "Kepemilikan Asuransi Jiwa IFG di LCGP sempat naik ke 8,74% pada Agustus 2026 lewat hibah dari likuidasi reksadana eks aset Jiwasraya, sebelum dilepas seluruhnya saat delisting 10 November 2026.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LCGP",
-   "Asuransi Jiwa IFG",
-   "delisting",
-   "laporan kepemilikan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-0349-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ppro-asuransi-jiwa-ifg-jual-39-3-juta-saham-jadi-7-93",
-  "category": "Aksi Korporasi",
-  "title": "PPRO: Asuransi Jiwa IFG Jual 679,86 Juta Saham, Hak Suara 8,44%",
-  "deck": "PT Asuransi Jiwa IFG menjual 679.861.500 saham PPRO senilai sekitar Rp17 miliar pada 25 Februari 2026, hak suaranya turun dari 9,54% jadi 8,44%, mendahului transaksi April yang sudah diberitakan.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRO",
-   "Asuransi Jiwa IFG",
-   "Laporan Kepemilikan Saham",
-   "Hak Suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-17112026-3207-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

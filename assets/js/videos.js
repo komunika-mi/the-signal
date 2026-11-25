@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "G6P2DFZv3rc",
+  "title": "Danantara Catat Laba Bersih Rp259,6 Triliun pada 2025",
+  "category": "BUMN",
+  "program": "tvOneNews",
+  "summary": "Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) membukukan laba bersih Rp259,6 triliun sepanjang 2025, seperti dipaparkan CEO Danantara Rosan Roeslani dalam laporan kinerja tahunan.",
+  "takeaway": "Kinerja keuangan Danantara penting dipantau karena lembaga ini mengelola investasi strategis milik negara.",
+  "terbit": "2026-11-25T09:52:05+00:00"
+ },
+ {
+  "id": "DSl2HwPjMU4",
+  "title": "Said Iqbal Tinjau Keberlanjutan Industri Semen",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Penasihat Khusus Presiden Bidang Ketenagakerjaan dan Kesejahteraan Buruh, Said Iqbal, melakukan inspeksi mendadak ke industri semen untuk mengecek keberlanjutan operasionalnya.",
+  "takeaway": "Kunjungan ini relevan bagi pembaca ekonomi karena menyangkut kelangsungan industri semen dan nasib tenaga kerjanya.",
+  "terbit": "2026-11-25T09:35:49+00:00"
+ },
+ {
+  "id": "Vi9vGI-2osc",
+  "title": "Menperin Resmikan Pabrik Sepatu di Pemalang",
+  "category": "Industri",
+  "program": "Kabar Merah Putih",
+  "summary": "Menteri Perindustrian meresmikan pabrik sepatu PT Golden Victory Manufacturies di Pemalang, Jawa Tengah, yang telah menyerap 2.674 tenaga kerja dan berpotensi menambah hingga 12.000 pekerja.",
+  "takeaway": "Pembukaan pabrik baru ini menunjukkan arah investasi manufaktur dan penyerapan tenaga kerja di Jawa Tengah.",
+  "terbit": "2026-11-25T09:12:23+00:00"
+ },
+ {
   "id": "IQGCBiJBNoU",
   "title": "Anindya Bakrie Hadiri Pelantikan Pengurus IWAPI",
   "category": "UMKM",

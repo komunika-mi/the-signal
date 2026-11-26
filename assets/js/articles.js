@@ -3,6 +3,130 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-amp-rp1-34-triliun-tapg-terima-94-93",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim AMP Rp1,34 Triliun: TAPG [Terima] 94,93%",
+  "deck": "AMP, anak usaha yang 94,93% sahamnya dimiliki TAPG, membagikan dividen interim Rp1,34 triliun pada 25 November 2026; bagian TAPG diperkirakan sekitar Rp1,27 triliun.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T17:21:26",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_TAPG_E019_b7f040ac-d933-426d-b880-4e80478452ba-20261126172128.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TAPG",
+  "tags": [
+   "TAPG",
+   "dividen interim",
+   "transaksi afiliasi",
+   "AMP"
+  ],
+  "body": [
+   "PT Triputra Agro Persada Tbk (TAPG) melaporkan ke Otoritas Jasa Keuangan bahwa perusahaan terkendalinya, PT Agro Multi Persada (AMP), membagikan dividen interim senilai Rp1.337.223.874.300 atau sekitar Rp1,34 triliun. Keputusan ini diambil direksi AMP dan disetujui dewan komisaris AMP pada 24 November 2026, dengan tanggal transaksi pembagian dividen pada 25 November 2026. Laporan ini disampaikan sebagai transaksi afiliasi sesuai Peraturan OJK No. 42/POJK.04/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan, ditandatangani oleh Joni Tjeng selaku corporate secretary TAPG.",
+   "TAPG memiliki 94,93% saham AMP, sehingga menjadi pemegang saham mayoritas yang menerima bagian terbesar dari dividen tersebut. Tiga pemegang saham minoritas AMP lainnya juga kebagian dividen ini sesuai porsi kepemilikan masing masing: PT Tri Nur Cakrawala (TNC) sebesar 1,97%, PT Triputra Investindo Arya (TIA) sebesar 1,91%, dan PT Daya Adicipta Mustika (DAM) sebesar 1,19%. Kalau dividen dibagi proporsional sesuai porsi itu, bagian yang mengalir ke TAPG diperkirakan sekitar Rp1,27 triliun, meski perhitungan pasti bergantung pada mekanisme pembagian internal yang tidak dirinci dalam laporan.",
+   "Dalam laporannya, TAPG menyatakan transaksi pembagian dividen interim AMP ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha TAPG sebagai perusahaan induk."
+  ],
+  "fotoAdegan": "Plantation workers loading harvested oil palm fruit bunches onto a flatbed truck under hazy tropical sunlight.",
+  "takeaway": "Laporan ini condong positif bagi TAPG karena dividen senilai Rp1,34 triliun dari AMP berarti kas mengalir dari anak usaha ke perusahaan induk tanpa menambah utang baru, dan sebagian besarnya, sesuai porsi kepemilikan 94,93%, akan masuk ke rekening TAPG sendiri. Yang tersentuh di sini adalah arus kas TAPG sebagai entitas induk, bukan laba konsolidasi, karena dividen antar perusahaan dalam satu grup biasanya saling menghapus saat laporan keuangan digabung, sehingga dampaknya lebih terasa pada ketersediaan uang tunai di level TAPG untuk kebutuhan seperti membayar dividen ke pemegang saham publik atau melunasi kewajiban sendiri, ketimbang pada untung rugi yang dilaporkan. Besaran dividen ini juga jauh lebih besar dibanding dividen interim Rp599,99 miliar yang TAPG terima dari ventura USTP pekan lalu, menunjukkan aliran kas dari anak-anak usaha TAPG terus berlanjut. Yang perlu dipantau selanjutnya adalah bagaimana dana ini tercatat dalam laporan keuangan TAPG periode berikutnya, karena dokumen ini tidak menyebut tanggal pembayaran tunai aktual ke rekening TAPG selain tanggal transaksi 25 November 2026 yang sudah berlalu.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-24",
+    "acara": "Persetujuan dewan komisaris AMP atas keputusan dividen interim"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Tanggal transaksi pembagian dividen interim AMP"
+   }
+  ]
+ },
+ {
+  "slug": "bei-minta-penjelasan-volatilitas-saham-humi-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "BEI Minta Penjelasan Volatilitas Saham HUMI: [Tak Ada] Info Material",
+  "deck": "HUMI menjawab surat BEI 20 November 2026 soal volatilitas transaksi sahamnya: perseroan tidak mengetahui informasi material dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:58:14",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_HUMI_E019_17a92c4f-fed2-4387-9e6d-2d2f6cfa1afc-20261126165816.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HUMI",
+  "tags": [
+   "HUMI",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Humpuss Maritim Internasional Tbk (HUMI) menyampaikan tanggapan resmi atas surat Bursa Efek Indonesia (BEI) Nomor S-14383/BEI.PP1/11-2026 tanggal 20 November 2026, yang meminta penjelasan soal volatilitas transaksi saham perseroan. Tanggapan tersebut disampaikan ke BEI pada 26 November 2026, ditandatangani oleh Hadi Supratomo selaku Direktur Utama perseroan, dengan tembusan kepada Dewan Komisaris HUMI.",
+   "Dalam suratnya, HUMI menegaskan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi nilai efek maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi. Perseroan juga menyatakan tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam POJK Nomor 4 Tahun 2024 tentang Laporan Kepemilikan atau Perubahan Kepemilikan Saham dan Laporan Aktivitas Penjaminan Saham. Soal kemungkinan aksi korporasi, HUMI memastikan tidak memiliki rencana aksi korporasi apa pun dalam tiga bulan mendatang, termasuk rencana yang berdampak pada status pencatatan sahamnya di bursa.",
+   "Terkait rencana pemegang saham utama, HUMI menyatakan telah menerima informasi bahwa pemegang saham utama saat ini belum memiliki rencana aksi korporasi atas kepemilikan sahamnya di perseroan. Perseroan juga menyebut bahwa seluruh informasi strategis terkait perkembangan usaha sejauh ini sudah diungkapkan ke publik sesuai aturan keterbukaan informasi dan melalui berbagai media massa, sehingga tidak ada informasi material baru yang belum terungkap sebagai pemicu pergerakan harga sahamnya."
+  ],
+  "fotoAdegan": "A tugboat guiding a cargo vessel through a busy Indonesian harbor at dawn, stacked containers on the dock nearby",
+  "takeaway": "Laporan ini netral bagi fundamental HUMI, karena isinya murni penegasan bahwa perseroan tidak mengetahui informasi apa pun yang bisa menjelaskan pergerakan saham yang membuat BEI meminta penjelasan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disentuh di sini, laporan ini murni soal transparansi perdagangan, jenis permintaan yang biasa dikirim bursa ketika harga atau volume saham bergerak di luar kebiasaan, agar investor tahu apakah pergerakan itu didasari informasi baru atau sekadar spekulasi pasar. Yang perlu dipantau selanjutnya adalah apakah pola transaksi saham HUMI mereda setelah penjelasan ini atau BEI kembali mengirim permintaan serupa, sebab dokumen ini sendiri tidak memuat tenggat atau agenda lanjutan apa pun.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "roti-ubah-fasilitas-kredit-bca-pbmm-naik-jadi-rp550-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ROTI Ubah Fasilitas Kredit BCA: [PBMM] Naik Jadi Rp550 Miliar",
+  "deck": "ROTI mengonversi fasilitas Time Loan BCA Rp500 miliar jadi Rp300 miliar plus Installment Loan Rp200 miliar, dan menambah PBMM Rp50 miliar jadi Rp550 miliar untuk modal kerja.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:55:06",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ROTI_E019_33c88a0a-aeb1-4e40-b846-821ba91e6c6f-20261126165508.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ROTI",
+  "tags": [
+   "ROTI",
+   "kredit",
+   "BCA",
+   "modal kerja"
+  ],
+  "body": [
+   "Pada 25 November 2026, PT Nippon Indosari Corpindo Tbk (ROTI) menandatangani perubahan fasilitas kredit dengan PT Bank Central Asia Tbk (BCA). Perseroan mengonversi sebagian fasilitas Time Loan, yaitu pinjaman berjangka yang sebelumnya bernilai Rp500 miliar, menjadi Rp300 miliar, sembari memperoleh fasilitas baru berupa Installment Loan, yaitu pinjaman yang dibayar bertahap atau dicicil, senilai Rp200 miliar untuk membiayai kebutuhan modal kerja.",
+   "Selain itu, ROTI memperoleh tambahan fasilitas Pinjaman Berjangka Money Market (PBMM), yakni pinjaman jangka pendek yang bunganya mengikuti pasar uang, dari BCA sebesar Rp50 miliar. Dengan tambahan ini, total fasilitas PBMM yang dimiliki ROTI naik menjadi Rp550 miliar, disiapkan sebagai cadangan modal kerja dan akan berakhir pada 11 Desember 2027.",
+   "Dalam laporan keterbukaan informasi ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia, manajemen ROTI menyatakan bahwa fasilitas kredit ini akan memberikan dampak positif terhadap kegiatan operasional perusahaan. Perseroan tidak merinci lebih lanjut dampaknya terhadap kondisi keuangan atau kelangsungan usaha di luar keterangan tersebut."
+  ],
+  "fotoAdegan": "Workers monitoring an automated bread production line in a bakery factory, stainless steel equipment, bright industrial lighting",
+  "takeaway": "Laporan ini condong positif bagi ROTI, sebab perusahaan menambah akses pendanaan jangka pendek untuk modal kerja tanpa menerbitkan saham baru atau mengubah struktur kepemilikan, meski tambahan bersihnya, Rp50 miliar untuk PBMM, relatif kecil dibandingkan skala bisnis ROTI. Yang tersentuh adalah arus kas dan beban bunga perusahaan: fasilitas kredit menambah bantalan likuiditas sehingga ROTI punya ruang lebih besar membayar kebutuhan operasional sehari hari, tapi juga menambah kewajiban cicilan dan bunga ke BCA ke depan. Konversi sebagian Time Loan menjadi Installment Loan juga mengubah pola pembayaran utang dari sekali tagih menjadi bertahap, yang biasanya membuat arus kas perusahaan lebih mudah diprediksi. Yang perlu dipantau selanjutnya adalah jatuh tempo fasilitas PBMM pada 11 Desember 2027, serta apakah ROTI benar benar memanfaatkan fasilitas Installment Loan Rp200 miliar itu untuk kebutuhan modal kerja seperti yang disebutkan.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2027-12-11",
+    "acara": "Jatuh tempo fasilitas PBMM dari BCA"
+   }
+  ]
+ },
+ {
+  "slug": "ntbk-tanggapi-permintaan-bursa-tak-ada-informasi-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "NTBK Tanggapi Permintaan Bursa: [Tak Ada] Informasi Material Baru",
+  "deck": "NTBK menegaskan tidak ada informasi material yang disembunyikan terkait volatilitas transaksi sahamnya, dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:40:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_NTBK_E023A_4b68ceff-d14b-4dff-a713-925b771fe623-20261126164004.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NTBK",
+  "tags": [
+   "NTBK",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Nusatama Berkah Tbk (NTBK) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia lewat surat bernomor S-333/NTBK-DIR/XI/2026 tanggal 26 November 2026, menjawab surat Bursa Nomor S-14541/BEI.PP2/11-2026 tanggal 24 November 2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Dalam surat itu, manajemen NTBK menjawab enam pertanyaan standar yang biasa diajukan Bursa kepada emiten yang harga atau volume sahamnya bergerak tidak biasa.",
+   "Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkap ke publik, baik yang diatur dalam Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E poin III.2.1 dan IV.2.1. NTBK juga menyebut tidak memiliki informasi, fakta, atau kejadian penting lain yang dapat memengaruhi harga saham atau kelangsungan usahanya, dan tidak mengetahui adanya aktivitas jual beli tertentu dari pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 11/POJK.04/2017 tentang laporan kepemilikan saham. Perseroan juga menegaskan belum memiliki rencana aksi korporasi dalam tiga bulan mendatang yang berdampak pada pencatatan sahamnya di Bursa.",
+   "Terkait permintaan Bursa agar corporate secretary mengonfirmasi langsung kepada pemegang saham utama, NTBK menyatakan telah melakukan konfirmasi tersebut. Hasilnya, sampai dengan tanggal tanggapan ini disampaikan, belum ada rencana perubahan kepemilikan saham dari pemegang saham utama yang disampaikan kepada perseroan."
+  ],
+  "fotoAdegan": "Workers operating corrugated cardboard packaging machinery inside an industrial factory hall, natural light through high windows",
+  "takeaway": "Tanggapan ini netral bagi pemegang saham NTBK, karena isinya hanya menegaskan tidak ada informasi baru yang disembunyikan, bukan kabar baik maupun buruk bagi kinerja perusahaan. Surat semacam ini biasa dikirim Bursa saat harga atau volume transaksi saham suatu emiten bergerak tidak wajar dalam waktu singkat, dan jawaban 'tidak ada rencana' dari perseroan berarti untuk saat ini jumlah saham beredar, struktur kepemilikan, dan hak suara pemegang saham utama tidak berubah, sehingga kendali perusahaan tetap seperti sebelumnya. Yang perlu dipantau selanjutnya adalah apakah pergerakan harga saham NTBK mereda setelah tanggapan ini terbit, serta apakah akan muncul keterbukaan informasi baru jika pemegang saham utama akhirnya mengubah rencana kepemilikannya, mengingat perseroan sendiri menyebut belum ada keputusan apa pun sampai tanggal laporan ini dibuat.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
   "slug": "mufg-dipanggil-kppu-soal-telat-lapor-akuisisi-mandala-multifinance",
   "category": "Bisnis",
   "title": "MUFG [Dipanggil] KPPU soal Telat Lapor Akuisisi Mandala Multifinance",
@@ -27,6 +151,173 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah di sini adalah tahap proses hukumnya, bukan keputusan akhir: KPPU resmi memanggil pucuk pimpinan MUFG sebagai pihak yang diduga melanggar aturan, lalu menunda sidang ke tahap pemeriksaan alat bukti pada 3 Desember 2026. Aturan yang dipakai KPPU mewajibkan perusahaan melaporkan akuisisi di atas ambang tertentu dalam waktu tertentu setelah transaksi selesai, bukan meminta izin sebelum transaksi, jadi dugaan pelanggarannya soal keterlambatan administrasi, bukan soal boleh tidaknya akuisisi itu berlangsung. Pihak yang langsung terdampak adalah MUFG sebagai pembeli dan pemegang saham publik Mandala Multifinance, karena hasil perkara ini bisa menentukan apakah ada sanksi administratif menyusul akuisisi tersebut. Siaran pers ini belum menyebut alasan atau lama keterlambatan notifikasinya, sehingga arah perkara, berujung sanksi atau tidak, baru akan lebih jelas setelah sidang pemeriksaan alat bukti pada 3 Desember 2026."
+ },
+ {
+  "slug": "public-expose-nsss-laba-bersih-9m26-turun-9-5-jadi-rp501-3-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose NSSS: [Laba Bersih] 9M26 Turun 9,5% jadi Rp501,3 M",
+  "deck": "Pendapatan NSSS naik 16,8% pada 9M26 jadi Rp1.742,6 miliar, tapi laba bersih turun 9,5% akibat kenaikan biaya pupuk dan pajak efektif yang lebih tinggi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:19:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_NSSS_E003_c1676b59-2102-4543-b521-9a610a81717e-20261126161933.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "NSSS",
+  "tags": [
+   "NSSS",
+   "CPO",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "body": [
+   "PT Nusantara Sawit Sejahtera Tbk (NSSS) membagikan materi paparan publik tahunan 2026 kepada Bursa Efek Indonesia, menjelang acara paparan publik yang dijadwalkan pada 1 Desember 2026. Dalam materi itu, perusahaan melaporkan pendapatan sembilan bulan pertama 2026 (9M26) naik 16,8 persen dibanding periode yang sama tahun lalu, dari Rp1.491,5 miliar menjadi Rp1.742,6 miliar, didorong kenaikan volume penjualan CPO (crude palm oil atau minyak sawit mentah) sebesar 9,6 persen dan kenaikan harga jual rata-rata CPO sebesar 5,5 persen menjadi Rp14.688 per kilogram. Namun laba bersih periode itu justru turun 9,5 persen menjadi Rp501,3 miliar, dari Rp554,1 miliar pada periode yang sama tahun lalu.",
+   "Penurunan laba bersih terjadi karena beban pokok penjualan melonjak 47,0 persen menjadi Rp1.001,6 miliar, akibat kenaikan biaya pupuk yang mengikuti harga minyak dunia dan makin besarnya porsi tandan buah segar (TBS) yang dibeli dari luar kebun milik sendiri, yaitu 10,5 persen dari total pasokan pabrik pada kuartal ketiga 2026, naik dari 3,7 persen pada periode yang sama tahun lalu. Akibatnya, margin laba kotor menyusut dari 54,3 persen menjadi 42,5 persen, dan margin laba bersih turun dari 37,2 persen menjadi 28,8 persen. Tarif pajak efektif perusahaan juga naik dari 17,6 persen menjadi 22,4 persen, yang ikut menekan laba bersih. Dari sisi operasional, produksi TBS inti naik 2,0 persen menjadi 401.054 ton dengan yield 15,2 ton per hektare, sementara produksi CPO naik lebih tinggi, 10,5 persen menjadi 99.866 ton, dibantu kenaikan rendemen minyak atau OER (rasio CPO yang dihasilkan dari setiap ton TBS yang diolah) dari 22,2 persen menjadi 22,4 persen.",
+   "Dari sisi permodalan, rasio utang bersih terhadap ekuitas turun menjadi 49,1 persen pada 9M26 dari 57,9 persen setahun sebelumnya, seiring perusahaan melunasi sebagian utang dan mengumpulkan kas lebih banyak. Struktur pemegang saham per 9M26 menunjukkan PT Samuel Sekuritas Indonesia memegang 35,48 persen dari total 23,8 miliar saham NSSS, disusul PT Samuel International 15,15 persen, Direktur Utama Teguh Patriawan 11,70 persen, PT Nusantara Makmur Lestari 9,46 persen, jajaran direksi dan komisaris lainnya 2,19 persen, dan sisanya 21,32 persen dimiliki publik (free float). Dalam materi yang sama, manajemen memaparkan rencana penanaman baru di tiga lokasi lahan cadangan, yaitu PMM, BSSU, dan HMA, seluas 350 hektare pada 2026 yang akan diperluas menjadi 1.500 hektare pada 2027, serta pembangunan pabrik CPO ketiga di PMM paling lambat kuartal ketiga 2029 dengan tambahan kapasitas 60 ton per jam."
+  ],
+  "fotoAdegan": "Palm oil mill workers transferring fresh fruit bunches onto a loading ramp, tropical plantation visible in hazy morning light",
+  "takeaway": "Laporan ini netral bagi fundamental NSSS: pendapatan tumbuh dua digit, tapi laba bersih justru turun karena biaya produksi naik lebih cepat dari penjualan. Yang tersentuh adalah margin laba kotor dan laba bersih, serta imbal hasil terhadap aset dan ekuitas atau ROA dan ROE, yaitu rasio yang menunjukkan berapa laba yang dihasilkan dari setiap rupiah aset atau modal pemegang saham, dan keduanya turun karena laba mengecil sementara aset dan ekuitas perusahaan justru membesar. Di sisi lain, rasio utang bersih terhadap ekuitas turun ke 49,1 persen dari 57,9 persen, tanda perusahaan melunasi utang dan mengumpulkan kas lebih banyak, jadi bukan semuanya memburuk. Yang perlu dipantau berikutnya adalah paparan publik tahunan NSSS pada 1 Desember 2026, saat manajemen biasanya menjelaskan lebih lanjut proyeksi kinerja kuartal keempat yang disebut berpotensi melemah akibat musim kemarau, serta mulai berlakunya aturan deforestasi Uni Eropa pada 30 Desember 2026 yang berpotensi mempersempit akses ekspor produk sawit NSSS ke Eropa.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Paparan publik tahunan NSSS"
+   }
+  ]
+ },
+ {
+  "slug": "diva-klarifikasi-volatilitas-saham-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "DIVA Klarifikasi Volatilitas Saham: [Tak Ada] Informasi Material",
+  "deck": "Merespons surat Bursa soal volatilitas transaksi efeknya, DIVA menyatakan tak ada informasi material maupun rencana pemegang saham utama mengubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:08:32",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_DIVA_E023A_fa1551a5-77a9-4663-8a6d-19380d168bb5-20261126160834.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DIVA",
+  "tags": [
+   "DIVA",
+   "UMA",
+   "Bursa Efek Indonesia",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "PT Distribusi Voucher Nusantara Tbk (DIVA) menjawab surat Bursa Efek Indonesia Nomor S-14611/BEI.PP2/11-2026 tertanggal 24 November 2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Dalam surat balasan Nomor 152/EXT-CORP/DIVA/XI/2026 yang ditandatangani Direktur Utama Raymond Loho pada 26 November 2026, DIVA menegaskan tidak mengetahui adanya informasi atau fakta material yang dapat memengaruhi nilai efeknya maupun keputusan investasi pemodal, sebagaimana diatur dalam POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E.",
+   "Perseroan juga menyatakan tidak mengetahui aktivitas pemegang saham tertentu yang wajib dilaporkan berdasarkan POJK Nomor 11/2017 tentang laporan kepemilikan dan perubahan kepemilikan saham, serta tidak memiliki rencana aksi korporasi dalam tiga bulan mendatang yang dapat berdampak pada status pencatatan sahamnya di Bursa. Corporate Secretary DIVA mengonfirmasi secara khusus kepada pemegang saham utama perseroan, dan hasilnya pemegang saham utama belum memiliki rencana mengubah kepemilikan sahamnya di DIVA dalam waktu dekat."
+  ],
+  "fotoAdegan": "Warehouse staff stacking sealed cardboard boxes of prepaid phone credit cards on metal shelving under fluorescent light",
+  "takeaway": "Jawaban ini netral bagi pemegang saham: seluruh poinnya adalah penegasan baku bahwa tidak ada fakta material baru, bukan pengakuan atau bantahan atas sesuatu yang konkret. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini, karena suratnya murni soal transparansi informasi menyusul lonjakan atau penurunan tajam harga dan volume transaksi saham DIVA yang memicu pertanyaan Bursa. Yang perlu dipantau selanjutnya adalah apakah Bursa kembali mengirim permintaan serupa jika volatilitas berlanjut, dan apakah pernyataan pemegang saham utama soal tidak ada rencana mengubah kepemilikan ini tetap konsisten pada laporan kepemilikan saham berikutnya.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "waran-terstruktur-zp-ke-22-penawaran-30-nov-2-des-2026",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur ZP Ke-22: [Penawaran] 30 Nov-2 Des 2026",
+  "deck": "Maybank Sekuritas (ZP) menawarkan 14 seri waran terstruktur baru pada 30 November-2 Desember 2026, dengan saham acuan mulai dari AALI hingga WIFI dan harga pelaksanaan Rp57-Rp27.975.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:07:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ZP_E019_b74331c9-d0bf-480d-b527-1ef083fa871c-20261126160739.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "penawaran umum"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) akan menawarkan waran terstruktur seri ke-22 pada 30 November hingga 2 Desember 2026. Waran terstruktur adalah produk yang diterbitkan oleh perusahaan sekuritas, bukan oleh emiten saham yang menjadi acuannya, dan memberi pemegangnya hak untuk membeli saham acuan tersebut pada harga dan tanggal tertentu di masa depan. Waran bisa dipesan langsung melalui Maybank Sekuritas sebagai penerbit atau melalui agen pemasarannya.",
+   "Penerbitan kali ini terdiri dari 14 seri waran dengan saham acuan AALI, BBCA, BUMI, ELSA, EXCL, JPFA, MBMA, MDKA, PTRO, RAJA, TAPG, TINS, TPIA, dan WIFI. Setiap seri ditawarkan sebanyak 500 juta unit dengan harga penawaran yang sama, Rp10 hingga Rp300 per unit. Harga pelaksanaannya berbeda-beda sesuai saham acuan, mulai dari Rp57-Rp340 untuk waran BUMIZPCU7A hingga Rp4.660-Rp27.975 untuk waran AALIZPCU7A. Rasio konversinya juga bervariasi, dari 2 unit waran per saham untuk BUMI sampai 40 unit waran per saham untuk AALI.",
+   "Seluruh 14 waran dalam penerbitan ini memiliki tanggal pelaksanaan yang sama, yaitu 30 September 2027. Pada tanggal tersebut, pemegang waran dapat menukarkan haknya menjadi saham acuan sesuai rasio konversi dan harga pelaksanaan yang telah ditetapkan untuk masing-masing seri."
+  ],
+  "fotoAdegan": "Wide exterior shot of a glass-facade financial district tower in Jakarta reflecting afternoon sky, pedestrians crossing below",
+  "takeaway": "Laporan ini netral bagi Maybank Sekuritas karena menerbitkan waran terstruktur adalah bisnis inti perusahaan sekuritas ini, bukan aksi korporasi luar biasa yang mengubah struktur keuangannya secara material. Pos yang tersentuh adalah arus kas masuk dari penjualan 14 seri waran, masing-masing 500 juta unit dengan harga Rp10-Rp300 per unit, dan dana ini masuk ke kas Maybank Sekuritas sebagai penerbit, bukan ke 14 emiten saham acuannya. Pelaku pasar memantau penerbitan semacam ini karena menambah pilihan instrumen derivatif di pasar, meski dampaknya ke kondisi keuangan penerbit relatif kecil dibanding skala bisnisnya secara keseluruhan. Yang perlu dipantau berikutnya adalah penutupan masa penawaran pada 2 Desember 2026, lalu tanggal pelaksanaan waran pada 30 September 2027 saat pemegangnya bisa menukarkan haknya sesuai rasio konversi masing-masing seri.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Akhir masa penawaran waran terstruktur seri ke-22"
+   },
+   {
+    "tanggal": "2027-09-30",
+    "acara": "Tanggal pelaksanaan (exercise date) waran terstruktur"
+   }
+  ]
+ },
+ {
+  "slug": "waran-zp-disesuaikan-imbas-dividen-aadi-efektif-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "Waran ZP [Disesuaikan] Imbas Dividen AADI, Efektif 4 Desember",
+  "deck": "Harga pelaksanaan dan rasio konversi waran ZP atas AADI disesuaikan menyusul dividen interim AADI senilai US$500 juta, berlaku 4 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:07:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ZP_E019_6c61c640-f8bf-4132-9845-3b4049629002-20261126160716.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "AADI",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) mengumumkan penyesuaian syarat dan ketentuan dua waran terstruktur yang diterbitkannya, AADIZPCZ6A dan AADIZPCM7A, yang keduanya mengacu pada saham PT Adaro Andalan Indonesia Tbk (AADI). Penyesuaian ini dipicu oleh rencana AADI membagikan dividen interim tahun buku 2026 senilai US$500 juta, yang diumumkan AADI pada 25 November 2026. Imbas dividen itu, harga pelaksanaan dan rasio konversi kedua waran akan dihitung ulang memakai rumus baku yang mengacu pada harga perdagangan terakhir saham AADI pada cum-date dan besaran dividen tunai per saham.",
+   "Dasar penyesuaian ini adalah Bagian 3.8 Prospektus waran tertanggal 11 April 2025 serta Term Sheet AADIZPCZ6A dan AADIZPCM7A, bukan keputusan baru dari Maybank Sekuritas. Penyesuaian akan berlaku pada tanggal ex dividen AADI, yaitu 4 Desember 2026 untuk transaksi di pasar reguler dan negosiasi, serta 8 Desember 2026 untuk transaksi di pasar tunai. Dokumen juga mencantumkan klausul bahwa penerbit, dalam hal ini Maybank Sekuritas, berhak atas kebijaksanaannya sendiri memutuskan tidak melakukan penyesuaian sama sekali tanpa kewajiban apa pun kepada pemegang waran terstruktur.",
+   "Laporan ini merupakan laporan ketiga dalam sepekan terakhir soal penyesuaian waran terstruktur yang diterbitkan Maybank Sekuritas, setelah penyesuaian serupa imbas dividen BBCA pada 20 November dan dividen BFIN pada 23 November. Ketiganya mengikuti mekanisme yang sama: menyesuaikan harga pelaksanaan dan rasio konversi waran begitu saham acuannya membagikan dividen tunai."
+  ],
+  "fotoAdegan": "Coal conveyor loading a bulk carrier at a busy mining port terminal under overcast sky, workers in hi-vis vests",
+  "takeaway": "Laporan ini netral bagi Maybank Sekuritas karena penyesuaian harga pelaksanaan dan rasio konversi waran semata mengikuti rumus baku yang sudah dipatok sejak prospektus terbit April 2025, bukan keputusan bisnis baru dari penerbit. Yang berubah hanya angka teknis pada instrumen derivatif atas saham AADI, bukan pos keuangan Maybank Sekuritas sendiri seperti ekuitas, arus kas, atau laba per saham, sebab perusahaan ini hanya berperan sebagai penerbit waran, bukan pihak yang membagikan dividen. Yang perlu dipantau adalah tanggal efektif penyesuaian pada 4 Desember 2026 untuk pasar reguler dan negosiasi serta 8 Desember 2026 untuk pasar tunai, termasuk kemungkinan penerbit memutuskan tidak melakukan penyesuaian sama sekali sesuai klausul kebijaksanaan yang tercantum dalam dokumen.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Penyesuaian waran efektif, Ex Dividen pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Penyesuaian waran efektif, Ex Dividen pasar tunai"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-flmc-28-desember-pmthmetd-atasi-ekuitas-negatif-rp2-6-m",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 28 Desember: [PMTHMETD] Atasi Ekuitas Negatif Rp2,6 M",
+  "deck": "RUPSLB 28 Desember akan menentukan rencana FLMC terbitkan 78,1 juta saham baru Rp100/saham untuk investor baru, setelah ekuitas Perseroan negatif Rp2,59 miliar per Juni 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T16:03:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_FLMC_E019_44c28028-d726-4c84-a3e2-b64d201665c1-20261126160306.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FLMC",
+  "tags": [
+   "FLMC",
+   "PMTHMETD",
+   "RUPSLB",
+   "ekuitas negatif"
+  ],
+  "body": [
+   "Direksi PT Falmaco Nonwoven Industri Tbk (FLMC) mengajukan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu (PMTHMETD) yang akan diminta persetujuannya dalam RUPSLB pada Senin, 28 Desember 2026. Perseroan akan menerbitkan 78.125.000 saham baru bernilai nominal Rp80 per saham, yang seluruhnya akan diserap oleh PT Futura Living Investama (FLI) dengan harga pelaksanaan Rp100 per saham. Skema PMTHMETD ini dipakai karena FLMC memenuhi syarat pengecualian dalam Pasal 8B huruf (b) POJK No. 14/2019, yakni perusahaan terbuka dengan modal kerja bersih negatif dan liabilitas yang melebihi 80 persen dari aset boleh menambah modal tanpa menawarkan hak memesan efek terlebih dahulu kepada pemegang saham lama.",
+   "Kondisi keuangan yang melatari rencana ini tercatat dalam laporan keuangan audit per 30 Juni 2026: aset Perseroan sebesar Rp37,14 miliar, sementara liabilitas sudah mencapai Rp39,73 miliar atau 106,98 persen dari total aset, membuat ekuitas FLMC negatif Rp2,59 miliar. Ekuitas ini merosot dari posisi positif Rp20,66 miliar pada akhir 2025 dan Rp43,48 miliar pada akhir 2024. Akibatnya, berdasarkan Pengumuman BEI No. Peng-PK-00072/BEI.PLP/10-2026 tanggal 7 Oktober 2026, saham FLMC telah dimasukkan ke dalam Efek Bersifat Ekuitas Dalam Pemantauan Khusus. Penilai independen KJPP Areyanti, Zainab dan Rekan menghitung nilai pasar 100 persen ekuitas FLMC sebesar Rp57,31 miliar atau setara Rp73 per saham per 30 Juni 2026, sehingga harga pelaksanaan Rp100 per saham yang disepakati dengan FLI berada sekitar 37 persen di atas nilai wajar tersebut.",
+   "Dokumen ini juga membandingkan susunan pemegang saham sejak akta Juni 2026 dengan daftar pemegang saham per 30 Oktober 2026. Kepemilikan Falmaco Pte Ltd turun dari 25,23 persen menjadi 2,89 persen, sementara nama Hans Saputra muncul dengan kepemilikan 7,88 persen. Theresia Indrawirawan tetap menjadi pemegang saham dan pengendali terbesar dengan 39,48 persen. Selain itu, Perseroan, Presiden Direktur Rosalina Indra Wirawati, dan Presiden Komisaris Theresia Indra Wirawan tercatat sebagai pihak yang digugat oleh Michael Rusli di Pengadilan Negeri Jakarta Selatan (Perkara No. 1418/Pdt.G/2025/PN.Jkt.Sel), terkait dugaan wanprestasi atas rencana jual beli 655.000.000 saham FLMC atau 83,84 persen dari seluruh saham, senilai Rp25,5 miliar, dengan uang muka Rp2,5 miliar yang sudah dibayarkan dan tuntutan ganti rugi Rp15 miliar. Perseroan menyatakan bukan pihak dalam perjanjian itu dan perkara tersebut tidak menyasar aset, pabrik, atau rekening Perseroan."
+  ],
+  "fotoAdegan": "Workers monitoring rolls of nonwoven fabric moving through an industrial production line inside a tissue factory",
+  "takeaway": "Dinilai netral bagi FLMC: dana segar dari investor baru memang masuk dengan harga 37 persen di atas nilai wajar saham, tapi laporan ini sendiri mengonfirmasi bahwa kondisi keuangan Perseroan memang berat, ekuitas sudah negatif dan sahamnya masuk daftar pemantauan khusus BEI. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang jadi bantalan kalau perusahaan merugi, yang per Juni 2026 sudah minus Rp2,59 miliar karena utang Rp39,73 miliar sudah melampaui aset Rp37,14 miliar. Jumlah saham beredar juga akan bertambah 78,1 juta lembar, sekitar 10 persen dari saham yang sudah ada, sehingga porsi kepemilikan pemegang saham lama otomatis mengecil meski itu tidak berarti nilai sahamnya ikut turun. Yang perlu dipantau berikutnya adalah RUPSLB pada 28 Desember 2026 yang menentukan apakah rencana ini disetujui, serta kelanjutan gugatan perdata di Pengadilan Negeri Jakarta Selatan yang menyeret Presiden Direktur Rosalina Indra Wirawati dan Presiden Komisaris Theresia Indra Wirawan, meski menurut Perseroan perkara itu tidak menyangkut aset perusahaan.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-28",
+    "acara": "RUPSLB persetujuan rencana PMTHMETD"
+   }
+  ]
  },
  {
   "slug": "dematerialisasi-tkim-warkat-wajib-konversi-sebelum-5-mei-2030",
@@ -22187,8 +22478,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-tamu-18-desember-2026-jadwal-dps-per-25-november",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB TAMU 18 Desember 2026: [Jadwal] DPS per 25 November",
-  "deck": "PT Pelayaran Tamarin Samudra Tbk (TAMU) akan menggelar RUPST dan RUPSLB pada 18 Desember 2026. Pemegang saham yang tercatat per 25 November 2026 berhak hadir dan bersuara.",
+  "title": "RUPSLB TAMU 18 Desember: [Agenda] Ubah KBLI dan Anggaran Dasar",
+  "deck": "Pemanggilan resmi RUPST dan RUPSLB TAMU terbit 26 November 2026, memuat satu agenda: penyesuaian KBLI 2025 dan perubahan Pasal 3 Anggaran Dasar. Rapat tetap digelar 18 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "11 November 2026",
   "isoDate": "2026-11-11T16:51:18",
@@ -22199,15 +22490,15 @@ var ARTICLES = [
    "TAMU",
    "RUPSLB",
    "RUPST",
-   "Pelayaran Tamarin Samudra"
+   "KBLI"
   ],
   "body": [
-   "PT Pelayaran Tamarin Samudra Tbk (TAMU) menginformasikan rencana penyelenggaraan Rapat Umum Pemegang Saham Tahunan (RUPST) sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 18 Desember 2026 pukul 10.00 WIB, bertempat di Jalan Balikpapan I Nomor 5D, Petojo Utara, Gambir, Jakarta Pusat. Pemberitahuan ini disampaikan kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 11 November 2026, ditandatangani oleh Corporate Secretary Edi Purwanto. Dokumen ini baru memuat jadwal, agenda resmi rapat belum diumumkan.",
-   "Perseroan menetapkan tanggal daftar pemegang saham (DPS) pada 25 November 2026 pukul 16.00 WIB sebagai batas pencatatan. Hanya pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham Perseroan pada tanggal tersebut, atau pemilik saham yang tercatat di sub rekening efek PT Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan di Bursa Efek Indonesia pada tanggal yang sama, yang berhak hadir dan memberikan suara dalam rapat.",
-   "Pemanggilan resmi yang memuat agenda rapat baru akan diumumkan pada 26 November 2026, melalui situs e-RUPS KSEI, situs Bursa Efek Indonesia, dan situs web perseroan. Pemegang saham yang ingin mengusulkan mata acara rapat harus mewakili sekurang-kurangnya satu per dua puluh dari total saham dengan hak suara sah, mengajukan usulan tertulis berikut alasan dan bahan pendukung kepada Direksi, paling lambat tujuh hari sebelum tanggal pemanggilan. Perseroan juga akan menerapkan mekanisme pemberian kuasa secara elektronik melalui sistem eASY.KSEI, dengan penjelasan teknisnya disampaikan bersamaan pemanggilan rapat."
+   "PT Pelayaran Tamarin Samudra Tbk (TAMU) menerbitkan pemanggilan resmi untuk Rapat Umum Pemegang Saham Tahunan (RUPST) sekaligus Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 26 November 2026. Pemanggilan ini memuat satu agenda resmi untuk RUPSLB, yaitu persetujuan penyesuaian dan pembaruan maksud, tujuan, serta kegiatan usaha perusahaan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025, yang akan diikuti dengan perubahan Pasal 3 Anggaran Dasar Perseroan.",
+   "Rapat tetap digelar pada Jumat, 18 Desember 2026 pukul 10.00 WIB, di Jalan Balikpapan I Nomor 5D, Petojo Utara, Gambir, Jakarta Pusat, sesuai jadwal yang sudah diumumkan sejak 11 November 2026. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat di Daftar Pemegang Saham (DPS) per Rabu, 25 November 2026 pukul 16.00 WIB, baik secara langsung maupun melalui sub rekening efek di PT Kustodian Sentral Efek Indonesia (KSEI).",
+   "Perseroan menyediakan dua jalur kehadiran, yaitu hadir langsung di lokasi rapat atau melalui aplikasi eASY.KSEI di tautan akses.ksei.co.id, yang juga bisa dipakai untuk menunjuk kuasa dan memberikan suara secara elektronik. Bahan mata acara rapat sudah tersedia di situs web perusahaan sejak tanggal pemanggilan, 26 November 2026. Pemanggilan ditandatangani oleh Direksi Perseroan, menyusul pemberitahuan sebelumnya yang ditandatangani Corporate Secretary Edi Purwanto."
   ],
   "fotoAdegan": "Cargo ship docked at a busy Indonesian port, workers checking mooring lines under overcast morning light.",
-  "takeaway": "Pengumuman ini netral bagi fundamental TAMU karena sifatnya baru memberi tahu jadwal rapat, belum memuat agenda atau keputusan apa pun yang bisa dinilai arahnya. Dampaknya ke pos kinerja seperti ekuitas, arus kas, atau laba per saham masih belum bisa diukur karena mata acara belum diumumkan, padahal RUPST biasanya membahas laporan tahunan dan rencana dividen yang bisa mengubah dua pos itu begitu agendanya terbuka. Yang perlu dipantau pemegang saham adalah batas pencatatan pada 25 November 2026 agar namanya tercatat dan berhak bersuara, lalu pemanggilan resmi pada 26 November 2026 yang baru akan memuat agenda sebenarnya, dan rapat itu sendiri pada 18 Desember 2026.",
+  "takeaway": "Pemanggilan ini bersifat netral bagi TAMU karena agenda yang diumumkan hanya satu, yaitu penyesuaian klasifikasi kegiatan usaha ke KBLI 2025 dan perubahan Pasal 3 Anggaran Dasar yang memuat maksud dan tujuan perusahaan, bukan agenda yang langsung menggerakkan uang seperti dividen atau right issue. Perubahan semacam ini tidak menyentuh ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham perusahaan, karena sifatnya administratif menyesuaikan daftar kode usaha resmi dengan standar baru dari pemerintah, bukan transaksi keuangan. Pemanggilan juga belum menyingkap agenda RUPST tahunan seperti laporan keuangan atau usulan dividen yang biasanya turut dibahas dalam rapat gabungan seperti ini. Yang perlu dipantau pemegang saham adalah hasil pemungutan suara pada RUPST dan RUPSLB tanggal 18 Desember 2026, termasuk apakah ada penjelasan tambahan soal lini usaha baru yang tercakup dalam kode KBLI 2025 yang diajukan.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
@@ -22218,13 +22509,22 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-11-26",
-    "acara": "Pemanggilan resmi RUPS memuat agenda diumumkan"
+    "acara": "Pemanggilan resmi RUPST dan RUPSLB terbit dengan agenda KBLI 2025"
    },
    {
     "tanggal": "2026-12-18",
-    "acara": "Pelaksanaan RUPST dan RUPSLB"
+    "acara": "Pelaksanaan RUPST dan RUPSLB TAMU"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-26T16:58:58",
+    "ringkas": "Pemanggilan resmi RUPSLB TAMU terbit dengan satu agenda: penyesuaian KBLI 2025 dan perubahan Pasal 3 Anggaran Dasar soal kegiatan usaha.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_TAMU_E002_f5932192-a8a6-4181-8dee-e18c7628ad1c-20261126165900.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-26T16:58:58"
  },
  {
   "slug": "pemerintah-perluas-insentif-pajak-karyawan-ke-semua-sektor-2027",
@@ -37107,8 +37407,8 @@ var ARTICLES = [
  {
   "slug": "jsmr-panggil-rupslb-setujui-penggabungan-lmj-tol-ke-jtt",
   "category": "Aksi Korporasi",
-  "title": "JSMR Panggil RUPSLB, Setujui [Penggabungan] LMJ-TOL ke JTT",
-  "deck": "Jasa Marga memanggil RUPSLB pada 25 November 2026 untuk membahas penggabungan anak usaha tol LMJ dan TOL ke JTT, perubahan anggaran dasar, dan perubahan susunan pengurus.",
+  "title": "RUPSLB JSMR 25 November: [Merger] ke JTT dan Rombak Direksi Disetujui",
+  "deck": "RUPSLB Jasa Marga 25 November 2026 menyetujui penggabungan LMJ-TOL ke JTT, revisi anggaran dasar, dan pergantian tiga direktur termasuk direktur keuangan baru.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "3 November 2026",
   "isoDate": "2026-11-03T11:37:37",
@@ -37118,17 +37418,29 @@ var ARTICLES = [
   "tags": [
    "JSMR",
    "RUPSLB",
-   "Jasa Marga",
-   "Merger anak usaha"
+   "Direksi Jasa Marga",
+   "Merger Anak Usaha"
   ],
   "body": [
-   "PT Jasa Marga (Persero) Tbk memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Rabu, 25 November 2026 pukul 13:30 WIB. Rapat dilaksanakan secara elektronik melalui fasilitas eASY.KSEI, dengan Pemimpin Rapat, notaris, dan lembaga profesi penunjang berkoordinasi fisik di Jakarta Selatan. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam Daftar Pemegang Saham Perseroan per 2 November 2026 pukul 16:15 WIB, atau pemilik saldo rekening efek di KSEI pada penutupan perdagangan tanggal yang sama.",
-   "Agenda pertama rapat adalah persetujuan penggabungan PT Lintas Marga Jawa (LMJ) dan PT Trans Optima Luhur (TOL) ke dalam PT Jasamarga Transjawa Tol (JTT), yang juga merupakan anak usaha Jasa Marga. Perseroan menyatakan rencana penggabungan ini bukan transaksi material yang memerlukan persetujuan RUPS berdasarkan POJK 17/2020, serta dikecualikan dari kewajiban memakai jasa penilai, mengumumkan keterbukaan informasi ke publik dan OJK, maupun memperoleh persetujuan RUPS independen. Alasannya, transaksi ini terjadi antara JTT selaku perusahaan terkendali Jasa Marga dan LMJ serta TOL yang sahamnya dikuasai paling sedikit 99 persen oleh perusahaan terkendali tersebut, sesuai ketentuan POJK 42/2020 tentang transaksi afiliasi. Dasar agenda ini antara lain surat Dewan Komisaris Jasa Marga tertanggal 21 Juli 2026 dan surat PT Danantara Asset Management tertanggal 30 Maret 2026 soal penetapan batas kewenangan sesuai anggaran dasar.",
-   "Dua agenda lain yang dibahas adalah perubahan anggaran dasar Perseroan, yang salah satu dasarnya adalah penyesuaian terhadap klasifikasi baku lapangan usaha Indonesia versi 2025 dari Badan Pusat Statistik, serta perubahan susunan pengurus Perseroan yang merujuk pada aturan Undang-Undang Perseroan Terbatas, Undang-Undang BUMN, dan Peraturan Pemerintah No. 38 Tahun 2026 tentang Pengelolaan BUMN. Jasa Marga tidak mengirimkan undangan tersendiri karena pemanggilan ini sudah berlaku sebagai undangan resmi, dan pemegang saham dapat memberikan atau mencabut kuasa suara melalui eASY.KSEI sejak tanggal pemanggilan hingga paling lambat satu hari kerja sebelum rapat, pukul 12:00 WIB. Bahan rapat sudah tersedia di situs web Perseroan sejak tanggal pemanggilan, dan Perseroan menegaskan tidak menyediakan makanan, minuman, atau cindera mata bagi peserta rapat."
+   "PT Jasa Marga (Persero) Tbk mengumumkan hasil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang digelar Rabu, 25 November 2026, secara elektronik melalui eASY.KSEI. Rapat dihadiri pemegang saham yang mewakili 6,34 miliar saham atau 87,4 persen dari total 7,25 miliar saham berhak suara, dan ketiga agenda yang dibahas, yaitu penggabungan anak usaha, perubahan anggaran dasar, dan perubahan susunan direksi, semuanya disetujui dengan suara terbanyak.",
+   "Agenda pertama, penggabungan PT Lintas Marga Jawa (LMJ) dan PT Trans Optima Luhur (TOL) ke dalam PT Jasamarga Transjawa Tol (JTT) sebagai entitas yang menerima penggabungan, disetujui oleh 92,2 persen suara yang hadir, dengan 6,8 persen menolak dan 1 persen abstain alias tidak memilih. Direksi Jasa Marga diberi kuasa menjalankan seluruh tahap penggabungan sesuai rancangan yang sudah dipublikasikan sejak 30 September 2026, dengan tetap mematuhi aturan dan perjanjian yang mengikat LMJ, TOL, maupun JTT.",
+   "Agenda kedua, perubahan Pasal 3 Anggaran Dasar Perseroan soal maksud, tujuan, dan kegiatan usaha untuk menyesuaikan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) terbaru dari Badan Pusat Statistik, disetujui oleh 92 persen suara, dengan 7 persen menolak.",
+   "Agenda ketiga soal perubahan susunan direksi mendapat dukungan paling tipis di antara ketiganya, yaitu 86,4 persen setuju dan 12,8 persen menolak. Rapat memberhentikan tiga direktur, yaitu Pramitha Wulanjani (Direktur Keuangan dan Manajemen Risiko), Yaya Ruhiya (Direktur Layanan), dan Reza Febriano (Direktur Bisnis), serta mengangkat dua direktur baru, Sigit Prastowo sebagai Direktur Keuangan dan Manajemen Risiko dan Riksa Prakoso sebagai Direktur SDM dan Transformasi. Tiga direktur lama, yaitu Yoga Tri Anggoro, Fitri Wiyanti, dan Ari Respati, dipindah tugas ke jabatan baru menyusul perubahan nomenklatur sejumlah posisi direksi. Dengan susunan baru ini, Direksi Jasa Marga beranggotakan Rivan A. Purwantono sebagai Direktur Utama, Andry Tanudjaja sebagai Wakil Direktur Utama, Ari Respati sebagai Direktur Bisnis dan Layanan, Riksa Prakoso sebagai Direktur SDM dan Transformasi, Sigit Prastowo sebagai Direktur Keuangan dan Manajemen Risiko, Yoga Tri Anggoro sebagai Direktur Operasi, dan Fitri Wiyanti sebagai Direktur Teknik, sementara susunan Dewan Komisaris tidak berubah.",
+   "Penggabungan LMJ dan TOL ke JTT ini sebelumnya diumumkan Jasa Marga lewat pemanggilan RUPSLB pada 3 November 2026. Perseroan menyatakan transaksi ini bukan transaksi material yang memerlukan penilai independen atau keterbukaan informasi khusus ke OJK, karena terjadi antara JTT selaku anak usaha Jasa Marga dan LMJ serta TOL yang sahamnya sudah dikuasai lebih dari 99 persen oleh JTT, sesuai aturan transaksi afiliasi dalam POJK 42/2020."
   ],
   "fotoAdegan": "Aerial view of an elevated Indonesian toll road with cars and trucks flowing between concrete barriers, late afternoon light",
-  "takeaway": "Laporan ini netral bagi Jasa Marga karena penggabungan Lintas Marga Jawa dan Trans Optima Luhur ke dalam Jasamarga Transjawa Tol murni menata ulang struktur anak usaha yang sahamnya sudah dikuasai lebih dari 99 persen oleh grup, bukan transaksi yang membawa dana segar atau mengubah kendali Jasa Marga atas ruas tolnya. Karena ketiga entitas itu sudah masuk dalam laporan keuangan konsolidasian Jasa Marga, penggabungan ini tidak langsung mengubah ekuitas, arus kas, atau laba per saham perusahaan induk, dampaknya lebih pada penyederhanaan struktur hukum dan kemungkinan efisiensi biaya administrasi antar entitas yang kini menjadi satu. Dua agenda lain, perubahan anggaran dasar dan susunan pengurus, juga bersifat tata kelola yang dipicu oleh perubahan klasifikasi usaha dan aturan kementerian BUMN, bukan sinyal soal kinerja operasional perusahaan. Yang perlu dipantau adalah hasil pemungutan suara di RUPSLB pada 25 November 2026, terutama agenda perubahan susunan direksi dan komisaris yang bisa mengubah arah kebijakan perusahaan ke depan, serta nama-nama yang masuk dan keluar begitu diumumkan setelah rapat.",
-  "sentimen": "netral"
+  "takeaway": "Hasil RUPSLB ini netral bagi Jasa Marga, karena ketiga agenda yang disetujui, penggabungan anak usaha, revisi anggaran dasar, dan rotasi direksi, semuanya bersifat administratif dan tidak membawa dana segar atau mengubah struktur utang maupun aset tol yang dikuasai grup. Pos kinerja yang tersentuh pun terbatas pada tata kelola, bukan laporan keuangan, sebab Lintas Marga Jawa dan Trans Optima Luhur sudah terkonsolidasi dalam laporan keuangan Jasa Marga sejak awal sehingga penggabungannya tidak mengubah ekuitas, arus kas, atau laba per saham perusahaan induk. Yang justru patut dicatat adalah dukungan suara untuk agenda pergantian direksi hanya 86,4 persen, jauh lebih rendah dibanding dua agenda lain yang di atas 91 persen, dengan 12,8 persen pemegang saham menolak, mengindikasikan ada ketidaksepakatan yang lebih besar soal susunan direksi baru dibanding soal penggabungan anak usaha. Yang perlu dipantau selanjutnya adalah bagaimana direksi baru, terutama Direktur Keuangan dan Manajemen Risiko Sigit Prastowo dan Direktur SDM dan Transformasi Riksa Prakoso, menjalankan tugasnya, serta tahap lanjutan pelaksanaan penggabungan LMJ dan TOL ke JTT yang kini resmi berjalan setelah mendapat restu pemegang saham.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-26T17:15:09",
+    "ringkas": "RUPSLB 25 November menyetujui penggabungan LMJ-TOL ke JTT, revisi anggaran dasar, dan pergantian tiga direktur Jasa Marga.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_JSMR_E013_92e5279d-9b03-4be9-98c3-9011557a9981-20261126171511.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-26T17:15:09",
+  "peristiwa": "rups"
  },
  {
   "slug": "boss-lapor-lk-kuartal-i-2025-defisit-modal-melebar-lagi",
@@ -38111,8 +38423,8 @@ var ARTICLES = [
  {
   "slug": "lrna-catat-rugi-rp20-97-miliar-dalam-9-bulan-2026",
   "category": "Aksi Korporasi",
-  "title": "LRNA Catat [Rugi] Rp20,97 Miliar dalam 9 Bulan 2026",
-  "deck": "Pendapatan Lorena Transport turun 23 persen dan kas menipis, sementara rugi bersih sembilan bulan tercatat Rp20,97 miliar.",
+  "title": "LRNA Jawab BEI soal Kas Tipis: [Topang] dari Pemegang Saham Lorena",
+  "deck": "Bursa meminta penjelasan atas laporan kuartal III LRNA yang kasnya tipis Rp384,89 juta; perseroan mengandalkan fasilitas Bank Mandiri dan dana pemegang saham pengendali PT Lorena.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T21:29:37",
@@ -38121,18 +38433,36 @@ var ARTICLES = [
   "emiten": "LRNA",
   "tags": [
    "LRNA",
-   "laporan keuangan",
-   "rugi bersih",
-   "transportasi"
+   "Laporan Keuangan",
+   "Likuiditas",
+   "Tanggapan BEI"
   ],
   "body": [
-   "PT Eka Sari Lorena Transport Tbk (LRNA) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia pada 2 November 2026. Laporan ditandatangani Direktur Utama Soerbakti G.T. dan Direktur Dwi Rianta Soerbakti, dengan surat pernyataan direksi bertanggal 29 Oktober 2026.",
-   "Pendapatan perusahaan bus antar kota ini tercatat Rp36,36 miliar sepanjang sembilan bulan 2026, turun dari Rp47,42 miliar pada periode yang sama tahun lalu, penurunan sekitar 23 persen. Meski demikian, rugi bersih justru menyempit menjadi Rp20,97 miliar dari Rp22,49 miliar tahun sebelumnya, karena beban pendapatan langsung turun lebih dalam dibanding pendapatan. Rugi per saham tercatat Rp59,93, dari sebelumnya Rp64,25 per saham.",
-   "Dari sisi kas, posisi kas dan bank perusahaan turun menjadi Rp384,89 juta pada akhir September 2026 dari Rp609,05 juta pada akhir 2025. Arus kas yang terpakai untuk kegiatan operasi melebar hampir dua kali lipat menjadi Rp12,48 miliar dari Rp6,50 miliar, dan kekurangan itu ditambal dengan penerimaan dari pihak berelasi sebesar Rp12,62 miliar. Total ekuitas perusahaan ikut tergerus menjadi Rp245,77 miliar dari Rp266,74 miliar pada akhir 2025, sejalan dengan akumulasi rugi yang terus bertambah."
+   "PT Eka Sari Lorena Transport Tbk (LRNA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia pada 23 November 2026, menjawab surat permintaan penjelasan BEI No. S-14437/BEI.PP3/11-2026 atas laporan keuangan kuartal III 2026. Bursa mempertanyakan antara lain kas perusahaan yang hanya tersisa Rp384,89 juta atau 0,14 persen dari total aset, ketergantungan piutang pada pihak berelasi, dan komposisi ekuitas yang sebagian besar berasal dari penilaian ulang aset, bukan laba usaha.",
+   "Soal kas tipis, manajemen menjelaskan strategi menjaga modal kerja mengandalkan fasilitas Kredit Modal Kerja dari PT Bank Mandiri (Persero) Tbk yang tercatat diperpanjang sampai dengan 25 September 2026, ditambah penghematan biaya bahan bakar sebesar 34,63 persen dan beban pendapatan langsung yang turun 27,57 persen. Untuk 12 bulan ke depan, perseroan juga menyiapkan dukungan pendanaan dari pemegang saham pengendali, PT Lorena, apabila diperlukan, sebagaimana pola yang sama dengan penerimaan dana pihak berelasi yang sudah terjadi sepanjang sembilan bulan 2026.",
+   "Perseroan juga mengklarifikasi bahwa piutang kepada PT Ryanta Mitrakaryna yang mencapai 56,14 persen dari total piutang usaha berasal dari kerja sama bagi hasil 8 unit bus tingkat sejak 2017, namun kontribusinya terhadap pendapatan hanya 5,38 persen karena pendapatan tiket lain diterima tunai. Saldo piutang itu justru turun 25,41 persen dibanding akhir 2025, dan kualitas piutang maupun utang usaha perseroan secara umum membaik, masing-masing turun 31,10 persen dan 43,81 persen untuk pos yang telah jatuh tempo. Perseroan juga mengoreksi kekeliruan administratif berupa nama Komisaris Utama dan Komisaris Independen yang sama-sama tertulis sebagai Samsudin, dan menegaskan rasio komisaris independen tetap memenuhi syarat minimal 30 persen dari POJK No. 33/2014.",
+   "Dokumen ini juga membuka rincian baru: 18 unit bus AKAP yang sudah berhenti beroperasi sejak 2024 masih tercatat sebagai aset senilai Rp6,718 miliar berdasarkan penilaian appraisal tahun 2023, dan perseroan mengakui adanya potensi rugi penurunan nilai saat aset itu benar-benar dijual. Selain itu, surplus revaluasi aset perseroan tercatat Rp226,1 miliar, setara 92 persen dari total ekuitas, jauh lebih besar dibanding porsi modal yang berasal dari akumulasi laba usaha.",
+   "Fakta-fakta dari laporan keuangan sebelumnya tetap berlaku: pendapatan sembilan bulan 2026 tercatat Rp36,36 miliar, turun 23 persen dari Rp47,42 miliar tahun sebelumnya, sementara rugi bersih menyempit menjadi Rp20,97 miliar dari Rp22,49 miliar karena pemangkasan beban langsung. Ekuitas perseroan ikut turun menjadi Rp245,77 miliar dari Rp266,74 miliar pada akhir 2025, sejalan dengan akumulasi rugi yang terus bertambah."
   ],
   "fotoAdegan": "Several intercity buses parked at a terminal at dawn, drivers checking tires and luggage compartments, soft morning mist",
-  "takeaway": "Laporan ini condong negatif bagi LRNA karena pendapatan turun tajam, kas perusahaan menipis, dan kebutuhan kas operasional justru ditutup dengan suntikan dari pihak berelasi, bukan dari hasil usaha sendiri. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan yang jadi milik pemegang saham, yang terus mengecil karena rugi yang berulang menggerus modal dari tahun ke tahun. Arus kas operasi, yaitu uang yang benar-benar masuk dan keluar dari aktivitas bisnis sehari-hari, juga memburuk karena defisitnya melebar hampir dua kali lipat dibanding periode yang sama tahun lalu. Satu sisi baiknya, rugi bersih sebenarnya sedikit menyempit dibanding tahun lalu karena perusahaan berhasil memangkas beban langsung. Yang perlu dipantau berikutnya adalah apakah tren pendapatan yang menyusut ini berlanjut di laporan tahunan auditan 2026, dan apakah pasokan dana dari pihak berelasi tetap tersedia untuk menambal kas operasional yang terus menipis.",
-  "sentimen": "negatif"
+  "takeaway": "Tanggapan ini condong negatif bagi LRNA karena mengonfirmasi bahwa kas tipisnya bukan ditopang hasil usaha, melainkan oleh fasilitas bank yang sudah lewat jatuh tempo dan kesiapan suntikan dana dari pemegang saham pengendali. Yang tersentuh adalah struktur ekuitas, karena ternyata 92 persen modal perseroan berasal dari surplus revaluasi aset, yaitu penilaian ulang nilai tanah dan armada bus, bukan dari akumulasi laba usaha, sehingga kalau faktor penilaian ulang itu dikeluarkan, modal riil perusahaan jauh lebih tipis; arus kas dari kegiatan bisnis sehari-hari juga masih negatif sehingga perusahaan tetap bergantung pada dana dari luar. Ada sisi baik berupa penghematan biaya bahan bakar, perbaikan kualitas piutang, dan penurunan utang usaha. Yang perlu dipantau berikutnya adalah apakah Bank Mandiri kembali memperpanjang fasilitas kredit modal kerja yang tercatat jatuh tempo sejak 25 September 2026, apakah PT Lorena jadi benar menyuntik dana dalam 12 bulan mendatang, dan bagaimana hasil penjualan 18 bus AKAP yang sudah tidak beroperasi, karena berpotensi mencatatkan rugi penurunan nilai saat benar-benar dilepas.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-26T16:48:55",
+    "ringkas": "LRNA jelaskan ke BEI: kas tipis ditopang fasilitas Bank Mandiri dan dana pemegang saham PT Lorena, surplus revaluasi capai 92% dari ekuitas.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_LRNA_E019_d6c06829-2f80-41ba-b153-8a1194ad9322-20261126164856.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan"
+   }
+  ],
+  "diperbarui": "2026-11-26T16:48:55",
+  "jadwal": [
+   {
+    "tanggal": "2026-09-25",
+    "acara": "Jatuh tempo perpanjangan fasilitas kredit modal kerja Bank Mandiri"
+   }
+  ],
+  "peristiwa": "lapkeu"
  },
  {
   "slug": "pura-laba-naik-86-kas-susut-tajam-kuartal-iii-2026",

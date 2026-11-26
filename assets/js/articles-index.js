@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-amp-rp1-34-triliun-tapg-terima-94-93",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Interim AMP Rp1,34 Triliun: TAPG [Terima] 94,93%",
+  "deck": "AMP, anak usaha yang 94,93% sahamnya dimiliki TAPG, membagikan dividen interim Rp1,34 triliun pada 25 November 2026; bagian TAPG diperkirakan sekitar Rp1,27 triliun.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TAPG",
+   "dividen interim",
+   "transaksi afiliasi",
+   "AMP"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_TAPG_E019_b7f040ac-d933-426d-b880-4e80478452ba-20261126172128.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bei-minta-penjelasan-volatilitas-saham-humi-tak-ada-info-material",
+  "category": "Aksi Korporasi",
+  "title": "BEI Minta Penjelasan Volatilitas Saham HUMI: [Tak Ada] Info Material",
+  "deck": "HUMI menjawab surat BEI 20 November 2026 soal volatilitas transaksi sahamnya: perseroan tidak mengetahui informasi material dan tak ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HUMI",
+   "BEI",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_HUMI_E019_17a92c4f-fed2-4387-9e6d-2d2f6cfa1afc-20261126165816.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "roti-ubah-fasilitas-kredit-bca-pbmm-naik-jadi-rp550-miliar",
+  "category": "Aksi Korporasi",
+  "title": "ROTI Ubah Fasilitas Kredit BCA: [PBMM] Naik Jadi Rp550 Miliar",
+  "deck": "ROTI mengonversi fasilitas Time Loan BCA Rp500 miliar jadi Rp300 miliar plus Installment Loan Rp200 miliar, dan menambah PBMM Rp50 miliar jadi Rp550 miliar untuk modal kerja.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ROTI",
+   "kredit",
+   "BCA",
+   "modal kerja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ROTI_E019_33c88a0a-aeb1-4e40-b846-821ba91e6c6f-20261126165508.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ntbk-tanggapi-permintaan-bursa-tak-ada-informasi-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "NTBK Tanggapi Permintaan Bursa: [Tak Ada] Informasi Material Baru",
+  "deck": "NTBK menegaskan tidak ada informasi material yang disembunyikan terkait volatilitas transaksi sahamnya, dan belum ada rencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NTBK",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_NTBK_E023A_4b68ceff-d14b-4dff-a713-925b771fe623-20261126164004.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mufg-dipanggil-kppu-soal-telat-lapor-akuisisi-mandala-multifinance",
   "category": "Bisnis",
   "title": "MUFG [Dipanggil] KPPU soal Telat Lapor Akuisisi Mandala Multifinance",
@@ -19,6 +83,86 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kppu.go.id/berita/kppu-panggil-pimpinan-mufg-dalam-perkara-keterlambatan-notifikasi-akuisisi-mandala-multifinance",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "public-expose-nsss-laba-bersih-9m26-turun-9-5-jadi-rp501-3-m",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose NSSS: [Laba Bersih] 9M26 Turun 9,5% jadi Rp501,3 M",
+  "deck": "Pendapatan NSSS naik 16,8% pada 9M26 jadi Rp1.742,6 miliar, tapi laba bersih turun 9,5% akibat kenaikan biaya pupuk dan pajak efektif yang lebih tinggi.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "NSSS",
+   "CPO",
+   "kinerja keuangan",
+   "public expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_NSSS_E003_c1676b59-2102-4543-b521-9a610a81717e-20261126161933.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "diva-klarifikasi-volatilitas-saham-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "DIVA Klarifikasi Volatilitas Saham: [Tak Ada] Informasi Material",
+  "deck": "Merespons surat Bursa soal volatilitas transaksi efeknya, DIVA menyatakan tak ada informasi material maupun rencana pemegang saham utama mengubah kepemilikan.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DIVA",
+   "UMA",
+   "Bursa Efek Indonesia",
+   "Keterbukaan Informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_DIVA_E023A_fa1551a5-77a9-4663-8a6d-19380d168bb5-20261126160834.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-terstruktur-zp-ke-22-penawaran-30-nov-2-des-2026",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur ZP Ke-22: [Penawaran] 30 Nov-2 Des 2026",
+  "deck": "Maybank Sekuritas (ZP) menawarkan 14 seri waran terstruktur baru pada 30 November-2 Desember 2026, dengan saham acuan mulai dari AALI hingga WIFI dan harga pelaksanaan Rp57-Rp27.975.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "waran terstruktur",
+   "Maybank Sekuritas",
+   "penawaran umum"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ZP_E019_b74331c9-d0bf-480d-b527-1ef083fa871c-20261126160739.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-zp-disesuaikan-imbas-dividen-aadi-efektif-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "Waran ZP [Disesuaikan] Imbas Dividen AADI, Efektif 4 Desember",
+  "deck": "Harga pelaksanaan dan rasio konversi waran ZP atas AADI disesuaikan menyusul dividen interim AADI senilai US$500 juta, berlaku 4 Desember 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "AADI",
+   "waran terstruktur",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ZP_E019_6c61c640-f8bf-4132-9845-3b4049629002-20261126160716.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-flmc-28-desember-pmthmetd-atasi-ekuitas-negatif-rp2-6-m",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB FLMC 28 Desember: [PMTHMETD] Atasi Ekuitas Negatif Rp2,6 M",
+  "deck": "RUPSLB 28 Desember akan menentukan rencana FLMC terbitkan 78,1 juta saham baru Rp100/saham untuk investor baru, setelah ekuitas Perseroan negatif Rp2,59 miliar per Juni 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FLMC",
+   "PMTHMETD",
+   "RUPSLB",
+   "ekuitas negatif"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_FLMC_E019_44c28028-d726-4c84-a3e2-b64d201665c1-20261126160306.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "dematerialisasi-tkim-warkat-wajib-konversi-sebelum-5-mei-2030",
@@ -6339,152 +6483,6 @@ var ARTICLES = [
    "dividen tunai"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1169a08ea7_4fd6d94c9b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "investor-eropa-diminta-susun-rencana-aksi-90-hari-proyek-energi",
-  "category": "Energi",
-  "title": "Investor Eropa Diminta Susun [Rencana Aksi] 90 Hari Proyek Energi",
-  "deck": "Pemerintah mengajak investor Eropa mempercepat realisasi proyek transisi energi melalui rencana aksi 90 hari, di tengah target RUPTL 69,5 gigawatt kapasitas listrik baru hingga 2034.",
-  "date": "18 November 2026",
-  "image": "assets/img/jaringan-listrik.jpg",
-  "tags": [
-   "transisi energi",
-   "investasi Eropa",
-   "RUPTL",
-   "energi terbarukan"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7231/percepat-realisasi-proyek-transisi-energi-pemerintah-ajak-investor-eropa-perkuat-kolaborasi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "bi-naikkan-suku-bunga-acuan-ke-6-demi-jaga-rupiah",
-  "category": "Moneter",
-  "title": "BI [Naikkan] Suku Bunga Acuan ke 6% demi Jaga Rupiah",
-  "deck": "Bank Indonesia menaikkan BI-Rate 25 basis poin menjadi 6,00% untuk menahan pelemahan rupiah, sembari tetap melonggarkan aturan kredit perbankan.",
-  "date": "18 November 2026",
-  "image": "assets/img/rupiah-kurs.jpg",
-  "tags": [
-   "BI-Rate",
-   "Rupiah",
-   "Bank Indonesia",
-   "Suku Bunga"
-  ],
-  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825426.aspx",
-  "sourceLabel": "Bank Indonesia"
- },
- {
-  "slug": "mtsm-akui-salah-unggah-calk-revisi-laporan-keuangan-juni-2026",
-  "category": "Aksi Korporasi",
-  "title": "MTSM Akui Salah Unggah CALK, [Revisi] Laporan Keuangan Juni 2026",
-  "deck": "Metro Realty menjelaskan ke Bursa bahwa kesalahan unggah PDF membuat catatan laporan keuangan per Juni 2026 keliru, sembilan pos keuangan direvisi, dan suspensi saham masih berlanjut.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MTSM",
-   "suspensi saham",
-   "laporan keuangan",
-   "free float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e056a29b00_3ab0273d29.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smma-lenny-marlina-jadi-direktur-utama-baru-gantikan-burhanuddin",
-  "category": "Aksi Korporasi",
-  "title": "SMMA: Lenny Marlina Jadi [Direktur Utama] Baru, Gantikan Burhanuddin",
-  "deck": "PT Sinar Mas Multiartha Tbk mengangkat Lenny Marlina sebagai Direktur Utama baru per 17 November 2026, menggantikan Burhanuddin Abdullah, sekaligus menambah satu direktur baru.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMMA",
-   "Direksi",
-   "Corporate Governance",
-   "Pergantian Pengurus"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/6be4882084_bd1431a45b.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mglv-bantah-reekspor-ilegal-gpu-pastikan-tak-pernah-digeledah",
-  "category": "Aksi Korporasi",
-  "title": "MGLV Bantah [Reekspor Ilegal] GPU, Pastikan Tak Pernah Digeledah",
-  "deck": "Dalam keterbukaan informasi 18 November 2026, MGLV membantah tudingan reekspor ilegal GPU sejak 2024 dan memastikan tidak pernah ada penggeledahan di fasilitas pusat datanya.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MGLV",
-   "data center",
-   "ekspor GPU",
-   "fakta material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3f630909a3_1660579a5d.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "infomedia-raih-penghargaan-frost-sullivan-2026-di-bpo-digital",
-  "category": "BUMN",
-  "title": "Infomedia Raih Penghargaan [Frost & Sullivan] 2026 di BPO Digital",
-  "deck": "Anak usaha Telkom Indonesia ini dinobatkan Company of the Year oleh Frost & Sullivan atas integrasi AI dalam layanan business process outsourcing di Indonesia.",
-  "date": "18 November 2026",
-  "image": "assets/img/infomedia-raih-penghargaan-frost-sullivan-2026-di-bpo-digital.jpg",
-  "imageV": "mwltle65",
-  "tags": [
-   "Infomedia",
-   "Telkom Indonesia",
-   "BPO",
-   "Frost & Sullivan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479008-infomedia-raih-penghargaan-frost-sullivan-2026-di-industri-digital-bpo"
- },
- {
-  "slug": "bri-salurkan-rp12-61-triliun-kredit-program-perumahan",
-  "category": "BUMN",
-  "title": "BRI Salurkan [Rp12,61 Triliun] Kredit Program Perumahan",
-  "deck": "BRI merealisasikan Rp12,61 triliun kredit program perumahan dan Rp17,15 triliun bantuan sosial hingga kuartal III 2026, bagian dari sinergi dengan program pemerintah.",
-  "date": "18 November 2026",
-  "image": "assets/img/bri-salurkan-rp12-61-triliun-kredit-program-perumahan.jpg",
-  "imageV": "mwltlenq",
-  "tags": [
-   "BRI",
-   "Kredit Program Perumahan",
-   "Bantuan Sosial",
-   "BUMN"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478999-bri-perkuat-sinergi-dengan-pemerintah-salurkan-dana-kredit-program-perumahan"
- },
- {
-  "slug": "ptpp-kontrak-baru-3-proyek-irigasi-pu-airi-8-905-hektare-sawah",
-  "category": "Aksi Korporasi",
-  "title": "PTPP: [Kontrak Baru] 3 Proyek Irigasi PU, Airi 8.905 Hektare Sawah",
-  "deck": "PTPP menggarap tiga paket rehabilitasi irigasi Kementerian PU di Jabar, Jatim, dan Kalsel, mencakup 71 daerah irigasi untuk mengairi 8.905 hektare sawah.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PTPP",
-   "irigasi",
-   "Kementerian PU",
-   "kontrak konstruksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ce6a25d9f6_a68f51cfcf.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sima-ifg-tambah-14-2-juta-saham-hak-suara-jadi-8-10",
-  "category": "Aksi Korporasi",
-  "title": "SIMA: IFG [Tambah] 14,2 Juta Saham, Hak Suara Jadi 8,10%",
-  "deck": "PT Asuransi Jiwa IFG menambah 14,2 juta saham SIMA lewat hibah, hak suaranya naik dari 4,88% ke 8,10% pada 7 Agustus 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SIMA",
-   "kepemilikan saham",
-   "PT Asuransi Jiwa IFG",
-   "Jiwasraya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-1784-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

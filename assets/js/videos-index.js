@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "xv-fX1jEfe4",
+  "title": "Ribuan Buruh Protes Penetapan UMP dan UMSP di Jatim",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Ribuan buruh dari berbagai daerah di Jawa Timur berdemonstrasi di depan Kantor Gubernur, menolak penetapan UMP dan UMSP yang mereka nilai belum memenuhi kebutuhan hidup layak.",
+  "takeaway": "Penetapan upah minimum ini berpengaruh langsung pada biaya tenaga kerja industri dan daya beli pekerja, sehingga relevan dipantau oleh pelaku usaha dan investor."
+ },
+ {
   "id": "AWHVSTqANV0",
   "title": "Film Nasional Bangkit, Konser Mancanegara Hit",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Wakil Menteri Koordinator Bidang Perekonomian menyatakan Presiden Prabowo Subianto akan memilih calon wakil presiden yang berorientasi pada kesejahteraan rakyat.",
   "takeaway": "Pernyataan ini memberi sinyal arah kebijakan ekonomi pemerintah dalam proses pergantian wakil presiden."
- },
- {
-  "id": "wgkXe6ljy7o",
-  "title": "Koperasi Desa Merah Putih, Penggerak Ekonomi Rakyat",
-  "category": "UMKM",
-  "program": "Kabar Utama",
-  "summary": "Program Koperasi Desa Merah Putih didorong menjadi penggerak ekonomi lokal dengan mengajak masyarakat desa mengembangkan potensi ekonomi secara mandiri dan berkelanjutan.",
-  "takeaway": "Program ini relevan bagi pembaca yang mengikuti upaya pemerataan ekonomi dari tingkat desa."
  }
 ];

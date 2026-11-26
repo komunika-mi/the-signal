@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-rilis-stimulus-akhir-tahun-kejar-pertumbuhan-8-2029",
+  "category": "Makroekonomi",
+  "title": "Pemerintah Rilis Stimulus Akhir Tahun, Kejar Pertumbuhan [8%] 2029",
+  "deck": "Pemerintah menyiapkan stimulus daya beli akhir tahun dan mendorong investasi AI serta semikonduktor demi pertumbuhan 8 persen pada 2029, usai ekonomi tumbuh 5,47 persen di triwulan III 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "pertumbuhan ekonomi",
+   "stimulus akhir tahun",
+   "IEU-CEPA",
+   "Airlangga Hartarto"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7252/dorong-akselerasi-pertumbuhan-ekonomi-menuju-8-pemerintah-perkuat-stimulus-dan-peran-dunia-usaha",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-jadi-rp100-m",
   "category": "Aksi Korporasi",
   "title": "Restrukturisasi Utang BLTZ: Pinjaman Bukopin Jadi [Rp100 M]",
@@ -188,7 +204,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh 5,47%, Pemerintah Incar [6%] di 2027",
   "deck": "Kemenko Perekonomian melaporkan pertumbuhan ekonomi triwulan III 2026 capai 5,47 persen, sembari memasang target 6 persen pada 2027 lewat empat strategi.",
   "date": "25 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "Kemenko Perekonomian",
@@ -710,7 +726,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken IEU-CEPA, Berlaku [2027]",
   "deck": "Wamenko Dradjad membekali calon duta besar dengan data ekonomi terbaru dan progres IEU-CEPA yang diteken di Brussels, menjelang berlaku Januari 2027.",
   "date": "25 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "IEU-CEPA",
    "diplomasi ekonomi",
@@ -5201,7 +5217,7 @@ var ARTICLES = [
   "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
   "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
   "date": "19 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "daya beli",
    "konsumsi rumah tangga",
@@ -6468,23 +6484,5 @@ var ARTICLES = [
   "tags": [],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478949-apa-itu-megaspeed-perusahaan-yang-terseret-dugaan-kasus-cip-nvidia-via-ri"
- },
- {
-  "slug": "presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri",
-  "category": "Energi",
-  "title": "Presiden Prabowo Ajak [Jepang] Kembangkan Energi Bersih RI",
-  "deck": "Di KTT ASEAN-Jepang di Manila, Presiden Prabowo Subianto menawarkan kerja sama energi bersih, dari program biodiesel B50 hingga rencana PLTS 100 gigawatt, kepada Jepang.",
-  "date": "18 November 2026",
-  "image": "assets/img/presiden-prabowo-ajak-jepang-kembangkan-energi-bersih-ri.jpg",
-  "imageV": "mwla4c7d",
-  "tags": [
-   "energi bersih",
-   "biodiesel B50",
-   "PLTS",
-   "Indonesia-Jepang"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-b50-hingga-plts-100-gwp-indonesia-ajak-jepang-perkuat-kerja-sama-energi-bersih",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

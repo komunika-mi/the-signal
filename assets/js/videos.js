@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "xv-fX1jEfe4",
+  "title": "Ribuan Buruh Protes Penetapan UMP dan UMSP di Jatim",
+  "category": "Ketenagakerjaan",
+  "program": "Kabar Pagi",
+  "summary": "Ribuan buruh dari berbagai daerah di Jawa Timur berdemonstrasi di depan Kantor Gubernur, menolak penetapan UMP dan UMSP yang mereka nilai belum memenuhi kebutuhan hidup layak.",
+  "takeaway": "Penetapan upah minimum ini berpengaruh langsung pada biaya tenaga kerja industri dan daya beli pekerja, sehingga relevan dipantau oleh pelaku usaha dan investor.",
+  "terbit": "2026-11-26T03:22:26+00:00"
+ },
+ {
   "id": "AWHVSTqANV0",
   "title": "Film Nasional Bangkit, Konser Mancanegara Hit",
   "category": "Industri",

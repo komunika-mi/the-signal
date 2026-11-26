@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "2jMIFbAFk4w",
+  "title": "Dari DBHCHT untuk Situbondo",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Dana Bagi Hasil Cukai Hasil Tembakau (DBHCHT) disalurkan untuk mendukung petani dan sektor pertanian tembakau di Situbondo, komoditas yang menjadi bagian penting perekonomian daerah.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan bagaimana dana cukai tembakau dialokasikan untuk menggerakkan perekonomian daerah berbasis pertanian.",
+  "terbit": "2026-11-26T11:07:35+00:00"
+ },
+ {
   "id": "i689iWEUiIU",
   "title": "Ombudsman Temukan Dugaan Maladministrasi Program Kopdes",
   "category": "UMKM",

@@ -5,6 +5,75 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-kaji-pergeseran-notifikasi-merger-ke-pratransaksi",
+  "category": "Bisnis",
+  "title": "KPPU Kaji Pergeseran Notifikasi Merger ke [Pratransaksi]",
+  "deck": "KPPU dan Asosiasi Konsultan Hukum Indonesia membahas rencana pengalihan pelaporan merger dari setelah transaksi menjadi sebelum transaksi, sekaligus mengevaluasi aturan notifikasi yang berlaku.",
+  "date": "26 November 2026",
+  "image": "assets/img/kppu-kaji-pergeseran-notifikasi-merger-ke-pratransaksi.jpg",
+  "imageV": "mwxiozbh",
+  "tags": [
+   "KPPU",
+   "merger dan akuisisi",
+   "AKHI",
+   "persaingan usaha"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-serap-masukan-praktisi-hukum-untuk-penyempurnaan-kebijakan-merger-dan-akuisisi",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "kppu-sebut-penguasaan-data-ancam-persaingan-iklan-digital",
+  "category": "Industri",
+  "title": "KPPU Sebut Penguasaan [Data] Ancam Persaingan Iklan Digital",
+  "deck": "KPPU menyoroti penguasaan akses audiens dan data pengguna oleh platform digital sebagai tantangan baru dalam pengawasan persaingan usaha di industri periklanan.",
+  "date": "26 November 2026",
+  "image": "assets/img/kppu-sebut-penguasaan-data-ancam-persaingan-iklan-digital.jpg",
+  "imageV": "mwxiozla",
+  "tags": [
+   "KPPU",
+   "periklanan digital",
+   "persaingan usaha",
+   "data pengguna"
+  ],
+  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-penguasaan-akses-audiens-dan-data-jadi-tantangan-persaingan-industri-periklanan-digital",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "indonesia-incar-keanggotaan-oecd-pertama-dari-asean-2028",
+  "category": "Makroekonomi",
+  "title": "Indonesia Incar Keanggotaan OECD [Pertama] dari ASEAN 2028",
+  "deck": "Indonesia menargetkan keanggotaan penuh OECD pada 2028, setelah penilaian teknis rampung sekitar 80 persen pada 24 dari 25 komite organisasi tersebut.",
+  "date": "26 November 2026",
+  "image": "assets/img/sidang-dpr.jpg",
+  "tags": [
+   "OECD",
+   "aksesi OECD",
+   "Airlangga Hartarto",
+   "ASEAN"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7254/terima-kunjungan-sekjen-oecd-di-jakarta-presiden-prabowo-subianto-dorong-indonesia-jadi-anggota-pertama-dari-asean-pada-2028",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "menuju-oecd-airlangga-libatkan-dunia-usaha-dan-pekerja",
+  "category": "Global",
+  "title": "Menuju [OECD], Airlangga Libatkan Dunia Usaha dan Pekerja",
+  "deck": "Proses aksesi Indonesia ke OECD masuk tahap penilaian teknis, dan pemerintah memperluas pelibatan dunia usaha, akademisi, serikat pekerja, serta masyarakat sipil untuk mengamankannya.",
+  "date": "26 November 2026",
+  "image": "assets/img/menuju-oecd-airlangga-libatkan-dunia-usaha-dan-pekerja.jpg",
+  "imageV": "mwxip0y6",
+  "tags": [
+   "OECD",
+   "Airlangga Hartarto",
+   "Kemenko Perekonomian",
+   "aksesi OECD"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480499-airlangga-perkuat-kolaborasi-lintas-sektor-untuk-dukung-aksesi-indonesia-ke-oecd"
+ },
+ {
   "slug": "dividen-interim-amp-rp1-34-triliun-tapg-terima-94-93",
   "category": "Aksi Korporasi",
   "title": "Dividen Interim AMP Rp1,34 Triliun: TAPG [Terima] 94,93%",
@@ -294,7 +363,7 @@ var ARTICLES = [
   "title": "Pemerintah Rilis Stimulus Akhir Tahun, Kejar Pertumbuhan [8%] 2029",
   "deck": "Pemerintah menyiapkan stimulus daya beli akhir tahun dan mendorong investasi AI serta semikonduktor demi pertumbuhan 8 persen pada 2029, usai ekonomi tumbuh 5,47 persen di triwulan III 2026.",
   "date": "26 November 2026",
-  "image": "assets/img/sidang-dpr.jpg",
+  "image": "assets/img/pelabuhan-kontainer.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "stimulus akhir tahun",
@@ -488,7 +557,7 @@ var ARTICLES = [
   "title": "Ekonomi RI Tumbuh 5,47%, Pemerintah Incar [6%] di 2027",
   "deck": "Kemenko Perekonomian melaporkan pertumbuhan ekonomi triwulan III 2026 capai 5,47 persen, sembari memasang target 6 persen pada 2027 lewat empat strategi.",
   "date": "25 November 2026",
-  "image": "assets/img/pelabuhan-kontainer.jpg",
+  "image": "assets/img/pasar-beras.jpg",
   "tags": [
    "pertumbuhan ekonomi",
    "Kemenko Perekonomian",
@@ -1010,7 +1079,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken IEU-CEPA, Berlaku [2027]",
   "deck": "Wamenko Dradjad membekali calon duta besar dengan data ekonomi terbaru dan progres IEU-CEPA yang diteken di Brussels, menjelang berlaku Januari 2027.",
   "date": "25 November 2026",
-  "image": "assets/img/pasar-beras.jpg",
+  "image": "assets/img/pasar-tradisional-pagi.jpg",
   "tags": [
    "IEU-CEPA",
    "diplomasi ekonomi",
@@ -5501,7 +5570,7 @@ var ARTICLES = [
   "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
   "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
   "date": "19 November 2026",
-  "image": "assets/img/pasar-tradisional-pagi.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "daya beli",
    "konsumsi rumah tangga",
@@ -6417,72 +6486,6 @@ var ARTICLES = [
    "pasar modal"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1fc4a0dd7f_0b5d172aa9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dooh-klarifikasi-kasus-manipulasi-waran-bukan-pihak-terkait",
-  "category": "Aksi Korporasi",
-  "title": "DOOH Klarifikasi Kasus Manipulasi Waran: [Bukan Pihak Terkait]",
-  "deck": "PT Era Media Sejahtera Tbk (DOOH), kini bernama Nexora Energy Infrastructure, menegaskan bukan pihak dalam kasus dugaan manipulasi perdagangan Waran Seri I (DOOH-W) yang diusut OJK.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DOOH",
-   "OJK",
-   "manipulasi pasar",
-   "waran"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dfb985d0ec_babc92ed66.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "flmc-defisiensi-modal-rp2-59-miliar-rupslb-pmthmetd-28-desember",
-  "category": "Aksi Korporasi",
-  "title": "FLMC Defisiensi Modal Rp2,59 Miliar: [RUPSLB] PMTHMETD 28 Desember",
-  "deck": "FLMC mengaku defisiensi modal Rp2,59 miliar dan rasio lancar 0,31 kali per Juni 2026, berencana terbitkan saham baru tanpa HMETD hingga 10% dan gelar RUPSLB 28 Desember 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FLMC",
-   "going concern",
-   "PMTHMETD",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c64a5b4291_bcec2af2c6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor",
-  "category": "Bisnis",
-  "title": "KPPU Ungkap 78 dari 82 Kasus Merger [Terlambat] Lapor",
-  "deck": "KPPU mencatat 78 dari 82 perkara merger sejak 2000 terkait keterlambatan notifikasi, dengan denda hingga Rp25 miliar bagi perusahaan yang lalai melapor transaksi.",
-  "date": "18 November 2026",
-  "image": "assets/img/kppu-ungkap-78-dari-82-kasus-merger-terlambat-lapor.jpg",
-  "imageV": "mwltlcnj",
-  "tags": [
-   "KPPU",
-   "Merger dan Akuisisi",
-   "Persaingan Usaha",
-   "Notifikasi"
-  ],
-  "kreditFoto": "Komisi Pengawas Persaingan Usaha",
-  "sourceUrl": "https://kppu.go.id/berita/kppu-perusahaan-harus-perhitungkan-risiko-persaingan-sejak-merencanakan-merger",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "dividen-interim-mlbi-rp228-per-saham-cair-15-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim MLBI Rp228 per Saham, [Cair] 15 Desember 2026",
-  "deck": "MLBI akan membagikan dividen interim tunai Rp228 per saham, total Rp480,396 miliar, dengan pembayaran pada 15 Desember 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MLBI",
-   "dividen interim",
-   "Multi Bintang Indonesia",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1169a08ea7_4fd6d94c9b.pdf",
   "sourceLabel": "IDX"
  }
 ];

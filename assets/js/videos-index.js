@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "2jMIFbAFk4w",
+  "title": "Dari DBHCHT untuk Situbondo",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Dana Bagi Hasil Cukai Hasil Tembakau (DBHCHT) disalurkan untuk mendukung petani dan sektor pertanian tembakau di Situbondo, komoditas yang menjadi bagian penting perekonomian daerah.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan bagaimana dana cukai tembakau dialokasikan untuk menggerakkan perekonomian daerah berbasis pertanian."
+ },
+ {
   "id": "i689iWEUiIU",
   "title": "Ombudsman Temukan Dugaan Maladministrasi Program Kopdes",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Wakil Menteri Koordinator Bidang Perekonomian membantah anggapan bahwa daya beli masyarakat sedang melemah dengan memaparkan sejumlah data pendukung.",
   "takeaway": "Daya beli masyarakat adalah indikator inti pertumbuhan konsumsi yang berpengaruh langsung pada kinerja ekonomi nasional."
- },
- {
-  "id": "TeGHpY8xunM",
-  "title": "Wapres Baru Dinanti, Apa Efeknya bagi Ekonomi?",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Pengunduran diri Wakil Presiden Gibran Rakabuming Raka dan rencana pelantikan wapres baru pada 9 Desember 2026 dinilai membawa dampak terhadap arah perekonomian Indonesia.",
-  "takeaway": "Pergantian wapres menyangkut kepastian arah kebijakan ekonomi yang dipantau pelaku usaha."
  }
 ];

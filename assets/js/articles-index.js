@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-integrasikan-sistem-izin-ekspor-impor-lewat-inatrade",
+  "category": "Bisnis",
+  "title": "Kemendag [Integrasikan] Sistem Izin Ekspor-Impor Lewat Inatrade",
+  "deck": "Kemendag menyambungkan sistem izin ekspor-impor Inatrade dengan layanan sejumlah instansi lewat SINSW untuk memangkas duplikasi dokumen pelaku usaha.",
+  "date": "27 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "logistik",
+   "ekspor",
+   "Kemendag",
+   "Inatrade"
+  ],
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/logistik-efisien-perkuat-daya-saing-ekspor-2027",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "pln-usulkan-gasifikasi-dan-fsru-untuk-industri-hijau-kalbar",
+  "category": "Energi",
+  "title": "PLN Usulkan Gasifikasi dan [FSRU] untuk Industri Hijau Kalbar",
+  "deck": "Komisaris Utama PLN Energi Gas mengusulkan gasifikasi dan FSRU pengganti diesel mahal di Kalimantan Barat, demi listrik stabil bagi industri hilirisasi mineral.",
+  "date": "26 November 2026",
+  "image": "assets/img/pln-usulkan-gasifikasi-dan-fsru-untuk-industri-hijau-kalbar.jpg",
+  "imageV": "mwxuatoe",
+  "tags": [
+   "PLN",
+   "FSRU",
+   "Kalimantan Barat",
+   "gasifikasi"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480557-pln-energi-gas-dorong-gasifikasi-fsru-untuk-hilirisasi-industri-di-kalbar"
+ },
+ {
   "slug": "rlco-jelaskan-ke-bursa-laba-naik-meski-penjualan-turun-q3-2026",
   "category": "Aksi Korporasi",
   "title": "RLCO Jelaskan ke Bursa: [Laba Naik] Meski Penjualan Turun Q3 2026",
@@ -357,7 +390,7 @@ var ARTICLES = [
   "title": "MUFG [Dipanggil] KPPU soal Telat Lapor Akuisisi Mandala Multifinance",
   "deck": "KPPU memanggil Presiden Direktur MUFG Bank sebagai terlapor dalam perkara dugaan keterlambatan notifikasi akuisisi PT Mandala Multifinance Tbk; sidang berikutnya dijadwalkan 3 Desember 2026.",
   "date": "26 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KPPU",
    "MUFG",
@@ -1036,7 +1069,7 @@ var ARTICLES = [
   "title": "KPPU [Pantau] Harga Pangan Makassar Jelang Nataru 2027",
   "deck": "KPPU Makassar memantau harga cabai, bawang, beras, minyak goreng, gula, hingga daging di dua pasar tradisional menjelang Natal 2026 dan Tahun Baru 2027.",
   "date": "25 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "KPPU",
    "Harga Pangan",
@@ -1913,7 +1946,7 @@ var ARTICLES = [
   "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
   "deck": "KPPU menolak saksi yang diajukan Terlapor I dalam sidang dugaan persekongkolan pemilihan mitra revitalisasi Pasar Desa Ciparay, karena dianggap tidak independen.",
   "date": "24 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -2185,7 +2218,7 @@ var ARTICLES = [
   "title": "Fatwa Baru Akui Jual Beli Emas Digital [Sah] Secara Syariah",
   "deck": "DSN-MUI menerbitkan fatwa yang mengatur syarat jual beli emas fisik secara digital, melengkapi aturan teknis Bappebti yang sudah berlaku sejak 2025.",
   "date": "24 November 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "emas digital",
    "Bappebti",
@@ -2316,7 +2349,7 @@ var ARTICLES = [
   "title": "KPPU Sulsel Awasi Tarif Transportasi Jelang [Nataru]",
   "deck": "KPPU Makassar berkoordinasi dengan Dishub Sulsel dan sejumlah instansi transportasi untuk mencegah pengaturan tarif saat lonjakan permintaan Natal dan Tahun Baru.",
   "date": "24 November 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
   "tags": [
    "KPPU",
    "Transportasi",
@@ -5768,7 +5801,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -5981,7 +6014,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -6286,7 +6319,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
+  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -6459,39 +6492,6 @@ var ARTICLES = [
    "BEI"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbdeed05ad_cbb280d8c2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "taspen-gelar-lomba-jurnalistik-perdana-320-peserta-ikut",
-  "category": "BUMN",
-  "title": "Taspen Gelar Lomba Jurnalistik [Perdana], 320 Peserta Ikut",
-  "deck": "PT Taspen menggelar Anugerah Jurnalistik Taspen 2026, kompetisi pertama yang diikuti 320 peserta jurnalis, ASN, dan masyarakat umum untuk memperluas literasi perlindungan sosial.",
-  "date": "18 November 2026",
-  "image": "assets/img/taspen-gelar-lomba-jurnalistik-perdana-320-peserta-ikut.jpg",
-  "imageV": "mwm75rjf",
-  "tags": [
-   "taspen",
-   "asn",
-   "jurnalistik",
-   "bumn"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479095-diikuti-320-peserta-anugerah-jurnalistik-taspen-perkuat-literasi-sosial-asn"
- },
- {
-  "slug": "pkpu-ades-sidang-perdana-digelar-klaim-rp3-6-miliar",
-  "category": "Aksi Korporasi",
-  "title": "PKPU ADES: [Sidang Perdana] Digelar, Klaim Rp3,6 Miliar",
-  "deck": "ADES menjalani sidang perdana PKPU di Pengadilan Niaga Jakarta Pusat, Rabu (18/11), atas klaim Rp3,6 miliar dari kontraktor PT Megaland Infra Perkasa yang masih disengketakan.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADES",
-   "PKPU",
-   "sengketa hukum",
-   "kontraktor"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75c7123f8d_6e00779c7f.pdf",
   "sourceLabel": "IDX"
  }
 ];

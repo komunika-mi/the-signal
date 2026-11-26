@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "foru-right-issue-pmhmetd-i-perbesar-saham-ke-168-3-miliar",
+  "category": "Aksi Korporasi",
+  "title": "FORU: [Right Issue] PMHMETD I Perbesar Saham ke 168,3 Miliar",
+  "deck": "Saham beredar FORU melonjak ke 168,3 miliar lembar lewat rights issue PMHMETD I, sementara pendapatan kuartal III 2026 tumbuh hampir dua kali lipat.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T02:17:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-d72b3010-3481-492e-b8ba-f42a0ca17323-1/FinancialStatement-2026-III-FORU.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "FORU",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "laporan keuangan interim",
+   "Fortune Indonesia"
+  ],
+  "body": [
+   "Fortune Indonesia Tbk (FORU) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026 kepada Bursa Efek Indonesia. Laporan ini telah ditelaah secara terbatas oleh akuntan publik Silvana Devi dengan opini wajar tanpa modifikasian, ditandatangani 24 November 2026. Sorotan utamanya, jumlah saham perseroan yang ditempatkan dan disetor penuh melonjak drastis dari 465,2 juta lembar pada akhir 2025 menjadi 168,3 miliar lembar pada akhir September 2026, sebagai bagian dari Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu I (PMHMETD I). Nilai modal saham tercatat naik dari Rp46,5 miliar menjadi Rp16,83 triliun, sementara pos tambahan modal disetor justru berbalik menjadi minus Rp17,03 triliun dari sebelumnya positif Rp7,1 miliar.",
+   "Dari sisi operasional, pendapatan sembilan bulan 2026 tercatat Rp312,3 miliar, naik hampir dua kali lipat dari Rp159,5 miliar pada periode yang sama tahun lalu, dengan laba kotor naik dari Rp61,3 miliar menjadi Rp165 miliar. Rugi usaha menyempit dari Rp128,8 miliar menjadi Rp61,7 miliar. Namun rugi bersih yang menjadi beban pemilik entitas induk (pemegang saham FORU) justru melebar dari Rp1,7 miliar menjadi Rp8,2 miliar, meski rugi konsolidasi total mengecil karena porsi kerugian kepentingan nonpengendali turun tajam dari Rp124 miliar menjadi Rp32,1 miliar. Rugi per saham dasar tercatat mengecil dari Rp3,58 menjadi Rp1,98 per saham, tapi itu sebagian besar karena jumlah saham pembaginya kini jauh lebih banyak.",
+   "Dalam surat terpisah kepada BEI yang merujuk Peraturan I-E tentang kewajiban keterbukaan, perseroan menjelaskan total aset naik Rp953,4 miliar atau 44,26 persen, didorong kas dan setara kas yang naik dari Rp34,5 miliar menjadi Rp382,7 miliar serta persediaan dari Rp102,8 miliar menjadi Rp283,8 miliar. Total liabilitas naik Rp647,8 miliar atau 49,80 persen, terutama dari uang muka pelanggan yang membesar dari Rp866,2 miliar menjadi Rp1.185,5 miliar, beban akrual, dan utang bank jangka pendek. Total ekuitas naik Rp305,5 miliar atau 35,8 persen akibat PMHMETD I. Catatan lain yang mencolok, anak usaha PT Borneo Prima di bisnis batu bara dengan kepemilikan 49 persen memiliki aset Rp2,75 triliun, jauh lebih besar dibanding tiga anak usaha periklanan FORU yang nilainya hanya puluhan miliar rupiah, dan provisi reklamasi lingkungan serta penutupan tambang Grup naik dari Rp2,8 miliar menjadi Rp89,7 miliar."
+  ],
+  "fotoAdegan": "Haul trucks loading coal at an open-pit mine stockpile, dust haze, heavy equipment in the foreground",
+  "takeaway": "Laporan ini condong netral: pertumbuhan pendapatan yang hampir dua kali lipat dan penyempitan rugi usaha menunjukkan perbaikan operasional, tetapi lonjakan jumlah saham beredar lebih dari 360 kali lipat lewat rights issue berarti dilusi besar bagi pemegang saham lama yang tidak ikut menambah modal. Yang tersentuh di sini adalah ekuitas, karena dana rights issue menambah modal perseroan sekaligus memperbesar basis saham, dan laba per saham, karena rugi yang terlihat mengecil menjadi Rp1,98 per saham dari Rp3,58 per saham sebagian besar hanya karena pembaginya kini jauh lebih besar, bukan semata perbaikan kinerja. Perlu dicatat pula rugi bersih yang jadi beban langsung pemilik induk justru melebar dari Rp1,7 miliar menjadi Rp8,2 miliar, sementara provisi reklamasi tambang naik lebih dari 30 kali menjadi Rp89,7 miliar, tanda biaya lingkungan dari bisnis batu bara Borneo Prima mulai membesar. Yang perlu dipantau selanjutnya adalah laporan keuangan tahun penuh 2026, untuk melihat apakah pertumbuhan pendapatan dan perbaikan margin berlanjut serta bagaimana perseroan mengelola beban reklamasi tambang yang meningkat pesat tersebut.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+ },
+ {
   "slug": "kemendag-integrasikan-sistem-izin-ekspor-impor-lewat-inatrade",
   "category": "Bisnis",
   "title": "Kemendag [Integrasikan] Sistem Izin Ekspor-Impor Lewat Inatrade",

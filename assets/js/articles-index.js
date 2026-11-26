@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "foru-right-issue-pmhmetd-i-perbesar-saham-ke-168-3-miliar",
+  "category": "Aksi Korporasi",
+  "title": "FORU: [Right Issue] PMHMETD I Perbesar Saham ke 168,3 Miliar",
+  "deck": "Saham beredar FORU melonjak ke 168,3 miliar lembar lewat rights issue PMHMETD I, sementara pendapatan kuartal III 2026 tumbuh hampir dua kali lipat.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "FORU",
+   "rights issue",
+   "laporan keuangan interim",
+   "Fortune Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-d72b3010-3481-492e-b8ba-f42a0ca17323-1/FinancialStatement-2026-III-FORU.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kemendag-integrasikan-sistem-izin-ekspor-impor-lewat-inatrade",
   "category": "Bisnis",
   "title": "Kemendag [Integrasikan] Sistem Izin Ekspor-Impor Lewat Inatrade",
@@ -6476,22 +6492,6 @@ var ARTICLES = [
    "transaksi afiliasi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc9806081a_dc31a3e113.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smsm-tanggapan-lanjutan-ke-bei-piutang-rp652-71-m-tertagih-oktober",
-  "category": "Aksi Korporasi",
-  "title": "SMSM Tanggapan Lanjutan ke BEI: [Piutang] Rp652,71 M Tertagih Oktober",
-  "deck": "SMSM menyampaikan tanggapan tambahan ke BEI soal laporan keuangan kuartal III 2026, mengungkapkan Rp652,71 miliar atau 49,2 persen piutang usaha tertagih sepanjang Oktober.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMSM",
-   "Selamat Sempurna",
-   "piutang usaha",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbdeed05ad_cbb280d8c2.pdf",
   "sourceLabel": "IDX"
  }
 ];

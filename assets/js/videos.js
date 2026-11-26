@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "WEgpTFHAv7E",
+  "title": "DPRD Medan Bahas Pemberdayaan UMKM",
+  "category": "UMKM",
+  "program": "Kabar Sumatera",
+  "summary": "Wakil Ketua DPRD Kota Medan membahas langkah pemberdayaan UMKM lewat penguatan regulasi, pendampingan usaha, dan kemudahan akses pemasaran, seiring revisi perda terkait.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan daerah dalam mendukung pelaku usaha kecil dan menengah.",
+  "terbit": "2026-11-26T06:29:41+00:00"
+ },
+ {
   "id": "xv-fX1jEfe4",
   "title": "Ribuan Buruh Protes Penetapan UMP dan UMSP di Jatim",
   "category": "Ketenagakerjaan",

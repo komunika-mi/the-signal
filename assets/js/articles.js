@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di sini adalah paket stimulus akhir tahun dengan angka dan tenggat yang jelas: bebas pajak tiket pesawat ekonomi domestik dari 22 Desember 2026 sampai 10 Januari 2027, diskon tiket kereta 30 persen, bantuan beras untuk 33,24 juta keluarga, dan subsidi upah Rp900 ribu untuk 13,3 juta pekerja selama November-Desember 2026. Yang merasakan dampak langsung adalah penumpang transportasi umum kelas ekonomi, keluarga penerima bantuan pangan, dan pekerja penerima subsidi upah, sementara target besar pertumbuhan 8 persen pada 2029 justru menyasar investor dan pelaku usaha di sektor kecerdasan buatan, semikonduktor, dan pusat data. Pola ini memperlihatkan pemerintah masih mengandalkan stimulus konsumsi musiman untuk menahan daya beli dalam jangka pendek, sementara fondasi pertumbuhan jangka panjang seperti kapasitas pusat data yang baru 700 megawatt dari target 1,3 gigawatt pada 2029, dan proses masuk OECD yang baru rampung 80 persen, masih butuh waktu bertahun-tahun sebelum terwujud. Yang akan menunjukkan apakah target 8 persen ini realistis adalah data pertumbuhan ekonomi triwulan IV dan sepanjang tahun 2026 yang biasanya dirilis Badan Pusat Statistik awal Februari 2027, serta kelanjutan proses aksesi OECD tersebut.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-jadi-rp100-m",

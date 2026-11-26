@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "WEgpTFHAv7E",
+  "title": "DPRD Medan Bahas Pemberdayaan UMKM",
+  "category": "UMKM",
+  "program": "Kabar Sumatera",
+  "summary": "Wakil Ketua DPRD Kota Medan membahas langkah pemberdayaan UMKM lewat penguatan regulasi, pendampingan usaha, dan kemudahan akses pemasaran, seiring revisi perda terkait.",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut arah kebijakan daerah dalam mendukung pelaku usaha kecil dan menengah."
+ },
+ {
   "id": "xv-fX1jEfe4",
   "title": "Ribuan Buruh Protes Penetapan UMP dan UMSP di Jatim",
   "category": "Ketenagakerjaan",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Kamar Dagang dan Industri Indonesia menekankan peran sektor swasta sebagai penggerak utama pertumbuhan ekonomi nasional di tengah masa transisi kepemimpinan.",
   "takeaway": "Pernyataan Kadin penting bagi pelaku usaha yang menilai arah dukungan pemerintah terhadap sektor swasta."
- },
- {
-  "id": "fcF9um2JNEk",
-  "title": "Wamenko Perekonomian: Presiden Prabowo Pilih Wapres demi Rakyat",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Wakil Menteri Koordinator Bidang Perekonomian menyatakan Presiden Prabowo Subianto akan memilih calon wakil presiden yang berorientasi pada kesejahteraan rakyat.",
-  "takeaway": "Pernyataan ini memberi sinyal arah kebijakan ekonomi pemerintah dalam proses pergantian wakil presiden."
  }
 ];

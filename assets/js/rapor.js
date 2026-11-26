@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-26T06:19:34.800+07:00",
+ "diperbarui": "2026-11-27T06:21:02.228+07:00",
  "entri": [
+  {
+   "id": "2026-11-26-3",
+   "edisi": "2026-11-26",
+   "benang": "Tekanan Utang Emiten Lapis Dua Melebar",
+   "klaim": "Modal kerja emiten lapis dua kian rapuh dan makin bergantung pada pos non-operasional seperti revaluasi aset atau penyuntikan modal baru, bukan dari hasil usaha.",
+   "penanda": "Hasil voting RUPO dan RUPSI BUMA",
+   "tenggat": "2026-12-10",
+   "tenggatLabel": "RUPO dan RUPSI BUMA pada 10 Desember 2026",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-26-2",
+   "edisi": "2026-11-26",
+   "benang": "Lapis Stimulus Menjaga Daya Beli Jelang Nataru",
+   "klaim": "Pemerintah menambah lapis demi lapis instrumen untuk menjaga daya beli kelompok bawah menjelang akhir tahun.",
+   "penanda": "Rilis inflasi November dari BPS",
+   "tenggat": "2026-12-01",
+   "tenggatLabel": "awal Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-26-1",
+   "edisi": "2026-11-26",
+   "benang": "OECD Menarik Reformasi Aturan Persaingan Usaha",
+   "klaim": "Kerangka pengawasan merger Indonesia bergerak mendekati standar notifikasi pratransaksi yang lazim di negara anggota OECD.",
+   "penanda": "Pengesahan revisi UU Persaingan Usaha sebagai salah satu syarat terakhir sebelum keanggotaan OECD 2028 diputuskan",
+   "tenggat": null,
+   "tenggatLabel": "sebelum keanggotaan 2028 diputuskan",
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-25-3",
    "edisi": "2026-11-25",
@@ -1383,7 +1416,7 @@ var RAPOR = {
    "penanda": "Apakah salah satu dari ARTA, DEWI, KJEN, atau UNIQ kembali bergerak tidak wajar pekan ini, yang biasanya memicu tindakan lanjutan seperti suspensi.",
    "tenggat": "2026-10-11",
    "tenggatLabel": "pekan ini",
-   "status": "menunggu",
+   "status": "kedaluwarsa",
    "bukti": null
   },
   {

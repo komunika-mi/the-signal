@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "i689iWEUiIU",
+  "title": "Ombudsman Temukan Dugaan Maladministrasi Program Kopdes",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Ombudsman RI menyerahkan hasil investigasi dugaan maladministrasi dalam pelaksanaan Program Koperasi Desa/Kelurahan Merah Putih kepada Kementerian Koperasi.",
+  "takeaway": "Penting bagi pembaca karena menyangkut akuntabilitas program ekonomi kerakyatan yang memakai dana publik dalam skala besar."
+ },
+ {
+  "id": "bNB5BRKYmZM",
+  "title": "Komisi VI DPR Gelar RDP Bersama Danantara",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Komisi VI DPR RI menggelar rapat bersama Danantara membahas RKAP 2027 dan evaluasi kinerja BUMN. Danantara memproyeksikan laba Rp332,4 triliun pada akhir 2026.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kinerja holding investasi BUMN yang mengelola aset negara dalam jumlah besar."
+ },
+ {
+  "id": "oqAcPemHSmc",
+  "title": "Komisi VI DPR Gelar RDP Bersama Danantara",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Komisi VI DPR RI menggelar rapat bersama Danantara membahas RKAP 2027 dan evaluasi kinerja BUMN. Danantara memproyeksikan laba Rp332,4 triliun pada akhir 2026.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kinerja holding investasi BUMN yang mengelola aset negara dalam jumlah besar."
+ },
+ {
   "id": "WEgpTFHAv7E",
   "title": "DPRD Medan Bahas Pemberdayaan UMKM",
   "category": "UMKM",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Pengunduran diri Wakil Presiden Gibran Rakabuming Raka dan rencana pelantikan wapres baru pada 9 Desember 2026 dinilai membawa dampak terhadap arah perekonomian Indonesia.",
   "takeaway": "Pergantian wapres menyangkut kepastian arah kebijakan ekonomi yang dipantau pelaku usaha."
- },
- {
-  "id": "-UWIISJyxiI",
-  "title": "Dekan FEB UI: Jakarta Harus Jadi Penarik Investasi",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Dekan Fakultas Ekonomi dan Bisnis UI menilai Jakarta perlu memperkuat perannya sebagai penarik investasi ke Indonesia di tengah dinamika pergantian wakil presiden.",
-  "takeaway": "Pandangan akademisi ini relevan bagi investor yang mencermati stabilitas iklim investasi di Jakarta."
- },
- {
-  "id": "jaWZK_ZhA1o",
-  "title": "Lapangan Kerja Belum Banyak, Bakom RI: Industri Butuh Waktu",
-  "category": "Ketenagakerjaan",
-  "program": "Indonesia Business Forum",
-  "summary": "Bakom RI menyebut penciptaan lapangan kerja baru masih terbatas karena sektor industri memerlukan waktu untuk berkembang di tengah dinamika politik dalam negeri.",
-  "takeaway": "Informasi ini relevan bagi pembaca yang memantau penyerapan tenaga kerja di sektor industri."
- },
- {
-  "id": "xxWMf6FfSrI",
-  "title": "Kadin Ingatkan Pentingnya Sektor Swasta bagi Ekonomi",
-  "category": "Bisnis",
-  "program": "Indonesia Business Forum",
-  "summary": "Kamar Dagang dan Industri Indonesia menekankan peran sektor swasta sebagai penggerak utama pertumbuhan ekonomi nasional di tengah masa transisi kepemimpinan.",
-  "takeaway": "Pernyataan Kadin penting bagi pelaku usaha yang menilai arah dukungan pemerintah terhadap sektor swasta."
  }
 ];

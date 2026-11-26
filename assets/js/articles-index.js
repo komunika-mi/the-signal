@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "mufg-dipanggil-kppu-soal-telat-lapor-akuisisi-mandala-multifinance",
+  "category": "Bisnis",
+  "title": "MUFG [Dipanggil] KPPU soal Telat Lapor Akuisisi Mandala Multifinance",
+  "deck": "KPPU memanggil Presiden Direktur MUFG Bank sebagai terlapor dalam perkara dugaan keterlambatan notifikasi akuisisi PT Mandala Multifinance Tbk; sidang berikutnya dijadwalkan 3 Desember 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/wisatawan-kopi.jpg",
+  "tags": [
+   "KPPU",
+   "MUFG",
+   "Mandala Multifinance",
+   "akuisisi"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-panggil-pimpinan-mufg-dalam-perkara-keterlambatan-notifikasi-akuisisi-mandala-multifinance",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
   "slug": "dematerialisasi-tkim-warkat-wajib-konversi-sebelum-5-mei-2030",
   "category": "Aksi Korporasi",
   "title": "Dematerialisasi TKIM: [Warkat] Wajib Konversi Sebelum 5 Mei 2030",
@@ -19,6 +35,18 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_TKIM_E019_cd377274-09ad-4f66-af1f-1c1f6f66563f-20261126145847.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bni-jadi-bank-mitra-resmi-imbex-2026-gelar-promo",
+  "category": "Perbankan",
+  "title": "BNI Jadi Bank Mitra Resmi [IMBEX] 2026, Gelar Promo",
+  "deck": "BNI kembali menjadi bank mitra resmi IMBEX 2026 dan menghadirkan beragam promo transaksi lewat wondr by BNI, kartu kredit, serta kartu debit bagi pengunjung pameran.",
+  "date": "26 November 2026",
+  "image": "assets/img/bni-jadi-bank-mitra-resmi-imbex-2026-gelar-promo.jpg",
+  "imageV": "mwxd4y9y",
+  "tags": [],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480472-jadi-official-bank-partner-imbex-2026-bni-hadirkan-banyak-promo"
  },
  {
   "slug": "home-aset-hotel-goodway-batam-kembali-usai-disita-kejaksaan",
@@ -549,7 +577,7 @@ var ARTICLES = [
   "title": "KPPU [Pantau] Harga Pangan Makassar Jelang Nataru 2027",
   "deck": "KPPU Makassar memantau harga cabai, bawang, beras, minyak goreng, gula, hingga daging di dua pasar tradisional menjelang Natal 2026 dan Tahun Baru 2027.",
   "date": "25 November 2026",
-  "image": "assets/img/wisatawan-kopi.jpg",
+  "image": "assets/img/warung-makan.jpg",
   "tags": [
    "KPPU",
    "Harga Pangan",
@@ -1426,7 +1454,7 @@ var ARTICLES = [
   "title": "KPPU [Tolak] Saksi Terlapor I dalam Sidang Pasar Ciparay",
   "deck": "KPPU menolak saksi yang diajukan Terlapor I dalam sidang dugaan persekongkolan pemilihan mitra revitalisasi Pasar Desa Ciparay, karena dianggap tidak independen.",
   "date": "24 November 2026",
-  "image": "assets/img/warung-makan.jpg",
+  "image": "assets/img/bisnis-resto.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -1698,7 +1726,7 @@ var ARTICLES = [
   "title": "Fatwa Baru Akui Jual Beli Emas Digital [Sah] Secara Syariah",
   "deck": "DSN-MUI menerbitkan fatwa yang mengatur syarat jual beli emas fisik secara digital, melengkapi aturan teknis Bappebti yang sudah berlaku sejak 2025.",
   "date": "24 November 2026",
-  "image": "assets/img/bisnis-resto.jpg",
+  "image": "assets/img/rumah-subsidi.jpg",
   "tags": [
    "emas digital",
    "Bappebti",
@@ -1829,7 +1857,7 @@ var ARTICLES = [
   "title": "KPPU Sulsel Awasi Tarif Transportasi Jelang [Nataru]",
   "deck": "KPPU Makassar berkoordinasi dengan Dishub Sulsel dan sejumlah instansi transportasi untuk mencegah pengaturan tarif saat lonjakan permintaan Natal dan Tahun Baru.",
   "date": "24 November 2026",
-  "image": "assets/img/rumah-subsidi.jpg",
+  "image": "assets/img/kemasan-produk-gudang.jpg",
   "tags": [
    "KPPU",
    "Transportasi",
@@ -5281,7 +5309,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/kemasan-produk-gudang.jpg",
+  "image": "assets/img/negosiasi-dagang-meja.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -5494,7 +5522,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/negosiasi-dagang-meja.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -5799,7 +5827,7 @@ var ARTICLES = [
   "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
   "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
   "date": "18 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [
    "IEU-CEPA",
    "Jerman",
@@ -6458,38 +6486,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-1784-00.pdf-0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "mmix-mengky-mangarek-tambah-1-juta-saham-hak-suara-6-02",
-  "category": "Aksi Korporasi",
-  "title": "MMIX: Mengky Mangarek [Tambah] 1 Juta Saham, Hak Suara 6,02%",
-  "deck": "Direksi MMIX Mengky Mangarek membeli 1 juta saham pada 23 Oktober 2026, menambah kepemilikannya jadi 289 juta lembar dan hak suara naik dari 6,00% ke 6,02%.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "laporan kepemilikan",
-   "direksi",
-   "hak suara"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2467-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "harga-emas-antam-turun-tipis-ke-rp2-514-000-gram",
-  "category": "Pasar Modal",
-  "title": "Harga Emas Antam [Turun] Tipis ke Rp2.514.000/Gram",
-  "deck": "Harga emas Antam turun Rp1.000 menjadi Rp2.514.000 per gram pada 18 November 2026, sementara harga buyback ikut turun ke Rp2.272.000 per gram.",
-  "date": "18 November 2026",
-  "image": "assets/img/harga-emas-antam-turun-tipis-ke-rp2-514-000-gram.jpg",
-  "imageV": "mwltlf44",
-  "tags": [
-   "emas antam",
-   "harga emas",
-   "logam mulia",
-   "buyback emas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478983-harga-emas-antam-hari-ini-18-november-2026-turun-tipis-jadi-rp2514000-per-gram"
  }
 ];

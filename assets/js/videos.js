@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "i689iWEUiIU",
+  "title": "Ombudsman Temukan Dugaan Maladministrasi Program Kopdes",
+  "category": "UMKM",
+  "program": "Kabar Merah Putih",
+  "summary": "Ombudsman RI menyerahkan hasil investigasi dugaan maladministrasi dalam pelaksanaan Program Koperasi Desa/Kelurahan Merah Putih kepada Kementerian Koperasi.",
+  "takeaway": "Penting bagi pembaca karena menyangkut akuntabilitas program ekonomi kerakyatan yang memakai dana publik dalam skala besar.",
+  "terbit": "2026-11-26T09:17:12+00:00"
+ },
+ {
+  "id": "bNB5BRKYmZM",
+  "title": "Komisi VI DPR Gelar RDP Bersama Danantara",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Komisi VI DPR RI menggelar rapat bersama Danantara membahas RKAP 2027 dan evaluasi kinerja BUMN. Danantara memproyeksikan laba Rp332,4 triliun pada akhir 2026.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kinerja holding investasi BUMN yang mengelola aset negara dalam jumlah besar.",
+  "terbit": "2026-11-26T09:17:00+00:00"
+ },
+ {
+  "id": "oqAcPemHSmc",
+  "title": "Komisi VI DPR Gelar RDP Bersama Danantara",
+  "category": "BUMN",
+  "program": "Kabar Merah Putih",
+  "summary": "Komisi VI DPR RI menggelar rapat bersama Danantara membahas RKAP 2027 dan evaluasi kinerja BUMN. Danantara memproyeksikan laba Rp332,4 triliun pada akhir 2026.",
+  "takeaway": "Relevan bagi pembaca karena menyangkut kinerja holding investasi BUMN yang mengelola aset negara dalam jumlah besar.",
+  "terbit": "2026-11-26T08:56:50+00:00"
+ },
+ {
   "id": "WEgpTFHAv7E",
   "title": "DPRD Medan Bahas Pemberdayaan UMKM",
   "category": "UMKM",

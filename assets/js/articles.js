@@ -3,6 +3,127 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-jadi-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "Restrukturisasi Utang BLTZ: Pinjaman Bukopin Jadi [Rp100 M]",
+  "deck": "BLTZ merombak perjanjian kredit dengan KB Bukopin: saldo pinjaman turun jadi Rp100 miliar setelah pelunasan Rp20 miliar, jatuh tempo diperpanjang satu tahun ke 5 Desember 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T09:32:34",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BLTZ_E019_9e233eae-7d0d-472a-82be-17a6248c9b5e-20261126093238.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "restrukturisasi utang",
+   "KB Bukopin",
+   "CGV"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), operator bioskop CGV di Indonesia, mengumumkan perubahan ketiga atas perjanjian kreditnya dengan PT KB Bank Bukopin Tbk pada 25 November 2026. Perjanjian awal senilai Rp140 miliar yang diteken 1 Desember 2023 itu sebelumnya sudah dua kali diubah, yaitu pada November 2024 dan November 2025, sebelum diubah lagi kali ini.",
+   "Dalam perubahan terbaru, sisa fasilitas pinjaman diturunkan dari Rp120 miliar menjadi Rp100 miliar setelah perseroan melunasi Rp20 miliar dari pokok utangnya. Jatuh tempo fasilitas kredit juga diperpanjang satu tahun menjadi 5 Desember 2027. Jaminan atas pinjaman ini tetap berupa corporate guarantee, yaitu garansi perusahaan, dari CJ CGV Co., Ltd, pemegang saham pengendali Graha Layar Prima secara tidak langsung.",
+   "Dana pinjaman ini sejak awal digunakan untuk mengambil alih utang perseroan dari Export Import Bank of Korea (KEXIM). Perseroan menyatakan transaksi ini tergolong transaksi material menurut Peraturan OJK Nomor 17/2020 karena nilainya melebihi 20 persen dari ekuitas perseroan berdasarkan laporan keuangan auditan terakhir, namun bukan transaksi afiliasi atau transaksi yang mengandung benturan kepentingan. Manajemen menyebut tidak ada dampak merugikan yang material terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perseroan akibat perubahan ini."
+  ],
+  "fotoAdegan": "Rows of empty red cinema seats lit by a flickering projector beam inside a dark multiplex auditorium, early morning",
+  "takeaway": "Laporan ini condong positif bagi BLTZ karena menunjukkan pengurangan nyata pokok utang sebesar Rp20 miliar sekaligus perpanjangan waktu pembayaran, tanpa menambah jumlah saham beredar atau membebani pemegang saham. Yang tersentuh di sini adalah beban bunga, yakni biaya tahunan yang harus dibayar perseroan atas utangnya, karena pokok pinjaman yang lebih kecil biasanya membuat beban bunga ke depan ikut mengecil, serta arus kas, yaitu aliran uang masuk dan keluar perusahaan, karena kewajiban pembayaran utang jadi lebih longgar sampai 2027. Yang perlu dipantau adalah apakah pola ini akan berulang lagi, sebab fasilitas yang sama sudah tiga kali diubah sejak 2023, dan tenggat baru 5 Desember 2027 akan menjadi penentu apakah perseroan bisa melunasi penuh atau kembali bernegosiasi dengan KB Bukopin.",
+  "sentimen": "positif",
+  "judulIdx": "Restrukturisasi utang",
+  "jadwal": [
+   {
+    "tanggal": "2027-12-05",
+    "acara": "Jatuh tempo baru fasilitas kredit dari KB Bukopin"
+   }
+  ]
+ },
+ {
+  "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-turun-ke-rp40-m",
+  "category": "Aksi Korporasi",
+  "title": "Restrukturisasi Utang BLTZ: Pinjaman Bukopin [Turun] ke Rp40 M",
+  "deck": "BLTZ memangkas fasilitas pinjaman Bank KB Bukopin dari Rp90 miliar menjadi Rp40 miliar setelah melunasi Rp50 miliar, sekaligus memperpanjang jatuh tempo satu tahun ke 25 November 2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T09:04:48",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BLTZ_E019_cc7cb7ad-a22b-4569-b6be-cbbb9b78ca91-20261126090450.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BLTZ",
+  "tags": [
+   "BLTZ",
+   "restrukturisasi utang",
+   "KB Bukopin",
+   "CGV"
+  ],
+  "body": [
+   "PT Graha Layar Prima Tbk (BLTZ), operator bioskop CGV, menandatangani Perjanjian Perubahan Keempat dengan PT KB Bank Bukopin Tbk pada 25 November 2026 untuk merestrukturisasi fasilitas pinjamannya. Nilai fasilitas pinjaman diturunkan dari Rp90 miliar menjadi Rp40 miliar, setelah perseroan melunasi Rp50 miliar dari pokok utangnya. Jangka waktu fasilitas juga diperpanjang satu tahun, dengan jatuh tempo baru pada 25 November 2027.",
+   "Perjanjian pinjaman awal diteken pada 24 November 2022 senilai Rp90 miliar, dan sejak itu diperpanjang setiap tahun lewat tiga amendemen sebelumnya, yaitu pada 23 November 2023, 22 November 2024, dan 21 November 2025, sebelum amendemen keempat kali ini. Jaminan atas fasilitas tersebut berupa Standby Letter of Credit dari CJ CGV Co., Ltd, pemegang saham pengendali BLTZ secara tidak langsung. Perseroan menyatakan pinjaman ini digunakan untuk membiayai kebutuhan modal kerja, dan transaksi dengan KB Bukopin ini bukan transaksi afiliasi maupun transaksi benturan kepentingan menurut aturan Otoritas Jasa Keuangan.",
+   "Dalam laporan keterbukaan informasi yang ditandatangani Corporate Secretary Raddy Raditya Djatnika, perseroan menegaskan tidak ada dampak merugikan yang material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha akibat perubahan perjanjian pinjaman ini."
+  ],
+  "fotoAdegan": "Empty modern multiplex cinema lobby with rows of ticket counters and soft ambient ceiling lights, no signage visible",
+  "takeaway": "Laporan ini condong positif bagi BLTZ karena perseroan berhasil melunasi Rp50 miliar dari pokok pinjaman Rp90 miliar, lebih dari separuhnya, sebelum fasilitasnya diperpanjang lagi. Pos yang tersentuh adalah arus kas, yaitu uang tunai yang masuk dan keluar perusahaan, yang berkurang akibat pembayaran besar itu, serta beban bunga, yaitu bunga pinjaman yang ke depan dihitung dari pokok utang yang lebih kecil sehingga cenderung lebih ringan; ekuitas dan jumlah saham beredar tidak tersentuh sama sekali oleh transaksi ini sehingga tidak ada risiko dilusi bagi pemegang saham lama. Yang perlu dipantau berikutnya adalah jatuh tempo fasilitas baru pada 25 November 2027, serta apakah pola perpanjangan tahunan seperti empat tahun terakhir ini akan berulang lagi sebelum tanggal tersebut.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2027-11-25",
+    "acara": "Jatuh tempo fasilitas pinjaman Bukopin yang diperpanjang"
+   }
+  ]
+ },
+ {
+  "slug": "snlk-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SNLK: [Tak Ada] Aksi Korporasi di Balik Volatilitas Saham",
+  "deck": "Menjawab permintaan penjelasan Bursa soal volatilitas saham, SNLK menyatakan tak ada informasi material, rencana aksi korporasi, atau perubahan kepemilikan dari pemegang saham utama dan pengendali.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T09:00:35",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_SNLK_E023A_f28e6de7-c3e9-4819-94a4-97777acfa72a-20261126090037.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SNLK",
+  "tags": [
+   "SNLK",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Sunter Lakeside Hotel Tbk (SNLK) menjawab surat Bursa Efek Indonesia Nomor S-14612/BEI.PP1/11-2026 tanggal 24 November 2026 yang meminta penjelasan atas volatilitas transaksi efek perusahaan. Dalam surat tanggapan bernomor 057/CRS-EKS/XI/2026 tertanggal 26 November 2026, manajemen menyatakan hingga saat ini tidak mengetahui adanya informasi atau fakta material yang bisa memengaruhi nilai efek atau keputusan investasi pemodal, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E poin III.2.1 dan IV.2.1. Perseroan juga menegaskan tidak ada fakta atau kejadian penting lain yang material terhadap harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik.",
+   "Soal kemungkinan ada pihak tertentu yang bergerak di balik harga saham, SNLK menyatakan tidak mengetahui adanya aktivitas pemegang saham yang diatur dalam POJK Nomor 11/POJK.04/2017 maupun POJK Nomor 4 Tahun 2024 tentang laporan kepemilikan dan penjaminan saham, selain yang sudah dilaporkan resmi lewat sistem elektronik. Perseroan juga menyatakan tidak memiliki rencana aksi korporasi dalam waktu dekat, termasuk yang bisa memengaruhi status pencatatan sahamnya di Bursa, setidaknya untuk tiga bulan mendatang. Corporate Secretary mengaku telah mengonfirmasi langsung ke pemegang saham utama dan ke pihak Pengendali Perseroan, dan keduanya menyatakan tidak ada rencana mengubah kepemilikan saham mereka di SNLK dalam waktu dekat.",
+   "Surat tanggapan ini ditandatangani oleh Emma Madalina atas nama PT Sunter Lakeside Hotel Tbk dan ditujukan kepada Divisi Penilaian Perusahaan 1 Bursa Efek Indonesia."
+  ],
+  "fotoAdegan": "Facade of a mid-rise hotel building along a busy Jakarta street, morning traffic passing below, soft daylight.",
+  "takeaway": "Pernyataan SNLK ini bersifat netral, karena isinya hanya menegaskan tidak ada kabar baru di balik gerakan harga sahamnya, bukan membawa sinyal positif atau negatif bagi fundamental perusahaan. Permintaan penjelasan semacam ini biasa dikirim Bursa ketika harga atau volume perdagangan saham bergerak tidak wajar, dan jawabannya penting bagi pemodal karena memastikan pemegang saham utama dan pihak pengendali tidak sedang diam-diam menambah atau melepas kepemilikan mereka. Tidak ada pos laporan keuangan, seperti ekuitas, laba per saham, atau jumlah saham beredar, yang tersentuh oleh surat ini karena memang tidak ada transaksi atau aksi korporasi yang terjadi. Yang perlu dipantau berikutnya adalah apakah Perseroan benar-benar tidak mengambil langkah korporasi dalam tiga bulan ke depan seperti yang dinyatakan dalam surat ini, atau apakah Bursa kembali mengirim permintaan penjelasan bila volatilitas sahamnya berlanjut.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "rupslb-jsmr-25-november-direksi-rivan-achmad-jadi-dirut-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB JSMR 25 November: [Direksi] Rivan Achmad Jadi Dirut Baru",
+  "deck": "RUPSLB Jasa Marga pada 25 November 2026 menyetujui susunan baru Direksi dan Dewan Komisaris, dengan Rivan Achmad Purwantono sebagai Direktur Utama.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T08:43:59",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_JSMR_E019_0b50e65d-46fb-4ce0-9fe1-cf6004ae8d79-20261126084401.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "JSMR",
+  "tags": [
+   "JSMR",
+   "RUPSLB",
+   "Direksi",
+   "Jasa Marga"
+  ],
+  "body": [
+   "PT Jasa Marga Tbk (JSMR) menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada 25 November 2026 dengan salah satu agenda perubahan susunan pengurus perusahaan. Rapat menyetujui pergantian jajaran Direksi dan Dewan Komisaris secara menyeluruh, dengan Rivan Achmad Purwantono ditetapkan sebagai Direktur Utama baru, didampingi Andry Tanudjaja sebagai Wakil Direktur Utama.",
+   "Susunan Direksi baru lengkapnya adalah Rivan Achmad Purwantono sebagai Direktur Utama, Andry Tanudjaja sebagai Wakil Direktur Utama, Ari Respati sebagai Direktur Bisnis dan Layanan, Riksa Prakoso sebagai Direktur SDM dan Transformasi, Sigit Prastowo sebagai Direktur Keuangan dan Manajemen Risiko, Yoga Tri Anggoro sebagai Direktur Operasi, dan Fitri Wiyanti sebagai Direktur Teknik. Dewan Komisaris baru terdiri dari Juri Ardiantoro sebagai Komisaris Utama, Syamsul Bachri Yusuf, M. Asrorun Ni'am Sholeh, dan Nurul Ghufron sebagai Komisaris, serta Nachrowi Ramli, Tedi Kurniawan, dan Rudi Antariksawan sebagai Komisaris Independen.",
+   "Dalam laporan keterbukaan informasi yang ditandatangani Corporate Secretary dan Chief Administration Officer Trias Andriyanto, perseroan menyatakan perubahan susunan pengurus ini tidak berdampak terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usaha perusahaan. Perubahan berlaku sejak keputusan rapat ditetapkan pada 25 November 2026 dan dilaporkan ke Otoritas Jasa Keuangan serta Bursa Efek Indonesia sesuai POJK Nomor 31/POJK.04/2015."
+  ],
+  "fotoAdegan": "Aerial view of a multi lane elevated toll highway curving through a green suburban landscape in morning light",
+  "takeaway": "Laporan ini bersifat netral bagi fundamental Jasa Marga, karena pergantian menyeluruh direksi dan komisaris ini tidak disertai data kinerja baru, dan perusahaan sendiri menyatakan tidak ada dampak operasional atau keuangan langsung. Yang perlu dicermati investor adalah arah kebijakan utang dan arus kas perusahaan di bawah pengurus baru, terutama lewat tangan Sigit Prastowo sebagai Direktur Keuangan dan Manajemen Risiko, mengingat Jasa Marga mengandalkan pembiayaan besar untuk membangun dan mengoperasikan ruas tol baru. Pasar akan memantau kebijakan strategis dan laporan keuangan pertama yang dirilis di bawah susunan pengurus baru ini, karena dokumen ini sendiri tidak menyebutkan rencana atau agenda lanjutan setelah RUPSLB 25 November 2026.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Perubahan anggota Direksi dan/atau anggota Dewan Komisaris"
+ },
+ {
   "slug": "pembina-umkm-naik-kelas-raih-icc100-award-dari-bpkn",
   "category": "UMKM",
   "title": "Pembina UMKM Naik Kelas Raih [ICC100] Award dari BPKN",

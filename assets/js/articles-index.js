@@ -5,6 +5,70 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-jadi-rp100-m",
+  "category": "Aksi Korporasi",
+  "title": "Restrukturisasi Utang BLTZ: Pinjaman Bukopin Jadi [Rp100 M]",
+  "deck": "BLTZ merombak perjanjian kredit dengan KB Bukopin: saldo pinjaman turun jadi Rp100 miliar setelah pelunasan Rp20 miliar, jatuh tempo diperpanjang satu tahun ke 5 Desember 2027.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "restrukturisasi utang",
+   "KB Bukopin",
+   "CGV"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BLTZ_E019_9e233eae-7d0d-472a-82be-17a6248c9b5e-20261126093238.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-turun-ke-rp40-m",
+  "category": "Aksi Korporasi",
+  "title": "Restrukturisasi Utang BLTZ: Pinjaman Bukopin [Turun] ke Rp40 M",
+  "deck": "BLTZ memangkas fasilitas pinjaman Bank KB Bukopin dari Rp90 miliar menjadi Rp40 miliar setelah melunasi Rp50 miliar, sekaligus memperpanjang jatuh tempo satu tahun ke 25 November 2027.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BLTZ",
+   "restrukturisasi utang",
+   "KB Bukopin",
+   "CGV"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BLTZ_E019_cc7cb7ad-a22b-4569-b6be-cbbb9b78ca91-20261126090450.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "snlk-tak-ada-aksi-korporasi-di-balik-volatilitas-saham",
+  "category": "Aksi Korporasi",
+  "title": "SNLK: [Tak Ada] Aksi Korporasi di Balik Volatilitas Saham",
+  "deck": "Menjawab permintaan penjelasan Bursa soal volatilitas saham, SNLK menyatakan tak ada informasi material, rencana aksi korporasi, atau perubahan kepemilikan dari pemegang saham utama dan pengendali.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SNLK",
+   "volatilitas saham",
+   "keterbukaan informasi",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_SNLK_E023A_f28e6de7-c3e9-4819-94a4-97777acfa72a-20261126090037.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-jsmr-25-november-direksi-rivan-achmad-jadi-dirut-baru",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB JSMR 25 November: [Direksi] Rivan Achmad Jadi Dirut Baru",
+  "deck": "RUPSLB Jasa Marga pada 25 November 2026 menyetujui susunan baru Direksi dan Dewan Komisaris, dengan Rivan Achmad Purwantono sebagai Direktur Utama.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "JSMR",
+   "RUPSLB",
+   "Direksi",
+   "Jasa Marga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_JSMR_E019_0b50e65d-46fb-4ce0-9fe1-cf6004ae8d79-20261126084401.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pembina-umkm-naik-kelas-raih-icc100-award-dari-bpkn",
   "category": "UMKM",
   "title": "Pembina UMKM Naik Kelas Raih [ICC100] Award dari BPKN",
@@ -6422,71 +6486,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/dari-b50-hingga-plts-100-gwp-indonesia-ajak-jepang-perkuat-kerja-sama-energi-bersih",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "penjelasan-bursa-msky-kas-rp2-1-m-vs-utang-rp490-5-m-pkpu",
-  "category": "Aksi Korporasi",
-  "title": "Penjelasan Bursa MSKY: Kas Rp2,1 M vs Utang Rp490,5 M [PKPU]",
-  "deck": "MSKY menjawab permintaan penjelasan Bursa Efek Indonesia terkait status PKPU: kas perusahaan hanya Rp2,1 miliar, sementara liabilitas jangka pendek mencapai Rp490,5 miliar.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSKY",
-   "PKPU",
-   "MNC Sky Vision",
-   "likuiditas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/8427bdd165_12513944e6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang",
-  "category": "Energi",
-  "title": "ESDM Tegaskan Ujung Kulon [Bukan] Kawasan Tambang",
-  "deck": "Kementerian ESDM menegaskan Taman Nasional Ujung Kulon bukan wilayah tambang. Hanya sebagian perairan sekitarnya berstatus WUP sejak 2013, dan belum ada izin tambang yang terbit di sana.",
-  "date": "18 November 2026",
-  "image": "assets/img/esdm-tegaskan-ujung-kulon-bukan-kawasan-tambang.jpg",
-  "imageV": "mwkyc4n9",
-  "tags": [
-   "ESDM",
-   "Ujung Kulon",
-   "Pertambangan",
-   "Konservasi"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/kementerian-esdm-tegaskan-taman-nasional-ujung-kulon-bukan-wilayah-pertambangan",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "saham-bonus-ppgl-disesuaikan-jadi-514-1-juta-distribusi-25-nov",
-  "category": "Aksi Korporasi",
-  "title": "Saham Bonus PPGL [Disesuaikan] Jadi 514,1 Juta, Distribusi 25 Nov",
-  "deck": "PPGL menyesuaikan jumlah saham bonus dari rencana 514.118.680 menjadi 514.117.134 saham akibat pembulatan ke bawah, distribusi tetap 25 November 2026.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPGL",
-   "saham bonus",
-   "KSEI",
-   "RUPSLB"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/48641c6175_213d81719c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "vtny-ke-bei-dana-ipo-rp65-59-miliar-dibelikan-tanah",
-  "category": "Aksi Korporasi",
-  "title": "VTNY ke BEI: Dana IPO Rp65,59 Miliar [Dibelikan Tanah]",
-  "deck": "VTNY menjawab permintaan penjelasan kedua BEI soal piutang Rp147 miliar lewat skema cessie, kenaikan CKPN 23,41%, dan dana IPO Rp65,59 miliar yang dipakai membeli tanah kantor.",
-  "date": "17 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "VTNY",
-   "Dana IPO",
-   "CKPN",
-   "Keterbukaan Informasi BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/61c7698a1c_46890e0da9.pdf",
-  "sourceLabel": "IDX"
  }
 ];

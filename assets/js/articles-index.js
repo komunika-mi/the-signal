@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "lrna-jawab-bei-kas-tipis-rp384-juta-revaluasi-topang-92-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "LRNA Jawab BEI: Kas Tipis Rp384 Juta, [Revaluasi] Topang 92% Ekuitas",
+  "deck": "Dalam tanggapan ke BEI atas laporan keuangan kuartal III 2026, LRNA mengungkap kas hanya Rp384 juta sementara surplus revaluasi aset menyumbang 92% dari ekuitasnya.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LRNA",
+   "laporan keuangan",
+   "BEI",
+   "likuiditas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_LRNA_E019_93e66ad7-ac43-4d18-9508-316f7abe1fd0-20261126191847.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-kaji-pergeseran-notifikasi-merger-ke-pratransaksi",
   "category": "Bisnis",
   "title": "KPPU Kaji Pergeseran Notifikasi Merger ke [Pratransaksi]",
@@ -55,6 +71,54 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7254/terima-kunjungan-sekjen-oecd-di-jakarta-presiden-prabowo-subianto-dorong-indonesia-jadi-anggota-pertama-dari-asean-pada-2028",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "sola-jelaskan-dana-ipo-pabrik-xbi-tuban-molor-ke-kuartal-ii-2027",
+  "category": "Aksi Korporasi",
+  "title": "SOLA Jelaskan Dana IPO: Pabrik XBI Tuban [Molor] ke Kuartal II 2027",
+  "deck": "SOLA menjelaskan ke Bursa bahwa pembangunan pabrik anak usahanya, XBI, di Tuban tertunda hingga akhir kuartal II 2027 akibat kendala izin, dengan kelebihan biaya ditanggung kas internal perusahaan.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SOLA",
+   "Xolare RCR Energy",
+   "Xolabit Bitumen Industri",
+   "dana IPO"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_SOLA_E023A_6f90aad9-ac72-40dd-932d-084617e319d7-20261126180352.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rgas-peroleh-sp3mk-pertamina-rp72-68-miliar-kontrak-2-zona-lpg",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Peroleh SP3MK Pertamina Rp72,68 Miliar: [Kontrak] 2 Zona LPG",
+  "deck": "RGAS kantongi dua SP3MK dari Pertamina Patra Niaga senilai total Rp72,68 miliar, setara 69,95 persen ekuitas, untuk distribusi LPG ke petani di dua zona.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RGAS",
+   "SP3MK",
+   "Pertamina Patra Niaga",
+   "LPG"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_RGAS_E019_1b290731-65cf-4caa-95f7-e45de3af76ad-20261126175245.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "pbrx-tanggapi-bei-owk-rp97-saham-26-24-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "PBRX Tanggapi BEI: [OWK] Rp97/Saham, 26,24 Miliar Saham Baru",
+  "deck": "Pan Brothers menjelaskan ke BEI bahwa utang yang dikonversi jadi obligasi wajib konversi turun tipis ke US$156,27 juta, menghasilkan maksimal 26,24 miliar saham baru di harga Rp97 per saham.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PBRX",
+   "Pan Brothers",
+   "obligasi wajib konversi",
+   "PKPU"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_PBRX_E019_3177d3c1-74da-4dec-a4d0-80d71f9ea666-20261126174055.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "menuju-oecd-airlangga-libatkan-dunia-usaha-dan-pekerja",
@@ -231,6 +295,38 @@ var ARTICLES = [
    "ekuitas negatif"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_FLMC_E019_44c28028-d726-4c84-a3e2-b64d201665c1-20261126160306.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ratu-komisaris-merly-ajukan-mundur-rups-putuskan-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "RATU: Komisaris Merly Ajukan [Mundur], RUPS Putuskan 90 Hari",
+  "deck": "Komisaris RATU, Merly, mengajukan pengunduran diri pada 24 November 2026. RUPS akan memutuskan permohonan itu paling lambat 90 hari ke depan.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RATU",
+   "Komisaris",
+   "Pengunduran Diri",
+   "RUPS"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_RATU_E019_28abfa30-62a0-471f-b1ca-484ee3a687f4-20261126153943.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "ltls-likuidasi-anak-usaha-lautan-jasaindo-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "LTLS: [Likuidasi] Anak Usaha Lautan Jasaindo Disetujui",
+  "deck": "Lautan Luas membubarkan anak usahanya, PT Lautan Jasaindo, yang 99,06 persen sahamnya dimiliki Perseroan; proses likuidasi masih berjalan.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LTLS",
+   "Lautan Luas",
+   "likuidasi",
+   "anak usaha"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_LTLS_E019_104caa90-9a45-4aa8-825c-9e7527a5082e-20261126153623.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6390,102 +6486,6 @@ var ARTICLES = [
    "Rights Issue"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3d49b46c8d_2b5cb0a41a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "okas-alihkan-60-saham-bormindo-ke-sarida-utama-lunasi-utang",
-  "category": "Aksi Korporasi",
-  "title": "OKAS Alihkan 60% Saham Bormindo ke Sarida Utama, [Lunasi] Utang",
-  "deck": "OKAS menyerahkan 108.000 saham (60%) di PT Bormindo Nusantara kepada PT Sarida Utama untuk melunasi seluruh utangnya, efektif 16 November 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OKAS",
-   "Ancora Indonesia Resources",
-   "Bormindo Nusantara",
-   "restrukturisasi utang"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b9ba7f8aa7_5db32de4a2.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-jawab-bei-rights-issue-100-m-saham-dilusi-maks-74-6",
-  "category": "Aksi Korporasi",
-  "title": "PACK Jawab BEI: [Rights Issue] 100 M Saham, Dilusi Maks 74,6%",
-  "deck": "PACK menanggapi permintaan BEI soal rights issue 100 miliar saham dengan dilusi maksimal 74,6%, serta rencana akuisisi dua perusahaan tambang dan pemurnian nikel.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "rights issue",
-   "akuisisi nikel",
-   "dilusi saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cad6841c34_de3422e2e4.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kdtn-putrasakti-mandiri-tambah-101-600-saham-hak-suara-32-08",
-  "category": "Aksi Korporasi",
-  "title": "KDTN: Putrasakti Mandiri Tambah 51.600 Saham, Hak Suara Jadi 32,128%",
-  "deck": "Dokumen baru mengungkap pembelian tambahan 51.600 saham KDTN oleh Putrasakti Mandiri pada 18 November 2026, bagian dari rangkaian pembelian yang sudah membawa hak suaranya ke 32,128%.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "KDTN",
-   "Putrasakti Mandiri",
-   "Laporan Kepemilikan Saham",
-   "Puri Sentul Permai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3083-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-boba-rp2-per-saham-cair-18-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim BOBA Rp2 per Saham, [Cair] 18 Desember",
-  "deck": "BOBA membagikan dividen interim tunai Rp2 per saham, total Rp2,31 miliar, dengan tanggal pembayaran 18 Desember 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BOBA",
-   "dividen interim",
-   "dividen tunai",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ab881ce957_ee705a92de.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mmix-pukul-rata-kanan-tambah-200-juta-saham-jadi-8-74",
-  "category": "Aksi Korporasi",
-  "title": "MMIX: Pukul Rata Kanan [Tambah] 200 Juta Saham, Jadi 8,74%",
-  "deck": "PT Pukul Rata Kanan menambah 200 juta saham MMIX pada 17 November 2026, menaikkan kepemilikannya dari 4,57% menjadi 8,74%.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MMIX",
-   "kepemilikan saham",
-   "Pukul Rata Kanan",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/283bc948f9_cb8cddfefa.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-ipcc-rp38-975-per-saham-cair-18-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim IPCC Rp38,975 per Saham, [Cair] 18 Desember",
-  "deck": "IPCC membagikan dividen interim tahun buku 2026 senilai Rp70,87 miliar atau Rp38,975 per saham, dibayar 18 Desember 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "IPCC",
-   "dividen interim",
-   "Indonesia Kendaraan Terminal",
-   "pasar modal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/1fc4a0dd7f_0b5d172aa9.pdf",
   "sourceLabel": "IDX"
  }
 ];

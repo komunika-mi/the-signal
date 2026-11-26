@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "lrna-jawab-bei-kas-tipis-rp384-juta-revaluasi-topang-92-ekuitas",
+  "category": "Aksi Korporasi",
+  "title": "LRNA Jawab BEI: Kas Tipis Rp384 Juta, [Revaluasi] Topang 92% Ekuitas",
+  "deck": "Dalam tanggapan ke BEI atas laporan keuangan kuartal III 2026, LRNA mengungkap kas hanya Rp384 juta sementara surplus revaluasi aset menyumbang 92% dari ekuitasnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T19:18:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_LRNA_E019_93e66ad7-ac43-4d18-9508-316f7abe1fd0-20261126191847.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LRNA",
+  "tags": [
+   "LRNA",
+   "laporan keuangan",
+   "BEI",
+   "likuiditas"
+  ],
+  "body": [
+   "PT Eka Sari Lorena Transport Tbk (LRNA) menyampaikan tanggapan resmi kepada Bursa Efek Indonesia atas permintaan penjelasan terkait laporan keuangan periode 30 September 2026, menyusul surat BEI Nomor S-14437/BEI.PP3/11-2026. Manajemen mengonfirmasi posisi kas perusahaan hanya Rp384 juta atau 0,14% dari total aset, dengan arus kas operasi yang masih negatif. Untuk menutup kebutuhan modal kerja, LRNA mengandalkan perpanjangan fasilitas Kredit Modal Kerja dari PT Bank Mandiri (Persero) Tbk yang berlaku sampai 25 September 2026, penurunan biaya bahan bakar 34,63% dan beban pendapatan langsung 27,57%, penerimaan tunai harian dari pelanggan senilai Rp36,55 miliar selama sembilan bulan 2026, serta kesiapan dukungan pendanaan dari pemegang saham pengendali, PT Lorena, bila dibutuhkan dalam 12 bulan ke depan.",
+   "Perusahaan juga menjelaskan dominasi piutang usaha dari pihak berelasi, PT Ryanta Mitrakaryna, yang mencapai 56,14% dari total piutang usaha atau senilai Rp1,97 miliar. Piutang ini berasal dari kerja sama sejak 3 Juli 2017, di mana Ryanta mengoperasikan 8 unit bus tingkat Mercedes-Benz OC 500 RF 2542 milik LRNA pada trayek antarkota antarprovinsi dengan bagi hasil 50:50 dari laba bruto. Manajemen menekankan kontribusi pendapatan dari kerja sama ini sebenarnya kecil, hanya Rp1,95 miliar atau 5,38% dari total pendapatan sembilan bulan 2026, dan saldo piutangnya sudah turun 25,41% dari Rp2,64 miliar pada akhir 2025. Piutang kelompok umur 61-90 hari memang melonjak dari Rp36,68 juta menjadi Rp156,32 juta, tetapi menurut manajemen itu hanya pergeseran dari kelompok 31-60 hari, sementara total piutang jatuh tempo justru turun 31,10% menjadi Rp1,77 miliar. Dari sisi aset, LRNA juga mengungkap 18 unit bus AKAP yang berhenti beroperasi sejak 2024 karena sudah berusia 20-24 tahun, masih tercatat senilai Rp6,718 miliar berdasarkan penilaian independen per akhir 2023, dan berpotensi mencatat rugi penurunan nilai saat dijual ke pihak ketiga.",
+   "Dari sisi liabilitas, total utang usaha LRNA justru turun 43,81% menjadi Rp572,95 juta, meski komponen yang jatuh tempo 31-60 hari naik 52,60% menjadi Rp111,43 juta akibat tagihan dari dua pemasok baru. Utang lain-lain untuk pesangon karyawan naik 107,58% menjadi Rp195,8 juta setelah dua karyawan, Junaidy Ys dan Asep Rusmana, pensiun pada 2026 dengan total hak pesangon Rp349,04 juta yang dibayar bertahap. Yang paling mencolok adalah struktur ekuitas perusahaan: surplus revaluasi aset tetap sebesar Rp226,1 miliar kini menyumbang hingga 92% dari total ekuitas LRNA, jauh lebih besar porsinya dibanding akumulasi laba dari kegiatan usaha. Perusahaan juga mengoreksi kekeliruan administratif di laporan keuangan yang mencantumkan nama Samsudin dua kali, sebagai Komisaris Utama sekaligus Komisaris Independen, padahal keduanya adalah orang yang sama. Dengan koreksi itu, proporsi komisaris independen LRNA tetap memenuhi syarat minimal 30% sesuai POJK Nomor 33/2014 karena jumlah riil anggota dewan komisaris adalah 6, bukan 7."
+  ],
+  "fotoAdegan": "Rows of aging intercity buses parked idle in a depot yard, mechanics inspecting tires under an overcast morning sky.",
+  "takeaway": "Tanggapan ini condong negatif bagi LRNA karena menegaskan rapuhnya likuiditas riil perusahaan: kas tunai nyaris nol dan modal kerja bertumpu pada perpanjangan kredit bank serta kesediaan pemegang saham pengendali menyuntik dana, bukan dari hasil operasional. Yang tersentuh adalah arus kas dan ekuitas, arus kas menunjukkan uang tunai yang benar-benar bisa dipakai perusahaan sehari-hari dan di sinilah LRNA lemah, sementara ekuitasnya terlihat besar di atas kertas hanya karena 92% berasal dari surplus revaluasi, yaitu selisih kenaikan nilai taksiran tanah dan armada bus yang belum tentu bisa dicairkan jadi uang tunai. Perbaikan di sisi piutang dan utang usaha, yang keduanya memang menyusut, merupakan poin positif, tapi nilainya jauh lebih kecil dibanding tekanan kas inti perusahaan sehingga tidak mengubah gambaran besar. Yang perlu dipantau selanjutnya adalah apakah Bank Mandiri kembali memperpanjang fasilitas kredit modal kerja yang masa berlakunya tercatat sampai 25 September 2026, serta realisasi penjualan 18 unit bus AKAP yang sudah idle, karena nilai jual aktualnya bisa jauh di bawah Rp6,718 miliar yang masih tercatat di buku dan berpotensi menggerus laba saat benar-benar dilepas.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
   "slug": "kppu-kaji-pergeseran-notifikasi-merger-ke-pratransaksi",
   "category": "Bisnis",
   "title": "KPPU Kaji Pergeseran Notifikasi Merger ke [Pratransaksi]",
@@ -85,6 +112,108 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status proses aksesi Indonesia ke OECD, dari evaluasi dokumen menjadi penilaian teknis yang sudah menjangkau 24 dari 25 komite, dengan sisa pekerjaan berupa revisi Undang-Undang Persaingan Usaha, Undang-Undang Statistik, dan aturan pidana anti-suap pejabat asing yang ditargetkan rampung pada 2027. Pihak yang paling terdampak adalah pelaku usaha, karena revisi UU Persaingan Usaha bisa mengubah cara otoritas mengawasi praktik bisnis dan korporasi, serta lembaga penyedia data yang akan diatur ulang lewat revisi UU Statistik. Dengan hanya satu komite yang belum menuntaskan penilaian dan dua undang-undang yang masih harus disahkan DPR, arah prosesnya kini lebih bergantung pada kecepatan legislasi dalam negeri ketimbang pada kesiapan diplomatik Indonesia di forum OECD. Yang akan memastikan target 2028 itu tercapai atau mundur adalah apakah revisi UU Persaingan Usaha dan UU Statistik benar-benar disahkan sesuai tenggat 2027 yang dicanangkan pemerintah.",
   "fotoGagal": 1
+ },
+ {
+  "slug": "sola-jelaskan-dana-ipo-pabrik-xbi-tuban-molor-ke-kuartal-ii-2027",
+  "category": "Aksi Korporasi",
+  "title": "SOLA Jelaskan Dana IPO: Pabrik XBI Tuban [Molor] ke Kuartal II 2027",
+  "deck": "SOLA menjelaskan ke Bursa bahwa pembangunan pabrik anak usahanya, XBI, di Tuban tertunda hingga akhir kuartal II 2027 akibat kendala izin, dengan kelebihan biaya ditanggung kas internal perusahaan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T18:03:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_SOLA_E023A_6f90aad9-ac72-40dd-932d-084617e319d7-20261126180352.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SOLA",
+  "tags": [
+   "SOLA",
+   "Xolare RCR Energy",
+   "Xolabit Bitumen Industri",
+   "dana IPO"
+  ],
+  "body": [
+   "PT Xolare RCR Energy Tbk (SOLA) menjawab surat permintaan penjelasan Bursa Efek Indonesia No. S-14575/BEI.PP2/11-2026 tanggal 24 November 2026, soal perkembangan dana hasil penawaran umum yang dialokasikan ke anak usahanya, PT Xolabit Bitumen Industri (XBI), untuk pengadaan mesin senilai Rp10.267.393.500 dan pembangunan pabrik senilai Rp3.506.396.500. Perseroan menyatakan mesin untuk pabrik di Tuban, Jawa Timur, sudah tiba di lokasi dan sedang memasuki tahap instalasi, integrasi, serta pengujian sebelum bisa dipakai produksi. Dana untuk pembangunan pabrik sudah terserap seluruhnya, tetapi realisasi biayanya melampaui anggaran akibat perubahan desain yang diminta instansi perizinan daerah, ditambah volatilitas kurs rupiah dan gejolak geopolitik yang mengerek harga. Kelebihan biaya itu ditutup dari kas internal perusahaan, bukan dari tambahan dana penawaran umum, dan pabrik kini ditargetkan mulai beroperasi akhir kuartal II 2027.",
+   "Perseroan menjelaskan, molornya jadwal ini dipicu proses perizinan Persetujuan Bangunan Gedung (PBG) yang belum selesai, karena masih menunggu konfirmasi perbaikan dokumen dan persyaratan teknis dari tim ahli instansi perizinan daerah. Akibatnya, produksi komersial XBI di Tuban tertunda dan belum menyumbang pendapatan apa pun. Selama menunggu, kebutuhan produk tetap dipenuhi lewat aktivitas dagang serta dukungan fasilitas produksi PT Aspal Polimer Emulsindo di Demak.",
+   "Soal kinerja XBI sendiri, perusahaan yang berdiri sejak 2022 ini masih berjalan dari bisnis drum aspal, cat bitumen, dan waterproofing, dengan pendapatan Rp39.549.910 untuk periode sampai 30 September 2026, atau cuma 0,04 persen dari pendapatan konsolidasian Perseroan sebesar Rp102.986.128.456. Dana modal kerja operasional Rp2,5 miliar yang dialokasikan ke XBI sudah habis terserap pada 2024, dengan rincian Rp32.842.343 untuk bahan baku, Rp802.524.100 untuk biaya kantor, Rp287.495.603 untuk pemasaran, dan Rp1.377.137.954 untuk gaji karyawan. Perseroan juga menegaskan tidak ada informasi material lain yang belum diungkapkan ke publik."
+  ],
+  "fotoAdegan": "Idle factory machinery and stacked steel drums at an unfinished industrial construction site, workers in hard hats, overcast daylight",
+  "takeaway": "Laporan ini condong negatif bagi SOLA, karena pabrik anak usahanya XBI di Tuban kembali molor ke akhir kuartal II 2027 dan kelebihan biaya pembangunannya harus ditutup dari kas internal, bukan dari sisa dana IPO. Yang tersentuh di sini adalah arus kas perusahaan, sebab dana yang keluar untuk menambal selisih biaya itu mengurangi kas yang bisa dipakai untuk kebutuhan lain, sementara XBI baru menyumbang 0,04 persen dari total pendapatan konsolidasian Perseroan hingga September 2026. Kesenjangan antara dana besar yang sudah digelontorkan untuk mesin dan pabrik dengan hasil yang masih minim ini perlu terus diawasi pelaku pasar. Yang perlu dipantau selanjutnya adalah penerbitan izin Persetujuan Bangunan Gedung (PBG) yang masih berproses, karena itu yang akan menentukan apakah target operasi komersial akhir kuartal II 2027 bisa tercapai atau mundur lagi.",
+  "sentimen": "negatif",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "rgas-peroleh-sp3mk-pertamina-rp72-68-miliar-kontrak-2-zona-lpg",
+  "category": "Aksi Korporasi",
+  "title": "RGAS Peroleh SP3MK Pertamina Rp72,68 Miliar: [Kontrak] 2 Zona LPG",
+  "deck": "RGAS kantongi dua SP3MK dari Pertamina Patra Niaga senilai total Rp72,68 miliar, setara 69,95 persen ekuitas, untuk distribusi LPG ke petani di dua zona.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T17:52:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_RGAS_E019_1b290731-65cf-4caa-95f7-e45de3af76ad-20261126175245.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RGAS",
+  "tags": [
+   "RGAS",
+   "SP3MK",
+   "Pertamina Patra Niaga",
+   "LPG"
+  ],
+  "body": [
+   "PT Kian Santang Muliatama Tbk (RGAS) mengumumkan perolehan dua Surat Perintah Pelaksanaan Pekerjaan Mendahului Kontrak (SP3MK) dari PT Pertamina Patra Niaga untuk proyek pengadaan, penyediaan, dan pendistribusian paket perdana Liquefied Petroleum Gas (LPG) bagi mesin pompa air milik petani sasaran tahun anggaran 2026. Proyek ini terbagi dalam dua zona: Zona 1 bernilai Rp35,17 miliar (SP3MK Nomor 367/PPNEB0000/2026-S3) dan Zona 2 bernilai Rp37,51 miliar (SP3MK Nomor 366/PPNEB0000/2026-S3), sehingga total kontrak mencapai Rp72,68 miliar di luar PPN. Masing-masing paket punya jangka waktu pengerjaan 36 hari kalender.",
+   "Rangkaian proses ini dimulai dari pengumuman pemenang pada 23 November 2026, lalu surat pelaksanaan pekerjaan dan SP3MK yang sama-sama terbit pada 25 November 2026. Perseroan menyatakan tidak ada hubungan afiliasi dengan Pertamina Patra Niaga dan transaksi ini bukan transaksi yang mengandung benturan kepentingan. Nilai total kedua SP3MK setara 69,95 persen dari ekuitas Perseroan per 31 Desember 2025 yang tercatat Rp103,9 miliar, dan 30,62 persen dari pendapatan usaha tahun 2025 yang sebesar Rp237,37 miliar. Meski rasionya besar, perolehan ini dikecualikan dari kategori Transaksi Material karena termasuk kegiatan usaha rutin dan berulang sesuai Pasal 13 ayat (1) POJK Nomor 17/POJK.04/2020.",
+   "Pertamina Patra Niaga memang sudah menjadi pelanggan utama RGAS, dengan nilai penjualan Rp98,72 miliar atau 80,72 persen dari total pendapatan Perseroan pada Triwulan I 2025. Perseroan menyebut kebutuhan modal kerja untuk menggarap proyek ini akan dipenuhi dari kas internal dan/atau fasilitas perbankan, sementara nilai SP3MK akan diakui sebagai pendapatan usaha secara bertahap sesuai progres penyelesaian pekerjaan. RGAS menyatakan perolehan kontrak ini berdampak positif terhadap kelangsungan usaha dan tidak mengganggu kegiatan operasional yang sedang berjalan, serta akan diungkapkan lebih lanjut dalam Laporan Tahunan Perseroan."
+  ],
+  "fotoAdegan": "A farmer adjusting a small LPG-converted water pump engine beside a rice field irrigation canal in rural Indonesia.",
+  "takeaway": "Laporan ini condong positif bagi RGAS karena menambah portofolio pekerjaan dengan nilai signifikan, hampir 70 persen dari ekuitas Perseroan, dari pelanggan yang memang sudah rutin memberi order besar. Pos yang tersentuh adalah pendapatan dan arus kas: pendapatan akan tercatat bertahap sesuai progres pekerjaan, sementara arus kas keluar duluan untuk modal kerja yang disebut bersumber dari kas internal dan pinjaman bank, sehingga perlu dicermati apakah penggunaan fasilitas bank itu menambah beban bunga Perseroan ke depan. Konsentrasi pelanggan juga jadi catatan tersendiri, sebab Pertamina Patra Niaga saja menyumbang lebih dari 80 persen pendapatan Perseroan pada triwulan pertama 2025, sehingga kinerja RGAS sangat bergantung pada satu mitra bisnis. Yang perlu dipantau berikutnya adalah penyelesaian pekerjaan dalam jangka waktu 36 hari kalender terhitung dari penerbitan SP3MK pada 25 November 2026, serta pengungkapan detail transaksi ini dalam Laporan Tahunan Perseroan mendatang.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-23",
+    "acara": "Pengumuman pemenang tender pengadaan LPG Pertamina"
+   },
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Penerbitan SP3MK dan surat pelaksanaan pekerjaan"
+   }
+  ]
+ },
+ {
+  "slug": "pbrx-tanggapi-bei-owk-rp97-saham-26-24-miliar-saham-baru",
+  "category": "Aksi Korporasi",
+  "title": "PBRX Tanggapi BEI: [OWK] Rp97/Saham, 26,24 Miliar Saham Baru",
+  "deck": "Pan Brothers menjelaskan ke BEI bahwa utang yang dikonversi jadi obligasi wajib konversi turun tipis ke US$156,27 juta, menghasilkan maksimal 26,24 miliar saham baru di harga Rp97 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T17:40:53",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_PBRX_E019_3177d3c1-74da-4dec-a4d0-80d71f9ea666-20261126174055.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PBRX",
+  "tags": [
+   "PBRX",
+   "Pan Brothers",
+   "obligasi wajib konversi",
+   "PKPU"
+  ],
+  "body": [
+   "Pan Brothers Tbk (PBRX) menjawab surat permintaan penjelasan dari Bursa Efek Indonesia nomor S-14516/BEI.PP1/11-2026 tanggal 23 November 2026, yang mempertanyakan perbedaan angka antara permohonan pencatatan saham tambahan PBRX tertanggal 16 November 2026 dengan permohonan awal tertanggal 16 Oktober 2025. Permohonan ini terkait Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) melalui konversi utang menjadi Obligasi Wajib Konversi (OWK), bagian dari Perjanjian Perdamaian dalam perkara PKPU yang disahkan Pengadilan Niaga Jakarta Pusat pada 23 Desember 2024.",
+   "Perseroan menjelaskan, nilai utang yang dikonversi menjadi OWK turun dari US$156.693.985 menjadi US$156.269.874, selisih US$424.111. Penurunan ini berasal dari satu pemegang Senior Notes senilai US$650.000 yang berhak atas Opsi Penyelesaian 1 tapi tidak ikut proses verifikasi pemegang Senior Notes yang berlangsung 6-22 Oktober 2025, sehingga haknya atas OWK sebesar US$424.111 dan New Notes 1 sebesar US$225.889 tidak jadi diterbitkan. Rincian setelah penyesuaian: kreditur Fasilitas Sindikasi tetap US$33.384.390, kreditur Fasilitas Bilateral Non-Aktif tetap US$31.047.310, dan pemegang Senior Notes Opsi Penyelesaian 1 turun dari US$92.262.285 menjadi US$91.838.174.",
+   "Akibat penyesuaian itu, jumlah maksimal saham baru yang akan diterbitkan dari konversi OWK turun dari 26.324.589.480 saham menjadi 26.243.672.603 saham, dengan harga pelaksanaan konversi Rp97 per saham yang disepakati Perseroan dan pemegang OWK sesuai Lampiran 3.5 Perjanjian Perdamaian. Periode konversi OWK menjadi saham juga disesuaikan dari sebelumnya tertulis 31 Desember 2026 sampai 30 Desember 2031, menjadi 31 Desember 2026 sampai 7 November 2030, karena OWK sudah diterbitkan pada 7 November 2025 dengan jangka waktu lima tahun. Perseroan menegaskan seluruh perubahan ini tidak melanggar Perjanjian Perdamaian maupun persetujuan RUPS Luar Biasa 19 Juni 2025, dan tidak ada informasi material lain yang belum diungkapkan ke publik.",
+   "Surat tanggapan ditandatangani Direktur Pan Brothers, Fitri Ratnasari Hartono, pada 25 November 2026."
+  ],
+  "fotoAdegan": "Rows of sewing machines in a large garment factory, workers stitching fabric under bright industrial lighting",
+  "takeaway": "Laporan ini tergolong netral bagi Pan Brothers, karena isinya hanya mengonfirmasi bahwa penyesuaian kecil dalam skema konversi utang menjadi saham masih sejalan dengan Perjanjian Perdamaian dan persetujuan RUPS Luar Biasa 19 Juni 2025, tanpa ada temuan pelanggaran dari Bursa. Yang tersentuh adalah struktur ekuitas dan jumlah saham beredar: utang senilai US$156,27 juta dikonversi menjadi obligasi wajib konversi yang nantinya bisa ditukar jadi maksimal 26,24 miliar saham baru dengan harga Rp97 per saham, sehingga di satu sisi beban utang Pan Brothers berkurang tapi di sisi lain saham beredar bertambah sangat banyak, yang membuat laba per saham berpotensi terdilusi karena pembaginya membesar. Yang perlu dipantau selanjutnya adalah dimulainya periode konversi OWK menjadi saham pada 31 Desember 2026 sampai batas akhirnya 7 November 2030, sebab di rentang itulah dilusi riil baru benar-benar terjadi setiap kali pemegang OWK menukar obligasinya menjadi saham.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-31",
+    "acara": "Mulai periode konversi OWK menjadi saham PBRX"
+   },
+   {
+    "tanggal": "2030-11-07",
+    "acara": "Akhir periode konversi OWK menjadi saham PBRX"
+   }
+  ]
  },
  {
   "slug": "menuju-oecd-airlangga-libatkan-dunia-usaha-dan-pekerja",
@@ -429,6 +558,58 @@ var ARTICLES = [
     "acara": "RUPSLB persetujuan rencana PMTHMETD"
    }
   ]
+ },
+ {
+  "slug": "ratu-komisaris-merly-ajukan-mundur-rups-putuskan-90-hari",
+  "category": "Aksi Korporasi",
+  "title": "RATU: Komisaris Merly Ajukan [Mundur], RUPS Putuskan 90 Hari",
+  "deck": "Komisaris RATU, Merly, mengajukan pengunduran diri pada 24 November 2026. RUPS akan memutuskan permohonan itu paling lambat 90 hari ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T15:39:41",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_RATU_E019_28abfa30-62a0-471f-b1ca-484ee3a687f4-20261126153943.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RATU",
+  "tags": [
+   "RATU",
+   "Komisaris",
+   "Pengunduran Diri",
+   "RUPS"
+  ],
+  "body": [
+   "PT Raharja Energi Cepu Tbk (RATU) mengumumkan telah menerima surat pengunduran diri dari Merly dari jabatannya sebagai Komisaris Perseroan pada 24 November 2026. Perusahaan menyatakan langkah ini mengacu pada Pasal 27 POJK No. 33/2014 tentang Direksi dan Dewan Komisaris serta Pasal 14 ayat 11 Anggaran Dasar Perseroan, yang mewajibkan perusahaan menggelar Rapat Umum Pemegang Saham (RUPS) untuk memutuskan permohonan pengunduran diri tersebut paling lambat 90 hari sejak surat itu diterima.",
+   "Sampai tanggal keterbukaan informasi ini disampaikan, pengunduran diri Merly belum berlaku efektif dan susunan Dewan Komisaris RATU belum berubah. Status pengunduran diri baru akan sah setelah disetujui dalam RUPS, yang tanggalnya belum ditetapkan dalam dokumen ini selain batas waktu 90 hari tersebut. Perseroan menyatakan penerimaan surat ini tidak membawa dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Industrial oil and gas facility with pipelines and storage tanks at dusk, workers in safety gear inspecting equipment",
+  "takeaway": "Laporan ini netral bagi RATU karena baru tahap administratif awal, yaitu penerimaan surat pengunduran diri, belum ada perubahan nyata pada susunan pengawas perusahaan. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau arus kas, melainkan tata kelola, komisaris adalah organ yang mengawasi kinerja direksi, jadi pergantian satu orang di posisi ini baru berarti sesuatu bagi investor kalau sampai mengubah keseimbangan pengawasan di dewan. Yang perlu dipantau selanjutnya adalah RUPS yang wajib diselenggarakan RATU paling lambat 90 hari setelah 24 November 2026, karena pengunduran diri Merly baru resmi berlaku setelah RUPS itu menyetujuinya, dan dokumen ini belum menyebut tanggal pastinya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "ltls-likuidasi-anak-usaha-lautan-jasaindo-disetujui",
+  "category": "Aksi Korporasi",
+  "title": "LTLS: [Likuidasi] Anak Usaha Lautan Jasaindo Disetujui",
+  "deck": "Lautan Luas membubarkan anak usahanya, PT Lautan Jasaindo, yang 99,06 persen sahamnya dimiliki Perseroan; proses likuidasi masih berjalan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T15:36:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_LTLS_E019_104caa90-9a45-4aa8-825c-9e7527a5082e-20261126153623.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LTLS",
+  "tags": [
+   "LTLS",
+   "Lautan Luas",
+   "likuidasi",
+   "anak usaha"
+  ],
+  "body": [
+   "PT Lautan Luas Tbk mengumumkan pembubaran dan proses likuidasi entitas anaknya, PT Lautan Jasaindo (LJI), yang 99,06 persen sahamnya dimiliki oleh Perseroan. Keputusan ini tertuang dalam Akta Pernyataan Keputusan Para Pemegang Saham Sebagai Pengganti Rapat Umum Pemegang Saham Luar Biasa LJI Nomor 6 tanggal 26 November 2026, yang dibuat di hadapan Notaris Hanlia Andree, S.H., M.Kn. di Kabupaten Tangerang. Para pemegang saham LJI sepakat membubarkan perusahaan tersebut dan melanjutkannya dengan proses likuidasi sesuai peraturan yang berlaku.",
+   "Lautan Luas menyampaikan bahwa proses pengurusan persetujuan dan pemenuhan persyaratan administratif dari instansi terkait sehubungan dengan likuidasi LJI masih berlangsung hingga saat laporan ini disampaikan. Perseroan menyatakan akan melaksanakan tindak lanjut yang diperlukan sesuai ketentuan peraturan yang berlaku, tanpa merinci target waktu penyelesaian. Laporan yang ditandatangani Elly Mariana Tansil ini juga menegaskan bahwa likuidasi LJI tidak menimbulkan dampak material terhadap kegiatan operasional, posisi hukum, kondisi keuangan, maupun kelangsungan usaha Lautan Luas secara keseluruhan."
+  ],
+  "fotoAdegan": "Workers in protective gear checking stacked chemical drums inside a large distribution warehouse, forklift nearby, industrial lighting",
+  "takeaway": "Laporan ini netral bagi pemegang saham Lautan Luas, karena Perseroan sendiri menegaskan likuidasi anak usahanya tidak berdampak material pada operasional, keuangan, maupun posisi hukum perusahaan. Yang tersentuh hanyalah struktur konsolidasi laporan keuangan, sebab selama ini aset dan kewajiban LJI, meski kecil, tetap tergabung dalam neraca Lautan Luas lewat kepemilikan 99,06 persen; begitu likuidasi tuntas, pos-pos itu akan keluar dari laporan konsolidasi, namun ukurannya disebut tidak signifikan sehingga tidak mengubah gambaran keuangan Perseroan secara keseluruhan. Yang perlu dipantau berikutnya adalah penyelesaian proses persetujuan dari instansi terkait yang menurut Perseroan masih berjalan, karena laporan ini belum menyebutkan tanggal rampungnya proses likuidasi tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
  },
  {
   "slug": "dematerialisasi-tkim-warkat-wajib-konversi-sebelum-5-mei-2030",

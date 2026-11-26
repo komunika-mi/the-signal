@@ -3,6 +3,88 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "rlco-jelaskan-ke-bursa-laba-naik-meski-penjualan-turun-q3-2026",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Jelaskan ke Bursa: [Laba Naik] Meski Penjualan Turun Q3 2026",
+  "deck": "RLCO menjawab permintaan penjelasan BEI soal laba sembilan bulan yang naik meski penjualan turun, terutama di kuartal III 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T22:35:05",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_RLCO_E023A_d06a001b-d4dd-43ae-a0ba-4912e6e11979-20261126223507.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "RLCO",
+  "tags": [
+   "RLCO",
+   "sarang burung walet",
+   "laporan keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Abadi Lestari Indonesia Tbk (RLCO) menyampaikan jawaban resmi atas surat Bursa Efek Indonesia No. S-14585/BEI.PP2/11-2026 tanggal 24 November 2026 yang meminta penjelasan terkait kinerja perusahaan. Surat jawaban bernomor 023/CORSEC/ALI/XI/2026 ini ditandatangani oleh Ayu Amanda dan disampaikan pada 26 November 2026, sesuai ketentuan Peraturan Bursa Nomor I-E yang mewajibkan emiten merespons permintaan penjelasan paling lambat dua hari bursa sejak surat diterima.",
+   "Bursa menanyakan tiga hal. Pertama, strategi bisnis RLCO secara keseluruhan, termasuk fokus pada produk sarang burung walet olahan dan produk konsumen, dengan pasar ekspor yang diprioritaskan adalah Tiongkok, Hong Kong, Singapura, Amerika Serikat, dan negara Asia lain. Kedua dan yang paling krusial, Bursa meminta penjelasan mengapa laba perusahaan untuk periode sembilan bulan yang berakhir 30 September 2026 justru naik di tengah penurunan penjualan, khususnya pada kuartal III 2026. RLCO menjawab bahwa kenaikan laba itu didorong oleh pengelolaan kegiatan usaha yang lebih efisien serta kebijakan pengadaan dan penjualan yang selektif untuk menjaga margin keuntungan, namun tidak menyebutkan angka persentase atau nilai rupiah konkret dari kenaikan laba maupun penurunan penjualan tersebut.",
+   "Ketiga, soal prospek dan risiko, manajemen menyebut lima tantangan utama: fluktuasi harga dan ketersediaan bahan baku, persaingan usaha, perubahan permintaan pasar, persyaratan kualitas dan regulasi ekspor di negara tujuan, serta pengelolaan modal kerja dan likuiditas antara pembelian persediaan, pembayaran ke pemasok, dan penerimaan pembayaran dari pelanggan. Sebagai mitigasi, perusahaan menyebut langkah diversifikasi pemasok, pengendalian kualitas produk, pengembangan pasar dan pelanggan, serta pengelolaan keuangan yang prudent melalui kontrol biaya operasional dan pengawasan arus kas."
+  ],
+  "fotoAdegan": "Workers inspecting and cleaning raw swiftlet bird's nests on a stainless steel table inside a small processing workshop.",
+  "takeaway": "Jawaban ini netral bagi penilaian fundamental RLCO: perusahaan mengonfirmasi ada kenaikan laba pada periode sembilan bulan di tengah penjualan yang melemah, tetapi tidak membuka satu pun angka pasti, sehingga belum bisa dipastikan apakah penguatan margin itu memang berkelanjutan atau sekadar penghematan biaya sesaat. Pos yang tersentuh adalah margin laba dan modal kerja, yaitu selisih uang masuk dari penjualan dikurangi biaya operasional dan kewajiban ke pemasok, yang disorot pasar karena menentukan apakah perusahaan punya kas cukup untuk membeli stok sarang burung walet berikutnya tanpa berutang lebih banyak. Perusahaan sendiri mengakui penjualan melemah khususnya di kuartal III 2026 akibat fluktuasi harga bahan baku dan permintaan pasar yang berubah, jadi klaim efisiensi ini belum teruji di luar satu kuartal. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal IV dan tahun penuh 2026, untuk melihat apakah tren penjualan yang turun berlanjut atau membalik, karena jawaban ke Bursa ini sifatnya kualitatif tanpa target angka yang bisa dicek ulang nanti.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "penarikan-surat-byan-26-november-komite-audit-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "Penarikan Surat BYAN 26 November: [Komite Audit] Dibatalkan",
+  "deck": "Bayan Resources menarik suratnya sendiri soal perubahan Komite Audit hanya beberapa jam setelah surat itu terbit, tanpa menjelaskan alasan atau susunan terbaru komite tersebut.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T22:15:44",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BYAN_E019_af8b61bb-5022-43b0-920e-bb92df6e6ba2-20261126221546.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BYAN",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "Komite Audit",
+   "Keterbukaan Informasi"
+  ],
+  "body": [
+   "Bayan Resources Tbk (BYAN) menarik surat sebelumnya, nomor 646/BR-OJK/XI/2026 tertanggal 26 November 2026, yang berisi pemberitahuan perubahan Komite Audit perusahaan. Penarikan ini disampaikan melalui surat nomor 647/BR-OJK/XI/2026 yang dikirim ke Otoritas Jasa Keuangan pada hari yang sama, hanya beberapa jam setelah surat pertama terbit.",
+   "Dalam suratnya, perusahaan menyatakan bahwa dengan adanya penarikan ini, surat tanggal 26 November 2026 tentang perubahan Komite Audit tersebut dinyatakan tidak berlaku lagi. Perusahaan tidak menjelaskan alasan penarikan maupun rincian apa yang sebelumnya diumumkan dalam surat yang ditarik tersebut. Surat ditandatangani oleh Farih Romdoni Putra selaku Sekretaris Perusahaan, dengan tembusan dikirimkan ke Direksi PT Bursa Efek Indonesia.",
+   "Perusahaan menegaskan bahwa penarikan surat ini tidak berdampak terhadap kegiatan operasional, kondisi hukum, maupun kelangsungan usaha Bayan Resources."
+  ],
+  "fotoAdegan": "Wide open-pit coal mine in Kalimantan with haul trucks moving along a dusty access road, overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental Bayan Resources karena isinya murni koreksi administratif, yaitu menarik surat yang baru dikirim pada hari yang sama, dan perusahaan sendiri menyatakan tidak ada dampak operasional atau hukum. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh di sini; yang terdampak justru komposisi Komite Audit, organ yang bertugas mengawasi kualitas laporan keuangan dan kepatuhan perusahaan, sehingga penarikan tanpa penjelasan membuat publik untuk sementara tidak tahu siapa sebenarnya yang mengisi komite ini. Yang perlu dipantau adalah apakah Bayan Resources akan menerbitkan surat pengganti yang menjelaskan susunan Komite Audit yang sebenarnya, karena dokumen ini tidak menyebut tanggal atau agenda lanjutan untuk itu.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "laporan-keuangan-kras-1h2026-laba-us-6-3-juta-balik-dari-rugi",
+  "category": "Aksi Korporasi",
+  "title": "Laporan Keuangan KRAS 1H2026: [Laba] US$6,3 Juta, Balik dari Rugi",
+  "deck": "Krakatau Steel membalik rugi jadi laba US$6,3 juta pada semester I 2026, didorong pendapatan naik 36 persen dan keringanan utang restrukturisasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T22:15:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-e20508cb-7200-4d8a-b878-1606dd7b2dcb-1/FinancialStatement-2026-II-KRAS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KRAS",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "laporan keuangan",
+   "BUMN baja"
+  ],
+  "body": [
+   "PT Krakatau Steel (Persero) Tbk menyampaikan laporan keuangan interim yang ditelaah secara terbatas untuk semester pertama 2026, dengan opini wajar tanpa modifikasian dari auditor Amir Abadi Jusuf, Aryanto, Mawar & Rekan. Pada periode Januari hingga Juni 2026, pendapatan usaha konsolidasian KRAS mencapai US$609,2 juta, naik dari US$446,4 juta pada periode yang sama tahun 2025. Laba bruto naik lebih dari dua kali lipat menjadi US$71,0 juta dari US$32,3 juta, dan laba operasi tercatat US$0,6 juta, berbalik dari rugi operasi US$23,0 juta setahun sebelumnya.",
+   "Di luar kinerja operasional, ada tiga pos yang mendongkrak laba periode ini: keuntungan US$27,2 juta dari penyelesaian kewajiban dipercepat dengan keringanan (haircut) atas utang yang direstrukturisasi, keuntungan US$14,2 juta dari divestasi investasi pada entitas asosiasi dan aset keuangan, serta laba selisih kurs bersih US$32,1 juta. Beban keuangan turun menjadi US$48,3 juta dari US$70,2 juta berkat restrukturisasi utang tersebut. Hasilnya, KRAS mencatat laba sebelum pajak US$11,5 juta, berbalik dari rugi US$100,5 juta, dan laba bersih periode berjalan US$6,3 juta, berbalik dari rugi US$105,4 juta. Dari laba bersih itu, bagian yang menjadi hak pemegang saham pemilik entitas induk hanya US$655 ribu, sementara US$5,65 juta menjadi hak pemegang saham nonpengendali di anak usaha.",
+   "Dari sisi posisi keuangan per 30 Juni 2026, total aset KRAS naik menjadi US$2.784,6 juta dari US$2.765,8 juta pada akhir 2025, sementara total ekuitas turun menjadi US$698,1 juta dari US$725,5 juta akibat rugi komprehensif lain sebesar US$33,4 juta dari selisih kurs penjabaran laporan keuangan anak usaha dan entitas asosiasi di luar negeri. Pinjaman jangka pendek melonjak menjadi US$222,2 juta dari US$80,2 juta, sedangkan kas dan setara kas naik menjadi US$90,8 juta dari US$62,0 juta. Dokumen ini juga mencatat perubahan komposisi saham seri Dwiwarna milik Pemerintah Indonesia, dari 1 saham menjadi 154.771.175 saham, yang diimbangi pengurangan jumlah saham seri B dalam jumlah yang sama sehingga total saham beredar KRAS tetap 19.346.396.900 lembar."
+  ],
+  "fotoAdegan": "Steelworkers in protective gear monitoring molten metal pouring from a furnace inside a large industrial steel mill, sparks flying, dim overcast light",
+  "takeaway": "Laporan ini cenderung netral bagi KRAS: perusahaan berhasil membalik kerugian jadi laba setelah bertahun-tahun merugi, tetapi sebagian besar laba itu berasal dari untung satu kali seperti keringanan utang dan penjualan aset, bukan dari bisnis baja yang marginnya masih tipis. Pos yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham setelah dikurangi semua utang, yang justru menyusut jadi US$698,1 juta karena rugi dari penjabaran nilai tukar anak usaha di luar negeri, bukan karena kinerja usaha yang memburuk. Beban bunga, yaitu biaya yang dibayar perusahaan atas pinjamannya, turun jadi US$48,3 juta berkat restrukturisasi utang, tetapi di sisi lain pinjaman jangka pendek melonjak hampir tiga kali lipat jadi US$222,2 juta sehingga KRAS perlu menyiapkan dana tunai dalam waktu dekat untuk membayarnya. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal selanjutnya, untuk melihat apakah laba dari bisnis inti baja terus membaik atau kembali tertekan begitu untung satu kali ini tidak berulang.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+ },
+ {
   "slug": "telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan",
   "category": "Makroekonomi",
   "title": "Telur dan Bawang di Yogyakarta [Lebih Murah] dari Harga Acuan",
@@ -60,6 +142,38 @@ var ARTICLES = [
   "imageV": "mwxo131b"
  },
  {
+  "slug": "rupslb-pack-ditunda-ke-8-desember-ojk-minta-tambahan-informasi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PACK Ditunda ke 8 Desember: [OJK] Minta Tambahan Informasi",
+  "deck": "RUPSLB PACK yang semula digelar 30 November diundur ke 8 Desember 2026 setelah OJK meminta tambahan informasi soal rencana perubahan usaha, penambahan modal, dan transaksi dengan pihak terafiliasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T21:29:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_PACK_E019_75985530-789c-426c-90b2-8af40e1a1bce-20261126212931.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PACK",
+  "tags": [
+   "PACK",
+   "RUPSLB",
+   "OJK",
+   "rights issue"
+  ],
+  "body": [
+   "PT Abadi Nusantara Hijau Investama Tbk (PACK) menunda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang sebelumnya dijadwalkan pada Senin, 30 November 2026. Rapat kini dijadwalkan ulang pada Selasa, 8 Desember 2026 pukul 10.00 WIB di Ruang Kulintang, Ascott Sudirman Jakarta, Ciputra World 2. Penundaan dilakukan karena Otoritas Jasa Keuangan (OJK) melalui surat No. S-318/PM.211/2026 tertanggal 25 November 2026 meminta tambahan informasi dan klarifikasi atas rencana perubahan kegiatan usaha, transaksi material, rencana penambahan modal dengan hak memesan efek terlebih dahulu (HMETD), serta transaksi material dengan pihak afiliasi perseroan.",
+   "Perseroan menyatakan akan menerbitkan keterbukaan informasi tambahan untuk memenuhi permintaan OJK tersebut. Mata acara RUPSLB tidak berubah dari yang sudah diumumkan dalam pemanggilan rapat tertanggal 6 November 2026. Pemegang saham yang berhak hadir tetap mengacu pada Daftar Pemegang Saham per 5 November 2026, dan surat kuasa serta suara yang sudah disampaikan lewat eASY.KSEI untuk RUPSLB semula tetap berlaku. Perseroan juga menegaskan tidak akan melakukan pemanggilan ulang, sesuai Pasal 19 ayat (3) Peraturan OJK No. 15/POJK.04/2020."
+  ],
+  "fotoAdegan": "Empty hotel ballroom set up with rows of chairs for a corporate shareholders meeting, soft morning light through curtains",
+  "takeaway": "Penundaan ini sendiri netral bagi fundamental PACK karena belum ada angka atau keputusan final yang berubah, tapi alasannya patut dicermati: OJK meminta tambahan informasi sebelum pemegang saham memutuskan rencana perubahan bisnis, penambahan modal lewat hak memesan efek terlebih dahulu (hak bagi pemegang saham lama untuk membeli saham baru lebih dulu), dan transaksi dengan pihak terafiliasi. Kalau rencana penambahan modal itu nanti berjalan, jumlah saham PACK yang beredar akan bertambah, sehingga laba per saham bisa terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham, itu sebabnya pasar biasanya mencermati rencana semacam ini. Transaksi dengan pihak terafiliasi juga lazim diawasi lebih ketat karena menyangkut potensi konflik kepentingan antara pengurus perseroan dan pemegang saham minoritas. Yang perlu dipantau selanjutnya adalah keterbukaan informasi tambahan yang akan diterbitkan Perseroan untuk menjawab permintaan OJK, serta pelaksanaan RUPSLB yang kini dijadwalkan ulang pada 8 Desember 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-08",
+    "acara": "RUPSLB PACK dijadwalkan ulang"
+   }
+  ]
+ },
+ {
   "slug": "mekaar-pnm-capai-1-2-juta-nasabah-bunga-turun-8",
   "category": "UMKM",
   "title": "Mekaar PNM Capai 1,2 Juta Nasabah, Bunga Turun [8%]",
@@ -85,6 +199,41 @@ var ARTICLES = [
   "kreditFoto": "tvOneNews",
   "takeaway": "Yang berubah secara konkret adalah bunga pembiayaan Mekaar diturunkan jadi 8 persen, dari sebelumnya hanya diuji coba di 10 wilayah sejak September 2026, kini sudah diresmikan secara nasional pada 10 November 2026 dan menjangkau 1,2 juta nasabah, dengan Denpasar sebagai salah satu titik perluasan terbaru. Yang terdampak langsung adalah perempuan pelaku usaha mikro prasejahtera yang jadi nasabah Mekaar, karena bunga lebih rendah berarti setoran cicilan bulanan mereka jadi lebih kecil. Aturan mainnya sendiri sudah direvisi sekali, dari Permenko Nomor 7 Tahun 2026 menjadi Permenko Nomor 11 Tahun 2026, tanda ketentuan ini masih disesuaikan sambil berjalan, bukan aturan final. Pola perluasan bertahap, dari uji coba ke peluncuran resmi lalu merambah daerah satu demi satu, menunjukkan program ini masih menuju jangkauan nasional penuh dan belum selesai. Yang akan memastikan arah ini adalah laporan berikutnya dari PNM atau Kementerian Koordinator Bidang Perekonomian soal berapa banyak provinsi atau cabang PNM yang sudah benar-benar menerapkan bunga 8 persen ini.",
   "imageV": "mwxo13lb"
+ },
+ {
+  "slug": "public-expose-ptpp-kontrak-baru-turun-11-8-ke-rp13-11-t",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PTPP: [Kontrak Baru] Turun 11,8% ke Rp13,11 T",
+  "deck": "Materi public expose PTPP menunjukkan kontrak baru, pendapatan, dan laba operasional kuartal III 2026 turun dibanding tahun lalu, acara digelar 1 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T20:41:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_PTPP_E003_92487199-36d1-4a46-b7ac-0e96cf764924-20261126204145.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PTPP",
+  "tags": [
+   "PTPP",
+   "Public Expose",
+   "Kontrak Baru",
+   "Divestasi"
+  ],
+  "body": [
+   "PP (Persero) Tbk (PTPP) menyampaikan materi public expose tahunan 2026 kepada Bursa Efek Indonesia, menjelang paparan publik yang dijadwalkan Selasa, 1 Desember 2026, pukul 14.00 sampai 14.45 WIB secara daring lewat Zoom. Materi tersebut mengungkap nilai kontrak baru perseroan hingga Oktober 2026 sebesar Rp13,11 triliun, turun 11,8 persen dibandingkan periode yang sama tahun lalu yang mencapai Rp22,01 triliun. Manajemen menargetkan kontrak baru bisa naik lagi menjadi Rp18,19 triliun hingga akhir 2026.",
+   "Pendapatan konsolidasi kuartal III 2026 tercatat Rp9,47 triliun, turun dari Rp10,74 triliun pada periode yang sama tahun sebelumnya. Laba operasional ikut turun dari Rp1,41 triliun menjadi Rp1,06 triliun, sementara margin kotor menyusut dari 15,05 persen menjadi 12,48 persen dan margin operasional dari 9,50 persen menjadi 6,60 persen. Di sisi lain, rasio kemampuan membayar bunga membaik dari 0,23 kali menjadi 1,05 kali, dan rasio kemampuan membayar cicilan utang naik dari 0,18 kali menjadi 0,73 kali dibandingkan posisi akhir 2025.",
+   "Materi itu juga memuat sejumlah proyek kontrak baru terbesar, antara lain pembangunan jalan kawasan khusus ekonomi Wanam-Muting senilai Rp1,77 triliun, gedung PIDUM dan Datum Rp820,72 miliar, lanjutan Terminal 1 Bandara Soekarno-Hatta Rp756,48 miliar, proyek BRT Metropolitan Mebidang Medan-Deli Serdang Rp538,50 miliar, serta tambang bauksit Mempawah yang dikerjakan anak usaha PP Presisi senilai Rp478,68 miliar.",
+   "Dalam materi yang sama, PTPP memaparkan strategi divestasi 2026 dengan target total Rp5,1 triliun, terbagi atas 77 persen dari aset induk dan 23 persen dari anak usaha. Realisasi yang sudah dikantongi perseroan sejauh ini senilai Rp1,5 triliun dari penjualan BSI Tower."
+  ],
+  "fotoAdegan": "Construction workers on a high-rise building frame in Jakarta, tower cranes against an overcast sky, concrete columns visible",
+  "takeaway": "Materi ini condong negatif bagi fundamental PTPP, karena pendapatan, laba operasional, dan nilai kontrak baru kuartal III 2026 sama-sama turun dibandingkan tahun lalu, meski kemampuan perseroan membayar bunga dan cicilan utang jangka pendek membaik dari posisi akhir 2025. Pos yang tersentuh adalah margin kotor dan margin operasional, yang menggambarkan seberapa efisien PTPP mengerjakan proyek, serta rasio kemampuan bayar bunga dan rasio kemampuan bayar utang, dua ukuran yang jadi perhatian pelaku pasar karena PTPP termasuk BUMN karya dengan beban utang besar. Yang perlu dipantau berikutnya adalah paparan publik pada 1 Desember 2026 dan progres realisasi divestasi menuju target Rp5,1 triliun tahun ini, mengingat baru Rp1,5 triliun yang terealisasi dari penjualan BSI Tower.",
+  "sentimen": "negatif",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Public expose tahunan PTPP secara daring"
+   }
+  ]
  },
  {
   "slug": "lrna-jawab-bei-kas-tipis-rp384-juta-revaluasi-topang-92-ekuitas",
@@ -11608,8 +11757,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-blue-24-november-laba-turun-5-pendapatan-naik-5-6",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BLUE 24 November: [Laba] Turun 5%, Pendapatan Naik 5,6%",
-  "deck": "Public expose tahunan BLUE digelar 24 November 2026; laba periode berjalan Januari-September turun 5,02 persen meski pendapatan naik 5,63 persen.",
+  "title": "Public Expose BLUE 24 November: Tekanan Margin Disebut [Struktural]",
+  "deck": "Hasil public expose BLUE 24 November 2026: manajemen sebut tekanan margin bersifat struktural, sementara negosiasi akuisisi oleh Huayou Group masih berlangsung tanpa linimasa.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T17:46:53",
@@ -11618,27 +11767,36 @@ var ARTICLES = [
   "emiten": "BLUE",
   "tags": [
    "BLUE",
-   "public expose",
-   "kinerja keuangan",
-   "Berkah Prima Perkasa"
+   "Public Expose",
+   "Akuisisi Huayou",
+   "Free Float"
   ],
   "body": [
-   "PT Berkah Prima Perkasa Tbk (BLUE) menjadwalkan public expose tahunan 2026 pada Selasa, 24 November 2026, pukul 14.00-16.00 WIB, secara daring melalui Zoom Webinar. Agenda yang akan dibahas meliputi profil dan lini usaha perusahaan, perkembangan kinerja operasional 2026, rencana usaha, kinerja keuangan kuartal III 2026, tantangan dan strategi perusahaan, serta sesi tanya jawab. Manajemen yang dijadwalkan hadir adalah jajaran direksi, corporate secretary, dan manajemen perusahaan lainnya, dipimpin Direktur Utama Herman Tansri.",
-   "Materi yang dilampirkan menunjukkan pendapatan perusahaan sepanjang Januari-September 2026 naik 5,63 persen menjadi Rp116,19 miliar dibandingkan periode yang sama tahun sebelumnya sebesar Rp109,99 miliar. Namun laba usaha turun 4,99 persen menjadi Rp15,26 miliar dan laba periode berjalan turun 5,02 persen menjadi Rp15,21 miliar, karena beban pokok pendapatan naik lebih cepat yaitu 8,90 persen menjadi Rp78,19 miliar dan beban umum serta administrasi naik 11,44 persen menjadi Rp18,07 miliar, meski beban penjualan justru turun 21,05 persen menjadi Rp4,67 miliar. Dari sisi posisi keuangan per 30 September 2026, total aset tercatat Rp110,74 miliar, naik 1,59 persen dari akhir 2025, dengan kas dan bank melonjak 36,39 persen menjadi Rp5,26 miliar dan piutang usaha naik 23,23 persen menjadi Rp23,93 miliar, sementara persediaan turun 16,02 persen menjadi Rp27,16 miliar. Total ekuitas naik tipis 0,98 persen menjadi Rp102,36 miliar, sedangkan total liabilitas naik 9,73 persen menjadi Rp8,38 miliar.",
-   "Dalam materi tersebut, manajemen BLUE memaparkan rencana memperluas jangkauan ke segmen supermarket dengan Jawa Timur sebagai langkah awal, mencakup enam kota yaitu Kediri, Madiun, Malang, Jember, Banyuwangi, dan Surabaya. Perusahaan juga menjajaki peluang kerja sama dengan calon pelanggan di industri makanan dan minuman di Tangerang (PIK 2), mempertahankan kehadiran di pasar komputer di Jakarta, Yogyakarta, dan Samarinda, serta memperkenalkan produknya kepada calon mitra ritel besar di Jakarta. Manajemen menyebut dua tantangan utama tahun ini, yaitu pelemahan daya beli masyarakat akibat pemotongan anggaran pemerintah dan gelombang pemutusan hubungan kerja di berbagai sektor, serta kenaikan biaya impor akibat pelemahan nilai tukar rupiah yang menekan margin karena perusahaan tidak selalu bisa langsung menaikkan harga jual.",
-   "Materi tersebut juga mencantumkan susunan pemegang saham perusahaan, yaitu Herman Tansri 28,21 persen, PT Cetak Biru Kapital 24,52 persen, Siek Agung Guntoro 17,94 persen, Rudy Tasrif 10,16 persen, Fadjar Tasrif 7,17 persen, dan publik 11,97 persen."
+   "PT Berkah Prima Perkasa Tbk (BLUE) melaporkan hasil public expose tahunan 2026 yang digelar Selasa, 24 November 2026, pukul 14.00-15.00 WIB melalui Zoom Webinar, dihadiri 14 peserta yakni empat perwakilan manajemen dan sepuluh investor individu. Dalam sesi tanya jawab, manajemen menegaskan bahwa tekanan terhadap margin laba, yang membuat laba periode berjalan turun 5,02 persen meski pendapatan naik 5,63 persen, bersifat struktural dan bukan sementara, karena dipicu perubahan kebijakan pemerintah serta keterlambatan penyaluran dana bagi hasil ke daerah yang menekan permintaan barang.",
+   "Manajemen merinci tiga faktor yang menggerus margin: kenaikan biaya promosi untuk mendorong penjualan di tengah daya beli yang lemah, kenaikan biaya barang impor akibat pelemahan rupiah yang tidak bisa langsung dibebankan ke harga jual, serta berkurangnya porsi penjualan tinta, salah satu produk dengan margin tertinggi perusahaan, karena sejumlah peritel memilih menjual tinta palsu yang dipasarkan sebagai tinta asli dengan margin lebih besar bagi mereka. Pendapatan Januari-September 2026 tercatat Rp116,19 miliar, naik dari Rp109,99 miliar pada periode sama tahun sebelumnya, tetapi laba periode berjalan turun menjadi Rp15,21 miliar karena beban pokok pendapatan naik lebih cepat, yaitu 8,90 persen.",
+   "Manajemen juga menjelaskan lonjakan piutang usaha 23,23 persen, dari Rp19,42 miliar pada akhir 2025 menjadi Rp23,93 miliar per 30 September 2026, yang dipicu acara dealer gathering dengan harga promosi pada pertengahan Agustus 2026 yang mendorong dealer membeli dalam jumlah lebih besar dari biasanya. Sebagian piutang dari penjualan itu belum jatuh tempo per akhir kuartal III. Soal ekspansi ke segmen supermarket, makanan-minuman, dan peritel besar yang sebelumnya diumumkan, manajemen menyebut sejumlah supermarket sudah menerbitkan pesanan pembelian meski nilainya masih kecil, dengan kontribusi awal ke pendapatan diperkirakan baru terlihat pada kuartal IV 2026.",
+   "Soal rencana akuisisi oleh Huayou Group yang sebelumnya sudah diumumkan ke OJK dan Bursa Efek Indonesia, manajemen menyatakan negosiasi masih berlangsung tanpa target waktu penyelesaian, dan harga transaksinya tidak dapat diungkapkan karena terikat perjanjian kerahasiaan. Manajemen juga mengonfirmasi bahwa pengalihan bisnis Blueprint ke entitas lain tetap menjadi bagian dari rencana jika transaksi itu terlaksana. Soal konsentrasi kepemilikan saham yang tinggi, manajemen menyebut dinamika kepemilikan di pasar berada di luar kendali perusahaan, sementara batas waktu pemenuhan porsi saham beredar di publik minimal 15 persen adalah 31 Maret 2029."
   ],
   "fotoAdegan": "Warehouse workers stacking cardboard boxes of ink cartridges onto pallets, forklift moving nearby, bright industrial lighting.",
-  "takeaway": "Laporan ini condong negatif karena laba periode berjalan Januari-September 2026 turun 5,02 persen menjadi Rp15,21 miliar, padahal pendapatan justru naik 5,63 persen menjadi Rp116,19 miliar, tanda bahwa beban pokok pendapatan yang naik 8,9 persen menggerus margin keuntungan perusahaan. Pos yang tersentuh adalah ekuitas, yaitu total kekayaan bersih pemegang saham setelah dikurangi utang, yang hanya tumbuh 0,98 persen menjadi Rp102,36 miliar karena laba yang mengalir ke dalamnya ikut mengecil, padahal aset perusahaan tumbuh lebih cepat yaitu 1,59 persen. Pelaku pasar biasanya mencermati laju pertumbuhan ekuitas karena itu mencerminkan apakah kegiatan usaha benar-benar menambah nilai bagi pemegang saham, bukan sekadar menambah aset dari piutang yang menumpuk. Yang perlu dipantau berikutnya adalah sesi public expose pada 24 November 2026 pukul 14.00-16.00 WIB, saat manajemen dijadwalkan menjelaskan langsung strategi mereka menghadapi pelemahan daya beli dan kenaikan biaya impor yang mereka sebut sendiri sebagai tantangan utama tahun ini.",
+  "takeaway": "Laporan hasil public expose ini condong negatif, karena manajemen sendiri mengakui bahwa tekanan terhadap margin laba bersifat struktural, bukan sementara, dipicu perubahan kebijakan pemerintah dan keterlambatan dana bagi hasil ke daerah, ditambah pengakuan bahwa persaingan dari tinta palsu terus menggerus kategori produk bermargin tinggi. Pos yang tersentuh adalah piutang usaha, yaitu uang yang belum diterima dari pelanggan yang sudah membeli barang, yang naik lebih cepat dari pendapatan karena didorong promosi dealer gathering, sehingga perlu dicermati apakah piutang itu benar cair menjadi kas atau justru menumpuk sebagai risiko tak tertagih. Beban pokok pendapatan, yaitu biaya langsung untuk memproduksi atau membeli barang yang dijual, juga tetap menjadi sorotan karena kenaikannya yang lebih cepat dari pendapatan adalah sumber utama tergerusnya laba. Yang perlu dipantau berikutnya adalah kelanjutan negosiasi akuisisi oleh Huayou Group yang belum punya target waktu, kontribusi pendapatan dari ekspansi ke supermarket dan peritel besar yang diperkirakan baru terlihat pada kuartal IV 2026, serta tenggat pemenuhan porsi saham beredar di publik minimal 15 persen pada 31 Maret 2029.",
   "sentimen": "negatif",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
   "jadwal": [
    {
-    "tanggal": "2026-11-24",
-    "acara": "Public expose tahunan BLUE secara daring via Zoom"
+    "tanggal": "2029-03-31",
+    "acara": "Batas waktu pemenuhan free float minimum 15 persen"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-26T21:51:55",
+    "ringkas": "Manajemen BLUE menyebut tekanan margin bersifat struktural dan akuisisi oleh Huayou Group masih berlangsung tanpa linimasa waktu.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BLUE_E003_44a15099-1f58-4666-b9ac-c27e934ada6f-20261126215157.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-26T21:51:55"
  },
  {
   "slug": "kppu-periksa-saksi-kasus-tender-revitalisasi-pasar-ciparay",

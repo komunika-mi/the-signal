@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "rlco-jelaskan-ke-bursa-laba-naik-meski-penjualan-turun-q3-2026",
+  "category": "Aksi Korporasi",
+  "title": "RLCO Jelaskan ke Bursa: [Laba Naik] Meski Penjualan Turun Q3 2026",
+  "deck": "RLCO menjawab permintaan penjelasan BEI soal laba sembilan bulan yang naik meski penjualan turun, terutama di kuartal III 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "RLCO",
+   "sarang burung walet",
+   "laporan keuangan",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_RLCO_E023A_d06a001b-d4dd-43ae-a0ba-4912e6e11979-20261126223507.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penarikan-surat-byan-26-november-komite-audit-dibatalkan",
+  "category": "Aksi Korporasi",
+  "title": "Penarikan Surat BYAN 26 November: [Komite Audit] Dibatalkan",
+  "deck": "Bayan Resources menarik suratnya sendiri soal perubahan Komite Audit hanya beberapa jam setelah surat itu terbit, tanpa menjelaskan alasan atau susunan terbaru komite tersebut.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BYAN",
+   "Bayan Resources",
+   "Komite Audit",
+   "Keterbukaan Informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BYAN_E019_af8b61bb-5022-43b0-920e-bb92df6e6ba2-20261126221546.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "laporan-keuangan-kras-1h2026-laba-us-6-3-juta-balik-dari-rugi",
+  "category": "Aksi Korporasi",
+  "title": "Laporan Keuangan KRAS 1H2026: [Laba] US$6,3 Juta, Balik dari Rugi",
+  "deck": "Krakatau Steel membalik rugi jadi laba US$6,3 juta pada semester I 2026, didorong pendapatan naik 36 persen dan keringanan utang restrukturisasi.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KRAS",
+   "Krakatau Steel",
+   "laporan keuangan",
+   "BUMN baja"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-e20508cb-7200-4d8a-b878-1606dd7b2dcb-1/FinancialStatement-2026-II-KRAS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan",
   "category": "Makroekonomi",
   "title": "Telur dan Bawang di Yogyakarta [Lebih Murah] dari Harga Acuan",
@@ -41,6 +89,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "rupslb-pack-ditunda-ke-8-desember-ojk-minta-tambahan-informasi",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB PACK Ditunda ke 8 Desember: [OJK] Minta Tambahan Informasi",
+  "deck": "RUPSLB PACK yang semula digelar 30 November diundur ke 8 Desember 2026 setelah OJK meminta tambahan informasi soal rencana perubahan usaha, penambahan modal, dan transaksi dengan pihak terafiliasi.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PACK",
+   "RUPSLB",
+   "OJK",
+   "rights issue"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_PACK_E019_75985530-789c-426c-90b2-8af40e1a1bce-20261126212931.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "mekaar-pnm-capai-1-2-juta-nasabah-bunga-turun-8",
   "category": "UMKM",
   "title": "Mekaar PNM Capai 1,2 Juta Nasabah, Bunga Turun [8%]",
@@ -56,6 +120,22 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/480541-pnm-perluas-penyaluran-mekaar-hingga-denpasar-12-juta-nasabah-nikmati-bunga-8"
+ },
+ {
+  "slug": "public-expose-ptpp-kontrak-baru-turun-11-8-ke-rp13-11-t",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose PTPP: [Kontrak Baru] Turun 11,8% ke Rp13,11 T",
+  "deck": "Materi public expose PTPP menunjukkan kontrak baru, pendapatan, dan laba operasional kuartal III 2026 turun dibanding tahun lalu, acara digelar 1 Desember 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PTPP",
+   "Public Expose",
+   "Kontrak Baru",
+   "Divestasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_PTPP_E003_92487199-36d1-4a46-b7ac-0e96cf764924-20261126204145.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "lrna-jawab-bei-kas-tipis-rp384-juta-revaluasi-topang-92-ekuitas",
@@ -5669,15 +5749,15 @@ var ARTICLES = [
  {
   "slug": "public-expose-blue-24-november-laba-turun-5-pendapatan-naik-5-6",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BLUE 24 November: [Laba] Turun 5%, Pendapatan Naik 5,6%",
-  "deck": "Public expose tahunan BLUE digelar 24 November 2026; laba periode berjalan Januari-September turun 5,02 persen meski pendapatan naik 5,63 persen.",
+  "title": "Public Expose BLUE 24 November: Tekanan Margin Disebut [Struktural]",
+  "deck": "Hasil public expose BLUE 24 November 2026: manajemen sebut tekanan margin bersifat struktural, sementara negosiasi akuisisi oleh Huayou Group masih berlangsung tanpa linimasa.",
   "date": "19 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "BLUE",
-   "public expose",
-   "kinerja keuangan",
-   "Berkah Prima Perkasa"
+   "Public Expose",
+   "Akuisisi Huayou",
+   "Free Float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f598dc436e_1bc28a2bf9.pdf",
   "sourceLabel": "IDX"
@@ -6412,86 +6492,6 @@ var ARTICLES = [
    "kontraktor"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/75c7123f8d_6e00779c7f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "antm-direksi-arini-kasmira-tambah-40-000-saham-hak-suara-tetap-0",
-  "category": "Aksi Korporasi",
-  "title": "ANTM: Direksi Arini Kasmira [Tambah] 40.000 Saham, Hak Suara Tetap 0%",
-  "deck": "Direksi ANTM Arini Kasmira membeli 40.000 saham tambahan pada 16 November 2026, kepemilikannya naik jadi 284.000 lembar.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ANTM",
-   "Aneka Tambang",
-   "laporan kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6001-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mknt-jelaskan-ke-bei-private-placement-tambah-1-02-triliun-saham",
-  "category": "Aksi Korporasi",
-  "title": "MKNT Jelaskan ke BEI: [Private Placement] Tambah 1,02 Triliun Saham",
-  "deck": "MKNT merinci ke BEI: konversi utang dan setoran tunai menambah 1,02 triliun saham baru, menyusutkan porsi pemegang saham lama hingga sekitar 0,5 persen.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MKNT",
-   "PMTHMETD",
-   "dilusi saham",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/7c481da928_aba2a1cb4a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pkpu-ades-rp3-6-miliar-perseroan-bentuk-pencadangan-penuh",
-  "category": "Aksi Korporasi",
-  "title": "PKPU ADES Rp3,6 Miliar: Perseroan Bentuk [Pencadangan] Penuh",
-  "deck": "ADES membentuk pencadangan penuh Rp3,63 miliar menanggapi permintaan penjelasan BEI atas gugatan PKPU dari kontraktor PT Megaland Infra Perkasa.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ADES",
-   "PKPU",
-   "sengketa hukum",
-   "pencadangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0e419aa01_c9e57a6efb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "stock-split-rdtx-1-20-saham-baru-diperdagangkan-24-november",
-  "category": "Aksi Korporasi",
-  "title": "Stock Split RDTX 1:20 [Efektif] 18 November 2026",
-  "deck": "Stock split RDTX 1:20 resmi efektif 18 November 2026; saham nominal baru mulai diperdagangkan 24 November di pasar reguler dan negosiasi.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "RDTX",
-   "stock split",
-   "Roda Vivatex",
-   "BEI"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/ffb4c1ad9c_d6ee8708c9.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bull-direksi-wong-kevin-tambah-2-juta-saham-hak-suara-3-48",
-  "category": "Aksi Korporasi",
-  "title": "BULL: Direksi Wong Kevin [Tambah] 2 Juta Saham, Hak Suara 3,48%",
-  "deck": "Direktur BULL Wong Kevin membeli 2 juta saham Buana Lintas Lautan pada 16 November 2026, hak suaranya naik tipis menjadi 3,48 persen.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BULL",
-   "Buana Lintas Lautan",
-   "laporan kepemilikan saham",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7061-00.pdf-0.pdf",
   "sourceLabel": "IDX"
  }
 ];

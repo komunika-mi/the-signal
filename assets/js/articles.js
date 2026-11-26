@@ -5375,8 +5375,8 @@ var ARTICLES = [
  {
   "slug": "dividen-final-xcis-rp0-005-per-unit-cair-18-desember",
   "category": "Aksi Korporasi",
-  "title": "Dividen Final XCIS Rp0,005 per Unit, [Cair] 18 Desember",
-  "deck": "DIRE Ciptadana Properti Perhotelan Padjajaran (XCIS) membagikan dividen tunai final sebanyak-banyaknya Rp5.250.000, dibayar 18 Desember 2026.",
+  "title": "Dividen Final XCIS Rp0,005/Unit: [Koreksi] Cum Tunai 4 Desember",
+  "deck": "Surat koreksi XCIS menambahkan tanggal cum dividen di pasar tunai, 4 Desember 2026. Jumlah dividen dan tanggal pembayaran 18 Desember tidak berubah.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "23 November 2026",
   "isoDate": "2026-11-23T15:53:44",
@@ -5387,15 +5387,16 @@ var ARTICLES = [
    "XCIS",
    "dividen",
    "DIRE",
-   "REIT"
+   "koreksi"
   ],
   "body": [
-   "DIRE Ciptadana Properti Perhotelan Padjajaran (XCIS) mengumumkan keputusan untuk membagikan dividen tunai final, sesuai keputusan yang diambil pada 23 November 2026. Jumlah dividen yang akan dibagikan sebanyak-banyaknya Rp5.250.000, atau setara Rp0,005 per unit penyertaan. Keterbukaan informasi ini ditandatangani oleh Arief Hidajat atas nama manajemen DIRE.",
-   "Jadwal pembagian dividen diatur sebagai berikut: tanggal cum dividen di pasar reguler dan negosiasi jatuh pada 2 Desember 2026, diikuti tanggal ex dividen di pasar yang sama pada 3 Desember 2026. Untuk pasar tunai, tanggal ex dividen berlaku lebih lambat, yaitu 7 Desember 2026.",
-   "Pemegang unit penyertaan yang namanya tercatat dalam daftar pemegang unit sampai 4 Desember 2026 pukul 23:59 adalah pihak yang berhak menerima dividen ini. Pembayaran dividen sendiri dijadwalkan dilakukan pada 18 Desember 2026."
+   "DIRE Ciptadana Properti Perhotelan Padjajaran (XCIS) menerbitkan surat koreksi atas pengumuman dividen final yang disampaikan 23 November 2026. Koreksi ini menambahkan satu keterangan yang sebelumnya tidak dicantumkan, yaitu tanggal cum dividen di pasar tunai, yang jatuh pada 4 Desember 2026.",
+   "Di luar tambahan itu, seluruh angka dan jadwal utama yang sudah diumumkan sebelumnya tetap berlaku. Dividen tunai final dibagikan sebanyak-banyaknya Rp5.250.000, atau setara Rp0,005 per unit penyertaan. Tanggal cum dividen di pasar reguler dan negosiasi tetap 2 Desember 2026, disusul ex dividen di pasar yang sama pada 3 Desember 2026, sementara ex dividen di pasar tunai tetap 7 Desember 2026.",
+   "Pemegang unit penyertaan yang berhak menerima dividen adalah yang namanya tercatat dalam daftar pemegang unit sampai 4 Desember 2026 pukul 23:59, tanggal yang sama dengan cum dividen pasar tunai yang baru dicantumkan dalam koreksi ini. Pembayaran dividen tetap dijadwalkan pada 18 Desember 2026. Surat koreksi ditandatangani oleh Arief Hidajat atas nama manajemen DIRE.",
+   "Pembagian dividen final ini merupakan bagian dari kewajiban rutin DIRE untuk menyalurkan sebagian besar keuntungan sewa propertinya kepada pemegang unit."
   ],
   "fotoAdegan": "Exterior of a mid-size hotel building in Indonesia with palm trees and a swimming pool under bright daylight.",
-  "takeaway": "Pembagian dividen final ini tergolong netral karena merupakan bagian dari kewajiban rutin DIRE (dana investasi real estat) untuk menyalurkan sebagian besar keuntungan sewa propertinya kepada pemegang unit, bukan sinyal perbaikan atau penurunan kinerja yang baru. Dana yang dibagikan akan mengurangi kas dan ekuitas perseroan, karena keduanya dipakai untuk membayar investor, sehingga posisi modal DIRE sedikit menyusut setelah pembayaran dilakukan. Yang perlu dipantau pemegang unit adalah batas waktu pencatatan kepemilikan pada 4 Desember 2026 pukul 23:59, karena hanya pemegang unit yang tercatat sampai saat itu yang berhak menerima dividen, serta tanggal ex dividen di pasar reguler pada 3 Desember 2026 yang menandai mulai berlakunya harga tanpa hak dividen tersebut.",
+  "takeaway": "Koreksi ini tergolong netral karena sifatnya administratif, hanya melengkapi satu tanggal teknis yang sebelumnya terlewat tanpa mengubah jumlah dividen maupun tanggal pembayaran. Pos yang tersentuh tetap sama seperti pengumuman awal, yaitu kas dan ekuitas DIRE yang berkurang sebesar dana yang dibagikan, karena uang itu keluar dari kas perseroan untuk dibayarkan ke pemegang unit, hal yang wajar bagi DIRE yang rutin menyalurkan hampir seluruh keuntungan sewanya. Yang perlu dipantau pemegang unit adalah tanggal cum dividen di pasar tunai pada 4 Desember 2026, yang kini sejalan dengan batas pencatatan daftar pemegang unit pada tanggal yang sama pukul 23:59, serta tanggal pembayaran pada 18 Desember 2026 yang masih tidak berubah.",
   "sentimen": "netral",
   "peristiwa": "dividen",
   "judulIdx": "Penyampain Informasi Mengenai Distribusi Keuntungan (DIVIDEN)",
@@ -5414,6 +5415,10 @@ var ARTICLES = [
    },
    {
     "tanggal": "2026-12-04",
+    "acara": "Cum dividen di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-04",
     "acara": "Batas daftar pemegang unit yang berhak dividen, pukul 23:59"
    },
    {
@@ -5424,7 +5429,16 @@ var ARTICLES = [
     "tanggal": "2026-12-18",
     "acara": "Tanggal pembayaran dividen"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-26T11:01:39",
+    "ringkas": "Koreksi surat dividen XCIS menambahkan tanggal cum dividen di pasar tunai, 4 Desember 2026, tanpa mengubah jumlah dividen atau tanggal pembayaran.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_XCIS_E062_74256d63-3ebe-42f9-a567-86f4128926ad-20261126110141.pdf",
+    "judulIdx": "Penyampain Informasi Mengenai Distribusi Keuntungan (DIVIDEN) (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-26T11:01:39"
  },
  {
   "slug": "paparan-publik-spma-26-november-laba-9-bulan-turun-7-4",

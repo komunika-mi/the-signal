@@ -2744,15 +2744,15 @@ var ARTICLES = [
  {
   "slug": "dividen-final-xcis-rp0-005-per-unit-cair-18-desember",
   "category": "Aksi Korporasi",
-  "title": "Dividen Final XCIS Rp0,005 per Unit, [Cair] 18 Desember",
-  "deck": "DIRE Ciptadana Properti Perhotelan Padjajaran (XCIS) membagikan dividen tunai final sebanyak-banyaknya Rp5.250.000, dibayar 18 Desember 2026.",
+  "title": "Dividen Final XCIS Rp0,005/Unit: [Koreksi] Cum Tunai 4 Desember",
+  "deck": "Surat koreksi XCIS menambahkan tanggal cum dividen di pasar tunai, 4 Desember 2026. Jumlah dividen dan tanggal pembayaran 18 Desember tidak berubah.",
   "date": "23 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "XCIS",
    "dividen",
    "DIRE",
-   "REIT"
+   "koreksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_XCIS_E062_e1588538-d30c-43c1-9771-641d81b70b1f-20261123155346.pdf",
   "sourceLabel": "IDX"

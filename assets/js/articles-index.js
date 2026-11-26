@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dematerialisasi-tkim-warkat-wajib-konversi-sebelum-5-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "Dematerialisasi TKIM: [Warkat] Wajib Konversi Sebelum 5 Mei 2030",
+  "deck": "TKIM mengumumkan pemegang saham berbentuk warkat (SKS) wajib mengonversi ke saham tanpa warkat sebelum masa dematerialisasi berakhir 5 Mei 2030, sesuai POJK No. 9/2025.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TKIM",
+   "Dematerialisasi Saham",
+   "POJK 9/2025",
+   "Pemegang Saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_TKIM_E019_cd377274-09ad-4f66-af1f-1c1f6f66563f-20261126145847.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "home-aset-hotel-goodway-batam-kembali-usai-disita-kejaksaan",
+  "category": "Aksi Korporasi",
+  "title": "HOME: Aset Hotel Goodway Batam [Kembali] Usai Disita Kejaksaan",
+  "deck": "Kejaksaan Negeri Jakarta Timur mengembalikan tiga bidang tanah dan bangunan Hotel Goodway di Batam yang disita sejak 2021, kini kembali dikuasai penuh oleh HOME.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HOME",
+   "Hotel Goodway",
+   "aset sitaan",
+   "Kejaksaan Agung"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_HOME_E019_88c8d00d-ffa9-4c6f-aa0f-7630b8fe45de-20261126143909.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-aadi-hd-disesuaikan-efektif-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "Waran AADI HD Disesuaikan: [Efektif] 4 Desember",
+  "deck": "KGI Sekuritas (HD) menyesuaikan harga dan rasio pelaksanaan waran terstruktur AADIHDCH7A akibat dividen tunai AADI, efektif 4 Desember 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "HD",
+   "AADI",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_HD_E019_6dc28365-5052-4c8a-ac31-48724e8a8ed2-20261126142659.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mppa-dematerialisasi-saham-warkat-wajib-dikonversi-sebelum-2030",
+  "category": "Aksi Korporasi",
+  "title": "MPPA: [Dematerialisasi] Saham Warkat Wajib Dikonversi Sebelum 2030",
+  "deck": "MPPA mewajibkan pemegang saham berbentuk warkat (SKS) mengonversi ke saham elektronik lewat PT Sharestar Indonesia, paling lambat 6 Mei 2030.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MPPA",
+   "dematerialisasi saham",
+   "OJK",
+   "pemegang saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_MPPA_E019_547042df-8f0f-4464-af98-afc7b9baaa18-20261126135715.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-bold-10-desember-restrukturisasi-tiga-agenda-obligasi-iii",
+  "category": "Aksi Korporasi",
+  "title": "RUPO BOLD 10 Desember: [Restrukturisasi] Tiga Agenda Obligasi III",
+  "deck": "BUMA (BOLD) memanggil pemegang Obligasi III Tahun 2025 untuk RUPO 10 Desember 2026, membahas perpanjangan jatuh tempo pokok, perubahan bunga, dan pengesampingan rasio keuangan dua tahun buku.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "RUPO",
+   "Obligasi",
+   "Restrukturisasi Utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BOLD_E019_1e84bb39-d218-4a96-91e0-346fc4880864-20261126120452.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupsi-bold-10-desember-restrukturisasi-tiga-agenda-sukuk-ijarah",
+  "category": "Aksi Korporasi",
+  "title": "RUPSI BOLD 10 Desember: [Restrukturisasi] Tiga Agenda Sukuk Ijarah",
+  "deck": "BUMA memanggil pemegang Sukuk Ijarah I untuk menyetujui perpanjangan jatuh tempo pokok, perubahan imbalan, dan pengesampingan rasio keuangan 2026-2027.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BOLD",
+   "sukuk ijarah",
+   "RUPSI",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BOLD_E019_a7be659d-262c-43bb-8bc5-7e5b9406822d-20261126120121.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dividen-tunai-asgr-rp297-saham-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai ASGR Rp297/Saham, [Cair] 11 Desember 2026",
+  "deck": "ASGR memperbaiki jadwal dividen tunai Rp297 per saham: cum dividen 30 November, dibayar 11 Desember 2026.",
+  "date": "26 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASGR",
+   "dividen",
+   "RUPSLB",
+   "Astra Graphia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ASGR_E019_48febe68-cfb2-4e2d-8d5a-8041318cdec5-20261126115854.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-rilis-stimulus-akhir-tahun-kejar-pertumbuhan-8-2029",
   "category": "Makroekonomi",
   "title": "Pemerintah Rilis Stimulus Akhir Tahun, Kejar Pertumbuhan [8%] 2029",
@@ -6379,110 +6491,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/478983-harga-emas-antam-hari-ini-18-november-2026-turun-tipis-jadi-rp2514000-per-gram"
- },
- {
-  "slug": "smru-asuransi-jiwa-ifg-tambah-35-4-juta-saham-hak-suara-9-01",
-  "category": "Aksi Korporasi",
-  "title": "SMRU: Asuransi Jiwa IFG Tambah 35,4 Juta Saham, [Hak Suara] 9,01%",
-  "deck": "PT Asuransi Jiwa IFG menambah 35,4 juta saham SMRU lewat hibah terkait likuidasi reksadana eks aset Jiwasraya, hak suara naik ke 9,01 persen.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMRU",
-   "kepemilikan saham",
-   "IFG Life",
-   "Jiwasraya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7537-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "smbr-asuransi-jiwa-ifg-jual-16-juta-saham-suara-7-93",
-  "category": "Aksi Korporasi",
-  "title": "SMBR: Asuransi Jiwa IFG [Jual] 16 Juta Saham, Suara 7,93%",
-  "deck": "PT Asuransi Jiwa IFG melepas 16 juta saham SMBR seharga Rp282 per saham lewat skema repo, hak suaranya turun dari 8,10% menjadi 7,93%.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "SMBR",
-   "Semen Baturaja",
-   "Kepemilikan Saham",
-   "Asuransi Jiwa IFG"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-4233-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "penipuan-qris-marak-ini-cara-aman-pakai-shopeepay",
-  "category": "Teknologi",
-  "title": "Penipuan QRIS Marak, Ini Cara [Aman] Pakai ShopeePay",
-  "deck": "Transaksi QRIS makin umum, tapi modus penipuan seperti kode QR palsu dan pesan tiruan ikut meningkat. ShopeePay menawarkan fitur pengecekan transaksi plus cashback hingga Rp100 ribu.",
-  "date": "18 November 2026",
-  "image": "assets/img/penipuan-qris-marak-ini-cara-aman-pakai-shopeepay.jpg",
-  "imageV": "mwltlfkh",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478889-waspada-penipuan-digital-ini-cara-aman-dan-hemat-bayar-qris-pakai-shopeepay"
- },
- {
-  "slug": "ri-teken-ieu-cepa-dengan-uni-eropa-21-november",
-  "category": "Global",
-  "title": "RI Teken [IEU-CEPA] dengan Uni Eropa 21 November",
-  "deck": "Indonesia dijadwalkan menandatangani perjanjian dagang IEU-CEPA di Brussels pada 21 November 2026, menyusul berakhirnya fasilitas tarif GSP Uni Eropa bagi produk Indonesia.",
-  "date": "18 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
-  "tags": [
-   "IEU-CEPA",
-   "Uni Eropa",
-   "Perdagangan",
-   "Indonesia-Inggris"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7230/tandatangani-ieu-cepa-dan-perkuat-implementasi-indonesiaunited-kingdom-egp-menko-airlangga-buka-peluang-baru-pertumbuhan-ekonomi-indonesia",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "wgsh-direksi-hendy-rusli-jual-226-saham-hak-suara-tetap-0-05",
-  "category": "Aksi Korporasi",
-  "title": "WGSH: Direksi Hendy Rusli [Jual] 226 Saham, Hak Suara Tetap 0,05%",
-  "deck": "Direksi WGSH Hendy Rusli melepas 226 saham perusahaan secara tidak langsung pada 17 November 2026 seharga Rp89 per saham, hak suaranya tetap 0,05 persen.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "WGSH",
-   "laporan kepemilikan saham",
-   "direksi",
-   "Wira Global Solusi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-2007-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "sgn-genjot-hilirisasi-tebu-kejar-gula-2-06-juta-ton",
-  "category": "BUMN",
-  "title": "SGN Genjot [Hilirisasi] Tebu, Kejar Gula 2,06 Juta Ton",
-  "deck": "PT Sinergi Gula Nusantara mengembangkan bioetanol dan fasilitas pemurnian dari tebu, sembari menargetkan produksi gula naik ke 2,06 juta ton pada 2030.",
-  "date": "18 November 2026",
-  "image": "assets/img/sgn-genjot-hilirisasi-tebu-kejar-gula-2-06-juta-ton.jpg",
-  "imageV": "mwlgk9xh",
-  "tags": [
-   "gula",
-   "hilirisasi",
-   "tebu",
-   "swasembada"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478959-hilirisasi-tebu-jadi-strategi-tingkatkan-produksi-gula-nasional-hingga-206-juta"
- },
- {
-  "slug": "megaspeed-firma-singapura-disorot-dugaan-penyelundupan-cip-nvidia",
-  "category": "Global",
-  "title": "Megaspeed, Firma Singapura Disorot Dugaan [Penyelundupan] Cip Nvidia",
-  "deck": "Megaspeed International, perusahaan cloud computing Singapura, diduga jadi alat penyelundupan cip AI Nvidia dari AS ke China lewat Indonesia; Polri masih mendalami permintaan penggeledahan dari FBI.",
-  "date": "18 November 2026",
-  "image": "assets/img/megaspeed-firma-singapura-disorot-dugaan-penyelundupan-cip-nvidia.jpg",
-  "imageV": "mwlgkabp",
-  "tags": [],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/478949-apa-itu-megaspeed-perusahaan-yang-terseret-dugaan-kasus-cip-nvidia-via-ri"
  }
 ];

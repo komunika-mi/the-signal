@@ -3,6 +3,277 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dematerialisasi-tkim-warkat-wajib-konversi-sebelum-5-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "Dematerialisasi TKIM: [Warkat] Wajib Konversi Sebelum 5 Mei 2030",
+  "deck": "TKIM mengumumkan pemegang saham berbentuk warkat (SKS) wajib mengonversi ke saham tanpa warkat sebelum masa dematerialisasi berakhir 5 Mei 2030, sesuai POJK No. 9/2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T14:58:45",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_TKIM_E019_cd377274-09ad-4f66-af1f-1c1f6f66563f-20261126145847.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TKIM",
+  "tags": [
+   "TKIM",
+   "Dematerialisasi Saham",
+   "POJK 9/2025",
+   "Pemegang Saham"
+  ],
+  "body": [
+   "PT Pabrik Kertas Tjiwi Kimia Tbk (TKIM) mengumumkan kepada pemegang saham yang masih memegang saham dalam bentuk warkat atau Surat Kolektif Saham (SKS) untuk segera mengurus dematerialisasi, yakni konversi dari sertifikat fisik menjadi saham elektronik yang tercatat di sistem KSEI. Pengumuman ini merujuk pada Peraturan OJK Nomor 9 Tahun 2025 tentang Dematerialisasi Efek Bersifat Ekuitas dan Pengelolaan Aset yang Tidak Diklaim, yang mewajibkan setiap perusahaan terbuka dan pemegang saham warkatnya menuntaskan proses ini dalam lima tahun sejak aturan berlaku, dengan tenggat akhir 5 Mei 2030.",
+   "Untuk pemegang saham yang sudah memiliki Sub Rekening Efek di perusahaan efek atau bank kustodian, konversi bisa dilakukan lewat sistem C-BEST milik KSEI dengan biaya sesuai jumlah saham yang dikonversi. Bagi yang belum punya rekening tersebut, saham akan dititipkan dulu di Rekening Titipan atas nama pemegang saham, dengan syarat menyerahkan SKS asli, salinan KTP atau paspor, NPWP, serta alamat email dan nomor telepon ke Biro Administrasi Efek (BAE) perusahaan, yaitu PT Sinartama Gunita di Menara Tekno, Jalan Fachrudin Nomor 19, Jakarta Pusat. BAE akan menerbitkan konfirmasi dan nomor identitas investor tunggal (SID) dalam dua hari kerja setelah dokumen lengkap diterima, dengan biaya pelaksanaan yang dibebankan ke pemegang saham.",
+   "Jika tenggat 5 Mei 2030 terlewati tanpa dematerialisasi, saham warkat tersebut akan dinyatakan sebagai aset tidak diklaim dan dipindahkan ke rekening titipan yang dikelola pihak yang ditunjuk OJK, sementara SKS yang bersangkutan dinyatakan tidak berlaku. Saham dalam status ini tidak bisa diperjualbelikan baik di bursa maupun di luar bursa sampai pemiliknya menuntaskan dematerialisasi. Pemegang saham tetap punya hak mengajukan klaim kepemilikan melalui BAE, dan khusus untuk penarikan dari rekening aset tidak diklaim, pengajuan hanya dibuka pada periode 6 Mei 2035 sampai 5 Mei 2065, dengan syarat menyerahkan SKS asli, identitas diri, NPWP, dan membayar biaya validasi."
+  ],
+  "fotoAdegan": "Rolls of fresh paper moving along a conveyor belt inside a large paper mill, workers in hard hats nearby, industrial machinery humming.",
+  "takeaway": "Pengumuman ini netral bagi fundamental TKIM karena sifatnya administratif, sekadar menjalankan kewajiban konversi saham fisik ke format elektronik sesuai aturan OJK, dan perusahaan sendiri menyatakan tidak ada dampak terhadap operasional atau keuangan. Dematerialisasi ini tidak mengubah jumlah saham beredar, ekuitas, atau laba per saham TKIM, karena yang berubah hanya bentuk pencatatan kepemilikan dari sertifikat fisik menjadi elektronik di rekening KSEI, bukan jumlah atau nilai sahamnya. Yang perlu diperhatikan pemegang saham yang masih memegang Surat Kolektif Saham adalah risiko administratif, bukan risiko keuangan: kalau tidak dikonversi sebelum tenggat, saham itu dianggap aset tidak diklaim dan tidak bisa diperjualbelikan sampai prosesnya diselesaikan. Yang perlu dipantau berikutnya adalah tenggat 5 Mei 2030 sebagai batas akhir dematerialisasi, serta jendela klaim aset tidak diklaim yang baru dibuka 6 Mei 2035 sampai 5 Mei 2065 bagi yang terlambat mengonversi.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2030-05-05",
+    "acara": "Tenggat akhir dematerialisasi saham warkat TKIM"
+   },
+   {
+    "tanggal": "2035-05-06",
+    "acara": "Mulai bisa ajukan penarikan saham dari rekening aset tidak diklaim"
+   },
+   {
+    "tanggal": "2065-05-05",
+    "acara": "Batas akhir pengajuan penarikan saham dari rekening aset tidak diklaim"
+   }
+  ]
+ },
+ {
+  "slug": "home-aset-hotel-goodway-batam-kembali-usai-disita-kejaksaan",
+  "category": "Aksi Korporasi",
+  "title": "HOME: Aset Hotel Goodway Batam [Kembali] Usai Disita Kejaksaan",
+  "deck": "Kejaksaan Negeri Jakarta Timur mengembalikan tiga bidang tanah dan bangunan Hotel Goodway di Batam yang disita sejak 2021, kini kembali dikuasai penuh oleh HOME.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T14:39:07",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_HOME_E019_88c8d00d-ffa9-4c6f-aa0f-7630b8fe45de-20261126143909.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HOME",
+  "tags": [
+   "HOME",
+   "Hotel Goodway",
+   "aset sitaan",
+   "Kejaksaan Agung"
+  ],
+  "body": [
+   "Hotel Mandarine Regency Tbk (HOME) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa Kejaksaan Negeri Jakarta Timur telah mengembalikan tiga bidang tanah dan bangunan milik perseroan yang sebelumnya disita oleh Kejaksaan Agung sejak 15 April 2021. Pengembalian dilakukan pada 18 Juni 2026 melalui Berita Acara Pengembalian Barang Bukti, bertempat di Kantor Kejaksaan Negeri Jakarta Timur di Jalan DI Panjaitan By Pass No. 15, Cipinang Besar Utara, Jakarta Timur. Tiga aset yang dikembalikan seluruhnya berlokasi di Jalan Iman Bonjol, Komplek Batam Jaya, Kelurahan Sungai Jodoh, Kecamatan Batu Ampar, Kota Batam, yaitu bangunan utama Hotel Goodway dengan sertifikat SHGB No. 01640 seluas 6.184 meter persegi, bangunan North Wing dengan SHGB No. 01602 seluas 706 meter persegi, dan bangunan ball room dengan SHGB No. 01641 seluas 826 meter persegi. Ketiga sertifikat tercatat atas nama PT Hotel Mandarine Regency Tbk.",
+   "Dalam keterangan lain-lain yang dicantumkan dalam surat bernomor 017/DIR/HMR/XI/2026, perseroan menjelaskan bahwa penyitaan aset tersebut sejak awal bukan terkait kasus hukum yang dihadapi perseroan sebagai badan hukum, melainkan kasus pribadi Benny Tjokrosaputro selaku pemegang saham pengendali perseroan. Perseroan menyebut aset yang kini dikembalikan tersebut saat ini masih berstatus sebagai agunan atas pinjaman kepada bank, sehingga pulihnya penguasaan hukum penuh oleh perseroan berarti mengamankan status jaminan pinjaman tersebut. Direksi, yang suratnya ditandatangani Presiden Direktur Bayu Widia Prakoso, menyampaikan bahwa dengan kembalinya aset ini perseroan dapat merencanakan kembali pengoperasian aset tersebut, dan jika benar dioperasikan maka berpotensi menghasilkan pemasukan baru bagi perseroan."
+  ],
+  "fotoAdegan": "Exterior facade of a mid-rise tropical hotel building with balconies and palm trees under humid afternoon light in a coastal Indonesian city.",
+  "takeaway": "Laporan ini condong POSITIF bagi HOME karena perseroan kembali menguasai penuh tiga bangunan Hotel Goodway di Batam dengan total luas sekitar 7.716 meter persegi, setelah lebih dari lima tahun tersangkut sitaan kejaksaan. Pos yang tersentuh adalah aset tetap dan potensi arus kas ke depan: aset ini berfungsi sebagai agunan pinjaman bank, sehingga pulihnya penguasaan hukum penuh mengamankan status jaminan itu, dan bila perseroan benar mengoperasikan kembali hotel tersebut, ada peluang pemasukan baru yang bisa menopang kas operasional perusahaan. Dokumen ini tidak mencantumkan tenggat waktu kapan Hotel Goodway akan kembali beroperasi, sehingga yang perlu dipantau berikutnya adalah pengumuman lanjutan manajemen soal rencana dan jadwal pengoperasian aset tersebut, serta kejelasan status jaminan pinjaman bank yang terkait.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "waran-aadi-hd-disesuaikan-efektif-4-desember",
+  "category": "Aksi Korporasi",
+  "title": "Waran AADI HD Disesuaikan: [Efektif] 4 Desember",
+  "deck": "KGI Sekuritas (HD) menyesuaikan harga dan rasio pelaksanaan waran terstruktur AADIHDCH7A akibat dividen tunai AADI, efektif 4 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T14:26:58",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_HD_E019_6dc28365-5052-4c8a-ac31-48724e8a8ed2-20261126142659.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "HD",
+  "tags": [
+   "HD",
+   "AADI",
+   "waran terstruktur",
+   "KGI Sekuritas"
+  ],
+  "body": [
+   "PT KGI Sekuritas Indonesia (HD), selaku penerbit waran terstruktur, mengumumkan penyesuaian harga pelaksanaan dan rasio pelaksanaan waran AADIHDCH7A pada 26 November 2026. Waran ini memiliki saham AADI sebagai acuan, dan penyesuaian dilakukan karena AADI menjalankan aksi korporasi berupa pembagian dividen tunai. Sebelum penyesuaian, harga pelaksanaan waran tercatat Rp9.646 dengan rasio 60 waran terstruktur setara 1 saham AADI.",
+   "Angka harga dan rasio pelaksanaan yang baru belum ditetapkan dalam dokumen ini. KGI menyatakan hasil penyesuaian akan dihitung dan diumumkan setelah penutupan perdagangan pada cum date 3 Desember 2026, yaitu hari terakhir perdagangan saham AADI yang masih membawa hak dividen tersebut. Rumus penyesuaian akan memasukkan harga penutupan AADI pada cum date itu ke dalam perhitungan sebelum angka final dirilis.",
+   "Tanggal efektif penyesuaian ditetapkan 4 Desember 2026. Sejak tanggal itu, pemegang waran AADIHDCH7A akan menggunakan harga pelaksanaan dan rasio pelaksanaan yang baru, bukan lagi angka Rp9.646 dan rasio 60:1 yang berlaku sebelumnya."
+  ],
+  "fotoAdegan": "Finance professionals in business attire walking through a modern brokerage office lobby, soft daylight through glass walls.",
+  "takeaway": "Laporan ini netral bagi HD karena penyesuaian semacam ini wajib dilakukan setiap kali saham acuan sebuah waran terstruktur membagikan dividen, bukan keputusan bisnis atau sinyal kondisi keuangan KGI Sekuritas sendiri. Yang tersentuh adalah harga pelaksanaan dan rasio pelaksanaan waran, yaitu patokan berapa rupiah dan berapa lembar waran yang dibutuhkan pemegangnya untuk menukar waran itu menjadi saham AADI. Penyesuaian ini penting supaya nilai waran tidak otomatis tergerus begitu AADI membagikan dividen, karena dividen biasanya menurunkan harga saham pada hari tanpa hak dividen. Belum ada angka pasti yang bisa dinilai untung atau rugi karena harga dan rasio barunya memang belum ditetapkan di dokumen ini. Yang perlu dipantau adalah pengumuman hasil penyesuaian setelah penutupan pasar pada cum date 3 Desember 2026, dengan tanggal efektif 4 Desember 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Cum date, hasil penyesuaian waran AADIHDCH7A diumumkan usai pasar tutup"
+   },
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Tanggal efektif harga dan rasio pelaksanaan baru waran AADIHDCH7A"
+   }
+  ]
+ },
+ {
+  "slug": "mppa-dematerialisasi-saham-warkat-wajib-dikonversi-sebelum-2030",
+  "category": "Aksi Korporasi",
+  "title": "MPPA: [Dematerialisasi] Saham Warkat Wajib Dikonversi Sebelum 2030",
+  "deck": "MPPA mewajibkan pemegang saham berbentuk warkat (SKS) mengonversi ke saham elektronik lewat PT Sharestar Indonesia, paling lambat 6 Mei 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T13:57:13",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_MPPA_E019_547042df-8f0f-4464-af98-afc7b9baaa18-20261126135715.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MPPA",
+  "tags": [
+   "MPPA",
+   "dematerialisasi saham",
+   "OJK",
+   "pemegang saham"
+  ],
+  "body": [
+   "Matahari Putra Prima Tbk (MPPA) mengumumkan pelaksanaan dematerialisasi saham sesuai Peraturan OJK No. 9 Tahun 2025 yang berlaku sejak 6 Mei 2025. Perseroan meminta pemegang saham yang masih memegang saham dalam bentuk warkat atau Surat Kolektif Saham (SKS) untuk memperbarui data dan mengembalikan SKS kepada Biro Administrasi Efek (BAE) perusahaan, PT Sharestar Indonesia, agar dikonversi menjadi saham elektronik dan dicatat dalam Rekening Titipan. Proses ini wajib diselesaikan dalam lima tahun sejak 6 Mei 2025, atau paling lambat 6 Mei 2030.",
+   "Bagi pemegang saham yang sudah memiliki Sub Rekening Efek di perusahaan efek atau bank kustodian, konversi bisa langsung dilakukan lewat sistem C-BEST milik KSEI dengan biaya mengikuti jumlah saham yang dikonversi. Bagi yang belum memiliki Sub Rekening Efek, mereka harus menyerahkan SKS asli, salinan KTP atau paspor, NPWP, serta alamat kontak ke BAE dan membayar biaya dematerialisasi. BAE kemudian menerbitkan Single Investor Identification dan surat keterangan kepemilikan saham dalam dua hari kerja, sebelum saham tercatat di Rekening Titipan.",
+   "Jika lewat tenggat 6 Mei 2030 pemegang saham belum melakukan pengkinian data, saham warkatnya akan dipindahkan ke Rekening Titipan Aset Tidak Diklaim yang dikelola pihak yang ditunjuk OJK, dan SKS lama otomatis tidak berlaku. Pemegang saham atau ahli warisnya baru bisa mengajukan penarikan saham dari rekening tersebut mulai 6 Mei 2035 hingga 6 Mei 2065, melalui PT Datindo Entrycom atau BAE, dengan dokumen pembuktian waris jika klaim diajukan oleh ahli waris. Selama saham masih berbentuk warkat dan belum dikonversi, saham tersebut juga tidak bisa diperdagangkan, baik di bursa maupun di luar bursa. Perseroan menyatakan proses ini tidak berdampak material terhadap operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya."
+  ],
+  "fotoAdegan": "A registrar clerk reviewing stacks of paper certificates and identification documents at a quiet office counter, afternoon light.",
+  "takeaway": "Ini pelaksanaan wajib dari aturan OJK, bukan keputusan korporasi yang mengubah kinerja perusahaan, jadi sifatnya netral bagi fundamental MPPA. Yang tersentuh hanya sisi administrasi kepemilikan saham, yaitu bentuk pencatatannya dari sertifikat fisik menjadi elektronik, bukan jumlah saham beredar, laba per saham, ekuitas, atau arus kas perusahaan. Yang perlu dipantau pemegang saham lama MPPA adalah tenggat 6 Mei 2030 untuk menukar SKS mereka, karena setelah itu saham yang belum dikonversi tidak bisa diperdagangkan dan baru bisa ditarik kembali lewat jalur klaim aset tidak diklaim pada rentang 6 Mei 2035 sampai 6 Mei 2065.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2025-05-06",
+    "acara": "POJK No. 9/2025 tentang dematerialisasi mulai berlaku"
+   },
+   {
+    "tanggal": "2030-05-06",
+    "acara": "Batas akhir dematerialisasi saham warkat MPPA"
+   },
+   {
+    "tanggal": "2035-05-06",
+    "acara": "Mulai bisa mengajukan penarikan saham dari rekening aset tidak diklaim"
+   },
+   {
+    "tanggal": "2065-05-06",
+    "acara": "Batas akhir pengajuan penarikan saham aset tidak diklaim"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-bold-10-desember-restrukturisasi-tiga-agenda-obligasi-iii",
+  "category": "Aksi Korporasi",
+  "title": "RUPO BOLD 10 Desember: [Restrukturisasi] Tiga Agenda Obligasi III",
+  "deck": "BUMA (BOLD) memanggil pemegang Obligasi III Tahun 2025 untuk RUPO 10 Desember 2026, membahas perpanjangan jatuh tempo pokok, perubahan bunga, dan pengesampingan rasio keuangan dua tahun buku.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T12:04:50",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BOLD_E019_1e84bb39-d218-4a96-91e0-346fc4880864-20261126120452.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "RUPO",
+   "Obligasi",
+   "Restrukturisasi Utang"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BUMA), emiten dengan kode saham BOLD, melalui wali amanat PT Bank CIMB Niaga Tbk mengeluarkan panggilan resmi Rapat Umum Pemegang Obligasi (RUPO) III BUMA Tahun 2025. Rapat dijadwalkan Kamis, 10 Desember 2026, pukul 10.00 WIB hingga selesai, di Financial Hall Lantai 2, Graha CIMB Niaga, Jalan Jenderal Sudirman Kavling 58, Jakarta Selatan. Ada tiga agenda yang diajukan oleh BUMA sendiri: persetujuan perpanjangan jadwal pelunasan pokok obligasi, persetujuan perubahan tingkat bunga obligasi, dan persetujuan pengesampingan ketentuan rasio keuangan (financial covenant) untuk tahun buku yang berakhir 31 Desember 2026 dan 31 Desember 2027. Jika disetujui, perjanjian perwaliamanatan akan diubah lewat addendum, dan CIMB Niaga diberi kuasa untuk menandatangani dokumen perubahan tersebut atas nama pemegang obligasi.",
+   "Pemegang obligasi yang berhak hadir dan bersuara dalam RUPO adalah yang namanya tercatat di Daftar Pemegang Obligasi yang dikeluarkan Kustodian Sentral Efek Indonesia (KSEI) pada 4 Desember 2026, yakni empat hari kerja sebelum RUPO. RUPO baru sah dilangsungkan jika dihadiri atau diwakili oleh pemegang paling sedikit tiga per empat dari total obligasi yang belum dilunasi, dan keputusannya sah mengikat jika disetujui paling sedikit tiga per empat dari obligasi yang hadir dalam rapat itu. Obligasi yang dipegang oleh BUMA sendiri atau afiliasinya tidak punya hak suara dan tidak dihitung dalam kuorum. Peserta rapat atau kuasanya wajib membawa Konfirmasi Tertulis dari KSEI, surat kuasa asli bila diwakilkan, surat pernyataan afiliasi, serta identitas yang masih berlaku, dan dokumen tambahan berupa akta anggaran dasar bila diwakili badan hukum."
+  ],
+  "fotoAdegan": "Rows of large yellow mining haul trucks parked at a dusty open-pit coal site at dusk",
+  "takeaway": "Panggilan RUPO ini condong negatif bagi BUMA, karena agendanya mengonfirmasi rencana yang sebelumnya diajukan perusahaan: perpanjangan jatuh tempo utang, perubahan bunga, dan permintaan pengesampingan syarat rasio keuangan untuk dua tahun buku berturut-turut, sinyal bahwa perusahaan memperkirakan sulit memenuhi kewajiban sesuai jadwal dan ketentuan awal. Yang tersentuh adalah pos utang dan beban bunga di laporan keuangan: rasio keuangan atau financial covenant adalah syarat kesehatan keuangan yang disepakati dengan pemegang obligasi saat obligasi diterbitkan, dan permintaan pengesampingannya berarti BUMA berisiko melanggar syarat itu tanpa kelonggaran, yang lazim dibaca pasar sebagai tanda tekanan arus kas atau beban utang yang memberat. Yang perlu dipantau berikutnya adalah hasil pemungutan suara di RUPO pada 10 Desember 2026, yang baru sah mengambil keputusan bila disetujui pemegang obligasi yang menguasai minimal tiga per empat dari obligasi yang hadir, dengan hak suara ditentukan dari daftar pemegang obligasi KSEI per 4 Desember 2026.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-04",
+    "acara": "Batas pencatatan pemegang obligasi berhak suara di KSEI"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "RUPO III BUMA Tahun 2025 di Jakarta"
+   }
+  ]
+ },
+ {
+  "slug": "rupsi-bold-10-desember-restrukturisasi-tiga-agenda-sukuk-ijarah",
+  "category": "Aksi Korporasi",
+  "title": "RUPSI BOLD 10 Desember: [Restrukturisasi] Tiga Agenda Sukuk Ijarah",
+  "deck": "BUMA memanggil pemegang Sukuk Ijarah I untuk menyetujui perpanjangan jatuh tempo pokok, perubahan imbalan, dan pengesampingan rasio keuangan 2026-2027.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T12:01:19",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_BOLD_E019_a7be659d-262c-43bb-8bc5-7e5b9406822d-20261126120121.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BOLD",
+  "tags": [
+   "BOLD",
+   "sukuk ijarah",
+   "RUPSI",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Bukit Makmur Mandiri Utama (BOLD) mengundang para pemegang Sukuk Ijarah I BUMA Tahun 2025 untuk menghadiri Rapat Umum Pemegang Sukuk Ijarah (RUPSI) pada 10 Desember 2026 pukul 14.00 WIB di Financial Hall, Lantai 2, Graha CIMB Niaga, Jalan Jenderal Sudirman Kavling 58, Jakarta Selatan. Panggilan ini disampaikan oleh PT Bank Rakyat Indonesia (Persero) Tbk selaku wali amanat sukuk, atas usulan BUMA sebagai emiten. Tiga agenda yang akan diputuskan adalah persetujuan perpanjangan jadwal pelunasan pokok sukuk, persetujuan perubahan tingkat imbalan atau semacam kompensasi bagi hasil sukuk, dan persetujuan pengesampingan ketentuan rasio keuangan untuk tahun buku yang berakhir 31 Desember 2026 dan 31 Desember 2027.",
+   "Dokumen panggilan mencantumkan sejumlah syarat teknis. RUPSI baru sah digelar jika dihadiri atau diwakili pemegang sukuk yang menguasai paling sedikit tiga per empat dari jumlah sukuk yang belum dilunasi, dan keputusan baru mengikat jika disetujui paling sedikit tiga per empat dari sukuk yang hadir dalam rapat. Pemegang yang berhak hadir dan punya hak suara adalah yang namanya tercatat dalam Daftar Pemegang Sukuk Ijarah yang dikeluarkan Kustodian Sentral Efek Indonesia (KSEI) empat hari kerja sebelum tanggal RUPSI. Sukuk yang dimiliki BUMA sendiri atau afiliasinya tidak memiliki hak suara dan tidak dihitung dalam kuorum.",
+   "Panggilan ini terbit berbarengan dengan rangkaian RUPO (rapat pemegang obligasi) BUMA yang sudah diumumkan sebelumnya untuk Obligasi III dengan agenda serupa: perpanjangan jatuh tempo, perubahan bunga, dan pengesampingan rasio keuangan yang sama. Dengan RUPSI ini, permintaan restrukturisasi BUMA ternyata tidak hanya menyasar obligasi konvensional, tetapi juga sukuk ijarah, yang berarti mencakup lebih dari satu jalur pendanaan perusahaan."
+  ],
+  "fotoAdegan": "Heavy haul trucks navigating a dusty open-pit coal mine road, excavator loading ore in the background, overcast light",
+  "takeaway": "Laporan ini condong negatif bagi BUMA, karena menunjukkan bahwa permintaan restrukturisasi utang yang sebelumnya hanya diketahui menyasar Obligasi III kini terkonfirmasi juga menjangkau Sukuk Ijarah I, memperluas cakupan tekanan pembayaran utang perusahaan ke instrumen kedua. Permintaan perpanjangan jatuh tempo pokok mengindikasikan BUMA berisiko kesulitan membayar sesuai jadwal awal, yang berarti arus kas perusahaan sedang tertekan. Permintaan mengubah tingkat imbalan, yaitu semacam kompensasi bagi hasil yang dibayarkan ke pemegang sukuk syariah, bisa membuat biaya pendanaan ke depan lebih mahal jika pemegang sukuk minta kompensasi lebih besar sebagai syarat setuju. Pengesampingan rasio keuangan atau financial covenant, yaitu syarat kesehatan keuangan yang mengikat perusahaan saat berutang, menandakan BUMA berisiko tak lagi memenuhi syarat tersebut untuk dua tahun buku ke depan. Yang perlu dipantau adalah hasil pemungutan suara RUPSI pada 10 Desember 2026, karena kuorum tiga per empat dan persetujuan tiga per empat harus tercapai agar ketiga usulan ini sah, sejalan dengan rangkaian RUPO obligasi BUMA yang sudah berjalan dengan agenda serupa.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-10",
+    "acara": "RUPSI BUMA, pemungutan suara restrukturisasi Sukuk Ijarah I"
+   }
+  ]
+ },
+ {
+  "slug": "dividen-tunai-asgr-rp297-saham-cair-11-desember-2026",
+  "category": "Aksi Korporasi",
+  "title": "Dividen Tunai ASGR Rp297/Saham, [Cair] 11 Desember 2026",
+  "deck": "ASGR memperbaiki jadwal dividen tunai Rp297 per saham: cum dividen 30 November, dibayar 11 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T11:58:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_ASGR_E019_48febe68-cfb2-4e2d-8d5a-8041318cdec5-20261126115854.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASGR",
+  "tags": [
+   "ASGR",
+   "dividen",
+   "RUPSLB",
+   "Astra Graphia"
+  ],
+  "body": [
+   "PT Astra Graphia Tbk (ASGR) memperbaiki keterbukaan informasi aksi korporasi yang sebelumnya disampaikan pada 24 November 2026, dengan menyesuaikan jadwal pembagian dividen tunai. Berdasarkan perbaikan yang disampaikan ke Bursa Efek Indonesia pada 26 November 2026, cum dividen tunai di pasar reguler dan pasar negosiasi jatuh pada 30 November 2026, disusul ex dividen pada 1 Desember 2026. Untuk pasar tunai, cum dividen berlaku 2 Desember 2026 dan ex dividen 3 Desember 2026. Tanggal pencatatan pemegang saham yang berhak menerima dividen, atau recording date, ditetapkan 2 Desember 2026 pukul 16.00 WIB, dengan pembayaran dilakukan pada 11 Desember 2026.",
+   "Dividen ini berasal dari keputusan Rapat Umum Pemegang Saham Luar Biasa yang digelar 20 November 2026 di Hotel Mandarin Oriental Jakarta. Rapat yang dihadiri pemegang 1.115.747.191 saham, atau 82,7227 persen dari total saham berhak suara, menyetujui penggunaan sebagian laba ditahan per 31 Desember 2025 sebesar Rp400,59 miliar, setara Rp297 per saham, untuk dibagikan sebagai dividen tunai. Keputusan ini disetujui 1.115.747.091 saham (99,99999104 persen), tanpa ada suara menolak, dan hanya 100 saham (0,00000896 persen) yang abstain. Rapat dipimpin oleh Presiden Komisaris Santosa bersama Komisaris Gunawan Geniusahardja, Komisaris Independen Arya Narayana Soemali dan Cynthia Afriani, serta jajaran direksi yang terdiri dari Presiden Direktur Hendrix Pramana, Direktur King Iriawan Sutanto, Direktur Widi Triwibowo, dan Direktur Trivena Nalsalita.",
+   "Perseroan menjelaskan pembayaran dividen bagi pemegang saham yang sahamnya tercatat secara elektronik di KSEI akan disalurkan lewat KSEI, sementara pemegang saham dengan saham fisik atau warkat harus menyerahkan nomor rekening bank secara tertulis kepada biro administrasi efek, PT Raya Saham Registra, paling lambat 2 Desember 2026 pukul 16.00 WIB, dilengkapi fotokopi KTP atau paspor. Pemegang saham wajib pajak dalam negeri juga diminta menyerahkan NPWP paling lambat tanggal yang sama agar tidak dikenai pajak dividen dengan tarif untuk yang tidak memiliki NPWP. Perseroan menyatakan perbaikan jadwal ini tidak berdampak material terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Technicians checking server racks inside a modern data center, blue indicator lights, clean corridor lighting.",
+  "takeaway": "Laporan ini netral bagi ASGR karena isinya hanya memperbaiki detail jadwal administratif, bukan mengubah jumlah dividen yang sudah disetujui RUPSLB sebesar Rp297 per saham. Yang tersentuh di sini adalah arus kas perusahaan, yaitu uang tunai yang benar-benar keluar dari kas ASGR ke rekening pemegang saham senilai total Rp400,59 miliar, jadi ini murni soal eksekusi pembayaran, bukan perubahan kondisi keuangan perusahaan. Bagi pemegang saham, yang perlu dicermati adalah tanggal cum dividen 30 November 2026, batas waktu saham harus sudah dimiliki di pasar reguler dan negosiasi agar berhak menerima dividen, serta tanggal pembayaran 11 Desember 2026 saat uangnya benar-benar cair. Pemegang saham dengan saham fisik juga perlu mengejar tenggat 2 Desember 2026 pukul 16.00 WIB untuk menyerahkan nomor rekening bank dan NPWP ke biro administrasi efek, agar tidak dikenai pajak dividen dengan tarif yang lebih tinggi.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Cum dividen tunai di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Ex dividen tunai di pasar reguler dan negosiasi"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Cum dividen tunai di pasar tunai dan recording date pemegang saham"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Batas penyerahan NPWP dan rekening bank ke Registra/KSEI"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Ex dividen tunai di pasar tunai"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Pembayaran dividen tunai Rp297 per saham"
+   }
+  ]
+ },
+ {
   "slug": "pemerintah-rilis-stimulus-akhir-tahun-kejar-pertumbuhan-8-2029",
   "category": "Makroekonomi",
   "title": "Pemerintah Rilis Stimulus Akhir Tahun, Kejar Pertumbuhan [8%] 2029",
@@ -24585,8 +24856,8 @@ var ARTICLES = [
  {
   "slug": "koka-jadwalkan-rupslb-18-desember-dps-tutup-25-november",
   "category": "Aksi Korporasi",
-  "title": "KOKA Jadwalkan [RUPSLB] 18 Desember, DPS Tutup 25 November",
-  "deck": "Koka Indonesia akan menggelar RUPSLB pada 18 Desember 2026, dengan pemegang saham yang tercatat hingga 25 November 2026 berhak hadir dan memberi suara.",
+  "title": "RUPSLB KOKA 18 Desember: [Direksi] Pei Yaxing Diganti Chen Qin",
+  "deck": "Pemanggilan resmi RUPSLB KOKA mengungkap agendanya: pergantian Direktur dari Pei Yaxing ke Chen Qin, penyesuaian Anggaran Dasar ke KBLI 2025, serta penyesuaian struktur pemegang saham.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "10 November 2026",
   "isoDate": "2026-11-10T11:26:21",
@@ -24596,17 +24867,38 @@ var ARTICLES = [
   "tags": [
    "KOKA",
    "RUPSLB",
-   "pemegang saham",
-   "IDX"
+   "Pergantian Direksi",
+   "Pemanggilan RUPS"
   ],
   "body": [
-   "PT Koka Indonesia Tbk (KOKA) menyampaikan keterbukaan informasi perihal rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB), melalui surat bernomor 007.004/BOD/KOKA-IND/2026 tertanggal 10 November 2026 yang ditandatangani Direktur Utama Gao Jing. RUPSLB dijadwalkan berlangsung Jumat, 18 Desember 2026 pukul 14.00 WIB di Kantor Perseroan, Jl. Sultan Iskandar Muda No. 7, Kebayoran Lama, Jakarta Selatan.",
-   "Yang berhak hadir atau diwakili dalam rapat hanyalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan pada 25 November 2026 sampai dengan pukul 16.00 WIB. Pemanggilan resmi yang memuat agenda rapat akan diumumkan pada 26 November 2026 melalui situs penyedia eRUPS milik KSEI, situs Bursa Efek Indonesia, dan situs resmi perusahaan di www.koka.co.id. Untuk pemberian kuasa, Perseroan akan menggunakan mekanisme elektronik melalui aplikasi Easy.KSEI yang disediakan PT Kustodian Sentral Efek Indonesia.",
-   "Dokumen ini juga membuka ruang bagi pemegang saham untuk mengusulkan mata acara rapat, dengan syarat usulan memenuhi Pasal 21.8a dan 21.8b Anggaran Dasar Perseroan serta sudah diterima Direksi paling lambat 7 hari sebelum tanggal Pemanggilan Rapat, atau sekitar 19 November 2026. Agenda lengkap RUPSLB sendiri belum diungkapkan dalam pemberitahuan ini dan baru akan tercantum dalam Pemanggilan Rapat resmi."
+   "PT Koka Indonesia Tbk (KOKA) menerbitkan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) secara resmi pada 26 November 2026, memuat agenda yang sebelumnya belum diumumkan. Ada tiga mata acara: pertama, pergantian direksi di mana jabatan Direktur yang sebelumnya dipegang Pei Yaxing akan diajukan penggantinya, Chen Qin. Kedua, penyesuaian Anggaran Dasar Perseroan mengacu ke Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Ketiga, penyesuaian struktur pemegang saham berdasarkan data dari Biro Administrasi Efek (BAE), yaitu lembaga yang mengelola catatan kepemilikan saham perseroan.",
+   "RUPSLB tetap digelar sesuai jadwal semula, yakni Jumat, 18 Desember 2026 pukul 14.00 WIB. Lokasinya di Jl. Sultan Iskandar Muda No. 7C, Kebayoran Lama Utara, Jakarta Selatan, sedikit berbeda penulisan dari pengumuman awal yang menyebut No. 7. Yang berhak hadir dan memberi suara adalah pemegang saham yang namanya tercatat dalam Daftar Pemegang Saham (DPS) Perseroan per 25 November 2026 pukul 16.00 WIB, sesuai dengan batas yang sudah diumumkan sebelumnya.",
+   "Perseroan tidak mengirimkan undangan terpisah kepada pemegang saham karena iklan pemanggilan ini sudah dianggap sebagai undangan resmi. Pemberian kuasa dilakukan lewat sistem elektronik Easy KSEI milik PT Kustodian Sentral Efek Indonesia, dengan opsi e-proxy dan e-voting. Bahan mata acara rapat tersedia sejak tanggal pemanggilan ini hingga RUPSLB digelar, dan pemegang saham bisa memintanya secara tertulis ke kantor pusat Perseroan dengan melampirkan bukti identitas dan kepemilikan saham.",
+   "Sebelumnya, pada 10 November 2026 KOKA baru mengumumkan rencana dan jadwal RUPSLB tanpa menyebutkan agenda apa pun, sehingga pemegang saham belum tahu apa yang akan diputuskan. Pemanggilan resmi ini melengkapi informasi tersebut dengan agenda konkret yang kini bisa dinilai dampaknya bagi perseroan."
   ],
   "fotoAdegan": "Rows of empty chairs arranged in a corporate meeting hall in Jakarta, morning light through tall windows, no people yet.",
-  "takeaway": "Pengumuman ini netral bagi KOKA karena isinya baru sebatas jadwal dan syarat administratif rapat, belum memuat agenda atau keputusan apa pun yang menyentuh kondisi keuangan perseroan. Yang patut dicermati adalah tanggal pencatatan pemegang saham (DPS) pada 25 November 2026 pukul 16.00 WIB, yaitu batas kepemilikan saham yang menentukan siapa yang berhak hadir dan memberi suara di RUPSLB, sehingga pembelian saham setelah tanggal itu tidak otomatis memberi hak suara pada rapat ini. Pemegang saham yang ingin mengusulkan agenda juga harus mengirim usulannya ke Direksi paling lambat sekitar 19 November 2026. Yang perlu dipantau selanjutnya adalah Pemanggilan Rapat resmi pada 26 November 2026, karena di situlah agenda RUPSLB baru akan terungkap dan menentukan apakah rapat ini membawa dampak bagi pemegang saham, sebelum RUPSLB digelar pada 18 Desember 2026.",
-  "sentimen": "netral"
+  "takeaway": "Pemanggilan ini tetap netral bagi KOKA, karena agenda yang akhirnya terungkap bersifat administratif, yaitu pergantian satu kursi direksi, penyesuaian anggaran dasar ke klasifikasi usaha baru, dan pembaruan data pemegang saham, tanpa ada aksi yang mengubah modal, utang, atau laba perseroan. Tidak ada pos kinerja seperti ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang tersentuh langsung oleh agenda ini, sebab pergantian direksi dan penyesuaian anggaran dasar umumnya berdampak pada arah kebijakan dan kepatuhan administratif, bukan pada angka keuangan. Pemegang saham tetap perlu mencatat bahwa hak suara ditentukan oleh kepemilikan saham per 25 November 2026 pukul 16.00 WIB, bukan kepemilikan saat ini. Yang perlu dipantau selanjutnya adalah hasil resmi RUPSLB pada 18 Desember 2026, terutama apakah pergantian Direktur dari Pei Yaxing ke Chen Qin disetujui pemegang saham, karena hasil itu baru akan menentukan apakah ada pergeseran arah manajemen ke depan.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-26T14:25:47",
+    "ringkas": "Pemanggilan resmi RUPSLB KOKA mengungkap agenda: Direktur Pei Yaxing diganti Chen Qin, penyesuaian AD ke KBLI 2025, dan pembaruan struktur pemegang saham.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261126_KOKA_E002_b8dde968-ad7d-4483-acbd-9596026387c6-20261126142549.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-26T14:25:47",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Batas pencatatan pemegang saham (DPS) berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-12-18",
+    "acara": "RUPSLB KOKA, agenda pergantian direksi dan penyesuaian anggaran dasar"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "suri-direksi-imelda-lin-tambah-saham-jadi-490-000-lembar",

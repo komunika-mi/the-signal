@@ -397,7 +397,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status proses aksesi Indonesia ke OECD, dari evaluasi dokumen menjadi penilaian teknis yang sudah menjangkau 24 dari 25 komite, dengan sisa pekerjaan berupa revisi Undang-Undang Persaingan Usaha, Undang-Undang Statistik, dan aturan pidana anti-suap pejabat asing yang ditargetkan rampung pada 2027. Pihak yang paling terdampak adalah pelaku usaha, karena revisi UU Persaingan Usaha bisa mengubah cara otoritas mengawasi praktik bisnis dan korporasi, serta lembaga penyedia data yang akan diatur ulang lewat revisi UU Statistik. Dengan hanya satu komite yang belum menuntaskan penilaian dan dua undang-undang yang masih harus disahkan DPR, arah prosesnya kini lebih bergantung pada kecepatan legislasi dalam negeri ketimbang pada kesiapan diplomatik Indonesia di forum OECD. Yang akan memastikan target 2028 itu tercapai atau mundur adalah apakah revisi UU Persaingan Usaha dan UU Statistik benar-benar disahkan sesuai tenggat 2027 yang dicanangkan pemerintah.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "jasa-marga-sederhanakan-struktur-anak-usaha-tol",

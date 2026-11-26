@@ -3,6 +3,90 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan",
+  "category": "Makroekonomi",
+  "title": "Telur dan Bawang di Yogyakarta [Lebih Murah] dari Harga Acuan",
+  "deck": "Pemantauan Kemendag di Pasar Beringharjo Yogyakarta menemukan bawang merah, bawang putih, dan telur ayam ras dijual di bawah harga acuan jelang Nataru, meski daging sapi masih di atasnya.",
+  "image": "assets/img/telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T14:39:09.617Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/nataru-sejumlah-bapok-di-yogyakarta-terpantau-di-bawah-harga-acuan",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "harga pangan",
+   "Nataru",
+   "Kemendag",
+   "Yogyakarta"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso memantau langsung Pasar Beringharjo di Yogyakarta pada Rabu (26/11), mengecek harga sejumlah bahan pokok menjelang libur Natal 2026 dan Tahun Baru 2027. Dari pantauan tersebut, harga bawang merah, bawang putih, dan telur ayam ras tercatat berada di bawah harga acuan yang ditetapkan pemerintah. Kunjungan ini jadi bagian dari upaya Kementerian Perdagangan memastikan pasokan dan harga bahan pokok tetap terkendali selama periode permintaan tinggi akhir tahun, saat harga pangan biasanya cenderung naik.",
+   "Secara rinci, bawang merah dijual Rp30.000 hingga Rp33.000 per kilogram, jauh di bawah harga acuan Rp36.500 hingga Rp41.500 per kilogram. Bawang putih dijual Rp37.000 hingga Rp38.000 per kilogram, sedikit di bawah acuan Rp38.000 per kilogram, sementara telur ayam ras dijual Rp25.000 per kilogram dari acuan Rp30.000 per kilogram. Harga lebih murah juga tercatat pada daging ayam ras, Rp34.000 per kilogram dari acuan Rp40.000, beras medium, Rp13.000 dari acuan Rp13.500, dan bawang putih jenis honan, Rp28.000 dari acuan Rp38.000. Adapun cabai merah keriting dijual Rp50.000 per kilogram, masih dalam rentang harga acuan Rp37.000 hingga Rp55.000.",
+   "Tidak semua komoditas mengikuti tren serupa. Daging sapi dijual Rp155.000 per kilogram, di atas harga acuan Rp140.000. Cabai rawit merah tercatat Rp60.000 per kilogram, melampaui batas atas harga acuan Rp57.000, dan beras premium Rp15.000 per kilogram, sedikit di atas harga eceran tertinggi Rp14.900. Sementara itu, beras SPHP Bulog, gula pasir, dan minyak goreng bersubsidi MINYAKITA tercatat sesuai harga acuan maupun harga eceran tertinggi yang berlaku.",
+   "Pemantauan ini merupakan bagian dari Sistem Pemantauan Pasar dan Kebutuhan Pokok (SP2KP) milik Kemendag, yang mengawasi harga di 563 titik pasar di 514 kabupaten dan kota. Data dari sistem ini, bersama data Badan Pusat Statistik, dipakai pemerintah untuk memetakan daerah yang kelebihan maupun kekurangan pasokan, lalu menyalurkannya lewat program Perdagangan Antarwilayah yang melibatkan pemerintah daerah dan Bank Indonesia. Mendag Busan mencontohkan, pemerintah sedang menyiapkan pengiriman jagung dari Nusa Tenggara Barat ke Jawa Tengah menjelang musim panen, serta merujuk pada pengiriman 7 ton cabai dari Probolinggo ke Halmahera Utara pada 30 Oktober lalu.",
+   "Ida, pedagang sayur di Pasar Beringharjo, menyebut harga cabai merah keriting di lapaknya turun dari biasanya Rp70.000 menjadi Rp55.000 per kilogram, sementara cabai rawit merah turun dari Rp85.000 menjadi Rp60.000 per kilogram dibanding periode yang sama tahun lalu. Ia maupun pedagang lain, Sutinah, berharap harga tetap stabil, tidak terlalu rendah agar petani tidak dirugikan, namun juga tidak terlalu tinggi agar pembeli tetap terjangkau."
+  ],
+  "fotoAdegan": "Vendors stacking baskets of shallots, garlic, and eggs on a wooden stall inside a crowded traditional market, morning light filtering through the roof.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/fNj6OcYmQLL4IKw8SuC1GFmZOeBiJY8BFFzyWcuZ.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah secara konkret: dari pemantauan di satu pasar Yogyakarta ini, enam komoditas, termasuk bawang merah, bawang putih, telur, dan daging ayam, tercatat lebih murah dari harga acuan, yakni patokan harga wajar yang ditetapkan pemerintah, sementara daging sapi dan cabai rawit merah justru masih di atas patokan itu. Yang terdampak adalah konsumen pembeli bahan pokok harian, juga pedagang pasar seperti Ida dan Sutinah, yang sama-sama berharap harga tidak jatuh terlalu dalam karena itu bisa merugikan petani. Pola ini menunjukkan pemerintah lebih mengandalkan pengiriman barang antar daerah lewat program Perdagangan Antarwilayah, bukan sekadar menahan harga di satu titik, untuk menambal kekurangan pasokan, seperti rencana mengirim jagung dari Nusa Tenggara Barat ke Jawa Tengah sebelum musim panen tiba. Yang akan membuktikan apakah cara ini manjur adalah apakah pengiriman jagung itu benar-benar terlaksana sesuai rencana, dan apakah harga daging sapi serta cabai rawit merah ikut turun mendekati Natal dan Tahun Baru.",
+  "imageV": "mwxo0xb6"
+ },
+ {
+  "slug": "resi-gudang-bantul-diklaim-lipatgandakan-produksi-kedelai",
+  "category": "UMKM",
+  "title": "Resi Gudang Bantul Diklaim [Lipatgandakan] Produksi Kedelai",
+  "deck": "Petani pengguna sistem resi gudang di Bantul mengklaim produksi kedelai naik hingga dua kali lipat dalam lima tahun, dan pemerintah kini mendorong perluasan skema ini.",
+  "image": "assets/img/resi-gudang-bantul-diklaim-lipatgandakan-produksi-kedelai.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T14:38:54.572Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sistem-resi-gudang-bantul-berhasil-lipat-gandakan-produktivitas-petani",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "resi gudang",
+   "petani kedelai",
+   "Kementerian Perdagangan",
+   "Bantul"
+  ],
+  "body": [
+   "Menteri Perdagangan Budi Santoso mengunjungi sentra Sistem Resi Gudang (SRG) di Bantul, Daerah Istimewa Yogyakarta, dan menyoroti skema ini sebagai jalan keluar bagi petani yang selama ini terpaksa menjual hasil panen saat harga murah demi modal tanam berikutnya. Petani pengguna SRG di lokasi tersebut mengklaim produksi kedelai mereka naik dari kisaran 1,2 sampai 1,3 ton per hektare menjadi 2 sampai 2,2 ton per hektare dalam lima tahun terakhir, dengan proporsi kedelai kualitas terbaik naik dari 65 persen menjadi 85 persen. Klaim ini penting karena pemerintah menjadikannya contoh untuk mendorong skema serupa di daerah lain.",
+   "Resi gudang bekerja sederhana, petani yang panennya belum laku dengan harga baik bisa menyimpan hasil panen di gudang dan mendapat semacam bukti simpan atau resi. Resi itu lalu bisa dijadikan jaminan untuk meminjam modal ke bank, sehingga petani tidak perlu menjual rugi hanya karena butuh uang cepat. Gudang di Bantul yang dipakai dalam skema ini dibangun Kementerian Perdagangan pada 2009 dengan luas 700 meter persegi dan kapasitas simpan 1.500 ton, dilengkapi mesin pengering sejak 2010, resmi berstatus gudang SRG pada 2 Februari 2011, dan saat ini dikelola Koperasi Unit Desa Tani Harjo bekerja sama dengan Bank Rakyat Indonesia untuk pembiayaannya.",
+   "Pengelola SRG Bantul, Eddy Sugianto, meminta agar lebih banyak bank ikut membiayai skema ini dan kapasitas gudang ditambah agar menampung lebih banyak hasil panen. Menanggapi itu, Mendag Busan menyebut pengembangan SRG ke depan tidak cukup hanya menambah gudang, tetapi juga perlu memperkuat produksi, mutu, pembiayaan, dan akses pasar, termasuk membuka peluang bagi swasta mengelola gudang selama memenuhi aturan dan dikelola profesional. Ia juga mendorong petani mengolah kedelai menjadi produk bernilai tambah seperti keripik tempe yang sudah tembus pasar ekspor, sembari menyebut kebijakan impor kedelai akan tetap memperhitungkan kebutuhan dan pasokan dari dalam negeri.",
+   "Dari sisi petani, pembina kelompok tani kedelai Bantul, Atris Suyantohadi, menilai SRG membantu mengatasi harga jual yang selama ini naik turun dan cenderung rendah. Sementara itu, petani dari Kelompok Tani Rukun Tani di Gunungkidul, Pande, berharap program SRG diperluas dan sosialisasi penanaman kedelai lokal ditingkatkan, dengan alasan komoditas ini bisa menopang kebutuhan UMKM dan industri sekaligus menambah pendapatan petani."
+  ],
+  "fotoAdegan": "Farmers stacking sacks of harvested soybeans inside a rural storage warehouse, drying machines in the background, morning light through open doors.",
+  "fotoSumber": "https://www.kemendag.go.id/albums/JrPJw1AmnCTLYaa0j0xMf12EWazSGvMWu7IyaVLC.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah di sini bukan aturan baru, melainkan sorotan pemerintah pada satu gudang resi di Bantul yang sudah berjalan sejak 2011, dengan klaim produksi kedelai naik dari 1,2-1,3 ton menjadi 2-2,2 ton per hektare dan mutu terbaik naik dari 65 ke 85 persen dalam lima tahun versi petani sendiri. Yang terdampak langsung adalah petani kedelai pengguna skema ini dan koperasi pengelolanya, sebab resi gudang memungkinkan mereka menahan panen saat harga rendah lalu memakainya sebagai jaminan pinjaman ke bank, bukan terpaksa jual rugi. Arah yang terlihat dari pernyataan menteri adalah pemerintah ingin meniru model Bantul ke daerah lain dengan melibatkan lebih banyak bank selain BRI dan membuka ruang bagi swasta mengelola gudang, bukan sekadar menambah bangunan gudang. Yang akan memastikan arah ini benar berjalan adalah apakah ada bank lain atau pengelola swasta yang resmi masuk ke skema SRG dalam waktu dekat, sebab sejauh ini baru BRI yang disebut sebagai mitra pembiayaan di Bantul.",
+  "imageV": "mwxo131b"
+ },
+ {
+  "slug": "mekaar-pnm-capai-1-2-juta-nasabah-bunga-turun-8",
+  "category": "UMKM",
+  "title": "Mekaar PNM Capai 1,2 Juta Nasabah, Bunga Turun [8%]",
+  "deck": "PNM memperluas program Mekaar dengan bunga baru 8 persen, kini menjangkau 1,2 juta nasabah perempuan prasejahtera dari Aceh hingga Denpasar.",
+  "image": "assets/img/mekaar-pnm-capai-1-2-juta-nasabah-bunga-turun-8.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T21:10:46+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480541-pnm-perluas-penyaluran-mekaar-hingga-denpasar-12-juta-nasabah-nikmati-bunga-8",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "KPPS"
+  ],
+  "body": [
+   "Perusahaan pembiayaan pelat merah untuk usaha ultra mikro, Permodalan Nasional Madani (PNM), terus memperluas jangkauan program Membina Ekonomi Keluarga Sejahtera atau Mekaar dengan bunga baru sebesar 8 persen. Hingga saat ini, lebih dari 1,2 juta nasabah perempuan prasejahtera di seluruh Indonesia, dari Aceh sampai Papua, sudah menikmati skema bunga yang lebih ringan ini. Perluasan ini menyasar kelompok yang selama ini mengandalkan pembiayaan mikro untuk menjalankan usaha kecil dan menutup kebutuhan rumah tangga.",
+   "Skema bunga 8 persen ini awalnya diuji coba secara terbatas di 10 wilayah sejak September 2026, sebelum diperluas lewat kerja sama PNM dengan Kementerian UMKM dalam penyaluran Kredit Perempuan Prasejahtera (KPPS). Penyaluran KPPS berpedoman pada Peraturan Menteri Koordinator Bidang Perekonomian Nomor 7 Tahun 2026, yang kemudian disempurnakan menjadi Permenko Nomor 11 Tahun 2026. Kebijakan penurunan bunga ini merupakan tindak lanjut arahan Presiden Prabowo Subianto agar beban angsuran nasabah Mekaar bisa lebih ringan.",
+   "Penyaluran KPPS Mekaar 8 persen resmi diluncurkan bertepatan dengan Hari Pahlawan, 10 November 2026, di Batam. Peluncuran ini dilakukan oleh Direktur Utama PNM bersama Wakil Menteri Koordinator Bidang Perekonomian, Dradjad Hari Wibowo. Setelah peluncuran tersebut, penyaluran terus diperluas ke berbagai daerah, termasuk peninjauan langsung yang dilakukan Direktur Utama PNM, Kindaris, di salah satu kecamatan di Denpasar.",
+   "Kindaris menyampaikan harapan agar penyesuaian bunga ini memberi keleluasaan lebih besar bagi nasabah dalam mengelola keuangan usaha maupun kebutuhan rumah tangga mereka."
+  ],
+  "fotoAdegan": "A PNM field officer talking with a group of women market vendors under a small tarp-covered stall, tropical neighborhood street, daytime",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/26/6b083990beef3-perluas-akses-penyaluran-hingga-denpasar-12-juta-nasabah-pnm-mekaar-nikmati-bunga-8_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah bunga pembiayaan Mekaar diturunkan jadi 8 persen, dari sebelumnya hanya diuji coba di 10 wilayah sejak September 2026, kini sudah diresmikan secara nasional pada 10 November 2026 dan menjangkau 1,2 juta nasabah, dengan Denpasar sebagai salah satu titik perluasan terbaru. Yang terdampak langsung adalah perempuan pelaku usaha mikro prasejahtera yang jadi nasabah Mekaar, karena bunga lebih rendah berarti setoran cicilan bulanan mereka jadi lebih kecil. Aturan mainnya sendiri sudah direvisi sekali, dari Permenko Nomor 7 Tahun 2026 menjadi Permenko Nomor 11 Tahun 2026, tanda ketentuan ini masih disesuaikan sambil berjalan, bukan aturan final. Pola perluasan bertahap, dari uji coba ke peluncuran resmi lalu merambah daerah satu demi satu, menunjukkan program ini masih menuju jangkauan nasional penuh dan belum selesai. Yang akan memastikan arah ini adalah laporan berikutnya dari PNM atau Kementerian Koordinator Bidang Perekonomian soal berapa banyak provinsi atau cabang PNM yang sudah benar-benar menerapkan bunga 8 persen ini.",
+  "imageV": "mwxo13lb"
+ },
+ {
   "slug": "lrna-jawab-bei-kas-tipis-rp384-juta-revaluasi-topang-92-ekuitas",
   "category": "Aksi Korporasi",
   "title": "LRNA Jawab BEI: Kas Tipis Rp384 Juta, [Revaluasi] Topang 92% Ekuitas",
@@ -111,7 +195,34 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah status proses aksesi Indonesia ke OECD, dari evaluasi dokumen menjadi penilaian teknis yang sudah menjangkau 24 dari 25 komite, dengan sisa pekerjaan berupa revisi Undang-Undang Persaingan Usaha, Undang-Undang Statistik, dan aturan pidana anti-suap pejabat asing yang ditargetkan rampung pada 2027. Pihak yang paling terdampak adalah pelaku usaha, karena revisi UU Persaingan Usaha bisa mengubah cara otoritas mengawasi praktik bisnis dan korporasi, serta lembaga penyedia data yang akan diatur ulang lewat revisi UU Statistik. Dengan hanya satu komite yang belum menuntaskan penilaian dan dua undang-undang yang masih harus disahkan DPR, arah prosesnya kini lebih bergantung pada kecepatan legislasi dalam negeri ketimbang pada kesiapan diplomatik Indonesia di forum OECD. Yang akan memastikan target 2028 itu tercapai atau mundur adalah apakah revisi UU Persaingan Usaha dan UU Statistik benar-benar disahkan sesuai tenggat 2027 yang dicanangkan pemerintah.",
-  "fotoGagal": 1
+  "fotoGagal": 2
+ },
+ {
+  "slug": "jasa-marga-sederhanakan-struktur-anak-usaha-tol",
+  "category": "BUMN",
+  "title": "Jasa Marga [Sederhanakan] Struktur Anak Usaha Tol",
+  "deck": "Jasa Marga melebur dua anak usaha, LMJ dan TOL, ke dalam Jasamarga Transjawa Tol yang kini memegang saham langsung di lima ruas tol Trans Jawa.",
+  "image": "assets/img/jasa-marga-sederhanakan-struktur-anak-usaha-tol.jpg",
+  "date": "26 November 2026",
+  "isoDate": "2026-11-26T19:09:48+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480519-jasa-marga-rampingkan-struktur-bisnis-lewat-penggabungan-anak-perusahaan",
+  "tags": [
+   "Jasa Marga",
+   "Tol Trans Jawa",
+   "Restrukturisasi BUMN",
+   "Investasi Infrastruktur"
+  ],
+  "body": [
+   "PT Jasa Marga (Persero) Tbk memangkas lapisan anak usahanya di bisnis jalan tol dengan menggabungkan dua entitas, PT Lintas Marga Jawa (LMJ) dan PT Trans Optima Luhur (TOL), menjadi satu perusahaan bernama PT Jasamarga Transjawa Tol (JTT). Langkah ini sudah disetujui pemegang saham lewat Rapat Umum Pemegang Saham Luar Biasa pada Rabu, 25 November 2026. Penggabungan ini penting diikuti karena menyangkut tata kelola salah satu jaringan tol terpadat di Indonesia, yakni ruas-ruas Trans Jawa yang jadi urat nadi logistik dan mobilitas antarkota di Jawa.",
+   "LMJ dan TOL selama ini berfungsi sebagai kendaraan untuk menghimpun dana dari investor bagi proyek jalan tol, antara lain lewat penerbitan instrumen investasi pada 2018 dan 2019. Setelah peran itu dinilai selesai, Jasa Marga memutuskan meleburnya ke JTT agar pengelolaan investasi jalan tol lebih terpadu. Corporate Secretary dan Chief Administration Officer Jasa Marga, Trias Andriyanto, mengatakan struktur yang lebih sederhana diharapkan membuat koordinasi antarperusahaan dan proses pengambilan keputusan berjalan lebih efektif.",
+   "Setelah penggabungan ini berlaku, JTT akan langsung memegang saham di lima badan usaha jalan tol, yaitu PT Jasamarga Semarang Batang, PT Jasamarga Solo Ngawi, PT Jasamarga Ngawi Kertosono Kediri, PT Trans Marga Jateng, dan PT Jasamarga Pandaan Tol. Porsi kepemilikan Jasa Marga di JTT tetap dijaga di angka 65 persen. Manajemen memastikan aksi korporasi ini tidak berdampak material terhadap kinerja maupun operasional perusahaan, sehingga layanan di seluruh ruas tol tersebut berjalan seperti biasa.",
+   "Selain soal penggabungan anak usaha, RUPSLB tersebut juga menyetujui penyesuaian Anggaran Dasar perusahaan agar sesuai dengan Klasifikasi Baku Lapangan Usaha Indonesia terbaru, serta mengesahkan perubahan susunan pengurus. Jabatan Direktur Utama tetap dipegang Rivan A. Purwantono, didampingi Andry Tanudjaja sebagai Wakil Direktur Utama, dengan jajaran direksi lain yaitu Ari Respati sebagai Direktur Bisnis dan Layanan, Riksa Prakoso sebagai Direktur SDM dan Transformasi, Sigit Prastowo sebagai Direktur Keuangan dan Manajemen Risiko, Yoga Tri Anggoro sebagai Direktur Operasi, dan Fitri Wiyanti sebagai Direktur Teknik. Dewan Komisaris kini diisi Juri Ardiantoro sebagai Komisaris Utama, dengan anggota Syamsul Bachri Yusuf, M Asrorun Ni'am Sholeh, dan Nurul Ghufron, ditambah tiga Komisaris Independen yakni Tedi Kurniawan, Nachrowi Ramli, dan Rudi Antariksawan."
+  ],
+  "fotoAdegan": "Aerial view of a multi-lane toll highway winding through green rice fields in rural Java under soft afternoon light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/26/6b0820ed531dd-tol-solo-ngawi_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret: Jasa Marga melebur dua anak usahanya, Lintas Marga Jawa dan Trans Optima Luhur, menjadi satu perusahaan baru bernama Jasamarga Transjawa Tol, yang nantinya langsung memegang saham di lima ruas tol besar yakni Semarang-Batang, Solo-Ngawi, Ngawi-Kertosono-Kediri, Trans Marga Jateng, dan Pandaan Tol, sementara porsi kepemilikan Jasa Marga di perusahaan baru itu tetap 65 persen. Yang kena dampak langsung adalah struktur internal grup Jasa Marga sendiri, bukan pengguna jalan tol, karena manajemen menegaskan layanan di semua ruas itu tetap berjalan seperti biasa. Arahnya terlihat sebagai langkah merampingkan lapisan anak usaha setelah dua perusahaan itu menyelesaikan tugas lamanya sebagai alat pengumpul dana dari investor untuk proyek tol Trans Jawa, bukan perubahan kepemilikan besar yang mengubah peta bisnis Jasa Marga. Yang akan memastikan arah ini adalah bagaimana konsolidasi tersebut tercermin di laporan keuangan Jasa Marga pada kuartal mendatang, serta apakah langkah peleburan serupa berlanjut ke anak usaha jalan tol Jasa Marga lainnya.",
+  "imageV": "mwxo142d"
  },
  {
   "slug": "sola-jelaskan-dana-ipo-pabrik-xbi-tuban-molor-ke-kuartal-ii-2027",
@@ -930,7 +1041,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret di sini adalah paket stimulus akhir tahun dengan angka dan tenggat yang jelas: bebas pajak tiket pesawat ekonomi domestik dari 22 Desember 2026 sampai 10 Januari 2027, diskon tiket kereta 30 persen, bantuan beras untuk 33,24 juta keluarga, dan subsidi upah Rp900 ribu untuk 13,3 juta pekerja selama November-Desember 2026. Yang merasakan dampak langsung adalah penumpang transportasi umum kelas ekonomi, keluarga penerima bantuan pangan, dan pekerja penerima subsidi upah, sementara target besar pertumbuhan 8 persen pada 2029 justru menyasar investor dan pelaku usaha di sektor kecerdasan buatan, semikonduktor, dan pusat data. Pola ini memperlihatkan pemerintah masih mengandalkan stimulus konsumsi musiman untuk menahan daya beli dalam jangka pendek, sementara fondasi pertumbuhan jangka panjang seperti kapasitas pusat data yang baru 700 megawatt dari target 1,3 gigawatt pada 2029, dan proses masuk OECD yang baru rampung 80 persen, masih butuh waktu bertahun-tahun sebelum terwujud. Yang akan menunjukkan apakah target 8 persen ini realistis adalah data pertumbuhan ekonomi triwulan IV dan sepanjang tahun 2026 yang biasanya dirilis Badan Pusat Statistik awal Februari 2027, serta kelanjutan proses aksesi OECD tersebut.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "restrukturisasi-utang-bltz-pinjaman-bukopin-jadi-rp100-m",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "mzaN3oLlDdA",
+  "title": "AS Naikkan Tarif Dagang Indonesia Jadi 18 Persen, 13 Negara Lain Kena",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintah Amerika Serikat mengumumkan kenaikan tarif impor baru sebesar 18 persen untuk produk asal Indonesia. Kebijakan serupa juga diberlakukan terhadap 13 negara dan kawasan mitra dagang AS lainnya.",
+  "takeaway": "Kenaikan tarif AS ini relevan bagi pembaca ekonomi karena berpotensi menekan daya saing ekspor Indonesia ke salah satu pasar tujuan dagang utamanya."
+ },
+ {
   "id": "2jMIFbAFk4w",
   "title": "Dari DBHCHT untuk Situbondo",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Indonesia Business Forum",
   "summary": "Proses pengisian kursi wakil presiden menjelang pelantikan 9 Desember 2026 dibahas dari sisi dampaknya terhadap arah perekonomian dan sentimen pasar domestik.",
   "takeaway": "Transisi kepemimpinan di jajaran eksekutif kerap memengaruhi persepsi pelaku pasar, sehingga relevan dipantau pembaca ekonomi."
- },
- {
-  "id": "CLPf2WbZ9ec",
-  "title": "Wamenko Perekonomian Bantah Daya Beli Lemah",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Wakil Menteri Koordinator Bidang Perekonomian membantah anggapan bahwa daya beli masyarakat sedang melemah dengan memaparkan sejumlah data pendukung.",
-  "takeaway": "Daya beli masyarakat adalah indikator inti pertumbuhan konsumsi yang berpengaruh langsung pada kinerja ekonomi nasional."
  }
 ];

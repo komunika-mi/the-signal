@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "mzaN3oLlDdA",
+  "title": "AS Naikkan Tarif Dagang Indonesia Jadi 18 Persen, 13 Negara Lain Kena",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintah Amerika Serikat mengumumkan kenaikan tarif impor baru sebesar 18 persen untuk produk asal Indonesia. Kebijakan serupa juga diberlakukan terhadap 13 negara dan kawasan mitra dagang AS lainnya.",
+  "takeaway": "Kenaikan tarif AS ini relevan bagi pembaca ekonomi karena berpotensi menekan daya saing ekspor Indonesia ke salah satu pasar tujuan dagang utamanya.",
+  "terbit": "2026-11-26T13:30:52+00:00"
+ },
+ {
   "id": "2jMIFbAFk4w",
   "title": "Dari DBHCHT untuk Situbondo",
   "category": "Industri",

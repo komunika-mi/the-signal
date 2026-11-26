@@ -5,6 +5,59 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan",
+  "category": "Makroekonomi",
+  "title": "Telur dan Bawang di Yogyakarta [Lebih Murah] dari Harga Acuan",
+  "deck": "Pemantauan Kemendag di Pasar Beringharjo Yogyakarta menemukan bawang merah, bawang putih, dan telur ayam ras dijual di bawah harga acuan jelang Nataru, meski daging sapi masih di atasnya.",
+  "date": "26 November 2026",
+  "image": "assets/img/telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan.jpg",
+  "imageV": "mwxo0xb6",
+  "tags": [
+   "harga pangan",
+   "Nataru",
+   "Kemendag",
+   "Yogyakarta"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/nataru-sejumlah-bapok-di-yogyakarta-terpantau-di-bawah-harga-acuan",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "resi-gudang-bantul-diklaim-lipatgandakan-produksi-kedelai",
+  "category": "UMKM",
+  "title": "Resi Gudang Bantul Diklaim [Lipatgandakan] Produksi Kedelai",
+  "deck": "Petani pengguna sistem resi gudang di Bantul mengklaim produksi kedelai naik hingga dua kali lipat dalam lima tahun, dan pemerintah kini mendorong perluasan skema ini.",
+  "date": "26 November 2026",
+  "image": "assets/img/resi-gudang-bantul-diklaim-lipatgandakan-produksi-kedelai.jpg",
+  "imageV": "mwxo131b",
+  "tags": [
+   "resi gudang",
+   "petani kedelai",
+   "Kementerian Perdagangan",
+   "Bantul"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/sistem-resi-gudang-bantul-berhasil-lipat-gandakan-produktivitas-petani",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "mekaar-pnm-capai-1-2-juta-nasabah-bunga-turun-8",
+  "category": "UMKM",
+  "title": "Mekaar PNM Capai 1,2 Juta Nasabah, Bunga Turun [8%]",
+  "deck": "PNM memperluas program Mekaar dengan bunga baru 8 persen, kini menjangkau 1,2 juta nasabah perempuan prasejahtera dari Aceh hingga Denpasar.",
+  "date": "26 November 2026",
+  "image": "assets/img/mekaar-pnm-capai-1-2-juta-nasabah-bunga-turun-8.jpg",
+  "imageV": "mwxo13lb",
+  "tags": [
+   "PNM",
+   "Mekaar",
+   "UMKM",
+   "KPPS"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480541-pnm-perluas-penyaluran-mekaar-hingga-denpasar-12-juta-nasabah-nikmati-bunga-8"
+ },
+ {
   "slug": "lrna-jawab-bei-kas-tipis-rp384-juta-revaluasi-topang-92-ekuitas",
   "category": "Aksi Korporasi",
   "title": "LRNA Jawab BEI: Kas Tipis Rp384 Juta, [Revaluasi] Topang 92% Ekuitas",
@@ -71,6 +124,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7254/terima-kunjungan-sekjen-oecd-di-jakarta-presiden-prabowo-subianto-dorong-indonesia-jadi-anggota-pertama-dari-asean-pada-2028",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "jasa-marga-sederhanakan-struktur-anak-usaha-tol",
+  "category": "BUMN",
+  "title": "Jasa Marga [Sederhanakan] Struktur Anak Usaha Tol",
+  "deck": "Jasa Marga melebur dua anak usaha, LMJ dan TOL, ke dalam Jasamarga Transjawa Tol yang kini memegang saham langsung di lima ruas tol Trans Jawa.",
+  "date": "26 November 2026",
+  "image": "assets/img/jasa-marga-sederhanakan-struktur-anak-usaha-tol.jpg",
+  "imageV": "mwxo142d",
+  "tags": [
+   "Jasa Marga",
+   "Tol Trans Jawa",
+   "Restrukturisasi BUMN",
+   "Investasi Infrastruktur"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480519-jasa-marga-rampingkan-struktur-bisnis-lewat-penggabungan-anak-perusahaan"
  },
  {
   "slug": "sola-jelaskan-dana-ipo-pabrik-xbi-tuban-molor-ke-kuartal-ii-2027",
@@ -6422,70 +6492,6 @@ var ARTICLES = [
    "direksi"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-7061-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "cybr-direksi-tambah-7-6-juta-saham-hak-suara-jadi-0-944",
-  "category": "Aksi Korporasi",
-  "title": "CYBR: Direksi [Tambah] 7,6 Juta Saham, Hak Suara Jadi 0,944%",
-  "deck": "Direksi ITSEC Asia Patrick Rudolf Dannacher membeli 7.600.300 saham CYBR secara tidak langsung sepanjang 4-17 November 2026, menaikkan hak suaranya ke 0,944%.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "CYBR",
-   "ITSEC Asia",
-   "laporan kepemilikan",
-   "direksi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-3402-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "foru-dua-anggota-komite-audit-mundur-diganti-dua-nama-baru",
-  "category": "Aksi Korporasi",
-  "title": "FORU: Dua Anggota Komite Audit Mundur, [Diganti] Dua Nama Baru",
-  "deck": "Tjandra Susanto Putra dan Iwan mundur dari Komite Audit FORU efektif 17 November 2026, digantikan Triyoga Deni Intarto dan Yeniatie.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FORU",
-   "Komite Audit",
-   "Fortune Indonesia",
-   "Tata Kelola"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e478462e15_7769b888d6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "folk-komisaris-sutopo-widodo-tambah-15-8-juta-saham-suara-5-33",
-  "category": "Aksi Korporasi",
-  "title": "FOLK: Sumber Garam Pratama Jual 98.116.961 Saham, Suara Jadi 13,25%",
-  "deck": "Sumber Garam Pratama melepas tambahan 98.116.961 saham FOLK pada 17-18 November 2026, menurunkan hak suaranya dari 15,65 persen menjadi 13,25 persen.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FOLK",
-   "Sumber Garam Pratama",
-   "Laporan Kepemilikan",
-   "Multi Garam Utama"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-18112026-6564-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pack-bantah-kongsi-bakrie-haji-isam-bidik-saham-weda-bay-nickel",
-  "category": "Aksi Korporasi",
-  "title": "PACK [Bantah] Kongsi Bakrie-Haji Isam Bidik Saham Weda Bay Nickel",
-  "deck": "PACK menegaskan tidak terlibat rencana akuisisi saham Weda Bay Nickel bersama VKTR, Danantara, dan Grup Bakrie, menjawab permintaan klarifikasi BEI.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PACK",
-   "Weda Bay Nickel",
-   "Klarifikasi BEI",
-   "Rights Issue"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/3d49b46c8d_2b5cb0a41a.pdf",
   "sourceLabel": "IDX"
  }
 ];

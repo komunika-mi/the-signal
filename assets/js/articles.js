@@ -3,6 +3,75 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "amin-kuartal-iii-2026-laba-naik-36-7-jadi-rp28-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AMIN Kuartal III 2026: [Laba] Naik 36,7% Jadi Rp28,2 Miliar",
+  "deck": "Laba bersih AMIN naik 36,7 persen jadi Rp28,23 miliar meski pendapatan turun, sementara aset dan utang melonjak lebih dari 20 persen.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T11:27:49",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-81891415-9b64-4f16-81ad-fa471fa106a9-1/FinancialStatement-2026-III-AMIN.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AMIN",
+  "tags": [
+   "AMIN",
+   "ATMINDO",
+   "laporan keuangan",
+   "boiler"
+  ],
+  "body": [
+   "PT Ateliers Mecaniques D'Indonesie Tbk (AMIN), produsen boiler yang berbasis di Tanjung Morawa, Sumatera Utara, melaporkan laba bersih Rp28,23 miliar untuk periode sembilan bulan yang berakhir 31 Oktober 2026, naik 36,7 persen dari Rp20,64 miliar pada periode yang sama tahun sebelumnya. Kenaikan laba ini terjadi meski pendapatan perusahaan justru turun 13,9 persen menjadi Rp233,94 miliar dari Rp271,59 miliar, karena laba kotor nyaris tidak berubah di kisaran Rp48,7 miliar dan beban bunga turun tajam dari Rp1,42 miliar menjadi hanya Rp34,4 juta. Laba per saham naik dari Rp19,12 menjadi Rp26,14. Sepanjang periode ini perusahaan juga sudah membagikan dividen tunai Rp10,8 miliar, lebih besar dari Rp8,64 miliar yang dibagikan pada periode sebelumnya.",
+   "Dalam surat terpisah ke Bursa Efek Indonesia, manajemen AMIN menjelaskan perubahan lebih dari 20 persen pada pos total aset dan total liabilitas yang wajib dilaporkan sesuai aturan bursa. Total aset naik 21 persen menjadi Rp366,57 miliar, sementara total liabilitas melonjak 44 persen menjadi Rp152,23 miliar dibandingkan posisi 31 Januari 2026. Kas dan setara kas turun separuh, dari Rp35,61 miliar menjadi Rp16,89 miliar, karena dipakai untuk kegiatan operasional, terutama pembelian bahan baku. Di sisi lain, aset kontrak, yaitu nilai pekerjaan yang sudah dikerjakan tapi belum bisa ditagih karena dokumen penagihan atau Berita Acara belum lengkap, melonjak dari Rp2,08 miliar menjadi Rp49,13 miliar. Persediaan juga naik 61,7 persen menjadi Rp84,9 miliar untuk kebutuhan bahan baku proyek baru yang kontraknya sudah ditandatangani, dan aset tetap bertambah 12,3 persen menjadi Rp107,1 miliar karena pembelian mesin baru.",
+   "Pembelian mesin baru itu turut dibiayai dari pinjaman bank baru senilai Rp9,3 miliar, padahal pada akhir Januari 2026 perusahaan belum memiliki utang bank sama sekali. Ekuitas perusahaan tetap tumbuh menjadi Rp214,33 miliar dari Rp196,90 miliar meski sudah membagikan dividen, didukung oleh penambahan saldo laba. Laporan keuangan ini disampaikan tidak diaudit dan ditandatangani oleh Presiden Direktur Rudy Susanto dan Direktur Independen Lindataty pada 26 November 2026."
+  ],
+  "fotoAdegan": "Workers assembling large steel boiler components inside an industrial manufacturing workshop, welding sparks catching the light.",
+  "takeaway": "Laporan ini condong positif bagi AMIN karena laba bersih naik 36,7 persen menjadi Rp28,23 miliar justru saat pendapatan turun 13,9 persen, tanda perusahaan menekan biaya dan beban bunga lebih efisien. Yang perlu diperhatikan adalah arus kas: kas dan setara kas perusahaan turun separuh menjadi Rp16,89 miliar karena dipakai membeli bahan baku, sementara persediaan dan aset kontrak, yaitu nilai pekerjaan yang sudah dikerjakan tapi belum bisa ditagih karena dokumen penagihan belum lengkap, justru melonjak drastis sehingga uang perusahaan banyak tertahan di proyek yang belum cair jadi kas. Ekuitas pemegang saham tetap naik jadi Rp214,33 miliar meski sudah membagikan dividen Rp10,8 miliar, dan laba per saham naik dari Rp19,12 menjadi Rp26,14. Utang perusahaan ikut naik 44 persen, sebagian karena pinjaman bank baru Rp9,3 miliar untuk membeli mesin produksi, yang mengindikasikan perusahaan sedang menambah kapasitas untuk mengerjakan kontrak baru yang masuk. Yang perlu dipantau selanjutnya adalah apakah aset kontrak senilai Rp49,13 miliar itu benar benar bisa ditagih dan berubah jadi kas setelah dokumen Berita Acara selesai, karena kalau penagihannya molor, tekanan pada kas perusahaan bisa berlanjut.",
+  "sentimen": "positif",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Tidak Diaudit"
+ },
+ {
+  "slug": "bnli-pemegang-saham-warkat-wajib-dematerialisasi-sebelum-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "BNLI: Pemegang Saham Warkat Wajib [Dematerialisasi] Sebelum Mei 2030",
+  "deck": "Bank Permata (BNLI) meminta pemegang saham bersertifikat fisik menukar surat kolektif saham ke bentuk elektronik sebelum 6 Mei 2030, sesuai POJK 9/2025.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T11:07:51",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BNLI_E019_671c47b1-60ee-461d-ba11-3535af098948-20261127110753.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNLI",
+  "tags": [
+   "BNLI",
+   "Bank Permata",
+   "dematerialisasi saham",
+   "POJK 9/2025"
+  ],
+  "body": [
+   "Bank Permata Tbk (BNLI) mengumumkan kepada pemegang saham yang masih memegang saham dalam bentuk warkat atau Surat Kolektif Saham (SKS) untuk mengembalikan dokumen tersebut dan mengonversinya ke bentuk elektronik tanpa warkat (scripless). Pengumuman ini merupakan pelaksanaan Peraturan OJK No. 9/2025 tentang Dematerialisasi Efek Bersifat Ekuitas, yang mewajibkan proses konversi ini selesai dalam lima tahun sejak regulasi berlaku pada 6 Mei 2025, yaitu paling lambat 6 Mei 2030.",
+   "Proses konversi diurus melalui biro administrasi efek (BAE) perseroan, PT Raya Saham Registra, di Gedung Plaza Sentral, Jl. Jend. Sudirman Kav. 47-48, Jakarta, setiap hari kerja pukul 09.00 sampai 15.00 WIB. Pemegang saham yang sudah memiliki Sub Rekening Efek di perusahaan efek atau bank kustodian bisa langsung mengonversi sahamnya lewat sistem C-BEST milik KSEI dengan biaya sesuai jumlah saham yang dikonversi. Yang belum memiliki rekening tersebut harus menyerahkan SKS asli, salinan KTP dengan NIK terbaru atau paspor untuk WNA, salinan NPWP, alamat email, dan nomor telepon, serta membayar biaya dematerialisasi. BAE akan menerbitkan Single Investor Identification dan konfirmasi keabsahan kepemilikan dalam dua hari kerja setelah dokumen lengkap diterima, dan saham akan tercatat di Rekening Titipan.",
+   "Perseroan juga menegaskan konsekuensi bila tenggat 6 Mei 2030 terlewat: saham warkat yang belum dikonversi tidak bisa lagi diperdagangkan, baik di Bursa Efek Indonesia maupun di luar bursa, sampai proses dematerialisasi diselesaikan. Jika sampai lima tahun setelah tenggat itu, atau 6 Mei 2035, pemegang saham masih belum mengurusnya, saham akan ditetapkan sebagai aset tidak diklaim dan dikelola pihak yang ditunjuk OJK. Pemilik saham tetap punya hak mengajukan klaim dan menarik saham dari rekening titipan tersebut, tetapi jendela waktunya baru dibuka mulai 6 Mei 2035 sampai 5 Mei 2065."
+  ],
+  "fotoAdegan": "Bank staff organizing stacks of paper certificates into binders at a busy teller counter, soft overhead lighting.",
+  "takeaway": "Laporan ini netral bagi Bank Permata karena isinya murni kepatuhan administratif terhadap aturan OJK soal konversi saham, bukan transaksi atau keputusan korporasi yang mengubah kondisi keuangan perusahaan. Yang tersentuh bukan pos laporan keuangan seperti ekuitas, arus kas, atau laba per saham, melainkan status pencatatan kepemilikan, yakni apakah saham tercatat dalam bentuk fisik atau elektronik, yang menentukan apakah pemiliknya masih bisa memperdagangkan sahamnya di bursa setelah tenggat berakhir. Yang perlu dipantau pemegang saham dengan sertifikat fisik adalah batas waktu dematerialisasi pada 6 Mei 2030; sesudahnya saham yang belum dikonversi tidak bisa diperjualbelikan dan berisiko masuk kategori aset tidak diklaim, yang baru bisa ditarik kembali lewat jendela klaim antara 6 Mei 2035 dan 5 Mei 2065.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2030-05-06",
+    "acara": "Batas akhir dematerialisasi saham warkat BNLI"
+   },
+   {
+    "tanggal": "2035-05-06",
+    "acara": "Mulai jendela penarikan saham dari rekening titipan aset tidak diklaim"
+   },
+   {
+    "tanggal": "2065-05-05",
+    "acara": "Akhir jendela penarikan saham dari rekening titipan"
+   }
+  ]
+ },
+ {
   "slug": "kppu-duga-geo-energy-terlambat-lapor-akuisisi-golden-eagle",
   "category": "Energi",
   "title": "KPPU Duga Geo Energy [Terlambat] Lapor Akuisisi Golden Eagle",
@@ -28,6 +97,109 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan konkret di sini bukan soal bisnis kedua perusahaan, melainkan soal kepatuhan administratif, yaitu dugaan penundaan 41 hari kerja dalam melaporkan sebuah akuisisi dengan nilai aset gabungan lebih dari Rp10 triliun. Yang langsung terdampak adalah PT Geo Energy Investama sebagai pihak yang diperiksa, sementara PT Golden Eagle Energy Tbk berstatus objek akuisisi, bukan pihak yang dipersalahkan. Proses ini masih di tahap awal, investigator baru memaparkan dugaan dan bukti, dan pihak yang diperiksa belum memberikan tanggapan resminya. Yang masih kurang untuk mengetahui ke mana kasus ini bergerak, apakah berujung sanksi denda administratif atau tidak, adalah tanggapan Geo Energy Investama dalam sidang 15 Desember 2026 serta putusan akhir Majelis Komisi setelah proses pembuktian selesai."
+ },
+ {
+  "slug": "public-expose-tcpi-11-desember-registrasi-ditutup-10-desember",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose TCPI 11 Desember: [Registrasi] Ditutup 10 Desember",
+  "deck": "TCPI menjadwalkan Public Expose Tahunan secara daring pada 11 Desember 2026 pukul 14.00 WIB, pendaftaran ditutup 10 Desember 2026 pukul 17.00 WIB.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T10:16:29",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_TCPI_E003_eb06c225-066a-4e18-bf9b-3d9585043e2f-20261127101631.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TCPI",
+  "tags": [
+   "TCPI",
+   "Public Expose",
+   "Transcoal Pacific",
+   "BEI"
+  ],
+  "body": [
+   "PT Transcoal Pacific Tbk (TCPI) melaporkan kepada Bursa Efek Indonesia rencana penyelenggaraan Public Expose Tahunan yang akan digelar secara elektronik pada Jumat, 11 Desember 2026, mulai pukul 14.00 WIB hingga selesai. Acara akan disiarkan melalui media telekonferensi Live Event, dengan manajemen yang hadir terdiri dari Direksi dan jajaran manajemen perseroan lainnya. Agenda acara ini adalah paparan publik tahunan kepada investor dan pemegang saham.",
+   "Peserta yang ingin mengikuti acara wajib mendaftar lebih dulu melalui tautan registrasi https://forms.gle/P9bYo33BDfnJUpAR8, dengan masa pendaftaran ditutup pada 10 Desember 2026 pukul 17.00 WIB. Tautan untuk masuk ke acara baru akan dikirimkan ke alamat email yang terdaftar setelah periode registrasi berakhir, dan nama peserta saat login ke aplikasi Zoom harus sesuai dengan data pendaftaran. Surat ini ditandatangani oleh Denry Raymond Lelo selaku Direktur Utama TCPI.",
+   "Sesuai Peraturan I-E Bursa Efek Indonesia, perseroan wajib menyerahkan materi Paparan Publik kepada bursa paling lambat tiga hari bursa sebelum acara berlangsung. TCPI menyatakan akan menyampaikan materi tersebut pada Selasa, 8 Desember 2026."
+  ],
+  "fotoAdegan": "Tugboat pushing a loaded coal barge along a wide brown river under an overcast morning sky",
+  "takeaway": "Laporan ini netral bagi penilaian fundamental TCPI, sebab isinya hanya jadwal dan tata cara pendaftaran acara tahunan, tanpa ada keputusan korporasi atau angka keuangan baru yang diumumkan. Dokumen ini sendiri belum menyentuh pos-pos kinerja seperti ekuitas, arus kas, atau laba per saham, karena yang disampaikan baru rencana acara, bukan isi materi presentasinya, jadi dampaknya ke penilaian perusahaan belum bisa dinilai dari surat ini saja. Yang perlu dipantau selanjutnya adalah materi Paparan Publik yang wajib diserahkan TCPI ke BEI paling lambat 8 Desember 2026, serta pelaksanaan acaranya sendiri pada 11 Desember 2026 pukul 14.00 WIB, karena di situlah biasanya manajemen mengungkap rencana bisnis dan kinerja terbaru perseroan kepada investor.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Rencana Penyelenggaraan Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-08",
+    "acara": "Batas penyampaian materi Paparan Publik ke BEI"
+   },
+   {
+    "tanggal": "2026-12-10",
+    "acara": "Penutupan pendaftaran peserta pukul 17.00 WIB"
+   },
+   {
+    "tanggal": "2026-12-11",
+    "acara": "Pelaksanaan Public Expose Tahunan pukul 14.00 WIB"
+   }
+  ]
+ },
+ {
+  "slug": "obligasi-sukuk-bwpt-tahap-ii-rp550-m-bunga-9-5-12",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi & Sukuk BWPT Tahap II Rp550 M: [Bunga] 9,5%-12%",
+  "deck": "Eagle High Plantations menawarkan obligasi dan sukuk mudharabah tahap II senilai total Rp550 miliar berbunga 9,5-12 persen per tahun, pencatatan di BEI dijadwalkan 3 Desember 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T10:02:10",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BWPT_E019_bf0f3629-d4ba-4551-81f5-847b8ed7409e-20261127100211.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BWPT",
+  "tags": [
+   "BWPT",
+   "Eagle High Plantations",
+   "Obligasi",
+   "Sukuk Mudharabah"
+  ],
+  "body": [
+   "Eagle High Plantations Tbk (BWPT) menyampaikan perbaikan dan/atau penambahan informasi atas dokumen informasi tambahan ringkas untuk Obligasi Berkelanjutan II Tahap II dan Sukuk Mudharabah Berkelanjutan II Tahap II Tahun 2026, yang diunggah ke Bursa Efek Indonesia pada 27 November 2026. Obligasi ini merupakan tahap kedua dari program senilai total Rp1 triliun, setelah tahap pertama menerbitkan Rp100,845 miliar. Pada tahap II ini, perusahaan menawarkan obligasi sebanyak-banyaknya Rp175 miliar dalam tiga seri: Seri A Rp148,85 miliar berbunga 9,5 persen per tahun dengan jangka waktu 370 hari kalender, Seri B Rp2,295 miliar berbunga 11 persen per tahun bertenor 3 tahun, dan Seri C Rp2,145 miliar berbunga 12 persen per tahun bertenor 5 tahun. Dari jumlah itu, Rp153,29 miliar dijamin penuh oleh penjamin emisi (full commitment), sementara sisanya Rp21,71 miliar hanya dijamin dengan kesanggupan terbaik (best effort), artinya jika tidak terjual seluruhnya, perusahaan tidak wajib menerbitkan sisa tersebut.",
+   "Secara paralel, Sukuk Mudharabah Berkelanjutan II juga merupakan tahap kedua dari program senilai total Rp1,5 triliun, setelah tahap pertama menghimpun Rp42,1 miliar. Tahap II sukuk ini ditawarkan sebanyak-banyaknya Rp375 miliar, dengan Seri A Rp327,225 miliar memberi nisbah bagi hasil 6,656 persen dari pendapatan yang dibagihasilkan, setara indikasi imbal hasil 9,5 persen per tahun selama 370 hari. Seri B senilai Rp21,725 miliar memberi nisbah 7,707 persen, setara 11 persen per tahun selama 3 tahun, dan Seri C senilai Rp1,355 miliar memberi nisbah 8,407 persen, setara 12 persen per tahun selama 5 tahun. Sebesar Rp350,305 miliar dijamin penuh, sedangkan sisa Rp24,695 miliar memakai skema kesanggupan terbaik. Bunga obligasi dan bagi hasil sukuk dibayar setiap tiga bulan, dengan pembayaran pertama pada 2 Maret 2027 dan jatuh tempo masing-masing pada 12 Desember 2027 untuk Seri A, 2 Desember 2029 untuk Seri B, dan 2 Desember 2031 untuk Seri C.",
+   "Obligasi dan sukuk ini mendapat peringkat idA- dari Pefindo (idA-(sy) untuk versi syariah) dan irA dari PT Kredit Rating Indonesia (irA(sy) untuk versi syariah). Penjamin pelaksana emisi terdiri dari PT Aldiracita Sekuritas Indonesia, PT BNI Sekuritas, PT BRI Danareksa Sekuritas, PT KB Valbury Sekuritas, dan PT Maybank Sekuritas Indonesia, dengan wali amanat PT Bank Pembangunan Daerah Jawa Barat dan Banten Tbk. Dokumen menyebut bahwa obligasi dan sukuk ini tidak dijamin dengan aset khusus, melainkan dengan seluruh kekayaan perusahaan secara umum dan setara (pari passu) dengan kreditur lain yang tidak dijamin khusus. Risiko utama yang disebutkan adalah fluktuasi harga minyak kelapa sawit (CPO) yang dipengaruhi penawaran, permintaan, dan harga minyak nabati lain secara global."
+  ],
+  "fotoAdegan": "Plantation workers loading palm oil fresh fruit bunches onto a truck in a tropical estate at dawn.",
+  "takeaway": "Laporan ini NETRAL bagi Eagle High Plantations, karena sifatnya hanya kelanjutan mekanis dari program obligasi dan sukuk yang memang sudah berlaku efektif sejak Juni 2026, bukan keputusan baru yang mengubah arah bisnis perusahaan. Pos yang tersentuh adalah beban bunga, yaitu biaya yang harus dibayar perusahaan atas utang baru ini, yang naik karena perusahaan menambah pinjaman berbunga 9,5 sampai 12 persen per tahun dan harus menyiapkan dana pembayaran setiap tiga bulan mulai 2 Maret 2027. Perlu dicatat juga bahwa porsi kesanggupan terbaik, senilai Rp21,71 miliar untuk obligasi dan Rp24,695 miliar untuk sukuk, tidak dijamin terjual penuh oleh penjamin emisi, sehingga dana yang benar-benar terkumpul bisa lebih kecil dari target maksimal Rp550 miliar. Yang perlu dipantau selanjutnya adalah tanggal penjatahan pada 30 November 2026, yang akan menunjukkan apakah seluruh porsi obligasi dan sukuk ini terjual, serta tanggal pencatatan di Bursa Efek Indonesia pada 3 Desember 2026.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Masa penawaran umum obligasi dan sukuk mudharabah tahap II dimulai"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Tanggal penjatahan obligasi dan sukuk mudharabah"
+   },
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Pengembalian uang pemesanan dan distribusi elektronik"
+   },
+   {
+    "tanggal": "2026-12-03",
+    "acara": "Pencatatan obligasi dan sukuk mudharabah di BEI"
+   },
+   {
+    "tanggal": "2027-03-02",
+    "acara": "Pembayaran bunga obligasi dan bagi hasil sukuk pertama"
+   },
+   {
+    "tanggal": "2027-12-12",
+    "acara": "Jatuh tempo Obligasi dan Sukuk Mudharabah Seri A"
+   },
+   {
+    "tanggal": "2029-12-02",
+    "acara": "Jatuh tempo Obligasi dan Sukuk Mudharabah Seri B"
+   },
+   {
+    "tanggal": "2031-12-02",
+    "acara": "Jatuh tempo Obligasi dan Sukuk Mudharabah Seri C"
+   }
+  ]
  },
  {
   "slug": "harga-emas-antam-hari-ini-stabil-di-rp2-501-000-gram",
@@ -21810,8 +21982,8 @@ var ARTICLES = [
  {
   "slug": "rupslb-rock-dijadwalkan-21-desember-dps-cut-off-26-november",
   "category": "Aksi Korporasi",
-  "title": "RUPSLB ROCK Dijadwalkan 21 Desember: [DPS] Cut Off 26 November",
-  "deck": "Rockfields Properti Indonesia (ROCK) akan menggelar RUPSLB pada 21 Desember 2026, pemegang saham tercatat hingga 26 November 2026 berhak hadir.",
+  "title": "RUPSLB ROCK 21 Desember: [Agenda] Ganti Direksi",
+  "deck": "Pemanggilan RUPSLB ROCK terbit 27 November: agenda tunggal rapat 21 Desember adalah persetujuan pergantian susunan direksi, digelar di Noble House, Jakarta Selatan.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "12 November 2026",
   "isoDate": "2026-11-12T13:16:42",
@@ -21821,16 +21993,16 @@ var ARTICLES = [
   "tags": [
    "ROCK",
    "RUPSLB",
-   "Rockfields Properti Indonesia",
-   "RUPS"
+   "Direksi",
+   "Rockfields Properti Indonesia"
   ],
   "body": [
-   "PT Rockfields Properti Indonesia Tbk (ROCK) mengumumkan rencana penyelenggaraan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 21 Desember 2026 pukul 14.00 WIB. Lokasi rapat belum diumumkan secara pasti dan masih menunggu iklan resmi. Pemegang saham yang berhak hadir adalah mereka yang namanya tercatat dalam Daftar Pemegang Saham Perseroan paling lambat 26 November 2026 pukul 16.00 WIB, termasuk pemilik saham dalam sub rekening efek di PT Kustodian Sentral Efek Indonesia (KSEI) pada penutupan perdagangan di hari yang sama.",
-   "Surat pemberitahuan ini belum memuat agenda RUPSLB. Perseroan menyebutkan bahwa pemanggilan resmi, yang biasanya memuat mata acara rapat secara rinci, baru akan diterbitkan pada 27 November 2026 sesuai Pasal 17 ayat (1) POJK Nomor 15/2020. Dokumen ini juga mengingatkan bahwa pemegang saham atau kelompok pemegang saham yang mewakili minimal 1/20 dari seluruh saham berhak suara dapat mengusulkan mata acara rapat, dengan syarat usulan diajukan tertulis ke Direksi paling lambat 7 hari sebelum tanggal pemanggilan, disertai alasan dan bahan usulan, serta tidak bertentangan dengan anggaran dasar maupun aturan yang berlaku.",
-   "Untuk mempermudah partisipasi, Perseroan menghimbau pemegang saham memberikan kuasa secara elektronik lewat fasilitas e-Proxy di sistem Electronic General Meeting System pada aplikasi eASY.KSEI milik KSEI. Fasilitas ini tersedia sejak tanggal pemanggilan rapat pada 27 November 2026 sampai satu hari kerja sebelum RUPSLB digelar."
+   "PT Rockfields Properti Indonesia Tbk (ROCK) menerbitkan panggilan resmi Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Jumat, 27 November 2026, sekaligus mengungkap agenda tunggal rapat yang sebelumnya belum diumumkan: persetujuan perubahan susunan anggota Direksi Perseroan. RUPSLB akan digelar Senin, 21 Desember 2026 pukul 14.00 WIB di Gedung Noble House Lantai 36, Jalan Dr. Ide Anak Agung Gde Agung Kav E4.2, Mega Kuningan, Jakarta Selatan, lokasi yang sebelumnya belum dipastikan.",
+   "Pemegang saham yang berhak hadir atau mewakilkan suaranya adalah mereka yang tercatat dalam Daftar Pemegang Saham Perseroan hingga 26 November 2026 pukul 16.00 WIB, sesuai jadwal yang sudah diumumkan sejak 12 November 2026. Bagi yang berhalangan hadir, Perseroan menyediakan dua jalur kuasa: elektronik lewat fasilitas e-Proxy di aplikasi eASY KSEI yang tersedia sejak tanggal panggilan ini hingga satu hari kerja sebelum rapat, atau surat kuasa konvensional yang aslinya harus sudah diterima PT Adimitra Jasa Korpora selaku Biro Administrasi Efek paling lambat 16 Desember 2026 pukul 14.00 WIB.",
+   "Perseroan menunjuk notaris Ivan Lazuardi untuk membantu pelaksanaan rapat, dengan PT Adimitra Jasa Korpora sebagai pihak independen yang dihimbau menerima kuasa suara dari pemegang saham yang tidak hadir langsung. Perseroan tidak mengirimkan undangan terpisah kepada pemegang saham, sehingga panggilan resmi ini berlaku sebagai undangan bagi seluruh pemegang saham Perseroan."
   ],
   "fotoAdegan": "Modern residential apartment towers under construction with cranes, afternoon light over a Jakarta suburb",
-  "takeaway": "Laporan ini netral bagi ROCK, karena isinya masih sebatas pemberitahuan prosedural soal jadwal dan tata cara RUPSLB, belum memuat agenda atau keputusan apa pun yang bisa dinilai menguntungkan atau merugikan pemegang saham. RUPSLB sendiri adalah forum di mana pemegang saham memberikan suara untuk keputusan besar perusahaan, misalnya perubahan modal, penerbitan saham baru, atau pergantian direksi, sehingga agenda yang nanti diumumkan baru menentukan apakah ada dampak ke pos-pos seperti jumlah saham beredar atau laba per saham. Yang perlu dipantau selanjutnya adalah pemanggilan resmi pada 27 November 2026, karena dokumen itu akan mengungkap agenda sebenarnya dari rapat ini, sementara batas pencatatan pemegang saham yang berhak hadir jatuh pada 26 November 2026 dan rapatnya sendiri digelar 21 Desember 2026.",
+  "takeaway": "Pemanggilan ini netral bagi ROCK: agenda yang terungkap, yakni perubahan susunan direksi, adalah proses kelembagaan rutin yang diatur undang-undang, bukan sinyal tentang kinerja usaha, dan dokumen ini belum menyebut nama direksi yang akan diganti atau diangkat. Pos yang sebenarnya tersentuh bukan angka keuangan, melainkan susunan direksi sendiri, yakni jajaran yang menjalankan operasional perusahaan sehari-hari, sehingga pergantian orang di posisi ini bisa mengubah arah strategi bisnis meski belum ada angka yang berubah di laporan keuangan. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 21 Desember 2026, saat nama anggota direksi baru resmi diputuskan, serta batas akhir penyerahan surat kuasa konvensional pada 16 Desember 2026 pukul 14.00 WIB bagi pemegang saham yang tidak bisa hadir langsung.",
   "sentimen": "netral",
   "peristiwa": "rups",
   "judulIdx": "Pemberitahuan Rencana Rapat Umum Pemegang Saham Luar Biasa",
@@ -21840,14 +22012,23 @@ var ARTICLES = [
     "acara": "Batas akhir pencatatan pemegang saham berhak hadir RUPSLB"
    },
    {
-    "tanggal": "2026-11-27",
-    "acara": "Pemanggilan resmi RUPSLB diterbitkan"
+    "tanggal": "2026-12-16",
+    "acara": "Batas akhir penyerahan surat kuasa konvensional ke BAE"
    },
    {
     "tanggal": "2026-12-21",
-    "acara": "RUPSLB digelar pukul 14.00 WIB"
+    "acara": "RUPSLB digelar pukul 14.00 WIB di Noble House Lt. 36"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T09:58:21",
+    "ringkas": "Pemanggilan resmi RUPSLB ROCK terbit, mengungkap agenda tunggal rapat 21 Desember: persetujuan perubahan susunan direksi.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ROCK_E002_8737cbe8-9d7b-410d-84ac-cafa5d4f1da1-20261127095823.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa"
+   }
+  ],
+  "diperbarui": "2026-11-27T09:58:21"
  },
  {
   "slug": "dividen-interim-powr-rp31-28-per-saham-cair-11-desember-2026",
@@ -32523,8 +32704,8 @@ var ARTICLES = [
  {
   "slug": "agrs-gelar-rupslb-ganti-direktur-utama-dan-status-pma",
   "category": "Aksi Korporasi",
-  "title": "AGRS Gelar RUPSLB, [Ganti] Direktur Utama dan Status PMA",
-  "deck": "Bank IBK Indonesia mengundang RUPSLB 30 November 2026 untuk mengganti direksi dan menegaskan status penanaman modal asing.",
+  "title": "RUPSLB AGRS 30 November: [Waktu Diralat] ke 09.00 WIB",
+  "deck": "Bank IBK Indonesia (AGRS) mengoreksi jam mulai RUPSLB 30 November 2026 dari 13.30 WIB menjadi 09.00 WIB, agenda ganti direksi dan status PMA tidak berubah.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "6 November 2026",
   "isoDate": "2026-11-06T09:57:25",
@@ -32538,13 +32719,37 @@ var ARTICLES = [
    "Direksi"
   ],
   "body": [
-   "PT Bank IBK Indonesia Tbk (AGRS) mengumumkan pemanggilan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang akan digelar Senin, 30 November 2026 pukul 13.30 WIB di Tiara 1-2 Ballroom, Mangkuluhur Artotel Suites, Jakarta. Pemegang saham yang berhak hadir adalah yang namanya tercatat dalam daftar pemegang saham per 5 November 2026 pukul 16.00 WIB. Rapat digelar secara elektronik lewat aplikasi eASY.KSEI, dengan batas pemberian kuasa konvensional pada 27 November 2026 pukul 16.00 WIB dan kuasa elektronik (e-proxy) pada tanggal yang sama.",
-   "Agenda pertama RUPSLB adalah persetujuan perubahan susunan direksi. Dokumen melampirkan riwayat hidup dua calon direksi, yaitu Jang Ji Kyu sebagai calon Direktur Utama, menggantikan Oh In Taek yang telah mengundurkan diri sejak 31 Agustus 2026, dan R Martin Tandya Nugraha Setjadiningrat sebagai calon direktur. Jang Ji Kyu sebelumnya menjabat General Manager Global Business Department di KB Kookmin Bank, Korea Selatan, sementara Martin kini Business Banking Advisor di Bank IBK Indonesia setelah berkarier di Bank Permata, Bank QNB Indonesia, dan Bank Maybank Indonesia.",
-   "Agenda kedua adalah perubahan Pasal 3 Anggaran Dasar mengenai maksud, tujuan, dan kegiatan usaha, untuk menyesuaikan dengan Klasifikasi Baku Lapangan Usaha Indonesia (KBLI) 2025. Perseroan menyebut ini sebagai penyesuaian administratif, bukan perubahan kegiatan usaha. Agenda ketiga adalah penegasan jenis penanaman modal perseroan dari Penanaman Modal Dalam Negeri (PMDN) menjadi Penanaman Modal Asing (PMA). Sesuai dokumen, pemegang saham mayoritas AGRS saat ini adalah Industrial Bank of Korea dengan 91,49 persen, sementara publik memegang 8,51 persen."
+   "PT Bank IBK Indonesia Tbk (AGRS) mengoreksi waktu pelaksanaan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) yang semula dijadwalkan pukul 13.30 WIB menjadi pukul 09.00 WIB. RUPSLB tetap digelar pada tanggal yang sama, Senin, 30 November 2026, di Tiara 1-2 Ballroom, Mangkuluhur Artotel Suites, Jakarta.",
+   "Perseroan menegaskan seluruh mata acara dan ketentuan rapat tidak berubah dari pemanggilan sebelumnya pada 6 November 2026. Agenda pertama tetap persetujuan pergantian susunan direksi, dengan Jang Ji Kyu sebagai calon Direktur Utama menggantikan Oh In Taek yang mengundurkan diri sejak 31 Agustus 2026, dan R Martin Tandya Nugraha Setjadiningrat sebagai calon direktur. Agenda kedua tetap perubahan Pasal 3 Anggaran Dasar untuk menyesuaikan klasifikasi usaha dengan KBLI 2025, dan agenda ketiga tetap penegasan status penanaman modal perseroan dari PMDN menjadi PMA.",
+   "Pemegang saham yang berhak hadir adalah yang tercatat dalam daftar pemegang saham per 5 November 2026 pukul 16.00 WIB. Batas pemberian kuasa konvensional maupun kuasa elektronik (e-proxy) tetap pada 27 November 2026 pukul 16.00 WIB, dan rapat tetap digelar secara elektronik lewat aplikasi eASY.KSEI. Sesuai dokumen, pemegang saham mayoritas AGRS saat ini adalah Industrial Bank of Korea dengan 91,49 persen, sementara publik memegang 8,51 persen."
   ],
   "fotoAdegan": "Exterior of a modern office tower along a busy Jakarta business district avenue, taxis passing, late afternoon light",
-  "takeaway": "RUPSLB ini condong netral bagi performa AGRS karena intinya administratif: mengisi kursi direktur utama yang kosong sejak Oh In Taek mundur Agustus lalu, merapikan klasifikasi usaha sesuai KBLI baru, dan menegaskan status penanaman modal asing yang sebenarnya sudah sesuai kenyataan karena pemegang saham mayoritas, Industrial Bank of Korea, menguasai 91,49 persen saham. Perubahan direksi dan status PMA ini tidak mengubah ekuitas, arus kas, atau jumlah saham beredar perseroan, jadi pelaku pasar biasanya tidak langsung mengaitkannya dengan laba per saham; yang lebih relevan dipantau justru apakah manajemen baru membawa perubahan arah bisnis bank. Yang perlu dicermati berikutnya adalah hasil RUPSLB pada 30 November 2026, terutama apakah kuorum agenda perubahan anggaran dasar yang mensyaratkan kehadiran minimal dua pertiga saham berhak suara tercapai, serta siapa yang akhirnya disahkan sebagai direktur utama definitif AGRS.",
-  "sentimen": "netral"
+  "takeaway": "Ralat ini netral bagi performa AGRS karena isinya cuma koreksi jam rapat dari pukul 13.30 WIB menjadi 09.00 WIB, sementara seluruh agenda, yaitu pergantian direksi, penyesuaian anggaran dasar, dan penegasan status PMA, tidak berubah. Perubahan jadwal semacam ini tidak menyentuh ekuitas, arus kas, beban bunga, jumlah saham beredar, atau laba per saham perseroan, karena sifatnya administratif soal pelaksanaan rapat, bukan keputusan bisnis. Yang perlu dipantau berikutnya adalah hasil RUPSLB pada 30 November 2026 pukul 09.00 WIB, terutama apakah kuorum agenda perubahan anggaran dasar yang mensyaratkan kehadiran minimal dua pertiga saham berhak suara tercapai, dan siapa yang akhirnya disahkan sebagai direktur utama definitif menggantikan Oh In Taek.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T10:58:09",
+    "ringkas": "Waktu mulai RUPSLB AGRS 30 November diralat dari 13.30 WIB jadi 09.00 WIB; agenda tidak berubah.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_AGRS_E002_64e38aff-e73d-4509-82fb-ab57cca9d72f-20261127105811.pdf",
+    "judulIdx": "Pemberitahuan Pemanggilan Rapat Umum Pemegang Saham Luar Biasa (KOREKSI)"
+   }
+  ],
+  "diperbarui": "2026-11-27T10:58:09",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-05",
+    "acara": "Batas daftar pemegang saham yang berhak hadir RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Batas pemberian kuasa konvensional dan e-proxy RUPSLB"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "RUPSLB AGRS, mulai pukul 09.00 WIB (diralat dari 13.30 WIB)"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "csis-akhiri-rencana-jual-saham-kdtn-ke-ruby-mining",

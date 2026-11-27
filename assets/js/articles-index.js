@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "amin-kuartal-iii-2026-laba-naik-36-7-jadi-rp28-2-miliar",
+  "category": "Aksi Korporasi",
+  "title": "AMIN Kuartal III 2026: [Laba] Naik 36,7% Jadi Rp28,2 Miliar",
+  "deck": "Laba bersih AMIN naik 36,7 persen jadi Rp28,23 miliar meski pendapatan turun, sementara aset dan utang melonjak lebih dari 20 persen.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AMIN",
+   "ATMINDO",
+   "laporan keuangan",
+   "boiler"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-81891415-9b64-4f16-81ad-fa471fa106a9-1/FinancialStatement-2026-III-AMIN.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnli-pemegang-saham-warkat-wajib-dematerialisasi-sebelum-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "BNLI: Pemegang Saham Warkat Wajib [Dematerialisasi] Sebelum Mei 2030",
+  "deck": "Bank Permata (BNLI) meminta pemegang saham bersertifikat fisik menukar surat kolektif saham ke bentuk elektronik sebelum 6 Mei 2030, sesuai POJK 9/2025.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNLI",
+   "Bank Permata",
+   "dematerialisasi saham",
+   "POJK 9/2025"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BNLI_E019_671c47b1-60ee-461d-ba11-3535af098948-20261127110753.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "kppu-duga-geo-energy-terlambat-lapor-akuisisi-golden-eagle",
   "category": "Energi",
   "title": "KPPU Duga Geo Energy [Terlambat] Lapor Akuisisi Golden Eagle",
@@ -19,6 +51,38 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kppu.go.id/berita/kppu-duga-geo-energy-investama-terlambat-41-hari-kerja-laporkan-akuisisi-golden-eagle-energy",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "public-expose-tcpi-11-desember-registrasi-ditutup-10-desember",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose TCPI 11 Desember: [Registrasi] Ditutup 10 Desember",
+  "deck": "TCPI menjadwalkan Public Expose Tahunan secara daring pada 11 Desember 2026 pukul 14.00 WIB, pendaftaran ditutup 10 Desember 2026 pukul 17.00 WIB.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TCPI",
+   "Public Expose",
+   "Transcoal Pacific",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_TCPI_E003_eb06c225-066a-4e18-bf9b-3d9585043e2f-20261127101631.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "obligasi-sukuk-bwpt-tahap-ii-rp550-m-bunga-9-5-12",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi & Sukuk BWPT Tahap II Rp550 M: [Bunga] 9,5%-12%",
+  "deck": "Eagle High Plantations menawarkan obligasi dan sukuk mudharabah tahap II senilai total Rp550 miliar berbunga 9,5-12 persen per tahun, pencatatan di BEI dijadwalkan 3 Desember 2026.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BWPT",
+   "Eagle High Plantations",
+   "Obligasi",
+   "Sukuk Mudharabah"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BWPT_E019_bf0f3629-d4ba-4551-81f5-847b8ed7409e-20261127100211.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "harga-emas-antam-hari-ini-stabil-di-rp2-501-000-gram",
@@ -6426,71 +6490,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479128-hadapi-musim-hujan-jasa-marga-perkuat-kesiapan-operasional-jalan-tol"
- },
- {
-  "slug": "pegadaian-ajak-warga-bogor-tanam-pohon-di-hulu-ciliwung",
-  "category": "BUMN",
-  "title": "Pegadaian Ajak Warga Bogor [Tanam] Pohon di Hulu Ciliwung",
-  "deck": "Pegadaian mengajak warga Cisarua, Bogor, menanam pohon dan menebar benih ikan di kawasan hulu Sungai Ciliwung untuk menjaga ketersediaan air bagi wilayah Jabodetabek.",
-  "date": "18 November 2026",
-  "image": "assets/img/pegadaian-ajak-warga-bogor-tanam-pohon-di-hulu-ciliwung.jpg",
-  "imageV": "mwmcq6xm",
-  "tags": [
-   "pegadaian",
-   "lingkungan",
-   "ciliwung",
-   "bogor"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479127-jaga-hulu-ciliwung-pegadaian-ajak-warga-bogor-tanam-pohon-dan-tebar-benih"
- },
- {
-  "slug": "pertamina-perkuat-stok-bbm-lpg-jelang-nataru",
-  "category": "Energi",
-  "title": "Pertamina Perkuat Stok BBM-LPG Jelang [Nataru]",
-  "deck": "Pertamina Patra Niaga menaikkan produksi dan impor BBM serta menggandakan armada kapal demi mengamankan stok BBM dan LPG menjelang libur Natal dan Tahun Baru.",
-  "date": "18 November 2026",
-  "image": "assets/img/pertamina-perkuat-stok-bbm-lpg-jelang-nataru.jpg",
-  "imageV": "mwmcq7ef",
-  "tags": [
-   "pertamina",
-   "bbm",
-   "lpg",
-   "energi"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479123-optimalisasi-kilang-hingga-armada-strategi-pertamina-amankan-stok-bbm-dan-lpg"
- },
- {
-  "slug": "denda-ojk-asli-rp2-7-miliar-lunas-dibayar-sebelum-tenggat",
-  "category": "Aksi Korporasi",
-  "title": "Denda OJK ASLI Rp2,7 Miliar: [Lunas] Dibayar Sebelum Tenggat",
-  "deck": "ASLI membayar lunas denda OJK Rp2,7 miliar atas laporan keuangan yang dinilai tidak andal, plus denda tanggung renteng tiga direksi total Rp645 juta.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASLI",
-   "OJK",
-   "Sanksi Denda",
-   "Laporan Keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f1d3f81e4a_edbae83da0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "menn-utang-melonjak-ke-rp19-74-miliar-di-semester-i-2026",
-  "category": "Aksi Korporasi",
-  "title": "MENN: [Utang] Melonjak ke Rp19,74 Miliar di Semester I 2026",
-  "deck": "Laporan keuangan interim MENN mencatat utang usaha baru Rp19,74 miliar untuk membiayai ekspansi bisnis, meski penjualan inti justru turun.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MENN",
-   "laporan keuangan",
-   "utang usaha",
-   "ekspansi bisnis"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261118214800-65819-0/FinancialStatement-2026-II-MENN.pdf",
-  "sourceLabel": "IDX"
  }
 ];

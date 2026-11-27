@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "XhxUgzEwn3c",
+  "title": "AS-China Tegang soal Rencana Tarif Impor Baru Trump",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintah China menilai rencana Amerika Serikat mengenakan tarif tambahan terhadap sejumlah mitra dagang tidak akan menguntungkan pihak mana pun.",
+  "takeaway": "Eskalasi tarif AS-China berpotensi mengganggu arus perdagangan global yang juga berdampak pada ekspor Indonesia.",
+  "terbit": "2026-11-27T21:30:09+00:00"
+ },
+ {
   "id": "lycd2fYOBJA",
   "title": "Di Pertemuan Tahunan BI, Presiden Prabowo Akui Kinerja Belum Optimal",
   "category": "Moneter",

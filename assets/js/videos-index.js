@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "XhxUgzEwn3c",
+  "title": "AS-China Tegang soal Rencana Tarif Impor Baru Trump",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintah China menilai rencana Amerika Serikat mengenakan tarif tambahan terhadap sejumlah mitra dagang tidak akan menguntungkan pihak mana pun.",
+  "takeaway": "Eskalasi tarif AS-China berpotensi mengganggu arus perdagangan global yang juga berdampak pada ekspor Indonesia."
+ },
+ {
   "id": "lycd2fYOBJA",
   "title": "Di Pertemuan Tahunan BI, Presiden Prabowo Akui Kinerja Belum Optimal",
   "category": "Moneter",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi 2027 sebesar Rp6,13 juta melalui Keputusan Gubernur Nomor 1270 Tahun 2026.",
   "takeaway": "Penetapan UMP berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja perusahaan di Jakarta."
- },
- {
-  "id": "D5w_98Yt74Q",
-  "title": "HIPMI Lantik Pengurus Pusat Periode 2026-2029",
-  "category": "Bisnis",
-  "program": "tvOneNews",
-  "summary": "Badan Pengurus Pusat Himpunan Pengusaha Muda Indonesia melantik kepengurusan baru masa bakti 2026-2029 di Jakarta International Convention Center.",
-  "takeaway": "Pergantian kepengurusan HIPMI penting diikuti karena menyangkut arah advokasi dan jaringan pengusaha muda ke depan."
  }
 ];

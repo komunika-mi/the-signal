@@ -223,7 +223,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah patokan resmi Bank Indonesia untuk dua tahun ke depan: ekonomi diproyeksikan tumbuh 4,9 sampai 5,7 persen pada 2026, naik ke 5,2 sampai 6,0 persen pada 2027, dan bank-bank ditargetkan menyalurkan kredit baru 9 sampai 13 persen lebih banyak pada 2027. Target kredit ini paling langsung menyentuh perbankan, karena jadi acuan seberapa berani bank memperluas pinjaman tahun depan, sekaligus pelaku usaha yang bergantung pada kredit untuk ekspansi bisnis. Arahnya, BI tampak mempertahankan suku bunga sebagai alat utama menjaga stabilitas, sementara aturan permodalan bank dan sistem pembayaran didorong lebih agresif agar kredit bisa tumbuh tanpa harus menurunkan suku bunga acuan. Yang akan menentukan apakah strategi ini berjalan adalah data pertumbuhan kredit perbankan pada awal 2027, karena target 9 sampai 13 persen itu jauh di atas kebiasaan tahun-tahun sebelumnya dan baru akan teruji begitu tahun anggaran baru berjalan.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "smgr-direktur-keuangan-mundur-plt-diisi-wakil-dirut",

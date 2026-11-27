@@ -3,6 +3,67 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "akku-baja-fire-king-kpig-disuspensi-27-november-free-float",
+  "category": "Aksi Korporasi",
+  "title": "AKKU, BAJA, FIRE, KING, KPIG Disuspensi 27 November: [Free Float]",
+  "deck": "BEI menghentikan sementara perdagangan lima saham mulai sesi 27 November 2026 karena laporan kepemilikan saham soal free float dinilai tidak sesuai aturan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T09:02:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_B007_7cff2303-8e28-4c31-8a10-567d887a604c-20261127090220.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "",
+  "tags": [
+   "suspensi saham",
+   "AKKU, BAJA, FIRE, KING, KPIG",
+   "free float",
+   "BEI"
+  ],
+  "body": [
+   "Bursa Efek Indonesia (BEI) menghentikan sementara perdagangan saham lima perusahaan tercatat, yaitu AKKU, BAJA, FIRE, KING, dan KPIG, mulai sesi perdagangan 27 November 2026 di pasar reguler dan tunai. Pengumuman bernomor Peng-S-00039/BEI.PLP/11-2026 yang diteken Bima Ruditya Surya Mulyana menyebut penyebabnya adalah keterbukaan informasi yang tidak memadai terkait saham free float dalam Laporan Bulanan Kegiatan Registrasi Kepemilikan Saham periode 30 September 2026.",
+   "Kelima perusahaan itu adalah PT Anugerah Kagum Karya Utama Tbk (AKKU) dan PT Saranacentral Bajatama Tbk (BAJA) yang tercatat di Papan Pengembangan, PT Alfa Energi Investama Tbk (FIRE) juga di Papan Pengembangan, PT Hoffmen Cleanindo Tbk (KING) di Papan Akselerasi, dan PT MNC Tourism Indonesia Tbk (KPIG) di Papan Utama. Menurut Bursa, laporan kepemilikan saham yang disampaikan kelima emiten ini hingga 26 November 2026 tidak sesuai dengan Peraturan Bursa Nomor I-E tentang Kewajiban Penyampaian Informasi, khususnya soal saham yang tidak bisa dihitung sebagai saham beredar bebas di publik. Suspensi berlaku di pasar reguler dan tunai, dimulai pada sesi pra-pembukaan untuk AKKU, BAJA, FIRE, dan KPIG, serta sesi I untuk KING.",
+   "Bursa menyebut sanksi ini mengacu pada Peraturan Bursa Nomor I-H tentang Sanksi, dan suspensi akan berlaku sampai ada pengumuman lebih lanjut dari Bursa. Artinya, investor yang sudah memegang saham kelima emiten ini untuk sementara tidak bisa menjual atau membeli sahamnya di pasar reguler dan tunai sampai Bursa mencabut status suspensi tersebut."
+  ],
+  "fotoAdegan": "Empty trading terminal desks with blank monitors in a quiet brokerage office, soft morning light, nobody present",
+  "takeaway": "Laporan ini negatif bagi kelima emiten karena suspensi langsung menghentikan hak investor untuk jual beli saham mereka, sekaligus menandakan ada masalah kepatuhan dalam pelaporan data pemegang saham ke Bursa. Yang tersentuh di sini bukan laba atau utang perusahaan, melainkan likuiditas saham, yaitu kemudahan investor mencairkan atau membeli saham di pasar, yang untuk sementara hilang total karena perdagangannya disetop. Soal free float sendiri merujuk pada porsi saham yang beredar bebas di publik dan bisa diperdagangkan, bukan dikuasai pemegang saham pengendali, karena porsi ini dipakai Bursa untuk menilai apakah saham cukup likuid dan wajar harganya. Yang perlu dipantau berikutnya adalah pengumuman lanjutan dari Bursa yang mencabut suspensi ini, yang menurut dokumen baru akan terbit setelah kelima emiten memperbaiki laporan kepemilikan sahamnya sesuai aturan, tanpa tenggat waktu pasti yang disebutkan dalam dokumen.",
+  "sentimen": "negatif",
+  "peristiwa": "suspensi",
+  "judulIdx": "Penghentian Sementara Perdagangan Efek",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Mulai suspensi perdagangan saham di pasar reguler dan tunai"
+   }
+  ]
+ },
+ {
+  "slug": "volatilitas-saham-lion-tak-ada-rencana-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "Volatilitas Saham LION: [Tak Ada] Rencana Aksi Korporasi",
+  "deck": "Merespons surat Bursa soal volatilitas sahamnya, Lion Metal Works (LION) menyatakan tidak ada fakta material baru dan belum berencana aksi korporasi dalam tiga bulan ke depan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T08:26:30",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_LION_E023A_b550fb46-6d18-4a9f-b649-995ddf304d98-20261127082632.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "LION",
+  "tags": [
+   "LION",
+   "Lion Metal Works",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "Lion Metal Works Tbk (LION) menjawab permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, melalui surat bernomor LMW/SS/XI-076/26 tertanggal 27 November 2026 yang ditandatangani Sukmawati Syarif selaku sekretaris perusahaan. Surat ini merupakan balasan atas permintaan BEI No. S-08581/BEI.PP1/07-2026 tanggal 24 November 2026. Perseroan menegaskan tidak ada informasi atau fakta material yang bisa mempengaruhi nilai efeknya selain yang sudah pernah diumumkan ke publik, baik berdasarkan POJK Nomor 31/POJK.04/2015 maupun Peraturan I-E Bursa tentang kewajiban penyampaian informasi.",
+   "Dalam tujuh poin pertanyaan baku yang diajukan Bursa, LION juga menjawab tidak ada informasi atau kejadian penting lain yang material dan belum diungkapkan ke publik, serta tidak mengetahui adanya aktivitas tertentu dari pemegang saham yang perlu dilaporkan sesuai POJK Nomor 11/POJK.04/2017. Perseroan menyatakan belum memiliki rencana aksi korporasi dalam tiga bulan mendatang yang bisa berdampak pada status pencatatan sahamnya di Bursa. Terkait rencana pemegang saham utama dan pengendali atas kepemilikan maupun pengendaliannya di perusahaan, jawaban yang disampaikan juga sama: tidak ada.",
+   "Surat ini terbit hanya empat hari setelah LION menggelar paparan publik pada 23 November 2026 yang mengungkapkan revisi target penjualan 2026 turun 44,5 persen dari rencana awal, sebuah kabar yang kemungkinan menjadi pemicu perdagangan saham yang tidak biasa sehingga memicu pertanyaan Bursa. Dengan jawaban ini, perusahaan menegaskan tidak ada kabar baru di luar yang sudah pernah disampaikan tersebut."
+  ],
+  "fotoAdegan": "Workers welding steel storage racks and filing cabinets on an industrial factory floor, sparks flying, overhead lighting",
+  "takeaway": "Laporan ini netral bagi fundamental Lion Metal Works, karena isinya murni bantahan administratif tanpa data keuangan atau rencana baru, meski muncul tak lama setelah kabar negatif soal revisi penjualan 2026 yang sudah lebih dulu diumumkan perusahaan. Tidak ada pos kinerja seperti ekuitas (modal milik pemegang saham), arus kas, beban bunga, jumlah saham beredar, atau laba per saham yang disinggung di sini, karena surat ini sekadar konfirmasi ada atau tidaknya fakta material, bukan laporan keuangan, sehingga dampaknya ke angka-angka perusahaan nihil. Yang perlu dipantau adalah apakah harga saham LION mereda setelah penjelasan ini terbit atau Bursa kembali meminta klarifikasi lanjutan, serta apakah dalam tiga bulan ke depan, batas waktu yang disebut sendiri oleh perseroan, benar-benar tidak muncul rencana aksi korporasi seperti yang dibantah hari ini.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
   "slug": "foru-right-issue-pmhmetd-i-perbesar-saham-ke-168-3-miliar",
   "category": "Aksi Korporasi",
   "title": "FORU: [Right Issue] PMHMETD I Perbesar Saham ke 168,3 Miliar",

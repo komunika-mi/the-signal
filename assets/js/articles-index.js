@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "akku-baja-fire-king-kpig-disuspensi-27-november-free-float",
+  "category": "Aksi Korporasi",
+  "title": "AKKU, BAJA, FIRE, KING, KPIG Disuspensi 27 November: [Free Float]",
+  "deck": "BEI menghentikan sementara perdagangan lima saham mulai sesi 27 November 2026 karena laporan kepemilikan saham soal free float dinilai tidak sesuai aturan.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "suspensi saham",
+   "AKKU, BAJA, FIRE, KING, KPIG",
+   "free float",
+   "BEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_B007_7cff2303-8e28-4c31-8a10-567d887a604c-20261127090220.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "volatilitas-saham-lion-tak-ada-rencana-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "Volatilitas Saham LION: [Tak Ada] Rencana Aksi Korporasi",
+  "deck": "Merespons surat Bursa soal volatilitas sahamnya, Lion Metal Works (LION) menyatakan tidak ada fakta material baru dan belum berencana aksi korporasi dalam tiga bulan ke depan.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "LION",
+   "Lion Metal Works",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_LION_E023A_b550fb46-6d18-4a9f-b649-995ddf304d98-20261127082632.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "foru-right-issue-pmhmetd-i-perbesar-saham-ke-168-3-miliar",
   "category": "Aksi Korporasi",
   "title": "FORU: [Right Issue] PMHMETD I Perbesar Saham ke 168,3 Miliar",
@@ -6460,38 +6492,6 @@ var ARTICLES = [
    "Bank Mandiri"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a146b1215a_7e8bd1042e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "oils-jelaskan-bei-anak-usaha-ignp-afiliasi-telat-lapor-1-hari",
-  "category": "Aksi Korporasi",
-  "title": "OILS Jelaskan BEI: Anak Usaha IGNP [Afiliasi], Telat Lapor 1 Hari",
-  "deck": "OILS menjelaskan ke BEI bahwa pendirian anak usaha IGNP bersama tiga direksi, yang juga anak Komisaris Utama Sulastri, adalah transaksi afiliasi; pelaporannya telat karena menunggu SK Kemenkumham.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "OILS",
-   "transaksi afiliasi",
-   "anak usaha",
-   "keterbukaan informasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/953d0fefe9_4c6d5f2608.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "medc-corporate-guarantee-atas-surat-utang-us-300-juta",
-  "category": "Aksi Korporasi",
-  "title": "MEDC: [Corporate Guarantee] atas Surat Utang US$300 Juta",
-  "deck": "Medco dan tujuh anak usahanya di Indonesia menjamin surat utang senior US$300 juta berbunga 8,875% yang diterbitkan anak usaha di British Virgin Islands, jatuh tempo 2032.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDC",
-   "obligasi",
-   "corporate guarantee",
-   "transaksi afiliasi"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/dc9806081a_dc31a3e113.pdf",
   "sourceLabel": "IDX"
  }
 ];

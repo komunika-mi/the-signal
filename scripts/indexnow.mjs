@@ -7,10 +7,17 @@
 // dalam hitungan menit. Untuk situs berita yang menjual kesegaran, selisih
 // itu nyata. Yandex, Seznam, dan Naver ikut menerima ping yang sama.
 //
-// Sumber URL-nya news-sitemap.xml, bukan tebakan: berkas itu memang berisi
-// artikel 48 jam terakhir dan dirawat ketat (hanya yang segar, wajib berzona
-// waktu). Ditambah beranda dan halaman arsip karena keduanya ikut berubah
-// setiap ada artikel baru.
+// Sumber URL-nya berita-feed.xml: 50 artikel terbaru, SEMUA artikel, dengan
+// pubDate berzona. Yang dikirim hanya yang terbit dalam 48 jam terakhir.
+// Ditambah beranda dan halaman arsip karena keduanya ikut berubah setiap ada
+// artikel baru.
+//
+// Sampai 27 November 2026 sumbernya news-sitemap.xml. Sejak itu news-sitemap
+// hanya memuat artikel yang boleh tampil di Google (masuk-google.mjs), jadi
+// biasanya kosong, padahal Bing tetap harus diberi tahu setiap artikel baru.
+// JANGAN dikembalikan ke news-sitemap: Bing akan berhenti menerima kabar
+// artikel baru tanpa satu pun pesan galat, karena ping kosong memang
+// sengaja dilewati di bawah.
 //
 // Kuncinya PUBLIK by design - protokol IndexNow memverifikasi kepemilikan
 // lewat berkas kunci yang dihosting di domain sendiri, bukan lewat rahasia.
@@ -90,9 +97,16 @@ try {
 // Seluruh sisanya dipagari kunciSah. Tanpa pagar ini penjaga di atas cuma
 // mencetak peringatan lalu tetap mengirim ping yang membakar kuncinya.
 if (kunciSah) {
-  const sitemapBerita = path.join(ROOT, 'news-sitemap.xml');
-  const urlBaru = fs.existsSync(sitemapBerita)
-    ? [...fs.readFileSync(sitemapBerita, 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g)].map(m => m[1])
+  const feedBerita = path.join(ROOT, 'berita-feed.xml');
+  const batasSegar = Date.now() - 48 * 3600 * 1000;
+  const urlBaru = fs.existsSync(feedBerita)
+    ? fs.readFileSync(feedBerita, 'utf8').split('<item>').slice(1)
+      .map(item => ({
+        link: (item.match(/<link>([^<]+)<\/link>/) || [])[1],
+        terbit: Date.parse((item.match(/<pubDate>([^<]+)<\/pubDate>/) || [])[1] || ''),
+      }))
+      .filter(x => x.link && x.terbit > batasSegar)
+      .map(x => x.link)
     : [];
 
   const urlList = [...new Set([
@@ -103,7 +117,7 @@ if (kunciSah) {
   ])].slice(0, 500);   // batas protokol 10.000; 500 lebih dari cukup
 
   if (urlList.length <= 3) {
-    log('tidak ada artikel segar di news-sitemap; ping dilewati.');
+    log('tidak ada artikel segar (48 jam) di berita-feed.xml; ping dilewati.');
   } else {
     log('ping IndexNow: ' + urlList.length + ' URL (' + urlBaru.length + ' artikel segar)');
     try {

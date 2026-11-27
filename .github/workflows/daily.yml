@@ -536,8 +536,9 @@ jobs:
       - name: Ping IndexNow
         # Bing menyokong indeks ChatGPT Search dan Copilot; ping ini membuat
         # artikel baru terlihat di mesin jawab dalam hitungan menit alih-alih
-        # menunggu giliran perayapan. Sumber URL-nya news-sitemap (48 jam
-        # terakhir), kuncinya publik by design dan di-commit di root.
+        # menunggu giliran perayapan. Sumber URL-nya berita-feed.xml (artikel
+        # 48 jam terakhir), BUKAN news-sitemap yang sejak 27 Nov 2026 hanya
+        # memuat artikel untuk Google. Kuncinya publik by design, di root.
         timeout-minutes: 2
         continue-on-error: true
         run: node scripts/indexnow.mjs

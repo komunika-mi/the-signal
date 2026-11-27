@@ -26,6 +26,7 @@ import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { nilaiRingkas } from './bps-grafik.mjs';
 import { kepalaAnalitik } from './analitik.mjs';
+import { metaGoogle } from './masuk-google.mjs';
 import { SITUS as BASE } from './situs.mjs';
 import { NODE_IDENTITAS, halamanKoleksi } from './identitas.mjs';
 
@@ -63,7 +64,8 @@ const FIELD_INDEKS = ['slug', 'category', 'title', 'deck', 'date', 'image',
 // Indeks klien dipakai kartu beranda dan kotak pencarian, dan diunduh SETIAP
 // pengunjung. 400 menjaganya di sekitar 67 KB. Arsip lengkapnya tetap bisa
 // ditelusuri lewat halaman arsip yang kini berhalaman, lewat rubrik, topik,
-// tema, dan emiten, dan seluruhnya tetap terdaftar di sitemap.
+// tema, dan emiten. (Sejak 27 November 2026 sitemap hanya memuat halaman
+// untuk Google, lihat masuk-google.mjs; arsip dan artikel tidak lagi di sana.)
 export const MAKS_INDEKS_KLIEN = Number(process.env.SIGNAL_INDEKS_KLIEN || 400);
 
 // Satu halaman arsip. 200 artikel sekitar 19 KB terkompresi.
@@ -116,7 +118,8 @@ const FIELD_INDEKS_VIDEO = ['id', 'title', 'category', 'program', 'summary', 'ta
 // Satu halaman tayangan. Terukur 7 September 2026: entri video rata-rata
 // 537 byte mentah, jadi 60 tayangan sekitar 32 KB mentah - seukuran indeks
 // artikel yang sudah berjalan. Arsip penuhnya tetap bisa ditelusuri lewat
-// halaman lanjutan di /arsip-tayangan/ dan seluruhnya terdaftar di sitemap.
+// halaman lanjutan di /arsip-tayangan/. (Sejak 27 November 2026 tayangan
+// tidak lagi di sitemap, lihat masuk-google.mjs.)
 export const PER_HALAMAN_TAYANGAN = Number(process.env.SIGNAL_PER_HALAMAN_VIDEO || 60);
 
 export const jumlahHalamanTayangan = (n) => Math.max(1, Math.ceil(n / PER_HALAMAN_TAYANGAN));
@@ -597,7 +600,9 @@ export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA, TARUH
   // scripts/analitik.mjs supaya beranda dan halaman cetakan head() memakai
   // potongan yang SAMA PERSIS. Beranda paling banyak dibuka, jadi ia yang
   // paling mahal kalau tertinggal.
-  idx = ganti(idx, 'kepala', kepalaAnalitik(), 'index.html');
+  // metaGoogle: meta googlebot noindex untuk halaman yang di luar Google
+  // (masuk-google.mjs). Beranda masuk, jadi di sini kosong.
+  idx = ganti(idx, 'kepala', kepalaAnalitik() + metaGoogle('/'), 'index.html');
   idx = ganti(idx, 'situs', jsonLdSitus(), 'index.html');
   idx = ganti(idx, 'hero', heroHtml(hero), 'index.html');
   idx = ganti(idx, 'ticker', tickerHtml(ARTICLES), 'index.html');
@@ -657,7 +662,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA, TARUH
     '<button class="chip active" data-cat="semua" type="button">Semua<span class="chip-count">' + ARTICLES.length + '</span></button>' +
     cats.map(c => '<button class="chip" data-cat="' + catSlug(c) + '" type="button">' + esc(c) +
       '<span class="chip-count">' + counts[c] + '</span></button>').join(''), 'berita.html');
-  brt = ganti(brt, 'kepala', kepalaAnalitik(), 'berita.html');
+  brt = ganti(brt, 'kepala', kepalaAnalitik() + metaGoogle('/berita.html'), 'berita.html');
   brt = ganti(brt, 'deck', esc(deckArsip(ARTICLES)), 'berita.html');
   brt = ganti(brt, 'situs', jsonLdSitus(halamanKoleksi({
     nama: 'Arsip Berita', url: '/berita.html',
@@ -710,7 +715,7 @@ export function bakeRoot({ ARTICLES, VIDEOS, BPS, HARIAN, PEKANAN, AGENDA, TARUH
   // Halaman 1 saja. Sisanya di /arsip-tayangan/, dipanggang build-pages.mjs.
   const halSatu = VIDEOS.slice(0, PER_HALAMAN_TAYANGAN);
   const totalHalVideo = jumlahHalamanTayangan(VIDEOS.length);
-  vid = ganti(vid, 'kepala', kepalaAnalitik(), 'video.html');
+  vid = ganti(vid, 'kepala', kepalaAnalitik() + metaGoogle('/video.html'), 'video.html');
   // Yang didaftar cuma isi halaman ini, bukan seluruh arsip. CollectionPage
   // yang menyebut item di luar halamannya sendiri itu keterangan yang salah.
   vid = ganti(vid, 'situs', jsonLdSitus(halamanKoleksi({

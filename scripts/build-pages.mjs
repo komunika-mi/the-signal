@@ -11,6 +11,7 @@ import { tanyaArtikel, pantauEmiten } from './telegram-cta.mjs';
 import { NODE_IDENTITAS, RUJUK_ORGANISASI, RUJUK_SITUS, halamanKoleksi, halamanIdentitas, ID_ORGANISASI } from './identitas.mjs';
 import { kanonisasi, slugTopik, daftarTopik } from './entitas.mjs';
 import { KANONIK_GANDA } from './kanonik-ganda.mjs';
+import { masukGoogle, META_LUAR_GOOGLE, DIPERKAYA } from './masuk-google.mjs';
 
 function muat(file) {
   const src = fs.readFileSync(path.join(ROOT, 'assets/js', file), 'utf8');
@@ -35,6 +36,13 @@ const VIDEOS = muat('videos.js');
       console.error('GAGAL: KANONIK_GANDA berantai - ' + utama + ' adalah utama sekaligus duplikat.');
       process.exit(1);
     }
+  }
+  // Daftar artikel yang diperkaya (masuk-google.json) cuma diperingatkan, tidak
+  // menggagalkan build: salah ketik di daftar tangan tidak boleh menghentikan
+  // terbitan otomatis, dan akibatnya ringan (artikel itu tetap di luar Google).
+  for (const slug of DIPERKAYA.keys()) {
+    if (!adaSlug.has(slug)) console.warn('PERINGATAN: masuk-google.json menyebut slug yang tidak ada: ' + slug);
+    else if (KANONIK_GANDA[slug]) console.warn('PERINGATAN: masuk-google.json menyebut duplikat ber-canonical: ' + slug);
   }
 }
 
@@ -691,7 +699,13 @@ function ringkasDesc(d) {
   return p.slice(0, Math.max(p.lastIndexOf(' '), 100)) + '\u2026';
 }
 
+// Halaman yang diberi meta googlebot noindex, dihitung untuk catatan build.
+// Halaman yang sudah ber-noindex robots tidak diberi lagi: robots sudah
+// berlaku untuk Google juga.
+let jumlahLuarGoogle = 0;
 function head(o) {
+  const luarGoogle = !o.noindex && !masukGoogle(o.url);
+  if (luarGoogle) jumlahLuarGoogle++;
   return `<!doctype html>
 <html lang="id">
 <head>
@@ -700,7 +714,7 @@ function head(o) {
 <title>${esc(o.title)} · The Signal</title>
 <meta name="description" content="${esc(ringkasDesc(o.desc))}">
 <link rel="canonical" href="${BASE}${o.canonical || o.url}">
-${o.noindex ? '<meta name="robots" content="noindex, follow">' : ''}
+${o.noindex ? '<meta name="robots" content="noindex, follow">' : ''}${luarGoogle ? META_LUAR_GOOGLE : ''}
 <link rel="alternate" type="application/rss+xml" title="Signal Harian - The Signal" href="${BASE}/feed.xml">
 <link rel="alternate" type="application/rss+xml" title="Berita - The Signal" href="${BASE}/berita-feed.xml">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -2754,9 +2768,16 @@ const urls = ['/', '/signal-harian.html', '/berita.html', '/video.html', '/data-
     return VIDEOS[(hal - 1) * PER_HALAMAN_TAYANGAN]
       ? { loc: urlHalamanTayangan(hal), prio: '0.4' } : null;
   }).filter(Boolean));
+// Sejak 27 November 2026 sitemap hanya memuat halaman yang boleh tampil di
+// Google (masuk-google.mjs). Halaman lain tetap hidup dan tetap terindeks di
+// Bing; artikel barunya dikabarkan ke Bing lewat IndexNow (indexnow.mjs), yang
+// karena itu TIDAK lagi bersumber dari sitemap.
+const urlsGoogle = urls.filter(u => masukGoogle(u.loc));
+console.log('Google: sitemap ' + urlsGoogle.length + ' URL (' + (urls.length - urlsGoogle.length) +
+  ' dikeluarkan), ' + jumlahLuarGoogle + ' halaman ber-meta googlebot noindex');
 fs.writeFileSync(ROOT + '/sitemap.xml',
   '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
-  urls.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +
+  urlsGoogle.map(u => '  <url><loc>' + BASE + u.loc + '</loc>' +
     (u.lastmod ? '<lastmod>' + u.lastmod + '</lastmod>' : '') +
     (u.prio ? '<priority>' + u.prio + '</priority>' : '') + '</url>').join('\n') +
   '\n</urlset>\n', 'utf8');
@@ -2771,8 +2792,12 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
 {
   const NL = String.fromCharCode(10);
   const batas = Date.now() - 2 * 86400000;
+  // Hanya artikel yang boleh tampil di Google (masuk-google.mjs). Karena itu
+  // berkas ini biasanya kosong, dan itu disengaja: sebagian besar artikel
+  // sekarang di luar Google.
   const baru = ARTICLES
     .filter(a => !KANONIK_GANDA[a.slug])
+    .filter(a => masukGoogle(articleUrl(a)))
     .filter(a => a.isoDate && new Date(waktuISO(a.isoDate)).getTime() > batas)
     .slice(0, 1000);
   const isi = baru.map(a =>
@@ -2862,8 +2887,7 @@ fs.writeFileSync(ROOT + '/sitemap.xml',
     '',
     '- [Feed RSS edisi](' + BASE + '/feed.xml): rangkuman Signal Harian dan Mingguan.',
   '- [Feed RSS artikel](' + BASE + '/berita-feed.xml): 50 artikel terbaru, cara termurah memantau kesegaran situs ini.',
-    '- [Sitemap](' + BASE + '/sitemap.xml)',
-    '- [Sitemap berita](' + BASE + '/news-sitemap.xml): artikel dua hari terakhir.',
+    '- [Sitemap](' + BASE + '/sitemap.xml): halaman rangkuman, data, dan analisis buatan kami sendiri. Semua artikel ada di [arsip berita](' + BASE + '/berita.html).',
     '',
     '## Identitas dan tanggung jawab',
     '',
@@ -3189,5 +3213,5 @@ if (fotoHilang.length) {
 
 console.log('article pages:', ARTICLES.length);
 console.log('video pages:', VIDEOS.length);
-console.log('sitemap urls:', urls.length);
+console.log('sitemap urls:', urlsGoogle.length, '(halaman untuk Google; seluruh halaman', urls.length + ')');
 console.log('feed edisi:', ARSIP_HARIAN.length);

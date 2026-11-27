@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dpr-sisir-tiga-uu-agar-ri-mulus-masuk-oecd",
+  "category": "Makroekonomi",
+  "title": "DPR Sisir [Tiga] UU Agar RI Mulus Masuk OECD",
+  "deck": "DPR mengidentifikasi tiga undang-undang yang perlu disinkronkan dengan standar OECD, salah satunya aturan merger dan akuisisi perusahaan.",
+  "date": "27 November 2026",
+  "image": "assets/img/dpr-sisir-tiga-uu-agar-ri-mulus-masuk-oecd.jpg",
+  "imageV": "mwyxzn3y",
+  "tags": [
+   "OECD",
+   "DPR RI",
+   "Persaingan Usaha",
+   "UU Statistik"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480692-dpr-identifikasi-3-uu-yang-perlu-disinkronkan-untuk-aksesi-indonesia-ke-oecd"
+ },
+ {
+  "slug": "ihsg-menguat-1-84-persen-ke-5-338-46-di-tengah-sanksi-bei",
+  "category": "Pasar Modal",
+  "title": "IHSG [Menguat] 1,84 Persen ke 5.338,46 di Tengah Sanksi BEI",
+  "deck": "IHSG ditutup naik 1,84 persen ke 5.338,46, didorong optimisme investor atas sanksi BEI ke lima emiten yang belum membenahi data saham free float.",
+  "date": "27 November 2026",
+  "image": "assets/img/ihsg-menguat-1-84-persen-ke-5-338-46-di-tengah-sanksi-bei.jpg",
+  "imageV": "mwyxznks",
+  "tags": [
+   "IHSG",
+   "BEI",
+   "MSCI",
+   "Free Float"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480683-ihsg-hari-ini-ditutup-menguat-184-persen-ke-posisi-533846"
+ },
+ {
   "slug": "transaksi-afiliasi-bmas-27-november-pinjaman-us-5-juta-dari-kbank",
   "category": "Aksi Korporasi",
   "title": "Transaksi Afiliasi BMAS 27 November: [Pinjaman] US$5 Juta dari KBank",
@@ -6459,32 +6493,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119160617-65805-0/FinancialStatement-2026-III-LINK.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-ppro-pkpu-lancar-right-issue-belum-prioritas",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose PPRO: [PKPU] Lancar, Right Issue Belum Prioritas",
-  "deck": "PP Properti melaporkan kewajiban utang pascarestrukturisasi PKPU terbayar sesuai jadwal, sementara right issue atau private placement belum menjadi fokus perusahaan saat ini.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PPRO",
-   "Public Expose",
-   "PKPU",
-   "PP Properti"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/cbed6aa311_72e76f5fd6.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kppu-dan-jabar-teken-kesepakatan-awasi-persaingan-usaha",
-  "category": "Bisnis",
-  "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
-  "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
-  "date": "19 November 2026",
-  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
-  "tags": [],
-  "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
  }
 ];

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dpr-sisir-tiga-uu-agar-ri-mulus-masuk-oecd",
+  "category": "Makroekonomi",
+  "title": "DPR Sisir [Tiga] UU Agar RI Mulus Masuk OECD",
+  "deck": "DPR mengidentifikasi tiga undang-undang yang perlu disinkronkan dengan standar OECD, salah satunya aturan merger dan akuisisi perusahaan.",
+  "image": "assets/img/dpr-sisir-tiga-uu-agar-ri-mulus-masuk-oecd.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T19:01:50+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480692-dpr-identifikasi-3-uu-yang-perlu-disinkronkan-untuk-aksesi-indonesia-ke-oecd",
+  "tags": [
+   "OECD",
+   "DPR RI",
+   "Persaingan Usaha",
+   "UU Statistik"
+  ],
+  "body": [
+   "DPR RI menyebut ada tiga undang-undang yang perlu disesuaikan agar langkah Indonesia bergabung sebagai anggota Organisation for Economic Co-operation and Development (OECD) bisa berjalan mulus. Ketiganya adalah Undang-Undang Statistik, aturan anti-penyuapan terhadap pejabat asing, dan Undang-Undang Persaingan Usaha. Proses ini penting diikuti karena hasilnya bisa mengubah aturan main bisnis di dalam negeri, bukan sekadar urusan diplomasi antarnegara.",
+   "Wakil Ketua Badan Kerja Sama Antar-Parlemen DPR RI, Ravindra Airlangga, menjelaskan penyesuaian UU Statistik diarahkan untuk memperkuat independensi lembaga statistik nasional. Sementara aturan anti-penyuapan akan menyasar praktik suap kepada pejabat asing oleh pelaku usaha Indonesia. Adapun revisi UU Persaingan Usaha mencakup kewajiban pemberitahuan sebelum merger dan akuisisi, bukan setelahnya seperti aturan yang berlaku sekarang, dengan tujuan mencegah praktik monopoli.",
+   "Ravindra menyampaikan sinkronisasi ini menjadi komitmen parlemen karena keanggotaan OECD dinilai bisa mendorong masuknya investasi asing langsung dari negara-negara anggota. Pembahasan tiga regulasi tersebut akan melibatkan komisi terkait di DPR, misalnya Komisi VI untuk persaingan usaha dan Komisi X untuk statistik. Ia menegaskan proses ini tetap akan memperhitungkan kepentingan nasional Indonesia.",
+   "Menurut Ravindra, sebagian besar regulasi Indonesia sebenarnya sudah sejalan dengan standar OECD, sehingga penyesuaian yang tersisa sifatnya melengkapi, bukan merombak dari awal."
+  ],
+  "fotoAdegan": "Wide exterior view of Indonesia's distinctive saucer-domed parliament building in Jakarta under overcast sky, no people close up",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/27/6b096ed0a46d8-pertemuan-bksap-dpr-ri-dengan-oecd-di-gedung-dpr-ri-jakarta-kamis-26112026-membahas-sinkronisasi-regulasi-untuk-mendukung-aksesi-indonesia-ke-oecd_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah di sini baru satu: syarat merger dan akuisisi berpotensi bergeser dari wajib lapor setelah transaksi menjadi wajib lapor sebelum transaksi disepakati. Kalau ini jadi, yang paling kena dampak adalah perusahaan yang sedang menyiapkan merger atau akuisisi, karena mereka harus mengurus izin lebih awal dan proses transaksi bisa makan waktu lebih lama. Tapi berita ini masih di tahap DPR mengidentifikasi tiga UU yang perlu disinkronkan, belum ada draf revisi, belum ada jadwal pembahasan di Komisi VI atau Komisi X, dan belum ada target tahun Indonesia resmi masuk OECD. Yang masih kurang untuk membaca ke mana arah ini bergerak adalah draf revisi UU Persaingan Usaha itu sendiri serta peta jalan aksesi OECD yang biasanya memuat tenggat waktu, dan keduanya perlu dipantau pada pembahasan lanjutan di DPR.",
+  "imageV": "mwyxzn3y"
+ },
+ {
+  "slug": "ihsg-menguat-1-84-persen-ke-5-338-46-di-tengah-sanksi-bei",
+  "category": "Pasar Modal",
+  "title": "IHSG [Menguat] 1,84 Persen ke 5.338,46 di Tengah Sanksi BEI",
+  "deck": "IHSG ditutup naik 1,84 persen ke 5.338,46, didorong optimisme investor atas sanksi BEI ke lima emiten yang belum membenahi data saham free float.",
+  "image": "assets/img/ihsg-menguat-1-84-persen-ke-5-338-46-di-tengah-sanksi-bei.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T18:16:05+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480683-ihsg-hari-ini-ditutup-menguat-184-persen-ke-posisi-533846",
+  "tags": [
+   "IHSG",
+   "BEI",
+   "MSCI",
+   "Free Float"
+  ],
+  "body": [
+   "Indeks Harga Saham Gabungan (IHSG) di Bursa Efek Indonesia ditutup menguat 96,29 poin atau 1,84 persen ke level 5.338,46 pada perdagangan Jumat (27/11/2026). Indeks LQ45, yang berisi 45 saham dengan likuiditas dan kapitalisasi terbesar, ikut naik 1,60 persen ke posisi 557,03. Penguatan ini berlangsung sepanjang hari, sejak IHSG dibuka di zona hijau pada sesi pagi hingga penutupan sore.",
+   "Kepala Riset Phintraco Sekuritas, Ratna Lim, menyebut penguatan ini ditopang optimisme investor terhadap langkah penegakan aturan oleh otoritas bursa. \"Investor optimis dengan upaya penegakan hukum oleh otoritas akan dapat mengembalikan kepercayaan MSCI dan investor asing terhadap investasi di pasar modal Indonesia,\" ujarnya dalam kajian di Jakarta.",
+   "Penegakan aturan yang dimaksud adalah sanksi yang dijatuhkan BEI pada hari yang sama kepada lima perusahaan tercatat yang tidak memberikan klarifikasi maupun koreksi atas data saham free float, yakni porsi saham yang benar-benar beredar bebas dan bisa diperjualbelikan publik, bukan dikuasai pemegang saham pengendali. Kelima emiten tersebut adalah PT Anugerah Kagum Karya Utama Tbk (AKKU), PT Saranacentral Bajatama Tbk (BAJA), PT Alfa Energi Investama Tbk (FIRE), PT Hoffmen Cleanindo Tbk (KING), dan PT MNC Tourism Indonesia Tbk (KPIG). BEI sebelumnya sudah mengimbau emiten-emiten itu untuk mengecek ulang data free float mereka, namun hingga tenggat penyampaian koreksi Laporan Bulanan Kegiatan Registrasi Kepemilikan Saham pada 26 November 2026, tidak satu pun dari kelima perusahaan itu memperbaiki data saham pengendali dan/atau afiliasinya.",
+   "Pekan depan, pelaku pasar akan mencermati rilis data indeks S&P Global Manufacturing PMI, neraca perdagangan, dan tingkat inflasi sebagai indikator arah ekonomi selanjutnya. Secara teknikal, Phintraco Sekuritas mencatat IHSG masih bertahan di atas rata-rata pergerakan lima hari (MA5) dengan sinyal pelemahan tekanan jual yang menyempit. Jika IHSG mampu bertahan di atas level 5.350 hingga 5.450, indeks berpeluang menguji level 5.500 sampai 5.600."
+  ],
+  "fotoAdegan": "Visitors watching a blurred, angled digital ticker board from a distance inside a modern stock exchange atrium, soft morning light.",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/14/6a7ef97b6908c-ilustrasi-pergerakan-indeks-harga-saham-gabungan-ihsg-di-bursa-efek-indonesia-bei_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah secara konkret adalah BEI menjatuhkan sanksi ke lima emiten, AKKU, BAJA, FIRE, KING, dan KPIG, karena tidak mengoreksi data saham free float mereka sampai tenggat 26 November 2026, padahal data ini dipakai MSCI untuk menghitung bobot saham Indonesia di indeks globalnya. Yang kena dampak langsung adalah kelima emiten itu sendiri, yang berisiko mendapat sanksi lanjutan kalau data tetap tidak dibenahi, sementara pihak yang jadi sasaran upaya pemulihan kepercayaan adalah investor asing dan pengelola dana yang mengacu pada indeks MSCI. Pembacaan arahnya, penegakan ini menunjukkan BEI sedang memperketat kepatuhan pelaporan free float sebagai bagian dari upaya menjaga posisi Indonesia tetap diperhitungkan MSCI, bukan sekadar sanksi administratif biasa. Yang akan memastikan apakah langkah ini cukup adalah apakah BEI menambah sanksi ke emiten lain dengan masalah serupa dalam waktu dekat, dan bagaimana respons MSCI pada evaluasi indeksnya berikutnya.",
+  "imageV": "mwyxznks"
+ },
+ {
   "slug": "transaksi-afiliasi-bmas-27-november-pinjaman-us-5-juta-dari-kbank",
   "category": "Aksi Korporasi",
   "title": "Transaksi Afiliasi BMAS 27 November: [Pinjaman] US$5 Juta dari KBank",
@@ -247,7 +301,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah nilai dagang Indonesia-UEA yang naik 14 persen pada sembilan bulan pertama 2025 dibanding periode sama tahun sebelumnya, menjadi US$5,1 miliar, dengan target pemerintah menembus US$8 miliar pada 2030. Investasi UEA ke Indonesia justru masih kecil, hanya US$169,7 juta tahun ini, membuat UEA baru menjadi investor terbesar ke-22 di Indonesia dari seluruh negara yang menanamkan modal di sini. Pihak yang paling kena dampak dari kerja sama ini adalah pelaku usaha ekspor-impor dua negara serta pekerja di proyek konkret yang disebut pemerintah, seperti tiga pusat data yang sedang dibangun di Jakarta dan Cikarang. Pola ini menunjukkan hubungan ekonomi RI-UEA sekarang lebih digerakkan oleh perdagangan barang ketimbang investasi langsung, dan yang akan menentukan apakah investasi bisa mengejar adalah progres proyek pusat data tersebut serta apakah target dagang US$8 miliar pada 2030 itu benar tercapai atau malah melambat.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "pmjs-dematerialisasi-saham-warkat-tenggat-konversi-6-mei-2030",

@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "7bdY8ZSnKEY",
+  "title": "Krisis Iklim dan Ketahanan Energi Ancam Asia Tenggara",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Negara-negara Asia Tenggara menghadapi tekanan ganda dari krisis iklim dan kerentanan ketahanan energi akibat ketergantungan pada impor bahan bakar fosil. Transisi energi disebut sebagai solusi untuk mengurangi risiko tersebut.",
+  "takeaway": "Ketergantungan impor bahan bakar fosil berdampak langsung pada biaya energi dan ketahanan ekonomi kawasan, sehingga relevan bagi pembaca yang mengikuti isu energi dan perdagangan."
+ },
+ {
   "id": "UPN3sLpAXmA",
   "title": "Beijing Kecam Rencana Trump Naikkan Tarif Impor bagi China",
   "category": "Global",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Presiden Prabowo Subianto menyampaikan optimisme atas manfaat ekonomi konkret serta harapan stabilitas global dalam KTT ke-33 APEC di Shenzhen.",
   "takeaway": "Pernyataan kepala negara di forum APEC dapat memberi sinyal arah kebijakan ekonomi luar negeri Indonesia."
- },
- {
-  "id": "KiGdl0ZZJfY",
-  "title": "Putin Sebut Indonesia Berkekuatan Ekonomi Besar di KTT APEC",
-  "category": "Global",
-  "program": "Kabar Petang",
-  "summary": "Presiden Rusia Vladimir Putin menyebut Indonesia sebagai salah satu negara dengan perekonomian terbesar dan paling cepat berkembang di Asia maupun dunia dalam forum KTT APEC.",
-  "takeaway": "Pengakuan dari pemimpin negara besar bisa menjadi indikator posisi tawar ekonomi Indonesia di kancah global."
  }
 ];

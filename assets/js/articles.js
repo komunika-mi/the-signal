@@ -56,7 +56,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah patokan resmi Bank Indonesia untuk dua tahun ke depan: ekonomi diproyeksikan tumbuh 4,9 sampai 5,7 persen pada 2026, naik ke 5,2 sampai 6,0 persen pada 2027, dan bank-bank ditargetkan menyalurkan kredit baru 9 sampai 13 persen lebih banyak pada 2027. Target kredit ini paling langsung menyentuh perbankan, karena jadi acuan seberapa berani bank memperluas pinjaman tahun depan, sekaligus pelaku usaha yang bergantung pada kredit untuk ekspansi bisnis. Arahnya, BI tampak mempertahankan suku bunga sebagai alat utama menjaga stabilitas, sementara aturan permodalan bank dan sistem pembayaran didorong lebih agresif agar kredit bisa tumbuh tanpa harus menurunkan suku bunga acuan. Yang akan menentukan apakah strategi ini berjalan adalah data pertumbuhan kredit perbankan pada awal 2027, karena target 9 sampai 13 persen itu jauh di atas kebiasaan tahun-tahun sebelumnya dan baru akan teruji begitu tahun anggaran baru berjalan.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "prtl-siapkan-rp755-3-miliar-bayar-pokok-bunga-obligasi-ke-20",
@@ -479,7 +479,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah nilai dagang Indonesia-UEA yang naik 14 persen pada sembilan bulan pertama 2025 dibanding periode sama tahun sebelumnya, menjadi US$5,1 miliar, dengan target pemerintah menembus US$8 miliar pada 2030. Investasi UEA ke Indonesia justru masih kecil, hanya US$169,7 juta tahun ini, membuat UEA baru menjadi investor terbesar ke-22 di Indonesia dari seluruh negara yang menanamkan modal di sini. Pihak yang paling kena dampak dari kerja sama ini adalah pelaku usaha ekspor-impor dua negara serta pekerja di proyek konkret yang disebut pemerintah, seperti tiga pusat data yang sedang dibangun di Jakarta dan Cikarang. Pola ini menunjukkan hubungan ekonomi RI-UEA sekarang lebih digerakkan oleh perdagangan barang ketimbang investasi langsung, dan yang akan menentukan apakah investasi bisa mengejar adalah progres proyek pusat data tersebut serta apakah target dagang US$8 miliar pada 2030 itu benar tercapai atau malah melambat.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "pmjs-dematerialisasi-saham-warkat-tenggat-konversi-6-mei-2030",

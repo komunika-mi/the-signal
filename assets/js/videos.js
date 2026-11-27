@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "7bdY8ZSnKEY",
+  "title": "Krisis Iklim dan Ketahanan Energi Ancam Asia Tenggara",
+  "category": "Energi",
+  "program": "Kabar Utama",
+  "summary": "Negara-negara Asia Tenggara menghadapi tekanan ganda dari krisis iklim dan kerentanan ketahanan energi akibat ketergantungan pada impor bahan bakar fosil. Transisi energi disebut sebagai solusi untuk mengurangi risiko tersebut.",
+  "takeaway": "Ketergantungan impor bahan bakar fosil berdampak langsung pada biaya energi dan ketahanan ekonomi kawasan, sehingga relevan bagi pembaca yang mengikuti isu energi dan perdagangan.",
+  "terbit": "2026-11-27T15:03:32+00:00"
+ },
+ {
   "id": "UPN3sLpAXmA",
   "title": "Beijing Kecam Rencana Trump Naikkan Tarif Impor bagi China",
   "category": "Global",

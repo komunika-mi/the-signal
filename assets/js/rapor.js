@@ -12,8 +12,41 @@
 //
 // JANGAN diedit manual; diisi dan ditagih scripts/rapor-tagih.mjs.
 var RAPOR = {
- "diperbarui": "2026-11-27T06:21:02.228+07:00",
+ "diperbarui": "2026-11-28T05:54:45.251+07:00",
  "entri": [
+  {
+   "id": "2026-11-27-3",
+   "edisi": "2026-11-27",
+   "benang": "Diversifikasi Ekspor Dikejar Sebelum GSP Usai",
+   "klaim": "Pemerintah mengejar perjanjian dagang baru seperti I-EU CEPA dan peningkatan hubungan dagang dengan UEA untuk memperluas pasar ekspor sebelum fasilitas keringanan bea masuk sepihak GSP dicabut Uni Eropa.",
+   "penanda": "Ratifikasi dan implementasi I-EU CEPA, serta realisasi investasi UEA setelah perjanjian dagangnya berjalan.",
+   "tenggat": "2027-01-01",
+   "tenggatLabel": "GSP dicabut Uni Eropa pada awal 2027",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-27-2",
+   "edisi": "2026-11-27",
+   "benang": "Tekanan Utang Masih Terpusat di BUMN Karya",
+   "klaim": "Tekanan utang emiten lapis dua paling berat terpusat di konstruksi BUMN Karya, bukan merata ke semua sektor.",
+   "penanda": "Hasil RUPO Adhi Karya dan kelanjutan proses pembukaan suspensi saham Waskita yang kini masuk tahap syarat administratif ke BEI.",
+   "tenggat": "2026-12-11",
+   "tenggatLabel": "RUPO Adhi Karya pada 11 Desember",
+   "status": "menunggu",
+   "bukti": null
+  },
+  {
+   "id": "2026-11-27-1",
+   "edisi": "2026-11-27",
+   "benang": "Bursa Ketatkan Data Saham Jelang Bobot MSCI",
+   "klaim": "Suspensi lima saham (AKKU, BAJA, FIRE, KING, KPIG) menandakan Bursa sedang merapikan basis data kepemilikan saham menjelang periode yang menentukan bobot saham Indonesia di indeks global MSCI.",
+   "penanda": "Apakah kelima emiten yang disuspensi bisa memenuhi syarat administratif dan kembali diperdagangkan, atau daftar saham yang disuspensi justru bertambah panjang.",
+   "tenggat": null,
+   "tenggatLabel": null,
+   "status": "menunggu",
+   "bukti": null
+  },
   {
    "id": "2026-11-26-3",
    "edisi": "2026-11-26",

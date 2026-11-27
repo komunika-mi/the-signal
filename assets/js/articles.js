@@ -3,6 +3,101 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "prtl-siapkan-rp755-3-miliar-bayar-pokok-bunga-obligasi-ke-20",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Siapkan Rp755,3 Miliar: [Bayar] Pokok-Bunga Obligasi Ke-20",
+  "deck": "PRTL menyatakan siap membayar pokok dan bunga ke-20 Obligasi Berkelanjutan II Tahap II 2021 Seri C senilai Rp755,3 miliar.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T20:55:03",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_PRTL_E019_5d806d68-aaee-4068-9f13-d2ed92c00537-20261127205506.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PRTL",
+  "tags": [
+   "PRTL",
+   "obligasi",
+   "Protelindo",
+   "pembayaran kupon"
+  ],
+  "body": [
+   "PT Profesional Telekomunikasi Indonesia (PRTL) menyatakan siap menyediakan dana untuk pembayaran pokok dan bunga ke-20 dari Obligasi Berkelanjutan II Protelindo Tahap II Tahun 2021 Seri C. Total dana yang disiapkan sebesar Rp755,346 miliar, terdiri dari pokok Rp744 miliar dan bunga Rp11,346 miliar yang dihitung dari bunga tahunan 6,1 persen untuk periode 90 hari.",
+   "Pernyataan ini disampaikan mengacu pada Peraturan Bursa Efek Indonesia Nomor I-E tentang Kewajiban Penyampaian Informasi, yang mewajibkan emiten mengonfirmasi kesiapan dana sebelum tanggal pembayaran kupon dan pokok obligasi. Perusahaan menyebut pembayaran baru akan dieksekusi setelah menerima surat konfirmasi dari PT Kustodian Sentral Efek Indonesia (KSEI) selaku agen pembayaran mengenai batas waktu pembayarannya, dan bukti transfer akan dikirim ke wali amanat pada hari yang sama dengan pembayaran ke KSEI.",
+   "Surat konfirmasi ini ditandatangani oleh Sekretaris Perusahaan Maya Marcella dan ditujukan kepada Direktur BEI I Gede Nyoman Yetna serta Kepala Eksekutif Pengawas Pasar Modal OJK Hasan Fawzi. Perusahaan juga menjelaskan bahwa pelaporan kali ini memakai Form E019 karena formulir khusus untuk pembayaran kupon atau pokok obligasi, Form E029, belum tersedia di sistem IDXNet yang baru."
+  ],
+  "fotoAdegan": "Telecom tower technicians in safety harnesses inspecting a steel lattice structure against a clear blue sky, rural terrain below.",
+  "takeaway": "Laporan ini condong positif bagi PRTL, karena perusahaan memastikan punya dana tunai untuk melunasi pokok dan bunga obligasi sesuai jadwal, tanda tidak ada kendala likuiditas untuk membayar utang yang jatuh tempo. Yang tersentuh adalah arus kas, yaitu uang tunai yang keluar masuk dari kas perusahaan: pembayaran Rp755,3 miliar ini akan mengurangi kas tetapi sekaligus melunasi beban utang obligasi yang tercatat, sehingga beban utang perusahaan berkurang setelah pembayaran selesai. Yang perlu dipantau berikutnya adalah surat konfirmasi dari KSEI mengenai batas waktu pembayaran yang pasti, karena dokumen ini belum menyebut tanggal pembayaran definitif, serta bukti transfer yang akan dikirim perusahaan ke wali amanat begitu pembayaran benar-benar dieksekusi.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "bnba-wapres-komisaris-dan-direktur-kepatuhan-mundur",
+  "category": "Aksi Korporasi",
+  "title": "BNBA: Wapres Komisaris dan Direktur Kepatuhan [Mundur]",
+  "deck": "Wapres Komisaris dan Direktur Kepatuhan BNBA mengajukan mundur 26 November 2026, RUPS wajib memutuskan paling lambat 90 hari kemudian.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T20:25:56",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BNBA_E019_47c2f250-5d4f-40b1-a0e2-8d3f10a3412b-20261127202558.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BNBA",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "Komisaris",
+   "Direktur Kepatuhan"
+  ],
+  "body": [
+   "Bank Bumi Arta Tbk (BNBA) menyampaikan keterbukaan informasi bahwa pada 26 November 2026 perseroan menerima dua surat permintaan pengunduran diri sekaligus. Yang pertama dari I Gusti Agung Rai Wirajaya, yang menjabat Komisaris sekaligus Wakil Presiden Komisaris. Yang kedua dari John David Nehemia Engelen, Direktur yang membawahkan fungsi kepatuhan. Wirajaya sendiri baru diangkat ke kursi Wakil Presiden Komisaris lewat Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) tertanggal 10 September 2026, sehingga masa jabatannya di posisi itu belum sampai tiga bulan ketika surat pengunduran diri itu diajukan.",
+   "Merujuk pada Pasal 8 ayat (3) dan Pasal 27 Peraturan OJK No. 33/2014 tentang Direksi dan Dewan Komisaris, serta Pasal 15 ayat (13) dan Pasal 18 ayat (16) Anggaran Dasar perseroan, BNBA wajib menggelar Rapat Umum Pemegang Saham untuk memutuskan kedua permintaan pengunduran diri tersebut. Batas waktunya paling lambat 90 hari kalender terhitung sejak diterimanya surat permintaan pada 26 November 2026. Perseroan belum mengumumkan tanggal pasti RUPS tersebut maupun nama calon pengganti, dan menyatakan informasi lebih lanjut mengenai pelaksanaannya akan disampaikan kemudian.",
+   "Dalam laporan yang sama, manajemen menyatakan bahwa sepengetahuan mereka belum ada dampak dari peristiwa ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usaha perseroan. Dokumen tidak menyebutkan alasan di balik kedua pengunduran diri tersebut."
+  ],
+  "fotoAdegan": "Facade of a multi-story bank office building in Jakarta with reflective glass windows, busy street traffic below, midday light",
+  "takeaway": "Laporan ini condong netral bagi BNBA: perseroan sendiri menyatakan belum ada dampak operasional atau keuangan, dan dokumen tidak menjelaskan alasan di balik kedua pengunduran diri itu, meski keluarnya dua pejabat senior sekaligus tetap layak dicermati pemegang saham. Yang tersentuh di sini bukan pos keuangan seperti ekuitas atau laba per saham, melainkan tata kelola bank, karena Direktur Kepatuhan bertugas mengawasi agar operasional bank sesuai aturan OJK dan manajemen risiko, sehingga kekosongan posisi ini untuk sementara berarti fungsi pengawasan internal perlu ditangani pihak lain sampai ada pengganti resmi. Wakil Presiden Komisaris yang mundur ini pun baru diangkat lewat RUPSLB 10 September 2026, jadi masa jabatannya di kursi itu belum sampai tiga bulan, durasi yang pendek dan wajar dipertanyakan alasannya. Yang perlu dipantau selanjutnya adalah Rapat Umum Pemegang Saham yang wajib digelar perseroan untuk memutuskan kedua permintaan pengunduran diri ini paling lambat 90 hari kalender sejak 26 November 2026, serta siapa calon pengganti yang akan diajukan untuk mengisi kedua posisi tersebut.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "bafi-lunasi-obligasi-rp100-m-delisting-efektif-30-november",
+  "category": "Aksi Korporasi",
+  "title": "BAFI [Lunasi] Obligasi Rp100 M, Delisting Efektif 30 November",
+  "deck": "BAFI melunasi pokok Rp100 miliar dan bunga terakhir obligasi BAFI03ACN4 pada 27 November, dua hari lebih cepat dari jatuh tempo. Obligasi ini berhenti diperdagangkan di BEI mulai 30 November.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T19:41:17",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BAFI_E019_9ae2b636-6369-445a-9050-4d934f82f69b-20261127194119.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BAFI",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "pelunasan utang",
+   "KSEI"
+  ],
+  "body": [
+   "PT Bussan Auto Finance (BAFI) melalui PT Kustodian Sentral Efek Indonesia (KSEI) pada 27 November 2026 melunasi pokok dan bunga terakhir Obligasi Berkelanjutan III Tahap IV Tahun 2025 Seri A dengan kode BAFI03ACN4. Nilai pokok yang dibayarkan Rp100 miliar, ditambah bunga ke-12 sebesar Rp1.388.889.000 dengan tingkat bunga 5 persen per tahun. Obligasi ini berjangka waktu 370 hari, terbit 19 November 2025, dan sebenarnya baru jatuh tempo 29 November 2026, sehingga pelunasannya dilakukan dua hari lebih cepat dari tenggat.",
+   "Pembayaran dilakukan melalui sistem C-BEST ke sub rekening para pemegang obligasi yang tercatat di KSEI sebagai agen pembayaran. Perusahaan menyebut sejak 30 November 2026, efek BAFI03ACN4 tidak lagi tercatat dan tidak bisa diperdagangkan di Bursa Efek Indonesia. Laporan ditandatangani oleh Sigit Sembodo, Wakil Presiden Direktur BAFI, dengan tembusan kepada BEI, PT Bank Mandiri Tbk selaku wali amanat, KSEI selaku agen pembayaran, serta Fitch Ratings Indonesia dan Pemeringkat Efek Indonesia selaku lembaga pemeringkat.",
+   "Laporan ini melengkapi pengumuman sebelumnya pada 9 November 2026 yang hanya menegaskan jadwal jatuh tempo obligasi tanpa konfirmasi pelunasan. Dokumen kali ini memastikan kewajiban pokok dan bunga tersebut sudah benar-benar dibayarkan tunai kepada pemegang obligasi."
+  ],
+  "fotoAdegan": "Customers parking motorcycles outside a busy vehicle financing branch office on a Jakarta street, midday light.",
+  "takeaway": "Laporan ini condong positif bagi BAFI, karena perusahaan membayar lunas pokok dan bunga terakhir obligasinya dua hari sebelum jatuh tempo, pertanda tidak ada kendala likuiditas untuk menyelesaikan kewajiban utang jangka pendeknya. Yang tersentuh di sini adalah arus kas dan beban utang perusahaan: ada dana sekitar Rp101,4 miliar yang keluar dari kas BAFI untuk membayar pokok dan bunga, tapi sebagai gantinya utang obligasi senilai Rp100 miliar itu hilang dari catatan liabilitas dan beban bunga ke depan dari seri obligasi ini pun berhenti. Bagi investor, pelunasan tepat waktu seperti ini biasanya dibaca sebagai sinyal kemampuan bayar yang sehat, meski perlu diingat BAFI sebagai perusahaan pembiayaan rutin menerbitkan obligasi baru untuk mendanai penyaluran kreditnya. Yang perlu dipantau selanjutnya adalah status resmi delisting obligasi BAFI03ACN4 dari Bursa Efek Indonesia yang berlaku efektif 30 November 2026, serta laporan keuangan BAFI berikutnya untuk melihat bagaimana total utang obligasi perusahaan berubah setelah pelunasan ini.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Pelunasan pokok dan bunga terakhir obligasi BAFI03ACN4"
+   },
+   {
+    "tanggal": "2026-11-29",
+    "acara": "Tanggal jatuh tempo obligasi BAFI03ACN4"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Obligasi BAFI03ACN4 delisting dari Bursa Efek Indonesia"
+   }
+  ]
+ },
+ {
   "slug": "dpr-sisir-tiga-uu-agar-ri-mulus-masuk-oecd",
   "category": "Makroekonomi",
   "title": "DPR Sisir [Tiga] UU Agar RI Mulus Masuk OECD",
@@ -1080,8 +1175,8 @@ var ARTICLES = [
  {
   "slug": "laporan-keuangan-kras-1h2026-laba-us-6-3-juta-balik-dari-rugi",
   "category": "Aksi Korporasi",
-  "title": "Laporan Keuangan KRAS 1H2026: [Laba] US$6,3 Juta, Balik dari Rugi",
-  "deck": "Krakatau Steel membalik rugi jadi laba US$6,3 juta pada semester I 2026, didorong pendapatan naik 36 persen dan keringanan utang restrukturisasi.",
+  "title": "Laporan Keuangan KRAS 9M2026: Laba Bersih US$83,1 Juta, Naik 246%",
+  "deck": "Krakatau Steel membukukan laba bersih US$83,1 juta hingga September 2026, melonjak 246 persen, didorong pendapatan naik 30 persen, meski bisnis inti baja masih merugi secara operasional.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "26 November 2026",
   "isoDate": "2026-11-26T22:15:10",
@@ -1092,18 +1187,29 @@ var ARTICLES = [
    "KRAS",
    "Krakatau Steel",
    "laporan keuangan",
-   "BUMN baja"
+   "laba bersih"
   ],
   "body": [
-   "PT Krakatau Steel (Persero) Tbk menyampaikan laporan keuangan interim yang ditelaah secara terbatas untuk semester pertama 2026, dengan opini wajar tanpa modifikasian dari auditor Amir Abadi Jusuf, Aryanto, Mawar & Rekan. Pada periode Januari hingga Juni 2026, pendapatan usaha konsolidasian KRAS mencapai US$609,2 juta, naik dari US$446,4 juta pada periode yang sama tahun 2025. Laba bruto naik lebih dari dua kali lipat menjadi US$71,0 juta dari US$32,3 juta, dan laba operasi tercatat US$0,6 juta, berbalik dari rugi operasi US$23,0 juta setahun sebelumnya.",
-   "Di luar kinerja operasional, ada tiga pos yang mendongkrak laba periode ini: keuntungan US$27,2 juta dari penyelesaian kewajiban dipercepat dengan keringanan (haircut) atas utang yang direstrukturisasi, keuntungan US$14,2 juta dari divestasi investasi pada entitas asosiasi dan aset keuangan, serta laba selisih kurs bersih US$32,1 juta. Beban keuangan turun menjadi US$48,3 juta dari US$70,2 juta berkat restrukturisasi utang tersebut. Hasilnya, KRAS mencatat laba sebelum pajak US$11,5 juta, berbalik dari rugi US$100,5 juta, dan laba bersih periode berjalan US$6,3 juta, berbalik dari rugi US$105,4 juta. Dari laba bersih itu, bagian yang menjadi hak pemegang saham pemilik entitas induk hanya US$655 ribu, sementara US$5,65 juta menjadi hak pemegang saham nonpengendali di anak usaha.",
-   "Dari sisi posisi keuangan per 30 Juni 2026, total aset KRAS naik menjadi US$2.784,6 juta dari US$2.765,8 juta pada akhir 2025, sementara total ekuitas turun menjadi US$698,1 juta dari US$725,5 juta akibat rugi komprehensif lain sebesar US$33,4 juta dari selisih kurs penjabaran laporan keuangan anak usaha dan entitas asosiasi di luar negeri. Pinjaman jangka pendek melonjak menjadi US$222,2 juta dari US$80,2 juta, sedangkan kas dan setara kas naik menjadi US$90,8 juta dari US$62,0 juta. Dokumen ini juga mencatat perubahan komposisi saham seri Dwiwarna milik Pemerintah Indonesia, dari 1 saham menjadi 154.771.175 saham, yang diimbangi pengurangan jumlah saham seri B dalam jumlah yang sama sehingga total saham beredar KRAS tetap 19.346.396.900 lembar."
+   "PT Krakatau Steel (Persero) Tbk mencatat laba bersih US$83,1 juta untuk periode sembilan bulan yang berakhir 30 September 2026, melonjak 246 persen dibandingkan US$24,0 juta pada periode yang sama tahun 2025. Angka itu tercantum dalam laporan keuangan interim yang disampaikan ke Bursa Efek Indonesia pada 27 November 2026, melanjutkan tren laba yang terus membaik sejak kuartal pertama tahun ini.",
+   "Pendapatan usaha konsolidasian KRAS naik 30 persen menjadi US$919,8 juta dari US$706,1 juta, ditopang kenaikan volume penjualan baja 18 persen menjadi 877,7 ribu ton. Laba bruto naik 82 persen menjadi US$96,7 juta dari US$53,1 juta. Namun bisnis inti baja masih membukukan rugi operasi US$3,7 juta untuk sembilan bulan ini, membaik dibanding rugi operasi US$37,9 juta pada periode yang sama tahun lalu, tetapi justru memburuk dibanding laba operasi tipis US$0,6 juta yang tercatat pada semester pertama 2026, yang berarti kuartal ketiga saja menambah kerugian operasional baru.",
+   "Laba bersih yang melonjak tetap banyak ditopang pos di luar bisnis inti: keuntungan US$128,0 juta dari penyelesaian dipercepat utang restrukturisasi dengan keringanan, keuntungan US$14,2 juta dari divestasi investasi pada entitas asosiasi dan aset keuangan, serta laba selisih kurs bersih US$34,6 juta. Beban keuangan turun menjadi US$71,6 juta dari US$107,0 juta setahun sebelumnya berkat restrukturisasi utang tersebut.",
+   "Dari sisi posisi keuangan per 30 September 2026, total aset KRAS naik menjadi US$2.832,9 juta dari US$2.765,8 juta pada akhir 2025. Total ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham, pulih menjadi US$811,2 juta dari US$725,5 juta di awal tahun, setelah sempat turun ke US$698,1 juta pada akhir semester pertama akibat rugi penjabaran kurs anak usaha di luar negeri. Pinjaman jangka pendek tercatat US$204,9 juta, turun dari US$222,2 juta pada akhir Juni tetapi masih jauh lebih tinggi dari US$80,2 juta di awal tahun, sementara kas dan setara kas turun menjadi US$81,9 juta dari US$90,8 juta pada akhir Juni.",
+   "KRAS juga memiliki obligasi wajib konversi, yaitu surat utang yang pada akhirnya harus ditukar menjadi saham baru, senilai US$114,4 juta per akhir September 2026, turun dari US$120,8 juta di awal tahun. Jumlah saham beredar KRAS tetap 19.346.396.900 lembar, terdiri dari 154.771.175 saham Seri A Dwiwarna milik Pemerintah Indonesia dan 19.191.625.725 saham Seri B. Dalam siaran pers yang menyertai laporan ini, Corporate Secretary KRAS Rariya Budi Harta menyebut pertumbuhan kinerja perusahaan sebagai indikator efektivitas program transformasi yang dijalankan, termasuk dukungan pendanaan modal kerja dari Danantara Indonesia."
   ],
   "fotoAdegan": "Steelworkers in protective gear monitoring molten metal pouring from a furnace inside a large industrial steel mill, sparks flying, dim overcast light",
-  "takeaway": "Laporan ini cenderung netral bagi KRAS: perusahaan berhasil membalik kerugian jadi laba setelah bertahun-tahun merugi, tetapi sebagian besar laba itu berasal dari untung satu kali seperti keringanan utang dan penjualan aset, bukan dari bisnis baja yang marginnya masih tipis. Pos yang tersentuh di sini adalah ekuitas, yaitu kekayaan bersih yang jadi hak pemegang saham setelah dikurangi semua utang, yang justru menyusut jadi US$698,1 juta karena rugi dari penjabaran nilai tukar anak usaha di luar negeri, bukan karena kinerja usaha yang memburuk. Beban bunga, yaitu biaya yang dibayar perusahaan atas pinjamannya, turun jadi US$48,3 juta berkat restrukturisasi utang, tetapi di sisi lain pinjaman jangka pendek melonjak hampir tiga kali lipat jadi US$222,2 juta sehingga KRAS perlu menyiapkan dana tunai dalam waktu dekat untuk membayarnya. Yang perlu dipantau berikutnya adalah laporan keuangan kuartal selanjutnya, untuk melihat apakah laba dari bisnis inti baja terus membaik atau kembali tertekan begitu untung satu kali ini tidak berulang.",
-  "sentimen": "netral",
+  "takeaway": "Laporan ini condong positif bagi KRAS: laba bersih melonjak 246 persen dibandingkan periode yang sama tahun lalu, didorong pendapatan yang benar-benar tumbuh, bukan sekadar rekayasa akuntansi, dan kekayaan bersih perusahaan pulih setelah sempat tergerus pada semester pertama. Pos yang tersentuh di sini adalah ekuitas, yaitu selisih antara aset dan utang yang jadi hak pemegang saham, yang naik menjadi US$811,2 juta dari US$725,5 juta di awal tahun, serta beban bunga yang turun ke US$71,6 juta dari US$107,0 juta karena sebagian utang lama sudah direstrukturisasi. Catatan pentingnya, bisnis inti baja secara kumulatif sembilan bulan masih merugi secara operasional US$3,7 juta, padahal pada semester pertama sempat untung tipis US$0,6 juta, yang berarti kuartal ketiga sendiri menambah rugi operasional baru, sementara pos terbesar penyumbang laba bersih tetap keuntungan nonoperasional dari keringanan utang senilai US$128,0 juta, yang jumlahnya pun menyusut dari US$156,7 juta pada periode yang sama tahun lalu. Yang perlu dipantau berikutnya adalah apakah bisnis baja bisa membalik rugi operasional ini jadi untung secara konsisten, yang baru akan terlihat jelas dari laporan kuartal keempat atau laporan tahunan KRAS berikutnya.",
+  "sentimen": "positif",
   "peristiwa": "lapkeu",
-  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T20:09:28",
+    "ringkas": "Laba bersih KRAS melonjak ke US$83,1 juta hingga September 2026, ekuitas pulih ke US$811,2 juta setelah sempat turun di semester pertama.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-b767f53b-4036-4dae-8ac0-6d0efc9f2452-1/FinancialStatement-2026-III-KRAS.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan Interim yang Tidak Diaudit"
+   }
+  ],
+  "diperbarui": "2026-11-27T20:09:28"
  },
  {
   "slug": "telur-dan-bawang-di-yogyakarta-lebih-murah-dari-harga-acuan",
@@ -35707,8 +35813,8 @@ var ARTICLES = [
  {
   "slug": "emas-panggil-rups-independen-soal-pmthmetd-10",
   "category": "Aksi Korporasi",
-  "title": "EMAS Panggil RUPS Independen soal [PMTHMETD] 10%",
-  "deck": "RUPS pemegang saham independen EMAS pada 26 November 2026 akan memutuskan rencana penambahan modal tanpa hak memesan efek terlebih dahulu sebanyak-banyaknya 10 persen saham baru.",
+  "title": "RUPS Independen EMAS 26 November: [PMTHMETD] 10% Disetujui",
+  "deck": "RUPS independen EMAS menyetujui rencana penambahan modal tanpa hak memesan efek terlebih dahulu (PMTHMETD) sebanyak-banyaknya 10 persen saham baru, dengan dukungan suara yang hampir bulat.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T22:19:27",
@@ -35717,18 +35823,34 @@ var ARTICLES = [
   "emiten": "EMAS",
   "tags": [
    "EMAS",
-   "RUPS",
    "PMTHMETD",
-   "dilusi saham"
+   "RUPS Independen",
+   "Merdeka Gold Resources"
   ],
   "body": [
-   "PT Merdeka Gold Resources Tbk (EMAS), yang sahamnya juga tercatat di Hong Kong Exchanges and Clearing Limited dengan kode 6228, mengirimkan pemanggilan Rapat Umum Pemegang Saham Independen kepada para pemegang sahamnya. Rapat akan digelar secara elektronik pada Kamis, 26 November 2026 pukul 14.00 WIB melalui sistem eASY.KSEI di tautan akses.ksei.co.id. Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat dalam Daftar Pemegang Saham per 3 November 2026.",
-   "Agenda tunggal rapat ini adalah persetujuan rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I (PMTHMETD I). Perseroan mengajukan penerbitan saham baru sebanyak-banyaknya 1.473.136.606 lembar, atau setara paling banyak 10 persen dari total saham yang sudah diterbitkan dan disetor penuh perseroan saat ini yang berjumlah 14.731.366.060 lembar, dengan nilai nominal Rp150 per saham. Karena mekanismenya tanpa hak memesan efek terlebih dahulu, pemegang saham lama tidak otomatis mendapat kesempatan membeli saham baru secara proporsional sesuai porsi kepemilikannya, sehingga agenda ini butuh persetujuan khusus dari pemegang saham independen, yakni mereka yang tidak berafiliasi dengan direksi, komisaris, pemegang saham utama, atau pengendali perseroan.",
-   "Jika disetujui, rapat juga memberi kuasa kepada Dewan Komisaris untuk menetapkan realisasi penerbitan saham, mengubah Pasal 4 Anggaran Dasar sesuai jumlah saham yang benar benar terbit, serta kepada Direksi untuk menegosiasikan perjanjian pengambilan bagian saham, menentukan harga pelaksanaan akhir dengan persetujuan komisaris, dan mencatatkan saham baru di Bursa Efek Indonesia. Keputusan atas agenda ini sah jika dihadiri lebih dari separuh total saham dengan hak suara milik pemegang saham independen, dan disetujui oleh lebih dari separuh suara yang hadir dari kalangan pemegang saham independen tersebut. Dokumen belum menyebutkan harga pelaksanaan final maupun pihak yang akan menyerap saham baru tersebut."
+   "Rapat Umum Pemegang Saham Independen PT Merdeka Gold Resources Tbk (EMAS) yang digelar Kamis, 26 November 2026, menyetujui rencana Penambahan Modal Tanpa Memberikan Hak Memesan Efek Terlebih Dahulu I (PMTHMETD I). Rapat dihadiri pemegang saham independen yang mewakili 2.334.242.756 saham atau 58,15 persen dari seluruh saham independen, memenuhi syarat kuorum lebih dari separuh. Dari suara yang hadir, 2.313.425.256 saham atau 57,63 persen menyatakan setuju, sementara hanya 49.100 saham atau 0,0012 persen yang menolak dan 20.768.400 saham atau 0,52 persen memilih abstain.",
+   "PMTHMETD I memungkinkan EMAS menerbitkan saham baru sebanyak-banyaknya 1.473.136.606 lembar, setara paling banyak 10 persen dari total saham yang sudah diterbitkan dan disetor penuh perseroan saat ini sebanyak 14.731.366.060 lembar, dengan nilai nominal Rp150 per saham. Karena mekanismenya tanpa hak memesan efek terlebih dahulu, pemegang saham lama tidak otomatis mendapat kesempatan membeli saham baru secara proporsional sesuai porsi kepemilikannya.",
+   "Dengan persetujuan ini, Dewan Komisaris EMAS memperoleh kuasa untuk menetapkan realisasi penerbitan saham dan mengubah Pasal 4 Anggaran Dasar sesuai jumlah saham yang benar-benar terbit, sementara Direksi diberi kuasa menegosiasikan perjanjian pengambilan bagian saham serta menentukan harga pelaksanaan akhir dengan persetujuan komisaris. Dokumen hasil RUPS ini belum menyebutkan harga pelaksanaan final maupun pihak yang akan menyerap saham baru tersebut, dan penerbitan saham dapat dilakukan sekaligus atau bertahap."
   ],
   "fotoAdegan": "Workers inspecting rock core samples at an open pit gold mine site in Indonesia, haul trucks in the distance, daylight",
-  "takeaway": "Laporan ini cenderung negatif bagi pemegang saham lama karena rencana penambahan modal tanpa hak memesan efek terlebih dahulu bisa menambah jumlah saham beredar hingga 10 persen tanpa memberi kesempatan proporsional kepada pemegang saham eksisting untuk ikut membeli. Yang tersentuh adalah jumlah saham beredar dan laba per saham, sebab begitu saham baru terbit, laba perusahaan yang sama akan terbagi ke lebih banyak lembar saham sehingga nilai laba per saham berpotensi mengecil, kecuali dana yang masuk nantinya mendorong kinerja perusahaan naik sebanding. Dokumen ini belum menyebutkan siapa calon pembeli saham baru atau untuk apa dana itu akan dipakai, jadi dampak sebenarnya baru akan jelas setelah harga dan pihak penyerap ditentukan. Yang perlu dipantau adalah hasil RUPS pada 26 November 2026, termasuk apakah kuorum pemegang saham independen terpenuhi dan apakah mayoritas dari mereka menyetujui rencana ini, serta pengumuman harga pelaksanaan final yang akan ditetapkan direksi bersama komisaris setelah rapat.",
-  "sentimen": "negatif"
+  "takeaway": "Hasil RUPS ini tetap condong negatif bagi pemegang saham lama, karena restu yang hampir bulat dari pemegang saham independen membuka jalan pasti bagi penambahan saham baru sebanyak-banyaknya 10 persen tanpa memberi kesempatan proporsional kepada pemegang saham eksisting untuk ikut membeli, sesuatu yang sebelumnya baru sebatas rencana dan sekarang sudah mengikat. Yang tersentuh adalah jumlah saham beredar dan laba per saham: begitu saham baru ini terbit, laba perusahaan yang sama akan terbagi ke lebih banyak lembar saham, sehingga nilai laba per saham berpotensi mengecil kecuali dana yang masuk nanti benar-benar mendorong kinerja perusahaan naik sebanding. Harga pelaksanaan dan pihak yang akan menyerap saham baru itu masih belum diumumkan, sehingga besar dampak sebenarnya terhadap pemegang saham lama baru bisa dihitung setelah dua hal itu ditetapkan oleh Direksi bersama Dewan Komisaris. Yang perlu dipantau berikutnya adalah pengumuman harga pelaksanaan final PMTHMETD I dan identitas pihak penyerap saham baru, karena dokumen ini belum memuat tanggal pastinya untuk itu.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T20:48:59",
+    "ringkas": "RUPS independen EMAS menyetujui rencana PMTHMETD I hingga 10 persen saham baru, dengan dukungan suara hampir bulat.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_EMAS_E013_d8cb4520-4710-4d05-9922-6bbf8e7b8fdc-20261127204901.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-27T20:48:59",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-26",
+    "acara": "RUPS Independen EMAS menyetujui rencana PMTHMETD I"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "bri-salurkan-tunjangan-guru-non-asn-rp921-6-miliar",

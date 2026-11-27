@@ -5,6 +5,54 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "prtl-siapkan-rp755-3-miliar-bayar-pokok-bunga-obligasi-ke-20",
+  "category": "Aksi Korporasi",
+  "title": "PRTL Siapkan Rp755,3 Miliar: [Bayar] Pokok-Bunga Obligasi Ke-20",
+  "deck": "PRTL menyatakan siap membayar pokok dan bunga ke-20 Obligasi Berkelanjutan II Tahap II 2021 Seri C senilai Rp755,3 miliar.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PRTL",
+   "obligasi",
+   "Protelindo",
+   "pembayaran kupon"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_PRTL_E019_5d806d68-aaee-4068-9f13-d2ed92c00537-20261127205506.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bnba-wapres-komisaris-dan-direktur-kepatuhan-mundur",
+  "category": "Aksi Korporasi",
+  "title": "BNBA: Wapres Komisaris dan Direktur Kepatuhan [Mundur]",
+  "deck": "Wapres Komisaris dan Direktur Kepatuhan BNBA mengajukan mundur 26 November 2026, RUPS wajib memutuskan paling lambat 90 hari kemudian.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BNBA",
+   "Bank Bumi Arta",
+   "Komisaris",
+   "Direktur Kepatuhan"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BNBA_E019_47c2f250-5d4f-40b1-a0e2-8d3f10a3412b-20261127202558.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bafi-lunasi-obligasi-rp100-m-delisting-efektif-30-november",
+  "category": "Aksi Korporasi",
+  "title": "BAFI [Lunasi] Obligasi Rp100 M, Delisting Efektif 30 November",
+  "deck": "BAFI melunasi pokok Rp100 miliar dan bunga terakhir obligasi BAFI03ACN4 pada 27 November, dua hari lebih cepat dari jatuh tempo. Obligasi ini berhenti diperdagangkan di BEI mulai 30 November.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BAFI",
+   "obligasi",
+   "pelunasan utang",
+   "KSEI"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BAFI_E019_9ae2b636-6369-445a-9050-4d934f82f69b-20261127194119.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dpr-sisir-tiga-uu-agar-ri-mulus-masuk-oecd",
   "category": "Makroekonomi",
   "title": "DPR Sisir [Tiga] UU Agar RI Mulus Masuk OECD",
@@ -574,15 +622,15 @@ var ARTICLES = [
  {
   "slug": "laporan-keuangan-kras-1h2026-laba-us-6-3-juta-balik-dari-rugi",
   "category": "Aksi Korporasi",
-  "title": "Laporan Keuangan KRAS 1H2026: [Laba] US$6,3 Juta, Balik dari Rugi",
-  "deck": "Krakatau Steel membalik rugi jadi laba US$6,3 juta pada semester I 2026, didorong pendapatan naik 36 persen dan keringanan utang restrukturisasi.",
+  "title": "Laporan Keuangan KRAS 9M2026: Laba Bersih US$83,1 Juta, Naik 246%",
+  "deck": "Krakatau Steel membukukan laba bersih US$83,1 juta hingga September 2026, melonjak 246 persen, didorong pendapatan naik 30 persen, meski bisnis inti baja masih merugi secara operasional.",
   "date": "26 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "KRAS",
    "Krakatau Steel",
    "laporan keuangan",
-   "BUMN baja"
+   "laba bersih"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-e20508cb-7200-4d8a-b878-1606dd7b2dcb-1/FinancialStatement-2026-II-KRAS.pdf",
   "sourceLabel": "IDX"
@@ -6442,56 +6490,6 @@ var ARTICLES = [
    "Free Float"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e1fbe89506_5d41aeea6c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "laba-anak-usaha-bri-melonjak-43-5-ditopang-emas-dan-umi",
-  "category": "Perbankan",
-  "title": "Laba Anak Usaha BRI [Melonjak] 43,5%, Ditopang Emas dan UMi",
-  "deck": "Laba perusahaan anak BRI naik 43,5% jadi Rp11,8 triliun hingga September 2026, didorong Holding Ultra Mikro dan bisnis emas Pegadaian.",
-  "date": "19 November 2026",
-  "image": "assets/img/laba-anak-usaha-bri-melonjak-43-5-ditopang-emas-dan-umi.jpg",
-  "imageV": "mwnfe87o",
-  "tags": [
-   "BRI",
-   "Holding Ultra Mikro",
-   "Pegadaian",
-   "laba perbankan"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479244-laba-anak-usaha-bri-melonjak-435-holding-umi-dan-bisnis-emas-jadi-penopang"
- },
- {
-  "slug": "menteri-hukum-luncurkan-gi-tourism-di-dieng",
-  "category": "UMKM",
-  "title": "Menteri Hukum Luncurkan [GI Tourism] di Dieng",
-  "deck": "Kementerian Hukum menggandeng produk indikasi geografis khas daerah dengan sektor wisata, dimulai dari kawasan Dieng, Wonosobo.",
-  "date": "19 November 2026",
-  "image": "assets/img/menteri-hukum-luncurkan-gi-tourism-di-dieng.jpg",
-  "imageV": "mwnfe8mc",
-  "tags": [
-   "indikasi geografis",
-   "GI Tourism",
-   "Kementerian Hukum",
-   "wisata Dieng"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479242-menteri-hukum-resmikan-gi-tourism-angkat-produk-khas-daerah-jadi-magnet-wisata"
- },
- {
-  "slug": "link-kuartal-iii-2026-rugi-melebar-ke-rp1-3-triliun",
-  "category": "Aksi Korporasi",
-  "title": "LINK Kuartal III 2026: [Rugi] Melebar ke Rp1,3 Triliun",
-  "deck": "Rugi bersih Link Net melebar jadi Rp1,3 triliun dalam sembilan bulan 2026, sementara ekuitas perusahaan susut hampir sepertiga dibanding akhir 2025.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "LINK",
-   "Link Net",
-   "laporan keuangan",
-   "rugi bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119160617-65805-0/FinancialStatement-2026-III-LINK.pdf",
   "sourceLabel": "IDX"
  }
 ];

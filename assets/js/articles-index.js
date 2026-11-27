@@ -5,6 +5,38 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "public-expose-wskt-2-des-suspensi-tunggu-syarat-administratif-bei",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose WSKT 2 Des: [Suspensi] Tunggu Syarat Administratif BEI",
+  "deck": "Materi public expose WSKT menunjukkan rugi bersih menyempit dan pendapatan naik 53,7 persen, sementara proses pembukaan suspensi saham masuk tahap syarat administratif ke BEI.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "Suspensi Saham",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_WSKT_E003_f65016ca-0aba-480b-9939-e0193b3e3a13-20261127230122.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cass-kuartal-iii-2026-laba-bersih-naik-7-5-jadi-rp680-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CASS Kuartal III 2026: [Laba] Bersih Naik 7,5% Jadi Rp680 Miliar",
+  "deck": "Laba bersih CASS naik 7,5 persen jadi Rp680,1 miliar pada sembilan bulan 2026, tapi laba untuk pemegang saham induk nyaris stagnan di Rp173 per saham.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CASS",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-ee042733-8b83-46e5-8d1c-684ae1eb18b4-1/FinancialStatement-2026-III-CASS.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "ekspor-ri-ke-uni-eropa-masih-terpusat-di-tiga-negara",
   "category": "Global",
   "title": "Ekspor RI ke Uni Eropa Masih [Terpusat] di Tiga Negara",
@@ -37,6 +69,22 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825726.aspx",
   "sourceLabel": "Bank Indonesia"
+ },
+ {
+  "slug": "smgr-direktur-keuangan-mundur-plt-diisi-wakil-dirut",
+  "category": "Aksi Korporasi",
+  "title": "SMGR: Direktur Keuangan Mundur, [Plt] Diisi Wakil Dirut",
+  "deck": "Sigit Prastowo mundur dari Direktur Keuangan dan Risk Management SMGR untuk pindah ke Jasa Marga; Wakil Dirut Andriano Hosny Panangian ditunjuk sebagai pelaksana tugas.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "Direksi",
+   "Jasa Marga"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_SMGR_E019_23519406-e2f6-4200-912f-2639226c4d24-20261127213623.pdf",
+  "sourceLabel": "IDX"
  },
  {
   "slug": "prtl-siapkan-rp755-3-miliar-bayar-pokok-bunga-obligasi-ke-20",
@@ -6443,56 +6491,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119175115-65818-0/FinancialStatement-2026-II-ARCI.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "pemerintah-pastikan-daya-beli-tumbuh-bukan-melemah",
-  "category": "Makroekonomi",
-  "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
-  "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
-  "date": "19 November 2026",
-  "image": "assets/img/jalan-tol-konstruksi.jpg",
-  "tags": [
-   "daya beli",
-   "konsumsi rumah tangga",
-   "Program Magang Nasional",
-   "Kemenko Perekonomian"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7234/jaga-momentum-pertumbuhan-wamenko-dradjad-tekankan-konsistensi-kebijakan-ekonomi-dan-penguatan-daya-beli",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "kemendag-jatuhkan-sanksi-ke-27-importir-usai-pengawasan-risiko",
-  "category": "Bisnis",
-  "title": "Kemendag Jatuhkan [Sanksi] ke 27 Importir usai Pengawasan Risiko",
-  "deck": "Dari 169 pelaku usaha yang diperiksa khusus Kemendag pada Januari-Oktober 2026, 27 importir dikenai perintah penarikan dan pemusnahan barang, 18 lainnya diberi peringatan.",
-  "date": "19 November 2026",
-  "image": "assets/img/kemendag-jatuhkan-sanksi-ke-27-importir-usai-pengawasan-risiko.jpg",
-  "imageV": "mwnfe7sh",
-  "tags": [
-   "impor",
-   "Kemendag",
-   "pengawasan risiko",
-   "bea cukai"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/dorong-kepatuhan-importir-dan-lindungi-pasar-dalam-negeri-kemendag-perkuat-pengawasan-post-border-berbasis-risiko",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "komisi-ojol-turun-ke-8-persen-pakar-ingatkan-risiko-baru",
-  "category": "Ketenagakerjaan",
-  "title": "Komisi Ojol Turun ke [8 Persen], Pakar Ingatkan Risiko Baru",
-  "deck": "Dosen Unair menilai pembatasan komisi aplikator ojol ke 8 persen justru berisiko menggerus pendapatan pengemudi karena subsidi promo konsumen ikut terpangkas.",
-  "date": "19 November 2026",
-  "image": "assets/img/komisi-ojol-turun-ke-8-persen-pakar-ingatkan-risiko-baru.jpg",
-  "imageV": "mwnlqqgt",
-  "tags": [
-   "ojol",
-   "komisi aplikator",
-   "ojek online",
-   "Universitas Airlangga"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479266-pakar-komisi-8-persen-ojol-berpotensi-timbulkan-masalah-baru"
  }
 ];

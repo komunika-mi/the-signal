@@ -3,6 +3,69 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "public-expose-wskt-2-des-suspensi-tunggu-syarat-administratif-bei",
+  "category": "Aksi Korporasi",
+  "title": "Public Expose WSKT 2 Des: [Suspensi] Tunggu Syarat Administratif BEI",
+  "deck": "Materi public expose WSKT menunjukkan rugi bersih menyempit dan pendapatan naik 53,7 persen, sementara proses pembukaan suspensi saham masuk tahap syarat administratif ke BEI.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T23:01:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_WSKT_E003_f65016ca-0aba-480b-9939-e0193b3e3a13-20261127230122.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "WSKT",
+  "tags": [
+   "WSKT",
+   "Waskita Karya",
+   "Suspensi Saham",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Waskita Karya (Persero) Tbk (WSKT) akan menggelar Public Expose Tahunan 2026 pada Rabu, 2 Desember 2026, pukul 10.00 WIB, secara daring melalui Zoom Webinar. Materi yang disampaikan ke Bursa Efek Indonesia memuat kinerja keuangan sembilan bulan pertama 2026 (9M26) sekaligus perkembangan terbaru proses pembukaan kembali suspensi perdagangan sahamnya.",
+   "Pendapatan usaha WSKT pada 9M26 tercatat Rp8,1 triliun, naik 53,7 persen atau setara tambahan Rp2,84 triliun dibanding periode yang sama tahun lalu, terutama dari kontrak baru yang diperoleh akhir 2025, dengan kontribusi terbesar dari proyek Kementerian Pekerjaan Umum, PT Waskita Sriwijaya Tol, dan PT Trans Jabar Tol. Di sisi lain, laba kotor turun 2,1 persen atau setara Rp20,53 miliar menjadi Rp1,0 triliun, karena kenaikan harga material mengerek beban pokok pendapatan. Rugi bersih menyempit 9,1 persen atau setara Rp325,68 miliar menjadi Rp3,3 triliun, dari Rp3,6 triliun pada periode yang sama tahun lalu, didorong kenaikan pendapatan dan penurunan beban keuangan 1,6 persen menjadi Rp2,8 triliun. Sementara itu, total ekuitas perusahaan terus menyusut dari Rp7,9 triliun di akhir 2024, menjadi Rp3,7 triliun di akhir 2025, dan tersisa Rp1,0 triliun per akhir September 2026, sedangkan total liabilitas mencapai Rp72,0 triliun berbanding total aset Rp73,1 triliun.",
+   "Waskita juga melaporkan progres penyehatan keuangan lewat restrukturisasi utang. Pokok utang Master Restructuring Agreement (MRA) perbankan turun dari Rp26,3 triliun pada Oktober 2024 menjadi Rp23,8 triliun pada Oktober 2026, dengan penurunan pokok Rp2,5 triliun dan pembayaran bunga Rp2,8 triliun, termasuk pelunasan dini sekitar Rp1,5 triliun dari hasil divestasi Tol Cimanggis-Cibitung. Utang Kredit Modal Kerja Perbankan (KMKP) turun dari Rp5,2 triliun menjadi Rp5,0 triliun pada periode yang sama, dengan tenor diperpanjang dua tahun hingga Oktober 2026. Perseroan juga telah merestrukturisasi obligasi non-penjaminan senilai Rp4,7 triliun dalam 4 seri dengan bunga 5 persen per tahun jatuh tempo 2034, serta obligasi dan sukuk penjaminan senilai Rp4,3 triliun dalam 5 seri dengan bunga 6-7 persen per tahun.",
+   "Terkait suspensi saham yang berlaku sejak 8 Mei 2023, Waskita menyatakan telah menyelesaikan seluruh rangkaian restrukturisasi dan klaim penjaminan pemerintah, dengan persetujuan restrukturisasi diperoleh pada 3 September 2026. Saat ini perseroan sedang memenuhi persyaratan administratif kepada Bursa Efek Indonesia sebagai tahap sebelum pembukaan kembali perdagangan sahamnya. Berdasarkan data per 31 Oktober 2026, jumlah saham beredar WSKT mencapai 28.806.807.016 lembar, dengan saham free float sebesar 7.101.173.654 lembar atau 24,65 persen dari saham beredar, dan kapitalisasi pasar Rp5,82 triliun berdasarkan harga saham terakhir Rp202 per lembar. Komposisi pemegang saham saat ini adalah PT Danantara Asset Management 74,60 persen, Badan Pengaturan BUMN 0,75 persen, dan publik 24,65 persen."
+  ],
+  "fotoAdegan": "Workers inspecting rebar on an elevated highway construction site in Indonesia, cranes visible in the background at midday.",
+  "takeaway": "Laporan ini netral bagi Waskita: pendapatan usaha tumbuh 53,7 persen dan rugi bersih menyempit 9,1 persen, tapi ekuitas perusahaan tergerus tajam dari Rp7,9 triliun pada akhir 2024 menjadi hanya Rp1,0 triliun pada September 2026, sehingga sinyal positif dan negatif ini saling menyeimbangkan. Ekuitas adalah selisih antara aset dan utang perusahaan, semacam bantal pengaman bagi pemegang saham jika terjadi masalah keuangan, dan penyusutannya yang cepat berarti bantal itu kian menipis meski beban bunga, yakni biaya pinjaman, berhasil ditekan lewat restrukturisasi utang. Rugi bersih yang menyempit juga penting dipantau karena jadi penanda seberapa jauh Waskita dari titik impas setelah bertahun-tahun merugi. Yang perlu dipantau selanjutnya adalah Public Expose Tahunan pada 2 Desember 2026, saat manajemen akan menjelaskan langsung angka-angka ini ke investor, serta kelanjutan pemenuhan syarat administratif ke Bursa Efek Indonesia yang akan menentukan kapan saham WSKT, yang disuspensi sejak Mei 2023, bisa diperdagangkan kembali.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Public Expose Tahunan 2026 WSKT, daring via Zoom Webinar"
+   }
+  ]
+ },
+ {
+  "slug": "cass-kuartal-iii-2026-laba-bersih-naik-7-5-jadi-rp680-miliar",
+  "category": "Aksi Korporasi",
+  "title": "CASS Kuartal III 2026: [Laba] Bersih Naik 7,5% Jadi Rp680 Miliar",
+  "deck": "Laba bersih CASS naik 7,5 persen jadi Rp680,1 miliar pada sembilan bulan 2026, tapi laba untuk pemegang saham induk nyaris stagnan di Rp173 per saham.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T22:56:31",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-ee042733-8b83-46e5-8d1c-684ae1eb18b4-1/FinancialStatement-2026-III-CASS.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CASS",
+  "tags": [
+   "CASS",
+   "laporan keuangan",
+   "kuartal III 2026",
+   "dividen"
+  ],
+  "body": [
+   "PT Cahaya Aero Services Tbk (CASS) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang sudah ditelaah secara terbatas oleh KAP Purwanto Susanti dan Surja, anggota jaringan Ernst & Young, dengan partner penandatangan Damestar Hutagalung. Hasil reviu menyatakan tidak ada hal yang membuat auditor meyakini laporan keuangan tidak disajikan secara wajar. Pendapatan dari kontrak dengan pelanggan naik 5,9 persen menjadi Rp2,51 triliun dari Rp2,37 triliun pada periode yang sama tahun lalu. Laba bersih konsolidasi naik 7,5 persen menjadi Rp680,1 miliar dari Rp632,9 miliar, dan laba per saham dasar naik dari Rp171 menjadi Rp173.",
+   "Namun dari laba bersih itu, bagian yang menjadi hak pemegang saham induk CASS hanya Rp361,7 miliar, naik tipis 1,1 persen dari Rp357,8 miliar tahun lalu. Sisanya, Rp318,5 miliar, menjadi hak pemegang saham non-pengendali di anak usaha, naik 15,7 persen dari Rp275,2 miliar. Di sisi laporan posisi keuangan, total aset Perseroan per 30 September 2026 tercatat Rp3,45 triliun, naik dari Rp3,23 triliun pada akhir 2025. Total liabilitas turun menjadi Rp856,5 miliar dari Rp978,8 miliar, sementara total ekuitas naik menjadi Rp2,59 triliun dari Rp2,25 triliun. Kas dan setara kas bertambah menjadi Rp1,99 triliun dari Rp1,77 triliun.",
+   "Selama sembilan bulan ini, anak-anak usaha CASS membagikan dividen tunai Rp345,4 miliar kepada pemegang saham non-pengendali, lebih besar dari dividen tunai sepanjang tahun 2025 yang sebesar Rp256 miliar. Akibatnya, ekuitas kepentingan non-pengendali justru turun menjadi Rp687,9 miliar dari Rp711,8 miliar meski laba untuk kelompok ini naik. CASS mengonsolidasikan sejumlah anak usaha, antara lain PT Jasa Angkasa Semesta Tbk yang bergerak di jasa penanganan darat angkutan udara dengan kepemilikan 50,1 persen dan aset Rp1,69 triliun, PT JAS Aero Engineering Services yang bergerak di perbengkelan pesawat dengan kepemilikan 51 persen dan aset Rp259,1 miliar, PT Purantara Mitra Angkasa Dua yang bergerak di jasa boga di Bandara Soekarno-Hatta dengan kepemilikan 78,3 persen dan aset Rp387,6 miliar, serta PT Cardig Anugrah Sarana Catering yang bergerak di jasa boga dengan kepemilikan penuh dan aset Rp32,3 miliar. Satu anak usaha lain, PT Cardig Anugrah Sarana Bersama, tercatat dalam proses likuidasi dan tidak lagi beroperasi."
+  ],
+  "fotoAdegan": "Airport ground crew loading cargo onto a conveyor belt beside a parked airliner on the tarmac at dusk.",
+  "takeaway": "Secara fundamental laporan ini netral karena perbaikan di laporan posisi keuangan tidak otomatis dinikmati pemegang saham publik CASS: ekuitas konsolidasi naik 15 persen dan utang turun 12,5 persen, tapi laba per saham cuma bergerak dari Rp171 menjadi Rp173, nyaris stagnan. Penyebabnya, dari kenaikan laba bersih 7,5 persen menjadi Rp680,1 miliar, porsi yang mengalir ke pemegang saham pengendali atau induk hanya naik 1,1 persen, sementara porsi untuk pemegang saham minoritas di anak usaha seperti JAS dan Purantara Mitra Angkasa Dua melonjak 15,7 persen. Laba per saham penting dipantau karena angka itu yang langsung menunjukkan bagian laba perusahaan untuk setiap lembar saham milik investor publik, berbeda dari laba bersih konsolidasi yang juga mencakup bagian pemegang saham anak usaha. Ekuitas kepentingan non-pengendali di anak usaha malah turun 3,4 persen menjadi Rp687,9 miliar karena anak-anak usaha membagikan dividen tunai Rp345,4 miliar ke pemegang saham minoritasnya dalam sembilan bulan ini, lebih besar dari laba yang mereka terima. Dokumen ini tidak menyebut tanggal RUPS atau agenda korporasi berikutnya, sehingga yang perlu dicermati adalah apakah pertumbuhan laba untuk pemegang saham induk CASS bisa membaik di laporan tahunan berikutnya.",
+  "sentimen": "netral",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+ },
+ {
   "slug": "ekspor-ri-ke-uni-eropa-masih-terpusat-di-tiga-negara",
   "category": "Global",
   "title": "Ekspor RI ke Uni Eropa Masih [Terpusat] di Tiga Negara",
@@ -57,6 +120,34 @@ var ARTICLES = [
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah patokan resmi Bank Indonesia untuk dua tahun ke depan: ekonomi diproyeksikan tumbuh 4,9 sampai 5,7 persen pada 2026, naik ke 5,2 sampai 6,0 persen pada 2027, dan bank-bank ditargetkan menyalurkan kredit baru 9 sampai 13 persen lebih banyak pada 2027. Target kredit ini paling langsung menyentuh perbankan, karena jadi acuan seberapa berani bank memperluas pinjaman tahun depan, sekaligus pelaku usaha yang bergantung pada kredit untuk ekspansi bisnis. Arahnya, BI tampak mempertahankan suku bunga sebagai alat utama menjaga stabilitas, sementara aturan permodalan bank dan sistem pembayaran didorong lebih agresif agar kredit bisa tumbuh tanpa harus menurunkan suku bunga acuan. Yang akan menentukan apakah strategi ini berjalan adalah data pertumbuhan kredit perbankan pada awal 2027, karena target 9 sampai 13 persen itu jauh di atas kebiasaan tahun-tahun sebelumnya dan baru akan teruji begitu tahun anggaran baru berjalan.",
   "fotoGagal": 2
+ },
+ {
+  "slug": "smgr-direktur-keuangan-mundur-plt-diisi-wakil-dirut",
+  "category": "Aksi Korporasi",
+  "title": "SMGR: Direktur Keuangan Mundur, [Plt] Diisi Wakil Dirut",
+  "deck": "Sigit Prastowo mundur dari Direktur Keuangan dan Risk Management SMGR untuk pindah ke Jasa Marga; Wakil Dirut Andriano Hosny Panangian ditunjuk sebagai pelaksana tugas.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T21:36:21",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_SMGR_E019_23519406-e2f6-4200-912f-2639226c4d24-20261127213623.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "SMGR",
+  "tags": [
+   "SMGR",
+   "Semen Indonesia",
+   "Direksi",
+   "Jasa Marga"
+  ],
+  "body": [
+   "PT Semen Indonesia (Persero) Tbk mengumumkan pengunduran diri Sigit Prastowo dari jabatan Direktur Keuangan dan Risk Management. Surat pengunduran dirinya diterima perusahaan pada 25 November 2026. Sigit mundur karena diangkat sebagai Direktur Keuangan dan Manajemen Risiko di PT Jasa Marga (Persero) Tbk.",
+   "Untuk mengisi kekosongan itu, Dewan Komisaris SMGR pada 26 November 2026 menunjuk Andriano Hosny Panangian, yang saat ini menjabat Wakil Direktur Utama, sebagai Pelaksana Tugas (Plt) Direktur Keuangan dan Risk Management. Penunjukan ini tertuang dalam Keputusan Dewan Komisaris Nomor 011/SIG/Kep.DK/11.2026 tanggal 26 November 2026, dengan tujuan memastikan kesinambungan tugas dan kewenangan di posisi tersebut sampai pejabat definitif diangkat.",
+   "Perseroan menyatakan akan mengikuti ketentuan anggaran dasar dan peraturan perundang-undangan yang berlaku, termasuk menyelenggarakan Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) untuk menetapkan direktur keuangan definitif. Jadwal RUPSLB itu belum diumumkan dan akan disampaikan kemudian. Perusahaan juga menegaskan tidak ada dampak material dari peristiwa ini terhadap kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Wide view of a large cement plant with grey silos and conveyor belts, workers in hard hats near a loading bay, overcast sky",
+  "takeaway": "Pergantian ini tergolong netral bagi SMGR karena Sigit Prastowo mundur untuk pindah ke jabatan setara di BUMN lain, bukan dipicu masalah kinerja atau sengketa internal, dan kursinya langsung diisi Andriano Hosny Panangian yang levelnya sudah Wakil Direktur Utama. Jabatan Direktur Keuangan dan Risk Management mengurus arus kas, utang, dan mitigasi risiko keuangan perusahaan semen pelat merah ini, jadi pelaku pasar biasanya mencermati siapa yang memegangnya agar strategi pendanaan tidak terganggu selama masa transisi. Karena posisi definitif baru akan ditetapkan lewat RUPSLB yang jadwalnya belum diumumkan, yang perlu dipantau berikutnya adalah kapan tanggal rapat itu diumumkan dan siapa kandidat yang diajukan sebagai direktur keuangan tetap.",
+  "sentimen": "netral",
+  "peristiwa": "pengurus",
+  "judulIdx": "Pengunduran Diri Direksi dan/atau Komisaris"
  },
  {
   "slug": "prtl-siapkan-rp755-3-miliar-bayar-pokok-bunga-obligasi-ke-20",

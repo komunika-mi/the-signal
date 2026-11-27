@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik",
+  "category": "BUMN",
+  "title": "Karyawan Telkom [Tanam] 1.000 Mangrove di Pesisir Gresik",
+  "deck": "Karyawan TelkomGroup lewat program TESA menanam 1.000 bibit mangrove bersama warga Desa Banyuurip, Gresik, sebagai bagian pemulihan ekosistem pesisir Jawa Timur.",
+  "image": "assets/img/karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T12:49:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480619-karyawan-telkom-tanam-1000-mangrove-di-pesisir-gresik-bentuk-jaga-lingkungan",
+  "tags": [
+   "Telkom",
+   "Mangrove",
+   "Gresik",
+   "Lingkungan"
+  ],
+  "body": [
+   "Karyawan TelkomGroup yang bergabung dalam program Telkom Employee Social Activity (TESA) turun langsung ke Desa Banyuurip, Kecamatan Ujungpangkah, Kabupaten Gresik, Jawa Timur, untuk menanam 1.000 bibit mangrove bersama warga setempat. Kegiatan ini jadi bagian dari upaya PT Telkom Indonesia (Persero) Tbk memulihkan ekosistem pesisir yang kian tergerus, sekaligus menunjukkan bagaimana perusahaan digital ikut terlibat langsung dalam urusan lingkungan, bukan sekadar lewat dana sponsor.",
+   "Senior General Manager Social Responsibility Telkom Indonesia, Hery Susanto, menyebut pelestarian lingkungan sebagai tanggung jawab bersama yang perlu melibatkan dunia usaha dan karyawannya sendiri. Program bertajuk Aksi Lestari ini, menurut dia, dirancang agar karyawan tidak hanya mendukung dari belakang meja tapi ikut bekerja di lapangan bersama masyarakat, sejalan dengan semangat perusahaan yang disebut Bersama Jadi Bisa.",
+   "Penanaman ini menyasar titik pesisir yang dinilai butuh penguatan vegetasi, mengingat mangrove berfungsi sebagai penahan abrasi, tempat hidup berbagai satwa, dan penyerap karbon yang membantu meredam dampak perubahan iklim. Berdasarkan data yang dikutip Wahana Lingkungan Hidup Indonesia (WALHI) pada 2024, luas kawasan mangrove di Jawa Timur sudah menyusut jauh dibanding kondisi pada 1985, kondisi yang menjadi alasan mengapa upaya rehabilitasi seperti ini dianggap mendesak.",
+   "Aksi Lestari merupakan bagian dari pilar lingkungan bernama BISA Lestari, yang menjadi payung TelkomGroup untuk mendorong karyawannya ikut ambil bagian dalam kegiatan pelestarian alam. Lewat kelompok TESA, perusahaan berharap kepedulian terhadap lingkungan bisa menjadi kebiasaan sehari-hari karyawan, bukan sekadar kegiatan seremonial tahunan."
+  ],
+  "fotoAdegan": "Volunteers in boots planting young mangrove saplings along a muddy coastal shoreline, tidal flats, overcast morning sky",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/27/6b0917c50d592-karyawan-telkomgroup-yang-tergabung-dalam-telkom-employee-social-activity-tesa_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang konkret berubah hanya satu angka: 1.000 bibit mangrove ditanam di satu desa pesisir Gresik oleh karyawan Telkom lewat program TESA, bagian dari pilar BISA Lestari. Yang terdampak langsung adalah ekosistem pesisir Desa Banyuurip dan warga setempat, sementara bagi Telkom ini masuk program tanggung jawab sosial karyawan, bukan proyek bisnis inti. Berita ini tidak menyebut berapa total luas lahan yang sudah atau akan direhabilitasi TelkomGroup secara nasional, sudah berapa kali program Aksi Lestari berjalan, atau target luas mangrove yang ingin dicapai, sehingga belum bisa disimpulkan apakah ini aksi tahunan simbolis atau bagian dari target keberlanjutan yang terukur. Data WALHI yang dikutip soal penyusutan mangrove Jawa Timur sejak 1985 juga tidak disertai angka pasti, jadi besarnya masalah yang coba diatasi lewat penanaman ini belum bisa dibandingkan. Yang perlu dicermati adalah laporan keberlanjutan Telkom berikutnya, untuk melihat apakah program ini punya target luas rehabilitasi pesisir yang terukur atau hanya berulang sebagai kegiatan seremonial.",
+  "imageV": "mwyl2zs5"
+ },
+ {
   "slug": "amin-kuartal-iii-2026-laba-naik-36-7-jadi-rp28-2-miliar",
   "category": "Aksi Korporasi",
   "title": "AMIN Kuartal III 2026: [Laba] Naik 36,7% Jadi Rp28,2 Miliar",

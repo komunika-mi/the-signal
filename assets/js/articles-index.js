@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik",
+  "category": "BUMN",
+  "title": "Karyawan Telkom [Tanam] 1.000 Mangrove di Pesisir Gresik",
+  "deck": "Karyawan TelkomGroup lewat program TESA menanam 1.000 bibit mangrove bersama warga Desa Banyuurip, Gresik, sebagai bagian pemulihan ekosistem pesisir Jawa Timur.",
+  "date": "27 November 2026",
+  "image": "assets/img/karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik.jpg",
+  "imageV": "mwyl2zs5",
+  "tags": [
+   "Telkom",
+   "Mangrove",
+   "Gresik",
+   "Lingkungan"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480619-karyawan-telkom-tanam-1000-mangrove-di-pesisir-gresik-bentuk-jaga-lingkungan"
+ },
+ {
   "slug": "amin-kuartal-iii-2026-laba-naik-36-7-jadi-rp28-2-miliar",
   "category": "Aksi Korporasi",
   "title": "AMIN Kuartal III 2026: [Laba] Naik 36,7% Jadi Rp28,2 Miliar",
@@ -6473,22 +6490,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7233/perkuat-kemitraan-ekonomi-dengan-jerman-indonesia-dorong-peningkatan-perdagangan-dan-investasi",
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
- },
- {
-  "slug": "hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol",
-  "category": "BUMN",
-  "title": "Hadapi Musim Hujan, Jasa Marga [Perkuat] Kesiagaan Tol",
-  "deck": "PT Jasa Marga menyiagakan ratusan tim dan unit pompa air di jalan tol menjelang musim hujan 2026-2027.",
-  "date": "18 November 2026",
-  "image": "assets/img/hadapi-musim-hujan-jasa-marga-perkuat-kesiagaan-tol.jpg",
-  "imageV": "mwmhycpl",
-  "tags": [
-   "jasa marga",
-   "musim hujan",
-   "jalan tol",
-   "bumn"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479128-hadapi-musim-hujan-jasa-marga-perkuat-kesiapan-operasional-jalan-tol"
  }
 ];

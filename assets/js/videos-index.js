@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "gMzDgINTGSk",
+  "title": "Polda Metro Jaya dan PNM Perluas Akses Usaha Bagi Perempuan",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Polda Metro Jaya menggandeng PT PNM untuk memperluas akses pembiayaan dan pendampingan usaha bagi perempuan melalui program Polisi Peduli Pengangguran (Poliran).",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya memperluas inklusi pembiayaan UMKM yang digerakkan oleh perempuan."
+ },
+ {
+  "id": "zb0Ux0k3W5M",
+  "title": "Membangun Kemandirian Alat Kesehatan Nasional",
+  "category": "Industri",
+  "program": "Inspirasi Sehat",
+  "summary": "Diskusi mengenai pentingnya kolaborasi strategis antara industri, tenaga medis, dan pemerintah untuk membangun kemandirian alat kesehatan nasional.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti upaya penguatan industri alat kesehatan dalam negeri sebagai bagian dari daya saing industri nasional."
+ },
+ {
   "id": "uEIobRYTGGo",
   "title": "Mustika Ratu Raih Penghargaan Pelopor Herbal dan Wellness Lokal",
   "category": "Industri",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "KDMP Desa Ciwaru, Sukabumi, mendorong hilirisasi sektor perikanan dengan mengolah hasil tangkapan laut menjadi produk bernilai tambah serta membuka peluang usaha baru.",
   "takeaway": "Contoh hilirisasi di tingkat desa ini relevan bagi pembaca ekonomi sebagai gambaran bagaimana UMKM perikanan bisa meningkatkan nilai tambah produknya."
- },
- {
-  "id": "fPHRvQGqxBU",
-  "title": "Bos IMF: AI Jadi Risiko Baru bagi Ekonomi Dunia",
-  "category": "Global",
-  "program": "OneNews Update",
-  "summary": "Direktur Pelaksana IMF Kristalina Georgieva memperingatkan potensi risiko baru dari pesatnya perkembangan kecerdasan buatan bagi ekonomi dunia, disampaikan di hadapan Presiden China Xi Jinping.",
-  "takeaway": "Peringatan lembaga sebesar IMF soal dampak AI penting disimak karena menyangkut arah kebijakan ekonomi global ke depan."
- },
- {
-  "id": "W9mEPp_4v8U",
-  "title": "Presiden Prabowo Bawa Komitmen Investasi Rp1.310 Triliun dari China",
-  "category": "Makroekonomi",
-  "program": "OneNews Update",
-  "summary": "Presiden Prabowo Subianto menyaksikan penandatanganan sejumlah nota kesepahaman dengan China yang memperkuat komitmen investasi senilai Rp1.310 triliun dalam rangkaian kunjungan kenegaraan ke China.",
-  "takeaway": "Komitmen investasi sebesar itu layak disimak karena berpotensi mendorong penciptaan lapangan kerja dan pertumbuhan ekonomi dalam negeri."
  }
 ];

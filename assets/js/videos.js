@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "gMzDgINTGSk",
+  "title": "Polda Metro Jaya dan PNM Perluas Akses Usaha Bagi Perempuan",
+  "category": "UMKM",
+  "program": "Kabar Siang",
+  "summary": "Polda Metro Jaya menggandeng PT PNM untuk memperluas akses pembiayaan dan pendampingan usaha bagi perempuan melalui program Polisi Peduli Pengangguran (Poliran).",
+  "takeaway": "Relevan bagi pembaca ekonomi karena menyangkut upaya memperluas inklusi pembiayaan UMKM yang digerakkan oleh perempuan.",
+  "terbit": "2026-11-27T05:48:46+00:00"
+ },
+ {
+  "id": "zb0Ux0k3W5M",
+  "title": "Membangun Kemandirian Alat Kesehatan Nasional",
+  "category": "Industri",
+  "program": "Inspirasi Sehat",
+  "summary": "Diskusi mengenai pentingnya kolaborasi strategis antara industri, tenaga medis, dan pemerintah untuk membangun kemandirian alat kesehatan nasional.",
+  "takeaway": "Penting bagi pembaca ekonomi karena menyoroti upaya penguatan industri alat kesehatan dalam negeri sebagai bagian dari daya saing industri nasional.",
+  "terbit": "2026-11-27T04:24:00+00:00"
+ },
+ {
   "id": "uEIobRYTGGo",
   "title": "Mustika Ratu Raih Penghargaan Pelopor Herbal dan Wellness Lokal",
   "category": "Industri",

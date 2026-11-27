@@ -23,6 +23,38 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Perdagangan"
  },
  {
+  "slug": "obligasi-brpt-rp700-m-jatuh-tempo-delisting-bursa-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi BRPT Rp700 M Jatuh Tempo: [Delisting] Bursa 30 November",
+  "deck": "Obligasi BRPT03ACN2 senilai Rp700 miliar jatuh tempo dan dilunasi penuh 28 November 2026; perdagangannya di BEI berhenti mulai 30 November 2026.",
+  "date": "28 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BRPT",
+   "obligasi",
+   "jatuh tempo obligasi",
+   "Barito Pacific"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261128_BRPT_B012_9abb17e5-c713-4a80-ba2b-6814f27c504a-20261128001938.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "dgik-gdk-alihkan-25-saham-ke-tokyu-construction-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: GDK Alihkan 25% Saham ke Tokyu Construction [Akuisisi]",
+  "deck": "GDK resmi mengalihkan 25 persen saham DGIK ke Tokyu Construction Co., Ltd. melalui CSPA yang efektif 27 November 2026, mengubah susunan pemegang saham utama perseroan.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DGIK",
+   "Tokyu Construction",
+   "CSPA",
+   "Public Expose"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_DGIK_E003_d89a5fb0-0431-44aa-b048-a27e3b072f97-20261127233622.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "public-expose-wskt-2-des-suspensi-tunggu-syarat-administratif-bei",
   "category": "Aksi Korporasi",
   "title": "Public Expose WSKT 2 Des: [Suspensi] Tunggu Syarat Administratif BEI",
@@ -6461,37 +6493,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f598dc436e_1bc28a2bf9.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "kppu-periksa-saksi-kasus-tender-revitalisasi-pasar-ciparay",
-  "category": "Bisnis",
-  "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
-  "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
-  "date": "19 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
-  "tags": [
-   "KPPU",
-   "Pasar Ciparay",
-   "persekongkolan tender",
-   "revitalisasi pasar"
-  ],
-  "sourceUrl": "https://kppu.go.id/berita/kppu-dalami-dasar-perhitungan-kontribusi-dan-kelayakan-investasi-revitalisasi-pasar-ciparay",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "kppu-awasi-penghapusan-syarat-beli-lpg-nonsubsidi-di-tegal",
-  "category": "Energi",
-  "title": "KPPU [Awasi] Penghapusan Syarat Beli LPG Nonsubsidi di Tegal",
-  "deck": "KPPU memeriksa penerapan komitmen PT Hibarnas Jaya menghapus syarat beli LPG nonsubsidi bagi pembeli LPG 3 kg bersubsidi di 63 pangkalan Kabupaten Tegal.",
-  "date": "19 November 2026",
-  "image": "assets/img/tabung-lpg.jpg",
-  "tags": [
-   "KPPU",
-   "LPG 3 Kg",
-   "Tegal",
-   "Persaingan Usaha"
-  ],
-  "sourceUrl": "https://kppu.go.id/berita/kppu-awasi-penghapusan-syarat-pembelian-lpg-nonsubsidi-bagi-penerima-lpg-3-kg-di-tegal",
-  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
  }
 ];

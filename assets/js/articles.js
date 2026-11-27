@@ -31,6 +31,82 @@ var ARTICLES = [
   "imageV": "mwz9q5iu"
  },
  {
+  "slug": "obligasi-brpt-rp700-m-jatuh-tempo-delisting-bursa-30-november",
+  "category": "Aksi Korporasi",
+  "title": "Obligasi BRPT Rp700 M Jatuh Tempo: [Delisting] Bursa 30 November",
+  "deck": "Obligasi BRPT03ACN2 senilai Rp700 miliar jatuh tempo dan dilunasi penuh 28 November 2026; perdagangannya di BEI berhenti mulai 30 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 November 2026",
+  "isoDate": "2026-11-28T00:19:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261128_BRPT_B012_9abb17e5-c713-4a80-ba2b-6814f27c504a-20261128001938.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BRPT",
+  "tags": [
+   "BRPT",
+   "obligasi",
+   "jatuh tempo obligasi",
+   "Barito Pacific"
+  ],
+  "body": [
+   "PT Barito Pacific Tbk (BRPT) akan melunasi penuh Obligasi Berkelanjutan III Barito Pacific Tahap II Tahun 2023 Seri A, dengan kode seri BRPT03ACN2, pada 28 November 2026. Obligasi senilai Rp700 miliar ini menggunakan skema bullet payment, artinya seluruh pokok utang dibayar sekaligus pada tanggal jatuh tempo, bersamaan dengan pembayaran bunga triwulanan terakhir. Bursa Efek Indonesia mengumumkan bahwa mulai 30 November 2026, obligasi ini tidak lagi tercatat dan tidak dapat diperdagangkan di bursa.",
+   "Obligasi Seri A ini diterbitkan pada 28 November 2023 dengan bunga tetap 8,50 persen per tahun untuk jangka waktu tiga tahun. Penerbitan ini merupakan bagian dari Obligasi Berkelanjutan III Barito Pacific Tahap II Tahun 2023, yang juga mencakup Seri B senilai Rp300 miliar dengan bunga 9,50 persen per tahun berjangka lima tahun dan baru jatuh tempo pada 28 November 2028. Secara keseluruhan, program Penawaran Umum Berkelanjutan III ini menargetkan dana Rp3 triliun, setelah Tahap I senilai Rp1 triliun diterbitkan pada 2022.",
+   "Obligasi ini mendapat peringkat idA+ dari PT Pemeringkat Efek Indonesia (Pefindo) dan diawasi oleh PT Bank Tabungan Negara (Persero) Tbk selaku wali amanat. Dokumen prospektus menyebutkan bahwa jika Barito Pacific terlambat membayar bunga atau pokok obligasi, perusahaan dikenai denda sebesar 1 persen per tahun di atas bunga obligasi, dihitung harian sejak hari keterlambatan sampai lunas."
+  ],
+  "fotoAdegan": "Wide shot of a petrochemical refinery complex with steel pipes and storage tanks at dusk, light industrial haze",
+  "takeaway": "Laporan ini netral bagi BRPT karena jatuh tempo obligasi adalah kejadian yang sudah dijadwalkan sejak penerbitan tiga tahun lalu, bukan sinyal baru soal kondisi keuangan perusahaan. Yang perlu diperhatikan adalah arus kas perusahaan, yaitu uang tunai yang keluar masuk, karena skema bullet payment membuat Barito Pacific harus menyiapkan dana tunai sekitar Rp700 miliar sekaligus untuk pelunasan pokok, ditambah bunga triwulan terakhir, bukan dicicil bertahap seperti kebanyakan pinjaman. Pelunasan ini juga akan mengurangi beban bunga dan total utang obligasi perusahaan ke depan, yang berarti rasio utang terhadap modal bisa sedikit mengecil setelah tanggal ini. Yang perlu dipantau selanjutnya adalah apakah Barito Pacific benar menuntaskan pembayaran pokok dan bunga pada 28 November 2026 sesuai jadwal, karena keterlambatan akan dikenai denda harian 1 persen per tahun di atas bunga obligasi.",
+  "sentimen": "netral",
+  "peristiwa": "obligasi",
+  "judulIdx": "Pengumuman Jatuh Tempo Obligasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-28",
+    "acara": "Jatuh tempo dan pelunasan pokok Obligasi Seri A BRPT03ACN2"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Obligasi BRPT03ACN2 berhenti tercatat dan diperdagangkan di BEI"
+   }
+  ]
+ },
+ {
+  "slug": "dgik-gdk-alihkan-25-saham-ke-tokyu-construction-akuisisi",
+  "category": "Aksi Korporasi",
+  "title": "DGIK: GDK Alihkan 25% Saham ke Tokyu Construction [Akuisisi]",
+  "deck": "GDK resmi mengalihkan 25 persen saham DGIK ke Tokyu Construction Co., Ltd. melalui CSPA yang efektif 27 November 2026, mengubah susunan pemegang saham utama perseroan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T23:36:20",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_DGIK_E003_d89a5fb0-0431-44aa-b048-a27e3b072f97-20261127233622.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DGIK",
+  "tags": [
+   "DGIK",
+   "Tokyu Construction",
+   "CSPA",
+   "Public Expose"
+  ],
+  "body": [
+   "PT Nusa Konstruksi Enjiniring Tbk (DGIK) menyampaikan bahwa pemegang saham pengendalinya, PT Global Dinamika Kencana (GDK), telah efektif menandatangani Conditional Share Purchase Agreement (CSPA) dengan Tokyu Construction Co., Ltd. pada 27 November 2026. Lewat perjanjian ini, GDK mengalihkan 25 persen saham DGIK yang selama ini dipegangnya, setara sekitar 1,39 miliar lembar dari total 5,54 miliar saham DGIK yang beredar, kepada perusahaan konstruksi asal Jepang tersebut.",
+   "Informasi ini disampaikan dalam materi Public Expose Tahunan 2026 milik DGIK. Perseroan menyebut susunan pemegang saham resminya akan diperbarui pada 1 Desember 2026, bertepatan dengan acara Public Expose tersebut. Per 30 Oktober 2026, sebelum peralihan ini tercatat, GDK masih menguasai 52,30 persen saham DGIK atau 2.897.768.500 lembar, disusul Hudson River Group Pte. Ltd. dengan 9,68 persen (536.408.200 lembar), saham treasuri 7,22 persen (400.214.500 lembar), dan publik 30,8 persen (1.706.773.800 lembar). Dengan pengalihan 25 persen dari GDK ke Tokyu, porsi kepemilikan GDK diperkirakan turun menjadi sekitar 27,30 persen, sementara Tokyu langsung masuk sebagai pemegang saham signifikan dengan 25 persen.",
+   "Materi Public Expose itu juga memuat capaian operasional DGIK sepanjang 2026. Perseroan mencatat nilai kontrak baru Rp797 miliar sepanjang tahun ini, dengan komposisi 63 persen proyek non-joint operation dan 37 persen joint operation, 78 persen dari sektor swasta dan 22 persen pemerintah, serta 92 persen proyek gedung dan 8 persen infrastruktur. Per 30 November 2026, DGIK masih memproses kontrak senilai Rp1,4 triliun. Dari sisi kinerja keuangan sembilan bulan 2026, pendapatan usaha tercatat Rp712 miliar, laba usaha Rp60 miliar, laba kotor Rp114 miliar, dan laba bersih Rp36 miliar, dibandingkan capaian sepanjang tahun 2025 yang masing-masing Rp861 miliar, Rp47 miliar, Rp132 miliar, dan Rp54 miliar."
+  ],
+  "fotoAdegan": "Construction workers in hard hats checking rebar on a high-rise building site in Jakarta, cranes against an overcast sky",
+  "takeaway": "Laporan ini netral bagi fundamental DGIK untuk saat ini, karena yang berubah hanyalah pemilik saham, bukan jumlah saham yang beredar atau kas yang masuk ke kas perseroan. Transaksi ini tidak langsung menyentuh ekuitas, arus kas, atau laba per saham DGIK, sebab GDK cuma memindahkan sebagian sahamnya ke Tokyu Construction, bukan perseroan menerbitkan saham baru atau menerima dana segar. Yang patut dicermati adalah dampak jangka menengah terhadap tata kelola, karena porsi GDK yang turun dari 52,30 persen menjadi sekitar 27,30 persen membuat jarak kepemilikannya dengan Tokyu yang langsung memegang 25 persen menjadi tipis, sehingga arah kendali perseroan berpotensi lebih mudah bergeser di kemudian hari. Yang perlu dipantau berikutnya adalah susunan pemegang saham resmi yang dijanjikan perseroan pada acara Public Expose Tahunan 1 Desember 2026, serta apakah peralihan ini memicu kewajiban tender offer atau pengumuman perubahan pengendali ke bursa.",
+  "sentimen": "netral",
+  "peristiwa": "public-expose",
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Penandatanganan CSPA GDK dan Tokyu Construction efektif"
+   },
+   {
+    "tanggal": "2026-12-01",
+    "acara": "Public Expose Tahunan 2026, update komposisi pemegang saham"
+   }
+  ]
+ },
+ {
   "slug": "public-expose-wskt-2-des-suspensi-tunggu-syarat-administratif-bei",
   "category": "Aksi Korporasi",
   "title": "Public Expose WSKT 2 Des: [Suspensi] Tunggu Syarat Administratif BEI",
@@ -42927,8 +43003,8 @@ var ARTICLES = [
  {
   "slug": "swat-catat-ekuitas-negatif-rp1-8-miliar-di-semester-i-2026",
   "category": "Aksi Korporasi",
-  "title": "SWAT Catat [Ekuitas] Negatif Rp1,8 Miliar di Semester I 2026",
-  "deck": "Penjualan produsen kertas ini anjlok ke Rp305 juta dari Rp44,75 miliar, sementara total ekuitas berbalik negatif Rp1,83 miliar.",
+  "title": "SWAT Kuartal III 2026: [Ekuitas Negatif] Melebar ke Rp9,25 Miliar",
+  "deck": "Laporan interim kuartal III 2026 menunjukkan ekuitas SWAT makin negatif menjadi Rp9,25 miliar, dari Rp1,83 miliar pada semester pertama, sementara kas tergerus ke Rp252 juta.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 November 2026",
   "isoDate": "2026-11-02T11:06:49",
@@ -42939,17 +43015,27 @@ var ARTICLES = [
    "SWAT",
    "ekuitas negatif",
    "laporan keuangan interim",
-   "industri kertas"
+   "kuartal III 2026"
   ],
   "body": [
-   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan laporan keuangan interim yang tidak diaudit untuk periode Januari hingga Juni 2026 kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia, ditandatangani Direktur Utama Shio Alim Susanto. Dalam laporan itu, penjualan perusahaan kertas asal Boyolali ini tercatat hanya Rp305,48 juta untuk semester pertama 2026. Jumlah itu jauh lebih kecil dibanding penjualan periode yang sama tahun 2025 yang mencapai Rp44,75 miliar, atau susut hampir seluruhnya dalam setahun.",
-   "Meski beban pokok penjualan juga ikut turun tajam menjadi Rp14,99 miliar dari Rp60,36 miliar, penurunan penjualan yang lebih besar membuat perusahaan tetap mencatat rugi kotor Rp14,69 miliar, sedikit lebih baik dibanding rugi kotor Rp15,60 miliar pada semester satu 2025. Setelah dikurangi beban operasional dan ditambah pendapatan usaha lainnya, rugi usaha tercatat Rp14,18 miliar dan rugi bersih mencapai Rp14,30 miliar. Angka ini sebenarnya menyusut dibanding rugi bersih Rp27,18 miliar pada periode yang sama tahun lalu, sehingga rugi per saham juga mengecil dari Rp8,99 menjadi Rp4,73 per saham.",
-   "Dari sisi posisi keuangan, total aset SWAT per 30 Juni 2026 tercatat Rp376,88 miliar, turun dari Rp394,64 miliar pada akhir 2025. Total liabilitas yang mencapai Rp378,72 miliar, sebagian besar berupa utang bank jangka panjang Rp346,34 miliar, kini lebih besar daripada total aset tersebut. Akibatnya, total ekuitas perusahaan berbalik menjadi negatif Rp1,83 miliar, dari sebelumnya positif Rp12,46 miliar pada akhir 2025.",
-   "Di sisi arus kas, kas bersih dari aktivitas operasi berbalik positif Rp9,67 miliar, dari sebelumnya minus Rp84,93 juta pada semester satu 2025. Namun pada periode ini SWAT juga melunasi utang kepada pemegang saham senilai Rp9,06 miliar dan membayar cicilan utang bank Rp2,08 miliar, sehingga kas di akhir periode tetap turun tipis menjadi Rp2,23 miliar dari Rp2,37 miliar pada akhir 2025."
+   "PT Sriwahana Adityakarta Tbk (SWAT) menyampaikan laporan keuangan interim kuartal III 2026 (per 30 September 2026, tidak diaudit) kepada OJK dan BEI pada 27 November 2026, ditandatangani Direktur Utama Shio Alim Susanto. Dokumen itu menunjukkan ekuitas perusahaan makin dalam di zona negatif, dari negatif Rp1,83 miliar pada akhir semester pertama 2026 menjadi negatif Rp9,25 miliar pada akhir kuartal ketiga, karena total liabilitas Rp380,20 miliar kini melampaui total aset Rp370,95 miliar.",
+   "Kas perusahaan juga tergerus tajam, dari Rp2,23 miliar pada akhir Juni 2026 menjadi hanya Rp252,47 juta pada akhir September 2026. Penyebabnya, kas bersih dari aktivitas operasi untuk sembilan bulan pertama 2026 berbalik negatif Rp1,55 miliar, dibanding positif Rp4,38 miliar pada periode yang sama tahun 2025, yang berarti bisnis utama perusahaan tidak lagi menghasilkan cukup uang tunai untuk menutup kebutuhannya sendiri.",
+   "Dari sisi laba rugi, penjualan sembilan bulan pertama 2026 tercatat Rp1,11 miliar, anjlok dari Rp61,08 miliar pada periode yang sama tahun 2025. Beban pokok penjualan ikut turun tajam menjadi Rp22,48 miliar dari Rp83,69 miliar, tetapi rugi kotor tetap tercatat Rp21,37 miliar. Setelah beban operasional dan beban keuangan, rugi bersih sembilan bulan mencapai Rp21,71 miliar, menyusut dibanding rugi bersih Rp39,01 miliar pada periode yang sama 2025, sehingga rugi per saham mengecil dari Rp12,91 menjadi Rp7,18 per saham.",
+   "SWAT pertama kali melaporkan ekuitas negatif pada laporan semester pertama 2026 yang disampaikan awal November lalu, saat penjualan sempat anjlok hingga hanya Rp305,48 juta dan ekuitas berbalik negatif Rp1,83 miliar dari sebelumnya positif Rp12,46 miliar pada akhir 2025. Jumlah saham beredar perusahaan tidak berubah, tetap 3.019.200.000 saham, sehingga pelemahan ekuitas ini murni berasal dari akumulasi rugi, bukan dari penambahan jumlah saham baru."
   ],
   "fotoAdegan": "Rolls of brown paper stacked on pallets inside a dim industrial paper mill warehouse, forklift parked nearby, late afternoon light",
-  "takeaway": "Laporan ini condong negatif bagi SWAT, sebab ekuitas perusahaan yang semula positif Rp12,46 miliar pada akhir 2025 kini berbalik menjadi negatif Rp1,83 miliar, artinya total utang perusahaan sudah melebihi total asetnya. Pos yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang yang mencerminkan kekayaan bersih yang tersisa untuk pemegang saham; begitu angka ini negatif, secara akuntansi pemegang saham tidak punya nilai buku yang tersisa di perusahaan. Pemicu utamanya adalah penjualan yang anjlok dari Rp44,75 miliar menjadi hanya Rp305 juta dalam setahun, meski arus kas operasional sempat positif pada periode ini. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia memberikan notasi khusus pada saham SWAT menyusul ekuitas negatif ini, serta apakah tren penjualan membaik pada laporan kuartal III 2026 yang wajib disampaikan sesuai POJK No. 14/POJK.04/2022 yang disebut dalam surat pengantar laporan ini.",
-  "sentimen": "negatif"
+  "takeaway": "Laporan kuartal III ini condong negatif bagi SWAT, sebab defisit ekuitas yang baru terungkap pada laporan semester pertama kini melebar lebih dari lima kali lipat, dari negatif Rp1,83 miliar menjadi negatif Rp9,25 miliar, dan kas perusahaan ikut menyusut tajam menjadi hanya Rp252 juta. Pos yang tersentuh adalah ekuitas, yaitu selisih aset dikurangi utang yang menggambarkan kekayaan bersih yang tersisa untuk pemegang saham, serta arus kas operasi, yaitu uang tunai yang benar-benar masuk dan keluar dari kegiatan bisnis sehari-hari; begitu arus kas operasi berbalik negatif seperti pada periode ini, perusahaan harus mengandalkan kas cadangan yang sudah menipis untuk membiayai kegiatannya. Pemicunya tetap sama seperti laporan sebelumnya, yakni penjualan yang jauh di bawah level normal meski beban produksi ikut dipangkas. Yang perlu dipantau berikutnya adalah apakah Bursa Efek Indonesia akan mengenakan notasi khusus pada saham SWAT menyusul ekuitas yang kini negatif dua periode berturut-turut, serta bagaimana hasil laporan keuangan tahunan auditan untuk tahun buku 2026 yang akan menjadi penentu apakah tren pelemahan ini berlanjut atau mulai terbendung.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T23:54:48",
+    "ringkas": "Ekuitas SWAT melebar jadi negatif Rp9,25 miliar dan kas tergerus ke Rp252 juta pada laporan kuartal III 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-dcab6bb2-3f02-4c50-b2e1-c08fc6f2e91e-1/FinancialStatement-2026-III-SWAT.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan Interim yang Tidak Diaudit"
+   }
+  ],
+  "diperbarui": "2026-11-27T23:54:48",
+  "peristiwa": "lapkeu"
  },
  {
   "slug": "ranc-gelar-rupslb-9-desember-bahas-perubahan-kegiatan-usaha",

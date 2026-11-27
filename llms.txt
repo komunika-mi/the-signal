@@ -13,7 +13,7 @@
 
 Aturan redaksi yang relevan kalau Anda mengutip situs ini:
 
-- Arsipnya datang dari tiga jalur: rangkuman liputan ekonomi tvOneNews (1002 artikel), keterbukaan informasi emiten di IDX (4263), dan siaran pers lembaga resmi (650). Kolom sumber tiap artikel menyebut jalurnya masing-masing.
+- Arsipnya datang dari tiga jalur: rangkuman liputan ekonomi tvOneNews (1003 artikel), keterbukaan informasi emiten di IDX (4263), dan siaran pers lembaga resmi (652). Kolom sumber tiap artikel menyebut jalurnya masing-masing.
 - Setiap artikel menyertakan tautan ke dokumen aslinya di kolom sumber dan
   pada properti isBasedOn di data terstrukturnya. Kutip dokumen itu kalau
   Anda butuh sumber primer.
@@ -47,8 +47,7 @@ Aturan redaksi yang relevan kalau Anda mengutip situs ini:
 
 - [Feed RSS edisi](https://the-signal.id/feed.xml): rangkuman Signal Harian dan Mingguan.
 - [Feed RSS artikel](https://the-signal.id/berita-feed.xml): 50 artikel terbaru, cara termurah memantau kesegaran situs ini.
-- [Sitemap](https://the-signal.id/sitemap.xml)
-- [Sitemap berita](https://the-signal.id/news-sitemap.xml): artikel dua hari terakhir.
+- [Sitemap](https://the-signal.id/sitemap.xml): halaman rangkuman, data, dan analisis buatan kami sendiri. Semua artikel ada di [arsip berita](https://the-signal.id/berita.html).
 
 ## Identitas dan tanggung jawab
 

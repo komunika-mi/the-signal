@@ -5,6 +5,40 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ekspor-ri-ke-uni-eropa-masih-terpusat-di-tiga-negara",
+  "category": "Global",
+  "title": "Ekspor RI ke Uni Eropa Masih [Terpusat] di Tiga Negara",
+  "deck": "Mendag sebut 57 persen ekspor RI ke Uni Eropa masih terpusat di Belanda, Italia, dan Jerman; I-EU CEPA disiapkan buka akses ke 24 negara lain sebelum fasilitas GSP berakhir 2027.",
+  "date": "27 November 2026",
+  "image": "assets/img/ekspor-ri-ke-uni-eropa-masih-terpusat-di-tiga-negara.jpg",
+  "imageV": "mwz3dj7p",
+  "tags": [
+   "I-EU CEPA",
+   "Uni Eropa",
+   "ekspor",
+   "Kemendag"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/ekspor-indonesia-ke-uni-eropa-masih-terkonsentrasi-ke-tiga-negara",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
+  "slug": "bi-proyeksi-ekonomi-ri-tumbuh-5-7-persen-pada-2026",
+  "category": "Makroekonomi",
+  "title": "BI Proyeksi Ekonomi RI Tumbuh [5,7] Persen pada 2026",
+  "deck": "Bank Indonesia memproyeksikan ekonomi tumbuh 4,9-5,7 persen pada 2026 dan 5,2-6,0 persen pada 2027, dengan target pertumbuhan kredit perbankan 9-13 persen.",
+  "date": "27 November 2026",
+  "image": "assets/img/pasar-ikan.jpg",
+  "tags": [
+   "Bank Indonesia",
+   "Pertumbuhan Ekonomi",
+   "Kredit Perbankan",
+   "Proyeksi 2027"
+  ],
+  "sourceUrl": "https://www.bi.go.id/id/publikasi/ruang-media/news-release/Pages/sp_2825726.aspx",
+  "sourceLabel": "Bank Indonesia"
+ },
+ {
   "slug": "prtl-siapkan-rp755-3-miliar-bayar-pokok-bunga-obligasi-ke-20",
   "category": "Aksi Korporasi",
   "title": "PRTL Siapkan Rp755,3 Miliar: [Bayar] Pokok-Bunga Obligasi Ke-20",
@@ -19,6 +53,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_PRTL_E019_5d806d68-aaee-4068-9f13-d2ed92c00537-20261127205506.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bunga-kpps-mekaar-turun-jadi-8-1-3-juta-perempuan-dapat-kredit",
+  "category": "UMKM",
+  "title": "Bunga KPPS Mekaar [Turun] Jadi 8%, 1,3 Juta Perempuan Dapat Kredit",
+  "deck": "PNM menurunkan bunga pembiayaan KPPS Mekaar dari 17,3-25% menjadi 8% per tahun bagi lebih dari 1,3 juta perempuan prasejahtera pelaku usaha ultra mikro.",
+  "date": "27 November 2026",
+  "image": "assets/img/bunga-kpps-mekaar-turun-jadi-8-1-3-juta-perempuan-dapat-kredit.jpg",
+  "imageV": "mwz3dk49",
+  "tags": [
+   "KPPS Mekaar",
+   "PNM",
+   "UMKM perempuan",
+   "subsidi bunga"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480716-bunga-kpps-mekaar-turun-jadi-8-13-juta-perempuan-prasejahtera"
  },
  {
   "slug": "bnba-wapres-komisaris-dan-direktur-kepatuhan-mundur",
@@ -5996,7 +6047,7 @@ var ARTICLES = [
   "title": "Neraca Pembayaran RI [Surplus] Tipis di Triwulan III 2026",
   "deck": "Neraca pembayaran Indonesia berbalik surplus 0,1 miliar dolar AS pada triwulan III 2026, ditopang perbaikan neraca dagang; cadangan devisa naik ke 146,3 miliar dolar AS.",
   "date": "20 November 2026",
-  "image": "assets/img/pasar-ikan.jpg",
+  "image": "assets/img/petani-sawah.jpg",
   "tags": [
    "Neraca Pembayaran",
    "Bank Indonesia",
@@ -6399,7 +6450,7 @@ var ARTICLES = [
   "title": "Pemerintah Pastikan Daya Beli [Tumbuh], Bukan Melemah",
   "deck": "Wamenko Perekonomian Dradjad Hari Wibowo menyebut konsumsi rumah tangga tumbuh di atas 5 persen, membantah anggapan daya beli masyarakat melemah, dalam forum ekonomi tvOne, Rabu (18/11).",
   "date": "19 November 2026",
-  "image": "assets/img/petani-sawah.jpg",
+  "image": "assets/img/jalan-tol-konstruksi.jpg",
   "tags": [
    "daya beli",
    "konsumsi rumah tangga",
@@ -6443,53 +6494,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479266-pakar-komisi-8-persen-ojol-berpotensi-timbulkan-masalah-baru"
- },
- {
-  "slug": "meja-rencana-right-issue-akuisisi-45-trimata-coal-rp1-11-triliun",
-  "category": "Aksi Korporasi",
-  "title": "Right Issue MEJA: [Harga] Rp450-550, TCP Rp1,1-1,6 Triliun",
-  "deck": "Laporan hasil Public Expose MEJA membuka kisaran harga rights issue Rp450-550 per saham dan valuasi akuisisi 45% Trimata Coal Rp1,1-1,6 triliun, RUPSLB tetap dijadwalkan Februari 2027.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEJA",
-   "right issue",
-   "Trimata Coal",
-   "public expose"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/b4117e7a52_2f14228049.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "assa-teken-kredit-rp250-miliar-dari-bank-of-china-modal-kerja",
-  "category": "Aksi Korporasi",
-  "title": "ASSA Teken Kredit Rp250 Miliar dari Bank of China [Modal Kerja]",
-  "deck": "ASSA menandatangani perjanjian Term Loan III senilai Rp250 miliar dengan Bank of China Cabang Jakarta untuk modal kerja pembelian unit kendaraan sewa.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ASSA",
-   "kredit bank",
-   "Bank of China",
-   "modal kerja"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/fa72c6b4a8_eeee19a3ab.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-roti-15-desember-tarik-treasury-shares-ganti-direksi",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose ROTI: Capex 2026 Rp100-120 Miliar, [RUPSLB] 15 Desember",
-  "deck": "Public Expose 24 November mengungkap rencana capex Rp100-120 miliar tahun ini dan target free float 15 persen sebelum 2029, sementara RUPSLB penarikan treasury shares tetap digelar 15 Desember.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ROTI",
-   "Public Expose",
-   "RUPSLB",
-   "Free Float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e1fbe89506_5d41aeea6c.pdf",
-  "sourceLabel": "IDX"
  }
 ];

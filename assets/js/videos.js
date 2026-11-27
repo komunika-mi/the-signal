@@ -2,6 +2,33 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UPN3sLpAXmA",
+  "title": "Beijing Kecam Rencana Trump Naikkan Tarif Impor bagi China",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintah China menilai rencana Amerika Serikat menaikkan tarif impor tambahan bagi mitra dagangnya tidak akan menguntungkan pihak mana pun dan mendorong penyelesaian lewat dialog.",
+  "takeaway": "Eskalasi tarif dagang antara Amerika Serikat dan China berpotensi memengaruhi arus perdagangan global, termasuk kinerja ekspor Indonesia.",
+  "terbit": "2026-11-27T14:30:18+00:00"
+ },
+ {
+  "id": "rOgn62K156A",
+  "title": "Presiden Prabowo Berpidato di Pertemuan Tahunan Bank Indonesia 2026",
+  "category": "Moneter",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto menyampaikan pidato dalam Pertemuan Tahunan Bank Indonesia 2026 di Jakarta, forum tahunan yang memaparkan arah kebijakan moneter dan proyeksi ekonomi nasional.",
+  "takeaway": "Pidato ini relevan sebagai acuan arah kebijakan moneter dan ekonomi pemerintah serta Bank Indonesia pada tahun mendatang.",
+  "terbit": "2026-11-27T14:10:24+00:00"
+ },
+ {
+  "id": "3Ga-LNpwG1g",
+  "title": "Presiden Prabowo: Fundamental Ekonomi RI Kuat dan Sudah Matang",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Dalam Pertemuan Tahunan Bank Indonesia 2026, Presiden Prabowo Subianto menyatakan fundamental ekonomi Indonesia kuat dan bangsa ini dinilai sudah matang menghadapi tantangan global.",
+  "takeaway": "Pernyataan ini menggambarkan sikap pemerintah terhadap daya tahan ekonomi nasional di tengah ketidakpastian global.",
+  "terbit": "2026-11-27T13:40:28+00:00"
+ },
+ {
   "id": "UMysmo1XGlI",
   "title": "Nvidia Bekukan Pengiriman Chip AI ke Indonesia dan Asia Tenggara",
   "category": "Teknologi",

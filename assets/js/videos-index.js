@@ -4,6 +4,30 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UPN3sLpAXmA",
+  "title": "Beijing Kecam Rencana Trump Naikkan Tarif Impor bagi China",
+  "category": "Global",
+  "program": "OneNews Update",
+  "summary": "Pemerintah China menilai rencana Amerika Serikat menaikkan tarif impor tambahan bagi mitra dagangnya tidak akan menguntungkan pihak mana pun dan mendorong penyelesaian lewat dialog.",
+  "takeaway": "Eskalasi tarif dagang antara Amerika Serikat dan China berpotensi memengaruhi arus perdagangan global, termasuk kinerja ekspor Indonesia."
+ },
+ {
+  "id": "rOgn62K156A",
+  "title": "Presiden Prabowo Berpidato di Pertemuan Tahunan Bank Indonesia 2026",
+  "category": "Moneter",
+  "program": "tvOneNews",
+  "summary": "Presiden Prabowo Subianto menyampaikan pidato dalam Pertemuan Tahunan Bank Indonesia 2026 di Jakarta, forum tahunan yang memaparkan arah kebijakan moneter dan proyeksi ekonomi nasional.",
+  "takeaway": "Pidato ini relevan sebagai acuan arah kebijakan moneter dan ekonomi pemerintah serta Bank Indonesia pada tahun mendatang."
+ },
+ {
+  "id": "3Ga-LNpwG1g",
+  "title": "Presiden Prabowo: Fundamental Ekonomi RI Kuat dan Sudah Matang",
+  "category": "Makroekonomi",
+  "program": "tvOneNews",
+  "summary": "Dalam Pertemuan Tahunan Bank Indonesia 2026, Presiden Prabowo Subianto menyatakan fundamental ekonomi Indonesia kuat dan bangsa ini dinilai sudah matang menghadapi tantangan global.",
+  "takeaway": "Pernyataan ini menggambarkan sikap pemerintah terhadap daya tahan ekonomi nasional di tengah ketidakpastian global."
+ },
+ {
   "id": "UMysmo1XGlI",
   "title": "Nvidia Bekukan Pengiriman Chip AI ke Indonesia dan Asia Tenggara",
   "category": "Teknologi",
@@ -458,29 +482,5 @@ var VIDEOS = [
   "program": "Kabar Petang",
   "summary": "Presiden Rusia Vladimir Putin menyebut Indonesia sebagai salah satu negara dengan perekonomian terbesar dan paling cepat berkembang di Asia maupun dunia dalam forum KTT APEC.",
   "takeaway": "Pengakuan dari pemimpin negara besar bisa menjadi indikator posisi tawar ekonomi Indonesia di kancah global."
- },
- {
-  "id": "tfa5d9MHNXU",
-  "title": "Pramono Tetapkan UMP Jakarta 2027 Rp6,1 Juta",
-  "category": "Ketenagakerjaan",
-  "program": "AKIS",
-  "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi (UMP) Jakarta 2027 sebesar Rp6,1 juta, yang akan menjadi acuan pengupahan bagi pekerja dan pengusaha di ibu kota.",
-  "takeaway": "Angka UMP ini penting dipantau karena berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja pelaku usaha di Jakarta."
- },
- {
-  "id": "A8yuRJBvzbY",
-  "title": "Koperasi Desa Merah Putih Dorong Ekonomi Nasional",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "Koperasi Desa Merah Putih digadang menjadi penggerak kemandirian ekonomi di tingkat desa, membuka peluang usaha baru bagi masyarakat sebagai fondasi penguatan ekonomi nasional.",
-  "takeaway": "Relevan bagi pembaca ekonomi karena menunjukkan arah kebijakan penguatan UMKM dan koperasi berbasis desa sebagai bagian dari strategi pertumbuhan ekonomi nasional."
- },
- {
-  "id": "99paPQU-pzE",
-  "title": "Presiden Prabowo: APEC Beri Manfaat Investasi US$86,8 Miliar bagi RI",
-  "category": "Global",
-  "program": "Kabar Utama",
-  "summary": "Presiden Prabowo Subianto menyebut forum APEC memberikan manfaat nyata bagi perekonomian Indonesia, dengan potensi investasi dan kesepakatan ekonomi senilai US$86,8 miliar.",
-  "takeaway": "Angka investasi dari forum APEC ini relevan bagi pembaca ekonomi karena menggambarkan potensi aliran modal asing ke Indonesia."
  }
 ];

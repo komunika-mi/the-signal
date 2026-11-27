@@ -12,11 +12,14 @@
 // sama dengan halaman lain, supaya navigasi dan footer tidak pernah selisih.
 //
 // ATURAN ISI, dan ini yang membedakan halaman ini dari halaman "Tentang Kami"
-// kebanyakan: TIDAK ADA KLAIM YANG DILEBIHKAN. Tidak ada tim redaksi fiktif,
-// tidak ada alamat kantor karangan, tidak ada nama orang. Sebagian besar
-// proses situs ini memang otomatis dan memakai kecerdasan buatan, dan itu
-// DITULIS TERANG-TERANGAN, karena pembaca yang tahu cara kerjanya lebih
-// percaya daripada pembaca yang merasa dibohongi belakangan.
+// kebanyakan: TIDAK ADA KLAIM YANG DILEBIHKAN. Tidak ada tim redaksi fiktif
+// dan tidak ada alamat kantor karangan. Satu-satunya nama orang adalah
+// penanggung jawab redaksi, ditetapkan pemilik 27 November 2026. Nama lain
+// (penyunting, penulis) baru boleh dipasang kalau orangnya benar-benar
+// memeriksa artikel. Sebagian besar proses situs ini memang otomatis dan
+// memakai kecerdasan buatan, dan itu DITULIS TERANG-TERANGAN, karena pembaca
+// yang tahu cara kerjanya lebih percaya daripada pembaca yang merasa dibohongi
+// belakangan.
 //
 // Email redaksi memakai alamat operasional pemilik (komunika.mi@gmail.com),
 // alamat yang sama dengan akun Buttondown dan GitHub situs ini. Kalau kelak
@@ -43,6 +46,9 @@ export const HALAMAN_STATIS = [
       h2('Bagaimana rangkumannya disusun') +
       p('Sebagian besar proses berjalan otomatis. Sistem kami memantau sumber-sumber di atas sepanjang hari, lalu menyusun rangkumannya dengan bantuan kecerdasan buatan yang bekerja di bawah aturan redaksi: dilarang menambah fakta yang tidak ada di sumber, klaim yang belum terverifikasi ditulis sebagai pernyataan sumbernya, dan angka mengikuti dokumen aslinya. Artikel di sini adalah rangkuman editorial, bukan salinan berita sumber.') +
       p('Cara kerja seperti ini kami tulis terbuka karena pembaca berhak tahu. Kalau ada yang keliru, tanggung jawabnya tetap pada The Signal, bukan pada mesinnya. Laporkan lewat halaman <a href="/kontak.html#koreksi">Kontak &amp; Koreksi</a> dan kami periksa.') +
+
+      '<h2 id="redaksi">Penanggung jawab redaksi</h2>' +
+      p('Penanggung jawab redaksi The Signal adalah Kurniawan Aryanto. Ia bertanggung jawab atas seluruh isi situs ini, termasuk artikel yang disusun otomatis.') +
 
       h2('Soal gambar') +
       p('Foto asli dari sumber selalu didahulukan dan diberi kredit, misalnya "Foto: tvOneNews". Kalau sumber tidak menyediakan foto, kami memakai ilustrasi buatan kecerdasan buatan yang selalu ditandai "Ilustrasi AI". Ilustrasi bukan dokumentasi peristiwa, dan kami tidak pernah menyamarkannya sebagai foto.') +

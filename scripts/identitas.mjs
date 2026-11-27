@@ -110,6 +110,9 @@ export const NODE_ORGANISASI = {
   // dan ke mana pembaca melaporkan kekeliruan (Kontak & Koreksi).
   ownershipFundingInfo: BASE + '/tentang.html',
   actionableFeedbackPolicy: BASE + '/kontak.html',
+  // Halaman yang menyebut penanggung jawab redaksi (bagian #redaksi di
+  // Tentang, dipasang 27 November 2026).
+  masthead: BASE + '/tentang.html#redaksi',
   parentOrganization: {
     '@type': 'Organization', name: 'adsmediamix.id', url: 'https://adsmediamix.id',
   },

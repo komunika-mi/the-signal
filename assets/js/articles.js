@@ -31,6 +31,47 @@ var ARTICLES = [
   "fotoGagal": 1
  },
  {
+  "slug": "pmjs-dematerialisasi-saham-warkat-tenggat-konversi-6-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "PMJS: Dematerialisasi Saham Warkat, [Tenggat] Konversi 6 Mei 2030",
+  "deck": "PMJS mewajibkan pemegang saham berbentuk fisik (warkat) mengonversi ke saham elektronik lewat BAE Sharestar Indonesia, paling lambat 6 Mei 2030.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T15:45:43",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_PMJS_E019_7011a239-c378-4a5b-a202-4e6d35d608b4-20261127154545.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "PMJS",
+  "tags": [
+   "PMJS",
+   "dematerialisasi saham",
+   "Sharestar Indonesia",
+   "OJK"
+  ],
+  "body": [
+   "PT Putra Mandiri Jembar Tbk (PMJS) mengumumkan kepada pemegang saham yang masih memegang saham dalam bentuk warkat atau Surat Kolektif Saham (SKS) untuk mengembalikan SKS tersebut kepada Biro Administrasi Efek (BAE), yaitu PT Sharestar Indonesia, agar dikonversi menjadi saham tanpa warkat (scripless). Kewajiban ini mengacu pada Peraturan OJK No. 9 Tahun 2025 tentang Dematerialisasi Efek Bersifat Ekuitas, yang berlaku sejak 6 Mei 2025 dengan masa pelaksanaan lima tahun, sehingga tenggatnya jatuh pada 6 Mei 2030. Pengumuman dari Sharestar Indonesia ini diteken 10 November 2026 dan baru diterima serta disampaikan ulang oleh PMJS kepada publik pada 27 November 2026 melalui sekretaris perusahaan Ie Putra.",
+   "Bagi pemegang saham yang sudah punya Sub Rekening Efek (SRE) di perusahaan efek atau bank kustodian, konversi bisa dilakukan lewat sistem C-BEST milik KSEI dengan biaya mengikuti jumlah saham yang dikonversi. Bagi yang belum punya SRE, saham akan ditampung dulu di Rekening Titipan atas nama pemegang saham, dengan syarat menyerahkan SKS asli, salinan KTP ber-NIK terbaru (untuk WNI), paspor (untuk WNA) atau akta pendirian dan susunan pengurus (untuk badan hukum), salinan NPWP, alamat email dan nomor telepon, serta membayar biaya dematerialisasi. BAE akan menerbitkan Single Investor Identification (SID) dan keterangan keabsahan kepemilikan saham dalam dua hari kerja setelah dokumen lengkap diterima.",
+   "Dokumen ini juga menjabarkan konsekuensi bagi yang tidak patuh. Setelah 6 Mei 2030, saham warkat yang belum dikonversi akan dipindahkan ke Rekening Titipan sebagai aset tidak diklaim (unclaimed asset) yang dikelola pihak yang ditunjuk OJK, dan pemiliknya baru bisa mengajukan penarikan antara 6 Mei 2035 hingga 6 Mei 2065. Selama belum dikonversi, Pasal 13 POJK 9/2025 juga melarang saham warkat tersebut diperjualbelikan, baik di bursa maupun di luar bursa, sampai proses dematerialisasi selesai."
+  ],
+  "fotoAdegan": "A records clerk sorting stacks of aged paper certificates into archive boxes in a dim filing room, documents blurred",
+  "takeaway": "Laporan ini netral bagi PMJS karena sifatnya kewajiban regulasi yang berlaku ke seluruh perusahaan tercatat di bursa, bukan cerminan kinerja atau keputusan bisnis PMJS, dan perseroan sendiri menyatakan tidak ada dampak terhadap operasional maupun kondisi keuangannya. Yang tersentuh bukan laba atau arus kas, melainkan keabsahan dan keterlacakan jumlah saham beredar: saham dalam bentuk warkat yang tidak dikonversi tidak bisa diperdagangkan, sehingga pemiliknya kehilangan hak jual-beli sampai urusan administrasinya selesai. Yang perlu dipantau pemegang saham warkat PMJS adalah tenggat 6 Mei 2030, karena setelah tanggal itu saham yang belum dikonversi otomatis masuk kategori aset tidak diklaim dan baru bisa ditarik kembali dalam jendela waktu yang jauh lebih sempit, yaitu 6 Mei 2035 sampai 6 Mei 2065.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2030-05-06",
+    "acara": "Berakhirnya masa wajib dematerialisasi saham warkat PMJS"
+   },
+   {
+    "tanggal": "2035-05-06",
+    "acara": "Mulai bisa mengajukan penarikan saham dari rekening aset tidak diklaim"
+   },
+   {
+    "tanggal": "2065-05-06",
+    "acara": "Berakhirnya periode pengajuan penarikan saham tidak diklaim"
+   }
+  ]
+ },
+ {
   "slug": "aspr-jawab-bursa-soal-volatilitas-tak-ada-aksi-korporasi",
   "category": "Aksi Korporasi",
   "title": "ASPR Jawab Bursa soal Volatilitas: Tak Ada [Aksi Korporasi]",
@@ -286,6 +327,33 @@ var ARTICLES = [
   "takeaway": "Laporan ini netral bagi MTEL karena tidak ada opsi yang dieksekusi, tidak ada dana masuk ke kas perusahaan, dan tidak ada saham baru yang terbit, sementara 26,67 juta opsi yang hangus hanya pecahan kecil dari total saham beredar perusahaan. Pos yang tersentuh adalah jumlah saham beredar: kalau opsi dieksekusi, perusahaan biasanya menerbitkan saham baru sehingga laba per saham bisa terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham, tapi karena opsi ini hangus tanpa dieksekusi, risiko dilusi dari tahap ini otomatis hilang. Yang perlu dicermati berikutnya adalah apakah MTEL mengajukan program insentif saham baru lewat RUPS mendatang, karena dokumen ini menegaskan Tahap III adalah periode pelaksanaan terakhir dan tidak ada lagi opsi atau tahap lanjutan yang tersisa.",
   "sentimen": "netral",
   "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "uma-zyrx-penjelasan-tak-ada-info-material-sejak-24-november",
+  "category": "Aksi Korporasi",
+  "title": "UMA ZYRX: [Penjelasan] Tak Ada Info Material Sejak 24 November",
+  "deck": "ZYRX menegaskan ke Bursa tidak ada fakta material baru di balik volatilitas transaksi sahamnya sejak 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T13:34:08",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ZYRX_E023A_3b6bdd35-d68d-42bc-ae20-940c1cd6612a-20261127133416.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZYRX",
+  "tags": [
+   "ZYRX",
+   "Zyrexindo",
+   "UMA",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Zyrexindo Mandiri Buana Tbk (ZYRX) menegaskan kepada Bursa Efek Indonesia bahwa tidak ada informasi atau fakta material yang melatarbelakangi volatilitas transaksi sahamnya yang berlangsung sejak 24 November 2026. Penjelasan ini disampaikan melalui surat bernomor 11.053/CRS-ZMB/XI/26 tertanggal 27 November 2026, sebagai jawaban atas permintaan klarifikasi dari Bursa terkait pergerakan tidak biasa pada saham ZYRX.",
+   "Dalam surat yang ditandatangani oleh Timothy Siddik Shu itu, perseroan menjawab tujuh pertanyaan Bursa. Perseroan menyatakan tidak mengetahui adanya informasi atau fakta material sebagaimana diatur dalam Peraturan OJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi, maupun ketentuan Peraturan Bursa Nomor I-E poin III.2.1 dan IV.2.1. Perseroan juga menyebut tidak ada informasi atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usahanya yang belum diungkapkan ke publik, serta tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur Peraturan OJK Nomor 11/POJK.04/2017 tentang pelaporan kepemilikan saham.",
+   "Perseroan memastikan belum memiliki rencana aksi korporasi dalam tiga bulan mendatang, termasuk yang berdampak pada status pencatatan sahamnya di Bursa. Corporate Secretary juga telah mengonfirmasi kepada pemegang saham utama dan pihak pengendali, dan keduanya menyatakan tidak memiliki rencana apa pun terkait kepemilikan maupun pengendaliannya di perseroan saat ini."
+  ],
+  "fotoAdegan": "Assembly line workers inspecting laptop circuit boards on a factory line, bright fluorescent lighting, Indonesia.",
+  "takeaway": "Secara fundamental, penjelasan ini netral karena isinya hanya menegaskan tidak ada informasi baru, bukan membawa kabar baik atau buruk bagi kinerja perseroan. Dokumen ini tidak menyentuh pos-pos kinerja seperti ekuitas, yaitu modal yang dimiliki pemegang saham, arus kas, beban bunga, atau laba per saham, karena fungsinya memang hanya menjawab permintaan klarifikasi Bursa atas lonjakan transaksi saham sejak 24 November 2026, bukan melaporkan perubahan keuangan. Yang perlu dipantau selanjutnya adalah apakah volatilitas harga ZYRX mereda setelah penjelasan ini terbit, atau Bursa kembali meminta klarifikasi tambahan jika pola transaksi tidak biasa itu berlanjut, mengingat perseroan sendiri menyebut belum ada rencana aksi korporasi dalam tiga bulan mendatang.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
  },
  {
   "slug": "karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik",
@@ -13383,8 +13451,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-zata-rugi-rp77-8-m-usai-divestasi-aset-tekan-utang",
   "category": "Aksi Korporasi",
-  "title": "Public Expose ZATA: Rugi Rp77,8 M Usai [Divestasi] Aset Tekan Utang",
-  "deck": "Materi Public Expose tahunan ZATA menunjukkan rugi bersih Rp77,8 miliar akibat rugi pelepasan aset non-produktif Rp78,3 miliar untuk melunasi utang ke Bank OCBC.",
+  "title": "Public Expose ZATA: Rugi Rp78,3 M Dipastikan Wajar Lewat [Appraisal]",
+  "deck": "Hasil Public Expose 24 November: manajemen ZATA pastikan penjualan aset pemicu rugi Rp78,3 miliar sudah dinilai appraisal independen, kas bersih Rp67,5 miliar untuk lunasi utang.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T10:31:05",
@@ -13394,20 +13462,29 @@ var ARTICLES = [
   "tags": [
    "ZATA",
    "Public Expose",
-   "divestasi aset",
-   "laporan keuangan"
+   "Divestasi Aset",
+   "Elzatta"
   ],
   "body": [
-   "PT Bersama Zatta Jaya Tbk (ZATA), pemilik merek fesyen muslim Elzatta, melaporkan rugi bersih Rp77,77 miliar hingga September 2026, berbalik dari laba Rp1,93 miliar pada periode yang sama tahun sebelumnya. Rugi itu terutama berasal dari pos pendapatan dan beban lain-lain yang melonjak menjadi beban Rp83,27 miliar, di dalamnya terdapat rugi pelepasan atau divestasi aset non-produktif senilai Rp78,3 miliar. Materi ini disampaikan Perseroan dalam Public Expose Tahunan 2026 yang diunggah ke Bursa Efek Indonesia pada 19 November 2026.",
-   "Dari sisi operasional, penjualan ZATA justru naik 1% secara tahunan menjadi Rp159,70 miliar dari Rp158,09 miliar, dengan laba usaha stagnan di Rp6,82 miliar. Jumlah pengunjung toko turun 3,35% menjadi 446 ribu, tetapi jumlah transaksi naik 7,93% menjadi 579 ribu, yang berarti pembeli yang datang ke toko lebih sering benar-benar membeli. Toko fisik di Jawa dan Bali masih menyumbang 69% penjualan, disusul Sumatera dan kanal online yang masing-masing menyumbang 14%. Perseroan membuka tiga toko baru sepanjang 2026.",
-   "Divestasi aset itu terjadi pada April 2026 dan mendatangkan dana kas Rp75 miliar secara kotor. Dampaknya, aset tetap Perseroan menyusut 86,6% dari Rp168,4 miliar menjadi Rp22,5 miliar, sementara utang bank turun 61,9% dari Rp101,2 miliar menjadi Rp38,6 miliar. Secara keseluruhan, total aset ZATA menyusut 27,2% menjadi Rp422,82 miliar dan ekuitas turun 21,6% menjadi Rp281,87 miliar per September 2026, sementara total liabilitas turun lebih dalam yaitu 36,2% menjadi Rp140,95 miliar.",
-   "Rencana penjualan aset ini sebelumnya disetujui pemegang saham dalam RUPS Luar Biasa pada 18 Februari 2026, dengan kuorum kehadiran 75,85% dan persetujuan 90,67% suara, untuk menurunkan kredit Perseroan di Bank OCBC. Dalam RUPS Tahunan pada 2 September 2026, pemegang saham menyetujui laporan keuangan 2025 serta mengalokasikan seluruh laba bersih tahun itu senilai Rp2,04 miliar untuk mengurangi akumulasi saldo defisit, tanpa pembagian dividen, dan mengangkat Kombes Pol (Purn) Dr. Slamet Pribadi, S.H., M.H. sebagai Komisaris Independen baru. Pemegang saham pengendali, PT Lembur Sadaya, masih menguasai 68,71% saham ZATA, sementara sisanya 31,29% dipegang publik."
+   "PT Bersama Zatta Jaya Tbk (ZATA) melaporkan hasil pelaksanaan Public Expose Tahunan 2026 yang digelar secara virtual pada 24 November 2026, dihadiri 9 peserta publik di luar jajaran manajemen. Dalam sesi tanya jawab, manajemen menegaskan bahwa penjualan gedung non-produktif yang memicu rugi akuntansi Rp78,3 miliar telah melalui proses pemasaran lebih dari dua tahun, dinilai oleh kantor jasa penilai independen (KJPP), dan direview oleh kantor akuntan publik sebelum disetujui 90,67% suara pemegang saham dalam RUPS Luar Biasa 18 Februari 2026. Manajemen juga mengungkapkan bahwa dari dana kotor Rp75 miliar hasil penjualan aset itu, kas bersih yang benar-benar diterima Perseroan adalah Rp67,5 miliar, seluruhnya dipakai melunasi utang ke Bank OCBC.",
+   "Penegasan ini melengkapi laporan keuangan per September 2026 yang sebelumnya diumumkan Perseroan, yaitu rugi bersih Rp77,77 miliar, berbalik dari laba Rp1,93 miliar pada periode yang sama tahun lalu, akibat beban lain-lain yang melonjak menjadi Rp83,27 miliar, termasuk rugi pelepasan aset tersebut. Di sisi operasional, penjualan tetap naik 1% menjadi Rp159,70 miliar dengan laba usaha stagnan di Rp6,82 miliar, didukung 109 gerai yang tetap beroperasi normal. Manajemen menyebut rata-rata jumlah barang per transaksi naik 21,71% menjadi 3,7 potong, meski kunjungan toko fisik turun 3,35%, sebagai tanda konsumen kelas menengah makin selektif memilih produk berharga terjangkau di tengah tekanan daya beli.",
+   "Setelah divestasi, aset tetap Perseroan menyusut 86,6% menjadi Rp22,5 miliar dan utang bank turun 61,9% menjadi Rp38,6 miliar, sehingga rasio utang terhadap modal membaik dari 61% menjadi 50%. Aset lancar Perseroan tercatat Rp372,01 miliar dengan rasio lancar, ukuran kemampuan membayar utang jangka pendek, melonjak ke 548%. Ekuitas Perseroan tetap tergerus 21,6% menjadi Rp281,87 miliar karena menyerap rugi pencatatan satu kali tersebut.",
+   "Soal dividen, manajemen menegaskan kembali keputusan RUPS Tahunan 2 September 2026 yang mengalokasikan seluruh laba bersih 2025 senilai Rp2,04 miliar untuk mengurangi akumulasi saldo defisit, tanpa pembagian dividen tahun itu. Pemegang saham pengendali PT Lembur Sadaya masih menguasai 68,71% saham ZATA, sementara 31,29% sisanya dipegang publik yang kepentingannya, menurut manajemen, dijaga lewat mekanisme persetujuan RUPS dan pengawasan Komisaris Independen."
   ],
   "fotoAdegan": "Modest fashion dresses and hijabs hanging neatly on racks inside a clothing store, shoppers browsing quietly in soft daylight",
-  "takeaway": "Laporan ini cenderung netral, karena rugi bersih besar yang tercatat hampir seluruhnya berasal dari pencatatan satu kali atas pelepasan aset untuk melunasi utang bank, sementara bisnis inti penjualan pakaian justru stagnan, hanya tumbuh 1% dengan laba usaha yang nyaris tidak bergerak. Ekuitas ZATA tergerus 21,6% karena menyerap rugi tersebut, dan laba per saham berbalik jadi rugi Rp9,15 dari untung Rp0,23 setahun sebelumnya, dua ukuran yang biasa dipantau pemegang saham karena langsung memengaruhi nilai buku perusahaan dan potensi dividen ke depan. Di sisi lain, rasio utang terhadap modal justru mengecil dari 61% menjadi 50% dan kemampuan membayar utang jangka pendek membaik, karena dana dari penjualan aset dipakai menekan pinjaman bank, bukan dibagikan ke pemegang saham. Yang perlu dipantau selanjutnya adalah apakah Perseroan bisa membalik tren penjualan ritel offline yang melambat, mengingat dokumen ini sendiri menyebut Indeks Penjualan Riil ritel nasional ambruk ke 0,6% secara tahunan dari 5,8% setahun sebelumnya, sehingga perbaikan rasio keuangan tidak otomatis berarti penjualan ke depan ikut membaik.",
+  "takeaway": "Laporan hasil public expose ini netral bagi pemegang saham, karena isinya sebatas menjawab pertanyaan investor soal transaksi yang sudah diumumkan sebelumnya, tanpa membawa fakta keuangan baru yang mengubah gambaran rugi Rp77,8 miliar. Manajemen menegaskan independensi harga jual aset lewat penilai independen dan review akuntan publik, yang relevan karena menyangkut ekuitas perusahaan yang sempat tergerus 21,6% akibat rugi pencatatan satu kali itu. Rasio lancar, ukuran kemampuan membayar utang jangka pendek, melonjak ke 548% setelah kas bersih Rp67,5 miliar dari divestasi dipakai melunasi utang bank, bukan untuk dividen. Yang perlu dipantau selanjutnya adalah apakah strategi efisiensi biaya dan percepatan perputaran stok yang disebut manajemen untuk 2027 benar-benar terealisasi, karena Perseroan sendiri belum menetapkan tanggal RUPS atau keputusan dividen baru.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
-  "judulIdx": "Penyampaian Materi Public Expose - Tahunan"
+  "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T16:10:29",
+    "ringkas": "Manajemen ZATA menjelaskan proses appraisal independen di balik rugi divestasi Rp78,3 miliar dalam sesi tanya jawab public expose 24 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ZATA_E003_109ac1e8-25a2-42ca-bb22-9fbc98f223e8-20261127161030.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-27T16:10:29"
  },
  {
   "slug": "pssi-komisaris-beli-102-900-saham-hak-suara-jadi-0-252",

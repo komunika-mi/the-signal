@@ -21,6 +21,22 @@ var ARTICLES = [
   "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  },
  {
+  "slug": "pmjs-dematerialisasi-saham-warkat-tenggat-konversi-6-mei-2030",
+  "category": "Aksi Korporasi",
+  "title": "PMJS: Dematerialisasi Saham Warkat, [Tenggat] Konversi 6 Mei 2030",
+  "deck": "PMJS mewajibkan pemegang saham berbentuk fisik (warkat) mengonversi ke saham elektronik lewat BAE Sharestar Indonesia, paling lambat 6 Mei 2030.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "PMJS",
+   "dematerialisasi saham",
+   "Sharestar Indonesia",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_PMJS_E019_7011a239-c378-4a5b-a202-4e6d35d608b4-20261127154545.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "aspr-jawab-bursa-soal-volatilitas-tak-ada-aksi-korporasi",
   "category": "Aksi Korporasi",
   "title": "ASPR Jawab Bursa soal Volatilitas: Tak Ada [Aksi Korporasi]",
@@ -164,6 +180,22 @@ var ARTICLES = [
    "opsi saham"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MTEL_E019_0bd7575e-4672-4d8f-8c12-076722d2b56d-20261127134006.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "uma-zyrx-penjelasan-tak-ada-info-material-sejak-24-november",
+  "category": "Aksi Korporasi",
+  "title": "UMA ZYRX: [Penjelasan] Tak Ada Info Material Sejak 24 November",
+  "deck": "ZYRX menegaskan ke Bursa tidak ada fakta material baru di balik volatilitas transaksi sahamnya sejak 24 November 2026.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZYRX",
+   "Zyrexindo",
+   "UMA",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ZYRX_E023A_3b6bdd35-d68d-42bc-ae20-940c1cd6612a-20261127133416.pdf",
   "sourceLabel": "IDX"
  },
  {
@@ -6456,39 +6488,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/551c5bdcc1_03d77313d0.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "rupo-medp-17-november-kuorum-tak-terpenuhi-rupo-kedua-menyusul",
-  "category": "Aksi Korporasi",
-  "title": "RUPO Kedua MEDP [Dijadwalkan] 2 Desember: Bahas Pengalihan Dana",
-  "deck": "RUPO kedua resmi dijadwalkan 2 Desember 2026 setelah RUPO pertama gagal kuorum; agenda tetap soal pengalihan dana obligasi dari proyek Bonjol ke PLTGU Batam.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MEDP",
-   "RUPO",
-   "obligasi",
-   "pengalihan dana"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/11c834f72f_947251f88f.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas",
-  "category": "Energi",
-  "title": "Ledakan Kilang PPSDM Cepu, Satu Pekerja [Tewas]",
-  "deck": "Ledakan di Tangki T-143 PPSDM Migas Cepu saat kilang berhenti operasi untuk perawatan menewaskan satu pekerja pihak ketiga; api sudah dipadamkan dan investigasi penyebabnya berjalan.",
-  "date": "19 November 2026",
-  "image": "assets/img/ledakan-kilang-ppsdm-cepu-satu-pekerja-tewas.jpg",
-  "imageV": "mwn1b6qa",
-  "tags": [
-   "ESDM",
-   "Kilang Cepu",
-   "Keselamatan Kerja",
-   "Migas"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/insiden-kilang-ppsdm-migas-cepu-kementerian-esdm-pastikan-situasi-terkendali-dan-investigasi-penyebab-ledakan",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
  }
 ];

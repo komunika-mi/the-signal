@@ -3,6 +3,209 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "aspr-jawab-bursa-soal-volatilitas-tak-ada-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "ASPR Jawab Bursa soal Volatilitas: Tak Ada [Aksi Korporasi]",
+  "deck": "PT Asia Pramulia Tbk (ASPR) menyatakan tidak ada informasi material atau rencana korporasi di balik volatilitas sahamnya, menanggapi surat Bursa tertanggal 24 November 2026.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T15:03:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ASPR_E023A_85a4ef42-ceb1-484c-9899-e214377cc6ab-20261127150317.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ASPR",
+  "tags": [
+   "ASPR",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Asia Pramulia Tbk (ASPR) menanggapi permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi saham perseroan. Permintaan itu disampaikan BEI melalui surat Nomor S-14615/BEI.PP3/11-2026 tertanggal 24 November 2026. ASPR membalas lewat surat Nomor 10.974/AP-COSC/XI/2026 tertanggal 27 November 2026.",
+   "Dalam surat balasannya, manajemen ASPR menyatakan tidak mengetahui adanya informasi atau fakta material yang bisa mempengaruhi harga saham atau keputusan investor, baik berdasarkan Peraturan OJK Nomor 31/POJK.04/2015 tentang keterbukaan informasi, maupun Peraturan Bursa Nomor I-E poin III.2.1 dan IV.2.1. Perseroan juga menegaskan tidak ada kejadian penting lain yang material dan belum diungkapkan ke publik, serta tidak mengetahui adanya aktivitas pemegang saham tertentu sebagaimana diatur dalam Peraturan OJK Nomor 11/POJK.04/2017 tentang laporan kepemilikan saham.",
+   "Soal rencana ke depan, ASPR menyatakan tidak memiliki rencana aksi korporasi dalam tiga bulan mendatang yang akan berdampak pada pencatatan sahamnya di Bursa. Setelah dikonfirmasi oleh Corporate Secretary, pemegang saham utama perseroan juga disebut tidak memiliki rencana mengubah kepemilikan sahamnya di ASPR. Surat ini ditandatangani oleh Arif atas nama PT Asia Pramulia Tbk yang berkantor di Surabaya, Jawa Timur."
+  ],
+  "fotoAdegan": "Financial analysts reviewing blurred stock charts on distant computer monitors in a busy Jakarta brokerage office, daylight",
+  "takeaway": "Jawaban ini condong netral bagi ASPR, karena perseroan hanya menegaskan tidak ada informasi baru dan tidak membuka data finansial atau rencana bisnis yang mengubah penilaian investor atas sahamnya. Dokumen ini tidak menyentuh pos kinerja seperti jumlah saham beredar, laba per saham, atau arus kas, karena tidak ada aksi korporasi yang disebutkan, sehingga pelaku pasar belum punya alasan fundamental baru untuk merevisi valuasi perseroan. Yang perlu dipantau adalah apakah ASPR benar-benar tidak melakukan aksi korporasi dalam tiga bulan ke depan sejak surat ini terbit pada 27 November 2026, sebab klaim itu akan diuji oleh keterbukaan informasi berikutnya jika ada perubahan rencana.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "kkgi-kuartal-iii-2026-laba-bersih-naik-ke-us-11-6-juta-laba",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Kuartal III 2026: Laba Bersih Naik ke US$11,6 Juta [Laba]",
+  "deck": "Laba bersih sembilan bulan 2026 naik hampir 14 kali lipat jadi US$11,61 juta, ditopang efisiensi biaya pokok dan arus kas operasi yang berbalik positif.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T14:49:37",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-42b6bfd6-a3b1-45a1-8e48-9c493f20f891-1/FinancialStatement-2026-III-KKGI.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "KKGI",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "body": [
+   "PT Resource Alam Indonesia Tbk (KKGI) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang telah ditelaah secara terbatas oleh Kantor Akuntan Publik Kanaka Puradiredja, Suhartono dengan partner penandatangan Doly Fajar Damanik dan hasil penelaahan \"wajar\". Laba bersih periode berjalan tercatat US$11,61 juta, melonjak dari US$826.670 pada periode yang sama tahun 2025, meski pendapatan usaha justru sedikit menurun dari US$109,64 juta menjadi US$106,85 juta. Laba per saham dasar naik dari US$0,0002 menjadi US$0,0025.",
+   "Kenaikan laba terutama didorong oleh penurunan beban pokok pendapatan sebesar 18,2 persen menjadi US$75,43 juta, sehingga laba kotor melonjak 80,6 persen menjadi US$31,42 juta dan laba usaha naik dari US$2,92 juta menjadi US$21,28 juta. Arus kas dari aktivitas operasi berbalik dari defisit US$12,35 juta pada 2025 menjadi surplus US$36,32 juta pada 2026, sejalan dengan posisi kas dan setara kas yang naik dari US$42,35 juta pada akhir 2025 menjadi US$60,78 juta per 30 September 2026.",
+   "Di sisi lain, total ekuitas turun tipis dari US$151,15 juta menjadi US$148,24 juta, dipicu pembayaran dividen tunai US$8,66 juta dan selisih kurs penjabaran laporan keuangan anak usaha sebesar US$5,79 juta. Total liabilitas naik 24,77 persen dari US$30,55 juta menjadi US$38,12 juta. Dalam surat penjelasan kepada bursa, manajemen KKGI merinci bahwa utang pajak melonjak dari US$1,15 juta menjadi US$5,29 juta seiring naiknya pajak penghasilan badan akibat laba yang lebih tinggi, liabilitas kontrak jangka pendek naik 688,44 persen menjadi US$5,61 juta karena kontrak sewa lahan dan penjualan batu bara, serta uang jaminan jangka pendek melonjak dari US$6.466 menjadi US$309.591 akibat tambahan jaminan sewa dari konsumen. Sebaliknya, utang bank jangka pendek turun 76,69 persen menjadi US$65.980 karena perseroan mencicil utangnya, dan liabilitas sewa jangka pendek turun 46,75 persen menjadi US$290.787.",
+   "Surat pernyataan direksi atas laporan ini ditandatangani oleh Direktur Utama Wimpi Salim dan Direktur Agoes Soegiarto S pada 25 November 2026."
+  ],
+  "fotoAdegan": "Haul trucks loading coal at an open-pit mine stockpile under midday sun, dust rising, forested ridgeline in the background",
+  "takeaway": "Laporan ini condong positif bagi KKGI, sebab lonjakan laba hampir 14 kali lipat ini diikuti arus kas operasi yang berbalik dari defisit menjadi surplus, tanda bahwa labanya benar-benar berubah menjadi uang tunai, bukan sekadar angka di atas kertas. Dua pos yang paling bergerak adalah laba per saham, yaitu bagian laba bersih yang menjadi hak setiap lembar saham beredar dan naik lebih dari sepuluh kali lipat, serta arus kas operasi, ukuran uang tunai yang benar-benar masuk dari kegiatan usaha sehari-hari dan jadi perhatian investor karena laba akuntansi kadang tidak sejalan dengan kas riil. Kenaikan liabilitas 24,77 persen juga tidak perlu dibaca sebagai tanda bahaya, karena pendorong utamanya adalah utang pajak yang membesar akibat laba lebih tinggi dan liabilitas kontrak dari sewa lahan serta penjualan batu bara, sementara utang bank justru menyusut karena dicicil. Ekuitas yang turun tipis juga bukan sinyal memburuknya kinerja, melainkan akibat dividen tunai dan selisih kurs penjabaran anak usaha luar negeri, pos akuntansi yang tidak mencerminkan arus kas sebenarnya. Yang perlu dipantau selanjutnya adalah apakah tren efisiensi biaya dan perbaikan arus kas ini bertahan hingga laporan tahunan penuh, karena laporan ini baru mencakup sembilan bulan pertama dan belum diaudit penuh untuk tahun buku 2026.",
+  "sentimen": "positif",
+  "peristiwa": "lapkeu",
+  "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+ },
+ {
+  "slug": "penjelasan-bursa-mdln-27-november-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "Penjelasan Bursa MDLN 27 November: [Tak Ada] Informasi Material",
+  "deck": "MDLN menjawab permintaan penjelasan Bursa soal volatilitas sahamnya: tak ada info material baru, dan pemegang saham utama tak berencana ubah kepemilikan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T14:43:55",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MDLN_E023A_ae244d48-414e-4731-8ea1-1cbaa67f1fe0-20261127144357.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MDLN",
+  "tags": [
+   "MDLN",
+   "Modernland Realty",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "body": [
+   "PT Modernland Realty Tbk (MDLN) merespons permintaan penjelasan dari Bursa Efek Indonesia terkait volatilitas transaksi sahamnya, melalui surat bernomor 052/MDLN-CORSEC/XI/26 tertanggal 27 November 2026 yang menjawab surat bursa bernomor S-14638/BEI.PP2/11-2026. Dalam surat yang diteken Corporate Secretary Yahya Danu Kusumo Pate itu, perseroan menegaskan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik sesuai Peraturan OJK Nomor 31/POJK.04/2015 maupun Peraturan Bursa Nomor I-E, serta tidak mengetahui adanya aktivitas pemegang saham tertentu yang wajib dilaporkan menurut Peraturan OJK Nomor 11/POJK.04/2017.",
+   "Menjawab pertanyaan bursa soal rencana aksi korporasi dalam tiga bulan mendatang, manajemen menyatakan perseroan memang memiliki rencana tindakan korporasi yang bisa berdampak pada pencatatan sahamnya di bursa, namun hanya merujuk pada keterbukaan informasi yang sudah disampaikan sebelumnya, bernomor 046/MDLN-CORSEC/X/26 tertanggal 2 Oktober 2026, tanpa menjelaskan ulang isinya dalam surat ini. Untuk pertanyaan soal rencana pemegang saham utama, Corporate Secretary menyatakan telah mengonfirmasi langsung kepada pemegang saham utama, dan hasilnya tidak ada rencana mengubah kepemilikan saham di MDLN dalam waktu dekat."
+  ],
+  "fotoAdegan": "Construction workers finishing the exterior facade of a mixed-use residential tower in Jakarta, crane visible, late afternoon light.",
+  "takeaway": "Laporan ini netral bagi pemegang saham, karena isinya cuma bantahan rutin menjawab kecurigaan bursa atas lonjakan transaksi saham, bukan pengungkapan data keuangan atau transaksi baru yang mengubah nilai fundamental Modernland. Tidak ada pos kinerja seperti ekuitas, arus kas, atau jumlah saham beredar yang disentuh di sini, karena perseroan hanya menegaskan belum ada fakta material baru dan pemegang saham utama tidak berencana mengubah kepemilikannya, dua hal yang justru mengurangi ketidakpastian dibanding menambahnya. Yang perlu dipantau adalah rencana tindakan korporasi yang disinggung lewat rujukan ke keterbukaan informasi 2 Oktober 2026, sebab perseroan sendiri mengakui itu berpotensi berdampak pada pencatatan sahamnya di bursa dalam tiga bulan mendatang, sehingga detail rencana itu yang akan menentukan apakah struktur saham MDLN berubah atau tidak.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "penggabungan-brins-jasindo-jrp-bbri-25-nov-disepakati-wajar",
+  "category": "Aksi Korporasi",
+  "title": "Penggabungan BRINS-Jasindo-JRP BBRI 25 Nov: [Disepakati] Wajar",
+  "deck": "BRINS, anak usaha 90% milik BBRI, akan bergabung ke Jasindo bersama JRP sebagai bagian program konsolidasi asuransi BUMN oleh Danantara.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T14:33:18",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BBRI_E025A_706eb596-fd35-4898-8269-b6076b773345-20261127143320.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BBRI",
+  "tags": [
+   "BBRI",
+   "BRINS",
+   "Jasindo",
+   "Danantara"
+  ],
+  "body": [
+   "PT Bank Rakyat Indonesia (Persero) Tbk (BBRI) melaporkan bahwa pada 25 November 2026, anak usahanya PT BRI Asuransi Indonesia (BRINS) menandatangani Perjanjian Penggabungan Bersyarat bersama PT Asuransi Jasa Indonesia (Jasindo), PT Asuransi Jasaraharja Putera (JRP), BBRI sendiri, PT Bahana Pembinaan Usaha Indonesia (IFG), dan PT Jasa Raharja. Isi perjanjian itu adalah rencana penggabungan tiga perusahaan asuransi, dengan BRINS dan JRP melebur masuk ke Jasindo yang akan menjadi perusahaan penerima penggabungan. Transaksi ini digolongkan sebagai transaksi afiliasi karena ketiga perusahaan sama-sama dikendalikan secara tidak langsung oleh pihak yang sama, yaitu Negara Republik Indonesia, bukan transaksi benturan kepentingan.",
+   "Langkah ini adalah bagian dari program penataan perusahaan asuransi BUMN yang digagas Badan Pengelola Investasi Daya Anagata Nusantara (Danantara) melalui PT Danantara Asset Management, dengan IFG ditunjuk sebagai pemimpin konsolidasi sejak surat tertanggal 19 September 2025. Danantara kemudian meminta BBRI mempercepat penataan anak usahanya pada 2026 melalui surat tertanggal 30 September 2026. Sehari setelah perjanjian ditandatangani, pada 26 November 2026, direksi BRINS, Jasindo, dan JRP menyusun rancangan penggabungan yang sudah disetujui dewan komisaris masing-masing perusahaan, dan ringkasannya diumumkan ke publik lewat dua koran berbahasa Indonesia pada 27 November 2026.",
+   "Dalam struktur permodalan yang diungkap, BBRI memegang 28.035 saham atau 90 persen BRINS, sisanya 10 persen dipegang Yayasan Kesejahteraan Pekerja BRI. Jasindo saat ini 99,99 persen dimiliki Negara Republik Indonesia lewat satu saham Seri A Dwiwarna, dan 0,01 persen oleh IFG. JRP mayoritas dimiliki PT Jasa Raharja sebesar 93,80 persen, dengan sisanya tersebar ke PT Asuransi Allianz Life Indonesia, PT Pata Karsa Utama, dan PT Servico Delta Investama. Nilai transaksi tercatat 0 pada formulir keterbukaan karena pembayarannya bukan tunai, melainkan konversi saham sesuai rasio yang diatur dalam Ringkasan Rancangan Penggabungan, namun rincian rasio itu tidak tercakup dalam dokumen yang diterima. Penilai independen KJPP Suwendho Rinaldy dan Rekan, lewat penilai Ocky Rinaldy, menyatakan rencana transaksi ini wajar dalam laporan bertanggal 30 Juni 2026. Dokumen juga menyebut unit usaha syariah BRINS akan dipisahkan sebelum tanggal efektif penggabungan, sementara portofolio unit syariah JRP ditargetkan rampung dialihkan pada 2026."
+  ],
+  "fotoAdegan": "Clerks reviewing paperwork at a busy insurance office counter, filing cabinets nearby, afternoon light in Jakarta",
+  "takeaway": "Laporan ini netral bagi BBRI, sebab ini adalah penataan yang diperintahkan program konsolidasi asuransi BUMN oleh Danantara, bukan keputusan bisnis independen BBRI, dan dokumen ini belum memuat angka rasio konversi saham yang menentukan untung atau rugi BBRI dari penggabungan ini. Yang tersentuh adalah ekuitas BBRI dalam bentuk kepemilikan anak usaha, karena BRINS yang 90 persen sahamnya milik BBRI akan hilang sebagai entitas tersendiri dan digantikan dengan kepemilikan saham di Jasindo hasil penggabungan, sehingga nilainya bagi BBRI tergantung pada rasio konversi yang belum diungkap penuh di sini. Pelaku pasar perlu menunggu rasio konversi saham lengkap pada Ringkasan Rancangan Penggabungan serta tanggal efektif penggabungan, yang menurut dokumen ini masih menunggu pemenuhan sejumlah persyaratan termasuk persetujuan otoritas terkait.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Keterbukaan Informasi Transaksi Afiliasi",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "Penandatanganan Perjanjian Penggabungan Bersyarat BRINS-Jasindo-JRP"
+   },
+   {
+    "tanggal": "2026-11-26",
+    "acara": "Rancangan penggabungan disusun direksi dan disetujui komisaris"
+   },
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Ringkasan Rancangan Penggabungan diumumkan di dua koran"
+   }
+  ]
+ },
+ {
+  "slug": "rupslb-trin-8-desember-batal-agenda-baru-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TRIN 8 Desember: [Batal], Agenda Baru Menyusul",
+  "deck": "TRIN membatalkan panggilan RUPSLB yang sedianya digelar 8 Desember 2026 untuk menambah agenda rapat, jadwal baru belum ditentukan.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T14:23:11",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_TRIN_E019_0e0027cd-64bb-4afb-b319-f53dc7301612-20261127142313.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "TRIN",
+  "tags": [
+   "TRIN",
+   "RUPSLB",
+   "Triniti Properti",
+   "jadwal rapat"
+  ],
+  "body": [
+   "PT Perintis Triniti Properti Tbk (TRIN) menyampaikan keterbukaan informasi mengenai perubahan jadwal dan penambahan agenda Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) Tahun 2026. Pemanggilan rapat sebelumnya, dengan nomor surat 166/CORSEC/PTP/XI/2026 tertanggal 16 November 2026, yang menjadwalkan RUPSLB pada Selasa, 8 Desember 2026 pukul 10.00 WIB di Tangerang Selatan, Banten, resmi dibatalkan.",
+   "Perseroan menyebut pembatalan ini dilakukan karena ada penyesuaian dan penambahan mata acara rapat yang akan diinformasikan kemudian. Pemanggilan ulang RUPSLB akan dilakukan dengan jadwal pelaksanaan baru yang mengikuti mekanisme dan ketentuan pelaporan RUPS yang berlaku, sehingga tanggal pasti rapat belum ditentukan. Surat pemberitahuan ini ditandatangani oleh Direktur Utama TRIN, Ishak Chandra, dan disampaikan kepada Bursa Efek Indonesia serta Otoritas Jasa Keuangan pada 27 November 2026."
+  ],
+  "fotoAdegan": "Glass-walled modern office tower exterior in a South Tangerang business district, morning sunlight reflecting off windows.",
+  "takeaway": "Laporan ini netral bagi pemegang saham TRIN, karena isinya sekadar menunda proses RUPSLB tanpa mengubah angka keuangan apa pun, meski penambahan agenda yang belum diungkap membuka kemungkinan ada keputusan baru menyusul. Pos kinerja yang berpotensi tersentuh baru akan jelas setelah agenda lengkap diumumkan, sebab RUPSLB lazim memutuskan hal yang memengaruhi jumlah saham beredar atau struktur modal perusahaan, yang pada akhirnya bisa mengubah laba per saham yang didapat setiap pemegang saham. Yang perlu dipantau adalah pemanggilan ulang RUPSLB dengan jadwal dan agenda definitif, yang menurut surat ini akan diumumkan sesuai mekanisme pelaporan RUPS yang berlaku ke Bursa Efek Indonesia.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "mang-jawab-bei-soal-volatilitas-saham-tidak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "MANG Jawab BEI soal Volatilitas Saham: [Tidak] Ada Informasi Material",
+  "deck": "Manajemen MANG membantah ada info material yang belum dibuka dan belum punya rencana aksi korporasi dalam tiga bulan ke depan, menjawab permintaan penjelasan BEI atas volatilitas sahamnya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T13:54:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MANG_E023A_d49b5c58-c280-47ae-99dc-75ae41b8bc6d-20261127135417.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MANG",
+  "tags": [
+   "MANG",
+   "Manggung Polahraya",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Manggung Polahraya Tbk (MANG) menjawab surat Bursa Efek Indonesia Nomor S-14640/BEI.PP1/11-2026 tanggal 25 November 2026 yang meminta penjelasan atas volatilitas transaksi efek perseroan. Jawaban disampaikan melalui surat Nomor 474/CORSEC-MPR/XI/2026 tertanggal 27 November 2026 yang ditandatangani Lie Kurniawan selaku Corporate Secretary. Dalam suratnya, perseroan menyatakan tidak mengetahui adanya informasi atau fakta material yang belum diungkapkan ke publik, baik yang diatur dalam POJK Nomor 31/POJK.04/2015 tentang Keterbukaan Informasi maupun Peraturan Bursa Nomor I-E poin III.2.1 dan IV.2.1 soal kewajiban penyampaian informasi.",
+   "Perseroan juga menegaskan tidak mengetahui adanya aktivitas pemegang saham tertentu yang seharusnya dilaporkan sesuai POJK Nomor 11/POJK.04/2017 tentang Laporan Kepemilikan Saham. Soal kemungkinan aksi korporasi, manajemen menyatakan belum memiliki rencana pasti untuk melakukan tindakan korporasi dalam waktu dekat, termasuk yang bisa berakibat pada status pencatatan sahamnya di bursa, setidaknya untuk tiga bulan mendatang. Perseroan menambahkan bahwa pemegang saham utama dan pengendali juga tidak mengubah rencana terkait kepemilikan sahamnya di MANG, setelah Corporate Secretary mengonfirmasi hal itu langsung kepada pemegang saham utama sesuai permintaan bursa."
+  ],
+  "fotoAdegan": "Workers inspecting rolled sheets of processed rubber on a factory production line, humid tropical daylight through open warehouse doors",
+  "takeaway": "Secara fundamental, penjelasan ini netral karena isinya hanya bantahan atas pertanyaan rutin bursa, tanpa ada data baru soal kinerja atau rencana bisnis yang mengubah penilaian terhadap emiten. Pos yang sebetulnya tersentuh di sini adalah jumlah saham beredar, karena manajemen memastikan belum ada rencana pasti aksi korporasi seperti penerbitan saham baru dalam tiga bulan ke depan, sehingga untuk saat ini belum ada risiko laba per saham investor terdilusi oleh saham baru. Pelaku pasar juga mencermati poin soal pemegang saham pengendali, sebab perubahan rencana kepemilikan pengendali sering menjadi pemicu gejolak harga, dan di sini perseroan memastikan tidak ada perubahan semacam itu. Yang perlu dipantau berikutnya adalah apakah pola transaksi tidak biasa pada saham MANG akan berlanjut meski sudah ada bantahan resmi ini, dan apakah bursa akan mengeluarkan permintaan penjelasan lanjutan jika volatilitasnya kembali muncul.",
+  "sentimen": "netral",
+  "judulIdx": "Penjelasan atas Permintaan Penjelasan Bursa (Publish)"
+ },
+ {
+  "slug": "mesop-mtel-tahap-iii-berakhir-26-67-juta-opsi-kadaluwarsa",
+  "category": "Aksi Korporasi",
+  "title": "MESOP MTEL Tahap III Berakhir, [26,67 Juta] Opsi Kadaluwarsa",
+  "deck": "Opsi saham karyawan dan manajemen Tahap III MTEL berakhir 22 November 2026 tanpa ada opsi yang dieksekusi; 26,67 juta opsi hangus.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T13:40:04",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MTEL_E019_0bd7575e-4672-4d8f-8c12-076722d2b56d-20261127134006.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "MTEL",
+  "tags": [
+   "MTEL",
+   "MESOP",
+   "Mitratel",
+   "opsi saham"
+  ],
+  "body": [
+   "PT Dayamitra Telekomunikasi Tbk (MTEL) menyampaikan keterbukaan informasi mengenai hasil pelaksanaan Management and Employee Stock Option Plan (MESOP) Tahap III kepada Otoritas Jasa Keuangan dan Bursa Efek Indonesia. Periode pelaksanaan terakhir program ini berlangsung dari 1 November hingga 22 November 2026. Dalam periode tersebut, tidak ada opsi yang dieksekusi oleh pemegangnya, tidak ada opsi yang masih berlaku untuk dieksekusi di kemudian hari, dan sebanyak 26.677.600 lembar opsi saham dinyatakan hangus karena habis masa berlakunya tanpa pernah digunakan.",
+   "MESOP Tahap III merupakan program insentif saham untuk manajemen dan karyawan yang izin pencatatan saham tambahannya telah disetujui Bursa Efek Indonesia melalui surat Nomor S-09926/BEI.PP3/11-2023 tanggal 13 November 2023, dan diumumkan lewat Pengumuman Bursa Nomor Peng-P-01196/BEI.PP3/11-2023. Dengan berakhirnya periode pelaksanaan pada 22 November 2026, perusahaan menegaskan bahwa periode tersebut adalah yang terakhir untuk Tahap III, sehingga tidak ada lagi hak opsi yang tersisa maupun periode pelaksanaan lanjutan yang bisa dimanfaatkan pemegangnya.",
+   "Perusahaan menyatakan tidak ada dampak dari kejadian ini terhadap kegiatan operasional, hukum, kondisi keuangan, maupun kelangsungan usahanya. Laporan ditandatangani oleh Nodrhayati Candrasuci selaku Direktur Investasi yang merangkap jabatan Sekretaris Perusahaan MTEL."
+  ],
+  "fotoAdegan": "Technicians in safety harnesses inspecting equipment atop a tall telecommunications tower under a clear sky",
+  "takeaway": "Laporan ini netral bagi MTEL karena tidak ada opsi yang dieksekusi, tidak ada dana masuk ke kas perusahaan, dan tidak ada saham baru yang terbit, sementara 26,67 juta opsi yang hangus hanya pecahan kecil dari total saham beredar perusahaan. Pos yang tersentuh adalah jumlah saham beredar: kalau opsi dieksekusi, perusahaan biasanya menerbitkan saham baru sehingga laba per saham bisa terdilusi karena laba yang sama harus dibagi ke lebih banyak lembar saham, tapi karena opsi ini hangus tanpa dieksekusi, risiko dilusi dari tahap ini otomatis hilang. Yang perlu dicermati berikutnya adalah apakah MTEL mengajukan program insentif saham baru lewat RUPS mendatang, karena dokumen ini menegaskan Tahap III adalah periode pelaksanaan terakhir dan tidak ada lagi opsi atau tahap lanjutan yang tersisa.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
   "slug": "karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik",
   "category": "BUMN",
   "title": "Karyawan Telkom [Tanam] 1.000 Mangrove di Pesisir Gresik",
@@ -35586,8 +35789,8 @@ var ARTICLES = [
  {
   "slug": "wico-review-keuangan-kuartal-iii-untuk-rencana-jual-aset",
   "category": "Aksi Korporasi",
-  "title": "WICO Review Keuangan Kuartal III untuk Rencana [Jual] Aset",
-  "deck": "WICO memberitahu BEI rencana penelaahan terbatas laporan keuangan interim Kuartal III 2026 guna mendukung rencana penjualan salah satu asetnya.",
+  "title": "Laporan Interim WICO: [Defisiensi Modal] Melebar ke Rp229,6 Miliar",
+  "deck": "Laporan interim WICO yang ditelaah KAP Hendrawinata Hanny Erwin & Sumargo menyebut keraguan kelangsungan usaha, meski DKSH Holding selaku pemegang saham mayoritas berkomitmen beri dukungan dana.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "4 November 2026",
   "isoDate": "2026-11-04T16:39:41",
@@ -35596,18 +35799,28 @@ var ARTICLES = [
   "emiten": "WICO",
   "tags": [
    "WICO",
-   "limited review",
-   "penjualan aset",
-   "laporan keuangan"
+   "Laporan Keuangan",
+   "Going Concern",
+   "Defisiensi Modal"
   ],
   "body": [
-   "PT Wicaksana Overseas International Tbk (WICO) menyampaikan kepada Bursa Efek Indonesia rencana melakukan penelaahan terbatas (limited review) atas laporan keuangan interim untuk periode sembilan bulan yang berakhir 30 September 2026. Surat bernomor 002/WICO/Corsec/XI/2026 ini ditandatangani Direktur WICO, Andika Laksmana Putra, dan tertanggal 4 November 2026 di Jakarta.",
-   "Dalam surat itu, perseroan menjelaskan bahwa penelaahan terbatas tersebut dilakukan untuk memperoleh laporan keuangan interim yang disertai laporan dari akuntan publik, dan laporan ini dimaksudkan untuk mendukung proses rencana penjualan salah satu aset perusahaan. Dokumen tidak merinci aset mana yang dimaksud, berapa nilainya, atau siapa calon pembelinya.",
-   "Perseroan menyebut masih memproses penunjukan Kantor Akuntan Publik (KAP) yang akan melaksanakan penelaahan tersebut, dan hingga tanggal surat ini proses penunjukan belum difinalisasi. WICO berjanji akan menyampaikan informasi mengenai KAP dan akuntan publik yang ditunjuk setelah proses selesai, serta perkembangan material lain jika ada perubahan dari informasi yang disampaikan dalam surat ini."
+   "PT Wicaksana Overseas International Tbk (WICO) menyampaikan laporan keuangan konsolidasian interim untuk periode sembilan bulan yang berakhir 30 September 2026, yang telah ditelaah secara terbatas oleh Kantor Akuntan Publik Hendrawinata Hanny Erwin & Sumargo dengan partner penandatangan Martinus Aryo Prabowo. Dalam laporan bertanggal 25 November 2026, auditor mencantumkan paragraf penekanan suatu hal yang menyatakan ada ketidakpastian material yang bisa menimbulkan keraguan signifikan atas kemampuan WICO melanjutkan usahanya. Per akhir September 2026, WICO mencatat akumulasi defisit Rp1,04 triliun, rugi bersih Rp9,62 miliar untuk sembilan bulan, dan defisiensi modal, yakni kondisi ketika total utang sudah melebihi total aset, sebesar Rp229,56 miliar, melebar dari Rp219,94 miliar pada akhir 2025. Total liabilitas jangka pendek WICO juga sudah Rp32,96 miliar lebih besar dibanding aset lancarnya.",
+   "Auditor mencatat bahwa DKSH Holding, pemegang saham mayoritas WICO, telah berkomitmen memberikan dukungan keuangan yang diperlukan agar perseroan bisa terus beroperasi. Laporan ini adalah hasil dari rencana penelaahan terbatas yang pertama kali diberitahukan WICO kepada Bursa Efek Indonesia pada 4 November 2026, saat itu nama kantor akuntan publik yang akan menangani penelaahan belum ditentukan. Perseroan sebelumnya menjelaskan bahwa laporan keuangan yang ditelaah ini dibutuhkan untuk mendukung rencana penjualan salah satu asetnya, dan dokumen terbaru menyebut laporan ini juga akan dipakai untuk kepentingan penilaian kelompok usaha WICO oleh penilai independen.",
+   "Dibandingkan periode sembilan bulan tahun 2025, yang disajikan sebagai angka pembanding namun tidak diaudit maupun direviu, rugi bersih WICO pada 2026 jauh lebih kecil dari Rp100,78 miliar, dan laba usaha berbalik positif menjadi Rp1,86 miliar dari sebelumnya rugi usaha Rp87,24 miliar. Namun penjualan bersih perseroan turun tajam dari Rp532,57 miliar menjadi Rp126,58 miliar, mencerminkan skala usaha yang jauh menyusut. WICO saat ini juga masih tercatat di papan pemantauan khusus Bursa Efek Indonesia, status yang biasanya dikenakan kepada emiten dengan kondisi keuangan atau kelangsungan usaha yang perlu pengawasan lebih."
   ],
   "fotoAdegan": "Workers loading boxes onto a delivery truck at a logistics warehouse loading dock, daylight",
-  "takeaway": "Laporan ini netral bagi pemegang saham karena belum ada rincian soal aset yang akan dijual, nilai transaksinya, atau dampaknya terhadap keuangan perusahaan, jadi masih terlalu dini untuk disebut sinyal positif atau negatif. Pos yang tersentuh di sini adalah arus kas, yaitu aliran uang tunai masuk dan keluar dari kegiatan perusahaan, karena penjualan aset biasanya mendatangkan dana segar yang bisa dipakai untuk membayar utang atau menambah modal kerja, dan laporan keuangan yang ditelaah akuntan publik independen juga membuat angka asetnya lebih bisa dipercaya oleh calon pembeli. Yang perlu dipantau berikutnya adalah pengumuman nama KAP yang akhirnya ditunjuk serta detail aset yang dijual, termasuk nilai dan pembelinya, yang menurut surat ini akan disampaikan begitu proses penunjukan dan transaksi berjalan lebih jauh.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini condong negatif bagi WICO karena auditor independen secara terang-terangan menyoroti ketidakpastian material atas kelangsungan usaha perseroan, bukan sekadar catatan rutin penelaahan keuangan. Yang tersentuh adalah ekuitas, yaitu selisih antara aset dan utang perusahaan, yang di WICO sudah negatif sebesar Rp229,56 miliar alias defisiensi modal, artinya utang perseroan sudah melampaui seluruh asetnya, dan ini melebar dari Rp219,94 miliar di akhir 2025. Arus kas jangka pendek juga tersentuh karena liabilitas yang harus dibayar dalam waktu dekat sudah Rp32,96 miliar lebih besar dibanding uang dan aset cair yang dimiliki perseroan. Faktor penyeimbangnya adalah komitmen DKSH Holding selaku pemegang saham mayoritas untuk menyuntikkan dukungan dana, tapi angka dan jadwal penyalurannya belum diumumkan. Yang perlu dipantau berikutnya adalah kelanjutan rencana penjualan aset yang disebut sebagai alasan penelaahan ini, karena dokumen belum merinci aset mana, nilainya, dan kapan transaksi itu akan diumumkan ke publik.",
+  "sentimen": "negatif",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T14:40:34",
+    "ringkas": "WICO merilis laporan interim Kuartal III 2026: auditor menyoroti keraguan kelangsungan usaha dan defisiensi modal Rp229,56 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-b284e625-5cb0-4f56-a8ea-3b627f3759bf-1/FinancialStatement-2026-III-WICO.pdf",
+    "judulIdx": "Penyampaian Laporan Keuangan Interim yang Ditelaah secara Terbatas"
+   }
+  ],
+  "diperbarui": "2026-11-27T14:40:34",
+  "peristiwa": "lapkeu"
  },
  {
   "slug": "bipp-rampungkan-pmthmetd-saham-baru-ke-afiliasi",

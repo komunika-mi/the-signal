@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "aspr-jawab-bursa-soal-volatilitas-tak-ada-aksi-korporasi",
+  "category": "Aksi Korporasi",
+  "title": "ASPR Jawab Bursa soal Volatilitas: Tak Ada [Aksi Korporasi]",
+  "deck": "PT Asia Pramulia Tbk (ASPR) menyatakan tidak ada informasi material atau rencana korporasi di balik volatilitas sahamnya, menanggapi surat Bursa tertanggal 24 November 2026.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ASPR",
+   "Bursa Efek Indonesia",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ASPR_E023A_85a4ef42-ceb1-484c-9899-e214377cc6ab-20261127150317.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "kkgi-kuartal-iii-2026-laba-bersih-naik-ke-us-11-6-juta-laba",
+  "category": "Aksi Korporasi",
+  "title": "KKGI Kuartal III 2026: Laba Bersih Naik ke US$11,6 Juta [Laba]",
+  "deck": "Laba bersih sembilan bulan 2026 naik hampir 14 kali lipat jadi US$11,61 juta, ditopang efisiensi biaya pokok dan arus kas operasi yang berbalik positif.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "KKGI",
+   "Resource Alam Indonesia",
+   "laporan keuangan",
+   "laba bersih"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-42b6bfd6-a3b1-45a1-8e48-9c493f20f891-1/FinancialStatement-2026-III-KKGI.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penjelasan-bursa-mdln-27-november-tak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "Penjelasan Bursa MDLN 27 November: [Tak Ada] Informasi Material",
+  "deck": "MDLN menjawab permintaan penjelasan Bursa soal volatilitas sahamnya: tak ada info material baru, dan pemegang saham utama tak berencana ubah kepemilikan.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MDLN",
+   "Modernland Realty",
+   "volatilitas saham",
+   "Bursa Efek Indonesia"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MDLN_E023A_ae244d48-414e-4731-8ea1-1cbaa67f1fe0-20261127144357.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "penggabungan-brins-jasindo-jrp-bbri-25-nov-disepakati-wajar",
+  "category": "Aksi Korporasi",
+  "title": "Penggabungan BRINS-Jasindo-JRP BBRI 25 Nov: [Disepakati] Wajar",
+  "deck": "BRINS, anak usaha 90% milik BBRI, akan bergabung ke Jasindo bersama JRP sebagai bagian program konsolidasi asuransi BUMN oleh Danantara.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BBRI",
+   "BRINS",
+   "Jasindo",
+   "Danantara"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BBRI_E025A_706eb596-fd35-4898-8269-b6076b773345-20261127143320.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupslb-trin-8-desember-batal-agenda-baru-menyusul",
+  "category": "Aksi Korporasi",
+  "title": "RUPSLB TRIN 8 Desember: [Batal], Agenda Baru Menyusul",
+  "deck": "TRIN membatalkan panggilan RUPSLB yang sedianya digelar 8 Desember 2026 untuk menambah agenda rapat, jadwal baru belum ditentukan.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "TRIN",
+   "RUPSLB",
+   "Triniti Properti",
+   "jadwal rapat"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_TRIN_E019_0e0027cd-64bb-4afb-b319-f53dc7301612-20261127142313.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mang-jawab-bei-soal-volatilitas-saham-tidak-ada-informasi-material",
+  "category": "Aksi Korporasi",
+  "title": "MANG Jawab BEI soal Volatilitas Saham: [Tidak] Ada Informasi Material",
+  "deck": "Manajemen MANG membantah ada info material yang belum dibuka dan belum punya rencana aksi korporasi dalam tiga bulan ke depan, menjawab permintaan penjelasan BEI atas volatilitas sahamnya.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MANG",
+   "Manggung Polahraya",
+   "volatilitas saham",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MANG_E023A_d49b5c58-c280-47ae-99dc-75ae41b8bc6d-20261127135417.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "mesop-mtel-tahap-iii-berakhir-26-67-juta-opsi-kadaluwarsa",
+  "category": "Aksi Korporasi",
+  "title": "MESOP MTEL Tahap III Berakhir, [26,67 Juta] Opsi Kadaluwarsa",
+  "deck": "Opsi saham karyawan dan manajemen Tahap III MTEL berakhir 22 November 2026 tanpa ada opsi yang dieksekusi; 26,67 juta opsi hangus.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "MTEL",
+   "MESOP",
+   "Mitratel",
+   "opsi saham"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_MTEL_E019_0bd7575e-4672-4d8f-8c12-076722d2b56d-20261127134006.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "karyawan-telkom-tanam-1-000-mangrove-di-pesisir-gresik",
   "category": "BUMN",
   "title": "Karyawan Telkom [Tanam] 1.000 Mangrove di Pesisir Gresik",
@@ -6378,117 +6490,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e1fd90915_7d23043d2f.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "dividen-interim-psgo-rp6-per-saham-cair-18-desember-2026",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim PSGO Rp6 per Saham, [Cair] 18 Desember 2026",
-  "deck": "PSGO membagikan dividen tunai interim tahun buku 2026 senilai Rp113,1 miliar atau Rp6 per saham, dibayarkan 18 Desember 2026.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSGO",
-   "dividen interim",
-   "Palma Serasih",
-   "dividen tunai"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/bb4522579a_24c051d5ea.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-zata-rugi-rp77-8-m-usai-divestasi-aset-tekan-utang",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose ZATA: Rugi Rp77,8 M Usai [Divestasi] Aset Tekan Utang",
-  "deck": "Materi Public Expose tahunan ZATA menunjukkan rugi bersih Rp77,8 miliar akibat rugi pelepasan aset non-produktif Rp78,3 miliar untuk melunasi utang ke Bank OCBC.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ZATA",
-   "Public Expose",
-   "divestasi aset",
-   "laporan keuangan"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/c0be81de52_a3d9c1c0fb.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "pssi-komisaris-beli-102-900-saham-hak-suara-jadi-0-252",
-  "category": "Aksi Korporasi",
-  "title": "PSSI: Komisaris [Beli] 102.900 Saham, Hak Suara Jadi 0,252%",
-  "deck": "Komisaris PSSI, Iriawan Ibarat, membeli 102.900 saham secara tidak langsung pada 11-12 November 2026, hak suaranya naik tipis menjadi 0,252%.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "PSSI",
-   "IMC Pelita Logistik",
-   "kepemilikan saham",
-   "komisaris"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-7752-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "dgik-perseroan-jual-400-2-juta-saham-treasury-suara-ke-0",
-  "category": "Aksi Korporasi",
-  "title": "DGIK: Global Dinamika Kencana Tambah 1,48 Juta Saham, Hak Suara 75,60%",
-  "deck": "Global Dinamika Kencana kembali membeli 1.475.200 saham DGIK pada 19 November 2026 senilai Rp151 per saham, namun porsinya hanya 0,035% dari kepemilikannya sehingga hak suaranya tetap 75,60%.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "DGIK",
-   "Global Dinamika Kencana",
-   "Laporan Kepemilikan",
-   "Nusa Konstruksi Enjiniring"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-19112026-2538-00.pdf-0.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mfmi-imhk-alihkan-99-35-saham-ke-im-asia-restrukturisasi",
-  "category": "Aksi Korporasi",
-  "title": "MFMI: IMHK Alihkan 99,35% Saham ke IM Asia [Restrukturisasi]",
-  "deck": "IMHK mengalihkan 752,6 juta saham MFMI (99,35%) ke Iron Mountain Asia Pte Ltd lewat pasar negosiasi BEI pada 18 November 2026, restrukturisasi internal tanpa mengubah pengendali.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MFMI",
-   "Iron Mountain",
-   "pemegang saham",
-   "restrukturisasi internal"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/718f44f88c_eeadf63a2a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "mina-jelaskan-ke-bei-dana-rights-issue-baru-10-terealisasi",
-  "category": "Aksi Korporasi",
-  "title": "MINA Jelaskan ke BEI: Dana Rights Issue Baru [10%] Terealisasi",
-  "deck": "MINA menjawab permintaan penjelasan BEI: baru Rp16,99 miliar atau 10% dana rights issue Juli 2025 terpakai, sisanya mengendap di deposito dan giro bank.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MINA",
-   "rights issue",
-   "HMETD",
-   "Mertasari"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/890fd201dd_ef0f00d7ca.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "indonesia-jerman-bahas-investasi-ieu-cepa-diincar-2027",
-  "category": "Global",
-  "title": "Indonesia-Jerman Bahas Investasi, IEU-CEPA Diincar [2027]",
-  "deck": "Wakil Menteri Koordinator Perekonomian bertemu pejabat Jerman, membahas investasi semikonduktor-AI dan target implementasi IEU-CEPA mulai 2027.",
-  "date": "18 November 2026",
-  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
-  "tags": [
-   "IEU-CEPA",
-   "Jerman",
-   "Investasi",
-   "EUDR"
-  ],
-  "sourceUrl": "https://ekon.go.id/publikasi/detail/7233/perkuat-kemitraan-ekonomi-dengan-jerman-indonesia-dorong-peningkatan-perdagangan-dan-investasi",
-  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
  }
 ];

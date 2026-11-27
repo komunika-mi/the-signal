@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "UMysmo1XGlI",
+  "title": "Nvidia Bekukan Pengiriman Chip AI ke Indonesia dan Asia Tenggara",
+  "category": "Teknologi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Nvidia dilaporkan membekukan pengiriman server AI ke Indonesia, Malaysia, Singapura, dan Thailand menyusul pengetatan aturan ekspor Amerika Serikat, berpotensi menghambat pengembangan infrastruktur AI di kawasan.",
+  "takeaway": "Kebijakan ekspor chip AS berdampak langsung pada rantai pasok teknologi dan rencana investasi digital di Indonesia, sehingga relevan bagi pembaca ekonomi."
+ },
+ {
   "id": "gMzDgINTGSk",
   "title": "Polda Metro Jaya dan PNM Perluas Akses Usaha Bagi Perempuan",
   "category": "UMKM",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Utama",
   "summary": "Presiden Prabowo Subianto menyebut forum APEC memberikan manfaat nyata bagi perekonomian Indonesia, dengan potensi investasi dan kesepakatan ekonomi senilai US$86,8 miliar.",
   "takeaway": "Angka investasi dari forum APEC ini relevan bagi pembaca ekonomi karena menggambarkan potensi aliran modal asing ke Indonesia."
- },
- {
-  "id": "KI7yCxCWs2s",
-  "title": "KDMP Ciwaru Sukabumi Kembangkan Hilirisasi Perikanan",
-  "category": "UMKM",
-  "program": "tvOneNews",
-  "summary": "KDMP Desa Ciwaru, Sukabumi, mendorong hilirisasi sektor perikanan dengan mengolah hasil tangkapan laut menjadi produk bernilai tambah serta membuka peluang usaha baru.",
-  "takeaway": "Contoh hilirisasi di tingkat desa ini relevan bagi pembaca ekonomi sebagai gambaran bagaimana UMKM perikanan bisa meningkatkan nilai tambah produknya."
  }
 ];

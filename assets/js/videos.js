@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "UMysmo1XGlI",
+  "title": "Nvidia Bekukan Pengiriman Chip AI ke Indonesia dan Asia Tenggara",
+  "category": "Teknologi",
+  "program": "Apa Kabar Indonesia Siang",
+  "summary": "Nvidia dilaporkan membekukan pengiriman server AI ke Indonesia, Malaysia, Singapura, dan Thailand menyusul pengetatan aturan ekspor Amerika Serikat, berpotensi menghambat pengembangan infrastruktur AI di kawasan.",
+  "takeaway": "Kebijakan ekspor chip AS berdampak langsung pada rantai pasok teknologi dan rencana investasi digital di Indonesia, sehingga relevan bagi pembaca ekonomi.",
+  "terbit": "2026-11-27T06:55:38+00:00"
+ },
+ {
   "id": "gMzDgINTGSk",
   "title": "Polda Metro Jaya dan PNM Perluas Akses Usaha Bagi Perempuan",
   "category": "UMKM",

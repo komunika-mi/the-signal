@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dagang-ri-uea-tembus-us-5-1-miliar-naik-14-persen",
+  "category": "Global",
+  "title": "Dagang RI-UEA Tembus US$5,1 Miliar, [Naik] 14 Persen",
+  "deck": "Di usia 50 tahun hubungan diplomatik, nilai dagang Indonesia-UEA naik ditopang perjanjian dagang CEPA, sementara investasi UEA ke Indonesia masih tergolong kecil.",
+  "date": "27 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "Indonesia-UEA",
+   "CEPA",
+   "Perdagangan Bilateral",
+   "Investasi Asing"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7256/pemerintah-jaga-kemitraan-dinamis-dengan-uni-emirat-arab-untuk-tingkatkan-kemakmuran-masyarakat-kedua-negara",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "aspr-jawab-bursa-soal-volatilitas-tak-ada-aksi-korporasi",
   "category": "Aksi Korporasi",
   "title": "ASPR Jawab Bursa soal Volatilitas: Tak Ada [Aksi Korporasi]",
@@ -35,6 +51,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f-42b6bfd6-a3b1-45a1-8e48-9c493f20f891-1/FinancialStatement-2026-III-KKGI.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bp-batam-perkuat-regulasi-jadi-gerbang-investasi-global",
+  "category": "Industri",
+  "title": "BP Batam Perkuat Regulasi Jadi [Gerbang] Investasi Global",
+  "deck": "BP Batam memperkuat regulasi, perizinan, dan layanan agar jadi gerbang investasi, manufaktur, data center, dan logistik regional, didukung empat aturan baru 2025.",
+  "date": "27 November 2026",
+  "image": "assets/img/bp-batam-perkuat-regulasi-jadi-gerbang-investasi-global.jpg",
+  "imageV": "mwyrlev2",
+  "tags": [
+   "BP Batam",
+   "investasi",
+   "KPBPB",
+   "Batam"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480636-bidik-jadi-gerbang-investasi-global-bp-batam-perkuat-regulasi-hingga-layanan"
  },
  {
   "slug": "penjelasan-bursa-mdln-27-november-tak-ada-informasi-material",
@@ -83,6 +116,23 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_TRIN_E019_0e0027cd-64bb-4afb-b319-f53dc7301612-20261127142313.pdf",
   "sourceLabel": "IDX"
+ },
+ {
+  "slug": "bri-gelar-jambore-apresiasi-1-220-mantri-di-bali",
+  "category": "Perbankan",
+  "title": "BRI Gelar Jambore, [Apresiasi] 1.220 Mantri di Bali",
+  "deck": "BRI mengumpulkan 1.220 peserta dalam Jambore Mantri Nasional 2026 di Bali untuk mengapresiasi peran mantri mendampingi pelaku usaha mikro di seluruh Indonesia.",
+  "date": "27 November 2026",
+  "image": "assets/img/bri-gelar-jambore-apresiasi-1-220-mantri-di-bali.jpg",
+  "imageV": "mwyrlfhl",
+  "tags": [
+   "BRI",
+   "Mantri BRI",
+   "UMKM",
+   "Jambore Mantri 2026"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480630-bri-gelar-jambore-mantri-nasional-2026"
  },
  {
   "slug": "mang-jawab-bei-soal-volatilitas-saham-tidak-ada-informasi-material",
@@ -2026,7 +2076,7 @@ var ARTICLES = [
   "title": "RI Kejar Keanggotaan [OECD], Sekjen Cormann ke Jakarta",
   "deck": "Sekretaris Jenderal OECD Mathias Cormann berkunjung ke Jakarta 25-26 November untuk mengecek proses aksesi Indonesia yang kini memasuki pembahasan teknis di 25 bidang.",
   "date": "24 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "OECD",
    "Aksesi OECD",
@@ -2460,7 +2510,7 @@ var ARTICLES = [
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
   "deck": "Indonesia mendorong perjanjian dagang komprehensif dengan Inggris menjelang berakhirnya fasilitas tarif preferensi UK-DCTS pada 2027.",
   "date": "24 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Perdagangan",
@@ -2880,7 +2930,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan perjanjian investasi di Brussels, membuka tarif nol persen untuk 90,4 persen produk Indonesia ke pasar 450 juta penduduk Eropa.",
   "date": "23 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4144,7 +4194,7 @@ var ARTICLES = [
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
   "date": "22 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4228,7 +4278,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4705,7 +4755,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -5158,7 +5208,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -6075,7 +6125,7 @@ var ARTICLES = [
   "title": "KPPU Periksa Saksi Kasus [Tender] Revitalisasi Pasar Ciparay",
   "deck": "KPPU mendalami dasar hitungan kontribusi dan kelayakan investasi dalam sidang dugaan persekongkolan tender revitalisasi Pasar Desa Ciparay; sidang lanjutan digelar 23 November 2026.",
   "date": "19 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [
    "KPPU",
    "Pasar Ciparay",
@@ -6288,7 +6338,7 @@ var ARTICLES = [
   "title": "KPPU dan Jabar [Teken] Kesepakatan Awasi Persaingan Usaha",
   "deck": "KPPU dan Pemprov Jawa Barat menandatangani kerja sama pengawasan persaingan usaha dan kemitraan di tengah forum investasi WJIF 2026 di Bandung.",
   "date": "19 November 2026",
-  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
+  "image": "assets/img/168-mou-senilai-us-13-2-miliar-diteken-di-tei-ke-41.jpg",
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
@@ -6440,55 +6490,5 @@ var ARTICLES = [
   "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
   "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/insiden-kilang-ppsdm-migas-cepu-kementerian-esdm-pastikan-situasi-terkendali-dan-investigasi-penyebab-ledakan",
   "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "ri-china-sepakati-kerja-sama-batu-bara-ke-etanol-us-1-8-miliar",
-  "category": "Energi",
-  "title": "RI-China Sepakati Kerja Sama Batu Bara ke Etanol [US$1,8 Miliar]",
-  "deck": "Indonesia dan Tiongkok sepakati MoU coal-to-ethanol senilai US$1,8 miliar, bagian dari paket kerja sama US$71,8 miliar yang disaksikan Presiden Prabowo di Shenzhen.",
-  "date": "19 November 2026",
-  "image": "assets/img/ri-china-sepakati-kerja-sama-batu-bara-ke-etanol-us-1-8-miliar.jpg",
-  "imageV": "mwn1b8wr",
-  "tags": [
-   "hilirisasi batu bara",
-   "coal-to-ethanol",
-   "Indonesia-Tiongkok",
-   "Pertamina"
-  ],
-  "kreditFoto": "Kementerian Energi dan Sumber Daya Mineral",
-  "sourceUrl": "https://www.esdm.go.id/id/media-center/arsip-berita/disaksikan-presiden-prabowo-kerja-sama-coal-to-ethanol-usd18-miliar-dorong-hilirisasi-batu-bara",
-  "sourceLabel": "Kementerian Energi dan Sumber Daya Mineral"
- },
- {
-  "slug": "rupslb-pola-28-desember-diminta-pemegang-saham-pengendali-72-61",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB POLA 28 Desember: Diminta Pemegang Saham Pengendali [72,61%]",
-  "deck": "Pool Advista Finance (POLA) akan menggelar RUPSLB pada 28 Desember 2026 atas permintaan pemegang saham pengendali yang menguasai 72,61% hak suara.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "POLA",
-   "RUPSLB",
-   "Pool Advista Finance",
-   "pemegang saham pengendali"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/56cd5bdc49_21a7363689.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-trio-28-desember-dps-pemegang-saham-per-3-desember",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB TRIO 28 Desember: [DPS] Pemegang Saham per 3 Desember",
-  "deck": "Trikomsel Oke (TRIO) menjadwalkan RUPSLB pada Senin, 28 Desember 2026. Pemegang saham yang berhak hadir ditentukan dari daftar per 3 Desember 2026.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "TRIO",
-   "RUPSLB",
-   "Trikomsel Oke",
-   "Pemegang Saham"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/9e1fd90915_7d23043d2f.pdf",
-  "sourceLabel": "IDX"
  }
 ];

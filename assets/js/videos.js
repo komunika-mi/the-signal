@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "lycd2fYOBJA",
+  "title": "Di Pertemuan Tahunan BI, Presiden Prabowo Akui Kinerja Belum Optimal",
+  "category": "Moneter",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto mengakui pemerintahannya belum bekerja secara maksimal saat menghadiri Pertemuan Tahunan Bank Indonesia 2026 di kompleks kantor pusat BI, Jakarta.",
+  "takeaway": "Pengakuan kepala negara di forum tahunan bank sentral ini relevan bagi pembaca ekonomi sebagai sinyal evaluasi arah kebijakan makroekonomi dan koordinasi fiskal moneter menjelang tahun depan.",
+  "terbit": "2026-11-27T15:04:15+00:00"
+ },
+ {
   "id": "7bdY8ZSnKEY",
   "title": "Krisis Iklim dan Ketahanan Energi Ancam Asia Tenggara",
   "category": "Energi",

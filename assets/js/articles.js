@@ -3,6 +3,34 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir",
+  "category": "UMKM",
+  "title": "Kemendag Gandeng UI Latih Mahasiswa Jadi [Eksportir]",
+  "deck": "Kemendag dan Universitas Indonesia menandatangani kerja sama Campuspreneur untuk mendampingi mahasiswa dan UMKM binaan kampus menembus pasar ekspor.",
+  "image": "assets/img/kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir.jpg",
+  "date": "28 November 2026",
+  "isoDate": "2026-11-27T17:36:25.734Z",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/campuspreneur-kemendag-ajak-mahasiswa-ui-jadi-eksportir",
+  "sourceLabel": "Kementerian Perdagangan",
+  "tags": [
+   "Kemendag",
+   "Universitas Indonesia",
+   "Campuspreneur",
+   "Ekspor UMKM"
+  ],
+  "body": [
+   "Kementerian Perdagangan dan Universitas Indonesia menandatangani perjanjian kerja sama untuk mengintegrasikan program Campuspreneur pada Jumat, 27 November 2026, di kampus UI Depok. Lewat kerja sama ini, mahasiswa, alumni, dan UMKM binaan UI bisa mengakses pendampingan usaha dan fasilitasi ekspor dari Kemendag, dengan tujuan mendorong mereka menembus pasar luar negeri. Perjanjian diteken oleh Direktur Jenderal Pengembangan Ekspor Nasional Kemendag, Fajarini Puntodewi, dan Dekan Fakultas Ekonomi dan Bisnis UI, Yulianti.",
+   "Campuspreneur sendiri merupakan program Kemendag yang menghubungkan mahasiswa, alumni, dan UMKM binaan kampus dengan pemerintah, pelaku usaha, lembaga pembiayaan, ritel, serta jaringan pasar ekspor. Di sisi UI, Fakultas Ekonomi dan Bisnis memiliki unit kerja khusus bernama UKM Centre yang selama ini berfokus membina UMKM dan mengembangkan kewirausahaan mahasiswa, dan unit inilah yang diharapkan jadi penghubung utama dengan program Kemendag tersebut.",
+   "Dampak program ini mulai terlihat pada penyelenggaraan Trade Expo Indonesia 2026 pertengahan Oktober lalu. Kemendag mengkurasi sekitar 80 UMKM binaan berbagai kampus, lalu memilih 25 pelaku usaha dari 20 perguruan tinggi, termasuk dua UMKM binaan UI, untuk mengisi Booth Campuspreneur. Sebelum pameran, para pelaku usaha ini dibekali pelatihan desain produk, prosedur ekspor, pengemasan, hingga fotografi produk bersama Indonesia Design Development Center.",
+   "Menurut Kemendag, stan Campuspreneur di ajang itu mencatat potensi transaksi senilai US$24,57 juta dari penandatanganan nota kesepahaman, letter of intent, dan formulir permintaan pembeli, angka yang mencakup seluruh 25 UMKM peserta, bukan khusus UI. Sekretaris Direktorat Jenderal PEN Kemendag, Sugih Rahmansyah, mengatakan kerja sama dengan UI akan diarahkan menjadi program yang terukur dan berkelanjutan, dengan menggabungkan riset serta UMKM binaan kampus dan fasilitasi pasar ekspor milik Kemendag."
+  ],
+  "fotoAdegan": "Young entrepreneurs in a university workshop space packing small handmade goods into export-ready boxes, natural daylight through windows",
+  "fotoSumber": "https://www.kemendag.go.id/albums/9JodqAc6m2gnA8qk4N1XhtI9ZDoG5aH98b8bTERe.jpg",
+  "kreditFoto": "Kementerian Perdagangan",
+  "takeaway": "Yang berubah konkret adalah status kerja sama UI dengan Kemendag menjadi resmi lewat PKS, melanjutkan program Campuspreneur yang sebelumnya sudah menjaring 25 dari 80 UMKM binaan kampus se-Indonesia untuk ikut Trade Expo Indonesia 2026, termasuk dua pelaku usaha dari UI sendiri. Yang terdampak langsung adalah mahasiswa dan UMKM binaan UI, khususnya yang didampingi UKM Centre FEB UI, karena merekalah yang berhak memanfaatkan pelatihan dan akses pembeli internasional dari program ini. Soal angka potensi transaksi US$24,57 juta yang disebut Kemendag, itu berasal dari total 25 UMKM se-Indonesia di TEI 2026, bukan khusus UI, dan masih berupa penandatanganan nota kesepahaman serta minat beli, bukan transaksi yang sudah cair. PKS ini sendiri belum menyebut target jumlah UMKM UI yang akan didampingi atau tenggat waktu program, sehingga belum bisa dipastikan apakah kerja sama ini akan memperbesar porsi UI di ekspor binaan kampus atau sekadar formalitas administratif. Yang perlu dipantau adalah apakah UI mengirim lebih banyak UMKM binaan ke Trade Expo Indonesia berikutnya atau pameran ekspor lain, sebagai bukti kerja sama ini berjalan nyata.",
+  "imageV": "mwz9q5iu"
+ },
+ {
   "slug": "public-expose-wskt-2-des-suspensi-tunggu-syarat-administratif-bei",
   "category": "Aksi Korporasi",
   "title": "Public Expose WSKT 2 Des: [Suspensi] Tunggu Syarat Administratif BEI",
@@ -119,7 +147,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang konkret berubah dari pertemuan ini adalah patokan resmi Bank Indonesia untuk dua tahun ke depan: ekonomi diproyeksikan tumbuh 4,9 sampai 5,7 persen pada 2026, naik ke 5,2 sampai 6,0 persen pada 2027, dan bank-bank ditargetkan menyalurkan kredit baru 9 sampai 13 persen lebih banyak pada 2027. Target kredit ini paling langsung menyentuh perbankan, karena jadi acuan seberapa berani bank memperluas pinjaman tahun depan, sekaligus pelaku usaha yang bergantung pada kredit untuk ekspansi bisnis. Arahnya, BI tampak mempertahankan suku bunga sebagai alat utama menjaga stabilitas, sementara aturan permodalan bank dan sistem pembayaran didorong lebih agresif agar kredit bisa tumbuh tanpa harus menurunkan suku bunga acuan. Yang akan menentukan apakah strategi ini berjalan adalah data pertumbuhan kredit perbankan pada awal 2027, karena target 9 sampai 13 persen itu jauh di atas kebiasaan tahun-tahun sebelumnya dan baru akan teruji begitu tahun anggaran baru berjalan.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "smgr-direktur-keuangan-mundur-plt-diisi-wakil-dirut",
@@ -570,7 +598,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah secara konkret adalah nilai dagang Indonesia-UEA yang naik 14 persen pada sembilan bulan pertama 2025 dibanding periode sama tahun sebelumnya, menjadi US$5,1 miliar, dengan target pemerintah menembus US$8 miliar pada 2030. Investasi UEA ke Indonesia justru masih kecil, hanya US$169,7 juta tahun ini, membuat UEA baru menjadi investor terbesar ke-22 di Indonesia dari seluruh negara yang menanamkan modal di sini. Pihak yang paling kena dampak dari kerja sama ini adalah pelaku usaha ekspor-impor dua negara serta pekerja di proyek konkret yang disebut pemerintah, seperti tiga pusat data yang sedang dibangun di Jakarta dan Cikarang. Pola ini menunjukkan hubungan ekonomi RI-UEA sekarang lebih digerakkan oleh perdagangan barang ketimbang investasi langsung, dan yang akan menentukan apakah investasi bisa mengejar adalah progres proyek pusat data tersebut serta apakah target dagang US$8 miliar pada 2030 itu benar tercapai atau malah melambat.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "pmjs-dematerialisasi-saham-warkat-tenggat-konversi-6-mei-2030",

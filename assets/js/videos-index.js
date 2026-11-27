@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "lycd2fYOBJA",
+  "title": "Di Pertemuan Tahunan BI, Presiden Prabowo Akui Kinerja Belum Optimal",
+  "category": "Moneter",
+  "program": "Kabar Utama",
+  "summary": "Presiden Prabowo Subianto mengakui pemerintahannya belum bekerja secara maksimal saat menghadiri Pertemuan Tahunan Bank Indonesia 2026 di kompleks kantor pusat BI, Jakarta.",
+  "takeaway": "Pengakuan kepala negara di forum tahunan bank sentral ini relevan bagi pembaca ekonomi sebagai sinyal evaluasi arah kebijakan makroekonomi dan koordinasi fiskal moneter menjelang tahun depan."
+ },
+ {
   "id": "7bdY8ZSnKEY",
   "title": "Krisis Iklim dan Ketahanan Energi Ancam Asia Tenggara",
   "category": "Energi",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "tvOneNews",
   "summary": "Badan Pengurus Pusat Himpunan Pengusaha Muda Indonesia melantik kepengurusan baru masa bakti 2026-2029 di Jakarta International Convention Center.",
   "takeaway": "Pergantian kepengurusan HIPMI penting diikuti karena menyangkut arah advokasi dan jaringan pengusaha muda ke depan."
- },
- {
-  "id": "h3oFmwEaHNE",
-  "title": "Pesan Presiden Prabowo Soal Ekonomi dan Stabilitas di KTT APEC",
-  "category": "Global",
-  "program": "Kabar Petang",
-  "summary": "Presiden Prabowo Subianto menyampaikan optimisme atas manfaat ekonomi konkret serta harapan stabilitas global dalam KTT ke-33 APEC di Shenzhen.",
-  "takeaway": "Pernyataan kepala negara di forum APEC dapat memberi sinyal arah kebijakan ekonomi luar negeri Indonesia."
  }
 ];

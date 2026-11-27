@@ -5,6 +5,24 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir",
+  "category": "UMKM",
+  "title": "Kemendag Gandeng UI Latih Mahasiswa Jadi [Eksportir]",
+  "deck": "Kemendag dan Universitas Indonesia menandatangani kerja sama Campuspreneur untuk mendampingi mahasiswa dan UMKM binaan kampus menembus pasar ekspor.",
+  "date": "28 November 2026",
+  "image": "assets/img/kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir.jpg",
+  "imageV": "mwz9q5iu",
+  "tags": [
+   "Kemendag",
+   "Universitas Indonesia",
+   "Campuspreneur",
+   "Ekspor UMKM"
+  ],
+  "kreditFoto": "Kementerian Perdagangan",
+  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/campuspreneur-kemendag-ajak-mahasiswa-ui-jadi-eksportir",
+  "sourceLabel": "Kementerian Perdagangan"
+ },
+ {
   "slug": "public-expose-wskt-2-des-suspensi-tunggu-syarat-administratif-bei",
   "category": "Aksi Korporasi",
   "title": "Public Expose WSKT 2 Des: [Suspensi] Tunggu Syarat Administratif BEI",
@@ -6475,21 +6493,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://kppu.go.id/berita/kppu-awasi-penghapusan-syarat-pembelian-lpg-nonsubsidi-bagi-penerima-lpg-3-kg-di-tegal",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "laba-arci-semester-i-2026-melonjak-134-jadi-us-81-5-juta",
-  "category": "Aksi Korporasi",
-  "title": "Laba ARCI 9 Bulan 2026 [Naik] 55% jadi US$110,4 Juta",
-  "deck": "Laba bersih ARCI sembilan bulan 2026 naik 55,2 persen menjadi US$110,35 juta, ditopang pendapatan yang tumbuh hampir 40 persen dari penjualan emas.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARCI",
-   "laba bersih",
-   "laporan keuangan",
-   "tambang emas"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261119175115-65818-0/FinancialStatement-2026-II-ARCI.pdf",
-  "sourceLabel": "IDX"
  }
 ];

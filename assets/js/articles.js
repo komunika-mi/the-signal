@@ -3,6 +3,225 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "transaksi-afiliasi-bmas-27-november-pinjaman-us-5-juta-dari-kbank",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi BMAS 27 November: [Pinjaman] US$5 Juta dari KBank",
+  "deck": "BMAS menerima fasilitas pinjaman bilateral senilai US$5 juta dari pemegang saham pengendalinya, KASIKORNBANK, untuk menopang likuiditas jangka pendek.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T18:07:15",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BMAS_E025A_c1873df7-fe52-48e0-8138-7bc758b611ad-20261127180717.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "BMAS",
+  "tags": [
+   "BMAS",
+   "transaksi afiliasi",
+   "pinjaman bilateral",
+   "KASIKORNBANK"
+  ],
+  "body": [
+   "PT Bank Kasikorn Indonesia Tbk (BMAS) mengumumkan telah menerima fasilitas pinjaman bilateral dari KASIKORNBANK PUBLIC COMPANY LIMITED (KBank) pada 27 November 2026. Limit fasilitas tersebut sebesar US$5 juta, dengan tenor sampai dengan enam bulan sejak masing-masing tanggal penarikan dana, dan bunga mengikuti SOFR ditambah margin sesuai kondisi pasar yang berlaku.",
+   "KBank bukan pihak sembarangan bagi BMAS. Perusahaan asal Thailand ini adalah Ultimate Shareholder atau pemegang saham tertinggi dalam struktur kepemilikan BMAS, melalui anak usahanya KASIKORN VISION FINANCIAL COMPANY PTE. LTD. (KVF) yang menguasai 86,03 persen saham BMAS, setara 89,48 persen dari total kepemilikan Grup KASIKORNBANK di bank ini. Karena pemberi dan penerima pinjaman berada dalam satu grup, transaksi ini wajib dilaporkan sebagai transaksi afiliasi sesuai POJK 42/2020 tentang Transaksi Afiliasi dan Transaksi Benturan Kepentingan.",
+   "Perseroan menyatakan pinjaman ini digunakan untuk mendukung likuiditas tenor jangka pendek dan menunjang penyaluran kredit kepada nasabah. Dalam laporan ini, opini kewajaran transaksi dinyatakan wajar, meski dokumen tidak mencantumkan nama kantor jasa penilai publik (KJPP) atau penilai independen yang menyusun opini tersebut. Manajemen juga menegaskan transaksi tidak mengandung benturan kepentingan."
+  ],
+  "fotoAdegan": "Bank teller counter inside a modern banking hall, employees in uniform assisting customers, soft daylight through glass facade",
+  "takeaway": "Transaksi ini tergolong netral bagi fundamental BMAS, karena bunganya mengikuti harga pasar lewat acuan SOFR plus margin dan opini kewajaran menyatakan transaksi ini wajar tanpa benturan kepentingan. Pos yang tersentuh adalah beban bunga dan arus kas bank, sebab pinjaman ini menambah dana berbunga yang harus dibayar BMAS, sementara di sisi lain menambah amunisi likuiditas yang bisa disalurkan lagi sebagai kredit ke nasabah, jadi dampaknya saling menyeimbangkan. Pemegang saham publik perlu mencatat bahwa dukungan likuiditas ini datang dari pemegang saham pengendali sendiri, KASIKORNBANK, yang menguasai 86,03 persen saham BMAS lewat anak usahanya KVF, sehingga memperlihatkan bagaimana grup induk menopang operasional anak usahanya di Indonesia. Yang perlu dipantau berikutnya adalah tanggal penarikan dana dari fasilitas ini, karena tenor enam bulan dan jadwal pembayaran bunga baru mulai berjalan sejak masing-masing penarikan dilakukan, dan dokumen ini belum menyebutkan kapan penarikan pertama akan terjadi.",
+  "sentimen": "netral",
+  "peristiwa": "transaksi",
+  "judulIdx": "Keterbukaan Informasi Transaksi Afiliasi"
+ },
+ {
+  "slug": "cdia-tanggapi-bei-klarifikasi-tak-ada-info-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Tanggapi BEI: [Klarifikasi] Tak Ada Info Material Baru",
+  "deck": "Merespons permintaan BEI atas volatilitas sahamnya, CDIA menyatakan seluruh informasi material sudah diungkap dan pemegang saham utama tetap mempertahankan kepemilikannya.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T17:50:39",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_CDIA_E019_c5a56eb9-aa1c-4ccf-bce7-3bda9243b9a3-20261127175041.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CDIA",
+  "tags": [
+   "CDIA",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "body": [
+   "PT Chandra Daya Investasi Tbk (CDIA) mengirimkan tanggapan resmi kepada Bursa Efek Indonesia setelah menerima surat bernomor S-14642/BEI.PP3/11-2026 tertanggal 25 November 2026, yang meminta penjelasan atas volatilitas transaksi efek perusahaan. Surat balasan CDIA bernomor 164/LCM-DOC/CDI/XI/2026 ditandatangani Merly selaku Direktur dan disampaikan ke bursa pada 27 November 2026, ditujukan kepada Kepala Divisi Penilaian Perusahaan 3 BEI, Lidia M. Panjaitan.",
+   "Dalam surat itu, CDIA menjawab enam pertanyaan standar bursa. Perusahaan menyatakan sudah melaporkan seluruh informasi atau fakta material sesuai POJK Nomor 31/POJK.04/2015 dan Peraturan Bursa Nomor I-E, serta memastikan tidak ada fakta atau kejadian penting lain yang material bagi harga saham maupun kelangsungan usaha yang belum diungkap ke publik. CDIA juga menegaskan seluruh aktivitas pemegang saham tertentu sudah dilaporkan sesuai POJK Nomor 11/POJK.04/2017 tentang laporan kepemilikan saham, dan perusahaan belum memiliki rencana tindakan korporasi dalam tiga bulan mendatang.",
+   "Poin yang relatif baru dari surat ini adalah konfirmasi bahwa pemegang saham utama CDIA, hingga saat surat ini dibuat, masih berencana mempertahankan kepemilikan sahamnya di perusahaan. CDIA menambahkan bahwa jika rencana itu berubah di kemudian hari, perubahannya akan dilaporkan sesuai ketentuan yang berlaku. Surat ini terbit empat hari setelah CDIA mengumumkan rencana buyback senilai Rp1 triliun untuk maksimal 4 miliar saham, yang kemungkinan menjadi salah satu pemicu bursa meminta klarifikasi atas gerak harga sahamnya."
+  ],
+  "fotoAdegan": "Stock brokers at a busy Jakarta trading floor glancing toward distant blurred ticker screens during a fast paced afternoon session",
+  "takeaway": "Laporan ini netral bagi fundamental CDIA karena isinya murni jawaban administratif atas pertanyaan bursa, tanpa data keuangan baru atau perubahan rencana bisnis. Yang disentuh di sini bukan laporan keuangan, melainkan struktur kepemilikan: bursa meminta klarifikasi karena harga sahamnya bergerak tidak wajar dalam periode singkat (itulah arti volatilitas transaksi efek), dan pasar ingin memastikan tidak ada informasi tersembunyi di balik gerakan itu serta pemegang saham utama tidak berencana melepas kepemilikannya, karena pelepasan besar oleh pemegang saham utama bisa menambah pasokan saham di pasar dan menekan harga. Yang perlu dipantau selanjutnya adalah apakah pemegang saham utama tetap konsisten dengan niatnya mempertahankan saham, sebab CDIA sendiri menyebut akan melaporkan jika rencana itu berubah, dan apakah volatilitas perdagangan mereda setelah rencana buyback Rp1 triliun yang baru diumumkan pekan lalu mulai berjalan.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "buyback-cbdk-rp150-miliar-pembelian-mulai-30-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Buyback CBDK Rp150 Miliar: [Pembelian] Mulai 30 November 2026",
+  "deck": "CBDK akan membeli kembali saham senilai maksimal Rp150 miliar mulai 30 November 2026 hingga 28 Februari 2027, merespons penurunan harga sahamnya yang mencapai 73,79 persen tahun ini.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T17:06:42",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_CBDK_E019_596a1a89-f04c-476c-9dce-1df8589f01c4-20261127170643.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "CBDK",
+  "tags": [
+   "CBDK",
+   "buyback",
+   "pembelian kembali saham",
+   "pasar modal"
+  ],
+  "body": [
+   "PT Bangun Kosambi Sukses Tbk (CBDK) menyampaikan rencana pembelian kembali (buyback) saham dengan biaya maksimal Rp150 miliar, termasuk biaya transaksi dan jasa perantara pedagang efek. Pembelian akan dilakukan melalui perdagangan di Bursa Efek Indonesia terhitung 30 November 2026 hingga 28 Februari 2027, dengan menunjuk PT Ciptadana Sekuritas Asia sebagai pelaksana. Rencana ini merujuk pada aturan OJK soal pembelian kembali saham di tengah kondisi pasar yang berfluktuasi signifikan, termasuk perpanjangan kebijakan yang diterbitkan OJK pada 25 Oktober 2026.",
+   "Perseroan menyebut langkah ini diambil karena harga sahamnya telah turun hingga 73,79 persen sejak awal tahun hingga 27 November 2026, jauh lebih dalam dibanding penurunan Indeks Harga Saham Gabungan yang tercatat hingga 38,63 persen pada periode yang sama. Manajemen menegaskan buyback bukan dipicu oleh penurunan kinerja atau pelemahan fundamental, melainkan upaya meredam tekanan jual di pasar dan memberi sinyal bahwa harga saham saat ini belum mencerminkan nilai wajar perseroan. Dana yang dipakai berasal dari kas internal, bukan dana hasil penawaran umum maupun pinjaman. Harga pembelian wajib lebih rendah atau sama dengan harga transaksi sebelumnya, dan komisaris, direktur, karyawan, serta pemegang saham utama dilarang bertransaksi atas saham perseroan sepanjang periode buyback berlangsung.",
+   "Berdasarkan proforma laporan keuangan per 30 September 2026, pelaksanaan buyback akan menekan total aset dari Rp22,39 triliun menjadi Rp22,24 triliun dan total ekuitas dari Rp13,72 triliun menjadi Rp13,57 triliun, masing-masing berkurang Rp150 miliar. Di sisi lain, karena jumlah saham beredar berkurang, laba per saham dasar diperkirakan naik dari Rp322,66 menjadi Rp325,86, sementara imbal hasil atas ekuitas (ROE) naik dari 13,68 persen menjadi 13,83 persen. Rencana ini menyusul program buyback sebelumnya yang berjalan Agustus hingga November 2026, saat perseroan tercatat membeli 36,3 juta saham tambahan."
+  ],
+  "fotoAdegan": "Glass-clad office towers in a new waterfront business district under hazy afternoon light, distant construction cranes",
+  "takeaway": "Laporan ini condong positif bagi CBDK, karena buyback senilai maksimal Rp150 miliar dibiayai dari kas internal yang sehat tanpa utang, dan sedikit menopang laba per saham di tengah harga saham yang ambruk 73,79 persen sepanjang tahun ini, jauh lebih dalam dari pelemahan IHSG yang hanya 38,63 persen. Yang tersentuh adalah ekuitas, yaitu total kekayaan bersih perseroan setelah dikurangi utang, yang susut tipis sekitar 1 persen jadi Rp13,57 triliun, serta laba per saham, yaitu bagian laba yang secara hitungan jatuh ke setiap lembar saham, yang justru naik karena jumlah saham yang beredar di pasar berkurang. Perlu diperhatikan juga bahwa biaya buyback ini relatif kecil dibanding ekuitas CBDK yang mencapai belasan triliun rupiah, sehingga dampaknya ke kondisi keuangan perseroan tidak besar. Yang perlu dipantau selanjutnya adalah realisasi pembelian hingga batas akhir periode buyback pada 28 Februari 2027, serta apakah perseroan kembali melaporkan jumlah saham yang benar-benar dibeli seperti pada program sebelumnya.",
+  "sentimen": "positif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Mulai periode pembelian kembali saham"
+   },
+   {
+    "tanggal": "2027-02-28",
+    "acara": "Akhir periode pembelian kembali saham"
+   }
+  ]
+ },
+ {
+  "slug": "waran-zp-bbcazpcz6a-ch7a-tidak-disesuaikan-imbas-dividen-bbca",
+  "category": "Aksi Korporasi",
+  "title": "Waran ZP BBCAZPCZ6A-CH7A: [Tidak Disesuaikan] Imbas Dividen BBCA",
+  "deck": "Maybank Sekuritas (ZP) memastikan tidak ada penyesuaian syarat dan ketentuan untuk waran terstruktur BBCAZPCZ6A dan BBCAZPCH7A terkait dividen tunai PT Bank Central Asia Tbk.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T17:02:22",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ZP_E019_56d0b55f-f951-4b4b-b09d-29d3436cfecc-20261127170224.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ZP",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas",
+   "waran terstruktur",
+   "BBCA"
+  ],
+  "body": [
+   "PT Maybank Sekuritas Indonesia (ZP) mengumumkan bahwa tidak akan ada penyesuaian syarat dan ketentuan untuk dua seri waran terstrukturnya, BBCAZPCZ6A dan BBCAZPCH7A, menyusul rencana pembagian dividen tunai oleh PT Bank Central Asia Tbk (BBCA) yang diumumkan pada 19 November 2026. Keputusan ini disampaikan dalam surat keterbukaan informasi bernomor 060/ECD-MSI/XI/2026 tertanggal 27 November 2026, yang ditandatangani Muhammad Hiksa Reisfansyah atas nama Maybank Sekuritas, dan merujuk pada pengumuman awal perseroan sendiri tertanggal 20 November 2026.",
+   "Menurut perseroan, acuannya adalah Bagian 3.8 Prospektus waran tertanggal 11 April 2025 serta Term Sheet BBCAZPCZ6A dan BBCAZPCH7A. Kedua dokumen itu memuat rumus baku yang menentukan kapan harga pelaksanaan dan rasio konversi waran harus diubah akibat aksi korporasi BBCA sebagai saham acuan. Karena dividen tunai BBCA kali ini tidak memenuhi kondisi yang mewajibkan penyesuaian menurut rumus tersebut, syarat dan ketentuan BBCAZPCZ6A dan BBCAZPCH7A tetap berlaku sama seperti sebelumnya, tanpa perubahan harga pelaksanaan maupun rasio konversi.",
+   "Maybank Sekuritas menegaskan bahwa untuk menghindari keraguan, pemegang kedua seri waran ini harus merujuk pada isi Prospektus secara utuh, karena syarat dan ketentuan di dalamnya yang tetap berlaku dan mengikat."
+  ],
+  "fotoAdegan": "Customers queuing calmly at a modern bank teller counter inside a busy Jakarta branch, soft afternoon light",
+  "takeaway": "Laporan ini netral bagi Maybank Sekuritas karena hasilnya, yaitu tidak ada penyesuaian, murni ditentukan oleh rumus baku yang sudah dipatok dalam prospektus waran sejak April 2025, bukan pertimbangan bisnis baru dari perseroan. Laporan semacam ini sama sekali tidak menyentuh pos keuangan Maybank Sekuritas sendiri, seperti ekuitas, arus kas, atau laba per saham, karena waran terstruktur ini adalah produk derivatif yang mengacu pada saham BBCA, bukan saham milik ZP sendiri. Yang perlu dipantau pemegang waran BBCAZPCZ6A dan BBCAZPCH7A adalah pengumuman dividen atau aksi korporasi BBCA berikutnya, sebab setiap kali itu terjadi Maybank Sekuritas wajib mengecek ulang apakah ambang batas penyesuaian di prospektus terpenuhi.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "waran-terstruktur-dr-tak-disesuaikan-usai-bbca-bagi-dividen-rp35",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR [Tak Disesuaikan] usai BBCA Bagi Dividen Rp35",
+  "deck": "RHB Sekuritas Indonesia (DR) menyatakan tidak ada penyesuaian syarat waran terstruktur BBCADRCH7A menyusul pembagian dividen tunai BBCA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T16:44:38",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_DR_E019_b54303de-4b9b-4148-89b2-3874ebeb46aa-20261127164439.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "DR",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "BBCA",
+   "dividen"
+  ],
+  "body": [
+   "RHB Sekuritas Indonesia, emiten dengan kode DR, mengumumkan bahwa tidak ada penyesuaian yang dilakukan terhadap waran terstruktur BBCADRCH7A, produk yang nilainya mengacu pada saham PT Bank Central Asia Tbk (BBCA), menyusul keterbukaan informasi BBCA tanggal 20 November 2026 tentang aksi korporasi pembagian dividen tunai. Menurut RHB, keputusan ini sudah sesuai dengan syarat dan ketentuan yang tercantum dalam Term Sheet dan Bagian 3 Prospektus Waran Terstruktur produk tersebut, sehingga tidak ada perubahan rasio maupun harga pelaksanaan bagi pemegang waran.",
+   "Pengumuman ini ditandatangani oleh Triana Anggraeni dari RHB Sekuritas Indonesia dan diterbitkan di Jakarta pada 27 November 2026. Dalam pengumuman itu, RHB menegaskan bahwa jika ada perbedaan penafsiran, Prospektus Waran Terstruktur tetap menjadi rujukan utama dan syarat ketentuan di dalamnya yang berlaku, bukan ketentuan lain di luar dokumen itu."
+  ],
+  "fotoAdegan": "A busy pedestrian plaza beneath glass office towers in Jakarta's financial district, people in business attire walking past in afternoon light",
+  "takeaway": "Pengumuman ini netral bagi RHB Sekuritas Indonesia selaku penerbit waran berkode DR, karena keputusan tidak melakukan penyesuaian ini murni mengikuti aturan baku yang sudah tertulis di prospektus produk sejak awal, bukan cerminan kondisi keuangan atau kinerja perusahaan. Waran terstruktur adalah produk yang nilainya mengikuti pergerakan saham acuan, dalam hal ini BBCA, dan biasanya rasio atau harga pelaksanaannya disesuaikan saat saham acuan membagi dividen agar nilai waran tidak tergerus; kali ini syarat produk justru menyatakan dividen BBCA tidak memicu penyesuaian apa pun, sehingga pemegang BBCADRCH7A tetap memegang hak yang sama seperti sebelumnya. Dokumen ini tidak menyebut tanggal jatuh tempo atau tindakan lanjutan, sehingga yang perlu dipantau pemegang waran hanyalah apakah RHB menerbitkan pengumuman serupa untuk waran berbasis BBCA lain yang masih beredar.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
+  "slug": "igar-dematerialisasi-saham-warkat-wajib-konversi-sebelum-2030",
+  "category": "Aksi Korporasi",
+  "title": "IGAR [Dematerialisasi] Saham: Warkat Wajib Konversi Sebelum 2030",
+  "deck": "Champion Pacific Indonesia (IGAR) meminta pemegang saham berbentuk warkat mengonversi sahamnya menjadi scripless sebelum 6 Mei 2030, sesuai POJK Dematerialisasi.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T16:23:09",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_IGAR_E019_f23f9230-3ee0-4164-8000-6c6cf35f2e96-20261127162310.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "IGAR",
+  "tags": [
+   "IGAR",
+   "Dematerialisasi Saham",
+   "Champion Pacific Indonesia",
+   "OJK"
+  ],
+  "body": [
+   "Champion Pacific Indonesia Tbk (IGAR) mengumumkan pelaksanaan dematerialisasi saham, yaitu proses mengubah bukti kepemilikan saham dari bentuk fisik Surat Kolektif Saham (SKS) menjadi elektronik tanpa warkat. Perseroan meminta pemegang saham yang masih memegang SKS untuk memperbarui data dan mengembalikan SKS tersebut ke Biro Administrasi Efek (BAE) PT Adimitra Jasa Korpora di Kelapa Gading, Jakarta Utara, agar sahamnya dikonversi dan dimasukkan ke rekening titipan. Kewajiban ini mengacu pada Peraturan OJK No. 9 Tahun 2025 tentang Dematerialisasi Efek Bersifat Ekuitas, yang berlaku sejak 6 Mei 2025 dan mewajibkan setiap perusahaan terbuka serta pemegang saham warkatnya melakukan konversi ini.",
+   "Bagi pemegang saham yang sudah memiliki sub rekening efek di perusahaan efek atau bank kustodian, konversi bisa dilakukan lewat sistem C-BEST milik KSEI dengan biaya mengikuti jumlah saham yang dikonversi. Bagi yang belum memiliki sub rekening efek, dokumen yang harus diserahkan ke BAE meliputi SKS asli, salinan KTP dengan NIK yang sudah diperbarui untuk WNI atau paspor untuk WNA, salinan NPWP, alamat email dan nomor telepon aktif, serta membayar biaya dematerialisasi. BAE akan menerbitkan nomor identitas investor tunggal (SID) di sistem KSEI dan keterangan keabsahan kepemilikan saham dalam dua hari kerja setelah dokumen lengkap diterima.",
+   "Proses dematerialisasi ini wajib selesai dalam lima tahun sejak 6 Mei 2025, atau paling lambat 6 Mei 2030. Setelah tenggat itu, saham warkat yang belum dikonversi tidak bisa diperjualbelikan baik di bursa maupun di luar bursa sampai pemiliknya menuntaskan dematerialisasi. Jika sampai batas waktu tetap tidak dikonversi, saham tersebut akan dialihkan menjadi 'aset tidak diklaim' yang dikelola pihak yang ditunjuk OJK dan SKS lama dinyatakan tidak berlaku. Pemegang saham masih punya kesempatan mengajukan klaim kepemilikan melalui BAE dalam periode 6 Mei 2035 sampai 6 Mei 2065. Perseroan menyatakan langkah ini tidak berdampak pada kegiatan operasional, hukum, kondisi keuangan, atau kelangsungan usahanya."
+  ],
+  "fotoAdegan": "Office clerk sorting bundled paper certificates in a quiet corporate archive room, warm afternoon light",
+  "takeaway": "Netral bagi fundamental IGAR, karena ini kewajiban administratif dari regulasi OJK yang berlaku untuk seluruh perusahaan terbuka, bukan keputusan bisnis Perseroan, dan manajemen sendiri menegaskan tidak ada dampak ke operasional maupun kondisi keuangan. Dematerialisasi hanya mengganti bentuk bukti kepemilikan dari kertas ke elektronik, tidak menambah atau mengurangi jumlah saham beredar, tidak mengubah hak suara pemegang saham, dan tidak menyentuh pos seperti ekuitas, arus kas, atau laba per saham, sehingga pelaku pasar biasanya tidak mengubah pandangan terhadap kinerja perusahaan karena pengumuman ini. Yang perlu dipantau pemegang saham berbentuk warkat adalah tenggat 6 Mei 2030, karena setelah itu sahamnya tidak bisa ditransaksikan sampai dikonversi, dan jika tetap diabaikan akan masuk kategori aset tidak diklaim yang hanya bisa diklaim kembali antara 6 Mei 2035 dan 6 Mei 2065.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2030-05-06",
+    "acara": "Tenggat akhir dematerialisasi saham warkat IGAR"
+   },
+   {
+    "tanggal": "2035-05-06",
+    "acara": "Mulai periode klaim saham tidak diklaim IGAR"
+   },
+   {
+    "tanggal": "2065-05-06",
+    "acara": "Akhir periode klaim saham tidak diklaim IGAR"
+   }
+  ]
+ },
+ {
+  "slug": "rupo-adhi-11-desember-perpanjangan-jatuh-tempo-obligasi-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "RUPO ADHI 11 Desember: [Perpanjangan] Jatuh Tempo Obligasi Dibahas",
+  "deck": "RUPO pertama Obligasi Berkelanjutan III Tahap III ADHI digelar 11 Desember, membahas pengesampingan pembayaran utang jatuh tempo serta perubahan bunga dan tenor.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T16:18:52",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ADHI_E019_4ef79d70-9044-46f0-9cf9-ba407a590211-20261127161853.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "ADHI",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "RUPO",
+   "restrukturisasi utang"
+  ],
+  "body": [
+   "PT Adhi Karya (Persero) Tbk mengundang para pemegang Obligasi Berkelanjutan III Adhi Karya Tahap III Tahun 2022 untuk menghadiri Rapat Umum Pemegang Obligasi (RUPO) pertama pada Jumat, 11 Desember 2026, pukul 10.00 WIB di ADHI Tower Lantai 16, Jalan M.T. Haryono Kavling 27, Cawang, Jakarta Timur. RUPO ini diselenggarakan atas permintaan ADHI sendiri selaku emiten, dengan PT Bank Mega Tbk sebagai wali amanat yang mengundang rapat berdasarkan Perjanjian Perwaliamanatan Akta No. 53 tanggal 22 April 2022 di hadapan notaris Ashoya Ratam, S.H., M.Kn.",
+   "Ada dua agenda utama. Pertama, persetujuan pengesampingan pembayaran Jumlah Terhutang obligasi tersebut, mengikuti keputusan yang sudah diambil pemegang obligasi dalam RUPO sebelumnya pada 30 Oktober 2026. Kedua, persetujuan perubahan ketentuan dalam Perjanjian Perwaliamanatan, khususnya Pasal 5 ayat 3 dan ayat 4 serta pasal terkait lainnya, yang menyangkut perubahan jatuh tempo obligasi, perubahan tingkat bunga, dan perubahan tata cara atau jadwal pembayaran bunga.",
+   "Dokumen menyebut syarat kuorum: RUPO baru sah jika dihadiri pemegang obligasi yang mewakili minimal tiga per empat dari jumlah obligasi yang belum dilunasi, dan keputusan baru mengikat jika disetujui minimal tiga per empat dari obligasi yang hadir dalam rapat. Obligasi yang dimiliki ADHI sendiri atau afiliasinya tidak memiliki hak suara dan tidak dihitung dalam kuorum, kecuali afiliasi itu terbentuk karena kepemilikan modal pemerintah. Pemegang obligasi yang hadir wajib membawa Konfirmasi Tertulis Untuk RUPO dari KSEI serta identitas diri yang masih berlaku."
+  ],
+  "fotoAdegan": "Construction cranes rising above an unfinished high rise building site in Jakarta, overcast afternoon light, workers below.",
+  "takeaway": "Laporan ini condong negatif bagi ADHI, karena agenda RUPO justru meminta pemegang obligasi mengesampingkan pembayaran utang yang sudah jatuh tempo, sekaligus menyetujui perpanjangan jatuh tempo dan perubahan bunga, pola yang biasa muncul ketika perusahaan sedang merestrukturisasi utang setelah gagal membayar. Yang tersentuh adalah arus kas perusahaan, yaitu aliran uang masuk dan keluar dari kas ADHI, karena menunda pembayaran utang berarti kas yang semestinya keluar untuk membayar bunga dan pokok obligasi bisa ditahan sementara, dan beban bunga juga berpotensi berubah tergantung hasil negosiasi tingkat bunga baru. Yang perlu dipantau berikutnya adalah hasil RUPO pada 11 Desember 2026, termasuk apakah kuorum kehadiran tiga per empat dari obligasi yang belum dilunasi tercapai dan apakah usulan pengesampingan serta perubahan perjanjian itu disetujui, mengingat upaya-upaya RUPO sebelumnya untuk obligasi ADHI sempat gagal mencapai kesepakatan.",
+  "sentimen": "negatif",
+  "judulIdx": "Informasi atau Fakta Material lainnya",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-11",
+    "acara": "RUPO pertama Obligasi Berkelanjutan III Tahap III ADHI"
+   }
+  ]
+ },
+ {
   "slug": "dagang-ri-uea-tembus-us-5-1-miliar-naik-14-persen",
   "category": "Global",
   "title": "Dagang RI-UEA Tembus US$5,1 Miliar, [Naik] 14 Persen",
@@ -5692,8 +5911,8 @@ var ARTICLES = [
  {
   "slug": "nano-public-expose-26-november-pendapatan-430-laba-rp3-25-m",
   "category": "Aksi Korporasi",
-  "title": "NANO Public Expose 26 November: Pendapatan +430%, [Laba Rp3,25 M]",
-  "deck": "Dalam materi Public Expose 26 November 2026, NANO melaporkan pendapatan Januari-Oktober melonjak ke Rp356,96 miliar dan laba neto Rp3,25 miliar, berbalik dari rugi tahun lalu.",
+  "title": "Public Expose NANO 26 November: Direksi Akui [Margin] Laba Tipis",
+  "deck": "Laporan hasil Public Expose 26 November: direksi NANO akui margin laba bersih masih jadi PR, sementara angka laba neto dalam sesi tanya jawab berbeda dari materi resmi sebelumnya.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "23 November 2026",
   "isoDate": "2026-11-23T19:50:12",
@@ -5703,18 +5922,18 @@ var ARTICLES = [
   "tags": [
    "NANO",
    "Public Expose",
-   "kinerja keuangan",
-   "Nanotech Indonesia Global"
+   "Laba Bersih",
+   "Margin"
   ],
   "body": [
-   "PT Nanotech Indonesia Global Tbk (NANO) menjadwalkan Public Expose Tahunan 2026 di Tangerang Selatan pada 26 November 2026, sesuai materi yang disampaikan ke Bursa Efek Indonesia. Paparan akan dibawakan Direktur Utama Suryandaru soal arah usaha dan komersialisasi teknologi, Direktur Operasional Umar Alfaruqi Abdurrahman soal kinerja keuangan, serta Direktur Bisnis Mochamad Arief Iskandar soal perkembangan usaha dan proyek, dengan Sekretaris Perusahaan Ahmad Fathoni sebagai moderator sesi tanya jawab. Susunan pengurus Perseroan per hasil RUPST 22 Juni 2026 terdiri atas Nurul Taufiqu Rochman sebagai Komisaris Utama, Cahyana Ahmad Jayadi sebagai Komisaris, dan Fauka Noor Farid sebagai Komisaris Independen merangkap Ketua Komite Audit, dengan pemegang saham tercatat PT Nanotech Investama Sedaya dan PT Softbank Ventura Indonesia selain publik.",
-   "Materi paparan menunjukkan pendapatan konsolidasian Januari-Oktober 2026 melonjak ke Rp356,96 miliar, naik 430 persen dibanding periode sama 2025 yang Rp67,35 miliar. Namun laba bruto hanya naik tipis 4,6 persen menjadi Rp12,94 miliar, sehingga margin laba kotor turun dari 18,37 persen menjadi 3,63 persen dari pendapatan. Setelah beban usaha turun 8,4 persen menjadi Rp11,31 miliar, Perseroan membukukan laba usaha Rp1,63 miliar dan laba neto Rp3,25 miliar, berbalik dari rugi Rp1,68 miliar pada periode sama tahun lalu. NANO menyebut realisasi ini sudah melampaui target awal 2026 dalam Laporan Tahunan 2025 yang mematok pendapatan Rp86,60 miliar dan laba bersih Rp2,60 miliar.",
-   "Dari sisi neraca per 31 Oktober 2026, total aset naik 4,9 persen menjadi Rp219,02 miliar dan ekuitas naik 1,6 persen menjadi Rp174,77 miliar dibanding akhir 2025. Kas dan setara kas melonjak 176,7 persen menjadi Rp6,84 miliar dari Rp2,47 miliar, dengan rasio lancar 2,75 kali, dan total liabilitas naik menjadi Rp44,25 miliar. Materi juga mencantumkan data kuartal III 2026 dengan pendapatan Rp117,61 miliar dan laba neto Rp5,00 miliar, tetapi NANO mencatat bahwa angka pendapatan dan laba bruto Januari-September 2025 sebagai pembanding berbeda Rp9,50 miliar dari materi Pubex 2025 sebelumnya dan masih perlu direkonsiliasi sebelum dipublikasikan.",
-   "Secara segmen, bisnis ritel lewat agen MAUPAY yang menjual pulsa, paket data, token listrik dan pembayaran tagihan menyumbang Rp196,20 miliar atau 89,94 persen dari pendapatan semester I 2026. Segmen metallurgical trading mengirim 704,66 ton material dalam 33 pengiriman sepanjang 4 Oktober-21 November 2026 dengan nilai transaksi Rp5,24 miliar sebelum PPN ke lima pabrik atau mitra, meski satu pabrik menyumbang 90,99 persen penjualan. Produksi Oxywater lewat PT Nano Oxywater Internasional mulai berjalan Agustus 2026, sementara NANO masih menjajaki sejumlah kerja sama lanjutan: kontrak dispenser Oxywater senilai Rp800 miliar untuk tiga tahun, kontrak jasa nanoteknologi dengan Mandaya Hospital Group hingga Rp50 miliar dengan sasaran 500.000 vial seharga Rp100.000 per vial, investasi bersama PT Zareen Global Prima senilai Rp100 miliar, serta penjajakan awal di Malaysia, Jerman, Arab Saudi, Singapura dan Brunei yang semuanya masih tahap pembahasan."
+   "Hasil Public Expose Tahunan 2026 PT Nanotech Indonesia Global Tbk (NANO) yang digelar 26 November lalu menunjukkan 21 orang hadir dalam sesi tanya jawab, termasuk jurnalis, mahasiswa, dan praktisi pasar modal. Dalam sesi itu, manajemen menjawab pertanyaan media bahwa lonjakan pendapatan perusahaan hingga Oktober 2026 menjadi Rp356,96 miliar terutama didorong oleh perubahan strategi bisnis, dari sebelumnya berfokus pada produk gaya hidup menjadi pengembangan layanan teknologi informasi. Direktur Utama Suryandaru dan jajarannya mengakui volume penjualan naik signifikan, tetapi margin laba bersih, yaitu porsi pendapatan yang benar-benar tersisa sebagai laba, masih jadi pekerjaan rumah sampai tutup buku akhir tahun ini. Dalam jawaban yang sama, manajemen menyebut laba neto periode itu sebesar Rp35 miliar, angka yang berbeda jauh dari Rp3,25 miliar yang tercantum dalam materi presentasi resmi Public Expose yang sudah dipublikasikan sebelumnya ke Bursa Efek Indonesia. NANO belum memberikan klarifikasi tertulis atas perbedaan dua angka ini.",
+   "Dalam sesi tanya jawab itu, manajemen juga memaparkan rencana pengembangan layanan IT ke depan, yaitu mengintegrasikan layanan keuangan dan teknologi informasi ke sektor pendidikan yang disebut berpotensi mencatatkan nilai transaksi hingga triliunan rupiah, serta ke sektor kesehatan. Perusahaan berencana memasang sistem pembayaran digital QRIS langsung ke vending machine dan dispenser air minum miliknya sendiri, agar tidak lagi bergantung pada penyedia pembayaran pihak ketiga. Untuk lini air minum beroksigen Oxywater, manajemen menjelaskan produknya memakai teknologi gelembung nano berukuran 100 nanometer yang menaikkan kadar oksigen terlarut dalam air dari rata-rata 3-4 PPM menjadi 20 PPM, bisa sampai 30-40 PPM, tanpa mengubah tingkat keasaman air yang tetap netral di kisaran pH 7.",
+   "Soal jaringan usaha, manajemen menyebut operasional perusahaan sudah tersebar di 10 cabang di berbagai wilayah Indonesia, termasuk kerja sama dengan RS Harapan Kita dan RS Lamina di Jakarta serta proyek di sektor pertambangan di Papua, dan berencana menambah kapasitas pabrik atau gudang baru 1.000 galon per hari di dekat kantor pusat. Perusahaan juga membuka pendaftaran bagi masyarakat umum yang ingin menjadi agen atau distributor air minum Nano Oxy Water, serta sedang menyiapkan skema kemitraan waralaba dan white label bagi pengusaha air minum lain yang ingin memakai teknologi oksigen Nano. NANO pertama kali dirintis sebagai komunitas riset nanoteknologi pada 2004, berbadan hukum yayasan sejak 2012, resmi menjadi perseroan terbatas pada 2019, dan melantai di Bursa Efek Indonesia lewat papan akselerasi pada 2022.",
+   "Berdasarkan materi Public Expose yang dipublikasikan sebelum acara, pendapatan konsolidasian Januari-Oktober 2026 NANO melonjak 430 persen dibanding periode sama 2025, tetapi margin laba kotor, yaitu porsi pendapatan yang tersisa sebelum dikurangi biaya operasional, turun dari 18,37 persen menjadi 3,63 persen karena bisnis baru yang mendominasi omzet seperti agen pulsa dan pembayaran MAUPAY memang bermargin tipis. Materi itu mencatat laba neto resmi Rp3,25 miliar, berbalik dari rugi Rp1,68 miliar pada periode sama tahun lalu, dengan ekuitas per 31 Oktober 2026 naik 1,6 persen menjadi Rp174,77 miliar dan kas setara kas melonjak ke Rp6,84 miliar."
   ],
   "fotoAdegan": "Workers inspecting rows of oxygen-infused water dispensers on a factory assembly line, bright industrial lighting",
-  "takeaway": "Laporan ini condong positif bagi NANO karena Perseroan berhasil membalik rugi Rp1,68 miliar menjadi laba Rp3,25 miliar dan kas tunai melonjak hampir tiga kali lipat, sinyal bahwa lini usaha baru seperti ritel MAUPAY dan metallurgical trading mulai mendatangkan uang tunai nyata. Namun pertumbuhan pendapatan 430 persen ini diiringi pengikisan margin laba kotor dari 18,37 persen menjadi 3,63 persen, artinya dari setiap penjualan yang tersisa sebagai laba kotor sebelum biaya operasional kini jauh lebih tipis karena bisnis baru yang mendominasi omzet memang bermargin rendah. Yang perlu dipantau pemegang saham adalah apakah laba bersih bisa terus tumbuh sejalan pendapatan atau justru tergerus kalau margin tipis ini berlanjut, mengingat ekuitas hanya naik 1,6 persen meski pendapatan melesat berkali lipat. Perseroan sendiri mengakui ada selisih Rp9,50 miliar pada data pembanding Januari-September 2025 yang masih perlu direkonsiliasi, sehingga angka kuartal III sebaiknya dibaca sebagai sementara. Sesi tanya jawab dalam Public Expose Tahunan pada 26 November 2026 jadi kesempatan investor meminta kepastian soal margin dan rekonsiliasi data tersebut.",
-  "sentimen": "positif",
+  "takeaway": "Laporan hasil Public Expose ini netral bagi NANO: cerita pergeseran strategi dari gaya hidup ke teknologi informasi memang menjelaskan kenapa pendapatan melonjak, tetapi munculnya angka laba neto Rp35 miliar dalam sesi tanya jawab yang berbeda jauh dari Rp3,25 miliar pada materi resmi menjadi catatan minus soal konsistensi data yang disampaikan perusahaan ke publik. Margin laba kotor dan laba bersih adalah pos yang paling diperhatikan pelaku pasar di sini, karena pos itu menentukan berapa sisa uang perusahaan setelah dikurangi biaya produksi dan operasional, yang akhirnya menjadi dasar penghitungan laba per saham; manajemen sendiri mengakui pos ini masih jadi pekerjaan rumah sampai tutup buku akhir tahun. Ekuitas yang hanya naik 1,6 persen meski pendapatan melesat berkali lipat juga menunjukkan belum banyak keuntungan baru yang benar-benar menambah modal pemegang saham. Yang perlu dipantau pemegang saham berikutnya adalah apakah NANO akan mengklarifikasi secara tertulis angka laba neto yang berbeda ini, serta apakah margin laba bersihnya benar membaik pada laporan keuangan tutup tahun 2026.",
+  "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Insidentil",
   "jadwal": [
@@ -5722,7 +5941,16 @@ var ARTICLES = [
     "tanggal": "2026-11-26",
     "acara": "Public Expose Tahunan dan sesi tanya jawab NANO"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T16:37:53",
+    "ringkas": "Direksi NANO sebut laba neto Oktober Rp35 M dalam Q&A, beda dari Rp3,25 M materi resmi, margin masih jadi PR.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_NANO_E003_401896c8-f10c-4034-88ca-f2c3aa6be87b-20261127163755.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-27T16:37:53"
  },
  {
   "slug": "ri-uni-eropa-teken-ieu-cepa-berlaku-sementara-2027",
@@ -13090,8 +13318,8 @@ var ARTICLES = [
  {
   "slug": "public-expose-bmhs-24-november-laba-bersih-9m26-turun-95",
   "category": "Aksi Korporasi",
-  "title": "Public Expose BMHS 24 November: [Laba] Bersih 9M26 Turun 95%",
-  "deck": "BMHS gelar public expose tahunan 24 November 2026: laba bersih 9M26 ambrol 95 persen meski ekspansi rumah sakit terus berjalan.",
+  "title": "Public Expose BMHS 24 November: [Nonkas] Beban Satu Kali Dijelaskan",
+  "deck": "Public expose 24 November dihadiri 25 peserta eksternal: manajemen pastikan beban nonkas Rp22,4 miliar, utang masih aman, kapasitas baru mulai topang pendapatan kuartal IV 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "19 November 2026",
   "isoDate": "2026-11-19T14:41:44",
@@ -13100,18 +13328,18 @@ var ARTICLES = [
   "emiten": "BMHS",
   "tags": [
    "BMHS",
-   "Bundamedik",
    "Public Expose",
-   "Laba Bersih"
+   "Laba Bersih",
+   "Rumah Sakit"
   ],
   "body": [
-   "PT Bundamedik Tbk (BMHS) akan menggelar public expose tahunan pada Selasa, 24 November 2026, pukul 10.00 WIB melalui video konferensi Zoom. Agenda utamanya adalah pemaparan laporan kinerja keuangan kuartal III 2026, yang materi presentasinya sudah disampaikan perusahaan ke Bursa Efek Indonesia melalui surat yang diteken Direktur Utama Agus Heru Darjono. Acara ini akan dihadiri jajaran direksi perusahaan beserta staf terkait, dan pendaftaran peserta dibuka lewat tautan yang disediakan BMHS.",
-   "Materi presentasi menunjukkan pendapatan kotor BMHS pada sembilan bulan pertama 2026 naik 3 persen menjadi Rp1,19 triliun, dari Rp1,16 triliun pada periode yang sama tahun lalu, didorong kenaikan volume operasi bedah, siklus bayi tabung, dan jumlah tes laboratorium. Namun laba operasional sebelum bunga, pajak, dan penyusutan (EBITDA) justru turun 10 persen menjadi Rp153 miliar, akibat beban operasional tambahan dari gedung rumah sakit dan klinik baru yang belum beroperasi penuh. Dampaknya lebih terasa di laba bersih yang ambrol 95 persen, dari Rp20 miliar pada sembilan bulan 2025 menjadi hanya Rp1,1 miliar pada sembilan bulan 2026. Perusahaan menyebut penurunan ini terutama akibat beban satu kali di salah satu anak usaha senilai Rp22,4 miliar pada kuartal II 2026, yang membuat laba bersih kuartal itu sempat negatif Rp21,4 miliar sebelum berbalik menjadi laba Rp22,4 miliar pada kuartal III 2026.",
-   "Dari sisi operasional, jumlah tempat tidur rumah sakit BMHS bertambah 12 persen menjadi 671 unit per September 2026, hasil penambahan kapasitas di lima rumah sakit: RS Menteng dari 129 menjadi 199 tempat tidur, RS Bekasi dari 111 menjadi 161, RS Bali dari 25 menjadi 50, RS Padang dari 121 menjadi 191, dan RS Palembang dari 38 menjadi 138 tempat tidur. Volume operasi bedah naik 13 persen dibanding tahun lalu, dengan operasi berbantuan robot melonjak 204 persen dan telah melewati 1.000 kasus kumulatif. Tingkat keterisian tempat tidur (BOR) justru turun dari 56 persen menjadi 53 persen, menandakan kapasitas baru belum terisi penuh. Perusahaan juga menargetkan mengakuisisi lima rumah sakit dalam lima tahun ke depan, lewat pengambilalihan saham mayoritas rumah sakit komunitas maupun kemitraan membangun rumah sakit baru di kawasan Jakarta Selatan atau Tangerang.",
-   "BMHS juga melaporkan sejumlah kemitraan strategis, antara lain kerja sama klinis dengan Mayo Clinic yang diteken dalam forum Mayo Clinic VITAL Summit 2026 di Jacksonville, Amerika Serikat, serta kerja sama dengan Sinar Mas Land untuk membangun rumah sakit terintegrasi berbasis teknologi di BSD. Perusahaan juga meluncurkan Morula IVF International Fertility Clinic di Biomedical Campus BSD City dengan luas sekitar 1.300 meter persegi dan kapasitas 3.000 siklus per tahun, membidik pasien dari dalam dan luar negeri. Dari sisi pembiayaan, rasio utang bersih terhadap EBITDA naik ke 2,8 kali pada sembilan bulan 2026, dari 1,6 kali pada akhir 2025, seiring pengeluaran modal untuk ekspansi rumah sakit. Komposisi pendapatan rumah sakit dari pasien BPJS Kesehatan juga naik menjadi 25,4 persen pada sembilan bulan 2026, dari 23,3 persen setahun sebelumnya, sementara pendapatan dari pasien mandiri dan asuransi korporasi tetap tumbuh."
+   "PT Bundamedik Tbk (BMHS) melaporkan hasil public expose tahunan yang digelar Selasa, 24 November 2026, lewat surat ke Bursa Efek Indonesia tertanggal 27 November 2026. Acara yang berlangsung secara daring via Zoom itu dihadiri 25 peserta dari luar perusahaan, terdiri dari investor, media, dan masyarakat umum. Dalam sesi tanya jawab, manajemen akhirnya menjelaskan sifat beban satu kali Rp22,4 miliar yang sebelumnya membuat laba bersih kuartal II 2026 negatif: beban itu adalah penyesuaian akuntansi akibat keputusan mengonsolidasikan fasilitas layanan di Bali dan Nusa Dua, bukan pengeluaran uang tunai. Manajemen juga memastikan rasio utang terhadap modal sendiri (debt to equity) masih di bawah 1 kali, jauh dari batas 4 kali yang disyaratkan perjanjian kredit perbankan, dengan modal sendiri sekitar Rp2 triliun berbanding utang bersih sekitar Rp600 miliar.",
+   "Manajemen juga memberi perkiraan waktu kapan kapasitas tempat tidur baru mulai menghasilkan pendapatan. Di RSU Bunda Padang, sekitar 70 persen dari 70 tempat tidur tambahan sudah terisi dan diproyeksikan mulai menyumbang pendapatan pada kuartal IV 2026, dengan kontribusi lebih optimal pada kuartal I 2027, meski perizinan unit perawatan intensif (ICU) masih berjalan. Sementara itu, tambahan tempat tidur di RSU Bunda Menteng dan RSU Bunda Margonda ditargetkan baru memberi kontribusi pendapatan pada kuartal II 2027. Rencana akuisisi empat sampai lima rumah sakit komunitas dalam lima tahun ke depan disebut sudah memasuki proses untuk sebagian target, tetapi perusahaan belum membuka rincian nama rumah sakitnya. Soal kemungkinan melepas sebagian saham anak usaha Morula IVF lewat penawaran umum, manajemen menyatakan belum bisa memberi informasi lebih lanjut, begitu juga anggaran belanja modal 2027 yang disebut masih dalam proses penyusunan untuk diajukan ke Dewan Komisaris dan pemegang saham.",
+   "Siaran pers yang menyertai laporan ini merinci kinerja kuartal III 2026 yang sebelumnya belum lengkap diungkap: pendapatan kuartal itu mencapai Rp420 miliar, naik 6 persen dibanding kuartal sebelumnya dan 6 persen dibanding tahun lalu, sementara laba operasional sebelum bunga, pajak, dan penyusutan (EBITDA) kuartal III naik 27 persen dari kuartal sebelumnya menjadi Rp60 miliar, tanda bahwa tekanan beban mulai mereda dibanding kuartal II yang sempat merugi. Pendapatan dari tindakan bedah robotik di RSU Bunda Jakarta tumbuh 239 persen sepanjang sembilan bulan 2026, sementara volume tes Diagnos Laboratorium naik 19 persen menjadi 739 ribu tes dengan pendapatan Rp132 miliar, dan Morula IVF Indonesia mencatat 3,7 ribu siklus bayi tabung. BMHS juga meresmikan peletakan batu pertama jembatan penghubung yang akan menyatukan RSIA Bunda Jakarta dan RSU Bunda Jakarta secara fisik, serta menyerahkan hibah sistem bedah robotik da Vinci Si kepada Fakultas Teknik Mesin dan Dirgantara Institut Teknologi Bandung untuk pendidikan dan riset.",
+   "Secara keseluruhan, kondisi yang dipaparkan dalam public expose ini masih sejalan dengan materi yang disampaikan sebelum acara: pendapatan kotor sembilan bulan 2026 naik 3 persen menjadi Rp1,187 triliun, tetapi laba bersih periode itu ambrol 95 persen menjadi hanya Rp1,1 miliar dari Rp20 miliar setahun sebelumnya, dengan EBITDA sembilan bulan turun 10 persen menjadi Rp153 miliar. Jumlah tempat tidur rumah sakit BMHS tercatat 671 unit per September 2026, naik 12 persen, sementara tingkat keterisian tempat tidur (BOR) turun dari 56 persen menjadi 53 persen karena kapasitas baru belum terisi penuh. Rasio utang bersih terhadap EBITDA tetap berada di 2,8 kali, naik dari 1,6 kali pada akhir 2025, seiring belanja modal untuk ekspansi rumah sakit dan klinik baru."
   ],
   "fotoAdegan": "Medical staff preparing a robotic surgery arm beside an operating table in a brightly lit hospital room",
-  "takeaway": "Laporan ini netral bagi fundamental BMHS: ekspansi kapasitas rumah sakit dan kemitraan strategis menunjukkan upaya pertumbuhan jangka panjang, tetapi laba bersih sembilan bulan 2026 ambrol 95 persen dan beban utangnya makin berat, sehingga belum ada alasan kuat untuk menyebutnya jelas positif. Pos yang tersentuh adalah margin EBITDA, yakni porsi laba operasional sebelum bunga, pajak, dan penyusutan dari pendapatan, yang turun dari 15 persen ke 13 persen, serta rasio utang bersih terhadap EBITDA yang naik ke 2,8 kali dari 1,6 kali, ukuran seberapa berat utang dibanding kemampuan perusahaan menghasilkan laba operasional. Pelaku pasar memperhatikan dua pos ini karena menentukan apakah ekspansi rumah sakit yang agresif dibiayai secara sehat atau justru membebani arus kas ke depan. Yang perlu dipantau berikutnya adalah pemaparan lengkap dalam public expose tahunan pada Selasa, 24 November 2026 pukul 10.00 WIB, termasuk apakah manajemen memberi kepastian waktu kapan beban operasional rumah sakit dan klinik baru bisa tertutup oleh pendapatan seperti yang dijanjikan dalam materi ini.",
+  "takeaway": "Laporan hasil public expose ini netral bagi fundamental BMHS, karena yang berubah justru kejelasan, bukan angka: manajemen memastikan beban satu kali Rp22,4 miliar kuartal II 2026 hanyalah penyesuaian akuntansi nonkas akibat konsolidasi fasilitas Bali dan Nusa Dua, bukan uang yang benar-benar keluar dari kas perusahaan, dan rasio utang terhadap modal sendiri masih di bawah 1 kali, jauh dari batas perjanjian kredit sebesar 4 kali. Pos yang tersentuh adalah ekuitas dan utang bersih, BMHS menyebut modal sendiri sekitar Rp2 triliun berbanding utang bersih sekitar Rp600 miliar, dua angka yang menunjukkan perusahaan masih punya ruang pinjam kalau mau membiayai ekspansi lebih lanjut tanpa mempertaruhkan kesehatan neraca. Pelaku pasar memperhatikan rasio ini karena laba bersih sembilan bulan 2026 sudah ambrol 95 persen, jadi kemampuan membayar utang dari laba operasional jadi taruhan utama kalau proyeksi pendapatan baru meleset. Yang perlu dipantau berikutnya adalah apakah kapasitas tempat tidur tambahan di RSU Bunda Padang benar mulai menyumbang pendapatan pada kuartal IV 2026 seperti dijanjikan manajemen, disusul kontribusi dari RSU Bunda Menteng dan Margonda yang ditargetkan baru terasa pada kuartal II 2027.",
   "sentimen": "netral",
   "peristiwa": "public-expose",
   "judulIdx": "Penyampaian Materi Public Expose - Tahunan",
@@ -13120,7 +13348,16 @@ var ARTICLES = [
     "tanggal": "2026-11-24",
     "acara": "Public expose tahunan, paparan kinerja keuangan kuartal III 2026"
    }
-  ]
+  ],
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T15:26:31",
+    "ringkas": "BMHS jelaskan beban nonkas Rp22,4 miliar, pastikan utang aman, dan proyeksikan kapasitas baru menyumbang pendapatan mulai kuartal IV 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BMHS_E003_d5582574-3b46-4908-b143-856b55540915-20261127152633.pdf",
+    "judulIdx": "Laporan Hasil Public Expose - Tahunan"
+   }
+  ],
+  "diperbarui": "2026-11-27T15:26:31"
  },
  {
   "slug": "fifa-dana-obligasi-orange-i-rp187-23-miliar-terealisasi-100",
@@ -29468,8 +29705,8 @@ var ARTICLES = [
  {
   "slug": "bafi-siapkan-dana-pelunasan-obligasi-rp100-miliar-29-november",
   "category": "Aksi Korporasi",
-  "title": "BAFI Siapkan Dana [Pelunasan] Obligasi Rp100 Miliar 29 November",
-  "deck": "BAFI menyiapkan dana Rp100 miliar untuk melunasi pokok dan bunga terakhir obligasi yang jatuh tempo 29 November 2026, dana dikirim ke KSEI 27 November 2026.",
+  "title": "Obligasi BAFI Jatuh Tempo 29 November: [Delisting] Efektif 30 November",
+  "deck": "Bursa Efek Indonesia mengumumkan obligasi BAFI03ACN4 senilai Rp100 miliar milik BAFI berhenti tercatat dan diperdagangkan mulai 30 November 2026, sehari setelah jatuh tempo pada 29 November 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "9 November 2026",
   "isoDate": "2026-11-09T13:54:19",
@@ -29479,17 +29716,41 @@ var ARTICLES = [
   "tags": [
    "BAFI",
    "obligasi",
-   "Bussan Auto Finance",
-   "pelunasan utang"
+   "jatuh tempo",
+   "delisting"
   ],
   "body": [
-   "PT Bussan Auto Finance (BAFI) menyampaikan rencana pelunasan pokok dan bunga terakhir dari Obligasi Berkelanjutan III Tahap IV Tahun 2025 melalui keterbukaan informasi ke Bursa Efek Indonesia tertanggal 9 November 2026. Perseroan menyatakan telah menyiapkan dana untuk membayar pokok senilai Rp100 miliar dan bunga sebesar Rp1,39 miliar.",
-   "Obligasi tersebut jatuh tempo pada 29 November 2026. BAFI berencana mengirimkan dana pelunasan itu ke agen pembayaran, PT Kustodian Sentral Efek Indonesia (KSEI), pada 27 November 2026, dua hari sebelum tanggal jatuh tempo. Surat keterbukaan informasi ini ditandatangani oleh Sigit Sembodo, Wakil Presiden Direktur BAFI, dengan merujuk pada Peraturan BEI Nomor I-E tentang Kewajiban Penyampaian Informasi.",
-   "Surat ini juga ditembuskan kepada KSEI, PT Bank Mandiri (Persero) Tbk selaku wali amanat obligasi, serta dua lembaga pemeringkat yaitu Fitch Ratings Indonesia dan PT Pemeringkat Efek Indonesia (Pefindo). Perseroan menyatakan bahwa pelunasan ini tidak membawa dampak signifikan terhadap kegiatan operasional, kondisi hukum, keuangan, maupun kelangsungan usahanya."
+   "PT Bursa Efek Indonesia (BEI) menerbitkan pengumuman resmi bernomor Peng-JTO-00105/BEI.PP1/11-2026 pada 27 November 2026, menyatakan bahwa Obligasi Berkelanjutan III Bussan Auto Finance Tahap IV Tahun 2025 Seri A dengan kode BAFI03ACN4 tidak lagi tercatat dan tidak bisa diperdagangkan di BEI mulai 30 November 2026. Penghentian ini terjadi karena obligasi senilai Rp100 miliar tersebut jatuh tempo sehari sebelumnya, pada 29 November 2026.",
+   "Sebelumnya, PT Bussan Auto Finance (BAFI) telah menyampaikan keterbukaan informasi pada 9 November 2026 bahwa perseroan telah menyiapkan dana pelunasan pokok Rp100 miliar dan bunga terakhir Rp1,39 miliar untuk obligasi ini. BAFI berencana mengirimkan dana itu ke PT Kustodian Sentral Efek Indonesia (KSEI) selaku agen pembayaran pada 27 November 2026, dua hari sebelum jatuh tempo.",
+   "Obligasi Seri A ini merupakan bagian dari Obligasi Berkelanjutan III Bussan Auto Finance yang menargetkan dana Rp5 triliun dan sudah diterbitkan dalam empat tahap. Seri A sendiri berbunga tetap 5 persen per tahun dengan jangka waktu 370 hari, diterbitkan 19 November 2025 dan tercatat di BEI sejak 20 November 2025. Wali amanat obligasi ini adalah PT Bank Mandiri (Persero) Tbk."
   ],
   "fotoAdegan": "Customers test-riding motorcycles at a busy dealership showroom in Jakarta, salespeople assisting nearby, bright daylight",
-  "takeaway": "Rencana pelunasan ini condong positif bagi BAFI, karena perseroan menunjukkan kesiapan dana jauh sebelum jatuh tempo tanpa tanda kesulitan likuiditas untuk menutup kewajiban obligasinya. Pos yang tersentuh adalah total utang dan arus kas, begitu pokok Rp100 miliar dan bunga Rp1,39 miliar dibayarkan, beban utang obligasi BAFI berkurang sejumlah itu sementara kasnya keluar dalam jumlah yang sama, dan beban bunga rutin untuk obligasi ini pun berhenti karena surat utangnya resmi lunas. Yang perlu dipantau selanjutnya adalah apakah dana benar benar terkirim ke KSEI selaku agen pembayaran pada 27 November 2026, dua hari sebelum tanggal jatuh tempo 29 November 2026, serta konfirmasi pelunasan penuh setelah tanggal tersebut.",
-  "sentimen": "positif"
+  "takeaway": "Pengumuman delisting ini bersifat netral, karena isinya hanya menegaskan jadwal yang sudah diketahui sebelumnya, bukan konfirmasi baru bahwa BAFI benar benar sudah melunasi kewajibannya. Pos yang tersentuh adalah status pencatatan obligasi BAFI03ACN4 di bursa, begitu tanggal jatuh tempo lewat, surat utang ini otomatis berhenti diperdagangkan terlepas dari apakah pembayarannya sudah dieksekusi, sehingga investor tidak bisa lagi memperjualbelikannya di pasar sekunder setelah 30 November 2026. Yang perlu dipantau berikutnya adalah konfirmasi resmi dari BAFI bahwa dana pokok Rp100 miliar dan bunga Rp1,39 miliar benar benar sudah diterima pemegang obligasi setelah tanggal jatuh tempo 29 November 2026.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T17:49:29",
+    "ringkas": "BEI resmi mengumumkan obligasi BAFI03ACN4 berhenti diperdagangkan mulai 30 November 2026 setelah jatuh tempo 29 November 2026.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BAFI_B012_4548c9f5-9079-4f7b-97ca-a4f1a3e0b383-20261127174930.pdf",
+    "judulIdx": "Pengumuman Jatuh Tempo Obligasi"
+   }
+  ],
+  "diperbarui": "2026-11-27T17:49:29",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-27",
+    "acara": "Dana pelunasan dikirim ke KSEI selaku agen pembayaran"
+   },
+   {
+    "tanggal": "2026-11-29",
+    "acara": "Jatuh tempo obligasi, pokok dan bunga terakhir dibayarkan"
+   },
+   {
+    "tanggal": "2026-11-30",
+    "acara": "Obligasi BAFI03ACN4 berhenti tercatat dan diperdagangkan di BEI"
+   }
+  ],
+  "peristiwa": "obligasi"
  },
  {
   "slug": "nsss-panggil-rupslb-bahas-pergantian-komisaris-1-desember",
@@ -38508,8 +38769,8 @@ var ARTICLES = [
  {
   "slug": "baik-panggil-rupslb-susunan-komisaris-berpotensi-berubah",
   "category": "Aksi Korporasi",
-  "title": "BAIK Panggil RUPSLB, Susunan [Komisaris] Berpotensi Berubah",
-  "deck": "RUPSLB PT Bersama Mencapai Puncak Tbk (BAIK) digelar 25 November 2026 di Malang, agendanya persetujuan perubahan susunan Dewan Komisaris Perseroan.",
+  "title": "RUPSLB BAIK 25 November: [Komisaris] Nurfaizi Disetujui Masuk",
+  "deck": "RUPSLB PT Bersama Mencapai Puncak Tbk (BAIK) pada 25 November 2026 menyetujui penambahan Dr. Nurfaizi, M.M. sebagai komisaris independen baru, tanpa mengganti anggota lama.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "3 November 2026",
   "isoDate": "2026-11-03T14:34:56",
@@ -38523,13 +38784,30 @@ var ARTICLES = [
    "Tata Kelola Perusahaan"
   ],
   "body": [
-   "PT Bersama Mencapai Puncak Tbk (BAIK) memanggil pemegang sahamnya untuk menghadiri Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 25 November 2026, pukul 10.00 WIB di Meeting Room Bersama, Jalan Ruko Soekarno Hatta Indah A18 Mojolangu, Kecamatan Lowokwaru, Kota Malang. Agenda rapat hanya satu, yaitu persetujuan pengangkatan kembali atau perubahan susunan anggota Dewan Komisaris Perseroan. Perusahaan menyebut dasar hukumnya adalah Pasal 23 POJK Nomor 33/POJK.04.2014 tentang Direksi dan Dewan Komisaris Emiten atau Perusahaan Publik, serta Pasal 19 ayat 2 huruf d Anggaran Dasar Perseroan, yang mewajibkan perubahan susunan komisaris ditetapkan melalui RUPS. Dokumen pemanggilan ini tidak menyebutkan nama calon komisaris yang akan diangkat atau diberhentikan.",
-   "Pemegang saham yang berhak hadir dan memberikan suara adalah yang namanya tercatat di Daftar Pemegang Saham pada penutupan perdagangan Bursa Efek Indonesia, Senin, 2 November 2026 pukul 16.00 WIB. Kehadiran bisa dilakukan secara fisik di lokasi rapat atau secara elektronik melalui aplikasi eASY.KSEI pada tautan akses.ksei.co.id, termasuk untuk menunjuk kuasa dan menyampaikan suara. Bahan-bahan mata acara rapat sudah tersedia di situs web perusahaan sejak tanggal pemanggilan ini diumumkan, yaitu 3 November 2026.",
-   "Pemanggilan ini merupakan kelanjutan dari surat pemberitahuan rencana RUPS yang sebelumnya disampaikan Perseroan pada 19 Oktober 2026. Surat ditandatangani oleh Direktur Utama Nanang Suherman dan disampaikan kepada Otoritas Jasa Keuangan serta Bursa Efek Indonesia pada 3 November 2026."
+   "PT Bersama Mencapai Puncak Tbk (BAIK) telah menggelar Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Rabu, 25 November 2026, dan menyetujui penambahan satu anggota baru di Dewan Komisaris, yaitu Dr. Nurfaizi, M.M., yang menjabat sebagai komisaris independen. Rapat dihadiri pemegang saham yang mewakili 916.125.700 saham atau 81,25 persen dari total saham berhak suara. Dari jumlah itu, 916.125.600 saham menyatakan setuju dan hanya 100 saham menyatakan tidak setuju, tanpa ada suara abstain, sehingga keputusan ini praktis disetujui bulat oleh pemegang saham yang hadir.",
+   "Dengan keputusan ini, susunan Dewan Komisaris Perseroan menjadi empat orang: Yeni Isnawati sebagai Komisaris Utama, Untung Sudarto dan Nurfaizi sebagai Komisaris Independen, serta Busfi Arusagara sebagai Komisaris. Masa jabatan Nurfaizi berlaku efektif sejak 25 November 2026 dan meneruskan periode kepengurusan yang sama dengan komisaris lain, yakni sampai ditutupnya RUPST tahun 2028. Susunan Direksi tidak berubah, tetap diisi Nanang Suherman sebagai Direktur Utama bersama Afanin Nur Raudhah dan Ubaidillah sebagai Direktur.",
+   "RUPSLB ini merupakan kelanjutan dari pemanggilan rapat yang diumumkan Perseroan pada 3 November 2026, yang saat itu hanya menyebutkan agenda tunggal berupa persetujuan perubahan susunan Dewan Komisaris tanpa mengungkap nama calon. Dengan hasil rapat ini, pertanyaan yang sebelumnya terbuka sudah terjawab: perubahan yang dimaksud adalah penambahan satu komisaris independen baru, bukan penggantian anggota lama. Pemegang saham yang berhak hadir dan memberi suara adalah yang tercatat dalam Daftar Pemegang Saham pada penutupan perdagangan di Bursa Efek Indonesia, Senin, 2 November 2026.",
+   "Perseroan juga menyetujui pemberian kuasa kepada Direksi untuk menuangkan perubahan susunan komisaris ini ke dalam akta notaris tersendiri, termasuk menyampaikan pemberitahuan kepada Menteri Hukum Republik Indonesia dan instansi berwenang lainnya, sebagai langkah administratif untuk mencatatkan perubahan ini secara resmi."
   ],
   "fotoAdegan": "Empty formal meeting room with rows of chairs facing a small stage, soft morning light, modest office building interior in a provincial Indonesian city",
-  "takeaway": "Laporan ini netral bagi BAIK karena hanya memanggil rapat prosedural tanpa mengungkap nama calon komisaris, nilai transaksi, atau angka keuangan apa pun yang bisa dinilai arahnya. Yang tersentuh di sini adalah tata kelola perusahaan, yakni siapa yang mengisi Dewan Komisaris, lembaga yang bertugas mengawasi kinerja direksi, bukan laba atau arus kas secara langsung, tapi pasar tetap memperhatikannya karena komposisi pengawas bisa mempengaruhi arah kebijakan strategis perusahaan ke depan. Yang perlu dipantau adalah hasil RUPSLB pada 25 November 2026, terutama siapa saja yang akhirnya diangkat atau diberhentikan dari Dewan Komisaris, karena nama dan rekam jejak mereka baru akan terungkap setelah rapat berlangsung.",
-  "sentimen": "netral"
+  "takeaway": "Laporan ini netral bagi BAIK karena hanya menambah satu komisaris independen tanpa mengganti anggota lama, mengubah struktur kepemilikan, atau menyentuh angka keuangan apa pun, dan disetujui hampir bulat oleh pemegang saham yang hadir. Yang tersentuh di sini adalah tata kelola perusahaan, bukan ekuitas atau laba, sebab komisaris independen bertugas mengawasi kebijakan Direksi secara bebas dari kepentingan pemegang saham pengendali, sehingga pasar memperhatikan penambahan ini sebagai penguatan pengawasan, bukan sinyal kinerja. Yang perlu dipantau berikutnya adalah proses pencatatan resmi perubahan ini melalui akta notaris dan pemberitahuan ke Menteri Hukum, karena perubahan susunan pengurus baru berlaku penuh secara hukum setelah proses administratif itu selesai.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T17:04:55",
+    "ringkas": "RUPSLB BAIK menyetujui penambahan Dr. Nurfaizi, M.M. sebagai komisaris independen baru, tanpa mengganti komisaris lama.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BAIK_E013_ec3b28b6-2fa2-4b59-91c2-2cdf1a0f2678-20261127170456.pdf",
+    "judulIdx": "Ringkasan Risalah RUPS"
+   }
+  ],
+  "diperbarui": "2026-11-27T17:04:55",
+  "jadwal": [
+   {
+    "tanggal": "2026-11-25",
+    "acara": "RUPSLB digelar, menyetujui penambahan komisaris independen"
+   }
+  ],
+  "peristiwa": "rups"
  },
  {
   "slug": "boss-lapor-lk-triwulan-iii-2024-defisit-modal-melebar",
@@ -135420,8 +135698,8 @@ var ARTICLES = [
  {
   "slug": "bbhi-siapkan-buyback-saham-rp300-miliar-hingga-desember",
   "category": "Aksi Korporasi",
-  "title": "BBHI Siapkan Buyback Saham [Rp300 Miliar] hingga Desember",
-  "deck": "Allo Bank Indonesia (BBHI) akan membeli kembali sahamnya sendiri senilai maksimal Rp300 miliar pada 3 September-2 Desember 2026 untuk menstabilkan harga di tengah pasar yang bergejolak.",
+  "title": "Buyback BBHI 27 November: [Realisasi] Rp293 Miliar dari Rp300 Miliar",
+  "deck": "Hingga 27 November 2026, Allo Bank Indonesia (BBHI) sudah membeli kembali 355,4 juta lembar sahamnya senilai Rp293,17 miliar, atau 97,7 persen dari rencana Rp300 miliar, berakhir 2 Desember 2026.",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "date": "2 September 2026",
   "isoDate": "2026-09-02T17:45:08",
@@ -135432,16 +135710,33 @@ var ARTICLES = [
    "BBHI",
    "buyback saham",
    "Allo Bank Indonesia",
-   "saham treasuri"
+   "pasar modal"
   ],
   "body": [
-   "PT Allo Bank Indonesia Tbk (BBHI) menyampaikan keterbukaan informasi bahwa perseroan berencana membeli kembali sahamnya sendiri yang beredar di Bursa Efek Indonesia. Program ini merujuk pada aturan OJK soal pembelian kembali saham dalam kondisi pasar yang berfluktuasi signifikan, sehingga bisa dilakukan tanpa persetujuan Rapat Umum Pemegang Saham (RUPS) terlebih dahulu. Pemberitahuan rencana ini disampaikan ke OJK dan Bursa Efek Indonesia pada 2 September 2026, dengan perkiraan periode pembelian berlangsung 3 September hingga 2 Desember 2026 melalui satu anggota bursa.",
-   "Dana yang disiapkan untuk buyback ini berasal dari saldo laba ditahan perseroan, dengan nilai maksimal Rp300 miliar atau setara 1,93 persen dari total aset perseroan per 30 Juni 2026. Perseroan tidak menetapkan batas harga pembelian secara spesifik, hanya menyebut akan membeli pada harga yang dianggap baik dan wajar oleh manajemen sesuai ketentuan yang berlaku. Saham yang dibeli kembali akan disimpan sebagai saham treasuri untuk jangka waktu yang diatur dalam POJK 29/2023.",
-   "Dalam proforma yang disertakan, jika seluruh dana Rp300 miliar terpakai, total aset perseroan turun dari Rp15,57 triliun menjadi Rp15,27 triliun, dan ekuitas turun dari Rp7,34 triliun menjadi Rp7,04 triliun per posisi 30 Juni 2026. Laba bersih diperkirakan turun dari Rp233,67 miliar menjadi Rp227,67 miliar akibat hilangnya potensi bunga dari dana yang dipakai untuk buyback, sehingga laba per saham turun tipis dari Rp21,51 menjadi Rp21,33. Rasio kecukupan modal (CAR) diperkirakan turun dari 66,35 persen menjadi sekitar 63,58 persen, sementara return on equity (ROE) justru naik dari 6,31 persen menjadi 6,41 persen. Surat ini ditandatangani Ari Yanuanto Asah selaku Pelaksana Tugas Direktur Utama, dengan Corporate Secretary Stacey Aryadi Suryoputro sebagai pengirim laporan ke OJK dan BEI."
+   "PT Allo Bank Indonesia Tbk (BBHI) melaporkan telah membeli kembali 355.424.000 lembar sahamnya sendiri senilai Rp293,17 miliar hingga 27 November 2026, atau 97,7 persen dari anggaran buyback Rp300 miliar yang disetujui sejak awal September. Sisa dana yang belum terpakai tinggal Rp6,83 miliar, dengan program dijadwalkan berakhir 2 Desember 2026.",
+   "Harga rata-rata pembelian bergerak turun selama periode ini. Saat program dimulai pada 3 September 2026, perseroan membeli di kisaran Rp900 per lembar. Harga pembelian itu terus menyusut hingga sekitar Rp600 per lembar pada pertengahan November, sebelum naik sedikit ke Rp620 per lembar pada transaksi terakhir 27 November 2026.",
+   "Rencana buyback ini pertama kali diumumkan pada 2 September 2026, merujuk pada aturan Otoritas Jasa Keuangan yang mengizinkan perseroan membeli kembali sahamnya tanpa persetujuan Rapat Umum Pemegang Saham lebih dulu, karena kondisi pasar modal saat itu dinilai berfluktuasi signifikan. Dana pembelian berasal dari saldo laba ditahan perseroan, bukan dari pinjaman, dan transaksi dilakukan melalui Mandiri Sekuritas di Bursa Efek Indonesia.",
+   "Dalam proyeksi yang diumumkan bersama rencana awal, jika seluruh dana Rp300 miliar terpakai, ekuitas perseroan diperkirakan turun dari Rp7,34 triliun menjadi Rp7,04 triliun, dan laba per saham turun tipis dari Rp21,51 menjadi Rp21,33 akibat hilangnya potensi bunga dari kas yang dipakai. Dengan realisasi yang sudah mencapai 97,7 persen dari rencana, dampak itu kini hampir sepenuhnya terwujud."
   ],
   "fotoAdegan": "Modern glass bank tower in a busy Jakarta financial district, street-level view during golden hour, no signage visible",
-  "takeaway": "Laporan ini netral bagi fundamental BBHI, karena skalanya kecil, hanya 1,93 persen dari total aset, dan dibiayai dari kas internal tanpa menambah utang. Yang tersentuh langsung adalah ekuitas dan rasio kecukupan modal atau CAR, yaitu ukuran seberapa besar bantalan modal bank dibanding risiko kreditnya, yang menurut proyeksi perseroan turun dari 66,35 persen ke 63,58 persen namun masih jauh di atas batas minimum yang diwajibkan regulator. Laba per saham juga tergerus tipis karena bank kehilangan potensi bunga dari kas yang dipakai membeli sahamnya sendiri, meski menurut hitungan perseroan efeknya tidak material terhadap kinerja keseluruhan. Yang perlu dipantau berikutnya adalah realisasi pembelian selama periode 3 September sampai 2 Desember 2026, yakni berapa dari Rp300 miliar yang benar-benar terpakai dan bagaimana pergerakan harga saham BBHI selama program ini berjalan.",
-  "sentimen": "netral"
+  "takeaway": "Laporan hasil ini netral bagi fundamental BBHI, karena realisasi pembelian sebesar Rp293,17 miliar sejalan dengan proforma yang sudah diumumkan sejak September, tanpa fakta baru yang mengubah risiko keuangan perseroan. Pos yang tersentuh adalah ekuitas, karena kas yang dipakai membeli saham balik mengurangi modal sendiri perseroan, dan jumlah saham beredar, karena saham yang dibeli disimpan sebagai saham treasuri sehingga tidak lagi dihitung sebagai saham publik yang beredar, yang pada akhirnya membuat laba per saham sedikit terangkat meski laba bersih turun tipis akibat kehilangan bunga dari kas tersebut. Yang perlu dipantau berikutnya adalah penyelesaian sisa dana Rp6,83 miliar sebelum periode buyback berakhir pada 2 Desember 2026, serta laporan akhir resmi perseroan setelah program ditutup untuk memastikan berapa persisnya saham yang akhirnya ditarik dari pasar.",
+  "sentimen": "netral",
+  "pembaruan": [
+   {
+    "tanggal": "2026-11-27T16:54:34",
+    "ringkas": "BBHI sudah merealisasikan Rp293,17 miliar atau 97,7 persen dari rencana buyback Rp300 miliar per 27 November 2026, tersisa Rp6,83 miliar.",
+    "sumber": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BBHI_E006_9c933dc5-6c2a-43be-b7ce-972407c21504-20261127165435.pdf",
+    "judulIdx": "Rencana Pembelian Kembali Saham (Buy Back) dalam Kondisi Pasar yang Berfluktuasi secara Signifikan"
+   }
+  ],
+  "diperbarui": "2026-11-27T16:54:34",
+  "jadwal": [
+   {
+    "tanggal": "2026-12-02",
+    "acara": "Akhir periode pembelian kembali saham BBHI"
+   }
+  ],
+  "peristiwa": "buyback"
  },
  {
   "slug": "dyan-ungkap-pembelian-saham-oleh-pemegang-saham-mondial",

@@ -5,6 +5,118 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "transaksi-afiliasi-bmas-27-november-pinjaman-us-5-juta-dari-kbank",
+  "category": "Aksi Korporasi",
+  "title": "Transaksi Afiliasi BMAS 27 November: [Pinjaman] US$5 Juta dari KBank",
+  "deck": "BMAS menerima fasilitas pinjaman bilateral senilai US$5 juta dari pemegang saham pengendalinya, KASIKORNBANK, untuk menopang likuiditas jangka pendek.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "BMAS",
+   "transaksi afiliasi",
+   "pinjaman bilateral",
+   "KASIKORNBANK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_BMAS_E025A_c1873df7-fe52-48e0-8138-7bc758b611ad-20261127180717.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "cdia-tanggapi-bei-klarifikasi-tak-ada-info-material-baru",
+  "category": "Aksi Korporasi",
+  "title": "CDIA Tanggapi BEI: [Klarifikasi] Tak Ada Info Material Baru",
+  "deck": "Merespons permintaan BEI atas volatilitas sahamnya, CDIA menyatakan seluruh informasi material sudah diungkap dan pemegang saham utama tetap mempertahankan kepemilikannya.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CDIA",
+   "volatilitas saham",
+   "BEI",
+   "keterbukaan informasi"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_CDIA_E019_c5a56eb9-aa1c-4ccf-bce7-3bda9243b9a3-20261127175041.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "buyback-cbdk-rp150-miliar-pembelian-mulai-30-november-2026",
+  "category": "Aksi Korporasi",
+  "title": "Buyback CBDK Rp150 Miliar: [Pembelian] Mulai 30 November 2026",
+  "deck": "CBDK akan membeli kembali saham senilai maksimal Rp150 miliar mulai 30 November 2026 hingga 28 Februari 2027, merespons penurunan harga sahamnya yang mencapai 73,79 persen tahun ini.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "CBDK",
+   "buyback",
+   "pembelian kembali saham",
+   "pasar modal"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_CBDK_E019_596a1a89-f04c-476c-9dce-1df8589f01c4-20261127170643.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-zp-bbcazpcz6a-ch7a-tidak-disesuaikan-imbas-dividen-bbca",
+  "category": "Aksi Korporasi",
+  "title": "Waran ZP BBCAZPCZ6A-CH7A: [Tidak Disesuaikan] Imbas Dividen BBCA",
+  "deck": "Maybank Sekuritas (ZP) memastikan tidak ada penyesuaian syarat dan ketentuan untuk waran terstruktur BBCAZPCZ6A dan BBCAZPCH7A terkait dividen tunai PT Bank Central Asia Tbk.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ZP",
+   "Maybank Sekuritas",
+   "waran terstruktur",
+   "BBCA"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ZP_E019_56d0b55f-f951-4b4b-b09d-29d3436cfecc-20261127170224.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "waran-terstruktur-dr-tak-disesuaikan-usai-bbca-bagi-dividen-rp35",
+  "category": "Aksi Korporasi",
+  "title": "Waran Terstruktur DR [Tak Disesuaikan] usai BBCA Bagi Dividen Rp35",
+  "deck": "RHB Sekuritas Indonesia (DR) menyatakan tidak ada penyesuaian syarat waran terstruktur BBCADRCH7A menyusul pembagian dividen tunai BBCA.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "DR",
+   "waran terstruktur",
+   "BBCA",
+   "dividen"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_DR_E019_b54303de-4b9b-4148-89b2-3874ebeb46aa-20261127164439.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "igar-dematerialisasi-saham-warkat-wajib-konversi-sebelum-2030",
+  "category": "Aksi Korporasi",
+  "title": "IGAR [Dematerialisasi] Saham: Warkat Wajib Konversi Sebelum 2030",
+  "deck": "Champion Pacific Indonesia (IGAR) meminta pemegang saham berbentuk warkat mengonversi sahamnya menjadi scripless sebelum 6 Mei 2030, sesuai POJK Dematerialisasi.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "IGAR",
+   "Dematerialisasi Saham",
+   "Champion Pacific Indonesia",
+   "OJK"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_IGAR_E019_f23f9230-3ee0-4164-8000-6c6cf35f2e96-20261127162310.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
+  "slug": "rupo-adhi-11-desember-perpanjangan-jatuh-tempo-obligasi-dibahas",
+  "category": "Aksi Korporasi",
+  "title": "RUPO ADHI 11 Desember: [Perpanjangan] Jatuh Tempo Obligasi Dibahas",
+  "deck": "RUPO pertama Obligasi Berkelanjutan III Tahap III ADHI digelar 11 Desember, membahas pengesampingan pembayaran utang jatuh tempo serta perubahan bunga dan tenor.",
+  "date": "27 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "ADHI",
+   "obligasi",
+   "RUPO",
+   "restrukturisasi utang"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261127_ADHI_E019_4ef79d70-9044-46f0-9cf9-ba407a590211-20261127161853.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "dagang-ri-uea-tembus-us-5-1-miliar-naik-14-persen",
   "category": "Global",
   "title": "Dagang RI-UEA Tembus US$5,1 Miliar, [Naik] 14 Persen",
@@ -2943,15 +3055,15 @@ var ARTICLES = [
  {
   "slug": "nano-public-expose-26-november-pendapatan-430-laba-rp3-25-m",
   "category": "Aksi Korporasi",
-  "title": "NANO Public Expose 26 November: Pendapatan +430%, [Laba Rp3,25 M]",
-  "deck": "Dalam materi Public Expose 26 November 2026, NANO melaporkan pendapatan Januari-Oktober melonjak ke Rp356,96 miliar dan laba neto Rp3,25 miliar, berbalik dari rugi tahun lalu.",
+  "title": "Public Expose NANO 26 November: Direksi Akui [Margin] Laba Tipis",
+  "deck": "Laporan hasil Public Expose 26 November: direksi NANO akui margin laba bersih masih jadi PR, sementara angka laba neto dalam sesi tanya jawab berbeda dari materi resmi sebelumnya.",
   "date": "23 November 2026",
   "image": "assets/img/penanda-keterbukaan-bursa.jpg",
   "tags": [
    "NANO",
    "Public Expose",
-   "kinerja keuangan",
-   "Nanotech Indonesia Global"
+   "Laba Bersih",
+   "Margin"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261123_NANO_E003_5387254d-825c-4dd9-bfb2-940d69d6278f-20261123195014.pdf",
   "sourceLabel": "IDX"
@@ -6374,119 +6486,5 @@ var ARTICLES = [
   "tags": [],
   "sourceUrl": "https://kppu.go.id/berita/ketua-kppu-dan-gubernur-jawa-barat-perkuat-sinergi-persaingan-usaha-dukung-investasi-berkualitas",
   "sourceLabel": "Komisi Pengawas Persaingan Usaha"
- },
- {
-  "slug": "kokopit-kaltim-ekspor-perdana-ke-taiwan-rp138-juta",
-  "category": "UMKM",
-  "title": "Kokopit Kaltim [Ekspor] Perdana ke Taiwan, Rp138 Juta",
-  "deck": "Koperasi produsen di Balikpapan mengirim kokopit, media tanam dari serabut kelapa, senilai Rp138 juta ke Taiwan, ekspor pertama berkat fasilitasi KDEI Taipei.",
-  "date": "19 November 2026",
-  "image": "assets/img/kokopit-kaltim-ekspor-perdana-ke-taiwan-rp138-juta.jpg",
-  "imageV": "mwn9zd1s",
-  "tags": [
-   "ekspor",
-   "kokopit",
-   "KDEI Taipei",
-   "UMKM"
-  ],
-  "kreditFoto": "Kementerian Perdagangan",
-  "sourceUrl": "https://www.kemendag.go.id/berita/siaran-pers/kdei-taipei-fasilitasi-ekspor-perdana-media-tanam-kokopit-ke-taiwan",
-  "sourceLabel": "Kementerian Perdagangan"
- },
- {
-  "slug": "dividen-interim-jtpe-rp10-per-saham-cair-17-desember",
-  "category": "Aksi Korporasi",
-  "title": "Dividen Interim JTPE Rp10 per Saham, [Cair] 17 Desember",
-  "deck": "JTPE akan membagikan dividen interim tunai Rp10 per saham, total Rp67,73 miliar, dengan pembayaran pada 17 Desember 2026.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "JTPE",
-   "dividen interim",
-   "dividen tunai",
-   "Jasuindo Tiga Perkasa"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ee4c0b6fd_94d11c279c.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "arii-jawab-bei-pmthmetd-rp75-m-untuk-jalan-tambang-mmj",
-  "category": "Aksi Korporasi",
-  "title": "ARII Jawab BEI: [PMTHMETD] Rp75 M untuk Jalan Tambang MMJ",
-  "deck": "Atlas Resources (ARII) merinci ke BEI bahwa dana PMTHMETD 375 juta saham akan dipakai membangun jalan angkut batu bara 52 km milik anak usahanya, tapi banyak detail investasi masih belum final.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARII",
-   "PMTHMETD",
-   "RUPSLB",
-   "Musi Mitra Jaya"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/97a0212d12_81be2897dd.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-bmhs-24-november-laba-bersih-9m26-turun-95",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BMHS 24 November: [Laba] Bersih 9M26 Turun 95%",
-  "deck": "BMHS gelar public expose tahunan 24 November 2026: laba bersih 9M26 ambrol 95 persen meski ekspansi rumah sakit terus berjalan.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BMHS",
-   "Bundamedik",
-   "Public Expose",
-   "Laba Bersih"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/5ba6893f23_4e3343c5be.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "fifa-dana-obligasi-orange-i-rp187-23-miliar-terealisasi-100",
-  "category": "Aksi Korporasi",
-  "title": "FIFA: Dana Obligasi Orange I Rp187,23 Miliar [Terealisasi] 100%",
-  "deck": "PT Federal International Finance (FIFA) melaporkan seluruh dana Rp187,23 miliar dari Obligasi Orange I Tahap I 2026 telah terpakai untuk modal kerja pembiayaan, tanpa sisa dana.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "FIFA",
-   "obligasi",
-   "penggunaan dana",
-   "FIF Group"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/aa8f830e9b_996bc05285.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "msie-koreksi-free-float-ke-bursa-ungkap-afiliasi-pengendali",
-  "category": "Aksi Korporasi",
-  "title": "MSIE Koreksi [Free Float] ke Bursa, Ungkap Afiliasi Pengendali",
-  "deck": "MSIE mengakui salah hitung free float dan membenarkan saham Komisaris dari 1.252.300 jadi 1.250.000, menyusul permintaan penjelasan Bursa atas LBRPE September-Oktober 2026.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "MSIE",
-   "Free Float",
-   "Pemegang Saham",
-   "Bursa Efek Indonesia"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/175a07a740_a81a43991a.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "bike-akuisisi-3-anak-usaha-rp0-minta-bursa-buka-suspensi",
-  "category": "Aksi Korporasi",
-  "title": "BIKE: [Akuisisi] 3 Anak Usaha Rp0, Minta Bursa Buka Suspensi",
-  "deck": "BIKE mengoreksi surat ke bursa, merinci akuisisi tiga anak usaha senilai Rp0 dan berharap suspensi sahamnya dibuka.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BIKE",
-   "akuisisi",
-   "suspensi saham",
-   "entitas anak"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/551c5bdcc1_03d77313d0.pdf",
-  "sourceLabel": "IDX"
  }
 ];

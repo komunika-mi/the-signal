@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "kppu-duga-geo-energy-terlambat-lapor-akuisisi-golden-eagle",
+  "category": "Energi",
+  "title": "KPPU Duga Geo Energy [Terlambat] Lapor Akuisisi Golden Eagle",
+  "deck": "KPPU menduga PT Geo Energy Investama terlambat 41 hari kerja melaporkan pengambilalihan 58,65 persen saham PT Golden Eagle Energy Tbk; sidang lanjutan dijadwalkan 15 Desember 2026.",
+  "date": "27 November 2026",
+  "image": "assets/img/spbu-bbm.jpg",
+  "tags": [
+   "KPPU",
+   "akuisisi",
+   "Geo Energy Investama",
+   "Golden Eagle Energy"
+  ],
+  "sourceUrl": "https://kppu.go.id/berita/kppu-duga-geo-energy-investama-terlambat-41-hari-kerja-laporkan-akuisisi-golden-eagle-energy",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-stabil-di-rp2-501-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Hari Ini [Stabil] di Rp2.501.000/Gram",
+  "deck": "Harga emas Antam 27 November 2026 bertahan di Rp2.501.000 per gram, sementara harga buyback naik tipis Rp3.000 per gram.",
+  "date": "27 November 2026",
+  "image": "assets/img/harga-emas-antam-hari-ini-stabil-di-rp2-501-000-gram.jpg",
+  "imageV": "mwyfvdf5",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "pajak emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480597-harga-emas-antam-hari-ini-27-november-2026-stabil-di-angka-rp2501000-per-gram"
+ },
+ {
   "slug": "akku-baja-fire-king-kpig-disuspensi-27-november-free-float",
   "category": "Aksi Korporasi",
   "title": "AKKU, BAJA, FIRE, KING, KPIG Disuspensi 27 November: [Free Float]",
@@ -6458,40 +6491,6 @@ var ARTICLES = [
    "ekspansi bisnis"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261118214800-65819-0/FinancialStatement-2026-II-MENN.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa",
-  "category": "Industri",
-  "title": "KKP Terima Dokumen Awal Proyek Karbon [Biru] Lombok-Jawa",
-  "deck": "KKP menandatangani pernyataan bersama dengan dua perusahaan untuk menerima dokumen awal usulan proyek karbon biru di Lombok Timur dan Jawa, bukan persetujuan proyek.",
-  "date": "18 November 2026",
-  "image": "assets/img/kkp-terima-dokumen-awal-proyek-karbon-biru-lombok-jawa.jpg",
-  "imageV": "mwm75r52",
-  "tags": [
-   "karbon biru",
-   "KKP",
-   "COP31",
-   "mangrove"
-  ],
-  "kreditFoto": "Kementerian Kelautan dan Perikanan",
-  "sourceUrl": "https://kkp.go.id/news/news-detail/kkp-teken-pernyataan-bersama-pengembangan-karbon-biru-di-cop31-x2PJ.html",
-  "sourceLabel": "Kementerian Kelautan dan Perikanan"
- },
- {
-  "slug": "rupslb-arii-20-november-pmthmetd-375-juta-saham-diajukan",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB ARII 20 November: [PMTHMETD] 375 Juta Saham Diajukan",
-  "deck": "ARII akan menerbitkan hingga 375 juta saham baru atau 10 persen dari modal disetor untuk mendanai jalan angkut batu bara anak usahanya, RUPSLB digelar 20 November 2026.",
-  "date": "18 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "ARII",
-   "PMTHMETD",
-   "RUPSLB",
-   "Bank Mandiri"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/a146b1215a_7e8bd1042e.pdf",
   "sourceLabel": "IDX"
  }
 ];

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "uEIobRYTGGo",
+  "title": "Mustika Ratu Raih Penghargaan Pelopor Herbal dan Wellness Lokal",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Mustika Ratu dinobatkan sebagai Pelopor Inovasi Produk Herbal dan Wellness Berbasis Kearifan Lokal Indonesia dalam ajang Anugerah Hidup Sehat.",
+  "takeaway": "Penghargaan ini menandai posisi Mustika Ratu di industri kosmetik dan wellness berbasis bahan lokal yang terus berkembang di pasar domestik."
+ },
+ {
+  "id": "sXXV0XbnOu0",
+  "title": "Ketua Kadin Raih Penghargaan Entrepreneur Philanthropist Asia",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Anindya Bakrie, CEO PT Bakrie & Brothers sekaligus Ketua Umum Kadin Indonesia, menerima penghargaan Asia's Best Entrepreneur Philanthropist 2026 di Malaysia.",
+  "takeaway": "Relevan bagi pembaca bisnis karena menyoroti peran pimpinan Kadin Indonesia dalam kewirausahaan dan filantropi di tingkat regional."
+ },
+ {
   "id": "mzaN3oLlDdA",
   "title": "AS Naikkan Tarif Dagang Indonesia Jadi 18 Persen, 13 Negara Lain Kena",
   "category": "Global",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "OneNews Update",
   "summary": "Presiden Prabowo Subianto menyaksikan penandatanganan sejumlah nota kesepahaman dengan China yang memperkuat komitmen investasi senilai Rp1.310 triliun dalam rangkaian kunjungan kenegaraan ke China.",
   "takeaway": "Komitmen investasi sebesar itu layak disimak karena berpotensi mendorong penciptaan lapangan kerja dan pertumbuhan ekonomi dalam negeri."
- },
- {
-  "id": "vcub_pEBg1A",
-  "title": "Polda Kalsel Gelar Job Fair, Ratusan Lowongan Kerja Ditawarkan",
-  "category": "Ketenagakerjaan",
-  "program": "AKIS tvOne",
-  "summary": "Polda Kalimantan Selatan menggelar Job Fair 2026 di Gedung SDC Polda Kalsel pada Rabu (18/11/2026), menawarkan ratusan lowongan kerja bagi warga Banjarbaru dan sekitarnya yang mencari pekerjaan.",
-  "takeaway": "Job fair ini mencerminkan dinamika pasar tenaga kerja daerah dan upaya penyerapan angkatan kerja yang relevan bagi pembaca ekonomi."
- },
- {
-  "id": "M8aj4CdkamU",
-  "title": "Wapres Baru Dinanti, Apa Efeknya Bagi Ekonomi?",
-  "category": "Makroekonomi",
-  "program": "Indonesia Business Forum",
-  "summary": "Proses pengisian kursi wakil presiden menjelang pelantikan 9 Desember 2026 dibahas dari sisi dampaknya terhadap arah perekonomian dan sentimen pasar domestik.",
-  "takeaway": "Transisi kepemimpinan di jajaran eksekutif kerap memengaruhi persepsi pelaku pasar, sehingga relevan dipantau pembaca ekonomi."
  }
 ];

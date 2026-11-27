@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "kppu-duga-geo-energy-terlambat-lapor-akuisisi-golden-eagle",
+  "category": "Energi",
+  "title": "KPPU Duga Geo Energy [Terlambat] Lapor Akuisisi Golden Eagle",
+  "deck": "KPPU menduga PT Geo Energy Investama terlambat 41 hari kerja melaporkan pengambilalihan 58,65 persen saham PT Golden Eagle Energy Tbk; sidang lanjutan dijadwalkan 15 Desember 2026.",
+  "image": "assets/img/spbu-bbm.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T03:41:28.360Z",
+  "sourceUrl": "https://kppu.go.id/berita/kppu-duga-geo-energy-investama-terlambat-41-hari-kerja-laporkan-akuisisi-golden-eagle-energy",
+  "sourceLabel": "Komisi Pengawas Persaingan Usaha",
+  "tags": [
+   "KPPU",
+   "akuisisi",
+   "Geo Energy Investama",
+   "Golden Eagle Energy"
+  ],
+  "body": [
+   "Komisi Pengawas Persaingan Usaha (KPPU) menduga PT Geo Energy Investama terlambat melaporkan pengambilalihan saham PT Golden Eagle Energy Tbk kepada otoritas. Dugaan ini dipaparkan investigator KPPU dalam sidang perdana di Jakarta, Kamis, 26 November 2026. Kasus ini penting karena menyangkut kewajiban pelaku usaha melaporkan setiap akuisisi besar, aturan yang dirancang agar KPPU bisa menilai dampaknya terhadap persaingan usaha sejak dini.",
+   "Transaksi yang dipermasalahkan terjadi pada 20 Oktober 2023, ketika Geo Energy Investama mengambil alih 1.847.530.695 saham Golden Eagle Energy, setara 58,65 persen dari seluruh saham perusahaan itu. Nilai gabungan aset kedua perusahaan di Indonesia pada 2022 tercatat sekitar Rp10,04 triliun, jauh di atas ambang Rp2,5 triliun yang mewajibkan pelaporan. Nilai penjualan gabungan keduanya juga mencapai sekitar Rp12,59 triliun, melampaui ambang Rp5 triliun untuk kategori itu. Karena dua syarat tersebut terpenuhi, transaksi ini wajib diberitahukan ke KPPU, bukan opsional.",
+   "Berdasarkan Pasal 29 UU Nomor 5 Tahun 1999 dan Pasal 5 PP Nomor 57 Tahun 2010, pemberitahuan tertulis harus disampaikan paling lambat 30 hari kerja sejak pengambilalihan berlaku efektif, sehingga batas waktunya jatuh pada 30 November 2023. Geo Energy Investama baru menyampaikan pemberitahuan pada 31 Januari 2024, atau molor 41 hari kerja dari jadwal. Investigator juga menyimpulkan transaksi ini tidak termasuk pengecualian pelaporan, karena sebelum akuisisi kedua perusahaan tidak memiliki hubungan kepemilikan atau pengurus yang membuat mereka terafiliasi.",
+   "Sidang kali ini baru membahas pemaparan laporan dugaan pelanggaran serta pengecekan alat bukti pendukung. Pihak yang diperiksa sudah diberi kesempatan memeriksa bukti yang disusun investigator, dan sidang berikutnya dijadwalkan pada Selasa, 15 Desember 2026 untuk mendengarkan tanggapan resmi Geo Energy Investama atas tuduhan tersebut."
+  ],
+  "fotoAdegan": "Wide shot of a coal stockpile and conveyor belt at a mining port, heavy equipment in the background, overcast sky",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Perubahan konkret di sini bukan soal bisnis kedua perusahaan, melainkan soal kepatuhan administratif, yaitu dugaan penundaan 41 hari kerja dalam melaporkan sebuah akuisisi dengan nilai aset gabungan lebih dari Rp10 triliun. Yang langsung terdampak adalah PT Geo Energy Investama sebagai pihak yang diperiksa, sementara PT Golden Eagle Energy Tbk berstatus objek akuisisi, bukan pihak yang dipersalahkan. Proses ini masih di tahap awal, investigator baru memaparkan dugaan dan bukti, dan pihak yang diperiksa belum memberikan tanggapan resminya. Yang masih kurang untuk mengetahui ke mana kasus ini bergerak, apakah berujung sanksi denda administratif atau tidak, adalah tanggapan Geo Energy Investama dalam sidang 15 Desember 2026 serta putusan akhir Majelis Komisi setelah proses pembuktian selesai."
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-stabil-di-rp2-501-000-gram",
+  "category": "Pasar Modal",
+  "title": "Harga Emas Antam Hari Ini [Stabil] di Rp2.501.000/Gram",
+  "deck": "Harga emas Antam 27 November 2026 bertahan di Rp2.501.000 per gram, sementara harga buyback naik tipis Rp3.000 per gram.",
+  "image": "assets/img/harga-emas-antam-hari-ini-stabil-di-rp2-501-000-gram.jpg",
+  "date": "27 November 2026",
+  "isoDate": "2026-11-27T09:49:41+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480597-harga-emas-antam-hari-ini-27-november-2026-stabil-di-angka-rp2501000-per-gram",
+  "tags": [
+   "emas antam",
+   "harga emas",
+   "buyback emas",
+   "pajak emas"
+  ],
+  "body": [
+   "Harga emas batangan Antam hari ini, 27 November 2026, tidak bergerak dari posisi sebelumnya dan bertahan di Rp2.501.000 per gram, berdasarkan data yang dipantau dari laman resmi Logam Mulia. Bagi masyarakat yang berencana membeli emas batangan sebagai simpanan, ini berarti harga jual resmi Antam masih sama seperti hari sebelumnya.",
+   "Yang justru bergerak adalah harga buyback, yaitu harga yang didapat pemilik emas Antam ketika menjualnya kembali ke Antam. Harga ini naik tipis Rp3.000, dari Rp2.111.000 per gram menjadi Rp2.114.000 per gram. Dengan begitu, selisih antara harga jual dan harga beli kembali masih cukup lebar, sekitar Rp387.000 per gram, yang merupakan bagian dari margin yang diambil Antam dalam setiap transaksi.",
+   "Ada juga ketentuan pajak yang perlu diperhatikan baik oleh pembeli maupun penjual emas Antam. Untuk transaksi buyback dengan nilai di atas Rp10 juta, pemerintah mengenakan PPh Pasal 22 sebesar 1,5 persen, yang langsung dipotong dari nilai transaksi saat pencairan dana. Sementara itu, pembelian emas Antam baru dikenakan pajak sebesar 0,25 persen dari harga dasar yang tercantum di laman resmi Logam Mulia.",
+   "Antam sendiri mengingatkan bahwa harga emas batangan ini bisa berubah sewaktu-waktu mengikuti kondisi pasar, sehingga angka yang tercatat hari ini belum tentu sama dengan besok."
+  ],
+  "fotoAdegan": "Close-up of gold bullion bars arranged inside a glass display case at a jewelry counter, soft indoor lighting",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/07/15/6a571b53c9e3e-ilustrasi-emas_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah hari ini sebenarnya kecil, harga jual Antam diam di tempat, sementara harga buyback cuma naik Rp3.000 per gram. Yang langsung kena dampaknya adalah orang yang kebetulan mau menjual emas Antamnya hari ini, karena mereka dapat sedikit lebih banyak uang dibanding kemarin, sementara calon pembeli baru tidak terpengaruh sama sekali sebab harga jual tidak berubah. Pergerakan sekecil ini belum bisa disebut tren naik atau turun, jadi belum bisa dibaca ke mana arah harga emas Antam selanjutnya. Yang masih kurang untuk membaca arahnya adalah data pergerakan harga emas dunia dan harga Antam dalam beberapa hari ke depan, karena arah sebenarnya baru terlihat kalau kenaikan kecil seperti ini berulang beberapa hari berturut-turut.",
+  "imageV": "mwyfvdf5"
+ },
+ {
   "slug": "akku-baja-fire-king-kpig-disuspensi-27-november-free-float",
   "category": "Aksi Korporasi",
   "title": "AKKU, BAJA, FIRE, KING, KPIG Disuspensi 27 November: [Free Float]",
@@ -93389,7 +93443,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Pemerintah Kejar Tambahan [100 Gigawatt] Pembangkit Listrik",
   "deck": "Menko Airlangga sebut kapasitas pembangkit listrik perlu naik hingga 100 gigawatt untuk mendukung target investasi Rp2.218-2.258 triliun demi pertumbuhan ekonomi 6 persen pada 2027.",
-  "image": "assets/img/spbu-bbm.jpg",
+  "image": "assets/img/kilang-minyak.jpg",
   "date": "29 September 2026",
   "isoDate": "2026-09-29T10:09:53.730Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7116/menko-airlangga-green-energy-dan-digital-development-jadi-twin-engine-pertumbuhan-ekonomi",
@@ -114707,7 +114761,7 @@ var ARTICLES = [
   "category": "Energi",
   "title": "Bioetanol Lampung Ditarget Produksi [Desember 2026]",
   "deck": "Kementerian Investasi/BKPM, Pertamina, dan Toyota membangun pusat pengembangan bioetanol di Lampung, kapasitas awal 60 kiloliter, target produksi Desember 2026.",
-  "image": "assets/img/kilang-minyak.jpg",
+  "image": "assets/img/truk-tangki-bbm.jpg",
   "date": "15 September 2026",
   "isoDate": "2026-09-15T11:38:41.568Z",
   "sourceUrl": "https://bkpm.go.id/id/info/siaran-pers/wamen-todotua-resmikan-peluncuran-bioethanol-development-center-di-lampung",

@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "uEIobRYTGGo",
+  "title": "Mustika Ratu Raih Penghargaan Pelopor Herbal dan Wellness Lokal",
+  "category": "Industri",
+  "program": "tvOneNews",
+  "summary": "Mustika Ratu dinobatkan sebagai Pelopor Inovasi Produk Herbal dan Wellness Berbasis Kearifan Lokal Indonesia dalam ajang Anugerah Hidup Sehat.",
+  "takeaway": "Penghargaan ini menandai posisi Mustika Ratu di industri kosmetik dan wellness berbasis bahan lokal yang terus berkembang di pasar domestik.",
+  "terbit": "2026-11-27T02:00:39+00:00"
+ },
+ {
+  "id": "sXXV0XbnOu0",
+  "title": "Ketua Kadin Raih Penghargaan Entrepreneur Philanthropist Asia",
+  "category": "Bisnis",
+  "program": "Kabar Pagi",
+  "summary": "Anindya Bakrie, CEO PT Bakrie & Brothers sekaligus Ketua Umum Kadin Indonesia, menerima penghargaan Asia's Best Entrepreneur Philanthropist 2026 di Malaysia.",
+  "takeaway": "Relevan bagi pembaca bisnis karena menyoroti peran pimpinan Kadin Indonesia dalam kewirausahaan dan filantropi di tingkat regional.",
+  "terbit": "2026-11-27T01:30:12+00:00"
+ },
+ {
   "id": "mzaN3oLlDdA",
   "title": "AS Naikkan Tarif Dagang Indonesia Jadi 18 Persen, 13 Negara Lain Kena",
   "category": "Global",

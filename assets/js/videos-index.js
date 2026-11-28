@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "MOnlTCXe47c",
+  "title": "Presiden Prabowo Subianto Hadiri Pertemuan Tahunan BI",
+  "category": "Moneter",
+  "program": "Kabar Pagi",
+  "summary": "Presiden Prabowo Subianto menghadiri Pertemuan Tahunan Bank Indonesia di kompleks Kantor Pusat BI, forum yang biasa menjadi acuan arah kebijakan moneter dan proyeksi ekonomi ke depan.",
+  "takeaway": "Kehadiran Presiden Prabowo Subianto di PTBI relevan bagi pembaca yang ingin membaca sinyal kebijakan moneter dan ekonomi makro tahun mendatang."
+ },
+ {
+  "id": "c5CGQcf6PxY",
+  "title": "Kadin Perkuat Digitalisasi UMKM di Jakarta Timur",
+  "category": "UMKM",
+  "program": "Kabar Pagi",
+  "summary": "Kadin Indonesia Jakarta Timur memperkuat digitalisasi UMKM agar pelaku usaha lebih mudah memperkenalkan produknya kepada masyarakat.",
+  "takeaway": "Upaya digitalisasi UMKM ini penting diikuti karena berkaitan langsung dengan daya saing usaha kecil di era ekonomi digital."
+ },
+ {
   "id": "XhxUgzEwn3c",
   "title": "AS-China Tegang soal Rencana Tarif Impor Baru Trump",
   "category": "Global",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "One On One",
   "summary": "Direktur Kepesertaan BPJS Kesehatan menjelaskan sebab defisit yang berulang selama tiga tahun terakhir, saat iuran yang terkumpul lebih kecil dari klaim manfaat yang dibayarkan.",
   "takeaway": "Penjelasan ini membantu pembaca memahami akar masalah defisit yang berpotensi memengaruhi besaran iuran ke depan."
- },
- {
-  "id": "PF69eIXAo8o",
-  "title": "DJPb Kawal Triliunan Uang Negara, Ini Fokus Menuju 2027",
-  "category": "Makroekonomi",
-  "program": "tvOneNews",
-  "summary": "Direktorat Jenderal Perbendaharaan memaparkan fokus pengelolaan keuangan negara menjelang tahun anggaran 2027, menyoroti tata kelola yang tertib dan akuntabel di penghujung 2026.",
-  "takeaway": "Relevan bagi pembaca yang mengikuti arah kebijakan fiskal dan pengelolaan APBN menjelang tahun anggaran baru."
- },
- {
-  "id": "YKDMJlC7mJY",
-  "title": "UMP DKI Jakarta 2027 Resmi Ditetapkan Rp6,13 Juta",
-  "category": "Ketenagakerjaan",
-  "program": "OneNews Update",
-  "summary": "Gubernur DKI Jakarta Pramono Anung menetapkan Upah Minimum Provinsi 2027 sebesar Rp6,13 juta melalui Keputusan Gubernur Nomor 1270 Tahun 2026.",
-  "takeaway": "Penetapan UMP berdampak langsung pada daya beli pekerja dan struktur biaya tenaga kerja perusahaan di Jakarta."
  }
 ];

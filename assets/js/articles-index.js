@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "pemerintah-konsolidasi-5-kementerian-buka-jalan-bebas-tarif-ke-ue",
+  "category": "Global",
+  "title": "Pemerintah Konsolidasi 5 Kementerian, Buka Jalan [Bebas Tarif] ke UE",
+  "deck": "Kemenko Perekonomian mengonsolidasikan lima kementerian menyusul Perpres 98/2026, sembari mengamankan bebas tarif ekspor ke Uni Eropa dan pengecualian tarif AS untuk ribuan produk.",
+  "date": "28 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Tarif AS",
+   "CPTPP",
+   "Perpres 98/2026"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7258/tindak-lanjuti-perpres-no-982026-menko-airlangga-konsolidasikan-lima-kementerian-percepat-transformasi-ekonomi-dan-perluas-akses-pasar-global",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
   "slug": "kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir",
   "category": "UMKM",
   "title": "Kemendag Gandeng UI Latih Mahasiswa Jadi [Eksportir]",
@@ -353,7 +369,7 @@ var ARTICLES = [
   "title": "Dagang RI-UEA Tembus US$5,1 Miliar, [Naik] 14 Persen",
   "deck": "Di usia 50 tahun hubungan diplomatik, nilai dagang Indonesia-UEA naik ditopang perjanjian dagang CEPA, sementara investasi UEA ke Indonesia masih tergolong kecil.",
   "date": "27 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "Indonesia-UEA",
    "CEPA",
@@ -2451,7 +2467,7 @@ var ARTICLES = [
   "title": "RI Kejar Keanggotaan [OECD], Sekjen Cormann ke Jakarta",
   "deck": "Sekretaris Jenderal OECD Mathias Cormann berkunjung ke Jakarta 25-26 November untuk mengecek proses aksesi Indonesia yang kini memasuki pembahasan teknis di 25 bidang.",
   "date": "24 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "OECD",
    "Aksesi OECD",
@@ -2885,7 +2901,7 @@ var ARTICLES = [
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
   "deck": "Indonesia mendorong perjanjian dagang komprehensif dengan Inggris menjelang berakhirnya fasilitas tarif preferensi UK-DCTS pada 2027.",
   "date": "24 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Perdagangan",
@@ -3305,7 +3321,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan perjanjian investasi di Brussels, membuka tarif nol persen untuk 90,4 persen produk Indonesia ke pasar 450 juta penduduk Eropa.",
   "date": "23 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4569,7 +4585,7 @@ var ARTICLES = [
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
   "date": "22 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4653,7 +4669,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -5130,7 +5146,7 @@ var ARTICLES = [
   "title": "Jelang Teken IEU-CEPA, RI-UE Bahas [Implementasi]",
   "deck": "Indonesia dan Uni Eropa memastikan kesiapan implementasi IEU-CEPA menjelang penandatanganan perjanjian di Brussels, 21 November 2026, termasuk target penerapan sementara awal 2027.",
   "date": "21 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -5583,7 +5599,7 @@ var ARTICLES = [
   "title": "RI dan Uni Eropa [Teken] Perjanjian Dagang CEPA",
   "deck": "Mendag Busan bertolak ke Brussels menandatangani I-EU CEPA dan perjanjian investasi, bagian dari upaya memperluas akses pasar Indonesia ke Uni Eropa.",
   "date": "20 November 2026",
-  "image": "assets/img/12-proyek-lrt-city-dilanjutkan-danantara-kucurkan-rp456-m.jpg",
+  "image": "assets/img/14-produsen-pangan-ri-teken-mou-ekspor-potensi-us-25-2-juta.jpg",
   "tags": [
    "I-EU CEPA",
    "Uni Eropa",
@@ -6476,22 +6492,6 @@ var ARTICLES = [
    "Transaksi Material"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d509c5935_6a086cd55e.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "public-expose-blue-24-november-laba-turun-5-pendapatan-naik-5-6",
-  "category": "Aksi Korporasi",
-  "title": "Public Expose BLUE 24 November: Tekanan Margin Disebut [Struktural]",
-  "deck": "Hasil public expose BLUE 24 November 2026: manajemen sebut tekanan margin bersifat struktural, sementara negosiasi akuisisi oleh Huayou Group masih berlangsung tanpa linimasa.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "BLUE",
-   "Public Expose",
-   "Akuisisi Huayou",
-   "Free Float"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/f598dc436e_1bc28a2bf9.pdf",
   "sourceLabel": "IDX"
  }
 ];

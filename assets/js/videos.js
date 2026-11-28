@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "MOnlTCXe47c",
+  "title": "Presiden Prabowo Subianto Hadiri Pertemuan Tahunan BI",
+  "category": "Moneter",
+  "program": "Kabar Pagi",
+  "summary": "Presiden Prabowo Subianto menghadiri Pertemuan Tahunan Bank Indonesia di kompleks Kantor Pusat BI, forum yang biasa menjadi acuan arah kebijakan moneter dan proyeksi ekonomi ke depan.",
+  "takeaway": "Kehadiran Presiden Prabowo Subianto di PTBI relevan bagi pembaca yang ingin membaca sinyal kebijakan moneter dan ekonomi makro tahun mendatang.",
+  "terbit": "2026-11-28T01:38:21+00:00"
+ },
+ {
+  "id": "c5CGQcf6PxY",
+  "title": "Kadin Perkuat Digitalisasi UMKM di Jakarta Timur",
+  "category": "UMKM",
+  "program": "Kabar Pagi",
+  "summary": "Kadin Indonesia Jakarta Timur memperkuat digitalisasi UMKM agar pelaku usaha lebih mudah memperkenalkan produknya kepada masyarakat.",
+  "takeaway": "Upaya digitalisasi UMKM ini penting diikuti karena berkaitan langsung dengan daya saing usaha kecil di era ekonomi digital.",
+  "terbit": "2026-11-28T01:27:13+00:00"
+ },
+ {
   "id": "XhxUgzEwn3c",
   "title": "AS-China Tegang soal Rencana Tarif Impor Baru Trump",
   "category": "Global",

@@ -3,6 +3,60 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "ri-uni-eropa-kejar-tenggat-ieu-cepa-sebelum-gsp-berakhir",
+  "category": "Global",
+  "title": "RI-Uni Eropa Kejar Tenggat [IEU-CEPA] Sebelum GSP Berakhir",
+  "deck": "Pemerintah menargetkan kesepakatan dagang IEU-CEPA berlaku 1 Januari 2027, menyusul berakhirnya fasilitas tarif preferensi GSP akhir tahun ini, dengan target nilai dagang naik ke US$60 miliar dalam tiga tahun.",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "date": "28 November 2026",
+  "isoDate": "2026-11-28T08:56:26.549Z",
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7259/menko-airlangga-dinamika-perdagangan-global-perkuat-momentum-penyelesaian-ieu-cepa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "GSP",
+   "Perdagangan"
+  ],
+  "body": [
+   "Pemerintah Indonesia menargetkan kesepakatan dagang komprehensif dengan Uni Eropa, Indonesia-European Union Comprehensive Economic Partnership Agreement (IEU-CEPA), resmi berlaku mulai 1 Januari 2027. Menteri Koordinator Bidang Perekonomian Airlangga Hartarto, dalam wawancara dengan Euronews, Jumat (27/11), menyebut percepatan ini penting karena fasilitas keringanan bea masuk Uni Eropa untuk produk Indonesia, Generalized Scheme of Preferences (GSP), akan berakhir pada penghujung tahun ini. Tanpa kelanjutan lewat IEU-CEPA, eksportir Indonesia berisiko menghadapi tarif lebih tinggi ke pasar Uni Eropa yang mencakup sekitar 730 juta penduduk.",
+   "Airlangga menjelaskan negosiasi substantif IEU-CEPA sudah selesai tahun lalu. Tahapan yang tersisa meliputi penyelarasan aspek hukum, penentuan naskah bahasa untuk disampaikan ke Parlemen Eropa, penyelesaian mekanisme penerapan, serta ratifikasi di DPR RI. Pemerintah menargetkan nilai perdagangan dengan Uni Eropa naik dari US$40 miliar menjadi US$60 miliar dalam tiga tahun ke depan. Ia juga menyebut proses ini berjalan bersamaan dengan negosiasi tarif Indonesia-Amerika Serikat, yang menurutnya turut mendorong percepatan penyelesaian kesepakatan dengan Uni Eropa.",
+   "Di luar IEU-CEPA, Indonesia dan Uni Eropa juga membahas dua isu terpisah. Pertama, aturan deforestasi Uni Eropa (EUDR), di mana Indonesia mendorong pengakuan sertifikasi sawit berkelanjutan versi dalam negeri, ISPO, dan versi global, RSPO, sebagai bagian pemenuhan syarat. Kedua, akses Uni Eropa terhadap bahan baku nikel olahan kasar (nickel pig iron) dan bahan setengah jadi untuk baterai, guna mendukung industri kendaraan listrik Eropa, dengan syarat disertai kesepakatan investasi yang saling menguntungkan. Airlangga juga menyebut Danantara Sumberdaya Indonesia bertugas menjaga harga ekspor mengacu pada standar internasional, untuk mencegah praktik banting harga lewat negara ketiga yang membuat pajak dan manfaat ekspor tidak optimal bagi Indonesia.",
+   "Soal peringatan lembaga indeks MSCI terhadap pasar modal Indonesia, Airlangga menyebutnya sebagai persoalan sentimen pasar, bukan cermin kondisi ekonomi secara keseluruhan, sembari menyebut reformasi keterbukaan pemilik manfaat akhir perusahaan (UBO) di Indonesia sudah mencakup kepemilikan saham hingga 1%. Ia juga menyebut komitmen investasi senilai hampir US$92 miliar yang disaksikan Presiden Prabowo Subianto dalam pertemuan APEC di Tiongkok, serta rencana forum investasi bersama Indonesia-Uni Eropa. Di sektor semikonduktor, Indonesia menjalin kerja sama dengan ARM Limited, perusahaan perancang arsitektur chip asal Inggris, dengan target mencetak 15.000 insinyur muda di bidang kecerdasan buatan dan semikonduktor serta pengadaan enam desain hak kekayaan intelektual (IP) semikonduktor."
+  ],
+  "fotoAdegan": "Cargo ship loaded with shipping containers departing an Indonesian export port, cranes and warehouses in the background, late afternoon light",
+  "fotoSumber": "",
+  "kreditFoto": "",
+  "takeaway": "Yang berubah konkret di sini adalah soal tenggat: fasilitas keringanan bea masuk Uni Eropa untuk produk Indonesia, GSP, berakhir akhir tahun ini, sementara kesepakatan penggantinya, IEU-CEPA, baru ditargetkan berlaku 1 Januari 2027 dan masih menunggu proses hukum serta ratifikasi di parlemen kedua pihak. Yang terdampak langsung adalah eksportir Indonesia yang selama ini menikmati tarif rendah ke pasar Uni Eropa, serta industri sawit dan nikel yang pembahasan aturannya disebut berjalan terpisah dan belum tuntas. Arahnya terlihat seperti perlombaan melawan waktu, pemerintah mendorong penyelesaian secepat mungkin agar tidak ada celah tanpa fasilitas tarif preferensi, dan dorongan ini makin kuat karena berbarengan dengan negosiasi tarif dengan Amerika Serikat. Yang perlu dipantau adalah apakah proses ratifikasi di Parlemen Eropa dan DPR benar-benar tuntas sebelum akhir tahun ini, karena jika molor, eksportir bisa terkena tarif lebih tinggi untuk sementara sebelum IEU-CEPA resmi berlaku.",
+  "fotoGagal": 1
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-rp2-514-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam Hari Ini [Rp2.514.000] per Gram",
+  "deck": "Harga emas batangan Antam tercatat Rp2.514.000 per gram pada Sabtu (28/11), sementara harga buyback berada di Rp2.171.000 per gram.",
+  "image": "assets/img/harga-emas-antam-hari-ini-rp2-514-000-per-gram.jpg",
+  "date": "28 November 2026",
+  "isoDate": "2026-11-28T15:02:21+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480816-harga-emas-antam-hari-ini-di-angka-rp2514000-per-gram",
+  "tags": [
+   "emas batangan",
+   "antam",
+   "harga emas",
+   "pajak emas"
+  ],
+  "body": [
+   "Harga emas batangan produksi PT Aneka Tambang (Antam) berada di Rp2.514.000 per gram pada Sabtu pagi, 28 November 2026, berdasarkan pantauan laman resmi Logam Mulia pukul 09.10 WIB. Patokan ini penting bagi siapa pun yang berencana membeli atau menjual emas fisik hari ini, karena harga logam mulia bisa berubah dalam hitungan jam mengikuti pergerakan pasar.",
+   "Di sisi lain, harga buyback atau beli kembali emas Antam tercatat Rp2.171.000 per gram, sekitar Rp343.000 lebih rendah dari harga jualnya. Selisih ini mencerminkan margin yang berlaku saat pemegang emas batangan mencairkan kembali logamnya ke Antam, dan perusahaan menegaskan kedua angka tersebut bisa berubah sewaktu-waktu.",
+   "Transaksi emas Antam juga tetap dikenai pajak sesuai aturan yang berlaku. Untuk pembelian, pembeli dipotong Pajak Penghasilan (PPh) Pasal 22 sebesar 0,25 persen dari harga dasar yang tercantum di laman resmi. Sementara itu, transaksi buyback dengan nilai di atas Rp10 juta dikenai PPh Pasal 22 sebesar 1,5 persen yang langsung dipotong dari total nilai transaksi saat pencairan."
+  ],
+  "fotoAdegan": "Rows of small gold bars arranged on a velvet tray inside a jewelry counter, soft indoor lighting, close framing",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/08/16/6a8149f3bd1a0-ilustrasi-emas-batangan_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah di sini hanya angka harian: harga jual emas Antam ada di Rp2.514.000 per gram dan harga belinya kembali di Rp2.171.000 per gram, dengan jarak sekitar Rp343.000 di antara keduanya. Angka ini langsung menyentuh siapa pun yang punya emas batangan dan berencana menjualnya hari ini, atau yang baru mau membeli, karena pajak pembelian maupun penjualan kembali sudah otomatis terpotong sesuai aturan yang disebutkan. Data ini belum memberi info berapa harga emas ini dibanding hari atau pekan sebelumnya, jadi belum bisa disimpulkan apakah harga sedang tren naik atau turun. Yang perlu dicek pembaca adalah pembaruan harga di hari-hari berikutnya atau pergerakan harga emas dunia, karena dari situ baru terlihat apakah perubahan hari ini bagian dari tren yang lebih panjang atau sekadar fluktuasi harian biasa.",
+  "imageV": "mx06m5m5"
+ },
+ {
   "slug": "dividen-interim-avia-rp5-miliar-dari-dextone-lemindo",
   "category": "Aksi Korporasi",
   "title": "[Dividen Interim] AVIA Rp5 Miliar dari Dextone Lemindo",
@@ -33,7 +87,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Pemerintah Konsolidasi 5 Kementerian, Buka Jalan [Bebas Tarif] ke UE",
   "deck": "Kemenko Perekonomian mengonsolidasikan lima kementerian menyusul Perpres 98/2026, sembari mengamankan bebas tarif ekspor ke Uni Eropa dan pengecualian tarif AS untuk ribuan produk.",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "date": "28 November 2026",
   "isoDate": "2026-11-28T02:07:12.956Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7258/tindak-lanjuti-perpres-no-982026-menko-airlangga-konsolidasikan-lima-kementerian-percepat-transformasi-ekonomi-dan-perluas-akses-pasar-global",
@@ -55,7 +109,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan paling konkret dari rapat ini bukan penggabungan kementerian itu sendiri, melainkan dua perjanjian dagang besar yang baru diteken, yaitu ASEAN DEFA pada 14 November dan IEU-CEPA pada 21 November. Lewat IEU-CEPA, Uni Eropa membuka hampir semua pos tarifnya sehingga sawit, kopi, kakao, perikanan, tekstil, alas kaki, dan furnitur Indonesia bisa masuk tanpa bea masuk, sementara pemerintah juga mengamankan bea masuk 0 persen untuk 2.273 jenis produk dari rencana kenaikan tarif Amerika Serikat. Yang paling terdampak adalah eksportir dan industri pengolahan di sektor-sektor tersebut, karena keuntungan tarif ini baru berlaku setelah proses ratifikasi selesai, bukan sejak tanggal penandatanganan. Pola ini mengarah ke strategi memperbanyak jalur ekspor di luar Amerika Serikat, lewat Uni Eropa dan proses masuk ke pakta dagang CPTPP yang baru disetujui 27 November, ketimbang bergantung pada hasil negosiasi tarif dengan AS. Yang akan memastikan arah ini adalah apakah IEU-CEPA benar diratifikasi sebelum 1 Januari 2027 seperti ditargetkan, karena tanggal itu bertepatan dengan berakhirnya fasilitas keringanan bea masuk AS yang disebut GSP pada 31 Desember, serta hasil dengar publik otoritas dagang AS pada 25 Januari 2027 soal usulan kenaikan tarif.",
-  "fotoGagal": 3
+  "fotoGagal": 4
  },
  {
   "slug": "kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir",
@@ -709,7 +763,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Dagang RI-UEA Tembus US$5,1 Miliar, [Naik] 14 Persen",
   "deck": "Di usia 50 tahun hubungan diplomatik, nilai dagang Indonesia-UEA naik ditopang perjanjian dagang CEPA, sementara investasi UEA ke Indonesia masih tergolong kecil.",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "date": "27 November 2026",
   "isoDate": "2026-11-27T09:08:19.225Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7256/pemerintah-jaga-kemitraan-dinamis-dengan-uni-emirat-arab-untuk-tingkatkan-kemakmuran-masyarakat-kedua-negara",
@@ -4730,7 +4784,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI Kejar Keanggotaan [OECD], Sekjen Cormann ke Jakarta",
   "deck": "Sekretaris Jenderal OECD Mathias Cormann berkunjung ke Jakarta 25-26 November untuk mengecek proses aksesi Indonesia yang kini memasuki pembahasan teknis di 25 bidang.",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "date": "24 November 2026",
   "isoDate": "2026-11-24T10:58:55.760Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7246/percepat-keanggotaan-penuh-oecd-sekjen-oecd-kunjungi-indonesia",
@@ -5650,7 +5704,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
   "deck": "Indonesia mendorong perjanjian dagang komprehensif dengan Inggris menjelang berakhirnya fasilitas tarif preferensi UK-DCTS pada 2027.",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "date": "24 November 2026",
   "isoDate": "2026-11-24T06:07:49.388Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7245/menko-airlangga-tegaskan-komitmen-indonesia-untuk-memperkuat-kemitraan-ekonomi-dengan-inggris",
@@ -6452,7 +6506,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan perjanjian investasi di Brussels, membuka tarif nol persen untuk 90,4 persen produk Indonesia ke pasar 450 juta penduduk Eropa.",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "date": "23 November 2026",
   "isoDate": "2026-11-23T12:37:53.658Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7242/menko-airlangga-bertemu-komisioner-perdagangan-komisi-eropa-matangkan-penandatanganan-dan-implementasi-ieu-cepa",
@@ -8989,7 +9043,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "date": "22 November 2026",
   "isoDate": "2026-11-22T09:07:48.514Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7239/ieu-cepa-bebaskan-tarif-lebih-dari-90-komoditas-dagang-produk-padat-karya-nikmati-bea-masuk-0-ke-uni-eropa",
@@ -9126,7 +9180,7 @@ var ARTICLES = [
   "category": "Global",
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/100-umkm-pangan-jabar-dilatih-ekspor-taiwan-jadi-target-baru.jpg",
   "date": "21 November 2026",
   "isoDate": "2026-11-21T16:11:04.019Z",
   "sourceUrl": "https://ekon.go.id/publikasi/detail/7238/indonesia-dan-uni-eropa-resmi-tanda-tangani-ieu-cepa-dan-ipa-perkuat-kerja-sama-perdagangan-dan-investasi-berkelanjutan",

@@ -4,6 +4,22 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "3VEkJbT_kY0",
+  "title": "Menteri Pertanian Tinjau Panen Beras Basmati di Bekasi",
+  "category": "Industri",
+  "program": "Breaking News",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman meninjau langsung panen komoditas beras basmati di Kabupaten Bekasi, Jawa Barat, sebagai bagian dari pemantauan produksi pangan dalam negeri.",
+  "takeaway": "Panen komoditas pangan seperti beras berkaitan erat dengan ketahanan pangan dan stabilitas harga yang relevan bagi pembaca ekonomi."
+ },
+ {
+  "id": "niyloO50EX8",
+  "title": "Pengiriman Server Nvidia ke Indonesia Tertahan",
+  "category": "Teknologi",
+  "program": "OneNews Update",
+  "summary": "Pengiriman server bertenaga chip Nvidia ke Indonesia dilaporkan tertahan setelah Nvidia meminta mitra manufakturnya menghentikan sementara distribusi ke sejumlah negara Asia.",
+  "takeaway": "Hambatan distribusi chip Nvidia berpotensi memengaruhi rencana investasi teknologi dan pembangunan infrastruktur digital di Indonesia."
+ },
+ {
   "id": "MOnlTCXe47c",
   "title": "Presiden Prabowo Subianto Hadiri Pertemuan Tahunan BI",
   "category": "Moneter",
@@ -466,21 +482,5 @@ var VIDEOS = [
   "program": "One On One",
   "summary": "Penerimaan iuran BPJS Kesehatan hingga September 2026 baru mencapai Rp118 triliun, sementara manfaat yang dibayarkan Rp132 triliun, sehingga muncul selisih Rp14 triliun.",
   "takeaway": "Defisit ini menyangkut beban fiskal dan keberlanjutan iuran jaminan kesehatan yang dibayar masyarakat dan dunia usaha."
- },
- {
-  "id": "Wa6YXowEsqI",
-  "title": "Isu BPJS Dihapus dan Dialihkan ke Klinik KDMP, Ini Jawabannya",
-  "category": "Makroekonomi",
-  "program": "One On One",
-  "summary": "BPJS Kesehatan merespons kabar rencana penghapusan program dan pengalihannya ke klinik KDMP, di tengah defisit iuran yang mencapai Rp14 triliun hingga September 2026.",
-  "takeaway": "Klarifikasi ini relevan karena menyangkut kepastian skema jaminan kesehatan yang dibiayai lewat iuran wajib pekerja dan pemberi kerja."
- },
- {
-  "id": "c1nD-DdVMT8",
-  "title": "Direktur BPJS Ungkap Alasan Defisit Kesehatan 3 Tahun Terakhir",
-  "category": "Makroekonomi",
-  "program": "One On One",
-  "summary": "Direktur Kepesertaan BPJS Kesehatan menjelaskan sebab defisit yang berulang selama tiga tahun terakhir, saat iuran yang terkumpul lebih kecil dari klaim manfaat yang dibayarkan.",
-  "takeaway": "Penjelasan ini membantu pembaca memahami akar masalah defisit yang berpotensi memengaruhi besaran iuran ke depan."
  }
 ];

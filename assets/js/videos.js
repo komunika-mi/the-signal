@@ -2,6 +2,24 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "3VEkJbT_kY0",
+  "title": "Menteri Pertanian Tinjau Panen Beras Basmati di Bekasi",
+  "category": "Industri",
+  "program": "Breaking News",
+  "summary": "Menteri Pertanian Andi Amran Sulaiman meninjau langsung panen komoditas beras basmati di Kabupaten Bekasi, Jawa Barat, sebagai bagian dari pemantauan produksi pangan dalam negeri.",
+  "takeaway": "Panen komoditas pangan seperti beras berkaitan erat dengan ketahanan pangan dan stabilitas harga yang relevan bagi pembaca ekonomi.",
+  "terbit": "2026-11-28T08:23:28+00:00"
+ },
+ {
+  "id": "niyloO50EX8",
+  "title": "Pengiriman Server Nvidia ke Indonesia Tertahan",
+  "category": "Teknologi",
+  "program": "OneNews Update",
+  "summary": "Pengiriman server bertenaga chip Nvidia ke Indonesia dilaporkan tertahan setelah Nvidia meminta mitra manufakturnya menghentikan sementara distribusi ke sejumlah negara Asia.",
+  "takeaway": "Hambatan distribusi chip Nvidia berpotensi memengaruhi rencana investasi teknologi dan pembangunan infrastruktur digital di Indonesia.",
+  "terbit": "2026-11-28T07:00:03+00:00"
+ },
+ {
   "id": "MOnlTCXe47c",
   "title": "Presiden Prabowo Subianto Hadiri Pertemuan Tahunan BI",
   "category": "Moneter",

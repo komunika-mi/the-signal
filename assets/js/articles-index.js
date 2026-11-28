@@ -5,6 +5,39 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "ri-uni-eropa-kejar-tenggat-ieu-cepa-sebelum-gsp-berakhir",
+  "category": "Global",
+  "title": "RI-Uni Eropa Kejar Tenggat [IEU-CEPA] Sebelum GSP Berakhir",
+  "deck": "Pemerintah menargetkan kesepakatan dagang IEU-CEPA berlaku 1 Januari 2027, menyusul berakhirnya fasilitas tarif preferensi GSP akhir tahun ini, dengan target nilai dagang naik ke US$60 miliar dalam tiga tahun.",
+  "date": "28 November 2026",
+  "image": "assets/img/global-pelabuhan.jpg",
+  "tags": [
+   "IEU-CEPA",
+   "Uni Eropa",
+   "GSP",
+   "Perdagangan"
+  ],
+  "sourceUrl": "https://ekon.go.id/publikasi/detail/7259/menko-airlangga-dinamika-perdagangan-global-perkuat-momentum-penyelesaian-ieu-cepa",
+  "sourceLabel": "Kementerian Koordinator Bidang Perekonomian"
+ },
+ {
+  "slug": "harga-emas-antam-hari-ini-rp2-514-000-per-gram",
+  "category": "Bisnis",
+  "title": "Harga Emas Antam Hari Ini [Rp2.514.000] per Gram",
+  "deck": "Harga emas batangan Antam tercatat Rp2.514.000 per gram pada Sabtu (28/11), sementara harga buyback berada di Rp2.171.000 per gram.",
+  "date": "28 November 2026",
+  "image": "assets/img/harga-emas-antam-hari-ini-rp2-514-000-per-gram.jpg",
+  "imageV": "mx06m5m5",
+  "tags": [
+   "emas batangan",
+   "antam",
+   "harga emas",
+   "pajak emas"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480816-harga-emas-antam-hari-ini-di-angka-rp2514000-per-gram"
+ },
+ {
   "slug": "dividen-interim-avia-rp5-miliar-dari-dextone-lemindo",
   "category": "Aksi Korporasi",
   "title": "[Dividen Interim] AVIA Rp5 Miliar dari Dextone Lemindo",
@@ -26,7 +59,7 @@ var ARTICLES = [
   "title": "Pemerintah Konsolidasi 5 Kementerian, Buka Jalan [Bebas Tarif] ke UE",
   "deck": "Kemenko Perekonomian mengonsolidasikan lima kementerian menyusul Perpres 98/2026, sembari mengamankan bebas tarif ekspor ke Uni Eropa dan pengecualian tarif AS untuk ribuan produk.",
   "date": "28 November 2026",
-  "image": "assets/img/global-pelabuhan.jpg",
+  "image": "assets/img/kapal-batubara.jpg",
   "tags": [
    "IEU-CEPA",
    "Tarif AS",
@@ -385,7 +418,7 @@ var ARTICLES = [
   "title": "Dagang RI-UEA Tembus US$5,1 Miliar, [Naik] 14 Persen",
   "deck": "Di usia 50 tahun hubungan diplomatik, nilai dagang Indonesia-UEA naik ditopang perjanjian dagang CEPA, sementara investasi UEA ke Indonesia masih tergolong kecil.",
   "date": "27 November 2026",
-  "image": "assets/img/kapal-batubara.jpg",
+  "image": "assets/img/tambang-mineral.jpg",
   "tags": [
    "Indonesia-UEA",
    "CEPA",
@@ -2483,7 +2516,7 @@ var ARTICLES = [
   "title": "RI Kejar Keanggotaan [OECD], Sekjen Cormann ke Jakarta",
   "deck": "Sekretaris Jenderal OECD Mathias Cormann berkunjung ke Jakarta 25-26 November untuk mengecek proses aksesi Indonesia yang kini memasuki pembahasan teknis di 25 bidang.",
   "date": "24 November 2026",
-  "image": "assets/img/tambang-mineral.jpg",
+  "image": "assets/img/moneter-bi.jpg",
   "tags": [
    "OECD",
    "Aksesi OECD",
@@ -2917,7 +2950,7 @@ var ARTICLES = [
   "title": "Indonesia-Inggris Jajaki [Perjanjian] Dagang Komprehensif",
   "deck": "Indonesia mendorong perjanjian dagang komprehensif dengan Inggris menjelang berakhirnya fasilitas tarif preferensi UK-DCTS pada 2027.",
   "date": "24 November 2026",
-  "image": "assets/img/moneter-bi.jpg",
+  "image": "assets/img/teknologi-logistik.jpg",
   "tags": [
    "Indonesia-Inggris",
    "Perdagangan",
@@ -3337,7 +3370,7 @@ var ARTICLES = [
   "title": "RI-Uni Eropa Teken [IEU-CEPA], Berlaku Sementara 2027",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan perjanjian investasi di Brussels, membuka tarif nol persen untuk 90,4 persen produk Indonesia ke pasar 450 juta penduduk Eropa.",
   "date": "23 November 2026",
-  "image": "assets/img/teknologi-logistik.jpg",
+  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4601,7 +4634,7 @@ var ARTICLES = [
   "title": "Indonesia-UE Teken IEU-CEPA, Tarif Ekspor Turun ke [Nol] Persen",
   "deck": "Indonesia dan Uni Eropa menandatangani perjanjian dagang IEU-CEPA yang menghapus tarif atas lebih dari 90 persen produk, berlaku efektif 1 Januari 2027 jika ratifikasi rampung tepat waktu.",
   "date": "22 November 2026",
-  "image": "assets/img/10-merek-kuliner-ri-teken-mou-ekspansi-ke-5-negara.jpg",
+  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -4685,7 +4718,7 @@ var ARTICLES = [
   "title": "Indonesia-Uni Eropa Resmi Teken [IEU-CEPA]",
   "deck": "Indonesia dan Uni Eropa menandatangani IEU-CEPA dan IPA di Brussels, membuka 90,4 persen pos tarif ekspor Indonesia ke Eropa menjadi nol persen.",
   "date": "21 November 2026",
-  "image": "assets/img/10-produk-umkm-pangan-tembus-rak-ritel-aeon.jpg",
+  "image": "assets/img/100-umkm-pangan-jabar-dilatih-ekspor-taiwan-jadi-target-baru.jpg",
   "tags": [
    "IEU-CEPA",
    "Uni Eropa",
@@ -6460,38 +6493,5 @@ var ARTICLES = [
   ],
   "kreditFoto": "tvOneNews",
   "sourceUrl": "https://www.tvonenews.com/ekonomi/479277-presiden-prabowo-hasilkan-kesepakatan-investasi-rp1584-triliun-dari-apec"
- },
- {
-  "slug": "belanja-di-shopee-kini-bisa-jadi-garudamiles",
-  "category": "Bisnis",
-  "title": "Belanja di Shopee Kini Bisa Jadi [GarudaMiles]",
-  "deck": "Shopee dan Garuda Indonesia meluncurkan program tukar poin belanja menjadi mil penerbangan, dengan kurs Rp10.000 belanja setara 1 Mil.",
-  "date": "19 November 2026",
-  "image": "assets/img/belanja-di-shopee-kini-bisa-jadi-garudamiles.jpg",
-  "imageV": "mwnlqq1a",
-  "tags": [
-   "shopee",
-   "garuda indonesia",
-   "garudamiles",
-   "loyalitas"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479276-shopee-gandeng-garuda-indonesia-belanja-produk-favorit-bisa-dapat-garudamiles"
- },
- {
-  "slug": "hgii-jawab-bei-dana-ipo-rp253-3-miliar-belum-terserap",
-  "category": "Aksi Korporasi",
-  "title": "HGII Jawab BEI: [Dana IPO] Rp253,3 Miliar Belum Terserap",
-  "deck": "HGII menjelaskan ke BEI bahwa dana IPO Rp254,2 miliar baru terserap 0,35%, sementara dua pembangkitnya yang sudah beroperasi masih jauh dari target produksi kontrak.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "HGII",
-   "realisasi dana IPO",
-   "energi terbarukan",
-   "PLTM"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e829f09294_0fca829bb7.pdf",
-  "sourceLabel": "IDX"
  }
 ];

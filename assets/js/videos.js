@@ -2,6 +2,15 @@
 // Dibuat otomatis oleh scripts/update-all.mjs - jangan diedit manual.
 var VIDEOS = [
  {
+  "id": "ezWMNA2SFaw",
+  "title": "Elon Musk Bagi-Bagi Saham SpaceX ke Anak-Anak di AS",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Elon Musk menjanjikan setiap anak di Amerika Serikat akan menerima dua lembar saham SpaceX. Pengumuman itu disampaikan lewat platform X pada Rabu, seperti dilaporkan Reuters.",
+  "takeaway": "Rencana pembagian saham oleh pendiri perusahaan swasta sebesar SpaceX relevan bagi pembaca ekonomi karena menyangkut struktur kepemilikan dan valuasi perusahaan tersebut.",
+  "terbit": "2026-11-28T11:30:33+00:00"
+ },
+ {
   "id": "3VEkJbT_kY0",
   "title": "Menteri Pertanian Tinjau Panen Beras Basmati di Bekasi",
   "category": "Industri",

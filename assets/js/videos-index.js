@@ -4,6 +4,14 @@
 // ukurannya tumbuh terus.
 var VIDEOS = [
  {
+  "id": "ezWMNA2SFaw",
+  "title": "Elon Musk Bagi-Bagi Saham SpaceX ke Anak-Anak di AS",
+  "category": "Pasar Modal",
+  "program": "OneNews Update",
+  "summary": "Elon Musk menjanjikan setiap anak di Amerika Serikat akan menerima dua lembar saham SpaceX. Pengumuman itu disampaikan lewat platform X pada Rabu, seperti dilaporkan Reuters.",
+  "takeaway": "Rencana pembagian saham oleh pendiri perusahaan swasta sebesar SpaceX relevan bagi pembaca ekonomi karena menyangkut struktur kepemilikan dan valuasi perusahaan tersebut."
+ },
+ {
   "id": "3VEkJbT_kY0",
   "title": "Menteri Pertanian Tinjau Panen Beras Basmati di Bekasi",
   "category": "Industri",
@@ -474,13 +482,5 @@ var VIDEOS = [
   "program": "Kabar Pagi",
   "summary": "KSPI menilai Upah Minimum Provinsi 2027 Jakarta belum cukup menutupi kebutuhan hidup layak pekerja, mengingat tingginya biaya hidup di Ibu Kota.",
   "takeaway": "Pandangan serikat pekerja ini memberi gambaran soal kesenjangan antara kebijakan pengupahan dan realitas biaya hidup pekerja."
- },
- {
-  "id": "IMV5WFy1DcQ",
-  "title": "Defisit BPJS Kesehatan, Siapa yang Menanggung?",
-  "category": "Makroekonomi",
-  "program": "One On One",
-  "summary": "Penerimaan iuran BPJS Kesehatan hingga September 2026 baru mencapai Rp118 triliun, sementara manfaat yang dibayarkan Rp132 triliun, sehingga muncul selisih Rp14 triliun.",
-  "takeaway": "Defisit ini menyangkut beban fiskal dan keberlanjutan iuran jaminan kesehatan yang dibayar masyarakat dan dunia usaha."
  }
 ];

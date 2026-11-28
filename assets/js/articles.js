@@ -28,7 +28,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah soal tenggat: fasilitas keringanan bea masuk Uni Eropa untuk produk Indonesia, GSP, berakhir akhir tahun ini, sementara kesepakatan penggantinya, IEU-CEPA, baru ditargetkan berlaku 1 Januari 2027 dan masih menunggu proses hukum serta ratifikasi di parlemen kedua pihak. Yang terdampak langsung adalah eksportir Indonesia yang selama ini menikmati tarif rendah ke pasar Uni Eropa, serta industri sawit dan nikel yang pembahasan aturannya disebut berjalan terpisah dan belum tuntas. Arahnya terlihat seperti perlombaan melawan waktu, pemerintah mendorong penyelesaian secepat mungkin agar tidak ada celah tanpa fasilitas tarif preferensi, dan dorongan ini makin kuat karena berbarengan dengan negosiasi tarif dengan Amerika Serikat. Yang perlu dipantau adalah apakah proses ratifikasi di Parlemen Eropa dan DPR benar-benar tuntas sebelum akhir tahun ini, karena jika molor, eksportir bisa terkena tarif lebih tinggi untuk sementara sebelum IEU-CEPA resmi berlaku.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "harga-emas-antam-hari-ini-rp2-514-000-per-gram",
@@ -109,7 +109,8 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan paling konkret dari rapat ini bukan penggabungan kementerian itu sendiri, melainkan dua perjanjian dagang besar yang baru diteken, yaitu ASEAN DEFA pada 14 November dan IEU-CEPA pada 21 November. Lewat IEU-CEPA, Uni Eropa membuka hampir semua pos tarifnya sehingga sawit, kopi, kakao, perikanan, tekstil, alas kaki, dan furnitur Indonesia bisa masuk tanpa bea masuk, sementara pemerintah juga mengamankan bea masuk 0 persen untuk 2.273 jenis produk dari rencana kenaikan tarif Amerika Serikat. Yang paling terdampak adalah eksportir dan industri pengolahan di sektor-sektor tersebut, karena keuntungan tarif ini baru berlaku setelah proses ratifikasi selesai, bukan sejak tanggal penandatanganan. Pola ini mengarah ke strategi memperbanyak jalur ekspor di luar Amerika Serikat, lewat Uni Eropa dan proses masuk ke pakta dagang CPTPP yang baru disetujui 27 November, ketimbang bergantung pada hasil negosiasi tarif dengan AS. Yang akan memastikan arah ini adalah apakah IEU-CEPA benar diratifikasi sebelum 1 Januari 2027 seperti ditargetkan, karena tanggal itu bertepatan dengan berakhirnya fasilitas keringanan bea masuk AS yang disebut GSP pada 31 Desember, serta hasil dengar publik otoritas dagang AS pada 25 Januari 2027 soal usulan kenaikan tarif.",
-  "fotoGagal": 4
+  "fotoGagal": 5,
+  "fotoDitolak": true
  },
  {
   "slug": "kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir",

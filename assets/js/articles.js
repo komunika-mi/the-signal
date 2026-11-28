@@ -55,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Perubahan paling konkret dari rapat ini bukan penggabungan kementerian itu sendiri, melainkan dua perjanjian dagang besar yang baru diteken, yaitu ASEAN DEFA pada 14 November dan IEU-CEPA pada 21 November. Lewat IEU-CEPA, Uni Eropa membuka hampir semua pos tarifnya sehingga sawit, kopi, kakao, perikanan, tekstil, alas kaki, dan furnitur Indonesia bisa masuk tanpa bea masuk, sementara pemerintah juga mengamankan bea masuk 0 persen untuk 2.273 jenis produk dari rencana kenaikan tarif Amerika Serikat. Yang paling terdampak adalah eksportir dan industri pengolahan di sektor-sektor tersebut, karena keuntungan tarif ini baru berlaku setelah proses ratifikasi selesai, bukan sejak tanggal penandatanganan. Pola ini mengarah ke strategi memperbanyak jalur ekspor di luar Amerika Serikat, lewat Uni Eropa dan proses masuk ke pakta dagang CPTPP yang baru disetujui 27 November, ketimbang bergantung pada hasil negosiasi tarif dengan AS. Yang akan memastikan arah ini adalah apakah IEU-CEPA benar diratifikasi sebelum 1 Januari 2027 seperti ditargetkan, karena tanggal itu bertepatan dengan berakhirnya fasilitas keringanan bea masuk AS yang disebut GSP pada 31 Desember, serta hasil dengar publik otoritas dagang AS pada 25 Januari 2027 soal usulan kenaikan tarif.",
-  "fotoGagal": 1
+  "fotoGagal": 2
  },
  {
   "slug": "kemendag-gandeng-ui-latih-mahasiswa-jadi-eksportir",

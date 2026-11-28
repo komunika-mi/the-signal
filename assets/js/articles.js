@@ -3,6 +3,33 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "airlangga-tarif-as-percepat-penyelesaian-ieu-cepa",
+  "category": "Global",
+  "title": "Airlangga: Tarif AS [Percepat] Penyelesaian IEU-CEPA",
+  "deck": "Menko Airlangga sebut tarif AS ikut mempercepat penyelesaian IEU-CEPA, sejalan dengan ratifikasi domestik sebelum fasilitas GSP Indonesia berakhir akhir tahun ini.",
+  "image": "assets/img/airlangga-tarif-as-percepat-penyelesaian-ieu-cepa.jpg",
+  "date": "28 November 2026",
+  "isoDate": "2026-11-28T20:00:51+07:00",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480861-menko-airlangga-sebut-kebijakan-tarif-as-dorong-percepatan-penyelesaian-ieu-cepa",
+  "tags": [
+   "IEU-CEPA",
+   "Airlangga Hartarto",
+   "tarif AS",
+   "GSP Uni Eropa"
+  ],
+  "body": [
+   "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyebut kebijakan tarif Amerika Serikat justru ikut mendorong Indonesia dan Uni Eropa mempercepat penyelesaian perundingan kerja sama dagang IEU-CEPA. Ini penting bagi pelaku usaha dalam negeri karena menyangkut kelanjutan akses pasar ekspor ke kawasan Eropa, apalagi fasilitas keringanan bea masuk yang selama ini dinikmati eksportir Indonesia akan berakhir pada penghujung tahun ini.",
+   "Airlangga menjelaskan bahwa perundingan kini memasuki tahap penyelarasan naskah hukum, penentuan versi bahasa yang akan diajukan ke Parlemen Eropa, serta penyusunan mekanisme pelaksanaannya. Bersamaan dengan itu, pemerintah Indonesia juga mengebut proses ratifikasi di dalam negeri karena fasilitas Generalized Scheme of Preferences, yaitu keringanan tarif yang diberikan Uni Eropa kepada negara berkembang seperti Indonesia, dijadwalkan habis akhir tahun ini. Target yang dipatok cukup besar, nilai dagang kedua pihak diharapkan naik dari US$40 miliar menjadi US$60 miliar dalam tiga tahun, dengan potensi pasar 730 juta penduduk Uni Eropa yang menurut Airlangga masih bisa digarap lebih jauh.",
+   "Di luar perundingan dagang utama, Indonesia dan Uni Eropa juga membahas aturan Eropa soal produk bebas deforestasi atau EUDR secara terpisah dari IEU-CEPA. Indonesia menyatakan siap memenuhi aturan tersebut, namun tetap mendorong agar sertifikasi sawit berkelanjutan versi nasional, ISPO, dan versi internasional, RSPO, diakui sebagai bukti kepatuhan. Pembahasan lain menyangkut akses bahan baku nikel olahan, yaitu nickel pig iron dan precursor, untuk kebutuhan industri baterai dan kendaraan listrik di Eropa, dengan catatan harus disertai kesepakatan investasi dan pengembangan industri yang saling menguntungkan.",
+   "Airlangga juga menyinggung peran PT Danantara Sumberdaya Indonesia dalam menjaga agar harga ekspor mengikuti acuan harga internasional, sejalan dengan standar yang dipakai Organisation for Economic Co-operation and Development untuk mencegah praktik banting harga ekspor demi menghindari pajak serta penumpukan keuntungan dagang di negara ketiga. Soal peringatan lembaga indeks MSCI terhadap pasar keuangan Indonesia, Airlangga menilai hal itu lebih merupakan sentimen pasar sesaat dan tidak otomatis menggambarkan kondisi fundamental ekonomi nasional secara keseluruhan."
+  ],
+  "fotoAdegan": "Container ships being loaded with cargo by tall cranes at a busy Indonesian seaport under hazy morning light",
+  "fotoSumber": "https://thumbs.tvonenews.com/thumbnail/2026/11/09/6af1a8798b7ce-menteri-koordinator-bidang-perekonomian-airlangga-hartarto_1200_675.jpg",
+  "kreditFoto": "tvOneNews",
+  "takeaway": "Yang berubah konkret: perundingan IEU-CEPA kini masuk tahap penyelarasan naskah hukum dan penentuan bahasa resmi untuk Parlemen Eropa, target dagang dipatok naik dari US$40 miliar ke US$60 miliar dalam tiga tahun, dan akses bahan baku nikel olahan ke Eropa mulai dikaitkan dengan syarat investasi balik dari Uni Eropa. Yang terdampak adalah eksportir Indonesia ke Uni Eropa, terutama sektor sawit dan nikel, sebab fasilitas keringanan bea masuk GSP yang mereka pakai selama ini berakhir akhir tahun ini sehingga mereka butuh payung pengganti secepatnya. Arahnya mengarah ke pola baru, perjanjian dagang besar dipakai sebagai alat tukar, akses bahan mentah ke Eropa dibuka dengan syarat ada komitmen investasi pabrik di dalam negeri, bukan sekadar pembukaan tarif timbal balik. Yang akan memastikan apakah target waktu ini realistis adalah apakah proses penyelarasan hukum dan ratifikasi domestik tuntas sebelum GSP benar-benar berakhir di akhir 2026, karena jika molor, eksportir menghadapi celah tanpa fasilitas keringanan tarif sama sekali.",
+  "imageV": "mx0hn8c4"
+ },
+ {
   "slug": "ri-uni-eropa-kejar-tenggat-ieu-cepa-sebelum-gsp-berakhir",
   "category": "Global",
   "title": "RI-Uni Eropa Kejar Tenggat [IEU-CEPA] Sebelum GSP Berakhir",
@@ -28,7 +55,7 @@ var ARTICLES = [
   "fotoSumber": "",
   "kreditFoto": "",
   "takeaway": "Yang berubah konkret di sini adalah soal tenggat: fasilitas keringanan bea masuk Uni Eropa untuk produk Indonesia, GSP, berakhir akhir tahun ini, sementara kesepakatan penggantinya, IEU-CEPA, baru ditargetkan berlaku 1 Januari 2027 dan masih menunggu proses hukum serta ratifikasi di parlemen kedua pihak. Yang terdampak langsung adalah eksportir Indonesia yang selama ini menikmati tarif rendah ke pasar Uni Eropa, serta industri sawit dan nikel yang pembahasan aturannya disebut berjalan terpisah dan belum tuntas. Arahnya terlihat seperti perlombaan melawan waktu, pemerintah mendorong penyelesaian secepat mungkin agar tidak ada celah tanpa fasilitas tarif preferensi, dan dorongan ini makin kuat karena berbarengan dengan negosiasi tarif dengan Amerika Serikat. Yang perlu dipantau adalah apakah proses ratifikasi di Parlemen Eropa dan DPR benar-benar tuntas sebelum akhir tahun ini, karena jika molor, eksportir bisa terkena tarif lebih tinggi untuk sementara sebelum IEU-CEPA resmi berlaku.",
-  "fotoGagal": 2
+  "fotoGagal": 3
  },
  {
   "slug": "harga-emas-antam-hari-ini-rp2-514-000-per-gram",

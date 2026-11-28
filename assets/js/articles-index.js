@@ -5,6 +5,23 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "airlangga-tarif-as-percepat-penyelesaian-ieu-cepa",
+  "category": "Global",
+  "title": "Airlangga: Tarif AS [Percepat] Penyelesaian IEU-CEPA",
+  "deck": "Menko Airlangga sebut tarif AS ikut mempercepat penyelesaian IEU-CEPA, sejalan dengan ratifikasi domestik sebelum fasilitas GSP Indonesia berakhir akhir tahun ini.",
+  "date": "28 November 2026",
+  "image": "assets/img/airlangga-tarif-as-percepat-penyelesaian-ieu-cepa.jpg",
+  "imageV": "mx0hn8c4",
+  "tags": [
+   "IEU-CEPA",
+   "Airlangga Hartarto",
+   "tarif AS",
+   "GSP Uni Eropa"
+  ],
+  "kreditFoto": "tvOneNews",
+  "sourceUrl": "https://www.tvonenews.com/ekonomi/480861-menko-airlangga-sebut-kebijakan-tarif-as-dorong-percepatan-penyelesaian-ieu-cepa"
+ },
+ {
   "slug": "ri-uni-eropa-kejar-tenggat-ieu-cepa-sebelum-gsp-berakhir",
   "category": "Global",
   "title": "RI-Uni Eropa Kejar Tenggat [IEU-CEPA] Sebelum GSP Berakhir",
@@ -6476,22 +6493,5 @@ var ARTICLES = [
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/006ce46e72_cf90890ba9.pdf",
   "sourceLabel": "IDX"
- },
- {
-  "slug": "presiden-prabowo-bawa-investasi-rp1-584-triliun-dari-apec",
-  "category": "Makroekonomi",
-  "title": "Presiden Prabowo Bawa Investasi [Rp1.584 Triliun] dari APEC",
-  "deck": "Presiden Prabowo Subianto akan menyaksikan penandatanganan investasi US$15 miliar di Shenzhen, menambah total potensi kerja sama ekonomi dari agenda APEC jadi sekitar Rp1.584 triliun.",
-  "date": "19 November 2026",
-  "image": "assets/img/presiden-prabowo-bawa-investasi-rp1-584-triliun-dari-apec.jpg",
-  "imageV": "mwnlqpo5",
-  "tags": [
-   "APEC",
-   "Investasi Asing",
-   "Presiden Prabowo",
-   "Shenzhen"
-  ],
-  "kreditFoto": "tvOneNews",
-  "sourceUrl": "https://www.tvonenews.com/ekonomi/479277-presiden-prabowo-hasilkan-kesepakatan-investasi-rp1584-triliun-dari-apec"
  }
 ];

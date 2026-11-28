@@ -3,6 +3,32 @@
 // Dibuat otomatis - jangan diedit manual.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-avia-rp5-miliar-dari-dextone-lemindo",
+  "category": "Aksi Korporasi",
+  "title": "[Dividen Interim] AVIA Rp5 Miliar dari Dextone Lemindo",
+  "deck": "PT Avia Avian Tbk menerima dividen interim Rp5 miliar dari Dextone Lemindo, perusahaan asosiasi yang 16,67 persen sahamnya dimiliki AVIA.",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "date": "28 November 2026",
+  "isoDate": "2026-11-28T09:44:36",
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261128_AVIA_E019_bfcda6b3-efe1-4d59-af69-7fbbe322d0d4-20261128094438.pdf",
+  "sourceLabel": "IDX",
+  "emiten": "AVIA",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "Dextone Lemindo",
+   "fakta material"
+  ],
+  "body": [
+   "PT Avia Avian Tbk (AVIA) melaporkan ke Otoritas Jasa Keuangan dan Bursa Efek Indonesia bahwa pada 27 November 2026 perusahaan menerima dividen interim sebesar Rp5 miliar. Dividen ini berasal dari laba tahun berjalan 2026 PT Dextone Lemindo, perusahaan yang 16,67 persen sahamnya dimiliki oleh AVIA.",
+   "Dalam laporan keterbukaan informasi bernomor 128/AA/CORSEC/XI/2026 itu, AVIA menyatakan bahwa penerimaan dividen tersebut tidak membawa dampak material terhadap kegiatan operasional, aspek hukum, kondisi keuangan, maupun kelangsungan usaha perseroan. Laporan ini disampaikan sebagai pemenuhan kewajiban keterbukaan informasi atau fakta material lainnya sesuai Peraturan OJK No. 31/POJK.04/2015 dan Peraturan Bursa Efek Indonesia No. I-E."
+  ],
+  "fotoAdegan": "Workers in protective gear stacking paint cans on pallets inside a large industrial warehouse, forklift passing by",
+  "takeaway": "Laporan ini netral bagi AVIA karena nilainya kecil, Rp5 miliar, dibandingkan skala usaha AVIA sebagai produsen cat besar, dan perseroan sendiri menegaskan tidak ada dampak material. Yang tersentuh hanya arus kas masuk dan pendapatan lain-lain dari investasi di Dextone, bukan laba dari bisnis utama cat dan tinta, karena kepemilikan 16,67 persen biasanya dicatat sebagai investasi biasa, bukan anak usaha yang labanya digabung langsung ke laporan keuangan AVIA. Dokumen ini tidak menyebut tanggal atau agenda lanjutan apa pun, jadi hal yang bisa dipantau pembaca adalah apakah tambahan pendapatan ini muncul di laporan keuangan kuartalan AVIA berikutnya.",
+  "sentimen": "netral",
+  "judulIdx": "Informasi atau Fakta Material lainnya"
+ },
+ {
   "slug": "pemerintah-konsolidasi-5-kementerian-buka-jalan-bebas-tarif-ke-ue",
   "category": "Global",
   "title": "Pemerintah Konsolidasi 5 Kementerian, Buka Jalan [Bebas Tarif] ke UE",

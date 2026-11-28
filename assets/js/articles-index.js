@@ -5,6 +5,22 @@
 // mengikuti arsip.
 var ARTICLES = [
  {
+  "slug": "dividen-interim-avia-rp5-miliar-dari-dextone-lemindo",
+  "category": "Aksi Korporasi",
+  "title": "[Dividen Interim] AVIA Rp5 Miliar dari Dextone Lemindo",
+  "deck": "PT Avia Avian Tbk menerima dividen interim Rp5 miliar dari Dextone Lemindo, perusahaan asosiasi yang 16,67 persen sahamnya dimiliki AVIA.",
+  "date": "28 November 2026",
+  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
+  "tags": [
+   "AVIA",
+   "dividen interim",
+   "Dextone Lemindo",
+   "fakta material"
+  ],
+  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/20261128_AVIA_E019_bfcda6b3-efe1-4d59-af69-7fbbe322d0d4-20261128094438.pdf",
+  "sourceLabel": "IDX"
+ },
+ {
   "slug": "pemerintah-konsolidasi-5-kementerian-buka-jalan-bebas-tarif-ke-ue",
   "category": "Global",
   "title": "Pemerintah Konsolidasi 5 Kementerian, Buka Jalan [Bebas Tarif] ke UE",
@@ -6476,22 +6492,6 @@ var ARTICLES = [
    "PLTM"
   ],
   "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/e829f09294_0fca829bb7.pdf",
-  "sourceLabel": "IDX"
- },
- {
-  "slug": "rupslb-inov-28-desember-dps-pemegang-saham-dicatat-3-desember",
-  "category": "Aksi Korporasi",
-  "title": "RUPSLB INOV 28 Desember: [Divestasi] Urecel Dinilai Rp258,16 Miliar",
-  "deck": "Penilai independen menaksir pelepasan 45,8 persen saham anak usaha Urecel ke CIP Capital senilai Rp258,16 miliar dan menyatakan transaksi itu wajar, menjelang RUPSLB 28 Desember 2026.",
-  "date": "19 November 2026",
-  "image": "assets/img/penanda-keterbukaan-bursa.jpg",
-  "tags": [
-   "INOV",
-   "RUPSLB",
-   "Divestasi Urecel",
-   "Transaksi Material"
-  ],
-  "sourceUrl": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202611/4d509c5935_6a086cd55e.pdf",
   "sourceLabel": "IDX"
  }
 ];
